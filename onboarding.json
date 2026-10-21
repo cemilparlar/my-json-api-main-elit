@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 15:23",
+  "updatedAt": "21.10.2026 15:42",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 391,
       "rate": 67.3
     },
-    "totalAnalyses": 141879,
+    "totalAnalyses": 141909,
     "leagues": 527,
     "pro": {
       "won": 30,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 22.2
     },
-    "analyses24h": 884,
-    "analyses30d": 18792
+    "analyses24h": 900,
+    "analyses30d": 18808
   },
   "recentWins": [
     {
@@ -283,6 +283,15 @@
       "picks": 2
     },
     {
+      "home": "Real Potosi",
+      "away": "Bolivar",
+      "league": "BOLPLK",
+      "date": "21.10.2026 22:30",
+      "patternScore": 71.87,
+      "patternText": "149.628/208.199",
+      "picks": 1
+    },
+    {
       "home": "Montrose Women",
       "away": "",
       "league": "İKPL1",
@@ -299,24 +308,29 @@
       "patternScore": 71.48,
       "patternText": "169.214/236.741",
       "picks": 1
-    },
-    {
-      "home": "CS Cartaginés",
-      "away": "Deportivo Olimpia",
-      "league": "CONOAK",
-      "date": "22.10.2026 02:30",
-      "patternScore": 71.36,
-      "patternText": "96.991/135.919",
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "SC Braga",
+      "away": "KAA Gent",
+      "league": "AVKL",
+      "at": "21.10.2026 15:29",
+      "count": 5
+    },
+    {
       "home": "Borac Banja Lu",
       "away": "Kuopion",
       "league": "AVKL",
-      "at": "21.10.2026 15:16",
-      "count": 7
+      "at": "21.10.2026 15:29",
+      "count": 8
+    },
+    {
+      "home": "Real Betis",
+      "away": "Feyenoord",
+      "league": "ŞMP",
+      "at": "21.10.2026 15:27",
+      "count": 18
     },
     {
       "home": "Bayern Munich",
@@ -366,20 +380,6 @@
       "league": "AVL",
       "at": "21.10.2026 14:46",
       "count": 6
-    },
-    {
-      "home": "Sporting CP",
-      "away": "LASK Linz",
-      "league": "ŞMP",
-      "at": "21.10.2026 14:45",
-      "count": 14
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "Fluminense FC",
-      "league": "LKU",
-      "at": "21.10.2026 14:21",
-      "count": 10
     }
   ],
   "paywall": {
