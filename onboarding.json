@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 22:17",
+  "updatedAt": "21.10.2026 22:32",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 215,
-      "lost": 97,
-      "total": 312,
-      "rate": 68.9
+      "won": 214,
+      "lost": 96,
+      "total": 310,
+      "rate": 69.0
     },
-    "totalAnalyses": 142157,
+    "totalAnalyses": 142172,
     "leagues": 527,
     "pro": {
       "won": 61,
@@ -47,8 +47,8 @@
       "total": 23,
       "rate": 43.5
     },
-    "analyses24h": 717,
-    "analyses30d": 18709
+    "analyses24h": 725,
+    "analyses30d": 18718
   },
   "recentWins": [
     {
@@ -262,24 +262,15 @@
     }
   ],
   "today": {
-    "home": "New York Cosmo",
-    "away": "Spokane Velocit",
-    "league": "USL1",
-    "date": "21.10.2026 23:00",
-    "patternScore": 72.04,
-    "patternText": "131.609/182.700",
-    "picks": 1
+    "home": "Atlas FC",
+    "away": "Club America",
+    "league": "MEK",
+    "date": "22.10.2026 01:00",
+    "patternScore": 71.87,
+    "patternText": "91.200/126.895",
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "New York Cosmo",
-      "away": "Spokane Velocit",
-      "league": "USL1",
-      "date": "21.10.2026 23:00",
-      "patternScore": 72.04,
-      "patternText": "131.609/182.700",
-      "picks": 1
-    },
     {
       "home": "Atlas FC",
       "away": "Club America",
@@ -315,9 +306,32 @@
       "patternScore": 71.17,
       "patternText": "97.823/137.452",
       "picks": 3
+    },
+    {
+      "home": "Hibernians",
+      "away": "Gzira United",
+      "league": "MLTP",
+      "date": "22.10.2026 18:30",
+      "patternScore": 70.73,
+      "patternText": "143.110/202.342",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SC Braga",
+      "away": "KAA Gent",
+      "league": "AVKL",
+      "at": "21.10.2026 22:27",
+      "count": 7
+    },
+    {
+      "home": "Dinamo Zagreb",
+      "away": "NEC Nijmegen",
+      "league": "AVL",
+      "at": "21.10.2026 22:26",
+      "count": 7
+    },
     {
       "home": "Celtic",
       "away": "Celta de Vigo",
@@ -373,20 +387,6 @@
       "league": "LKUW",
       "at": "21.10.2026 21:18",
       "count": 1
-    },
-    {
-      "home": "Lillestrom SK",
-      "away": "Real Sociedad",
-      "league": "AVL",
-      "at": "21.10.2026 21:18",
-      "count": 14
-    },
-    {
-      "home": "AFC Bournemouth",
-      "away": "AC Milan",
-      "league": "AVL",
-      "at": "21.10.2026 21:07",
-      "count": 7
     }
   ],
   "paywall": {
