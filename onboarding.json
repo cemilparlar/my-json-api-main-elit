@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 14:11",
+  "updatedAt": "21.10.2026 14:36",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 249,
+      "won": 247,
       "lost": 124,
-      "total": 373,
-      "rate": 66.8
+      "total": 371,
+      "rate": 66.6
     },
-    "totalAnalyses": 141785,
+    "totalAnalyses": 141815,
     "leagues": 527,
     "pro": {
       "won": 28,
@@ -47,8 +47,8 @@
       "total": 7,
       "rate": 14.3
     },
-    "analyses24h": 828,
-    "analyses30d": 18754
+    "analyses24h": 851,
+    "analyses30d": 18772
   },
   "recentWins": [
     {
@@ -231,7 +231,7 @@
     "league": "MEK",
     "date": "22.10.2026 01:00",
     "patternScore": 72.1,
-    "patternText": "129.322/179.368",
+    "patternText": "129.324/179.372",
     "picks": 2
   },
   "todayList": [
@@ -241,7 +241,7 @@
       "league": "MEK",
       "date": "22.10.2026 01:00",
       "patternScore": 72.1,
-      "patternText": "129.322/179.368",
+      "patternText": "129.324/179.372",
       "picks": 2
     },
     {
@@ -250,7 +250,7 @@
       "league": "MEK",
       "date": "22.10.2026 01:00",
       "patternScore": 72.02,
-      "patternText": "127.171/176.571",
+      "patternText": "127.173/176.575",
       "picks": 3
     },
     {
@@ -259,7 +259,7 @@
       "league": "USL1",
       "date": "21.10.2026 23:00",
       "patternScore": 71.9,
-      "patternText": "189.955/264.200",
+      "patternText": "189.955/264.202",
       "picks": 2
     },
     {
@@ -267,8 +267,8 @@
       "away": "",
       "league": "İKPL1",
       "date": "21.10.2026 18:30",
-      "patternScore": 71.6,
-      "patternText": "169.128/236.222",
+      "patternScore": 71.59,
+      "patternText": "169.130/236.240",
       "picks": 1
     },
     {
@@ -276,24 +276,38 @@
       "away": "Corinthians Women",
       "league": "LKUW",
       "date": "21.10.2026 20:00",
-      "patternScore": 71.49,
-      "patternText": "96.976/135.652",
+      "patternScore": 71.48,
+      "patternText": "96.978/135.674",
       "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "SE Palmeiras",
+      "away": "Fluminense FC",
+      "league": "LKU",
+      "at": "21.10.2026 14:21",
+      "count": 10
+    },
+    {
+      "home": "Kauno Zalgiris",
+      "away": "SK Brann",
+      "league": "AVKL",
+      "at": "21.10.2026 14:20",
+      "count": 15
+    },
+    {
+      "home": "Como 1907",
+      "away": "Manchester United",
+      "league": "ŞMP",
+      "at": "21.10.2026 14:19",
+      "count": 4
+    },
+    {
       "home": "Trabzonspor",
       "away": "Heart of Midlothian",
       "league": "AVKL",
       "at": "21.10.2026 14:08",
-      "count": 11
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "Fluminense FC",
-      "league": "LKU",
-      "at": "21.10.2026 14:07",
       "count": 11
     },
     {
@@ -337,20 +351,6 @@
       "league": "AVKL",
       "at": "21.10.2026 13:19",
       "count": 7
-    },
-    {
-      "home": "Club Brugge",
-      "away": "RC Lens",
-      "league": "ŞMP",
-      "at": "21.10.2026 13:14",
-      "count": 17
-    },
-    {
-      "home": "Aston Villa",
-      "away": "Viking",
-      "league": "ŞMP",
-      "at": "21.10.2026 13:14",
-      "count": 15
     }
   ],
   "paywall": {
