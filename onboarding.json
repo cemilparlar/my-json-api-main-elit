@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 19:56",
+  "updatedAt": "21.10.2026 20:11",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 173,
+      "won": 171,
       "lost": 80,
-      "total": 253,
-      "rate": 68.4
+      "total": 251,
+      "rate": 68.1
     },
-    "totalAnalyses": 142066,
+    "totalAnalyses": 142069,
     "leagues": 527,
     "pro": {
       "won": 53,
@@ -47,8 +47,8 @@
       "total": 15,
       "rate": 26.7
     },
-    "analyses24h": 687,
-    "analyses30d": 18679
+    "analyses24h": 692,
+    "analyses30d": 18686
   },
   "recentWins": [
     {
@@ -349,18 +349,25 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "SE Palmeiras",
+      "away": "Fluminense FC",
+      "league": "LKU",
+      "at": "21.10.2026 20:04",
+      "count": 11
+    },
+    {
+      "home": "Belgrano Women",
+      "away": "Universitario D",
+      "league": "LKUW",
+      "at": "21.10.2026 19:59",
+      "count": 1
+    },
+    {
       "home": "Columbus Crew",
       "away": "St. Louis City SC",
       "league": "ABDK",
       "at": "21.10.2026 19:29",
       "count": 8
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "Fluminense FC",
-      "league": "LKU",
-      "at": "21.10.2026 19:10",
-      "count": 4
     },
     {
       "home": "FC Nordsjaelland",
@@ -410,13 +417,6 @@
       "league": "AVL",
       "at": "21.10.2026 18:19",
       "count": 6
-    },
-    {
-      "home": "Sporting CP",
-      "away": "LASK Linz",
-      "league": "ŞMP",
-      "at": "21.10.2026 18:18",
-      "count": 3
     }
   ],
   "paywall": {
