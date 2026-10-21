@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 18:41",
-  "updatedAtUtc": "2026-10-21T18:41:00Z",
+  "updatedAt": "21.10.2026 18:56",
+  "updatedAtUtc": "2026-10-21T18:56:00Z",
   "upcoming": [
     {
       "id": "20261021-11-5",
@@ -332,44 +332,6 @@
       ]
     },
     {
-      "id": "20261021-11-8",
-      "createdAt": "21.10.2026 08:15",
-      "createdAtUtc": "2026-10-21T08:15:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.15,
-      "winChance": 71.02,
-      "firstKickoff": "21.10.2026 16:45",
-      "lastKickoff": "21.10.2026 16:45",
-      "status": "live",
-      "completedAt": null,
-      "effectiveOdds": 1.15,
-      "legs": [
-        {
-          "matchCode": "4549395",
-          "nesine": null,
-          "date": "21.10.2026 16:45",
-          "kickoffUtc": "2026-10-21T16:45:00Z",
-          "league": "ŞMP",
-          "home": "LOSC Lille",
-          "away": "Galatasaray",
-          "league_tr": "ŞMP",
-          "home_tr": "Lille",
-          "away_tr": "Galatasaray",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.15,
-          "probability": 87.5,
-          "patternScore": 71.02,
-          "patternText": "172.435/242.787",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
       "id": "20261021-17-2",
       "createdAt": "21.10.2026 14:11",
       "createdAtUtc": "2026-10-21T14:11:00Z",
@@ -401,9 +363,9 @@
           "patternScore": 59.64,
           "patternText": "120.382/201.854",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 1",
+          "status": "won"
         },
         {
           "matchCode": "4575431",
@@ -425,7 +387,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4538089",
@@ -789,7 +751,7 @@
       "winChance": 36.38,
       "firstKickoff": "21.10.2026 18:45",
       "lastKickoff": "21.10.2026 21:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.28,
       "legs": [
@@ -813,7 +775,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4519586",
@@ -835,7 +797,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4575966",
@@ -2295,6 +2257,44 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261021-11-8",
+      "createdAt": "21.10.2026 08:15",
+      "createdAtUtc": "2026-10-21T08:15:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.15,
+      "winChance": 71.02,
+      "firstKickoff": "21.10.2026 16:45",
+      "lastKickoff": "21.10.2026 16:45",
+      "status": "won",
+      "completedAt": "21.10.2026 18:56",
+      "effectiveOdds": 1.15,
+      "legs": [
+        {
+          "matchCode": "4549395",
+          "nesine": null,
+          "date": "21.10.2026 16:45",
+          "kickoffUtc": "2026-10-21T16:45:00Z",
+          "league": "ŞMP",
+          "home": "LOSC Lille",
+          "away": "Galatasaray",
+          "league_tr": "ŞMP",
+          "home_tr": "Lille",
+          "away_tr": "Galatasaray",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.15,
+          "probability": 87.5,
+          "patternScore": 71.02,
+          "patternText": "172.435/242.787",
+          "mbs": 1,
+          "firstHalf": "2 - 2",
+          "finalScore": "2 - 4",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261021-18-1",
       "createdAt": "21.10.2026 15:03",

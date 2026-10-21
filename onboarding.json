@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 18:41",
+  "updatedAt": "21.10.2026 18:56",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 258,
-      "lost": 127,
-      "total": 385,
-      "rate": 67.0
+      "won": 184,
+      "lost": 93,
+      "total": 277,
+      "rate": 66.4
     },
-    "totalAnalyses": 142023,
+    "totalAnalyses": 142034,
     "leagues": 527,
     "pro": {
-      "won": 39,
-      "lost": 20,
-      "total": 59,
-      "rate": 66.1
+      "won": 44,
+      "lost": 22,
+      "total": 66,
+      "rate": 66.7
     },
     "insights": {
-      "won": 75,
-      "lost": 41,
-      "total": 116,
-      "rate": 64.7
+      "won": 82,
+      "lost": 43,
+      "total": 125,
+      "rate": 65.6
     },
     "coupons": {
-      "won": 3,
+      "won": 4,
       "lost": 10,
-      "total": 13,
-      "rate": 23.1
+      "total": 14,
+      "rate": 28.6
     },
-    "analyses24h": 824,
-    "analyses30d": 18664
+    "analyses24h": 721,
+    "analyses30d": 18679
   },
   "recentWins": [
     {
@@ -113,6 +113,21 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 1,
+      "totalOdds": 1.15,
+      "winChance": 71.02,
+      "completedAt": "21.10.2026 18:56",
+      "legs": [
+        {
+          "home": "LOSC Lille",
+          "away": "Galatasaray",
+          "prediction": "Double Chance 12",
+          "odds": 1.15,
+          "finalScore": "2 - 4"
+        }
+      ]
+    },
     {
       "size": 2,
       "totalOdds": 1.14,
@@ -282,7 +297,7 @@
     "league": "VENK",
     "date": "21.10.2026 22:00",
     "patternScore": 72.53,
-    "patternText": "144.306/198.955",
+    "patternText": "144.308/198.957",
     "picks": 1
   },
   "todayList": [
@@ -292,7 +307,7 @@
       "league": "VENK",
       "date": "21.10.2026 22:00",
       "patternScore": 72.53,
-      "patternText": "144.306/198.955",
+      "patternText": "144.308/198.957",
       "picks": 1
     },
     {
@@ -301,7 +316,7 @@
       "league": "MEK",
       "date": "22.10.2026 01:00",
       "patternScore": 72.06,
-      "patternText": "129.433/179.629",
+      "patternText": "129.435/179.631",
       "picks": 3
     },
     {
@@ -310,7 +325,7 @@
       "league": "VENK",
       "date": "21.10.2026 21:00",
       "patternScore": 71.9,
-      "patternText": "128.404/178.579",
+      "patternText": "128.406/178.581",
       "picks": 2
     },
     {
@@ -319,7 +334,7 @@
       "league": "AVKL",
       "date": "22.10.2026 16:45",
       "patternScore": 71.38,
-      "patternText": "187.164/262.217",
+      "patternText": "187.178/262.235",
       "picks": 1
     },
     {
@@ -333,6 +348,20 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Nordsjaelland",
+      "away": "CSKA Sofia",
+      "league": "AVKL",
+      "at": "21.10.2026 18:48",
+      "count": 10
+    },
+    {
+      "home": "Lech Poznan",
+      "away": "Sunderland",
+      "league": "AVL",
+      "at": "21.10.2026 18:47",
+      "count": 5
+    },
     {
       "home": "Juventus",
       "away": "Stade Rennais",
@@ -388,20 +417,6 @@
       "league": "ŞMP",
       "at": "21.10.2026 18:06",
       "count": 8
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "Fluminense FC",
-      "league": "LKU",
-      "at": "21.10.2026 17:45",
-      "count": 11
-    },
-    {
-      "home": "Pafos Fc",
-      "away": "Riga Fc",
-      "league": "AVKL",
-      "at": "21.10.2026 17:06",
-      "count": 4
     }
   ],
   "paywall": {
