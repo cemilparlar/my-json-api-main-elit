@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 20:11",
+  "updatedAt": "21.10.2026 20:28",
   "config": {
     "pages": [
       "engine",
@@ -23,32 +23,32 @@
     "days": 7,
     "last24h": {
       "won": 171,
-      "lost": 80,
-      "total": 251,
-      "rate": 68.1
+      "lost": 81,
+      "total": 252,
+      "rate": 67.9
     },
-    "totalAnalyses": 142069,
+    "totalAnalyses": 142070,
     "leagues": 527,
     "pro": {
       "won": 53,
-      "lost": 23,
-      "total": 76,
-      "rate": 69.7
+      "lost": 24,
+      "total": 77,
+      "rate": 68.8
     },
     "insights": {
       "won": 91,
-      "lost": 44,
-      "total": 135,
-      "rate": 67.4
+      "lost": 45,
+      "total": 136,
+      "rate": 66.9
     },
     "coupons": {
       "won": 4,
-      "lost": 11,
-      "total": 15,
-      "rate": 26.7
+      "lost": 12,
+      "total": 16,
+      "rate": 25.0
     },
-    "analyses24h": 692,
-    "analyses30d": 18686
+    "analyses24h": 684,
+    "analyses30d": 18678
   },
   "recentWins": [
     {
@@ -268,12 +268,6 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 14:19",
-      "home": "Como 1907",
-      "away": "Manchester United"
-    },
-    {
-      "type": "updated",
       "at": "21.10.2026 15:58",
       "home": "LOSC Lille",
       "away": "Galatasaray"
@@ -289,6 +283,12 @@
       "at": "21.10.2026 15:58",
       "home": "Vanlose IF",
       "away": "Nykobing"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 15:27",
+      "home": "Al Ahly SC",
+      "away": "Al Qanah"
     }
   ],
   "today": {
@@ -320,31 +320,31 @@
       "picks": 3
     },
     {
-      "home": "Estudiantes Fc",
-      "away": "Caracas FC",
-      "league": "VENK",
-      "date": "21.10.2026 21:00",
-      "patternScore": 71.9,
-      "patternText": "128.424/178.603",
-      "picks": 2
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "Fluminense FC",
-      "league": "LKU",
-      "date": "22.10.2026 00:30",
-      "patternScore": 71.62,
-      "patternText": "131.155/183.133",
-      "picks": 4
-    },
-    {
-      "home": "Santos Laguna",
-      "away": "Pumas UNAM",
-      "league": "MEK",
-      "date": "22.10.2026 03:10",
+      "home": "Pafos Fc",
+      "away": "Riga Fc",
+      "league": "AVKL",
+      "date": "22.10.2026 16:45",
       "patternScore": 71.38,
-      "patternText": "84.240/118.017",
+      "patternText": "187.242/262.327",
+      "picks": 1
+    },
+    {
+      "home": "Queensland Lions",
+      "away": "Preston Lions",
+      "league": "AVC",
+      "date": "22.10.2026 08:30",
+      "patternScore": 71.17,
+      "patternText": "97.801/137.426",
       "picks": 3
+    },
+    {
+      "home": "Al Fateh",
+      "away": "Al Shabab",
+      "league": "SUUD",
+      "date": "22.10.2026 14:45",
+      "patternScore": 70.72,
+      "patternText": "254.286/359.575",
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
@@ -352,8 +352,8 @@
       "home": "SE Palmeiras",
       "away": "Fluminense FC",
       "league": "LKU",
-      "at": "21.10.2026 20:04",
-      "count": 11
+      "at": "21.10.2026 20:15",
+      "count": 3
     },
     {
       "home": "Belgrano Women",
