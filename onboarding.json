@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 11:41",
+  "updatedAt": "21.10.2026 11:59",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 326,
       "rate": 69.9
     },
-    "totalAnalyses": 141584,
+    "totalAnalyses": 141621,
     "leagues": 526,
     "pro": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 814,
-    "analyses30d": 18710
+    "analyses24h": 826,
+    "analyses30d": 18722
   },
   "recentWins": [
     {
@@ -166,45 +166,54 @@
     },
     {
       "type": "updated",
+      "at": "21.10.2026 11:50",
+      "home": "Ghazl El Mahalla",
+      "away": "Al Ittihad Al S"
+    },
+    {
+      "type": "updated",
       "at": "21.10.2026 10:45",
       "home": "Inter Milan",
       "away": "S. Donetsk U19"
     },
     {
       "type": "updated",
-      "at": "21.10.2026 09:17",
+      "at": "21.10.2026 11:50",
       "home": "Al Jeel",
       "away": "Al Jandal"
     },
     {
       "type": "updated",
-      "at": "21.10.2026 10:45",
+      "at": "21.10.2026 11:42",
       "home": "Marsaxlokk Fc",
       "away": "Birzebbuga"
     },
     {
       "type": "updated",
-      "at": "21.10.2026 11:21",
-      "home": "Ceramica Cleopatra",
-      "away": "Petrojet"
-    },
-    {
-      "type": "updated",
-      "at": "21.10.2026 09:04",
-      "home": "Al Ahly SC",
-      "away": "Al Qanah"
+      "at": "21.10.2026 11:42",
+      "home": "Las Palmas Iii",
+      "away": "Cd Laguna"
     }
   ],
   "today": {
-    "home": "Atlas FC",
-    "away": "Club America",
-    "league": "MEK",
-    "date": "22.10.2026 01:00",
-    "patternScore": 72.03,
-    "patternText": "127.095/176.449",
-    "picks": 3
+    "home": "Marsaxlokk Fc",
+    "away": "Birzebbuga",
+    "league": "MLTP",
+    "date": "21.10.2026 16:00",
+    "patternScore": 72.09,
+    "patternText": "161.657/224.256",
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Marsaxlokk Fc",
+      "away": "Birzebbuga",
+      "league": "MLTP",
+      "date": "21.10.2026 16:00",
+      "patternScore": 72.09,
+      "patternText": "161.657/224.256",
+      "picks": 1
+    },
     {
       "home": "Atlas FC",
       "away": "Club America",
@@ -240,18 +249,44 @@
       "patternScore": 71.83,
       "patternText": "169.796/236.384",
       "picks": 1
-    },
-    {
-      "home": "FC Kreuzlingen",
-      "away": "FC Bulle",
-      "league": "İSV1Y",
-      "date": "21.10.2026 17:00",
-      "patternScore": 71.83,
-      "patternText": "185.929/258.859",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "AFC Bournemouth",
+      "away": "AC Milan",
+      "league": "AVL",
+      "at": "21.10.2026 11:52",
+      "count": 6
+    },
+    {
+      "home": "Fc Iberia",
+      "away": "Mjallby AIF",
+      "league": "AVKL",
+      "at": "21.10.2026 11:43",
+      "count": 8
+    },
+    {
+      "home": "Sporting CP",
+      "away": "LASK Linz",
+      "league": "ŞMP",
+      "at": "21.10.2026 11:43",
+      "count": 16
+    },
+    {
+      "home": "Inter",
+      "away": "Shakhtar Donetsk",
+      "league": "ŞMP",
+      "at": "21.10.2026 11:43",
+      "count": 14
+    },
+    {
+      "home": "Como 1907",
+      "away": "Manchester United",
+      "league": "ŞMP",
+      "at": "21.10.2026 11:42",
+      "count": 3
+    },
     {
       "home": "FC Nordsjaelland",
       "away": "CSKA Sofia",
@@ -260,25 +295,11 @@
       "count": 3
     },
     {
-      "home": "Inter",
-      "away": "Shakhtar Donetsk",
-      "league": "ŞMP",
-      "at": "21.10.2026 10:45",
-      "count": 13
-    },
-    {
       "home": "Bayern Munich",
       "away": "Arsenal",
       "league": "ŞMP",
       "at": "21.10.2026 10:45",
       "count": 7
-    },
-    {
-      "home": "Sporting CP",
-      "away": "LASK Linz",
-      "league": "ŞMP",
-      "at": "21.10.2026 10:45",
-      "count": 13
     },
     {
       "home": "NK Celje",
@@ -300,27 +321,6 @@
       "league": "ŞMP",
       "at": "21.10.2026 08:42",
       "count": 8
-    },
-    {
-      "home": "Borac Banja Lu",
-      "away": "Kuopion",
-      "league": "AVKL",
-      "at": "21.10.2026 08:16",
-      "count": 6
-    },
-    {
-      "home": "FC Viktoria Plzen",
-      "away": "PFC Levski Sofia",
-      "league": "AVL",
-      "at": "21.10.2026 08:15",
-      "count": 5
-    },
-    {
-      "home": "Besiktas",
-      "away": "Crystal Palace",
-      "league": "AVL",
-      "at": "21.10.2026 08:14",
-      "count": 17
     }
   ],
   "paywall": {
