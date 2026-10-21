@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 16:43",
+  "updatedAt": "21.10.2026 16:57",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 276,
-      "lost": 135,
-      "total": 411,
-      "rate": 67.2
+      "won": 265,
+      "lost": 125,
+      "total": 390,
+      "rate": 67.9
     },
-    "totalAnalyses": 141970,
+    "totalAnalyses": 141971,
     "leagues": 527,
     "pro": {
       "won": 34,
@@ -47,8 +47,8 @@
       "total": 10,
       "rate": 30.0
     },
-    "analyses24h": 894,
-    "analyses30d": 18777
+    "analyses24h": 873,
+    "analyses30d": 18778
   },
   "recentWins": [
     {
@@ -247,12 +247,6 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 10:45",
-      "home": "Real Betis U19",
-      "away": "Feyenoord U19"
-    },
-    {
-      "type": "updated",
       "at": "21.10.2026 13:26",
       "home": "Ghazl El Mahalla",
       "away": "Al Ittihad Al S"
@@ -274,6 +268,12 @@
       "at": "21.10.2026 11:50",
       "home": "Al Jeel",
       "away": "Al Jandal"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 13:11",
+      "home": "PK-35 Vantaa",
+      "away": "Jaro"
     }
   ],
   "today": {
@@ -293,6 +293,15 @@
       "date": "22.10.2026 01:00",
       "patternScore": 72.06,
       "patternText": "129.419/179.603",
+      "picks": 3
+    },
+    {
+      "home": "SE Palmeiras",
+      "away": "Fluminense FC",
+      "league": "LKU",
+      "date": "22.10.2026 00:30",
+      "patternScore": 71.62,
+      "patternText": "131.117/183.079",
       "picks": 3
     },
     {
@@ -321,18 +330,16 @@
       "patternScore": 71.36,
       "patternText": "97.007/135.939",
       "picks": 3
-    },
-    {
-      "home": "Santos Laguna",
-      "away": "Pumas UNAM",
-      "league": "MEK",
-      "date": "22.10.2026 03:10",
-      "patternScore": 71.28,
-      "patternText": "82.366/115.553",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Aston Villa",
+      "away": "Viking",
+      "league": "ŞMP",
+      "at": "21.10.2026 16:50",
+      "count": 15
+    },
     {
       "home": "SE Palmeiras",
       "away": "Fluminense FC",
@@ -395,13 +402,6 @@
       "league": "ABDK",
       "at": "21.10.2026 15:15",
       "count": 6
-    },
-    {
-      "home": "Club Brugge",
-      "away": "RC Lens",
-      "league": "ŞMP",
-      "at": "21.10.2026 15:01",
-      "count": 19
     }
   ],
   "paywall": {
