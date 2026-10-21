@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 17:25",
+  "updatedAt": "21.10.2026 17:40",
   "config": {
     "pages": [
       "engine",
@@ -22,35 +22,59 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 257,
-      "lost": 122,
-      "total": 379,
-      "rate": 67.8
+      "won": 262,
+      "lost": 125,
+      "total": 387,
+      "rate": 67.7
     },
     "totalAnalyses": 141994,
     "leagues": 527,
     "pro": {
-      "won": 34,
-      "lost": 17,
-      "total": 51,
-      "rate": 66.7
+      "won": 37,
+      "lost": 18,
+      "total": 55,
+      "rate": 67.3
     },
     "insights": {
-      "won": 63,
-      "lost": 38,
-      "total": 101,
-      "rate": 62.4
+      "won": 68,
+      "lost": 39,
+      "total": 107,
+      "rate": 63.6
     },
     "coupons": {
       "won": 3,
-      "lost": 7,
-      "total": 10,
-      "rate": 30.0
+      "lost": 9,
+      "total": 12,
+      "rate": 25.0
     },
-    "analyses24h": 866,
-    "analyses30d": 18762
+    "analyses24h": 865,
+    "analyses30d": 18747
   },
   "recentWins": [
+    {
+      "home": "PK-35 Vantaa",
+      "away": "Jaro",
+      "league": "FİN",
+      "date": "21.10.2026 15:30",
+      "prediction": "Under 3.5 Goals",
+      "odds": 1.06,
+      "probability": 80.0,
+      "patternScore": 68.93,
+      "firstHalf": "1 - 1",
+      "finalScore": "1 - 1"
+    },
+    {
+      "home": "Al Anwar",
+      "away": "Al Wahda",
+      "league": "SUUD1",
+      "date": "21.10.2026 15:00",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.09,
+      "probability": 74.78,
+      "patternScore": 70.06,
+      "firstHalf": "1 - 1",
+      "finalScore": "1 - 1"
+    },
     {
       "home": "Harju Jalgpall",
       "away": "Flora Tallinn",
@@ -85,30 +109,6 @@
       "probability": 75.0,
       "patternScore": 66.4,
       "firstHalf": "2 - 0",
-      "finalScore": "2 - 1"
-    },
-    {
-      "home": "Bayern Munich",
-      "away": "Arsenal Fc U19",
-      "league": "UEGL",
-      "date": "21.10.2026 14:00",
-      "prediction": "Double Chance 1X",
-      "odds": 1.09,
-      "probability": 80.0,
-      "patternScore": 69.52,
-      "firstHalf": "3 - 1",
-      "finalScore": "3 - 3"
-    },
-    {
-      "home": "Bul",
-      "away": "NEC Nijmegen",
-      "league": "UGA",
-      "date": "21.10.2026 13:00",
-      "prediction": "Double Chance 12",
-      "odds": 1.24,
-      "probability": 100.0,
-      "patternScore": 59.47,
-      "firstHalf": "1 - 0",
       "finalScore": "2 - 1"
     }
   ],
@@ -197,6 +197,22 @@
   "ticker": [
     {
       "type": "won",
+      "home": "PK-35 Vantaa",
+      "away": "Jaro",
+      "prediction": "Under 3.5 Goals",
+      "odds": 1.06,
+      "at": "21.10.2026 15:30"
+    },
+    {
+      "type": "won",
+      "home": "Al Anwar",
+      "away": "Al Wahda",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.09,
+      "at": "21.10.2026 15:00"
+    },
+    {
+      "type": "won",
       "home": "Harju Jalgpall",
       "away": "Flora Tallinn",
       "prediction": "Both Teams to Score - Yes",
@@ -209,22 +225,6 @@
       "away": "S. Donetsk U19",
       "prediction": "Match Result 1",
       "odds": 1.22,
-      "at": "21.10.2026 14:00"
-    },
-    {
-      "type": "won",
-      "home": "Ghazl El Mahalla",
-      "away": "Al Ittihad Al S",
-      "prediction": "Double Chance 12",
-      "odds": 1.22,
-      "at": "21.10.2026 14:00"
-    },
-    {
-      "type": "won",
-      "home": "Bayern Munich",
-      "away": "Arsenal Fc U19",
-      "prediction": "Double Chance 1X",
-      "odds": 1.09,
       "at": "21.10.2026 14:00"
     },
     {
