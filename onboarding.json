@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 17:56",
+  "updatedAt": "21.10.2026 18:12",
   "config": {
     "pages": [
       "engine",
@@ -22,35 +22,47 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 262,
+      "won": 256,
       "lost": 125,
-      "total": 387,
-      "rate": 67.7
+      "total": 381,
+      "rate": 67.2
     },
-    "totalAnalyses": 142007,
+    "totalAnalyses": 142011,
     "leagues": 527,
     "pro": {
-      "won": 37,
-      "lost": 18,
-      "total": 55,
-      "rate": 67.3
+      "won": 39,
+      "lost": 19,
+      "total": 58,
+      "rate": 67.2
     },
     "insights": {
-      "won": 68,
-      "lost": 39,
-      "total": 107,
-      "rate": 63.6
+      "won": 72,
+      "lost": 40,
+      "total": 112,
+      "rate": 64.3
     },
     "coupons": {
       "won": 3,
-      "lost": 9,
-      "total": 12,
-      "rate": 25.0
+      "lost": 10,
+      "total": 13,
+      "rate": 23.1
     },
-    "analyses24h": 873,
-    "analyses30d": 18755
+    "analyses24h": 852,
+    "analyses30d": 18720
   },
   "recentWins": [
+    {
+      "home": "Marsaxlokk Fc",
+      "away": "Birzebbuga",
+      "league": "MLTP",
+      "date": "21.10.2026 16:00",
+      "prediction": "Match Result 1",
+      "odds": 1.32,
+      "probability": 76.19,
+      "patternScore": 68.07,
+      "firstHalf": "0 - 0",
+      "finalScore": "2 - 0"
+    },
     {
       "home": "PK-35 Vantaa",
       "away": "Jaro",
@@ -98,18 +110,6 @@
       "patternScore": 67.93,
       "firstHalf": "3 - 0",
       "finalScore": "3 - 1"
-    },
-    {
-      "home": "Inter Milan",
-      "away": "S. Donetsk U19",
-      "league": "UEGL",
-      "date": "21.10.2026 14:00",
-      "prediction": "Match Result 1",
-      "odds": 1.22,
-      "probability": 73.33,
-      "patternScore": 68.29,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 0"
     }
   ],
   "recentCoupons": [
@@ -197,6 +197,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Marsaxlokk Fc",
+      "away": "Birzebbuga",
+      "prediction": "Match Result 1",
+      "odds": 1.32,
+      "at": "21.10.2026 16:00"
+    },
+    {
+      "type": "won",
       "home": "PK-35 Vantaa",
       "away": "Jaro",
       "prediction": "Under 3.5 Goals",
@@ -220,29 +228,21 @@
       "at": "21.10.2026 15:00"
     },
     {
-      "type": "won",
-      "home": "Harju Jalgpall",
-      "away": "Flora Tallinn",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.25,
-      "at": "21.10.2026 15:00"
+      "type": "coupon",
+      "size": 2,
+      "odds": 1.47,
+      "at": "21.10.2026 18:12"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
+      "odds": 1.09,
+      "at": "21.10.2026 18:12"
     },
     {
       "type": "coupon",
       "size": 2,
       "odds": 1.16,
-      "at": "21.10.2026 17:11"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.15,
-      "at": "21.10.2026 17:11"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.15,
       "at": "21.10.2026 17:11"
     },
     {
@@ -296,22 +296,13 @@
       "picks": 3
     },
     {
-      "home": "SE Palmeiras",
-      "away": "Fluminense FC",
-      "league": "LKU",
-      "date": "22.10.2026 00:30",
-      "patternScore": 71.62,
-      "patternText": "131.127/183.099",
-      "picks": 3
-    },
-    {
-      "home": "Montrose Women",
-      "away": "",
-      "league": "İKPL1",
-      "date": "21.10.2026 18:30",
-      "patternScore": 71.59,
-      "patternText": "169.252/236.416",
-      "picks": 1
+      "home": "Estudiantes Fc",
+      "away": "Caracas FC",
+      "league": "VENK",
+      "date": "21.10.2026 21:00",
+      "patternScore": 71.9,
+      "patternText": "128.396/178.569",
+      "picks": 2
     },
     {
       "home": "Afc Whyteleafe",
@@ -330,6 +321,15 @@
       "patternScore": 71.38,
       "patternText": "187.140/262.187",
       "picks": 1
+    },
+    {
+      "home": "CS Cartaginés",
+      "away": "Deportivo Olimpia",
+      "league": "CONOAK",
+      "date": "22.10.2026 02:30",
+      "patternScore": 71.36,
+      "patternText": "97.017/135.953",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
@@ -337,8 +337,8 @@
       "home": "Bayern Munich",
       "away": "Arsenal",
       "league": "ŞMP",
-      "at": "21.10.2026 17:55",
-      "count": 12
+      "at": "21.10.2026 18:06",
+      "count": 8
     },
     {
       "home": "Sporting CP",
