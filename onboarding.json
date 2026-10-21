@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 08:24",
+  "updatedAt": "21.10.2026 08:33",
   "config": {
     "pages": [
       "engine",
@@ -23,9 +23,9 @@
     "days": 7,
     "last24h": {
       "won": 233,
-      "lost": 99,
-      "total": 332,
-      "rate": 70.2
+      "lost": 98,
+      "total": 331,
+      "rate": 70.4
     },
     "totalAnalyses": 141424,
     "leagues": 525,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 749,
-    "analyses30d": 18643
+    "analyses24h": 744,
+    "analyses30d": 18639
   },
   "recentWins": [
     {
@@ -166,9 +166,21 @@
     },
     {
       "type": "updated",
+      "at": "21.10.2026 08:29",
+      "home": "Marsaxlokk Fc",
+      "away": "Birzebbuga"
+    },
+    {
+      "type": "updated",
       "at": "21.10.2026 08:16",
       "home": "Ceramica Cleopatra",
       "away": "Petrojet"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 08:18",
+      "home": "Sporting CP",
+      "away": "LASK Linz"
     },
     {
       "type": "kickoff",
@@ -181,16 +193,6 @@
       "home": "Fagiano Okayama",
       "away": "Mito HollyHock",
       "at": "21.10.2026 10:00"
-    },
-    {
-      "type": "kickoff",
-      "home": "V-Varen Nagasaki",
-      "away": "Sanfrecce Hiroshima",
-      "at": "21.10.2026 10:00"
-    },
-    {
-      "type": "analysis",
-      "count": 749
     }
   ],
   "today": {
