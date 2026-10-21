@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 21:28",
+  "updatedAt": "21.10.2026 21:42",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 315,
       "rate": 68.6
     },
-    "totalAnalyses": 142119,
+    "totalAnalyses": 142128,
     "leagues": 527,
     "pro": {
       "won": 61,
@@ -47,8 +47,8 @@
       "total": 23,
       "rate": 43.5
     },
-    "analyses24h": 712,
-    "analyses30d": 18705
+    "analyses24h": 718,
+    "analyses30d": 18711
   },
   "recentWins": [
     {
@@ -209,6 +209,12 @@
     },
     {
       "type": "coupon",
+      "size": 1,
+      "odds": 1.08,
+      "at": "21.10.2026 21:42"
+    },
+    {
+      "type": "coupon",
       "size": 3,
       "odds": 1.39,
       "at": "21.10.2026 19:11"
@@ -217,12 +223,6 @@
       "type": "coupon",
       "size": 1,
       "odds": 1.07,
-      "at": "21.10.2026 19:11"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.09,
       "at": "21.10.2026 19:11"
     },
     {
@@ -276,6 +276,15 @@
       "picks": 3
     },
     {
+      "home": "New York Cosmo",
+      "away": "Spokane Velocit",
+      "league": "USL1",
+      "date": "21.10.2026 23:00",
+      "patternScore": 72.04,
+      "patternText": "131.607/182.698",
+      "picks": 1
+    },
+    {
       "home": "Atlas FC",
       "away": "Club America",
       "league": "MEK",
@@ -283,15 +292,6 @@
       "patternScore": 71.87,
       "patternText": "91.200/126.895",
       "picks": 2
-    },
-    {
-      "home": "New York Cosmo",
-      "away": "Spokane Velocit",
-      "league": "USL1",
-      "date": "21.10.2026 23:00",
-      "patternScore": 71.79,
-      "patternText": "130.737/182.106",
-      "picks": 1
     },
     {
       "home": "Pafos Fc",

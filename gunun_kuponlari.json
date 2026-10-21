@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 21:27",
-  "updatedAtUtc": "2026-10-21T21:27:00Z",
+  "updatedAt": "21.10.2026 21:42",
+  "updatedAtUtc": "2026-10-21T21:42:00Z",
   "upcoming": [
     {
       "id": "20261021-11-5",
@@ -2432,6 +2432,44 @@
           "probability": 71.43,
           "patternScore": 69.01,
           "patternText": "270.425/391.882",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261022-00-1",
+      "createdAt": "21.10.2026 21:42",
+      "createdAtUtc": "2026-10-21T21:42:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.08,
+      "winChance": 57.99,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.08,
+      "legs": [
+        {
+          "matchCode": "4549603",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVL",
+          "home": "Omonia",
+          "away": "SL Benfica",
+          "league_tr": "AVL",
+          "home_tr": "Omonia",
+          "away_tr": "Benfica",
+          "prediction": "Under 4.5 Goals",
+          "prediction_tr": "4,5 Alt/Üst Alt",
+          "odds": 1.08,
+          "probability": 100.0,
+          "patternScore": 57.99,
+          "patternText": "211.369/364.503",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
