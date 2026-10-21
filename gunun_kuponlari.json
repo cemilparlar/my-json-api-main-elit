@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 22:46",
-  "updatedAtUtc": "2026-10-21T22:46:00Z",
+  "updatedAt": "21.10.2026 23:00",
+  "updatedAtUtc": "2026-10-21T23:00:00Z",
   "upcoming": [
     {
       "id": "20261021-11-5",
@@ -573,7 +573,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -931,7 +931,7 @@
       "winChance": 25.12,
       "firstKickoff": "21.10.2026 23:00",
       "lastKickoff": "22.10.2026 18:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.73,
       "legs": [
@@ -955,7 +955,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4538086",
@@ -2558,6 +2558,82 @@
           "status": "pending"
         }
       ]
+    },
+    {
+      "id": "20261022-02-1",
+      "createdAt": "21.10.2026 23:00",
+      "createdAtUtc": "2026-10-21T23:00:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.1,
+      "winChance": 69.57,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.1,
+      "legs": [
+        {
+          "matchCode": "4549604",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVL",
+          "home": "Celtic",
+          "away": "Celta de Vigo",
+          "league_tr": "AVL",
+          "home_tr": "Celtic",
+          "away_tr": "Celta Vigo",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.1,
+          "probability": 83.33,
+          "patternScore": 69.57,
+          "patternText": "140.619/202.131",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261022-02-2",
+      "createdAt": "21.10.2026 23:00",
+      "createdAtUtc": "2026-10-21T23:00:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.21,
+      "winChance": 68.82,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.21,
+      "legs": [
+        {
+          "matchCode": "4549667",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVKL",
+          "home": "SC Braga",
+          "away": "KAA Gent",
+          "league_tr": "AVKL",
+          "home_tr": "Braga",
+          "away_tr": "Gent",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.21,
+          "probability": 84.62,
+          "patternScore": 68.82,
+          "patternText": "134.971/196.116",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
     }
   ],
   "completed": [
@@ -2905,7 +2981,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
