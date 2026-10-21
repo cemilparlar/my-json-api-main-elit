@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 23:14",
+  "updatedAt": "21.10.2026 23:31",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 213,
+      "won": 209,
       "lost": 96,
-      "total": 309,
-      "rate": 68.9
+      "total": 305,
+      "rate": 68.5
     },
-    "totalAnalyses": 142185,
+    "totalAnalyses": 142187,
     "leagues": 527,
     "pro": {
       "won": 61,
@@ -47,8 +47,8 @@
       "total": 24,
       "rate": 45.8
     },
-    "analyses24h": 726,
-    "analyses30d": 18718
+    "analyses24h": 720,
+    "analyses30d": 18716
   },
   "recentWins": [
     {
@@ -252,12 +252,6 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 17:16",
-      "home": "Liverpool Mont",
-      "away": "Cerro Largo"
-    },
-    {
-      "type": "updated",
       "at": "21.10.2026 18:06",
       "home": "Bayern Munich",
       "away": "Arsenal"
@@ -273,6 +267,12 @@
       "at": "21.10.2026 21:26",
       "home": "Club Atletico Torque",
       "away": "Atletico Mineiro"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 21:26",
+      "home": "Deportivo La Guaira",
+      "away": "Aragua"
     }
   ],
   "today": {
@@ -280,8 +280,8 @@
     "away": "Club America",
     "league": "MEK",
     "date": "22.10.2026 01:00",
-    "patternScore": 72.05,
-    "patternText": "129.485/179.723",
+    "patternScore": 72.0,
+    "patternText": "92.486/128.459",
     "picks": 3
   },
   "todayList": [
@@ -290,27 +290,9 @@
       "away": "Club America",
       "league": "MEK",
       "date": "22.10.2026 01:00",
-      "patternScore": 72.05,
-      "patternText": "129.485/179.723",
+      "patternScore": 72.0,
+      "patternText": "92.486/128.459",
       "picks": 3
-    },
-    {
-      "home": "Pafos Fc",
-      "away": "Riga Fc",
-      "league": "AVKL",
-      "date": "22.10.2026 16:45",
-      "patternScore": 71.38,
-      "patternText": "187.292/262.387",
-      "picks": 1
-    },
-    {
-      "home": "Club Puebla",
-      "away": "CF Monterrey",
-      "league": "MEK",
-      "date": "22.10.2026 01:00",
-      "patternScore": 71.21,
-      "patternText": "231.150/324.585",
-      "picks": 1
     },
     {
       "home": "Queensland Lions",
@@ -322,6 +304,15 @@
       "picks": 3
     },
     {
+      "home": "Club Puebla",
+      "away": "CF Monterrey",
+      "league": "MEK",
+      "date": "22.10.2026 01:00",
+      "patternScore": 71.04,
+      "patternText": "228.056/321.007",
+      "picks": 4
+    },
+    {
       "home": "Madura United",
       "away": "Persib Bandung",
       "league": "ENDL1",
@@ -329,22 +320,38 @@
       "patternScore": 71.01,
       "patternText": "259.451/365.380",
       "picks": 1
+    },
+    {
+      "home": "Hibernians",
+      "away": "Gzira United",
+      "league": "MLTP",
+      "date": "22.10.2026 18:30",
+      "patternScore": 70.73,
+      "patternText": "143.110/202.344",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Belgrano Women",
+      "away": "Universitario D",
+      "league": "LKUW",
+      "at": "21.10.2026 23:29",
+      "count": 1
+    },
+    {
+      "home": "Olympiakos",
+      "away": "AC Sparta Prague",
+      "league": "AVL",
+      "at": "21.10.2026 23:22",
+      "count": 4
+    },
     {
       "home": "Pafos Fc",
       "away": "Riga Fc",
       "league": "AVKL",
       "at": "21.10.2026 23:11",
       "count": 9
-    },
-    {
-      "home": "Belgrano Women",
-      "away": "Universitario D",
-      "league": "LKUW",
-      "at": "21.10.2026 23:04",
-      "count": 1
     },
     {
       "home": "Lech Poznan",
@@ -394,13 +401,6 @@
       "league": "AVL",
       "at": "21.10.2026 22:15",
       "count": 6
-    },
-    {
-      "home": "FC Nordsjaelland",
-      "away": "CSKA Sofia",
-      "league": "AVKL",
-      "at": "21.10.2026 22:04",
-      "count": 4
     }
   ],
   "paywall": {
