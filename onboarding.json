@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 16:11",
+  "updatedAt": "21.10.2026 16:28",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 411,
       "rate": 67.2
     },
-    "totalAnalyses": 141939,
+    "totalAnalyses": 141964,
     "leagues": 527,
     "pro": {
       "won": 34,
@@ -47,8 +47,8 @@
       "total": 10,
       "rate": 30.0
     },
-    "analyses24h": 917,
-    "analyses30d": 18804
+    "analyses24h": 903,
+    "analyses30d": 18790
   },
   "recentWins": [
     {
@@ -80,10 +80,10 @@
       "away": "Arsenal Fc U19",
       "league": "UEGL",
       "date": "21.10.2026 14:00",
-      "prediction": "1st Half Double Chance 1X",
+      "prediction": "Double Chance 1X",
       "odds": 1.09,
-      "probability": 100.0,
-      "patternScore": 64.14,
+      "probability": 80.0,
+      "patternScore": 69.52,
       "firstHalf": "3 - 1",
       "finalScore": "3 - 3"
     },
@@ -215,7 +215,7 @@
       "type": "won",
       "home": "Bayern Munich",
       "away": "Arsenal Fc U19",
-      "prediction": "1st Half Double Chance 1X",
+      "prediction": "Double Chance 1X",
       "odds": 1.09,
       "at": "21.10.2026 14:00"
     },
@@ -282,7 +282,7 @@
     "league": "BOLPLK",
     "date": "21.10.2026 22:30",
     "patternScore": 72.29,
-    "patternText": "158.660/219.485",
+    "patternText": "158.672/219.501",
     "picks": 1
   },
   "todayList": [
@@ -292,25 +292,16 @@
       "league": "BOLPLK",
       "date": "21.10.2026 22:30",
       "patternScore": 72.29,
-      "patternText": "158.660/219.485",
+      "patternText": "158.672/219.501",
       "picks": 1
-    },
-    {
-      "home": "New York Cosmo",
-      "away": "Spokane Velocit",
-      "league": "USL1",
-      "date": "21.10.2026 23:00",
-      "patternScore": 71.9,
-      "patternText": "189.975/264.222",
-      "picks": 2
     },
     {
       "home": "Montrose Women",
       "away": "",
       "league": "İKPL1",
       "date": "21.10.2026 18:30",
-      "patternScore": 71.6,
-      "patternText": "169.192/236.318",
+      "patternScore": 71.59,
+      "patternText": "169.228/236.374",
       "picks": 1
     },
     {
@@ -319,7 +310,7 @@
       "league": "İNGNLP",
       "date": "21.10.2026 18:45",
       "patternScore": 71.48,
-      "patternText": "169.222/236.751",
+      "patternText": "169.258/236.807",
       "picks": 1
     },
     {
@@ -328,24 +319,47 @@
       "league": "CONOAK",
       "date": "22.10.2026 02:30",
       "patternScore": 71.36,
-      "patternText": "96.997/135.925",
+      "patternText": "97.007/135.939",
       "picks": 3
+    },
+    {
+      "home": "Santos Laguna",
+      "away": "Pumas UNAM",
+      "league": "MEK",
+      "date": "22.10.2026 03:10",
+      "patternScore": 71.28,
+      "patternText": "82.366/115.553",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Inter",
+      "away": "Shakhtar Donetsk",
+      "league": "ŞMP",
+      "at": "21.10.2026 16:26",
+      "count": 2
+    },
+    {
+      "home": "Real Betis",
+      "away": "Feyenoord",
+      "league": "ŞMP",
+      "at": "21.10.2026 16:26",
+      "count": 18
+    },
+    {
+      "home": "SC Braga",
+      "away": "KAA Gent",
+      "league": "AVKL",
+      "at": "21.10.2026 16:12",
+      "count": 8
+    },
     {
       "home": "LOSC Lille",
       "away": "Galatasaray",
       "league": "ŞMP",
       "at": "21.10.2026 15:58",
       "count": 6
-    },
-    {
-      "home": "SC Braga",
-      "away": "KAA Gent",
-      "league": "AVKL",
-      "at": "21.10.2026 15:44",
-      "count": 4
     },
     {
       "home": "Real Madrid",
@@ -362,13 +376,6 @@
       "count": 8
     },
     {
-      "home": "Real Betis",
-      "away": "Feyenoord",
-      "league": "ŞMP",
-      "at": "21.10.2026 15:27",
-      "count": 18
-    },
-    {
       "home": "Bayern Munich",
       "away": "Arsenal",
       "league": "ŞMP",
@@ -381,13 +388,6 @@
       "league": "ABDK",
       "at": "21.10.2026 15:15",
       "count": 6
-    },
-    {
-      "home": "Inter",
-      "away": "Shakhtar Donetsk",
-      "league": "ŞMP",
-      "at": "21.10.2026 15:15",
-      "count": 13
     },
     {
       "home": "Club Brugge",
