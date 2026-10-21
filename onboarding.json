@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 17:40",
+  "updatedAt": "21.10.2026 17:56",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 387,
       "rate": 67.7
     },
-    "totalAnalyses": 141994,
+    "totalAnalyses": 142007,
     "leagues": 527,
     "pro": {
       "won": 37,
@@ -47,8 +47,8 @@
       "total": 12,
       "rate": 25.0
     },
-    "analyses24h": 865,
-    "analyses30d": 18747
+    "analyses24h": 873,
+    "analyses30d": 18755
   },
   "recentWins": [
     {
@@ -62,6 +62,18 @@
       "patternScore": 68.93,
       "firstHalf": "1 - 1",
       "finalScore": "1 - 1"
+    },
+    {
+      "home": "Zlate Moravce",
+      "away": "KFC Komarno",
+      "league": "SLOVK",
+      "date": "21.10.2026 15:30",
+      "prediction": "1st Half Under 1.5",
+      "odds": 1.21,
+      "probability": 74.73,
+      "patternScore": 68.38,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 0"
     },
     {
       "home": "Al Anwar",
@@ -98,18 +110,6 @@
       "patternScore": 68.29,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 0"
-    },
-    {
-      "home": "Ghazl El Mahalla",
-      "away": "Al Ittihad Al S",
-      "league": "MSR",
-      "date": "21.10.2026 14:00",
-      "prediction": "Double Chance 12",
-      "odds": 1.22,
-      "probability": 75.0,
-      "patternScore": 66.4,
-      "firstHalf": "2 - 0",
-      "finalScore": "2 - 1"
     }
   ],
   "recentCoupons": [
@@ -205,6 +205,14 @@
     },
     {
       "type": "won",
+      "home": "Zlate Moravce",
+      "away": "KFC Komarno",
+      "prediction": "1st Half Under 1.5",
+      "odds": 1.21,
+      "at": "21.10.2026 15:30"
+    },
+    {
+      "type": "won",
       "home": "Al Anwar",
       "away": "Al Wahda",
       "prediction": "1st Half Double Chance X2",
@@ -218,14 +226,6 @@
       "prediction": "Both Teams to Score - Yes",
       "odds": 1.25,
       "at": "21.10.2026 15:00"
-    },
-    {
-      "type": "won",
-      "home": "Inter Milan",
-      "away": "S. Donetsk U19",
-      "prediction": "Match Result 1",
-      "odds": 1.22,
-      "at": "21.10.2026 14:00"
     },
     {
       "type": "coupon",
@@ -265,15 +265,15 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 11:50",
-      "home": "Al Jeel",
-      "away": "Al Jandal"
-    },
-    {
-      "type": "updated",
       "at": "21.10.2026 13:11",
       "home": "PK-35 Vantaa",
       "away": "Jaro"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 14:47",
+      "home": "Zlate Moravce",
+      "away": "KFC Komarno"
     }
   ],
   "today": {
@@ -282,7 +282,7 @@
     "league": "MEK",
     "date": "22.10.2026 01:00",
     "patternScore": 72.06,
-    "patternText": "129.419/179.603",
+    "patternText": "129.425/179.615",
     "picks": 3
   },
   "todayList": [
@@ -292,7 +292,7 @@
       "league": "MEK",
       "date": "22.10.2026 01:00",
       "patternScore": 72.06,
-      "patternText": "129.419/179.603",
+      "patternText": "129.425/179.615",
       "picks": 3
     },
     {
@@ -301,7 +301,7 @@
       "league": "LKU",
       "date": "22.10.2026 00:30",
       "patternScore": 71.62,
-      "patternText": "131.117/183.079",
+      "patternText": "131.127/183.099",
       "picks": 3
     },
     {
@@ -310,7 +310,7 @@
       "league": "İKPL1",
       "date": "21.10.2026 18:30",
       "patternScore": 71.59,
-      "patternText": "169.230/236.376",
+      "patternText": "169.252/236.416",
       "picks": 1
     },
     {
@@ -318,8 +318,8 @@
       "away": "Burgess Hill To",
       "league": "İNGNLP",
       "date": "21.10.2026 18:45",
-      "patternScore": 71.48,
-      "patternText": "169.260/236.809",
+      "patternScore": 71.47,
+      "patternText": "169.282/236.849",
       "picks": 1
     },
     {
@@ -328,11 +328,39 @@
       "league": "AVKL",
       "date": "22.10.2026 16:45",
       "patternScore": 71.38,
-      "patternText": "187.132/262.173",
+      "patternText": "187.140/262.187",
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Bayern Munich",
+      "away": "Arsenal",
+      "league": "ŞMP",
+      "at": "21.10.2026 17:55",
+      "count": 12
+    },
+    {
+      "home": "Sporting CP",
+      "away": "LASK Linz",
+      "league": "ŞMP",
+      "at": "21.10.2026 17:55",
+      "count": 13
+    },
+    {
+      "home": "SE Palmeiras",
+      "away": "Fluminense FC",
+      "league": "LKU",
+      "at": "21.10.2026 17:45",
+      "count": 11
+    },
+    {
+      "home": "Getafe CF",
+      "away": "FC Lugano",
+      "league": "AVKL",
+      "at": "21.10.2026 17:45",
+      "count": 4
+    },
     {
       "home": "Pafos Fc",
       "away": "Riga Fc",
@@ -346,13 +374,6 @@
       "league": "AVL",
       "at": "21.10.2026 17:06",
       "count": 12
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "Fluminense FC",
-      "league": "LKU",
-      "at": "21.10.2026 17:01",
-      "count": 3
     },
     {
       "home": "Aston Villa",
@@ -381,27 +402,6 @@
       "league": "ŞMP",
       "at": "21.10.2026 16:26",
       "count": 18
-    },
-    {
-      "home": "LOSC Lille",
-      "away": "Galatasaray",
-      "league": "ŞMP",
-      "at": "21.10.2026 15:58",
-      "count": 6
-    },
-    {
-      "home": "Real Madrid",
-      "away": "RB Leipzig",
-      "league": "ŞMP",
-      "at": "21.10.2026 15:43",
-      "count": 14
-    },
-    {
-      "home": "Borac Banja Lu",
-      "away": "Kuopion",
-      "league": "AVKL",
-      "at": "21.10.2026 15:29",
-      "count": 8
     }
   ],
   "paywall": {
