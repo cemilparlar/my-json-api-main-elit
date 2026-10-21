@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 09:19",
+  "updatedAt": "21.10.2026 10:53",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 233,
+      "won": 234,
       "lost": 98,
-      "total": 331,
-      "rate": 70.4
+      "total": 332,
+      "rate": 70.5
     },
-    "totalAnalyses": 141499,
+    "totalAnalyses": 141561,
     "leagues": 526,
     "pro": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 786,
-    "analyses30d": 18681
+    "analyses24h": 808,
+    "analyses30d": 18698
   },
   "recentWins": [
     {
@@ -148,33 +148,33 @@
     },
     {
       "type": "coupon",
-      "size": 2,
-      "odds": 1.22,
-      "at": "21.10.2026 09:00"
+      "size": 3,
+      "odds": 1.34,
+      "at": "21.10.2026 10:53"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.6,
+      "at": "21.10.2026 10:53"
     },
     {
       "type": "coupon",
       "size": 2,
-      "odds": 1.23,
-      "at": "21.10.2026 09:00"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.15,
-      "at": "21.10.2026 09:00"
+      "odds": 1.34,
+      "at": "21.10.2026 10:53"
     },
     {
       "type": "updated",
-      "at": "21.10.2026 09:04",
+      "at": "21.10.2026 10:45",
       "home": "Real Betis U19",
       "away": "Feyenoord U19"
     },
     {
       "type": "updated",
-      "at": "21.10.2026 09:16",
-      "home": "Ghazl El Mahalla",
-      "away": "Al Ittihad Al S"
+      "at": "21.10.2026 10:45",
+      "home": "Bayern Munich",
+      "away": "Arsenal Fc U19"
     },
     {
       "type": "updated",
@@ -184,13 +184,13 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 08:42",
+      "at": "21.10.2026 10:45",
       "home": "Cherno More",
       "away": "Lokomotiv Plovdiv"
     },
     {
       "type": "updated",
-      "at": "21.10.2026 08:29",
+      "at": "21.10.2026 10:45",
       "home": "Marsaxlokk Fc",
       "away": "Birzebbuga"
     }
@@ -242,16 +242,44 @@
       "picks": 1
     },
     {
-      "home": "Kamatamare Sanuki",
-      "away": "Zweigen Kanazaw",
-      "league": "JAP3",
-      "date": "21.10.2026 10:00",
-      "patternScore": 71.81,
-      "patternText": "139.874/194.770",
-      "picks": 3
+      "home": "Celtic Women",
+      "away": "Hearts Women",
+      "league": "İKPL1",
+      "date": "21.10.2026 18:30",
+      "patternScore": 71.51,
+      "patternText": "170.982/239.086",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Nordsjaelland",
+      "away": "CSKA Sofia",
+      "league": "AVKL",
+      "at": "21.10.2026 10:46",
+      "count": 3
+    },
+    {
+      "home": "Inter",
+      "away": "Shakhtar Donetsk",
+      "league": "ŞMP",
+      "at": "21.10.2026 10:45",
+      "count": 13
+    },
+    {
+      "home": "Bayern Munich",
+      "away": "Arsenal",
+      "league": "ŞMP",
+      "at": "21.10.2026 10:45",
+      "count": 7
+    },
+    {
+      "home": "Sporting CP",
+      "away": "LASK Linz",
+      "league": "ŞMP",
+      "at": "21.10.2026 10:45",
+      "count": 13
+    },
     {
       "home": "NK Celje",
       "away": "Red Bull Salzburg",
@@ -265,13 +293,6 @@
       "league": "LKU",
       "at": "21.10.2026 09:19",
       "count": 7
-    },
-    {
-      "home": "Sporting CP",
-      "away": "LASK Linz",
-      "league": "ŞMP",
-      "at": "21.10.2026 09:17",
-      "count": 14
     },
     {
       "home": "Aston Villa",
@@ -300,27 +321,6 @@
       "league": "AVL",
       "at": "21.10.2026 08:14",
       "count": 17
-    },
-    {
-      "home": "FC Thun",
-      "away": "Hajduk Split",
-      "league": "AVKL",
-      "at": "21.10.2026 08:14",
-      "count": 9
-    },
-    {
-      "home": "Olympiakos",
-      "away": "AC Sparta Prague",
-      "league": "AVL",
-      "at": "21.10.2026 08:14",
-      "count": 2
-    },
-    {
-      "home": "FC Midtjylland",
-      "away": "Sint-Truidense VV",
-      "league": "AVKL",
-      "at": "21.10.2026 08:14",
-      "count": 10
     }
   ],
   "paywall": {
