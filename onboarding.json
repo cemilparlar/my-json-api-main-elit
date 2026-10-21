@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 13:48",
+  "updatedAt": "21.10.2026 14:11",
   "config": {
     "pages": [
       "engine",
@@ -22,35 +22,47 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 264,
-      "lost": 127,
-      "total": 391,
-      "rate": 67.5
+      "won": 249,
+      "lost": 124,
+      "total": 373,
+      "rate": 66.8
     },
-    "totalAnalyses": 141769,
+    "totalAnalyses": 141785,
     "leagues": 527,
     "pro": {
-      "won": 27,
-      "lost": 14,
-      "total": 41,
-      "rate": 65.9
+      "won": 28,
+      "lost": 16,
+      "total": 44,
+      "rate": 63.6
     },
     "insights": {
-      "won": 47,
-      "lost": 29,
-      "total": 76,
-      "rate": 61.8
+      "won": 48,
+      "lost": 34,
+      "total": 82,
+      "rate": 58.5
     },
     "coupons": {
       "won": 1,
-      "lost": 4,
-      "total": 5,
-      "rate": 20.0
+      "lost": 6,
+      "total": 7,
+      "rate": 14.3
     },
-    "analyses24h": 859,
-    "analyses30d": 18766
+    "analyses24h": 828,
+    "analyses30d": 18754
   },
   "recentWins": [
+    {
+      "home": "Peterborough United",
+      "away": "Sheffield Wednesday",
+      "league": "INGPDL",
+      "date": "21.10.2026 12:00",
+      "prediction": "1st Half Double Chance 1X",
+      "odds": 1.12,
+      "probability": 76.92,
+      "patternScore": 69.39,
+      "firstHalf": "2 - 0",
+      "finalScore": "2 - 2"
+    },
     {
       "home": "Como U19",
       "away": "Manchester United",
@@ -98,18 +110,6 @@
       "patternScore": 57.65,
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0"
-    },
-    {
-      "home": "V-Varen Nagasaki",
-      "away": "Sanfrecce Hiroshima",
-      "league": "JAP",
-      "date": "21.10.2026 10:00",
-      "prediction": "Handicap (2:0) 1",
-      "odds": 1.43,
-      "probability": 100.0,
-      "patternScore": 55.9,
-      "firstHalf": "2 - 0",
-      "finalScore": "4 - 0"
     }
   ],
   "recentCoupons": [
@@ -146,6 +146,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Peterborough United",
+      "away": "Sheffield Wednesday",
+      "prediction": "1st Half Double Chance 1X",
+      "odds": 1.12,
+      "at": "21.10.2026 12:00"
+    },
+    {
+      "type": "won",
       "home": "Como U19",
       "away": "Manchester United",
       "prediction": "Under 4.5 Goals",
@@ -169,30 +177,22 @@
       "at": "21.10.2026 10:00"
     },
     {
-      "type": "won",
-      "home": "Fagiano Okayama",
-      "away": "Mito HollyHock",
-      "prediction": "Under 3.5 Goals",
-      "odds": 1.14,
-      "at": "21.10.2026 10:00"
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.29,
+      "at": "21.10.2026 14:11"
     },
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.37,
-      "at": "21.10.2026 13:25"
+      "odds": 2.01,
+      "at": "21.10.2026 14:11"
     },
     {
       "type": "coupon",
-      "size": 3,
-      "odds": 1.26,
-      "at": "21.10.2026 13:25"
-    },
-    {
-      "type": "coupon",
-      "size": 3,
-      "odds": 3.93,
-      "at": "21.10.2026 13:25"
+      "size": 2,
+      "odds": 1.17,
+      "at": "21.10.2026 14:11"
     },
     {
       "type": "updated",
@@ -226,15 +226,24 @@
     }
   ],
   "today": {
-    "home": "Atlas FC",
-    "away": "Club America",
+    "home": "Club Puebla",
+    "away": "CF Monterrey",
     "league": "MEK",
     "date": "22.10.2026 01:00",
-    "patternScore": 72.02,
-    "patternText": "127.171/176.571",
-    "picks": 3
+    "patternScore": 72.1,
+    "patternText": "129.322/179.368",
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Club Puebla",
+      "away": "CF Monterrey",
+      "league": "MEK",
+      "date": "22.10.2026 01:00",
+      "patternScore": 72.1,
+      "patternText": "129.322/179.368",
+      "picks": 2
+    },
     {
       "home": "Atlas FC",
       "away": "Club America",
@@ -270,31 +279,29 @@
       "patternScore": 71.49,
       "patternText": "96.976/135.652",
       "picks": 1
-    },
-    {
-      "home": "Afc Whyteleafe",
-      "away": "Burgess Hill To",
-      "league": "İNGNLP",
-      "date": "21.10.2026 18:45",
-      "patternScore": 71.48,
-      "patternText": "169.154/236.651",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Trabzonspor",
+      "away": "Heart of Midlothian",
+      "league": "AVKL",
+      "at": "21.10.2026 14:08",
+      "count": 11
+    },
+    {
+      "home": "SE Palmeiras",
+      "away": "Fluminense FC",
+      "league": "LKU",
+      "at": "21.10.2026 14:07",
+      "count": 11
+    },
     {
       "home": "Ajax",
       "away": "Atalanta",
       "league": "AVKL",
       "at": "21.10.2026 13:29",
       "count": 11
-    },
-    {
-      "home": "Trabzonspor",
-      "away": "Heart of Midlothian",
-      "league": "AVKL",
-      "at": "21.10.2026 13:29",
-      "count": 15
     },
     {
       "home": "Sporting CP",
@@ -344,13 +351,6 @@
       "league": "ŞMP",
       "at": "21.10.2026 13:14",
       "count": 15
-    },
-    {
-      "home": "Bayern Munich",
-      "away": "Arsenal",
-      "league": "ŞMP",
-      "at": "21.10.2026 13:14",
-      "count": 5
     }
   ],
   "paywall": {
