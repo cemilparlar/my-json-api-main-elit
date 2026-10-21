@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 23:00",
+  "updatedAt": "21.10.2026 23:14",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 214,
+      "won": 213,
       "lost": 96,
-      "total": 310,
-      "rate": 69.0
+      "total": 309,
+      "rate": 68.9
     },
-    "totalAnalyses": 142172,
+    "totalAnalyses": 142185,
     "leagues": 527,
     "pro": {
       "won": 61,
-      "lost": 25,
-      "total": 86,
-      "rate": 70.9
+      "lost": 26,
+      "total": 87,
+      "rate": 70.1
     },
     "insights": {
       "won": 114,
-      "lost": 48,
-      "total": 162,
-      "rate": 70.4
+      "lost": 49,
+      "total": 163,
+      "rate": 69.9
     },
     "coupons": {
-      "won": 10,
+      "won": 11,
       "lost": 13,
-      "total": 23,
-      "rate": 43.5
+      "total": 24,
+      "rate": 45.8
     },
-    "analyses24h": 721,
-    "analyses30d": 18713
+    "analyses24h": 726,
+    "analyses30d": 18718
   },
   "recentWins": [
     {
@@ -119,6 +119,35 @@
   ],
   "recentCoupons": [
     {
+      "size": 3,
+      "totalOdds": 1.28,
+      "winChance": 36.38,
+      "completedAt": "21.10.2026 23:14",
+      "legs": [
+        {
+          "home": "Afc Whyteleafe",
+          "away": "Burgess Hill To",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "2 - 3"
+        },
+        {
+          "home": "Avro",
+          "away": "Ashton United",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "3 - 2"
+        },
+        {
+          "home": "Estudiantes Fc",
+          "away": "Caracas FC",
+          "prediction": "Double Chance 1X",
+          "odds": 1.08,
+          "finalScore": "1 - 1"
+        }
+      ]
+    },
+    {
       "size": 1,
       "totalOdds": 1.11,
       "winChance": 67.95,
@@ -160,21 +189,6 @@
           "prediction": "Match Result 1",
           "odds": 1.08,
           "finalScore": "1 - 0"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.13,
-      "winChance": 58.21,
-      "completedAt": "21.10.2026 21:11",
-      "legs": [
-        {
-          "home": "Club Brugge",
-          "away": "RC Lens",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.13,
-          "finalScore": "3 - 0"
         }
       ]
     }
@@ -250,15 +264,15 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 20:19",
-      "home": "Estudiantes Fc",
-      "away": "Caracas FC"
+      "at": "21.10.2026 21:26",
+      "home": "Deportivo Tachira",
+      "away": "Monagas SC"
     },
     {
       "type": "updated",
       "at": "21.10.2026 21:26",
-      "home": "Deportivo Tachira",
-      "away": "Monagas SC"
+      "home": "Club Atletico Torque",
+      "away": "Atletico Mineiro"
     }
   ],
   "today": {
@@ -266,8 +280,8 @@
     "away": "Club America",
     "league": "MEK",
     "date": "22.10.2026 01:00",
-    "patternScore": 72.06,
-    "patternText": "129.485/179.693",
+    "patternScore": 72.05,
+    "patternText": "129.485/179.723",
     "picks": 3
   },
   "todayList": [
@@ -276,8 +290,8 @@
       "away": "Club America",
       "league": "MEK",
       "date": "22.10.2026 01:00",
-      "patternScore": 72.06,
-      "patternText": "129.485/179.693",
+      "patternScore": 72.05,
+      "patternText": "129.485/179.723",
       "picks": 3
     },
     {
@@ -286,7 +300,7 @@
       "league": "AVKL",
       "date": "22.10.2026 16:45",
       "patternScore": 71.38,
-      "patternText": "187.292/262.381",
+      "patternText": "187.292/262.387",
       "picks": 1
     },
     {
@@ -294,8 +308,8 @@
       "away": "CF Monterrey",
       "league": "MEK",
       "date": "22.10.2026 01:00",
-      "patternScore": 71.22,
-      "patternText": "231.150/324.571",
+      "patternScore": 71.21,
+      "patternText": "231.150/324.585",
       "picks": 1
     },
     {
@@ -304,7 +318,7 @@
       "league": "AVC",
       "date": "22.10.2026 08:30",
       "patternScore": 71.17,
-      "patternText": "97.823/137.452",
+      "patternText": "97.823/137.454",
       "picks": 3
     },
     {
@@ -313,11 +327,39 @@
       "league": "ENDL1",
       "date": "22.10.2026 12:00",
       "patternScore": 71.01,
-      "patternText": "259.451/365.366",
+      "patternText": "259.451/365.380",
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Pafos Fc",
+      "away": "Riga Fc",
+      "league": "AVKL",
+      "at": "21.10.2026 23:11",
+      "count": 9
+    },
+    {
+      "home": "Belgrano Women",
+      "away": "Universitario D",
+      "league": "LKUW",
+      "at": "21.10.2026 23:04",
+      "count": 1
+    },
+    {
+      "home": "Lech Poznan",
+      "away": "Sunderland",
+      "league": "AVL",
+      "at": "21.10.2026 23:04",
+      "count": 2
+    },
+    {
+      "home": "Getafe CF",
+      "away": "FC Lugano",
+      "league": "AVKL",
+      "at": "21.10.2026 23:04",
+      "count": 5
+    },
     {
       "home": "SC Braga",
       "away": "KAA Gent",
@@ -359,34 +401,6 @@
       "league": "AVKL",
       "at": "21.10.2026 22:04",
       "count": 4
-    },
-    {
-      "home": "Olympiakos",
-      "away": "AC Sparta Prague",
-      "league": "AVL",
-      "at": "21.10.2026 22:04",
-      "count": 4
-    },
-    {
-      "home": "Club Atletico Torque",
-      "away": "Atletico Mineiro",
-      "league": "CSA",
-      "at": "21.10.2026 21:26",
-      "count": 10
-    },
-    {
-      "home": "Omonia",
-      "away": "SL Benfica",
-      "league": "AVL",
-      "at": "21.10.2026 21:19",
-      "count": 6
-    },
-    {
-      "home": "Belgrano Women",
-      "away": "Universitario D",
-      "league": "LKUW",
-      "at": "21.10.2026 21:18",
-      "count": 1
     }
   ],
   "paywall": {
