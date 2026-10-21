@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 10:53",
+  "updatedAt": "21.10.2026 11:04",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 234,
+      "won": 228,
       "lost": 98,
-      "total": 332,
-      "rate": 70.5
+      "total": 326,
+      "rate": 69.9
     },
-    "totalAnalyses": 141561,
+    "totalAnalyses": 141565,
     "leagues": 526,
     "pro": {
       "won": 0,
@@ -47,10 +47,22 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 808,
-    "analyses30d": 18698
+    "analyses24h": 799,
+    "analyses30d": 18695
   },
   "recentWins": [
+    {
+      "home": "Bali United",
+      "away": "Garudayaksa",
+      "league": "ENDL1",
+      "date": "21.10.2026 08:30",
+      "prediction": "Match Result 1",
+      "odds": 1.29,
+      "probability": 74.42,
+      "patternScore": 68.47,
+      "firstHalf": "1 - 0",
+      "finalScore": "5 - 0"
+    },
     {
       "home": "Fukushima Unit",
       "away": "Giravanz Kitakyushu",
@@ -98,22 +110,18 @@
       "patternScore": null,
       "firstHalf": "0 - 0",
       "finalScore": "1 - 0"
-    },
-    {
-      "home": "Montedio Yamagata",
-      "away": "Consadole Sapporo",
-      "league": "JAP2",
-      "date": "21.10.2026 04:00",
-      "prediction": "Double Chance 12",
-      "odds": 1.14,
-      "probability": 70.21,
-      "patternScore": null,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 2"
     }
   ],
   "recentCoupons": [],
   "ticker": [
+    {
+      "type": "won",
+      "home": "Bali United",
+      "away": "Garudayaksa",
+      "prediction": "Match Result 1",
+      "odds": 1.29,
+      "at": "21.10.2026 08:30"
+    },
     {
       "type": "won",
       "home": "Fukushima Unit",
@@ -139,12 +147,10 @@
       "at": "21.10.2026 04:00"
     },
     {
-      "type": "won",
-      "home": "Tochigi SC",
-      "away": "Mio Biwako Shig",
-      "prediction": "Double Chance 12",
-      "odds": 1.11,
-      "at": "21.10.2026 04:00"
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.27,
+      "at": "21.10.2026 11:04"
     },
     {
       "type": "coupon",
@@ -159,22 +165,10 @@
       "at": "21.10.2026 10:53"
     },
     {
-      "type": "coupon",
-      "size": 2,
-      "odds": 1.34,
-      "at": "21.10.2026 10:53"
-    },
-    {
       "type": "updated",
       "at": "21.10.2026 10:45",
-      "home": "Real Betis U19",
-      "away": "Feyenoord U19"
-    },
-    {
-      "type": "updated",
-      "at": "21.10.2026 10:45",
-      "home": "Bayern Munich",
-      "away": "Arsenal Fc U19"
+      "home": "Inter Milan",
+      "away": "S. Donetsk U19"
     },
     {
       "type": "updated",
@@ -185,14 +179,20 @@
     {
       "type": "updated",
       "at": "21.10.2026 10:45",
-      "home": "Cherno More",
-      "away": "Lokomotiv Plovdiv"
+      "home": "Marsaxlokk Fc",
+      "away": "Birzebbuga"
     },
     {
       "type": "updated",
       "at": "21.10.2026 10:45",
-      "home": "Marsaxlokk Fc",
-      "away": "Birzebbuga"
+      "home": "Ceramica Cleopatra",
+      "away": "Petrojet"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 09:04",
+      "home": "Al Ahly SC",
+      "away": "Al Qanah"
     }
   ],
   "today": {
@@ -215,6 +215,15 @@
       "picks": 3
     },
     {
+      "home": "Montrose Women",
+      "away": "",
+      "league": "İKPL1",
+      "date": "21.10.2026 18:30",
+      "patternScore": 71.91,
+      "patternText": "180.980/251.660",
+      "picks": 1
+    },
+    {
       "home": "New York Cosmo",
       "away": "Spokane Velocit",
       "league": "USL1",
@@ -229,7 +238,7 @@
       "league": "İSTL",
       "date": "21.10.2026 17:00",
       "patternScore": 71.83,
-      "patternText": "169.794/236.382",
+      "patternText": "169.796/236.384",
       "picks": 1
     },
     {
@@ -238,16 +247,7 @@
       "league": "İSV1Y",
       "date": "21.10.2026 17:00",
       "patternScore": 71.83,
-      "patternText": "185.927/258.857",
-      "picks": 1
-    },
-    {
-      "home": "Celtic Women",
-      "away": "Hearts Women",
-      "league": "İKPL1",
-      "date": "21.10.2026 18:30",
-      "patternScore": 71.51,
-      "patternText": "170.982/239.086",
+      "patternText": "185.929/258.859",
       "picks": 1
     }
   ],
