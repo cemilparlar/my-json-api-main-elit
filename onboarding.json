@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 15:42",
+  "updatedAt": "21.10.2026 15:56",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 263,
-      "lost": 128,
-      "total": 391,
+      "won": 265,
+      "lost": 129,
+      "total": 394,
       "rate": 67.3
     },
-    "totalAnalyses": 141909,
+    "totalAnalyses": 141933,
     "leagues": 527,
     "pro": {
-      "won": 30,
+      "won": 32,
       "lost": 17,
-      "total": 47,
-      "rate": 63.8
+      "total": 49,
+      "rate": 65.3
     },
     "insights": {
-      "won": 55,
+      "won": 57,
       "lost": 37,
-      "total": 92,
-      "rate": 59.8
+      "total": 94,
+      "rate": 60.6
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 22.2
     },
-    "analyses24h": 900,
-    "analyses30d": 18808
+    "analyses24h": 915,
+    "analyses30d": 18823
   },
   "recentWins": [
     {
@@ -255,15 +255,24 @@
     }
   ],
   "today": {
-    "home": "Atlas FC",
-    "away": "Club America",
-    "league": "MEK",
-    "date": "22.10.2026 01:00",
-    "patternScore": 72.02,
-    "patternText": "127.179/176.581",
-    "picks": 3
+    "home": "Real Potosi",
+    "away": "Bolivar",
+    "league": "BOLPLK",
+    "date": "21.10.2026 22:30",
+    "patternScore": 72.29,
+    "patternText": "158.658/219.483",
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Real Potosi",
+      "away": "Bolivar",
+      "league": "BOLPLK",
+      "date": "21.10.2026 22:30",
+      "patternScore": 72.29,
+      "patternText": "158.658/219.483",
+      "picks": 1
+    },
     {
       "home": "Atlas FC",
       "away": "Club America",
@@ -271,7 +280,7 @@
       "date": "22.10.2026 01:00",
       "patternScore": 72.02,
       "patternText": "127.179/176.581",
-      "picks": 3
+      "picks": 5
     },
     {
       "home": "New York Cosmo",
@@ -281,15 +290,6 @@
       "patternScore": 71.9,
       "patternText": "189.965/264.212",
       "picks": 2
-    },
-    {
-      "home": "Real Potosi",
-      "away": "Bolivar",
-      "league": "BOLPLK",
-      "date": "21.10.2026 22:30",
-      "patternScore": 71.87,
-      "patternText": "149.628/208.199",
-      "picks": 1
     },
     {
       "home": "Montrose Women",
@@ -315,8 +315,22 @@
       "home": "SC Braga",
       "away": "KAA Gent",
       "league": "AVKL",
-      "at": "21.10.2026 15:29",
-      "count": 5
+      "at": "21.10.2026 15:44",
+      "count": 4
+    },
+    {
+      "home": "Real Madrid",
+      "away": "RB Leipzig",
+      "league": "ŞMP",
+      "at": "21.10.2026 15:43",
+      "count": 14
+    },
+    {
+      "home": "LOSC Lille",
+      "away": "Galatasaray",
+      "league": "ŞMP",
+      "at": "21.10.2026 15:43",
+      "count": 8
     },
     {
       "home": "Borac Banja Lu",
@@ -366,20 +380,6 @@
       "league": "AVL",
       "at": "21.10.2026 14:49",
       "count": 3
-    },
-    {
-      "home": "Inter Escaldes",
-      "away": "Universitatea Craiova",
-      "league": "AVKL",
-      "at": "21.10.2026 14:46",
-      "count": 12
-    },
-    {
-      "home": "NK Celje",
-      "away": "Red Bull Salzburg",
-      "league": "AVL",
-      "at": "21.10.2026 14:46",
-      "count": 6
     }
   ],
   "paywall": {
