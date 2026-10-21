@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 08:15",
+  "updatedAt": "21.10.2026 08:24",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 332,
       "rate": 70.2
     },
-    "totalAnalyses": 141384,
-    "leagues": 524,
+    "totalAnalyses": 141424,
+    "leagues": 525,
     "pro": {
       "won": 0,
       "lost": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 737,
-    "analyses30d": 18631
+    "analyses24h": 749,
+    "analyses30d": 18643
   },
   "recentWins": [
     {
@@ -165,6 +165,12 @@
       "at": "21.10.2026 08:15"
     },
     {
+      "type": "updated",
+      "at": "21.10.2026 08:16",
+      "home": "Ceramica Cleopatra",
+      "away": "Petrojet"
+    },
+    {
       "type": "kickoff",
       "home": "Yokohama F. Marinos",
       "away": "Tokyo Verdy",
@@ -184,19 +190,28 @@
     },
     {
       "type": "analysis",
-      "count": 737
+      "count": 749
     }
   ],
   "today": {
-    "home": "New York Cosmo",
-    "away": "Spokane Velocit",
-    "league": "USL1",
-    "date": "21.10.2026 23:00",
-    "patternScore": 71.91,
-    "patternText": "189.831/263.984",
-    "picks": 2
+    "home": "Atlas FC",
+    "away": "Club America",
+    "league": "MEK",
+    "date": "22.10.2026 01:00",
+    "patternScore": 72.03,
+    "patternText": "127.095/176.449",
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Atlas FC",
+      "away": "Club America",
+      "league": "MEK",
+      "date": "22.10.2026 01:00",
+      "patternScore": 72.03,
+      "patternText": "127.095/176.449",
+      "picks": 3
+    },
     {
       "home": "New York Cosmo",
       "away": "Spokane Velocit",
@@ -232,18 +247,30 @@
       "patternScore": 71.81,
       "patternText": "139.874/194.770",
       "picks": 3
-    },
-    {
-      "home": "Jubilo Iwata",
-      "away": "Oita Trinita",
-      "league": "JAP2",
-      "date": "21.10.2026 10:00",
-      "patternScore": 71.61,
-      "patternText": "120.028/167.609",
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sporting CP",
+      "away": "LASK Linz",
+      "league": "ŞMP",
+      "at": "21.10.2026 08:18",
+      "count": 13
+    },
+    {
+      "home": "Borac Banja Lu",
+      "away": "Kuopion",
+      "league": "AVKL",
+      "at": "21.10.2026 08:16",
+      "count": 6
+    },
+    {
+      "home": "FC Viktoria Plzen",
+      "away": "PFC Levski Sofia",
+      "league": "AVL",
+      "at": "21.10.2026 08:15",
+      "count": 5
+    },
     {
       "home": "Besiktas",
       "away": "Crystal Palace",
@@ -292,27 +319,6 @@
       "league": "AVL",
       "at": "21.10.2026 08:14",
       "count": 3
-    },
-    {
-      "home": "FC Nordsjaelland",
-      "away": "CSKA Sofia",
-      "league": "AVKL",
-      "at": "21.10.2026 08:12",
-      "count": 13
-    },
-    {
-      "home": "Dinamo Zagreb",
-      "away": "NEC Nijmegen",
-      "league": "AVL",
-      "at": "21.10.2026 08:12",
-      "count": 2
-    },
-    {
-      "home": "Getafe CF",
-      "away": "FC Lugano",
-      "league": "AVKL",
-      "at": "21.10.2026 08:12",
-      "count": 7
     }
   ],
   "paywall": {
