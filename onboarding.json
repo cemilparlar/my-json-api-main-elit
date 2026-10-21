@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 19:11",
+  "updatedAt": "21.10.2026 19:26",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 253,
       "rate": 68.4
     },
-    "totalAnalyses": 142046,
+    "totalAnalyses": 142060,
     "leagues": 527,
     "pro": {
-      "won": 52,
+      "won": 53,
       "lost": 23,
-      "total": 75,
-      "rate": 69.3
+      "total": 76,
+      "rate": 69.7
     },
     "insights": {
-      "won": 90,
+      "won": 91,
       "lost": 44,
-      "total": 134,
-      "rate": 67.2
+      "total": 135,
+      "rate": 67.4
     },
     "coupons": {
       "won": 4,
@@ -47,8 +47,8 @@
       "total": 15,
       "rate": 26.7
     },
-    "analyses24h": 681,
-    "analyses30d": 18674
+    "analyses24h": 689,
+    "analyses30d": 18683
   },
   "recentWins": [
     {
@@ -88,28 +88,28 @@
       "finalScore": "2 - 3"
     },
     {
-      "home": "Jeddah Club",
-      "away": "Al Jabalain",
-      "league": "SUUD1",
-      "date": "21.10.2026 16:50",
-      "prediction": "Double Chance 12",
-      "odds": 1.06,
-      "probability": 79.17,
-      "patternScore": 70.59,
-      "firstHalf": "0 - 1",
-      "finalScore": "0 - 1"
+      "home": "Al Ahly SC",
+      "away": "Al Qanah",
+      "league": "MSR",
+      "date": "21.10.2026 17:00",
+      "prediction": "Handicap (0:2) 2",
+      "odds": 1.62,
+      "probability": 75.0,
+      "patternScore": 68.06,
+      "firstHalf": "2 - 1",
+      "finalScore": "3 - 3"
     },
     {
-      "home": "Como 1907",
-      "away": "Manchester United",
-      "league": "ŞMP",
-      "date": "21.10.2026 16:45",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.36,
-      "probability": 100.0,
-      "patternScore": 56.44,
-      "firstHalf": "1 - 0",
-      "finalScore": "4 - 1"
+      "home": "Vanlose IF",
+      "away": "Nykobing",
+      "league": "DAK",
+      "date": "21.10.2026 17:00",
+      "prediction": "Match Result 2",
+      "odds": 1.21,
+      "probability": 76.92,
+      "patternScore": 67.52,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 2"
     }
   ],
   "recentCoupons": [
@@ -236,11 +236,11 @@
     },
     {
       "type": "won",
-      "home": "Jeddah Club",
-      "away": "Al Jabalain",
-      "prediction": "Double Chance 12",
-      "odds": 1.06,
-      "at": "21.10.2026 16:50"
+      "home": "Al Ahly SC",
+      "away": "Al Qanah",
+      "prediction": "Handicap (0:2) 2",
+      "odds": 1.62,
+      "at": "21.10.2026 17:00"
     },
     {
       "type": "coupon",
@@ -274,49 +274,40 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 13:11",
-      "home": "PK-35 Vantaa",
-      "away": "Jaro"
-    },
-    {
-      "type": "updated",
       "at": "21.10.2026 14:47",
       "home": "Zlate Moravce",
       "away": "KFC Komarno"
     },
     {
       "type": "updated",
-      "at": "21.10.2026 13:11",
-      "home": "Marsaxlokk Fc",
-      "away": "Birzebbuga"
+      "at": "21.10.2026 14:19",
+      "home": "Como 1907",
+      "away": "Manchester United"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 15:58",
+      "home": "LOSC Lille",
+      "away": "Galatasaray"
     }
   ],
   "today": {
-    "home": "Deportivo La Guaira",
-    "away": "Aragua",
-    "league": "VENK",
-    "date": "21.10.2026 22:00",
-    "patternScore": 72.53,
-    "patternText": "144.318/198.971",
-    "picks": 1
+    "home": "Atlas FC",
+    "away": "Club America",
+    "league": "MEK",
+    "date": "22.10.2026 01:00",
+    "patternScore": 72.06,
+    "patternText": "129.447/179.649",
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Deportivo La Guaira",
-      "away": "Aragua",
-      "league": "VENK",
-      "date": "21.10.2026 22:00",
-      "patternScore": 72.53,
-      "patternText": "144.318/198.971",
-      "picks": 1
-    },
     {
       "home": "Atlas FC",
       "away": "Club America",
       "league": "MEK",
       "date": "22.10.2026 01:00",
       "patternScore": 72.06,
-      "patternText": "129.439/179.639",
+      "patternText": "129.447/179.649",
       "picks": 3
     },
     {
@@ -325,8 +316,26 @@
       "league": "VENK",
       "date": "21.10.2026 21:00",
       "patternScore": 71.9,
-      "patternText": "128.412/178.591",
+      "patternText": "128.422/178.601",
       "picks": 2
+    },
+    {
+      "home": "SE Palmeiras",
+      "away": "Fluminense FC",
+      "league": "LKU",
+      "date": "22.10.2026 00:30",
+      "patternScore": 71.62,
+      "patternText": "131.153/183.131",
+      "picks": 4
+    },
+    {
+      "home": "Santos Laguna",
+      "away": "Pumas UNAM",
+      "league": "MEK",
+      "date": "22.10.2026 03:10",
+      "patternScore": 71.38,
+      "patternText": "84.240/118.017",
+      "picks": 3
     },
     {
       "home": "Pafos Fc",
@@ -334,17 +343,8 @@
       "league": "AVKL",
       "date": "22.10.2026 16:45",
       "patternScore": 71.38,
-      "patternText": "187.222/262.307",
+      "patternText": "187.240/262.325",
       "picks": 1
-    },
-    {
-      "home": "Santos Laguna",
-      "away": "Pumas UNAM",
-      "league": "MEK",
-      "date": "22.10.2026 03:10",
-      "patternScore": 71.28,
-      "patternText": "82.374/115.569",
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
