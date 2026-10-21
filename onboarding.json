@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 20:42",
+  "updatedAt": "21.10.2026 20:57",
   "config": {
     "pages": [
       "engine",
@@ -22,35 +22,71 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 174,
-      "lost": 81,
-      "total": 255,
+      "won": 178,
+      "lost": 83,
+      "total": 261,
       "rate": 68.2
     },
     "totalAnalyses": 142073,
     "leagues": 527,
     "pro": {
-      "won": 53,
+      "won": 55,
       "lost": 24,
-      "total": 77,
-      "rate": 68.8
+      "total": 79,
+      "rate": 69.6
     },
     "insights": {
-      "won": 95,
+      "won": 98,
       "lost": 45,
-      "total": 140,
-      "rate": 67.9
+      "total": 143,
+      "rate": 68.5
     },
     "coupons": {
-      "won": 4,
+      "won": 5,
       "lost": 12,
-      "total": 16,
-      "rate": 25.0
+      "total": 17,
+      "rate": 29.4
     },
-    "analyses24h": 688,
-    "analyses30d": 18681
+    "analyses24h": 679,
+    "analyses30d": 18672
   },
   "recentWins": [
+    {
+      "home": "Afc Whyteleafe",
+      "away": "Burgess Hill To",
+      "league": "İNGNLP",
+      "date": "21.10.2026 18:45",
+      "prediction": "Double Chance 12",
+      "odds": 1.1,
+      "probability": 86.96,
+      "patternScore": 71.48,
+      "firstHalf": "2 - 2",
+      "finalScore": "2 - 3"
+    },
+    {
+      "home": "Avro",
+      "away": "Ashton United",
+      "league": "İNGNLP",
+      "date": "21.10.2026 18:45",
+      "prediction": "Double Chance 1X",
+      "odds": 1.09,
+      "probability": 80.62,
+      "patternScore": 70.75,
+      "firstHalf": "3 - 0",
+      "finalScore": "3 - 2"
+    },
+    {
+      "home": "Zabbar St Patr",
+      "away": "Sliema",
+      "league": "MLTP",
+      "date": "21.10.2026 18:30",
+      "prediction": "Double Chance 12",
+      "odds": 1.13,
+      "probability": 84.85,
+      "patternScore": 71.04,
+      "firstHalf": "0 - 1",
+      "finalScore": "2 - 3"
+    },
     {
       "home": "AC Bellinzona",
       "away": "FC Bruhl",
@@ -74,45 +110,24 @@
       "patternScore": 69.54,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 0"
-    },
-    {
-      "home": "Uj Krakow Women",
-      "away": "Lech Poznan Uam",
-      "league": "POLBE",
-      "date": "21.10.2026 17:00",
-      "prediction": "Double Chance 12",
-      "odds": 1.08,
-      "probability": 70.59,
-      "patternScore": 70.25,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 2"
-    },
-    {
-      "home": "FC Kreuzlingen",
-      "away": "FC Bulle",
-      "league": "İSV1Y",
-      "date": "21.10.2026 17:00",
-      "prediction": "Double Chance 12",
-      "odds": 1.09,
-      "probability": 70.0,
-      "patternScore": 70.67,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 3"
-    },
-    {
-      "home": "Al Ahly SC",
-      "away": "Al Qanah",
-      "league": "MSR",
-      "date": "21.10.2026 17:00",
-      "prediction": "Handicap (0:2) 2",
-      "odds": 1.62,
-      "probability": 75.0,
-      "patternScore": 68.06,
-      "firstHalf": "2 - 1",
-      "finalScore": "3 - 3"
     }
   ],
   "recentCoupons": [
+    {
+      "size": 1,
+      "totalOdds": 1.34,
+      "winChance": 55.68,
+      "completedAt": "21.10.2026 20:57",
+      "legs": [
+        {
+          "home": "Real Madrid",
+          "away": "RB Leipzig",
+          "prediction": "1st Half Result 1",
+          "odds": 1.34,
+          "finalScore": "4 - 1"
+        }
+      ]
+    },
     {
       "size": 1,
       "totalOdds": 1.15,
@@ -178,38 +193,33 @@
           "finalScore": "4 - 2"
         }
       ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.74,
-      "winChance": 21.12,
-      "completedAt": "21.10.2026 13:25",
-      "legs": [
-        {
-          "home": "Nagoya Grampus",
-          "away": "Cerezo Osaka",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.07,
-          "finalScore": "1 - 1"
-        },
-        {
-          "home": "Fagiano Okayama",
-          "away": "Mito HollyHock",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.14,
-          "finalScore": "2 - 0"
-        },
-        {
-          "home": "V-Varen Nagasaki",
-          "away": "Sanfrecce Hiroshima",
-          "prediction": "Handicap (2:0) 1",
-          "odds": 1.43,
-          "finalScore": "4 - 0"
-        }
-      ]
     }
   ],
   "ticker": [
+    {
+      "type": "won",
+      "home": "Afc Whyteleafe",
+      "away": "Burgess Hill To",
+      "prediction": "Double Chance 12",
+      "odds": 1.1,
+      "at": "21.10.2026 18:45"
+    },
+    {
+      "type": "won",
+      "home": "Avro",
+      "away": "Ashton United",
+      "prediction": "Double Chance 1X",
+      "odds": 1.09,
+      "at": "21.10.2026 18:45"
+    },
+    {
+      "type": "won",
+      "home": "Zabbar St Patr",
+      "away": "Sliema",
+      "prediction": "Double Chance 12",
+      "odds": 1.13,
+      "at": "21.10.2026 18:30"
+    },
     {
       "type": "won",
       "home": "AC Bellinzona",
@@ -217,30 +227,6 @@
       "prediction": "Double Chance 12",
       "odds": 1.1,
       "at": "21.10.2026 17:30"
-    },
-    {
-      "type": "won",
-      "home": "Ceramica Cleopatra",
-      "away": "Petrojet",
-      "prediction": "Under 3.5 Goals",
-      "odds": 1.08,
-      "at": "21.10.2026 17:00"
-    },
-    {
-      "type": "won",
-      "home": "Uj Krakow Women",
-      "away": "Lech Poznan Uam",
-      "prediction": "Double Chance 12",
-      "odds": 1.08,
-      "at": "21.10.2026 17:00"
-    },
-    {
-      "type": "won",
-      "home": "FC Kreuzlingen",
-      "away": "FC Bulle",
-      "prediction": "Double Chance 12",
-      "odds": 1.09,
-      "at": "21.10.2026 17:00"
     },
     {
       "type": "coupon",
@@ -259,12 +245,6 @@
       "size": 1,
       "odds": 1.09,
       "at": "21.10.2026 19:11"
-    },
-    {
-      "type": "updated",
-      "at": "21.10.2026 14:47",
-      "home": "Zlate Moravce",
-      "away": "KFC Komarno"
     },
     {
       "type": "updated",
@@ -289,6 +269,12 @@
       "at": "21.10.2026 15:27",
       "home": "Al Ahly SC",
       "away": "Al Qanah"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 16:26",
+      "home": "Sogndal",
+      "away": "Raufoss"
     }
   ],
   "today": {
@@ -297,7 +283,7 @@
     "league": "MEK",
     "date": "22.10.2026 01:00",
     "patternScore": 72.8,
-    "patternText": "146.690/201.492",
+    "patternText": "146.702/201.504",
     "picks": 3
   },
   "todayList": [
@@ -307,7 +293,7 @@
       "league": "MEK",
       "date": "22.10.2026 01:00",
       "patternScore": 72.8,
-      "patternText": "146.690/201.492",
+      "patternText": "146.702/201.504",
       "picks": 3
     },
     {
@@ -316,7 +302,7 @@
       "league": "MEK",
       "date": "22.10.2026 01:00",
       "patternScore": 72.06,
-      "patternText": "129.451/179.653",
+      "patternText": "129.463/179.665",
       "picks": 3
     },
     {
@@ -325,7 +311,7 @@
       "league": "AVKL",
       "date": "22.10.2026 16:45",
       "patternScore": 71.38,
-      "patternText": "187.248/262.333",
+      "patternText": "187.260/262.345",
       "picks": 1
     },
     {
@@ -334,20 +320,27 @@
       "league": "AVC",
       "date": "22.10.2026 08:30",
       "patternScore": 71.17,
-      "patternText": "97.801/137.426",
+      "patternText": "97.809/137.434",
       "picks": 3
     },
     {
-      "home": "Al Fateh",
-      "away": "Al Shabab",
-      "league": "SUUD",
-      "date": "22.10.2026 14:45",
+      "home": "New York Cosmo",
+      "away": "Spokane Velocit",
+      "league": "USL1",
+      "date": "21.10.2026 23:00",
       "patternScore": 70.72,
-      "patternText": "254.296/359.587",
-      "picks": 5
+      "patternText": "215.382/304.576",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Union St.G",
+      "away": "Hapoel Beer She",
+      "league": "AVL",
+      "at": "21.10.2026 20:48",
+      "count": 5
+    },
     {
       "home": "SE Palmeiras",
       "away": "Fluminense FC",
@@ -410,13 +403,6 @@
       "league": "ŞMP",
       "at": "21.10.2026 18:29",
       "count": 3
-    },
-    {
-      "home": "Getafe CF",
-      "away": "FC Lugano",
-      "league": "AVKL",
-      "at": "21.10.2026 18:19",
-      "count": 4
     }
   ],
   "paywall": {
