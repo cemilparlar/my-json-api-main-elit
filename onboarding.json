@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 21:42",
+  "updatedAt": "21.10.2026 22:03",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 216,
-      "lost": 99,
-      "total": 315,
-      "rate": 68.6
+      "won": 215,
+      "lost": 97,
+      "total": 312,
+      "rate": 68.9
     },
-    "totalAnalyses": 142128,
+    "totalAnalyses": 142137,
     "leagues": 527,
     "pro": {
       "won": 61,
@@ -36,10 +36,10 @@
       "rate": 70.9
     },
     "insights": {
-      "won": 113,
+      "won": 114,
       "lost": 48,
-      "total": 161,
-      "rate": 70.2
+      "total": 162,
+      "rate": 70.4
     },
     "coupons": {
       "won": 10,
@@ -47,8 +47,8 @@
       "total": 23,
       "rate": 43.5
     },
-    "analyses24h": 718,
-    "analyses30d": 18711
+    "analyses24h": 704,
+    "analyses30d": 18696
   },
   "recentWins": [
     {
@@ -61,7 +61,8 @@
       "probability": 100.0,
       "patternScore": 57.54,
       "firstHalf": "1 - 0",
-      "finalScore": "4 - 1"
+      "finalScore": "4 - 1",
+      "pro": true
     },
     {
       "home": "Real Betis",
@@ -73,7 +74,8 @@
       "probability": 100.0,
       "patternScore": 60.21,
       "firstHalf": "0 - 0",
-      "finalScore": "1 - 0"
+      "finalScore": "1 - 0",
+      "pro": true
     },
     {
       "home": "Liverpool Mont",
@@ -85,19 +87,21 @@
       "probability": 76.97,
       "patternScore": 69.93,
       "firstHalf": "0 - 0",
-      "finalScore": "1 - 0"
+      "finalScore": "1 - 0",
+      "pro": true
     },
     {
       "home": "Bayern Munich",
       "away": "Arsenal",
       "league": "ŞMP",
       "date": "21.10.2026 19:00",
-      "prediction": "Handicap (0:1) 2",
-      "odds": 1.34,
+      "prediction": "Double Chance X2",
+      "odds": 1.37,
       "probability": 80.0,
-      "patternScore": 66.76,
+      "patternScore": 67.14,
       "firstHalf": "1 - 1",
-      "finalScore": "2 - 2"
+      "finalScore": "2 - 2",
+      "pro": false
     },
     {
       "home": "Club Brugge",
@@ -109,7 +113,8 @@
       "probability": 100.0,
       "patternScore": 60.75,
       "firstHalf": "1 - 0",
-      "finalScore": "3 - 0"
+      "finalScore": "3 - 0",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -203,9 +208,15 @@
       "type": "won",
       "home": "Bayern Munich",
       "away": "Arsenal",
-      "prediction": "Handicap (0:1) 2",
-      "odds": 1.34,
+      "prediction": "Double Chance X2",
+      "odds": 1.37,
       "at": "21.10.2026 19:00"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.73,
+      "at": "21.10.2026 22:03"
     },
     {
       "type": "coupon",
@@ -220,30 +231,6 @@
       "at": "21.10.2026 19:11"
     },
     {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.07,
-      "at": "21.10.2026 19:11"
-    },
-    {
-      "type": "updated",
-      "at": "21.10.2026 15:58",
-      "home": "LOSC Lille",
-      "away": "Galatasaray"
-    },
-    {
-      "type": "updated",
-      "at": "21.10.2026 15:58",
-      "home": "Jeddah Club",
-      "away": "Al Jabalain"
-    },
-    {
-      "type": "updated",
-      "at": "21.10.2026 15:58",
-      "home": "Vanlose IF",
-      "away": "Nykobing"
-    },
-    {
       "type": "updated",
       "at": "21.10.2026 16:26",
       "home": "Sogndal",
@@ -254,27 +241,36 @@
       "at": "21.10.2026 18:29",
       "home": "Aston Villa",
       "away": "Viking"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 17:16",
+      "home": "Liverpool Mont",
+      "away": "Cerro Largo"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 18:06",
+      "home": "Bayern Munich",
+      "away": "Arsenal"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 20:19",
+      "home": "Estudiantes Fc",
+      "away": "Caracas FC"
     }
   ],
   "today": {
-    "home": "Club Puebla",
-    "away": "CF Monterrey",
-    "league": "MEK",
-    "date": "22.10.2026 01:00",
-    "patternScore": 72.81,
-    "patternText": "146.740/201.546",
-    "picks": 3
+    "home": "New York Cosmo",
+    "away": "Spokane Velocit",
+    "league": "USL1",
+    "date": "21.10.2026 23:00",
+    "patternScore": 72.04,
+    "patternText": "131.607/182.698",
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Club Puebla",
-      "away": "CF Monterrey",
-      "league": "MEK",
-      "date": "22.10.2026 01:00",
-      "patternScore": 72.81,
-      "patternText": "146.740/201.546",
-      "picks": 3
-    },
     {
       "home": "New York Cosmo",
       "away": "Spokane Velocit",
@@ -303,6 +299,15 @@
       "picks": 1
     },
     {
+      "home": "Club Puebla",
+      "away": "CF Monterrey",
+      "league": "MEK",
+      "date": "22.10.2026 01:00",
+      "patternScore": 71.22,
+      "patternText": "231.144/324.565",
+      "picks": 1
+    },
+    {
       "home": "Queensland Lions",
       "away": "Preston Lions",
       "league": "AVC",
@@ -313,6 +318,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Nordsjaelland",
+      "away": "CSKA Sofia",
+      "league": "AVKL",
+      "at": "21.10.2026 21:56",
+      "count": 5
+    },
     {
       "home": "Club Atletico Torque",
       "away": "Atletico Mineiro",
@@ -375,13 +387,6 @@
       "league": "AVL",
       "at": "21.10.2026 20:38",
       "count": 7
-    },
-    {
-      "home": "Columbus Crew",
-      "away": "St. Louis City SC",
-      "league": "ABDK",
-      "at": "21.10.2026 19:29",
-      "count": 8
     }
   ],
   "paywall": {
