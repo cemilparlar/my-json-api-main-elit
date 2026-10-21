@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 08:33",
+  "updatedAt": "21.10.2026 08:45",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 331,
       "rate": 70.4
     },
-    "totalAnalyses": 141424,
+    "totalAnalyses": 141441,
     "leagues": 525,
     "pro": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 744,
-    "analyses30d": 18639
+    "analyses24h": 759,
+    "analyses30d": 18654
   },
   "recentWins": [
     {
@@ -183,15 +183,15 @@
       "away": "LASK Linz"
     },
     {
-      "type": "kickoff",
-      "home": "Yokohama F. Marinos",
-      "away": "Tokyo Verdy",
-      "at": "21.10.2026 10:00"
+      "type": "updated",
+      "at": "21.10.2026 08:43",
+      "home": "Al Najma",
+      "away": "Aali Fc"
     },
     {
       "type": "kickoff",
-      "home": "Fagiano Okayama",
-      "away": "Mito HollyHock",
+      "home": "Yokohama F. Marinos",
+      "away": "Tokyo Verdy",
       "at": "21.10.2026 10:00"
     }
   ],
@@ -252,6 +252,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Aston Villa",
+      "away": "Viking",
+      "league": "ŞMP",
+      "at": "21.10.2026 08:42",
+      "count": 8
+    },
     {
       "home": "Sporting CP",
       "away": "LASK Linz",
@@ -314,13 +321,6 @@
       "league": "AVL",
       "at": "21.10.2026 08:14",
       "count": 6
-    },
-    {
-      "home": "Lillestrom SK",
-      "away": "Real Sociedad",
-      "league": "AVL",
-      "at": "21.10.2026 08:14",
-      "count": 3
     }
   ],
   "paywall": {
