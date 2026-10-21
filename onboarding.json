@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 15:56",
+  "updatedAt": "21.10.2026 16:11",
   "config": {
     "pages": [
       "engine",
@@ -22,35 +22,71 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 265,
-      "lost": 129,
-      "total": 394,
-      "rate": 67.3
+      "won": 276,
+      "lost": 135,
+      "total": 411,
+      "rate": 67.2
     },
-    "totalAnalyses": 141933,
+    "totalAnalyses": 141939,
     "leagues": 527,
     "pro": {
-      "won": 32,
+      "won": 34,
       "lost": 17,
-      "total": 49,
-      "rate": 65.3
+      "total": 51,
+      "rate": 66.7
     },
     "insights": {
-      "won": 57,
-      "lost": 37,
-      "total": 94,
-      "rate": 60.6
+      "won": 63,
+      "lost": 38,
+      "total": 101,
+      "rate": 62.4
     },
     "coupons": {
-      "won": 2,
+      "won": 3,
       "lost": 7,
-      "total": 9,
-      "rate": 22.2
+      "total": 10,
+      "rate": 30.0
     },
-    "analyses24h": 915,
-    "analyses30d": 18823
+    "analyses24h": 917,
+    "analyses30d": 18804
   },
   "recentWins": [
+    {
+      "home": "Inter Milan",
+      "away": "S. Donetsk U19",
+      "league": "UEGL",
+      "date": "21.10.2026 14:00",
+      "prediction": "Match Result 1",
+      "odds": 1.22,
+      "probability": 73.33,
+      "patternScore": 68.29,
+      "firstHalf": "1 - 0",
+      "finalScore": "2 - 0"
+    },
+    {
+      "home": "Ghazl El Mahalla",
+      "away": "Al Ittihad Al S",
+      "league": "MSR",
+      "date": "21.10.2026 14:00",
+      "prediction": "Double Chance 12",
+      "odds": 1.22,
+      "probability": 75.0,
+      "patternScore": 66.4,
+      "firstHalf": "2 - 0",
+      "finalScore": "2 - 1"
+    },
+    {
+      "home": "Bayern Munich",
+      "away": "Arsenal Fc U19",
+      "league": "UEGL",
+      "date": "21.10.2026 14:00",
+      "prediction": "1st Half Double Chance 1X",
+      "odds": 1.09,
+      "probability": 100.0,
+      "patternScore": 64.14,
+      "firstHalf": "3 - 1",
+      "finalScore": "3 - 3"
+    },
     {
       "home": "Bul",
       "away": "NEC Nijmegen",
@@ -74,45 +110,31 @@
       "patternScore": 69.59,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0"
-    },
-    {
-      "home": "Club Brugge U18",
-      "away": "Lens U19",
-      "league": "UEGL",
-      "date": "21.10.2026 13:00",
-      "prediction": "Double Chance 1X",
-      "odds": 1.08,
-      "probability": 91.43,
-      "patternScore": 70.4,
-      "firstHalf": "3 - 1",
-      "finalScore": "4 - 2"
-    },
-    {
-      "home": "Sporting Cp U1",
-      "away": "Lask U19",
-      "league": "UEGL",
-      "date": "21.10.2026 13:00",
-      "prediction": "Under 3.5 Goals",
-      "odds": 2.03,
-      "probability": 100.0,
-      "patternScore": 57.16,
-      "firstHalf": "0 - 0",
-      "finalScore": "2 - 1"
-    },
-    {
-      "home": "Real Betis U19",
-      "away": "Feyenoord U19",
-      "league": "UEGL",
-      "date": "21.10.2026 13:00",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.59,
-      "probability": 75.0,
-      "patternScore": 67.69,
-      "firstHalf": "1 - 2",
-      "finalScore": "1 - 4"
     }
   ],
   "recentCoupons": [
+    {
+      "size": 2,
+      "totalOdds": 1.14,
+      "winChance": 48.79,
+      "completedAt": "21.10.2026 16:11",
+      "legs": [
+        {
+          "home": "Ghazl El Mahalla",
+          "away": "Al Ittihad Al S",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.08,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Bayern Munich",
+          "away": "Arsenal Fc U19",
+          "prediction": "Double Chance 1X",
+          "odds": 1.06,
+          "finalScore": "3 - 3"
+        }
+      ]
+    },
     {
       "size": 3,
       "totalOdds": 1.27,
@@ -175,6 +197,30 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Inter Milan",
+      "away": "S. Donetsk U19",
+      "prediction": "Match Result 1",
+      "odds": 1.22,
+      "at": "21.10.2026 14:00"
+    },
+    {
+      "type": "won",
+      "home": "Ghazl El Mahalla",
+      "away": "Al Ittihad Al S",
+      "prediction": "Double Chance 12",
+      "odds": 1.22,
+      "at": "21.10.2026 14:00"
+    },
+    {
+      "type": "won",
+      "home": "Bayern Munich",
+      "away": "Arsenal Fc U19",
+      "prediction": "1st Half Double Chance 1X",
+      "odds": 1.09,
+      "at": "21.10.2026 14:00"
+    },
+    {
+      "type": "won",
       "home": "Bul",
       "away": "NEC Nijmegen",
       "prediction": "Double Chance 12",
@@ -182,46 +228,22 @@
       "at": "21.10.2026 13:00"
     },
     {
-      "type": "won",
-      "home": "Lugazi Municipal FC",
-      "away": "Express FC",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.1,
-      "at": "21.10.2026 13:00"
-    },
-    {
-      "type": "won",
-      "home": "Club Brugge U18",
-      "away": "Lens U19",
-      "prediction": "Double Chance 1X",
-      "odds": 1.08,
-      "at": "21.10.2026 13:00"
-    },
-    {
-      "type": "won",
-      "home": "Sporting Cp U1",
-      "away": "Lask U19",
-      "prediction": "Under 3.5 Goals",
-      "odds": 2.03,
-      "at": "21.10.2026 13:00"
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.56,
+      "at": "21.10.2026 16:11"
     },
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.63,
-      "at": "21.10.2026 15:03"
+      "odds": 1.83,
+      "at": "21.10.2026 16:11"
     },
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.29,
-      "at": "21.10.2026 14:11"
-    },
-    {
-      "type": "coupon",
-      "size": 3,
-      "odds": 2.01,
-      "at": "21.10.2026 14:11"
+      "odds": 1.54,
+      "at": "21.10.2026 16:11"
     },
     {
       "type": "updated",
@@ -260,7 +282,7 @@
     "league": "BOLPLK",
     "date": "21.10.2026 22:30",
     "patternScore": 72.29,
-    "patternText": "158.658/219.483",
+    "patternText": "158.660/219.485",
     "picks": 1
   },
   "todayList": [
@@ -270,17 +292,8 @@
       "league": "BOLPLK",
       "date": "21.10.2026 22:30",
       "patternScore": 72.29,
-      "patternText": "158.658/219.483",
+      "patternText": "158.660/219.485",
       "picks": 1
-    },
-    {
-      "home": "Atlas FC",
-      "away": "Club America",
-      "league": "MEK",
-      "date": "22.10.2026 01:00",
-      "patternScore": 72.02,
-      "patternText": "127.179/176.581",
-      "picks": 5
     },
     {
       "home": "New York Cosmo",
@@ -288,7 +301,7 @@
       "league": "USL1",
       "date": "21.10.2026 23:00",
       "patternScore": 71.9,
-      "patternText": "189.965/264.212",
+      "patternText": "189.975/264.222",
       "picks": 2
     },
     {
@@ -296,8 +309,8 @@
       "away": "",
       "league": "İKPL1",
       "date": "21.10.2026 18:30",
-      "patternScore": 71.59,
-      "patternText": "169.184/236.308",
+      "patternScore": 71.6,
+      "patternText": "169.192/236.318",
       "picks": 1
     },
     {
@@ -306,11 +319,27 @@
       "league": "İNGNLP",
       "date": "21.10.2026 18:45",
       "patternScore": 71.48,
-      "patternText": "169.214/236.741",
+      "patternText": "169.222/236.751",
       "picks": 1
+    },
+    {
+      "home": "CS Cartaginés",
+      "away": "Deportivo Olimpia",
+      "league": "CONOAK",
+      "date": "22.10.2026 02:30",
+      "patternScore": 71.36,
+      "patternText": "96.997/135.925",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "LOSC Lille",
+      "away": "Galatasaray",
+      "league": "ŞMP",
+      "at": "21.10.2026 15:58",
+      "count": 6
+    },
     {
       "home": "SC Braga",
       "away": "KAA Gent",
@@ -324,13 +353,6 @@
       "league": "ŞMP",
       "at": "21.10.2026 15:43",
       "count": 14
-    },
-    {
-      "home": "LOSC Lille",
-      "away": "Galatasaray",
-      "league": "ŞMP",
-      "at": "21.10.2026 15:43",
-      "count": 8
     },
     {
       "home": "Borac Banja Lu",
