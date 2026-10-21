@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 18:12",
+  "updatedAt": "21.10.2026 18:25",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 381,
       "rate": 67.2
     },
-    "totalAnalyses": 142011,
+    "totalAnalyses": 142014,
     "leagues": 527,
     "pro": {
       "won": 39,
@@ -47,10 +47,22 @@
       "total": 13,
       "rate": 23.1
     },
-    "analyses24h": 852,
-    "analyses30d": 18720
+    "analyses24h": 833,
+    "analyses30d": 18701
   },
   "recentWins": [
+    {
+      "home": "Tenerife Iii",
+      "away": "Villa Santa Bri",
+      "league": "İSTL",
+      "date": "21.10.2026 16:00",
+      "prediction": "Double Chance 1X",
+      "odds": 1.1,
+      "probability": 77.21,
+      "patternScore": 69.65,
+      "firstHalf": "2 - 0",
+      "finalScore": "2 - 1"
+    },
     {
       "home": "Marsaxlokk Fc",
       "away": "Birzebbuga",
@@ -98,18 +110,6 @@
       "patternScore": 70.06,
       "firstHalf": "1 - 1",
       "finalScore": "1 - 1"
-    },
-    {
-      "home": "Harju Jalgpall",
-      "away": "Flora Tallinn",
-      "league": "EST1",
-      "date": "21.10.2026 15:00",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.25,
-      "probability": 76.74,
-      "patternScore": 67.93,
-      "firstHalf": "3 - 0",
-      "finalScore": "3 - 1"
     }
   ],
   "recentCoupons": [
@@ -197,6 +197,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Tenerife Iii",
+      "away": "Villa Santa Bri",
+      "prediction": "Double Chance 1X",
+      "odds": 1.1,
+      "at": "21.10.2026 16:00"
+    },
+    {
+      "type": "won",
       "home": "Marsaxlokk Fc",
       "away": "Birzebbuga",
       "prediction": "Match Result 1",
@@ -218,14 +226,6 @@
       "prediction": "1st Half Under 1.5",
       "odds": 1.21,
       "at": "21.10.2026 15:30"
-    },
-    {
-      "type": "won",
-      "home": "Al Anwar",
-      "away": "Al Wahda",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.09,
-      "at": "21.10.2026 15:00"
     },
     {
       "type": "coupon",
@@ -282,7 +282,7 @@
     "league": "MEK",
     "date": "22.10.2026 01:00",
     "patternScore": 72.06,
-    "patternText": "129.425/179.615",
+    "patternText": "129.433/179.629",
     "picks": 3
   },
   "todayList": [
@@ -292,7 +292,7 @@
       "league": "MEK",
       "date": "22.10.2026 01:00",
       "patternScore": 72.06,
-      "patternText": "129.425/179.615",
+      "patternText": "129.433/179.629",
       "picks": 3
     },
     {
@@ -301,17 +301,8 @@
       "league": "VENK",
       "date": "21.10.2026 21:00",
       "patternScore": 71.9,
-      "patternText": "128.396/178.569",
+      "patternText": "128.404/178.579",
       "picks": 2
-    },
-    {
-      "home": "Afc Whyteleafe",
-      "away": "Burgess Hill To",
-      "league": "İNGNLP",
-      "date": "21.10.2026 18:45",
-      "patternScore": 71.47,
-      "patternText": "169.282/236.849",
-      "picks": 1
     },
     {
       "home": "Pafos Fc",
@@ -319,7 +310,7 @@
       "league": "AVKL",
       "date": "22.10.2026 16:45",
       "patternScore": 71.38,
-      "patternText": "187.140/262.187",
+      "patternText": "187.164/262.217",
       "picks": 1
     },
     {
@@ -328,11 +319,48 @@
       "league": "CONOAK",
       "date": "22.10.2026 02:30",
       "patternScore": 71.36,
-      "patternText": "97.017/135.953",
+      "patternText": "97.019/135.955",
       "picks": 3
+    },
+    {
+      "home": "Santos Laguna",
+      "away": "Pumas UNAM",
+      "league": "MEK",
+      "date": "22.10.2026 03:10",
+      "patternScore": 71.28,
+      "patternText": "82.374/115.565",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Getafe CF",
+      "away": "FC Lugano",
+      "league": "AVKL",
+      "at": "21.10.2026 18:19",
+      "count": 4
+    },
+    {
+      "home": "AFC Bournemouth",
+      "away": "AC Milan",
+      "league": "AVL",
+      "at": "21.10.2026 18:19",
+      "count": 6
+    },
+    {
+      "home": "Sporting CP",
+      "away": "LASK Linz",
+      "league": "ŞMP",
+      "at": "21.10.2026 18:18",
+      "count": 3
+    },
+    {
+      "home": "Club Brugge",
+      "away": "RC Lens",
+      "league": "ŞMP",
+      "at": "21.10.2026 18:18",
+      "count": 8
+    },
     {
       "home": "Bayern Munich",
       "away": "Arsenal",
@@ -341,25 +369,11 @@
       "count": 8
     },
     {
-      "home": "Sporting CP",
-      "away": "LASK Linz",
-      "league": "ŞMP",
-      "at": "21.10.2026 17:55",
-      "count": 13
-    },
-    {
       "home": "SE Palmeiras",
       "away": "Fluminense FC",
       "league": "LKU",
       "at": "21.10.2026 17:45",
       "count": 11
-    },
-    {
-      "home": "Getafe CF",
-      "away": "FC Lugano",
-      "league": "AVKL",
-      "at": "21.10.2026 17:45",
-      "count": 4
     },
     {
       "home": "Pafos Fc",
@@ -388,20 +402,6 @@
       "league": "AVKL",
       "at": "21.10.2026 16:39",
       "count": 4
-    },
-    {
-      "home": "Inter",
-      "away": "Shakhtar Donetsk",
-      "league": "ŞMP",
-      "at": "21.10.2026 16:38",
-      "count": 2
-    },
-    {
-      "home": "Real Betis",
-      "away": "Feyenoord",
-      "league": "ŞMP",
-      "at": "21.10.2026 16:26",
-      "count": 18
     }
   ],
   "paywall": {
