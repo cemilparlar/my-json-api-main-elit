@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 07:56",
+  "updatedAt": "21.10.2026 08:06",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 332,
       "rate": 70.2
     },
-    "totalAnalyses": 141080,
-    "leagues": 522,
+    "totalAnalyses": 141204,
+    "leagues": 523,
     "pro": {
       "won": 0,
       "lost": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 447,
-    "analyses30d": 18341
+    "analyses24h": 571,
+    "analyses30d": 18465
   },
   "recentWins": [
     {
@@ -184,7 +184,7 @@
     },
     {
       "type": "analysis",
-      "count": 447
+      "count": 571
     }
   ],
   "today": {
@@ -243,7 +243,36 @@
       "picks": 1
     }
   ],
-  "recentAnalyzed": [],
+  "recentAnalyzed": [
+    {
+      "home": "Sporting CP",
+      "away": "LASK Linz",
+      "league": "ŞMP",
+      "at": "21.10.2026 08:05",
+      "count": 15
+    },
+    {
+      "home": "Bayern Munich",
+      "away": "Arsenal",
+      "league": "ŞMP",
+      "at": "21.10.2026 08:05",
+      "count": 6
+    },
+    {
+      "home": "LOSC Lille",
+      "away": "Galatasaray",
+      "league": "ŞMP",
+      "at": "21.10.2026 08:02",
+      "count": 7
+    },
+    {
+      "home": "Como 1907",
+      "away": "Manchester United",
+      "league": "ŞMP",
+      "at": "21.10.2026 08:02",
+      "count": 8
+    }
+  ],
   "paywall": {
     "monthly": {
       "price": 9.99,
