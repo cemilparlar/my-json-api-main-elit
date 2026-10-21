@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 18:56",
-  "updatedAtUtc": "2026-10-21T18:56:00Z",
+  "updatedAt": "21.10.2026 19:11",
+  "updatedAtUtc": "2026-10-21T19:11:00Z",
   "upcoming": [
     {
       "id": "20261021-11-5",
@@ -160,88 +160,6 @@
           "probability": 74.47,
           "patternScore": 70.72,
           "patternText": "217.435/307.454",
-          "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "pending"
-        }
-      ]
-    },
-    {
-      "id": "20261021-11-4",
-      "createdAt": "21.10.2026 08:15",
-      "createdAtUtc": "2026-10-21T08:15:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 1.6,
-      "winChance": 32.62,
-      "firstKickoff": "21.10.2026 16:00",
-      "lastKickoff": "21.10.2026 23:15",
-      "status": "live",
-      "completedAt": null,
-      "effectiveOdds": 1.6,
-      "legs": [
-        {
-          "matchCode": "4533074",
-          "nesine": null,
-          "date": "21.10.2026 16:00",
-          "kickoffUtc": "2026-10-21T16:00:00Z",
-          "league": "İSTL",
-          "home": "Tenerife Iii",
-          "away": "Villa Santa Bri",
-          "league_tr": "İSTL",
-          "home_tr": "Tenerife Iii",
-          "away_tr": "Villa Santa Bri",
-          "prediction": "Double Chance 1X",
-          "prediction_tr": "Çifte Şans 1-X",
-          "odds": 1.1,
-          "probability": 77.21,
-          "patternScore": 69.66,
-          "patternText": "204.766/293.930",
-          "mbs": 3,
-          "firstHalf": "2 - 0",
-          "finalScore": "2 - 1",
-          "status": "won"
-        },
-        {
-          "matchCode": "4575920",
-          "nesine": null,
-          "date": "21.10.2026 17:00",
-          "kickoffUtc": "2026-10-21T17:00:00Z",
-          "league": "DAK",
-          "home": "Vanlose IF",
-          "away": "Nykobing",
-          "league_tr": "DAK",
-          "home_tr": "Vanlose",
-          "away_tr": "Nykobing",
-          "prediction": "Over 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Üst",
-          "odds": 1.3,
-          "probability": 70.59,
-          "patternScore": 67.48,
-          "patternText": "187.857/278.394",
-          "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4513904",
-          "nesine": null,
-          "date": "21.10.2026 23:15",
-          "kickoffUtc": "2026-10-21T23:15:00Z",
-          "league": "KOL",
-          "home": "Llaneros",
-          "away": "Deportivo Cali",
-          "league_tr": "KOL",
-          "home_tr": "Llaneros",
-          "away_tr": "Deportivo Cali",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.12,
-          "probability": 76.61,
-          "patternScore": 69.4,
-          "patternText": "165.954/239.120",
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
@@ -445,9 +363,9 @@
           "patternScore": 71.83,
           "patternText": "185.927/258.857",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 3",
+          "status": "won"
         },
         {
           "matchCode": "4532811",
@@ -527,9 +445,9 @@
           "patternScore": 70.79,
           "patternText": "269.904/381.264",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 2",
+          "status": "won"
         },
         {
           "matchCode": "4538088",
@@ -833,7 +751,7 @@
       "winChance": 67.95,
       "firstKickoff": "21.10.2026 19:00",
       "lastKickoff": "21.10.2026 19:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.11,
       "legs": [
@@ -857,7 +775,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -871,7 +789,7 @@
       "winChance": 57.49,
       "firstKickoff": "21.10.2026 19:00",
       "lastKickoff": "21.10.2026 19:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.08,
       "legs": [
@@ -895,7 +813,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -909,7 +827,7 @@
       "winChance": 57.14,
       "firstKickoff": "21.10.2026 19:00",
       "lastKickoff": "21.10.2026 19:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.14,
       "legs": [
@@ -933,7 +851,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -947,7 +865,7 @@
       "winChance": 57.51,
       "firstKickoff": "21.10.2026 19:00",
       "lastKickoff": "21.10.2026 19:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.08,
       "legs": [
@@ -971,7 +889,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -985,7 +903,7 @@
       "winChance": 34.85,
       "firstKickoff": "21.10.2026 19:00",
       "lastKickoff": "22.10.2026 12:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.29,
       "legs": [
@@ -1009,7 +927,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4571928",
@@ -1067,7 +985,7 @@
       "winChance": 58.21,
       "firstKickoff": "21.10.2026 19:00",
       "lastKickoff": "21.10.2026 19:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.13,
       "legs": [
@@ -1091,7 +1009,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -1105,7 +1023,7 @@
       "winChance": 60.19,
       "firstKickoff": "21.10.2026 19:00",
       "lastKickoff": "21.10.2026 19:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.07,
       "legs": [
@@ -1129,7 +1047,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -1143,7 +1061,7 @@
       "winChance": 55.68,
       "firstKickoff": "21.10.2026 19:00",
       "lastKickoff": "21.10.2026 19:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.34,
       "legs": [
@@ -1167,7 +1085,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -1181,7 +1099,7 @@
       "winChance": 47.13,
       "firstKickoff": "21.10.2026 19:00",
       "lastKickoff": "22.10.2026 18:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.47,
       "legs": [
@@ -1205,7 +1123,7 @@
           "mbs": 2,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4522603",
@@ -1263,6 +1181,88 @@
           "patternScore": 67.52,
           "patternText": "118.930/176.129",
           "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-1",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 3,
+      "mbs": 3,
+      "totalOdds": 1.39,
+      "winChance": 34.41,
+      "firstKickoff": "21.10.2026 22:00",
+      "lastKickoff": "22.10.2026 18:30",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.39,
+      "legs": [
+        {
+          "matchCode": "4575967",
+          "nesine": null,
+          "date": "21.10.2026 22:00",
+          "kickoffUtc": "2026-10-21T22:00:00Z",
+          "league": "VENK",
+          "home": "Deportivo La Guaira",
+          "away": "Aragua",
+          "league_tr": "VENK",
+          "home_tr": "Deportivo La G",
+          "away_tr": "Aragua",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.06,
+          "probability": 70.21,
+          "patternScore": 72.53,
+          "patternText": "144.318/198.971",
+          "mbs": 3,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4449944",
+          "nesine": null,
+          "date": "21.10.2026 23:30",
+          "kickoffUtc": "2026-10-21T23:30:00Z",
+          "league": "USLP",
+          "home": "Sporting Jax",
+          "away": "Louisville City FC",
+          "league_tr": "USLP",
+          "home_tr": "Sporting Jax",
+          "away_tr": "Louisville City",
+          "prediction": "1st Half Double Chance 12",
+          "prediction_tr": "1. Yarı Çifte Şans 1-2",
+          "odds": 1.2,
+          "probability": 80.0,
+          "patternScore": 67.1,
+          "patternText": "108.155/161.187",
+          "mbs": 3,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4537791",
+          "nesine": null,
+          "date": "22.10.2026 18:30",
+          "kickoffUtc": "2026-10-22T18:30:00Z",
+          "league": "MLTP",
+          "home": "Hibernians",
+          "away": "Gzira United",
+          "league_tr": "MLTP",
+          "home_tr": "Hibernians",
+          "away_tr": "Gzira United",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.09,
+          "probability": 82.95,
+          "patternScore": 70.71,
+          "patternText": "142.998/202.224",
+          "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
           "status": "pending"
@@ -2254,9 +2254,623 @@
           "status": "pending"
         }
       ]
+    },
+    {
+      "id": "20261021-22-10",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.11,
+      "winChance": 67.93,
+      "firstKickoff": "22.10.2026 16:45",
+      "lastKickoff": "22.10.2026 16:45",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.11,
+      "legs": [
+        {
+          "matchCode": "4549664",
+          "nesine": null,
+          "date": "22.10.2026 16:45",
+          "kickoffUtc": "2026-10-22T16:45:00Z",
+          "league": "AVKL",
+          "home": "FC Nordsjaelland",
+          "away": "CSKA Sofia",
+          "league_tr": "AVKL",
+          "home_tr": "Nordsjaelland",
+          "away_tr": "Cska Sofia",
+          "prediction": "1st Half Over 0.5",
+          "prediction_tr": "1. Yarı 0,5 Alt/Üst Üst",
+          "odds": 1.11,
+          "probability": 85.71,
+          "patternScore": 67.93,
+          "patternText": "148.384/218.449",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-7",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.11,
+      "winChance": 69.7,
+      "firstKickoff": "22.10.2026 16:45",
+      "lastKickoff": "22.10.2026 16:45",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.11,
+      "legs": [
+        {
+          "matchCode": "4575333",
+          "nesine": null,
+          "date": "22.10.2026 16:45",
+          "kickoffUtc": "2026-10-22T16:45:00Z",
+          "league": "AVL",
+          "home": "Lech Poznan",
+          "away": "Sunderland",
+          "league_tr": "AVL",
+          "home_tr": "Lech Poznan",
+          "away_tr": "Sunderland",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.11,
+          "probability": 83.33,
+          "patternScore": 69.7,
+          "patternText": "186.956/268.215",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-11",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.14,
+      "winChance": 67.62,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.14,
+      "legs": [
+        {
+          "matchCode": "4549601",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVL",
+          "home": "NK Celje",
+          "away": "Red Bull Salzburg",
+          "league_tr": "AVL",
+          "home_tr": "Celje",
+          "away_tr": "Salzburg",
+          "prediction": "1st Half Over 0.5",
+          "prediction_tr": "1. Yarı 0,5 Alt/Üst Üst",
+          "odds": 1.14,
+          "probability": 80.0,
+          "patternScore": 67.62,
+          "patternText": "148.384/219.452",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-12",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.14,
+      "winChance": 66.15,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.14,
+      "legs": [
+        {
+          "matchCode": "4549666",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVKL",
+          "home": "Ajax",
+          "away": "Atalanta",
+          "league_tr": "AVKL",
+          "home_tr": "Ajax",
+          "away_tr": "Atalanta",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.14,
+          "probability": 75.0,
+          "patternScore": 66.15,
+          "patternText": "293.555/443.760",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-13",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.08,
+      "winChance": 65.27,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.08,
+      "legs": [
+        {
+          "matchCode": "4549673",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVKL",
+          "home": "AGF Aarhus",
+          "away": "Egnatia",
+          "league_tr": "AVKL",
+          "home_tr": "Aarhus",
+          "away_tr": "Egnatia",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.08,
+          "probability": 75.0,
+          "patternScore": 65.27,
+          "patternText": "254.711/390.241",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-14",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.14,
+      "winChance": 59.83,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.14,
+      "legs": [
+        {
+          "matchCode": "4549543",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVL",
+          "home": "Besiktas",
+          "away": "Crystal Palace",
+          "league_tr": "AVL",
+          "home_tr": "Beşiktaş",
+          "away_tr": "Crystal Palace",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.14,
+          "probability": 100.0,
+          "patternScore": 59.83,
+          "patternText": "248.211/414.893",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-15",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.06,
+      "winChance": 58.41,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.06,
+      "legs": [
+        {
+          "matchCode": "4549598",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVL",
+          "home": "Lillestrom SK",
+          "away": "Real Sociedad",
+          "league_tr": "AVL",
+          "home_tr": "Lillestrom",
+          "away_tr": "Real Sociedad",
+          "prediction": "Under 4.5 Goals",
+          "prediction_tr": "4,5 Alt/Üst Alt",
+          "odds": 1.06,
+          "probability": 100.0,
+          "patternScore": 58.41,
+          "patternText": "215.145/368.335",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-2",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.07,
+      "winChance": 70.56,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.07,
+      "legs": [
+        {
+          "matchCode": "4549599",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVL",
+          "home": "FC Viktoria Plzen",
+          "away": "PFC Levski Sofia",
+          "league_tr": "AVL",
+          "home_tr": "Viktoria Plzen",
+          "away_tr": "Levski Sofya",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.07,
+          "probability": 86.67,
+          "patternScore": 70.56,
+          "patternText": "142.481/201.941",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-3",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.09,
+      "winChance": 70.14,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.09,
+      "legs": [
+        {
+          "matchCode": "4549669",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVKL",
+          "home": "FC Midtjylland",
+          "away": "Sint-Truidense VV",
+          "league_tr": "AVKL",
+          "home_tr": "Midtjylland",
+          "away_tr": "St. Truidense",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.09,
+          "probability": 83.33,
+          "patternScore": 70.14,
+          "patternText": "204.435/291.468",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-4",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.08,
+      "winChance": 70.14,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.08,
+      "legs": [
+        {
+          "matchCode": "4549600",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVL",
+          "home": "Jagiellonia Bialystok",
+          "away": "RSC Anderlecht",
+          "league_tr": "AVL",
+          "home_tr": "Jagiellonia",
+          "away_tr": "Anderlecht",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.08,
+          "probability": 80.0,
+          "patternScore": 70.14,
+          "patternText": "139.397/198.741",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-5",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.08,
+      "winChance": 70.11,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.08,
+      "legs": [
+        {
+          "matchCode": "4549602",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVL",
+          "home": "AFC Bournemouth",
+          "away": "AC Milan",
+          "league_tr": "AVL",
+          "home_tr": "Bournemouth",
+          "away_tr": "Ac Milan",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.08,
+          "probability": 86.36,
+          "patternScore": 70.11,
+          "patternText": "135.496/193.269",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-6",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.07,
+      "winChance": 69.77,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.07,
+      "legs": [
+        {
+          "matchCode": "4549670",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVKL",
+          "home": "Borac Banja Lu",
+          "away": "Kuopion",
+          "league_tr": "AVKL",
+          "home_tr": "Borac Banja Lu",
+          "away_tr": "Kuopion",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.07,
+          "probability": 81.82,
+          "patternScore": 69.77,
+          "patternText": "147.878/211.949",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-8",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.08,
+      "winChance": 69.25,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.08,
+      "legs": [
+        {
+          "matchCode": "4549605",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVL",
+          "home": "Olympiakos",
+          "away": "AC Sparta Prague",
+          "league_tr": "AVL",
+          "home_tr": "Olympiakos",
+          "away_tr": "Sparta Prag",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 77.78,
+          "patternScore": 69.25,
+          "patternText": "266.660/385.052",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261021-22-9",
+      "createdAt": "21.10.2026 19:11",
+      "createdAtUtc": "2026-10-21T19:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.15,
+      "winChance": 69.01,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.15,
+      "legs": [
+        {
+          "matchCode": "4549672",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVKL",
+          "home": "FC Thun",
+          "away": "Hajduk Split",
+          "league_tr": "AVKL",
+          "home_tr": "Thun",
+          "away_tr": "Hajduk Split",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.15,
+          "probability": 71.43,
+          "patternScore": 69.01,
+          "patternText": "270.425/391.882",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
     }
   ],
   "completed": [
+    {
+      "id": "20261021-11-4",
+      "createdAt": "21.10.2026 08:15",
+      "createdAtUtc": "2026-10-21T08:15:00Z",
+      "size": 3,
+      "mbs": 3,
+      "totalOdds": 1.6,
+      "winChance": 32.62,
+      "firstKickoff": "21.10.2026 16:00",
+      "lastKickoff": "21.10.2026 23:15",
+      "status": "lost",
+      "completedAt": "21.10.2026 19:11",
+      "effectiveOdds": 1.6,
+      "legs": [
+        {
+          "matchCode": "4533074",
+          "nesine": null,
+          "date": "21.10.2026 16:00",
+          "kickoffUtc": "2026-10-21T16:00:00Z",
+          "league": "İSTL",
+          "home": "Tenerife Iii",
+          "away": "Villa Santa Bri",
+          "league_tr": "İSTL",
+          "home_tr": "Tenerife Iii",
+          "away_tr": "Villa Santa Bri",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.1,
+          "probability": 77.21,
+          "patternScore": 69.66,
+          "patternText": "204.766/293.930",
+          "mbs": 3,
+          "firstHalf": "2 - 0",
+          "finalScore": "2 - 1",
+          "status": "won"
+        },
+        {
+          "matchCode": "4575920",
+          "nesine": null,
+          "date": "21.10.2026 17:00",
+          "kickoffUtc": "2026-10-21T17:00:00Z",
+          "league": "DAK",
+          "home": "Vanlose IF",
+          "away": "Nykobing",
+          "league_tr": "DAK",
+          "home_tr": "Vanlose",
+          "away_tr": "Nykobing",
+          "prediction": "Over 2.5 Goals",
+          "prediction_tr": "2,5 Alt/Üst Üst",
+          "odds": 1.3,
+          "probability": 70.59,
+          "patternScore": 67.48,
+          "patternText": "187.857/278.394",
+          "mbs": 3,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 2",
+          "status": "lost"
+        },
+        {
+          "matchCode": "4513904",
+          "nesine": null,
+          "date": "21.10.2026 23:15",
+          "kickoffUtc": "2026-10-21T23:15:00Z",
+          "league": "KOL",
+          "home": "Llaneros",
+          "away": "Deportivo Cali",
+          "league_tr": "KOL",
+          "home_tr": "Llaneros",
+          "away_tr": "Deportivo Cali",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.12,
+          "probability": 76.61,
+          "patternScore": 69.4,
+          "patternText": "165.954/239.120",
+          "mbs": 3,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
     {
       "id": "20261021-11-8",
       "createdAt": "21.10.2026 08:15",
@@ -2431,9 +3045,9 @@
           "patternScore": 66.71,
           "patternText": "288.901/433.064",
           "mbs": 2,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 0",
+          "status": "won"
         }
       ]
     },
@@ -2715,9 +3329,9 @@
           "patternScore": 68.91,
           "patternText": "92.418/134.122",
           "mbs": 2,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "2 - 1",
+          "finalScore": "3 - 3",
+          "status": "won"
         }
       ]
     },
