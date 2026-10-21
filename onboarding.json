@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 16:57",
+  "updatedAt": "21.10.2026 17:11",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 265,
-      "lost": 125,
-      "total": 390,
-      "rate": 67.9
+      "won": 257,
+      "lost": 122,
+      "total": 379,
+      "rate": 67.8
     },
-    "totalAnalyses": 141971,
+    "totalAnalyses": 141986,
     "leagues": 527,
     "pro": {
       "won": 34,
@@ -47,10 +47,22 @@
       "total": 10,
       "rate": 30.0
     },
-    "analyses24h": 873,
-    "analyses30d": 18778
+    "analyses24h": 864,
+    "analyses30d": 18768
   },
   "recentWins": [
+    {
+      "home": "Harju Jalgpall",
+      "away": "Flora Tallinn",
+      "league": "EST1",
+      "date": "21.10.2026 15:00",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 1.25,
+      "probability": 76.74,
+      "patternScore": 67.93,
+      "firstHalf": "3 - 0",
+      "finalScore": "3 - 1"
+    },
     {
       "home": "Inter Milan",
       "away": "S. Donetsk U19",
@@ -98,18 +110,6 @@
       "patternScore": 59.47,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 1"
-    },
-    {
-      "home": "Lugazi Municipal FC",
-      "away": "Express FC",
-      "league": "UGA",
-      "date": "21.10.2026 13:00",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.1,
-      "probability": 75.32,
-      "patternScore": 69.59,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 0"
     }
   ],
   "recentCoupons": [
@@ -197,6 +197,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Harju Jalgpall",
+      "away": "Flora Tallinn",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 1.25,
+      "at": "21.10.2026 15:00"
+    },
+    {
+      "type": "won",
       "home": "Inter Milan",
       "away": "S. Donetsk U19",
       "prediction": "Match Result 1",
@@ -220,30 +228,22 @@
       "at": "21.10.2026 14:00"
     },
     {
-      "type": "won",
-      "home": "Bul",
-      "away": "NEC Nijmegen",
-      "prediction": "Double Chance 12",
-      "odds": 1.24,
-      "at": "21.10.2026 13:00"
+      "type": "coupon",
+      "size": 2,
+      "odds": 1.16,
+      "at": "21.10.2026 17:11"
     },
     {
       "type": "coupon",
-      "size": 3,
-      "odds": 1.56,
-      "at": "21.10.2026 16:11"
+      "size": 1,
+      "odds": 1.15,
+      "at": "21.10.2026 17:11"
     },
     {
       "type": "coupon",
-      "size": 3,
-      "odds": 1.83,
-      "at": "21.10.2026 16:11"
-    },
-    {
-      "type": "coupon",
-      "size": 3,
-      "odds": 1.54,
-      "at": "21.10.2026 16:11"
+      "size": 1,
+      "odds": 1.15,
+      "at": "21.10.2026 17:11"
     },
     {
       "type": "updated",
@@ -310,7 +310,7 @@
       "league": "İKPL1",
       "date": "21.10.2026 18:30",
       "patternScore": 71.59,
-      "patternText": "169.228/236.374",
+      "patternText": "169.230/236.376",
       "picks": 1
     },
     {
@@ -319,7 +319,7 @@
       "league": "İNGNLP",
       "date": "21.10.2026 18:45",
       "patternScore": 71.48,
-      "patternText": "169.258/236.807",
+      "patternText": "169.260/236.809",
       "picks": 1
     },
     {
@@ -334,18 +334,32 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Aston Villa",
-      "away": "Viking",
-      "league": "ŞMP",
-      "at": "21.10.2026 16:50",
-      "count": 15
+      "home": "Pafos Fc",
+      "away": "Riga Fc",
+      "league": "AVKL",
+      "at": "21.10.2026 17:06",
+      "count": 4
+    },
+    {
+      "home": "Union St.G",
+      "away": "Hapoel Beer She",
+      "league": "AVL",
+      "at": "21.10.2026 17:06",
+      "count": 12
     },
     {
       "home": "SE Palmeiras",
       "away": "Fluminense FC",
       "league": "LKU",
-      "at": "21.10.2026 16:39",
+      "at": "21.10.2026 17:01",
       "count": 3
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Viking",
+      "league": "ŞMP",
+      "at": "21.10.2026 16:50",
+      "count": 15
     },
     {
       "home": "SC Braga",
@@ -388,20 +402,6 @@
       "league": "AVKL",
       "at": "21.10.2026 15:29",
       "count": 8
-    },
-    {
-      "home": "Bayern Munich",
-      "away": "Arsenal",
-      "league": "ŞMP",
-      "at": "21.10.2026 15:15",
-      "count": 17
-    },
-    {
-      "home": "Columbus Crew",
-      "away": "St. Louis City SC",
-      "league": "ABDK",
-      "at": "21.10.2026 15:15",
-      "count": 6
     }
   ],
   "paywall": {
