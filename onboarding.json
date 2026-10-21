@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 18:25",
+  "updatedAt": "21.10.2026 18:41",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 256,
-      "lost": 125,
-      "total": 381,
-      "rate": 67.2
+      "won": 258,
+      "lost": 127,
+      "total": 385,
+      "rate": 67.0
     },
-    "totalAnalyses": 142014,
+    "totalAnalyses": 142023,
     "leagues": 527,
     "pro": {
       "won": 39,
-      "lost": 19,
-      "total": 58,
-      "rate": 67.2
+      "lost": 20,
+      "total": 59,
+      "rate": 66.1
     },
     "insights": {
-      "won": 72,
-      "lost": 40,
-      "total": 112,
-      "rate": 64.3
+      "won": 75,
+      "lost": 41,
+      "total": 116,
+      "rate": 64.7
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 13,
       "rate": 23.1
     },
-    "analyses24h": 833,
-    "analyses30d": 18701
+    "analyses24h": 824,
+    "analyses30d": 18664
   },
   "recentWins": [
     {
@@ -277,15 +277,24 @@
     }
   ],
   "today": {
-    "home": "Atlas FC",
-    "away": "Club America",
-    "league": "MEK",
-    "date": "22.10.2026 01:00",
-    "patternScore": 72.06,
-    "patternText": "129.433/179.629",
-    "picks": 3
+    "home": "Deportivo La Guaira",
+    "away": "Aragua",
+    "league": "VENK",
+    "date": "21.10.2026 22:00",
+    "patternScore": 72.53,
+    "patternText": "144.306/198.955",
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Deportivo La Guaira",
+      "away": "Aragua",
+      "league": "VENK",
+      "date": "21.10.2026 22:00",
+      "patternScore": 72.53,
+      "patternText": "144.306/198.955",
+      "picks": 1
+    },
     {
       "home": "Atlas FC",
       "away": "Club America",
@@ -321,18 +330,30 @@
       "patternScore": 71.36,
       "patternText": "97.019/135.955",
       "picks": 3
-    },
-    {
-      "home": "Santos Laguna",
-      "away": "Pumas UNAM",
-      "league": "MEK",
-      "date": "22.10.2026 03:10",
-      "patternScore": 71.28,
-      "patternText": "82.374/115.565",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Juventus",
+      "away": "Stade Rennais",
+      "league": "AVL",
+      "at": "21.10.2026 18:30",
+      "count": 3
+    },
+    {
+      "home": "Inter",
+      "away": "Shakhtar Donetsk",
+      "league": "ŞMP",
+      "at": "21.10.2026 18:30",
+      "count": 3
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Viking",
+      "league": "ŞMP",
+      "at": "21.10.2026 18:29",
+      "count": 3
+    },
     {
       "home": "Getafe CF",
       "away": "FC Lugano",
@@ -380,27 +401,6 @@
       "away": "Riga Fc",
       "league": "AVKL",
       "at": "21.10.2026 17:06",
-      "count": 4
-    },
-    {
-      "home": "Union St.G",
-      "away": "Hapoel Beer She",
-      "league": "AVL",
-      "at": "21.10.2026 17:06",
-      "count": 12
-    },
-    {
-      "home": "Aston Villa",
-      "away": "Viking",
-      "league": "ŞMP",
-      "at": "21.10.2026 16:50",
-      "count": 15
-    },
-    {
-      "home": "SC Braga",
-      "away": "KAA Gent",
-      "league": "AVKL",
-      "at": "21.10.2026 16:39",
       "count": 4
     }
   ],

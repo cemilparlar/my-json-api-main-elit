@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 18:25",
-  "updatedAtUtc": "2026-10-21T18:25:00Z",
+  "updatedAt": "21.10.2026 18:41",
+  "updatedAtUtc": "2026-10-21T18:41:00Z",
   "upcoming": [
     {
       "id": "20261021-11-5",
@@ -81,7 +81,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -281,9 +281,9 @@
           "patternScore": 61.62,
           "patternText": "134.482/218.230",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 0",
+          "finalScore": "3 - 0",
+          "status": "won"
         },
         {
           "matchCode": "4571929",
@@ -707,7 +707,7 @@
       "winChance": 36.36,
       "firstKickoff": "21.10.2026 18:30",
       "lastKickoff": "21.10.2026 23:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.27,
       "legs": [
@@ -731,7 +731,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4575395",
