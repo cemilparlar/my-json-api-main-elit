@@ -1,0 +1,262 @@
+{
+  "version": 1,
+  "updatedAt": "21.10.2026 07:56",
+  "config": {
+    "pages": [
+      "engine",
+      "wins",
+      "coupons",
+      "live",
+      "today",
+      "paywall"
+    ],
+    "autoAdvanceSec": 6,
+    "showForNewUsers": true,
+    "paywallOnceForExisting": true,
+    "minWinsToShow": 2
+  },
+  "engine": {
+    "archiveMatches": "250.000+",
+    "archiveMatchesNum": 250000
+  },
+  "stats": {
+    "days": 7,
+    "last24h": {
+      "won": 233,
+      "lost": 99,
+      "total": 332,
+      "rate": 70.2
+    },
+    "totalAnalyses": 141080,
+    "leagues": 522,
+    "pro": {
+      "won": 0,
+      "lost": 0,
+      "total": 0,
+      "rate": null
+    },
+    "insights": {
+      "won": 0,
+      "lost": 0,
+      "total": 0,
+      "rate": null
+    },
+    "coupons": {
+      "won": 0,
+      "lost": 0,
+      "total": 0,
+      "rate": null
+    },
+    "analyses24h": 447,
+    "analyses30d": 18341
+  },
+  "recentWins": [
+    {
+      "home": "Fukushima Unit",
+      "away": "Giravanz Kitakyushu",
+      "league": "JAP3",
+      "date": "21.10.2026 04:00",
+      "prediction": "Double Chance 12",
+      "odds": 1.08,
+      "probability": 70.69,
+      "patternScore": null,
+      "firstHalf": "0 - 0",
+      "finalScore": "2 - 1"
+    },
+    {
+      "home": "AC Parceiro Nagano",
+      "away": "FC Ryukyu",
+      "league": "JAP3",
+      "date": "21.10.2026 04:00",
+      "prediction": "Double Chance 12",
+      "odds": 1.13,
+      "probability": 78.52,
+      "patternScore": null,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 1"
+    },
+    {
+      "home": "Elfen Saitama",
+      "away": "Mynavi Sendai Women",
+      "league": "JWEL",
+      "date": "21.10.2026 04:00",
+      "prediction": "Double Chance 12",
+      "odds": 1.16,
+      "probability": 76.52,
+      "patternScore": null,
+      "firstHalf": "0 - 2",
+      "finalScore": "1 - 2"
+    },
+    {
+      "home": "Tochigi SC",
+      "away": "Mio Biwako Shig",
+      "league": "JAP3",
+      "date": "21.10.2026 04:00",
+      "prediction": "Double Chance 12",
+      "odds": 1.11,
+      "probability": 78.28,
+      "patternScore": null,
+      "firstHalf": "0 - 0",
+      "finalScore": "1 - 0"
+    },
+    {
+      "home": "Montedio Yamagata",
+      "away": "Consadole Sapporo",
+      "league": "JAP2",
+      "date": "21.10.2026 04:00",
+      "prediction": "Double Chance 12",
+      "odds": 1.14,
+      "probability": 70.21,
+      "patternScore": null,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 2"
+    }
+  ],
+  "recentCoupons": [],
+  "ticker": [
+    {
+      "type": "won",
+      "home": "Fukushima Unit",
+      "away": "Giravanz Kitakyushu",
+      "prediction": "Double Chance 12",
+      "odds": 1.08,
+      "at": "21.10.2026 04:00"
+    },
+    {
+      "type": "won",
+      "home": "AC Parceiro Nagano",
+      "away": "FC Ryukyu",
+      "prediction": "Double Chance 12",
+      "odds": 1.13,
+      "at": "21.10.2026 04:00"
+    },
+    {
+      "type": "won",
+      "home": "Elfen Saitama",
+      "away": "Mynavi Sendai Women",
+      "prediction": "Double Chance 12",
+      "odds": 1.16,
+      "at": "21.10.2026 04:00"
+    },
+    {
+      "type": "won",
+      "home": "Tochigi SC",
+      "away": "Mio Biwako Shig",
+      "prediction": "Double Chance 12",
+      "odds": 1.11,
+      "at": "21.10.2026 04:00"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.25,
+      "at": "21.10.2026 07:56"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.25,
+      "at": "21.10.2026 07:56"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.27,
+      "at": "21.10.2026 07:56"
+    },
+    {
+      "type": "kickoff",
+      "home": "Yokohama F. Marinos",
+      "away": "Tokyo Verdy",
+      "at": "21.10.2026 10:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Fagiano Okayama",
+      "away": "Mito HollyHock",
+      "at": "21.10.2026 10:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "V-Varen Nagasaki",
+      "away": "Sanfrecce Hiroshima",
+      "at": "21.10.2026 10:00"
+    },
+    {
+      "type": "analysis",
+      "count": 447
+    }
+  ],
+  "today": {
+    "home": "Kamatamare Sanuki",
+    "away": "Zweigen Kanazaw",
+    "league": "JAP3",
+    "date": "21.10.2026 10:00",
+    "patternScore": 71.81,
+    "patternText": "139.874/194.770",
+    "picks": 3
+  },
+  "todayList": [
+    {
+      "home": "Kamatamare Sanuki",
+      "away": "Zweigen Kanazaw",
+      "league": "JAP3",
+      "date": "21.10.2026 10:00",
+      "patternScore": 71.81,
+      "patternText": "139.874/194.770",
+      "picks": 3
+    },
+    {
+      "home": "Jubilo Iwata",
+      "away": "Oita Trinita",
+      "league": "JAP2",
+      "date": "21.10.2026 10:00",
+      "patternScore": 71.61,
+      "patternText": "120.028/167.609",
+      "picks": 3
+    },
+    {
+      "home": "Ethiopia Bunna",
+      "away": "Negele Arsi Ket",
+      "league": "ETH",
+      "date": "21.10.2026 12:00",
+      "patternScore": 71.36,
+      "patternText": "82.407/115.483",
+      "picks": 1
+    },
+    {
+      "home": "Matsumoto Yama",
+      "away": "Thespa Kusatsu Gunma",
+      "league": "JAP3",
+      "date": "21.10.2026 10:00",
+      "patternScore": 71.02,
+      "patternText": "238.652/336.013",
+      "picks": 1
+    },
+    {
+      "home": "Roasso Kumamoto",
+      "away": "Gainare Tottori",
+      "league": "JAP3",
+      "date": "21.10.2026 10:00",
+      "patternScore": 70.63,
+      "patternText": "221.653/313.801",
+      "picks": 1
+    }
+  ],
+  "recentAnalyzed": [],
+  "paywall": {
+    "monthly": {
+      "price": 9.99,
+      "priceString": "$9.99",
+      "trialDays": 3
+    },
+    "yearly": {
+      "price": 34.99,
+      "priceString": "$34.99",
+      "trialDays": 7
+    },
+    "defaultPlan": "yearly",
+    "discountPct": 71,
+    "yearlyPerMonth": 2.92
+  }
+}
