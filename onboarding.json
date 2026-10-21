@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 09:00",
+  "updatedAt": "21.10.2026 09:19",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 331,
       "rate": 70.4
     },
-    "totalAnalyses": 141450,
-    "leagues": 525,
+    "totalAnalyses": 141499,
+    "leagues": 526,
     "pro": {
       "won": 0,
       "lost": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 756,
-    "analyses30d": 18651
+    "analyses24h": 786,
+    "analyses30d": 18681
   },
   "recentWins": [
     {
@@ -166,7 +166,19 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 08:55",
+      "at": "21.10.2026 09:04",
+      "home": "Real Betis U19",
+      "away": "Feyenoord U19"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 09:16",
+      "home": "Ghazl El Mahalla",
+      "away": "Al Ittihad Al S"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 09:17",
       "home": "Al Jeel",
       "away": "Al Jandal"
     },
@@ -181,18 +193,6 @@
       "at": "21.10.2026 08:29",
       "home": "Marsaxlokk Fc",
       "away": "Birzebbuga"
-    },
-    {
-      "type": "updated",
-      "at": "21.10.2026 08:16",
-      "home": "Ceramica Cleopatra",
-      "away": "Petrojet"
-    },
-    {
-      "type": "updated",
-      "at": "21.10.2026 08:55",
-      "home": "Sporting CP",
-      "away": "LASK Linz"
     }
   ],
   "today": {
@@ -253,11 +253,25 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "NK Celje",
+      "away": "Red Bull Salzburg",
+      "league": "AVL",
+      "at": "21.10.2026 09:19",
+      "count": 6
+    },
+    {
+      "home": "SE Palmeiras",
+      "away": "Fluminense FC",
+      "league": "LKU",
+      "at": "21.10.2026 09:19",
+      "count": 7
+    },
+    {
       "home": "Sporting CP",
       "away": "LASK Linz",
       "league": "ŞMP",
-      "at": "21.10.2026 08:55",
-      "count": 13
+      "at": "21.10.2026 09:17",
+      "count": 14
     },
     {
       "home": "Aston Villa",
@@ -307,20 +321,6 @@
       "league": "AVKL",
       "at": "21.10.2026 08:14",
       "count": 10
-    },
-    {
-      "home": "AFC Bournemouth",
-      "away": "AC Milan",
-      "league": "AVL",
-      "at": "21.10.2026 08:14",
-      "count": 6
-    },
-    {
-      "home": "Jagiellonia Bialystok",
-      "away": "RSC Anderlecht",
-      "league": "AVL",
-      "at": "21.10.2026 08:14",
-      "count": 6
     }
   ],
   "paywall": {
