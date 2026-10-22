@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 03:05",
+  "updatedAt": "22.10.2026 03:19",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 218,
-      "lost": 104,
-      "total": 322,
+      "won": 220,
+      "lost": 105,
+      "total": 325,
       "rate": 67.7
     },
-    "totalAnalyses": 142292,
+    "totalAnalyses": 142293,
     "leagues": 527,
     "pro": {
-      "won": 75,
-      "lost": 33,
-      "total": 108,
+      "won": 77,
+      "lost": 34,
+      "total": 111,
       "rate": 69.4
     },
     "insights": {
-      "won": 134,
-      "lost": 61,
-      "total": 195,
+      "won": 136,
+      "lost": 62,
+      "total": 198,
       "rate": 68.7
     },
     "coupons": {
@@ -47,10 +47,36 @@
       "total": 32,
       "rate": 46.9
     },
-    "analyses24h": 737,
-    "analyses30d": 18744
+    "analyses24h": 732,
+    "analyses30d": 18739
   },
   "recentWins": [
+    {
+      "home": "Club Puebla",
+      "away": "CF Monterrey",
+      "league": "MEK",
+      "date": "22.10.2026 01:00",
+      "prediction": "Double Chance 12",
+      "odds": 1.09,
+      "probability": 78.0,
+      "patternScore": 71.04,
+      "firstHalf": "0 - 3",
+      "finalScore": "1 - 4",
+      "pro": true
+    },
+    {
+      "home": "Atlas FC",
+      "away": "Club America",
+      "league": "MEK",
+      "date": "22.10.2026 01:00",
+      "prediction": "Double Chance 12",
+      "odds": 1.1,
+      "probability": 77.94,
+      "patternScore": 70.92,
+      "firstHalf": "0 - 2",
+      "finalScore": "2 - 5",
+      "pro": true
+    },
     {
       "home": "SE Palmeiras",
       "away": "Fluminense FC",
@@ -89,32 +115,6 @@
       "firstHalf": "2 - 0",
       "finalScore": "3 - 2",
       "pro": false
-    },
-    {
-      "home": "Belgrano Women",
-      "away": "Universitario D",
-      "league": "LKUW",
-      "date": "22.10.2026 00:00",
-      "prediction": "Match Result 1",
-      "odds": 1.3,
-      "probability": 75.68,
-      "patternScore": 68.53,
-      "firstHalf": "2 - 1",
-      "finalScore": "4 - 2",
-      "pro": true
-    },
-    {
-      "home": "Real Potosi",
-      "away": "Bolivar",
-      "league": "BOLPLK",
-      "date": "21.10.2026 22:30",
-      "prediction": "Double Chance 12",
-      "odds": 1.12,
-      "probability": 79.69,
-      "patternScore": 70.6,
-      "firstHalf": "2 - 1",
-      "finalScore": "3 - 1",
-      "pro": true
     }
   ],
   "recentCoupons": [
@@ -217,6 +217,22 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Club Puebla",
+      "away": "CF Monterrey",
+      "prediction": "Double Chance 12",
+      "odds": 1.09,
+      "at": "22.10.2026 01:00"
+    },
+    {
+      "type": "won",
+      "home": "Atlas FC",
+      "away": "Club America",
+      "prediction": "Double Chance 12",
+      "odds": 1.1,
+      "at": "22.10.2026 01:00"
+    },
+    {
+      "type": "won",
       "home": "SE Palmeiras",
       "away": "Fluminense FC",
       "prediction": "Handicap (0:2) 2",
@@ -230,22 +246,6 @@
       "prediction": "1st Half Double Chance X2",
       "odds": 1.08,
       "at": "22.10.2026 00:30"
-    },
-    {
-      "type": "won",
-      "home": "Oriente Petrol",
-      "away": "Nacional Potosi",
-      "prediction": "Double Chance 12",
-      "odds": 1.09,
-      "at": "22.10.2026 00:30"
-    },
-    {
-      "type": "won",
-      "home": "Belgrano Women",
-      "away": "Universitario D",
-      "prediction": "Match Result 1",
-      "odds": 1.3,
-      "at": "22.10.2026 00:00"
     },
     {
       "type": "coupon",
@@ -291,9 +291,9 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 21:18",
-      "home": "New York Cosmo",
-      "away": "Spokane Velocit"
+      "at": "21.10.2026 23:29",
+      "home": "Belgrano Women",
+      "away": "Universitario D"
     }
   ],
   "today": {
@@ -301,8 +301,8 @@
     "away": "Preston Lions",
     "league": "AVC",
     "date": "22.10.2026 08:30",
-    "patternScore": 71.15,
-    "patternText": "97.875/137.554",
+    "patternScore": 71.16,
+    "patternText": "97.903/137.590",
     "picks": 3
   },
   "todayList": [
@@ -311,8 +311,8 @@
       "away": "Preston Lions",
       "league": "AVC",
       "date": "22.10.2026 08:30",
-      "patternScore": 71.15,
-      "patternText": "97.875/137.554",
+      "patternScore": 71.16,
+      "patternText": "97.903/137.590",
       "picks": 3
     },
     {
@@ -320,8 +320,8 @@
       "away": "Mladost Dg",
       "league": "KARA",
       "date": "22.10.2026 13:00",
-      "patternScore": 70.72,
-      "patternText": "255.663/361.510",
+      "patternScore": 70.73,
+      "patternText": "255.779/361.642",
       "picks": 2
     },
     {
@@ -330,7 +330,7 @@
       "league": "SUUD",
       "date": "22.10.2026 14:45",
       "patternScore": 70.72,
-      "patternText": "254.456/359.827",
+      "patternText": "254.564/359.947",
       "picks": 5
     },
     {
@@ -339,7 +339,7 @@
       "league": "MLTP",
       "date": "22.10.2026 18:30",
       "patternScore": 70.72,
-      "patternText": "143.170/202.448",
+      "patternText": "143.186/202.472",
       "picks": 1
     },
     {
@@ -348,11 +348,18 @@
       "league": "BAECK",
       "date": "22.10.2026 13:00",
       "patternScore": 70.7,
-      "patternText": "109.644/155.076",
+      "patternText": "109.656/155.104",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "AGF Aarhus",
+      "away": "Egnatia",
+      "league": "AVKL",
+      "at": "22.10.2026 03:17",
+      "count": 2
+    },
     {
       "home": "Juventus",
       "away": "Stade Rennais",
@@ -415,13 +422,6 @@
       "league": "LKU",
       "at": "21.10.2026 23:36",
       "count": 4
-    },
-    {
-      "home": "Belgrano Women",
-      "away": "Universitario D",
-      "league": "LKUW",
-      "at": "21.10.2026 23:29",
-      "count": 1
     }
   ],
   "paywall": {

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 03:05",
-  "updatedAtUtc": "2026-10-22T03:05:00Z",
+  "updatedAt": "22.10.2026 03:19",
+  "updatedAtUtc": "2026-10-22T03:19:00Z",
   "upcoming": [
     {
       "id": "20261021-16-3",
@@ -707,9 +707,9 @@
           "patternScore": 69.35,
           "patternText": "161.278/232.566",
           "mbs": 2,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 1",
+          "finalScore": "2 - 2",
+          "status": "won"
         },
         {
           "matchCode": "4573662",
@@ -745,7 +745,7 @@
       "winChance": 50.07,
       "firstKickoff": "22.10.2026 03:10",
       "lastKickoff": "22.10.2026 13:40",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.17,
       "legs": [
@@ -769,7 +769,7 @@
           "mbs": 2,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4522605",
@@ -805,7 +805,7 @@
       "winChance": 46.48,
       "firstKickoff": "22.10.2026 03:10",
       "lastKickoff": "22.10.2026 16:45",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.16,
       "legs": [
@@ -829,7 +829,7 @@
           "mbs": 2,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4536738",
