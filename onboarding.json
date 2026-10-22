@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 12:53",
+  "updatedAt": "22.10.2026 13:13",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 163,
-      "lost": 61,
-      "total": 224,
-      "rate": 72.8
+      "won": 142,
+      "lost": 54,
+      "total": 196,
+      "rate": 72.4
     },
-    "totalAnalyses": 146795,
-    "leagues": 534,
+    "totalAnalyses": 146939,
+    "leagues": 535,
     "pro": {
       "won": 85,
       "lost": 35,
@@ -47,8 +47,8 @@
       "total": 34,
       "rate": 50.0
     },
-    "analyses24h": 3995,
-    "analyses30d": 22107
+    "analyses24h": 4041,
+    "analyses30d": 22181
   },
   "recentWins": [
     {
@@ -243,20 +243,20 @@
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.58,
-      "at": "22.10.2026 12:17"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.52,
-      "at": "22.10.2026 12:17"
+      "odds": 1.43,
+      "at": "22.10.2026 13:13"
     },
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.53,
-      "at": "22.10.2026 11:41"
+      "odds": 1.38,
+      "at": "22.10.2026 13:13"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 3.28,
+      "at": "22.10.2026 13:13"
     },
     {
       "type": "updated",
@@ -284,9 +284,9 @@
     },
     {
       "type": "updated",
-      "at": "22.10.2026 12:47",
-      "home": "Deportivo Riestra",
-      "away": "El Saka El Hadi"
+      "at": "22.10.2026 12:16",
+      "home": "Telecom Egypt",
+      "away": "Baladiyyat"
     }
   ],
   "today": {
@@ -318,102 +318,102 @@
       "picks": 3
     },
     {
-      "home": "Telecom Egypt",
-      "away": "Baladiyyat",
-      "league": "MSR2",
-      "date": "22.10.2026 13:30",
-      "patternScore": 70.84,
-      "patternText": "80.338/113.406",
+      "home": "Viettel FC",
+      "away": "Bac Ninh",
+      "league": "VİET",
+      "date": "23.10.2026 12:15",
+      "patternScore": 70.7,
+      "patternText": "273.821/387.304",
       "picks": 1
     },
     {
-      "home": "Nasr",
-      "away": "Al Daklyeh",
-      "league": "MSR2",
-      "date": "22.10.2026 13:30",
-      "patternScore": 70.81,
-      "patternText": "299.817/423.417",
-      "picks": 2
+      "home": "Olympiakos",
+      "away": "AC Sparta Prague",
+      "league": "AVL",
+      "date": "22.10.2026 19:00",
+      "patternScore": 70.69,
+      "patternText": "175.806/248.700",
+      "picks": 3
     },
     {
-      "home": "Hibernians",
-      "away": "Gzira United",
-      "league": "MLTP",
-      "date": "22.10.2026 18:30",
-      "patternScore": 70.73,
-      "patternText": "143.280/202.574",
-      "picks": 1
+      "home": "Al Gharafa",
+      "away": "Al Ahli",
+      "league": "KAT",
+      "date": "22.10.2026 16:45",
+      "patternScore": 70.6,
+      "patternText": "121.248/171.738",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "AFC Bournemouth",
-      "away": "AC Milan",
-      "league": "AVL",
-      "at": "22.10.2026 12:50",
-      "count": 11
+      "home": "Marseille",
+      "away": "Le Havre AC",
+      "league": "FR1",
+      "at": "22.10.2026 13:09",
+      "count": 3
     },
     {
-      "home": "FC Thun",
-      "away": "Hajduk Split",
-      "league": "AVKL",
-      "at": "22.10.2026 12:50",
+      "home": "US Lecce",
+      "away": "Juventus",
+      "league": "İTA",
+      "at": "22.10.2026 13:09",
+      "count": 15
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Levante UD",
+      "league": "İS1",
+      "at": "22.10.2026 13:09",
       "count": 6
     },
     {
-      "home": "Celtic",
-      "away": "Celta de Vigo",
-      "league": "AVL",
-      "at": "22.10.2026 12:50",
+      "home": "Celta de Vigo",
+      "away": "Real Betis",
+      "league": "İS1",
+      "at": "22.10.2026 13:08",
       "count": 6
     },
     {
-      "home": "TSG Hoffenheim",
-      "away": "Olympique Lyonnais",
-      "league": "AVL",
-      "at": "22.10.2026 12:50",
-      "count": 7
-    },
-    {
-      "home": "Inter Escaldes",
-      "away": "Universitatea Craiova",
-      "league": "AVKL",
-      "at": "22.10.2026 12:49",
+      "home": "AJ Auxerre",
+      "away": "Le Mans FC",
+      "league": "FR1",
+      "at": "22.10.2026 13:08",
       "count": 6
     },
     {
-      "home": "FK Crvena zvezda",
-      "away": "FC Copenhagen",
-      "league": "AVKL",
-      "at": "22.10.2026 12:49",
-      "count": 7
-    },
-    {
-      "home": "Ararat-Armenia",
-      "away": "AZ Alkmaar",
-      "league": "AVL",
-      "at": "22.10.2026 12:49",
-      "count": 14
-    },
-    {
-      "home": "FC Kairat Almaty",
-      "away": "Panathinaikos",
-      "league": "AVKL",
-      "at": "22.10.2026 12:48",
-      "count": 6
-    },
-    {
-      "home": "Crystal Palace",
-      "away": "Newcastle United",
+      "home": "Liverpool",
+      "away": "Brighton & Hove Albion",
       "league": "İNP",
-      "at": "22.10.2026 12:40",
-      "count": 9
+      "at": "22.10.2026 13:07",
+      "count": 6
     },
     {
-      "home": "Hull City",
-      "away": "Brentford",
+      "home": "Manchester United",
+      "away": "AFC Bournemouth",
       "league": "İNP",
-      "at": "22.10.2026 12:40",
+      "at": "22.10.2026 13:07",
+      "count": 8
+    },
+    {
+      "home": "AS Monaco",
+      "away": "LOSC Lille",
+      "league": "FR1",
+      "at": "22.10.2026 13:07",
+      "count": 6
+    },
+    {
+      "home": "Athletic Bilbao",
+      "away": "Getafe CF",
+      "league": "İS1",
+      "at": "22.10.2026 13:06",
+      "count": 4
+    },
+    {
+      "home": "Fortuna Sittar",
+      "away": "Excelsior Rotterdam",
+      "league": "HOL",
+      "at": "22.10.2026 13:05",
       "count": 6
     }
   ],
