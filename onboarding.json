@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 09:04",
+  "updatedAt": "22.10.2026 09:29",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 322,
       "rate": 67.7
     },
-    "totalAnalyses": 144594,
-    "leagues": 530,
+    "totalAnalyses": 144841,
+    "leagues": 531,
     "pro": {
       "won": 83,
       "lost": 34,
@@ -47,8 +47,8 @@
       "total": 33,
       "rate": 48.5
     },
-    "analyses24h": 2567,
-    "analyses30d": 20574
+    "analyses24h": 2767,
+    "analyses30d": 20785
   },
   "recentWins": [
     {
@@ -297,31 +297,22 @@
     }
   ],
   "today": {
-    "home": "Madura United",
-    "away": "Persib Bandung",
-    "league": "ENDL1",
-    "date": "22.10.2026 12:00",
-    "patternScore": 72.34,
-    "patternText": "167.639/231.742",
+    "home": "Bunyodkor",
+    "away": "Mashal Muborak",
+    "league": "ÖZB",
+    "date": "22.10.2026 13:30",
+    "patternScore": 72.05,
+    "patternText": "157.273/218.278",
     "picks": 1
   },
   "todayList": [
-    {
-      "home": "Madura United",
-      "away": "Persib Bandung",
-      "league": "ENDL1",
-      "date": "22.10.2026 12:00",
-      "patternScore": 72.34,
-      "patternText": "167.639/231.742",
-      "picks": 1
-    },
     {
       "home": "Bunyodkor",
       "away": "Mashal Muborak",
       "league": "ÖZB",
       "date": "22.10.2026 13:30",
-      "patternScore": 71.74,
-      "patternText": "98.653/137.510",
+      "patternScore": 72.05,
+      "patternText": "157.273/218.278",
       "picks": 1
     },
     {
@@ -350,9 +341,32 @@
       "patternScore": 70.73,
       "patternText": "255.843/361.708",
       "picks": 2
+    },
+    {
+      "home": "Al Fateh",
+      "away": "Al Shabab",
+      "league": "SUUD",
+      "date": "22.10.2026 14:45",
+      "patternScore": 70.73,
+      "patternText": "254.628/360.013",
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Racing Santander",
+      "away": "RCD Espanyol",
+      "league": "İS1",
+      "at": "22.10.2026 09:21",
+      "count": 5
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "22.10.2026 09:10",
+      "count": 5
+    },
     {
       "home": "Besiktas",
       "away": "Crystal Palace",
@@ -408,20 +422,6 @@
       "league": "AVL",
       "at": "22.10.2026 08:28",
       "count": 14
-    },
-    {
-      "home": "FC Rostov",
-      "away": "Lokomotiv Moscow",
-      "league": "RUS",
-      "at": "22.10.2026 08:23",
-      "count": 7
-    },
-    {
-      "home": "FC Santos",
-      "away": "EC Bahia",
-      "league": "BR1",
-      "at": "22.10.2026 08:22",
-      "count": 9
     }
   ],
   "paywall": {
