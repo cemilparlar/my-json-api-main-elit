@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 10:14",
-  "updatedAtUtc": "2026-10-22T10:14:00Z",
+  "updatedAt": "22.10.2026 10:37",
+  "updatedAtUtc": "2026-10-22T10:37:00Z",
   "upcoming": [
     {
       "id": "20261021-16-3",
@@ -1790,6 +1790,44 @@
           "probability": 100.0,
           "patternScore": 58.35,
           "patternText": "206.392/353.720",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261022-13-1",
+      "createdAt": "22.10.2026 10:37",
+      "createdAtUtc": "2026-10-22T10:37:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.16,
+      "winChance": 69.43,
+      "firstKickoff": "22.10.2026 16:45",
+      "lastKickoff": "22.10.2026 16:45",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.16,
+      "legs": [
+        {
+          "matchCode": "4549658",
+          "nesine": null,
+          "date": "22.10.2026 16:45",
+          "kickoffUtc": "2026-10-22T16:45:00Z",
+          "league": "AVKL",
+          "home": "FK Crvena zvezda",
+          "away": "FC Copenhagen",
+          "league_tr": "AVKL",
+          "home_tr": "Kizilyildiz",
+          "away_tr": "Kopenhag",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.16,
+          "probability": 85.71,
+          "patternScore": 69.43,
+          "patternText": "135.842/195.647",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
