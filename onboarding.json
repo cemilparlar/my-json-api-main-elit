@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 00:41",
+  "updatedAt": "22.10.2026 00:56",
   "config": {
     "pages": [
       "engine",
@@ -23,23 +23,23 @@
     "days": 7,
     "last24h": {
       "won": 214,
-      "lost": 96,
-      "total": 310,
-      "rate": 69.0
+      "lost": 97,
+      "total": 311,
+      "rate": 68.8
     },
-    "totalAnalyses": 142245,
+    "totalAnalyses": 142251,
     "leagues": 527,
     "pro": {
       "won": 66,
-      "lost": 28,
-      "total": 94,
-      "rate": 70.2
+      "lost": 29,
+      "total": 95,
+      "rate": 69.5
     },
     "insights": {
       "won": 122,
-      "lost": 52,
-      "total": 174,
-      "rate": 70.1
+      "lost": 53,
+      "total": 175,
+      "rate": 69.7
     },
     "coupons": {
       "won": 11,
@@ -51,6 +51,19 @@
     "analyses30d": 18739
   },
   "recentWins": [
+    {
+      "home": "Real Potosi",
+      "away": "Bolivar",
+      "league": "BOLPLK",
+      "date": "21.10.2026 22:30",
+      "prediction": "Double Chance 12",
+      "odds": 1.12,
+      "probability": 79.69,
+      "patternScore": 70.6,
+      "firstHalf": "2 - 1",
+      "finalScore": "3 - 1",
+      "pro": true
+    },
     {
       "home": "Club Atletico Torque",
       "away": "Atletico Mineiro",
@@ -102,19 +115,6 @@
       "firstHalf": "1 - 2",
       "finalScore": "1 - 5",
       "pro": false
-    },
-    {
-      "home": "Real Madrid",
-      "away": "RB Leipzig",
-      "league": "ŞMP",
-      "date": "21.10.2026 19:00",
-      "prediction": "Match Result 1",
-      "odds": 1.07,
-      "probability": 100.0,
-      "patternScore": 57.54,
-      "firstHalf": "1 - 0",
-      "finalScore": "4 - 1",
-      "pro": true
     }
   ],
   "recentCoupons": [
@@ -196,6 +196,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Real Potosi",
+      "away": "Bolivar",
+      "prediction": "Double Chance 12",
+      "odds": 1.12,
+      "at": "21.10.2026 22:30"
+    },
+    {
+      "type": "won",
       "home": "Club Atletico Torque",
       "away": "Atletico Mineiro",
       "prediction": "Under 3.5 Goals",
@@ -217,14 +225,6 @@
       "prediction": "1st Half Double Chance X2",
       "odds": 1.88,
       "at": "21.10.2026 22:00"
-    },
-    {
-      "type": "won",
-      "home": "Santa Fe Women",
-      "away": "Corinthians Women",
-      "prediction": "Double Chance 12",
-      "odds": 1.08,
-      "at": "21.10.2026 20:00"
     },
     {
       "type": "coupon",
@@ -281,7 +281,7 @@
     "league": "AVC",
     "date": "22.10.2026 08:30",
     "patternScore": 71.17,
-    "patternText": "97.847/137.484",
+    "patternText": "97.849/137.486",
     "picks": 3
   },
   "todayList": [
@@ -291,7 +291,7 @@
       "league": "AVC",
       "date": "22.10.2026 08:30",
       "patternScore": 71.17,
-      "patternText": "97.847/137.484",
+      "patternText": "97.849/137.486",
       "picks": 3
     },
     {
@@ -300,7 +300,7 @@
       "league": "ENDL1",
       "date": "22.10.2026 12:00",
       "patternScore": 71.01,
-      "patternText": "259.531/365.478",
+      "patternText": "259.545/365.492",
       "picks": 1
     },
     {
@@ -309,7 +309,7 @@
       "league": "MLTP",
       "date": "22.10.2026 18:30",
       "patternScore": 70.73,
-      "patternText": "143.142/202.382",
+      "patternText": "143.144/202.384",
       "picks": 1
     },
     {
@@ -318,7 +318,7 @@
       "league": "SUUD",
       "date": "22.10.2026 14:45",
       "patternScore": 70.72,
-      "patternText": "254.396/359.721",
+      "patternText": "254.410/359.735",
       "picks": 5
     },
     {
@@ -327,7 +327,7 @@
       "league": "BAECK",
       "date": "22.10.2026 13:00",
       "patternScore": 70.71,
-      "patternText": "109.616/155.018",
+      "patternText": "109.618/155.020",
       "picks": 2
     }
   ],
