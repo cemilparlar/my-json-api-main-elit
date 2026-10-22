@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 08:23",
+  "updatedAt": "22.10.2026 08:42",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 219,
+      "won": 218,
       "lost": 104,
-      "total": 323,
-      "rate": 67.8
+      "total": 322,
+      "rate": 67.7
     },
-    "totalAnalyses": 144149,
-    "leagues": 528,
+    "totalAnalyses": 144399,
+    "leagues": 530,
     "pro": {
       "won": 83,
       "lost": 34,
@@ -47,8 +47,8 @@
       "total": 33,
       "rate": 48.5
     },
-    "analyses24h": 2178,
-    "analyses30d": 20195
+    "analyses24h": 2384,
+    "analyses30d": 20402
   },
   "recentWins": [
     {
@@ -279,9 +279,9 @@
     },
     {
       "type": "updated",
-      "at": "22.10.2026 02:28",
-      "home": "Hawassa City FC",
-      "away": "Cbe"
+      "at": "22.10.2026 08:26",
+      "home": "Telecom Egypt",
+      "away": "Baladiyyat"
     },
     {
       "type": "updated",
@@ -354,6 +354,48 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Lillestrom SK",
+      "away": "Real Sociedad",
+      "league": "AVL",
+      "at": "22.10.2026 08:29",
+      "count": 8
+    },
+    {
+      "home": "Besiktas",
+      "away": "Crystal Palace",
+      "league": "AVL",
+      "at": "22.10.2026 08:29",
+      "count": 6
+    },
+    {
+      "home": "SK Sturm Graz",
+      "away": "Marseille",
+      "league": "AVL",
+      "at": "22.10.2026 08:28",
+      "count": 4
+    },
+    {
+      "home": "Dinamo Zagreb",
+      "away": "NEC Nijmegen",
+      "league": "AVL",
+      "at": "22.10.2026 08:28",
+      "count": 6
+    },
+    {
+      "home": "Ararat-Armenia",
+      "away": "AZ Alkmaar",
+      "league": "AVL",
+      "at": "22.10.2026 08:28",
+      "count": 14
+    },
+    {
+      "home": "FC Rostov",
+      "away": "Lokomotiv Moscow",
+      "league": "RUS",
+      "at": "22.10.2026 08:23",
+      "count": 7
+    },
+    {
       "home": "FC Santos",
       "away": "EC Bahia",
       "league": "BR1",
@@ -380,48 +422,6 @@
       "league": "BR1",
       "at": "22.10.2026 08:21",
       "count": 4
-    },
-    {
-      "home": "Mirassol FC",
-      "away": "Sao Paulo FC",
-      "league": "BR1",
-      "at": "22.10.2026 08:20",
-      "count": 7
-    },
-    {
-      "home": "Vitoria Bahia",
-      "away": "Atletico Paranaense",
-      "league": "BR1",
-      "at": "22.10.2026 08:20",
-      "count": 8
-    },
-    {
-      "home": "Sport Club Internacional",
-      "away": "Botafogo de Futebol e Regatas",
-      "league": "BR1",
-      "at": "22.10.2026 08:19",
-      "count": 9
-    },
-    {
-      "home": "ADO Den Haag",
-      "away": "SC Heerenveen",
-      "league": "HOL",
-      "at": "22.10.2026 08:19",
-      "count": 10
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "Deportivo La Coruna",
-      "league": "İS1",
-      "at": "22.10.2026 08:19",
-      "count": 2
-    },
-    {
-      "home": "SS Lazio",
-      "away": "Parma Calcio",
-      "league": "İTA",
-      "at": "22.10.2026 08:18",
-      "count": 8
     }
   ],
   "paywall": {

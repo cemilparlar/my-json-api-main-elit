@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 08:23",
-  "updatedAtUtc": "2026-10-22T08:23:00Z",
+  "updatedAt": "22.10.2026 08:41",
+  "updatedAtUtc": "2026-10-22T08:41:00Z",
   "upcoming": [
     {
       "id": "20261021-16-3",
@@ -483,9 +483,9 @@
       "winChance": 31.47,
       "firstKickoff": "22.10.2026 00:30",
       "lastKickoff": "22.10.2026 16:00",
-      "status": "live",
+      "status": "upcoming",
       "completedAt": null,
-      "effectiveOdds": 1.83,
+      "effectiveOdds": 1.31,
       "legs": [
         {
           "matchCode": "4573743",
@@ -507,7 +507,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live"
+          "status": "void"
         },
         {
           "matchCode": "4571277",
@@ -611,7 +611,7 @@
           "mbs": 2,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -745,7 +745,7 @@
       "winChance": 28.07,
       "firstKickoff": "22.10.2026 08:30",
       "lastKickoff": "22.10.2026 14:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "effectiveOdds": 1.38,
       "legs": [
@@ -769,7 +769,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4513307",
