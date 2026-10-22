@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 01:54",
-  "updatedAtUtc": "2026-10-22T01:54:00Z",
+  "updatedAt": "22.10.2026 02:09",
+  "updatedAtUtc": "2026-10-22T02:09:00Z",
   "upcoming": [
     {
       "id": "20261021-16-3",
@@ -2420,6 +2420,44 @@
           "probability": 75.0,
           "patternScore": 64.84,
           "patternText": "251.835/388.415",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261022-05-1",
+      "createdAt": "22.10.2026 02:09",
+      "createdAtUtc": "2026-10-22T02:09:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.08,
+      "winChance": 58.35,
+      "firstKickoff": "22.10.2026 19:00",
+      "lastKickoff": "22.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.08,
+      "legs": [
+        {
+          "matchCode": "4549671",
+          "nesine": null,
+          "date": "22.10.2026 19:00",
+          "kickoffUtc": "2026-10-22T19:00:00Z",
+          "league": "AVKL",
+          "home": "Lincoln Red Im",
+          "away": "FC Twente",
+          "league_tr": "AVKL",
+          "home_tr": "Lincoln Red Im",
+          "away_tr": "Twente",
+          "prediction": "1st Half Over 0.5",
+          "prediction_tr": "1. Yarı 0,5 Alt/Üst Üst",
+          "odds": 1.08,
+          "probability": 100.0,
+          "patternScore": 58.35,
+          "patternText": "221.995/380.434",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,

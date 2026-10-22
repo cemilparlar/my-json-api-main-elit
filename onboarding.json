@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 01:54",
+  "updatedAt": "22.10.2026 02:09",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 307,
       "rate": 67.8
     },
-    "totalAnalyses": 142272,
+    "totalAnalyses": 142278,
     "leagues": 527,
     "pro": {
-      "won": 66,
+      "won": 67,
       "lost": 30,
-      "total": 96,
-      "rate": 68.8
+      "total": 97,
+      "rate": 69.1
     },
     "insights": {
-      "won": 122,
+      "won": 123,
       "lost": 57,
-      "total": 179,
-      "rate": 68.2
+      "total": 180,
+      "rate": 68.3
     },
     "coupons": {
       "won": 12,
@@ -47,8 +47,8 @@
       "total": 28,
       "rate": 42.9
     },
-    "analyses24h": 743,
-    "analyses30d": 18748
+    "analyses24h": 738,
+    "analyses30d": 18744
   },
   "recentWins": [
     {
@@ -242,6 +242,12 @@
     },
     {
       "type": "coupon",
+      "size": 1,
+      "odds": 1.08,
+      "at": "22.10.2026 02:09"
+    },
+    {
+      "type": "coupon",
       "size": 3,
       "odds": 1.37,
       "at": "22.10.2026 01:10"
@@ -250,12 +256,6 @@
       "type": "coupon",
       "size": 3,
       "odds": 3.36,
-      "at": "22.10.2026 01:10"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.12,
       "at": "22.10.2026 01:10"
     },
     {
@@ -347,6 +347,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "SK Sturm Graz",
+      "away": "Marseille",
+      "league": "AVL",
+      "at": "22.10.2026 01:57",
+      "count": 7
+    },
+    {
       "home": "Lincoln Red Im",
       "away": "FC Twente",
       "league": "AVKL",
@@ -408,13 +415,6 @@
       "league": "AVL",
       "at": "21.10.2026 23:22",
       "count": 4
-    },
-    {
-      "home": "Pafos Fc",
-      "away": "Riga Fc",
-      "league": "AVKL",
-      "at": "21.10.2026 23:11",
-      "count": 9
     }
   ],
   "paywall": {
