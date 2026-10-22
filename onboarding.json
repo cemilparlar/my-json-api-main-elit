@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 05:05",
+  "updatedAt": "22.10.2026 05:21",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 315,
       "rate": 67.0
     },
-    "totalAnalyses": 142427,
-    "leagues": 527,
+    "totalAnalyses": 142431,
+    "leagues": 526,
     "pro": {
       "won": 79,
       "lost": 34,
@@ -47,8 +47,8 @@
       "total": 33,
       "rate": 48.5
     },
-    "analyses24h": 723,
-    "analyses30d": 18740
+    "analyses24h": 710,
+    "analyses30d": 18727
   },
   "recentWins": [
     {
@@ -354,6 +354,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "NK Celje",
+      "away": "Red Bull Salzburg",
+      "league": "AVL",
+      "at": "22.10.2026 05:13",
+      "count": 3
+    },
+    {
       "home": "AFC Bournemouth",
       "away": "AC Milan",
       "league": "AVL",
@@ -415,13 +422,6 @@
       "league": "AVKL",
       "at": "22.10.2026 04:51",
       "count": 11
-    },
-    {
-      "home": "Dinamo Zagreb",
-      "away": "NEC Nijmegen",
-      "league": "AVL",
-      "at": "22.10.2026 04:40",
-      "count": 6
     }
   ],
   "paywall": {
