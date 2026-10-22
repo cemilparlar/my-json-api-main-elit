@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 04:03",
+  "updatedAt": "22.10.2026 04:19",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 313,
       "rate": 66.8
     },
-    "totalAnalyses": 142323,
+    "totalAnalyses": 142371,
     "leagues": 527,
     "pro": {
       "won": 77,
@@ -47,8 +47,8 @@
       "total": 32,
       "rate": 46.9
     },
-    "analyses24h": 742,
-    "analyses30d": 18761
+    "analyses24h": 729,
+    "analyses30d": 18748
   },
   "recentWins": [
     {
@@ -249,6 +249,12 @@
     },
     {
       "type": "coupon",
+      "size": 1,
+      "odds": 1.18,
+      "at": "22.10.2026 04:19"
+    },
+    {
+      "type": "coupon",
       "size": 3,
       "odds": 1.32,
       "at": "22.10.2026 03:48"
@@ -258,12 +264,6 @@
       "size": 1,
       "odds": 1.08,
       "at": "22.10.2026 02:09"
-    },
-    {
-      "type": "coupon",
-      "size": 3,
-      "odds": 1.37,
-      "at": "22.10.2026 01:10"
     },
     {
       "type": "updated",
@@ -297,24 +297,15 @@
     }
   ],
   "today": {
-    "home": "Queensland Lions",
-    "away": "Preston Lions",
-    "league": "AVC",
-    "date": "22.10.2026 08:30",
-    "patternScore": 71.16,
-    "patternText": "97.907/137.596",
-    "picks": 3
+    "home": "Mornar Bar",
+    "away": "Mladost Dg",
+    "league": "KARA",
+    "date": "22.10.2026 13:00",
+    "patternScore": 70.73,
+    "patternText": "255.783/361.648",
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Queensland Lions",
-      "away": "Preston Lions",
-      "league": "AVC",
-      "date": "22.10.2026 08:30",
-      "patternScore": 71.16,
-      "patternText": "97.907/137.596",
-      "picks": 3
-    },
     {
       "home": "Mornar Bar",
       "away": "Mladost Dg",
@@ -350,78 +341,87 @@
       "patternScore": 70.7,
       "patternText": "109.660/155.110",
       "picks": 2
+    },
+    {
+      "home": "Olympiakos",
+      "away": "AC Sparta Prague",
+      "league": "AVL",
+      "date": "22.10.2026 19:00",
+      "patternScore": 70.68,
+      "patternText": "175.734/248.626",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Ferencvaros",
-      "away": "Torreense",
+      "home": "AFC Bournemouth",
+      "away": "AC Milan",
       "league": "AVL",
-      "at": "22.10.2026 04:00",
-      "count": 15
-    },
-    {
-      "home": "Ofi",
-      "away": "Bayer Leverkusen",
-      "league": "AVL",
-      "at": "22.10.2026 03:59",
-      "count": 11
-    },
-    {
-      "home": "SK Sturm Graz",
-      "away": "Marseille",
-      "league": "AVL",
-      "at": "22.10.2026 03:28",
-      "count": 8
-    },
-    {
-      "home": "AGF Aarhus",
-      "away": "Egnatia",
-      "league": "AVKL",
-      "at": "22.10.2026 03:17",
-      "count": 2
-    },
-    {
-      "home": "Juventus",
-      "away": "Stade Rennais",
-      "league": "AVL",
-      "at": "22.10.2026 02:46",
-      "count": 7
-    },
-    {
-      "home": "Lincoln Red Im",
-      "away": "FC Twente",
-      "league": "AVKL",
-      "at": "22.10.2026 02:21",
-      "count": 5
-    },
-    {
-      "home": "FC Nordsjaelland",
-      "away": "CSKA Sofia",
-      "league": "AVKL",
-      "at": "22.10.2026 01:15",
-      "count": 1
-    },
-    {
-      "home": "Trabzonspor",
-      "away": "Heart of Midlothian",
-      "league": "AVKL",
-      "at": "22.10.2026 00:36",
-      "count": 14
-    },
-    {
-      "home": "TSG Hoffenheim",
-      "away": "Olympique Lyonnais",
-      "league": "AVL",
-      "at": "22.10.2026 00:26",
+      "at": "22.10.2026 04:17",
       "count": 9
     },
     {
       "home": "CR Flamengo",
       "away": "Estudiantes de La Plata",
       "league": "LKU",
-      "at": "22.10.2026 00:18",
-      "count": 14
+      "at": "22.10.2026 04:17",
+      "count": 6
+    },
+    {
+      "home": "Ararat-Armenia",
+      "away": "AZ Alkmaar",
+      "league": "AVL",
+      "at": "22.10.2026 04:16",
+      "count": 8
+    },
+    {
+      "home": "Kauno Zalgiris",
+      "away": "SK Brann",
+      "league": "AVKL",
+      "at": "22.10.2026 04:16",
+      "count": 7
+    },
+    {
+      "home": "SK Sturm Graz",
+      "away": "Marseille",
+      "league": "AVL",
+      "at": "22.10.2026 04:16",
+      "count": 3
+    },
+    {
+      "home": "Lillestrom SK",
+      "away": "Real Sociedad",
+      "league": "AVL",
+      "at": "22.10.2026 04:16",
+      "count": 11
+    },
+    {
+      "home": "FC Nordsjaelland",
+      "away": "CSKA Sofia",
+      "league": "AVKL",
+      "at": "22.10.2026 04:08",
+      "count": 3
+    },
+    {
+      "home": "Ferencvaros",
+      "away": "Torreense",
+      "league": "AVL",
+      "at": "22.10.2026 04:08",
+      "count": 8
+    },
+    {
+      "home": "Ajax",
+      "away": "Atalanta",
+      "league": "AVKL",
+      "at": "22.10.2026 04:08",
+      "count": 9
+    },
+    {
+      "home": "FC Midtjylland",
+      "away": "Sint-Truidense VV",
+      "league": "AVKL",
+      "at": "22.10.2026 04:08",
+      "count": 6
     }
   ],
   "paywall": {

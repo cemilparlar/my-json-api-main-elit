@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 04:03",
-  "updatedAtUtc": "2026-10-22T04:03:00Z",
+  "updatedAt": "22.10.2026 04:19",
+  "updatedAtUtc": "2026-10-22T04:19:00Z",
   "upcoming": [
     {
       "id": "20261021-16-3",
@@ -1594,6 +1594,44 @@
           "probability": 83.33,
           "patternScore": 69.7,
           "patternText": "186.956/268.215",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261022-07-1",
+      "createdAt": "22.10.2026 04:19",
+      "createdAtUtc": "2026-10-22T04:19:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.18,
+      "winChance": 56.88,
+      "firstKickoff": "22.10.2026 16:45",
+      "lastKickoff": "22.10.2026 16:45",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.18,
+      "legs": [
+        {
+          "matchCode": "4549591",
+          "nesine": null,
+          "date": "22.10.2026 16:45",
+          "kickoffUtc": "2026-10-22T16:45:00Z",
+          "league": "AVL",
+          "home": "Ofi",
+          "away": "Bayer Leverkusen",
+          "league_tr": "AVL",
+          "home_tr": "Ofi",
+          "away_tr": "B.Leverkusen",
+          "prediction": "1st Half Double Chance 12",
+          "prediction_tr": "1. Yarı Çifte Şans 1-2",
+          "odds": 1.18,
+          "probability": 100.0,
+          "patternScore": 56.88,
+          "patternText": "191.192/336.156",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
