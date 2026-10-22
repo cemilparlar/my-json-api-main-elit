@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 23:59",
+  "updatedAt": "22.10.2026 00:13",
   "config": {
     "pages": [
       "engine",
@@ -22,35 +22,74 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 210,
-      "lost": 96,
-      "total": 306,
-      "rate": 68.6
+      "won": 219,
+      "lost": 97,
+      "total": 316,
+      "rate": 69.3
     },
-    "totalAnalyses": 142196,
+    "totalAnalyses": 142220,
     "leagues": 527,
     "pro": {
-      "won": 62,
-      "lost": 26,
-      "total": 88,
-      "rate": 70.5
+      "won": 65,
+      "lost": 28,
+      "total": 93,
+      "rate": 69.9
     },
     "insights": {
-      "won": 115,
-      "lost": 49,
-      "total": 164,
-      "rate": 70.1
+      "won": 121,
+      "lost": 52,
+      "total": 173,
+      "rate": 69.9
     },
     "coupons": {
       "won": 11,
-      "lost": 13,
-      "total": 24,
-      "rate": 45.8
+      "lost": 15,
+      "total": 26,
+      "rate": 42.3
     },
-    "analyses24h": 720,
-    "analyses30d": 18716
+    "analyses24h": 733,
+    "analyses30d": 18731
   },
   "recentWins": [
+    {
+      "home": "Club Atletico Torque",
+      "away": "Atletico Mineiro",
+      "league": "CSA",
+      "date": "21.10.2026 22:00",
+      "prediction": "Under 3.5 Goals",
+      "odds": 1.09,
+      "probability": 75.0,
+      "patternScore": 65.57,
+      "firstHalf": "0 - 0",
+      "finalScore": "2 - 0",
+      "pro": true
+    },
+    {
+      "home": "Deportivo La Guaira",
+      "away": "Aragua",
+      "league": "VENK",
+      "date": "21.10.2026 22:00",
+      "prediction": "Double Chance 12",
+      "odds": 1.06,
+      "probability": 70.37,
+      "patternScore": 70.98,
+      "firstHalf": "1 - 0",
+      "finalScore": "3 - 0",
+      "pro": true
+    },
+    {
+      "home": "Deportivo Tachira",
+      "away": "Monagas SC",
+      "league": "VENK",
+      "date": "21.10.2026 22:00",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.88,
+      "probability": 75.0,
+      "patternScore": 64.2,
+      "firstHalf": "0 - 0",
+      "finalScore": "1 - 1",
+      "pro": false
+    },
     {
       "home": "Santa Fe Women",
       "away": "Corinthians Women",
@@ -76,45 +115,6 @@
       "firstHalf": "1 - 0",
       "finalScore": "4 - 1",
       "pro": true
-    },
-    {
-      "home": "Real Betis",
-      "away": "Feyenoord",
-      "league": "ŞMP",
-      "date": "21.10.2026 19:00",
-      "prediction": "Double Chance 12",
-      "odds": 1.07,
-      "probability": 100.0,
-      "patternScore": 60.21,
-      "firstHalf": "0 - 0",
-      "finalScore": "1 - 0",
-      "pro": true
-    },
-    {
-      "home": "Liverpool Mont",
-      "away": "Cerro Largo",
-      "league": "URUK",
-      "date": "21.10.2026 19:00",
-      "prediction": "Double Chance 12",
-      "odds": 1.14,
-      "probability": 76.97,
-      "patternScore": 69.93,
-      "firstHalf": "0 - 0",
-      "finalScore": "1 - 0",
-      "pro": true
-    },
-    {
-      "home": "Bayern Munich",
-      "away": "Arsenal",
-      "league": "ŞMP",
-      "date": "21.10.2026 19:00",
-      "prediction": "Double Chance X2",
-      "odds": 1.37,
-      "probability": 80.0,
-      "patternScore": 67.14,
-      "firstHalf": "1 - 1",
-      "finalScore": "2 - 2",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -196,6 +196,30 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Club Atletico Torque",
+      "away": "Atletico Mineiro",
+      "prediction": "Under 3.5 Goals",
+      "odds": 1.09,
+      "at": "21.10.2026 22:00"
+    },
+    {
+      "type": "won",
+      "home": "Deportivo La Guaira",
+      "away": "Aragua",
+      "prediction": "Double Chance 12",
+      "odds": 1.06,
+      "at": "21.10.2026 22:00"
+    },
+    {
+      "type": "won",
+      "home": "Deportivo Tachira",
+      "away": "Monagas SC",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.88,
+      "at": "21.10.2026 22:00"
+    },
+    {
+      "type": "won",
       "home": "Santa Fe Women",
       "away": "Corinthians Women",
       "prediction": "Double Chance 12",
@@ -203,28 +227,10 @@
       "at": "21.10.2026 20:00"
     },
     {
-      "type": "won",
-      "home": "Real Madrid",
-      "away": "RB Leipzig",
-      "prediction": "Match Result 1",
+      "type": "coupon",
+      "size": 1,
       "odds": 1.07,
-      "at": "21.10.2026 19:00"
-    },
-    {
-      "type": "won",
-      "home": "Real Betis",
-      "away": "Feyenoord",
-      "prediction": "Double Chance 12",
-      "odds": 1.07,
-      "at": "21.10.2026 19:00"
-    },
-    {
-      "type": "won",
-      "home": "Liverpool Mont",
-      "away": "Cerro Largo",
-      "prediction": "Double Chance 12",
-      "odds": 1.14,
-      "at": "21.10.2026 19:00"
+      "at": "22.10.2026 00:13"
     },
     {
       "type": "coupon",
@@ -239,22 +245,10 @@
       "at": "21.10.2026 23:00"
     },
     {
-      "type": "coupon",
-      "size": 3,
-      "odds": 1.73,
-      "at": "21.10.2026 22:03"
-    },
-    {
       "type": "updated",
       "at": "21.10.2026 18:29",
       "home": "Aston Villa",
       "away": "Viking"
-    },
-    {
-      "type": "updated",
-      "at": "21.10.2026 18:06",
-      "home": "Bayern Munich",
-      "away": "Arsenal"
     },
     {
       "type": "updated",
@@ -273,6 +267,12 @@
       "at": "21.10.2026 21:26",
       "home": "Deportivo La Guaira",
       "away": "Aragua"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 21:55",
+      "home": "Real Potosi",
+      "away": "Bolivar"
     }
   ],
   "today": {
@@ -281,7 +281,7 @@
     "league": "MEK",
     "date": "22.10.2026 01:00",
     "patternScore": 72.0,
-    "patternText": "92.486/128.459",
+    "patternText": "92.492/128.465",
     "picks": 3
   },
   "todayList": [
@@ -291,7 +291,7 @@
       "league": "MEK",
       "date": "22.10.2026 01:00",
       "patternScore": 72.0,
-      "patternText": "92.486/128.459",
+      "patternText": "92.492/128.465",
       "picks": 3
     },
     {
@@ -300,7 +300,7 @@
       "league": "AVC",
       "date": "22.10.2026 08:30",
       "patternScore": 71.17,
-      "patternText": "97.823/137.454",
+      "patternText": "97.825/137.456",
       "picks": 3
     },
     {
@@ -308,8 +308,8 @@
       "away": "CF Monterrey",
       "league": "MEK",
       "date": "22.10.2026 01:00",
-      "patternScore": 71.04,
-      "patternText": "228.056/321.007",
+      "patternScore": 71.05,
+      "patternText": "228.070/321.021",
       "picks": 4
     },
     {
@@ -318,7 +318,7 @@
       "league": "ENDL1",
       "date": "22.10.2026 12:00",
       "patternScore": 71.01,
-      "patternText": "259.451/365.380",
+      "patternText": "259.465/365.394",
       "picks": 1
     },
     {
@@ -327,11 +327,25 @@
       "league": "MLTP",
       "date": "22.10.2026 18:30",
       "patternScore": 70.73,
-      "patternText": "143.110/202.344",
+      "patternText": "143.112/202.346",
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Lincoln Red Im",
+      "away": "FC Twente",
+      "league": "AVKL",
+      "at": "22.10.2026 00:12",
+      "count": 5
+    },
+    {
+      "home": "TSG Hoffenheim",
+      "away": "Olympique Lyonnais",
+      "league": "AVL",
+      "at": "22.10.2026 00:01",
+      "count": 17
+    },
     {
       "home": "AS Monaco",
       "away": "SC Freiburg",
@@ -387,20 +401,6 @@
       "league": "AVKL",
       "at": "21.10.2026 22:27",
       "count": 7
-    },
-    {
-      "home": "Dinamo Zagreb",
-      "away": "NEC Nijmegen",
-      "league": "AVL",
-      "at": "21.10.2026 22:26",
-      "count": 7
-    },
-    {
-      "home": "Celtic",
-      "away": "Celta de Vigo",
-      "league": "AVL",
-      "at": "21.10.2026 22:15",
-      "count": 8
     }
   ],
   "paywall": {
