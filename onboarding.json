@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 03:19",
+  "updatedAt": "22.10.2026 03:34",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 325,
       "rate": 67.7
     },
-    "totalAnalyses": 142293,
+    "totalAnalyses": 142294,
     "leagues": 527,
     "pro": {
       "won": 77,
@@ -47,8 +47,8 @@
       "total": 32,
       "rate": 46.9
     },
-    "analyses24h": 732,
-    "analyses30d": 18739
+    "analyses24h": 735,
+    "analyses30d": 18742
   },
   "recentWins": [
     {
@@ -78,6 +78,19 @@
       "pro": true
     },
     {
+      "home": "Deportivo Toluca",
+      "away": "Club Tijuana",
+      "league": "MEK",
+      "date": "22.10.2026 01:00",
+      "prediction": "Over 2.5 Goals",
+      "odds": 1.16,
+      "probability": 100.0,
+      "patternScore": 56.42,
+      "firstHalf": "0 - 1",
+      "finalScore": "2 - 2",
+      "pro": false
+    },
+    {
       "home": "SE Palmeiras",
       "away": "Fluminense FC",
       "league": "LKU",
@@ -102,19 +115,6 @@
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
       "pro": true
-    },
-    {
-      "home": "Oriente Petrol",
-      "away": "Nacional Potosi",
-      "league": "BOLPLK",
-      "date": "22.10.2026 00:30",
-      "prediction": "Double Chance 12",
-      "odds": 1.09,
-      "probability": 76.22,
-      "patternScore": 71.07,
-      "firstHalf": "2 - 0",
-      "finalScore": "3 - 2",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -233,18 +233,18 @@
     },
     {
       "type": "won",
+      "home": "Deportivo Toluca",
+      "away": "Club Tijuana",
+      "prediction": "Over 2.5 Goals",
+      "odds": 1.16,
+      "at": "22.10.2026 01:00"
+    },
+    {
+      "type": "won",
       "home": "SE Palmeiras",
       "away": "Fluminense FC",
       "prediction": "Handicap (0:2) 2",
       "odds": 1.19,
-      "at": "22.10.2026 00:30"
-    },
-    {
-      "type": "won",
-      "home": "Club Deportivo Firpo",
-      "away": "Deportivo Saprissa",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.08,
       "at": "22.10.2026 00:30"
     },
     {
@@ -267,24 +267,6 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 21:26",
-      "home": "Deportivo Tachira",
-      "away": "Monagas SC"
-    },
-    {
-      "type": "updated",
-      "at": "21.10.2026 21:26",
-      "home": "Club Atletico Torque",
-      "away": "Atletico Mineiro"
-    },
-    {
-      "type": "updated",
-      "at": "21.10.2026 21:26",
-      "home": "Deportivo La Guaira",
-      "away": "Aragua"
-    },
-    {
-      "type": "updated",
       "at": "21.10.2026 21:55",
       "home": "Real Potosi",
       "away": "Bolivar"
@@ -294,6 +276,24 @@
       "at": "21.10.2026 23:29",
       "home": "Belgrano Women",
       "away": "Universitario D"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 23:54",
+      "home": "Club Deportivo Firpo",
+      "away": "Deportivo Saprissa"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 21:56",
+      "home": "Barranguilla",
+      "away": "America de Cali"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 23:36",
+      "home": "SE Palmeiras",
+      "away": "Fluminense FC"
     }
   ],
   "today": {
@@ -302,7 +302,7 @@
     "league": "AVC",
     "date": "22.10.2026 08:30",
     "patternScore": 71.16,
-    "patternText": "97.903/137.590",
+    "patternText": "97.907/137.596",
     "picks": 3
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "AVC",
       "date": "22.10.2026 08:30",
       "patternScore": 71.16,
-      "patternText": "97.903/137.590",
+      "patternText": "97.907/137.596",
       "picks": 3
     },
     {
@@ -321,7 +321,7 @@
       "league": "KARA",
       "date": "22.10.2026 13:00",
       "patternScore": 70.73,
-      "patternText": "255.779/361.642",
+      "patternText": "255.783/361.648",
       "picks": 2
     },
     {
@@ -330,7 +330,7 @@
       "league": "SUUD",
       "date": "22.10.2026 14:45",
       "patternScore": 70.72,
-      "patternText": "254.564/359.947",
+      "patternText": "254.568/359.953",
       "picks": 5
     },
     {
@@ -339,7 +339,7 @@
       "league": "MLTP",
       "date": "22.10.2026 18:30",
       "patternScore": 70.72,
-      "patternText": "143.186/202.472",
+      "patternText": "143.190/202.478",
       "picks": 1
     },
     {
@@ -348,11 +348,18 @@
       "league": "BAECK",
       "date": "22.10.2026 13:00",
       "patternScore": 70.7,
-      "patternText": "109.656/155.104",
+      "patternText": "109.660/155.110",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SK Sturm Graz",
+      "away": "Marseille",
+      "league": "AVL",
+      "at": "22.10.2026 03:28",
+      "count": 8
+    },
     {
       "home": "AGF Aarhus",
       "away": "Egnatia",
@@ -373,13 +380,6 @@
       "league": "AVKL",
       "at": "22.10.2026 02:21",
       "count": 5
-    },
-    {
-      "home": "SK Sturm Graz",
-      "away": "Marseille",
-      "league": "AVL",
-      "at": "22.10.2026 01:57",
-      "count": 7
     },
     {
       "home": "FC Nordsjaelland",
