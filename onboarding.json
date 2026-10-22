@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 05:21",
+  "updatedAt": "22.10.2026 05:37",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 211,
+      "won": 219,
       "lost": 104,
-      "total": 315,
-      "rate": 67.0
+      "total": 323,
+      "rate": 67.8
     },
     "totalAnalyses": 142431,
     "leagues": 526,
     "pro": {
-      "won": 79,
+      "won": 83,
       "lost": 34,
-      "total": 113,
-      "rate": 69.9
+      "total": 117,
+      "rate": 70.9
     },
     "insights": {
-      "won": 138,
+      "won": 146,
       "lost": 62,
-      "total": 200,
-      "rate": 69.0
+      "total": 208,
+      "rate": 70.2
     },
     "coupons": {
       "won": 16,
@@ -47,10 +47,36 @@
       "total": 33,
       "rate": 48.5
     },
-    "analyses24h": 710,
-    "analyses30d": 18727
+    "analyses24h": 704,
+    "analyses30d": 18721
   },
   "recentWins": [
+    {
+      "home": "CF Pachuca",
+      "away": "Cruz Azul",
+      "league": "MEK",
+      "date": "22.10.2026 03:10",
+      "prediction": "Under 4.5 Goals",
+      "odds": 1.06,
+      "probability": 85.5,
+      "patternScore": 71.76,
+      "firstHalf": "1 - 1",
+      "finalScore": "1 - 2",
+      "pro": true
+    },
+    {
+      "home": "Santos Laguna",
+      "away": "Pumas UNAM",
+      "league": "MEK",
+      "date": "22.10.2026 03:10",
+      "prediction": "Double Chance 12",
+      "odds": 1.12,
+      "probability": 80.95,
+      "patternScore": 72.02,
+      "firstHalf": "1 - 0",
+      "finalScore": "2 - 0",
+      "pro": true
+    },
     {
       "home": "CS Cartaginés",
       "away": "Deportivo Olimpia",
@@ -88,32 +114,6 @@
       "patternScore": 70.92,
       "firstHalf": "0 - 2",
       "finalScore": "2 - 5",
-      "pro": true
-    },
-    {
-      "home": "Deportivo Toluca",
-      "away": "Club Tijuana",
-      "league": "MEK",
-      "date": "22.10.2026 01:00",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.16,
-      "probability": 100.0,
-      "patternScore": 56.42,
-      "firstHalf": "0 - 1",
-      "finalScore": "2 - 2",
-      "pro": false
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "Fluminense FC",
-      "league": "LKU",
-      "date": "22.10.2026 00:30",
-      "prediction": "Handicap (0:2) 2",
-      "odds": 1.19,
-      "probability": 80.45112781954887,
-      "patternScore": 69.39,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 1",
       "pro": true
     }
   ],
@@ -217,6 +217,22 @@
   "ticker": [
     {
       "type": "won",
+      "home": "CF Pachuca",
+      "away": "Cruz Azul",
+      "prediction": "Under 4.5 Goals",
+      "odds": 1.06,
+      "at": "22.10.2026 03:10"
+    },
+    {
+      "type": "won",
+      "home": "Santos Laguna",
+      "away": "Pumas UNAM",
+      "prediction": "Double Chance 12",
+      "odds": 1.12,
+      "at": "22.10.2026 03:10"
+    },
+    {
+      "type": "won",
       "home": "CS Cartaginés",
       "away": "Deportivo Olimpia",
       "prediction": "1st Half Double Chance 1X",
@@ -229,22 +245,6 @@
       "away": "CF Monterrey",
       "prediction": "Double Chance 12",
       "odds": 1.09,
-      "at": "22.10.2026 01:00"
-    },
-    {
-      "type": "won",
-      "home": "Atlas FC",
-      "away": "Club America",
-      "prediction": "Double Chance 12",
-      "odds": 1.1,
-      "at": "22.10.2026 01:00"
-    },
-    {
-      "type": "won",
-      "home": "Deportivo Toluca",
-      "away": "Club Tijuana",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.16,
       "at": "22.10.2026 01:00"
     },
     {
@@ -267,21 +267,9 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 23:29",
-      "home": "Belgrano Women",
-      "away": "Universitario D"
-    },
-    {
-      "type": "updated",
       "at": "21.10.2026 23:54",
       "home": "Club Deportivo Firpo",
       "away": "Deportivo Saprissa"
-    },
-    {
-      "type": "updated",
-      "at": "21.10.2026 23:36",
-      "home": "SE Palmeiras",
-      "away": "Fluminense FC"
     },
     {
       "type": "updated",
@@ -294,6 +282,18 @@
       "at": "22.10.2026 02:21",
       "home": "Santos Laguna",
       "away": "Pumas UNAM"
+    },
+    {
+      "type": "updated",
+      "at": "22.10.2026 05:12",
+      "home": "Persik Kediri",
+      "away": "Pss Sleman"
+    },
+    {
+      "type": "updated",
+      "at": "22.10.2026 05:13",
+      "home": "Madura United",
+      "away": "Persib Bandung"
     }
   ],
   "today": {
@@ -302,7 +302,7 @@
     "league": "KARA",
     "date": "22.10.2026 13:00",
     "patternScore": 70.73,
-    "patternText": "255.795/361.660",
+    "patternText": "255.843/361.708",
     "picks": 2
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "KARA",
       "date": "22.10.2026 13:00",
       "patternScore": 70.73,
-      "patternText": "255.795/361.660",
+      "patternText": "255.843/361.708",
       "picks": 2
     },
     {
@@ -320,8 +320,8 @@
       "away": "Al Shabab",
       "league": "SUUD",
       "date": "22.10.2026 14:45",
-      "patternScore": 70.72,
-      "patternText": "254.580/359.965",
+      "patternScore": 70.73,
+      "patternText": "254.628/360.013",
       "picks": 5
     },
     {
@@ -329,8 +329,8 @@
       "away": "Gzira United",
       "league": "MLTP",
       "date": "22.10.2026 18:30",
-      "patternScore": 70.72,
-      "patternText": "143.194/202.482",
+      "patternScore": 70.73,
+      "patternText": "143.252/202.540",
       "picks": 1
     },
     {
@@ -338,8 +338,8 @@
       "away": "Ajman",
       "league": "BAECK",
       "date": "22.10.2026 13:00",
-      "patternScore": 70.7,
-      "patternText": "109.664/155.114",
+      "patternScore": 70.71,
+      "patternText": "109.724/155.174",
       "picks": 2
     },
     {
@@ -347,12 +347,26 @@
       "away": "AC Sparta Prague",
       "league": "AVL",
       "date": "22.10.2026 19:00",
-      "patternScore": 70.68,
-      "patternText": "175.738/248.630",
+      "patternScore": 70.69,
+      "patternText": "175.778/248.670",
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Juventus",
+      "away": "Stade Rennais",
+      "league": "AVL",
+      "at": "22.10.2026 05:28",
+      "count": 4
+    },
+    {
+      "home": "FC Nordsjaelland",
+      "away": "CSKA Sofia",
+      "league": "AVKL",
+      "at": "22.10.2026 05:28",
+      "count": 10
+    },
     {
       "home": "NK Celje",
       "away": "Red Bull Salzburg",
@@ -373,13 +387,6 @@
       "league": "AVL",
       "at": "22.10.2026 05:04",
       "count": 3
-    },
-    {
-      "home": "Juventus",
-      "away": "Stade Rennais",
-      "league": "AVL",
-      "at": "22.10.2026 05:04",
-      "count": 12
     },
     {
       "home": "Ajax",
@@ -415,13 +422,6 @@
       "league": "AVL",
       "at": "22.10.2026 04:52",
       "count": 8
-    },
-    {
-      "home": "FC Kairat Almaty",
-      "away": "Panathinaikos",
-      "league": "AVKL",
-      "at": "22.10.2026 04:51",
-      "count": 11
     }
   ],
   "paywall": {
