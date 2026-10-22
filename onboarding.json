@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.10.2026 23:45",
+  "updatedAt": "21.10.2026 23:59",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 209,
+      "won": 210,
       "lost": 96,
-      "total": 305,
-      "rate": 68.5
+      "total": 306,
+      "rate": 68.6
     },
-    "totalAnalyses": 142187,
+    "totalAnalyses": 142196,
     "leagues": 527,
     "pro": {
-      "won": 61,
+      "won": 62,
       "lost": 26,
-      "total": 87,
-      "rate": 70.1
+      "total": 88,
+      "rate": 70.5
     },
     "insights": {
-      "won": 114,
+      "won": 115,
       "lost": 49,
-      "total": 163,
-      "rate": 69.9
+      "total": 164,
+      "rate": 70.1
     },
     "coupons": {
       "won": 11,
@@ -47,8 +47,8 @@
       "total": 24,
       "rate": 45.8
     },
-    "analyses24h": 712,
-    "analyses30d": 18708
+    "analyses24h": 720,
+    "analyses30d": 18716
   },
   "recentWins": [
     {
@@ -333,6 +333,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "AS Monaco",
+      "away": "SC Freiburg",
+      "league": "AVKL",
+      "at": "21.10.2026 23:46",
+      "count": 8
+    },
+    {
       "home": "SE Palmeiras",
       "away": "Fluminense FC",
       "league": "LKU",
@@ -394,13 +401,6 @@
       "league": "AVL",
       "at": "21.10.2026 22:15",
       "count": 8
-    },
-    {
-      "home": "SK Sturm Graz",
-      "away": "Marseille",
-      "league": "AVL",
-      "at": "21.10.2026 22:15",
-      "count": 14
     }
   ],
   "paywall": {
