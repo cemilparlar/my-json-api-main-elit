@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 05:37",
+  "updatedAt": "22.10.2026 05:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 323,
       "rate": 67.8
     },
-    "totalAnalyses": 142431,
+    "totalAnalyses": 142438,
     "leagues": 526,
     "pro": {
       "won": 83,
@@ -47,8 +47,8 @@
       "total": 33,
       "rate": 48.5
     },
-    "analyses24h": 704,
-    "analyses30d": 18721
+    "analyses24h": 712,
+    "analyses30d": 18729
   },
   "recentWins": [
     {
@@ -291,21 +291,30 @@
     },
     {
       "type": "updated",
-      "at": "22.10.2026 05:13",
+      "at": "22.10.2026 05:40",
       "home": "Madura United",
       "away": "Persib Bandung"
     }
   ],
   "today": {
-    "home": "Mornar Bar",
-    "away": "Mladost Dg",
-    "league": "KARA",
-    "date": "22.10.2026 13:00",
-    "patternScore": 70.73,
-    "patternText": "255.843/361.708",
-    "picks": 2
+    "home": "Juventus",
+    "away": "Stade Rennais",
+    "league": "AVL",
+    "date": "22.10.2026 16:45",
+    "patternScore": 71.05,
+    "patternText": "118.070/166.182",
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Juventus",
+      "away": "Stade Rennais",
+      "league": "AVL",
+      "date": "22.10.2026 16:45",
+      "patternScore": 71.05,
+      "patternText": "118.070/166.182",
+      "picks": 3
+    },
     {
       "home": "Mornar Bar",
       "away": "Mladost Dg",
@@ -341,18 +350,23 @@
       "patternScore": 70.71,
       "patternText": "109.724/155.174",
       "picks": 2
-    },
-    {
-      "home": "Olympiakos",
-      "away": "AC Sparta Prague",
-      "league": "AVL",
-      "date": "22.10.2026 19:00",
-      "patternScore": 70.69,
-      "patternText": "175.778/248.670",
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Ajax",
+      "away": "Atalanta",
+      "league": "AVKL",
+      "at": "22.10.2026 05:48",
+      "count": 9
+    },
+    {
+      "home": "CR Flamengo",
+      "away": "Estudiantes de La Plata",
+      "league": "LKU",
+      "at": "22.10.2026 05:48",
+      "count": 14
+    },
     {
       "home": "Juventus",
       "away": "Stade Rennais",
@@ -389,13 +403,6 @@
       "count": 3
     },
     {
-      "home": "Ajax",
-      "away": "Atalanta",
-      "league": "AVKL",
-      "at": "22.10.2026 05:04",
-      "count": 6
-    },
-    {
       "home": "Ferencvaros",
       "away": "Torreense",
       "league": "AVL",
@@ -415,13 +422,6 @@
       "league": "AVL",
       "at": "22.10.2026 04:52",
       "count": 7
-    },
-    {
-      "home": "FC Viktoria Plzen",
-      "away": "PFC Levski Sofia",
-      "league": "AVL",
-      "at": "22.10.2026 04:52",
-      "count": 8
     }
   ],
   "paywall": {
