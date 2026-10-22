@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 11:41",
+  "updatedAt": "22.10.2026 12:00",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 226,
       "rate": 71.2
     },
-    "totalAnalyses": 145960,
-    "leagues": 532,
+    "totalAnalyses": 146130,
+    "leagues": 533,
     "pro": {
       "won": 83,
       "lost": 34,
@@ -47,8 +47,8 @@
       "total": 34,
       "rate": 50.0
     },
-    "analyses24h": 3465,
-    "analyses30d": 21582
+    "analyses24h": 3542,
+    "analyses30d": 21655
   },
   "recentWins": [
     {
@@ -309,24 +309,6 @@
       "picks": 3
     },
     {
-      "home": "Atlas Women",
-      "away": "León Women",
-      "league": "MEKKA",
-      "date": "23.10.2026 01:06",
-      "patternScore": 71.38,
-      "patternText": "121.100/169.662",
-      "picks": 2
-    },
-    {
-      "home": "Dinamo Zagreb",
-      "away": "NEC Nijmegen",
-      "league": "AVL",
-      "date": "22.10.2026 16:45",
-      "patternScore": 71.32,
-      "patternText": "177.127/248.356",
-      "picks": 2
-    },
-    {
       "home": "Telecom Egypt",
       "away": "Baladiyyat",
       "league": "MSR2",
@@ -343,9 +325,83 @@
       "patternScore": 70.73,
       "patternText": "254.650/360.041",
       "picks": 4
+    },
+    {
+      "home": "Hibernians",
+      "away": "Gzira United",
+      "league": "MLTP",
+      "date": "22.10.2026 18:30",
+      "patternScore": 70.73,
+      "patternText": "143.262/202.552",
+      "picks": 1
+    },
+    {
+      "home": "Sitra",
+      "away": "Al Rifaa",
+      "league": "BAH",
+      "date": "22.10.2026 16:00",
+      "patternScore": 70.69,
+      "patternText": "115.452/163.331",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Cruzeiro EC",
+      "away": "Remo",
+      "league": "BR1",
+      "at": "22.10.2026 11:54",
+      "count": 8
+    },
+    {
+      "home": "Vitoria Guimaraes",
+      "away": "CS Maritimo",
+      "league": "POR",
+      "at": "22.10.2026 11:53",
+      "count": 5
+    },
+    {
+      "home": "Lillestrom SK",
+      "away": "Real Sociedad",
+      "league": "AVL",
+      "at": "22.10.2026 11:46",
+      "count": 8
+    },
+    {
+      "home": "TSG Hoffenheim",
+      "away": "Olympique Lyonnais",
+      "league": "AVL",
+      "at": "22.10.2026 11:46",
+      "count": 15
+    },
+    {
+      "home": "SC Braga",
+      "away": "KAA Gent",
+      "league": "AVKL",
+      "at": "22.10.2026 11:46",
+      "count": 6
+    },
+    {
+      "home": "Trabzonspor",
+      "away": "Heart of Midlothian",
+      "league": "AVKL",
+      "at": "22.10.2026 11:46",
+      "count": 13
+    },
+    {
+      "home": "Union St.G",
+      "away": "Hapoel Beer She",
+      "league": "AVL",
+      "at": "22.10.2026 11:45",
+      "count": 7
+    },
+    {
+      "home": "FC Kairat Almaty",
+      "away": "Panathinaikos",
+      "league": "AVKL",
+      "at": "22.10.2026 11:44",
+      "count": 7
+    },
     {
       "home": "Angers SCO",
       "away": "FC Lorient",
@@ -359,62 +415,6 @@
       "league": "FR1",
       "at": "22.10.2026 11:41",
       "count": 9
-    },
-    {
-      "home": "Stade Rennais",
-      "away": "RC Strasbourg",
-      "league": "FR1",
-      "at": "22.10.2026 11:41",
-      "count": 18
-    },
-    {
-      "home": "Toulouse FC",
-      "away": "ESTAC Troyes",
-      "league": "FR1",
-      "at": "22.10.2026 11:41",
-      "count": 6
-    },
-    {
-      "home": "Marseille",
-      "away": "Le Havre AC",
-      "league": "FR1",
-      "at": "22.10.2026 11:41",
-      "count": 4
-    },
-    {
-      "home": "Estoril Praia",
-      "away": "Moreirense FC",
-      "league": "POR",
-      "at": "22.10.2026 11:36",
-      "count": 6
-    },
-    {
-      "home": "Zenit St. Petersburg",
-      "away": "FC Makhachkala",
-      "league": "RUS",
-      "at": "22.10.2026 11:35",
-      "count": 13
-    },
-    {
-      "home": "Celta de Vigo",
-      "away": "Real Betis",
-      "league": "İS1",
-      "at": "22.10.2026 11:34",
-      "count": 8
-    },
-    {
-      "home": "Sport Club Internacional",
-      "away": "Botafogo de Futebol e Regatas",
-      "league": "BR1",
-      "at": "22.10.2026 11:31",
-      "count": 10
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "Deportivo La Coruna",
-      "league": "İS1",
-      "at": "22.10.2026 11:30",
-      "count": 13
     }
   ],
   "paywall": {
