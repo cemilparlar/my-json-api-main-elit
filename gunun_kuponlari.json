@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 10:37",
-  "updatedAtUtc": "2026-10-22T10:37:00Z",
+  "updatedAt": "22.10.2026 10:58",
+  "updatedAtUtc": "2026-10-22T10:58:00Z",
   "upcoming": [
     {
       "id": "20261021-16-3",
@@ -552,66 +552,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "pending"
-        }
-      ]
-    },
-    {
-      "id": "20261021-12-2",
-      "createdAt": "21.10.2026 09:00",
-      "createdAtUtc": "2026-10-21T09:00:00Z",
-      "size": 2,
-      "mbs": 2,
-      "totalOdds": 1.23,
-      "winChance": 49.36,
-      "firstKickoff": "22.10.2026 01:00",
-      "lastKickoff": "22.10.2026 08:30",
-      "status": "live",
-      "completedAt": null,
-      "effectiveOdds": 1.23,
-      "legs": [
-        {
-          "matchCode": "4476465",
-          "nesine": null,
-          "date": "22.10.2026 01:00",
-          "kickoffUtc": "2026-10-22T01:00:00Z",
-          "league": "MEK",
-          "home": "Deportivo Toluca",
-          "away": "Club Tijuana",
-          "league_tr": "MEK",
-          "home_tr": "Toluca",
-          "away_tr": "Club Tijuana",
-          "prediction": "Under 4.5 Goals",
-          "prediction_tr": "4,5 Alt/Üst Alt",
-          "odds": 1.14,
-          "probability": 73.08,
-          "patternScore": 69.35,
-          "patternText": "161.278/232.566",
-          "mbs": 2,
-          "firstHalf": "0 - 1",
-          "finalScore": "2 - 2",
-          "status": "won"
-        },
-        {
-          "matchCode": "4573662",
-          "nesine": null,
-          "date": "22.10.2026 08:30",
-          "kickoffUtc": "2026-10-22T08:30:00Z",
-          "league": "AVC",
-          "home": "Queensland Lions",
-          "away": "Preston Lions",
-          "league_tr": "AVC",
-          "home_tr": "Queensland Lio",
-          "away_tr": "Preston Lions",
-          "prediction": "Over 1.5 Goals",
-          "prediction_tr": "1,5 Alt/Üst Üst",
-          "odds": 1.08,
-          "probability": 80.68,
-          "patternScore": 71.18,
-          "patternText": "97.711/137.280",
-          "mbs": 2,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
         }
       ]
     },
@@ -2701,6 +2641,66 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261021-12-2",
+      "createdAt": "21.10.2026 09:00",
+      "createdAtUtc": "2026-10-21T09:00:00Z",
+      "size": 2,
+      "mbs": 2,
+      "totalOdds": 1.23,
+      "winChance": 49.36,
+      "firstKickoff": "22.10.2026 01:00",
+      "lastKickoff": "22.10.2026 08:30",
+      "status": "won",
+      "completedAt": "22.10.2026 10:58",
+      "effectiveOdds": 1.23,
+      "legs": [
+        {
+          "matchCode": "4476465",
+          "nesine": null,
+          "date": "22.10.2026 01:00",
+          "kickoffUtc": "2026-10-22T01:00:00Z",
+          "league": "MEK",
+          "home": "Deportivo Toluca",
+          "away": "Club Tijuana",
+          "league_tr": "MEK",
+          "home_tr": "Toluca",
+          "away_tr": "Club Tijuana",
+          "prediction": "Under 4.5 Goals",
+          "prediction_tr": "4,5 Alt/Üst Alt",
+          "odds": 1.14,
+          "probability": 73.08,
+          "patternScore": 69.35,
+          "patternText": "161.278/232.566",
+          "mbs": 2,
+          "firstHalf": "0 - 1",
+          "finalScore": "2 - 2",
+          "status": "won"
+        },
+        {
+          "matchCode": "4573662",
+          "nesine": null,
+          "date": "22.10.2026 08:30",
+          "kickoffUtc": "2026-10-22T08:30:00Z",
+          "league": "AVC",
+          "home": "Queensland Lions",
+          "away": "Preston Lions",
+          "league_tr": "AVC",
+          "home_tr": "Queensland Lio",
+          "away_tr": "Preston Lions",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.08,
+          "probability": 80.68,
+          "patternScore": 71.18,
+          "patternText": "97.711/137.280",
+          "mbs": 2,
+          "firstHalf": "0 - 0",
+          "finalScore": "2 - 1",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261021-12-3",
       "createdAt": "21.10.2026 09:00",

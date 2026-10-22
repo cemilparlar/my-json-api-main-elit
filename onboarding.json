@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 10:37",
+  "updatedAt": "22.10.2026 10:58",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 159,
-      "lost": 66,
-      "total": 225,
+      "won": 162,
+      "lost": 67,
+      "total": 229,
       "rate": 70.7
     },
-    "totalAnalyses": 145307,
+    "totalAnalyses": 145468,
     "leagues": 531,
     "pro": {
       "won": 83,
@@ -36,21 +36,34 @@
       "rate": 70.9
     },
     "insights": {
-      "won": 146,
+      "won": 147,
       "lost": 62,
-      "total": 208,
-      "rate": 70.2
+      "total": 209,
+      "rate": 70.3
     },
     "coupons": {
-      "won": 16,
+      "won": 17,
       "lost": 17,
-      "total": 33,
-      "rate": 48.5
+      "total": 34,
+      "rate": 50.0
     },
-    "analyses24h": 3007,
-    "analyses30d": 21122
+    "analyses24h": 3101,
+    "analyses30d": 21216
   },
   "recentWins": [
+    {
+      "home": "Queensland Lions",
+      "away": "Preston Lions",
+      "league": "AVC",
+      "date": "22.10.2026 08:30",
+      "prediction": "Over 1.5 Goals",
+      "odds": 1.08,
+      "probability": 82.29,
+      "patternScore": 71.14,
+      "firstHalf": "0 - 0",
+      "finalScore": "2 - 1",
+      "pro": false
+    },
     {
       "home": "CF Pachuca",
       "away": "Cruz Azul",
@@ -102,22 +115,31 @@
       "firstHalf": "0 - 3",
       "finalScore": "1 - 4",
       "pro": true
-    },
-    {
-      "home": "Atlas FC",
-      "away": "Club America",
-      "league": "MEK",
-      "date": "22.10.2026 01:00",
-      "prediction": "Double Chance 12",
-      "odds": 1.1,
-      "probability": 77.94,
-      "patternScore": 70.92,
-      "firstHalf": "0 - 2",
-      "finalScore": "2 - 5",
-      "pro": true
     }
   ],
   "recentCoupons": [
+    {
+      "size": 2,
+      "totalOdds": 1.23,
+      "winChance": 49.36,
+      "completedAt": "22.10.2026 10:58",
+      "legs": [
+        {
+          "home": "Deportivo Toluca",
+          "away": "Club Tijuana",
+          "prediction": "Under 4.5 Goals",
+          "odds": 1.14,
+          "finalScore": "2 - 2"
+        },
+        {
+          "home": "Queensland Lions",
+          "away": "Preston Lions",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.08,
+          "finalScore": "2 - 1"
+        }
+      ]
+    },
     {
       "size": 3,
       "totalOdds": 1.34,
@@ -183,38 +205,17 @@
           "finalScore": "0 - 1"
         }
       ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.27,
-      "winChance": 36.36,
-      "completedAt": "22.10.2026 02:37",
-      "legs": [
-        {
-          "home": "Montrose Women",
-          "away": "",
-          "prediction": "Double Chance 12",
-          "odds": 1.06,
-          "finalScore": null
-        },
-        {
-          "home": "Santa Fe Women",
-          "away": "Corinthians Women",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "1 - 5"
-        },
-        {
-          "home": "Portuguesa FC",
-          "away": "Zamora FC",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.11,
-          "finalScore": "0 - 2"
-        }
-      ]
     }
   ],
   "ticker": [
+    {
+      "type": "won",
+      "home": "Queensland Lions",
+      "away": "Preston Lions",
+      "prediction": "Over 1.5 Goals",
+      "odds": 1.08,
+      "at": "22.10.2026 08:30"
+    },
     {
       "type": "won",
       "home": "CF Pachuca",
@@ -238,14 +239,6 @@
       "prediction": "1st Half Double Chance 1X",
       "odds": 1.11,
       "at": "22.10.2026 02:30"
-    },
-    {
-      "type": "won",
-      "home": "Club Puebla",
-      "away": "CF Monterrey",
-      "prediction": "Double Chance 12",
-      "odds": 1.09,
-      "at": "22.10.2026 01:00"
     },
     {
       "type": "coupon",
@@ -354,74 +347,74 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "NEC Nijmegen",
-      "away": "FC Groningen",
-      "league": "HOL",
-      "at": "22.10.2026 10:27",
-      "count": 11
+      "home": "Arsenal",
+      "away": "Everton",
+      "league": "İNP",
+      "at": "22.10.2026 10:57",
+      "count": 15
     },
     {
-      "home": "CSKA Moscow",
-      "away": "Spartak Moscow",
-      "league": "RUS",
-      "at": "22.10.2026 10:25",
-      "count": 7
-    },
-    {
-      "home": "Fortuna Sittar",
-      "away": "Excelsior Rotterdam",
-      "league": "HOL",
-      "at": "22.10.2026 10:21",
-      "count": 7
-    },
-    {
-      "home": "Valencia CF",
-      "away": "Villarreal CF",
-      "league": "İS1",
-      "at": "22.10.2026 10:18",
-      "count": 8
-    },
-    {
-      "home": "SS Lazio",
-      "away": "Parma Calcio",
-      "league": "İTA",
-      "at": "22.10.2026 10:18",
-      "count": 9
-    },
-    {
-      "home": "Houston Dynamo",
-      "away": "Minnesota United",
-      "league": "ABD",
-      "at": "22.10.2026 10:18",
-      "count": 8
-    },
-    {
-      "home": "UD Las Palmas",
-      "away": "Real Sociedad B",
-      "league": "İS2",
-      "at": "22.10.2026 10:17",
+      "home": "FSV Mainz 05",
+      "away": "Werder Bremen",
+      "league": "AL1",
+      "at": "22.10.2026 10:56",
       "count": 4
     },
     {
-      "home": "Borussia Dortmund",
-      "away": "Eintracht Frankfurt",
-      "league": "AL1",
-      "at": "22.10.2026 10:17",
-      "count": 14
-    },
-    {
-      "home": "Racing Santander",
-      "away": "RCD Espanyol",
-      "league": "İS1",
-      "at": "22.10.2026 10:15",
+      "home": "Ipswich Town",
+      "away": "Nottingham Forest",
+      "league": "İNP",
+      "at": "22.10.2026 10:54",
       "count": 7
     },
     {
-      "home": "FC Augsburg",
-      "away": "Union Berlin",
-      "league": "AL1",
-      "at": "22.10.2026 10:13",
+      "home": "Lillestrom SK",
+      "away": "Real Sociedad",
+      "league": "AVL",
+      "at": "22.10.2026 10:44",
+      "count": 14
+    },
+    {
+      "home": "Omonia",
+      "away": "SL Benfica",
+      "league": "AVL",
+      "at": "22.10.2026 10:44",
       "count": 10
+    },
+    {
+      "home": "FC Nordsjaelland",
+      "away": "CSKA Sofia",
+      "league": "AVKL",
+      "at": "22.10.2026 10:43",
+      "count": 2
+    },
+    {
+      "home": "FC Midtjylland",
+      "away": "Sint-Truidense VV",
+      "league": "AVKL",
+      "at": "22.10.2026 10:43",
+      "count": 6
+    },
+    {
+      "home": "Union St.G",
+      "away": "Hapoel Beer She",
+      "league": "AVL",
+      "at": "22.10.2026 10:42",
+      "count": 13
+    },
+    {
+      "home": "Juventus",
+      "away": "Stade Rennais",
+      "league": "AVL",
+      "at": "22.10.2026 10:42",
+      "count": 5
+    },
+    {
+      "home": "Fc Iberia",
+      "away": "Mjallby AIF",
+      "league": "AVKL",
+      "at": "22.10.2026 10:42",
+      "count": 6
     }
   ],
   "paywall": {
