@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 04:49",
-  "updatedAtUtc": "2026-10-22T04:49:00Z",
+  "updatedAt": "22.10.2026 05:05",
+  "updatedAtUtc": "2026-10-22T05:05:00Z",
   "upcoming": [
     {
       "id": "20261021-16-3",
@@ -938,6 +938,44 @@
       ]
     },
     {
+      "id": "20261022-08-1",
+      "createdAt": "22.10.2026 05:05",
+      "createdAtUtc": "2026-10-22T05:05:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.09,
+      "winChance": 58.81,
+      "firstKickoff": "22.10.2026 14:30",
+      "lastKickoff": "22.10.2026 14:30",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.09,
+      "legs": [
+        {
+          "matchCode": "4549657",
+          "nesine": null,
+          "date": "22.10.2026 14:30",
+          "kickoffUtc": "2026-10-22T14:30:00Z",
+          "league": "AVKL",
+          "home": "FC Kairat Almaty",
+          "away": "Panathinaikos",
+          "league_tr": "AVKL",
+          "home_tr": "Kairat Almaty",
+          "away_tr": "Panathinaikos",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.09,
+          "probability": 75.0,
+          "patternScore": 58.81,
+          "patternText": "217.737/370.244",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
       "id": "20261021-19-1",
       "createdAt": "21.10.2026 16:11",
       "createdAtUtc": "2026-10-21T16:11:00Z",
@@ -1550,6 +1588,44 @@
           "probability": 100.0,
           "patternScore": 56.88,
           "patternText": "191.192/336.156",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261022-08-2",
+      "createdAt": "22.10.2026 05:05",
+      "createdAtUtc": "2026-10-22T05:05:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.11,
+      "winChance": 58.54,
+      "firstKickoff": "22.10.2026 16:45",
+      "lastKickoff": "22.10.2026 16:45",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.11,
+      "legs": [
+        {
+          "matchCode": "4549595",
+          "nesine": null,
+          "date": "22.10.2026 16:45",
+          "kickoffUtc": "2026-10-22T16:45:00Z",
+          "league": "AVL",
+          "home": "Ararat-Armenia",
+          "away": "AZ Alkmaar",
+          "league_tr": "AVL",
+          "home_tr": "Ararat-Armenia",
+          "away_tr": "Az Alkmaar",
+          "prediction": "1st Half Over 0.5",
+          "prediction_tr": "1. Yarı 0,5 Alt/Üst Üst",
+          "odds": 1.11,
+          "probability": 100.0,
+          "patternScore": 58.54,
+          "patternText": "215.393/367.969",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
@@ -3695,7 +3771,7 @@
       "lastKickoff": "21.10.2026 21:00",
       "status": "lost",
       "completedAt": "21.10.2026 17:39",
-      "effectiveOdds": 1.6,
+      "effectiveOdds": 1.38,
       "legs": [
         {
           "matchCode": "4564180",
@@ -3761,7 +3837,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live"
+          "status": "void"
         }
       ]
     },
