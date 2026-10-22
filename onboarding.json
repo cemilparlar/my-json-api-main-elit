@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 06:46",
+  "updatedAt": "22.10.2026 07:04",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 323,
       "rate": 67.8
     },
-    "totalAnalyses": 142462,
-    "leagues": 526,
+    "totalAnalyses": 142715,
+    "leagues": 527,
     "pro": {
       "won": 83,
       "lost": 34,
@@ -47,8 +47,8 @@
       "total": 33,
       "rate": 48.5
     },
-    "analyses24h": 716,
-    "analyses30d": 18733
+    "analyses24h": 957,
+    "analyses30d": 18974
   },
   "recentWins": [
     {
@@ -249,6 +249,12 @@
     },
     {
       "type": "coupon",
+      "size": 3,
+      "odds": 1.38,
+      "at": "22.10.2026 07:04"
+    },
+    {
+      "type": "coupon",
       "size": 1,
       "odds": 1.07,
       "at": "22.10.2026 06:10"
@@ -257,12 +263,6 @@
       "type": "coupon",
       "size": 1,
       "odds": 1.09,
-      "at": "22.10.2026 05:05"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.11,
       "at": "22.10.2026 05:05"
     },
     {
@@ -285,7 +285,7 @@
     },
     {
       "type": "updated",
-      "at": "22.10.2026 06:44",
+      "at": "22.10.2026 06:52",
       "home": "PSM Makassar",
       "away": "Persebaya Surabaya"
     },
@@ -325,15 +325,6 @@
       "picks": 3
     },
     {
-      "home": "Juventus",
-      "away": "Stade Rennais",
-      "league": "AVL",
-      "date": "22.10.2026 16:45",
-      "patternScore": 71.05,
-      "patternText": "118.070/166.182",
-      "picks": 3
-    },
-    {
       "home": "Mornar Bar",
       "away": "Mladost Dg",
       "league": "KARA",
@@ -350,78 +341,87 @@
       "patternScore": 70.73,
       "patternText": "254.628/360.013",
       "picks": 5
+    },
+    {
+      "home": "Hibernians",
+      "away": "Gzira United",
+      "league": "MLTP",
+      "date": "22.10.2026 18:30",
+      "patternScore": 70.73,
+      "patternText": "143.252/202.540",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Omonia",
-      "away": "SL Benfica",
-      "league": "AVL",
-      "at": "22.10.2026 06:45",
-      "count": 14
-    },
-    {
-      "home": "Juventus",
-      "away": "Stade Rennais",
-      "league": "AVL",
-      "at": "22.10.2026 06:44",
-      "count": 4
-    },
-    {
-      "home": "Dinamo Zagreb",
-      "away": "NEC Nijmegen",
-      "league": "AVL",
-      "at": "22.10.2026 06:35",
-      "count": 7
-    },
-    {
-      "home": "Besiktas",
-      "away": "Crystal Palace",
-      "league": "AVL",
-      "at": "22.10.2026 06:35",
-      "count": 4
-    },
-    {
-      "home": "Pafos Fc",
-      "away": "Riga Fc",
-      "league": "AVKL",
-      "at": "22.10.2026 06:11",
-      "count": 5
-    },
-    {
-      "home": "Getafe CF",
-      "away": "FC Lugano",
-      "league": "AVKL",
-      "at": "22.10.2026 06:11",
-      "count": 6
-    },
-    {
-      "home": "FC Thun",
-      "away": "Hajduk Split",
-      "league": "AVKL",
-      "at": "22.10.2026 05:55",
-      "count": 11
-    },
-    {
-      "home": "Ajax",
-      "away": "Atalanta",
-      "league": "AVKL",
-      "at": "22.10.2026 05:48",
+      "home": "Blackburn",
+      "away": "Wrexham AFC",
+      "league": "İNCL",
+      "at": "22.10.2026 07:03",
       "count": 9
     },
     {
-      "home": "CR Flamengo",
-      "away": "Estudiantes de La Plata",
-      "league": "LKU",
-      "at": "22.10.2026 05:48",
-      "count": 14
+      "home": "Cardiff City",
+      "away": "Birmingham City",
+      "league": "İNCL",
+      "at": "22.10.2026 07:03",
+      "count": 10
     },
     {
-      "home": "FC Nordsjaelland",
-      "away": "CSKA Sofia",
-      "league": "AVKL",
-      "at": "22.10.2026 05:28",
-      "count": 10
+      "home": "Wolverhampton Wanderers",
+      "away": "Watford",
+      "league": "İNCL",
+      "at": "22.10.2026 07:02",
+      "count": 13
+    },
+    {
+      "home": "Stoke City",
+      "away": "Bristol City",
+      "league": "İNCL",
+      "at": "22.10.2026 07:01",
+      "count": 4
+    },
+    {
+      "home": "Queens Park Rangers",
+      "away": "Swansea",
+      "league": "İNCL",
+      "at": "22.10.2026 07:00",
+      "count": 6
+    },
+    {
+      "home": "Muglaspor",
+      "away": "Istanbulspor",
+      "league": "T1L",
+      "at": "22.10.2026 07:00",
+      "count": 3
+    },
+    {
+      "home": "Gaziantep FK",
+      "away": "Erzurumspor FK",
+      "league": "TSL",
+      "at": "22.10.2026 06:59",
+      "count": 6
+    },
+    {
+      "home": "Rayo Vallecano",
+      "away": "Elche CF",
+      "league": "İS1",
+      "at": "22.10.2026 06:59",
+      "count": 7
+    },
+    {
+      "home": "Cordoba CF",
+      "away": "Eibar",
+      "league": "İS2",
+      "at": "22.10.2026 06:59",
+      "count": 8
+    },
+    {
+      "home": "Sheffield United",
+      "away": "Derby County",
+      "league": "İNCL",
+      "at": "22.10.2026 06:59",
+      "count": 13
     }
   ],
   "paywall": {
