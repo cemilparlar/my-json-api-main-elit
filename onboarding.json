@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 08:42",
+  "updatedAt": "22.10.2026 09:04",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 322,
       "rate": 67.7
     },
-    "totalAnalyses": 144399,
+    "totalAnalyses": 144594,
     "leagues": 530,
     "pro": {
       "won": 83,
@@ -47,8 +47,8 @@
       "total": 33,
       "rate": 48.5
     },
-    "analyses24h": 2384,
-    "analyses30d": 20402
+    "analyses24h": 2567,
+    "analyses30d": 20574
   },
   "recentWins": [
     {
@@ -250,20 +250,20 @@
     {
       "type": "coupon",
       "size": 3,
+      "odds": 1.31,
+      "at": "22.10.2026 09:04"
+    },
+    {
+      "type": "coupon",
+      "size": 2,
+      "odds": 1.27,
+      "at": "22.10.2026 09:04"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
       "odds": 1.38,
       "at": "22.10.2026 07:04"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.07,
-      "at": "22.10.2026 06:10"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.09,
-      "at": "22.10.2026 05:05"
     },
     {
       "type": "updated",
@@ -273,9 +273,15 @@
     },
     {
       "type": "updated",
-      "at": "22.10.2026 05:40",
+      "at": "22.10.2026 08:59",
       "home": "Madura United",
       "away": "Persib Bandung"
+    },
+    {
+      "type": "updated",
+      "at": "22.10.2026 08:58",
+      "home": "Hawassa City FC",
+      "away": "Cbe"
     },
     {
       "type": "updated",
@@ -285,15 +291,9 @@
     },
     {
       "type": "updated",
-      "at": "22.10.2026 04:15",
+      "at": "22.10.2026 09:00",
       "home": "Shahaniya SC",
       "away": "Al Sadd"
-    },
-    {
-      "type": "updated",
-      "at": "22.10.2026 07:21",
-      "home": "FC Kairat Almaty",
-      "away": "Panathinaikos"
     }
   ],
   "today": {
@@ -313,6 +313,15 @@
       "date": "22.10.2026 12:00",
       "patternScore": 72.34,
       "patternText": "167.639/231.742",
+      "picks": 1
+    },
+    {
+      "home": "Bunyodkor",
+      "away": "Mashal Muborak",
+      "league": "ÖZB",
+      "date": "22.10.2026 13:30",
+      "patternScore": 71.74,
+      "patternText": "98.653/137.510",
       "picks": 1
     },
     {
@@ -341,31 +350,50 @@
       "patternScore": 70.73,
       "patternText": "255.843/361.708",
       "picks": 2
-    },
-    {
-      "home": "Al Fateh",
-      "away": "Al Shabab",
-      "league": "SUUD",
-      "date": "22.10.2026 14:45",
-      "patternScore": 70.73,
-      "patternText": "254.628/360.013",
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Lillestrom SK",
-      "away": "Real Sociedad",
-      "league": "AVL",
-      "at": "22.10.2026 08:29",
-      "count": 8
-    },
-    {
       "home": "Besiktas",
       "away": "Crystal Palace",
       "league": "AVL",
-      "at": "22.10.2026 08:29",
+      "at": "22.10.2026 09:04",
       "count": 6
+    },
+    {
+      "home": "TSG Hoffenheim",
+      "away": "Olympique Lyonnais",
+      "league": "AVL",
+      "at": "22.10.2026 09:04",
+      "count": 17
+    },
+    {
+      "home": "Ajax",
+      "away": "Atalanta",
+      "league": "AVKL",
+      "at": "22.10.2026 09:03",
+      "count": 9
+    },
+    {
+      "home": "Lillestrom SK",
+      "away": "Real Sociedad",
+      "league": "AVL",
+      "at": "22.10.2026 09:03",
+      "count": 13
+    },
+    {
+      "home": "Juventus",
+      "away": "Stade Rennais",
+      "league": "AVL",
+      "at": "22.10.2026 09:02",
+      "count": 7
+    },
+    {
+      "home": "Cagliari Calcio",
+      "away": "Bologna FC",
+      "league": "İTA",
+      "at": "22.10.2026 08:45",
+      "count": 10
     },
     {
       "home": "SK Sturm Graz",
@@ -373,13 +401,6 @@
       "league": "AVL",
       "at": "22.10.2026 08:28",
       "count": 4
-    },
-    {
-      "home": "Dinamo Zagreb",
-      "away": "NEC Nijmegen",
-      "league": "AVL",
-      "at": "22.10.2026 08:28",
-      "count": 6
     },
     {
       "home": "Ararat-Armenia",
@@ -401,27 +422,6 @@
       "league": "BR1",
       "at": "22.10.2026 08:22",
       "count": 9
-    },
-    {
-      "home": "Chapecoense AF",
-      "away": "Fluminense FC",
-      "league": "BR1",
-      "at": "22.10.2026 08:21",
-      "count": 11
-    },
-    {
-      "home": "Club de Regatas Vasco da Gama",
-      "away": "SC Corinthians",
-      "league": "BR1",
-      "at": "22.10.2026 08:21",
-      "count": 4
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "Red Bull Bragantino",
-      "league": "BR1",
-      "at": "22.10.2026 08:21",
-      "count": 4
     }
   ],
   "paywall": {
