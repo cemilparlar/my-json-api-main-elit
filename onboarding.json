@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 02:23",
+  "updatedAt": "22.10.2026 02:37",
   "config": {
     "pages": [
       "engine",
@@ -22,35 +22,48 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 209,
-      "lost": 101,
-      "total": 310,
-      "rate": 67.4
+      "won": 213,
+      "lost": 102,
+      "total": 315,
+      "rate": 67.6
     },
-    "totalAnalyses": 142278,
+    "totalAnalyses": 142282,
     "leagues": 527,
     "pro": {
-      "won": 68,
-      "lost": 30,
-      "total": 98,
-      "rate": 69.4
+      "won": 70,
+      "lost": 31,
+      "total": 101,
+      "rate": 69.3
     },
     "insights": {
-      "won": 124,
-      "lost": 58,
-      "total": 182,
-      "rate": 68.1
+      "won": 128,
+      "lost": 59,
+      "total": 187,
+      "rate": 68.4
     },
     "coupons": {
-      "won": 12,
+      "won": 14,
       "lost": 17,
-      "total": 29,
-      "rate": 41.4
+      "total": 31,
+      "rate": 45.2
     },
-    "analyses24h": 728,
-    "analyses30d": 18734
+    "analyses24h": 730,
+    "analyses30d": 18736
   },
   "recentWins": [
+    {
+      "home": "Club Deportivo Firpo",
+      "away": "Deportivo Saprissa",
+      "league": "CONOAK",
+      "date": "22.10.2026 00:30",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.08,
+      "probability": 76.15,
+      "patternScore": 69.61,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 0",
+      "pro": true
+    },
     {
       "home": "Belgrano Women",
       "away": "Universitario D",
@@ -102,22 +115,53 @@
       "firstHalf": "1 - 0",
       "finalScore": "3 - 0",
       "pro": true
-    },
-    {
-      "home": "Deportivo Tachira",
-      "away": "Monagas SC",
-      "league": "VENK",
-      "date": "21.10.2026 22:00",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.88,
-      "probability": 75.0,
-      "patternScore": 64.2,
-      "firstHalf": "0 - 0",
-      "finalScore": "1 - 1",
-      "pro": false
     }
   ],
   "recentCoupons": [
+    {
+      "size": 1,
+      "totalOdds": 1.07,
+      "winChance": 71.42,
+      "completedAt": "22.10.2026 02:37",
+      "legs": [
+        {
+          "home": "SE Palmeiras",
+          "away": "Fluminense FC",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.07,
+          "finalScore": "0 - 1"
+        }
+      ]
+    },
+    {
+      "size": 3,
+      "totalOdds": 1.27,
+      "winChance": 36.36,
+      "completedAt": "22.10.2026 02:37",
+      "legs": [
+        {
+          "home": "Montrose Women",
+          "away": "",
+          "prediction": "Double Chance 12",
+          "odds": 1.06,
+          "finalScore": null
+        },
+        {
+          "home": "Santa Fe Women",
+          "away": "Corinthians Women",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "1 - 5"
+        },
+        {
+          "home": "Portuguesa FC",
+          "away": "Zamora FC",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.11,
+          "finalScore": "0 - 2"
+        }
+      ]
+    },
     {
       "size": 3,
       "totalOdds": 1.62,
@@ -175,39 +219,17 @@
           "finalScore": "1 - 1"
         }
       ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.11,
-      "winChance": 67.95,
-      "completedAt": "21.10.2026 21:11",
-      "legs": [
-        {
-          "home": "Bayern Munich",
-          "away": "Arsenal",
-          "prediction": "Handicap (0:2) 2",
-          "odds": 1.11,
-          "finalScore": "2 - 2"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.14,
-      "winChance": 57.14,
-      "completedAt": "21.10.2026 21:11",
-      "legs": [
-        {
-          "home": "Aston Villa",
-          "away": "Viking",
-          "prediction": "1st Half Under 2.5",
-          "odds": 1.14,
-          "finalScore": "3 - 1"
-        }
-      ]
     }
   ],
   "ticker": [
+    {
+      "type": "won",
+      "home": "Club Deportivo Firpo",
+      "away": "Deportivo Saprissa",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.08,
+      "at": "22.10.2026 00:30"
+    },
     {
       "type": "won",
       "home": "Belgrano Women",
@@ -230,14 +252,6 @@
       "away": "Atletico Mineiro",
       "prediction": "Under 3.5 Goals",
       "odds": 1.09,
-      "at": "21.10.2026 22:00"
-    },
-    {
-      "type": "won",
-      "home": "Deportivo La Guaira",
-      "away": "Aragua",
-      "prediction": "Double Chance 12",
-      "odds": 1.06,
       "at": "21.10.2026 22:00"
     },
     {
@@ -290,22 +304,40 @@
     }
   ],
   "today": {
-    "home": "Queensland Lions",
-    "away": "Preston Lions",
-    "league": "AVC",
-    "date": "22.10.2026 08:30",
-    "patternScore": 71.16,
-    "patternText": "97.857/137.526",
-    "picks": 3
+    "home": "CF Pachuca",
+    "away": "Cruz Azul",
+    "league": "MEK",
+    "date": "22.10.2026 03:10",
+    "patternScore": 71.78,
+    "patternText": "86.419/120.389",
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "CF Pachuca",
+      "away": "Cruz Azul",
+      "league": "MEK",
+      "date": "22.10.2026 03:10",
+      "patternScore": 71.78,
+      "patternText": "86.419/120.389",
+      "picks": 2
+    },
+    {
+      "home": "Santos Laguna",
+      "away": "Pumas UNAM",
+      "league": "MEK",
+      "date": "22.10.2026 03:10",
+      "patternScore": 71.35,
+      "patternText": "83.356/116.835",
+      "picks": 3
+    },
     {
       "home": "Queensland Lions",
       "away": "Preston Lions",
       "league": "AVC",
       "date": "22.10.2026 08:30",
-      "patternScore": 71.16,
-      "patternText": "97.857/137.526",
+      "patternScore": 71.15,
+      "patternText": "97.863/137.536",
       "picks": 3
     },
     {
@@ -314,7 +346,7 @@
       "league": "KARA",
       "date": "22.10.2026 13:00",
       "patternScore": 70.72,
-      "patternText": "255.613/361.434",
+      "patternText": "255.619/361.460",
       "picks": 2
     },
     {
@@ -323,26 +355,8 @@
       "league": "SUUD",
       "date": "22.10.2026 14:45",
       "patternScore": 70.72,
-      "patternText": "254.422/359.767",
+      "patternText": "254.428/359.793",
       "picks": 5
-    },
-    {
-      "home": "Hibernians",
-      "away": "Gzira United",
-      "league": "MLTP",
-      "date": "22.10.2026 18:30",
-      "patternScore": 70.72,
-      "patternText": "143.152/202.424",
-      "picks": 1
-    },
-    {
-      "home": "Al Jazira Club",
-      "away": "Ajman",
-      "league": "BAECK",
-      "date": "22.10.2026 13:00",
-      "patternScore": 70.7,
-      "patternText": "109.626/155.052",
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
