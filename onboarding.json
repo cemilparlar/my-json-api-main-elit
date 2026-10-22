@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 04:19",
+  "updatedAt": "22.10.2026 04:35",
   "config": {
     "pages": [
       "engine",
@@ -22,35 +22,48 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 209,
+      "won": 211,
       "lost": 104,
-      "total": 313,
-      "rate": 66.8
+      "total": 315,
+      "rate": 67.0
     },
-    "totalAnalyses": 142371,
+    "totalAnalyses": 142385,
     "leagues": 527,
     "pro": {
-      "won": 77,
+      "won": 79,
       "lost": 34,
-      "total": 111,
-      "rate": 69.4
+      "total": 113,
+      "rate": 69.9
     },
     "insights": {
-      "won": 136,
+      "won": 138,
       "lost": 62,
-      "total": 198,
-      "rate": 68.7
+      "total": 200,
+      "rate": 69.0
     },
     "coupons": {
-      "won": 15,
+      "won": 16,
       "lost": 17,
-      "total": 32,
-      "rate": 46.9
+      "total": 33,
+      "rate": 48.5
     },
-    "analyses24h": 729,
-    "analyses30d": 18748
+    "analyses24h": 733,
+    "analyses30d": 18752
   },
   "recentWins": [
+    {
+      "home": "CS Cartaginés",
+      "away": "Deportivo Olimpia",
+      "league": "CONOAK",
+      "date": "22.10.2026 02:30",
+      "prediction": "1st Half Double Chance 1X",
+      "odds": 1.11,
+      "probability": 75.74,
+      "patternScore": 69.99,
+      "firstHalf": "1 - 0",
+      "finalScore": "1 - 0",
+      "pro": true
+    },
     {
       "home": "Club Puebla",
       "away": "CF Monterrey",
@@ -102,22 +115,38 @@
       "firstHalf": "0 - 0",
       "finalScore": "0 - 1",
       "pro": true
-    },
-    {
-      "home": "Club Deportivo Firpo",
-      "away": "Deportivo Saprissa",
-      "league": "CONOAK",
-      "date": "22.10.2026 00:30",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.08,
-      "probability": 76.15,
-      "patternScore": 69.61,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 0",
-      "pro": true
     }
   ],
   "recentCoupons": [
+    {
+      "size": 3,
+      "totalOdds": 1.34,
+      "winChance": 34.86,
+      "completedAt": "22.10.2026 04:35",
+      "legs": [
+        {
+          "home": "AC Bellinzona",
+          "away": "FC Bruhl",
+          "prediction": "Double Chance 12",
+          "odds": 1.11,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "Real Potosi",
+          "away": "Bolivar",
+          "prediction": "Double Chance 12",
+          "odds": 1.07,
+          "finalScore": "3 - 1"
+        },
+        {
+          "home": "CS Cartaginés",
+          "away": "Deportivo Olimpia",
+          "prediction": "Double Chance 12",
+          "odds": 1.13,
+          "finalScore": "1 - 0"
+        }
+      ]
+    },
     {
       "size": 2,
       "totalOdds": 1.22,
@@ -183,38 +212,17 @@
           "finalScore": "0 - 2"
         }
       ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.62,
-      "winChance": 29.66,
-      "completedAt": "22.10.2026 01:10",
-      "legs": [
-        {
-          "home": "Al Jeel",
-          "away": "Al Jandal",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.15,
-          "finalScore": null
-        },
-        {
-          "home": "Sogndal",
-          "away": "Raufoss",
-          "prediction": "Match Result 1",
-          "odds": 1.27,
-          "finalScore": null
-        },
-        {
-          "home": "Celtic Women",
-          "away": "Hearts Women",
-          "prediction": "Double Chance 12",
-          "odds": 1.11,
-          "finalScore": "2 - 4"
-        }
-      ]
     }
   ],
   "ticker": [
+    {
+      "type": "won",
+      "home": "CS Cartaginés",
+      "away": "Deportivo Olimpia",
+      "prediction": "1st Half Double Chance 1X",
+      "odds": 1.11,
+      "at": "22.10.2026 02:30"
+    },
     {
       "type": "won",
       "home": "Club Puebla",
@@ -238,14 +246,6 @@
       "prediction": "Over 2.5 Goals",
       "odds": 1.16,
       "at": "22.10.2026 01:00"
-    },
-    {
-      "type": "won",
-      "home": "SE Palmeiras",
-      "away": "Fluminense FC",
-      "prediction": "Handicap (0:2) 2",
-      "odds": 1.19,
-      "at": "22.10.2026 00:30"
     },
     {
       "type": "coupon",
@@ -354,6 +354,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "SC Braga",
+      "away": "KAA Gent",
+      "league": "AVKL",
+      "at": "22.10.2026 04:33",
+      "count": 11
+    },
+    {
+      "home": "Lincoln Red Im",
+      "away": "FC Twente",
+      "league": "AVKL",
+      "at": "22.10.2026 04:33",
+      "count": 14
+    },
+    {
+      "home": "Juventus",
+      "away": "Stade Rennais",
+      "league": "AVL",
+      "at": "22.10.2026 04:32",
+      "count": 13
+    },
+    {
+      "home": "Fc Iberia",
+      "away": "Mjallby AIF",
+      "league": "AVKL",
+      "at": "22.10.2026 04:25",
+      "count": 5
+    },
+    {
+      "home": "Ararat-Armenia",
+      "away": "AZ Alkmaar",
+      "league": "AVL",
+      "at": "22.10.2026 04:25",
+      "count": 9
+    },
+    {
       "home": "AFC Bournemouth",
       "away": "AC Milan",
       "league": "AVL",
@@ -366,13 +401,6 @@
       "league": "LKU",
       "at": "22.10.2026 04:17",
       "count": 6
-    },
-    {
-      "home": "Ararat-Armenia",
-      "away": "AZ Alkmaar",
-      "league": "AVL",
-      "at": "22.10.2026 04:16",
-      "count": 8
     },
     {
       "home": "Kauno Zalgiris",
@@ -394,34 +422,6 @@
       "league": "AVL",
       "at": "22.10.2026 04:16",
       "count": 11
-    },
-    {
-      "home": "FC Nordsjaelland",
-      "away": "CSKA Sofia",
-      "league": "AVKL",
-      "at": "22.10.2026 04:08",
-      "count": 3
-    },
-    {
-      "home": "Ferencvaros",
-      "away": "Torreense",
-      "league": "AVL",
-      "at": "22.10.2026 04:08",
-      "count": 8
-    },
-    {
-      "home": "Ajax",
-      "away": "Atalanta",
-      "league": "AVKL",
-      "at": "22.10.2026 04:08",
-      "count": 9
-    },
-    {
-      "home": "FC Midtjylland",
-      "away": "Sint-Truidense VV",
-      "league": "AVKL",
-      "at": "22.10.2026 04:08",
-      "count": 6
     }
   ],
   "paywall": {
