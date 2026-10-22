@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 00:56",
+  "updatedAt": "22.10.2026 01:10",
   "config": {
     "pages": [
       "engine",
@@ -22,9 +22,9 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 214,
-      "lost": 97,
-      "total": 311,
+      "won": 207,
+      "lost": 94,
+      "total": 301,
       "rate": 68.8
     },
     "totalAnalyses": 142251,
@@ -42,13 +42,13 @@
       "rate": 69.7
     },
     "coupons": {
-      "won": 11,
+      "won": 12,
       "lost": 15,
-      "total": 26,
-      "rate": 42.3
+      "total": 27,
+      "rate": 44.4
     },
-    "analyses24h": 741,
-    "analyses30d": 18739
+    "analyses24h": 731,
+    "analyses30d": 18736
   },
   "recentWins": [
     {
@@ -120,6 +120,35 @@
   "recentCoupons": [
     {
       "size": 3,
+      "totalOdds": 1.62,
+      "winChance": 29.66,
+      "completedAt": "22.10.2026 01:10",
+      "legs": [
+        {
+          "home": "Al Jeel",
+          "away": "Al Jandal",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.15,
+          "finalScore": null
+        },
+        {
+          "home": "Sogndal",
+          "away": "Raufoss",
+          "prediction": "Match Result 1",
+          "odds": 1.27,
+          "finalScore": null
+        },
+        {
+          "home": "Celtic Women",
+          "away": "Hearts Women",
+          "prediction": "Double Chance 12",
+          "odds": 1.11,
+          "finalScore": "2 - 4"
+        }
+      ]
+    },
+    {
+      "size": 3,
       "totalOdds": 1.28,
       "winChance": 36.38,
       "completedAt": "21.10.2026 23:14",
@@ -176,21 +205,6 @@
           "finalScore": "3 - 1"
         }
       ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.08,
-      "winChance": 57.51,
-      "completedAt": "21.10.2026 21:11",
-      "legs": [
-        {
-          "home": "Inter",
-          "away": "Shakhtar Donetsk",
-          "prediction": "Match Result 1",
-          "odds": 1.08,
-          "finalScore": "1 - 0"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -228,21 +242,21 @@
     },
     {
       "type": "coupon",
-      "size": 1,
-      "odds": 1.07,
-      "at": "22.10.2026 00:13"
+      "size": 3,
+      "odds": 1.37,
+      "at": "22.10.2026 01:10"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 3.36,
+      "at": "22.10.2026 01:10"
     },
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.1,
-      "at": "21.10.2026 23:00"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.21,
-      "at": "21.10.2026 23:00"
+      "odds": 1.12,
+      "at": "22.10.2026 01:10"
     },
     {
       "type": "updated",
@@ -270,28 +284,37 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 22:26",
-      "home": "Portuguesa FC",
-      "away": "Zamora FC"
+      "at": "21.10.2026 21:18",
+      "home": "New York Cosmo",
+      "away": "Spokane Velocit"
     }
   ],
   "today": {
-    "home": "Queensland Lions",
-    "away": "Preston Lions",
-    "league": "AVC",
-    "date": "22.10.2026 08:30",
-    "patternScore": 71.17,
-    "patternText": "97.849/137.486",
-    "picks": 3
+    "home": "Sama Al Sarhan",
+    "away": "Amman",
+    "league": "ÜRD1",
+    "date": "22.10.2026 12:00",
+    "patternScore": 71.46,
+    "patternText": "205.717/287.872",
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Sama Al Sarhan",
+      "away": "Amman",
+      "league": "ÜRD1",
+      "date": "22.10.2026 12:00",
+      "patternScore": 71.46,
+      "patternText": "205.717/287.872",
+      "picks": 1
+    },
     {
       "home": "Queensland Lions",
       "away": "Preston Lions",
       "league": "AVC",
       "date": "22.10.2026 08:30",
-      "patternScore": 71.17,
-      "patternText": "97.849/137.486",
+      "patternScore": 71.16,
+      "patternText": "97.849/137.500",
       "picks": 3
     },
     {
@@ -300,16 +323,7 @@
       "league": "ENDL1",
       "date": "22.10.2026 12:00",
       "patternScore": 71.01,
-      "patternText": "259.545/365.492",
-      "picks": 1
-    },
-    {
-      "home": "Hibernians",
-      "away": "Gzira United",
-      "league": "MLTP",
-      "date": "22.10.2026 18:30",
-      "patternScore": 70.73,
-      "patternText": "143.144/202.384",
+      "patternText": "259.545/365.494",
       "picks": 1
     },
     {
@@ -318,17 +332,17 @@
       "league": "SUUD",
       "date": "22.10.2026 14:45",
       "patternScore": 70.72,
-      "patternText": "254.410/359.735",
+      "patternText": "254.410/359.737",
       "picks": 5
     },
     {
-      "home": "Al Jazira Club",
-      "away": "Ajman",
-      "league": "BAECK",
-      "date": "22.10.2026 13:00",
-      "patternScore": 70.71,
-      "patternText": "109.618/155.020",
-      "picks": 2
+      "home": "Hibernians",
+      "away": "Gzira United",
+      "league": "MLTP",
+      "date": "22.10.2026 18:30",
+      "patternScore": 70.72,
+      "patternText": "143.144/202.398",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
