@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 01:10",
+  "updatedAt": "22.10.2026 01:27",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 207,
-      "lost": 94,
-      "total": 301,
-      "rate": 68.8
+      "won": 208,
+      "lost": 99,
+      "total": 307,
+      "rate": 67.8
     },
-    "totalAnalyses": 142251,
+    "totalAnalyses": 142263,
     "leagues": 527,
     "pro": {
       "won": 66,
-      "lost": 29,
-      "total": 95,
-      "rate": 69.5
+      "lost": 30,
+      "total": 96,
+      "rate": 68.8
     },
     "insights": {
       "won": 122,
-      "lost": 53,
-      "total": 175,
-      "rate": 69.7
+      "lost": 57,
+      "total": 179,
+      "rate": 68.2
     },
     "coupons": {
       "won": 12,
-      "lost": 15,
-      "total": 27,
-      "rate": 44.4
+      "lost": 16,
+      "total": 28,
+      "rate": 42.9
     },
-    "analyses24h": 731,
-    "analyses30d": 18736
+    "analyses24h": 737,
+    "analyses30d": 18742
   },
   "recentWins": [
     {
@@ -290,24 +290,15 @@
     }
   ],
   "today": {
-    "home": "Sama Al Sarhan",
-    "away": "Amman",
-    "league": "ÜRD1",
-    "date": "22.10.2026 12:00",
-    "patternScore": 71.46,
-    "patternText": "205.717/287.872",
-    "picks": 1
+    "home": "Queensland Lions",
+    "away": "Preston Lions",
+    "league": "AVC",
+    "date": "22.10.2026 08:30",
+    "patternScore": 71.16,
+    "patternText": "97.849/137.500",
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Sama Al Sarhan",
-      "away": "Amman",
-      "league": "ÜRD1",
-      "date": "22.10.2026 12:00",
-      "patternScore": 71.46,
-      "patternText": "205.717/287.872",
-      "picks": 1
-    },
     {
       "home": "Queensland Lions",
       "away": "Preston Lions",
@@ -343,9 +334,32 @@
       "patternScore": 70.72,
       "patternText": "143.144/202.398",
       "picks": 1
+    },
+    {
+      "home": "Al Jazira Club",
+      "away": "Ajman",
+      "league": "BAECK",
+      "date": "22.10.2026 13:00",
+      "patternScore": 70.71,
+      "patternText": "109.618/155.026",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Lincoln Red Im",
+      "away": "FC Twente",
+      "league": "AVKL",
+      "at": "22.10.2026 01:25",
+      "count": 14
+    },
+    {
+      "home": "FC Nordsjaelland",
+      "away": "CSKA Sofia",
+      "league": "AVKL",
+      "at": "22.10.2026 01:15",
+      "count": 1
+    },
     {
       "home": "Trabzonspor",
       "away": "Heart of Midlothian",
@@ -366,13 +380,6 @@
       "league": "LKU",
       "at": "22.10.2026 00:18",
       "count": 14
-    },
-    {
-      "home": "Lincoln Red Im",
-      "away": "FC Twente",
-      "league": "AVKL",
-      "at": "22.10.2026 00:12",
-      "count": 5
     },
     {
       "home": "AS Monaco",
@@ -408,13 +415,6 @@
       "league": "AVKL",
       "at": "21.10.2026 23:11",
       "count": 9
-    },
-    {
-      "home": "Lech Poznan",
-      "away": "Sunderland",
-      "league": "AVL",
-      "at": "21.10.2026 23:04",
-      "count": 2
     }
   ],
   "paywall": {
