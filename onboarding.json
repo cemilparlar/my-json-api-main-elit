@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 07:23",
+  "updatedAt": "22.10.2026 07:42",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 323,
       "rate": 67.8
     },
-    "totalAnalyses": 143100,
+    "totalAnalyses": 143549,
     "leagues": 527,
     "pro": {
       "won": 83,
@@ -47,8 +47,8 @@
       "total": 33,
       "rate": 48.5
     },
-    "analyses24h": 1312,
-    "analyses30d": 19329
+    "analyses24h": 1708,
+    "analyses30d": 19725
   },
   "recentWins": [
     {
@@ -316,6 +316,15 @@
       "picks": 1
     },
     {
+      "home": "Tukums Ii",
+      "away": "Super Nova Ii",
+      "league": "LET1",
+      "date": "22.10.2026 12:00",
+      "patternScore": 71.73,
+      "patternText": "165.844/231.205",
+      "picks": 1
+    },
+    {
       "home": "Pafos Fc",
       "away": "Riga Fc",
       "league": "AVKL",
@@ -341,87 +350,78 @@
       "patternScore": 70.73,
       "patternText": "254.628/360.013",
       "picks": 5
-    },
-    {
-      "home": "Hibernians",
-      "away": "Gzira United",
-      "league": "MLTP",
-      "date": "22.10.2026 18:30",
-      "patternScore": 70.73,
-      "patternText": "143.252/202.540",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Bochum",
-      "away": "VfL Wolfsburg",
+      "home": "Eintracht Braunschweig",
+      "away": "Hannover 96",
       "league": "AL2",
-      "at": "22.10.2026 07:23",
-      "count": 8
+      "at": "22.10.2026 07:42",
+      "count": 5
     },
     {
-      "home": "SV Darmstadt 98",
-      "away": "St Pauli",
+      "home": "Osnabruck",
+      "away": "SpVgg Greuther Furth",
       "league": "AL2",
-      "at": "22.10.2026 07:23",
-      "count": 9
+      "at": "22.10.2026 07:41",
+      "count": 5
     },
     {
-      "home": "CR Flamengo",
-      "away": "Estudiantes de La Plata",
-      "league": "LKU",
-      "at": "22.10.2026 07:23",
-      "count": 13
+      "home": "Holstein Kiel",
+      "away": "Dynamo Dresden",
+      "league": "AL2",
+      "at": "22.10.2026 07:41",
+      "count": 6
     },
     {
-      "home": "Lillestrom SK",
-      "away": "Real Sociedad",
-      "league": "AVL",
-      "at": "22.10.2026 07:22",
-      "count": 4
+      "home": "KRC Genk",
+      "away": "Standard Liege",
+      "league": "BEL",
+      "at": "22.10.2026 07:41",
+      "count": 6
     },
     {
-      "home": "AGF Aarhus",
-      "away": "Egnatia",
-      "league": "AVKL",
-      "at": "22.10.2026 07:22",
+      "home": "Inter",
+      "away": "ACF Fiorentina",
+      "league": "İTA",
+      "at": "22.10.2026 07:40",
       "count": 14
     },
     {
-      "home": "FC Viktoria Plzen",
-      "away": "PFC Levski Sofia",
-      "league": "AVL",
-      "at": "22.10.2026 07:22",
+      "home": "UD Almeria",
+      "away": "Real Oviedo",
+      "league": "İS2",
+      "at": "22.10.2026 07:39",
+      "count": 6
+    },
+    {
+      "home": "SS Lazio",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "22.10.2026 07:38",
+      "count": 15
+    },
+    {
+      "home": "La Louviere",
+      "away": "Zulte Waregem",
+      "league": "BEL",
+      "at": "22.10.2026 07:38",
+      "count": 7
+    },
+    {
+      "home": "RC Lens",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "22.10.2026 07:38",
+      "count": 7
+    },
+    {
+      "home": "KVC Westerlo",
+      "away": "Waasland-Beveren",
+      "league": "BEL",
+      "at": "22.10.2026 07:38",
       "count": 9
-    },
-    {
-      "home": "FC Kairat Almaty",
-      "away": "Panathinaikos",
-      "league": "AVKL",
-      "at": "22.10.2026 07:21",
-      "count": 8
-    },
-    {
-      "home": "Galatasaray",
-      "away": "Fenerbahce",
-      "league": "TSL",
-      "at": "22.10.2026 07:20",
-      "count": 10
-    },
-    {
-      "home": "Mardin 1969",
-      "away": "Manisa FK",
-      "league": "T1L",
-      "at": "22.10.2026 07:19",
-      "count": 2
-    },
-    {
-      "home": "Rizespor",
-      "away": "Trabzonspor",
-      "league": "TSL",
-      "at": "22.10.2026 07:19",
-      "count": 17
     }
   ],
   "paywall": {
