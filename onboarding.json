@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 06:26",
+  "updatedAt": "22.10.2026 06:46",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 323,
       "rate": 67.8
     },
-    "totalAnalyses": 142447,
+    "totalAnalyses": 142462,
     "leagues": 526,
     "pro": {
       "won": 83,
@@ -47,8 +47,8 @@
       "total": 33,
       "rate": 48.5
     },
-    "analyses24h": 706,
-    "analyses30d": 18723
+    "analyses24h": 716,
+    "analyses30d": 18733
   },
   "recentWins": [
     {
@@ -279,7 +279,13 @@
     },
     {
       "type": "updated",
-      "at": "22.10.2026 05:39",
+      "at": "22.10.2026 06:34",
+      "home": "Queensland Lions",
+      "away": "Preston Lions"
+    },
+    {
+      "type": "updated",
+      "at": "22.10.2026 06:44",
       "home": "PSM Makassar",
       "away": "Persebaya Surabaya"
     },
@@ -288,12 +294,6 @@
       "at": "22.10.2026 05:40",
       "home": "Madura United",
       "away": "Persib Bandung"
-    },
-    {
-      "type": "updated",
-      "at": "22.10.2026 02:28",
-      "home": "Hawassa City FC",
-      "away": "Cbe"
     }
   ],
   "today": {
@@ -354,6 +354,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Omonia",
+      "away": "SL Benfica",
+      "league": "AVL",
+      "at": "22.10.2026 06:45",
+      "count": 14
+    },
+    {
+      "home": "Juventus",
+      "away": "Stade Rennais",
+      "league": "AVL",
+      "at": "22.10.2026 06:44",
+      "count": 4
+    },
+    {
+      "home": "Dinamo Zagreb",
+      "away": "NEC Nijmegen",
+      "league": "AVL",
+      "at": "22.10.2026 06:35",
+      "count": 7
+    },
+    {
+      "home": "Besiktas",
+      "away": "Crystal Palace",
+      "league": "AVL",
+      "at": "22.10.2026 06:35",
+      "count": 4
+    },
+    {
       "home": "Pafos Fc",
       "away": "Riga Fc",
       "league": "AVKL",
@@ -389,39 +417,11 @@
       "count": 14
     },
     {
-      "home": "Juventus",
-      "away": "Stade Rennais",
-      "league": "AVL",
-      "at": "22.10.2026 05:28",
-      "count": 4
-    },
-    {
       "home": "FC Nordsjaelland",
       "away": "CSKA Sofia",
       "league": "AVKL",
       "at": "22.10.2026 05:28",
       "count": 10
-    },
-    {
-      "home": "NK Celje",
-      "away": "Red Bull Salzburg",
-      "league": "AVL",
-      "at": "22.10.2026 05:13",
-      "count": 3
-    },
-    {
-      "home": "AFC Bournemouth",
-      "away": "AC Milan",
-      "league": "AVL",
-      "at": "22.10.2026 05:05",
-      "count": 10
-    },
-    {
-      "home": "SK Sturm Graz",
-      "away": "Marseille",
-      "league": "AVL",
-      "at": "22.10.2026 05:04",
-      "count": 3
     }
   ],
   "paywall": {
