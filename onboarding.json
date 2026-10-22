@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 09:52",
+  "updatedAt": "22.10.2026 10:14",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 218,
-      "lost": 104,
-      "total": 322,
-      "rate": 67.7
+      "won": 162,
+      "lost": 67,
+      "total": 229,
+      "rate": 70.7
     },
-    "totalAnalyses": 145032,
+    "totalAnalyses": 145195,
     "leagues": 531,
     "pro": {
       "won": 83,
@@ -47,8 +47,8 @@
       "total": 33,
       "rate": 48.5
     },
-    "analyses24h": 2914,
-    "analyses30d": 20932
+    "analyses24h": 2942,
+    "analyses30d": 21053
   },
   "recentWins": [
     {
@@ -273,7 +273,7 @@
     },
     {
       "type": "updated",
-      "at": "22.10.2026 09:30",
+      "at": "22.10.2026 10:02",
       "home": "Madura United",
       "away": "Persib Bandung"
     },
@@ -285,7 +285,7 @@
     },
     {
       "type": "updated",
-      "at": "22.10.2026 09:31",
+      "at": "22.10.2026 10:02",
       "home": "Cand",
       "away": "Dong A Thanh Hoa"
     },
@@ -325,34 +325,90 @@
       "picks": 3
     },
     {
-      "home": "Al Ahli Dubai",
-      "away": "Al Ain",
-      "league": "BAECK",
-      "date": "22.10.2026 16:00",
-      "patternScore": 71.19,
-      "patternText": "150.220/211.016",
-      "picks": 1
+      "home": "Juventus",
+      "away": "Stade Rennais",
+      "league": "AVL",
+      "date": "22.10.2026 16:45",
+      "patternScore": 71.3,
+      "patternText": "177.157/248.457",
+      "picks": 2
     },
     {
-      "home": "Mornar Bar",
-      "away": "Mladost Dg",
-      "league": "KARA",
-      "date": "22.10.2026 13:00",
-      "patternScore": 70.73,
-      "patternText": "255.843/361.708",
-      "picks": 1
+      "home": "Atlas Women",
+      "away": "León Women",
+      "league": "MEKKA",
+      "date": "23.10.2026 01:06",
+      "patternScore": 70.85,
+      "patternText": "120.812/170.512",
+      "picks": 3
     },
     {
-      "home": "Al Fateh",
-      "away": "Al Shabab",
-      "league": "SUUD",
-      "date": "22.10.2026 14:45",
-      "patternScore": 70.73,
-      "patternText": "254.628/360.013",
-      "picks": 4
+      "home": "Telecom Egypt",
+      "away": "Baladiyyat",
+      "league": "MSR2",
+      "date": "22.10.2026 13:30",
+      "patternScore": 70.78,
+      "patternText": "132.722/187.504",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Augsburg",
+      "away": "Union Berlin",
+      "league": "AL1",
+      "at": "22.10.2026 10:13",
+      "count": 10
+    },
+    {
+      "home": "Rayo Vallecano",
+      "away": "Elche CF",
+      "league": "İS1",
+      "at": "22.10.2026 10:12",
+      "count": 6
+    },
+    {
+      "home": "Bochum",
+      "away": "VfL Wolfsburg",
+      "league": "AL2",
+      "at": "22.10.2026 10:10",
+      "count": 18
+    },
+    {
+      "home": "TSG Hoffenheim",
+      "away": "Olympique Lyonnais",
+      "league": "AVL",
+      "at": "22.10.2026 10:06",
+      "count": 18
+    },
+    {
+      "home": "CR Flamengo",
+      "away": "Estudiantes de La Plata",
+      "league": "LKU",
+      "at": "22.10.2026 10:06",
+      "count": 15
+    },
+    {
+      "home": "FK Crvena zvezda",
+      "away": "FC Copenhagen",
+      "league": "AVKL",
+      "at": "22.10.2026 10:04",
+      "count": 6
+    },
+    {
+      "home": "SK Sturm Graz",
+      "away": "Marseille",
+      "league": "AVL",
+      "at": "22.10.2026 10:04",
+      "count": 10
+    },
+    {
+      "home": "Dinamo Zagreb",
+      "away": "NEC Nijmegen",
+      "league": "AVL",
+      "at": "22.10.2026 10:04",
+      "count": 3
+    },
     {
       "home": "Sporting Kansas City",
       "away": "Austin FC",
@@ -365,62 +421,6 @@
       "away": "Minnesota United",
       "league": "ABD",
       "at": "22.10.2026 09:52",
-      "count": 7
-    },
-    {
-      "home": "FC Dallas",
-      "away": "San Jose Earthquakes",
-      "league": "ABD",
-      "at": "22.10.2026 09:52",
-      "count": 13
-    },
-    {
-      "home": "Philadelphia Union",
-      "away": "New England Revolution",
-      "league": "ABD",
-      "at": "22.10.2026 09:51",
-      "count": 3
-    },
-    {
-      "home": "Atlanta United",
-      "away": "Chicago Fire",
-      "league": "ABD",
-      "at": "22.10.2026 09:51",
-      "count": 6
-    },
-    {
-      "home": "DC United",
-      "away": "FC Cincinnati",
-      "league": "ABD",
-      "at": "22.10.2026 09:51",
-      "count": 10
-    },
-    {
-      "home": "Gil Vicente FC",
-      "away": "FC Porto",
-      "league": "POR",
-      "at": "22.10.2026 09:46",
-      "count": 7
-    },
-    {
-      "home": "Columbus Crew",
-      "away": "Toronto FC",
-      "league": "ABD",
-      "at": "22.10.2026 09:46",
-      "count": 11
-    },
-    {
-      "home": "CF Montreal",
-      "away": "Nashville SC",
-      "league": "ABD",
-      "at": "22.10.2026 09:43",
-      "count": 7
-    },
-    {
-      "home": "Racing Santander",
-      "away": "RCD Espanyol",
-      "league": "İS1",
-      "at": "22.10.2026 09:40",
       "count": 7
     }
   ],
