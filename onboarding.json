@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 06:10",
+  "updatedAt": "22.10.2026 06:26",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 323,
       "rate": 67.8
     },
-    "totalAnalyses": 142442,
+    "totalAnalyses": 142447,
     "leagues": 526,
     "pro": {
       "won": 83,
@@ -47,8 +47,8 @@
       "total": 33,
       "rate": 48.5
     },
-    "analyses24h": 715,
-    "analyses30d": 18732
+    "analyses24h": 706,
+    "analyses30d": 18723
   },
   "recentWins": [
     {
@@ -285,15 +285,15 @@
     },
     {
       "type": "updated",
-      "at": "22.10.2026 06:02",
-      "home": "Persik Kediri",
-      "away": "Pss Sleman"
-    },
-    {
-      "type": "updated",
       "at": "22.10.2026 05:40",
       "home": "Madura United",
       "away": "Persib Bandung"
+    },
+    {
+      "type": "updated",
+      "at": "22.10.2026 02:28",
+      "home": "Hawassa City FC",
+      "away": "Cbe"
     }
   ],
   "today": {
@@ -314,6 +314,15 @@
       "patternScore": 72.34,
       "patternText": "167.639/231.742",
       "picks": 1
+    },
+    {
+      "home": "Pafos Fc",
+      "away": "Riga Fc",
+      "league": "AVKL",
+      "date": "22.10.2026 16:45",
+      "patternScore": 71.38,
+      "patternText": "187.448/262.601",
+      "picks": 3
     },
     {
       "home": "Juventus",
@@ -341,18 +350,23 @@
       "patternScore": 70.73,
       "patternText": "254.628/360.013",
       "picks": 5
-    },
-    {
-      "home": "Hibernians",
-      "away": "Gzira United",
-      "league": "MLTP",
-      "date": "22.10.2026 18:30",
-      "patternScore": 70.73,
-      "patternText": "143.252/202.540",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Pafos Fc",
+      "away": "Riga Fc",
+      "league": "AVKL",
+      "at": "22.10.2026 06:11",
+      "count": 5
+    },
+    {
+      "home": "Getafe CF",
+      "away": "FC Lugano",
+      "league": "AVKL",
+      "at": "22.10.2026 06:11",
+      "count": 6
+    },
     {
       "home": "FC Thun",
       "away": "Hajduk Split",
@@ -408,20 +422,6 @@
       "league": "AVL",
       "at": "22.10.2026 05:04",
       "count": 3
-    },
-    {
-      "home": "Ferencvaros",
-      "away": "Torreense",
-      "league": "AVL",
-      "at": "22.10.2026 04:56",
-      "count": 9
-    },
-    {
-      "home": "Ararat-Armenia",
-      "away": "AZ Alkmaar",
-      "league": "AVL",
-      "at": "22.10.2026 04:56",
-      "count": 7
     }
   ],
   "paywall": {
