@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 04:35",
+  "updatedAt": "22.10.2026 04:49",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 315,
       "rate": 67.0
     },
-    "totalAnalyses": 142385,
+    "totalAnalyses": 142396,
     "leagues": 527,
     "pro": {
       "won": 79,
@@ -47,8 +47,8 @@
       "total": 33,
       "rate": 48.5
     },
-    "analyses24h": 733,
-    "analyses30d": 18752
+    "analyses24h": 734,
+    "analyses30d": 18753
   },
   "recentWins": [
     {
@@ -302,7 +302,7 @@
     "league": "KARA",
     "date": "22.10.2026 13:00",
     "patternScore": 70.73,
-    "patternText": "255.783/361.648",
+    "patternText": "255.795/361.660",
     "picks": 2
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "KARA",
       "date": "22.10.2026 13:00",
       "patternScore": 70.73,
-      "patternText": "255.783/361.648",
+      "patternText": "255.795/361.660",
       "picks": 2
     },
     {
@@ -321,7 +321,7 @@
       "league": "SUUD",
       "date": "22.10.2026 14:45",
       "patternScore": 70.72,
-      "patternText": "254.568/359.953",
+      "patternText": "254.580/359.965",
       "picks": 5
     },
     {
@@ -330,7 +330,7 @@
       "league": "MLTP",
       "date": "22.10.2026 18:30",
       "patternScore": 70.72,
-      "patternText": "143.190/202.478",
+      "patternText": "143.194/202.482",
       "picks": 1
     },
     {
@@ -339,7 +339,7 @@
       "league": "BAECK",
       "date": "22.10.2026 13:00",
       "patternScore": 70.7,
-      "patternText": "109.660/155.110",
+      "patternText": "109.664/155.114",
       "picks": 2
     },
     {
@@ -348,17 +348,52 @@
       "league": "AVL",
       "date": "22.10.2026 19:00",
       "patternScore": 70.68,
-      "patternText": "175.734/248.626",
+      "patternText": "175.738/248.630",
       "picks": 3
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "TSG Hoffenheim",
+      "away": "Olympique Lyonnais",
+      "league": "AVL",
+      "at": "22.10.2026 04:41",
+      "count": 10
+    },
+    {
+      "home": "Dinamo Zagreb",
+      "away": "NEC Nijmegen",
+      "league": "AVL",
+      "at": "22.10.2026 04:40",
+      "count": 6
+    },
+    {
+      "home": "Fc Iberia",
+      "away": "Mjallby AIF",
+      "league": "AVKL",
+      "at": "22.10.2026 04:40",
+      "count": 9
+    },
+    {
+      "home": "Lillestrom SK",
+      "away": "Real Sociedad",
+      "league": "AVL",
+      "at": "22.10.2026 04:40",
+      "count": 9
+    },
+    {
       "home": "SC Braga",
       "away": "KAA Gent",
       "league": "AVKL",
-      "at": "22.10.2026 04:33",
-      "count": 11
+      "at": "22.10.2026 04:40",
+      "count": 6
+    },
+    {
+      "home": "Ararat-Armenia",
+      "away": "AZ Alkmaar",
+      "league": "AVL",
+      "at": "22.10.2026 04:40",
+      "count": 13
     },
     {
       "home": "Lincoln Red Im",
@@ -375,20 +410,6 @@
       "count": 13
     },
     {
-      "home": "Fc Iberia",
-      "away": "Mjallby AIF",
-      "league": "AVKL",
-      "at": "22.10.2026 04:25",
-      "count": 5
-    },
-    {
-      "home": "Ararat-Armenia",
-      "away": "AZ Alkmaar",
-      "league": "AVL",
-      "at": "22.10.2026 04:25",
-      "count": 9
-    },
-    {
       "home": "AFC Bournemouth",
       "away": "AC Milan",
       "league": "AVL",
@@ -401,27 +422,6 @@
       "league": "LKU",
       "at": "22.10.2026 04:17",
       "count": 6
-    },
-    {
-      "home": "Kauno Zalgiris",
-      "away": "SK Brann",
-      "league": "AVKL",
-      "at": "22.10.2026 04:16",
-      "count": 7
-    },
-    {
-      "home": "SK Sturm Graz",
-      "away": "Marseille",
-      "league": "AVL",
-      "at": "22.10.2026 04:16",
-      "count": 3
-    },
-    {
-      "home": "Lillestrom SK",
-      "away": "Real Sociedad",
-      "league": "AVL",
-      "at": "22.10.2026 04:16",
-      "count": 11
     }
   ],
   "paywall": {
