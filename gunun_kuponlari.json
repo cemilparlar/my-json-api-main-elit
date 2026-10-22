@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 05:53",
-  "updatedAtUtc": "2026-10-22T05:53:00Z",
+  "updatedAt": "22.10.2026 06:10",
+  "updatedAtUtc": "2026-10-22T06:10:00Z",
   "upcoming": [
     {
       "id": "20261021-16-3",
@@ -1626,6 +1626,44 @@
           "probability": 100.0,
           "patternScore": 58.54,
           "patternText": "215.393/367.969",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261022-09-1",
+      "createdAt": "22.10.2026 06:10",
+      "createdAtUtc": "2026-10-22T06:10:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.07,
+      "winChance": 58.35,
+      "firstKickoff": "22.10.2026 16:45",
+      "lastKickoff": "22.10.2026 16:45",
+      "status": "upcoming",
+      "completedAt": null,
+      "effectiveOdds": 1.07,
+      "legs": [
+        {
+          "matchCode": "4549592",
+          "nesine": null,
+          "date": "22.10.2026 16:45",
+          "kickoffUtc": "2026-10-22T16:45:00Z",
+          "league": "AVL",
+          "home": "Ferencvaros",
+          "away": "Torreense",
+          "league_tr": "AVL",
+          "home_tr": "Ferencvaros",
+          "away_tr": "Torreense",
+          "prediction": "Under 4.5 Goals",
+          "prediction_tr": "4,5 Alt/Üst Alt",
+          "odds": 1.07,
+          "probability": 100.0,
+          "patternScore": 58.35,
+          "patternText": "206.392/353.720",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,

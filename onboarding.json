@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 05:53",
+  "updatedAt": "22.10.2026 06:10",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 323,
       "rate": 67.8
     },
-    "totalAnalyses": 142438,
+    "totalAnalyses": 142442,
     "leagues": 526,
     "pro": {
       "won": 83,
@@ -47,8 +47,8 @@
       "total": 33,
       "rate": 48.5
     },
-    "analyses24h": 712,
-    "analyses30d": 18729
+    "analyses24h": 715,
+    "analyses30d": 18732
   },
   "recentWins": [
     {
@@ -250,6 +250,12 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.07,
+      "at": "22.10.2026 06:10"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.09,
       "at": "22.10.2026 05:05"
     },
@@ -258,18 +264,6 @@
       "size": 1,
       "odds": 1.11,
       "at": "22.10.2026 05:05"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.18,
-      "at": "22.10.2026 04:19"
-    },
-    {
-      "type": "updated",
-      "at": "21.10.2026 23:54",
-      "home": "Club Deportivo Firpo",
-      "away": "Deportivo Saprissa"
     },
     {
       "type": "updated",
@@ -285,7 +279,13 @@
     },
     {
       "type": "updated",
-      "at": "22.10.2026 05:12",
+      "at": "22.10.2026 05:39",
+      "home": "PSM Makassar",
+      "away": "Persebaya Surabaya"
+    },
+    {
+      "type": "updated",
+      "at": "22.10.2026 06:02",
       "home": "Persik Kediri",
       "away": "Pss Sleman"
     },
@@ -297,15 +297,24 @@
     }
   ],
   "today": {
-    "home": "Juventus",
-    "away": "Stade Rennais",
-    "league": "AVL",
-    "date": "22.10.2026 16:45",
-    "patternScore": 71.05,
-    "patternText": "118.070/166.182",
-    "picks": 3
+    "home": "Madura United",
+    "away": "Persib Bandung",
+    "league": "ENDL1",
+    "date": "22.10.2026 12:00",
+    "patternScore": 72.34,
+    "patternText": "167.639/231.742",
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Madura United",
+      "away": "Persib Bandung",
+      "league": "ENDL1",
+      "date": "22.10.2026 12:00",
+      "patternScore": 72.34,
+      "patternText": "167.639/231.742",
+      "picks": 1
+    },
     {
       "home": "Juventus",
       "away": "Stade Rennais",
@@ -341,18 +350,16 @@
       "patternScore": 70.73,
       "patternText": "143.252/202.540",
       "picks": 1
-    },
-    {
-      "home": "Al Jazira Club",
-      "away": "Ajman",
-      "league": "BAECK",
-      "date": "22.10.2026 13:00",
-      "patternScore": 70.71,
-      "patternText": "109.724/155.174",
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Thun",
+      "away": "Hajduk Split",
+      "league": "AVKL",
+      "at": "22.10.2026 05:55",
+      "count": 11
+    },
     {
       "home": "Ajax",
       "away": "Atalanta",
@@ -414,13 +421,6 @@
       "away": "AZ Alkmaar",
       "league": "AVL",
       "at": "22.10.2026 04:56",
-      "count": 7
-    },
-    {
-      "home": "TSG Hoffenheim",
-      "away": "Olympique Lyonnais",
-      "league": "AVL",
-      "at": "22.10.2026 04:52",
       "count": 7
     }
   ],
