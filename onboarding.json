@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 12:00",
+  "updatedAt": "22.10.2026 12:17",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 161,
-      "lost": 65,
-      "total": 226,
-      "rate": 71.2
+      "won": 163,
+      "lost": 61,
+      "total": 224,
+      "rate": 72.8
     },
-    "totalAnalyses": 146130,
-    "leagues": 533,
+    "totalAnalyses": 146398,
+    "leagues": 534,
     "pro": {
-      "won": 83,
-      "lost": 34,
-      "total": 117,
-      "rate": 70.9
+      "won": 85,
+      "lost": 35,
+      "total": 120,
+      "rate": 70.8
     },
     "insights": {
-      "won": 147,
-      "lost": 62,
-      "total": 209,
+      "won": 149,
+      "lost": 63,
+      "total": 212,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 34,
       "rate": 50.0
     },
-    "analyses24h": 3542,
-    "analyses30d": 21655
+    "analyses24h": 3741,
+    "analyses30d": 21854
   },
   "recentWins": [
     {
@@ -243,20 +243,20 @@
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.53,
-      "at": "22.10.2026 11:41"
+      "odds": 1.58,
+      "at": "22.10.2026 12:17"
     },
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.16,
-      "at": "22.10.2026 10:37"
+      "odds": 1.52,
+      "at": "22.10.2026 12:17"
     },
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.31,
-      "at": "22.10.2026 09:04"
+      "odds": 1.53,
+      "at": "22.10.2026 11:41"
     },
     {
       "type": "updated",
@@ -290,15 +290,24 @@
     }
   ],
   "today": {
-    "home": "Pafos Fc",
-    "away": "Riga Fc",
-    "league": "AVKL",
-    "date": "22.10.2026 16:45",
-    "patternScore": 71.38,
-    "patternText": "187.462/262.617",
-    "picks": 3
+    "home": "Mornar Bar",
+    "away": "Mladost Dg",
+    "league": "KARA",
+    "date": "22.10.2026 13:00",
+    "patternScore": 71.82,
+    "patternText": "157.403/219.174",
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Mornar Bar",
+      "away": "Mladost Dg",
+      "league": "KARA",
+      "date": "22.10.2026 13:00",
+      "patternScore": 71.82,
+      "patternText": "157.403/219.174",
+      "picks": 2
+    },
     {
       "home": "Pafos Fc",
       "away": "Riga Fc",
@@ -307,6 +316,15 @@
       "patternScore": 71.38,
       "patternText": "187.462/262.617",
       "picks": 3
+    },
+    {
+      "home": "Nasr",
+      "away": "Al Daklyeh",
+      "league": "MSR2",
+      "date": "22.10.2026 13:30",
+      "patternScore": 70.81,
+      "patternText": "299.807/423.403",
+      "picks": 2
     },
     {
       "home": "Telecom Egypt",
@@ -325,96 +343,78 @@
       "patternScore": 70.73,
       "patternText": "254.650/360.041",
       "picks": 4
-    },
-    {
-      "home": "Hibernians",
-      "away": "Gzira United",
-      "league": "MLTP",
-      "date": "22.10.2026 18:30",
-      "patternScore": 70.73,
-      "patternText": "143.262/202.552",
-      "picks": 1
-    },
-    {
-      "home": "Sitra",
-      "away": "Al Rifaa",
-      "league": "BAH",
-      "date": "22.10.2026 16:00",
-      "patternScore": 70.69,
-      "patternText": "115.452/163.331",
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Cruzeiro EC",
-      "away": "Remo",
-      "league": "BR1",
-      "at": "22.10.2026 11:54",
-      "count": 8
-    },
-    {
-      "home": "Vitoria Guimaraes",
-      "away": "CS Maritimo",
-      "league": "POR",
-      "at": "22.10.2026 11:53",
-      "count": 5
-    },
-    {
-      "home": "Lillestrom SK",
-      "away": "Real Sociedad",
+      "home": "Juventus",
+      "away": "Stade Rennais",
       "league": "AVL",
-      "at": "22.10.2026 11:46",
-      "count": 8
+      "at": "22.10.2026 12:17",
+      "count": 10
     },
     {
-      "home": "TSG Hoffenheim",
-      "away": "Olympique Lyonnais",
-      "league": "AVL",
-      "at": "22.10.2026 11:46",
-      "count": 15
+      "home": "Sevilla FC",
+      "away": "CA Osasuna",
+      "league": "İS1",
+      "at": "22.10.2026 12:15",
+      "count": 3
     },
     {
-      "home": "SC Braga",
-      "away": "KAA Gent",
-      "league": "AVKL",
-      "at": "22.10.2026 11:46",
+      "home": "Boulogne",
+      "away": "Stade de Reims",
+      "league": "FR2",
+      "at": "22.10.2026 12:14",
+      "count": 9
+    },
+    {
+      "home": "Montpellier HSC",
+      "away": "Red Star FC",
+      "league": "FR2",
+      "at": "22.10.2026 12:14",
       "count": 6
     },
     {
-      "home": "Trabzonspor",
-      "away": "Heart of Midlothian",
-      "league": "AVKL",
-      "at": "22.10.2026 11:46",
-      "count": 13
+      "home": "FC Andorra",
+      "away": "Burgos CF",
+      "league": "İS2",
+      "at": "22.10.2026 12:14",
+      "count": 5
     },
     {
-      "home": "Union St.G",
-      "away": "Hapoel Beer She",
-      "league": "AVL",
-      "at": "22.10.2026 11:45",
-      "count": 7
+      "home": "Besiktas",
+      "away": "Istanbul Basaksehir",
+      "league": "TSL",
+      "at": "22.10.2026 12:11",
+      "count": 17
     },
     {
-      "home": "FC Kairat Almaty",
-      "away": "Panathinaikos",
-      "league": "AVKL",
-      "at": "22.10.2026 11:44",
-      "count": 7
+      "home": "Los Angeles FC",
+      "away": "LA Galaxy",
+      "league": "ABD",
+      "at": "22.10.2026 12:10",
+      "count": 11
     },
     {
-      "home": "Angers SCO",
-      "away": "FC Lorient",
+      "home": "Sporting CP",
+      "away": "Academico FC Viseu",
+      "league": "POR",
+      "at": "22.10.2026 12:09",
+      "count": 14
+    },
+    {
+      "home": "Paris Saint-Germain",
+      "away": "Olympique Lyonnais",
       "league": "FR1",
-      "at": "22.10.2026 11:41",
-      "count": 7
+      "at": "22.10.2026 12:08",
+      "count": 4
     },
     {
-      "home": "AJ Auxerre",
-      "away": "Le Mans FC",
-      "league": "FR1",
-      "at": "22.10.2026 11:41",
-      "count": 9
+      "home": "Udinese",
+      "away": "AC Milan",
+      "league": "İTA",
+      "at": "22.10.2026 12:08",
+      "count": 1
     }
   ],
   "paywall": {
