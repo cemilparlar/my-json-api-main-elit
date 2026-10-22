@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 00:28",
+  "updatedAt": "22.10.2026 00:41",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 219,
-      "lost": 97,
-      "total": 316,
-      "rate": 69.3
+      "won": 214,
+      "lost": 96,
+      "total": 310,
+      "rate": 69.0
     },
-    "totalAnalyses": 142236,
+    "totalAnalyses": 142245,
     "leagues": 527,
     "pro": {
-      "won": 65,
+      "won": 66,
       "lost": 28,
-      "total": 93,
-      "rate": 69.9
+      "total": 94,
+      "rate": 70.2
     },
     "insights": {
-      "won": 121,
+      "won": 122,
       "lost": 52,
-      "total": 173,
-      "rate": 69.9
+      "total": 174,
+      "rate": 70.1
     },
     "coupons": {
       "won": 11,
@@ -47,8 +47,8 @@
       "total": 26,
       "rate": 42.3
     },
-    "analyses24h": 738,
-    "analyses30d": 18736
+    "analyses24h": 741,
+    "analyses30d": 18739
   },
   "recentWins": [
     {
@@ -246,12 +246,6 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 18:29",
-      "home": "Aston Villa",
-      "away": "Viking"
-    },
-    {
-      "type": "updated",
       "at": "21.10.2026 21:26",
       "home": "Deportivo Tachira",
       "away": "Monagas SC"
@@ -273,27 +267,24 @@
       "at": "21.10.2026 21:55",
       "home": "Real Potosi",
       "away": "Bolivar"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 22:26",
+      "home": "Portuguesa FC",
+      "away": "Zamora FC"
     }
   ],
   "today": {
-    "home": "Atlas FC",
-    "away": "Club America",
-    "league": "MEK",
-    "date": "22.10.2026 01:00",
-    "patternScore": 72.0,
-    "patternText": "92.514/128.493",
+    "home": "Queensland Lions",
+    "away": "Preston Lions",
+    "league": "AVC",
+    "date": "22.10.2026 08:30",
+    "patternScore": 71.17,
+    "patternText": "97.847/137.484",
     "picks": 3
   },
   "todayList": [
-    {
-      "home": "Atlas FC",
-      "away": "Club America",
-      "league": "MEK",
-      "date": "22.10.2026 01:00",
-      "patternScore": 72.0,
-      "patternText": "92.514/128.493",
-      "picks": 3
-    },
     {
       "home": "Queensland Lions",
       "away": "Preston Lions",
@@ -302,15 +293,6 @@
       "patternScore": 71.17,
       "patternText": "97.847/137.484",
       "picks": 3
-    },
-    {
-      "home": "Club Puebla",
-      "away": "CF Monterrey",
-      "league": "MEK",
-      "date": "22.10.2026 01:00",
-      "patternScore": 71.05,
-      "patternText": "228.136/321.105",
-      "picks": 4
     },
     {
       "home": "Madura United",
@@ -329,9 +311,34 @@
       "patternScore": 70.73,
       "patternText": "143.142/202.382",
       "picks": 1
+    },
+    {
+      "home": "Al Fateh",
+      "away": "Al Shabab",
+      "league": "SUUD",
+      "date": "22.10.2026 14:45",
+      "patternScore": 70.72,
+      "patternText": "254.396/359.721",
+      "picks": 5
+    },
+    {
+      "home": "Al Jazira Club",
+      "away": "Ajman",
+      "league": "BAECK",
+      "date": "22.10.2026 13:00",
+      "patternScore": 70.71,
+      "patternText": "109.616/155.018",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Trabzonspor",
+      "away": "Heart of Midlothian",
+      "league": "AVKL",
+      "at": "22.10.2026 00:36",
+      "count": 14
+    },
     {
       "home": "TSG Hoffenheim",
       "away": "Olympique Lyonnais",
@@ -394,13 +401,6 @@
       "league": "AVL",
       "at": "21.10.2026 23:04",
       "count": 2
-    },
-    {
-      "home": "Getafe CF",
-      "away": "FC Lugano",
-      "league": "AVKL",
-      "at": "21.10.2026 23:04",
-      "count": 5
     }
   ],
   "paywall": {
