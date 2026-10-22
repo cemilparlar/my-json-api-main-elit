@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 02:51",
+  "updatedAt": "22.10.2026 03:05",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 213,
-      "lost": 102,
-      "total": 315,
-      "rate": 67.6
+      "won": 218,
+      "lost": 104,
+      "total": 322,
+      "rate": 67.7
     },
-    "totalAnalyses": 142285,
+    "totalAnalyses": 142292,
     "leagues": 527,
     "pro": {
-      "won": 70,
-      "lost": 31,
-      "total": 101,
-      "rate": 69.3
+      "won": 75,
+      "lost": 33,
+      "total": 108,
+      "rate": 69.4
     },
     "insights": {
-      "won": 128,
-      "lost": 59,
-      "total": 187,
-      "rate": 68.4
+      "won": 134,
+      "lost": 61,
+      "total": 195,
+      "rate": 68.7
     },
     "coupons": {
-      "won": 14,
+      "won": 15,
       "lost": 17,
-      "total": 31,
-      "rate": 45.2
+      "total": 32,
+      "rate": 46.9
     },
-    "analyses24h": 732,
-    "analyses30d": 18738
+    "analyses24h": 737,
+    "analyses30d": 18744
   },
   "recentWins": [
     {
@@ -119,6 +119,28 @@
   ],
   "recentCoupons": [
     {
+      "size": 2,
+      "totalOdds": 1.22,
+      "winChance": 51.29,
+      "completedAt": "22.10.2026 03:05",
+      "legs": [
+        {
+          "home": "Atlas FC",
+          "away": "Club America",
+          "prediction": "Double Chance 12",
+          "odds": 1.12,
+          "finalScore": "2 - 5"
+        },
+        {
+          "home": "Club Puebla",
+          "away": "CF Monterrey",
+          "prediction": "Double Chance 12",
+          "odds": 1.09,
+          "finalScore": "1 - 4"
+        }
+      ]
+    },
+    {
       "size": 1,
       "totalOdds": 1.07,
       "winChance": 71.42,
@@ -188,35 +210,6 @@
           "prediction": "Double Chance 12",
           "odds": 1.11,
           "finalScore": "2 - 4"
-        }
-      ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.28,
-      "winChance": 36.38,
-      "completedAt": "21.10.2026 23:14",
-      "legs": [
-        {
-          "home": "Afc Whyteleafe",
-          "away": "Burgess Hill To",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
-          "finalScore": "2 - 3"
-        },
-        {
-          "home": "Avro",
-          "away": "Ashton United",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "3 - 2"
-        },
-        {
-          "home": "Estudiantes Fc",
-          "away": "Caracas FC",
-          "prediction": "Double Chance 1X",
-          "odds": 1.08,
-          "finalScore": "1 - 1"
         }
       ]
     }
