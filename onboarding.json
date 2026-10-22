@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 03:48",
+  "updatedAt": "22.10.2026 04:03",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 220,
-      "lost": 105,
-      "total": 325,
-      "rate": 67.7
+      "won": 209,
+      "lost": 104,
+      "total": 313,
+      "rate": 66.8
     },
-    "totalAnalyses": 142296,
+    "totalAnalyses": 142323,
     "leagues": 527,
     "pro": {
       "won": 77,
@@ -47,8 +47,8 @@
       "total": 32,
       "rate": 46.9
     },
-    "analyses24h": 730,
-    "analyses30d": 18737
+    "analyses24h": 742,
+    "analyses30d": 18761
   },
   "recentWins": [
     {
@@ -267,12 +267,6 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 21:55",
-      "home": "Real Potosi",
-      "away": "Bolivar"
-    },
-    {
-      "type": "updated",
       "at": "21.10.2026 23:29",
       "home": "Belgrano Women",
       "away": "Universitario D"
@@ -285,15 +279,21 @@
     },
     {
       "type": "updated",
-      "at": "21.10.2026 21:56",
-      "home": "Barranguilla",
-      "away": "America de Cali"
-    },
-    {
-      "type": "updated",
       "at": "21.10.2026 23:36",
       "home": "SE Palmeiras",
       "away": "Fluminense FC"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 23:04",
+      "home": "Club Puebla",
+      "away": "CF Monterrey"
+    },
+    {
+      "type": "updated",
+      "at": "21.10.2026 23:04",
+      "home": "Atlas FC",
+      "away": "Club America"
     }
   ],
   "today": {
@@ -354,6 +354,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Ferencvaros",
+      "away": "Torreense",
+      "league": "AVL",
+      "at": "22.10.2026 04:00",
+      "count": 15
+    },
+    {
+      "home": "Ofi",
+      "away": "Bayer Leverkusen",
+      "league": "AVL",
+      "at": "22.10.2026 03:59",
+      "count": 11
+    },
+    {
       "home": "SK Sturm Graz",
       "away": "Marseille",
       "league": "AVL",
@@ -408,20 +422,6 @@
       "league": "LKU",
       "at": "22.10.2026 00:18",
       "count": 14
-    },
-    {
-      "home": "AS Monaco",
-      "away": "SC Freiburg",
-      "league": "AVKL",
-      "at": "21.10.2026 23:46",
-      "count": 8
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "Fluminense FC",
-      "league": "LKU",
-      "at": "21.10.2026 23:36",
-      "count": 4
     }
   ],
   "paywall": {
