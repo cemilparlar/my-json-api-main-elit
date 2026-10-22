@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.10.2026 10:58",
+  "updatedAt": "22.10.2026 11:21",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 162,
-      "lost": 67,
-      "total": 229,
-      "rate": 70.7
+      "won": 161,
+      "lost": 65,
+      "total": 226,
+      "rate": 71.2
     },
-    "totalAnalyses": 145468,
+    "totalAnalyses": 145684,
     "leagues": 531,
     "pro": {
       "won": 83,
@@ -47,8 +47,8 @@
       "total": 34,
       "rate": 50.0
     },
-    "analyses24h": 3101,
-    "analyses30d": 21216
+    "analyses24h": 3262,
+    "analyses30d": 21379
   },
   "recentWins": [
     {
@@ -260,13 +260,25 @@
     },
     {
       "type": "updated",
+      "at": "22.10.2026 07:54",
+      "home": "Queensland Lions",
+      "away": "Preston Lions"
+    },
+    {
+      "type": "updated",
       "at": "22.10.2026 06:52",
       "home": "PSM Makassar",
       "away": "Persebaya Surabaya"
     },
     {
       "type": "updated",
-      "at": "22.10.2026 10:02",
+      "at": "22.10.2026 07:21",
+      "home": "Persik Kediri",
+      "away": "Pss Sleman"
+    },
+    {
+      "type": "updated",
+      "at": "22.10.2026 11:12",
       "home": "Madura United",
       "away": "Persib Bandung"
     },
@@ -275,18 +287,6 @@
       "at": "22.10.2026 08:58",
       "home": "Hawassa City FC",
       "away": "Cbe"
-    },
-    {
-      "type": "updated",
-      "at": "22.10.2026 09:32",
-      "home": "Telecom Egypt",
-      "away": "Baladiyyat"
-    },
-    {
-      "type": "updated",
-      "at": "22.10.2026 09:31",
-      "home": "Mornar Bar",
-      "away": "Mladost Dg"
     }
   ],
   "today": {
@@ -295,7 +295,7 @@
     "league": "ÖZB",
     "date": "22.10.2026 13:30",
     "patternScore": 72.05,
-    "patternText": "157.273/218.278",
+    "patternText": "157.287/218.294",
     "picks": 1
   },
   "todayList": [
@@ -305,7 +305,7 @@
       "league": "ÖZB",
       "date": "22.10.2026 13:30",
       "patternScore": 72.05,
-      "patternText": "157.273/218.278",
+      "patternText": "157.287/218.294",
       "picks": 1
     },
     {
@@ -314,8 +314,17 @@
       "league": "AVKL",
       "date": "22.10.2026 16:45",
       "patternScore": 71.38,
-      "patternText": "187.448/262.601",
+      "patternText": "187.462/262.617",
       "picks": 3
+    },
+    {
+      "home": "Atlas Women",
+      "away": "León Women",
+      "league": "MEKKA",
+      "date": "23.10.2026 01:06",
+      "patternScore": 71.38,
+      "patternText": "121.100/169.662",
+      "picks": 2
     },
     {
       "home": "Al Gharafa",
@@ -323,17 +332,8 @@
       "league": "KAT",
       "date": "22.10.2026 16:45",
       "patternScore": 71.35,
-      "patternText": "155.423/217.834",
+      "patternText": "155.445/217.858",
       "picks": 3
-    },
-    {
-      "home": "Juventus",
-      "away": "Stade Rennais",
-      "league": "AVL",
-      "date": "22.10.2026 16:45",
-      "patternScore": 71.3,
-      "patternText": "177.157/248.457",
-      "picks": 2
     },
     {
       "home": "Madura United",
@@ -341,80 +341,80 @@
       "league": "ENDL1",
       "date": "22.10.2026 12:00",
       "patternScore": 70.92,
-      "patternText": "295.577/416.762",
+      "patternText": "295.603/416.794",
       "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Arsenal",
-      "away": "Everton",
-      "league": "İNP",
-      "at": "22.10.2026 10:57",
-      "count": 15
-    },
-    {
-      "home": "FSV Mainz 05",
-      "away": "Werder Bremen",
-      "league": "AL1",
-      "at": "22.10.2026 10:56",
-      "count": 4
-    },
-    {
-      "home": "Ipswich Town",
-      "away": "Nottingham Forest",
-      "league": "İNP",
-      "at": "22.10.2026 10:54",
-      "count": 7
-    },
-    {
-      "home": "Lillestrom SK",
-      "away": "Real Sociedad",
-      "league": "AVL",
-      "at": "22.10.2026 10:44",
-      "count": 14
-    },
-    {
-      "home": "Omonia",
-      "away": "SL Benfica",
-      "league": "AVL",
-      "at": "22.10.2026 10:44",
-      "count": 10
-    },
-    {
       "home": "FC Nordsjaelland",
       "away": "CSKA Sofia",
       "league": "AVKL",
-      "at": "22.10.2026 10:43",
-      "count": 2
-    },
-    {
-      "home": "FC Midtjylland",
-      "away": "Sint-Truidense VV",
-      "league": "AVKL",
-      "at": "22.10.2026 10:43",
-      "count": 6
-    },
-    {
-      "home": "Union St.G",
-      "away": "Hapoel Beer She",
-      "league": "AVL",
-      "at": "22.10.2026 10:42",
-      "count": 13
+      "at": "22.10.2026 11:15",
+      "count": 11
     },
     {
       "home": "Juventus",
       "away": "Stade Rennais",
       "league": "AVL",
-      "at": "22.10.2026 10:42",
-      "count": 5
+      "at": "22.10.2026 11:14",
+      "count": 6
     },
     {
-      "home": "Fc Iberia",
-      "away": "Mjallby AIF",
-      "league": "AVKL",
-      "at": "22.10.2026 10:42",
+      "home": "Dinamo Zagreb",
+      "away": "NEC Nijmegen",
+      "league": "AVL",
+      "at": "22.10.2026 11:14",
+      "count": 8
+    },
+    {
+      "home": "Ferencvaros",
+      "away": "Torreense",
+      "league": "AVL",
+      "at": "22.10.2026 11:14",
       "count": 6
+    },
+    {
+      "home": "SK Sturm Graz",
+      "away": "Marseille",
+      "league": "AVL",
+      "at": "22.10.2026 11:13",
+      "count": 7
+    },
+    {
+      "home": "Ararat-Armenia",
+      "away": "AZ Alkmaar",
+      "league": "AVL",
+      "at": "22.10.2026 11:13",
+      "count": 14
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Newcastle United",
+      "league": "İNP",
+      "at": "22.10.2026 11:10",
+      "count": 12
+    },
+    {
+      "home": "Liverpool",
+      "away": "Brighton & Hove Albion",
+      "league": "İNP",
+      "at": "22.10.2026 11:10",
+      "count": 6
+    },
+    {
+      "home": "Manchester United",
+      "away": "AFC Bournemouth",
+      "league": "İNP",
+      "at": "22.10.2026 11:10",
+      "count": 8
+    },
+    {
+      "home": "Hull City",
+      "away": "Brentford",
+      "league": "İNP",
+      "at": "22.10.2026 11:10",
+      "count": 9
     }
   ],
   "paywall": {
