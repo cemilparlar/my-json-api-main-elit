@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 01:46",
+  "updatedAt": "23.10.2026 02:02",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 235,
-      "lost": 146,
-      "total": 381,
-      "rate": 61.7
+      "won": 239,
+      "lost": 147,
+      "total": 386,
+      "rate": 61.9
     },
-    "totalAnalyses": 148077,
+    "totalAnalyses": 148082,
     "leagues": 537,
     "pro": {
       "won": 172,
@@ -36,19 +36,19 @@
       "rate": 69.1
     },
     "insights": {
-      "won": 308,
-      "lost": 149,
-      "total": 457,
+      "won": 310,
+      "lost": 150,
+      "total": 460,
       "rate": 67.4
     },
     "coupons": {
-      "won": 52,
-      "lost": 46,
-      "total": 98,
-      "rate": 53.1
+      "won": 54,
+      "lost": 47,
+      "total": 101,
+      "rate": 53.5
     },
-    "analyses24h": 4198,
-    "analyses30d": 22518
+    "analyses24h": 4202,
+    "analyses30d": 22522
   },
   "recentWins": [
     {
@@ -119,6 +119,50 @@
   ],
   "recentCoupons": [
     {
+      "size": 2,
+      "totalOdds": 1.47,
+      "winChance": 47.13,
+      "completedAt": "23.10.2026 02:02",
+      "legs": [
+        {
+          "home": "Reading",
+          "away": "Leyton Orient",
+          "prediction": "Handicap (0:2) 2",
+          "odds": 1.37,
+          "finalScore": "1 - 0"
+        },
+        {
+          "home": "Al Ahli Jeddah",
+          "away": "Al Khaleej",
+          "prediction": "1st Half Over 0.5",
+          "odds": 1.07,
+          "finalScore": null
+        }
+      ]
+    },
+    {
+      "size": 2,
+      "totalOdds": 2.23,
+      "winChance": 65.58,
+      "completedAt": "23.10.2026 02:02",
+      "legs": [
+        {
+          "home": "Union St.G",
+          "away": "Hapoel Beer She",
+          "prediction": "Over 2.5 Goals",
+          "odds": 1.33,
+          "finalScore": "4 - 0"
+        },
+        {
+          "home": "Al Ahli Jeddah",
+          "away": "Al Khaleej",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.68,
+          "finalScore": null
+        }
+      ]
+    },
+    {
       "size": 1,
       "totalOdds": 1.14,
       "winChance": 67.62,
@@ -145,36 +189,6 @@
           "prediction": "Over 1.5 Goals",
           "odds": 1.08,
           "finalScore": "1 - 1"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.67,
-      "winChance": 72.25,
-      "completedAt": "22.10.2026 21:17",
-      "legs": [
-        {
-          "home": "AGF Aarhus",
-          "away": "Egnatia",
-          "prediction": "Both Teams to Score - Yes",
-          "odds": 1.67,
-          "finalScore": "1 - 1"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.09,
-      "winChance": 70.14,
-      "completedAt": "22.10.2026 21:04",
-      "legs": [
-        {
-          "home": "FC Midtjylland",
-          "away": "Sint-Truidense VV",
-          "prediction": "Double Chance 12",
-          "odds": 1.09,
-          "finalScore": "0 - 1"
         }
       ]
     }
@@ -215,6 +229,12 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.81,
+      "at": "23.10.2026 02:02"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.34,
       "at": "22.10.2026 23:03"
     },
@@ -223,12 +243,6 @@
       "size": 1,
       "odds": 1.57,
       "at": "22.10.2026 21:04"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.44,
-      "at": "22.10.2026 20:11"
     },
     {
       "type": "updated",
@@ -319,6 +333,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Racing Santander",
+      "away": "RCD Espanyol",
+      "league": "İS1",
+      "at": "23.10.2026 01:59",
+      "count": 3
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "23.10.2026 01:57",
+      "count": 13
+    },
+    {
+      "home": "Bochum",
+      "away": "VfL Wolfsburg",
+      "league": "AL2",
+      "at": "23.10.2026 01:56",
+      "count": 13
+    },
+    {
       "home": "Mirassol FC",
       "away": "Sao Paulo FC",
       "league": "BR1",
@@ -354,13 +389,6 @@
       "count": 5
     },
     {
-      "home": "Aston Villa",
-      "away": "Manchester City",
-      "league": "İNP",
-      "at": "23.10.2026 01:04",
-      "count": 8
-    },
-    {
       "home": "Sport Club Internacional",
       "away": "Botafogo de Futebol e Regatas",
       "league": "BR1",
@@ -373,20 +401,6 @@
       "league": "TSL",
       "at": "23.10.2026 00:48",
       "count": 6
-    },
-    {
-      "home": "Holstein Kiel",
-      "away": "Dynamo Dresden",
-      "league": "AL2",
-      "at": "23.10.2026 00:36",
-      "count": 9
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "Union Berlin",
-      "league": "AL1",
-      "at": "23.10.2026 00:35",
-      "count": 13
     }
   ],
   "paywall": {
