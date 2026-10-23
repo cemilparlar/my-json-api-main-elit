@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 19:22",
+  "updatedAt": "23.10.2026 19:37",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 268,
       "rate": 75.7
     },
-    "totalAnalyses": 150205,
+    "totalAnalyses": 150208,
     "leagues": 538,
     "pro": {
-      "won": 278,
-      "lost": 148,
-      "total": 426,
+      "won": 282,
+      "lost": 150,
+      "total": 432,
       "rate": 65.3
     },
     "insights": {
-      "won": 484,
-      "lost": 264,
-      "total": 748,
+      "won": 488,
+      "lost": 266,
+      "total": 754,
       "rate": 64.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 53.0
     },
-    "analyses24h": 4338,
-    "analyses30d": 22945
+    "analyses24h": 4341,
+    "analyses30d": 22948
   },
   "recentWins": [
     {
@@ -316,15 +316,6 @@
       "picks": 2
     },
     {
-      "home": "Holstebro",
-      "away": "Horsholm-Ussero",
-      "league": "DAN3",
-      "date": "24.10.2026 12:30",
-      "patternScore": 71.51,
-      "patternText": "260.121/363.774",
-      "picks": 2
-    },
-    {
       "home": "Spezia Calcio",
       "away": "Latina Calcio",
       "league": "İTC",
@@ -350,22 +341,45 @@
       "patternScore": 71.38,
       "patternText": "245.063/343.305",
       "picks": 1
+    },
+    {
+      "home": "Atmosfera",
+      "away": "Lietava Jonava",
+      "league": "LIT1",
+      "date": "24.10.2026 12:00",
+      "patternScore": 71.37,
+      "patternText": "248.690/348.446",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Atletico Madrid",
+      "away": "Deportivo La Coruna",
+      "league": "İS1",
+      "at": "23.10.2026 19:23",
+      "count": 11
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Newcastle United",
+      "league": "İNP",
+      "at": "23.10.2026 19:23",
+      "count": 5
+    },
+    {
+      "home": "SS Lazio",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "23.10.2026 19:23",
+      "count": 12
+    },
     {
       "home": "Arsenal",
       "away": "Everton",
       "league": "İNP",
       "at": "23.10.2026 19:20",
       "count": 6
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "Deportivo La Coruna",
-      "league": "İS1",
-      "at": "23.10.2026 18:56",
-      "count": 5
     },
     {
       "home": "Columbus Crew",
@@ -407,20 +421,6 @@
       "away": "Malaga CF",
       "league": "İS1",
       "at": "23.10.2026 18:23",
-      "count": 6
-    },
-    {
-      "home": "Manchester United",
-      "away": "AFC Bournemouth",
-      "league": "İNP",
-      "at": "23.10.2026 18:22",
-      "count": 6
-    },
-    {
-      "home": "Gaziantep FK",
-      "away": "Erzurumspor FK",
-      "league": "TSL",
-      "at": "23.10.2026 18:20",
       "count": 6
     }
   ],
