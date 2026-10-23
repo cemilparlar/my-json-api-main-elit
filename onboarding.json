@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 22:05",
+  "updatedAt": "23.10.2026 22:22",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 454,
       "rate": 79.7
     },
-    "totalAnalyses": 150360,
+    "totalAnalyses": 150367,
     "leagues": 538,
     "pro": {
       "won": 375,
@@ -47,8 +47,8 @@
       "total": 128,
       "rate": 50.8
     },
-    "analyses24h": 4325,
-    "analyses30d": 22929
+    "analyses24h": 4332,
+    "analyses30d": 22936
   },
   "recentWins": [
     {
@@ -267,12 +267,6 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 16:17",
-      "home": "Alanyaspor",
-      "away": "Kocaelispor"
-    },
-    {
-      "type": "updated",
       "at": "23.10.2026 17:52",
       "home": "Bolton Wanderers",
       "away": "Middlesbrough"
@@ -294,6 +288,12 @@
       "at": "23.10.2026 21:16",
       "home": "Aston Villa",
       "away": "Manchester City"
+    },
+    {
+      "type": "updated",
+      "at": "23.10.2026 20:45",
+      "home": "Bristol Rovers",
+      "away": "Swindon Town"
     }
   ],
   "today": {
@@ -354,6 +354,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "SS Lazio",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "23.10.2026 22:16",
+      "count": 4
+    },
+    {
+      "home": "Girona FC",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "at": "23.10.2026 22:15",
+      "count": 3
+    },
+    {
+      "home": "SSC Napoli",
+      "away": "AS Roma",
+      "league": "İTA",
+      "at": "23.10.2026 22:15",
+      "count": 7
+    },
+    {
+      "home": "Cagliari Calcio",
+      "away": "Bologna FC",
+      "league": "İTA",
+      "at": "23.10.2026 22:14",
+      "count": 10
+    },
+    {
+      "home": "Como 1907",
+      "away": "US Sassuolo",
+      "league": "İTA",
+      "at": "23.10.2026 22:14",
+      "count": 2
+    },
+    {
       "home": "Genoa CFC",
       "away": "Unione V.",
       "league": "İTA",
@@ -375,13 +410,6 @@
       "count": 8
     },
     {
-      "home": "SS Lazio",
-      "away": "Parma Calcio",
-      "league": "İTA",
-      "at": "23.10.2026 21:49",
-      "count": 2
-    },
-    {
       "home": "SC Paderborn",
       "away": "Hamburger SV",
       "league": "AL1",
@@ -394,34 +422,6 @@
       "league": "İNP",
       "at": "23.10.2026 21:48",
       "count": 14
-    },
-    {
-      "home": "Cagliari Calcio",
-      "away": "Bologna FC",
-      "league": "İTA",
-      "at": "23.10.2026 21:47",
-      "count": 13
-    },
-    {
-      "home": "FSV Mainz 05",
-      "away": "Werder Bremen",
-      "league": "AL1",
-      "at": "23.10.2026 21:47",
-      "count": 11
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "Union Berlin",
-      "league": "AL1",
-      "at": "23.10.2026 21:47",
-      "count": 4
-    },
-    {
-      "home": "FC Andorra",
-      "away": "Burgos CF",
-      "league": "İS2",
-      "at": "23.10.2026 21:24",
-      "count": 8
     }
   ],
   "paywall": {
