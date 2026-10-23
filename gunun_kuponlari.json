@@ -3,7 +3,7 @@
   "stats7": {
     "legacy": {
       "won": 94,
-      "lost": 80
+      "lost": 82
     },
     "safe": {
       "won": 7,
@@ -33,7 +33,7 @@
   "stats30": {
     "legacy": {
       "won": 94,
-      "lost": 80
+      "lost": 82
     },
     "safe": {
       "won": 7,
@@ -60,8 +60,8 @@
       "lost": 0
     }
   },
-  "updatedAt": "23.10.2026 10:33",
-  "updatedAtUtc": "2026-10-23T10:33:00Z",
+  "updatedAt": "23.10.2026 10:53",
+  "updatedAtUtc": "2026-10-23T10:53:00Z",
   "upcoming": [
     {
       "id": "20261022-15-1",
@@ -309,66 +309,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "pending"
-        }
-      ]
-    },
-    {
-      "id": "20261022-12-2",
-      "createdAt": "22.10.2026 09:04",
-      "createdAtUtc": "2026-10-22T09:04:00Z",
-      "size": 2,
-      "mbs": 2,
-      "totalOdds": 1.27,
-      "winChance": 48.34,
-      "firstKickoff": "23.10.2026 08:30",
-      "lastKickoff": "23.10.2026 09:00",
-      "status": "live",
-      "completedAt": null,
-      "effectiveOdds": 1.27,
-      "legs": [
-        {
-          "matchCode": "4573626",
-          "nesine": null,
-          "date": "23.10.2026 08:30",
-          "kickoffUtc": "2026-10-23T08:30:00Z",
-          "league": "AVC",
-          "home": "South Melbourn",
-          "away": "Sydney United 58 FC",
-          "league_tr": "AVC",
-          "home_tr": "South Melbourn",
-          "away_tr": "Sydney United",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 74.65,
-          "patternScore": 70.39,
-          "patternText": "394.128/559.956",
-          "mbs": 2,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4546740",
-          "nesine": null,
-          "date": "23.10.2026 09:00",
-          "kickoffUtc": "2026-10-23T09:00:00Z",
-          "league": "AVUS",
-          "home": "Brisbane Roar",
-          "away": "Perth Glory",
-          "league_tr": "AVUS",
-          "home_tr": "Brisbane Roar",
-          "away_tr": "Perth Glory",
-          "prediction": "Double Chance 1X",
-          "prediction_tr": "Çifte Şans 1-X",
-          "odds": 1.18,
-          "probability": 72.73,
-          "patternScore": 68.67,
-          "patternText": "222.565/324.115",
-          "mbs": 2,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
         }
       ]
     },
@@ -1241,6 +1181,66 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261022-12-2",
+      "createdAt": "22.10.2026 09:04",
+      "createdAtUtc": "2026-10-22T09:04:00Z",
+      "size": 2,
+      "mbs": 2,
+      "totalOdds": 1.27,
+      "winChance": 48.34,
+      "firstKickoff": "23.10.2026 08:30",
+      "lastKickoff": "23.10.2026 09:00",
+      "status": "lost",
+      "completedAt": "23.10.2026 10:53",
+      "effectiveOdds": 1.27,
+      "legs": [
+        {
+          "matchCode": "4573626",
+          "nesine": null,
+          "date": "23.10.2026 08:30",
+          "kickoffUtc": "2026-10-23T08:30:00Z",
+          "league": "AVC",
+          "home": "South Melbourn",
+          "away": "Sydney United 58 FC",
+          "league_tr": "AVC",
+          "home_tr": "South Melbourn",
+          "away_tr": "Sydney United",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 74.65,
+          "patternScore": 70.39,
+          "patternText": "394.128/559.956",
+          "mbs": 2,
+          "firstHalf": "0 - 1",
+          "finalScore": "1 - 1",
+          "status": "lost"
+        },
+        {
+          "matchCode": "4546740",
+          "nesine": null,
+          "date": "23.10.2026 09:00",
+          "kickoffUtc": "2026-10-23T09:00:00Z",
+          "league": "AVUS",
+          "home": "Brisbane Roar",
+          "away": "Perth Glory",
+          "league_tr": "AVUS",
+          "home_tr": "Brisbane Roar",
+          "away_tr": "Perth Glory",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.18,
+          "probability": 72.73,
+          "patternScore": 68.67,
+          "patternText": "222.565/324.115",
+          "mbs": 2,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        }
+      ]
+    },
     {
       "id": "20261022-20-4",
       "createdAt": "22.10.2026 17:12",

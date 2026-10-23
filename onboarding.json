@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 10:33",
+  "updatedAt": "23.10.2026 10:53",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 237,
-      "lost": 157,
-      "total": 394,
+      "won": 241,
+      "lost": 159,
+      "total": 400,
       "rate": 60.2
     },
-    "totalAnalyses": 149010,
+    "totalAnalyses": 149040,
     "leagues": 538,
     "pro": {
-      "won": 177,
-      "lost": 87,
-      "total": 264,
-      "rate": 67.0
+      "won": 178,
+      "lost": 88,
+      "total": 266,
+      "rate": 66.9
     },
     "insights": {
-      "won": 319,
-      "lost": 161,
-      "total": 480,
-      "rate": 66.5
+      "won": 323,
+      "lost": 162,
+      "total": 485,
+      "rate": 66.6
     },
     "coupons": {
       "won": 57,
-      "lost": 49,
-      "total": 106,
-      "rate": 53.8
+      "lost": 50,
+      "total": 107,
+      "rate": 53.3
     },
-    "analyses24h": 4354,
-    "analyses30d": 22661
+    "analyses24h": 4351,
+    "analyses30d": 22658
   },
   "recentWins": [
     {
@@ -253,13 +253,19 @@
     },
     {
       "type": "updated",
+      "at": "23.10.2026 10:39",
+      "home": "Real Union Irun",
+      "away": "CD Lugo"
+    },
+    {
+      "type": "updated",
       "at": "23.10.2026 07:22",
       "home": "Boluspor",
       "away": "Van Spor FK"
     },
     {
       "type": "updated",
-      "at": "23.10.2026 08:18",
+      "at": "23.10.2026 10:39",
       "home": "Granada CF",
       "away": "Real Valladolid"
     },
@@ -274,12 +280,6 @@
       "at": "23.10.2026 08:41",
       "home": "Bolton Wanderers",
       "away": "Middlesbrough"
-    },
-    {
-      "type": "updated",
-      "at": "23.10.2026 10:12",
-      "home": "Deportivo Alaves",
-      "away": "Malaga CF"
     }
   ],
   "today": {
@@ -340,74 +340,74 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Vitoria Guimaraes",
-      "away": "CS Maritimo",
-      "league": "POR",
-      "at": "23.10.2026 10:31",
-      "count": 6
-    },
-    {
-      "home": "Ipswich Town",
-      "away": "Nottingham Forest",
-      "league": "İNP",
-      "at": "23.10.2026 10:30",
-      "count": 7
-    },
-    {
-      "home": "Bochum",
-      "away": "VfL Wolfsburg",
-      "league": "AL2",
-      "at": "23.10.2026 10:30",
-      "count": 18
-    },
-    {
-      "home": "Sevilla FC",
-      "away": "CA Osasuna",
-      "league": "İS1",
-      "at": "23.10.2026 10:17",
-      "count": 7
-    },
-    {
-      "home": "Chelsea",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "23.10.2026 10:15",
-      "count": 11
-    },
-    {
-      "home": "Wolverhampton Wanderers",
-      "away": "Watford",
-      "league": "İNCL",
-      "at": "23.10.2026 10:14",
-      "count": 7
-    },
-    {
-      "home": "Deportivo Alaves",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "23.10.2026 10:12",
+      "home": "Stade Brest",
+      "away": "OGC Nice",
+      "league": "FR1",
+      "at": "23.10.2026 10:52",
       "count": 7
     },
     {
       "home": "Torino FC",
       "away": "AC Monza",
       "league": "İTA",
-      "at": "23.10.2026 10:12",
-      "count": 7
+      "at": "23.10.2026 10:52",
+      "count": 6
     },
     {
-      "home": "USL Dunkerque",
-      "away": "FC Metz",
-      "league": "FR2",
-      "at": "23.10.2026 10:11",
-      "count": 7
+      "home": "Go Ahead Eagles",
+      "away": "SC Telstar",
+      "league": "HOL",
+      "at": "23.10.2026 10:52",
+      "count": 13
     },
     {
-      "home": "Manchester United",
-      "away": "AFC Bournemouth",
-      "league": "İNP",
-      "at": "23.10.2026 09:56",
+      "home": "Athletic Bilbao",
+      "away": "Getafe CF",
+      "league": "İS1",
+      "at": "23.10.2026 10:42",
+      "count": 6
+    },
+    {
+      "home": "Stade Rennais",
+      "away": "RC Strasbourg",
+      "league": "FR1",
+      "at": "23.10.2026 10:42",
       "count": 8
+    },
+    {
+      "home": "Granada CF",
+      "away": "Real Valladolid",
+      "league": "İS2",
+      "at": "23.10.2026 10:39",
+      "count": 8
+    },
+    {
+      "home": "Deportivo Alaves",
+      "away": "Malaga CF",
+      "league": "İS1",
+      "at": "23.10.2026 10:39",
+      "count": 6
+    },
+    {
+      "home": "Inter",
+      "away": "ACF Fiorentina",
+      "league": "İTA",
+      "at": "23.10.2026 10:36",
+      "count": 6
+    },
+    {
+      "home": "US Catanzaro",
+      "away": "Ascoli Calcio",
+      "league": "İTB",
+      "at": "23.10.2026 10:35",
+      "count": 5
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Watford",
+      "league": "İNCL",
+      "at": "23.10.2026 10:34",
+      "count": 7
     }
   ],
   "paywall": {
