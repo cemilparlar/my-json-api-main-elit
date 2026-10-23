@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 12:15",
+  "updatedAt": "23.10.2026 12:40",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 233,
-      "lost": 154,
-      "total": 387,
-      "rate": 60.2
+      "won": 154,
+      "lost": 39,
+      "total": 193,
+      "rate": 79.8
     },
-    "totalAnalyses": 149242,
+    "totalAnalyses": 149301,
     "leagues": 538,
     "pro": {
-      "won": 180,
-      "lost": 88,
-      "total": 268,
-      "rate": 67.2
+      "won": 181,
+      "lost": 90,
+      "total": 271,
+      "rate": 66.8
     },
     "insights": {
-      "won": 326,
-      "lost": 162,
-      "total": 488,
-      "rate": 66.8
+      "won": 330,
+      "lost": 165,
+      "total": 495,
+      "rate": 66.7
     },
     "coupons": {
       "won": 57,
@@ -47,8 +47,8 @@
       "total": 107,
       "rate": 53.3
     },
-    "analyses24h": 4399,
-    "analyses30d": 22726
+    "analyses24h": 4423,
+    "analyses30d": 22750
   },
   "recentWins": [
     {
@@ -119,46 +119,82 @@
   ],
   "recentCoupons": [
     {
-      "size": 3,
-      "totalOdds": 1.37,
-      "winChance": 35.79,
-      "completedAt": "23.10.2026 03:05",
+      "size": 2,
+      "totalOdds": 2.23,
+      "winChance": 65.58,
+      "completedAt": "23.10.2026 02:02",
       "legs": [
         {
-          "home": "Sama Al Sarhan",
-          "away": "Amman",
-          "prediction": "Double Chance 12",
-          "odds": 1.15,
-          "finalScore": "1 - 2"
+          "home": "Union St.G",
+          "away": "Hapoel Beer She",
+          "prediction": "Over 2.5 Goals",
+          "odds": 1.33,
+          "finalScore": "4 - 0"
         },
         {
-          "home": "Madura United",
-          "away": "Persib Bandung",
-          "prediction": "Double Chance 12",
-          "odds": 1.09,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Alebrijes de Oaxaca",
-          "away": "Cruz Azul Hidal",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.09,
-          "finalScore": "2 - 1"
+          "home": "Al Ahli Jeddah",
+          "away": "Al Khaleej",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.68,
+          "finalScore": null
         }
       ]
     },
     {
-      "size": 1,
-      "totalOdds": 1.32,
-      "winChance": 72.25,
-      "completedAt": "23.10.2026 02:34",
+      "size": 3,
+      "totalOdds": 2.01,
+      "winChance": 27.74,
+      "completedAt": "22.10.2026 14:49",
       "legs": [
         {
-          "home": "CR Flamengo",
-          "away": "Estudiantes de La Plata",
+          "home": "Jeddah Club",
+          "away": "Al Jabalain",
           "prediction": "Both Teams to Score - No",
-          "odds": 1.32,
+          "odds": 1.44,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "Warrenpoint To",
+          "away": "Crusaders",
+          "prediction": "Over 2.5 Goals",
+          "odds": 1.29,
+          "finalScore": null
+        },
+        {
+          "home": "Telecom Egypt",
+          "away": "Baladiyyat",
+          "prediction": "Double Chance 1X",
+          "odds": 1.08,
           "finalScore": "0 - 0"
+        }
+      ]
+    },
+    {
+      "size": 3,
+      "totalOdds": 1.74,
+      "winChance": 21.12,
+      "completedAt": "21.10.2026 13:25",
+      "legs": [
+        {
+          "home": "Nagoya Grampus",
+          "away": "Cerezo Osaka",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.07,
+          "finalScore": "1 - 1"
+        },
+        {
+          "home": "Fagiano Okayama",
+          "away": "Mito HollyHock",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.14,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "V-Varen Nagasaki",
+          "away": "Sanfrecce Hiroshima",
+          "prediction": "Handicap (2:0) 1",
+          "odds": 1.43,
+          "finalScore": "4 - 0"
         }
       ]
     },
@@ -174,28 +210,6 @@
           "prediction": "Under 2.5 Goals",
           "odds": 1.73,
           "finalScore": "0 - 0"
-        }
-      ]
-    },
-    {
-      "size": 2,
-      "totalOdds": 1.47,
-      "winChance": 47.13,
-      "completedAt": "23.10.2026 02:02",
-      "legs": [
-        {
-          "home": "Reading",
-          "away": "Leyton Orient",
-          "prediction": "Handicap (0:2) 2",
-          "odds": 1.37,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Al Ahli Jeddah",
-          "away": "Al Khaleej",
-          "prediction": "1st Half Over 0.5",
-          "odds": 1.07,
-          "finalScore": null
         }
       ]
     }
@@ -311,15 +325,6 @@
       "picks": 2
     },
     {
-      "home": "Saham Club",
-      "away": "Al Nahda",
-      "league": "UMM",
-      "date": "23.10.2026 15:20",
-      "patternScore": 71.7,
-      "patternText": "203.739/284.155",
-      "picks": 1
-    },
-    {
       "home": "Ibv Women",
       "away": "Stjarnan Women",
       "league": "İZKL1",
@@ -336,9 +341,74 @@
       "patternScore": 71.68,
       "patternText": "191.942/267.790",
       "picks": 3
+    },
+    {
+      "home": "Zawisza Bydgoszcz",
+      "away": "Swit Skolwin",
+      "league": "POL2",
+      "date": "23.10.2026 16:00",
+      "patternScore": 71.57,
+      "patternText": "186.476/260.566",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "RB Leipzig",
+      "away": "SV Elversberg",
+      "league": "AL1",
+      "at": "23.10.2026 12:40",
+      "count": 14
+    },
+    {
+      "home": "Como 1907",
+      "away": "US Sassuolo",
+      "league": "İTA",
+      "at": "23.10.2026 12:40",
+      "count": 9
+    },
+    {
+      "home": "Umraniyespor",
+      "away": "Sivasspor",
+      "league": "T1L",
+      "at": "23.10.2026 12:36",
+      "count": 4
+    },
+    {
+      "home": "Stade Brest",
+      "away": "OGC Nice",
+      "league": "FR1",
+      "at": "23.10.2026 12:35",
+      "count": 7
+    },
+    {
+      "home": "AS Nancy",
+      "away": "Stade Lavalois",
+      "league": "FR2",
+      "at": "23.10.2026 12:34",
+      "count": 6
+    },
+    {
+      "home": "USL Dunkerque",
+      "away": "FC Metz",
+      "league": "FR2",
+      "at": "23.10.2026 12:34",
+      "count": 7
+    },
+    {
+      "home": "Go Ahead Eagles",
+      "away": "SC Telstar",
+      "league": "HOL",
+      "at": "23.10.2026 12:34",
+      "count": 7
+    },
+    {
+      "home": "Bochum",
+      "away": "VfL Wolfsburg",
+      "league": "AL2",
+      "at": "23.10.2026 12:31",
+      "count": 7
+    },
     {
       "home": "Real Sociedad",
       "away": "Levante UD",
@@ -351,62 +421,6 @@
       "away": "AC Milan",
       "league": "İTA",
       "at": "23.10.2026 12:14",
-      "count": 6
-    },
-    {
-      "home": "Crystal Palace",
-      "away": "Newcastle United",
-      "league": "İNP",
-      "at": "23.10.2026 12:13",
-      "count": 11
-    },
-    {
-      "home": "Manchester United",
-      "away": "AFC Bournemouth",
-      "league": "İNP",
-      "at": "23.10.2026 12:13",
-      "count": 8
-    },
-    {
-      "home": "Como 1907",
-      "away": "US Sassuolo",
-      "league": "İTA",
-      "at": "23.10.2026 12:10",
-      "count": 4
-    },
-    {
-      "home": "Rayo Vallecano",
-      "away": "Elche CF",
-      "league": "İS1",
-      "at": "23.10.2026 12:08",
-      "count": 6
-    },
-    {
-      "home": "Deportivo Alaves",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "23.10.2026 12:07",
-      "count": 8
-    },
-    {
-      "home": "Liverpool",
-      "away": "Brighton & Hove Albion",
-      "league": "İNP",
-      "at": "23.10.2026 11:56",
-      "count": 5
-    },
-    {
-      "home": "Toulouse FC",
-      "away": "ESTAC Troyes",
-      "league": "FR1",
-      "at": "23.10.2026 11:56",
-      "count": 3
-    },
-    {
-      "home": "Atalanta",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "23.10.2026 11:56",
       "count": 6
     }
   ],
