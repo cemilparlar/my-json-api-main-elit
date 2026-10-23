@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 11:56",
+  "updatedAt": "23.10.2026 12:15",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 244,
-      "lost": 161,
-      "total": 405,
+      "won": 233,
+      "lost": 154,
+      "total": 387,
       "rate": 60.2
     },
-    "totalAnalyses": 149196,
+    "totalAnalyses": 149242,
     "leagues": 538,
     "pro": {
       "won": 180,
@@ -47,8 +47,8 @@
       "total": 107,
       "rate": 53.3
     },
-    "analyses24h": 4398,
-    "analyses30d": 22708
+    "analyses24h": 4399,
+    "analyses30d": 22726
   },
   "recentWins": [
     {
@@ -236,20 +236,20 @@
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.34,
-      "at": "23.10.2026 11:14"
+      "odds": 1.31,
+      "at": "23.10.2026 12:14"
     },
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.74,
-      "at": "23.10.2026 11:14"
+      "odds": 1.41,
+      "at": "23.10.2026 12:14"
     },
     {
       "type": "coupon",
-      "size": 1,
-      "odds": 1.3,
-      "at": "23.10.2026 10:13"
+      "size": 3,
+      "odds": 3.63,
+      "at": "23.10.2026 12:14"
     },
     {
       "type": "updated",
@@ -311,6 +311,15 @@
       "picks": 2
     },
     {
+      "home": "Saham Club",
+      "away": "Al Nahda",
+      "league": "UMM",
+      "date": "23.10.2026 15:20",
+      "patternScore": 71.7,
+      "patternText": "203.739/284.155",
+      "picks": 1
+    },
+    {
       "home": "Ibv Women",
       "away": "Stjarnan Women",
       "league": "İZKL1",
@@ -327,18 +336,58 @@
       "patternScore": 71.68,
       "patternText": "191.942/267.790",
       "picks": 3
-    },
-    {
-      "home": "Acs Gloria Bis",
-      "away": "UTA Dumbravita",
-      "league": "ROM2",
-      "date": "24.10.2026 08:00",
-      "patternScore": 71.61,
-      "patternText": "218.780/305.502",
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Real Sociedad",
+      "away": "Levante UD",
+      "league": "İS1",
+      "at": "23.10.2026 12:14",
+      "count": 4
+    },
+    {
+      "home": "Udinese",
+      "away": "AC Milan",
+      "league": "İTA",
+      "at": "23.10.2026 12:14",
+      "count": 6
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Newcastle United",
+      "league": "İNP",
+      "at": "23.10.2026 12:13",
+      "count": 11
+    },
+    {
+      "home": "Manchester United",
+      "away": "AFC Bournemouth",
+      "league": "İNP",
+      "at": "23.10.2026 12:13",
+      "count": 8
+    },
+    {
+      "home": "Como 1907",
+      "away": "US Sassuolo",
+      "league": "İTA",
+      "at": "23.10.2026 12:10",
+      "count": 4
+    },
+    {
+      "home": "Rayo Vallecano",
+      "away": "Elche CF",
+      "league": "İS1",
+      "at": "23.10.2026 12:08",
+      "count": 6
+    },
+    {
+      "home": "Deportivo Alaves",
+      "away": "Malaga CF",
+      "league": "İS1",
+      "at": "23.10.2026 12:07",
+      "count": 8
+    },
     {
       "home": "Liverpool",
       "away": "Brighton & Hove Albion",
@@ -347,67 +396,18 @@
       "count": 5
     },
     {
+      "home": "Toulouse FC",
+      "away": "ESTAC Troyes",
+      "league": "FR1",
+      "at": "23.10.2026 11:56",
+      "count": 3
+    },
+    {
       "home": "Atalanta",
       "away": "Frosinone Calcio",
       "league": "İTA",
       "at": "23.10.2026 11:56",
       "count": 6
-    },
-    {
-      "home": "UD Almeria",
-      "away": "Real Oviedo",
-      "league": "İS2",
-      "at": "23.10.2026 11:54",
-      "count": 7
-    },
-    {
-      "home": "Houston Dynamo",
-      "away": "Minnesota United",
-      "league": "ABD",
-      "at": "23.10.2026 11:54",
-      "count": 6
-    },
-    {
-      "home": "Girona FC",
-      "away": "Celta Vigo B",
-      "league": "İS2",
-      "at": "23.10.2026 11:53",
-      "count": 13
-    },
-    {
-      "home": "Granada CF",
-      "away": "Real Valladolid",
-      "league": "İS2",
-      "at": "23.10.2026 11:48",
-      "count": 6
-    },
-    {
-      "home": "Deportivo Alaves",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "23.10.2026 11:48",
-      "count": 7
-    },
-    {
-      "home": "Como 1907",
-      "away": "US Sassuolo",
-      "league": "İTA",
-      "at": "23.10.2026 11:44",
-      "count": 9
-    },
-    {
-      "home": "Torino FC",
-      "away": "AC Monza",
-      "league": "İTA",
-      "at": "23.10.2026 11:41",
-      "count": 7
-    },
-    {
-      "home": "Sunderland",
-      "away": "Leeds United",
-      "league": "İNP",
-      "at": "23.10.2026 11:33",
-      "count": 4
     }
   ],
   "paywall": {
