@@ -60,8 +60,8 @@
       "lost": 0
     }
   },
-  "updatedAt": "23.10.2026 08:45",
-  "updatedAtUtc": "2026-10-23T08:45:00Z",
+  "updatedAt": "23.10.2026 09:06",
+  "updatedAtUtc": "2026-10-23T09:06:00Z",
   "upcoming": [
     {
       "id": "20261022-15-1",
@@ -368,7 +368,7 @@
           "mbs": 2,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -1068,6 +1068,47 @@
           "probability": 100.0,
           "patternScore": 78.47,
           "patternText": "149.665/246.365",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261023-12-1",
+      "createdAt": "23.10.2026 09:06",
+      "createdAtUtc": "2026-10-23T09:06:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.42,
+      "winChance": 68.88,
+      "firstKickoff": "23.10.2026 19:00",
+      "lastKickoff": "23.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.42,
+      "legs": [
+        {
+          "matchCode": "4488814",
+          "nesine": null,
+          "date": "23.10.2026 19:00",
+          "kickoffUtc": "2026-10-23T19:00:00Z",
+          "league": "İNCL",
+          "home": "Bolton Wanderers",
+          "away": "Middlesbrough",
+          "league_tr": "İNCL",
+          "home_tr": "Bolton",
+          "away_tr": "Middlesbrough",
+          "prediction": "Under 3.5 Goals",
+          "prediction_tr": "3,5 Alt/Üst Alt",
+          "odds": 1.42,
+          "probability": 100.0,
+          "patternScore": 68.88,
+          "patternText": "236.755/407.641",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
