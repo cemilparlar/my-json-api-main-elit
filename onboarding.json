@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 04:25",
+  "updatedAt": "23.10.2026 04:42",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 392,
       "rate": 59.7
     },
-    "totalAnalyses": 148220,
+    "totalAnalyses": 148265,
     "leagues": 537,
     "pro": {
       "won": 176,
@@ -47,8 +47,8 @@
       "total": 105,
       "rate": 54.3
     },
-    "analyses24h": 4173,
-    "analyses30d": 22503
+    "analyses24h": 4164,
+    "analyses30d": 22494
   },
   "recentWins": [
     {
@@ -277,21 +277,30 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 04:16",
-      "home": "Boluspor",
-      "away": "Van Spor FK"
+      "at": "23.10.2026 04:21",
+      "home": "Gateshead",
+      "away": "Tamworth"
     }
   ],
   "today": {
-    "home": "Ibv Women",
-    "away": "Stjarnan Women",
-    "league": "İZKL1",
-    "date": "23.10.2026 18:00",
-    "patternScore": 71.71,
-    "patternText": "287.428/400.844",
-    "picks": 1
+    "home": "Al Shamal",
+    "away": "Qatar SC",
+    "league": "KAT",
+    "date": "23.10.2026 14:30",
+    "patternScore": 71.78,
+    "patternText": "194.843/271.442",
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Al Shamal",
+      "away": "Qatar SC",
+      "league": "KAT",
+      "date": "23.10.2026 14:30",
+      "patternScore": 71.78,
+      "patternText": "194.843/271.442",
+      "picks": 4
+    },
     {
       "home": "Ibv Women",
       "away": "Stjarnan Women",
@@ -300,15 +309,6 @@
       "patternScore": 71.71,
       "patternText": "287.428/400.844",
       "picks": 1
-    },
-    {
-      "home": "Al Shamal",
-      "away": "Qatar SC",
-      "league": "KAT",
-      "date": "23.10.2026 14:30",
-      "patternScore": 71.69,
-      "patternText": "192.873/269.048",
-      "picks": 5
     },
     {
       "home": "FC Duhok",
@@ -340,18 +340,32 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Cruzeiro EC",
-      "away": "Remo",
-      "league": "BR1",
-      "at": "23.10.2026 04:22",
-      "count": 2
+      "home": "VfB Stuttgart",
+      "away": "Borussia Monchengladbach",
+      "league": "AL1",
+      "at": "23.10.2026 04:42",
+      "count": 14
+    },
+    {
+      "home": "Arsenal",
+      "away": "Everton",
+      "league": "İNP",
+      "at": "23.10.2026 04:29",
+      "count": 6
     },
     {
       "home": "Deportivo Alaves",
       "away": "Malaga CF",
       "league": "İS1",
-      "at": "23.10.2026 04:21",
-      "count": 4
+      "at": "23.10.2026 04:28",
+      "count": 3
+    },
+    {
+      "home": "Cruzeiro EC",
+      "away": "Remo",
+      "league": "BR1",
+      "at": "23.10.2026 04:22",
+      "count": 2
     },
     {
       "home": "Ipswich Town",
@@ -393,20 +407,6 @@
       "away": "Stade Lavalois",
       "league": "FR2",
       "at": "23.10.2026 04:17",
-      "count": 7
-    },
-    {
-      "home": "Boluspor",
-      "away": "Van Spor FK",
-      "league": "T1L",
-      "at": "23.10.2026 04:16",
-      "count": 2
-    },
-    {
-      "home": "Manchester United",
-      "away": "AFC Bournemouth",
-      "league": "İNP",
-      "at": "23.10.2026 03:49",
       "count": 7
     }
   ],
