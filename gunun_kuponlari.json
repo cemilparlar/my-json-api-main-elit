@@ -60,8 +60,8 @@
       "lost": 0
     }
   },
-  "updatedAt": "23.10.2026 15:17",
-  "updatedAtUtc": "2026-10-23T15:17:00Z",
+  "updatedAt": "23.10.2026 15:32",
+  "updatedAtUtc": "2026-10-23T15:32:00Z",
   "upcoming": [
     {
       "id": "20261022-23-3",
@@ -183,9 +183,9 @@
           "patternScore": 78.47,
           "patternText": "236.494/350.554",
           "mbs": 2,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 1",
+          "finalScore": "1 - 1",
+          "status": "won"
         },
         {
           "matchCode": "4476896",
@@ -1978,7 +1978,7 @@
       "kind": "surprise_3",
       "group": "surprise",
       "formula": "3",
-      "effectiveOdds": 4.72,
+      "effectiveOdds": 3.01,
       "legs": [
         {
           "matchCode": "4561395",
@@ -2000,7 +2000,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live"
+          "status": "void"
         },
         {
           "matchCode": "4572331",
@@ -2042,9 +2042,9 @@
           "patternScore": 74.15,
           "patternText": "215.505/370.487",
           "mbs": 2,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 1",
+          "finalScore": "1 - 3",
+          "status": "lost"
         }
       ]
     },
