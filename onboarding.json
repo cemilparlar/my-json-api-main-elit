@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 15:47",
+  "updatedAt": "23.10.2026 16:03",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 115,
-      "lost": 33,
-      "total": 148,
-      "rate": 77.7
+      "won": 64,
+      "lost": 22,
+      "total": 86,
+      "rate": 74.4
     },
-    "totalAnalyses": 149935,
+    "totalAnalyses": 149953,
     "leagues": 538,
     "pro": {
-      "won": 197,
-      "lost": 104,
-      "total": 301,
-      "rate": 65.4
+      "won": 202,
+      "lost": 106,
+      "total": 308,
+      "rate": 65.6
     },
     "insights": {
-      "won": 361,
-      "lost": 196,
-      "total": 557,
-      "rate": 64.8
+      "won": 370,
+      "lost": 198,
+      "total": 568,
+      "rate": 65.1
     },
     "coupons": {
       "won": 58,
@@ -47,8 +47,8 @@
       "total": 112,
       "rate": 51.8
     },
-    "analyses24h": 4596,
-    "analyses30d": 22954
+    "analyses24h": 4580,
+    "analyses30d": 22958
   },
   "recentWins": [
     {
@@ -91,19 +91,6 @@
       "pro": true
     },
     {
-      "home": "Ghazl El Mahalla",
-      "away": "Al Ittihad Al S",
-      "league": "MSR",
-      "date": "21.10.2026 14:00",
-      "prediction": "Match Result 1",
-      "odds": 3.2,
-      "probability": 75.0,
-      "patternScore": 64.2,
-      "firstHalf": "2 - 0",
-      "finalScore": "2 - 1",
-      "pro": true
-    },
-    {
       "home": "SK Sturm Graz",
       "away": "Marseille",
       "league": "AVL",
@@ -114,6 +101,19 @@
       "patternScore": 66.72,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 0",
+      "pro": false
+    },
+    {
+      "home": "Masar",
+      "away": "Pharco FC",
+      "league": "MSR2",
+      "date": "23.10.2026 12:30",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 2.14,
+      "probability": 75.0,
+      "patternScore": 63.77,
+      "firstHalf": "3 - 0",
+      "finalScore": "4 - 2",
       "pro": false
     }
   ],
@@ -227,29 +227,29 @@
     },
     {
       "type": "won",
-      "home": "Ghazl El Mahalla",
-      "away": "Al Ittihad Al S",
-      "prediction": "Match Result 1",
-      "odds": 3.2,
-      "at": "21.10.2026 14:00"
+      "home": "SK Sturm Graz",
+      "away": "Marseille",
+      "prediction": "Under 2.5 Goals",
+      "odds": 2.23,
+      "at": "22.10.2026 16:45"
     },
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.3,
-      "at": "23.10.2026 15:01"
+      "odds": 1.38,
+      "at": "23.10.2026 16:03"
     },
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.39,
-      "at": "23.10.2026 15:01"
+      "odds": 1.47,
+      "at": "23.10.2026 16:03"
     },
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.34,
-      "at": "23.10.2026 15:01"
+      "odds": 1.45,
+      "at": "23.10.2026 16:03"
     },
     {
       "type": "updated",
@@ -288,7 +288,7 @@
     "league": "İZKL1",
     "date": "23.10.2026 18:00",
     "patternScore": 71.67,
-    "patternText": "287.660/401.350",
+    "patternText": "287.682/401.382",
     "picks": 1
   },
   "todayList": [
@@ -298,7 +298,7 @@
       "league": "İZKL1",
       "date": "23.10.2026 18:00",
       "patternScore": 71.67,
-      "patternText": "287.660/401.350",
+      "patternText": "287.682/401.382",
       "picks": 1
     },
     {
@@ -307,7 +307,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.52,
-      "patternText": "257.962/360.701",
+      "patternText": "257.976/360.717",
       "picks": 2
     },
     {
@@ -316,7 +316,7 @@
       "league": "DAN3",
       "date": "24.10.2026 12:30",
       "patternScore": 71.51,
-      "patternText": "259.951/363.494",
+      "patternText": "259.955/363.502",
       "picks": 2
     },
     {
@@ -325,7 +325,7 @@
       "league": "DAN1",
       "date": "23.10.2026 17:00",
       "patternScore": 71.46,
-      "patternText": "197.161/275.885",
+      "patternText": "197.175/275.909",
       "picks": 2
     },
     {
@@ -334,80 +334,80 @@
       "league": "İTC",
       "date": "24.10.2026 12:30",
       "patternScore": 71.43,
-      "patternText": "246.943/345.721",
+      "patternText": "246.951/345.731",
       "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "US Lecce",
-      "away": "Juventus",
-      "league": "İTA",
-      "at": "23.10.2026 15:39",
-      "count": 14
-    },
-    {
-      "home": "Sevilla FC",
-      "away": "CA Osasuna",
-      "league": "İS1",
-      "at": "23.10.2026 15:39",
-      "count": 6
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "Deportivo La Coruna",
-      "league": "İS1",
-      "at": "23.10.2026 15:37",
-      "count": 1
-    },
-    {
-      "home": "AS Saint-Etienne",
-      "away": "FC Nantes",
-      "league": "FR2",
-      "at": "23.10.2026 15:37",
-      "count": 6
-    },
-    {
-      "home": "RC Lens",
-      "away": "Paris FC",
-      "league": "FR1",
-      "at": "23.10.2026 15:37",
-      "count": 4
-    },
-    {
       "home": "SS Lazio",
       "away": "Parma Calcio",
       "league": "İTA",
-      "at": "23.10.2026 15:37",
-      "count": 9
-    },
-    {
-      "home": "Chelsea",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "23.10.2026 15:36",
-      "count": 1
-    },
-    {
-      "home": "CD Leganes",
-      "away": "RCD Mallorca",
-      "league": "İS2",
-      "at": "23.10.2026 15:35",
+      "at": "23.10.2026 16:02",
       "count": 7
     },
     {
-      "home": "Rayo Vallecano",
-      "away": "Elche CF",
+      "home": "Valencia CF",
+      "away": "Villarreal CF",
       "league": "İS1",
-      "at": "23.10.2026 15:33",
-      "count": 6
+      "at": "23.10.2026 16:01",
+      "count": 7
+    },
+    {
+      "home": "Girona FC",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "at": "23.10.2026 16:01",
+      "count": 10
+    },
+    {
+      "home": "Borussia Dortmund",
+      "away": "Eintracht Frankfurt",
+      "league": "AL1",
+      "at": "23.10.2026 16:01",
+      "count": 14
+    },
+    {
+      "home": "Arsenal",
+      "away": "Everton",
+      "league": "İNP",
+      "at": "23.10.2026 15:59",
+      "count": 4
+    },
+    {
+      "home": "SC Paderborn",
+      "away": "Hamburger SV",
+      "league": "AL1",
+      "at": "23.10.2026 15:58",
+      "count": 9
+    },
+    {
+      "home": "FSV Mainz 05",
+      "away": "Werder Bremen",
+      "league": "AL1",
+      "at": "23.10.2026 15:58",
+      "count": 9
     },
     {
       "home": "Deportivo Alaves",
       "away": "Malaga CF",
       "league": "İS1",
-      "at": "23.10.2026 15:32",
+      "at": "23.10.2026 15:55",
       "count": 9
+    },
+    {
+      "home": "Stade Brest",
+      "away": "OGC Nice",
+      "league": "FR1",
+      "at": "23.10.2026 15:55",
+      "count": 4
+    },
+    {
+      "home": "Bochum",
+      "away": "VfL Wolfsburg",
+      "league": "AL2",
+      "at": "23.10.2026 15:54",
+      "count": 10
     }
   ],
   "paywall": {
