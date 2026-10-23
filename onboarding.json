@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 06:05",
+  "updatedAt": "23.10.2026 06:21",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 392,
       "rate": 59.7
     },
-    "totalAnalyses": 148446,
+    "totalAnalyses": 148465,
     "leagues": 537,
     "pro": {
       "won": 176,
@@ -47,8 +47,8 @@
       "total": 105,
       "rate": 54.3
     },
-    "analyses24h": 4232,
-    "analyses30d": 22556
+    "analyses24h": 4223,
+    "analyses30d": 22547
   },
   "recentWins": [
     {
@@ -253,18 +253,6 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 00:19",
-      "home": "Alebrijes de Oaxaca",
-      "away": "Cruz Azul Hidal"
-    },
-    {
-      "type": "updated",
-      "at": "23.10.2026 00:20",
-      "home": "Atlas Women",
-      "away": "León Women"
-    },
-    {
-      "type": "updated",
       "at": "23.10.2026 04:16",
       "home": "Real Union Irun",
       "away": "CD Lugo"
@@ -280,18 +268,39 @@
       "at": "23.10.2026 05:47",
       "home": "Bolton Wanderers",
       "away": "Middlesbrough"
+    },
+    {
+      "type": "updated",
+      "at": "23.10.2026 05:05",
+      "home": "Deportivo Alaves",
+      "away": "Malaga CF"
+    },
+    {
+      "type": "updated",
+      "at": "23.10.2026 06:19",
+      "home": "Ipswich Town",
+      "away": "Nottingham Forest"
     }
   ],
   "today": {
-    "home": "Al Shamal",
-    "away": "Qatar SC",
-    "league": "KAT",
-    "date": "23.10.2026 14:30",
-    "patternScore": 71.78,
-    "patternText": "194.843/271.442",
-    "picks": 4
+    "home": "Ethad Ar",
+    "away": "Al Hashemeya",
+    "league": "ÜRD1",
+    "date": "23.10.2026 15:00",
+    "patternScore": 72.03,
+    "patternText": "206.848/287.164",
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Ethad Ar",
+      "away": "Al Hashemeya",
+      "league": "ÜRD1",
+      "date": "23.10.2026 15:00",
+      "patternScore": 72.03,
+      "patternText": "206.848/287.164",
+      "picks": 1
+    },
     {
       "home": "Al Shamal",
       "away": "Qatar SC",
@@ -327,31 +336,50 @@
       "patternScore": 71.57,
       "patternText": "186.434/260.500",
       "picks": 2
-    },
-    {
-      "home": "FK Dukla Prague",
-      "away": "Kladno",
-      "league": "ÇEK2",
-      "date": "23.10.2026 16:00",
-      "patternScore": 71.47,
-      "patternText": "189.546/265.224",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "23.10.2026 06:20",
+      "count": 14
+    },
+    {
+      "home": "Ipswich Town",
+      "away": "Nottingham Forest",
+      "league": "İNP",
+      "at": "23.10.2026 06:19",
+      "count": 3
+    },
+    {
+      "home": "SV Darmstadt 98",
+      "away": "St Pauli",
+      "league": "AL2",
+      "at": "23.10.2026 06:18",
+      "count": 7
+    },
+    {
+      "home": "Stade Brest",
+      "away": "OGC Nice",
+      "league": "FR1",
+      "at": "23.10.2026 06:18",
+      "count": 8
+    },
+    {
+      "home": "Torino FC",
+      "away": "AC Monza",
+      "league": "İTA",
+      "at": "23.10.2026 06:18",
+      "count": 6
+    },
     {
       "home": "Castellon",
       "away": "Sporting Gijon",
       "league": "İS2",
       "at": "23.10.2026 06:04",
       "count": 6
-    },
-    {
-      "home": "Torino FC",
-      "away": "AC Monza",
-      "league": "İTA",
-      "at": "23.10.2026 06:03",
-      "count": 7
     },
     {
       "home": "Virtus Entella",
@@ -380,34 +408,6 @@
       "league": "İNP",
       "at": "23.10.2026 05:52",
       "count": 6
-    },
-    {
-      "home": "Aston Villa",
-      "away": "Manchester City",
-      "league": "İNP",
-      "at": "23.10.2026 05:51",
-      "count": 6
-    },
-    {
-      "home": "Coventry City",
-      "away": "Fulham",
-      "league": "İNP",
-      "at": "23.10.2026 05:51",
-      "count": 4
-    },
-    {
-      "home": "Bolton Wanderers",
-      "away": "Middlesbrough",
-      "league": "İNCL",
-      "at": "23.10.2026 05:47",
-      "count": 9
-    },
-    {
-      "home": "Ipswich Town",
-      "away": "Nottingham Forest",
-      "league": "İNP",
-      "at": "23.10.2026 05:47",
-      "count": 4
     }
   ],
   "paywall": {
