@@ -68,8 +68,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "23.10.2026 22:58",
-  "updatedAtUtc": "2026-10-23T22:58:00Z",
+  "updatedAt": "23.10.2026 23:16",
+  "updatedAtUtc": "2026-10-23T23:16:00Z",
   "upcoming": [
     {
       "id": "20261023-15-3",
@@ -166,7 +166,7 @@
       "winChance": 72.25,
       "firstKickoff": "23.10.2026 23:00",
       "lastKickoff": "23.10.2026 23:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_b",
       "group": "safe",
@@ -193,7 +193,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -1369,6 +1369,47 @@
           "probability": 84.62,
           "patternScore": 67.66,
           "patternText": "136.322/201.468",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261024-02-1",
+      "createdAt": "23.10.2026 23:16",
+      "createdAtUtc": "2026-10-23T23:16:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.68,
+      "winChance": 67.28,
+      "firstKickoff": "24.10.2026 22:30",
+      "lastKickoff": "24.10.2026 22:30",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.68,
+      "legs": [
+        {
+          "matchCode": "4423348",
+          "nesine": null,
+          "date": "24.10.2026 22:30",
+          "kickoffUtc": "2026-10-24T22:30:00Z",
+          "league": "BR1",
+          "home": "Chapecoense AF",
+          "away": "Fluminense FC",
+          "league_tr": "BR1",
+          "home_tr": "Chapecoense",
+          "away_tr": "Fluminense",
+          "prediction": "Handicap (1:0) 1",
+          "prediction_tr": "Handikaplı Maç Sonucu (1:0) 1",
+          "odds": 1.68,
+          "probability": 71.42857142857143,
+          "patternScore": 67.28,
+          "patternText": "223.272/331.876",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
