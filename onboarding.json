@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 13:21",
+  "updatedAt": "23.10.2026 13:40",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 140,
-      "lost": 35,
-      "total": 175,
-      "rate": 80.0
+      "won": 143,
+      "lost": 43,
+      "total": 186,
+      "rate": 76.9
     },
-    "totalAnalyses": 149476,
+    "totalAnalyses": 149561,
     "leagues": 538,
     "pro": {
-      "won": 182,
-      "lost": 90,
-      "total": 272,
-      "rate": 66.9
+      "won": 183,
+      "lost": 91,
+      "total": 274,
+      "rate": 66.8
     },
     "insights": {
-      "won": 332,
-      "lost": 166,
-      "total": 498,
-      "rate": 66.7
+      "won": 335,
+      "lost": 174,
+      "total": 509,
+      "rate": 65.8
     },
     "coupons": {
       "won": 57,
-      "lost": 50,
-      "total": 107,
-      "rate": 53.3
+      "lost": 52,
+      "total": 109,
+      "rate": 52.3
     },
-    "analyses24h": 4508,
-    "analyses30d": 22854
+    "analyses24h": 4509,
+    "analyses30d": 22868
   },
   "recentWins": [
     {
@@ -170,35 +170,6 @@
       ]
     },
     {
-      "size": 3,
-      "totalOdds": 1.74,
-      "winChance": 21.12,
-      "completedAt": "21.10.2026 13:25",
-      "legs": [
-        {
-          "home": "Nagoya Grampus",
-          "away": "Cerezo Osaka",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.07,
-          "finalScore": "1 - 1"
-        },
-        {
-          "home": "Fagiano Okayama",
-          "away": "Mito HollyHock",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.14,
-          "finalScore": "2 - 0"
-        },
-        {
-          "home": "V-Varen Nagasaki",
-          "away": "Sanfrecce Hiroshima",
-          "prediction": "Handicap (2:0) 1",
-          "odds": 1.43,
-          "finalScore": "4 - 0"
-        }
-      ]
-    },
-    {
       "size": 1,
       "totalOdds": 1.73,
       "winChance": 56.31,
@@ -210,6 +181,21 @@
           "prediction": "Under 2.5 Goals",
           "odds": 1.73,
           "finalScore": "0 - 0"
+        }
+      ]
+    },
+    {
+      "size": 1,
+      "totalOdds": 1.67,
+      "winChance": 72.25,
+      "completedAt": "22.10.2026 21:17",
+      "legs": [
+        {
+          "home": "AGF Aarhus",
+          "away": "Egnatia",
+          "prediction": "Both Teams to Score - Yes",
+          "odds": 1.67,
+          "finalScore": "1 - 1"
         }
       ]
     }
@@ -291,7 +277,7 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 08:41",
+      "at": "23.10.2026 13:25",
       "home": "Bolton Wanderers",
       "away": "Middlesbrough"
     }
@@ -314,6 +300,15 @@
       "patternScore": 71.78,
       "patternText": "194.917/271.550",
       "picks": 4
+    },
+    {
+      "home": "Ethad Ar",
+      "away": "Al Hashemeya",
+      "league": "ÜRD1",
+      "date": "23.10.2026 15:00",
+      "patternScore": 71.7,
+      "patternText": "203.754/284.170",
+      "picks": 1
     },
     {
       "home": "Ibv Women",
@@ -341,18 +336,65 @@
       "patternScore": 71.57,
       "patternText": "186.508/260.608",
       "picks": 2
-    },
-    {
-      "home": "Al Ittihad Jeddah",
-      "away": "Diriyah CC",
-      "league": "SUUD",
-      "date": "23.10.2026 15:30",
-      "patternScore": 71.5,
-      "patternText": "189.088/264.477",
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Akron Togliatti",
+      "away": "Dinamo Moscow",
+      "league": "RUS",
+      "at": "23.10.2026 13:38",
+      "count": 8
+    },
+    {
+      "home": "Deportivo Alaves",
+      "away": "Malaga CF",
+      "league": "İS1",
+      "at": "23.10.2026 13:36",
+      "count": 4
+    },
+    {
+      "home": "Cruzeiro EC",
+      "away": "Remo",
+      "league": "BR1",
+      "at": "23.10.2026 13:36",
+      "count": 6
+    },
+    {
+      "home": "Como 1907",
+      "away": "US Sassuolo",
+      "league": "İTA",
+      "at": "23.10.2026 13:28",
+      "count": 2
+    },
+    {
+      "home": "Bolton Wanderers",
+      "away": "Middlesbrough",
+      "league": "İNCL",
+      "at": "23.10.2026 13:25",
+      "count": 5
+    },
+    {
+      "home": "Ipswich Town",
+      "away": "Nottingham Forest",
+      "league": "İNP",
+      "at": "23.10.2026 13:25",
+      "count": 3
+    },
+    {
+      "home": "Torino FC",
+      "away": "AC Monza",
+      "league": "İTA",
+      "at": "23.10.2026 13:25",
+      "count": 8
+    },
+    {
+      "home": "Bochum",
+      "away": "VfL Wolfsburg",
+      "league": "AL2",
+      "at": "23.10.2026 13:23",
+      "count": 9
+    },
     {
       "home": "Sunderland",
       "away": "Leeds United",
@@ -366,62 +408,6 @@
       "league": "AL1",
       "at": "23.10.2026 13:20",
       "count": 13
-    },
-    {
-      "home": "TSG Hoffenheim",
-      "away": "Bayer Leverkusen",
-      "league": "AL1",
-      "at": "23.10.2026 13:20",
-      "count": 18
-    },
-    {
-      "home": "Stade Rennais",
-      "away": "RC Strasbourg",
-      "league": "FR1",
-      "at": "23.10.2026 13:20",
-      "count": 13
-    },
-    {
-      "home": "Queens Park Rangers",
-      "away": "Swansea",
-      "league": "İNCL",
-      "at": "23.10.2026 13:14",
-      "count": 4
-    },
-    {
-      "home": "Deportivo Alaves",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "23.10.2026 13:09",
-      "count": 17
-    },
-    {
-      "home": "SC Paderborn",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "23.10.2026 13:05",
-      "count": 5
-    },
-    {
-      "home": "Willem",
-      "away": "SC Cambuur",
-      "league": "HOL",
-      "at": "23.10.2026 13:05",
-      "count": 7
-    },
-    {
-      "home": "Ipswich Town",
-      "away": "Nottingham Forest",
-      "league": "İNP",
-      "at": "23.10.2026 13:00",
-      "count": 8
-    },
-    {
-      "home": "KV Kortrijk",
-      "away": "KV Mechelen",
-      "league": "BEL",
-      "at": "23.10.2026 12:59",
-      "count": 6
     }
   ],
   "paywall": {

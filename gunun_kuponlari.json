@@ -3,7 +3,7 @@
   "stats7": {
     "legacy": {
       "won": 94,
-      "lost": 82
+      "lost": 84
     },
     "safe": {
       "won": 7,
@@ -15,7 +15,7 @@
     },
     "surprise": {
       "won": 3,
-      "lost": 4
+      "lost": 5
     },
     "surprise_1": {
       "won": 3,
@@ -23,7 +23,7 @@
     },
     "surprise_3": {
       "won": 0,
-      "lost": 3
+      "lost": 4
     },
     "safe_a": {
       "won": 1,
@@ -33,7 +33,7 @@
   "stats30": {
     "legacy": {
       "won": 94,
-      "lost": 82
+      "lost": 84
     },
     "safe": {
       "won": 7,
@@ -45,7 +45,7 @@
     },
     "surprise": {
       "won": 3,
-      "lost": 4
+      "lost": 5
     },
     "surprise_1": {
       "won": 3,
@@ -53,15 +53,15 @@
     },
     "surprise_3": {
       "won": 0,
-      "lost": 3
+      "lost": 4
     },
     "safe_a": {
       "won": 1,
       "lost": 0
     }
   },
-  "updatedAt": "23.10.2026 13:21",
-  "updatedAtUtc": "2026-10-23T13:21:00Z",
+  "updatedAt": "23.10.2026 13:40",
+  "updatedAtUtc": "2026-10-23T13:40:00Z",
   "upcoming": [
     {
       "id": "20261022-15-1",
@@ -142,173 +142,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261022-16-3",
-      "createdAt": "22.10.2026 13:13",
-      "createdAtUtc": "2026-10-22T13:13:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 3.28,
-      "winChance": 22.22,
-      "firstKickoff": "23.10.2026 00:00",
-      "lastKickoff": "23.10.2026 13:00",
-      "status": "live",
-      "completedAt": null,
-      "effectiveOdds": 3.28,
-      "legs": [
-        {
-          "matchCode": "4575404",
-          "nesine": null,
-          "date": "23.10.2026 00:00",
-          "kickoffUtc": "2026-10-23T00:00:00Z",
-          "league": "LKUW",
-          "home": "",
-          "away": "Cruzeiro Women",
-          "league_tr": "LKUW",
-          "home_tr": "",
-          "away_tr": "Cruzeiro (K)",
-          "prediction": "Match Result 2",
-          "prediction_tr": "Maç Sonucu 2",
-          "odds": 1.25,
-          "probability": 85.71,
-          "patternScore": 68.29,
-          "patternText": "114.249/167.293",
-          "mbs": 3,
-          "firstHalf": "0 - 1",
-          "finalScore": "0 - 3",
-          "status": "won"
-        },
-        {
-          "matchCode": "4572331",
-          "nesine": null,
-          "date": "23.10.2026 11:30",
-          "kickoffUtc": "2026-10-23T11:30:00Z",
-          "league": "HİNSL",
-          "home": "Inter Kashi",
-          "away": "East Bengal FC",
-          "league_tr": "HİNSL",
-          "home_tr": "Inter Kashi",
-          "away_tr": "East-Bengal",
-          "prediction": "Handicap (2:0) 1",
-          "prediction_tr": "Handikaplı Maç Sonucu (2:0) 1",
-          "odds": 1.67,
-          "probability": 100.0,
-          "patternScore": 57.07,
-          "patternText": "190.201/333.288",
-          "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4505879",
-          "nesine": null,
-          "date": "23.10.2026 13:00",
-          "kickoffUtc": "2026-10-23T13:00:00Z",
-          "league": "BULB",
-          "home": "Chernomorets 1",
-          "away": "Sportist Svoge",
-          "league_tr": "BULB",
-          "home_tr": "Chernomorets 1",
-          "away_tr": "Sportist Svoge",
-          "prediction": "Over 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Üst",
-          "odds": 1.57,
-          "probability": 100.0,
-          "patternScore": 57.01,
-          "patternText": "206.406/362.064",
-          "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261022-18-6",
-      "createdAt": "22.10.2026 15:06",
-      "createdAtUtc": "2026-10-22T15:06:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 4.72,
-      "winChance": 42.55,
-      "firstKickoff": "23.10.2026 07:30",
-      "lastKickoff": "23.10.2026 13:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_3",
-      "group": "surprise",
-      "formula": "3",
-      "effectiveOdds": 4.72,
-      "legs": [
-        {
-          "matchCode": "4561395",
-          "nesine": null,
-          "date": "23.10.2026 07:30",
-          "kickoffUtc": "2026-10-23T07:30:00Z",
-          "league": "ÇİN2",
-          "home": "Shanghai Port FC",
-          "away": "Hangzhou Linpin",
-          "league_tr": "ÇİN2",
-          "home_tr": "Shanghai Port",
-          "away_tr": "Hangzhou Linpin",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.57,
-          "probability": 83.33,
-          "patternScore": 75.75,
-          "patternText": "136.193/200.369",
-          "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4572331",
-          "nesine": null,
-          "date": "23.10.2026 11:30",
-          "kickoffUtc": "2026-10-23T11:30:00Z",
-          "league": "HİNSL",
-          "home": "Inter Kashi",
-          "away": "East Bengal FC",
-          "league_tr": "HİNSL",
-          "home_tr": "Inter Kashi",
-          "away_tr": "East-Bengal",
-          "prediction": "Handicap (2:0) 1",
-          "prediction_tr": "Handikaplı Maç Sonucu (2:0) 1",
-          "odds": 1.67,
-          "probability": 100.0,
-          "patternScore": 75.75,
-          "patternText": "190.203/333.290",
-          "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4522608",
-          "nesine": null,
-          "date": "23.10.2026 13:30",
-          "kickoffUtc": "2026-10-23T13:30:00Z",
-          "league": "SUUD",
-          "home": "Al Faisaly",
-          "away": "Al Nassr",
-          "league_tr": "SUUD",
-          "home_tr": "Al Faisaly",
-          "away_tr": "Al Nassr (Riyad",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.8,
-          "probability": 100.0,
-          "patternScore": 74.15,
-          "patternText": "215.505/370.487",
-          "mbs": 2,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "pending"
         }
       ]
     },
@@ -1471,6 +1304,173 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261022-16-3",
+      "createdAt": "22.10.2026 13:13",
+      "createdAtUtc": "2026-10-22T13:13:00Z",
+      "size": 3,
+      "mbs": 3,
+      "totalOdds": 3.28,
+      "winChance": 22.22,
+      "firstKickoff": "23.10.2026 00:00",
+      "lastKickoff": "23.10.2026 13:00",
+      "status": "lost",
+      "completedAt": "23.10.2026 13:40",
+      "effectiveOdds": 3.28,
+      "legs": [
+        {
+          "matchCode": "4575404",
+          "nesine": null,
+          "date": "23.10.2026 00:00",
+          "kickoffUtc": "2026-10-23T00:00:00Z",
+          "league": "LKUW",
+          "home": "",
+          "away": "Cruzeiro Women",
+          "league_tr": "LKUW",
+          "home_tr": "",
+          "away_tr": "Cruzeiro (K)",
+          "prediction": "Match Result 2",
+          "prediction_tr": "Maç Sonucu 2",
+          "odds": 1.25,
+          "probability": 85.71,
+          "patternScore": 68.29,
+          "patternText": "114.249/167.293",
+          "mbs": 3,
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 3",
+          "status": "won"
+        },
+        {
+          "matchCode": "4572331",
+          "nesine": null,
+          "date": "23.10.2026 11:30",
+          "kickoffUtc": "2026-10-23T11:30:00Z",
+          "league": "HİNSL",
+          "home": "Inter Kashi",
+          "away": "East Bengal FC",
+          "league_tr": "HİNSL",
+          "home_tr": "Inter Kashi",
+          "away_tr": "East-Bengal",
+          "prediction": "Handicap (2:0) 1",
+          "prediction_tr": "Handikaplı Maç Sonucu (2:0) 1",
+          "odds": 1.67,
+          "probability": 100.0,
+          "patternScore": 57.07,
+          "patternText": "190.201/333.288",
+          "mbs": 3,
+          "firstHalf": "1 - 4",
+          "finalScore": "1 - 5",
+          "status": "lost"
+        },
+        {
+          "matchCode": "4505879",
+          "nesine": null,
+          "date": "23.10.2026 13:00",
+          "kickoffUtc": "2026-10-23T13:00:00Z",
+          "league": "BULB",
+          "home": "Chernomorets 1",
+          "away": "Sportist Svoge",
+          "league_tr": "BULB",
+          "home_tr": "Chernomorets 1",
+          "away_tr": "Sportist Svoge",
+          "prediction": "Over 2.5 Goals",
+          "prediction_tr": "2,5 Alt/Üst Üst",
+          "odds": 1.57,
+          "probability": 100.0,
+          "patternScore": 57.01,
+          "patternText": "206.406/362.064",
+          "mbs": 3,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "id": "20261022-18-6",
+      "createdAt": "22.10.2026 15:06",
+      "createdAtUtc": "2026-10-22T15:06:00Z",
+      "size": 3,
+      "mbs": 3,
+      "totalOdds": 4.72,
+      "winChance": 42.55,
+      "firstKickoff": "23.10.2026 07:30",
+      "lastKickoff": "23.10.2026 13:30",
+      "status": "lost",
+      "completedAt": "23.10.2026 13:40",
+      "kind": "surprise_3",
+      "group": "surprise",
+      "formula": "3",
+      "effectiveOdds": 4.72,
+      "legs": [
+        {
+          "matchCode": "4561395",
+          "nesine": null,
+          "date": "23.10.2026 07:30",
+          "kickoffUtc": "2026-10-23T07:30:00Z",
+          "league": "ÇİN2",
+          "home": "Shanghai Port FC",
+          "away": "Hangzhou Linpin",
+          "league_tr": "ÇİN2",
+          "home_tr": "Shanghai Port",
+          "away_tr": "Hangzhou Linpin",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.57,
+          "probability": 83.33,
+          "patternScore": 75.75,
+          "patternText": "136.193/200.369",
+          "mbs": 3,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        },
+        {
+          "matchCode": "4572331",
+          "nesine": null,
+          "date": "23.10.2026 11:30",
+          "kickoffUtc": "2026-10-23T11:30:00Z",
+          "league": "HİNSL",
+          "home": "Inter Kashi",
+          "away": "East Bengal FC",
+          "league_tr": "HİNSL",
+          "home_tr": "Inter Kashi",
+          "away_tr": "East-Bengal",
+          "prediction": "Handicap (2:0) 1",
+          "prediction_tr": "Handikaplı Maç Sonucu (2:0) 1",
+          "odds": 1.67,
+          "probability": 100.0,
+          "patternScore": 75.75,
+          "patternText": "190.203/333.290",
+          "mbs": 3,
+          "firstHalf": "1 - 4",
+          "finalScore": "1 - 5",
+          "status": "lost"
+        },
+        {
+          "matchCode": "4522608",
+          "nesine": null,
+          "date": "23.10.2026 13:30",
+          "kickoffUtc": "2026-10-23T13:30:00Z",
+          "league": "SUUD",
+          "home": "Al Faisaly",
+          "away": "Al Nassr",
+          "league_tr": "SUUD",
+          "home_tr": "Al Faisaly",
+          "away_tr": "Al Nassr (Riyad",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.8,
+          "probability": 100.0,
+          "patternScore": 74.15,
+          "patternText": "215.505/370.487",
+          "mbs": 2,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        }
+      ]
+    },
     {
       "id": "20261022-12-2",
       "createdAt": "22.10.2026 09:04",
