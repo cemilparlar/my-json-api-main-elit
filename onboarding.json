@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 15:01",
+  "updatedAt": "23.10.2026 15:17",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 104,
-      "lost": 26,
-      "total": 130,
-      "rate": 80.0
+      "won": 113,
+      "lost": 31,
+      "total": 144,
+      "rate": 78.5
     },
-    "totalAnalyses": 149823,
+    "totalAnalyses": 149886,
     "leagues": 538,
     "pro": {
       "won": 195,
@@ -47,8 +47,8 @@
       "total": 112,
       "rate": 51.8
     },
-    "analyses24h": 4581,
-    "analyses30d": 22939
+    "analyses24h": 4593,
+    "analyses30d": 22951
   },
   "recentWins": [
     {
@@ -253,6 +253,12 @@
     },
     {
       "type": "updated",
+      "at": "23.10.2026 15:03",
+      "home": "Alanyaspor",
+      "away": "Kocaelispor"
+    },
+    {
+      "type": "updated",
       "at": "23.10.2026 13:08",
       "home": "Real Union Irun",
       "away": "CD Lugo"
@@ -265,7 +271,7 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 12:44",
+      "at": "23.10.2026 15:10",
       "home": "Granada CF",
       "away": "Real Valladolid"
     },
@@ -274,12 +280,6 @@
       "at": "23.10.2026 10:12",
       "home": "Gateshead",
       "away": "Tamworth"
-    },
-    {
-      "type": "updated",
-      "at": "23.10.2026 14:42",
-      "home": "Bolton Wanderers",
-      "away": "Middlesbrough"
     }
   ],
   "today": {
@@ -287,8 +287,8 @@
     "away": "Stjarnan Women",
     "league": "İZKL1",
     "date": "23.10.2026 18:00",
-    "patternScore": 71.69,
-    "patternText": "287.584/401.126",
+    "patternScore": 71.68,
+    "patternText": "287.636/401.262",
     "picks": 1
   },
   "todayList": [
@@ -297,8 +297,8 @@
       "away": "Stjarnan Women",
       "league": "İZKL1",
       "date": "23.10.2026 18:00",
-      "patternScore": 71.69,
-      "patternText": "287.584/401.126",
+      "patternScore": 71.68,
+      "patternText": "287.636/401.262",
       "picks": 1
     },
     {
@@ -306,8 +306,8 @@
       "away": "Miedz Legnica",
       "league": "POL1",
       "date": "23.10.2026 16:00",
-      "patternScore": 71.67,
-      "patternText": "192.036/267.962",
+      "patternScore": 71.65,
+      "patternText": "192.088/268.086",
       "picks": 3
     },
     {
@@ -316,7 +316,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.52,
-      "patternText": "257.936/360.635",
+      "patternText": "257.960/360.685",
       "picks": 2
     },
     {
@@ -325,7 +325,7 @@
       "league": "DAN3",
       "date": "24.10.2026 12:30",
       "patternScore": 71.52,
-      "patternText": "259.925/363.428",
+      "patternText": "259.949/363.478",
       "picks": 2
     },
     {
@@ -333,80 +333,80 @@
       "away": "HB Koge",
       "league": "DAN1",
       "date": "23.10.2026 17:00",
-      "patternScore": 71.49,
-      "patternText": "197.085/275.689",
+      "patternScore": 71.47,
+      "patternText": "197.137/275.813",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Celta de Vigo",
-      "away": "Real Betis",
-      "league": "İS1",
-      "at": "23.10.2026 14:53",
-      "count": 5
-    },
-    {
       "home": "Real Sociedad",
       "away": "Levante UD",
       "league": "İS1",
-      "at": "23.10.2026 14:53",
-      "count": 8
+      "at": "23.10.2026 15:16",
+      "count": 10
     },
     {
-      "home": "Albacete Balompie",
-      "away": "CD Eldense",
-      "league": "İS2",
-      "at": "23.10.2026 14:52",
-      "count": 6
+      "home": "Celta de Vigo",
+      "away": "Real Betis",
+      "league": "İS1",
+      "at": "23.10.2026 15:15",
+      "count": 5
+    },
+    {
+      "home": "Columbus Crew",
+      "away": "Toronto FC",
+      "league": "ABD",
+      "at": "23.10.2026 15:15",
+      "count": 11
+    },
+    {
+      "home": "Atletico Madrid",
+      "away": "Deportivo La Coruna",
+      "league": "İS1",
+      "at": "23.10.2026 15:14",
+      "count": 16
+    },
+    {
+      "home": "RC Lens",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "23.10.2026 15:14",
+      "count": 4
     },
     {
       "home": "SS Lazio",
       "away": "Parma Calcio",
       "league": "İTA",
-      "at": "23.10.2026 14:52",
-      "count": 9
+      "at": "23.10.2026 15:14",
+      "count": 2
     },
     {
-      "home": "SSC Napoli",
-      "away": "AS Roma",
-      "league": "İTA",
-      "at": "23.10.2026 14:51",
+      "home": "AS Saint-Etienne",
+      "away": "FC Nantes",
+      "league": "FR2",
+      "at": "23.10.2026 15:13",
       "count": 3
     },
     {
-      "home": "Muglaspor",
-      "away": "Istanbulspor",
-      "league": "T1L",
-      "at": "23.10.2026 14:46",
-      "count": 6
-    },
-    {
-      "home": "Cagliari Calcio",
-      "away": "Bologna FC",
-      "league": "İTA",
-      "at": "23.10.2026 14:46",
+      "home": "Preston North End",
+      "away": "West Bromwich Albion",
+      "league": "İNCL",
+      "at": "23.10.2026 15:12",
       "count": 7
     },
     {
-      "home": "Eyupspor",
-      "away": "Kasimpasa",
-      "league": "TSL",
-      "at": "23.10.2026 14:44",
-      "count": 1
-    },
-    {
-      "home": "Bolton Wanderers",
-      "away": "Middlesbrough",
-      "league": "İNCL",
-      "at": "23.10.2026 14:42",
-      "count": 15
-    },
-    {
-      "home": "Deportivo Alaves",
-      "away": "Malaga CF",
+      "home": "Racing Santander",
+      "away": "RCD Espanyol",
       "league": "İS1",
-      "at": "23.10.2026 14:42",
+      "at": "23.10.2026 15:12",
+      "count": 6
+    },
+    {
+      "home": "Rayo Vallecano",
+      "away": "Elche CF",
+      "league": "İS1",
+      "at": "23.10.2026 15:11",
       "count": 6
     }
   ],
