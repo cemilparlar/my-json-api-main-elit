@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 22:40",
+  "updatedAt": "23.10.2026 22:58",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 455,
       "rate": 79.6
     },
-    "totalAnalyses": 150367,
+    "totalAnalyses": 150389,
     "leagues": 538,
     "pro": {
-      "won": 375,
+      "won": 378,
       "lost": 172,
-      "total": 547,
-      "rate": 68.6
+      "total": 550,
+      "rate": 68.7
     },
     "insights": {
-      "won": 649,
+      "won": 655,
       "lost": 316,
-      "total": 965,
-      "rate": 67.3
+      "total": 971,
+      "rate": 67.5
     },
     "coupons": {
       "won": 65,
@@ -47,8 +47,8 @@
       "total": 128,
       "rate": 50.8
     },
-    "analyses24h": 4326,
-    "analyses30d": 22930
+    "analyses24h": 4339,
+    "analyses30d": 22943
   },
   "recentWins": [
     {
@@ -285,7 +285,7 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 21:16",
+      "at": "23.10.2026 22:45",
       "home": "Aston Villa",
       "away": "Manchester City"
     },
@@ -302,7 +302,7 @@
     "league": "NOR3",
     "date": "24.10.2026 12:00",
     "patternScore": 71.51,
-    "patternText": "258.378/361.315",
+    "patternText": "258.378/361.317",
     "picks": 2
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.51,
-      "patternText": "258.378/361.315",
+      "patternText": "258.378/361.317",
       "picks": 2
     },
     {
@@ -321,7 +321,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "249.472/349.444",
+      "patternText": "249.472/349.446",
       "picks": 1
     },
     {
@@ -330,7 +330,7 @@
       "league": "TAY",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "245.357/343.685",
+      "patternText": "245.357/343.687",
       "picks": 1
     },
     {
@@ -339,7 +339,7 @@
       "league": "LIT1",
       "date": "24.10.2026 12:00",
       "patternScore": 71.37,
-      "patternText": "248.910/348.744",
+      "patternText": "248.910/348.746",
       "picks": 2
     },
     {
@@ -348,80 +348,80 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.36,
-      "patternText": "127.626/178.853",
+      "patternText": "127.626/178.855",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "SS Lazio",
-      "away": "Parma Calcio",
-      "league": "İTA",
-      "at": "23.10.2026 22:16",
-      "count": 4
+      "home": "Paris Saint-Germain",
+      "away": "Olympique Lyonnais",
+      "league": "FR1",
+      "at": "23.10.2026 22:52",
+      "count": 16
     },
     {
-      "home": "Girona FC",
-      "away": "Celta Vigo B",
-      "league": "İS2",
-      "at": "23.10.2026 22:15",
-      "count": 3
+      "home": "Liverpool",
+      "away": "Brighton & Hove Albion",
+      "league": "İNP",
+      "at": "23.10.2026 22:51",
+      "count": 8
+    },
+    {
+      "home": "RC Lens",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "23.10.2026 22:50",
+      "count": 5
+    },
+    {
+      "home": "Valencia CF",
+      "away": "Villarreal CF",
+      "league": "İS1",
+      "at": "23.10.2026 22:49",
+      "count": 9
+    },
+    {
+      "home": "Racing Santander",
+      "away": "RCD Espanyol",
+      "league": "İS1",
+      "at": "23.10.2026 22:48",
+      "count": 6
+    },
+    {
+      "home": "Chelsea",
+      "away": "Tottenham Hotspur",
+      "league": "İNP",
+      "at": "23.10.2026 22:48",
+      "count": 4
     },
     {
       "home": "SSC Napoli",
       "away": "AS Roma",
       "league": "İTA",
-      "at": "23.10.2026 22:15",
-      "count": 7
+      "at": "23.10.2026 22:48",
+      "count": 5
     },
     {
-      "home": "Cagliari Calcio",
-      "away": "Bologna FC",
-      "league": "İTA",
-      "at": "23.10.2026 22:14",
-      "count": 10
-    },
-    {
-      "home": "Como 1907",
-      "away": "US Sassuolo",
-      "league": "İTA",
-      "at": "23.10.2026 22:14",
-      "count": 2
-    },
-    {
-      "home": "Genoa CFC",
-      "away": "Unione V.",
-      "league": "İTA",
-      "at": "23.10.2026 21:50",
-      "count": 4
-    },
-    {
-      "home": "Castellon",
-      "away": "Sporting Gijon",
-      "league": "İS2",
-      "at": "23.10.2026 21:50",
-      "count": 4
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "Deportivo La Coruna",
-      "league": "İS1",
-      "at": "23.10.2026 21:49",
-      "count": 8
+      "home": "Coventry City",
+      "away": "Fulham",
+      "league": "İNP",
+      "at": "23.10.2026 22:47",
+      "count": 5
     },
     {
       "home": "SC Paderborn",
       "away": "Hamburger SV",
       "league": "AL1",
-      "at": "23.10.2026 21:48",
-      "count": 5
+      "at": "23.10.2026 22:47",
+      "count": 3
     },
     {
       "home": "Arsenal",
       "away": "Everton",
       "league": "İNP",
-      "at": "23.10.2026 21:48",
-      "count": 14
+      "at": "23.10.2026 22:47",
+      "count": 6
     }
   ],
   "paywall": {
