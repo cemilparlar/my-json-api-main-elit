@@ -2,7 +2,7 @@
   "version": 1,
   "stats7": {
     "legacy": {
-      "won": 92,
+      "won": 94,
       "lost": 80
     },
     "safe": {
@@ -32,7 +32,7 @@
   },
   "stats30": {
     "legacy": {
-      "won": 92,
+      "won": 94,
       "lost": 80
     },
     "safe": {
@@ -60,91 +60,9 @@
       "lost": 0
     }
   },
-  "updatedAt": "23.10.2026 02:50",
-  "updatedAtUtc": "2026-10-23T02:50:00Z",
+  "updatedAt": "23.10.2026 03:05",
+  "updatedAtUtc": "2026-10-23T03:05:00Z",
   "upcoming": [
-    {
-      "id": "20261022-04-1",
-      "createdAt": "22.10.2026 01:10",
-      "createdAtUtc": "2026-10-22T01:10:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 1.37,
-      "winChance": 35.79,
-      "firstKickoff": "22.10.2026 12:00",
-      "lastKickoff": "23.10.2026 01:00",
-      "status": "live",
-      "completedAt": null,
-      "effectiveOdds": 1.37,
-      "legs": [
-        {
-          "matchCode": "4561267",
-          "nesine": null,
-          "date": "22.10.2026 12:00",
-          "kickoffUtc": "2026-10-22T12:00:00Z",
-          "league": "ÜRD1",
-          "home": "Sama Al Sarhan",
-          "away": "Amman",
-          "league_tr": "ÜRD1",
-          "home_tr": "Sama Al Sarhan",
-          "away_tr": "Amman",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.15,
-          "probability": 84.52,
-          "patternScore": 71.46,
-          "patternText": "205.717/287.872",
-          "mbs": 3,
-          "firstHalf": "1 - 1",
-          "finalScore": "1 - 2",
-          "status": "won"
-        },
-        {
-          "matchCode": "4550371",
-          "nesine": null,
-          "date": "22.10.2026 12:00",
-          "kickoffUtc": "2026-10-22T12:00:00Z",
-          "league": "ENDL1",
-          "home": "Madura United",
-          "away": "Persib Bandung",
-          "league_tr": "ENDL1",
-          "home_tr": "Madura United",
-          "away_tr": "Persib",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.09,
-          "probability": 70.59,
-          "patternScore": 71.01,
-          "patternText": "259.545/365.494",
-          "mbs": 3,
-          "firstHalf": "0 - 0",
-          "finalScore": "1 - 0",
-          "status": "won"
-        },
-        {
-          "matchCode": "4503505",
-          "nesine": null,
-          "date": "23.10.2026 01:00",
-          "kickoffUtc": "2026-10-23T01:00:00Z",
-          "league": "MEK2",
-          "home": "Alebrijes de Oaxaca",
-          "away": "Cruz Azul Hidal",
-          "league_tr": "MEK2",
-          "home_tr": "Alebrijes",
-          "away_tr": "Cruz Azul Hidal",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.09,
-          "probability": 70.45,
-          "patternScore": 70.54,
-          "patternText": "214.552/304.142",
-          "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261022-15-1",
       "createdAt": "22.10.2026 12:17",
@@ -1119,6 +1037,88 @@
   ],
   "completed": [
     {
+      "id": "20261022-04-1",
+      "createdAt": "22.10.2026 01:10",
+      "createdAtUtc": "2026-10-22T01:10:00Z",
+      "size": 3,
+      "mbs": 3,
+      "totalOdds": 1.37,
+      "winChance": 35.79,
+      "firstKickoff": "22.10.2026 12:00",
+      "lastKickoff": "23.10.2026 01:00",
+      "status": "won",
+      "completedAt": "23.10.2026 03:05",
+      "effectiveOdds": 1.37,
+      "legs": [
+        {
+          "matchCode": "4561267",
+          "nesine": null,
+          "date": "22.10.2026 12:00",
+          "kickoffUtc": "2026-10-22T12:00:00Z",
+          "league": "ÜRD1",
+          "home": "Sama Al Sarhan",
+          "away": "Amman",
+          "league_tr": "ÜRD1",
+          "home_tr": "Sama Al Sarhan",
+          "away_tr": "Amman",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.15,
+          "probability": 84.52,
+          "patternScore": 71.46,
+          "patternText": "205.717/287.872",
+          "mbs": 3,
+          "firstHalf": "1 - 1",
+          "finalScore": "1 - 2",
+          "status": "won"
+        },
+        {
+          "matchCode": "4550371",
+          "nesine": null,
+          "date": "22.10.2026 12:00",
+          "kickoffUtc": "2026-10-22T12:00:00Z",
+          "league": "ENDL1",
+          "home": "Madura United",
+          "away": "Persib Bandung",
+          "league_tr": "ENDL1",
+          "home_tr": "Madura United",
+          "away_tr": "Persib",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.09,
+          "probability": 70.59,
+          "patternScore": 71.01,
+          "patternText": "259.545/365.494",
+          "mbs": 3,
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 0",
+          "status": "won"
+        },
+        {
+          "matchCode": "4503505",
+          "nesine": null,
+          "date": "23.10.2026 01:00",
+          "kickoffUtc": "2026-10-23T01:00:00Z",
+          "league": "MEK2",
+          "home": "Alebrijes de Oaxaca",
+          "away": "Cruz Azul Hidal",
+          "league_tr": "MEK2",
+          "home_tr": "Alebrijes",
+          "away_tr": "Cruz Azul Hidal",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.09,
+          "probability": 70.45,
+          "patternScore": 70.54,
+          "patternText": "214.552/304.142",
+          "mbs": 3,
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 1",
+          "status": "won"
+        }
+      ]
+    },
+    {
       "id": "20261022-04-4",
       "createdAt": "22.10.2026 01:10",
       "createdAtUtc": "2026-10-22T01:10:00Z",
@@ -1374,9 +1374,9 @@
           "patternScore": 67.92,
           "patternText": "182.460/268.646",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 1",
+          "finalScore": "1 - 1",
+          "status": "lost"
         }
       ]
     },
@@ -2657,9 +2657,9 @@
           "patternScore": 66.21,
           "patternText": "174.996/264.314",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "won"
         }
       ]
     },

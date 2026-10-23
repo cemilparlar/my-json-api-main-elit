@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 02:50",
+  "updatedAt": "23.10.2026 03:05",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 239,
-      "lost": 156,
-      "total": 395,
+      "won": 242,
+      "lost": 158,
+      "total": 400,
       "rate": 60.5
     },
-    "totalAnalyses": 148125,
+    "totalAnalyses": 148131,
     "leagues": 537,
     "pro": {
-      "won": 174,
-      "lost": 86,
-      "total": 260,
+      "won": 176,
+      "lost": 87,
+      "total": 263,
       "rate": 66.9
     },
     "insights": {
-      "won": 312,
-      "lost": 159,
-      "total": 471,
+      "won": 315,
+      "lost": 161,
+      "total": 476,
       "rate": 66.2
     },
     "coupons": {
-      "won": 56,
+      "won": 57,
       "lost": 48,
-      "total": 104,
-      "rate": 53.8
+      "total": 105,
+      "rate": 54.3
     },
-    "analyses24h": 4192,
-    "analyses30d": 22514
+    "analyses24h": 4186,
+    "analyses30d": 22508
   },
   "recentWins": [
     {
@@ -119,6 +119,35 @@
   ],
   "recentCoupons": [
     {
+      "size": 3,
+      "totalOdds": 1.37,
+      "winChance": 35.79,
+      "completedAt": "23.10.2026 03:05",
+      "legs": [
+        {
+          "home": "Sama Al Sarhan",
+          "away": "Amman",
+          "prediction": "Double Chance 12",
+          "odds": 1.15,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "Madura United",
+          "away": "Persib Bandung",
+          "prediction": "Double Chance 12",
+          "odds": 1.09,
+          "finalScore": "1 - 0"
+        },
+        {
+          "home": "Alebrijes de Oaxaca",
+          "away": "Cruz Azul Hidal",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.09,
+          "finalScore": "2 - 1"
+        }
+      ]
+    },
+    {
       "size": 1,
       "totalOdds": 1.32,
       "winChance": 72.25,
@@ -166,28 +195,6 @@
           "away": "Al Khaleej",
           "prediction": "1st Half Over 0.5",
           "odds": 1.07,
-          "finalScore": null
-        }
-      ]
-    },
-    {
-      "size": 2,
-      "totalOdds": 2.23,
-      "winChance": 65.58,
-      "completedAt": "23.10.2026 02:02",
-      "legs": [
-        {
-          "home": "Union St.G",
-          "away": "Hapoel Beer She",
-          "prediction": "Over 2.5 Goals",
-          "odds": 1.33,
-          "finalScore": "4 - 0"
-        },
-        {
-          "home": "Al Ahli Jeddah",
-          "away": "Al Khaleej",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.68,
           "finalScore": null
         }
       ]
@@ -333,6 +340,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "SS Lazio",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "23.10.2026 02:53",
+      "count": 13
+    },
+    {
+      "home": "Deportivo Alaves",
+      "away": "Malaga CF",
+      "league": "İS1",
+      "at": "23.10.2026 02:52",
+      "count": 5
+    },
+    {
       "home": "Bolton Wanderers",
       "away": "Middlesbrough",
       "league": "İNCL",
@@ -375,13 +396,6 @@
       "count": 10
     },
     {
-      "home": "Deportivo Alaves",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "23.10.2026 02:13",
-      "count": 3
-    },
-    {
       "home": "Stade Brest",
       "away": "OGC Nice",
       "league": "FR1",
@@ -394,13 +408,6 @@
       "league": "İNP",
       "at": "23.10.2026 02:07",
       "count": 13
-    },
-    {
-      "home": "Racing Santander",
-      "away": "RCD Espanyol",
-      "league": "İS1",
-      "at": "23.10.2026 02:07",
-      "count": 3
     }
   ],
   "paywall": {
