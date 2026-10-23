@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 11:14",
+  "updatedAt": "23.10.2026 11:35",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 405,
       "rate": 60.2
     },
-    "totalAnalyses": 149077,
+    "totalAnalyses": 149129,
     "leagues": 538,
     "pro": {
       "won": 180,
@@ -47,8 +47,8 @@
       "total": 107,
       "rate": 53.3
     },
-    "analyses24h": 4354,
-    "analyses30d": 22661
+    "analyses24h": 4359,
+    "analyses30d": 22666
   },
   "recentWins": [
     {
@@ -288,7 +288,7 @@
     "league": "KAT",
     "date": "23.10.2026 14:30",
     "patternScore": 71.78,
-    "patternText": "194.875/271.490",
+    "patternText": "194.885/271.508",
     "picks": 4
   },
   "todayList": [
@@ -298,7 +298,7 @@
       "league": "KAT",
       "date": "23.10.2026 14:30",
       "patternScore": 71.78,
-      "patternText": "194.875/271.490",
+      "patternText": "194.885/271.508",
       "picks": 4
     },
     {
@@ -307,7 +307,7 @@
       "league": "İZKL1",
       "date": "23.10.2026 18:00",
       "patternScore": 71.7,
-      "patternText": "287.464/400.904",
+      "patternText": "287.474/400.926",
       "picks": 1
     },
     {
@@ -316,8 +316,17 @@
       "league": "POL1",
       "date": "23.10.2026 16:00",
       "patternScore": 71.68,
-      "patternText": "191.932/267.772",
+      "patternText": "191.942/267.790",
       "picks": 3
+    },
+    {
+      "home": "Al Ittihad Jeddah",
+      "away": "Diriyah CC",
+      "league": "SUUD",
+      "date": "23.10.2026 15:30",
+      "patternScore": 71.66,
+      "patternText": "187.636/261.829",
+      "picks": 2
     },
     {
       "home": "Acs Gloria Bis",
@@ -325,89 +334,80 @@
       "league": "ROM2",
       "date": "24.10.2026 08:00",
       "patternScore": 71.61,
-      "patternText": "218.776/305.496",
-      "picks": 2
-    },
-    {
-      "home": "Zawisza Bydgoszcz",
-      "away": "Swit Skolwin",
-      "league": "POL2",
-      "date": "23.10.2026 16:00",
-      "patternScore": 71.57,
-      "patternText": "186.466/260.548",
+      "patternText": "218.780/305.502",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Deportivo Alaves",
-      "away": "Malaga CF",
+      "home": "Sunderland",
+      "away": "Leeds United",
+      "league": "İNP",
+      "at": "23.10.2026 11:33",
+      "count": 4
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Levante UD",
       "league": "İS1",
-      "at": "23.10.2026 10:59",
+      "at": "23.10.2026 11:33",
+      "count": 7
+    },
+    {
+      "home": "Montpellier HSC",
+      "away": "Red Star FC",
+      "league": "FR2",
+      "at": "23.10.2026 11:33",
+      "count": 5
+    },
+    {
+      "home": "Manchester United",
+      "away": "AFC Bournemouth",
+      "league": "İNP",
+      "at": "23.10.2026 11:32",
       "count": 6
+    },
+    {
+      "home": "Gil Vicente FC",
+      "away": "FC Porto",
+      "league": "POR",
+      "at": "23.10.2026 11:30",
+      "count": 15
     },
     {
       "home": "Arsenal",
       "away": "Everton",
       "league": "İNP",
-      "at": "23.10.2026 10:56",
+      "at": "23.10.2026 11:27",
       "count": 3
     },
     {
-      "home": "Como 1907",
-      "away": "US Sassuolo",
-      "league": "İTA",
-      "at": "23.10.2026 10:55",
-      "count": 4
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "23.10.2026 11:26",
+      "count": 11
+    },
+    {
+      "home": "Deportivo Alaves",
+      "away": "Malaga CF",
+      "league": "İS1",
+      "at": "23.10.2026 11:24",
+      "count": 2
+    },
+    {
+      "home": "Ipswich Town",
+      "away": "Nottingham Forest",
+      "league": "İNP",
+      "at": "23.10.2026 11:24",
+      "count": 6
     },
     {
       "home": "Stade Brest",
       "away": "OGC Nice",
       "league": "FR1",
-      "at": "23.10.2026 10:52",
+      "at": "23.10.2026 11:23",
       "count": 7
-    },
-    {
-      "home": "Torino FC",
-      "away": "AC Monza",
-      "league": "İTA",
-      "at": "23.10.2026 10:52",
-      "count": 6
-    },
-    {
-      "home": "Go Ahead Eagles",
-      "away": "SC Telstar",
-      "league": "HOL",
-      "at": "23.10.2026 10:52",
-      "count": 13
-    },
-    {
-      "home": "Athletic Bilbao",
-      "away": "Getafe CF",
-      "league": "İS1",
-      "at": "23.10.2026 10:42",
-      "count": 6
-    },
-    {
-      "home": "Stade Rennais",
-      "away": "RC Strasbourg",
-      "league": "FR1",
-      "at": "23.10.2026 10:42",
-      "count": 8
-    },
-    {
-      "home": "Granada CF",
-      "away": "Real Valladolid",
-      "league": "İS2",
-      "at": "23.10.2026 10:39",
-      "count": 8
-    },
-    {
-      "home": "Inter",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "at": "23.10.2026 10:36",
-      "count": 6
     }
   ],
   "paywall": {
