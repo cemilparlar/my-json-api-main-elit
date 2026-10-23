@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 23:16",
+  "updatedAt": "23.10.2026 23:34",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 369,
-      "lost": 93,
-      "total": 462,
-      "rate": 79.9
+      "won": 370,
+      "lost": 94,
+      "total": 464,
+      "rate": 79.7
     },
-    "totalAnalyses": 150391,
+    "totalAnalyses": 150411,
     "leagues": 538,
     "pro": {
       "won": 378,
@@ -47,8 +47,8 @@
       "total": 128,
       "rate": 50.8
     },
-    "analyses24h": 4326,
-    "analyses30d": 22928
+    "analyses24h": 4345,
+    "analyses30d": 22941
   },
   "recentWins": [
     {
@@ -285,7 +285,7 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 22:45",
+      "at": "23.10.2026 23:18",
       "home": "Aston Villa",
       "away": "Manchester City"
     },
@@ -302,7 +302,7 @@
     "league": "NOR3",
     "date": "24.10.2026 12:00",
     "patternScore": 71.51,
-    "patternText": "258.408/361.347",
+    "patternText": "258.408/361.349",
     "picks": 2
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.51,
-      "patternText": "258.408/361.347",
+      "patternText": "258.408/361.349",
       "picks": 2
     },
     {
@@ -321,7 +321,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "249.502/349.476",
+      "patternText": "249.502/349.478",
       "picks": 1
     },
     {
@@ -330,7 +330,7 @@
       "league": "TAY",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "245.387/343.717",
+      "patternText": "245.387/343.719",
       "picks": 1
     },
     {
@@ -338,8 +338,8 @@
       "away": "Lietava Jonava",
       "league": "LIT1",
       "date": "24.10.2026 12:00",
-      "patternScore": 71.38,
-      "patternText": "248.940/348.776",
+      "patternScore": 71.37,
+      "patternText": "248.940/348.778",
       "picks": 2
     },
     {
@@ -348,11 +348,60 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.36,
-      "patternText": "127.652/178.881",
+      "patternText": "127.652/178.887",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sparta Rotterdam",
+      "away": "Ajax",
+      "league": "HOL",
+      "at": "23.10.2026 23:22",
+      "count": 14
+    },
+    {
+      "home": "Chelsea",
+      "away": "Tottenham Hotspur",
+      "league": "İNP",
+      "at": "23.10.2026 23:20",
+      "count": 7
+    },
+    {
+      "home": "SSC Napoli",
+      "away": "AS Roma",
+      "league": "İTA",
+      "at": "23.10.2026 23:20",
+      "count": 5
+    },
+    {
+      "home": "Cagliari Calcio",
+      "away": "Bologna FC",
+      "league": "İTA",
+      "at": "23.10.2026 23:19",
+      "count": 7
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "23.10.2026 23:18",
+      "count": 5
+    },
+    {
+      "home": "Muglaspor",
+      "away": "Istanbulspor",
+      "league": "T1L",
+      "at": "23.10.2026 23:18",
+      "count": 3
+    },
+    {
+      "home": "Como 1907",
+      "away": "US Sassuolo",
+      "league": "İTA",
+      "at": "23.10.2026 23:18",
+      "count": 6
+    },
     {
       "home": "FC Augsburg",
       "away": "Union Berlin",
@@ -373,55 +422,6 @@
       "league": "İNP",
       "at": "23.10.2026 22:51",
       "count": 8
-    },
-    {
-      "home": "RC Lens",
-      "away": "Paris FC",
-      "league": "FR1",
-      "at": "23.10.2026 22:50",
-      "count": 5
-    },
-    {
-      "home": "Valencia CF",
-      "away": "Villarreal CF",
-      "league": "İS1",
-      "at": "23.10.2026 22:49",
-      "count": 9
-    },
-    {
-      "home": "Racing Santander",
-      "away": "RCD Espanyol",
-      "league": "İS1",
-      "at": "23.10.2026 22:48",
-      "count": 6
-    },
-    {
-      "home": "Chelsea",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "23.10.2026 22:48",
-      "count": 4
-    },
-    {
-      "home": "SSC Napoli",
-      "away": "AS Roma",
-      "league": "İTA",
-      "at": "23.10.2026 22:48",
-      "count": 5
-    },
-    {
-      "home": "Coventry City",
-      "away": "Fulham",
-      "league": "İNP",
-      "at": "23.10.2026 22:47",
-      "count": 5
-    },
-    {
-      "home": "SC Paderborn",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "23.10.2026 22:47",
-      "count": 3
     }
   ],
   "paywall": {
