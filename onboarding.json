@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 06:38",
+  "updatedAt": "23.10.2026 06:54",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 234,
+      "won": 237,
       "lost": 158,
-      "total": 392,
-      "rate": 59.7
+      "total": 395,
+      "rate": 60.0
     },
-    "totalAnalyses": 148495,
+    "totalAnalyses": 148563,
     "leagues": 537,
     "pro": {
       "won": 176,
@@ -36,19 +36,19 @@
       "rate": 66.9
     },
     "insights": {
-      "won": 315,
+      "won": 318,
       "lost": 161,
-      "total": 476,
-      "rate": 66.2
+      "total": 479,
+      "rate": 66.4
     },
     "coupons": {
       "won": 57,
-      "lost": 48,
-      "total": 105,
-      "rate": 54.3
+      "lost": 49,
+      "total": 106,
+      "rate": 53.8
     },
-    "analyses24h": 4244,
-    "analyses30d": 22568
+    "analyses24h": 4276,
+    "analyses30d": 22600
   },
   "recentWins": [
     {
@@ -277,9 +277,9 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 04:28",
-      "home": "Europa",
-      "away": "Real Zaragoza"
+      "at": "23.10.2026 06:46",
+      "home": "Ipswich Town",
+      "away": "Nottingham Forest"
     }
   ],
   "today": {
@@ -340,6 +340,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Ipswich Town",
+      "away": "Nottingham Forest",
+      "league": "İNP",
+      "at": "23.10.2026 06:46",
+      "count": 7
+    },
+    {
+      "home": "Pau FC",
+      "away": "Grenoble Foot",
+      "league": "FR2",
+      "at": "23.10.2026 06:45",
+      "count": 7
+    },
+    {
+      "home": "Stade Brest",
+      "away": "OGC Nice",
+      "league": "FR1",
+      "at": "23.10.2026 06:45",
+      "count": 7
+    },
+    {
       "home": "AJ Auxerre",
       "away": "Le Mans FC",
       "league": "FR1",
@@ -387,27 +408,6 @@
       "league": "AL1",
       "at": "23.10.2026 06:36",
       "count": 18
-    },
-    {
-      "home": "Valencia CF",
-      "away": "Villarreal CF",
-      "league": "İS1",
-      "at": "23.10.2026 06:35",
-      "count": 7
-    },
-    {
-      "home": "Chelsea",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "23.10.2026 06:35",
-      "count": 5
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "Deportivo La Coruna",
-      "league": "İS1",
-      "at": "23.10.2026 06:35",
-      "count": 6
     }
   ],
   "paywall": {
