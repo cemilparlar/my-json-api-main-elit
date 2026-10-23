@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 09:06",
+  "updatedAt": "23.10.2026 09:27",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 394,
       "rate": 60.2
     },
-    "totalAnalyses": 148872,
-    "leagues": 537,
+    "totalAnalyses": 148892,
+    "leagues": 538,
     "pro": {
       "won": 177,
       "lost": 87,
@@ -47,8 +47,8 @@
       "total": 106,
       "rate": 53.8
     },
-    "analyses24h": 4275,
-    "analyses30d": 22584
+    "analyses24h": 4297,
+    "analyses30d": 22606
   },
   "recentWins": [
     {
@@ -340,6 +340,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Salt Lake",
+      "away": "St. Louis City SC",
+      "league": "ABD",
+      "at": "23.10.2026 09:16",
+      "count": 8
+    },
+    {
+      "home": "Ipswich Town",
+      "away": "Nottingham Forest",
+      "league": "İNP",
+      "at": "23.10.2026 09:14",
+      "count": 7
+    },
+    {
+      "home": "Vitoria Guimaraes",
+      "away": "CS Maritimo",
+      "league": "POR",
+      "at": "23.10.2026 09:14",
+      "count": 2
+    },
+    {
       "home": "Inter",
       "away": "ACF Fiorentina",
       "league": "İTA",
@@ -387,27 +408,6 @@
       "league": "İS2",
       "at": "23.10.2026 08:25",
       "count": 5
-    },
-    {
-      "home": "Stade Brest",
-      "away": "OGC Nice",
-      "league": "FR1",
-      "at": "23.10.2026 08:19",
-      "count": 10
-    },
-    {
-      "home": "Torino FC",
-      "away": "AC Monza",
-      "league": "İTA",
-      "at": "23.10.2026 08:19",
-      "count": 6
-    },
-    {
-      "home": "Granada CF",
-      "away": "Real Valladolid",
-      "league": "İS2",
-      "at": "23.10.2026 08:18",
-      "count": 6
     }
   ],
   "paywall": {
