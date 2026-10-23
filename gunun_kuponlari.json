@@ -60,8 +60,8 @@
       "lost": 0
     }
   },
-  "updatedAt": "23.10.2026 00:56",
-  "updatedAtUtc": "2026-10-23T00:56:00Z",
+  "updatedAt": "23.10.2026 01:13",
+  "updatedAtUtc": "2026-10-23T01:13:00Z",
   "upcoming": [
     {
       "id": "20261021-21-1",
@@ -201,7 +201,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -406,7 +406,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4560763",
@@ -428,7 +428,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -644,7 +644,7 @@
       "winChance": 43.61,
       "firstKickoff": "23.10.2026 01:00",
       "lastKickoff": "23.10.2026 17:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "surprise_3",
       "group": "surprise",
@@ -671,7 +671,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4517692",
@@ -2618,7 +2618,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -5060,88 +5060,6 @@
           "firstHalf": "1 - 1",
           "finalScore": "3 - 3",
           "status": "lost"
-        }
-      ]
-    },
-    {
-      "id": "20261021-11-5",
-      "createdAt": "21.10.2026 08:15",
-      "createdAtUtc": "2026-10-21T08:15:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 1.62,
-      "winChance": 29.66,
-      "firstKickoff": "21.10.2026 14:45",
-      "lastKickoff": "21.10.2026 18:30",
-      "status": "won",
-      "completedAt": "22.10.2026 01:10",
-      "effectiveOdds": 1.11,
-      "legs": [
-        {
-          "matchCode": "4538703",
-          "nesine": null,
-          "date": "21.10.2026 14:45",
-          "kickoffUtc": "2026-10-21T14:45:00Z",
-          "league": "SUUD1",
-          "home": "Al Jeel",
-          "away": "Al Jandal",
-          "league_tr": "SUUD1",
-          "home_tr": "Al Jeel",
-          "away_tr": "Al-Jandal",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.15,
-          "probability": 71.84,
-          "patternScore": 66.41,
-          "patternText": "261.990/394.477",
-          "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void"
-        },
-        {
-          "matchCode": "4428711",
-          "nesine": null,
-          "date": "21.10.2026 17:00",
-          "kickoffUtc": "2026-10-21T17:00:00Z",
-          "league": "NOR1",
-          "home": "Sogndal",
-          "away": "Raufoss",
-          "league_tr": "NOR1",
-          "home_tr": "Sogndal",
-          "away_tr": "Raufoss",
-          "prediction": "Match Result 1",
-          "prediction_tr": "Maç Sonucu 1",
-          "odds": 1.27,
-          "probability": 77.78,
-          "patternScore": 66.97,
-          "patternText": "204.334/305.100",
-          "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void"
-        },
-        {
-          "matchCode": "4552960",
-          "nesine": null,
-          "date": "21.10.2026 18:30",
-          "kickoffUtc": "2026-10-21T18:30:00Z",
-          "league": "İKPL1",
-          "home": "Celtic Women",
-          "away": "Hearts Women",
-          "league_tr": "İKPL1",
-          "home_tr": "Celtic (K)",
-          "away_tr": "Hearts (K)",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.11,
-          "probability": 82.0,
-          "patternScore": 66.69,
-          "patternText": "218.878/328.198",
-          "mbs": 3,
-          "firstHalf": "2 - 2",
-          "finalScore": "2 - 4",
-          "status": "won"
         }
       ]
     }

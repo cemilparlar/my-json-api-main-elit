@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 00:56",
+  "updatedAt": "23.10.2026 01:13",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 242,
-      "lost": 149,
-      "total": 391,
-      "rate": 61.9
+      "won": 234,
+      "lost": 146,
+      "total": 380,
+      "rate": 61.6
     },
-    "totalAnalyses": 148041,
+    "totalAnalyses": 148049,
     "leagues": 537,
     "pro": {
       "won": 172,
@@ -47,8 +47,8 @@
       "total": 98,
       "rate": 53.1
     },
-    "analyses24h": 4219,
-    "analyses30d": 22528
+    "analyses24h": 4202,
+    "analyses30d": 22522
   },
   "recentWins": [
     {
@@ -319,6 +319,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "CR Flamengo",
+      "away": "Atletico Mineiro",
+      "league": "BR1",
+      "at": "23.10.2026 01:05",
+      "count": 5
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "23.10.2026 01:04",
+      "count": 8
+    },
+    {
+      "home": "Sport Club Internacional",
+      "away": "Botafogo de Futebol e Regatas",
+      "league": "BR1",
+      "at": "23.10.2026 01:04",
+      "count": 8
+    },
+    {
       "home": "Deportivo Alaves",
       "away": "Malaga CF",
       "league": "İS1",
@@ -366,27 +387,6 @@
       "league": "LKU",
       "at": "22.10.2026 23:53",
       "count": 11
-    },
-    {
-      "home": "Antalyaspor",
-      "away": "Bodrum FK",
-      "league": "T1L",
-      "at": "22.10.2026 23:40",
-      "count": 2
-    },
-    {
-      "home": "A. Keciorengucu",
-      "away": "Bursaspor",
-      "league": "T1L",
-      "at": "22.10.2026 23:40",
-      "count": 3
-    },
-    {
-      "home": "Mirassol FC",
-      "away": "Sao Paulo FC",
-      "league": "BR1",
-      "at": "22.10.2026 23:40",
-      "count": 3
     }
   ],
   "paywall": {
