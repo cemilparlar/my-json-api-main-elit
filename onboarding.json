@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 06:21",
+  "updatedAt": "23.10.2026 06:38",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 392,
       "rate": 59.7
     },
-    "totalAnalyses": 148465,
+    "totalAnalyses": 148495,
     "leagues": 537,
     "pro": {
       "won": 176,
@@ -47,8 +47,8 @@
       "total": 105,
       "rate": 54.3
     },
-    "analyses24h": 4223,
-    "analyses30d": 22547
+    "analyses24h": 4244,
+    "analyses30d": 22568
   },
   "recentWins": [
     {
@@ -277,30 +277,21 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 06:19",
-      "home": "Ipswich Town",
-      "away": "Nottingham Forest"
+      "at": "23.10.2026 04:28",
+      "home": "Europa",
+      "away": "Real Zaragoza"
     }
   ],
   "today": {
-    "home": "Ethad Ar",
-    "away": "Al Hashemeya",
-    "league": "ÜRD1",
-    "date": "23.10.2026 15:00",
-    "patternScore": 72.03,
-    "patternText": "206.848/287.164",
-    "picks": 1
+    "home": "Al Shamal",
+    "away": "Qatar SC",
+    "league": "KAT",
+    "date": "23.10.2026 14:30",
+    "patternScore": 71.78,
+    "patternText": "194.843/271.442",
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Ethad Ar",
-      "away": "Al Hashemeya",
-      "league": "ÜRD1",
-      "date": "23.10.2026 15:00",
-      "patternScore": 72.03,
-      "patternText": "206.848/287.164",
-      "picks": 1
-    },
     {
       "home": "Al Shamal",
       "away": "Qatar SC",
@@ -336,77 +327,86 @@
       "patternScore": 71.57,
       "patternText": "186.434/260.500",
       "picks": 2
+    },
+    {
+      "home": "FK Dukla Prague",
+      "away": "Kladno",
+      "league": "ÇEK2",
+      "date": "23.10.2026 16:00",
+      "patternScore": 71.47,
+      "patternText": "189.546/265.224",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Aston Villa",
-      "away": "Manchester City",
-      "league": "İNP",
-      "at": "23.10.2026 06:20",
-      "count": 14
-    },
-    {
-      "home": "Ipswich Town",
-      "away": "Nottingham Forest",
-      "league": "İNP",
-      "at": "23.10.2026 06:19",
-      "count": 3
-    },
-    {
-      "home": "SV Darmstadt 98",
-      "away": "St Pauli",
-      "league": "AL2",
-      "at": "23.10.2026 06:18",
-      "count": 7
-    },
-    {
-      "home": "Stade Brest",
-      "away": "OGC Nice",
+      "home": "AJ Auxerre",
+      "away": "Le Mans FC",
       "league": "FR1",
-      "at": "23.10.2026 06:18",
-      "count": 8
-    },
-    {
-      "home": "Torino FC",
-      "away": "AC Monza",
-      "league": "İTA",
-      "at": "23.10.2026 06:18",
-      "count": 6
-    },
-    {
-      "home": "Castellon",
-      "away": "Sporting Gijon",
-      "league": "İS2",
-      "at": "23.10.2026 06:04",
-      "count": 6
-    },
-    {
-      "home": "Virtus Entella",
-      "away": "Mantova 1911",
-      "league": "İTB",
-      "at": "23.10.2026 06:03",
-      "count": 7
-    },
-    {
-      "home": "SS Lazio",
-      "away": "Parma Calcio",
-      "league": "İTA",
-      "at": "23.10.2026 05:53",
-      "count": 8
-    },
-    {
-      "home": "Sevilla FC",
-      "away": "CA Osasuna",
-      "league": "İS1",
-      "at": "23.10.2026 05:53",
+      "at": "23.10.2026 06:37",
       "count": 5
+    },
+    {
+      "home": "Estoril Praia",
+      "away": "Moreirense FC",
+      "league": "POR",
+      "at": "23.10.2026 06:37",
+      "count": 9
+    },
+    {
+      "home": "Udinese",
+      "away": "AC Milan",
+      "league": "İTA",
+      "at": "23.10.2026 06:37",
+      "count": 2
+    },
+    {
+      "home": "Athletic Bilbao",
+      "away": "Getafe CF",
+      "league": "İS1",
+      "at": "23.10.2026 06:36",
+      "count": 9
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Newcastle United",
+      "league": "İNP",
+      "at": "23.10.2026 06:36",
+      "count": 6
+    },
+    {
+      "home": "Hull City",
+      "away": "Brentford",
+      "league": "İNP",
+      "at": "23.10.2026 06:36",
+      "count": 6
+    },
+    {
+      "home": "TSG Hoffenheim",
+      "away": "Bayer Leverkusen",
+      "league": "AL1",
+      "at": "23.10.2026 06:36",
+      "count": 18
+    },
+    {
+      "home": "Valencia CF",
+      "away": "Villarreal CF",
+      "league": "İS1",
+      "at": "23.10.2026 06:35",
+      "count": 7
     },
     {
       "home": "Chelsea",
       "away": "Tottenham Hotspur",
       "league": "İNP",
-      "at": "23.10.2026 05:52",
+      "at": "23.10.2026 06:35",
+      "count": 5
+    },
+    {
+      "home": "Atletico Madrid",
+      "away": "Deportivo La Coruna",
+      "league": "İS1",
+      "at": "23.10.2026 06:35",
       "count": 6
     }
   ],
