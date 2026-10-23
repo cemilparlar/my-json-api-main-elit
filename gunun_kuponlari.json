@@ -68,8 +68,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "23.10.2026 21:48",
-  "updatedAtUtc": "2026-10-23T21:48:00Z",
+  "updatedAt": "23.10.2026 22:05",
+  "updatedAtUtc": "2026-10-23T22:05:00Z",
   "upcoming": [
     {
       "id": "20261023-15-3",
@@ -1328,6 +1328,47 @@
           "probability": 100.0,
           "patternScore": 49.95,
           "patternText": "264.055/459.368",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261024-01-1",
+      "createdAt": "23.10.2026 22:05",
+      "createdAtUtc": "2026-10-23T22:05:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.74,
+      "winChance": 67.66,
+      "firstKickoff": "24.10.2026 21:30",
+      "lastKickoff": "24.10.2026 21:30",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.74,
+      "legs": [
+        {
+          "matchCode": "4423340",
+          "nesine": null,
+          "date": "24.10.2026 21:30",
+          "kickoffUtc": "2026-10-24T21:30:00Z",
+          "league": "BR1",
+          "home": "Club de Regatas Vasco da Gama",
+          "away": "SC Corinthians",
+          "league_tr": "BR1",
+          "home_tr": "Vasco Da Gama",
+          "away_tr": "Corinthians",
+          "prediction": "Both Teams to Score - Yes",
+          "prediction_tr": "Karşılıklı Gol Var",
+          "odds": 1.74,
+          "probability": 84.62,
+          "patternScore": 67.66,
+          "patternText": "136.322/201.468",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
