@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 08:00",
+  "updatedAt": "23.10.2026 08:24",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 237,
+      "won": 240,
       "lost": 158,
-      "total": 395,
-      "rate": 60.0
+      "total": 398,
+      "rate": 60.3
     },
-    "totalAnalyses": 148741,
+    "totalAnalyses": 148803,
     "leagues": 537,
     "pro": {
-      "won": 176,
+      "won": 177,
       "lost": 87,
-      "total": 263,
-      "rate": 66.9
+      "total": 264,
+      "rate": 67.0
     },
     "insights": {
-      "won": 318,
+      "won": 319,
       "lost": 161,
-      "total": 479,
-      "rate": 66.4
+      "total": 480,
+      "rate": 66.5
     },
     "coupons": {
       "won": 57,
@@ -47,8 +47,8 @@
       "total": 106,
       "rate": 53.8
     },
-    "analyses24h": 4253,
-    "analyses30d": 22560
+    "analyses24h": 4273,
+    "analyses30d": 22580
   },
   "recentWins": [
     {
@@ -265,6 +265,12 @@
     },
     {
       "type": "updated",
+      "at": "23.10.2026 08:18",
+      "home": "Granada CF",
+      "away": "Real Valladolid"
+    },
+    {
+      "type": "updated",
       "at": "23.10.2026 04:21",
       "home": "Gateshead",
       "away": "Tamworth"
@@ -274,12 +280,6 @@
       "at": "23.10.2026 07:47",
       "home": "Bolton Wanderers",
       "away": "Middlesbrough"
-    },
-    {
-      "type": "updated",
-      "at": "23.10.2026 03:45",
-      "home": "Harrogate Town",
-      "away": "Sutton United"
     }
   ],
   "today": {
@@ -340,6 +340,62 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Girona FC",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "at": "23.10.2026 08:25",
+      "count": 5
+    },
+    {
+      "home": "Stade Brest",
+      "away": "OGC Nice",
+      "league": "FR1",
+      "at": "23.10.2026 08:19",
+      "count": 10
+    },
+    {
+      "home": "Torino FC",
+      "away": "AC Monza",
+      "league": "İTA",
+      "at": "23.10.2026 08:19",
+      "count": 6
+    },
+    {
+      "home": "Granada CF",
+      "away": "Real Valladolid",
+      "league": "İS2",
+      "at": "23.10.2026 08:18",
+      "count": 6
+    },
+    {
+      "home": "Go Ahead Eagles",
+      "away": "SC Telstar",
+      "league": "HOL",
+      "at": "23.10.2026 08:17",
+      "count": 7
+    },
+    {
+      "home": "Paris Saint-Germain",
+      "away": "Olympique Lyonnais",
+      "league": "FR1",
+      "at": "23.10.2026 08:15",
+      "count": 16
+    },
+    {
+      "home": "Batman Petrolspor",
+      "away": "Esenler Erokspor",
+      "league": "T1L",
+      "at": "23.10.2026 08:09",
+      "count": 5
+    },
+    {
+      "home": "Bochum",
+      "away": "VfL Wolfsburg",
+      "league": "AL2",
+      "at": "23.10.2026 08:01",
+      "count": 13
+    },
+    {
       "home": "Real Sociedad",
       "away": "Levante UD",
       "league": "İS1",
@@ -352,62 +408,6 @@
       "league": "İTA",
       "at": "23.10.2026 07:58",
       "count": 4
-    },
-    {
-      "home": "Paris Saint-Germain",
-      "away": "Olympique Lyonnais",
-      "league": "FR1",
-      "at": "23.10.2026 07:58",
-      "count": 6
-    },
-    {
-      "home": "Sunderland",
-      "away": "Leeds United",
-      "league": "İNP",
-      "at": "23.10.2026 07:57",
-      "count": 4
-    },
-    {
-      "home": "TSG Hoffenheim",
-      "away": "Bayer Leverkusen",
-      "league": "AL1",
-      "at": "23.10.2026 07:57",
-      "count": 18
-    },
-    {
-      "home": "Celta de Vigo",
-      "away": "Real Betis",
-      "league": "İS1",
-      "at": "23.10.2026 07:57",
-      "count": 4
-    },
-    {
-      "home": "US Lecce",
-      "away": "Juventus",
-      "league": "İTA",
-      "at": "23.10.2026 07:57",
-      "count": 14
-    },
-    {
-      "home": "Athletic Bilbao",
-      "away": "Getafe CF",
-      "league": "İS1",
-      "at": "23.10.2026 07:56",
-      "count": 2
-    },
-    {
-      "home": "Hull City",
-      "away": "Brentford",
-      "league": "İNP",
-      "at": "23.10.2026 07:56",
-      "count": 6
-    },
-    {
-      "home": "Manchester United",
-      "away": "AFC Bournemouth",
-      "league": "İNP",
-      "at": "23.10.2026 07:50",
-      "count": 6
     }
   ],
   "paywall": {

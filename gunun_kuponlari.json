@@ -60,8 +60,8 @@
       "lost": 0
     }
   },
-  "updatedAt": "23.10.2026 08:00",
-  "updatedAtUtc": "2026-10-23T08:00:00Z",
+  "updatedAt": "23.10.2026 08:24",
+  "updatedAtUtc": "2026-10-23T08:24:00Z",
   "upcoming": [
     {
       "id": "20261022-15-1",
@@ -4845,44 +4845,6 @@
           "firstHalf": "0 - 0",
           "finalScore": "2 - 1",
           "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261021-12-3",
-      "createdAt": "21.10.2026 09:00",
-      "createdAtUtc": "2026-10-21T09:00:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.15,
-      "winChance": 69.86,
-      "firstKickoff": "22.10.2026 00:00",
-      "lastKickoff": "22.10.2026 00:00",
-      "status": "void",
-      "completedAt": "22.10.2026 08:03",
-      "effectiveOdds": 1.0,
-      "legs": [
-        {
-          "matchCode": "4575341",
-          "nesine": null,
-          "date": "22.10.2026 00:00",
-          "kickoffUtc": "2026-10-22T00:00:00Z",
-          "league": "ABDK",
-          "home": "Columbus Crew",
-          "away": "St. Louis City SC",
-          "league_tr": "ABDK",
-          "home_tr": "Columbus",
-          "away_tr": "St. Louis City",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.15,
-          "probability": 83.33,
-          "patternScore": 69.86,
-          "patternText": "161.753/231.543",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void"
         }
       ]
     }
