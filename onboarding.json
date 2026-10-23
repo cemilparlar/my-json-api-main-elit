@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 13:57",
+  "updatedAt": "23.10.2026 14:13",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 94,
+      "won": 90,
       "lost": 20,
-      "total": 114,
-      "rate": 82.5
+      "total": 110,
+      "rate": 81.8
     },
-    "totalAnalyses": 149610,
+    "totalAnalyses": 149680,
     "leagues": 538,
     "pro": {
-      "won": 183,
+      "won": 184,
       "lost": 91,
-      "total": 274,
-      "rate": 66.8
+      "total": 275,
+      "rate": 66.9
     },
     "insights": {
-      "won": 335,
+      "won": 336,
       "lost": 174,
-      "total": 509,
-      "rate": 65.8
+      "total": 510,
+      "rate": 65.9
     },
     "coupons": {
       "won": 57,
@@ -47,8 +47,8 @@
       "total": 109,
       "rate": 52.3
     },
-    "analyses24h": 4533,
-    "analyses30d": 22892
+    "analyses24h": 4559,
+    "analyses30d": 22918
   },
   "recentWins": [
     {
@@ -236,20 +236,20 @@
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.71,
-      "at": "23.10.2026 13:01"
+      "odds": 1.32,
+      "at": "23.10.2026 14:13"
     },
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.31,
-      "at": "23.10.2026 12:14"
+      "odds": 1.37,
+      "at": "23.10.2026 14:13"
     },
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.41,
-      "at": "23.10.2026 12:14"
+      "odds": 1.34,
+      "at": "23.10.2026 14:13"
     },
     {
       "type": "updated",
@@ -283,40 +283,22 @@
     }
   ],
   "today": {
-    "home": "Al Shamal",
-    "away": "Qatar SC",
-    "league": "KAT",
-    "date": "23.10.2026 14:30",
-    "patternScore": 71.78,
-    "patternText": "194.923/271.572",
-    "picks": 4
+    "home": "Ibv Women",
+    "away": "Stjarnan Women",
+    "league": "İZKL1",
+    "date": "23.10.2026 18:00",
+    "patternScore": 71.7,
+    "patternText": "287.524/401.006",
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Al Shamal",
-      "away": "Qatar SC",
-      "league": "KAT",
-      "date": "23.10.2026 14:30",
-      "patternScore": 71.78,
-      "patternText": "194.923/271.572",
-      "picks": 4
-    },
-    {
-      "home": "Ethad Ar",
-      "away": "Al Hashemeya",
-      "league": "ÜRD1",
-      "date": "23.10.2026 15:00",
-      "patternScore": 71.7,
-      "patternText": "203.760/284.192",
-      "picks": 1
-    },
     {
       "home": "Ibv Women",
       "away": "Stjarnan Women",
       "league": "İZKL1",
       "date": "23.10.2026 18:00",
       "patternScore": 71.7,
-      "patternText": "287.524/401.002",
+      "patternText": "287.524/401.006",
       "picks": 1
     },
     {
@@ -325,7 +307,7 @@
       "league": "POL1",
       "date": "23.10.2026 16:00",
       "patternScore": 71.67,
-      "patternText": "191.984/267.858",
+      "patternText": "191.984/267.862",
       "picks": 3
     },
     {
@@ -334,11 +316,57 @@
       "league": "POL2",
       "date": "23.10.2026 16:00",
       "patternScore": 71.56,
-      "patternText": "186.514/260.630",
+      "patternText": "186.514/260.634",
+      "picks": 2
+    },
+    {
+      "home": "Follo",
+      "away": "Skeid",
+      "league": "NOR3",
+      "date": "24.10.2026 12:00",
+      "patternScore": 71.53,
+      "patternText": "257.894/360.551",
+      "picks": 2
+    },
+    {
+      "home": "Holstebro",
+      "away": "Horsholm-Ussero",
+      "league": "DAN3",
+      "date": "24.10.2026 12:30",
+      "patternScore": 71.52,
+      "patternText": "259.883/363.352",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Paris Saint-Germain",
+      "away": "Olympique Lyonnais",
+      "league": "FR1",
+      "at": "23.10.2026 14:07",
+      "count": 14
+    },
+    {
+      "home": "Lincoln City",
+      "away": "Burnley",
+      "league": "İNCL",
+      "at": "23.10.2026 14:04",
+      "count": 8
+    },
+    {
+      "home": "FK Fakel Voronezh",
+      "away": "Fk Rodina Moskv",
+      "league": "RUS",
+      "at": "23.10.2026 13:59",
+      "count": 6
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "23.10.2026 13:58",
+      "count": 5
+    },
     {
       "home": "Ipswich Town",
       "away": "Nottingham Forest",
@@ -380,34 +408,6 @@
       "league": "İNP",
       "at": "23.10.2026 13:45",
       "count": 5
-    },
-    {
-      "home": "Stade Rennais",
-      "away": "RC Strasbourg",
-      "league": "FR1",
-      "at": "23.10.2026 13:45",
-      "count": 8
-    },
-    {
-      "home": "Real Sociedad",
-      "away": "Levante UD",
-      "league": "İS1",
-      "at": "23.10.2026 13:45",
-      "count": 4
-    },
-    {
-      "home": "Paris Saint-Germain",
-      "away": "Olympique Lyonnais",
-      "league": "FR1",
-      "at": "23.10.2026 13:45",
-      "count": 2
-    },
-    {
-      "home": "Genoa CFC",
-      "away": "Unione V.",
-      "league": "İTA",
-      "at": "23.10.2026 13:44",
-      "count": 7
     }
   ],
   "paywall": {
