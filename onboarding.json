@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 01:13",
+  "updatedAt": "23.10.2026 01:30",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 234,
+      "won": 235,
       "lost": 146,
-      "total": 380,
-      "rate": 61.6
+      "total": 381,
+      "rate": 61.7
     },
-    "totalAnalyses": 148049,
+    "totalAnalyses": 148062,
     "leagues": 537,
     "pro": {
       "won": 172,
@@ -256,7 +256,7 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 00:48",
+      "at": "23.10.2026 01:18",
       "home": "Deportivo Alaves",
       "away": "Malaga CF"
     }
@@ -319,6 +319,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Deportivo Alaves",
+      "away": "Malaga CF",
+      "league": "İS1",
+      "at": "23.10.2026 01:18",
+      "count": 6
+    },
+    {
+      "home": "Cruzeiro EC",
+      "away": "Remo",
+      "league": "BR1",
+      "at": "23.10.2026 01:18",
+      "count": 6
+    },
+    {
       "home": "CR Flamengo",
       "away": "Atletico Mineiro",
       "league": "BR1",
@@ -338,13 +352,6 @@
       "league": "BR1",
       "at": "23.10.2026 01:04",
       "count": 8
-    },
-    {
-      "home": "Deportivo Alaves",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "23.10.2026 00:48",
-      "count": 7
     },
     {
       "home": "Samsunspor",
@@ -380,13 +387,6 @@
       "league": "İNP",
       "at": "23.10.2026 00:23",
       "count": 10
-    },
-    {
-      "home": "CR Flamengo",
-      "away": "Estudiantes de La Plata",
-      "league": "LKU",
-      "at": "22.10.2026 23:53",
-      "count": 11
     }
   ],
   "paywall": {
