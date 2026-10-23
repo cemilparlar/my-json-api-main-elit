@@ -6,15 +6,15 @@
       "lost": 88
     },
     "safe": {
-      "won": 7,
+      "won": 8,
       "lost": 5
     },
     "safe_b": {
-      "won": 6,
+      "won": 7,
       "lost": 5
     },
     "surprise": {
-      "won": 3,
+      "won": 4,
       "lost": 5
     },
     "surprise_1": {
@@ -22,7 +22,7 @@
       "lost": 1
     },
     "surprise_3": {
-      "won": 0,
+      "won": 1,
       "lost": 4
     },
     "safe_a": {
@@ -36,15 +36,15 @@
       "lost": 88
     },
     "safe": {
-      "won": 7,
+      "won": 8,
       "lost": 5
     },
     "safe_b": {
-      "won": 6,
+      "won": 7,
       "lost": 5
     },
     "surprise": {
-      "won": 3,
+      "won": 4,
       "lost": 5
     },
     "surprise_1": {
@@ -52,7 +52,7 @@
       "lost": 1
     },
     "surprise_3": {
-      "won": 0,
+      "won": 1,
       "lost": 4
     },
     "safe_a": {
@@ -60,94 +60,9 @@
       "lost": 0
     }
   },
-  "updatedAt": "23.10.2026 18:21",
-  "updatedAtUtc": "2026-10-23T18:21:00Z",
+  "updatedAt": "23.10.2026 18:37",
+  "updatedAtUtc": "2026-10-23T18:37:00Z",
   "upcoming": [
-    {
-      "id": "20261022-23-3",
-      "createdAt": "22.10.2026 20:11",
-      "createdAtUtc": "2026-10-22T20:11:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 4.9,
-      "winChance": 43.11,
-      "firstKickoff": "23.10.2026 12:55",
-      "lastKickoff": "23.10.2026 16:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_3",
-      "group": "surprise",
-      "formula": "3",
-      "effectiveOdds": 4.9,
-      "legs": [
-        {
-          "matchCode": "4576113",
-          "nesine": null,
-          "date": "23.10.2026 12:55",
-          "kickoffUtc": "2026-10-23T12:55:00Z",
-          "league": "BAECK",
-          "home": "Fujairah FC",
-          "away": "Al Wahda",
-          "league_tr": "BAECK",
-          "home_tr": "Fujairah",
-          "away_tr": "Al Wahda",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.66,
-          "probability": 100.0,
-          "patternScore": 74.12,
-          "patternText": "211.907/364.106",
-          "mbs": 3,
-          "firstHalf": "0 - 0",
-          "finalScore": "0 - 1",
-          "status": "won"
-        },
-        {
-          "matchCode": "4428504",
-          "nesine": null,
-          "date": "23.10.2026 16:00",
-          "kickoffUtc": "2026-10-23T16:00:00Z",
-          "league": "NORKT",
-          "home": "Bodo / Glimt (",
-          "away": "Haugesund Women",
-          "league_tr": "NORKT",
-          "home_tr": "Bodo / Glimt (",
-          "away_tr": "Haugesund (K)",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.79,
-          "probability": 100.0,
-          "patternScore": 74.12,
-          "patternText": "220.862/378.544",
-          "mbs": 3,
-          "firstHalf": "0 - 0",
-          "finalScore": "1 - 2",
-          "status": "won"
-        },
-        {
-          "matchCode": "4540910",
-          "nesine": null,
-          "date": "23.10.2026 16:30",
-          "kickoffUtc": "2026-10-23T16:30:00Z",
-          "league": "IRAK",
-          "home": "FC Duhok",
-          "away": "Karbala",
-          "league_tr": "IRAK",
-          "home_tr": "Duhok",
-          "away_tr": "Karbala",
-          "prediction": "Over 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Üst",
-          "odds": 1.65,
-          "probability": 72.41,
-          "patternScore": 78.47,
-          "patternText": "204.346/300.207",
-          "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261023-09-1",
       "createdAt": "23.10.2026 06:05",
@@ -204,47 +119,6 @@
           "probability": 75.0,
           "patternScore": 83.89,
           "patternText": "239.437/358.039",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261022-20-1",
-      "createdAt": "22.10.2026 17:12",
-      "createdAtUtc": "2026-10-22T17:12:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.45,
-      "winChance": 75.75,
-      "firstKickoff": "23.10.2026 16:30",
-      "lastKickoff": "23.10.2026 16:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.45,
-      "legs": [
-        {
-          "matchCode": "4485898",
-          "nesine": null,
-          "date": "23.10.2026 16:30",
-          "kickoffUtc": "2026-10-23T16:30:00Z",
-          "league": "RUS",
-          "home": "Akhmat Grozny",
-          "away": "FC Orenburg",
-          "league_tr": "RUS",
-          "home_tr": "Akhmat Grozny",
-          "away_tr": "Orenburg",
-          "prediction": "1st Half Double Chance 12",
-          "prediction_tr": "1. Yarı Çifte Şans 1-2",
-          "odds": 1.45,
-          "probability": 77.78,
-          "patternScore": 75.75,
-          "patternText": "215.978/321.587",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
@@ -448,7 +322,7 @@
       "winChance": 75.11,
       "firstKickoff": "23.10.2026 18:30",
       "lastKickoff": "23.10.2026 18:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_a",
       "group": "safe",
@@ -475,7 +349,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -1969,6 +1843,132 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261022-20-1",
+      "createdAt": "22.10.2026 17:12",
+      "createdAtUtc": "2026-10-22T17:12:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.45,
+      "winChance": 75.75,
+      "firstKickoff": "23.10.2026 16:30",
+      "lastKickoff": "23.10.2026 16:30",
+      "status": "won",
+      "completedAt": "23.10.2026 18:37",
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.45,
+      "legs": [
+        {
+          "matchCode": "4485898",
+          "nesine": null,
+          "date": "23.10.2026 16:30",
+          "kickoffUtc": "2026-10-23T16:30:00Z",
+          "league": "RUS",
+          "home": "Akhmat Grozny",
+          "away": "FC Orenburg",
+          "league_tr": "RUS",
+          "home_tr": "Akhmat Grozny",
+          "away_tr": "Orenburg",
+          "prediction": "1st Half Double Chance 12",
+          "prediction_tr": "1. Yarı Çifte Şans 1-2",
+          "odds": 1.45,
+          "probability": 77.78,
+          "patternScore": 75.75,
+          "patternText": "215.978/321.587",
+          "mbs": 1,
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 1",
+          "status": "won"
+        }
+      ]
+    },
+    {
+      "id": "20261022-23-3",
+      "createdAt": "22.10.2026 20:11",
+      "createdAtUtc": "2026-10-22T20:11:00Z",
+      "size": 3,
+      "mbs": 3,
+      "totalOdds": 4.9,
+      "winChance": 43.11,
+      "firstKickoff": "23.10.2026 12:55",
+      "lastKickoff": "23.10.2026 16:30",
+      "status": "won",
+      "completedAt": "23.10.2026 18:37",
+      "kind": "surprise_3",
+      "group": "surprise",
+      "formula": "3",
+      "effectiveOdds": 4.9,
+      "legs": [
+        {
+          "matchCode": "4576113",
+          "nesine": null,
+          "date": "23.10.2026 12:55",
+          "kickoffUtc": "2026-10-23T12:55:00Z",
+          "league": "BAECK",
+          "home": "Fujairah FC",
+          "away": "Al Wahda",
+          "league_tr": "BAECK",
+          "home_tr": "Fujairah",
+          "away_tr": "Al Wahda",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.66,
+          "probability": 100.0,
+          "patternScore": 74.12,
+          "patternText": "211.907/364.106",
+          "mbs": 3,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 1",
+          "status": "won"
+        },
+        {
+          "matchCode": "4428504",
+          "nesine": null,
+          "date": "23.10.2026 16:00",
+          "kickoffUtc": "2026-10-23T16:00:00Z",
+          "league": "NORKT",
+          "home": "Bodo / Glimt (",
+          "away": "Haugesund Women",
+          "league_tr": "NORKT",
+          "home_tr": "Bodo / Glimt (",
+          "away_tr": "Haugesund (K)",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.79,
+          "probability": 100.0,
+          "patternScore": 74.12,
+          "patternText": "220.862/378.544",
+          "mbs": 3,
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 2",
+          "status": "won"
+        },
+        {
+          "matchCode": "4540910",
+          "nesine": null,
+          "date": "23.10.2026 16:30",
+          "kickoffUtc": "2026-10-23T16:30:00Z",
+          "league": "IRAK",
+          "home": "FC Duhok",
+          "away": "Karbala",
+          "league_tr": "IRAK",
+          "home_tr": "Duhok",
+          "away_tr": "Karbala",
+          "prediction": "Over 2.5 Goals",
+          "prediction_tr": "2,5 Alt/Üst Üst",
+          "odds": 1.65,
+          "probability": 72.41,
+          "patternScore": 78.47,
+          "patternText": "204.346/300.207",
+          "mbs": 3,
+          "firstHalf": "1 - 1",
+          "finalScore": "5 - 2",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261022-16-1",
       "createdAt": "22.10.2026 13:13",

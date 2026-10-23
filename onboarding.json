@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 18:21",
+  "updatedAt": "23.10.2026 18:37",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 134,
-      "lost": 41,
-      "total": 175,
-      "rate": 76.6
+      "won": 138,
+      "lost": 42,
+      "total": 180,
+      "rate": 76.7
     },
-    "totalAnalyses": 150168,
-    "leagues": 539,
+    "totalAnalyses": 150179,
+    "leagues": 538,
     "pro": {
-      "won": 238,
-      "lost": 123,
-      "total": 361,
-      "rate": 65.9
+      "won": 247,
+      "lost": 130,
+      "total": 377,
+      "rate": 65.5
     },
     "insights": {
-      "won": 427,
-      "lost": 228,
-      "total": 655,
-      "rate": 65.2
+      "won": 449,
+      "lost": 243,
+      "total": 692,
+      "rate": 64.9
     },
     "coupons": {
-      "won": 58,
+      "won": 60,
       "lost": 54,
-      "total": 112,
-      "rate": 51.8
+      "total": 114,
+      "rate": 52.6
     },
-    "analyses24h": 4455,
-    "analyses30d": 22948
+    "analyses24h": 4451,
+    "analyses30d": 22952
   },
   "recentWins": [
     {
@@ -119,6 +119,35 @@
   ],
   "recentCoupons": [
     {
+      "size": 3,
+      "totalOdds": 4.9,
+      "winChance": 43.11,
+      "completedAt": "23.10.2026 18:37",
+      "legs": [
+        {
+          "home": "Fujairah FC",
+          "away": "Al Wahda",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.66,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "Bodo / Glimt (",
+          "away": "Haugesund Women",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.79,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "FC Duhok",
+          "away": "Karbala",
+          "prediction": "Over 2.5 Goals",
+          "odds": 1.65,
+          "finalScore": "5 - 2"
+        }
+      ]
+    },
+    {
       "size": 2,
       "totalOdds": 2.23,
       "winChance": 65.58,
@@ -181,21 +210,6 @@
           "prediction": "Under 2.5 Goals",
           "odds": 1.73,
           "finalScore": "0 - 0"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.67,
-      "winChance": 72.25,
-      "completedAt": "22.10.2026 21:17",
-      "legs": [
-        {
-          "home": "AGF Aarhus",
-          "away": "Egnatia",
-          "prediction": "Both Teams to Score - Yes",
-          "odds": 1.67,
-          "finalScore": "1 - 1"
         }
       ]
     }
@@ -277,7 +291,7 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 17:55",
+      "at": "23.10.2026 18:23",
       "home": "Deportivo Alaves",
       "away": "Malaga CF"
     }
@@ -288,7 +302,7 @@
     "league": "NOR3",
     "date": "24.10.2026 12:00",
     "patternScore": 71.51,
-    "patternText": "258.078/360.873",
+    "patternText": "258.080/360.877",
     "picks": 2
   },
   "todayList": [
@@ -298,7 +312,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.51,
-      "patternText": "258.078/360.873",
+      "patternText": "258.080/360.877",
       "picks": 2
     },
     {
@@ -307,7 +321,7 @@
       "league": "DAN3",
       "date": "24.10.2026 12:30",
       "patternScore": 71.51,
-      "patternText": "260.061/363.654",
+      "patternText": "260.063/363.658",
       "picks": 2
     },
     {
@@ -316,7 +330,7 @@
       "league": "İTC",
       "date": "24.10.2026 12:30",
       "patternScore": 71.43,
-      "patternText": "247.041/345.871",
+      "patternText": "247.041/345.873",
       "picks": 1
     },
     {
@@ -325,7 +339,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "249.162/349.024",
+      "patternText": "249.162/349.026",
       "picks": 1
     },
     {
@@ -334,11 +348,32 @@
       "league": "TAY",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "245.007/343.199",
+      "patternText": "245.007/343.201",
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "RC Lens",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "23.10.2026 18:24",
+      "count": 4
+    },
+    {
+      "home": "Deportivo Alaves",
+      "away": "Malaga CF",
+      "league": "İS1",
+      "at": "23.10.2026 18:23",
+      "count": 6
+    },
+    {
+      "home": "Manchester United",
+      "away": "AFC Bournemouth",
+      "league": "İNP",
+      "at": "23.10.2026 18:22",
+      "count": 6
+    },
     {
       "home": "Chelsea",
       "away": "Tottenham Hotspur",
@@ -382,32 +417,11 @@
       "count": 7
     },
     {
-      "home": "Deportivo Alaves",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "23.10.2026 17:55",
-      "count": 7
-    },
-    {
       "home": "SS Lazio",
       "away": "Parma Calcio",
       "league": "İTA",
       "at": "23.10.2026 17:55",
       "count": 17
-    },
-    {
-      "home": "FC Koln",
-      "away": "FC Schalke 04",
-      "league": "AL1",
-      "at": "23.10.2026 17:53",
-      "count": 8
-    },
-    {
-      "home": "Bolton Wanderers",
-      "away": "Middlesbrough",
-      "league": "İNCL",
-      "at": "23.10.2026 17:52",
-      "count": 15
     }
   ],
   "paywall": {
