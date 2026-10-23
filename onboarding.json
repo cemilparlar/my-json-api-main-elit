@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 21:26",
+  "updatedAt": "23.10.2026 21:48",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 363,
-      "lost": 94,
-      "total": 457,
-      "rate": 79.4
+      "won": 367,
+      "lost": 92,
+      "total": 459,
+      "rate": 80.0
     },
-    "totalAnalyses": 150344,
+    "totalAnalyses": 150354,
     "leagues": 538,
     "pro": {
-      "won": 374,
+      "won": 375,
       "lost": 171,
-      "total": 545,
-      "rate": 68.6
+      "total": 546,
+      "rate": 68.7
     },
     "insights": {
-      "won": 645,
-      "lost": 312,
-      "total": 957,
-      "rate": 67.4
+      "won": 649,
+      "lost": 315,
+      "total": 964,
+      "rate": 67.3
     },
     "coupons": {
       "won": 65,
-      "lost": 61,
-      "total": 126,
-      "rate": 51.6
+      "lost": 63,
+      "total": 128,
+      "rate": 50.8
     },
-    "analyses24h": 4341,
-    "analyses30d": 22946
+    "analyses24h": 4335,
+    "analyses30d": 22939
   },
   "recentWins": [
     {
@@ -302,7 +302,7 @@
     "league": "NOR3",
     "date": "24.10.2026 12:00",
     "patternScore": 71.51,
-    "patternText": "258.372/361.309",
+    "patternText": "258.374/361.311",
     "picks": 2
   },
   "todayList": [
@@ -312,8 +312,17 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.51,
-      "patternText": "258.372/361.309",
+      "patternText": "258.374/361.311",
       "picks": 2
+    },
+    {
+      "home": "Ayeyawady Unit",
+      "away": "Yadanarbon",
+      "league": "MYN",
+      "date": "24.10.2026 09:00",
+      "patternScore": 71.44,
+      "patternText": "215.458/301.574",
+      "picks": 1
     },
     {
       "home": "Spezia Calcio",
@@ -321,7 +330,7 @@
       "league": "İTC",
       "date": "24.10.2026 12:30",
       "patternScore": 71.43,
-      "patternText": "247.365/346.319",
+      "patternText": "247.367/346.321",
       "picks": 1
     },
     {
@@ -330,7 +339,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "249.466/349.438",
+      "patternText": "249.468/349.440",
       "picks": 1
     },
     {
@@ -339,20 +348,46 @@
       "league": "TAY",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "245.351/343.679",
+      "patternText": "245.353/343.681",
       "picks": 1
-    },
-    {
-      "home": "Atmosfera",
-      "away": "Lietava Jonava",
-      "league": "LIT1",
-      "date": "24.10.2026 12:00",
-      "patternScore": 71.37,
-      "patternText": "248.904/348.738",
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SC Paderborn",
+      "away": "Hamburger SV",
+      "league": "AL1",
+      "at": "23.10.2026 21:48",
+      "count": 5
+    },
+    {
+      "home": "Arsenal",
+      "away": "Everton",
+      "league": "İNP",
+      "at": "23.10.2026 21:48",
+      "count": 14
+    },
+    {
+      "home": "Cagliari Calcio",
+      "away": "Bologna FC",
+      "league": "İTA",
+      "at": "23.10.2026 21:47",
+      "count": 13
+    },
+    {
+      "home": "FSV Mainz 05",
+      "away": "Werder Bremen",
+      "league": "AL1",
+      "at": "23.10.2026 21:47",
+      "count": 11
+    },
+    {
+      "home": "FC Augsburg",
+      "away": "Union Berlin",
+      "league": "AL1",
+      "at": "23.10.2026 21:47",
+      "count": 4
+    },
     {
       "home": "FC Andorra",
       "away": "Burgos CF",
@@ -382,46 +417,11 @@
       "count": 7
     },
     {
-      "home": "SC Paderborn",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "23.10.2026 21:18",
-      "count": 8
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "Union Berlin",
-      "league": "AL1",
-      "at": "23.10.2026 21:18",
-      "count": 7
-    },
-    {
-      "home": "Arsenal",
-      "away": "Everton",
-      "league": "İNP",
-      "at": "23.10.2026 21:18",
-      "count": 10
-    },
-    {
       "home": "US Avellino",
       "away": "Calcio Padova",
       "league": "İTB",
       "at": "23.10.2026 21:17",
       "count": 8
-    },
-    {
-      "home": "Cagliari Calcio",
-      "away": "Bologna FC",
-      "league": "İTA",
-      "at": "23.10.2026 21:17",
-      "count": 6
-    },
-    {
-      "home": "Aston Villa",
-      "away": "Manchester City",
-      "league": "İNP",
-      "at": "23.10.2026 21:16",
-      "count": 7
     }
   ],
   "paywall": {

@@ -7,19 +7,19 @@
     },
     "safe": {
       "won": 11,
-      "lost": 11
+      "lost": 12
     },
     "safe_b": {
       "won": 10,
-      "lost": 9
+      "lost": 10
     },
     "surprise": {
       "won": 6,
-      "lost": 6
+      "lost": 7
     },
     "surprise_1": {
       "won": 5,
-      "lost": 1
+      "lost": 2
     },
     "surprise_3": {
       "won": 1,
@@ -41,19 +41,19 @@
     },
     "safe": {
       "won": 11,
-      "lost": 11
+      "lost": 12
     },
     "safe_b": {
       "won": 10,
-      "lost": 9
+      "lost": 10
     },
     "surprise": {
       "won": 6,
-      "lost": 6
+      "lost": 7
     },
     "surprise_1": {
       "won": 5,
-      "lost": 1
+      "lost": 2
     },
     "surprise_3": {
       "won": 1,
@@ -68,91 +68,9 @@
       "lost": 1
     }
   },
-  "updatedAt": "23.10.2026 21:26",
-  "updatedAtUtc": "2026-10-23T21:26:00Z",
+  "updatedAt": "23.10.2026 21:48",
+  "updatedAtUtc": "2026-10-23T21:48:00Z",
   "upcoming": [
-    {
-      "id": "20261022-23-1",
-      "createdAt": "22.10.2026 20:11",
-      "createdAtUtc": "2026-10-22T20:11:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.44,
-      "winChance": 72.12,
-      "firstKickoff": "23.10.2026 19:45",
-      "lastKickoff": "23.10.2026 19:45",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.44,
-      "legs": [
-        {
-          "matchCode": "4517035",
-          "nesine": null,
-          "date": "23.10.2026 19:45",
-          "kickoffUtc": "2026-10-23T19:45:00Z",
-          "league": "POR",
-          "home": "Vitoria Guimaraes",
-          "away": "CS Maritimo",
-          "league_tr": "POR",
-          "home_tr": "Guimaraes",
-          "away_tr": "Maritimo",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.44,
-          "probability": 75.0,
-          "patternScore": 72.12,
-          "patternText": "265.205/410.806",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261022-23-2",
-      "createdAt": "22.10.2026 20:11",
-      "createdAtUtc": "2026-10-22T20:11:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.76,
-      "winChance": 63.75,
-      "firstKickoff": "23.10.2026 19:45",
-      "lastKickoff": "23.10.2026 19:45",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.76,
-      "legs": [
-        {
-          "matchCode": "4517035",
-          "nesine": null,
-          "date": "23.10.2026 19:45",
-          "kickoffUtc": "2026-10-23T19:45:00Z",
-          "league": "POR",
-          "home": "Vitoria Guimaraes",
-          "away": "CS Maritimo",
-          "league_tr": "POR",
-          "home_tr": "Guimaraes",
-          "away_tr": "Maritimo",
-          "prediction": "Total Goals 2-3",
-          "prediction_tr": "Toplam Gol Aralığı 2-3 Gol",
-          "odds": 1.76,
-          "probability": 75.0,
-          "patternScore": 63.75,
-          "patternText": "246.209/386.184",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261023-15-3",
       "createdAt": "23.10.2026 12:14",
@@ -1419,6 +1337,88 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261022-23-1",
+      "createdAt": "22.10.2026 20:11",
+      "createdAtUtc": "2026-10-22T20:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.44,
+      "winChance": 72.12,
+      "firstKickoff": "23.10.2026 19:45",
+      "lastKickoff": "23.10.2026 19:45",
+      "status": "lost",
+      "completedAt": "23.10.2026 21:48",
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.44,
+      "legs": [
+        {
+          "matchCode": "4517035",
+          "nesine": null,
+          "date": "23.10.2026 19:45",
+          "kickoffUtc": "2026-10-23T19:45:00Z",
+          "league": "POR",
+          "home": "Vitoria Guimaraes",
+          "away": "CS Maritimo",
+          "league_tr": "POR",
+          "home_tr": "Guimaraes",
+          "away_tr": "Maritimo",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.44,
+          "probability": 75.0,
+          "patternScore": 72.12,
+          "patternText": "265.205/410.806",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "5 - 0",
+          "status": "lost"
+        }
+      ]
+    },
+    {
+      "id": "20261022-23-2",
+      "createdAt": "22.10.2026 20:11",
+      "createdAtUtc": "2026-10-22T20:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.76,
+      "winChance": 63.75,
+      "firstKickoff": "23.10.2026 19:45",
+      "lastKickoff": "23.10.2026 19:45",
+      "status": "lost",
+      "completedAt": "23.10.2026 21:48",
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.76,
+      "legs": [
+        {
+          "matchCode": "4517035",
+          "nesine": null,
+          "date": "23.10.2026 19:45",
+          "kickoffUtc": "2026-10-23T19:45:00Z",
+          "league": "POR",
+          "home": "Vitoria Guimaraes",
+          "away": "CS Maritimo",
+          "league_tr": "POR",
+          "home_tr": "Guimaraes",
+          "away_tr": "Maritimo",
+          "prediction": "Total Goals 2-3",
+          "prediction_tr": "Toplam Gol Aralığı 2-3 Gol",
+          "odds": 1.76,
+          "probability": 75.0,
+          "patternScore": 63.75,
+          "patternText": "246.209/386.184",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "5 - 0",
+          "status": "lost"
+        }
+      ]
+    },
     {
       "id": "20261023-00-1",
       "createdAt": "22.10.2026 21:04",
