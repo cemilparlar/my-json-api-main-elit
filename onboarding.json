@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 12:40",
+  "updatedAt": "23.10.2026 13:01",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 154,
-      "lost": 39,
-      "total": 193,
-      "rate": 79.8
+      "won": 137,
+      "lost": 35,
+      "total": 172,
+      "rate": 79.7
     },
-    "totalAnalyses": 149301,
+    "totalAnalyses": 149379,
     "leagues": 538,
     "pro": {
-      "won": 181,
+      "won": 182,
       "lost": 90,
-      "total": 271,
-      "rate": 66.8
+      "total": 272,
+      "rate": 66.9
     },
     "insights": {
-      "won": 330,
-      "lost": 165,
-      "total": 495,
+      "won": 332,
+      "lost": 166,
+      "total": 498,
       "rate": 66.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 107,
       "rate": 53.3
     },
-    "analyses24h": 4423,
-    "analyses30d": 22750
+    "analyses24h": 4441,
+    "analyses30d": 22787
   },
   "recentWins": [
     {
@@ -250,6 +250,12 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.71,
+      "at": "23.10.2026 13:01"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.31,
       "at": "23.10.2026 12:14"
     },
@@ -260,12 +266,6 @@
       "at": "23.10.2026 12:14"
     },
     {
-      "type": "coupon",
-      "size": 3,
-      "odds": 3.63,
-      "at": "23.10.2026 12:14"
-    },
-    {
       "type": "updated",
       "at": "23.10.2026 10:39",
       "home": "Real Union Irun",
@@ -273,13 +273,13 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 07:22",
+      "at": "23.10.2026 12:44",
       "home": "Boluspor",
       "away": "Van Spor FK"
     },
     {
       "type": "updated",
-      "at": "23.10.2026 11:48",
+      "at": "23.10.2026 12:44",
       "home": "Granada CF",
       "away": "Real Valladolid"
     },
@@ -302,7 +302,7 @@
     "league": "KAT",
     "date": "23.10.2026 14:30",
     "patternScore": 71.78,
-    "patternText": "194.885/271.508",
+    "patternText": "194.893/271.522",
     "picks": 4
   },
   "todayList": [
@@ -312,17 +312,8 @@
       "league": "KAT",
       "date": "23.10.2026 14:30",
       "patternScore": 71.78,
-      "patternText": "194.885/271.508",
+      "patternText": "194.893/271.522",
       "picks": 4
-    },
-    {
-      "home": "Al Ittihad Jeddah",
-      "away": "Diriyah CC",
-      "league": "SUUD",
-      "date": "23.10.2026 15:30",
-      "patternScore": 71.72,
-      "patternText": "189.880/264.767",
-      "picks": 2
     },
     {
       "home": "Ibv Women",
@@ -330,7 +321,7 @@
       "league": "İZKL1",
       "date": "23.10.2026 18:00",
       "patternScore": 71.7,
-      "patternText": "287.474/400.926",
+      "patternText": "287.482/400.940",
       "picks": 1
     },
     {
@@ -339,7 +330,7 @@
       "league": "POL1",
       "date": "23.10.2026 16:00",
       "patternScore": 71.68,
-      "patternText": "191.942/267.790",
+      "patternText": "191.950/267.804",
       "picks": 3
     },
     {
@@ -347,81 +338,90 @@
       "away": "Swit Skolwin",
       "league": "POL2",
       "date": "23.10.2026 16:00",
-      "patternScore": 71.57,
-      "patternText": "186.476/260.566",
+      "patternScore": 71.56,
+      "patternText": "186.484/260.580",
       "picks": 2
+    },
+    {
+      "home": "Tabor Sezana",
+      "away": "FC Koper",
+      "league": "SLVNK",
+      "date": "23.10.2026 15:30",
+      "patternScore": 71.5,
+      "patternText": "188.938/264.245",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "RB Leipzig",
-      "away": "SV Elversberg",
-      "league": "AL1",
-      "at": "23.10.2026 12:40",
-      "count": 14
+      "home": "Ipswich Town",
+      "away": "Nottingham Forest",
+      "league": "İNP",
+      "at": "23.10.2026 13:00",
+      "count": 8
     },
     {
-      "home": "Como 1907",
-      "away": "US Sassuolo",
-      "league": "İTA",
-      "at": "23.10.2026 12:40",
-      "count": 9
-    },
-    {
-      "home": "Umraniyespor",
-      "away": "Sivasspor",
-      "league": "T1L",
-      "at": "23.10.2026 12:36",
-      "count": 4
+      "home": "KV Kortrijk",
+      "away": "KV Mechelen",
+      "league": "BEL",
+      "at": "23.10.2026 12:59",
+      "count": 6
     },
     {
       "home": "Stade Brest",
       "away": "OGC Nice",
       "league": "FR1",
-      "at": "23.10.2026 12:35",
-      "count": 7
+      "at": "23.10.2026 12:59",
+      "count": 8
     },
     {
-      "home": "AS Nancy",
-      "away": "Stade Lavalois",
-      "league": "FR2",
-      "at": "23.10.2026 12:34",
+      "home": "Mardin 1969",
+      "away": "Manisa FK",
+      "league": "T1L",
+      "at": "23.10.2026 12:51",
+      "count": 3
+    },
+    {
+      "home": "US Lecce",
+      "away": "Juventus",
+      "league": "İTA",
+      "at": "23.10.2026 12:51",
       "count": 6
     },
     {
-      "home": "USL Dunkerque",
-      "away": "FC Metz",
-      "league": "FR2",
-      "at": "23.10.2026 12:34",
-      "count": 7
-    },
-    {
-      "home": "Go Ahead Eagles",
-      "away": "SC Telstar",
-      "league": "HOL",
-      "at": "23.10.2026 12:34",
-      "count": 7
-    },
-    {
-      "home": "Bochum",
-      "away": "VfL Wolfsburg",
-      "league": "AL2",
-      "at": "23.10.2026 12:31",
-      "count": 7
-    },
-    {
-      "home": "Real Sociedad",
-      "away": "Levante UD",
-      "league": "İS1",
-      "at": "23.10.2026 12:14",
+      "home": "Antalyaspor",
+      "away": "Bodrum FK",
+      "league": "T1L",
+      "at": "23.10.2026 12:50",
       "count": 4
     },
     {
-      "home": "Udinese",
-      "away": "AC Milan",
-      "league": "İTA",
-      "at": "23.10.2026 12:14",
-      "count": 6
+      "home": "A. Keciorengucu",
+      "away": "Bursaspor",
+      "league": "T1L",
+      "at": "23.10.2026 12:50",
+      "count": 5
+    },
+    {
+      "home": "Batman Petrolspor",
+      "away": "Esenler Erokspor",
+      "league": "T1L",
+      "at": "23.10.2026 12:49",
+      "count": 4
+    },
+    {
+      "home": "Pendikspor",
+      "away": "Kayserispor",
+      "league": "T1L",
+      "at": "23.10.2026 12:48",
+      "count": 3
+    },
+    {
+      "home": "Sariyer",
+      "away": "Fatih Karagumruk",
+      "league": "T1L",
+      "at": "23.10.2026 12:47",
+      "count": 5
     }
   ],
   "paywall": {
