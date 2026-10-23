@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 20:36",
+  "updatedAt": "23.10.2026 20:51",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 286,
-      "lost": 84,
-      "total": 370,
-      "rate": 77.3
+      "won": 320,
+      "lost": 89,
+      "total": 409,
+      "rate": 78.2
     },
-    "totalAnalyses": 150265,
+    "totalAnalyses": 150285,
     "leagues": 538,
     "pro": {
-      "won": 341,
-      "lost": 168,
-      "total": 509,
-      "rate": 67.0
+      "won": 363,
+      "lost": 171,
+      "total": 534,
+      "rate": 68.0
     },
     "insights": {
-      "won": 597,
-      "lost": 300,
-      "total": 897,
-      "rate": 66.6
+      "won": 623,
+      "lost": 304,
+      "total": 927,
+      "rate": 67.2
     },
     "coupons": {
-      "won": 62,
-      "lost": 58,
-      "total": 120,
-      "rate": 51.7
+      "won": 63,
+      "lost": 59,
+      "total": 122,
+      "rate": 51.6
     },
-    "analyses24h": 4313,
-    "analyses30d": 22920
+    "analyses24h": 4310,
+    "analyses30d": 22919
   },
   "recentWins": [
     {
@@ -273,6 +273,12 @@
     },
     {
       "type": "updated",
+      "at": "23.10.2026 15:10",
+      "home": "Granada CF",
+      "away": "Real Valladolid"
+    },
+    {
+      "type": "updated",
       "at": "23.10.2026 17:52",
       "home": "Bolton Wanderers",
       "away": "Middlesbrough"
@@ -288,12 +294,6 @@
       "at": "23.10.2026 18:18",
       "home": "Ipswich Town",
       "away": "Nottingham Forest"
-    },
-    {
-      "type": "updated",
-      "at": "23.10.2026 16:23",
-      "home": "Aston Villa",
-      "away": "Manchester City"
     }
   ],
   "today": {
@@ -302,7 +302,7 @@
     "league": "NOR3",
     "date": "24.10.2026 12:00",
     "patternScore": 71.51,
-    "patternText": "258.266/361.171",
+    "patternText": "258.304/361.221",
     "picks": 2
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.51,
-      "patternText": "258.266/361.171",
+      "patternText": "258.304/361.221",
       "picks": 2
     },
     {
@@ -321,7 +321,7 @@
       "league": "İTC",
       "date": "24.10.2026 12:30",
       "patternScore": 71.42,
-      "patternText": "247.229/346.147",
+      "patternText": "247.291/346.231",
       "picks": 1
     },
     {
@@ -330,7 +330,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "249.350/349.300",
+      "patternText": "249.394/349.352",
       "picks": 1
     },
     {
@@ -339,7 +339,7 @@
       "league": "TAY",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "245.245/343.541",
+      "patternText": "245.289/343.593",
       "picks": 1
     },
     {
@@ -348,11 +348,39 @@
       "league": "LIT1",
       "date": "24.10.2026 12:00",
       "patternScore": 71.37,
-      "patternText": "248.798/348.600",
+      "patternText": "248.836/348.650",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Atletico Madrid",
+      "away": "Deportivo La Coruna",
+      "league": "İS1",
+      "at": "23.10.2026 20:50",
+      "count": 4
+    },
+    {
+      "home": "Arsenal",
+      "away": "Everton",
+      "league": "İNP",
+      "at": "23.10.2026 20:47",
+      "count": 2
+    },
+    {
+      "home": "Cagliari Calcio",
+      "away": "Bologna FC",
+      "league": "İTA",
+      "at": "23.10.2026 20:46",
+      "count": 12
+    },
+    {
+      "home": "Cruzeiro EC",
+      "away": "Remo",
+      "league": "BR1",
+      "at": "23.10.2026 20:43",
+      "count": 14
+    },
     {
       "home": "Toulouse FC",
       "away": "ESTAC Troyes",
@@ -394,34 +422,6 @@
       "league": "İTA",
       "at": "23.10.2026 20:18",
       "count": 6
-    },
-    {
-      "home": "Borussia Dortmund",
-      "away": "Eintracht Frankfurt",
-      "league": "AL1",
-      "at": "23.10.2026 20:18",
-      "count": 7
-    },
-    {
-      "home": "Cruzeiro EC",
-      "away": "Remo",
-      "league": "BR1",
-      "at": "23.10.2026 20:14",
-      "count": 3
-    },
-    {
-      "home": "FSV Mainz 05",
-      "away": "Werder Bremen",
-      "league": "AL1",
-      "at": "23.10.2026 20:13",
-      "count": 5
-    },
-    {
-      "home": "Como 1907",
-      "away": "US Sassuolo",
-      "league": "İTA",
-      "at": "23.10.2026 20:13",
-      "count": 2
     }
   ],
   "paywall": {

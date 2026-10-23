@@ -6,11 +6,11 @@
       "lost": 88
     },
     "safe": {
-      "won": 9,
-      "lost": 8
+      "won": 10,
+      "lost": 9
     },
     "safe_b": {
-      "won": 8,
+      "won": 9,
       "lost": 7
     },
     "surprise": {
@@ -27,7 +27,7 @@
     },
     "safe_a": {
       "won": 1,
-      "lost": 1
+      "lost": 2
     },
     "surprise_2": {
       "won": 0,
@@ -40,11 +40,11 @@
       "lost": 88
     },
     "safe": {
-      "won": 9,
-      "lost": 8
+      "won": 10,
+      "lost": 9
     },
     "safe_b": {
-      "won": 8,
+      "won": 9,
       "lost": 7
     },
     "surprise": {
@@ -61,98 +61,16 @@
     },
     "safe_a": {
       "won": 1,
-      "lost": 1
+      "lost": 2
     },
     "surprise_2": {
       "won": 0,
       "lost": 1
     }
   },
-  "updatedAt": "23.10.2026 20:36",
-  "updatedAtUtc": "2026-10-23T20:36:00Z",
+  "updatedAt": "23.10.2026 20:51",
+  "updatedAtUtc": "2026-10-23T20:51:00Z",
   "upcoming": [
-    {
-      "id": "20261023-11-1",
-      "createdAt": "23.10.2026 08:00",
-      "createdAtUtc": "2026-10-23T08:00:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.35,
-      "winChance": 69.58,
-      "firstKickoff": "23.10.2026 18:45",
-      "lastKickoff": "23.10.2026 18:45",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.35,
-      "legs": [
-        {
-          "matchCode": "4476569",
-          "nesine": null,
-          "date": "23.10.2026 18:45",
-          "kickoffUtc": "2026-10-23T18:45:00Z",
-          "league": "FR1",
-          "home": "Stade Brest",
-          "away": "OGC Nice",
-          "league_tr": "FR1",
-          "home_tr": "Brest",
-          "away_tr": "Nice",
-          "prediction": "1st Half Under 1.5",
-          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
-          "odds": 1.35,
-          "probability": 70.83,
-          "patternScore": 69.58,
-          "patternText": "243.167/358.488",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261023-18-1",
-      "createdAt": "23.10.2026 15:01",
-      "createdAtUtc": "2026-10-23T15:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.3,
-      "winChance": 73.44,
-      "firstKickoff": "23.10.2026 18:45",
-      "lastKickoff": "23.10.2026 18:45",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.3,
-      "legs": [
-        {
-          "matchCode": "4475120",
-          "nesine": null,
-          "date": "23.10.2026 18:45",
-          "kickoffUtc": "2026-10-23T18:45:00Z",
-          "league": "İTA",
-          "home": "Torino FC",
-          "away": "AC Monza",
-          "league_tr": "İTA",
-          "home_tr": "Torino",
-          "away_tr": "Monza",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.3,
-          "probability": 87.5,
-          "patternScore": 73.44,
-          "patternText": "160.192/232.036",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261023-00-1",
       "createdAt": "22.10.2026 21:04",
@@ -1603,6 +1521,88 @@
   ],
   "completed": [
     {
+      "id": "20261023-11-1",
+      "createdAt": "23.10.2026 08:00",
+      "createdAtUtc": "2026-10-23T08:00:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.35,
+      "winChance": 69.58,
+      "firstKickoff": "23.10.2026 18:45",
+      "lastKickoff": "23.10.2026 18:45",
+      "status": "won",
+      "completedAt": "23.10.2026 20:51",
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.35,
+      "legs": [
+        {
+          "matchCode": "4476569",
+          "nesine": null,
+          "date": "23.10.2026 18:45",
+          "kickoffUtc": "2026-10-23T18:45:00Z",
+          "league": "FR1",
+          "home": "Stade Brest",
+          "away": "OGC Nice",
+          "league_tr": "FR1",
+          "home_tr": "Brest",
+          "away_tr": "Nice",
+          "prediction": "1st Half Under 1.5",
+          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
+          "odds": 1.35,
+          "probability": 70.83,
+          "patternScore": 69.58,
+          "patternText": "243.167/358.488",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 2",
+          "status": "won"
+        }
+      ]
+    },
+    {
+      "id": "20261023-18-1",
+      "createdAt": "23.10.2026 15:01",
+      "createdAtUtc": "2026-10-23T15:01:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.3,
+      "winChance": 73.44,
+      "firstKickoff": "23.10.2026 18:45",
+      "lastKickoff": "23.10.2026 18:45",
+      "status": "lost",
+      "completedAt": "23.10.2026 20:51",
+      "kind": "safe_a",
+      "group": "safe",
+      "formula": "A",
+      "effectiveOdds": 1.3,
+      "legs": [
+        {
+          "matchCode": "4475120",
+          "nesine": null,
+          "date": "23.10.2026 18:45",
+          "kickoffUtc": "2026-10-23T18:45:00Z",
+          "league": "İTA",
+          "home": "Torino FC",
+          "away": "AC Monza",
+          "league_tr": "İTA",
+          "home_tr": "Torino",
+          "away_tr": "Monza",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.3,
+          "probability": 87.5,
+          "patternScore": 73.44,
+          "patternText": "160.192/232.036",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "3 - 2",
+          "status": "lost"
+        }
+      ]
+    },
+    {
       "id": "20261022-22-1",
       "createdAt": "22.10.2026 19:05",
       "createdAtUtc": "2026-10-22T19:05:00Z",
@@ -1700,9 +1700,9 @@
           "patternScore": 57.29,
           "patternText": "218.222/322.467",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 0",
+          "finalScore": "3 - 2",
+          "status": "won"
         }
       ]
     },
@@ -3951,173 +3951,6 @@
           "firstHalf": "1 - 0",
           "finalScore": "2 - 0",
           "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261021-22-1",
-      "createdAt": "21.10.2026 19:11",
-      "createdAtUtc": "2026-10-21T19:11:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 1.39,
-      "winChance": 34.41,
-      "firstKickoff": "21.10.2026 22:00",
-      "lastKickoff": "22.10.2026 18:30",
-      "status": "won",
-      "completedAt": "22.10.2026 20:39",
-      "effectiveOdds": 1.16,
-      "legs": [
-        {
-          "matchCode": "4575967",
-          "nesine": null,
-          "date": "21.10.2026 22:00",
-          "kickoffUtc": "2026-10-21T22:00:00Z",
-          "league": "VENK",
-          "home": "Deportivo La Guaira",
-          "away": "Aragua",
-          "league_tr": "VENK",
-          "home_tr": "Deportivo La G",
-          "away_tr": "Aragua",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.06,
-          "probability": 70.21,
-          "patternScore": 72.53,
-          "patternText": "144.318/198.971",
-          "mbs": 3,
-          "firstHalf": "1 - 0",
-          "finalScore": "3 - 0",
-          "status": "won"
-        },
-        {
-          "matchCode": "4449944",
-          "nesine": null,
-          "date": "21.10.2026 23:30",
-          "kickoffUtc": "2026-10-21T23:30:00Z",
-          "league": "USLP",
-          "home": "Sporting Jax",
-          "away": "Louisville City FC",
-          "league_tr": "USLP",
-          "home_tr": "Sporting Jax",
-          "away_tr": "Louisville City",
-          "prediction": "1st Half Double Chance 12",
-          "prediction_tr": "1. Yarı Çifte Şans 1-2",
-          "odds": 1.2,
-          "probability": 80.0,
-          "patternScore": 67.1,
-          "patternText": "108.155/161.187",
-          "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void"
-        },
-        {
-          "matchCode": "4537791",
-          "nesine": null,
-          "date": "22.10.2026 18:30",
-          "kickoffUtc": "2026-10-22T18:30:00Z",
-          "league": "MLTP",
-          "home": "Hibernians",
-          "away": "Gzira United",
-          "league_tr": "MLTP",
-          "home_tr": "Hibernians",
-          "away_tr": "Gzira United",
-          "prediction": "Double Chance 1X",
-          "prediction_tr": "Çifte Şans 1-X",
-          "odds": 1.09,
-          "probability": 82.95,
-          "patternScore": 70.71,
-          "patternText": "142.998/202.224",
-          "mbs": 3,
-          "firstHalf": "1 - 1",
-          "finalScore": "2 - 1",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261022-20-3",
-      "createdAt": "22.10.2026 17:12",
-      "createdAtUtc": "2026-10-22T17:12:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 3.74,
-      "winChance": 42.8,
-      "firstKickoff": "22.10.2026 18:30",
-      "lastKickoff": "22.10.2026 19:00",
-      "status": "lost",
-      "completedAt": "22.10.2026 20:39",
-      "kind": "surprise_3",
-      "group": "surprise",
-      "formula": "3",
-      "effectiveOdds": 3.74,
-      "legs": [
-        {
-          "matchCode": "4547548",
-          "nesine": null,
-          "date": "22.10.2026 18:30",
-          "kickoffUtc": "2026-10-22T18:30:00Z",
-          "league": "EKV2",
-          "home": "San Antonio FC",
-          "away": "9 De Octubre",
-          "league_tr": "EKV2",
-          "home_tr": "San Antonio",
-          "away_tr": "9 De Octubre",
-          "prediction": "Match Result 2",
-          "prediction_tr": "Maç Sonucu 2",
-          "odds": 1.62,
-          "probability": 75.0,
-          "patternScore": 76.95,
-          "patternText": "116.078/171.334",
-          "mbs": 3,
-          "firstHalf": "1 - 1",
-          "finalScore": "3 - 3",
-          "status": "lost"
-        },
-        {
-          "matchCode": "4549670",
-          "nesine": null,
-          "date": "22.10.2026 19:00",
-          "kickoffUtc": "2026-10-22T19:00:00Z",
-          "league": "AVKL",
-          "home": "Borac Banja Lu",
-          "away": "Kuopion",
-          "league_tr": "AVKL",
-          "home_tr": "Borac Banja Lu",
-          "away_tr": "Kuopion",
-          "prediction": "Match Result 1",
-          "prediction_tr": "Maç Sonucu 1",
-          "odds": 1.53,
-          "probability": 75.0,
-          "patternScore": 74.58,
-          "patternText": "111.824/163.957",
-          "mbs": 1,
-          "firstHalf": "1 - 0",
-          "finalScore": "2 - 0",
-          "status": "won"
-        },
-        {
-          "matchCode": "4549598",
-          "nesine": null,
-          "date": "22.10.2026 19:00",
-          "kickoffUtc": "2026-10-22T19:00:00Z",
-          "league": "AVL",
-          "home": "Lillestrom SK",
-          "away": "Real Sociedad",
-          "league_tr": "AVL",
-          "home_tr": "Lillestrom",
-          "away_tr": "Real Sociedad",
-          "prediction": "Handicap (2:0) 1",
-          "prediction_tr": "Handikaplı Maç Sonucu (2:0) 1",
-          "odds": 1.51,
-          "probability": 100.0,
-          "patternScore": 74.57,
-          "patternText": "191.887/340.065",
-          "mbs": 1,
-          "firstHalf": "0 - 3",
-          "finalScore": "0 - 6",
-          "status": "lost"
         }
       ]
     }
