@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 18:37",
+  "updatedAt": "23.10.2026 18:51",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 138,
-      "lost": 42,
-      "total": 180,
+      "won": 168,
+      "lost": 51,
+      "total": 219,
       "rate": 76.7
     },
-    "totalAnalyses": 150179,
+    "totalAnalyses": 150180,
     "leagues": 538,
     "pro": {
-      "won": 247,
-      "lost": 130,
-      "total": 377,
-      "rate": 65.5
+      "won": 249,
+      "lost": 132,
+      "total": 381,
+      "rate": 65.4
     },
     "insights": {
-      "won": 449,
-      "lost": 243,
-      "total": 692,
-      "rate": 64.9
+      "won": 451,
+      "lost": 246,
+      "total": 697,
+      "rate": 64.7
     },
     "coupons": {
       "won": 60,
@@ -47,8 +47,8 @@
       "total": 114,
       "rate": 52.6
     },
-    "analyses24h": 4451,
-    "analyses30d": 22952
+    "analyses24h": 4448,
+    "analyses30d": 22949
   },
   "recentWins": [
     {
@@ -104,17 +104,17 @@
       "pro": true
     },
     {
-      "home": "SK Sturm Graz",
-      "away": "Marseille",
-      "league": "AVL",
-      "date": "22.10.2026 16:45",
+      "home": "Bochum",
+      "away": "VfL Wolfsburg",
+      "league": "AL2",
+      "date": "23.10.2026 16:30",
       "prediction": "Under 2.5 Goals",
-      "odds": 2.23,
-      "probability": 75.0,
-      "patternScore": 66.72,
-      "firstHalf": "1 - 0",
-      "finalScore": "1 - 0",
-      "pro": false
+      "odds": 2.58,
+      "probability": 100.0,
+      "patternScore": 56.83,
+      "firstHalf": "0 - 1",
+      "finalScore": "1 - 1",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -279,12 +279,6 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 12:44",
-      "home": "Boluspor",
-      "away": "Van Spor FK"
-    },
-    {
-      "type": "updated",
       "at": "23.10.2026 17:52",
       "home": "Bolton Wanderers",
       "away": "Middlesbrough"
@@ -294,6 +288,12 @@
       "at": "23.10.2026 18:23",
       "home": "Deportivo Alaves",
       "away": "Malaga CF"
+    },
+    {
+      "type": "updated",
+      "at": "23.10.2026 18:18",
+      "home": "Ipswich Town",
+      "away": "Nottingham Forest"
     }
   ],
   "today": {
@@ -302,7 +302,7 @@
     "league": "NOR3",
     "date": "24.10.2026 12:00",
     "patternScore": 71.51,
-    "patternText": "258.080/360.877",
+    "patternText": "258.102/360.921",
     "picks": 2
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.51,
-      "patternText": "258.080/360.877",
+      "patternText": "258.102/360.921",
       "picks": 2
     },
     {
@@ -321,7 +321,7 @@
       "league": "DAN3",
       "date": "24.10.2026 12:30",
       "patternScore": 71.51,
-      "patternText": "260.063/363.658",
+      "patternText": "260.089/363.710",
       "picks": 2
     },
     {
@@ -329,8 +329,8 @@
       "away": "Latina Calcio",
       "league": "İTC",
       "date": "24.10.2026 12:30",
-      "patternScore": 71.43,
-      "patternText": "247.041/345.873",
+      "patternScore": 71.42,
+      "patternText": "247.065/345.919",
       "picks": 1
     },
     {
@@ -339,7 +339,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "249.162/349.026",
+      "patternText": "249.186/349.072",
       "picks": 1
     },
     {
@@ -347,8 +347,8 @@
       "away": "Chonburi FC",
       "league": "TAY",
       "date": "24.10.2026 12:30",
-      "patternScore": 71.39,
-      "patternText": "245.007/343.201",
+      "patternScore": 71.38,
+      "patternText": "245.031/343.253",
       "picks": 1
     }
   ],
