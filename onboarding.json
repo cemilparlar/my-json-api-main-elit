@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 03:05",
+  "updatedAt": "23.10.2026 03:21",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 242,
+      "won": 234,
       "lost": 158,
-      "total": 400,
-      "rate": 60.5
+      "total": 392,
+      "rate": 59.7
     },
-    "totalAnalyses": 148131,
+    "totalAnalyses": 148156,
     "leagues": 537,
     "pro": {
       "won": 176,
@@ -47,8 +47,8 @@
       "total": 105,
       "rate": 54.3
     },
-    "analyses24h": 4186,
-    "analyses30d": 22508
+    "analyses24h": 4172,
+    "analyses30d": 22502
   },
   "recentWins": [
     {
@@ -277,9 +277,9 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 02:41",
-      "home": "Bolton Wanderers",
-      "away": "Middlesbrough"
+      "at": "23.10.2026 03:20",
+      "home": "Gateshead",
+      "away": "Tamworth"
     }
   ],
   "today": {
@@ -288,7 +288,7 @@
     "league": "İZKL1",
     "date": "23.10.2026 18:00",
     "patternScore": 71.71,
-    "patternText": "287.398/400.802",
+    "patternText": "287.428/400.844",
     "picks": 1
   },
   "todayList": [
@@ -298,7 +298,7 @@
       "league": "İZKL1",
       "date": "23.10.2026 18:00",
       "patternScore": 71.71,
-      "patternText": "287.398/400.802",
+      "patternText": "287.428/400.844",
       "picks": 1
     },
     {
@@ -307,7 +307,7 @@
       "league": "KAT",
       "date": "23.10.2026 14:30",
       "patternScore": 71.69,
-      "patternText": "192.855/269.018",
+      "patternText": "192.873/269.048",
       "picks": 4
     },
     {
@@ -315,8 +315,8 @@
       "away": "Karbala",
       "league": "IRAK",
       "date": "23.10.2026 16:30",
-      "patternScore": 71.61,
-      "patternText": "195.782/273.415",
+      "patternScore": 71.6,
+      "patternText": "195.800/273.445",
       "picks": 3
     },
     {
@@ -325,7 +325,7 @@
       "league": "POL2",
       "date": "23.10.2026 16:00",
       "patternScore": 71.57,
-      "patternText": "186.416/260.470",
+      "patternText": "186.434/260.500",
       "picks": 2
     },
     {
@@ -334,11 +334,39 @@
       "league": "POL1",
       "date": "23.10.2026 16:00",
       "patternScore": 71.47,
-      "patternText": "188.360/263.550",
+      "patternText": "188.374/263.576",
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "23.10.2026 03:20",
+      "count": 4
+    },
+    {
+      "home": "Go Ahead Eagles",
+      "away": "SC Telstar",
+      "league": "HOL",
+      "at": "23.10.2026 03:19",
+      "count": 16
+    },
+    {
+      "home": "Empoli",
+      "away": "LR Vicenza",
+      "league": "İTB",
+      "at": "23.10.2026 03:07",
+      "count": 5
+    },
+    {
+      "home": "Torino FC",
+      "away": "AC Monza",
+      "league": "İTA",
+      "at": "23.10.2026 03:07",
+      "count": 7
+    },
     {
       "home": "SS Lazio",
       "away": "Parma Calcio",
@@ -380,34 +408,6 @@
       "league": "FR1",
       "at": "23.10.2026 02:28",
       "count": 14
-    },
-    {
-      "home": "Toulouse FC",
-      "away": "ESTAC Troyes",
-      "league": "FR1",
-      "at": "23.10.2026 02:27",
-      "count": 4
-    },
-    {
-      "home": "Bochum",
-      "away": "VfL Wolfsburg",
-      "league": "AL2",
-      "at": "23.10.2026 02:25",
-      "count": 10
-    },
-    {
-      "home": "Stade Brest",
-      "away": "OGC Nice",
-      "league": "FR1",
-      "at": "23.10.2026 02:12",
-      "count": 7
-    },
-    {
-      "home": "Aston Villa",
-      "away": "Manchester City",
-      "league": "İNP",
-      "at": "23.10.2026 02:07",
-      "count": 13
     }
   ],
   "paywall": {
