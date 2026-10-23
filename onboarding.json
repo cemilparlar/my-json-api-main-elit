@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 00:39",
+  "updatedAt": "23.10.2026 00:56",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 391,
       "rate": 61.9
     },
-    "totalAnalyses": 148033,
+    "totalAnalyses": 148041,
     "leagues": 537,
     "pro": {
       "won": 172,
@@ -47,8 +47,8 @@
       "total": 98,
       "rate": 53.1
     },
-    "analyses24h": 4228,
-    "analyses30d": 22537
+    "analyses24h": 4219,
+    "analyses30d": 22528
   },
   "recentWins": [
     {
@@ -256,7 +256,7 @@
     },
     {
       "type": "updated",
-      "at": "22.10.2026 23:38",
+      "at": "23.10.2026 00:48",
       "home": "Deportivo Alaves",
       "away": "Malaga CF"
     }
@@ -319,18 +319,25 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Holstein Kiel",
-      "away": "Dynamo Dresden",
-      "league": "AL2",
-      "at": "23.10.2026 00:36",
-      "count": 9
+      "home": "Deportivo Alaves",
+      "away": "Malaga CF",
+      "league": "İS1",
+      "at": "23.10.2026 00:48",
+      "count": 7
     },
     {
       "home": "Samsunspor",
       "away": "Amed SK",
       "league": "TSL",
-      "at": "23.10.2026 00:35",
+      "at": "23.10.2026 00:48",
       "count": 6
+    },
+    {
+      "home": "Holstein Kiel",
+      "away": "Dynamo Dresden",
+      "league": "AL2",
+      "at": "23.10.2026 00:36",
+      "count": 9
     },
     {
       "home": "FC Augsburg",
@@ -380,13 +387,6 @@
       "league": "BR1",
       "at": "22.10.2026 23:40",
       "count": 3
-    },
-    {
-      "home": "Muglaspor",
-      "away": "Istanbulspor",
-      "league": "T1L",
-      "at": "22.10.2026 23:39",
-      "count": 2
     }
   ],
   "paywall": {
