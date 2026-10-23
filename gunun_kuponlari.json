@@ -60,8 +60,8 @@
       "lost": 0
     }
   },
-  "updatedAt": "23.10.2026 07:39",
-  "updatedAtUtc": "2026-10-23T07:39:00Z",
+  "updatedAt": "23.10.2026 08:00",
+  "updatedAtUtc": "2026-10-23T08:00:00Z",
   "upcoming": [
     {
       "id": "20261022-15-1",
@@ -904,6 +904,47 @@
           "probability": 100.0,
           "patternScore": 75.11,
           "patternText": "234.487/403.503",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261023-11-1",
+      "createdAt": "23.10.2026 08:00",
+      "createdAtUtc": "2026-10-23T08:00:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.35,
+      "winChance": 69.58,
+      "firstKickoff": "23.10.2026 18:45",
+      "lastKickoff": "23.10.2026 18:45",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.35,
+      "legs": [
+        {
+          "matchCode": "4476569",
+          "nesine": null,
+          "date": "23.10.2026 18:45",
+          "kickoffUtc": "2026-10-23T18:45:00Z",
+          "league": "FR1",
+          "home": "Stade Brest",
+          "away": "OGC Nice",
+          "league_tr": "FR1",
+          "home_tr": "Brest",
+          "away_tr": "Nice",
+          "prediction": "1st Half Under 1.5",
+          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
+          "odds": 1.35,
+          "probability": 70.83,
+          "patternScore": 69.58,
+          "patternText": "243.167/358.488",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
