@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 04:42",
+  "updatedAt": "23.10.2026 04:57",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 392,
       "rate": 59.7
     },
-    "totalAnalyses": 148265,
+    "totalAnalyses": 148296,
     "leagues": 537,
     "pro": {
       "won": 176,
@@ -47,8 +47,8 @@
       "total": 105,
       "rate": 54.3
     },
-    "analyses24h": 4164,
-    "analyses30d": 22494
+    "analyses24h": 4168,
+    "analyses30d": 22498
   },
   "recentWins": [
     {
@@ -311,12 +311,12 @@
       "picks": 1
     },
     {
-      "home": "FC Duhok",
-      "away": "Karbala",
-      "league": "IRAK",
-      "date": "23.10.2026 16:30",
-      "patternScore": 71.6,
-      "patternText": "195.800/273.445",
+      "home": "Polonia Warsaw",
+      "away": "Miedz Legnica",
+      "league": "POL1",
+      "date": "23.10.2026 16:00",
+      "patternScore": 71.68,
+      "patternText": "191.904/267.728",
       "picks": 3
     },
     {
@@ -329,29 +329,50 @@
       "picks": 2
     },
     {
-      "home": "Polonia Warsaw",
-      "away": "Miedz Legnica",
-      "league": "POL1",
+      "home": "FK Dukla Prague",
+      "away": "Kladno",
+      "league": "ÇEK2",
       "date": "23.10.2026 16:00",
       "patternScore": 71.47,
-      "patternText": "188.374/263.576",
-      "picks": 3
+      "patternText": "189.546/265.224",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "US Lecce",
+      "away": "Juventus",
+      "league": "İTA",
+      "at": "23.10.2026 04:55",
+      "count": 15
+    },
+    {
+      "home": "Torino FC",
+      "away": "AC Monza",
+      "league": "İTA",
+      "at": "23.10.2026 04:54",
+      "count": 5
+    },
+    {
       "home": "VfB Stuttgart",
       "away": "Borussia Monchengladbach",
       "league": "AL1",
-      "at": "23.10.2026 04:42",
+      "at": "23.10.2026 04:53",
       "count": 14
+    },
+    {
+      "home": "Toulouse FC",
+      "away": "ESTAC Troyes",
+      "league": "FR1",
+      "at": "23.10.2026 04:44",
+      "count": 5
     },
     {
       "home": "Arsenal",
       "away": "Everton",
       "league": "İNP",
-      "at": "23.10.2026 04:29",
-      "count": 6
+      "at": "23.10.2026 04:43",
+      "count": 4
     },
     {
       "home": "Deportivo Alaves",
@@ -382,32 +403,11 @@
       "count": 5
     },
     {
-      "home": "Torino FC",
-      "away": "AC Monza",
-      "league": "İTA",
-      "at": "23.10.2026 04:19",
-      "count": 5
-    },
-    {
       "home": "FC Sochaux",
       "away": "Annecy",
       "league": "FR2",
       "at": "23.10.2026 04:18",
       "count": 6
-    },
-    {
-      "home": "Pau FC",
-      "away": "Grenoble Foot",
-      "league": "FR2",
-      "at": "23.10.2026 04:18",
-      "count": 4
-    },
-    {
-      "home": "AS Nancy",
-      "away": "Stade Lavalois",
-      "league": "FR2",
-      "at": "23.10.2026 04:17",
-      "count": 7
     }
   ],
   "paywall": {
