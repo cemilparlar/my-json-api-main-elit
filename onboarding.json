@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 02:19",
+  "updatedAt": "23.10.2026 02:34",
   "config": {
     "pages": [
       "engine",
@@ -23,32 +23,32 @@
     "days": 7,
     "last24h": {
       "won": 239,
-      "lost": 147,
-      "total": 386,
-      "rate": 61.9
+      "lost": 156,
+      "total": 395,
+      "rate": 60.5
     },
-    "totalAnalyses": 148087,
+    "totalAnalyses": 148113,
     "leagues": 537,
     "pro": {
-      "won": 172,
-      "lost": 77,
-      "total": 249,
-      "rate": 69.1
+      "won": 174,
+      "lost": 86,
+      "total": 260,
+      "rate": 66.9
     },
     "insights": {
-      "won": 310,
-      "lost": 150,
-      "total": 460,
-      "rate": 67.4
+      "won": 312,
+      "lost": 159,
+      "total": 471,
+      "rate": 66.2
     },
     "coupons": {
-      "won": 54,
-      "lost": 47,
-      "total": 101,
-      "rate": 53.5
+      "won": 56,
+      "lost": 48,
+      "total": 104,
+      "rate": 53.8
     },
-    "analyses24h": 4196,
-    "analyses30d": 22516
+    "analyses24h": 4197,
+    "analyses30d": 22519
   },
   "recentWins": [
     {
@@ -91,19 +91,6 @@
       "pro": true
     },
     {
-      "home": "Club de Regatas Vasco da Gama",
-      "away": "Boca Juniors",
-      "league": "CSA",
-      "date": "21.10.2026 00:30",
-      "prediction": "Match Result 2",
-      "odds": 2.52,
-      "probability": 71.43,
-      "patternScore": null,
-      "firstHalf": "0 - 2",
-      "finalScore": "1 - 3",
-      "pro": false
-    },
-    {
       "home": "SK Sturm Graz",
       "away": "Marseille",
       "league": "AVL",
@@ -115,9 +102,52 @@
       "firstHalf": "1 - 0",
       "finalScore": "1 - 0",
       "pro": false
+    },
+    {
+      "home": "FC Kairat Almaty",
+      "away": "Panathinaikos",
+      "league": "AVKL",
+      "date": "22.10.2026 14:30",
+      "prediction": "HT/FT 2/2",
+      "odds": 2.05,
+      "probability": 100.0,
+      "patternScore": 56.27,
+      "firstHalf": "0 - 2",
+      "finalScore": "1 - 5",
+      "pro": true
     }
   ],
   "recentCoupons": [
+    {
+      "size": 1,
+      "totalOdds": 1.32,
+      "winChance": 72.25,
+      "completedAt": "23.10.2026 02:34",
+      "legs": [
+        {
+          "home": "CR Flamengo",
+          "away": "Estudiantes de La Plata",
+          "prediction": "Both Teams to Score - No",
+          "odds": 1.32,
+          "finalScore": "0 - 0"
+        }
+      ]
+    },
+    {
+      "size": 1,
+      "totalOdds": 1.73,
+      "winChance": 56.31,
+      "completedAt": "23.10.2026 02:34",
+      "legs": [
+        {
+          "home": "CR Flamengo",
+          "away": "Estudiantes de La Plata",
+          "prediction": "Under 2.5 Goals",
+          "odds": 1.73,
+          "finalScore": "0 - 0"
+        }
+      ]
+    },
     {
       "size": 2,
       "totalOdds": 1.47,
@@ -161,36 +191,6 @@
           "finalScore": null
         }
       ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.14,
-      "winChance": 67.62,
-      "completedAt": "22.10.2026 21:17",
-      "legs": [
-        {
-          "home": "NK Celje",
-          "away": "Red Bull Salzburg",
-          "prediction": "1st Half Over 0.5",
-          "odds": 1.14,
-          "finalScore": "2 - 2"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.08,
-      "winChance": 65.27,
-      "completedAt": "22.10.2026 21:17",
-      "legs": [
-        {
-          "home": "AGF Aarhus",
-          "away": "Egnatia",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.08,
-          "finalScore": "1 - 1"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -220,11 +220,11 @@
     },
     {
       "type": "won",
-      "home": "Club de Regatas Vasco da Gama",
-      "away": "Boca Juniors",
-      "prediction": "Match Result 2",
-      "odds": 2.52,
-      "at": "21.10.2026 00:30"
+      "home": "SK Sturm Graz",
+      "away": "Marseille",
+      "prediction": "Under 2.5 Goals",
+      "odds": 2.23,
+      "at": "22.10.2026 16:45"
     },
     {
       "type": "coupon",
@@ -333,6 +333,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Paris Saint-Germain",
+      "away": "Olympique Lyonnais",
+      "league": "FR1",
+      "at": "23.10.2026 02:28",
+      "count": 14
+    },
+    {
+      "home": "Toulouse FC",
+      "away": "ESTAC Troyes",
+      "league": "FR1",
+      "at": "23.10.2026 02:27",
+      "count": 4
+    },
+    {
+      "home": "Bochum",
+      "away": "VfL Wolfsburg",
+      "league": "AL2",
+      "at": "23.10.2026 02:25",
+      "count": 10
+    },
+    {
       "home": "Deportivo Alaves",
       "away": "Malaga CF",
       "league": "İS1",
@@ -361,13 +382,6 @@
       "count": 3
     },
     {
-      "home": "Bochum",
-      "away": "VfL Wolfsburg",
-      "league": "AL2",
-      "at": "23.10.2026 02:06",
-      "count": 13
-    },
-    {
       "home": "Mirassol FC",
       "away": "Sao Paulo FC",
       "league": "BR1",
@@ -387,20 +401,6 @@
       "league": "BR1",
       "at": "23.10.2026 01:18",
       "count": 6
-    },
-    {
-      "home": "CR Flamengo",
-      "away": "Atletico Mineiro",
-      "league": "BR1",
-      "at": "23.10.2026 01:05",
-      "count": 5
-    },
-    {
-      "home": "Sport Club Internacional",
-      "away": "Botafogo de Futebol e Regatas",
-      "league": "BR1",
-      "at": "23.10.2026 01:04",
-      "count": 8
     }
   ],
   "paywall": {

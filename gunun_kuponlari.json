@@ -3,22 +3,22 @@
   "stats7": {
     "legacy": {
       "won": 92,
-      "lost": 78
+      "lost": 80
     },
     "safe": {
-      "won": 6,
+      "won": 7,
       "lost": 5
     },
     "safe_b": {
-      "won": 5,
+      "won": 6,
       "lost": 5
     },
     "surprise": {
-      "won": 2,
+      "won": 3,
       "lost": 3
     },
     "surprise_1": {
-      "won": 2,
+      "won": 3,
       "lost": 1
     },
     "surprise_3": {
@@ -33,22 +33,22 @@
   "stats30": {
     "legacy": {
       "won": 92,
-      "lost": 78
+      "lost": 80
     },
     "safe": {
-      "won": 6,
+      "won": 7,
       "lost": 5
     },
     "safe_b": {
-      "won": 5,
+      "won": 6,
       "lost": 5
     },
     "surprise": {
-      "won": 2,
+      "won": 3,
       "lost": 3
     },
     "surprise_1": {
-      "won": 2,
+      "won": 3,
       "lost": 1
     },
     "surprise_3": {
@@ -60,8 +60,8 @@
       "lost": 0
     }
   },
-  "updatedAt": "23.10.2026 02:19",
-  "updatedAtUtc": "2026-10-23T02:19:00Z",
+  "updatedAt": "23.10.2026 02:34",
+  "updatedAtUtc": "2026-10-23T02:34:00Z",
   "upcoming": [
     {
       "id": "20261022-04-1",
@@ -306,126 +306,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "pending"
-        }
-      ]
-    },
-    {
-      "id": "20261022-04-4",
-      "createdAt": "22.10.2026 01:10",
-      "createdAtUtc": "2026-10-22T01:10:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.2,
-      "winChance": 58.35,
-      "firstKickoff": "23.10.2026 00:30",
-      "lastKickoff": "23.10.2026 00:30",
-      "status": "live",
-      "completedAt": null,
-      "effectiveOdds": 1.2,
-      "legs": [
-        {
-          "matchCode": "4573617",
-          "nesine": null,
-          "date": "23.10.2026 00:30",
-          "kickoffUtc": "2026-10-23T00:30:00Z",
-          "league": "LKU",
-          "home": "CR Flamengo",
-          "away": "Estudiantes de La Plata",
-          "league_tr": "LKU",
-          "home_tr": "Flamengo",
-          "away_tr": "Estudiantes Lp",
-          "prediction": "Over 1.5 Goals",
-          "prediction_tr": "1,5 Alt/Üst Üst",
-          "odds": 1.2,
-          "probability": 100.0,
-          "patternScore": 58.35,
-          "patternText": "203.680/349.065",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261022-17-5",
-      "createdAt": "22.10.2026 14:21",
-      "createdAtUtc": "2026-10-22T14:21:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.32,
-      "winChance": 72.25,
-      "firstKickoff": "23.10.2026 00:30",
-      "lastKickoff": "23.10.2026 00:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.32,
-      "legs": [
-        {
-          "matchCode": "4573617",
-          "nesine": null,
-          "date": "23.10.2026 00:30",
-          "kickoffUtc": "2026-10-23T00:30:00Z",
-          "league": "LKU",
-          "home": "CR Flamengo",
-          "away": "Estudiantes de La Plata",
-          "league_tr": "LKU",
-          "home_tr": "Flamengo",
-          "away_tr": "Estudiantes Lp",
-          "prediction": "Both Teams to Score - No",
-          "prediction_tr": "Karşılıklı Gol Yok",
-          "odds": 1.32,
-          "probability": 100.0,
-          "patternScore": 72.25,
-          "patternText": "186.178/331.301",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261022-17-8",
-      "createdAt": "22.10.2026 14:21",
-      "createdAtUtc": "2026-10-22T14:21:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.73,
-      "winChance": 56.31,
-      "firstKickoff": "23.10.2026 00:30",
-      "lastKickoff": "23.10.2026 00:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.73,
-      "legs": [
-        {
-          "matchCode": "4573617",
-          "nesine": null,
-          "date": "23.10.2026 00:30",
-          "kickoffUtc": "2026-10-23T00:30:00Z",
-          "league": "LKU",
-          "home": "CR Flamengo",
-          "away": "Estudiantes de La Plata",
-          "league_tr": "LKU",
-          "home_tr": "Flamengo",
-          "away_tr": "Estudiantes Lp",
-          "prediction": "Under 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Alt",
-          "odds": 1.73,
-          "probability": 100.0,
-          "patternScore": 56.31,
-          "patternText": "182.168/323.499",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
         }
       ]
     },
@@ -1238,6 +1118,126 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261022-04-4",
+      "createdAt": "22.10.2026 01:10",
+      "createdAtUtc": "2026-10-22T01:10:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.2,
+      "winChance": 58.35,
+      "firstKickoff": "23.10.2026 00:30",
+      "lastKickoff": "23.10.2026 00:30",
+      "status": "lost",
+      "completedAt": "23.10.2026 02:34",
+      "effectiveOdds": 1.2,
+      "legs": [
+        {
+          "matchCode": "4573617",
+          "nesine": null,
+          "date": "23.10.2026 00:30",
+          "kickoffUtc": "2026-10-23T00:30:00Z",
+          "league": "LKU",
+          "home": "CR Flamengo",
+          "away": "Estudiantes de La Plata",
+          "league_tr": "LKU",
+          "home_tr": "Flamengo",
+          "away_tr": "Estudiantes Lp",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.2,
+          "probability": 100.0,
+          "patternScore": 58.35,
+          "patternText": "203.680/349.065",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "lost"
+        }
+      ]
+    },
+    {
+      "id": "20261022-17-5",
+      "createdAt": "22.10.2026 14:21",
+      "createdAtUtc": "2026-10-22T14:21:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.32,
+      "winChance": 72.25,
+      "firstKickoff": "23.10.2026 00:30",
+      "lastKickoff": "23.10.2026 00:30",
+      "status": "won",
+      "completedAt": "23.10.2026 02:34",
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.32,
+      "legs": [
+        {
+          "matchCode": "4573617",
+          "nesine": null,
+          "date": "23.10.2026 00:30",
+          "kickoffUtc": "2026-10-23T00:30:00Z",
+          "league": "LKU",
+          "home": "CR Flamengo",
+          "away": "Estudiantes de La Plata",
+          "league_tr": "LKU",
+          "home_tr": "Flamengo",
+          "away_tr": "Estudiantes Lp",
+          "prediction": "Both Teams to Score - No",
+          "prediction_tr": "Karşılıklı Gol Yok",
+          "odds": 1.32,
+          "probability": 100.0,
+          "patternScore": 72.25,
+          "patternText": "186.178/331.301",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "won"
+        }
+      ]
+    },
+    {
+      "id": "20261022-17-8",
+      "createdAt": "22.10.2026 14:21",
+      "createdAtUtc": "2026-10-22T14:21:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.73,
+      "winChance": 56.31,
+      "firstKickoff": "23.10.2026 00:30",
+      "lastKickoff": "23.10.2026 00:30",
+      "status": "won",
+      "completedAt": "23.10.2026 02:34",
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.73,
+      "legs": [
+        {
+          "matchCode": "4573617",
+          "nesine": null,
+          "date": "23.10.2026 00:30",
+          "kickoffUtc": "2026-10-23T00:30:00Z",
+          "league": "LKU",
+          "home": "CR Flamengo",
+          "away": "Estudiantes de La Plata",
+          "league_tr": "LKU",
+          "home_tr": "Flamengo",
+          "away_tr": "Estudiantes Lp",
+          "prediction": "Under 2.5 Goals",
+          "prediction_tr": "2,5 Alt/Üst Alt",
+          "odds": 1.73,
+          "probability": 100.0,
+          "patternScore": 56.31,
+          "patternText": "182.168/323.499",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261021-21-1",
       "createdAt": "21.10.2026 18:12",
@@ -4936,88 +4936,6 @@
           "mbs": 3,
           "firstHalf": "0 - 2",
           "finalScore": "0 - 2",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261021-16-2",
-      "createdAt": "21.10.2026 13:25",
-      "createdAtUtc": "2026-10-21T13:25:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 1.26,
-      "winChance": 32.58,
-      "firstKickoff": "22.10.2026 00:30",
-      "lastKickoff": "22.10.2026 13:00",
-      "status": "lost",
-      "completedAt": "22.10.2026 02:23",
-      "effectiveOdds": 1.26,
-      "legs": [
-        {
-          "matchCode": "4575442",
-          "nesine": null,
-          "date": "22.10.2026 00:30",
-          "kickoffUtc": "2026-10-22T00:30:00Z",
-          "league": "CONOAK",
-          "home": "Club Deportivo Firpo",
-          "away": "Deportivo Saprissa",
-          "league_tr": "CONOAK",
-          "home_tr": "Firpo",
-          "away_tr": "Deportivo Sapri",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.12,
-          "probability": 76.92,
-          "patternScore": 67.28,
-          "patternText": "263.390/391.472",
-          "mbs": 3,
-          "firstHalf": "0 - 0",
-          "finalScore": "0 - 0",
-          "status": "lost"
-        },
-        {
-          "matchCode": "4538087",
-          "nesine": null,
-          "date": "22.10.2026 12:30",
-          "kickoffUtc": "2026-10-22T12:30:00Z",
-          "league": "MSR2",
-          "home": "Deportivo Riestra",
-          "away": "El Saka El Hadi",
-          "league_tr": "MSR2",
-          "home_tr": "Derot",
-          "away_tr": "El Saka El Hadi",
-          "prediction": "Double Chance X2",
-          "prediction_tr": "Çifte Şans X-2",
-          "odds": 1.06,
-          "probability": 75.68,
-          "patternScore": 69.64,
-          "patternText": "192.123/275.888",
-          "mbs": 3,
-          "firstHalf": "1 - 3",
-          "finalScore": "1 - 5",
-          "status": "won"
-        },
-        {
-          "matchCode": "4576111",
-          "nesine": null,
-          "date": "22.10.2026 13:00",
-          "kickoffUtc": "2026-10-22T13:00:00Z",
-          "league": "BAECK",
-          "home": "Al Jazira Club",
-          "away": "Ajman",
-          "league_tr": "BAECK",
-          "home_tr": "Al Jazira",
-          "away_tr": "Ajman",
-          "prediction": "Under 4.5 Goals",
-          "prediction_tr": "4,5 Alt/Üst Alt",
-          "odds": 1.06,
-          "probability": 71.7,
-          "patternScore": 69.53,
-          "patternText": "180.385/259.425",
-          "mbs": 3,
-          "firstHalf": "0 - 0",
-          "finalScore": "1 - 0",
           "status": "won"
         }
       ]
