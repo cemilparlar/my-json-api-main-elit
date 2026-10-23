@@ -60,8 +60,8 @@
       "lost": 0
     }
   },
-  "updatedAt": "23.10.2026 19:07",
-  "updatedAtUtc": "2026-10-23T19:07:00Z",
+  "updatedAt": "23.10.2026 19:22",
+  "updatedAtUtc": "2026-10-23T19:22:00Z",
   "upcoming": [
     {
       "id": "20261023-09-1",
@@ -4110,88 +4110,6 @@
           "firstHalf": "0 - 3",
           "finalScore": "0 - 6",
           "status": "lost"
-        }
-      ]
-    },
-    {
-      "id": "20261022-14-1",
-      "createdAt": "22.10.2026 11:41",
-      "createdAtUtc": "2026-10-22T11:41:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 1.53,
-      "winChance": 31.29,
-      "firstKickoff": "22.10.2026 17:00",
-      "lastKickoff": "23.10.2026 01:00",
-      "status": "lost",
-      "completedAt": "22.10.2026 19:18",
-      "effectiveOdds": 1.53,
-      "legs": [
-        {
-          "matchCode": "4540901",
-          "nesine": null,
-          "date": "22.10.2026 17:00",
-          "kickoffUtc": "2026-10-22T17:00:00Z",
-          "league": "IRAK",
-          "home": "Al Talaba",
-          "away": "Al Jawiya",
-          "league_tr": "IRAK",
-          "home_tr": "Al Talaba",
-          "away_tr": "Al Jawiya",
-          "prediction": "Handicap (0:1) 2",
-          "prediction_tr": "Handikaplı Maç Sonucu (0:1) 2",
-          "odds": 1.21,
-          "probability": 71.42857142857143,
-          "patternScore": 67.84,
-          "patternText": "189.411/279.196",
-          "mbs": 3,
-          "firstHalf": "0 - 0",
-          "finalScore": "1 - 0",
-          "status": "lost"
-        },
-        {
-          "matchCode": "4547547",
-          "nesine": null,
-          "date": "22.10.2026 18:30",
-          "kickoffUtc": "2026-10-22T18:30:00Z",
-          "league": "EKV2",
-          "home": "Deportivo Cuenca",
-          "away": "Atletico Fc",
-          "league_tr": "EKV2",
-          "home_tr": "Deportivo Cuen",
-          "away_tr": "Atletico Fc",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.18,
-          "probability": 73.04,
-          "patternScore": 69.66,
-          "patternText": "235.910/338.658",
-          "mbs": 3,
-          "firstHalf": "0 - 1",
-          "finalScore": "2 - 2",
-          "status": "lost"
-        },
-        {
-          "matchCode": "4575446",
-          "nesine": null,
-          "date": "23.10.2026 01:00",
-          "kickoffUtc": "2026-10-23T01:00:00Z",
-          "league": "CONOAK",
-          "home": "Club Deportivo Motagua",
-          "away": "LD Alajuelense",
-          "league_tr": "CONOAK",
-          "home_tr": "Depor Motagua",
-          "away_tr": "Alajuelense",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.07,
-          "probability": 80.2,
-          "patternScore": 66.21,
-          "patternText": "174.996/264.314",
-          "mbs": 3,
-          "firstHalf": "0 - 0",
-          "finalScore": "0 - 0",
-          "status": "won"
         }
       ]
     }

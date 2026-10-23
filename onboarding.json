@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 19:07",
+  "updatedAt": "23.10.2026 19:22",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 170,
-      "lost": 54,
-      "total": 224,
-      "rate": 75.9
+      "won": 203,
+      "lost": 65,
+      "total": 268,
+      "rate": 75.7
     },
-    "totalAnalyses": 150191,
+    "totalAnalyses": 150205,
     "leagues": 538,
     "pro": {
       "won": 278,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 53.0
     },
-    "analyses24h": 4339,
-    "analyses30d": 22946
+    "analyses24h": 4338,
+    "analyses30d": 22945
   },
   "recentWins": [
     {
@@ -273,12 +273,6 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 13:08",
-      "home": "Real Union Irun",
-      "away": "CD Lugo"
-    },
-    {
-      "type": "updated",
       "at": "23.10.2026 17:52",
       "home": "Bolton Wanderers",
       "away": "Middlesbrough"
@@ -294,6 +288,12 @@
       "at": "23.10.2026 18:18",
       "home": "Ipswich Town",
       "away": "Nottingham Forest"
+    },
+    {
+      "type": "updated",
+      "at": "23.10.2026 16:23",
+      "home": "Aston Villa",
+      "away": "Manchester City"
     }
   ],
   "today": {
@@ -302,7 +302,7 @@
     "league": "NOR3",
     "date": "24.10.2026 12:00",
     "patternScore": 71.51,
-    "patternText": "258.102/360.923",
+    "patternText": "258.146/360.993",
     "picks": 2
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.51,
-      "patternText": "258.102/360.923",
+      "patternText": "258.146/360.993",
       "picks": 2
     },
     {
@@ -321,7 +321,7 @@
       "league": "DAN3",
       "date": "24.10.2026 12:30",
       "patternScore": 71.51,
-      "patternText": "260.089/363.712",
+      "patternText": "260.121/363.774",
       "picks": 2
     },
     {
@@ -330,7 +330,7 @@
       "league": "İTC",
       "date": "24.10.2026 12:30",
       "patternScore": 71.42,
-      "patternText": "247.065/345.921",
+      "patternText": "247.097/345.971",
       "picks": 1
     },
     {
@@ -339,7 +339,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.38,
-      "patternText": "249.186/349.074",
+      "patternText": "249.218/349.124",
       "picks": 1
     },
     {
@@ -348,11 +348,18 @@
       "league": "TAY",
       "date": "24.10.2026 12:30",
       "patternScore": 71.38,
-      "patternText": "245.031/343.255",
+      "patternText": "245.063/343.305",
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Arsenal",
+      "away": "Everton",
+      "league": "İNP",
+      "at": "23.10.2026 19:20",
+      "count": 6
+    },
     {
       "home": "Atletico Madrid",
       "away": "Deportivo La Coruna",
@@ -415,13 +422,6 @@
       "league": "TSL",
       "at": "23.10.2026 18:20",
       "count": 6
-    },
-    {
-      "home": "Ipswich Town",
-      "away": "Nottingham Forest",
-      "league": "İNP",
-      "at": "23.10.2026 18:18",
-      "count": 5
     }
   ],
   "paywall": {
