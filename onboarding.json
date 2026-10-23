@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 19:52",
+  "updatedAt": "23.10.2026 20:07",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 210,
-      "lost": 67,
-      "total": 277,
-      "rate": 75.8
+      "won": 238,
+      "lost": 73,
+      "total": 311,
+      "rate": 76.5
     },
-    "totalAnalyses": 150225,
+    "totalAnalyses": 150239,
     "leagues": 538,
     "pro": {
-      "won": 283,
-      "lost": 150,
-      "total": 433,
-      "rate": 65.4
+      "won": 321,
+      "lost": 163,
+      "total": 484,
+      "rate": 66.3
     },
     "insights": {
-      "won": 491,
-      "lost": 266,
-      "total": 757,
-      "rate": 64.9
+      "won": 559,
+      "lost": 292,
+      "total": 851,
+      "rate": 65.7
     },
     "coupons": {
-      "won": 61,
-      "lost": 54,
-      "total": 115,
-      "rate": 53.0
+      "won": 62,
+      "lost": 57,
+      "total": 119,
+      "rate": 52.1
     },
-    "analyses24h": 4340,
-    "analyses30d": 22947
+    "analyses24h": 4345,
+    "analyses30d": 22952
   },
   "recentWins": [
     {
@@ -302,7 +302,7 @@
     "league": "NOR3",
     "date": "24.10.2026 12:00",
     "patternScore": 71.51,
-    "patternText": "258.148/360.999",
+    "patternText": "258.152/361.003",
     "picks": 2
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.51,
-      "patternText": "258.148/360.999",
+      "patternText": "258.152/361.003",
       "picks": 2
     },
     {
@@ -321,7 +321,7 @@
       "league": "İTC",
       "date": "24.10.2026 12:30",
       "patternScore": 71.42,
-      "patternText": "247.099/345.977",
+      "patternText": "247.103/345.981",
       "picks": 1
     },
     {
@@ -330,7 +330,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.38,
-      "patternText": "249.220/349.130",
+      "patternText": "249.224/349.134",
       "picks": 1
     },
     {
@@ -339,7 +339,7 @@
       "league": "TAY",
       "date": "24.10.2026 12:30",
       "patternScore": 71.38,
-      "patternText": "245.065/343.311",
+      "patternText": "245.069/343.315",
       "picks": 1
     },
     {
@@ -348,11 +348,39 @@
       "league": "LIT1",
       "date": "24.10.2026 12:00",
       "patternScore": 71.37,
-      "patternText": "248.692/348.452",
+      "patternText": "248.696/348.456",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "AJ Auxerre",
+      "away": "Le Mans FC",
+      "league": "FR1",
+      "at": "23.10.2026 19:56",
+      "count": 7
+    },
+    {
+      "home": "Atletico Madrid",
+      "away": "Deportivo La Coruna",
+      "league": "İS1",
+      "at": "23.10.2026 19:54",
+      "count": 13
+    },
+    {
+      "home": "Racing Santander",
+      "away": "RCD Espanyol",
+      "league": "İS1",
+      "at": "23.10.2026 19:53",
+      "count": 6
+    },
+    {
+      "home": "SSC Napoli",
+      "away": "AS Roma",
+      "league": "İTA",
+      "at": "23.10.2026 19:53",
+      "count": 3
+    },
     {
       "home": "FC Koln",
       "away": "FC Schalke 04",
@@ -382,13 +410,6 @@
       "count": 10
     },
     {
-      "home": "Atletico Madrid",
-      "away": "Deportivo La Coruna",
-      "league": "İS1",
-      "at": "23.10.2026 19:23",
-      "count": 11
-    },
-    {
       "home": "Crystal Palace",
       "away": "Newcastle United",
       "league": "İNP",
@@ -401,27 +422,6 @@
       "league": "İTA",
       "at": "23.10.2026 19:23",
       "count": 12
-    },
-    {
-      "home": "Columbus Crew",
-      "away": "Toronto FC",
-      "league": "ABD",
-      "at": "23.10.2026 18:56",
-      "count": 9
-    },
-    {
-      "home": "RC Lens",
-      "away": "Paris FC",
-      "league": "FR1",
-      "at": "23.10.2026 18:55",
-      "count": 5
-    },
-    {
-      "home": "Chelsea",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "23.10.2026 18:54",
-      "count": 4
     }
   ],
   "paywall": {

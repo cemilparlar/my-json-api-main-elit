@@ -6,16 +6,16 @@
       "lost": 88
     },
     "safe": {
-      "won": 8,
-      "lost": 5
+      "won": 9,
+      "lost": 7
     },
     "safe_b": {
-      "won": 7,
-      "lost": 5
+      "won": 8,
+      "lost": 7
     },
     "surprise": {
       "won": 5,
-      "lost": 5
+      "lost": 6
     },
     "surprise_1": {
       "won": 4,
@@ -28,6 +28,10 @@
     "safe_a": {
       "won": 1,
       "lost": 0
+    },
+    "surprise_2": {
+      "won": 0,
+      "lost": 1
     }
   },
   "stats30": {
@@ -36,16 +40,16 @@
       "lost": 88
     },
     "safe": {
-      "won": 8,
-      "lost": 5
+      "won": 9,
+      "lost": 7
     },
     "safe_b": {
-      "won": 7,
-      "lost": 5
+      "won": 8,
+      "lost": 7
     },
     "surprise": {
       "won": 5,
-      "lost": 5
+      "lost": 6
     },
     "surprise_1": {
       "won": 4,
@@ -58,219 +62,15 @@
     "safe_a": {
       "won": 1,
       "lost": 0
+    },
+    "surprise_2": {
+      "won": 0,
+      "lost": 1
     }
   },
-  "updatedAt": "23.10.2026 19:52",
-  "updatedAtUtc": "2026-10-23T19:52:00Z",
+  "updatedAt": "23.10.2026 20:07",
+  "updatedAtUtc": "2026-10-23T20:07:00Z",
   "upcoming": [
-    {
-      "id": "20261023-09-1",
-      "createdAt": "23.10.2026 06:05",
-      "createdAtUtc": "2026-10-23T06:05:00Z",
-      "size": 2,
-      "mbs": 2,
-      "totalOdds": 2.09,
-      "winChance": 65.83,
-      "firstKickoff": "23.10.2026 13:15",
-      "lastKickoff": "23.10.2026 18:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 2.09,
-      "legs": [
-        {
-          "matchCode": "4571526",
-          "nesine": null,
-          "date": "23.10.2026 13:15",
-          "kickoffUtc": "2026-10-23T13:15:00Z",
-          "league": "IRAN",
-          "home": "Chadormalu",
-          "away": "Esteghlal",
-          "league_tr": "IRAN",
-          "home_tr": "Chadormalu",
-          "away_tr": "Esteghlal",
-          "prediction": "1st Half Over 0.5",
-          "prediction_tr": "1. Yarı 0,5 Alt/Üst Üst",
-          "odds": 1.33,
-          "probability": 77.78,
-          "patternScore": 78.47,
-          "patternText": "236.494/350.554",
-          "mbs": 2,
-          "firstHalf": "0 - 1",
-          "finalScore": "1 - 1",
-          "status": "won"
-        },
-        {
-          "matchCode": "4476896",
-          "nesine": null,
-          "date": "23.10.2026 18:00",
-          "kickoffUtc": "2026-10-23T18:00:00Z",
-          "league": "FR2",
-          "home": "AS Nancy",
-          "away": "Stade Lavalois",
-          "league_tr": "FR2",
-          "home_tr": "Nancy",
-          "away_tr": "Stade Lavallois",
-          "prediction": "Over 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Üst",
-          "odds": 1.57,
-          "probability": 75.0,
-          "patternScore": 83.89,
-          "patternText": "239.437/358.039",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261023-08-1",
-      "createdAt": "23.10.2026 05:14",
-      "createdAtUtc": "2026-10-23T05:14:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 2.43,
-      "winChance": 41.58,
-      "firstKickoff": "23.10.2026 18:00",
-      "lastKickoff": "23.10.2026 18:45",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_2",
-      "group": "surprise",
-      "formula": "2",
-      "effectiveOdds": 2.43,
-      "legs": [
-        {
-          "matchCode": "4481564",
-          "nesine": null,
-          "date": "23.10.2026 18:00",
-          "kickoffUtc": "2026-10-23T18:00:00Z",
-          "league": "HOL",
-          "home": "Go Ahead Eagles",
-          "away": "SC Telstar",
-          "league_tr": "HOL",
-          "home_tr": "Go Ahead Eagle",
-          "away_tr": "Telstar",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.58,
-          "probability": 75.0,
-          "patternScore": 72.58,
-          "patternText": "277.465/428.809",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4475120",
-          "nesine": null,
-          "date": "23.10.2026 18:45",
-          "kickoffUtc": "2026-10-23T18:45:00Z",
-          "league": "İTA",
-          "home": "Torino FC",
-          "away": "AC Monza",
-          "league_tr": "İTA",
-          "home_tr": "Torino",
-          "away_tr": "Monza",
-          "prediction": "Both Teams to Score - Yes",
-          "prediction_tr": "Karşılıklı Gol Var",
-          "odds": 1.54,
-          "probability": 75.0,
-          "patternScore": 57.29,
-          "patternText": "218.222/322.467",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261023-09-2",
-      "createdAt": "23.10.2026 06:05",
-      "createdAtUtc": "2026-10-23T06:05:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.54,
-      "winChance": 69.81,
-      "firstKickoff": "23.10.2026 18:00",
-      "lastKickoff": "23.10.2026 18:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.54,
-      "legs": [
-        {
-          "matchCode": "4481564",
-          "nesine": null,
-          "date": "23.10.2026 18:00",
-          "kickoffUtc": "2026-10-23T18:00:00Z",
-          "league": "HOL",
-          "home": "Go Ahead Eagles",
-          "away": "SC Telstar",
-          "league_tr": "HOL",
-          "home_tr": "Go Ahead Eagle",
-          "away_tr": "Telstar",
-          "prediction": "Under 3.5 Goals",
-          "prediction_tr": "3,5 Alt/Üst Alt",
-          "odds": 1.54,
-          "probability": 75.0,
-          "patternScore": 69.81,
-          "patternText": "288.601/446.249",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261023-13-1",
-      "createdAt": "23.10.2026 10:13",
-      "createdAtUtc": "2026-10-23T10:13:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.3,
-      "winChance": 69.81,
-      "firstKickoff": "23.10.2026 18:00",
-      "lastKickoff": "23.10.2026 18:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.3,
-      "legs": [
-        {
-          "matchCode": "4476894",
-          "nesine": null,
-          "date": "23.10.2026 18:00",
-          "kickoffUtc": "2026-10-23T18:00:00Z",
-          "league": "FR2",
-          "home": "USL Dunkerque",
-          "away": "FC Metz",
-          "league_tr": "FR2",
-          "home_tr": "Dunkerque",
-          "away_tr": "Metz",
-          "prediction": "Under 3.5 Goals",
-          "prediction_tr": "3,5 Alt/Üst Alt",
-          "odds": 1.3,
-          "probability": 82.35,
-          "patternScore": 69.81,
-          "patternText": "258.620/379.705",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261022-22-1",
       "createdAt": "22.10.2026 19:05",
@@ -1843,6 +1643,214 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261023-08-1",
+      "createdAt": "23.10.2026 05:14",
+      "createdAtUtc": "2026-10-23T05:14:00Z",
+      "size": 2,
+      "mbs": 1,
+      "totalOdds": 2.43,
+      "winChance": 41.58,
+      "firstKickoff": "23.10.2026 18:00",
+      "lastKickoff": "23.10.2026 18:45",
+      "status": "lost",
+      "completedAt": "23.10.2026 20:07",
+      "kind": "surprise_2",
+      "group": "surprise",
+      "formula": "2",
+      "effectiveOdds": 2.43,
+      "legs": [
+        {
+          "matchCode": "4481564",
+          "nesine": null,
+          "date": "23.10.2026 18:00",
+          "kickoffUtc": "2026-10-23T18:00:00Z",
+          "league": "HOL",
+          "home": "Go Ahead Eagles",
+          "away": "SC Telstar",
+          "league_tr": "HOL",
+          "home_tr": "Go Ahead Eagle",
+          "away_tr": "Telstar",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.58,
+          "probability": 75.0,
+          "patternScore": 72.58,
+          "patternText": "277.465/428.809",
+          "mbs": 1,
+          "firstHalf": "2 - 0",
+          "finalScore": "3 - 2",
+          "status": "lost"
+        },
+        {
+          "matchCode": "4475120",
+          "nesine": null,
+          "date": "23.10.2026 18:45",
+          "kickoffUtc": "2026-10-23T18:45:00Z",
+          "league": "İTA",
+          "home": "Torino FC",
+          "away": "AC Monza",
+          "league_tr": "İTA",
+          "home_tr": "Torino",
+          "away_tr": "Monza",
+          "prediction": "Both Teams to Score - Yes",
+          "prediction_tr": "Karşılıklı Gol Var",
+          "odds": 1.54,
+          "probability": 75.0,
+          "patternScore": 57.29,
+          "patternText": "218.222/322.467",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "id": "20261023-09-1",
+      "createdAt": "23.10.2026 06:05",
+      "createdAtUtc": "2026-10-23T06:05:00Z",
+      "size": 2,
+      "mbs": 2,
+      "totalOdds": 2.09,
+      "winChance": 65.83,
+      "firstKickoff": "23.10.2026 13:15",
+      "lastKickoff": "23.10.2026 18:00",
+      "status": "lost",
+      "completedAt": "23.10.2026 20:07",
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 2.09,
+      "legs": [
+        {
+          "matchCode": "4571526",
+          "nesine": null,
+          "date": "23.10.2026 13:15",
+          "kickoffUtc": "2026-10-23T13:15:00Z",
+          "league": "IRAN",
+          "home": "Chadormalu",
+          "away": "Esteghlal",
+          "league_tr": "IRAN",
+          "home_tr": "Chadormalu",
+          "away_tr": "Esteghlal",
+          "prediction": "1st Half Over 0.5",
+          "prediction_tr": "1. Yarı 0,5 Alt/Üst Üst",
+          "odds": 1.33,
+          "probability": 77.78,
+          "patternScore": 78.47,
+          "patternText": "236.494/350.554",
+          "mbs": 2,
+          "firstHalf": "0 - 1",
+          "finalScore": "1 - 1",
+          "status": "won"
+        },
+        {
+          "matchCode": "4476896",
+          "nesine": null,
+          "date": "23.10.2026 18:00",
+          "kickoffUtc": "2026-10-23T18:00:00Z",
+          "league": "FR2",
+          "home": "AS Nancy",
+          "away": "Stade Lavalois",
+          "league_tr": "FR2",
+          "home_tr": "Nancy",
+          "away_tr": "Stade Lavallois",
+          "prediction": "Over 2.5 Goals",
+          "prediction_tr": "2,5 Alt/Üst Üst",
+          "odds": 1.57,
+          "probability": 75.0,
+          "patternScore": 83.89,
+          "patternText": "239.437/358.039",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 0",
+          "status": "lost"
+        }
+      ]
+    },
+    {
+      "id": "20261023-09-2",
+      "createdAt": "23.10.2026 06:05",
+      "createdAtUtc": "2026-10-23T06:05:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.54,
+      "winChance": 69.81,
+      "firstKickoff": "23.10.2026 18:00",
+      "lastKickoff": "23.10.2026 18:00",
+      "status": "lost",
+      "completedAt": "23.10.2026 20:07",
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.54,
+      "legs": [
+        {
+          "matchCode": "4481564",
+          "nesine": null,
+          "date": "23.10.2026 18:00",
+          "kickoffUtc": "2026-10-23T18:00:00Z",
+          "league": "HOL",
+          "home": "Go Ahead Eagles",
+          "away": "SC Telstar",
+          "league_tr": "HOL",
+          "home_tr": "Go Ahead Eagle",
+          "away_tr": "Telstar",
+          "prediction": "Under 3.5 Goals",
+          "prediction_tr": "3,5 Alt/Üst Alt",
+          "odds": 1.54,
+          "probability": 75.0,
+          "patternScore": 69.81,
+          "patternText": "288.601/446.249",
+          "mbs": 1,
+          "firstHalf": "2 - 0",
+          "finalScore": "3 - 2",
+          "status": "lost"
+        }
+      ]
+    },
+    {
+      "id": "20261023-13-1",
+      "createdAt": "23.10.2026 10:13",
+      "createdAtUtc": "2026-10-23T10:13:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.3,
+      "winChance": 69.81,
+      "firstKickoff": "23.10.2026 18:00",
+      "lastKickoff": "23.10.2026 18:00",
+      "status": "won",
+      "completedAt": "23.10.2026 20:07",
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.3,
+      "legs": [
+        {
+          "matchCode": "4476894",
+          "nesine": null,
+          "date": "23.10.2026 18:00",
+          "kickoffUtc": "2026-10-23T18:00:00Z",
+          "league": "FR2",
+          "home": "USL Dunkerque",
+          "away": "FC Metz",
+          "league_tr": "FR2",
+          "home_tr": "Dunkerque",
+          "away_tr": "Metz",
+          "prediction": "Under 3.5 Goals",
+          "prediction_tr": "3,5 Alt/Üst Alt",
+          "odds": 1.3,
+          "probability": 82.35,
+          "patternScore": 69.81,
+          "patternText": "258.620/379.705",
+          "mbs": 1,
+          "firstHalf": "0 - 1",
+          "finalScore": "1 - 1",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261022-20-2",
       "createdAt": "22.10.2026 17:12",
