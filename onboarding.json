@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 03:37",
+  "updatedAt": "23.10.2026 03:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 392,
       "rate": 59.7
     },
-    "totalAnalyses": 148160,
+    "totalAnalyses": 148162,
     "leagues": 537,
     "pro": {
       "won": 176,
@@ -47,8 +47,8 @@
       "total": 105,
       "rate": 54.3
     },
-    "analyses24h": 4170,
-    "analyses30d": 22500
+    "analyses24h": 4169,
+    "analyses30d": 22499
   },
   "recentWins": [
     {
@@ -340,18 +340,39 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Aston Villa",
-      "away": "Manchester City",
+      "home": "Deportivo Alaves",
+      "away": "Malaga CF",
+      "league": "İS1",
+      "at": "23.10.2026 03:49",
+      "count": 9
+    },
+    {
+      "home": "Manchester United",
+      "away": "AFC Bournemouth",
       "league": "İNP",
-      "at": "23.10.2026 03:20",
+      "at": "23.10.2026 03:49",
+      "count": 7
+    },
+    {
+      "home": "Ipswich Town",
+      "away": "Nottingham Forest",
+      "league": "İNP",
+      "at": "23.10.2026 03:45",
       "count": 4
     },
     {
       "home": "Go Ahead Eagles",
       "away": "SC Telstar",
       "league": "HOL",
-      "at": "23.10.2026 03:19",
-      "count": 16
+      "at": "23.10.2026 03:45",
+      "count": 10
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "23.10.2026 03:20",
+      "count": 4
     },
     {
       "home": "Empoli",
@@ -375,13 +396,6 @@
       "count": 13
     },
     {
-      "home": "Deportivo Alaves",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "23.10.2026 02:52",
-      "count": 5
-    },
-    {
       "home": "Bolton Wanderers",
       "away": "Middlesbrough",
       "league": "İNCL",
@@ -389,25 +403,11 @@
       "count": 6
     },
     {
-      "home": "Ipswich Town",
-      "away": "Nottingham Forest",
-      "league": "İNP",
-      "at": "23.10.2026 02:40",
-      "count": 4
-    },
-    {
       "home": "VfB Stuttgart",
       "away": "Borussia Monchengladbach",
       "league": "AL1",
       "at": "23.10.2026 02:40",
       "count": 17
-    },
-    {
-      "home": "Paris Saint-Germain",
-      "away": "Olympique Lyonnais",
-      "league": "FR1",
-      "at": "23.10.2026 02:28",
-      "count": 14
     }
   ],
   "paywall": {
