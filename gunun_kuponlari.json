@@ -15,11 +15,11 @@
     },
     "surprise": {
       "won": 6,
-      "lost": 7
+      "lost": 8
     },
     "surprise_1": {
       "won": 5,
-      "lost": 2
+      "lost": 3
     },
     "surprise_3": {
       "won": 1,
@@ -49,11 +49,11 @@
     },
     "surprise": {
       "won": 6,
-      "lost": 7
+      "lost": 8
     },
     "surprise_1": {
       "won": 5,
-      "lost": 2
+      "lost": 3
     },
     "surprise_3": {
       "won": 1,
@@ -68,8 +68,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "24.10.2026 12:35",
-  "updatedAtUtc": "2026-10-24T12:35:00Z",
+  "updatedAt": "24.10.2026 12:51",
+  "updatedAtUtc": "2026-10-24T12:51:00Z",
   "upcoming": [
     {
       "id": "20261023-15-3",
@@ -323,47 +323,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "pending"
-        }
-      ]
-    },
-    {
-      "id": "20261023-14-2",
-      "createdAt": "23.10.2026 11:14",
-      "createdAtUtc": "2026-10-23T11:14:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.74,
-      "winChance": 57.79,
-      "firstKickoff": "24.10.2026 10:30",
-      "lastKickoff": "24.10.2026 10:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.74,
-      "legs": [
-        {
-          "matchCode": "4542726",
-          "nesine": null,
-          "date": "24.10.2026 10:30",
-          "kickoffUtc": "2026-10-24T10:30:00Z",
-          "league": "TSL",
-          "home": "Eyupspor",
-          "away": "Kasimpasa",
-          "league_tr": "TSL",
-          "home_tr": "Eyüpspor",
-          "away_tr": "Kasimpaşa",
-          "prediction": "Over 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Üst",
-          "odds": 1.74,
-          "probability": 100.0,
-          "patternScore": 57.79,
-          "patternText": "242.546/419.674",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
         }
       ]
     },
@@ -1542,6 +1501,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261023-14-2",
+      "createdAt": "23.10.2026 11:14",
+      "createdAtUtc": "2026-10-23T11:14:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.74,
+      "winChance": 57.79,
+      "firstKickoff": "24.10.2026 10:30",
+      "lastKickoff": "24.10.2026 10:30",
+      "status": "lost",
+      "completedAt": "24.10.2026 12:51",
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.74,
+      "legs": [
+        {
+          "matchCode": "4542726",
+          "nesine": null,
+          "date": "24.10.2026 10:30",
+          "kickoffUtc": "2026-10-24T10:30:00Z",
+          "league": "TSL",
+          "home": "Eyupspor",
+          "away": "Kasimpasa",
+          "league_tr": "TSL",
+          "home_tr": "Eyüpspor",
+          "away_tr": "Kasimpaşa",
+          "prediction": "Over 2.5 Goals",
+          "prediction_tr": "2,5 Alt/Üst Üst",
+          "odds": 1.74,
+          "probability": 100.0,
+          "patternScore": 57.79,
+          "patternText": "242.546/419.674",
+          "mbs": 1,
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 1",
+          "status": "lost"
+        }
+      ]
+    },
     {
       "id": "20261023-17-4",
       "createdAt": "23.10.2026 14:13",
