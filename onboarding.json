@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 04:43",
+  "updatedAt": "24.10.2026 05:01",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 494,
       "rate": 80.0
     },
-    "totalAnalyses": 150753,
+    "totalAnalyses": 150819,
     "leagues": 538,
     "pro": {
-      "won": 392,
+      "won": 393,
       "lost": 177,
-      "total": 569,
+      "total": 570,
       "rate": 68.9
     },
     "insights": {
-      "won": 681,
-      "lost": 325,
-      "total": 1006,
-      "rate": 67.7
+      "won": 686,
+      "lost": 326,
+      "total": 1012,
+      "rate": 67.8
     },
     "coupons": {
       "won": 65,
@@ -47,8 +47,8 @@
       "total": 129,
       "rate": 50.4
     },
-    "analyses24h": 4381,
-    "analyses30d": 22977
+    "analyses24h": 4367,
+    "analyses30d": 22963
   },
   "recentWins": [
     {
@@ -325,6 +325,15 @@
       "picks": 2
     },
     {
+      "home": "Suwon FC",
+      "away": "Asan Mugunghwa",
+      "league": "GKOR2",
+      "date": "25.10.2026 05:00",
+      "patternScore": 71.51,
+      "patternText": "181.720/254.114",
+      "picks": 1
+    },
+    {
       "home": "Mfk Bytca",
       "away": "FK Tatran Presov",
       "league": "SLVK2",
@@ -341,87 +350,78 @@
       "patternScore": 71.39,
       "patternText": "245.527/343.907",
       "picks": 1
-    },
-    {
-      "home": "Portland Heart",
-      "away": "Charlotte Indep",
-      "league": "USL1",
-      "date": "24.10.2026 21:00",
-      "patternScore": 71.36,
-      "patternText": "127.680/178.927",
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Coventry City",
-      "away": "Fulham",
-      "league": "İNP",
-      "at": "24.10.2026 04:41",
-      "count": 6
-    },
-    {
-      "home": "Arsenal",
-      "away": "Everton",
-      "league": "İNP",
-      "at": "24.10.2026 04:40",
-      "count": 3
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "Union Berlin",
-      "league": "AL1",
-      "at": "24.10.2026 04:38",
+      "home": "Gil Vicente FC",
+      "away": "FC Porto",
+      "league": "POR",
+      "at": "24.10.2026 04:56",
       "count": 10
     },
     {
-      "home": "FC Koln",
-      "away": "FC Schalke 04",
-      "league": "AL1",
-      "at": "24.10.2026 04:38",
-      "count": 7
+      "home": "Atletico Madrid",
+      "away": "Deportivo La Coruna",
+      "league": "İS1",
+      "at": "24.10.2026 04:55",
+      "count": 8
     },
     {
-      "home": "Muglaspor",
-      "away": "Istanbulspor",
-      "league": "T1L",
-      "at": "24.10.2026 04:37",
+      "home": "SS Lazio",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "24.10.2026 04:55",
+      "count": 8
+    },
+    {
+      "home": "KVC Westerlo",
+      "away": "Waasland-Beveren",
+      "league": "BEL",
+      "at": "24.10.2026 04:54",
+      "count": 8
+    },
+    {
+      "home": "RC Lens",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "24.10.2026 04:54",
+      "count": 8
+    },
+    {
+      "home": "FC Alverca",
+      "away": "FC Arouca",
+      "league": "POR",
+      "at": "24.10.2026 04:52",
+      "count": 6
+    },
+    {
+      "home": "Valencia CF",
+      "away": "Villarreal CF",
+      "league": "İS1",
+      "at": "24.10.2026 04:51",
+      "count": 9
+    },
+    {
+      "home": "Chelsea",
+      "away": "Tottenham Hotspur",
+      "league": "İNP",
+      "at": "24.10.2026 04:51",
+      "count": 8
+    },
+    {
+      "home": "Borussia Dortmund",
+      "away": "Eintracht Frankfurt",
+      "league": "AL1",
+      "at": "24.10.2026 04:51",
+      "count": 12
+    },
+    {
+      "home": "FK Krasnodar",
+      "away": "Baltika Kaliningrad",
+      "league": "RUS",
+      "at": "24.10.2026 04:51",
       "count": 4
-    },
-    {
-      "home": "Virtus Entella",
-      "away": "Mantova 1911",
-      "league": "İTB",
-      "at": "24.10.2026 04:37",
-      "count": 7
-    },
-    {
-      "home": "SC Paderborn",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "24.10.2026 04:37",
-      "count": 5
-    },
-    {
-      "home": "Gaziantep FK",
-      "away": "Erzurumspor FK",
-      "league": "TSL",
-      "at": "24.10.2026 04:36",
-      "count": 6
-    },
-    {
-      "home": "Cagliari Calcio",
-      "away": "Bologna FC",
-      "league": "İTA",
-      "at": "24.10.2026 04:36",
-      "count": 10
-    },
-    {
-      "home": "Como 1907",
-      "away": "US Sassuolo",
-      "league": "İTA",
-      "at": "24.10.2026 04:36",
-      "count": 14
     }
   ],
   "paywall": {
