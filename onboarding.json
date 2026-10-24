@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 19:25",
+  "updatedAt": "24.10.2026 20:49",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 845,
+      "won": 834,
       "lost": 191,
-      "total": 1036,
-      "rate": 81.6
+      "total": 1025,
+      "rate": 81.4
     },
-    "totalAnalyses": 151112,
+    "totalAnalyses": 151133,
     "leagues": 537,
     "pro": {
-      "won": 786,
-      "lost": 350,
-      "total": 1136,
-      "rate": 69.2
+      "won": 807,
+      "lost": 363,
+      "total": 1170,
+      "rate": 69.0
     },
     "insights": {
-      "won": 1419,
-      "lost": 636,
-      "total": 2055,
-      "rate": 69.1
+      "won": 1454,
+      "lost": 654,
+      "total": 2108,
+      "rate": 69.0
     },
     "coupons": {
       "won": 80,
@@ -47,8 +47,8 @@
       "total": 151,
       "rate": 53.0
     },
-    "analyses24h": 3705,
-    "analyses30d": 22825
+    "analyses24h": 3695,
+    "analyses30d": 22822
   },
   "recentWins": [
     {
@@ -350,16 +350,37 @@
       "picks": 1
     },
     {
-      "home": "Portland Heart",
-      "away": "Charlotte Indep",
-      "league": "USL1",
-      "date": "24.10.2026 21:00",
-      "patternScore": 71.38,
-      "patternText": "128.516/180.051",
+      "home": "Urawa Red Diamonds",
+      "away": "V-Varen Nagasaki",
+      "league": "JAP",
+      "date": "25.10.2026 06:00",
+      "patternScore": 71.35,
+      "patternText": "198.104/277.669",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Portland Timbers",
+      "away": "Charlotte FC",
+      "league": "ABD",
+      "at": "24.10.2026 20:35",
+      "count": 4
+    },
+    {
+      "home": "Houston Dynamo",
+      "away": "Minnesota United",
+      "league": "ABD",
+      "at": "24.10.2026 20:34",
+      "count": 10
+    },
+    {
+      "home": "Salt Lake",
+      "away": "St. Louis City SC",
+      "league": "ABD",
+      "at": "24.10.2026 20:34",
+      "count": 7
+    },
     {
       "home": "Manchester United",
       "away": "AFC Bournemouth",
@@ -408,27 +429,6 @@
       "league": "İNP",
       "at": "24.10.2026 13:13",
       "count": 6
-    },
-    {
-      "home": "Cardiff City",
-      "away": "Birmingham City",
-      "league": "İNCL",
-      "at": "24.10.2026 13:12",
-      "count": 16
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "Union Berlin",
-      "league": "AL1",
-      "at": "24.10.2026 12:56",
-      "count": 9
-    },
-    {
-      "home": "FSV Mainz 05",
-      "away": "Werder Bremen",
-      "league": "AL1",
-      "at": "24.10.2026 12:13",
-      "count": 16
     }
   ],
   "paywall": {
