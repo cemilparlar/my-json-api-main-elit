@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 13:40",
+  "updatedAt": "24.10.2026 13:58",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 432,
-      "lost": 96,
-      "total": 528,
-      "rate": 81.8
+      "won": 431,
+      "lost": 94,
+      "total": 525,
+      "rate": 82.1
     },
     "totalAnalyses": 151096,
     "leagues": 538,
     "pro": {
-      "won": 475,
-      "lost": 215,
-      "total": 690,
-      "rate": 68.8
+      "won": 506,
+      "lost": 225,
+      "total": 731,
+      "rate": 69.2
     },
     "insights": {
-      "won": 851,
-      "lost": 395,
-      "total": 1246,
-      "rate": 68.3
+      "won": 907,
+      "lost": 410,
+      "total": 1317,
+      "rate": 68.9
     },
     "coupons": {
-      "won": 66,
-      "lost": 65,
-      "total": 131,
-      "rate": 50.4
+      "won": 68,
+      "lost": 66,
+      "total": 134,
+      "rate": 50.7
     },
     "analyses24h": 4218,
     "analyses30d": 22919
@@ -148,6 +148,35 @@
       ]
     },
     {
+      "size": 3,
+      "totalOdds": 3.63,
+      "winChance": 44.65,
+      "completedAt": "24.10.2026 13:58",
+      "legs": [
+        {
+          "home": "Gimnasia La Plata",
+          "away": "CA Sarmiento",
+          "prediction": "Both Teams to Score - No",
+          "odds": 1.58,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "Aston Villa",
+          "away": "Manchester City",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.53,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Tottenham Hots",
+          "away": "Arsenal Women",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.5,
+          "finalScore": "1 - 2"
+        }
+      ]
+    },
+    {
       "size": 2,
       "totalOdds": 2.23,
       "winChance": 65.58,
@@ -195,21 +224,6 @@
           "prediction": "Double Chance 1X",
           "odds": 1.08,
           "finalScore": "0 - 0"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.81,
-      "winChance": 78.47,
-      "completedAt": "23.10.2026 21:06",
-      "legs": [
-        {
-          "home": "Deportivo Alaves",
-          "away": "Malaga CF",
-          "prediction": "Both Teams to Score - Yes",
-          "odds": 1.81,
-          "finalScore": "1 - 1"
         }
       ]
     }
