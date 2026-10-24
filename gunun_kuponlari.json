@@ -6,24 +6,24 @@
       "lost": 88
     },
     "safe": {
-      "won": 23,
+      "won": 24,
       "lost": 16
     },
     "safe_b": {
-      "won": 18,
+      "won": 19,
       "lost": 12
     },
     "surprise": {
-      "won": 11,
-      "lost": 12
+      "won": 12,
+      "lost": 13
     },
     "surprise_1": {
-      "won": 6,
+      "won": 7,
       "lost": 5
     },
     "surprise_3": {
       "won": 3,
-      "lost": 5
+      "lost": 6
     },
     "safe_a": {
       "won": 5,
@@ -40,24 +40,24 @@
       "lost": 88
     },
     "safe": {
-      "won": 23,
+      "won": 24,
       "lost": 16
     },
     "safe_b": {
-      "won": 18,
+      "won": 19,
       "lost": 12
     },
     "surprise": {
-      "won": 11,
-      "lost": 12
+      "won": 12,
+      "lost": 13
     },
     "surprise_1": {
-      "won": 6,
+      "won": 7,
       "lost": 5
     },
     "surprise_3": {
       "won": 3,
-      "lost": 5
+      "lost": 6
     },
     "safe_a": {
       "won": 5,
@@ -68,91 +68,9 @@
       "lost": 2
     }
   },
-  "updatedAt": "24.10.2026 23:31",
-  "updatedAtUtc": "2026-10-24T23:31:00Z",
+  "updatedAt": "24.10.2026 23:47",
+  "updatedAtUtc": "2026-10-24T23:47:00Z",
   "upcoming": [
-    {
-      "id": "20261024-01-1",
-      "createdAt": "23.10.2026 22:05",
-      "createdAtUtc": "2026-10-23T22:05:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.74,
-      "winChance": 67.66,
-      "firstKickoff": "24.10.2026 21:30",
-      "lastKickoff": "24.10.2026 21:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.74,
-      "legs": [
-        {
-          "matchCode": "4423340",
-          "nesine": null,
-          "date": "24.10.2026 21:30",
-          "kickoffUtc": "2026-10-24T21:30:00Z",
-          "league": "BR1",
-          "home": "Club de Regatas Vasco da Gama",
-          "away": "SC Corinthians",
-          "league_tr": "BR1",
-          "home_tr": "Vasco Da Gama",
-          "away_tr": "Corinthians",
-          "prediction": "Both Teams to Score - Yes",
-          "prediction_tr": "Karşılıklı Gol Var",
-          "odds": 1.74,
-          "probability": 84.62,
-          "patternScore": 67.66,
-          "patternText": "136.322/201.468",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261024-09-1",
-      "createdAt": "24.10.2026 06:15",
-      "createdAtUtc": "2026-10-24T06:15:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.36,
-      "winChance": 75.75,
-      "firstKickoff": "24.10.2026 21:30",
-      "lastKickoff": "24.10.2026 21:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.36,
-      "legs": [
-        {
-          "matchCode": "4423342",
-          "nesine": null,
-          "date": "24.10.2026 21:30",
-          "kickoffUtc": "2026-10-24T21:30:00Z",
-          "league": "BR1",
-          "home": "SE Palmeiras",
-          "away": "Red Bull Bragantino",
-          "league_tr": "BR1",
-          "home_tr": "Palmeiras",
-          "away_tr": "Bragantino",
-          "prediction": "1st Half Under 1.5",
-          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
-          "odds": 1.36,
-          "probability": 71.43,
-          "patternScore": 75.75,
-          "patternText": "238.547/355.850",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261024-16-1",
       "createdAt": "24.10.2026 13:07",
@@ -195,91 +113,6 @@
       ]
     },
     {
-      "id": "20261024-16-4",
-      "createdAt": "24.10.2026 13:07",
-      "createdAtUtc": "2026-10-24T13:07:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 3.94,
-      "winChance": 40.37,
-      "firstKickoff": "24.10.2026 21:30",
-      "lastKickoff": "25.10.2026 11:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_3",
-      "group": "surprise",
-      "formula": "3",
-      "effectiveOdds": 3.94,
-      "legs": [
-        {
-          "matchCode": "4445801",
-          "nesine": null,
-          "date": "24.10.2026 21:30",
-          "kickoffUtc": "2026-10-24T21:30:00Z",
-          "league": "ABD",
-          "home": "New York Red Bulls",
-          "away": "Inter Miami CF",
-          "league_tr": "ABD",
-          "home_tr": "New York",
-          "away_tr": "Inter Miami",
-          "prediction": "Double Chance 1X",
-          "prediction_tr": "Çifte Şans 1-X",
-          "odds": 1.66,
-          "probability": 100.0,
-          "patternScore": 74.4,
-          "patternText": "227.317/390.416",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4423342",
-          "nesine": null,
-          "date": "24.10.2026 21:30",
-          "kickoffUtc": "2026-10-24T21:30:00Z",
-          "league": "BR1",
-          "home": "SE Palmeiras",
-          "away": "Red Bull Bragantino",
-          "league_tr": "BR1",
-          "home_tr": "Palmeiras",
-          "away_tr": "Bragantino",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.54,
-          "probability": 100.0,
-          "patternScore": 73.95,
-          "patternText": "147.482/237.553",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4508187",
-          "nesine": null,
-          "date": "25.10.2026 11:00",
-          "kickoffUtc": "2026-10-25T11:00:00Z",
-          "league": "UKR",
-          "home": "Chernomorets",
-          "away": "Karpaty Lviv",
-          "league_tr": "UKR",
-          "home_tr": "Chernomorets",
-          "away_tr": "Karpaty Lviv",
-          "prediction": "Both Teams to Score - No",
-          "prediction_tr": "Karşılıklı Gol Yok",
-          "odds": 1.54,
-          "probability": 77.78,
-          "patternScore": 73.38,
-          "patternText": "236.726/355.053",
-          "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "pending"
-        }
-      ]
-    },
-    {
       "id": "20261024-18-1",
       "createdAt": "24.10.2026 15:11",
       "createdAtUtc": "2026-10-24T15:11:00Z",
@@ -314,9 +147,9 @@
           "patternScore": 79.01,
           "patternText": "201.887/354.092",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "2 - 1",
+          "finalScore": "2 - 2",
+          "status": "won"
         },
         {
           "matchCode": "4428248",
@@ -1337,6 +1170,173 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261024-01-1",
+      "createdAt": "23.10.2026 22:05",
+      "createdAtUtc": "2026-10-23T22:05:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.74,
+      "winChance": 67.66,
+      "firstKickoff": "24.10.2026 21:30",
+      "lastKickoff": "24.10.2026 21:30",
+      "status": "won",
+      "completedAt": "24.10.2026 23:47",
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.74,
+      "legs": [
+        {
+          "matchCode": "4423340",
+          "nesine": null,
+          "date": "24.10.2026 21:30",
+          "kickoffUtc": "2026-10-24T21:30:00Z",
+          "league": "BR1",
+          "home": "Club de Regatas Vasco da Gama",
+          "away": "SC Corinthians",
+          "league_tr": "BR1",
+          "home_tr": "Vasco Da Gama",
+          "away_tr": "Corinthians",
+          "prediction": "Both Teams to Score - Yes",
+          "prediction_tr": "Karşılıklı Gol Var",
+          "odds": 1.74,
+          "probability": 84.62,
+          "patternScore": 67.66,
+          "patternText": "136.322/201.468",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "3 - 2",
+          "status": "won"
+        }
+      ]
+    },
+    {
+      "id": "20261024-09-1",
+      "createdAt": "24.10.2026 06:15",
+      "createdAtUtc": "2026-10-24T06:15:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.36,
+      "winChance": 75.75,
+      "firstKickoff": "24.10.2026 21:30",
+      "lastKickoff": "24.10.2026 21:30",
+      "status": "won",
+      "completedAt": "24.10.2026 23:47",
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.36,
+      "legs": [
+        {
+          "matchCode": "4423342",
+          "nesine": null,
+          "date": "24.10.2026 21:30",
+          "kickoffUtc": "2026-10-24T21:30:00Z",
+          "league": "BR1",
+          "home": "SE Palmeiras",
+          "away": "Red Bull Bragantino",
+          "league_tr": "BR1",
+          "home_tr": "Palmeiras",
+          "away_tr": "Bragantino",
+          "prediction": "1st Half Under 1.5",
+          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
+          "odds": 1.36,
+          "probability": 71.43,
+          "patternScore": 75.75,
+          "patternText": "238.547/355.850",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 0",
+          "status": "won"
+        }
+      ]
+    },
+    {
+      "id": "20261024-16-4",
+      "createdAt": "24.10.2026 13:07",
+      "createdAtUtc": "2026-10-24T13:07:00Z",
+      "size": 3,
+      "mbs": 3,
+      "totalOdds": 3.94,
+      "winChance": 40.37,
+      "firstKickoff": "24.10.2026 21:30",
+      "lastKickoff": "25.10.2026 11:00",
+      "status": "lost",
+      "completedAt": "24.10.2026 23:47",
+      "kind": "surprise_3",
+      "group": "surprise",
+      "formula": "3",
+      "effectiveOdds": 3.94,
+      "legs": [
+        {
+          "matchCode": "4445801",
+          "nesine": null,
+          "date": "24.10.2026 21:30",
+          "kickoffUtc": "2026-10-24T21:30:00Z",
+          "league": "ABD",
+          "home": "New York Red Bulls",
+          "away": "Inter Miami CF",
+          "league_tr": "ABD",
+          "home_tr": "New York",
+          "away_tr": "Inter Miami",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.66,
+          "probability": 100.0,
+          "patternScore": 74.4,
+          "patternText": "227.317/390.416",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        },
+        {
+          "matchCode": "4423342",
+          "nesine": null,
+          "date": "24.10.2026 21:30",
+          "kickoffUtc": "2026-10-24T21:30:00Z",
+          "league": "BR1",
+          "home": "SE Palmeiras",
+          "away": "Red Bull Bragantino",
+          "league_tr": "BR1",
+          "home_tr": "Palmeiras",
+          "away_tr": "Bragantino",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.54,
+          "probability": 100.0,
+          "patternScore": 73.95,
+          "patternText": "147.482/237.553",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 0",
+          "status": "lost"
+        },
+        {
+          "matchCode": "4508187",
+          "nesine": null,
+          "date": "25.10.2026 11:00",
+          "kickoffUtc": "2026-10-25T11:00:00Z",
+          "league": "UKR",
+          "home": "Chernomorets",
+          "away": "Karpaty Lviv",
+          "league_tr": "UKR",
+          "home_tr": "Chernomorets",
+          "away_tr": "Karpaty Lviv",
+          "prediction": "Both Teams to Score - No",
+          "prediction_tr": "Karşılıklı Gol Yok",
+          "odds": 1.54,
+          "probability": 77.78,
+          "patternScore": 73.38,
+          "patternText": "236.726/355.053",
+          "mbs": 3,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
     {
       "id": "20261023-17-5",
       "createdAt": "23.10.2026 14:13",
