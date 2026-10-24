@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 00:38",
+  "updatedAt": "24.10.2026 00:53",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 373,
+      "won": 375,
       "lost": 98,
-      "total": 471,
-      "rate": 79.2
+      "total": 473,
+      "rate": 79.3
     },
-    "totalAnalyses": 150480,
+    "totalAnalyses": 150497,
     "leagues": 538,
     "pro": {
       "won": 382,
@@ -47,8 +47,8 @@
       "total": 128,
       "rate": 50.8
     },
-    "analyses24h": 4322,
-    "analyses30d": 22931
+    "analyses24h": 4331,
+    "analyses30d": 22940
   },
   "recentWins": [
     {
@@ -302,7 +302,7 @@
     "league": "NOR3",
     "date": "24.10.2026 12:00",
     "patternScore": 71.51,
-    "patternText": "258.424/361.379",
+    "patternText": "258.432/361.387",
     "picks": 2
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.51,
-      "patternText": "258.424/361.379",
+      "patternText": "258.432/361.387",
       "picks": 2
     },
     {
@@ -321,7 +321,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "249.518/349.516",
+      "patternText": "249.526/349.524",
       "picks": 1
     },
     {
@@ -330,17 +330,8 @@
       "league": "TAY",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "245.403/343.757",
+      "patternText": "245.411/343.765",
       "picks": 1
-    },
-    {
-      "home": "Atmosfera",
-      "away": "Lietava Jonava",
-      "league": "LIT1",
-      "date": "24.10.2026 12:00",
-      "patternScore": 71.37,
-      "patternText": "248.956/348.808",
-      "picks": 2
     },
     {
       "home": "Portland Heart",
@@ -348,11 +339,41 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.36,
-      "patternText": "127.660/178.899",
+      "patternText": "127.662/178.901",
       "picks": 2
+    },
+    {
+      "home": "Reading U21",
+      "away": "Nottingham Forest",
+      "league": "INGPL2",
+      "date": "24.10.2026 11:00",
+      "patternScore": 71.32,
+      "patternText": "249.999/350.539",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SS Lazio",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "24.10.2026 00:41",
+      "count": 14
+    },
+    {
+      "home": "Samsunspor",
+      "away": "Amed SK",
+      "league": "TSL",
+      "at": "24.10.2026 00:40",
+      "count": 6
+    },
+    {
+      "home": "Chelsea",
+      "away": "Tottenham Hotspur",
+      "league": "İNP",
+      "at": "24.10.2026 00:40",
+      "count": 8
+    },
     {
       "home": "Sparta Rotterdam",
       "away": "Ajax",
@@ -366,13 +387,6 @@
       "league": "İS1",
       "at": "24.10.2026 00:15",
       "count": 7
-    },
-    {
-      "home": "SS Lazio",
-      "away": "Parma Calcio",
-      "league": "İTA",
-      "at": "24.10.2026 00:15",
-      "count": 8
     },
     {
       "home": "Aston Villa",
@@ -408,20 +422,6 @@
       "league": "İTA",
       "at": "23.10.2026 23:51",
       "count": 5
-    },
-    {
-      "home": "Cardiff City",
-      "away": "Birmingham City",
-      "league": "İNCL",
-      "at": "23.10.2026 23:50",
-      "count": 8
-    },
-    {
-      "home": "Chelsea",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "23.10.2026 23:20",
-      "count": 7
     }
   ],
   "paywall": {
