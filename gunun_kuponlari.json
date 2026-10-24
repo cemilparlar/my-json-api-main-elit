@@ -68,8 +68,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "24.10.2026 14:28",
-  "updatedAtUtc": "2026-10-24T14:28:00Z",
+  "updatedAt": "24.10.2026 14:41",
+  "updatedAtUtc": "2026-10-24T14:41:00Z",
   "upcoming": [
     {
       "id": "20261023-17-5",
@@ -543,7 +543,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -680,7 +680,7 @@
       "winChance": 72.52,
       "firstKickoff": "24.10.2026 14:30",
       "lastKickoff": "24.10.2026 14:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_a",
       "group": "safe",
@@ -707,7 +707,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -721,7 +721,7 @@
       "winChance": 72.48,
       "firstKickoff": "24.10.2026 14:30",
       "lastKickoff": "24.10.2026 14:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_b",
       "group": "safe",
@@ -748,7 +748,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -2967,170 +2967,6 @@
           "firstHalf": "1 - 1",
           "finalScore": "1 - 1",
           "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261022-15-1",
-      "createdAt": "22.10.2026 12:17",
-      "createdAtUtc": "2026-10-22T12:17:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 1.58,
-      "winChance": 33.58,
-      "firstKickoff": "22.10.2026 16:00",
-      "lastKickoff": "23.10.2026 12:15",
-      "status": "lost",
-      "completedAt": "23.10.2026 14:30",
-      "effectiveOdds": 1.58,
-      "legs": [
-        {
-          "matchCode": "4537788",
-          "nesine": null,
-          "date": "22.10.2026 16:00",
-          "kickoffUtc": "2026-10-22T16:00:00Z",
-          "league": "MLTP",
-          "home": "Floriana",
-          "away": "Birkirkara",
-          "league_tr": "MLTP",
-          "home_tr": "Floriana",
-          "away_tr": "Birkirkara",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.16,
-          "probability": 73.64,
-          "patternScore": 69.33,
-          "patternText": "191.956/276.869",
-          "mbs": 3,
-          "firstHalf": "1 - 1",
-          "finalScore": "1 - 1",
-          "status": "won"
-        },
-        {
-          "matchCode": "4477271",
-          "nesine": null,
-          "date": "23.10.2026 12:00",
-          "kickoffUtc": "2026-10-23T12:00:00Z",
-          "league": "MAKE1",
-          "home": "Fk Sileks",
-          "away": "Shkendija Harac",
-          "league_tr": "MAKE1",
-          "home_tr": "Fk Sileks",
-          "away_tr": "Shkendija Haraç",
-          "prediction": "Match Result 1",
-          "prediction_tr": "Maç Sonucu 1",
-          "odds": 1.24,
-          "probability": 71.43,
-          "patternScore": 68.5,
-          "patternText": "204.457/298.490",
-          "mbs": 3,
-          "firstHalf": "1 - 0",
-          "finalScore": "2 - 0",
-          "status": "won"
-        },
-        {
-          "matchCode": "4551337",
-          "nesine": null,
-          "date": "23.10.2026 12:15",
-          "kickoffUtc": "2026-10-23T12:15:00Z",
-          "league": "VİET",
-          "home": "Viettel FC",
-          "away": "Bac Ninh",
-          "league_tr": "VİET",
-          "home_tr": "Viettel",
-          "away_tr": "Bac Ninh",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 71.19,
-          "patternScore": 70.7,
-          "patternText": "273.819/387.298",
-          "mbs": 3,
-          "firstHalf": "0 - 0",
-          "finalScore": "2 - 2",
-          "status": "lost"
-        }
-      ]
-    },
-    {
-      "id": "20261022-16-2",
-      "createdAt": "22.10.2026 13:13",
-      "createdAtUtc": "2026-10-22T13:13:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 1.38,
-      "winChance": 33.63,
-      "firstKickoff": "23.10.2026 12:30",
-      "lastKickoff": "23.10.2026 13:00",
-      "status": "lost",
-      "completedAt": "23.10.2026 14:30",
-      "effectiveOdds": 1.38,
-      "legs": [
-        {
-          "matchCode": "4538094",
-          "nesine": null,
-          "date": "23.10.2026 12:30",
-          "kickoffUtc": "2026-10-23T12:30:00Z",
-          "league": "MSR2",
-          "home": "Team",
-          "away": "Tersana SC",
-          "league_tr": "MSR2",
-          "home_tr": "Team",
-          "away_tr": "Tersana",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.15,
-          "probability": 78.57,
-          "patternScore": 69.84,
-          "patternText": "293.465/420.173",
-          "mbs": 3,
-          "firstHalf": "0 - 0",
-          "finalScore": "0 - 0",
-          "status": "lost"
-        },
-        {
-          "matchCode": "4486544",
-          "nesine": null,
-          "date": "23.10.2026 12:30",
-          "kickoffUtc": "2026-10-23T12:30:00Z",
-          "league": "POL2",
-          "home": "Sokol Kleczew",
-          "away": "Slask Wroclaw I",
-          "league_tr": "POL2",
-          "home_tr": "Sokol Kleczew",
-          "away_tr": "Slask Wroclaw I",
-          "prediction": "Under 4.5 Goals",
-          "prediction_tr": "4,5 Alt/Üst Alt",
-          "odds": 1.08,
-          "probability": 71.21,
-          "patternScore": 69.56,
-          "patternText": "206.238/296.510",
-          "mbs": 3,
-          "firstHalf": "2 - 0",
-          "finalScore": "4 - 2",
-          "status": "lost"
-        },
-        {
-          "matchCode": "4484981",
-          "nesine": null,
-          "date": "23.10.2026 13:00",
-          "kickoffUtc": "2026-10-23T13:00:00Z",
-          "league": "KARA",
-          "home": "Bokelj Kotor",
-          "away": "Decic Tuzi",
-          "league_tr": "KARA",
-          "home_tr": "Bokelj Kotor",
-          "away_tr": "Decic Tuzi",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.11,
-          "probability": 76.13,
-          "patternScore": 69.23,
-          "patternText": "213.408/308.258",
-          "mbs": 3,
-          "firstHalf": "1 - 0",
-          "finalScore": "2 - 0",
-          "status": "lost"
         }
       ]
     }
