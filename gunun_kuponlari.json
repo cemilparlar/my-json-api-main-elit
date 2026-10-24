@@ -6,11 +6,11 @@
       "lost": 88
     },
     "safe": {
-      "won": 13,
+      "won": 14,
       "lost": 13
     },
     "safe_b": {
-      "won": 11,
+      "won": 12,
       "lost": 11
     },
     "surprise": {
@@ -40,11 +40,11 @@
       "lost": 88
     },
     "safe": {
-      "won": 13,
+      "won": 14,
       "lost": 13
     },
     "safe_b": {
-      "won": 11,
+      "won": 12,
       "lost": 11
     },
     "surprise": {
@@ -68,8 +68,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "24.10.2026 13:58",
-  "updatedAtUtc": "2026-10-24T13:58:00Z",
+  "updatedAt": "24.10.2026 14:13",
+  "updatedAtUtc": "2026-10-24T14:13:00Z",
   "upcoming": [
     {
       "id": "20261023-17-5",
@@ -150,47 +150,6 @@
           "patternScore": 75.76,
           "patternText": "277.166/468.315",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "pending"
-        }
-      ]
-    },
-    {
-      "id": "20261023-15-2",
-      "createdAt": "23.10.2026 12:14",
-      "createdAtUtc": "2026-10-23T12:14:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.41,
-      "winChance": 72.25,
-      "firstKickoff": "24.10.2026 12:00",
-      "lastKickoff": "24.10.2026 12:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.41,
-      "legs": [
-        {
-          "matchCode": "4492794",
-          "nesine": null,
-          "date": "24.10.2026 12:00",
-          "kickoffUtc": "2026-10-24T12:00:00Z",
-          "league": "İS2",
-          "home": "Cordoba CF",
-          "away": "Eibar",
-          "league_tr": "İS2",
-          "home_tr": "Cordoba",
-          "away_tr": "Eibar",
-          "prediction": "1st Half Under 1.5",
-          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
-          "odds": 1.41,
-          "probability": 71.43,
-          "patternScore": 72.25,
-          "patternText": "289.850/428.022",
-          "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
           "status": "live"
@@ -412,7 +371,7 @@
       "winChance": 72.0,
       "firstKickoff": "24.10.2026 14:00",
       "lastKickoff": "24.10.2026 14:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_a",
       "group": "safe",
@@ -439,7 +398,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -453,7 +412,7 @@
       "winChance": 77.19,
       "firstKickoff": "24.10.2026 14:00",
       "lastKickoff": "24.10.2026 14:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_b",
       "group": "safe",
@@ -480,7 +439,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -494,7 +453,7 @@
       "winChance": 70.97,
       "firstKickoff": "24.10.2026 14:00",
       "lastKickoff": "24.10.2026 14:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_b",
       "group": "safe",
@@ -521,7 +480,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -535,7 +494,7 @@
       "winChance": 46.18,
       "firstKickoff": "24.10.2026 14:00",
       "lastKickoff": "24.10.2026 14:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "surprise_2",
       "group": "surprise",
@@ -562,7 +521,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4481565",
@@ -1374,6 +1333,91 @@
       ]
     },
     {
+      "id": "20261024-17-6",
+      "createdAt": "24.10.2026 14:13",
+      "createdAtUtc": "2026-10-24T14:13:00Z",
+      "size": 3,
+      "mbs": 3,
+      "totalOdds": 3.86,
+      "winChance": 42.47,
+      "firstKickoff": "25.10.2026 00:30",
+      "lastKickoff": "25.10.2026 14:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "surprise_3",
+      "group": "surprise",
+      "formula": "3",
+      "effectiveOdds": 3.86,
+      "legs": [
+        {
+          "matchCode": "4419808",
+          "nesine": null,
+          "date": "25.10.2026 00:30",
+          "kickoffUtc": "2026-10-25T00:30:00Z",
+          "league": "ABD",
+          "home": "Sporting Kansas City",
+          "away": "Austin FC",
+          "league_tr": "ABD",
+          "home_tr": "Kansas",
+          "away_tr": "Austin",
+          "prediction": "Under 3.5 Goals",
+          "prediction_tr": "3,5 Alt/Üst Alt",
+          "odds": 1.52,
+          "probability": 100.0,
+          "patternScore": 76.4,
+          "patternText": "225.530/389.799",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4510849",
+          "nesine": null,
+          "date": "25.10.2026 13:00",
+          "kickoffUtc": "2026-10-25T13:00:00Z",
+          "league": "DAN2",
+          "home": "Nykobing",
+          "away": "Thisted FC",
+          "league_tr": "DAN2",
+          "home_tr": "Nykobing",
+          "away_tr": "Thisted",
+          "prediction": "1st Half Result 1",
+          "prediction_tr": "1. Yarı Sonucu 1",
+          "odds": 1.54,
+          "probability": 70.0,
+          "patternScore": 75.75,
+          "patternText": "233.498/346.148",
+          "mbs": 3,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4503880",
+          "nesine": null,
+          "date": "25.10.2026 14:00",
+          "kickoffUtc": "2026-10-25T14:00:00Z",
+          "league": "ÇEK",
+          "home": "AC Sparta Prague",
+          "away": "FC Slovacko",
+          "league_tr": "ÇEK",
+          "home_tr": "Sparta Prag",
+          "away_tr": "Slovacko",
+          "prediction": "Both Teams to Score - No",
+          "prediction_tr": "Karşılıklı Gol Yok",
+          "odds": 1.65,
+          "probability": 73.08,
+          "patternScore": 73.38,
+          "patternText": "237.875/350.527",
+          "mbs": 3,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
       "id": "20261024-05-2",
       "createdAt": "24.10.2026 02:48",
       "createdAtUtc": "2026-10-24T02:48:00Z",
@@ -1517,9 +1561,255 @@
           "status": "pending"
         }
       ]
+    },
+    {
+      "id": "20261024-17-1",
+      "createdAt": "24.10.2026 14:13",
+      "createdAtUtc": "2026-10-24T14:13:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.31,
+      "winChance": 72.53,
+      "firstKickoff": "25.10.2026 14:00",
+      "lastKickoff": "25.10.2026 14:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "safe_a",
+      "group": "safe",
+      "formula": "A",
+      "effectiveOdds": 1.31,
+      "legs": [
+        {
+          "matchCode": "4476572",
+          "nesine": null,
+          "date": "25.10.2026 14:00",
+          "kickoffUtc": "2026-10-25T14:00:00Z",
+          "league": "FR1",
+          "home": "AS Monaco",
+          "away": "LOSC Lille",
+          "league_tr": "FR1",
+          "home_tr": "Monaco",
+          "away_tr": "Lille",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.31,
+          "probability": 77.78,
+          "patternScore": 72.53,
+          "patternText": "263.472/384.598",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261024-17-2",
+      "createdAt": "24.10.2026 14:13",
+      "createdAtUtc": "2026-10-24T14:13:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.39,
+      "winChance": 75.75,
+      "firstKickoff": "25.10.2026 14:00",
+      "lastKickoff": "25.10.2026 14:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.39,
+      "legs": [
+        {
+          "matchCode": "4481086",
+          "nesine": null,
+          "date": "25.10.2026 14:00",
+          "kickoffUtc": "2026-10-25T14:00:00Z",
+          "league": "İNP",
+          "home": "Hull City",
+          "away": "Brentford",
+          "league_tr": "İNP",
+          "home_tr": "Hull",
+          "away_tr": "Brentford",
+          "prediction": "1st Half Under 1.5",
+          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
+          "odds": 1.39,
+          "probability": 100.0,
+          "patternScore": 75.75,
+          "patternText": "182.735/295.525",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261024-17-3",
+      "createdAt": "24.10.2026 14:13",
+      "createdAtUtc": "2026-10-24T14:13:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.41,
+      "winChance": 72.47,
+      "firstKickoff": "25.10.2026 14:00",
+      "lastKickoff": "25.10.2026 14:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.41,
+      "legs": [
+        {
+          "matchCode": "4481085",
+          "nesine": null,
+          "date": "25.10.2026 14:00",
+          "kickoffUtc": "2026-10-25T14:00:00Z",
+          "league": "İNP",
+          "home": "Crystal Palace",
+          "away": "Newcastle United",
+          "league_tr": "İNP",
+          "home_tr": "Crystal Palace",
+          "away_tr": "Newcastle Utd",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.41,
+          "probability": 71.43,
+          "patternScore": 72.47,
+          "patternText": "292.669/430.357",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261024-17-4",
+      "createdAt": "24.10.2026 14:13",
+      "createdAtUtc": "2026-10-24T14:13:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.36,
+      "winChance": 72.25,
+      "firstKickoff": "25.10.2026 14:00",
+      "lastKickoff": "25.10.2026 14:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.36,
+      "legs": [
+        {
+          "matchCode": "4481088",
+          "nesine": null,
+          "date": "25.10.2026 14:00",
+          "kickoffUtc": "2026-10-25T14:00:00Z",
+          "league": "İNP",
+          "home": "Liverpool",
+          "away": "Brighton & Hove Albion",
+          "league_tr": "İNP",
+          "home_tr": "Liverpool",
+          "away_tr": "Brighton",
+          "prediction": "Over 2.5 Goals",
+          "prediction_tr": "2,5 Alt/Üst Üst",
+          "odds": 1.36,
+          "probability": 80.0,
+          "patternScore": 72.25,
+          "patternText": "166.452/245.161",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261024-17-5",
+      "createdAt": "24.10.2026 14:13",
+      "createdAtUtc": "2026-10-24T14:13:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.41,
+      "winChance": 70.97,
+      "firstKickoff": "25.10.2026 14:00",
+      "lastKickoff": "25.10.2026 14:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.41,
+      "legs": [
+        {
+          "matchCode": "4534754",
+          "nesine": null,
+          "date": "25.10.2026 14:00",
+          "kickoffUtc": "2026-10-25T14:00:00Z",
+          "league": "İTB",
+          "home": "Palermo FC",
+          "away": "Carrarese Calcio",
+          "league_tr": "İTB",
+          "home_tr": "Palermo",
+          "away_tr": "Carrarese",
+          "prediction": "Under 3.5 Goals",
+          "prediction_tr": "3,5 Alt/Üst Alt",
+          "odds": 1.41,
+          "probability": 80.0,
+          "patternScore": 70.97,
+          "patternText": "178.755/259.381",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
     }
   ],
   "completed": [
+    {
+      "id": "20261023-15-2",
+      "createdAt": "23.10.2026 12:14",
+      "createdAtUtc": "2026-10-23T12:14:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.41,
+      "winChance": 72.25,
+      "firstKickoff": "24.10.2026 12:00",
+      "lastKickoff": "24.10.2026 12:00",
+      "status": "won",
+      "completedAt": "24.10.2026 14:13",
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.41,
+      "legs": [
+        {
+          "matchCode": "4492794",
+          "nesine": null,
+          "date": "24.10.2026 12:00",
+          "kickoffUtc": "2026-10-24T12:00:00Z",
+          "league": "İS2",
+          "home": "Cordoba CF",
+          "away": "Eibar",
+          "league_tr": "İS2",
+          "home_tr": "Cordoba",
+          "away_tr": "Eibar",
+          "prediction": "1st Half Under 1.5",
+          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
+          "odds": 1.41,
+          "probability": 71.43,
+          "patternScore": 72.25,
+          "patternText": "289.850/428.022",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "2 - 0",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261023-15-1",
       "createdAt": "23.10.2026 12:14",
