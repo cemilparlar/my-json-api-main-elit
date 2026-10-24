@@ -6,11 +6,11 @@
       "lost": 88
     },
     "safe": {
-      "won": 11,
+      "won": 12,
       "lost": 13
     },
     "safe_b": {
-      "won": 10,
+      "won": 11,
       "lost": 11
     },
     "surprise": {
@@ -40,11 +40,11 @@
       "lost": 88
     },
     "safe": {
-      "won": 11,
+      "won": 12,
       "lost": 13
     },
     "safe_b": {
-      "won": 10,
+      "won": 11,
       "lost": 11
     },
     "surprise": {
@@ -68,8 +68,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "24.10.2026 11:37",
-  "updatedAtUtc": "2026-10-24T11:37:00Z",
+  "updatedAt": "24.10.2026 11:51",
+  "updatedAtUtc": "2026-10-24T11:51:00Z",
   "upcoming": [
     {
       "id": "20261023-15-3",
@@ -152,7 +152,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -323,47 +323,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "pending"
-        }
-      ]
-    },
-    {
-      "id": "20261023-17-4",
-      "createdAt": "23.10.2026 14:13",
-      "createdAtUtc": "2026-10-23T14:13:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.48,
-      "winChance": 74.77,
-      "firstKickoff": "24.10.2026 09:45",
-      "lastKickoff": "24.10.2026 09:45",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.48,
-      "legs": [
-        {
-          "matchCode": "4485901",
-          "nesine": null,
-          "date": "24.10.2026 09:45",
-          "kickoffUtc": "2026-10-24T09:45:00Z",
-          "league": "RUS",
-          "home": "FC Akron Togliatti",
-          "away": "Dinamo Moscow",
-          "league_tr": "RUS",
-          "home_tr": "Akron",
-          "away_tr": "Dinamo Moskova",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.48,
-          "probability": 85.71,
-          "patternScore": 74.77,
-          "patternText": "192.933/283.669",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
         }
       ]
     },
@@ -1583,6 +1542,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261023-17-4",
+      "createdAt": "23.10.2026 14:13",
+      "createdAtUtc": "2026-10-23T14:13:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.48,
+      "winChance": 74.77,
+      "firstKickoff": "24.10.2026 09:45",
+      "lastKickoff": "24.10.2026 09:45",
+      "status": "won",
+      "completedAt": "24.10.2026 11:51",
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.48,
+      "legs": [
+        {
+          "matchCode": "4485901",
+          "nesine": null,
+          "date": "24.10.2026 09:45",
+          "kickoffUtc": "2026-10-24T09:45:00Z",
+          "league": "RUS",
+          "home": "FC Akron Togliatti",
+          "away": "Dinamo Moscow",
+          "league_tr": "RUS",
+          "home_tr": "Akron",
+          "away_tr": "Dinamo Moskova",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.48,
+          "probability": 85.71,
+          "patternScore": 74.77,
+          "patternText": "192.933/283.669",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "3 - 1",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261023-14-1",
       "createdAt": "23.10.2026 11:14",
