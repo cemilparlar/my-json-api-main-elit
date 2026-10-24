@@ -15,11 +15,11 @@
     },
     "surprise": {
       "won": 7,
-      "lost": 9
+      "lost": 10
     },
     "surprise_1": {
       "won": 5,
-      "lost": 3
+      "lost": 4
     },
     "surprise_3": {
       "won": 2,
@@ -49,11 +49,11 @@
     },
     "surprise": {
       "won": 7,
-      "lost": 9
+      "lost": 10
     },
     "surprise_1": {
       "won": 5,
-      "lost": 3
+      "lost": 4
     },
     "surprise_3": {
       "won": 2,
@@ -68,8 +68,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "24.10.2026 15:11",
-  "updatedAtUtc": "2026-10-24T15:11:00Z",
+  "updatedAt": "24.10.2026 15:26",
+  "updatedAtUtc": "2026-10-24T15:26:00Z",
   "upcoming": [
     {
       "id": "20261023-17-5",
@@ -150,47 +150,6 @@
           "patternScore": 75.76,
           "patternText": "277.166/468.315",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261023-16-1",
-      "createdAt": "23.10.2026 13:01",
-      "createdAtUtc": "2026-10-23T13:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.71,
-      "winChance": 66.88,
-      "firstKickoff": "24.10.2026 13:00",
-      "lastKickoff": "24.10.2026 13:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.71,
-      "legs": [
-        {
-          "matchCode": "4475114",
-          "nesine": null,
-          "date": "24.10.2026 13:00",
-          "kickoffUtc": "2026-10-24T13:00:00Z",
-          "league": "İTA",
-          "home": "Como 1907",
-          "away": "US Sassuolo",
-          "league_tr": "İTA",
-          "home_tr": "Como",
-          "away_tr": "Sassuolo",
-          "prediction": "1st Half Result 1",
-          "prediction_tr": "1. Yarı Sonucu 1",
-          "odds": 1.71,
-          "probability": 75.0,
-          "patternScore": 66.88,
-          "patternText": "274.234/410.062",
-          "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
           "status": "live"
@@ -762,7 +721,7 @@
       "winChance": 67.2,
       "firstKickoff": "24.10.2026 15:15",
       "lastKickoff": "24.10.2026 15:15",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_b",
       "group": "safe",
@@ -789,7 +748,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -1854,6 +1813,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261023-16-1",
+      "createdAt": "23.10.2026 13:01",
+      "createdAtUtc": "2026-10-23T13:01:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.71,
+      "winChance": 66.88,
+      "firstKickoff": "24.10.2026 13:00",
+      "lastKickoff": "24.10.2026 13:00",
+      "status": "lost",
+      "completedAt": "24.10.2026 15:26",
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.71,
+      "legs": [
+        {
+          "matchCode": "4475114",
+          "nesine": null,
+          "date": "24.10.2026 13:00",
+          "kickoffUtc": "2026-10-24T13:00:00Z",
+          "league": "İTA",
+          "home": "Como 1907",
+          "away": "US Sassuolo",
+          "league_tr": "İTA",
+          "home_tr": "Como",
+          "away_tr": "Sassuolo",
+          "prediction": "1st Half Result 1",
+          "prediction_tr": "1. Yarı Sonucu 1",
+          "odds": 1.71,
+          "probability": 75.0,
+          "patternScore": 66.88,
+          "patternText": "274.234/410.062",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "2 - 0",
+          "status": "lost"
+        }
+      ]
+    },
     {
       "id": "20261023-15-2",
       "createdAt": "23.10.2026 12:14",
