@@ -6,8 +6,8 @@
       "lost": 88
     },
     "safe": {
-      "won": 16,
-      "lost": 13
+      "won": 17,
+      "lost": 14
     },
     "safe_b": {
       "won": 14,
@@ -15,19 +15,19 @@
     },
     "surprise": {
       "won": 8,
-      "lost": 10
+      "lost": 11
     },
     "surprise_1": {
       "won": 6,
-      "lost": 4
+      "lost": 5
     },
     "surprise_3": {
       "won": 2,
       "lost": 5
     },
     "safe_a": {
-      "won": 2,
-      "lost": 2
+      "won": 3,
+      "lost": 3
     },
     "surprise_2": {
       "won": 0,
@@ -40,8 +40,8 @@
       "lost": 88
     },
     "safe": {
-      "won": 16,
-      "lost": 13
+      "won": 17,
+      "lost": 14
     },
     "safe_b": {
       "won": 14,
@@ -49,27 +49,27 @@
     },
     "surprise": {
       "won": 8,
-      "lost": 10
+      "lost": 11
     },
     "surprise_1": {
       "won": 6,
-      "lost": 4
+      "lost": 5
     },
     "surprise_3": {
       "won": 2,
       "lost": 5
     },
     "safe_a": {
-      "won": 2,
-      "lost": 2
+      "won": 3,
+      "lost": 3
     },
     "surprise_2": {
       "won": 0,
       "lost": 1
     }
   },
-  "updatedAt": "24.10.2026 17:06",
-  "updatedAtUtc": "2026-10-24T17:06:00Z",
+  "updatedAt": "24.10.2026 17:22",
+  "updatedAtUtc": "2026-10-24T17:22:00Z",
   "upcoming": [
     {
       "id": "20261023-17-5",
@@ -128,9 +128,9 @@
           "patternScore": 74.18,
           "patternText": "269.628/458.116",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 0",
+          "finalScore": "4 - 0",
+          "status": "won"
         },
         {
           "matchCode": "4561159",
@@ -150,129 +150,6 @@
           "patternScore": 75.76,
           "patternText": "277.166/468.315",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261023-18-3",
-      "createdAt": "23.10.2026 15:01",
-      "createdAtUtc": "2026-10-23T15:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.34,
-      "winChance": 72.0,
-      "firstKickoff": "24.10.2026 13:00",
-      "lastKickoff": "24.10.2026 13:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.34,
-      "legs": [
-        {
-          "matchCode": "4475113",
-          "nesine": null,
-          "date": "24.10.2026 13:00",
-          "kickoffUtc": "2026-10-24T13:00:00Z",
-          "league": "İTA",
-          "home": "Cagliari Calcio",
-          "away": "Bologna FC",
-          "league_tr": "İTA",
-          "home_tr": "Cagliari",
-          "away_tr": "Bologna",
-          "prediction": "Double Chance 1X",
-          "prediction_tr": "Çifte Şans 1-X",
-          "odds": 1.34,
-          "probability": 80.0,
-          "patternScore": 72.0,
-          "patternText": "227.832/336.824",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261023-18-8",
-      "createdAt": "23.10.2026 15:01",
-      "createdAtUtc": "2026-10-23T15:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.53,
-      "winChance": 66.77,
-      "firstKickoff": "24.10.2026 13:00",
-      "lastKickoff": "24.10.2026 13:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.53,
-      "legs": [
-        {
-          "matchCode": "4475113",
-          "nesine": null,
-          "date": "24.10.2026 13:00",
-          "kickoffUtc": "2026-10-24T13:00:00Z",
-          "league": "İTA",
-          "home": "Cagliari Calcio",
-          "away": "Bologna FC",
-          "league_tr": "İTA",
-          "home_tr": "Cagliari",
-          "away_tr": "Bologna",
-          "prediction": "1st Half Double Chance 12",
-          "prediction_tr": "1. Yarı Çifte Şans 1-2",
-          "odds": 1.53,
-          "probability": 80.0,
-          "patternScore": 66.77,
-          "patternText": "197.345/295.552",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261023-17-1",
-      "createdAt": "23.10.2026 14:13",
-      "createdAtUtc": "2026-10-23T14:13:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.32,
-      "winChance": 74.96,
-      "firstKickoff": "24.10.2026 13:30",
-      "lastKickoff": "24.10.2026 13:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.32,
-      "legs": [
-        {
-          "matchCode": "4495486",
-          "nesine": null,
-          "date": "24.10.2026 13:30",
-          "kickoffUtc": "2026-10-24T13:30:00Z",
-          "league": "AL1",
-          "home": "RB Leipzig",
-          "away": "SV Elversberg",
-          "league_tr": "AL1",
-          "home_tr": "Rb Leipzig",
-          "away_tr": "Elversberg",
-          "prediction": "Under 4.5 Goals",
-          "prediction_tr": "4,5 Alt/Üst Alt",
-          "odds": 1.32,
-          "probability": 100.0,
-          "patternScore": 74.96,
-          "patternText": "267.584/455.032",
-          "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
           "status": "live"
@@ -2021,6 +1898,129 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261023-17-1",
+      "createdAt": "23.10.2026 14:13",
+      "createdAtUtc": "2026-10-23T14:13:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.32,
+      "winChance": 74.96,
+      "firstKickoff": "24.10.2026 13:30",
+      "lastKickoff": "24.10.2026 13:30",
+      "status": "won",
+      "completedAt": "24.10.2026 17:22",
+      "kind": "safe_a",
+      "group": "safe",
+      "formula": "A",
+      "effectiveOdds": 1.32,
+      "legs": [
+        {
+          "matchCode": "4495486",
+          "nesine": null,
+          "date": "24.10.2026 13:30",
+          "kickoffUtc": "2026-10-24T13:30:00Z",
+          "league": "AL1",
+          "home": "RB Leipzig",
+          "away": "SV Elversberg",
+          "league_tr": "AL1",
+          "home_tr": "Rb Leipzig",
+          "away_tr": "Elversberg",
+          "prediction": "Under 4.5 Goals",
+          "prediction_tr": "4,5 Alt/Üst Alt",
+          "odds": 1.32,
+          "probability": 100.0,
+          "patternScore": 74.96,
+          "patternText": "267.584/455.032",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "4 - 0",
+          "status": "won"
+        }
+      ]
+    },
+    {
+      "id": "20261023-18-3",
+      "createdAt": "23.10.2026 15:01",
+      "createdAtUtc": "2026-10-23T15:01:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.34,
+      "winChance": 72.0,
+      "firstKickoff": "24.10.2026 13:00",
+      "lastKickoff": "24.10.2026 13:00",
+      "status": "lost",
+      "completedAt": "24.10.2026 17:22",
+      "kind": "safe_a",
+      "group": "safe",
+      "formula": "A",
+      "effectiveOdds": 1.34,
+      "legs": [
+        {
+          "matchCode": "4475113",
+          "nesine": null,
+          "date": "24.10.2026 13:00",
+          "kickoffUtc": "2026-10-24T13:00:00Z",
+          "league": "İTA",
+          "home": "Cagliari Calcio",
+          "away": "Bologna FC",
+          "league_tr": "İTA",
+          "home_tr": "Cagliari",
+          "away_tr": "Bologna",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.34,
+          "probability": 80.0,
+          "patternScore": 72.0,
+          "patternText": "227.832/336.824",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 2",
+          "status": "lost"
+        }
+      ]
+    },
+    {
+      "id": "20261023-18-8",
+      "createdAt": "23.10.2026 15:01",
+      "createdAtUtc": "2026-10-23T15:01:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.53,
+      "winChance": 66.77,
+      "firstKickoff": "24.10.2026 13:00",
+      "lastKickoff": "24.10.2026 13:00",
+      "status": "lost",
+      "completedAt": "24.10.2026 17:22",
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.53,
+      "legs": [
+        {
+          "matchCode": "4475113",
+          "nesine": null,
+          "date": "24.10.2026 13:00",
+          "kickoffUtc": "2026-10-24T13:00:00Z",
+          "league": "İTA",
+          "home": "Cagliari Calcio",
+          "away": "Bologna FC",
+          "league_tr": "İTA",
+          "home_tr": "Cagliari",
+          "away_tr": "Bologna",
+          "prediction": "1st Half Double Chance 12",
+          "prediction_tr": "1. Yarı Çifte Şans 1-2",
+          "odds": 1.53,
+          "probability": 80.0,
+          "patternScore": 66.77,
+          "patternText": "197.345/295.552",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 2",
+          "status": "lost"
+        }
+      ]
+    },
     {
       "id": "20261023-18-4",
       "createdAt": "23.10.2026 15:01",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 17:06",
+  "updatedAt": "24.10.2026 17:22",
   "config": {
     "pages": [
       "engine",
@@ -23,32 +23,32 @@
     "days": 7,
     "last24h": {
       "won": 372,
-      "lost": 85,
-      "total": 457,
-      "rate": 81.4
+      "lost": 84,
+      "total": 456,
+      "rate": 81.6
     },
-    "totalAnalyses": 151096,
+    "totalAnalyses": 151111,
     "leagues": 537,
     "pro": {
-      "won": 544,
-      "lost": 247,
-      "total": 791,
-      "rate": 68.8
+      "won": 584,
+      "lost": 262,
+      "total": 846,
+      "rate": 69.0
     },
     "insights": {
-      "won": 985,
-      "lost": 447,
-      "total": 1432,
-      "rate": 68.8
+      "won": 1073,
+      "lost": 473,
+      "total": 1546,
+      "rate": 69.4
     },
     "coupons": {
-      "won": 72,
-      "lost": 67,
-      "total": 139,
-      "rate": 51.8
+      "won": 73,
+      "lost": 69,
+      "total": 142,
+      "rate": 51.4
     },
-    "analyses24h": 3965,
-    "analyses30d": 22885
+    "analyses24h": 3970,
+    "analyses30d": 22890
   },
   "recentWins": [
     {
@@ -354,6 +354,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Chapecoense AF",
+      "away": "Fluminense FC",
+      "league": "BR1",
+      "at": "24.10.2026 17:19",
+      "count": 17
+    },
+    {
+      "home": "SE Palmeiras",
+      "away": "Red Bull Bragantino",
+      "league": "BR1",
+      "at": "24.10.2026 17:18",
+      "count": 3
+    },
+    {
+      "home": "Atletico Madrid",
+      "away": "Deportivo La Coruna",
+      "league": "İS1",
+      "at": "24.10.2026 17:16",
+      "count": 5
+    },
+    {
+      "home": "Sport Club Internacional",
+      "away": "Botafogo de Futebol e Regatas",
+      "league": "BR1",
+      "at": "24.10.2026 17:16",
+      "count": 7
+    },
+    {
       "home": "Wolverhampton Wanderers",
       "away": "Watford",
       "league": "İNCL",
@@ -394,34 +422,6 @@
       "league": "İTA",
       "at": "24.10.2026 12:12",
       "count": 9
-    },
-    {
-      "home": "FC Koln",
-      "away": "FC Schalke 04",
-      "league": "AL1",
-      "at": "24.10.2026 12:12",
-      "count": 7
-    },
-    {
-      "home": "US Avellino",
-      "away": "Calcio Padova",
-      "league": "İTB",
-      "at": "24.10.2026 12:11",
-      "count": 9
-    },
-    {
-      "home": "SS Lazio",
-      "away": "Parma Calcio",
-      "league": "İTA",
-      "at": "24.10.2026 12:04",
-      "count": 8
-    },
-    {
-      "home": "New York Red Bulls",
-      "away": "Inter Miami CF",
-      "league": "ABD",
-      "at": "24.10.2026 12:04",
-      "count": 17
     }
   ],
   "paywall": {
