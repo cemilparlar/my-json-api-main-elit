@@ -6,11 +6,11 @@
       "lost": 88
     },
     "safe": {
-      "won": 22,
+      "won": 23,
       "lost": 15
     },
     "safe_b": {
-      "won": 17,
+      "won": 18,
       "lost": 12
     },
     "surprise": {
@@ -40,11 +40,11 @@
       "lost": 88
     },
     "safe": {
-      "won": 22,
+      "won": 23,
       "lost": 15
     },
     "safe_b": {
-      "won": 17,
+      "won": 18,
       "lost": 12
     },
     "surprise": {
@@ -68,8 +68,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "24.10.2026 17:39",
-  "updatedAtUtc": "2026-10-24T17:39:00Z",
+  "updatedAt": "24.10.2026 17:54",
+  "updatedAtUtc": "2026-10-24T17:54:00Z",
   "upcoming": [
     {
       "id": "20261023-17-5",
@@ -157,47 +157,6 @@
       ]
     },
     {
-      "id": "20261023-19-3",
-      "createdAt": "23.10.2026 16:03",
-      "createdAtUtc": "2026-10-23T16:03:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.45,
-      "winChance": 67.2,
-      "firstKickoff": "24.10.2026 15:15",
-      "lastKickoff": "24.10.2026 15:15",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.45,
-      "legs": [
-        {
-          "matchCode": "4534749",
-          "nesine": null,
-          "date": "24.10.2026 15:15",
-          "kickoffUtc": "2026-10-24T15:15:00Z",
-          "league": "İTB",
-          "home": "US Catanzaro",
-          "away": "Ascoli Calcio",
-          "league_tr": "İTB",
-          "home_tr": "Catanzaro",
-          "away_tr": "Ascoli Picchio",
-          "prediction": "Both Teams to Score - Yes",
-          "prediction_tr": "Karşılıklı Gol Var",
-          "odds": 1.45,
-          "probability": 83.33,
-          "patternScore": 67.2,
-          "patternText": "185.463/273.212",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
       "id": "20261023-19-5",
       "createdAt": "23.10.2026 16:03",
       "createdAtUtc": "2026-10-23T16:03:00Z",
@@ -232,9 +191,9 @@
           "patternScore": 59.4,
           "patternText": "276.324/407.319",
           "mbs": 2,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 3",
+          "status": "won"
         },
         {
           "matchCode": "4542733",
@@ -1590,6 +1549,47 @@
   ],
   "completed": [
     {
+      "id": "20261023-19-3",
+      "createdAt": "23.10.2026 16:03",
+      "createdAtUtc": "2026-10-23T16:03:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.45,
+      "winChance": 67.2,
+      "firstKickoff": "24.10.2026 15:15",
+      "lastKickoff": "24.10.2026 15:15",
+      "status": "won",
+      "completedAt": "24.10.2026 17:54",
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.45,
+      "legs": [
+        {
+          "matchCode": "4534749",
+          "nesine": null,
+          "date": "24.10.2026 15:15",
+          "kickoffUtc": "2026-10-24T15:15:00Z",
+          "league": "İTB",
+          "home": "US Catanzaro",
+          "away": "Ascoli Calcio",
+          "league_tr": "İTB",
+          "home_tr": "Catanzaro",
+          "away_tr": "Ascoli Picchio",
+          "prediction": "Both Teams to Score - Yes",
+          "prediction_tr": "Karşılıklı Gol Var",
+          "odds": 1.45,
+          "probability": 83.33,
+          "patternScore": 67.2,
+          "patternText": "185.463/273.212",
+          "mbs": 1,
+          "firstHalf": "1 - 4",
+          "finalScore": "1 - 6",
+          "status": "won"
+        }
+      ]
+    },
+    {
       "id": "20261023-17-2",
       "createdAt": "23.10.2026 14:13",
       "createdAtUtc": "2026-10-23T14:13:00Z",
@@ -2431,9 +2431,9 @@
           "patternScore": 78.47,
           "patternText": "281.633/416.913",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 4",
+          "finalScore": "0 - 6",
+          "status": "lost"
         }
       ]
     },
