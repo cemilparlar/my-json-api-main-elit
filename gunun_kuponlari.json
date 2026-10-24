@@ -68,8 +68,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "24.10.2026 15:54",
-  "updatedAtUtc": "2026-10-24T15:54:00Z",
+  "updatedAt": "24.10.2026 16:08",
+  "updatedAtUtc": "2026-10-24T16:08:00Z",
   "upcoming": [
     {
       "id": "20261023-17-5",
@@ -811,7 +811,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -1810,6 +1810,88 @@
           "status": "pending"
         }
       ]
+    },
+    {
+      "id": "20261024-19-1",
+      "createdAt": "24.10.2026 16:08",
+      "createdAtUtc": "2026-10-24T16:08:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.42,
+      "winChance": 75.75,
+      "firstKickoff": "25.10.2026 15:15",
+      "lastKickoff": "25.10.2026 15:15",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.42,
+      "legs": [
+        {
+          "matchCode": "4492352",
+          "nesine": null,
+          "date": "25.10.2026 15:15",
+          "kickoffUtc": "2026-10-25T15:15:00Z",
+          "league": "İS1",
+          "home": "Celta de Vigo",
+          "away": "Real Betis",
+          "league_tr": "İS1",
+          "home_tr": "Celta Vigo",
+          "away_tr": "Real Betis",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.42,
+          "probability": 83.33,
+          "patternScore": 75.75,
+          "patternText": "187.090/271.172",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261024-19-2",
+      "createdAt": "24.10.2026 16:08",
+      "createdAtUtc": "2026-10-24T16:08:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.32,
+      "winChance": 71.27,
+      "firstKickoff": "25.10.2026 16:00",
+      "lastKickoff": "25.10.2026 16:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.32,
+      "legs": [
+        {
+          "matchCode": "4542729",
+          "nesine": null,
+          "date": "25.10.2026 16:00",
+          "kickoffUtc": "2026-10-25T16:00:00Z",
+          "league": "TSL",
+          "home": "Goztepe",
+          "away": "Corum FK",
+          "league_tr": "TSL",
+          "home_tr": "Göztepe",
+          "away_tr": "Çorum",
+          "prediction": "Under 3.5 Goals",
+          "prediction_tr": "3,5 Alt/Üst Alt",
+          "odds": 1.32,
+          "probability": 76.92,
+          "patternScore": 71.27,
+          "patternText": "263.794/388.376",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
     }
   ],
   "completed": [
@@ -2102,7 +2184,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
