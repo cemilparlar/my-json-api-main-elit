@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 03:22",
+  "updatedAt": "24.10.2026 03:38",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 493,
       "rate": 79.9
     },
-    "totalAnalyses": 150669,
+    "totalAnalyses": 150676,
     "leagues": 538,
     "pro": {
       "won": 392,
@@ -47,8 +47,8 @@
       "total": 129,
       "rate": 50.4
     },
-    "analyses24h": 4363,
-    "analyses30d": 22959
+    "analyses24h": 4351,
+    "analyses30d": 22947
   },
   "recentWins": [
     {
@@ -267,33 +267,33 @@
     },
     {
       "type": "updated",
+      "at": "24.10.2026 03:38",
+      "home": "Bandirmaspor",
+      "away": "Igdir FK"
+    },
+    {
+      "type": "updated",
+      "at": "24.10.2026 03:38",
+      "home": "Umraniyespor",
+      "away": "Sivasspor"
+    },
+    {
+      "type": "updated",
       "at": "24.10.2026 02:39",
       "home": "Portsmouth",
       "away": "Millwall"
     },
     {
       "type": "updated",
+      "at": "24.10.2026 03:15",
+      "home": "Aston Villa",
+      "away": "Manchester City"
+    },
+    {
+      "type": "updated",
       "at": "24.10.2026 02:41",
       "home": "Rayo Vallecano",
       "away": "Elche CF"
-    },
-    {
-      "type": "updated",
-      "at": "23.10.2026 23:19",
-      "home": "Barrow AFC",
-      "away": "Forest Green Rovers"
-    },
-    {
-      "type": "updated",
-      "at": "23.10.2026 23:50",
-      "home": "Cardiff City",
-      "away": "Birmingham City"
-    },
-    {
-      "type": "updated",
-      "at": "23.10.2026 22:48",
-      "home": "Reading",
-      "away": "Barnsley"
     }
   ],
   "today": {
@@ -302,7 +302,7 @@
     "league": "USLP",
     "date": "25.10.2026 02:00",
     "patternScore": 72.0,
-    "patternText": "194.611/270.303",
+    "patternText": "194.613/270.307",
     "picks": 1
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "USLP",
       "date": "25.10.2026 02:00",
       "patternScore": 72.0,
-      "patternText": "194.611/270.303",
+      "patternText": "194.613/270.307",
       "picks": 1
     },
     {
@@ -321,7 +321,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.51,
-      "patternText": "258.516/361.491",
+      "patternText": "258.522/361.503",
       "picks": 2
     },
     {
@@ -330,7 +330,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "249.618/349.636",
+      "patternText": "249.628/349.652",
       "picks": 1
     },
     {
@@ -339,7 +339,7 @@
       "league": "TAY",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "245.503/343.877",
+      "patternText": "245.513/343.893",
       "picks": 1
     },
     {
@@ -348,11 +348,25 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.36,
-      "patternText": "127.674/178.915",
+      "patternText": "127.674/178.921",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Bandirmaspor",
+      "away": "Igdir FK",
+      "league": "T1L",
+      "at": "24.10.2026 03:38",
+      "count": 6
+    },
+    {
+      "home": "Umraniyespor",
+      "away": "Sivasspor",
+      "league": "T1L",
+      "at": "24.10.2026 03:38",
+      "count": 4
+    },
     {
       "home": "Chapecoense AF",
       "away": "Fluminense FC",
@@ -408,20 +422,6 @@
       "league": "İNP",
       "at": "24.10.2026 03:15",
       "count": 14
-    },
-    {
-      "home": "Como 1907",
-      "away": "US Sassuolo",
-      "league": "İTA",
-      "at": "24.10.2026 03:01",
-      "count": 5
-    },
-    {
-      "home": "Paris Saint-Germain",
-      "away": "Olympique Lyonnais",
-      "league": "FR1",
-      "at": "24.10.2026 02:58",
-      "count": 5
     }
   ],
   "paywall": {
