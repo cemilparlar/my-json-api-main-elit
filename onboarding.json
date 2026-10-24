@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 21:27",
+  "updatedAt": "24.10.2026 22:45",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 869,
-      "lost": 202,
-      "total": 1071,
+      "won": 873,
+      "lost": 204,
+      "total": 1077,
       "rate": 81.1
     },
-    "totalAnalyses": 151133,
+    "totalAnalyses": 151136,
     "leagues": 537,
     "pro": {
-      "won": 813,
-      "lost": 374,
-      "total": 1187,
-      "rate": 68.5
+      "won": 838,
+      "lost": 378,
+      "total": 1216,
+      "rate": 68.9
     },
     "insights": {
-      "won": 1463,
-      "lost": 668,
-      "total": 2131,
-      "rate": 68.7
+      "won": 1495,
+      "lost": 674,
+      "total": 2169,
+      "rate": 68.9
     },
     "coupons": {
-      "won": 81,
+      "won": 82,
       "lost": 72,
-      "total": 153,
-      "rate": 52.9
+      "total": 154,
+      "rate": 53.2
     },
-    "analyses24h": 3677,
-    "analyses30d": 22810
+    "analyses24h": 3655,
+    "analyses30d": 22799
   },
   "recentWins": [
     {
@@ -118,6 +118,35 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 3,
+      "totalOdds": 4.94,
+      "winChance": 44.1,
+      "completedAt": "24.10.2026 22:45",
+      "legs": [
+        {
+          "home": "Metalul Buzau",
+          "away": "Stefanesti",
+          "prediction": "Both Teams to Score - No",
+          "odds": 1.68,
+          "finalScore": "3 - 0"
+        },
+        {
+          "home": "RB Leipzig",
+          "away": "SV Elversberg",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.72,
+          "finalScore": "4 - 0"
+        },
+        {
+          "home": "Kr Reykjavik",
+          "away": "Breidablik",
+          "prediction": "Under 4.5 Goals",
+          "odds": 1.71,
+          "finalScore": null
+        }
+      ]
+    },
     {
       "size": 3,
       "totalOdds": 4.9,
@@ -195,28 +224,6 @@
           "prediction": "Over 2.5 Goals",
           "odds": 1.65,
           "finalScore": "1 - 2"
-        }
-      ]
-    },
-    {
-      "size": 2,
-      "totalOdds": 2.4,
-      "winChance": 31.89,
-      "completedAt": "24.10.2026 21:11",
-      "legs": [
-        {
-          "home": "ADO Den Haag",
-          "away": "SC Heerenveen",
-          "prediction": "1st Half Under 1.5",
-          "odds": 1.51,
-          "finalScore": "2 - 3"
-        },
-        {
-          "home": "Atletico Madrid",
-          "away": "Deportivo La Coruna",
-          "prediction": "Both Teams to Score - No",
-          "odds": 1.59,
-          "finalScore": "1 - 0"
         }
       ]
     }
@@ -309,7 +316,7 @@
     "league": "MAC",
     "date": "25.10.2026 12:15",
     "patternScore": 71.74,
-    "patternText": "222.610/310.299",
+    "patternText": "222.634/310.325",
     "picks": 2
   },
   "todayList": [
@@ -319,7 +326,7 @@
       "league": "MAC",
       "date": "25.10.2026 12:15",
       "patternScore": 71.74,
-      "patternText": "222.610/310.299",
+      "patternText": "222.634/310.325",
       "picks": 2
     },
     {
@@ -327,18 +334,9 @@
       "away": "Oakland Roots SC",
       "league": "USLP",
       "date": "25.10.2026 02:00",
-      "patternScore": 71.59,
-      "patternText": "181.583/253.631",
+      "patternScore": 71.6,
+      "patternText": "181.605/253.655",
       "picks": 1
-    },
-    {
-      "home": "Charleston Bat",
-      "away": "Indy Eleven",
-      "league": "USLP",
-      "date": "24.10.2026 22:00",
-      "patternScore": 71.52,
-      "patternText": "185.790/259.761",
-      "picks": 2
     },
     {
       "home": "Suwon FC",
@@ -346,7 +344,7 @@
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
       "patternScore": 71.51,
-      "patternText": "183.112/256.072",
+      "patternText": "183.132/256.094",
       "picks": 1
     },
     {
@@ -355,11 +353,41 @@
       "league": "USL1",
       "date": "24.10.2026 23:30",
       "patternScore": 71.46,
-      "patternText": "187.186/261.946",
+      "patternText": "187.204/261.966",
       "picks": 1
+    },
+    {
+      "home": "Urawa Red Diamonds",
+      "away": "V-Varen Nagasaki",
+      "league": "JAP",
+      "date": "25.10.2026 06:00",
+      "patternScore": 71.35,
+      "patternText": "198.214/277.819",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Santos",
+      "away": "EC Bahia",
+      "league": "BR1",
+      "at": "24.10.2026 22:32",
+      "count": 4
+    },
+    {
+      "home": "Philadelphia Union",
+      "away": "New England Revolution",
+      "league": "ABD",
+      "at": "24.10.2026 22:32",
+      "count": 3
+    },
+    {
+      "home": "Orlando City SC",
+      "away": "New York City FC",
+      "league": "ABD",
+      "at": "24.10.2026 22:31",
+      "count": 5
+    },
     {
       "home": "Portland Timbers",
       "away": "Charlotte FC",
@@ -408,27 +436,6 @@
       "league": "İS1",
       "at": "24.10.2026 17:16",
       "count": 5
-    },
-    {
-      "home": "Sport Club Internacional",
-      "away": "Botafogo de Futebol e Regatas",
-      "league": "BR1",
-      "at": "24.10.2026 17:16",
-      "count": 7
-    },
-    {
-      "home": "Wolverhampton Wanderers",
-      "away": "Watford",
-      "league": "İNCL",
-      "at": "24.10.2026 13:14",
-      "count": 4
-    },
-    {
-      "home": "Arsenal",
-      "away": "Everton",
-      "league": "İNP",
-      "at": "24.10.2026 13:13",
-      "count": 6
     }
   ],
   "paywall": {
