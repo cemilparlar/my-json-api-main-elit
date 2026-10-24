@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.10.2026 23:52",
+  "updatedAt": "24.10.2026 00:07",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 464,
       "rate": 79.7
     },
-    "totalAnalyses": 150432,
+    "totalAnalyses": 150463,
     "leagues": 538,
     "pro": {
       "won": 378,
-      "lost": 172,
-      "total": 550,
-      "rate": 68.7
+      "lost": 173,
+      "total": 551,
+      "rate": 68.6
     },
     "insights": {
       "won": 656,
-      "lost": 317,
-      "total": 973,
-      "rate": 67.4
+      "lost": 319,
+      "total": 975,
+      "rate": 67.3
     },
     "coupons": {
       "won": 65,
@@ -47,8 +47,8 @@
       "total": 128,
       "rate": 50.8
     },
-    "analyses24h": 4346,
-    "analyses30d": 22942
+    "analyses24h": 4351,
+    "analyses30d": 22952
   },
   "recentWins": [
     {
@@ -250,26 +250,20 @@
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.68,
-      "at": "23.10.2026 23:16"
+      "odds": 1.58,
+      "at": "24.10.2026 00:07"
     },
     {
       "type": "coupon",
       "size": 1,
       "odds": 1.74,
-      "at": "23.10.2026 22:05"
+      "at": "24.10.2026 00:07"
     },
     {
       "type": "coupon",
-      "size": 2,
-      "odds": 2.4,
-      "at": "23.10.2026 21:06"
-    },
-    {
-      "type": "updated",
-      "at": "23.10.2026 17:52",
-      "home": "Bolton Wanderers",
-      "away": "Middlesbrough"
+      "size": 1,
+      "odds": 1.68,
+      "at": "23.10.2026 23:16"
     },
     {
       "type": "updated",
@@ -294,6 +288,12 @@
       "at": "23.10.2026 20:45",
       "home": "Bristol Rovers",
       "away": "Swindon Town"
+    },
+    {
+      "type": "updated",
+      "at": "23.10.2026 18:20",
+      "home": "Gaziantep FK",
+      "away": "Erzurumspor FK"
     }
   ],
   "today": {
@@ -354,6 +354,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Real Sociedad",
+      "away": "Levante UD",
+      "league": "İS1",
+      "at": "23.10.2026 23:55",
+      "count": 5
+    },
+    {
+      "home": "Sparta Rotterdam",
+      "away": "Ajax",
+      "league": "HOL",
+      "at": "23.10.2026 23:55",
+      "count": 15
+    },
+    {
+      "home": "SS Lazio",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "23.10.2026 23:54",
+      "count": 11
+    },
+    {
       "home": "Valencia CF",
       "away": "Villarreal CF",
       "league": "İS1",
@@ -373,13 +394,6 @@
       "league": "İNCL",
       "at": "23.10.2026 23:50",
       "count": 8
-    },
-    {
-      "home": "Sparta Rotterdam",
-      "away": "Ajax",
-      "league": "HOL",
-      "at": "23.10.2026 23:22",
-      "count": 14
     },
     {
       "home": "Chelsea",
@@ -408,20 +422,6 @@
       "league": "T1L",
       "at": "23.10.2026 23:18",
       "count": 3
-    },
-    {
-      "home": "Como 1907",
-      "away": "US Sassuolo",
-      "league": "İTA",
-      "at": "23.10.2026 23:18",
-      "count": 6
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "Union Berlin",
-      "league": "AL1",
-      "at": "23.10.2026 23:10",
-      "count": 5
     }
   ],
   "paywall": {
