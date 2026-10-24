@@ -68,8 +68,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "24.10.2026 05:58",
-  "updatedAtUtc": "2026-10-24T05:58:00Z",
+  "updatedAt": "24.10.2026 06:15",
+  "updatedAtUtc": "2026-10-24T06:15:00Z",
   "upcoming": [
     {
       "id": "20261023-15-3",
@@ -1328,6 +1328,47 @@
           "probability": 84.62,
           "patternScore": 67.66,
           "patternText": "136.322/201.468",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261024-09-1",
+      "createdAt": "24.10.2026 06:15",
+      "createdAtUtc": "2026-10-24T06:15:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.36,
+      "winChance": 75.75,
+      "firstKickoff": "24.10.2026 21:30",
+      "lastKickoff": "24.10.2026 21:30",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.36,
+      "legs": [
+        {
+          "matchCode": "4423342",
+          "nesine": null,
+          "date": "24.10.2026 21:30",
+          "kickoffUtc": "2026-10-24T21:30:00Z",
+          "league": "BR1",
+          "home": "SE Palmeiras",
+          "away": "Red Bull Bragantino",
+          "league_tr": "BR1",
+          "home_tr": "Palmeiras",
+          "away_tr": "Bragantino",
+          "prediction": "1st Half Under 1.5",
+          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
+          "odds": 1.36,
+          "probability": 71.43,
+          "patternScore": 75.75,
+          "patternText": "238.547/355.850",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
