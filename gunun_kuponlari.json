@@ -68,8 +68,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "24.10.2026 13:24",
-  "updatedAtUtc": "2026-10-24T13:24:00Z",
+  "updatedAt": "24.10.2026 13:40",
+  "updatedAtUtc": "2026-10-24T13:40:00Z",
   "upcoming": [
     {
       "id": "20261023-15-3",
@@ -215,7 +215,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4561159",
@@ -541,7 +541,7 @@
       "winChance": 74.96,
       "firstKickoff": "24.10.2026 13:30",
       "lastKickoff": "24.10.2026 13:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_a",
       "group": "safe",
@@ -568,7 +568,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -582,7 +582,7 @@
       "winChance": 72.25,
       "firstKickoff": "24.10.2026 13:30",
       "lastKickoff": "24.10.2026 13:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_b",
       "group": "safe",
@@ -609,7 +609,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
