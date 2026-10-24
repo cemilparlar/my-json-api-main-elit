@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 14:56",
+  "updatedAt": "24.10.2026 15:11",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 496,
-      "lost": 96,
-      "total": 592,
-      "rate": 83.8
+      "won": 426,
+      "lost": 80,
+      "total": 506,
+      "rate": 84.2
     },
     "totalAnalyses": 151096,
     "leagues": 537,
@@ -47,8 +47,8 @@
       "total": 135,
       "rate": 51.1
     },
-    "analyses24h": 4186,
-    "analyses30d": 22916
+    "analyses24h": 4162,
+    "analyses30d": 22912
   },
   "recentWins": [
     {
@@ -78,19 +78,6 @@
       "pro": true
     },
     {
-      "home": "SC Villa",
-      "away": "Mbarara City",
-      "league": "UGA",
-      "date": "22.10.2026 13:00",
-      "prediction": "Handicap (0:2) X",
-      "odds": 3.37,
-      "probability": 100.0,
-      "patternScore": 55.81,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 0",
-      "pro": true
-    },
-    {
       "home": "Bochum",
       "away": "VfL Wolfsburg",
       "league": "AL2",
@@ -114,6 +101,19 @@
       "patternScore": 56.79,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 0",
+      "pro": false
+    },
+    {
+      "home": "Newcastle Jets",
+      "away": "Macarthur FC",
+      "league": "AVUS",
+      "date": "24.10.2026 04:00",
+      "prediction": "Under 2.5 Goals",
+      "odds": 2.34,
+      "probability": 75.0,
+      "patternScore": 64.27,
+      "firstHalf": "1 - 0",
+      "finalScore": "1 - 1",
       "pro": false
     }
   ],
@@ -233,19 +233,25 @@
     },
     {
       "type": "won",
-      "home": "SC Villa",
-      "away": "Mbarara City",
-      "prediction": "Handicap (0:2) X",
-      "odds": 3.37,
-      "at": "22.10.2026 13:00"
-    },
-    {
-      "type": "won",
       "home": "Bochum",
       "away": "VfL Wolfsburg",
       "prediction": "Under 2.5 Goals",
       "odds": 2.58,
       "at": "23.10.2026 16:30"
+    },
+    {
+      "type": "won",
+      "home": "Rot-Weiss Essen",
+      "away": "Jahn Regensburg",
+      "prediction": "HT/FT 1/1",
+      "odds": 2.47,
+      "at": "23.10.2026 17:00"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 4.43,
+      "at": "24.10.2026 15:11"
     },
     {
       "type": "coupon",
@@ -257,12 +263,6 @@
       "type": "coupon",
       "size": 1,
       "odds": 1.39,
-      "at": "24.10.2026 14:13"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.41,
       "at": "24.10.2026 14:13"
     },
     {
