@@ -68,8 +68,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "24.10.2026 23:16",
-  "updatedAtUtc": "2026-10-24T23:16:00Z",
+  "updatedAt": "24.10.2026 23:31",
+  "updatedAtUtc": "2026-10-24T23:31:00Z",
   "upcoming": [
     {
       "id": "20261024-01-1",
@@ -456,7 +456,7 @@
       "winChance": 64.06,
       "firstKickoff": "24.10.2026 23:30",
       "lastKickoff": "24.10.2026 23:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "surprise_1",
       "group": "surprise",
@@ -483,7 +483,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -497,7 +497,7 @@
       "winChance": 56.37,
       "firstKickoff": "24.10.2026 23:30",
       "lastKickoff": "24.10.2026 23:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "surprise_1",
       "group": "surprise",
@@ -524,7 +524,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
