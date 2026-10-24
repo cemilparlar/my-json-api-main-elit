@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 11:24",
+  "updatedAt": "24.10.2026 11:37",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 444,
-      "lost": 98,
-      "total": 542,
-      "rate": 81.9
+      "won": 442,
+      "lost": 95,
+      "total": 537,
+      "rate": 82.3
     },
     "totalAnalyses": 151019,
     "leagues": 538,
@@ -47,7 +47,7 @@
       "total": 129,
       "rate": 50.4
     },
-    "analyses24h": 4268,
+    "analyses24h": 4257,
     "analyses30d": 22891
   },
   "recentWins": [
@@ -302,7 +302,7 @@
     "league": "USLP",
     "date": "25.10.2026 02:00",
     "patternScore": 71.59,
-    "patternText": "180.485/252.119",
+    "patternText": "180.487/252.127",
     "picks": 1
   },
   "todayList": [
@@ -312,17 +312,8 @@
       "league": "USLP",
       "date": "25.10.2026 02:00",
       "patternScore": 71.59,
-      "patternText": "180.485/252.119",
+      "patternText": "180.487/252.127",
       "picks": 1
-    },
-    {
-      "home": "Follo",
-      "away": "Skeid",
-      "league": "NOR3",
-      "date": "24.10.2026 12:00",
-      "patternScore": 71.51,
-      "patternText": "258.994/362.183",
-      "picks": 2
     },
     {
       "home": "Suwon FC",
@@ -330,7 +321,7 @@
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
       "patternScore": 71.51,
-      "patternText": "182.016/254.518",
+      "patternText": "182.020/254.536",
       "picks": 1
     },
     {
@@ -339,7 +330,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "250.096/350.316",
+      "patternText": "250.110/350.346",
       "picks": 1
     },
     {
@@ -348,7 +339,16 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.36,
-      "patternText": "127.764/179.035",
+      "patternText": "127.764/179.037",
+      "picks": 2
+    },
+    {
+      "home": "Urawa Red Diamonds",
+      "away": "V-Varen Nagasaki",
+      "league": "JAP",
+      "date": "25.10.2026 06:00",
+      "patternScore": 71.34,
+      "patternText": "196.828/275.907",
       "picks": 2
     }
   ],
