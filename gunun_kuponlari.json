@@ -14,7 +14,7 @@
       "lost": 12
     },
     "surprise": {
-      "won": 8,
+      "won": 9,
       "lost": 12
     },
     "surprise_1": {
@@ -30,7 +30,7 @@
       "lost": 3
     },
     "surprise_2": {
-      "won": 0,
+      "won": 1,
       "lost": 2
     }
   },
@@ -48,7 +48,7 @@
       "lost": 12
     },
     "surprise": {
-      "won": 8,
+      "won": 9,
       "lost": 12
     },
     "surprise_1": {
@@ -64,12 +64,12 @@
       "lost": 3
     },
     "surprise_2": {
-      "won": 0,
+      "won": 1,
       "lost": 2
     }
   },
-  "updatedAt": "24.10.2026 17:54",
-  "updatedAtUtc": "2026-10-24T17:54:00Z",
+  "updatedAt": "24.10.2026 18:10",
+  "updatedAtUtc": "2026-10-24T18:10:00Z",
   "upcoming": [
     {
       "id": "20261023-17-5",
@@ -150,69 +150,6 @@
           "patternScore": 75.76,
           "patternText": "277.166/468.315",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261023-19-5",
-      "createdAt": "23.10.2026 16:03",
-      "createdAtUtc": "2026-10-23T16:03:00Z",
-      "size": 2,
-      "mbs": 2,
-      "totalOdds": 2.52,
-      "winChance": 35.28,
-      "firstKickoff": "24.10.2026 15:30",
-      "lastKickoff": "24.10.2026 16:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_2",
-      "group": "surprise",
-      "formula": "2",
-      "effectiveOdds": 2.52,
-      "legs": [
-        {
-          "matchCode": "4426791",
-          "nesine": null,
-          "date": "24.10.2026 15:30",
-          "kickoffUtc": "2026-10-24T15:30:00Z",
-          "league": "İSÇ",
-          "home": "Kalmar FF",
-          "away": "IF Brommapojkarna",
-          "league_tr": "İSÇ",
-          "home_tr": "Kalmar",
-          "away_tr": "Brommapojkarna",
-          "prediction": "Over 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Üst",
-          "odds": 1.53,
-          "probability": 77.78,
-          "patternScore": 59.4,
-          "patternText": "276.324/407.319",
-          "mbs": 2,
-          "firstHalf": "0 - 1",
-          "finalScore": "0 - 3",
-          "status": "won"
-        },
-        {
-          "matchCode": "4542733",
-          "nesine": null,
-          "date": "24.10.2026 16:00",
-          "kickoffUtc": "2026-10-24T16:00:00Z",
-          "league": "TSL",
-          "home": "Samsunspor",
-          "away": "Amed SK",
-          "league_tr": "TSL",
-          "home_tr": "Samsunspor",
-          "away_tr": "Amed Sk",
-          "prediction": "Over 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Üst",
-          "odds": 1.65,
-          "probability": 76.92,
-          "patternScore": 59.4,
-          "patternText": "269.456/399.489",
-          "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
           "status": "live"
@@ -650,6 +587,47 @@
           "probability": 71.42857142857143,
           "patternScore": 67.28,
           "patternText": "223.272/331.876",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261024-21-1",
+      "createdAt": "24.10.2026 18:10",
+      "createdAtUtc": "2026-10-24T18:10:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.4,
+      "winChance": 74.5,
+      "firstKickoff": "24.10.2026 22:30",
+      "lastKickoff": "24.10.2026 22:30",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.4,
+      "legs": [
+        {
+          "matchCode": "4423348",
+          "nesine": null,
+          "date": "24.10.2026 22:30",
+          "kickoffUtc": "2026-10-24T22:30:00Z",
+          "league": "BR1",
+          "home": "Chapecoense AF",
+          "away": "Fluminense FC",
+          "league_tr": "BR1",
+          "home_tr": "Chapecoense",
+          "away_tr": "Fluminense",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.4,
+          "probability": 100.0,
+          "patternScore": 74.5,
+          "patternText": "224.721/386.276",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
@@ -1548,6 +1526,69 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261023-19-5",
+      "createdAt": "23.10.2026 16:03",
+      "createdAtUtc": "2026-10-23T16:03:00Z",
+      "size": 2,
+      "mbs": 2,
+      "totalOdds": 2.52,
+      "winChance": 35.28,
+      "firstKickoff": "24.10.2026 15:30",
+      "lastKickoff": "24.10.2026 16:00",
+      "status": "won",
+      "completedAt": "24.10.2026 18:10",
+      "kind": "surprise_2",
+      "group": "surprise",
+      "formula": "2",
+      "effectiveOdds": 2.52,
+      "legs": [
+        {
+          "matchCode": "4426791",
+          "nesine": null,
+          "date": "24.10.2026 15:30",
+          "kickoffUtc": "2026-10-24T15:30:00Z",
+          "league": "İSÇ",
+          "home": "Kalmar FF",
+          "away": "IF Brommapojkarna",
+          "league_tr": "İSÇ",
+          "home_tr": "Kalmar",
+          "away_tr": "Brommapojkarna",
+          "prediction": "Over 2.5 Goals",
+          "prediction_tr": "2,5 Alt/Üst Üst",
+          "odds": 1.53,
+          "probability": 77.78,
+          "patternScore": 59.4,
+          "patternText": "276.324/407.319",
+          "mbs": 2,
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 3",
+          "status": "won"
+        },
+        {
+          "matchCode": "4542733",
+          "nesine": null,
+          "date": "24.10.2026 16:00",
+          "kickoffUtc": "2026-10-24T16:00:00Z",
+          "league": "TSL",
+          "home": "Samsunspor",
+          "away": "Amed SK",
+          "league_tr": "TSL",
+          "home_tr": "Samsunspor",
+          "away_tr": "Amed Sk",
+          "prediction": "Over 2.5 Goals",
+          "prediction_tr": "2,5 Alt/Üst Üst",
+          "odds": 1.65,
+          "probability": 76.92,
+          "patternScore": 59.4,
+          "patternText": "269.456/399.489",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 2",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261023-19-3",
       "createdAt": "23.10.2026 16:03",

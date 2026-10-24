@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 17:54",
+  "updatedAt": "24.10.2026 18:10",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 714,
-      "lost": 159,
-      "total": 873,
+      "won": 735,
+      "lost": 164,
+      "total": 899,
       "rate": 81.8
     },
     "totalAnalyses": 151111,
     "leagues": 537,
     "pro": {
-      "won": 734,
-      "lost": 322,
-      "total": 1056,
-      "rate": 69.5
+      "won": 751,
+      "lost": 328,
+      "total": 1079,
+      "rate": 69.6
     },
     "insights": {
-      "won": 1321,
-      "lost": 573,
-      "total": 1894,
+      "won": 1356,
+      "lost": 589,
+      "total": 1945,
       "rate": 69.7
     },
     "coupons": {
-      "won": 79,
+      "won": 80,
       "lost": 71,
-      "total": 150,
-      "rate": 52.7
+      "total": 151,
+      "rate": 53.0
     },
-    "analyses24h": 3943,
-    "analyses30d": 22883
+    "analyses24h": 3836,
+    "analyses30d": 22874
   },
   "recentWins": [
     {
@@ -178,6 +178,28 @@
     },
     {
       "size": 2,
+      "totalOdds": 2.52,
+      "winChance": 35.28,
+      "completedAt": "24.10.2026 18:10",
+      "legs": [
+        {
+          "home": "Kalmar FF",
+          "away": "IF Brommapojkarna",
+          "prediction": "Over 2.5 Goals",
+          "odds": 1.53,
+          "finalScore": "0 - 3"
+        },
+        {
+          "home": "Samsunspor",
+          "away": "Amed SK",
+          "prediction": "Over 2.5 Goals",
+          "odds": 1.65,
+          "finalScore": "1 - 2"
+        }
+      ]
+    },
+    {
+      "size": 2,
       "totalOdds": 2.23,
       "winChance": 65.58,
       "completedAt": "23.10.2026 02:02",
@@ -195,21 +217,6 @@
           "prediction": "1st Half Double Chance X2",
           "odds": 1.68,
           "finalScore": null
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.81,
-      "winChance": 78.47,
-      "completedAt": "23.10.2026 21:06",
-      "legs": [
-        {
-          "home": "Deportivo Alaves",
-          "away": "Malaga CF",
-          "prediction": "Both Teams to Score - Yes",
-          "odds": 1.81,
-          "finalScore": "1 - 1"
         }
       ]
     }
@@ -250,6 +257,12 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.4,
+      "at": "24.10.2026 18:10"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.34,
       "at": "24.10.2026 17:06"
     },
@@ -257,12 +270,6 @@
       "type": "coupon",
       "size": 1,
       "odds": 1.44,
-      "at": "24.10.2026 17:06"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.33,
       "at": "24.10.2026 17:06"
     },
     {
@@ -302,7 +309,7 @@
     "league": "EKV1",
     "date": "24.10.2026 21:30",
     "patternScore": 72.02,
-    "patternText": "200.244/278.049",
+    "patternText": "200.268/278.083",
     "picks": 2
   },
   "todayList": [
@@ -312,7 +319,7 @@
       "league": "EKV1",
       "date": "24.10.2026 21:30",
       "patternScore": 72.02,
-      "patternText": "200.244/278.049",
+      "patternText": "200.268/278.083",
       "picks": 2
     },
     {
@@ -321,7 +328,7 @@
       "league": "MAC",
       "date": "25.10.2026 12:15",
       "patternScore": 71.75,
-      "patternText": "222.402/309.987",
+      "patternText": "222.428/310.023",
       "picks": 2
     },
     {
@@ -329,8 +336,8 @@
       "away": "Oakland Roots SC",
       "league": "USLP",
       "date": "25.10.2026 02:00",
-      "patternScore": 71.59,
-      "patternText": "181.335/253.281",
+      "patternScore": 71.6,
+      "patternText": "181.371/253.327",
       "picks": 1
     },
     {
@@ -339,7 +346,7 @@
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
       "patternScore": 71.52,
-      "patternText": "182.902/255.732",
+      "patternText": "182.934/255.774",
       "picks": 1
     },
     {
@@ -348,7 +355,7 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.39,
-      "patternText": "128.406/179.869",
+      "patternText": "128.434/179.903",
       "picks": 2
     }
   ],
