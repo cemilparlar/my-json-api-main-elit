@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 11:51",
+  "updatedAt": "24.10.2026 12:05",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 442,
+      "won": 427,
       "lost": 95,
-      "total": 537,
-      "rate": 82.3
+      "total": 522,
+      "rate": 81.8
     },
-    "totalAnalyses": 151019,
+    "totalAnalyses": 151052,
     "leagues": 538,
     "pro": {
-      "won": 441,
-      "lost": 197,
-      "total": 638,
-      "rate": 69.1
+      "won": 445,
+      "lost": 202,
+      "total": 647,
+      "rate": 68.8
     },
     "insights": {
-      "won": 780,
-      "lost": 361,
-      "total": 1141,
-      "rate": 68.4
+      "won": 793,
+      "lost": 370,
+      "total": 1163,
+      "rate": 68.2
     },
     "coupons": {
       "won": 66,
@@ -47,8 +47,8 @@
       "total": 130,
       "rate": 50.8
     },
-    "analyses24h": 4257,
-    "analyses30d": 22891
+    "analyses24h": 4273,
+    "analyses30d": 22910
   },
   "recentWins": [
     {
@@ -302,7 +302,7 @@
     "league": "USLP",
     "date": "25.10.2026 02:00",
     "patternScore": 71.59,
-    "patternText": "180.487/252.127",
+    "patternText": "180.499/252.141",
     "picks": 1
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "USLP",
       "date": "25.10.2026 02:00",
       "patternScore": 71.59,
-      "patternText": "180.487/252.127",
+      "patternText": "180.499/252.141",
       "picks": 1
     },
     {
@@ -321,16 +321,7 @@
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
       "patternScore": 71.51,
-      "patternText": "182.020/254.536",
-      "picks": 1
-    },
-    {
-      "home": "Mfk Bytca",
-      "away": "FK Tatran Presov",
-      "league": "SLVK2",
-      "date": "24.10.2026 12:30",
-      "patternScore": 71.39,
-      "patternText": "250.110/350.346",
+      "patternText": "182.036/254.554",
       "picks": 1
     },
     {
@@ -339,7 +330,7 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.36,
-      "patternText": "127.764/179.037",
+      "patternText": "127.780/179.053",
       "picks": 2
     },
     {
@@ -348,11 +339,48 @@
       "league": "JAP",
       "date": "25.10.2026 06:00",
       "patternScore": 71.34,
-      "patternText": "196.828/275.907",
+      "patternText": "196.852/275.933",
+      "picks": 2
+    },
+    {
+      "home": "Telford",
+      "away": "Hebburn Town",
+      "league": "İCON",
+      "date": "24.10.2026 14:00",
+      "patternScore": 71.27,
+      "patternText": "269.010/377.432",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SS Lazio",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "24.10.2026 12:04",
+      "count": 8
+    },
+    {
+      "home": "New York Red Bulls",
+      "away": "Inter Miami CF",
+      "league": "ABD",
+      "at": "24.10.2026 12:04",
+      "count": 17
+    },
+    {
+      "home": "Chelsea",
+      "away": "Tottenham Hotspur",
+      "league": "İNP",
+      "at": "24.10.2026 12:03",
+      "count": 4
+    },
+    {
+      "home": "Nuremberg",
+      "away": "Kaiserslautern",
+      "league": "AL2",
+      "at": "24.10.2026 12:03",
+      "count": 2
+    },
     {
       "home": "Muglaspor",
       "away": "Istanbulspor",
@@ -361,25 +389,11 @@
       "count": 4
     },
     {
-      "home": "Chelsea",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "24.10.2026 07:48",
-      "count": 8
-    },
-    {
       "home": "RC Lens",
       "away": "Paris FC",
       "league": "FR1",
       "at": "24.10.2026 06:13",
       "count": 10
-    },
-    {
-      "home": "SS Lazio",
-      "away": "Parma Calcio",
-      "league": "İTA",
-      "at": "24.10.2026 06:13",
-      "count": 2
     },
     {
       "home": "SS Arezzo",
@@ -408,20 +422,6 @@
       "league": "HOL",
       "at": "24.10.2026 06:10",
       "count": 9
-    },
-    {
-      "home": "Wolverhampton Wanderers",
-      "away": "Watford",
-      "league": "İNCL",
-      "at": "24.10.2026 06:09",
-      "count": 7
-    },
-    {
-      "home": "Arsenal",
-      "away": "Everton",
-      "league": "İNP",
-      "at": "24.10.2026 06:09",
-      "count": 4
     }
   ],
   "paywall": {
