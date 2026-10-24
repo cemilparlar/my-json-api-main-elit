@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 17:22",
+  "updatedAt": "24.10.2026 17:39",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 372,
-      "lost": 84,
-      "total": 456,
-      "rate": 81.6
+      "won": 556,
+      "lost": 135,
+      "total": 691,
+      "rate": 80.5
     },
     "totalAnalyses": 151111,
     "leagues": 537,
     "pro": {
-      "won": 584,
-      "lost": 262,
-      "total": 846,
-      "rate": 69.0
-    },
-    "insights": {
-      "won": 1073,
-      "lost": 473,
-      "total": 1546,
+      "won": 707,
+      "lost": 311,
+      "total": 1018,
       "rate": 69.4
     },
-    "coupons": {
-      "won": 73,
-      "lost": 69,
-      "total": 142,
-      "rate": 51.4
+    "insights": {
+      "won": 1271,
+      "lost": 555,
+      "total": 1826,
+      "rate": 69.6
     },
-    "analyses24h": 3970,
-    "analyses30d": 22890
+    "coupons": {
+      "won": 78,
+      "lost": 71,
+      "total": 149,
+      "rate": 52.3
+    },
+    "analyses24h": 3947,
+    "analyses30d": 22883
   },
   "recentWins": [
     {
@@ -78,6 +78,19 @@
       "pro": true
     },
     {
+      "home": "BK Hacken",
+      "away": "Degerfors IF",
+      "league": "İSÇ",
+      "date": "24.10.2026 13:00",
+      "prediction": "Total Goals 4-5",
+      "odds": 2.78,
+      "probability": 100.0,
+      "patternScore": 61.75,
+      "firstHalf": "4 - 0",
+      "finalScore": "4 - 0",
+      "pro": false
+    },
+    {
       "home": "Bochum",
       "away": "VfL Wolfsburg",
       "league": "AL2",
@@ -101,19 +114,6 @@
       "patternScore": 56.79,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 0",
-      "pro": false
-    },
-    {
-      "home": "Newcastle Jets",
-      "away": "Macarthur FC",
-      "league": "AVUS",
-      "date": "24.10.2026 04:00",
-      "prediction": "Under 2.5 Goals",
-      "odds": 2.34,
-      "probability": 75.0,
-      "patternScore": 64.27,
-      "firstHalf": "1 - 0",
-      "finalScore": "1 - 1",
       "pro": false
     }
   ],
@@ -233,19 +233,19 @@
     },
     {
       "type": "won",
+      "home": "BK Hacken",
+      "away": "Degerfors IF",
+      "prediction": "Total Goals 4-5",
+      "odds": 2.78,
+      "at": "24.10.2026 13:00"
+    },
+    {
+      "type": "won",
       "home": "Bochum",
       "away": "VfL Wolfsburg",
       "prediction": "Under 2.5 Goals",
       "odds": 2.58,
       "at": "23.10.2026 16:30"
-    },
-    {
-      "type": "won",
-      "home": "Rot-Weiss Essen",
-      "away": "Jahn Regensburg",
-      "prediction": "HT/FT 1/1",
-      "odds": 2.47,
-      "at": "23.10.2026 17:00"
     },
     {
       "type": "coupon",
@@ -297,22 +297,31 @@
     }
   ],
   "today": {
-    "home": "Vasas",
-    "away": "Paksi",
-    "league": "MAC",
-    "date": "25.10.2026 12:15",
-    "patternScore": 71.75,
-    "patternText": "221.788/309.111",
+    "home": "LDU Quito",
+    "away": "Macara",
+    "league": "EKV1",
+    "date": "24.10.2026 21:30",
+    "patternScore": 72.02,
+    "patternText": "199.906/277.557",
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "LDU Quito",
+      "away": "Macara",
+      "league": "EKV1",
+      "date": "24.10.2026 21:30",
+      "patternScore": 72.02,
+      "patternText": "199.906/277.557",
+      "picks": 2
+    },
     {
       "home": "Vasas",
       "away": "Paksi",
       "league": "MAC",
       "date": "25.10.2026 12:15",
       "patternScore": 71.75,
-      "patternText": "221.788/309.111",
+      "patternText": "222.016/309.417",
       "picks": 2
     },
     {
@@ -321,7 +330,7 @@
       "league": "USLP",
       "date": "25.10.2026 02:00",
       "patternScore": 71.6,
-      "patternText": "180.853/252.593",
+      "patternText": "180.977/252.765",
       "picks": 1
     },
     {
@@ -330,7 +339,7 @@
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
       "patternScore": 71.52,
-      "patternText": "182.412/255.040",
+      "patternText": "182.542/255.230",
       "picks": 1
     },
     {
@@ -339,16 +348,7 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.38,
-      "patternText": "128.034/179.377",
-      "picks": 2
-    },
-    {
-      "home": "Urawa Red Diamonds",
-      "away": "V-Varen Nagasaki",
-      "league": "JAP",
-      "date": "25.10.2026 06:00",
-      "patternScore": 71.35,
-      "patternText": "197.334/276.573",
+      "patternText": "128.134/179.517",
       "picks": 2
     }
   ],
