@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 14:41",
+  "updatedAt": "24.10.2026 14:56",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 499,
-      "lost": 97,
-      "total": 596,
-      "rate": 83.7
+      "won": 496,
+      "lost": 96,
+      "total": 592,
+      "rate": 83.8
     },
     "totalAnalyses": 151096,
     "leagues": 537,
@@ -199,31 +199,17 @@
       ]
     },
     {
-      "size": 3,
-      "totalOdds": 2.01,
-      "winChance": 27.74,
-      "completedAt": "22.10.2026 14:49",
+      "size": 1,
+      "totalOdds": 1.81,
+      "winChance": 78.47,
+      "completedAt": "23.10.2026 21:06",
       "legs": [
         {
-          "home": "Jeddah Club",
-          "away": "Al Jabalain",
-          "prediction": "Both Teams to Score - No",
-          "odds": 1.44,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "Warrenpoint To",
-          "away": "Crusaders",
-          "prediction": "Over 2.5 Goals",
-          "odds": 1.29,
-          "finalScore": null
-        },
-        {
-          "home": "Telecom Egypt",
-          "away": "Baladiyyat",
-          "prediction": "Double Chance 1X",
-          "odds": 1.08,
-          "finalScore": "0 - 0"
+          "home": "Deportivo Alaves",
+          "away": "Malaga CF",
+          "prediction": "Both Teams to Score - Yes",
+          "odds": 1.81,
+          "finalScore": "1 - 1"
         }
       ]
     }
