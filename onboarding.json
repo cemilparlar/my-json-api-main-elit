@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 20:49",
+  "updatedAt": "24.10.2026 21:11",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 834,
-      "lost": 191,
-      "total": 1025,
-      "rate": 81.4
+      "won": 872,
+      "lost": 213,
+      "total": 1085,
+      "rate": 80.4
     },
     "totalAnalyses": 151133,
     "leagues": 537,
     "pro": {
-      "won": 807,
-      "lost": 363,
-      "total": 1170,
-      "rate": 69.0
+      "won": 813,
+      "lost": 374,
+      "total": 1187,
+      "rate": 68.5
     },
     "insights": {
-      "won": 1454,
-      "lost": 654,
-      "total": 2108,
-      "rate": 69.0
+      "won": 1463,
+      "lost": 668,
+      "total": 2131,
+      "rate": 68.7
     },
     "coupons": {
-      "won": 80,
-      "lost": 71,
-      "total": 151,
-      "rate": 53.0
+      "won": 81,
+      "lost": 72,
+      "total": 153,
+      "rate": 52.9
     },
-    "analyses24h": 3695,
-    "analyses30d": 22822
+    "analyses24h": 3677,
+    "analyses30d": 22810
   },
   "recentWins": [
     {
@@ -200,23 +200,23 @@
     },
     {
       "size": 2,
-      "totalOdds": 2.23,
-      "winChance": 65.58,
-      "completedAt": "23.10.2026 02:02",
+      "totalOdds": 2.4,
+      "winChance": 31.89,
+      "completedAt": "24.10.2026 21:11",
       "legs": [
         {
-          "home": "Union St.G",
-          "away": "Hapoel Beer She",
-          "prediction": "Over 2.5 Goals",
-          "odds": 1.33,
-          "finalScore": "4 - 0"
+          "home": "ADO Den Haag",
+          "away": "SC Heerenveen",
+          "prediction": "1st Half Under 1.5",
+          "odds": 1.51,
+          "finalScore": "2 - 3"
         },
         {
-          "home": "Al Ahli Jeddah",
-          "away": "Al Khaleej",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.68,
-          "finalScore": null
+          "home": "Atletico Madrid",
+          "away": "Deportivo La Coruna",
+          "prediction": "Both Teams to Score - No",
+          "odds": 1.59,
+          "finalScore": "1 - 0"
         }
       ]
     }
@@ -304,31 +304,22 @@
     }
   ],
   "today": {
-    "home": "LDU Quito",
-    "away": "Macara",
-    "league": "EKV1",
-    "date": "24.10.2026 21:30",
-    "patternScore": 72.01,
-    "patternText": "200.404/278.293",
+    "home": "Vasas",
+    "away": "Paksi",
+    "league": "MAC",
+    "date": "25.10.2026 12:15",
+    "patternScore": 71.74,
+    "patternText": "222.602/310.287",
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "LDU Quito",
-      "away": "Macara",
-      "league": "EKV1",
-      "date": "24.10.2026 21:30",
-      "patternScore": 72.01,
-      "patternText": "200.404/278.293",
-      "picks": 2
-    },
     {
       "home": "Vasas",
       "away": "Paksi",
       "league": "MAC",
       "date": "25.10.2026 12:15",
       "patternScore": 71.74,
-      "patternText": "222.552/310.215",
+      "patternText": "222.602/310.287",
       "picks": 2
     },
     {
@@ -337,8 +328,17 @@
       "league": "USLP",
       "date": "25.10.2026 02:00",
       "patternScore": 71.59,
-      "patternText": "181.515/253.537",
+      "patternText": "181.575/253.617",
       "picks": 1
+    },
+    {
+      "home": "Charleston Bat",
+      "away": "Indy Eleven",
+      "league": "USLP",
+      "date": "24.10.2026 22:00",
+      "patternScore": 71.52,
+      "patternText": "185.782/259.749",
+      "picks": 2
     },
     {
       "home": "Suwon FC",
@@ -346,17 +346,17 @@
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
       "patternScore": 71.51,
-      "patternText": "183.060/255.992",
+      "patternText": "183.104/256.060",
       "picks": 1
     },
     {
-      "home": "Urawa Red Diamonds",
-      "away": "V-Varen Nagasaki",
-      "league": "JAP",
-      "date": "25.10.2026 06:00",
-      "patternScore": 71.35,
-      "patternText": "198.104/277.669",
-      "picks": 2
+      "home": "Sarasota Parad",
+      "away": "Westchester SC",
+      "league": "USL1",
+      "date": "24.10.2026 23:30",
+      "patternScore": 71.46,
+      "patternText": "187.178/261.934",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
