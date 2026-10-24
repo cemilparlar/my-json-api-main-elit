@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 13:07",
+  "updatedAt": "24.10.2026 13:24",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 414,
-      "lost": 90,
-      "total": 504,
-      "rate": 82.1
+      "won": 447,
+      "lost": 98,
+      "total": 545,
+      "rate": 82.0
     },
-    "totalAnalyses": 151081,
+    "totalAnalyses": 151096,
     "leagues": 538,
     "pro": {
-      "won": 467,
-      "lost": 212,
-      "total": 679,
+      "won": 475,
+      "lost": 215,
+      "total": 690,
       "rate": 68.8
     },
     "insights": {
-      "won": 835,
-      "lost": 390,
-      "total": 1225,
-      "rate": 68.2
+      "won": 851,
+      "lost": 395,
+      "total": 1246,
+      "rate": 68.3
     },
     "coupons": {
       "won": 66,
@@ -47,8 +47,8 @@
       "total": 131,
       "rate": 50.4
     },
-    "analyses24h": 4241,
-    "analyses30d": 22924
+    "analyses24h": 4244,
+    "analyses30d": 22932
   },
   "recentWins": [
     {
@@ -267,33 +267,33 @@
     },
     {
       "type": "updated",
-      "at": "24.10.2026 12:13",
+      "at": "24.10.2026 13:14",
+      "home": "Wolverhampton Wanderers",
+      "away": "Watford"
+    },
+    {
+      "type": "updated",
+      "at": "24.10.2026 13:12",
       "home": "Cardiff City",
       "away": "Birmingham City"
     },
     {
       "type": "updated",
-      "at": "24.10.2026 12:13",
+      "at": "24.10.2026 13:12",
+      "home": "Rotherham United",
+      "away": "Shrewsbury Town"
+    },
+    {
+      "type": "updated",
+      "at": "24.10.2026 13:12",
+      "home": "Doncaster Rovers",
+      "away": "Sheffield Wednesday"
+    },
+    {
+      "type": "updated",
+      "at": "24.10.2026 13:12",
       "home": "Stevenage",
       "away": "MK Dons"
-    },
-    {
-      "type": "updated",
-      "at": "24.10.2026 12:13",
-      "home": "Crawley Town",
-      "away": "Tranmere Rovers"
-    },
-    {
-      "type": "updated",
-      "at": "24.10.2026 12:03",
-      "home": "Chelsea",
-      "away": "Tottenham Hotspur"
-    },
-    {
-      "type": "updated",
-      "at": "24.10.2026 12:11",
-      "home": "US Avellino",
-      "away": "Calcio Padova"
     }
   ],
   "today": {
@@ -302,7 +302,7 @@
     "league": "MAC",
     "date": "25.10.2026 12:15",
     "patternScore": 71.73,
-    "patternText": "221.182/308.347",
+    "patternText": "221.258/308.441",
     "picks": 2
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "MAC",
       "date": "25.10.2026 12:15",
       "patternScore": 71.73,
-      "patternText": "221.182/308.347",
+      "patternText": "221.258/308.441",
       "picks": 2
     },
     {
@@ -321,7 +321,7 @@
       "league": "USLP",
       "date": "25.10.2026 02:00",
       "patternScore": 71.59,
-      "patternText": "180.537/252.191",
+      "patternText": "180.613/252.281",
       "picks": 1
     },
     {
@@ -329,8 +329,8 @@
       "away": "Asan Mugunghwa",
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
-      "patternScore": 71.51,
-      "patternText": "182.080/254.614",
+      "patternScore": 71.52,
+      "patternText": "182.146/254.696",
       "picks": 1
     },
     {
@@ -339,7 +339,7 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.37,
-      "patternText": "127.814/179.095",
+      "patternText": "127.858/179.159",
       "picks": 2
     },
     {
@@ -347,25 +347,39 @@
       "away": "V-Varen Nagasaki",
       "league": "JAP",
       "date": "25.10.2026 06:00",
-      "patternScore": 71.34,
-      "patternText": "196.916/276.017",
+      "patternScore": 71.35,
+      "patternText": "197.006/276.125",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Watford",
+      "league": "İNCL",
+      "at": "24.10.2026 13:14",
+      "count": 4
+    },
+    {
+      "home": "Arsenal",
+      "away": "Everton",
+      "league": "İNP",
+      "at": "24.10.2026 13:13",
+      "count": 6
+    },
+    {
+      "home": "Cardiff City",
+      "away": "Birmingham City",
+      "league": "İNCL",
+      "at": "24.10.2026 13:12",
+      "count": 16
+    },
     {
       "home": "FC Augsburg",
       "away": "Union Berlin",
       "league": "AL1",
       "at": "24.10.2026 12:56",
       "count": 9
-    },
-    {
-      "home": "Cardiff City",
-      "away": "Birmingham City",
-      "league": "İNCL",
-      "at": "24.10.2026 12:13",
-      "count": 11
     },
     {
       "home": "FSV Mainz 05",
@@ -408,20 +422,6 @@
       "league": "ABD",
       "at": "24.10.2026 12:04",
       "count": 17
-    },
-    {
-      "home": "Chelsea",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "24.10.2026 12:03",
-      "count": 4
-    },
-    {
-      "home": "Nuremberg",
-      "away": "Kaiserslautern",
-      "league": "AL2",
-      "at": "24.10.2026 12:03",
-      "count": 2
     }
   ],
   "paywall": {
