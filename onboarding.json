@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 18:54",
+  "updatedAt": "24.10.2026 19:11",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 793,
-      "lost": 179,
-      "total": 972,
-      "rate": 81.6
+      "won": 822,
+      "lost": 186,
+      "total": 1008,
+      "rate": 81.5
     },
-    "totalAnalyses": 151111,
+    "totalAnalyses": 151112,
     "leagues": 537,
     "pro": {
-      "won": 762,
-      "lost": 336,
-      "total": 1098,
-      "rate": 69.4
+      "won": 786,
+      "lost": 350,
+      "total": 1136,
+      "rate": 69.2
     },
     "insights": {
-      "won": 1378,
-      "lost": 601,
-      "total": 1979,
-      "rate": 69.6
+      "won": 1419,
+      "lost": 636,
+      "total": 2055,
+      "rate": 69.1
     },
     "coupons": {
       "won": 80,
@@ -47,8 +47,8 @@
       "total": 151,
       "rate": 53.0
     },
-    "analyses24h": 3735,
-    "analyses30d": 22844
+    "analyses24h": 3708,
+    "analyses30d": 22825
   },
   "recentWins": [
     {
@@ -78,6 +78,19 @@
       "pro": true
     },
     {
+      "home": "Girona FC",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "date": "24.10.2026 16:30",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 2.91,
+      "probability": 100.0,
+      "patternScore": 57.88,
+      "firstHalf": "4 - 0",
+      "finalScore": "5 - 1",
+      "pro": false
+    },
+    {
       "home": "BK Hacken",
       "away": "Degerfors IF",
       "league": "İSÇ",
@@ -102,19 +115,6 @@
       "firstHalf": "0 - 1",
       "finalScore": "1 - 1",
       "pro": true
-    },
-    {
-      "home": "Rot-Weiss Essen",
-      "away": "Jahn Regensburg",
-      "league": "AL3",
-      "date": "23.10.2026 17:00",
-      "prediction": "HT/FT 1/1",
-      "odds": 2.47,
-      "probability": 100.0,
-      "patternScore": 56.79,
-      "firstHalf": "1 - 0",
-      "finalScore": "1 - 0",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -240,19 +240,19 @@
     },
     {
       "type": "won",
+      "home": "Girona FC",
+      "away": "Celta Vigo B",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 2.91,
+      "at": "24.10.2026 16:30"
+    },
+    {
+      "type": "won",
       "home": "BK Hacken",
       "away": "Degerfors IF",
       "prediction": "Total Goals 4-5",
       "odds": 2.78,
       "at": "24.10.2026 13:00"
-    },
-    {
-      "type": "won",
-      "home": "Bochum",
-      "away": "VfL Wolfsburg",
-      "prediction": "Under 2.5 Goals",
-      "odds": 2.58,
-      "at": "23.10.2026 16:30"
     },
     {
       "type": "coupon",
@@ -309,7 +309,7 @@
     "league": "EKV1",
     "date": "24.10.2026 21:30",
     "patternScore": 72.01,
-    "patternText": "200.356/278.229",
+    "patternText": "200.386/278.267",
     "picks": 2
   },
   "todayList": [
@@ -319,7 +319,7 @@
       "league": "EKV1",
       "date": "24.10.2026 21:30",
       "patternScore": 72.01,
-      "patternText": "200.356/278.229",
+      "patternText": "200.386/278.267",
       "picks": 2
     },
     {
@@ -328,7 +328,7 @@
       "league": "MAC",
       "date": "25.10.2026 12:15",
       "patternScore": 71.74,
-      "patternText": "222.506/310.151",
+      "patternText": "222.530/310.185",
       "picks": 2
     },
     {
@@ -337,7 +337,7 @@
       "league": "USLP",
       "date": "25.10.2026 02:00",
       "patternScore": 71.59,
-      "patternText": "181.459/253.465",
+      "patternText": "181.497/253.511",
       "picks": 1
     },
     {
@@ -346,7 +346,7 @@
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
       "patternScore": 71.51,
-      "patternText": "183.014/255.918",
+      "patternText": "183.038/255.952",
       "picks": 1
     },
     {
@@ -355,11 +355,18 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.38,
-      "patternText": "128.476/179.991",
+      "patternText": "128.492/180.013",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Manchester United",
+      "away": "AFC Bournemouth",
+      "league": "İNP",
+      "at": "24.10.2026 19:08",
+      "count": 7
+    },
     {
       "home": "Chapecoense AF",
       "away": "Fluminense FC",
@@ -422,13 +429,6 @@
       "league": "AL1",
       "at": "24.10.2026 12:13",
       "count": 16
-    },
-    {
-      "home": "Cagliari Calcio",
-      "away": "Bologna FC",
-      "league": "İTA",
-      "at": "24.10.2026 12:12",
-      "count": 9
     }
   ],
   "paywall": {

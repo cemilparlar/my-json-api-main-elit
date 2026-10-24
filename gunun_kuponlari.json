@@ -68,8 +68,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "24.10.2026 18:54",
-  "updatedAtUtc": "2026-10-24T18:54:00Z",
+  "updatedAt": "24.10.2026 19:11",
+  "updatedAtUtc": "2026-10-24T19:11:00Z",
   "upcoming": [
     {
       "id": "20261023-17-5",
@@ -166,7 +166,7 @@
       "winChance": 73.95,
       "firstKickoff": "24.10.2026 19:00",
       "lastKickoff": "24.10.2026 19:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_a",
       "group": "safe",
@@ -193,7 +193,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -207,7 +207,7 @@
       "winChance": 31.89,
       "firstKickoff": "24.10.2026 19:00",
       "lastKickoff": "24.10.2026 19:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "surprise_2",
       "group": "surprise",
@@ -234,7 +234,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4492351",
@@ -256,7 +256,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -3174,47 +3174,6 @@
           "mbs": 1,
           "firstHalf": "0 - 1",
           "finalScore": "1 - 1",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261022-20-2",
-      "createdAt": "22.10.2026 17:12",
-      "createdAtUtc": "2026-10-22T17:12:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.57,
-      "winChance": 57.18,
-      "firstKickoff": "23.10.2026 17:00",
-      "lastKickoff": "23.10.2026 17:00",
-      "status": "won",
-      "completedAt": "23.10.2026 19:07",
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.57,
-      "legs": [
-        {
-          "matchCode": "4542727",
-          "nesine": null,
-          "date": "23.10.2026 17:00",
-          "kickoffUtc": "2026-10-23T17:00:00Z",
-          "league": "TSL",
-          "home": "Alanyaspor",
-          "away": "Kocaelispor",
-          "league_tr": "TSL",
-          "home_tr": "Alanyaspor",
-          "away_tr": "Kocaelispor",
-          "prediction": "Handicap (0:1) 2",
-          "prediction_tr": "Handikaplı Maç Sonucu (0:1) 2",
-          "odds": 1.57,
-          "probability": 100.0,
-          "patternScore": 57.18,
-          "patternText": "215.637/377.114",
-          "mbs": 1,
-          "firstHalf": "0 - 2",
-          "finalScore": "1 - 2",
           "status": "won"
         }
       ]
