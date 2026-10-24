@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 08:08",
+  "updatedAt": "24.10.2026 08:22",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 456,
-      "lost": 115,
-      "total": 571,
-      "rate": 79.9
+      "won": 458,
+      "lost": 110,
+      "total": 568,
+      "rate": 80.6
     },
     "totalAnalyses": 151016,
     "leagues": 538,
     "pro": {
-      "won": 424,
+      "won": 426,
       "lost": 193,
-      "total": 617,
-      "rate": 68.7
+      "total": 619,
+      "rate": 68.8
     },
     "insights": {
-      "won": 746,
-      "lost": 352,
-      "total": 1098,
-      "rate": 67.9
+      "won": 754,
+      "lost": 353,
+      "total": 1107,
+      "rate": 68.1
     },
     "coupons": {
       "won": 65,
@@ -302,7 +302,7 @@
     "league": "USLP",
     "date": "25.10.2026 02:00",
     "patternScore": 71.59,
-    "patternText": "180.427/252.027",
+    "patternText": "180.431/252.043",
     "picks": 1
   },
   "todayList": [
@@ -312,17 +312,8 @@
       "league": "USLP",
       "date": "25.10.2026 02:00",
       "patternScore": 71.59,
-      "patternText": "180.427/252.027",
+      "patternText": "180.431/252.043",
       "picks": 1
-    },
-    {
-      "home": "Follo",
-      "away": "Skeid",
-      "league": "NOR3",
-      "date": "24.10.2026 12:00",
-      "patternScore": 71.52,
-      "patternText": "258.836/361.917",
-      "picks": 2
     },
     {
       "home": "Suwon FC",
@@ -330,16 +321,25 @@
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
       "patternScore": 71.52,
-      "patternText": "181.968/254.434",
+      "patternText": "181.974/254.454",
       "picks": 1
+    },
+    {
+      "home": "Follo",
+      "away": "Skeid",
+      "league": "NOR3",
+      "date": "24.10.2026 12:00",
+      "patternScore": 71.51,
+      "patternText": "258.860/361.985",
+      "picks": 2
     },
     {
       "home": "Mfk Bytca",
       "away": "FK Tatran Presov",
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
-      "patternScore": 71.4,
-      "patternText": "249.946/350.058",
+      "patternScore": 71.39,
+      "patternText": "249.970/350.126",
       "picks": 1
     },
     {
@@ -348,7 +348,7 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.36,
-      "patternText": "127.738/179.001",
+      "patternText": "127.740/179.007",
       "picks": 2
     }
   ],
