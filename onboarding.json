@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 22:45",
+  "updatedAt": "24.10.2026 23:02",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 873,
-      "lost": 204,
-      "total": 1077,
-      "rate": 81.1
+      "won": 895,
+      "lost": 207,
+      "total": 1102,
+      "rate": 81.2
     },
     "totalAnalyses": 151136,
     "leagues": 537,
@@ -47,7 +47,7 @@
       "total": 154,
       "rate": 53.2
     },
-    "analyses24h": 3655,
+    "analyses24h": 3635,
     "analyses30d": 22799
   },
   "recentWins": [
@@ -104,17 +104,17 @@
       "pro": false
     },
     {
-      "home": "Bochum",
-      "away": "VfL Wolfsburg",
-      "league": "AL2",
-      "date": "23.10.2026 16:30",
+      "home": "Cruzeiro EC",
+      "away": "Remo",
+      "league": "BR1",
+      "date": "23.10.2026 23:00",
       "prediction": "Under 2.5 Goals",
-      "odds": 2.58,
+      "odds": 2.62,
       "probability": 100.0,
-      "patternScore": 56.83,
-      "firstHalf": "0 - 1",
-      "finalScore": "1 - 1",
-      "pro": true
+      "patternScore": 57.44,
+      "firstHalf": "1 - 0",
+      "finalScore": "1 - 0",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -311,22 +311,31 @@
     }
   ],
   "today": {
-    "home": "Vasas",
-    "away": "Paksi",
-    "league": "MAC",
-    "date": "25.10.2026 12:15",
-    "patternScore": 71.74,
-    "patternText": "222.634/310.325",
+    "home": "Atlas FC",
+    "away": "Club Puebla",
+    "league": "MEK",
+    "date": "25.10.2026 23:00",
+    "patternScore": 72.31,
+    "patternText": "151.763/209.870",
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "Atlas FC",
+      "away": "Club Puebla",
+      "league": "MEK",
+      "date": "25.10.2026 23:00",
+      "patternScore": 72.31,
+      "patternText": "151.763/209.870",
+      "picks": 2
+    },
     {
       "home": "Vasas",
       "away": "Paksi",
       "league": "MAC",
       "date": "25.10.2026 12:15",
       "patternScore": 71.74,
-      "patternText": "222.634/310.325",
+      "patternText": "222.654/310.347",
       "picks": 2
     },
     {
@@ -335,7 +344,7 @@
       "league": "USLP",
       "date": "25.10.2026 02:00",
       "patternScore": 71.6,
-      "patternText": "181.605/253.655",
+      "patternText": "181.621/253.673",
       "picks": 1
     },
     {
@@ -344,16 +353,7 @@
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
       "patternScore": 71.51,
-      "patternText": "183.132/256.094",
-      "picks": 1
-    },
-    {
-      "home": "Sarasota Parad",
-      "away": "Westchester SC",
-      "league": "USL1",
-      "date": "24.10.2026 23:30",
-      "patternScore": 71.46,
-      "patternText": "187.204/261.966",
+      "patternText": "183.152/256.116",
       "picks": 1
     },
     {
@@ -362,7 +362,7 @@
       "league": "JAP",
       "date": "25.10.2026 06:00",
       "patternScore": 71.35,
-      "patternText": "198.214/277.819",
+      "patternText": "198.234/277.841",
       "picks": 2
     }
   ],
