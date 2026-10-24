@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 00:22",
+  "updatedAt": "24.10.2026 00:38",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 370,
-      "lost": 96,
-      "total": 466,
-      "rate": 79.4
+      "won": 373,
+      "lost": 98,
+      "total": 471,
+      "rate": 79.2
     },
-    "totalAnalyses": 150479,
+    "totalAnalyses": 150480,
     "leagues": 538,
     "pro": {
       "won": 382,
@@ -36,9 +36,9 @@
       "rate": 68.6
     },
     "insights": {
-      "won": 660,
+      "won": 662,
       "lost": 321,
-      "total": 981,
+      "total": 983,
       "rate": 67.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 128,
       "rate": 50.8
     },
-    "analyses24h": 4348,
-    "analyses30d": 22949
+    "analyses24h": 4322,
+    "analyses30d": 22931
   },
   "recentWins": [
     {
@@ -267,18 +267,6 @@
     },
     {
       "type": "updated",
-      "at": "23.10.2026 18:23",
-      "home": "Deportivo Alaves",
-      "away": "Malaga CF"
-    },
-    {
-      "type": "updated",
-      "at": "24.10.2026 00:13",
-      "home": "Aston Villa",
-      "away": "Manchester City"
-    },
-    {
-      "type": "updated",
       "at": "23.10.2026 20:45",
       "home": "Bristol Rovers",
       "away": "Swindon Town"
@@ -294,6 +282,18 @@
       "at": "23.10.2026 20:47",
       "home": "Barnet",
       "away": "Oldham Athletic"
+    },
+    {
+      "type": "updated",
+      "at": "23.10.2026 23:50",
+      "home": "Cardiff City",
+      "away": "Birmingham City"
+    },
+    {
+      "type": "updated",
+      "at": "23.10.2026 22:48",
+      "home": "Reading",
+      "away": "Barnsley"
     }
   ],
   "today": {
@@ -302,7 +302,7 @@
     "league": "NOR3",
     "date": "24.10.2026 12:00",
     "patternScore": 71.51,
-    "patternText": "258.408/361.359",
+    "patternText": "258.424/361.379",
     "picks": 2
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.51,
-      "patternText": "258.408/361.359",
+      "patternText": "258.424/361.379",
       "picks": 2
     },
     {
@@ -321,7 +321,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "249.502/349.496",
+      "patternText": "249.518/349.516",
       "picks": 1
     },
     {
@@ -330,7 +330,7 @@
       "league": "TAY",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "245.387/343.737",
+      "patternText": "245.403/343.757",
       "picks": 1
     },
     {
@@ -339,7 +339,7 @@
       "league": "LIT1",
       "date": "24.10.2026 12:00",
       "patternScore": 71.37,
-      "patternText": "248.940/348.788",
+      "patternText": "248.956/348.808",
       "picks": 2
     },
     {
@@ -348,7 +348,7 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.36,
-      "patternText": "127.652/178.887",
+      "patternText": "127.660/178.899",
       "picks": 2
     }
   ],
