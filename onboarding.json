@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 09:30",
+  "updatedAt": "24.10.2026 09:44",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 547,
-      "lost": 280,
-      "total": 827,
-      "rate": 66.1
+      "won": 463,
+      "lost": 107,
+      "total": 570,
+      "rate": 81.2
     },
     "totalAnalyses": 151019,
     "leagues": 538,
@@ -47,8 +47,8 @@
       "total": 129,
       "rate": 50.4
     },
-    "analyses24h": 4294,
-    "analyses30d": 22902
+    "analyses24h": 4293,
+    "analyses30d": 22901
   },
   "recentWins": [
     {
@@ -104,17 +104,17 @@
       "pro": true
     },
     {
-      "home": "Portadown Fc",
-      "away": "Linfield",
-      "league": "KİRL",
-      "date": "23.10.2026 18:45",
-      "prediction": "1st Half Result X",
-      "odds": 2.16,
-      "probability": 80.0,
-      "patternScore": 66.52,
-      "firstHalf": "0 - 0",
-      "finalScore": "1 - 2",
-      "pro": true
+      "home": "Rot-Weiss Essen",
+      "away": "Jahn Regensburg",
+      "league": "AL3",
+      "date": "23.10.2026 17:00",
+      "prediction": "HT/FT 1/1",
+      "odds": 2.47,
+      "probability": 100.0,
+      "patternScore": 56.79,
+      "firstHalf": "1 - 0",
+      "finalScore": "1 - 0",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -279,12 +279,6 @@
     },
     {
       "type": "updated",
-      "at": "24.10.2026 03:38",
-      "home": "Umraniyespor",
-      "away": "Sivasspor"
-    },
-    {
-      "type": "updated",
       "at": "24.10.2026 04:32",
       "home": "Juventud Torre",
       "away": "Murcia"
@@ -294,6 +288,12 @@
       "at": "24.10.2026 04:34",
       "home": "Charlton Athletic",
       "away": "Norwich City"
+    },
+    {
+      "type": "updated",
+      "at": "24.10.2026 06:07",
+      "home": "Aston Villa",
+      "away": "Manchester City"
     }
   ],
   "today": {
@@ -302,7 +302,7 @@
     "league": "USLP",
     "date": "25.10.2026 02:00",
     "patternScore": 71.59,
-    "patternText": "180.461/252.073",
+    "patternText": "180.463/252.075",
     "picks": 1
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "USLP",
       "date": "25.10.2026 02:00",
       "patternScore": 71.59,
-      "patternText": "180.461/252.073",
+      "patternText": "180.463/252.075",
       "picks": 1
     },
     {
@@ -321,7 +321,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.52,
-      "patternText": "258.922/362.049",
+      "patternText": "258.940/362.067",
       "picks": 2
     },
     {
@@ -330,7 +330,7 @@
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
       "patternScore": 71.52,
-      "patternText": "181.994/254.474",
+      "patternText": "182.002/254.482",
       "picks": 1
     },
     {
@@ -339,7 +339,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.4,
-      "patternText": "250.032/350.190",
+      "patternText": "250.042/350.200",
       "picks": 1
     },
     {
@@ -348,7 +348,7 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.36,
-      "patternText": "127.754/179.021",
+      "patternText": "127.756/179.023",
       "picks": 2
     }
   ],
