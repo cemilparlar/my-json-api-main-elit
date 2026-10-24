@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 03:06",
+  "updatedAt": "24.10.2026 03:22",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 392,
-      "lost": 98,
-      "total": 490,
-      "rate": 80.0
+      "won": 394,
+      "lost": 99,
+      "total": 493,
+      "rate": 79.9
     },
-    "totalAnalyses": 150631,
+    "totalAnalyses": 150669,
     "leagues": 538,
     "pro": {
-      "won": 390,
+      "won": 392,
       "lost": 177,
-      "total": 567,
-      "rate": 68.8
+      "total": 569,
+      "rate": 68.9
     },
     "insights": {
-      "won": 677,
-      "lost": 324,
-      "total": 1001,
-      "rate": 67.6
+      "won": 680,
+      "lost": 325,
+      "total": 1005,
+      "rate": 67.7
     },
     "coupons": {
       "won": 65,
@@ -47,8 +47,8 @@
       "total": 129,
       "rate": 50.4
     },
-    "analyses24h": 4359,
-    "analyses30d": 22955
+    "analyses24h": 4363,
+    "analyses30d": 22959
   },
   "recentWins": [
     {
@@ -302,7 +302,7 @@
     "league": "USLP",
     "date": "25.10.2026 02:00",
     "patternScore": 72.0,
-    "patternText": "194.607/270.299",
+    "patternText": "194.611/270.303",
     "picks": 1
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "USLP",
       "date": "25.10.2026 02:00",
       "patternScore": 72.0,
-      "patternText": "194.607/270.299",
+      "patternText": "194.611/270.303",
       "picks": 1
     },
     {
@@ -321,7 +321,7 @@
       "league": "NOR3",
       "date": "24.10.2026 12:00",
       "patternScore": 71.51,
-      "patternText": "258.494/361.467",
+      "patternText": "258.516/361.491",
       "picks": 2
     },
     {
@@ -330,7 +330,7 @@
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "249.604/349.620",
+      "patternText": "249.618/349.636",
       "picks": 1
     },
     {
@@ -339,7 +339,7 @@
       "league": "TAY",
       "date": "24.10.2026 12:30",
       "patternScore": 71.39,
-      "patternText": "245.489/343.861",
+      "patternText": "245.503/343.877",
       "picks": 1
     },
     {
@@ -348,31 +348,66 @@
       "league": "USL1",
       "date": "24.10.2026 21:00",
       "patternScore": 71.36,
-      "patternText": "127.672/178.913",
+      "patternText": "127.674/178.915",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Chelsea",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "24.10.2026 03:04",
-      "count": 10
+      "home": "Chapecoense AF",
+      "away": "Fluminense FC",
+      "league": "BR1",
+      "at": "24.10.2026 03:19",
+      "count": 7
     },
     {
       "home": "Girona FC",
       "away": "Celta Vigo B",
       "league": "İS2",
-      "at": "24.10.2026 03:04",
-      "count": 14
+      "at": "24.10.2026 03:18",
+      "count": 8
+    },
+    {
+      "home": "Atletico Madrid",
+      "away": "Deportivo La Coruna",
+      "league": "İS1",
+      "at": "24.10.2026 03:18",
+      "count": 8
+    },
+    {
+      "home": "Borussia Dortmund",
+      "away": "Eintracht Frankfurt",
+      "league": "AL1",
+      "at": "24.10.2026 03:18",
+      "count": 17
+    },
+    {
+      "home": "SS Lazio",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "24.10.2026 03:18",
+      "count": 6
+    },
+    {
+      "home": "Chelsea",
+      "away": "Tottenham Hotspur",
+      "league": "İNP",
+      "at": "24.10.2026 03:17",
+      "count": 10
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "24.10.2026 03:15",
+      "count": 15
     },
     {
       "home": "Arsenal",
       "away": "Everton",
       "league": "İNP",
-      "at": "24.10.2026 03:02",
-      "count": 7
+      "at": "24.10.2026 03:15",
+      "count": 14
     },
     {
       "home": "Como 1907",
@@ -386,41 +421,6 @@
       "away": "Olympique Lyonnais",
       "league": "FR1",
       "at": "24.10.2026 02:58",
-      "count": 5
-    },
-    {
-      "home": "Manchester United",
-      "away": "AFC Bournemouth",
-      "league": "İNP",
-      "at": "24.10.2026 02:57",
-      "count": 6
-    },
-    {
-      "home": "Atalanta",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "24.10.2026 02:57",
-      "count": 18
-    },
-    {
-      "home": "FC Dallas",
-      "away": "San Jose Earthquakes",
-      "league": "ABD",
-      "at": "24.10.2026 02:56",
-      "count": 12
-    },
-    {
-      "home": "Salt Lake",
-      "away": "St. Louis City SC",
-      "league": "ABD",
-      "at": "24.10.2026 02:56",
-      "count": 9
-    },
-    {
-      "home": "Philadelphia Union",
-      "away": "New England Revolution",
-      "league": "ABD",
-      "at": "24.10.2026 02:55",
       "count": 5
     }
   ],
