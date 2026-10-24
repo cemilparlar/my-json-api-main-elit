@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.10.2026 05:01",
+  "updatedAt": "24.10.2026 05:20",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 395,
+      "won": 402,
       "lost": 99,
-      "total": 494,
-      "rate": 80.0
+      "total": 501,
+      "rate": 80.2
     },
-    "totalAnalyses": 150819,
+    "totalAnalyses": 150878,
     "leagues": 538,
     "pro": {
-      "won": 393,
+      "won": 395,
       "lost": 177,
-      "total": 570,
-      "rate": 68.9
+      "total": 572,
+      "rate": 69.1
     },
     "insights": {
-      "won": 686,
+      "won": 689,
       "lost": 326,
-      "total": 1012,
-      "rate": 67.8
+      "total": 1015,
+      "rate": 67.9
     },
     "coupons": {
       "won": 65,
@@ -47,8 +47,8 @@
       "total": 129,
       "rate": 50.4
     },
-    "analyses24h": 4367,
-    "analyses30d": 22963
+    "analyses24h": 4342,
+    "analyses30d": 22938
   },
   "recentWins": [
     {
@@ -267,6 +267,12 @@
     },
     {
       "type": "updated",
+      "at": "24.10.2026 05:02",
+      "home": "Eibar Ii",
+      "away": "Bergantinos"
+    },
+    {
+      "type": "updated",
       "at": "24.10.2026 04:32",
       "home": "Bandirmaspor",
       "away": "Igdir FK"
@@ -288,12 +294,6 @@
       "at": "24.10.2026 02:39",
       "home": "Portsmouth",
       "away": "Millwall"
-    },
-    {
-      "type": "updated",
-      "at": "24.10.2026 04:34",
-      "home": "Charlton Athletic",
-      "away": "Norwich City"
     }
   ],
   "today": {
@@ -302,7 +302,7 @@
     "league": "USLP",
     "date": "25.10.2026 02:00",
     "patternScore": 72.0,
-    "patternText": "194.627/270.321",
+    "patternText": "194.629/270.323",
     "picks": 1
   },
   "todayList": [
@@ -312,7 +312,7 @@
       "league": "USLP",
       "date": "25.10.2026 02:00",
       "patternScore": 72.0,
-      "patternText": "194.627/270.321",
+      "patternText": "194.629/270.323",
       "picks": 1
     },
     {
@@ -320,8 +320,8 @@
       "away": "Skeid",
       "league": "NOR3",
       "date": "24.10.2026 12:00",
-      "patternScore": 71.51,
-      "patternText": "258.536/361.517",
+      "patternScore": 71.52,
+      "patternText": "258.554/361.537",
       "picks": 2
     },
     {
@@ -330,7 +330,7 @@
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
       "patternScore": 71.51,
-      "patternText": "181.720/254.114",
+      "patternText": "181.722/254.116",
       "picks": 1
     },
     {
@@ -338,90 +338,90 @@
       "away": "FK Tatran Presov",
       "league": "SLVK2",
       "date": "24.10.2026 12:30",
-      "patternScore": 71.39,
-      "patternText": "249.642/349.666",
+      "patternScore": 71.4,
+      "patternText": "249.660/349.686",
       "picks": 1
     },
     {
-      "home": "Ratchaburi Mitr Phol FC",
-      "away": "Chonburi FC",
-      "league": "TAY",
-      "date": "24.10.2026 12:30",
-      "patternScore": 71.39,
-      "patternText": "245.527/343.907",
-      "picks": 1
+      "home": "Portland Heart",
+      "away": "Charlotte Indep",
+      "league": "USL1",
+      "date": "24.10.2026 21:00",
+      "patternScore": 71.36,
+      "patternText": "127.684/178.933",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Gil Vicente FC",
-      "away": "FC Porto",
-      "league": "POR",
-      "at": "24.10.2026 04:56",
+      "home": "Sevilla FC",
+      "away": "CA Osasuna",
+      "league": "İS1",
+      "at": "24.10.2026 05:18",
+      "count": 6
+    },
+    {
+      "home": "Celta de Vigo",
+      "away": "Real Betis",
+      "league": "İS1",
+      "at": "24.10.2026 05:17",
+      "count": 5
+    },
+    {
+      "home": "Stade Rennais",
+      "away": "RC Strasbourg",
+      "league": "FR1",
+      "at": "24.10.2026 05:17",
+      "count": 6
+    },
+    {
+      "home": "Marseille",
+      "away": "Le Havre AC",
+      "league": "FR1",
+      "at": "24.10.2026 05:17",
+      "count": 4
+    },
+    {
+      "home": "FC Santos",
+      "away": "EC Bahia",
+      "league": "BR1",
+      "at": "24.10.2026 05:14",
+      "count": 7
+    },
+    {
+      "home": "DC United",
+      "away": "FC Cincinnati",
+      "league": "ABD",
+      "at": "24.10.2026 05:13",
+      "count": 6
+    },
+    {
+      "home": "Orlando City SC",
+      "away": "New York City FC",
+      "league": "ABD",
+      "at": "24.10.2026 05:13",
       "count": 10
     },
     {
       "home": "Atletico Madrid",
       "away": "Deportivo La Coruna",
       "league": "İS1",
-      "at": "24.10.2026 04:55",
+      "at": "24.10.2026 05:11",
       "count": 8
     },
     {
       "home": "SS Lazio",
       "away": "Parma Calcio",
       "league": "İTA",
-      "at": "24.10.2026 04:55",
-      "count": 8
-    },
-    {
-      "home": "KVC Westerlo",
-      "away": "Waasland-Beveren",
-      "league": "BEL",
-      "at": "24.10.2026 04:54",
-      "count": 8
-    },
-    {
-      "home": "RC Lens",
-      "away": "Paris FC",
-      "league": "FR1",
-      "at": "24.10.2026 04:54",
-      "count": 8
-    },
-    {
-      "home": "FC Alverca",
-      "away": "FC Arouca",
-      "league": "POR",
-      "at": "24.10.2026 04:52",
-      "count": 6
+      "at": "24.10.2026 05:11",
+      "count": 5
     },
     {
       "home": "Valencia CF",
       "away": "Villarreal CF",
       "league": "İS1",
-      "at": "24.10.2026 04:51",
-      "count": 9
-    },
-    {
-      "home": "Chelsea",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "24.10.2026 04:51",
+      "at": "24.10.2026 05:10",
       "count": 8
-    },
-    {
-      "home": "Borussia Dortmund",
-      "away": "Eintracht Frankfurt",
-      "league": "AL1",
-      "at": "24.10.2026 04:51",
-      "count": 12
-    },
-    {
-      "home": "FK Krasnodar",
-      "away": "Baltika Kaliningrad",
-      "league": "RUS",
-      "at": "24.10.2026 04:51",
-      "count": 4
     }
   ],
   "paywall": {
