@@ -6,19 +6,19 @@
       "lost": 88
     },
     "safe": {
-      "won": 25,
+      "won": 26,
       "lost": 16
     },
     "safe_b": {
-      "won": 19,
+      "won": 20,
       "lost": 12
     },
     "surprise": {
-      "won": 12,
+      "won": 13,
       "lost": 13
     },
     "surprise_1": {
-      "won": 7,
+      "won": 8,
       "lost": 5
     },
     "surprise_3": {
@@ -40,19 +40,19 @@
       "lost": 88
     },
     "safe": {
-      "won": 25,
+      "won": 26,
       "lost": 16
     },
     "safe_b": {
-      "won": 19,
+      "won": 20,
       "lost": 12
     },
     "surprise": {
-      "won": 12,
+      "won": 13,
       "lost": 13
     },
     "surprise_1": {
-      "won": 7,
+      "won": 8,
       "lost": 5
     },
     "surprise_3": {
@@ -68,8 +68,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "25.10.2026 00:32",
-  "updatedAtUtc": "2026-10-25T00:32:00Z",
+  "updatedAt": "25.10.2026 00:46",
+  "updatedAtUtc": "2026-10-25T00:46:00Z",
   "upcoming": [
     {
       "id": "20261024-18-1",
@@ -153,88 +153,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "pending"
-        }
-      ]
-    },
-    {
-      "id": "20261024-02-1",
-      "createdAt": "23.10.2026 23:16",
-      "createdAtUtc": "2026-10-23T23:16:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.68,
-      "winChance": 67.28,
-      "firstKickoff": "24.10.2026 22:30",
-      "lastKickoff": "24.10.2026 22:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.68,
-      "legs": [
-        {
-          "matchCode": "4423348",
-          "nesine": null,
-          "date": "24.10.2026 22:30",
-          "kickoffUtc": "2026-10-24T22:30:00Z",
-          "league": "BR1",
-          "home": "Chapecoense AF",
-          "away": "Fluminense FC",
-          "league_tr": "BR1",
-          "home_tr": "Chapecoense",
-          "away_tr": "Fluminense",
-          "prediction": "Handicap (1:0) 1",
-          "prediction_tr": "Handikaplı Maç Sonucu (1:0) 1",
-          "odds": 1.68,
-          "probability": 71.42857142857143,
-          "patternScore": 67.28,
-          "patternText": "223.272/331.876",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261024-21-1",
-      "createdAt": "24.10.2026 18:10",
-      "createdAtUtc": "2026-10-24T18:10:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.4,
-      "winChance": 74.5,
-      "firstKickoff": "24.10.2026 22:30",
-      "lastKickoff": "24.10.2026 22:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.4,
-      "legs": [
-        {
-          "matchCode": "4423348",
-          "nesine": null,
-          "date": "24.10.2026 22:30",
-          "kickoffUtc": "2026-10-24T22:30:00Z",
-          "league": "BR1",
-          "home": "Chapecoense AF",
-          "away": "Fluminense FC",
-          "league_tr": "BR1",
-          "home_tr": "Chapecoense",
-          "away_tr": "Fluminense",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.4,
-          "probability": 100.0,
-          "patternScore": 74.5,
-          "patternText": "224.721/386.276",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
         }
       ]
     },
@@ -1129,6 +1047,88 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261024-02-1",
+      "createdAt": "23.10.2026 23:16",
+      "createdAtUtc": "2026-10-23T23:16:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.68,
+      "winChance": 67.28,
+      "firstKickoff": "24.10.2026 22:30",
+      "lastKickoff": "24.10.2026 22:30",
+      "status": "won",
+      "completedAt": "25.10.2026 00:46",
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.68,
+      "legs": [
+        {
+          "matchCode": "4423348",
+          "nesine": null,
+          "date": "24.10.2026 22:30",
+          "kickoffUtc": "2026-10-24T22:30:00Z",
+          "league": "BR1",
+          "home": "Chapecoense AF",
+          "away": "Fluminense FC",
+          "league_tr": "BR1",
+          "home_tr": "Chapecoense",
+          "away_tr": "Fluminense",
+          "prediction": "Handicap (1:0) 1",
+          "prediction_tr": "Handikaplı Maç Sonucu (1:0) 1",
+          "odds": 1.68,
+          "probability": 71.42857142857143,
+          "patternScore": 67.28,
+          "patternText": "223.272/331.876",
+          "mbs": 1,
+          "firstHalf": "1 - 1",
+          "finalScore": "2 - 1",
+          "status": "won"
+        }
+      ]
+    },
+    {
+      "id": "20261024-21-1",
+      "createdAt": "24.10.2026 18:10",
+      "createdAtUtc": "2026-10-24T18:10:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.4,
+      "winChance": 74.5,
+      "firstKickoff": "24.10.2026 22:30",
+      "lastKickoff": "24.10.2026 22:30",
+      "status": "won",
+      "completedAt": "25.10.2026 00:46",
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.4,
+      "legs": [
+        {
+          "matchCode": "4423348",
+          "nesine": null,
+          "date": "24.10.2026 22:30",
+          "kickoffUtc": "2026-10-24T22:30:00Z",
+          "league": "BR1",
+          "home": "Chapecoense AF",
+          "away": "Fluminense FC",
+          "league_tr": "BR1",
+          "home_tr": "Chapecoense",
+          "away_tr": "Fluminense",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.4,
+          "probability": 100.0,
+          "patternScore": 74.5,
+          "patternText": "224.721/386.276",
+          "mbs": 1,
+          "firstHalf": "1 - 1",
+          "finalScore": "2 - 1",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261024-16-1",
       "createdAt": "24.10.2026 13:07",
