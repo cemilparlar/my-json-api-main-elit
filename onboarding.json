@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 04:00",
+  "updatedAt": "25.10.2026 04:14",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 867,
-      "lost": 205,
-      "total": 1072,
-      "rate": 80.9
+      "won": 927,
+      "lost": 214,
+      "total": 1141,
+      "rate": 81.2
     },
     "totalAnalyses": 151136,
     "leagues": 536,
@@ -282,12 +282,6 @@
     {
       "type": "updated",
       "at": "24.10.2026 22:32",
-      "home": "Ciudad De Bolí",
-      "away": "Colon Santa Fe"
-    },
-    {
-      "type": "updated",
-      "at": "24.10.2026 22:32",
       "home": "FC Santos",
       "away": "EC Bahia"
     },
@@ -308,6 +302,12 @@
       "at": "24.10.2026 22:31",
       "home": "Orlando City SC",
       "away": "New York City FC"
+    },
+    {
+      "type": "kickoff",
+      "home": "Oita Trinita",
+      "away": "Kofu",
+      "at": "25.10.2026 05:00"
     }
   ],
   "today": {
@@ -316,7 +316,7 @@
     "league": "MEK",
     "date": "25.10.2026 23:00",
     "patternScore": 72.31,
-    "patternText": "151.915/210.100",
+    "patternText": "152.041/210.266",
     "picks": 2
   },
   "todayList": [
@@ -326,7 +326,7 @@
       "league": "MEK",
       "date": "25.10.2026 23:00",
       "patternScore": 72.31,
-      "patternText": "151.915/210.100",
+      "patternText": "152.041/210.266",
       "picks": 2
     },
     {
@@ -335,7 +335,7 @@
       "league": "MEK",
       "date": "26.10.2026 01:00",
       "patternScore": 72.18,
-      "patternText": "136.522/189.145",
+      "patternText": "136.620/189.281",
       "picks": 3
     },
     {
@@ -343,8 +343,8 @@
       "away": "Santos Laguna",
       "league": "MEK",
       "date": "26.10.2026 03:10",
-      "patternScore": 71.81,
-      "patternText": "129.923/180.918",
+      "patternScore": 71.82,
+      "patternText": "129.997/181.016",
       "picks": 2
     },
     {
@@ -353,7 +353,7 @@
       "league": "MAC",
       "date": "25.10.2026 12:15",
       "patternScore": 71.73,
-      "patternText": "222.964/310.823",
+      "patternText": "223.224/311.195",
       "picks": 2
     },
     {
@@ -362,7 +362,7 @@
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
       "patternScore": 71.5,
-      "patternText": "183.450/256.584",
+      "patternText": "183.742/256.980",
       "picks": 1
     }
   ],
