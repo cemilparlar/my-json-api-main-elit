@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 14:57",
+  "updatedAt": "25.10.2026 15:24",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 686,
-      "lost": 345,
-      "total": 1031,
-      "rate": 66.5
+      "won": 692,
+      "lost": 364,
+      "total": 1056,
+      "rate": 65.5
     },
     "totalAnalyses": 151251,
     "leagues": 536,
     "pro": {
-      "won": 1074,
-      "lost": 463,
-      "total": 1537,
-      "rate": 69.9
+      "won": 1103,
+      "lost": 473,
+      "total": 1576,
+      "rate": 70.0
     },
     "insights": {
-      "won": 1842,
-      "lost": 807,
-      "total": 2649,
-      "rate": 69.5
+      "won": 1887,
+      "lost": 824,
+      "total": 2711,
+      "rate": 69.6
     },
     "coupons": {
-      "won": 88,
+      "won": 90,
       "lost": 76,
-      "total": 164,
-      "rate": 53.7
+      "total": 166,
+      "rate": 54.2
     },
-    "analyses24h": 2221,
-    "analyses30d": 22723
+    "analyses24h": 2140,
+    "analyses30d": 22709
   },
   "recentWins": [
     {
@@ -120,6 +120,43 @@
   "recentCoupons": [
     {
       "size": 1,
+      "totalOdds": 1.34,
+      "winChance": 73.34,
+      "completedAt": "25.10.2026 15:24",
+      "legs": [
+        {
+          "home": "CE Sabadell",
+          "away": "CD Tenerife",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.34,
+          "finalScore": "1 - 1"
+        }
+      ]
+    },
+    {
+      "size": 2,
+      "totalOdds": 2.4,
+      "winChance": 32.43,
+      "completedAt": "25.10.2026 15:24",
+      "legs": [
+        {
+          "home": "Cerezo Osaka",
+          "away": "JEF United Chiba",
+          "prediction": "Over 2.5 Goals",
+          "odds": 1.51,
+          "finalScore": "2 - 2"
+        },
+        {
+          "home": "Konyaspor",
+          "away": "Genclerbirligi",
+          "prediction": "Under 2.5 Goals",
+          "odds": 1.59,
+          "finalScore": "2 - 0"
+        }
+      ]
+    },
+    {
+      "size": 1,
       "totalOdds": 1.58,
       "winChance": 64.06,
       "completedAt": "25.10.2026 04:00",
@@ -145,36 +182,6 @@
           "prediction": "Handicap (1:0) 1",
           "odds": 1.68,
           "finalScore": "2 - 1"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.4,
-      "winChance": 74.5,
-      "completedAt": "25.10.2026 00:46",
-      "legs": [
-        {
-          "home": "Chapecoense AF",
-          "away": "Fluminense FC",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.4,
-          "finalScore": "2 - 1"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.31,
-      "winChance": 74.33,
-      "completedAt": "25.10.2026 00:03",
-      "legs": [
-        {
-          "home": "New York Red Bulls",
-          "away": "Inter Miami CF",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.31,
-          "finalScore": "2 - 0"
         }
       ]
     }
@@ -215,6 +222,12 @@
     {
       "type": "coupon",
       "size": 6,
+      "odds": 1.88,
+      "at": "25.10.2026 15:24"
+    },
+    {
+      "type": "coupon",
+      "size": 6,
       "odds": 1.78,
       "at": "25.10.2026 13:08"
     },
@@ -223,12 +236,6 @@
       "size": 6,
       "odds": 1.69,
       "at": "25.10.2026 11:43"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.69,
-      "at": "25.10.2026 07:11"
     },
     {
       "type": "updated",
@@ -296,6 +303,17 @@
       "picks": 3
     },
     {
+      "home": "Club Deportivo Motagua",
+      "away": "Real Sociedad de Tocoa",
+      "league": "HON",
+      "date": "25.10.2026 21:00",
+      "matchCode": "4574392",
+      "odds": 1.54,
+      "patternScore": 67.48,
+      "patternText": "126.121/186.900",
+      "picks": 2
+    },
+    {
       "home": "Verona",
       "away": "AC Pisa",
       "league": "İTB",
@@ -316,17 +334,6 @@
       "patternScore": 67.14,
       "patternText": "245.728/365.989",
       "picks": 5
-    },
-    {
-      "home": "Manchester United",
-      "away": "Manchester City Women",
-      "league": "İNKPL",
-      "date": "25.10.2026 18:00",
-      "matchCode": "4550671",
-      "odds": 1.45,
-      "patternScore": 68.27,
-      "patternText": "265.851/389.427",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [

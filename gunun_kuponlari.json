@@ -6,7 +6,7 @@
       "lost": 88
     },
     "safe": {
-      "won": 26,
+      "won": 27,
       "lost": 16
     },
     "safe_b": {
@@ -14,7 +14,7 @@
       "lost": 12
     },
     "surprise": {
-      "won": 14,
+      "won": 15,
       "lost": 14
     },
     "surprise_1": {
@@ -26,11 +26,11 @@
       "lost": 6
     },
     "safe_a": {
-      "won": 6,
+      "won": 7,
       "lost": 4
     },
     "surprise_2": {
-      "won": 2,
+      "won": 3,
       "lost": 2
     },
     "multi": {
@@ -48,7 +48,7 @@
       "lost": 88
     },
     "safe": {
-      "won": 26,
+      "won": 27,
       "lost": 16
     },
     "safe_b": {
@@ -56,7 +56,7 @@
       "lost": 12
     },
     "surprise": {
-      "won": 14,
+      "won": 15,
       "lost": 14
     },
     "surprise_1": {
@@ -68,11 +68,11 @@
       "lost": 6
     },
     "safe_a": {
-      "won": 6,
+      "won": 7,
       "lost": 4
     },
     "surprise_2": {
-      "won": 2,
+      "won": 3,
       "lost": 2
     },
     "multi": {
@@ -84,8 +84,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "25.10.2026 14:57",
-  "updatedAtUtc": "2026-10-25T14:57:00Z",
+  "updatedAt": "25.10.2026 15:24",
+  "updatedAtUtc": "2026-10-25T15:24:00Z",
   "upcoming": [
     {
       "id": "20261024-18-1",
@@ -168,7 +168,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -229,9 +229,9 @@
           "patternScore": 75.75,
           "patternText": "233.498/346.148",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "3 - 0",
+          "finalScore": "3 - 0",
+          "status": "won"
         },
         {
           "matchCode": "4503880",
@@ -251,69 +251,6 @@
           "patternScore": 73.38,
           "patternText": "237.875/350.527",
           "mbs": 3,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261024-16-3",
-      "createdAt": "24.10.2026 13:07",
-      "createdAtUtc": "2026-10-24T13:07:00Z",
-      "size": 2,
-      "mbs": 2,
-      "totalOdds": 2.4,
-      "winChance": 32.43,
-      "firstKickoff": "25.10.2026 06:00",
-      "lastKickoff": "25.10.2026 13:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_2",
-      "group": "surprise",
-      "formula": "2",
-      "effectiveOdds": 2.4,
-      "legs": [
-        {
-          "matchCode": "4487244",
-          "nesine": null,
-          "date": "25.10.2026 06:00",
-          "kickoffUtc": "2026-10-25T06:00:00Z",
-          "league": "JAP",
-          "home": "Cerezo Osaka",
-          "away": "JEF United Chiba",
-          "league_tr": "JAP",
-          "home_tr": "Cerezo Osaka",
-          "away_tr": "Jef Utd Chiba",
-          "prediction": "Over 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Üst",
-          "odds": 1.51,
-          "probability": 85.71,
-          "patternScore": 59.14,
-          "patternText": "147.409/220.771",
-          "mbs": 2,
-          "firstHalf": "0 - 1",
-          "finalScore": "2 - 2",
-          "status": "won"
-        },
-        {
-          "matchCode": "4542730",
-          "nesine": null,
-          "date": "25.10.2026 13:00",
-          "kickoffUtc": "2026-10-25T13:00:00Z",
-          "league": "TSL",
-          "home": "Konyaspor",
-          "away": "Genclerbirligi",
-          "league_tr": "TSL",
-          "home_tr": "Konyaspor",
-          "away_tr": "Gençlerbirliği",
-          "prediction": "Under 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Alt",
-          "odds": 1.59,
-          "probability": 81.82,
-          "patternScore": 54.84,
-          "patternText": "153.385/226.418",
-          "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
           "status": "live"
@@ -399,9 +336,9 @@
           "patternScore": 70.21,
           "patternText": "308.742/439.721",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "3 - 0",
+          "finalScore": "4 - 3",
+          "status": "won"
         },
         {
           "matchCode": "4450693",
@@ -464,47 +401,6 @@
           "probability": 74.56,
           "patternScore": 70.13,
           "patternText": "320.856/457.499",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261024-16-2",
-      "createdAt": "24.10.2026 13:07",
-      "createdAtUtc": "2026-10-24T13:07:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.34,
-      "winChance": 73.34,
-      "firstKickoff": "25.10.2026 13:00",
-      "lastKickoff": "25.10.2026 13:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.34,
-      "legs": [
-        {
-          "matchCode": "4492799",
-          "nesine": null,
-          "date": "25.10.2026 13:00",
-          "kickoffUtc": "2026-10-25T13:00:00Z",
-          "league": "İS2",
-          "home": "CE Sabadell",
-          "away": "CD Tenerife",
-          "league_tr": "İS2",
-          "home_tr": "Sabadell",
-          "away_tr": "Tenerife",
-          "prediction": "Over 1.5 Goals",
-          "prediction_tr": "1,5 Alt/Üst Üst",
-          "odds": 1.34,
-          "probability": 83.33,
-          "patternScore": 73.34,
-          "patternText": "190.904/281.409",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
@@ -820,7 +716,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4517330",
@@ -878,7 +774,7 @@
       "winChance": 75.75,
       "firstKickoff": "25.10.2026 15:15",
       "lastKickoff": "25.10.2026 15:15",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_b",
       "group": "safe",
@@ -905,7 +801,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -919,7 +815,7 @@
       "winChance": 33.04,
       "firstKickoff": "25.10.2026 15:15",
       "lastKickoff": "25.10.2026 16:15",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "surprise_2",
       "group": "surprise",
@@ -946,7 +842,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4534752",
@@ -1006,6 +902,157 @@
           "probability": 76.92,
           "patternScore": 71.27,
           "patternText": "263.794/388.376",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261025-18-1",
+      "createdAt": "25.10.2026 15:24",
+      "createdAtUtc": "2026-10-25T15:24:00Z",
+      "size": 6,
+      "mbs": 1,
+      "totalOdds": 1.88,
+      "winChance": 12.44,
+      "firstKickoff": "25.10.2026 16:00",
+      "lastKickoff": "25.10.2026 17:30",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "multi_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.88,
+      "legs": [
+        {
+          "matchCode": "4523490",
+          "nesine": null,
+          "date": "25.10.2026 16:00",
+          "kickoffUtc": "2026-10-25T16:00:00Z",
+          "league": "ALKB",
+          "home": "Hamburger Sv (",
+          "away": "Union Berlin Women",
+          "league_tr": "ALKB",
+          "home_tr": "Hamburger Sv (",
+          "away_tr": "Union Berlin (K",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 80.49,
+          "patternScore": 71.16,
+          "patternText": "215.570/302.935",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4428744",
+          "nesine": null,
+          "date": "25.10.2026 16:00",
+          "kickoffUtc": "2026-10-25T16:00:00Z",
+          "league": "NOR1",
+          "home": "Stabaek",
+          "away": "Odds Bk",
+          "league_tr": "NOR1",
+          "home_tr": "Stabaek",
+          "away_tr": "Odds Bk",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.09,
+          "probability": 86.96,
+          "patternScore": 70.71,
+          "patternText": "201.735/285.315",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4428247",
+          "nesine": null,
+          "date": "25.10.2026 16:00",
+          "kickoffUtc": "2026-10-25T16:00:00Z",
+          "league": "NOR",
+          "home": "Start",
+          "away": "Sandefjord",
+          "league_tr": "NOR",
+          "home_tr": "Start",
+          "away_tr": "Sandefjord",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.15,
+          "probability": 86.67,
+          "patternScore": 70.64,
+          "patternText": "229.691/325.177",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4476567",
+          "nesine": null,
+          "date": "25.10.2026 16:15",
+          "kickoffUtc": "2026-10-25T16:15:00Z",
+          "league": "FR1",
+          "home": "Angers SCO",
+          "away": "FC Lorient",
+          "league_tr": "FR1",
+          "home_tr": "Angers",
+          "away_tr": "Lorient",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.19,
+          "probability": 80.95,
+          "patternScore": 70.35,
+          "patternText": "210.885/299.784",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4492793",
+          "nesine": null,
+          "date": "25.10.2026 17:30",
+          "kickoffUtc": "2026-10-25T17:30:00Z",
+          "league": "İS2",
+          "home": "Castellon",
+          "away": "Sporting Gijon",
+          "league_tr": "İS2",
+          "home_tr": "Castellon",
+          "away_tr": "Sporting Gijon",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 83.33,
+          "patternScore": 70.56,
+          "patternText": "235.112/333.226",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4492356",
+          "nesine": null,
+          "date": "25.10.2026 17:30",
+          "kickoffUtc": "2026-10-25T17:30:00Z",
+          "league": "İS1",
+          "home": "Real Sociedad",
+          "away": "Levante UD",
+          "league_tr": "İS1",
+          "home_tr": "Real Sociedad",
+          "away_tr": "Levante",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 80.0,
+          "patternScore": 70.51,
+          "patternText": "235.122/333.478",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
@@ -1201,6 +1248,110 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261024-16-2",
+      "createdAt": "24.10.2026 13:07",
+      "createdAtUtc": "2026-10-24T13:07:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.34,
+      "winChance": 73.34,
+      "firstKickoff": "25.10.2026 13:00",
+      "lastKickoff": "25.10.2026 13:00",
+      "status": "won",
+      "completedAt": "25.10.2026 15:24",
+      "kind": "safe_a",
+      "group": "safe",
+      "formula": "A",
+      "effectiveOdds": 1.34,
+      "legs": [
+        {
+          "matchCode": "4492799",
+          "nesine": null,
+          "date": "25.10.2026 13:00",
+          "kickoffUtc": "2026-10-25T13:00:00Z",
+          "league": "İS2",
+          "home": "CE Sabadell",
+          "away": "CD Tenerife",
+          "league_tr": "İS2",
+          "home_tr": "Sabadell",
+          "away_tr": "Tenerife",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.34,
+          "probability": 83.33,
+          "patternScore": 73.34,
+          "patternText": "190.904/281.409",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 1",
+          "status": "won"
+        }
+      ]
+    },
+    {
+      "id": "20261024-16-3",
+      "createdAt": "24.10.2026 13:07",
+      "createdAtUtc": "2026-10-24T13:07:00Z",
+      "size": 2,
+      "mbs": 2,
+      "totalOdds": 2.4,
+      "winChance": 32.43,
+      "firstKickoff": "25.10.2026 06:00",
+      "lastKickoff": "25.10.2026 13:00",
+      "status": "won",
+      "completedAt": "25.10.2026 15:24",
+      "kind": "surprise_2",
+      "group": "surprise",
+      "formula": "2",
+      "effectiveOdds": 2.4,
+      "legs": [
+        {
+          "matchCode": "4487244",
+          "nesine": null,
+          "date": "25.10.2026 06:00",
+          "kickoffUtc": "2026-10-25T06:00:00Z",
+          "league": "JAP",
+          "home": "Cerezo Osaka",
+          "away": "JEF United Chiba",
+          "league_tr": "JAP",
+          "home_tr": "Cerezo Osaka",
+          "away_tr": "Jef Utd Chiba",
+          "prediction": "Over 2.5 Goals",
+          "prediction_tr": "2,5 Alt/Üst Üst",
+          "odds": 1.51,
+          "probability": 85.71,
+          "patternScore": 59.14,
+          "patternText": "147.409/220.771",
+          "mbs": 2,
+          "firstHalf": "0 - 1",
+          "finalScore": "2 - 2",
+          "status": "won"
+        },
+        {
+          "matchCode": "4542730",
+          "nesine": null,
+          "date": "25.10.2026 13:00",
+          "kickoffUtc": "2026-10-25T13:00:00Z",
+          "league": "TSL",
+          "home": "Konyaspor",
+          "away": "Genclerbirligi",
+          "league_tr": "TSL",
+          "home_tr": "Konyaspor",
+          "away_tr": "Gençlerbirliği",
+          "prediction": "Under 2.5 Goals",
+          "prediction_tr": "2,5 Alt/Üst Alt",
+          "odds": 1.59,
+          "probability": 81.82,
+          "patternScore": 54.84,
+          "patternText": "153.385/226.418",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 0",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261025-09-1",
       "createdAt": "25.10.2026 06:40",
