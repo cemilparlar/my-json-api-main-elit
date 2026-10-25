@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 12:26",
+  "updatedAt": "25.10.2026 12:41",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 926,
-      "lost": 494,
-      "total": 1420,
-      "rate": 65.2
+      "won": 894,
+      "lost": 485,
+      "total": 1379,
+      "rate": 64.8
     },
-    "totalAnalyses": 151195,
+    "totalAnalyses": 151223,
     "leagues": 536,
     "pro": {
       "won": 1020,
@@ -47,8 +47,8 @@
       "total": 164,
       "rate": 53.7
     },
-    "analyses24h": 3053,
-    "analyses30d": 22790
+    "analyses24h": 3015,
+    "analyses30d": 22799
   },
   "recentWins": [
     {
@@ -268,8 +268,8 @@
     "date": "25.10.2026 14:00",
     "matchCode": "4481085",
     "odds": 1.93,
-    "patternScore": 67.1,
-    "patternText": "254.556/379.346",
+    "patternScore": 67.11,
+    "patternText": "254.574/379.366",
     "picks": 10
   },
   "todayList": [
@@ -280,8 +280,8 @@
       "date": "25.10.2026 14:00",
       "matchCode": "4481085",
       "odds": 1.93,
-      "patternScore": 67.1,
-      "patternText": "254.556/379.346",
+      "patternScore": 67.11,
+      "patternText": "254.574/379.366",
       "picks": 10
     },
     {
@@ -292,7 +292,7 @@
       "matchCode": "4478086",
       "odds": 1.71,
       "patternScore": 65.36,
-      "patternText": "307.308/470.151",
+      "patternText": "307.326/470.171",
       "picks": 7
     },
     {
@@ -303,7 +303,7 @@
       "matchCode": "4492792",
       "odds": 1.68,
       "patternScore": 67.6,
-      "patternText": "247.785/366.549",
+      "patternText": "247.803/366.569",
       "picks": 8
     },
     {
@@ -314,22 +314,29 @@
       "matchCode": "4481090",
       "odds": 1.65,
       "patternScore": 67.56,
-      "patternText": "235.664/348.835",
+      "patternText": "235.682/348.855",
       "picks": 4
     },
     {
-      "home": "Konyaspor",
-      "away": "Genclerbirligi",
-      "league": "TSL",
-      "date": "25.10.2026 13:00",
-      "matchCode": "4542730",
-      "odds": 1.59,
-      "patternScore": 67.74,
-      "patternText": "155.263/229.202",
-      "picks": 7
+      "home": "US Lecce",
+      "away": "Juventus",
+      "league": "İTA",
+      "date": "25.10.2026 17:00",
+      "matchCode": "4475118",
+      "odds": 1.58,
+      "patternScore": 66.37,
+      "patternText": "173.044/260.738",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sporting CP",
+      "away": "Academico FC Viseu",
+      "league": "POR",
+      "at": "25.10.2026 12:36",
+      "count": 5
+    },
     {
       "home": "Celta de Vigo",
       "away": "Real Betis",
@@ -392,13 +399,6 @@
       "league": "ABD",
       "at": "24.10.2026 20:35",
       "count": 4
-    },
-    {
-      "home": "Houston Dynamo",
-      "away": "Minnesota United",
-      "league": "ABD",
-      "at": "24.10.2026 20:34",
-      "count": 10
     }
   ],
   "paywall": {
