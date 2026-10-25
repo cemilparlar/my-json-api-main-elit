@@ -6,12 +6,12 @@
       "lost": 88
     },
     "safe": {
-      "won": 32,
-      "lost": 19
+      "won": 33,
+      "lost": 20
     },
     "safe_b": {
       "won": 24,
-      "lost": 15
+      "lost": 16
     },
     "surprise": {
       "won": 15,
@@ -26,7 +26,7 @@
       "lost": 8
     },
     "safe_a": {
-      "won": 8,
+      "won": 9,
       "lost": 4
     },
     "surprise_2": {
@@ -35,11 +35,11 @@
     },
     "multi": {
       "won": 0,
-      "lost": 5
+      "lost": 6
     },
     "multi_1": {
       "won": 0,
-      "lost": 5
+      "lost": 6
     }
   },
   "stats30": {
@@ -48,12 +48,12 @@
       "lost": 88
     },
     "safe": {
-      "won": 32,
-      "lost": 19
+      "won": 33,
+      "lost": 20
     },
     "safe_b": {
       "won": 24,
-      "lost": 15
+      "lost": 16
     },
     "surprise": {
       "won": 15,
@@ -68,7 +68,7 @@
       "lost": 8
     },
     "safe_a": {
-      "won": 8,
+      "won": 9,
       "lost": 4
     },
     "surprise_2": {
@@ -77,249 +77,16 @@
     },
     "multi": {
       "won": 0,
-      "lost": 5
+      "lost": 6
     },
     "multi_1": {
       "won": 0,
-      "lost": 5
+      "lost": 6
     }
   },
-  "updatedAt": "25.10.2026 20:32",
-  "updatedAtUtc": "2026-10-25T20:32:00Z",
+  "updatedAt": "25.10.2026 20:48",
+  "updatedAtUtc": "2026-10-25T20:48:00Z",
   "upcoming": [
-    {
-      "id": "20261024-20-2",
-      "createdAt": "24.10.2026 17:06",
-      "createdAtUtc": "2026-10-24T17:06:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.44,
-      "winChance": 72.25,
-      "firstKickoff": "25.10.2026 16:15",
-      "lastKickoff": "25.10.2026 16:15",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.44,
-      "legs": [
-        {
-          "matchCode": "4534752",
-          "nesine": null,
-          "date": "25.10.2026 16:15",
-          "kickoffUtc": "2026-10-25T16:15:00Z",
-          "league": "İTB",
-          "home": "Verona",
-          "away": "AC Pisa",
-          "league_tr": "İTB",
-          "home_tr": "Verona",
-          "away_tr": "Pisa",
-          "prediction": "1st Half Double Chance 12",
-          "prediction_tr": "1. Yarı Çifte Şans 1-2",
-          "odds": 1.44,
-          "probability": 82.61,
-          "patternScore": 72.25,
-          "patternText": "146.154/214.206",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261024-20-1",
-      "createdAt": "24.10.2026 17:06",
-      "createdAtUtc": "2026-10-24T17:06:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.34,
-      "winChance": 72.75,
-      "firstKickoff": "25.10.2026 16:30",
-      "lastKickoff": "25.10.2026 16:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.34,
-      "legs": [
-        {
-          "matchCode": "4481090",
-          "nesine": null,
-          "date": "25.10.2026 16:30",
-          "kickoffUtc": "2026-10-25T16:30:00Z",
-          "league": "İNP",
-          "home": "Sunderland",
-          "away": "Leeds United",
-          "league_tr": "İNP",
-          "home_tr": "Sunderland",
-          "away_tr": "Leeds Utd",
-          "prediction": "Double Chance 1X",
-          "prediction_tr": "Çifte Şans 1-X",
-          "odds": 1.34,
-          "probability": 80.95,
-          "patternScore": 72.75,
-          "patternText": "173.032/250.016",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261025-20-1",
-      "createdAt": "25.10.2026 17:05",
-      "createdAtUtc": "2026-10-25T17:05:00Z",
-      "size": 6,
-      "mbs": 1,
-      "totalOdds": 1.74,
-      "winChance": 12.0,
-      "firstKickoff": "25.10.2026 18:00",
-      "lastKickoff": "25.10.2026 19:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "multi_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.74,
-      "legs": [
-        {
-          "matchCode": "4503512",
-          "nesine": null,
-          "date": "25.10.2026 18:00",
-          "kickoffUtc": "2026-10-25T18:00:00Z",
-          "league": "MEK2",
-          "home": "Tlaxcala FC",
-          "away": "Correcaminos UAT",
-          "league_tr": "MEK2",
-          "home_tr": "Tlaxcala",
-          "away_tr": "Correcaminos Ua",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.09,
-          "probability": 78.74,
-          "patternScore": 70.38,
-          "patternText": "335.594/476.858",
-          "mbs": 1,
-          "firstHalf": "1 - 0",
-          "finalScore": "2 - 0",
-          "status": "won"
-        },
-        {
-          "matchCode": "4486538",
-          "nesine": null,
-          "date": "25.10.2026 18:30",
-          "kickoffUtc": "2026-10-25T18:30:00Z",
-          "league": "POL2",
-          "home": "Gks Tychy",
-          "away": "NKP Podhale",
-          "league_tr": "POL2",
-          "home_tr": "Gks Tychy",
-          "away_tr": "Nkp Podhale",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.09,
-          "probability": 73.28,
-          "patternScore": 70.41,
-          "patternText": "337.717/479.661",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4441276",
-          "nesine": null,
-          "date": "25.10.2026 19:00",
-          "kickoffUtc": "2026-10-25T19:00:00Z",
-          "league": "ARJPBN",
-          "home": "Gimnasia de Jujuy",
-          "away": "Atlanta",
-          "league_tr": "ARJPBN",
-          "home_tr": "Gimnasia Jujuy",
-          "away_tr": "Atlanta",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.13,
-          "probability": 84.51,
-          "patternScore": 70.27,
-          "patternText": "383.012/545.095",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4441280",
-          "nesine": null,
-          "date": "25.10.2026 19:00",
-          "kickoffUtc": "2026-10-25T19:00:00Z",
-          "league": "ARJPBN",
-          "home": "Club Atletico Patronato",
-          "away": "Agropecuario",
-          "league_tr": "ARJPBN",
-          "home_tr": "Patronato",
-          "away_tr": "Agropecuario",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 73.68,
-          "patternScore": 70.14,
-          "patternText": "316.824/451.676",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4490435",
-          "nesine": null,
-          "date": "25.10.2026 19:00",
-          "kickoffUtc": "2026-10-25T19:00:00Z",
-          "league": "GUAT",
-          "home": "Coban Imperial",
-          "away": "Deportivo Marquense",
-          "league_tr": "GUAT",
-          "home_tr": "Coban Imperial",
-          "away_tr": "Marquense",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.07,
-          "probability": 73.17,
-          "patternScore": 70.11,
-          "patternText": "314.663/448.834",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4563386",
-          "nesine": null,
-          "date": "25.10.2026 19:00",
-          "kickoffUtc": "2026-10-25T19:00:00Z",
-          "league": "EKV1",
-          "home": "CS Emelec",
-          "away": "Guayaquil City",
-          "league_tr": "EKV1",
-          "home_tr": "Emelec",
-          "away_tr": "Guayaquil City",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 70.83,
-          "patternScore": 70.05,
-          "patternText": "487.599/696.122",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261025-22-1",
       "createdAt": "25.10.2026 19:10",
@@ -474,6 +241,239 @@
   ],
   "completed": [
     {
+      "id": "20261024-20-1",
+      "createdAt": "24.10.2026 17:06",
+      "createdAtUtc": "2026-10-24T17:06:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.34,
+      "winChance": 72.75,
+      "firstKickoff": "25.10.2026 16:30",
+      "lastKickoff": "25.10.2026 16:30",
+      "status": "won",
+      "completedAt": "25.10.2026 20:48",
+      "kind": "safe_a",
+      "group": "safe",
+      "formula": "A",
+      "effectiveOdds": 1.34,
+      "legs": [
+        {
+          "matchCode": "4481090",
+          "nesine": null,
+          "date": "25.10.2026 16:30",
+          "kickoffUtc": "2026-10-25T16:30:00Z",
+          "league": "İNP",
+          "home": "Sunderland",
+          "away": "Leeds United",
+          "league_tr": "İNP",
+          "home_tr": "Sunderland",
+          "away_tr": "Leeds Utd",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.34,
+          "probability": 80.95,
+          "patternScore": 72.75,
+          "patternText": "173.032/250.016",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "won"
+        }
+      ]
+    },
+    {
+      "id": "20261024-20-2",
+      "createdAt": "24.10.2026 17:06",
+      "createdAtUtc": "2026-10-24T17:06:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.44,
+      "winChance": 72.25,
+      "firstKickoff": "25.10.2026 16:15",
+      "lastKickoff": "25.10.2026 16:15",
+      "status": "lost",
+      "completedAt": "25.10.2026 20:48",
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.44,
+      "legs": [
+        {
+          "matchCode": "4534752",
+          "nesine": null,
+          "date": "25.10.2026 16:15",
+          "kickoffUtc": "2026-10-25T16:15:00Z",
+          "league": "İTB",
+          "home": "Verona",
+          "away": "AC Pisa",
+          "league_tr": "İTB",
+          "home_tr": "Verona",
+          "away_tr": "Pisa",
+          "prediction": "1st Half Double Chance 12",
+          "prediction_tr": "1. Yarı Çifte Şans 1-2",
+          "odds": 1.44,
+          "probability": 82.61,
+          "patternScore": 72.25,
+          "patternText": "146.154/214.206",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 1",
+          "status": "lost"
+        }
+      ]
+    },
+    {
+      "id": "20261025-20-1",
+      "createdAt": "25.10.2026 17:05",
+      "createdAtUtc": "2026-10-25T17:05:00Z",
+      "size": 6,
+      "mbs": 1,
+      "totalOdds": 1.74,
+      "winChance": 12.0,
+      "firstKickoff": "25.10.2026 18:00",
+      "lastKickoff": "25.10.2026 19:00",
+      "status": "lost",
+      "completedAt": "25.10.2026 20:48",
+      "kind": "multi_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.74,
+      "legs": [
+        {
+          "matchCode": "4503512",
+          "nesine": null,
+          "date": "25.10.2026 18:00",
+          "kickoffUtc": "2026-10-25T18:00:00Z",
+          "league": "MEK2",
+          "home": "Tlaxcala FC",
+          "away": "Correcaminos UAT",
+          "league_tr": "MEK2",
+          "home_tr": "Tlaxcala",
+          "away_tr": "Correcaminos Ua",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.09,
+          "probability": 78.74,
+          "patternScore": 70.38,
+          "patternText": "335.594/476.858",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 0",
+          "status": "won"
+        },
+        {
+          "matchCode": "4486538",
+          "nesine": null,
+          "date": "25.10.2026 18:30",
+          "kickoffUtc": "2026-10-25T18:30:00Z",
+          "league": "POL2",
+          "home": "Gks Tychy",
+          "away": "NKP Podhale",
+          "league_tr": "POL2",
+          "home_tr": "Gks Tychy",
+          "away_tr": "Nkp Podhale",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.09,
+          "probability": 73.28,
+          "patternScore": 70.41,
+          "patternText": "337.717/479.661",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "lost"
+        },
+        {
+          "matchCode": "4441276",
+          "nesine": null,
+          "date": "25.10.2026 19:00",
+          "kickoffUtc": "2026-10-25T19:00:00Z",
+          "league": "ARJPBN",
+          "home": "Gimnasia de Jujuy",
+          "away": "Atlanta",
+          "league_tr": "ARJPBN",
+          "home_tr": "Gimnasia Jujuy",
+          "away_tr": "Atlanta",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.13,
+          "probability": 84.51,
+          "patternScore": 70.27,
+          "patternText": "383.012/545.095",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        },
+        {
+          "matchCode": "4441280",
+          "nesine": null,
+          "date": "25.10.2026 19:00",
+          "kickoffUtc": "2026-10-25T19:00:00Z",
+          "league": "ARJPBN",
+          "home": "Club Atletico Patronato",
+          "away": "Agropecuario",
+          "league_tr": "ARJPBN",
+          "home_tr": "Patronato",
+          "away_tr": "Agropecuario",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 73.68,
+          "patternScore": 70.14,
+          "patternText": "316.824/451.676",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        },
+        {
+          "matchCode": "4490435",
+          "nesine": null,
+          "date": "25.10.2026 19:00",
+          "kickoffUtc": "2026-10-25T19:00:00Z",
+          "league": "GUAT",
+          "home": "Coban Imperial",
+          "away": "Deportivo Marquense",
+          "league_tr": "GUAT",
+          "home_tr": "Coban Imperial",
+          "away_tr": "Marquense",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.07,
+          "probability": 73.17,
+          "patternScore": 70.11,
+          "patternText": "314.663/448.834",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        },
+        {
+          "matchCode": "4563386",
+          "nesine": null,
+          "date": "25.10.2026 19:00",
+          "kickoffUtc": "2026-10-25T19:00:00Z",
+          "league": "EKV1",
+          "home": "CS Emelec",
+          "away": "Guayaquil City",
+          "league_tr": "EKV1",
+          "home_tr": "Emelec",
+          "away_tr": "Guayaquil City",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 70.83,
+          "patternScore": 70.05,
+          "patternText": "487.599/696.122",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
       "id": "20261024-19-2",
       "createdAt": "24.10.2026 16:08",
       "createdAtUtc": "2026-10-24T16:08:00Z",
@@ -612,9 +612,9 @@
           "patternScore": 58.13,
           "patternText": "233.056/344.965",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "lost"
         }
       ]
     },
@@ -741,9 +741,9 @@
           "patternScore": 70.56,
           "patternText": "235.112/333.226",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "2 - 0",
+          "finalScore": "4 - 0",
+          "status": "won"
         },
         {
           "matchCode": "4492356",
@@ -763,9 +763,9 @@
           "patternScore": 70.51,
           "patternText": "235.122/333.478",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "2 - 1",
+          "finalScore": "2 - 1",
+          "status": "won"
         }
       ]
     },
@@ -826,9 +826,9 @@
           "patternScore": 57.99,
           "patternText": "233.567/346.357",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 1",
+          "status": "won"
         }
       ]
     },

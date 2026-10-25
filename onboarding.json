@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 20:32",
+  "updatedAt": "25.10.2026 20:48",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 705,
-      "lost": 357,
-      "total": 1062,
-      "rate": 66.4
+      "won": 791,
+      "lost": 413,
+      "total": 1204,
+      "rate": 65.7
     },
     "totalAnalyses": 151325,
     "leagues": 536,
     "pro": {
-      "won": 1235,
-      "lost": 535,
-      "total": 1770,
-      "rate": 69.8
+      "won": 1273,
+      "lost": 564,
+      "total": 1837,
+      "rate": 69.3
     },
     "insights": {
-      "won": 2087,
-      "lost": 927,
-      "total": 3014,
-      "rate": 69.2
+      "won": 2154,
+      "lost": 964,
+      "total": 3118,
+      "rate": 69.1
     },
     "coupons": {
-      "won": 95,
-      "lost": 86,
-      "total": 181,
-      "rate": 52.5
+      "won": 96,
+      "lost": 88,
+      "total": 184,
+      "rate": 52.2
     },
     "analyses24h": 1650,
     "analyses30d": 22453
@@ -120,6 +120,21 @@
   "recentCoupons": [
     {
       "size": 1,
+      "totalOdds": 1.34,
+      "winChance": 72.75,
+      "completedAt": "25.10.2026 20:48",
+      "legs": [
+        {
+          "home": "Sunderland",
+          "away": "Leeds United",
+          "prediction": "Double Chance 1X",
+          "odds": 1.34,
+          "finalScore": "0 - 0"
+        }
+      ]
+    },
+    {
+      "size": 1,
       "totalOdds": 1.32,
       "winChance": 71.27,
       "completedAt": "25.10.2026 18:15",
@@ -159,21 +174,6 @@
           "away": "LOSC Lille",
           "prediction": "1st Half Double Chance X2",
           "odds": 1.31,
-          "finalScore": "1 - 1"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.39,
-      "winChance": 75.75,
-      "completedAt": "25.10.2026 16:10",
-      "legs": [
-        {
-          "home": "Hull City",
-          "away": "Brentford",
-          "prediction": "1st Half Under 1.5",
-          "odds": 1.39,
           "finalScore": "1 - 1"
         }
       ]
