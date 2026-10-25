@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 22:23",
+  "updatedAt": "25.10.2026 22:37",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 768,
-      "lost": 396,
-      "total": 1164,
-      "rate": 66.0
+      "won": 760,
+      "lost": 389,
+      "total": 1149,
+      "rate": 66.1
     },
     "totalAnalyses": 151325,
     "leagues": 536,
@@ -47,8 +47,8 @@
       "total": 184,
       "rate": 52.2
     },
-    "analyses24h": 1585,
-    "analyses30d": 22445
+    "analyses24h": 1570,
+    "analyses30d": 22443
   },
   "recentWins": [
     {
@@ -296,17 +296,6 @@
       "picks": 6
     },
     {
-      "home": "CD Tapatio",
-      "away": "Monarcas Morelia",
-      "league": "MEK2",
-      "date": "25.10.2026 23:00",
-      "matchCode": "4503507",
-      "odds": 1.21,
-      "patternScore": 69.29,
-      "patternText": "175.175/252.803",
-      "picks": 2
-    },
-    {
       "home": "FC Queretaro",
       "away": "Cruz Azul",
       "league": "MEK",
@@ -327,6 +316,17 @@
       "patternScore": 68.61,
       "patternText": "181.141/264.027",
       "picks": 1
+    },
+    {
+      "home": "Club Tijuana",
+      "away": "Santos Laguna",
+      "league": "MEK",
+      "date": "26.10.2026 03:10",
+      "matchCode": "4476476",
+      "odds": 1.11,
+      "patternScore": 71.8,
+      "patternText": "130.647/181.962",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
