@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 17:19",
+  "updatedAt": "25.10.2026 17:33",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 669,
-      "lost": 340,
-      "total": 1009,
-      "rate": 66.3
+      "won": 688,
+      "lost": 337,
+      "total": 1025,
+      "rate": 67.1
     },
     "totalAnalyses": 151294,
     "leagues": 536,
     "pro": {
-      "won": 1173,
-      "lost": 505,
-      "total": 1678,
+      "won": 1194,
+      "lost": 513,
+      "total": 1707,
       "rate": 69.9
     },
     "insights": {
-      "won": 1993,
-      "lost": 883,
-      "total": 2876,
+      "won": 2021,
+      "lost": 894,
+      "total": 2915,
       "rate": 69.3
     },
     "coupons": {
       "won": 94,
-      "lost": 82,
-      "total": 176,
-      "rate": 53.4
+      "lost": 83,
+      "total": 177,
+      "rate": 53.1
     },
-    "analyses24h": 1882,
-    "analyses30d": 22616
+    "analyses24h": 1847,
+    "analyses30d": 22612
   },
   "recentWins": [
     {
@@ -256,23 +256,34 @@
     },
     {
       "type": "updated",
-      "at": "25.10.2026 13:34",
-      "home": "Celta de Vigo",
-      "away": "Real Betis"
+      "at": "25.10.2026 13:35",
+      "home": "Algeciras CF",
+      "away": "Real Madrid Castilla"
     }
   ],
   "today": {
-    "home": "Club Deportivo Motagua",
-    "away": "Real Sociedad de Tocoa",
-    "league": "HON",
-    "date": "25.10.2026 21:00",
-    "matchCode": "4574392",
-    "odds": 1.54,
-    "patternScore": 67.48,
-    "patternText": "126.281/187.132",
-    "picks": 2
+    "home": "Deportivo La Guaira",
+    "away": "Metropolitanos FC",
+    "league": "VEN",
+    "date": "25.10.2026 23:30",
+    "matchCode": "4576811",
+    "odds": 1.58,
+    "patternScore": 67.75,
+    "patternText": "96.411/142.297",
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Deportivo La Guaira",
+      "away": "Metropolitanos FC",
+      "league": "VEN",
+      "date": "25.10.2026 23:30",
+      "matchCode": "4576811",
+      "odds": 1.58,
+      "patternScore": 67.75,
+      "patternText": "96.411/142.297",
+      "picks": 4
+    },
     {
       "home": "Club Deportivo Motagua",
       "away": "Real Sociedad de Tocoa",
@@ -280,20 +291,9 @@
       "date": "25.10.2026 21:00",
       "matchCode": "4574392",
       "odds": 1.54,
-      "patternScore": 67.48,
-      "patternText": "126.281/187.132",
+      "patternScore": 67.47,
+      "patternText": "126.289/187.166",
       "picks": 2
-    },
-    {
-      "home": "Manchester United",
-      "away": "Manchester City Women",
-      "league": "İNKPL",
-      "date": "25.10.2026 18:00",
-      "matchCode": "4550671",
-      "odds": 1.45,
-      "patternScore": 68.26,
-      "patternText": "266.659/390.671",
-      "picks": 1
     },
     {
       "home": "Sport Boys",
@@ -302,8 +302,8 @@
       "date": "25.10.2026 20:30",
       "matchCode": "4501895",
       "odds": 1.3,
-      "patternScore": 68.59,
-      "patternText": "125.690/183.256",
+      "patternScore": 68.57,
+      "patternText": "125.732/183.364",
       "picks": 1
     },
     {
@@ -313,8 +313,8 @@
       "date": "25.10.2026 19:45",
       "matchCode": "4475121",
       "odds": 1.3,
-      "patternScore": 66.76,
-      "patternText": "191.631/287.032",
+      "patternScore": 66.75,
+      "patternText": "191.681/287.164",
       "picks": 5
     },
     {
@@ -324,8 +324,8 @@
       "date": "25.10.2026 19:00",
       "matchCode": "4441267",
       "odds": 1.28,
-      "patternScore": 68.34,
-      "patternText": "278.221/407.139",
+      "patternScore": 68.33,
+      "patternText": "278.303/407.283",
       "picks": 3
     }
   ],

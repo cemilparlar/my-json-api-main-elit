@@ -15,7 +15,7 @@
     },
     "surprise": {
       "won": 15,
-      "lost": 16
+      "lost": 17
     },
     "surprise_1": {
       "won": 9,
@@ -31,7 +31,7 @@
     },
     "surprise_2": {
       "won": 3,
-      "lost": 2
+      "lost": 3
     },
     "multi": {
       "won": 0,
@@ -57,7 +57,7 @@
     },
     "surprise": {
       "won": 15,
-      "lost": 16
+      "lost": 17
     },
     "surprise_1": {
       "won": 9,
@@ -73,7 +73,7 @@
     },
     "surprise_2": {
       "won": 3,
-      "lost": 2
+      "lost": 3
     },
     "multi": {
       "won": 0,
@@ -84,72 +84,9 @@
       "lost": 4
     }
   },
-  "updatedAt": "25.10.2026 17:19",
-  "updatedAtUtc": "2026-10-25T17:19:00Z",
+  "updatedAt": "25.10.2026 17:33",
+  "updatedAtUtc": "2026-10-25T17:33:00Z",
   "upcoming": [
-    {
-      "id": "20261024-20-5",
-      "createdAt": "24.10.2026 17:06",
-      "createdAtUtc": "2026-10-24T17:06:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 2.52,
-      "winChance": 33.04,
-      "firstKickoff": "25.10.2026 15:15",
-      "lastKickoff": "25.10.2026 16:15",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_2",
-      "group": "surprise",
-      "formula": "2",
-      "effectiveOdds": 2.52,
-      "legs": [
-        {
-          "matchCode": "4492792",
-          "nesine": null,
-          "date": "25.10.2026 15:15",
-          "kickoffUtc": "2026-10-25T15:15:00Z",
-          "league": "İS2",
-          "home": "Cadiz CF",
-          "away": "AD Ceuta",
-          "league_tr": "İS2",
-          "home_tr": "Cadiz",
-          "away_tr": "Ceuta",
-          "prediction": "Under 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Alt",
-          "odds": 1.68,
-          "probability": 71.43,
-          "patternScore": 56.98,
-          "patternText": "245.177/362.847",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4534752",
-          "nesine": null,
-          "date": "25.10.2026 16:15",
-          "kickoffUtc": "2026-10-25T16:15:00Z",
-          "league": "İTB",
-          "home": "Verona",
-          "away": "AC Pisa",
-          "league_tr": "İTB",
-          "home_tr": "Verona",
-          "away_tr": "Pisa",
-          "prediction": "Both Teams to Score - Yes",
-          "prediction_tr": "Karşılıklı Gol Var",
-          "odds": 1.5,
-          "probability": 73.91,
-          "patternScore": 57.99,
-          "patternText": "233.567/346.357",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261024-19-2",
       "createdAt": "24.10.2026 16:08",
@@ -316,7 +253,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4492356",
@@ -338,7 +275,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -682,6 +619,69 @@
   ],
   "completed": [
     {
+      "id": "20261024-20-5",
+      "createdAt": "24.10.2026 17:06",
+      "createdAtUtc": "2026-10-24T17:06:00Z",
+      "size": 2,
+      "mbs": 1,
+      "totalOdds": 2.52,
+      "winChance": 33.04,
+      "firstKickoff": "25.10.2026 15:15",
+      "lastKickoff": "25.10.2026 16:15",
+      "status": "lost",
+      "completedAt": "25.10.2026 17:33",
+      "kind": "surprise_2",
+      "group": "surprise",
+      "formula": "2",
+      "effectiveOdds": 2.52,
+      "legs": [
+        {
+          "matchCode": "4492792",
+          "nesine": null,
+          "date": "25.10.2026 15:15",
+          "kickoffUtc": "2026-10-25T15:15:00Z",
+          "league": "İS2",
+          "home": "Cadiz CF",
+          "away": "AD Ceuta",
+          "league_tr": "İS2",
+          "home_tr": "Cadiz",
+          "away_tr": "Ceuta",
+          "prediction": "Under 2.5 Goals",
+          "prediction_tr": "2,5 Alt/Üst Alt",
+          "odds": 1.68,
+          "probability": 71.43,
+          "patternScore": 56.98,
+          "patternText": "245.177/362.847",
+          "mbs": 1,
+          "firstHalf": "0 - 1",
+          "finalScore": "3 - 1",
+          "status": "lost"
+        },
+        {
+          "matchCode": "4534752",
+          "nesine": null,
+          "date": "25.10.2026 16:15",
+          "kickoffUtc": "2026-10-25T16:15:00Z",
+          "league": "İTB",
+          "home": "Verona",
+          "away": "AC Pisa",
+          "league_tr": "İTB",
+          "home_tr": "Verona",
+          "away_tr": "Pisa",
+          "prediction": "Both Teams to Score - Yes",
+          "prediction_tr": "Karşılıklı Gol Var",
+          "odds": 1.5,
+          "probability": 73.91,
+          "patternScore": 57.99,
+          "patternText": "233.567/346.357",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
       "id": "20261024-19-1",
       "createdAt": "24.10.2026 16:08",
       "createdAtUtc": "2026-10-24T16:08:00Z",
@@ -867,9 +867,9 @@
           "patternScore": 70.31,
           "patternText": "263.726/375.115",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 0",
+          "status": "won"
         }
       ]
     },
@@ -2836,129 +2836,6 @@
           "firstHalf": "0 - 0",
           "finalScore": "1 - 1",
           "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261023-17-1",
-      "createdAt": "23.10.2026 14:13",
-      "createdAtUtc": "2026-10-23T14:13:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.32,
-      "winChance": 74.96,
-      "firstKickoff": "24.10.2026 13:30",
-      "lastKickoff": "24.10.2026 13:30",
-      "status": "won",
-      "completedAt": "24.10.2026 17:22",
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.32,
-      "legs": [
-        {
-          "matchCode": "4495486",
-          "nesine": null,
-          "date": "24.10.2026 13:30",
-          "kickoffUtc": "2026-10-24T13:30:00Z",
-          "league": "AL1",
-          "home": "RB Leipzig",
-          "away": "SV Elversberg",
-          "league_tr": "AL1",
-          "home_tr": "Rb Leipzig",
-          "away_tr": "Elversberg",
-          "prediction": "Under 4.5 Goals",
-          "prediction_tr": "4,5 Alt/Üst Alt",
-          "odds": 1.32,
-          "probability": 100.0,
-          "patternScore": 74.96,
-          "patternText": "267.584/455.032",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "4 - 0",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261023-18-3",
-      "createdAt": "23.10.2026 15:01",
-      "createdAtUtc": "2026-10-23T15:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.34,
-      "winChance": 72.0,
-      "firstKickoff": "24.10.2026 13:00",
-      "lastKickoff": "24.10.2026 13:00",
-      "status": "lost",
-      "completedAt": "24.10.2026 17:22",
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.34,
-      "legs": [
-        {
-          "matchCode": "4475113",
-          "nesine": null,
-          "date": "24.10.2026 13:00",
-          "kickoffUtc": "2026-10-24T13:00:00Z",
-          "league": "İTA",
-          "home": "Cagliari Calcio",
-          "away": "Bologna FC",
-          "league_tr": "İTA",
-          "home_tr": "Cagliari",
-          "away_tr": "Bologna",
-          "prediction": "Double Chance 1X",
-          "prediction_tr": "Çifte Şans 1-X",
-          "odds": 1.34,
-          "probability": 80.0,
-          "patternScore": 72.0,
-          "patternText": "227.832/336.824",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "0 - 2",
-          "status": "lost"
-        }
-      ]
-    },
-    {
-      "id": "20261023-18-8",
-      "createdAt": "23.10.2026 15:01",
-      "createdAtUtc": "2026-10-23T15:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.53,
-      "winChance": 66.77,
-      "firstKickoff": "24.10.2026 13:00",
-      "lastKickoff": "24.10.2026 13:00",
-      "status": "lost",
-      "completedAt": "24.10.2026 17:22",
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.53,
-      "legs": [
-        {
-          "matchCode": "4475113",
-          "nesine": null,
-          "date": "24.10.2026 13:00",
-          "kickoffUtc": "2026-10-24T13:00:00Z",
-          "league": "İTA",
-          "home": "Cagliari Calcio",
-          "away": "Bologna FC",
-          "league_tr": "İTA",
-          "home_tr": "Cagliari",
-          "away_tr": "Bologna",
-          "prediction": "1st Half Double Chance 12",
-          "prediction_tr": "1. Yarı Çifte Şans 1-2",
-          "odds": 1.53,
-          "probability": 80.0,
-          "patternScore": 66.77,
-          "patternText": "197.345/295.552",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "0 - 2",
-          "status": "lost"
         }
       ]
     }
