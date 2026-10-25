@@ -14,12 +14,12 @@
       "lost": 12
     },
     "surprise": {
-      "won": 13,
-      "lost": 13
+      "won": 14,
+      "lost": 14
     },
     "surprise_1": {
-      "won": 8,
-      "lost": 5
+      "won": 9,
+      "lost": 6
     },
     "surprise_3": {
       "won": 3,
@@ -48,12 +48,12 @@
       "lost": 12
     },
     "surprise": {
-      "won": 13,
-      "lost": 13
+      "won": 14,
+      "lost": 14
     },
     "surprise_1": {
-      "won": 8,
-      "lost": 5
+      "won": 9,
+      "lost": 6
     },
     "surprise_3": {
       "won": 3,
@@ -68,8 +68,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "25.10.2026 03:39",
-  "updatedAtUtc": "2026-10-25T03:39:00Z",
+  "updatedAt": "25.10.2026 04:00",
+  "updatedAtUtc": "2026-10-25T04:00:00Z",
   "upcoming": [
     {
       "id": "20261024-18-1",
@@ -157,88 +157,6 @@
       ]
     },
     {
-      "id": "20261024-03-1",
-      "createdAt": "24.10.2026 00:07",
-      "createdAtUtc": "2026-10-24T00:07:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.58,
-      "winChance": 64.06,
-      "firstKickoff": "24.10.2026 23:30",
-      "lastKickoff": "24.10.2026 23:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.58,
-      "legs": [
-        {
-          "matchCode": "4419801",
-          "nesine": null,
-          "date": "24.10.2026 23:30",
-          "kickoffUtc": "2026-10-24T23:30:00Z",
-          "league": "ABD",
-          "home": "Philadelphia Union",
-          "away": "New England Revolution",
-          "league_tr": "ABD",
-          "home_tr": "Philadelphia",
-          "away_tr": "New England",
-          "prediction": "1st Half Under 1.5",
-          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
-          "odds": 1.58,
-          "probability": 75.0,
-          "patternScore": 64.06,
-          "patternText": "264.262/412.503",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261024-03-2",
-      "createdAt": "24.10.2026 00:07",
-      "createdAtUtc": "2026-10-24T00:07:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.74,
-      "winChance": 56.37,
-      "firstKickoff": "24.10.2026 23:30",
-      "lastKickoff": "24.10.2026 23:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.74,
-      "legs": [
-        {
-          "matchCode": "4419802",
-          "nesine": null,
-          "date": "24.10.2026 23:30",
-          "kickoffUtc": "2026-10-24T23:30:00Z",
-          "league": "ABD",
-          "home": "DC United",
-          "away": "FC Cincinnati",
-          "league_tr": "ABD",
-          "home_tr": "Dc United",
-          "away_tr": "Cincinnati",
-          "prediction": "Over 3.5 Goals",
-          "prediction_tr": "3,5 Alt/Üst Üst",
-          "odds": 1.74,
-          "probability": 100.0,
-          "patternScore": 56.37,
-          "patternText": "204.624/362.996",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
       "id": "20261024-05-1",
       "createdAt": "24.10.2026 02:48",
       "createdAtUtc": "2026-10-24T02:48:00Z",
@@ -314,9 +232,9 @@
           "patternScore": 76.4,
           "patternText": "225.530/389.799",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 2",
+          "status": "won"
         },
         {
           "matchCode": "4510849",
@@ -1047,6 +965,88 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261024-03-1",
+      "createdAt": "24.10.2026 00:07",
+      "createdAtUtc": "2026-10-24T00:07:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.58,
+      "winChance": 64.06,
+      "firstKickoff": "24.10.2026 23:30",
+      "lastKickoff": "24.10.2026 23:30",
+      "status": "won",
+      "completedAt": "25.10.2026 04:00",
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.58,
+      "legs": [
+        {
+          "matchCode": "4419801",
+          "nesine": null,
+          "date": "24.10.2026 23:30",
+          "kickoffUtc": "2026-10-24T23:30:00Z",
+          "league": "ABD",
+          "home": "Philadelphia Union",
+          "away": "New England Revolution",
+          "league_tr": "ABD",
+          "home_tr": "Philadelphia",
+          "away_tr": "New England",
+          "prediction": "1st Half Under 1.5",
+          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
+          "odds": 1.58,
+          "probability": 75.0,
+          "patternScore": 64.06,
+          "patternText": "264.262/412.503",
+          "mbs": 1,
+          "firstHalf": "0 - 1",
+          "finalScore": "1 - 2",
+          "status": "won"
+        }
+      ]
+    },
+    {
+      "id": "20261024-03-2",
+      "createdAt": "24.10.2026 00:07",
+      "createdAtUtc": "2026-10-24T00:07:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.74,
+      "winChance": 56.37,
+      "firstKickoff": "24.10.2026 23:30",
+      "lastKickoff": "24.10.2026 23:30",
+      "status": "lost",
+      "completedAt": "25.10.2026 04:00",
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.74,
+      "legs": [
+        {
+          "matchCode": "4419802",
+          "nesine": null,
+          "date": "24.10.2026 23:30",
+          "kickoffUtc": "2026-10-24T23:30:00Z",
+          "league": "ABD",
+          "home": "DC United",
+          "away": "FC Cincinnati",
+          "league_tr": "ABD",
+          "home_tr": "Dc United",
+          "away_tr": "Cincinnati",
+          "prediction": "Over 3.5 Goals",
+          "prediction_tr": "3,5 Alt/Üst Üst",
+          "odds": 1.74,
+          "probability": 100.0,
+          "patternScore": 56.37,
+          "patternText": "204.624/362.996",
+          "mbs": 1,
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 2",
+          "status": "lost"
+        }
+      ]
+    },
     {
       "id": "20261024-02-1",
       "createdAt": "23.10.2026 23:16",
