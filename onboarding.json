@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 21:28",
+  "updatedAt": "25.10.2026 21:42",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 786,
-      "lost": 411,
-      "total": 1197,
+      "won": 777,
+      "lost": 405,
+      "total": 1182,
       "rate": 65.7
     },
     "totalAnalyses": 151325,
     "leagues": 536,
     "pro": {
-      "won": 1273,
-      "lost": 564,
-      "total": 1837,
+      "won": 1276,
+      "lost": 565,
+      "total": 1841,
       "rate": 69.3
     },
     "insights": {
-      "won": 2154,
-      "lost": 964,
-      "total": 3118,
+      "won": 2160,
+      "lost": 968,
+      "total": 3128,
       "rate": 69.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 184,
       "rate": 52.2
     },
-    "analyses24h": 1643,
-    "analyses30d": 22450
+    "analyses24h": 1605,
+    "analyses30d": 22448
   },
   "recentWins": [
     {
@@ -232,33 +232,33 @@
     },
     {
       "type": "updated",
-      "at": "25.10.2026 15:41",
-      "home": "Sunderland",
-      "away": "Leeds United"
+      "at": "25.10.2026 15:42",
+      "home": "US Lecce",
+      "away": "Juventus"
     },
     {
       "type": "updated",
-      "at": "25.10.2026 15:40",
-      "home": "Verona",
-      "away": "AC Pisa"
+      "at": "25.10.2026 16:47",
+      "home": "Molde FK",
+      "away": "Fredrikstad FK"
     },
     {
       "type": "updated",
-      "at": "25.10.2026 15:40",
-      "home": "Stade Rennais",
-      "away": "RC Strasbourg"
+      "at": "25.10.2026 18:54",
+      "home": "Udinese",
+      "away": "AC Milan"
     },
     {
       "type": "updated",
-      "at": "25.10.2026 15:40",
-      "home": "Toulouse FC",
-      "away": "ESTAC Troyes"
+      "at": "25.10.2026 18:54",
+      "home": "Ca Mitre",
+      "away": "Godoy Cruz Antonio Tomba"
     },
     {
       "type": "updated",
-      "at": "25.10.2026 15:40",
-      "home": "Marseille",
-      "away": "Le Havre AC"
+      "at": "25.10.2026 18:55",
+      "home": "Sporting CP",
+      "away": "Academico FC Viseu"
     }
   ],
   "today": {
@@ -296,17 +296,6 @@
       "picks": 6
     },
     {
-      "home": "AD San Carlos",
-      "away": "Deportivo Saprissa",
-      "league": "KOSTA",
-      "date": "25.10.2026 22:00",
-      "matchCode": "4487097",
-      "odds": 1.22,
-      "patternScore": 68.15,
-      "patternText": "169.418/248.579",
-      "picks": 2
-    },
-    {
       "home": "CD Tapatio",
       "away": "Monarcas Morelia",
       "league": "MEK2",
@@ -327,6 +316,17 @@
       "patternScore": 69.04,
       "patternText": "172.999/250.581",
       "picks": 3
+    },
+    {
+      "home": "LD Alajuelense",
+      "away": "Deportivo Perez Zeledon",
+      "league": "KOSTA",
+      "date": "26.10.2026 00:00",
+      "matchCode": "4487099",
+      "odds": 1.12,
+      "patternScore": 68.61,
+      "patternText": "181.127/264.009",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [

@@ -84,8 +84,8 @@
       "lost": 6
     }
   },
-  "updatedAt": "25.10.2026 21:28",
-  "updatedAtUtc": "2026-10-25T21:28:00Z",
+  "updatedAt": "25.10.2026 21:42",
+  "updatedAtUtc": "2026-10-25T21:42:00Z",
   "upcoming": [
     {
       "id": "20261025-22-1",
@@ -234,7 +234,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -596,9 +596,9 @@
           "patternScore": 70.05,
           "patternText": "487.599/696.122",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 1",
+          "status": "won"
         }
       ]
     },
