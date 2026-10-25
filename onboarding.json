@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 10:58",
+  "updatedAt": "25.10.2026 11:43",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 964,
-      "lost": 525,
-      "total": 1489,
-      "rate": 64.7
+      "won": 861,
+      "lost": 480,
+      "total": 1341,
+      "rate": 64.2
     },
-    "totalAnalyses": 151136,
+    "totalAnalyses": 151189,
     "leagues": 536,
     "pro": {
       "won": 927,
@@ -47,8 +47,8 @@
       "total": 162,
       "rate": 54.3
     },
-    "analyses24h": 3337,
-    "analyses30d": 22750
+    "analyses24h": 3208,
+    "analyses30d": 22797
   },
   "recentWins": [
     {
@@ -214,6 +214,12 @@
     },
     {
       "type": "coupon",
+      "size": 6,
+      "odds": 1.69,
+      "at": "25.10.2026 11:43"
+    },
+    {
+      "type": "coupon",
       "size": 5,
       "odds": 1.69,
       "at": "25.10.2026 07:11"
@@ -225,26 +231,34 @@
       "at": "25.10.2026 06:40"
     },
     {
-      "type": "kickoff",
-      "home": "Sanluqueno",
-      "away": "UD Las Palmas B",
-      "at": "25.10.2026 11:00"
+      "type": "updated",
+      "at": "25.10.2026 11:36",
+      "home": "CE Sabadell",
+      "away": "CD Tenerife"
     },
     {
-      "type": "kickoff",
-      "home": "Odra Opole",
-      "away": "Pogon Siedlce",
-      "at": "25.10.2026 11:00"
+      "type": "updated",
+      "at": "25.10.2026 11:35",
+      "home": "Antalyaspor",
+      "away": "Bodrum FK"
     },
     {
-      "type": "kickoff",
-      "home": "Atletico Centr",
-      "away": "Tamaraceite",
-      "at": "25.10.2026 11:00"
+      "type": "updated",
+      "at": "25.10.2026 11:36",
+      "home": "Athletic Bilbao",
+      "away": "Getafe CF"
     },
     {
-      "type": "analysis",
-      "count": 3337
+      "type": "updated",
+      "at": "25.10.2026 11:35",
+      "home": "FC Thun",
+      "away": "FC Lugano"
+    },
+    {
+      "type": "updated",
+      "at": "25.10.2026 11:35",
+      "home": "Nykobing",
+      "away": "Thisted FC"
     }
   ],
   "today": {
@@ -317,6 +331,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "CE Sabadell",
+      "away": "CD Tenerife",
+      "league": "İS2",
+      "at": "25.10.2026 11:36",
+      "count": 7
+    },
+    {
+      "home": "Athletic Bilbao",
+      "away": "Getafe CF",
+      "league": "İS1",
+      "at": "25.10.2026 11:36",
+      "count": 4
+    },
+    {
+      "home": "Antalyaspor",
+      "away": "Bodrum FK",
+      "league": "T1L",
+      "at": "25.10.2026 11:35",
+      "count": 3
+    },
+    {
       "home": "FC Santos",
       "away": "EC Bahia",
       "league": "BR1",
@@ -364,27 +399,6 @@
       "league": "İNP",
       "at": "24.10.2026 19:08",
       "count": 7
-    },
-    {
-      "home": "Chapecoense AF",
-      "away": "Fluminense FC",
-      "league": "BR1",
-      "at": "24.10.2026 17:19",
-      "count": 17
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "Red Bull Bragantino",
-      "league": "BR1",
-      "at": "24.10.2026 17:18",
-      "count": 3
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "Deportivo La Coruna",
-      "league": "İS1",
-      "at": "24.10.2026 17:16",
-      "count": 5
     }
   ],
   "paywall": {
