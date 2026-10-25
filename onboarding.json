@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 07:53",
+  "updatedAt": "25.10.2026 08:12",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1019,
-      "lost": 555,
-      "total": 1574,
-      "rate": 64.7
+      "won": 1010,
+      "lost": 553,
+      "total": 1563,
+      "rate": 64.6
     },
     "totalAnalyses": 151136,
     "leagues": 536,
@@ -47,7 +47,7 @@
       "total": 162,
       "rate": 54.3
     },
-    "analyses24h": 3430,
+    "analyses24h": 3413,
     "analyses30d": 22761
   },
   "recentWins": [
@@ -244,21 +244,32 @@
     },
     {
       "type": "analysis",
-      "count": 3430
+      "count": 3413
     }
   ],
   "today": {
-    "home": "Konyaspor",
-    "away": "Genclerbirligi",
-    "league": "TSL",
-    "date": "25.10.2026 13:00",
-    "matchCode": "4542730",
-    "odds": 1.59,
-    "patternScore": 67.71,
-    "patternText": "154.839/228.664",
-    "picks": 7
+    "home": "Crystal Palace",
+    "away": "Newcastle United",
+    "league": "İNP",
+    "date": "25.10.2026 14:00",
+    "matchCode": "4481085",
+    "odds": 1.93,
+    "patternScore": 67.08,
+    "patternText": "253.868/378.460",
+    "picks": 10
   },
   "todayList": [
+    {
+      "home": "Crystal Palace",
+      "away": "Newcastle United",
+      "league": "İNP",
+      "date": "25.10.2026 14:00",
+      "matchCode": "4481085",
+      "odds": 1.93,
+      "patternScore": 67.08,
+      "patternText": "253.868/378.460",
+      "picks": 10
+    },
     {
       "home": "Konyaspor",
       "away": "Genclerbirligi",
@@ -282,37 +293,26 @@
       "picks": 4
     },
     {
-      "home": "SK Sturm Graz",
-      "away": "SV Ried",
-      "league": "AVU",
-      "date": "25.10.2026 13:30",
-      "matchCode": "4496511",
-      "odds": 1.4,
-      "patternScore": 66.67,
-      "patternText": "254.048/381.039",
-      "picks": 4
+      "home": "AS Monaco",
+      "away": "LOSC Lille",
+      "league": "FR1",
+      "date": "25.10.2026 14:00",
+      "matchCode": "4476572",
+      "odds": 1.52,
+      "patternScore": 68.0,
+      "patternText": "249.026/366.236",
+      "picks": 8
     },
     {
-      "home": "Ogre United",
-      "away": "Auda",
-      "league": "LET",
-      "date": "25.10.2026 11:00",
-      "matchCode": "4446801",
-      "odds": 1.38,
-      "patternScore": 66.74,
-      "patternText": "246.076/368.689",
-      "picks": 1
-    },
-    {
-      "home": "CE Sabadell",
-      "away": "CD Tenerife",
-      "league": "İS2",
-      "date": "25.10.2026 13:00",
-      "matchCode": "4492799",
-      "odds": 1.34,
-      "patternScore": 67.83,
-      "patternText": "192.772/284.191",
-      "picks": 4
+      "home": "Liverpool",
+      "away": "Brighton & Hove Albion",
+      "league": "İNP",
+      "date": "25.10.2026 14:00",
+      "matchCode": "4481088",
+      "odds": 1.46,
+      "patternScore": 67.6,
+      "patternText": "271.962/402.310",
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
