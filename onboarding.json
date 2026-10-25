@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 06:08",
+  "updatedAt": "25.10.2026 06:40",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 908,
-      "lost": 210,
-      "total": 1118,
-      "rate": 81.2
+      "won": 1027,
+      "lost": 555,
+      "total": 1582,
+      "rate": 64.9
     },
     "totalAnalyses": 151136,
     "leagues": 536,
@@ -119,111 +119,62 @@
   ],
   "recentCoupons": [
     {
-      "size": 3,
-      "totalOdds": 4.94,
-      "winChance": 44.1,
-      "completedAt": "24.10.2026 22:45",
+      "size": 1,
+      "totalOdds": 1.58,
+      "winChance": 64.06,
+      "completedAt": "25.10.2026 04:00",
       "legs": [
         {
-          "home": "Metalul Buzau",
-          "away": "Stefanesti",
-          "prediction": "Both Teams to Score - No",
-          "odds": 1.68,
-          "finalScore": "3 - 0"
-        },
-        {
-          "home": "RB Leipzig",
-          "away": "SV Elversberg",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.72,
-          "finalScore": "4 - 0"
-        },
-        {
-          "home": "Kr Reykjavik",
-          "away": "Breidablik",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.71,
-          "finalScore": null
-        }
-      ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 4.9,
-      "winChance": 43.11,
-      "completedAt": "23.10.2026 18:37",
-      "legs": [
-        {
-          "home": "Fujairah FC",
-          "away": "Al Wahda",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.66,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "Bodo / Glimt (",
-          "away": "Haugesund Women",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.79,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "FC Duhok",
-          "away": "Karbala",
-          "prediction": "Over 2.5 Goals",
-          "odds": 1.65,
-          "finalScore": "5 - 2"
-        }
-      ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 3.63,
-      "winChance": 44.65,
-      "completedAt": "24.10.2026 13:58",
-      "legs": [
-        {
-          "home": "Gimnasia La Plata",
-          "away": "CA Sarmiento",
-          "prediction": "Both Teams to Score - No",
+          "home": "Philadelphia Union",
+          "away": "New England Revolution",
+          "prediction": "1st Half Under 1.5",
           "odds": 1.58,
-          "finalScore": "2 - 0"
-        },
-        {
-          "home": "Aston Villa",
-          "away": "Manchester City",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.53,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Tottenham Hots",
-          "away": "Arsenal Women",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.5,
           "finalScore": "1 - 2"
         }
       ]
     },
     {
-      "size": 2,
-      "totalOdds": 2.52,
-      "winChance": 35.28,
-      "completedAt": "24.10.2026 18:10",
+      "size": 1,
+      "totalOdds": 1.68,
+      "winChance": 67.28,
+      "completedAt": "25.10.2026 00:46",
       "legs": [
         {
-          "home": "Kalmar FF",
-          "away": "IF Brommapojkarna",
-          "prediction": "Over 2.5 Goals",
-          "odds": 1.53,
-          "finalScore": "0 - 3"
-        },
+          "home": "Chapecoense AF",
+          "away": "Fluminense FC",
+          "prediction": "Handicap (1:0) 1",
+          "odds": 1.68,
+          "finalScore": "2 - 1"
+        }
+      ]
+    },
+    {
+      "size": 1,
+      "totalOdds": 1.4,
+      "winChance": 74.5,
+      "completedAt": "25.10.2026 00:46",
+      "legs": [
         {
-          "home": "Samsunspor",
-          "away": "Amed SK",
-          "prediction": "Over 2.5 Goals",
-          "odds": 1.65,
-          "finalScore": "1 - 2"
+          "home": "Chapecoense AF",
+          "away": "Fluminense FC",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.4,
+          "finalScore": "2 - 1"
+        }
+      ]
+    },
+    {
+      "size": 1,
+      "totalOdds": 1.31,
+      "winChance": 74.33,
+      "completedAt": "25.10.2026 00:03",
+      "legs": [
+        {
+          "home": "New York Red Bulls",
+          "away": "Inter Miami CF",
+          "prediction": "Under 4.5 Goals",
+          "odds": 1.31,
+          "finalScore": "2 - 0"
         }
       ]
     }
@@ -263,9 +214,9 @@
     },
     {
       "type": "coupon",
-      "size": 1,
-      "odds": 1.4,
-      "at": "24.10.2026 18:10"
+      "size": 6,
+      "odds": 1.92,
+      "at": "25.10.2026 06:40"
     },
     {
       "type": "kickoff",
@@ -291,59 +242,71 @@
     }
   ],
   "today": {
-    "home": "Atlas FC",
-    "away": "Club Puebla",
-    "league": "MEK",
-    "date": "25.10.2026 23:00",
-    "patternScore": 72.31,
-    "patternText": "152.041/210.266",
-    "picks": 2
+    "home": "Ogre United",
+    "away": "Auda",
+    "league": "LET",
+    "date": "25.10.2026 11:00",
+    "matchCode": "4446801",
+    "odds": 1.38,
+    "patternScore": 66.74,
+    "patternText": "246.076/368.689",
+    "picks": 1
   },
   "todayList": [
     {
-      "home": "Atlas FC",
-      "away": "Club Puebla",
-      "league": "MEK",
-      "date": "25.10.2026 23:00",
-      "patternScore": 72.31,
-      "patternText": "152.041/210.266",
+      "home": "Ogre United",
+      "away": "Auda",
+      "league": "LET",
+      "date": "25.10.2026 11:00",
+      "matchCode": "4446801",
+      "odds": 1.38,
+      "patternScore": 66.74,
+      "patternText": "246.076/368.689",
+      "picks": 1
+    },
+    {
+      "home": "Hibernian",
+      "away": "Celtic",
+      "league": "İKP",
+      "date": "25.10.2026 12:00",
+      "matchCode": "4480530",
+      "odds": 1.32,
+      "patternScore": 67.02,
+      "patternText": "170.132/253.859",
       "picks": 2
     },
     {
-      "home": "FC Queretaro",
-      "away": "Cruz Azul",
-      "league": "MEK",
-      "date": "26.10.2026 01:00",
-      "patternScore": 72.18,
-      "patternText": "136.620/189.281",
+      "home": "Shonan Bellmare",
+      "away": "Tochigi City FC",
+      "league": "JAP2",
+      "date": "25.10.2026 09:00",
+      "matchCode": "4487631",
+      "odds": 1.25,
+      "patternScore": 68.49,
+      "patternText": "211.212/308.405",
+      "picks": 4
+    },
+    {
+      "home": "SS Lazio Women",
+      "away": "Como Women",
+      "league": "İTKSA",
+      "date": "25.10.2026 11:30",
+      "matchCode": "4534565",
+      "odds": 1.24,
+      "patternScore": 67.83,
+      "patternText": "227.080/334.770",
       "picks": 3
     },
     {
-      "home": "Club Tijuana",
-      "away": "Santos Laguna",
-      "league": "MEK",
-      "date": "26.10.2026 03:10",
-      "patternScore": 71.82,
-      "patternText": "129.997/181.016",
-      "picks": 2
-    },
-    {
-      "home": "Vasas",
-      "away": "Paksi",
-      "league": "MAC",
-      "date": "25.10.2026 12:15",
-      "patternScore": 71.73,
-      "patternText": "223.224/311.195",
-      "picks": 2
-    },
-    {
-      "home": "Sociedad Deportiva Aucas",
-      "away": "Barcelona SC Guayaquil",
-      "league": "EKV1",
-      "date": "25.10.2026 21:30",
-      "patternScore": 71.32,
-      "patternText": "111.165/155.874",
-      "picks": 2
+      "home": "Viitorul Selim",
+      "away": "Asa Targu Mures",
+      "league": "ROM2",
+      "date": "25.10.2026 09:00",
+      "matchCode": "4513306",
+      "odds": 1.23,
+      "patternScore": 68.38,
+      "patternText": "205.770/300.904",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
