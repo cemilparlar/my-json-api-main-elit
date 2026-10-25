@@ -6,7 +6,7 @@
       "lost": 88
     },
     "safe": {
-      "won": 24,
+      "won": 25,
       "lost": 16
     },
     "safe_b": {
@@ -26,7 +26,7 @@
       "lost": 6
     },
     "safe_a": {
-      "won": 5,
+      "won": 6,
       "lost": 4
     },
     "surprise_2": {
@@ -40,7 +40,7 @@
       "lost": 88
     },
     "safe": {
-      "won": 24,
+      "won": 25,
       "lost": 16
     },
     "safe_b": {
@@ -60,7 +60,7 @@
       "lost": 6
     },
     "safe_a": {
-      "won": 5,
+      "won": 6,
       "lost": 4
     },
     "surprise_2": {
@@ -68,50 +68,9 @@
       "lost": 2
     }
   },
-  "updatedAt": "24.10.2026 23:47",
-  "updatedAtUtc": "2026-10-24T23:47:00Z",
+  "updatedAt": "25.10.2026 00:03",
+  "updatedAtUtc": "2026-10-25T00:03:00Z",
   "upcoming": [
-    {
-      "id": "20261024-16-1",
-      "createdAt": "24.10.2026 13:07",
-      "createdAtUtc": "2026-10-24T13:07:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.31,
-      "winChance": 74.33,
-      "firstKickoff": "24.10.2026 21:30",
-      "lastKickoff": "24.10.2026 21:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.31,
-      "legs": [
-        {
-          "matchCode": "4445801",
-          "nesine": null,
-          "date": "24.10.2026 21:30",
-          "kickoffUtc": "2026-10-24T21:30:00Z",
-          "league": "ABD",
-          "home": "New York Red Bulls",
-          "away": "Inter Miami CF",
-          "league_tr": "ABD",
-          "home_tr": "New York",
-          "away_tr": "Inter Miami",
-          "prediction": "Under 4.5 Goals",
-          "prediction_tr": "4,5 Alt/Üst Alt",
-          "odds": 1.31,
-          "probability": 100.0,
-          "patternScore": 74.33,
-          "patternText": "212.675/368.636",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261024-18-1",
       "createdAt": "24.10.2026 15:11",
@@ -1171,6 +1130,47 @@
   ],
   "completed": [
     {
+      "id": "20261024-16-1",
+      "createdAt": "24.10.2026 13:07",
+      "createdAtUtc": "2026-10-24T13:07:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.31,
+      "winChance": 74.33,
+      "firstKickoff": "24.10.2026 21:30",
+      "lastKickoff": "24.10.2026 21:30",
+      "status": "won",
+      "completedAt": "25.10.2026 00:03",
+      "kind": "safe_a",
+      "group": "safe",
+      "formula": "A",
+      "effectiveOdds": 1.31,
+      "legs": [
+        {
+          "matchCode": "4445801",
+          "nesine": null,
+          "date": "24.10.2026 21:30",
+          "kickoffUtc": "2026-10-24T21:30:00Z",
+          "league": "ABD",
+          "home": "New York Red Bulls",
+          "away": "Inter Miami CF",
+          "league_tr": "ABD",
+          "home_tr": "New York",
+          "away_tr": "Inter Miami",
+          "prediction": "Under 4.5 Goals",
+          "prediction_tr": "4,5 Alt/Üst Alt",
+          "odds": 1.31,
+          "probability": 100.0,
+          "patternScore": 74.33,
+          "patternText": "212.675/368.636",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 0",
+          "status": "won"
+        }
+      ]
+    },
+    {
       "id": "20261024-01-1",
       "createdAt": "23.10.2026 22:05",
       "createdAtUtc": "2026-10-23T22:05:00Z",
@@ -1287,9 +1287,9 @@
           "patternScore": 74.4,
           "patternText": "227.317/390.416",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 0",
+          "status": "won"
         },
         {
           "matchCode": "4423342",
