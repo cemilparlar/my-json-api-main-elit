@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 00:46",
+  "updatedAt": "25.10.2026 01:01",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 912,
-      "lost": 212,
+      "won": 914,
+      "lost": 210,
       "total": 1124,
-      "rate": 81.1
+      "rate": 81.3
     },
     "totalAnalyses": 151136,
     "leagues": 536,
@@ -36,9 +36,9 @@
       "rate": 68.3
     },
     "insights": {
-      "won": 1534,
-      "lost": 703,
-      "total": 2237,
+      "won": 1535,
+      "lost": 704,
+      "total": 2239,
       "rate": 68.6
     },
     "coupons": {
@@ -47,10 +47,23 @@
       "total": 160,
       "rate": 54.4
     },
-    "analyses24h": 3627,
-    "analyses30d": 22775
+    "analyses24h": 3619,
+    "analyses30d": 22768
   },
   "recentWins": [
+    {
+      "home": "Chapecoense AF",
+      "away": "Fluminense FC",
+      "league": "BR1",
+      "date": "24.10.2026 22:30",
+      "prediction": "Match Result 1",
+      "odds": 3.94,
+      "probability": 100.0,
+      "patternScore": 57.17,
+      "firstHalf": "1 - 1",
+      "finalScore": "2 - 1",
+      "pro": true
+    },
     {
       "home": "Midlands Wande",
       "away": "Upington City",
@@ -101,19 +114,6 @@
       "patternScore": 61.75,
       "firstHalf": "4 - 0",
       "finalScore": "4 - 0",
-      "pro": false
-    },
-    {
-      "home": "Cruzeiro EC",
-      "away": "Remo",
-      "league": "BR1",
-      "date": "23.10.2026 23:00",
-      "prediction": "Under 2.5 Goals",
-      "odds": 2.62,
-      "probability": 100.0,
-      "patternScore": 57.44,
-      "firstHalf": "1 - 0",
-      "finalScore": "1 - 0",
       "pro": false
     }
   ],
@@ -231,6 +231,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Chapecoense AF",
+      "away": "Fluminense FC",
+      "prediction": "Match Result 1",
+      "odds": 3.94,
+      "at": "24.10.2026 22:30"
+    },
+    {
+      "type": "won",
       "home": "Midlands Wande",
       "away": "Upington City",
       "prediction": "Handicap (1:0) X",
@@ -252,14 +260,6 @@
       "prediction": "Handicap (0:2) 1",
       "odds": 2.91,
       "at": "24.10.2026 16:30"
-    },
-    {
-      "type": "won",
-      "home": "BK Hacken",
-      "away": "Degerfors IF",
-      "prediction": "Total Goals 4-5",
-      "odds": 2.78,
-      "at": "24.10.2026 13:00"
     },
     {
       "type": "coupon",
@@ -316,7 +316,7 @@
     "league": "MEK",
     "date": "25.10.2026 23:00",
     "patternScore": 72.32,
-    "patternText": "151.803/209.912",
+    "patternText": "151.819/209.932",
     "picks": 2
   },
   "todayList": [
@@ -326,8 +326,17 @@
       "league": "MEK",
       "date": "25.10.2026 23:00",
       "patternScore": 72.32,
-      "patternText": "151.803/209.912",
+      "patternText": "151.819/209.932",
       "picks": 2
+    },
+    {
+      "home": "FC Queretaro",
+      "away": "Cruz Azul",
+      "league": "MEK",
+      "date": "26.10.2026 01:00",
+      "patternScore": 72.19,
+      "patternText": "136.490/189.083",
+      "picks": 3
     },
     {
       "home": "Vasas",
@@ -335,7 +344,7 @@
       "league": "MAC",
       "date": "25.10.2026 12:15",
       "patternScore": 71.74,
-      "patternText": "222.778/310.517",
+      "patternText": "222.864/310.643",
       "picks": 2
     },
     {
@@ -343,8 +352,8 @@
       "away": "Oakland Roots SC",
       "league": "USLP",
       "date": "25.10.2026 02:00",
-      "patternScore": 71.6,
-      "patternText": "181.741/253.843",
+      "patternScore": 71.59,
+      "patternText": "181.831/253.975",
       "picks": 1
     },
     {
@@ -353,17 +362,8 @@
       "league": "GKOR2",
       "date": "25.10.2026 05:00",
       "patternScore": 71.51,
-      "patternText": "183.288/256.298",
+      "patternText": "183.354/256.404",
       "picks": 1
-    },
-    {
-      "home": "Urawa Red Diamonds",
-      "away": "V-Varen Nagasaki",
-      "league": "JAP",
-      "date": "25.10.2026 06:00",
-      "patternScore": 71.35,
-      "patternText": "198.370/278.023",
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
