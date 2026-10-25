@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 10:07",
+  "updatedAt": "25.10.2026 10:41",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 979,
-      "lost": 531,
-      "total": 1510,
-      "rate": 64.8
+      "won": 966,
+      "lost": 526,
+      "total": 1492,
+      "rate": 64.7
     },
     "totalAnalyses": 151136,
     "leagues": 536,
@@ -47,7 +47,7 @@
       "total": 162,
       "rate": 54.3
     },
-    "analyses24h": 3358,
+    "analyses24h": 3340,
     "analyses30d": 22750
   },
   "recentWins": [
@@ -226,25 +226,25 @@
     },
     {
       "type": "kickoff",
-      "home": "Sevilla B",
-      "away": "CD Tenerife B",
-      "at": "25.10.2026 10:30"
+      "home": "FC Rostov",
+      "away": "Lokomotiv Moscow",
+      "at": "25.10.2026 10:45"
     },
     {
       "type": "kickoff",
-      "home": "Volga Ulyanovs",
-      "away": "Veles",
-      "at": "25.10.2026 10:30"
+      "home": "Sanluqueno",
+      "away": "UD Las Palmas B",
+      "at": "25.10.2026 11:00"
     },
     {
       "type": "kickoff",
-      "home": "Getafe B",
-      "away": "Calvo Sotelo",
-      "at": "25.10.2026 10:30"
+      "home": "Odra Opole",
+      "away": "Pogon Siedlce",
+      "at": "25.10.2026 11:00"
     },
     {
       "type": "analysis",
-      "count": 3358
+      "count": 3340
     }
   ],
   "today": {
@@ -293,6 +293,17 @@
       "picks": 8
     },
     {
+      "home": "Sunderland",
+      "away": "Leeds United",
+      "league": "İNP",
+      "date": "25.10.2026 16:30",
+      "matchCode": "4481090",
+      "odds": 1.65,
+      "patternScore": 67.53,
+      "patternText": "234.940/347.893",
+      "picks": 4
+    },
+    {
       "home": "Konyaspor",
       "away": "Genclerbirligi",
       "league": "TSL",
@@ -302,17 +313,6 @@
       "patternScore": 67.71,
       "patternText": "154.839/228.664",
       "picks": 7
-    },
-    {
-      "home": "Nykobing",
-      "away": "Thisted FC",
-      "league": "DAN2",
-      "date": "25.10.2026 13:00",
-      "matchCode": "4510849",
-      "odds": 1.54,
-      "patternScore": 67.43,
-      "patternText": "235.574/349.380",
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
