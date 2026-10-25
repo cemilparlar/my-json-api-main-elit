@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 15:41",
+  "updatedAt": "25.10.2026 15:55",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 672,
+      "won": 670,
       "lost": 360,
-      "total": 1032,
-      "rate": 65.1
+      "total": 1030,
+      "rate": 65.0
     },
-    "totalAnalyses": 151267,
+    "totalAnalyses": 151272,
     "leagues": 536,
     "pro": {
       "won": 1103,
@@ -47,8 +47,8 @@
       "total": 166,
       "rate": 54.2
     },
-    "analyses24h": 2128,
-    "analyses30d": 22709
+    "analyses24h": 2120,
+    "analyses30d": 22703
   },
   "recentWins": [
     {
@@ -269,39 +269,17 @@
     }
   ],
   "today": {
-    "home": "Sunderland",
-    "away": "Leeds United",
-    "league": "İNP",
-    "date": "25.10.2026 16:30",
-    "matchCode": "4481090",
-    "odds": 1.65,
-    "patternScore": 67.56,
-    "patternText": "236.418/349.913",
-    "picks": 4
+    "home": "Club Deportivo Motagua",
+    "away": "Real Sociedad de Tocoa",
+    "league": "HON",
+    "date": "25.10.2026 21:00",
+    "matchCode": "4574392",
+    "odds": 1.54,
+    "patternScore": 67.48,
+    "patternText": "126.159/186.960",
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Sunderland",
-      "away": "Leeds United",
-      "league": "İNP",
-      "date": "25.10.2026 16:30",
-      "matchCode": "4481090",
-      "odds": 1.65,
-      "patternScore": 67.56,
-      "patternText": "236.418/349.913",
-      "picks": 4
-    },
-    {
-      "home": "US Lecce",
-      "away": "Juventus",
-      "league": "İTA",
-      "date": "25.10.2026 17:00",
-      "matchCode": "4475118",
-      "odds": 1.58,
-      "patternScore": 66.37,
-      "patternText": "173.628/261.596",
-      "picks": 3
-    },
     {
       "home": "Club Deportivo Motagua",
       "away": "Real Sociedad de Tocoa",
@@ -314,29 +292,58 @@
       "picks": 2
     },
     {
-      "home": "Verona",
-      "away": "AC Pisa",
-      "league": "İTB",
-      "date": "25.10.2026 16:15",
-      "matchCode": "4534752",
-      "odds": 1.5,
-      "patternScore": 67.44,
-      "patternText": "236.937/351.311",
+      "home": "Manchester United",
+      "away": "Manchester City Women",
+      "league": "İNKPL",
+      "date": "25.10.2026 18:00",
+      "matchCode": "4550671",
+      "odds": 1.45,
+      "patternScore": 68.26,
+      "patternText": "266.075/389.783",
+      "picks": 1
+    },
+    {
+      "home": "AGF Aarhus",
+      "away": "Viborg FF",
+      "league": "DAN",
+      "date": "25.10.2026 17:00",
+      "matchCode": "4474508",
+      "odds": 1.37,
+      "patternScore": 67.51,
+      "patternText": "247.318/366.321",
+      "picks": 3
+    },
+    {
+      "home": "Castellon",
+      "away": "Sporting Gijon",
+      "league": "İS2",
+      "date": "25.10.2026 17:30",
+      "matchCode": "4492793",
+      "odds": 1.36,
+      "patternScore": 67.69,
+      "patternText": "172.382/254.676",
       "picks": 4
     },
     {
-      "home": "Toulouse FC",
-      "away": "ESTAC Troyes",
-      "league": "FR1",
-      "date": "25.10.2026 16:15",
-      "matchCode": "4476574",
-      "odds": 1.5,
-      "patternScore": 67.14,
-      "patternText": "245.992/366.397",
+      "home": "Sunderland",
+      "away": "Leeds United",
+      "league": "İNP",
+      "date": "25.10.2026 16:30",
+      "matchCode": "4481090",
+      "odds": 1.31,
+      "patternScore": 68.23,
+      "patternText": "255.239/374.112",
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "US Lecce",
+      "away": "Juventus",
+      "league": "İTA",
+      "at": "25.10.2026 15:42",
+      "count": 1
+    },
     {
       "home": "Sunderland",
       "away": "Leeds United",
@@ -399,13 +406,6 @@
       "league": "POR",
       "at": "25.10.2026 12:36",
       "count": 5
-    },
-    {
-      "home": "TSG Hoffenheim",
-      "away": "Bayer Leverkusen",
-      "league": "AL1",
-      "at": "25.10.2026 11:49",
-      "count": 17
     }
   ],
   "paywall": {
