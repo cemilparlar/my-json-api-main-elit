@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 15:24",
+  "updatedAt": "25.10.2026 15:41",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 692,
-      "lost": 364,
-      "total": 1056,
-      "rate": 65.5
+      "won": 672,
+      "lost": 360,
+      "total": 1032,
+      "rate": 65.1
     },
-    "totalAnalyses": 151251,
+    "totalAnalyses": 151267,
     "leagues": 536,
     "pro": {
       "won": 1103,
@@ -47,7 +47,7 @@
       "total": 166,
       "rate": 54.2
     },
-    "analyses24h": 2140,
+    "analyses24h": 2128,
     "analyses30d": 22709
   },
   "recentWins": [
@@ -78,19 +78,6 @@
       "pro": true
     },
     {
-      "home": "Midlands Wande",
-      "away": "Upington City",
-      "league": "GAF1",
-      "date": "23.10.2026 13:30",
-      "prediction": "Handicap (1:0) X",
-      "odds": 3.73,
-      "probability": 100.0,
-      "patternScore": 56.55,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 1",
-      "pro": true
-    },
-    {
       "home": "Santutxu U19",
       "away": "Athletic Club U",
       "league": "ISPU18",
@@ -115,6 +102,19 @@
       "firstHalf": "1 - 0",
       "finalScore": "2 - 0",
       "pro": true
+    },
+    {
+      "home": "Girona FC",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "date": "24.10.2026 16:30",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 2.91,
+      "probability": 100.0,
+      "patternScore": 57.88,
+      "firstHalf": "4 - 0",
+      "finalScore": "5 - 1",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -205,19 +205,19 @@
     },
     {
       "type": "won",
-      "home": "Midlands Wande",
-      "away": "Upington City",
-      "prediction": "Handicap (1:0) X",
-      "odds": 3.73,
-      "at": "23.10.2026 13:30"
-    },
-    {
-      "type": "won",
       "home": "Santutxu U19",
       "away": "Athletic Club U",
       "prediction": "Handicap (2:0) X",
       "odds": 3.5,
       "at": "24.10.2026 17:30"
+    },
+    {
+      "type": "won",
+      "home": "Lokomotiv Gorn",
+      "away": "Ofk Pirin",
+      "prediction": "Handicap (0:2) X",
+      "odds": 3.37,
+      "at": "23.10.2026 15:00"
     },
     {
       "type": "coupon",
@@ -251,6 +251,12 @@
     },
     {
       "type": "updated",
+      "at": "25.10.2026 15:41",
+      "home": "Sunderland",
+      "away": "Leeds United"
+    },
+    {
+      "type": "updated",
       "at": "25.10.2026 13:34",
       "home": "Celta de Vigo",
       "away": "Real Betis"
@@ -260,12 +266,6 @@
       "at": "25.10.2026 13:35",
       "home": "Algeciras CF",
       "away": "Real Madrid Castilla"
-    },
-    {
-      "type": "updated",
-      "at": "25.10.2026 11:35",
-      "home": "FC Thun",
-      "away": "FC Lugano"
     }
   ],
   "today": {
@@ -275,8 +275,8 @@
     "date": "25.10.2026 16:30",
     "matchCode": "4481090",
     "odds": 1.65,
-    "patternScore": 67.57,
-    "patternText": "236.214/349.589",
+    "patternScore": 67.56,
+    "patternText": "236.418/349.913",
     "picks": 4
   },
   "todayList": [
@@ -287,8 +287,8 @@
       "date": "25.10.2026 16:30",
       "matchCode": "4481090",
       "odds": 1.65,
-      "patternScore": 67.57,
-      "patternText": "236.214/349.589",
+      "patternScore": 67.56,
+      "patternText": "236.418/349.913",
       "picks": 4
     },
     {
@@ -298,8 +298,8 @@
       "date": "25.10.2026 17:00",
       "matchCode": "4475118",
       "odds": 1.58,
-      "patternScore": 66.38,
-      "patternText": "173.460/261.316",
+      "patternScore": 66.37,
+      "patternText": "173.628/261.596",
       "picks": 3
     },
     {
@@ -310,7 +310,7 @@
       "matchCode": "4574392",
       "odds": 1.54,
       "patternScore": 67.48,
-      "patternText": "126.121/186.900",
+      "patternText": "126.159/186.960",
       "picks": 2
     },
     {
@@ -320,8 +320,8 @@
       "date": "25.10.2026 16:15",
       "matchCode": "4534752",
       "odds": 1.5,
-      "patternScore": 67.45,
-      "patternText": "236.733/350.987",
+      "patternScore": 67.44,
+      "patternText": "236.937/351.311",
       "picks": 4
     },
     {
@@ -332,11 +332,53 @@
       "matchCode": "4476574",
       "odds": 1.5,
       "patternScore": 67.14,
-      "patternText": "245.728/365.989",
+      "patternText": "245.992/366.397",
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sunderland",
+      "away": "Leeds United",
+      "league": "İNP",
+      "at": "25.10.2026 15:41",
+      "count": 6
+    },
+    {
+      "home": "Verona",
+      "away": "AC Pisa",
+      "league": "İTB",
+      "at": "25.10.2026 15:40",
+      "count": 6
+    },
+    {
+      "home": "Angers SCO",
+      "away": "FC Lorient",
+      "league": "FR1",
+      "at": "25.10.2026 15:40",
+      "count": 6
+    },
+    {
+      "home": "Stade Rennais",
+      "away": "RC Strasbourg",
+      "league": "FR1",
+      "at": "25.10.2026 15:40",
+      "count": 8
+    },
+    {
+      "home": "Toulouse FC",
+      "away": "ESTAC Troyes",
+      "league": "FR1",
+      "at": "25.10.2026 15:40",
+      "count": 4
+    },
+    {
+      "home": "Marseille",
+      "away": "Le Havre AC",
+      "league": "FR1",
+      "at": "25.10.2026 15:40",
+      "count": 5
+    },
     {
       "home": "Estoril Praia",
       "away": "Moreirense FC",
@@ -364,48 +406,6 @@
       "league": "AL1",
       "at": "25.10.2026 11:49",
       "count": 17
-    },
-    {
-      "home": "CE Sabadell",
-      "away": "CD Tenerife",
-      "league": "İS2",
-      "at": "25.10.2026 11:36",
-      "count": 7
-    },
-    {
-      "home": "Athletic Bilbao",
-      "away": "Getafe CF",
-      "league": "İS1",
-      "at": "25.10.2026 11:36",
-      "count": 4
-    },
-    {
-      "home": "Antalyaspor",
-      "away": "Bodrum FK",
-      "league": "T1L",
-      "at": "25.10.2026 11:35",
-      "count": 3
-    },
-    {
-      "home": "FC Santos",
-      "away": "EC Bahia",
-      "league": "BR1",
-      "at": "24.10.2026 22:32",
-      "count": 4
-    },
-    {
-      "home": "Philadelphia Union",
-      "away": "New England Revolution",
-      "league": "ABD",
-      "at": "24.10.2026 22:32",
-      "count": 3
-    },
-    {
-      "home": "Orlando City SC",
-      "away": "New York City FC",
-      "league": "ABD",
-      "at": "24.10.2026 22:31",
-      "count": 5
     }
   ],
   "paywall": {
