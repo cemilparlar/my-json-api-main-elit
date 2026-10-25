@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 16:37",
+  "updatedAt": "25.10.2026 16:52",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 670,
-      "lost": 338,
-      "total": 1008,
-      "rate": 66.5
+      "won": 657,
+      "lost": 326,
+      "total": 983,
+      "rate": 66.8
     },
-    "totalAnalyses": 151272,
+    "totalAnalyses": 151294,
     "leagues": 536,
     "pro": {
       "won": 1162,
@@ -47,8 +47,8 @@
       "total": 174,
       "rate": 53.4
     },
-    "analyses24h": 1928,
-    "analyses30d": 22638
+    "analyses24h": 1914,
+    "analyses30d": 22654
   },
   "recentWins": [
     {
@@ -331,6 +331,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Sporting CP",
+      "away": "Academico FC Viseu",
+      "league": "POR",
+      "at": "25.10.2026 16:49",
+      "count": 9
+    },
+    {
+      "home": "Udinese",
+      "away": "AC Milan",
+      "league": "İTA",
+      "at": "25.10.2026 16:48",
+      "count": 6
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Levante UD",
+      "league": "İS1",
+      "at": "25.10.2026 16:47",
+      "count": 14
+    },
+    {
       "home": "US Lecce",
       "away": "Juventus",
       "league": "İTA",
@@ -377,27 +398,6 @@
       "away": "Le Havre AC",
       "league": "FR1",
       "at": "25.10.2026 15:40",
-      "count": 5
-    },
-    {
-      "home": "Estoril Praia",
-      "away": "Moreirense FC",
-      "league": "POR",
-      "at": "25.10.2026 14:45",
-      "count": 8
-    },
-    {
-      "home": "Celta de Vigo",
-      "away": "Real Betis",
-      "league": "İS1",
-      "at": "25.10.2026 13:34",
-      "count": 3
-    },
-    {
-      "home": "Sporting CP",
-      "away": "Academico FC Viseu",
-      "league": "POR",
-      "at": "25.10.2026 12:36",
       "count": 5
     }
   ],
