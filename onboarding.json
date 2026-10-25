@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 10:41",
+  "updatedAt": "25.10.2026 10:58",
   "config": {
     "pages": [
       "engine",
@@ -22,9 +22,9 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 966,
-      "lost": 526,
-      "total": 1492,
+      "won": 964,
+      "lost": 525,
+      "total": 1489,
       "rate": 64.7
     },
     "totalAnalyses": 151136,
@@ -47,7 +47,7 @@
       "total": 162,
       "rate": 54.3
     },
-    "analyses24h": 3340,
+    "analyses24h": 3337,
     "analyses30d": 22750
   },
   "recentWins": [
@@ -226,12 +226,6 @@
     },
     {
       "type": "kickoff",
-      "home": "FC Rostov",
-      "away": "Lokomotiv Moscow",
-      "at": "25.10.2026 10:45"
-    },
-    {
-      "type": "kickoff",
       "home": "Sanluqueno",
       "away": "UD Las Palmas B",
       "at": "25.10.2026 11:00"
@@ -243,8 +237,14 @@
       "at": "25.10.2026 11:00"
     },
     {
+      "type": "kickoff",
+      "home": "Atletico Centr",
+      "away": "Tamaraceite",
+      "at": "25.10.2026 11:00"
+    },
+    {
       "type": "analysis",
-      "count": 3340
+      "count": 3337
     }
   ],
   "today": {
