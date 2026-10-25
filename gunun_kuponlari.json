@@ -84,8 +84,8 @@
       "lost": 4
     }
   },
-  "updatedAt": "25.10.2026 17:46",
-  "updatedAtUtc": "2026-10-25T17:46:00Z",
+  "updatedAt": "25.10.2026 18:01",
+  "updatedAtUtc": "2026-10-25T18:01:00Z",
   "upcoming": [
     {
       "id": "20261024-19-2",
@@ -475,7 +475,7 @@
       "winChance": 12.0,
       "firstKickoff": "25.10.2026 18:00",
       "lastKickoff": "25.10.2026 19:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "multi_1",
       "group": "multi",
@@ -502,7 +502,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4486538",
@@ -2485,47 +2485,6 @@
           "mbs": 1,
           "firstHalf": "1 - 0",
           "finalScore": "1 - 2",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261023-19-3",
-      "createdAt": "23.10.2026 16:03",
-      "createdAtUtc": "2026-10-23T16:03:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.45,
-      "winChance": 67.2,
-      "firstKickoff": "24.10.2026 15:15",
-      "lastKickoff": "24.10.2026 15:15",
-      "status": "won",
-      "completedAt": "24.10.2026 17:54",
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.45,
-      "legs": [
-        {
-          "matchCode": "4534749",
-          "nesine": null,
-          "date": "24.10.2026 15:15",
-          "kickoffUtc": "2026-10-24T15:15:00Z",
-          "league": "İTB",
-          "home": "US Catanzaro",
-          "away": "Ascoli Calcio",
-          "league_tr": "İTB",
-          "home_tr": "Catanzaro",
-          "away_tr": "Ascoli Picchio",
-          "prediction": "Both Teams to Score - Yes",
-          "prediction_tr": "Karşılıklı Gol Var",
-          "odds": 1.45,
-          "probability": 83.33,
-          "patternScore": 67.2,
-          "patternText": "185.463/273.212",
-          "mbs": 1,
-          "firstHalf": "1 - 4",
-          "finalScore": "1 - 6",
           "status": "won"
         }
       ]
