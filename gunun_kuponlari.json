@@ -84,8 +84,8 @@
       "lost": 5
     }
   },
-  "updatedAt": "25.10.2026 18:57",
-  "updatedAtUtc": "2026-10-25T18:57:00Z",
+  "updatedAt": "25.10.2026 19:10",
+  "updatedAtUtc": "2026-10-25T19:10:00Z",
   "upcoming": [
     {
       "id": "20261024-20-2",
@@ -250,7 +250,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4441280",
@@ -272,7 +272,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4490435",
@@ -294,7 +294,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4563386",
@@ -313,6 +313,157 @@
           "probability": 70.83,
           "patternScore": 70.05,
           "patternText": "487.599/696.122",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "id": "20261025-22-1",
+      "createdAt": "25.10.2026 19:10",
+      "createdAtUtc": "2026-10-25T19:10:00Z",
+      "size": 6,
+      "mbs": 1,
+      "totalOdds": 1.64,
+      "winChance": 12.55,
+      "firstKickoff": "25.10.2026 20:00",
+      "lastKickoff": "25.10.2026 21:30",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "multi_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.64,
+      "legs": [
+        {
+          "matchCode": "4460204",
+          "nesine": null,
+          "date": "25.10.2026 20:00",
+          "kickoffUtc": "2026-10-25T20:00:00Z",
+          "league": "KAPL",
+          "home": "Hfx Wanderers",
+          "away": "Supra Du Quebec",
+          "league_tr": "KAPL",
+          "home_tr": "Hfx Wanderers",
+          "away_tr": "Supra Du Quebec",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.06,
+          "probability": 85.71,
+          "patternScore": 70.58,
+          "patternText": "155.111/219.753",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4460205",
+          "nesine": null,
+          "date": "25.10.2026 20:00",
+          "kickoffUtc": "2026-10-25T20:00:00Z",
+          "league": "KAPL",
+          "home": "Cavalry",
+          "away": "Vancouver Fc",
+          "league_tr": "KAPL",
+          "home_tr": "Cavalry",
+          "away_tr": "Vancouver Fc",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.06,
+          "probability": 79.55,
+          "patternScore": 70.4,
+          "patternText": "293.477/416.870",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4501895",
+          "nesine": null,
+          "date": "25.10.2026 20:30",
+          "kickoffUtc": "2026-10-25T20:30:00Z",
+          "league": "PER",
+          "home": "Sport Boys",
+          "away": "Fc Cajamarca",
+          "league_tr": "PER",
+          "home_tr": "Sport Boys",
+          "away_tr": "Fc Cajamarca",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 85.26,
+          "patternScore": 71.15,
+          "patternText": "188.886/265.490",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4504406",
+          "nesine": null,
+          "date": "25.10.2026 21:00",
+          "kickoffUtc": "2026-10-25T21:00:00Z",
+          "league": "ELSAL",
+          "home": "Club Deportivo Platense",
+          "away": "Club Deportivo Firpo",
+          "league_tr": "ELSAL",
+          "home_tr": "Platense",
+          "away_tr": "Firpo",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 71.58,
+          "patternScore": 70.7,
+          "patternText": "227.638/321.969",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4513974",
+          "nesine": null,
+          "date": "25.10.2026 21:05",
+          "kickoffUtc": "2026-10-25T21:05:00Z",
+          "league": "KOL",
+          "home": "Alianza Petroleum",
+          "away": "Inter Bogota",
+          "league_tr": "KOL",
+          "home_tr": "Alianza Petrol",
+          "away_tr": "Inter Bogota",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.15,
+          "probability": 73.52,
+          "patternScore": 70.38,
+          "patternText": "223.086/316.952",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4563402",
+          "nesine": null,
+          "date": "25.10.2026 21:30",
+          "kickoffUtc": "2026-10-25T21:30:00Z",
+          "league": "EKV1",
+          "home": "Sociedad Deportiva Aucas",
+          "away": "Barcelona SC Guayaquil",
+          "league_tr": "EKV1",
+          "home_tr": "Aucas",
+          "away_tr": "Barcelona Gua",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.07,
+          "probability": 82.63,
+          "patternScore": 71.33,
+          "patternText": "111.575/156.428",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
@@ -2167,7 +2318,7 @@
       "kind": "surprise_3",
       "group": "surprise",
       "formula": "3",
-      "effectiveOdds": 3.94,
+      "effectiveOdds": 2.56,
       "legs": [
         {
           "matchCode": "4445801",
@@ -2233,7 +2384,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live"
+          "status": "void"
         }
       ]
     },

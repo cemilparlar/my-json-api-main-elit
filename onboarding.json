@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 18:57",
+  "updatedAt": "25.10.2026 19:11",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 736,
-      "lost": 374,
-      "total": 1110,
-      "rate": 66.3
+      "won": 721,
+      "lost": 361,
+      "total": 1082,
+      "rate": 66.6
     },
     "totalAnalyses": 151313,
     "leagues": 536,
@@ -47,8 +47,8 @@
       "total": 181,
       "rate": 52.5
     },
-    "analyses24h": 1750,
-    "analyses30d": 22490
+    "analyses24h": 1710,
+    "analyses30d": 22458
   },
   "recentWins": [
     {
@@ -215,6 +215,12 @@
     {
       "type": "coupon",
       "size": 6,
+      "odds": 1.64,
+      "at": "25.10.2026 19:10"
+    },
+    {
+      "type": "coupon",
+      "size": 6,
       "odds": 1.74,
       "at": "25.10.2026 17:05"
     },
@@ -223,12 +229,6 @@
       "size": 6,
       "odds": 1.88,
       "at": "25.10.2026 15:24"
-    },
-    {
-      "type": "coupon",
-      "size": 6,
-      "odds": 1.78,
-      "at": "25.10.2026 13:08"
     },
     {
       "type": "updated",
@@ -262,28 +262,17 @@
     }
   ],
   "today": {
-    "home": "Udinese",
-    "away": "AC Milan",
-    "league": "İTA",
-    "date": "25.10.2026 19:45",
-    "matchCode": "4475121",
-    "odds": 2.09,
-    "patternScore": 66.77,
-    "patternText": "169.518/253.889",
-    "picks": 6
+    "home": "Deportivo La Guaira",
+    "away": "Metropolitanos FC",
+    "league": "VEN",
+    "date": "25.10.2026 23:30",
+    "matchCode": "4576811",
+    "odds": 1.58,
+    "patternScore": 67.74,
+    "patternText": "96.463/142.393",
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Udinese",
-      "away": "AC Milan",
-      "league": "İTA",
-      "date": "25.10.2026 19:45",
-      "matchCode": "4475121",
-      "odds": 2.09,
-      "patternScore": 66.77,
-      "patternText": "169.518/253.889",
-      "picks": 6
-    },
     {
       "home": "Deportivo La Guaira",
       "away": "Metropolitanos FC",
@@ -327,6 +316,17 @@
       "patternScore": 68.58,
       "patternText": "166.623/242.952",
       "picks": 2
+    },
+    {
+      "home": "Ca Mitre",
+      "away": "Godoy Cruz Antonio Tomba",
+      "league": "ARJPBN",
+      "date": "25.10.2026 20:00",
+      "matchCode": "4441269",
+      "odds": 1.27,
+      "patternScore": 68.79,
+      "patternText": "247.164/359.310",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
