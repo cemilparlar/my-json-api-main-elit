@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 11:43",
+  "updatedAt": "25.10.2026 11:58",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 861,
-      "lost": 480,
-      "total": 1341,
-      "rate": 64.2
+      "won": 989,
+      "lost": 514,
+      "total": 1503,
+      "rate": 65.8
     },
-    "totalAnalyses": 151189,
+    "totalAnalyses": 151195,
     "leagues": 536,
     "pro": {
-      "won": 927,
-      "lost": 424,
-      "total": 1351,
-      "rate": 68.6
+      "won": 1015,
+      "lost": 443,
+      "total": 1458,
+      "rate": 69.6
     },
     "insights": {
-      "won": 1608,
-      "lost": 736,
-      "total": 2344,
-      "rate": 68.6
+      "won": 1725,
+      "lost": 766,
+      "total": 2491,
+      "rate": 69.2
     },
     "coupons": {
       "won": 88,
-      "lost": 74,
-      "total": 162,
-      "rate": 54.3
+      "lost": 76,
+      "total": 164,
+      "rate": 53.7
     },
-    "analyses24h": 3208,
-    "analyses30d": 22797
+    "analyses24h": 3204,
+    "analyses30d": 22796
   },
   "recentWins": [
     {
@@ -244,21 +244,21 @@
     },
     {
       "type": "updated",
-      "at": "25.10.2026 11:36",
-      "home": "Athletic Bilbao",
-      "away": "Getafe CF"
+      "at": "25.10.2026 11:49",
+      "home": "TSG Hoffenheim",
+      "away": "Bayer Leverkusen"
+    },
+    {
+      "type": "updated",
+      "at": "25.10.2026 11:57",
+      "home": "Celta de Vigo",
+      "away": "Real Betis"
     },
     {
       "type": "updated",
       "at": "25.10.2026 11:35",
       "home": "FC Thun",
       "away": "FC Lugano"
-    },
-    {
-      "type": "updated",
-      "at": "25.10.2026 11:35",
-      "home": "Nykobing",
-      "away": "Thisted FC"
     }
   ],
   "today": {
@@ -331,6 +331,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Celta de Vigo",
+      "away": "Real Betis",
+      "league": "İS1",
+      "at": "25.10.2026 11:57",
+      "count": 7
+    },
+    {
+      "home": "TSG Hoffenheim",
+      "away": "Bayer Leverkusen",
+      "league": "AL1",
+      "at": "25.10.2026 11:49",
+      "count": 17
+    },
+    {
       "home": "CE Sabadell",
       "away": "CD Tenerife",
       "league": "İS2",
@@ -385,20 +399,6 @@
       "league": "ABD",
       "at": "24.10.2026 20:34",
       "count": 10
-    },
-    {
-      "home": "Salt Lake",
-      "away": "St. Louis City SC",
-      "league": "ABD",
-      "at": "24.10.2026 20:34",
-      "count": 7
-    },
-    {
-      "home": "Manchester United",
-      "away": "AFC Bournemouth",
-      "league": "İNP",
-      "at": "24.10.2026 19:08",
-      "count": 7
     }
   ],
   "paywall": {
