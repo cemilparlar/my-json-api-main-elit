@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 14:29",
+  "updatedAt": "25.10.2026 14:43",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 708,
-      "lost": 360,
-      "total": 1068,
-      "rate": 66.3
+      "won": 686,
+      "lost": 345,
+      "total": 1031,
+      "rate": 66.5
     },
     "totalAnalyses": 151228,
     "leagues": 536,
     "pro": {
-      "won": 1070,
+      "won": 1074,
       "lost": 463,
-      "total": 1533,
-      "rate": 69.8
+      "total": 1537,
+      "rate": 69.9
     },
     "insights": {
-      "won": 1829,
-      "lost": 806,
-      "total": 2635,
-      "rate": 69.4
+      "won": 1842,
+      "lost": 807,
+      "total": 2649,
+      "rate": 69.5
     },
     "coupons": {
       "won": 88,
@@ -47,10 +47,23 @@
       "total": 164,
       "rate": 53.7
     },
-    "analyses24h": 2213,
+    "analyses24h": 2210,
     "analyses30d": 22712
   },
   "recentWins": [
+    {
+      "home": "Havelse",
+      "away": "FC Saarbrucken",
+      "league": "AL3",
+      "date": "25.10.2026 12:30",
+      "prediction": "HT/FT X/1",
+      "odds": 10.05,
+      "probability": 100.0,
+      "patternScore": 57.06,
+      "firstHalf": "1 - 1",
+      "finalScore": "3 - 2",
+      "pro": false
+    },
     {
       "home": "Chapecoense AF",
       "away": "Fluminense FC",
@@ -102,19 +115,6 @@
       "firstHalf": "1 - 0",
       "finalScore": "2 - 0",
       "pro": true
-    },
-    {
-      "home": "Girona FC",
-      "away": "Celta Vigo B",
-      "league": "İS2",
-      "date": "24.10.2026 16:30",
-      "prediction": "Handicap (0:2) 1",
-      "odds": 2.91,
-      "probability": 100.0,
-      "patternScore": 57.88,
-      "firstHalf": "4 - 0",
-      "finalScore": "5 - 1",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -182,6 +182,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Havelse",
+      "away": "FC Saarbrucken",
+      "prediction": "HT/FT X/1",
+      "odds": 10.05,
+      "at": "25.10.2026 12:30"
+    },
+    {
+      "type": "won",
       "home": "Chapecoense AF",
       "away": "Fluminense FC",
       "prediction": "Match Result 1",
@@ -203,14 +211,6 @@
       "prediction": "Handicap (2:0) X",
       "odds": 3.5,
       "at": "24.10.2026 17:30"
-    },
-    {
-      "type": "won",
-      "home": "Lokomotiv Gorn",
-      "away": "Ofk Pirin",
-      "prediction": "Handicap (0:2) X",
-      "odds": 3.37,
-      "at": "23.10.2026 15:00"
     },
     {
       "type": "coupon",
@@ -262,28 +262,17 @@
     }
   ],
   "today": {
-    "home": "OFK Beograd",
-    "away": "FK Crvena zvezda",
-    "league": "SIRP",
-    "date": "25.10.2026 15:00",
-    "matchCode": "4478086",
-    "odds": 1.71,
-    "patternScore": 65.38,
-    "patternText": "307.846/470.863",
-    "picks": 7
+    "home": "Cadiz CF",
+    "away": "AD Ceuta",
+    "league": "İS2",
+    "date": "25.10.2026 15:15",
+    "matchCode": "4492792",
+    "odds": 1.68,
+    "patternScore": 67.61,
+    "patternText": "248.289/367.247",
+    "picks": 8
   },
   "todayList": [
-    {
-      "home": "OFK Beograd",
-      "away": "FK Crvena zvezda",
-      "league": "SIRP",
-      "date": "25.10.2026 15:00",
-      "matchCode": "4478086",
-      "odds": 1.71,
-      "patternScore": 65.38,
-      "patternText": "307.846/470.863",
-      "picks": 7
-    },
     {
       "home": "Cadiz CF",
       "away": "AD Ceuta",
@@ -292,7 +281,7 @@
       "matchCode": "4492792",
       "odds": 1.68,
       "patternScore": 67.61,
-      "patternText": "248.207/367.137",
+      "patternText": "248.289/367.247",
       "picks": 8
     },
     {
@@ -302,8 +291,8 @@
       "date": "25.10.2026 16:30",
       "matchCode": "4481090",
       "odds": 1.65,
-      "patternScore": 67.56,
-      "patternText": "236.078/349.415",
+      "patternScore": 67.57,
+      "patternText": "236.164/349.533",
       "picks": 4
     },
     {
@@ -313,8 +302,8 @@
       "date": "25.10.2026 17:00",
       "matchCode": "4475118",
       "odds": 1.58,
-      "patternScore": 66.37,
-      "patternText": "173.280/261.086",
+      "patternScore": 66.38,
+      "patternText": "173.426/261.280",
       "picks": 3
     },
     {
@@ -325,8 +314,19 @@
       "matchCode": "4534752",
       "odds": 1.5,
       "patternScore": 67.44,
-      "patternText": "236.597/350.813",
+      "patternText": "236.683/350.931",
       "picks": 4
+    },
+    {
+      "home": "Toulouse FC",
+      "away": "ESTAC Troyes",
+      "league": "FR1",
+      "date": "25.10.2026 16:15",
+      "matchCode": "4476574",
+      "odds": 1.5,
+      "patternScore": 67.14,
+      "patternText": "245.678/365.933",
+      "picks": 5
     }
   ],
   "recentAnalyzed": [

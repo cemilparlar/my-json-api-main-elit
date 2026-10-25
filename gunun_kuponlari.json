@@ -84,8 +84,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "25.10.2026 14:29",
-  "updatedAtUtc": "2026-10-25T14:29:00Z",
+  "updatedAt": "25.10.2026 14:43",
+  "updatedAtUtc": "2026-10-25T14:43:00Z",
   "upcoming": [
     {
       "id": "20261024-18-1",
@@ -377,9 +377,9 @@
           "patternScore": 70.05,
           "patternText": "329.582/470.506",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 1",
+          "status": "won"
         },
         {
           "matchCode": "4523489",
@@ -727,7 +727,7 @@
       "winChance": 12.1,
       "firstKickoff": "25.10.2026 14:30",
       "lastKickoff": "25.10.2026 15:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "multi_1",
       "group": "multi",
@@ -754,7 +754,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4484662",
@@ -776,7 +776,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4537796",
@@ -798,7 +798,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4511485",
