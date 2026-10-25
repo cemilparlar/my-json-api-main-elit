@@ -84,8 +84,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "25.10.2026 13:50",
-  "updatedAtUtc": "2026-10-25T13:50:00Z",
+  "updatedAt": "25.10.2026 14:03",
+  "updatedAtUtc": "2026-10-25T14:03:00Z",
   "upcoming": [
     {
       "id": "20261024-18-1",
@@ -253,7 +253,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -445,7 +445,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4427049",
@@ -467,7 +467,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -522,7 +522,7 @@
       "winChance": 72.53,
       "firstKickoff": "25.10.2026 14:00",
       "lastKickoff": "25.10.2026 14:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_a",
       "group": "safe",
@@ -549,7 +549,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -563,7 +563,7 @@
       "winChance": 75.75,
       "firstKickoff": "25.10.2026 14:00",
       "lastKickoff": "25.10.2026 14:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_b",
       "group": "safe",
@@ -590,7 +590,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -604,7 +604,7 @@
       "winChance": 72.47,
       "firstKickoff": "25.10.2026 14:00",
       "lastKickoff": "25.10.2026 14:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_b",
       "group": "safe",
@@ -631,7 +631,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -645,7 +645,7 @@
       "winChance": 72.25,
       "firstKickoff": "25.10.2026 14:00",
       "lastKickoff": "25.10.2026 14:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_b",
       "group": "safe",
@@ -672,7 +672,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -686,7 +686,7 @@
       "winChance": 70.97,
       "firstKickoff": "25.10.2026 14:00",
       "lastKickoff": "25.10.2026 14:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_b",
       "group": "safe",
@@ -713,7 +713,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -2862,217 +2862,6 @@
           "firstHalf": "0 - 0",
           "finalScore": "2 - 0",
           "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261023-15-1",
-      "createdAt": "23.10.2026 12:14",
-      "createdAtUtc": "2026-10-23T12:14:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.31,
-      "winChance": 72.82,
-      "firstKickoff": "24.10.2026 12:00",
-      "lastKickoff": "24.10.2026 12:00",
-      "status": "won",
-      "completedAt": "24.10.2026 13:58",
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.31,
-      "legs": [
-        {
-          "matchCode": "4476893",
-          "nesine": null,
-          "date": "24.10.2026 12:00",
-          "kickoffUtc": "2026-10-24T12:00:00Z",
-          "league": "FR2",
-          "home": "Dijon FCO",
-          "away": "Rodez AF",
-          "league_tr": "FR2",
-          "home_tr": "Dijon",
-          "away_tr": "Rodez Aveyron",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.31,
-          "probability": 83.33,
-          "patternScore": 72.82,
-          "patternText": "210.186/311.266",
-          "mbs": 1,
-          "firstHalf": "1 - 1",
-          "finalScore": "1 - 2",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261023-15-3",
-      "createdAt": "23.10.2026 12:14",
-      "createdAtUtc": "2026-10-23T12:14:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 3.63,
-      "winChance": 44.65,
-      "firstKickoff": "23.10.2026 21:00",
-      "lastKickoff": "24.10.2026 11:45",
-      "status": "won",
-      "completedAt": "24.10.2026 13:58",
-      "kind": "surprise_3",
-      "group": "surprise",
-      "formula": "3",
-      "effectiveOdds": 3.63,
-      "legs": [
-        {
-          "matchCode": "4475913",
-          "nesine": null,
-          "date": "23.10.2026 21:00",
-          "kickoffUtc": "2026-10-23T21:00:00Z",
-          "league": "ARJ",
-          "home": "Gimnasia La Plata",
-          "away": "CA Sarmiento",
-          "league_tr": "ARJ",
-          "home_tr": "Gimnasia La Pl",
-          "away_tr": "Sarmiento",
-          "prediction": "Both Teams to Score - No",
-          "prediction_tr": "Karşılıklı Gol Yok",
-          "odds": 1.58,
-          "probability": 75.0,
-          "patternScore": 80.64,
-          "patternText": "273.507/427.062",
-          "mbs": 2,
-          "firstHalf": "1 - 0",
-          "finalScore": "2 - 0",
-          "status": "won"
-        },
-        {
-          "matchCode": "4481082",
-          "nesine": null,
-          "date": "24.10.2026 11:30",
-          "kickoffUtc": "2026-10-24T11:30:00Z",
-          "league": "İNP",
-          "home": "Aston Villa",
-          "away": "Manchester City",
-          "league_tr": "İNP",
-          "home_tr": "Aston Villa",
-          "away_tr": "Manchester City",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.53,
-          "probability": 100.0,
-          "patternScore": 74.11,
-          "patternText": "264.028/446.450",
-          "mbs": 1,
-          "firstHalf": "1 - 0",
-          "finalScore": "2 - 1",
-          "status": "won"
-        },
-        {
-          "matchCode": "4550677",
-          "nesine": null,
-          "date": "24.10.2026 11:45",
-          "kickoffUtc": "2026-10-24T11:45:00Z",
-          "league": "İNKPL",
-          "home": "Tottenham Hots",
-          "away": "Arsenal Women",
-          "league_tr": "İNKPL",
-          "home_tr": "Tottenham Hots",
-          "away_tr": "Arsenal (K)",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.5,
-          "probability": 71.43,
-          "patternScore": 74.72,
-          "patternText": "283.356/411.652",
-          "mbs": 3,
-          "firstHalf": "1 - 1",
-          "finalScore": "1 - 2",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261023-19-6",
-      "createdAt": "23.10.2026 16:03",
-      "createdAtUtc": "2026-10-23T16:03:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 3.84,
-      "winChance": 47.94,
-      "firstKickoff": "24.10.2026 08:00",
-      "lastKickoff": "24.10.2026 16:00",
-      "status": "lost",
-      "completedAt": "24.10.2026 13:58",
-      "kind": "surprise_3",
-      "group": "surprise",
-      "formula": "3",
-      "effectiveOdds": 3.84,
-      "legs": [
-        {
-          "matchCode": "4513311",
-          "nesine": null,
-          "date": "24.10.2026 08:00",
-          "kickoffUtc": "2026-10-24T08:00:00Z",
-          "league": "ROM2",
-          "home": "Dinamo Bucharest",
-          "away": "Gloria Popesti",
-          "league_tr": "ROM2",
-          "home_tr": "Cs Dinamo Bucu",
-          "away_tr": "Gloria Popesti",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.57,
-          "probability": 76.92,
-          "patternScore": 78.47,
-          "patternText": "264.972/385.258",
-          "mbs": 3,
-          "firstHalf": "1 - 0",
-          "finalScore": "1 - 2",
-          "status": "won"
-        },
-        {
-          "matchCode": "4538565",
-          "nesine": null,
-          "date": "24.10.2026 11:30",
-          "kickoffUtc": "2026-10-24T11:30:00Z",
-          "league": "SİNP",
-          "home": "Young Lions FC",
-          "away": "Balestier Khalsa",
-          "league_tr": "SİNP",
-          "home_tr": "Young Lions",
-          "away_tr": "Balestier Khals",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.63,
-          "probability": 80.0,
-          "patternScore": 77.86,
-          "patternText": "211.491/310.835",
-          "mbs": 2,
-          "firstHalf": "1 - 2",
-          "finalScore": "1 - 2",
-          "status": "lost"
-        },
-        {
-          "matchCode": "4505299",
-          "nesine": null,
-          "date": "24.10.2026 16:00",
-          "kickoffUtc": "2026-10-24T16:00:00Z",
-          "league": "MAC3",
-          "home": "Budaors",
-          "away": "Pecs",
-          "league_tr": "MAC3",
-          "home_tr": "Budaors",
-          "away_tr": "Pecs",
-          "prediction": "1st Half Under 1.5",
-          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
-          "odds": 1.5,
-          "probability": 76.47,
-          "patternScore": 78.47,
-          "patternText": "281.633/416.913",
-          "mbs": 3,
-          "firstHalf": "0 - 4",
-          "finalScore": "0 - 6",
-          "status": "lost"
         }
       ]
     }
