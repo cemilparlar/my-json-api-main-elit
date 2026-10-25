@@ -84,8 +84,8 @@
       "lost": 3
     }
   },
-  "updatedAt": "25.10.2026 16:23",
-  "updatedAtUtc": "2026-10-25T16:23:00Z",
+  "updatedAt": "25.10.2026 16:37",
+  "updatedAtUtc": "2026-10-25T16:37:00Z",
   "upcoming": [
     {
       "id": "20261025-16-1",
@@ -675,7 +675,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -689,7 +689,7 @@
       "winChance": 72.75,
       "firstKickoff": "25.10.2026 16:30",
       "lastKickoff": "25.10.2026 16:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_a",
       "group": "safe",
@@ -716,7 +716,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     }
@@ -2808,129 +2808,6 @@
           "firstHalf": "0 - 0",
           "finalScore": "0 - 2",
           "status": "lost"
-        }
-      ]
-    },
-    {
-      "id": "20261023-18-4",
-      "createdAt": "23.10.2026 15:01",
-      "createdAtUtc": "2026-10-23T15:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.31,
-      "winChance": 75.86,
-      "firstKickoff": "24.10.2026 14:15",
-      "lastKickoff": "24.10.2026 14:15",
-      "status": "won",
-      "completedAt": "24.10.2026 16:23",
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.31,
-      "legs": [
-        {
-          "matchCode": "4492797",
-          "nesine": null,
-          "date": "24.10.2026 14:15",
-          "kickoffUtc": "2026-10-24T14:15:00Z",
-          "league": "İS2",
-          "home": "CD Leganes",
-          "away": "RCD Mallorca",
-          "league_tr": "İS2",
-          "home_tr": "Leganes",
-          "away_tr": "Mallorca",
-          "prediction": "1st Half Over 0.5",
-          "prediction_tr": "1. Yarı 0,5 Alt/Üst Üst",
-          "odds": 1.31,
-          "probability": 88.89,
-          "patternScore": 75.86,
-          "patternText": "231.229/342.565",
-          "mbs": 1,
-          "firstHalf": "0 - 1",
-          "finalScore": "1 - 1",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261023-18-6",
-      "createdAt": "23.10.2026 15:01",
-      "createdAtUtc": "2026-10-23T15:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.34,
-      "winChance": 69.8,
-      "firstKickoff": "24.10.2026 14:15",
-      "lastKickoff": "24.10.2026 14:15",
-      "status": "won",
-      "completedAt": "24.10.2026 16:23",
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.34,
-      "legs": [
-        {
-          "matchCode": "4492354",
-          "nesine": null,
-          "date": "24.10.2026 14:15",
-          "kickoffUtc": "2026-10-24T14:15:00Z",
-          "league": "İS1",
-          "home": "Racing Santander",
-          "away": "RCD Espanyol",
-          "league_tr": "İS1",
-          "home_tr": "Santander",
-          "away_tr": "Espanyol",
-          "prediction": "Under 3.5 Goals",
-          "prediction_tr": "3,5 Alt/Üst Alt",
-          "odds": 1.34,
-          "probability": 70.59,
-          "patternScore": 69.8,
-          "patternText": "315.579/461.932",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "2 - 1",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261023-18-7",
-      "createdAt": "23.10.2026 15:01",
-      "createdAtUtc": "2026-10-23T15:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.53,
-      "winChance": 67.33,
-      "firstKickoff": "24.10.2026 14:15",
-      "lastKickoff": "24.10.2026 14:15",
-      "status": "won",
-      "completedAt": "24.10.2026 16:23",
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.53,
-      "legs": [
-        {
-          "matchCode": "4492797",
-          "nesine": null,
-          "date": "24.10.2026 14:15",
-          "kickoffUtc": "2026-10-24T14:15:00Z",
-          "league": "İS2",
-          "home": "CD Leganes",
-          "away": "RCD Mallorca",
-          "league_tr": "İS2",
-          "home_tr": "Leganes",
-          "away_tr": "Mallorca",
-          "prediction": "1st Half Double Chance 12",
-          "prediction_tr": "1. Yarı Çifte Şans 1-2",
-          "odds": 1.53,
-          "probability": 77.78,
-          "patternScore": 67.33,
-          "patternText": "296.416/440.246",
-          "mbs": 1,
-          "firstHalf": "0 - 1",
-          "finalScore": "1 - 1",
-          "status": "won"
         }
       ]
     }
