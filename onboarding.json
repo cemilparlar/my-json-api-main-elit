@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 19:52",
+  "updatedAt": "25.10.2026 20:05",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 697,
-      "lost": 351,
-      "total": 1048,
-      "rate": 66.5
+      "won": 698,
+      "lost": 353,
+      "total": 1051,
+      "rate": 66.4
     },
-    "totalAnalyses": 151313,
+    "totalAnalyses": 151325,
     "leagues": 536,
     "pro": {
       "won": 1228,
-      "lost": 531,
-      "total": 1759,
+      "lost": 532,
+      "total": 1760,
       "rate": 69.8
     },
     "insights": {
-      "won": 2076,
-      "lost": 921,
-      "total": 2997,
-      "rate": 69.3
+      "won": 2079,
+      "lost": 924,
+      "total": 3003,
+      "rate": 69.2
     },
     "coupons": {
       "won": 95,
@@ -48,7 +48,7 @@
       "rate": 52.5
     },
     "analyses24h": 1665,
-    "analyses30d": 22454
+    "analyses30d": 22455
   },
   "recentWins": [
     {
@@ -331,6 +331,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Paris Saint-Germain",
+      "away": "Olympique Lyonnais",
+      "league": "FR1",
+      "at": "25.10.2026 19:55",
+      "count": 10
+    },
+    {
       "home": "Sporting CP",
       "away": "Academico FC Viseu",
       "league": "POR",
@@ -392,13 +399,6 @@
       "league": "FR1",
       "at": "25.10.2026 15:40",
       "count": 4
-    },
-    {
-      "home": "Marseille",
-      "away": "Le Havre AC",
-      "league": "FR1",
-      "at": "25.10.2026 15:40",
-      "count": 5
     }
   ],
   "paywall": {
