@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 19:24",
+  "updatedAt": "25.10.2026 19:38",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 721,
-      "lost": 361,
-      "total": 1082,
-      "rate": 66.6
+      "won": 697,
+      "lost": 351,
+      "total": 1048,
+      "rate": 66.5
     },
     "totalAnalyses": 151313,
     "leagues": 536,
@@ -47,7 +47,7 @@
       "total": 181,
       "rate": 52.5
     },
-    "analyses24h": 1710,
+    "analyses24h": 1665,
     "analyses30d": 22454
   },
   "recentWins": [
@@ -238,12 +238,6 @@
     },
     {
       "type": "updated",
-      "at": "25.10.2026 13:35",
-      "home": "Algeciras CF",
-      "away": "Real Madrid Castilla"
-    },
-    {
-      "type": "updated",
       "at": "25.10.2026 15:40",
       "home": "Verona",
       "away": "AC Pisa"
@@ -259,6 +253,12 @@
       "at": "25.10.2026 15:40",
       "home": "Stade Rennais",
       "away": "RC Strasbourg"
+    },
+    {
+      "type": "updated",
+      "at": "25.10.2026 15:40",
+      "home": "Toulouse FC",
+      "away": "ESTAC Troyes"
     }
   ],
   "today": {
@@ -318,15 +318,15 @@
       "picks": 2
     },
     {
-      "home": "Ca Mitre",
-      "away": "Godoy Cruz Antonio Tomba",
-      "league": "ARJPBN",
-      "date": "25.10.2026 20:00",
-      "matchCode": "4441269",
-      "odds": 1.27,
-      "patternScore": 68.79,
-      "patternText": "247.164/359.310",
-      "picks": 1
+      "home": "Fuerte San Fra",
+      "away": "Balboa",
+      "league": "ELSAL",
+      "date": "25.10.2026 21:00",
+      "matchCode": "4504402",
+      "odds": 1.24,
+      "patternScore": 68.13,
+      "patternText": "164.340/241.198",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
