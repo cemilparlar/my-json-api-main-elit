@@ -68,8 +68,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "25.10.2026 02:40",
-  "updatedAtUtc": "2026-10-25T02:40:00Z",
+  "updatedAt": "25.10.2026 02:53",
+  "updatedAtUtc": "2026-10-25T02:53:00Z",
   "upcoming": [
     {
       "id": "20261024-18-1",
@@ -2557,47 +2557,6 @@
           "firstHalf": "1 - 0",
           "finalScore": "3 - 1",
           "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261023-14-1",
-      "createdAt": "23.10.2026 11:14",
-      "createdAtUtc": "2026-10-23T11:14:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.34,
-      "winChance": 72.25,
-      "firstKickoff": "23.10.2026 23:00",
-      "lastKickoff": "23.10.2026 23:00",
-      "status": "lost",
-      "completedAt": "24.10.2026 02:48",
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.34,
-      "legs": [
-        {
-          "matchCode": "4423344",
-          "nesine": null,
-          "date": "23.10.2026 23:00",
-          "kickoffUtc": "2026-10-23T23:00:00Z",
-          "league": "BR1",
-          "home": "Cruzeiro EC",
-          "away": "Remo",
-          "league_tr": "BR1",
-          "home_tr": "Cruzeiro",
-          "away_tr": "Remo",
-          "prediction": "Over 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Üst",
-          "odds": 1.34,
-          "probability": 85.71,
-          "patternScore": 72.25,
-          "patternText": "176.110/264.250",
-          "mbs": 1,
-          "firstHalf": "1 - 0",
-          "finalScore": "1 - 0",
-          "status": "lost"
         }
       ]
     }
