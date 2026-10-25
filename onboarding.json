@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 20:48",
+  "updatedAt": "25.10.2026 21:01",
   "config": {
     "pages": [
       "engine",
@@ -22,9 +22,9 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 791,
-      "lost": 413,
-      "total": 1204,
+      "won": 788,
+      "lost": 411,
+      "total": 1199,
       "rate": 65.7
     },
     "totalAnalyses": 151325,
@@ -47,8 +47,8 @@
       "total": 184,
       "rate": 52.2
     },
-    "analyses24h": 1650,
-    "analyses30d": 22453
+    "analyses24h": 1645,
+    "analyses30d": 22450
   },
   "recentWins": [
     {
@@ -214,6 +214,12 @@
     },
     {
       "type": "coupon",
+      "size": 5,
+      "odds": 1.55,
+      "at": "25.10.2026 21:01"
+    },
+    {
+      "type": "coupon",
       "size": 6,
       "odds": 1.64,
       "at": "25.10.2026 19:10"
@@ -223,12 +229,6 @@
       "size": 6,
       "odds": 1.74,
       "at": "25.10.2026 17:05"
-    },
-    {
-      "type": "coupon",
-      "size": 6,
-      "odds": 1.88,
-      "at": "25.10.2026 15:24"
     },
     {
       "type": "updated",
@@ -245,12 +245,6 @@
     {
       "type": "updated",
       "at": "25.10.2026 15:40",
-      "home": "Angers SCO",
-      "away": "FC Lorient"
-    },
-    {
-      "type": "updated",
-      "at": "25.10.2026 15:40",
       "home": "Stade Rennais",
       "away": "RC Strasbourg"
     },
@@ -259,6 +253,12 @@
       "at": "25.10.2026 15:40",
       "home": "Toulouse FC",
       "away": "ESTAC Troyes"
+    },
+    {
+      "type": "updated",
+      "at": "25.10.2026 15:40",
+      "home": "Marseille",
+      "away": "Le Havre AC"
     }
   ],
   "today": {
@@ -268,8 +268,8 @@
     "date": "25.10.2026 23:30",
     "matchCode": "4576811",
     "odds": 1.58,
-    "patternScore": 67.74,
-    "patternText": "96.463/142.393",
+    "patternScore": 67.75,
+    "patternText": "96.531/142.487",
     "picks": 4
   },
   "todayList": [
@@ -280,8 +280,8 @@
       "date": "25.10.2026 23:30",
       "matchCode": "4576811",
       "odds": 1.58,
-      "patternScore": 67.74,
-      "patternText": "96.463/142.393",
+      "patternScore": 67.75,
+      "patternText": "96.531/142.487",
       "picks": 4
     },
     {
@@ -291,20 +291,9 @@
       "date": "26.10.2026 00:30",
       "matchCode": "4475904",
       "odds": 1.33,
-      "patternScore": 67.41,
-      "patternText": "191.189/283.642",
+      "patternScore": 67.4,
+      "patternText": "191.327/283.870",
       "picks": 6
-    },
-    {
-      "home": "Sociedad Deportiva Aucas",
-      "away": "Barcelona SC Guayaquil",
-      "league": "EKV1",
-      "date": "25.10.2026 21:30",
-      "matchCode": "4563402",
-      "odds": 1.27,
-      "patternScore": 68.58,
-      "patternText": "166.639/242.976",
-      "picks": 2
     },
     {
       "home": "AD San Carlos",
@@ -313,8 +302,8 @@
       "date": "25.10.2026 22:00",
       "matchCode": "4487097",
       "odds": 1.22,
-      "patternScore": 68.16,
-      "patternText": "169.306/248.393",
+      "patternScore": 68.15,
+      "patternText": "169.418/248.579",
       "picks": 2
     },
     {
@@ -324,9 +313,20 @@
       "date": "25.10.2026 23:00",
       "matchCode": "4503507",
       "odds": 1.21,
-      "patternScore": 69.3,
-      "patternText": "175.029/252.565",
+      "patternScore": 69.29,
+      "patternText": "175.157/252.781",
       "picks": 2
+    },
+    {
+      "home": "FC Queretaro",
+      "away": "Cruz Azul",
+      "league": "MEK",
+      "date": "26.10.2026 01:00",
+      "matchCode": "4476475",
+      "odds": 1.14,
+      "patternScore": 69.04,
+      "patternText": "172.999/250.581",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
