@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 13:22",
+  "updatedAt": "25.10.2026 13:37",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 836,
-      "lost": 444,
-      "total": 1280,
-      "rate": 65.3
+      "won": 818,
+      "lost": 415,
+      "total": 1233,
+      "rate": 66.3
     },
-    "totalAnalyses": 151223,
+    "totalAnalyses": 151228,
     "leagues": 536,
     "pro": {
-      "won": 1041,
-      "lost": 453,
-      "total": 1494,
+      "won": 1046,
+      "lost": 455,
+      "total": 1501,
       "rate": 69.7
     },
     "insights": {
-      "won": 1770,
-      "lost": 785,
-      "total": 2555,
+      "won": 1776,
+      "lost": 788,
+      "total": 2564,
       "rate": 69.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 164,
       "rate": 53.7
     },
-    "analyses24h": 2837,
-    "analyses30d": 22767
+    "analyses24h": 2729,
+    "analyses30d": 22740
   },
   "recentWins": [
     {
@@ -244,46 +244,35 @@
     },
     {
       "type": "updated",
-      "at": "25.10.2026 11:57",
+      "at": "25.10.2026 13:34",
       "home": "Celta de Vigo",
       "away": "Real Betis"
+    },
+    {
+      "type": "updated",
+      "at": "25.10.2026 13:35",
+      "home": "Algeciras CF",
+      "away": "Real Madrid Castilla"
     },
     {
       "type": "updated",
       "at": "25.10.2026 11:35",
       "home": "FC Thun",
       "away": "FC Lugano"
-    },
-    {
-      "type": "updated",
-      "at": "25.10.2026 11:35",
-      "home": "Silkeborg IF",
-      "away": "FC Nordsjaelland"
     }
   ],
   "today": {
-    "home": "Crystal Palace",
-    "away": "Newcastle United",
-    "league": "İNP",
-    "date": "25.10.2026 14:00",
-    "matchCode": "4481085",
-    "odds": 1.93,
-    "patternScore": 67.11,
-    "patternText": "254.778/379.652",
-    "picks": 10
+    "home": "OFK Beograd",
+    "away": "FK Crvena zvezda",
+    "league": "SIRP",
+    "date": "25.10.2026 15:00",
+    "matchCode": "4478086",
+    "odds": 1.71,
+    "patternScore": 65.37,
+    "patternText": "307.606/470.533",
+    "picks": 7
   },
   "todayList": [
-    {
-      "home": "Crystal Palace",
-      "away": "Newcastle United",
-      "league": "İNP",
-      "date": "25.10.2026 14:00",
-      "matchCode": "4481085",
-      "odds": 1.93,
-      "patternScore": 67.11,
-      "patternText": "254.778/379.652",
-      "picks": 10
-    },
     {
       "home": "OFK Beograd",
       "away": "FK Crvena zvezda",
@@ -327,22 +316,40 @@
       "patternScore": 66.37,
       "patternText": "173.148/260.880",
       "picks": 3
+    },
+    {
+      "home": "Verona",
+      "away": "AC Pisa",
+      "league": "İTB",
+      "date": "25.10.2026 16:15",
+      "matchCode": "4534752",
+      "odds": 1.5,
+      "patternScore": 67.44,
+      "patternText": "236.405/350.547",
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Celta de Vigo",
+      "away": "Real Betis",
+      "league": "İS1",
+      "at": "25.10.2026 13:34",
+      "count": 3
+    },
+    {
+      "home": "Estoril Praia",
+      "away": "Moreirense FC",
+      "league": "POR",
+      "at": "25.10.2026 13:34",
+      "count": 4
+    },
     {
       "home": "Sporting CP",
       "away": "Academico FC Viseu",
       "league": "POR",
       "at": "25.10.2026 12:36",
       "count": 5
-    },
-    {
-      "home": "Celta de Vigo",
-      "away": "Real Betis",
-      "league": "İS1",
-      "at": "25.10.2026 11:57",
-      "count": 7
     },
     {
       "home": "TSG Hoffenheim",
@@ -392,13 +399,6 @@
       "league": "ABD",
       "at": "24.10.2026 22:31",
       "count": 5
-    },
-    {
-      "home": "Portland Timbers",
-      "away": "Charlotte FC",
-      "league": "ABD",
-      "at": "24.10.2026 20:35",
-      "count": 4
     }
   ],
   "paywall": {
