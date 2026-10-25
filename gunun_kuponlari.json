@@ -84,8 +84,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "25.10.2026 12:55",
-  "updatedAtUtc": "2026-10-25T12:55:00Z",
+  "updatedAt": "25.10.2026 13:08",
+  "updatedAtUtc": "2026-10-25T13:08:00Z",
   "upcoming": [
     {
       "id": "20261024-18-1",
@@ -231,7 +231,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4503880",
@@ -316,7 +316,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -401,7 +401,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4450693",
@@ -423,7 +423,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4501634",
@@ -481,7 +481,7 @@
       "winChance": 73.34,
       "firstKickoff": "25.10.2026 13:00",
       "lastKickoff": "25.10.2026 13:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_a",
       "group": "safe",
@@ -508,7 +508,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -710,6 +710,157 @@
           "probability": 80.0,
           "patternScore": 70.97,
           "patternText": "178.755/259.381",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261025-16-1",
+      "createdAt": "25.10.2026 13:08",
+      "createdAtUtc": "2026-10-25T13:08:00Z",
+      "size": 6,
+      "mbs": 1,
+      "totalOdds": 1.78,
+      "winChance": 12.1,
+      "firstKickoff": "25.10.2026 14:30",
+      "lastKickoff": "25.10.2026 15:30",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "multi_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.78,
+      "legs": [
+        {
+          "matchCode": "4484213",
+          "nesine": null,
+          "date": "25.10.2026 14:30",
+          "kickoffUtc": "2026-10-25T14:30:00Z",
+          "league": "SLVK",
+          "home": "KFC Komarno",
+          "away": "AS Trencin",
+          "league_tr": "SLVK",
+          "home_tr": "Kfc Komarno",
+          "away_tr": "Trencin",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.09,
+          "probability": 78.36,
+          "patternScore": 70.59,
+          "patternText": "341.543/483.821",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4484662",
+          "nesine": null,
+          "date": "25.10.2026 14:30",
+          "kickoffUtc": "2026-10-25T14:30:00Z",
+          "league": "MAC",
+          "home": "Puskas Academy",
+          "away": "Nyiregyhaza",
+          "league_tr": "MAC",
+          "home_tr": "Puskas Academy",
+          "away_tr": "Nyiregyhaza",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.08,
+          "probability": 83.89,
+          "patternScore": 70.5,
+          "patternText": "180.360/255.827",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4537796",
+          "nesine": null,
+          "date": "25.10.2026 14:30",
+          "kickoffUtc": "2026-10-25T14:30:00Z",
+          "league": "MLTP",
+          "home": "Valletta",
+          "away": "Hamrun",
+          "league_tr": "MLTP",
+          "home_tr": "Valletta",
+          "away_tr": "Hamrun",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.15,
+          "probability": 71.51,
+          "patternScore": 70.04,
+          "patternText": "324.114/462.735",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4511485",
+          "nesine": null,
+          "date": "25.10.2026 15:00",
+          "kickoffUtc": "2026-10-25T15:00:00Z",
+          "league": "İSV1Y",
+          "home": "FC Lugano II",
+          "away": "AC Bellinzona",
+          "league_tr": "İSV1Y",
+          "home_tr": "Lugano Ii",
+          "away_tr": "Bellinzona",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.11,
+          "probability": 77.78,
+          "patternScore": 70.14,
+          "patternText": "318.752/454.452",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4517330",
+          "nesine": null,
+          "date": "25.10.2026 15:30",
+          "kickoffUtc": "2026-10-25T15:30:00Z",
+          "league": "POR2",
+          "home": "FC Porto B",
+          "away": "Leiria",
+          "league_tr": "POR2",
+          "home_tr": "Porto (B)",
+          "away_tr": "Leiria",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.12,
+          "probability": 74.73,
+          "patternScore": 70.39,
+          "patternText": "333.827/474.276",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4482333",
+          "nesine": null,
+          "date": "25.10.2026 15:30",
+          "kickoffUtc": "2026-10-25T15:30:00Z",
+          "league": "İSV",
+          "home": "FC Sion",
+          "away": "FC Lausanne-Sport",
+          "league_tr": "İSV",
+          "home_tr": "Sion",
+          "away_tr": "Lausanne",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.06,
+          "probability": 80.0,
+          "patternScore": 70.31,
+          "patternText": "263.726/375.115",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
