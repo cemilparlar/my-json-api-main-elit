@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 04:47",
+  "updatedAt": "25.10.2026 05:07",
   "config": {
     "pages": [
       "engine",
@@ -22,9 +22,9 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 924,
-      "lost": 214,
-      "total": 1138,
+      "won": 915,
+      "lost": 212,
+      "total": 1127,
       "rate": 81.2
     },
     "totalAnalyses": 151136,
@@ -47,8 +47,8 @@
       "total": 162,
       "rate": 54.3
     },
-    "analyses24h": 3576,
-    "analyses30d": 22764
+    "analyses24h": 3509,
+    "analyses30d": 22761
   },
   "recentWins": [
     {
@@ -268,38 +268,26 @@
       "at": "24.10.2026 18:10"
     },
     {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.34,
-      "at": "24.10.2026 17:06"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.44,
-      "at": "24.10.2026 17:06"
+      "type": "kickoff",
+      "home": "Yuen Long FC",
+      "away": "Central & Weste",
+      "at": "25.10.2026 05:30"
     },
     {
       "type": "kickoff",
-      "home": "Oita Trinita",
-      "away": "Kofu",
-      "at": "25.10.2026 05:00"
+      "home": "Cerezo Osaka",
+      "away": "JEF United Chiba",
+      "at": "25.10.2026 06:00"
     },
     {
       "type": "kickoff",
-      "home": "Nagoya Grampus",
-      "away": "Yokohama F. Marinos",
-      "at": "25.10.2026 05:00"
-    },
-    {
-      "type": "kickoff",
-      "home": "Kataller Toyama",
-      "away": "Consadole Sapporo",
-      "at": "25.10.2026 05:00"
+      "home": "Iwaki FC",
+      "away": "Jubilo Iwata",
+      "at": "25.10.2026 06:00"
     },
     {
       "type": "analysis",
-      "count": 3576
+      "count": 3509
     }
   ],
   "today": {
