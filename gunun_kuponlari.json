@@ -84,8 +84,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "25.10.2026 14:03",
-  "updatedAtUtc": "2026-10-25T14:03:00Z",
+  "updatedAt": "25.10.2026 14:16",
+  "updatedAtUtc": "2026-10-25T14:16:00Z",
   "upcoming": [
     {
       "id": "20261024-18-1",
@@ -2821,47 +2821,6 @@
           "firstHalf": "0 - 0",
           "finalScore": "2 - 0",
           "status": "lost"
-        }
-      ]
-    },
-    {
-      "id": "20261023-15-2",
-      "createdAt": "23.10.2026 12:14",
-      "createdAtUtc": "2026-10-23T12:14:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.41,
-      "winChance": 72.25,
-      "firstKickoff": "24.10.2026 12:00",
-      "lastKickoff": "24.10.2026 12:00",
-      "status": "won",
-      "completedAt": "24.10.2026 14:13",
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.41,
-      "legs": [
-        {
-          "matchCode": "4492794",
-          "nesine": null,
-          "date": "24.10.2026 12:00",
-          "kickoffUtc": "2026-10-24T12:00:00Z",
-          "league": "İS2",
-          "home": "Cordoba CF",
-          "away": "Eibar",
-          "league_tr": "İS2",
-          "home_tr": "Cordoba",
-          "away_tr": "Eibar",
-          "prediction": "1st Half Under 1.5",
-          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
-          "odds": 1.41,
-          "probability": 71.43,
-          "patternScore": 72.25,
-          "patternText": "289.850/428.022",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "2 - 0",
-          "status": "won"
         }
       ]
     }
