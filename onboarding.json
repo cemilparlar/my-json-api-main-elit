@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 11:58",
+  "updatedAt": "25.10.2026 12:12",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 989,
-      "lost": 514,
-      "total": 1503,
-      "rate": 65.8
+      "won": 916,
+      "lost": 489,
+      "total": 1405,
+      "rate": 65.2
     },
     "totalAnalyses": 151195,
     "leagues": 536,
@@ -47,8 +47,8 @@
       "total": 164,
       "rate": 53.7
     },
-    "analyses24h": 3204,
-    "analyses30d": 22796
+    "analyses24h": 3053,
+    "analyses30d": 22790
   },
   "recentWins": [
     {
@@ -244,12 +244,6 @@
     },
     {
       "type": "updated",
-      "at": "25.10.2026 11:49",
-      "home": "TSG Hoffenheim",
-      "away": "Bayer Leverkusen"
-    },
-    {
-      "type": "updated",
       "at": "25.10.2026 11:57",
       "home": "Celta de Vigo",
       "away": "Real Betis"
@@ -259,6 +253,12 @@
       "at": "25.10.2026 11:35",
       "home": "FC Thun",
       "away": "FC Lugano"
+    },
+    {
+      "type": "updated",
+      "at": "25.10.2026 11:35",
+      "home": "Silkeborg IF",
+      "away": "FC Nordsjaelland"
     }
   ],
   "today": {
@@ -268,8 +268,8 @@
     "date": "25.10.2026 14:00",
     "matchCode": "4481085",
     "odds": 1.93,
-    "patternScore": 67.08,
-    "patternText": "253.868/378.460",
+    "patternScore": 67.1,
+    "patternText": "254.514/379.280",
     "picks": 10
   },
   "todayList": [
@@ -280,8 +280,8 @@
       "date": "25.10.2026 14:00",
       "matchCode": "4481085",
       "odds": 1.93,
-      "patternScore": 67.08,
-      "patternText": "253.868/378.460",
+      "patternScore": 67.1,
+      "patternText": "254.514/379.280",
       "picks": 10
     },
     {
@@ -291,8 +291,8 @@
       "date": "25.10.2026 15:00",
       "matchCode": "4478086",
       "odds": 1.71,
-      "patternScore": 65.34,
-      "patternText": "306.454/469.039",
+      "patternScore": 65.36,
+      "patternText": "307.258/470.077",
       "picks": 7
     },
     {
@@ -302,8 +302,8 @@
       "date": "25.10.2026 15:15",
       "matchCode": "4492792",
       "odds": 1.68,
-      "patternScore": 67.58,
-      "patternText": "247.093/365.651",
+      "patternScore": 67.6,
+      "patternText": "247.743/366.483",
       "picks": 8
     },
     {
@@ -313,8 +313,8 @@
       "date": "25.10.2026 16:30",
       "matchCode": "4481090",
       "odds": 1.65,
-      "patternScore": 67.53,
-      "patternText": "234.940/347.893",
+      "patternScore": 67.56,
+      "patternText": "235.622/348.761",
       "picks": 4
     },
     {
@@ -324,8 +324,8 @@
       "date": "25.10.2026 13:00",
       "matchCode": "4542730",
       "odds": 1.59,
-      "patternScore": 67.71,
-      "patternText": "154.839/228.664",
+      "patternScore": 67.74,
+      "patternText": "155.249/229.180",
       "picks": 7
     }
   ],
