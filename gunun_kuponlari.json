@@ -84,8 +84,8 @@
       "lost": 6
     }
   },
-  "updatedAt": "25.10.2026 22:50",
-  "updatedAtUtc": "2026-10-25T22:50:00Z",
+  "updatedAt": "25.10.2026 23:03",
+  "updatedAtUtc": "2026-10-25T23:03:00Z",
   "upcoming": [
     {
       "id": "20261025-22-1",
@@ -297,7 +297,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4501896",
@@ -319,7 +319,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4503507",
@@ -341,7 +341,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4576811",
@@ -360,6 +360,135 @@
           "probability": 92.86,
           "patternScore": 70.3,
           "patternText": "78.895/112.229",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261026-02-1",
+      "createdAt": "25.10.2026 23:03",
+      "createdAtUtc": "2026-10-25T23:03:00Z",
+      "size": 5,
+      "mbs": 1,
+      "totalOdds": 1.76,
+      "winChance": 15.71,
+      "firstKickoff": "26.10.2026 00:00",
+      "lastKickoff": "26.10.2026 01:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "multi_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.76,
+      "legs": [
+        {
+          "matchCode": "4487099",
+          "nesine": null,
+          "date": "26.10.2026 00:00",
+          "kickoffUtc": "2026-10-26T00:00:00Z",
+          "league": "KOSTA",
+          "home": "LD Alajuelense",
+          "away": "Deportivo Perez Zeledon",
+          "league_tr": "KOSTA",
+          "home_tr": "Alajuelense",
+          "away_tr": "Perez Zeledon",
+          "prediction": "Match Result 1",
+          "prediction_tr": "Maç Sonucu 1",
+          "odds": 1.12,
+          "probability": 77.78,
+          "patternScore": 68.61,
+          "patternText": "181.141/264.027",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4560785",
+          "nesine": null,
+          "date": "26.10.2026 00:06",
+          "kickoffUtc": "2026-10-26T00:06:00Z",
+          "league": "MEKKA",
+          "home": "Tigres Uanl Women",
+          "away": "Monterrey Women",
+          "league_tr": "MEKKA",
+          "home_tr": "Tigres Uanl (K",
+          "away_tr": "Monterrey (K)",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 78.12,
+          "patternScore": 70.68,
+          "patternText": "220.684/312.248",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4475904",
+          "nesine": null,
+          "date": "26.10.2026 00:30",
+          "kickoffUtc": "2026-10-26T00:30:00Z",
+          "league": "ARJ",
+          "home": "Corboda Santia",
+          "away": "Velez Sarsfield",
+          "league_tr": "ARJ",
+          "home_tr": "Corboda Santia",
+          "away_tr": "Velez Sarsfield",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.2,
+          "probability": 71.43,
+          "patternScore": 68.96,
+          "patternText": "237.679/344.664",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4476475",
+          "nesine": null,
+          "date": "26.10.2026 01:00",
+          "kickoffUtc": "2026-10-26T01:00:00Z",
+          "league": "MEK",
+          "home": "FC Queretaro",
+          "away": "Cruz Azul",
+          "league_tr": "MEK",
+          "home_tr": "Queretaro",
+          "away_tr": "Cruz Azul",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 81.44,
+          "patternScore": 72.09,
+          "patternText": "136.332/189.109",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4419811",
+          "nesine": null,
+          "date": "26.10.2026 01:00",
+          "kickoffUtc": "2026-10-26T01:00:00Z",
+          "league": "ABD",
+          "home": "Los Angeles FC",
+          "away": "LA Galaxy",
+          "league_tr": "ABD",
+          "home_tr": "Los Angeles Fc",
+          "away_tr": "Los Angeles",
+          "prediction": "1st Half Over 0.5",
+          "prediction_tr": "1. Yarı 0,5 Alt/Üst Üst",
+          "odds": 1.08,
+          "probability": 75.0,
+          "patternScore": 65.18,
+          "patternText": "228.179/350.096",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
@@ -1017,7 +1146,7 @@
       "kind": "multi_1",
       "group": "multi",
       "formula": "1",
-      "effectiveOdds": 1.44,
+      "effectiveOdds": 1.29,
       "legs": [
         {
           "matchCode": "4484213",
@@ -1105,7 +1234,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live"
+          "status": "void"
         },
         {
           "matchCode": "4517330",
@@ -1458,7 +1587,7 @@
       "kind": "surprise_3",
       "group": "surprise",
       "formula": "3",
-      "effectiveOdds": 4.43,
+      "effectiveOdds": 2.74,
       "legs": [
         {
           "matchCode": "4454027",
@@ -1524,7 +1653,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live"
+          "status": "void"
         }
       ]
     },

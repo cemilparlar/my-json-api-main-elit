@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 22:50",
+  "updatedAt": "25.10.2026 23:03",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 760,
-      "lost": 389,
-      "total": 1149,
-      "rate": 66.1
+      "won": 745,
+      "lost": 380,
+      "total": 1125,
+      "rate": 66.2
     },
     "totalAnalyses": 151325,
     "leagues": 536,
@@ -47,8 +47,8 @@
       "total": 184,
       "rate": 52.2
     },
-    "analyses24h": 1570,
-    "analyses30d": 22443
+    "analyses24h": 1546,
+    "analyses30d": 22432
   },
   "recentWins": [
     {
@@ -215,6 +215,12 @@
     {
       "type": "coupon",
       "size": 5,
+      "odds": 1.76,
+      "at": "25.10.2026 23:03"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
       "odds": 1.55,
       "at": "25.10.2026 21:01"
     },
@@ -223,12 +229,6 @@
       "size": 6,
       "odds": 1.64,
       "at": "25.10.2026 19:10"
-    },
-    {
-      "type": "coupon",
-      "size": 6,
-      "odds": 1.74,
-      "at": "25.10.2026 17:05"
     },
     {
       "type": "updated",
@@ -262,28 +262,17 @@
     }
   ],
   "today": {
-    "home": "Deportivo La Guaira",
-    "away": "Metropolitanos FC",
-    "league": "VEN",
-    "date": "25.10.2026 23:30",
-    "matchCode": "4576811",
-    "odds": 1.58,
-    "patternScore": 67.75,
-    "patternText": "96.531/142.487",
-    "picks": 4
+    "home": "Corboda Santia",
+    "away": "Velez Sarsfield",
+    "league": "ARJ",
+    "date": "26.10.2026 00:30",
+    "matchCode": "4475904",
+    "odds": 1.33,
+    "patternScore": 67.4,
+    "patternText": "191.345/283.896",
+    "picks": 6
   },
   "todayList": [
-    {
-      "home": "Deportivo La Guaira",
-      "away": "Metropolitanos FC",
-      "league": "VEN",
-      "date": "25.10.2026 23:30",
-      "matchCode": "4576811",
-      "odds": 1.58,
-      "patternScore": 67.75,
-      "patternText": "96.531/142.487",
-      "picks": 4
-    },
     {
       "home": "Corboda Santia",
       "away": "Velez Sarsfield",
@@ -327,6 +316,17 @@
       "patternScore": 71.8,
       "patternText": "130.647/181.962",
       "picks": 2
+    },
+    {
+      "home": "Tigres Uanl Women",
+      "away": "Monterrey Women",
+      "league": "MEKKA",
+      "date": "26.10.2026 00:06",
+      "matchCode": "4560785",
+      "odds": 1.1,
+      "patternScore": 70.68,
+      "patternText": "220.684/312.248",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
