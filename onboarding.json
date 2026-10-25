@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 17:05",
+  "updatedAt": "25.10.2026 17:19",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 646,
-      "lost": 314,
-      "total": 960,
-      "rate": 67.3
+      "won": 669,
+      "lost": 340,
+      "total": 1009,
+      "rate": 66.3
     },
     "totalAnalyses": 151294,
     "leagues": 536,
     "pro": {
-      "won": 1162,
-      "lost": 499,
-      "total": 1661,
-      "rate": 70.0
+      "won": 1173,
+      "lost": 505,
+      "total": 1678,
+      "rate": 69.9
     },
     "insights": {
-      "won": 1975,
-      "lost": 865,
-      "total": 2840,
-      "rate": 69.5
+      "won": 1993,
+      "lost": 883,
+      "total": 2876,
+      "rate": 69.3
     },
     "coupons": {
-      "won": 93,
-      "lost": 81,
-      "total": 174,
+      "won": 94,
+      "lost": 82,
+      "total": 176,
       "rate": 53.4
     },
     "analyses24h": 1882,
-    "analyses30d": 22617
+    "analyses30d": 22616
   },
   "recentWins": [
     {
@@ -120,6 +120,21 @@
   "recentCoupons": [
     {
       "size": 1,
+      "totalOdds": 1.42,
+      "winChance": 75.75,
+      "completedAt": "25.10.2026 17:19",
+      "legs": [
+        {
+          "home": "Celta de Vigo",
+          "away": "Real Betis",
+          "prediction": "Double Chance 1X",
+          "odds": 1.42,
+          "finalScore": "0 - 0"
+        }
+      ]
+    },
+    {
+      "size": 1,
       "totalOdds": 1.31,
       "winChance": 72.53,
       "completedAt": "25.10.2026 16:10",
@@ -160,21 +175,6 @@
           "prediction": "Under 3.5 Goals",
           "odds": 1.41,
           "finalScore": "2 - 1"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.34,
-      "winChance": 73.34,
-      "completedAt": "25.10.2026 15:24",
-      "legs": [
-        {
-          "home": "CE Sabadell",
-          "away": "CD Tenerife",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.34,
-          "finalScore": "1 - 1"
         }
       ]
     }
@@ -250,15 +250,15 @@
     },
     {
       "type": "updated",
-      "at": "25.10.2026 13:34",
-      "home": "Celta de Vigo",
-      "away": "Real Betis"
+      "at": "25.10.2026 11:49",
+      "home": "TSG Hoffenheim",
+      "away": "Bayer Leverkusen"
     },
     {
       "type": "updated",
-      "at": "25.10.2026 13:35",
-      "home": "Algeciras CF",
-      "away": "Real Madrid Castilla"
+      "at": "25.10.2026 13:34",
+      "home": "Celta de Vigo",
+      "away": "Real Betis"
     }
   ],
   "today": {
@@ -269,7 +269,7 @@
     "matchCode": "4574392",
     "odds": 1.54,
     "patternScore": 67.48,
-    "patternText": "126.281/187.130",
+    "patternText": "126.281/187.132",
     "picks": 2
   },
   "todayList": [
@@ -281,7 +281,7 @@
       "matchCode": "4574392",
       "odds": 1.54,
       "patternScore": 67.48,
-      "patternText": "126.281/187.130",
+      "patternText": "126.281/187.132",
       "picks": 2
     },
     {
@@ -292,7 +292,7 @@
       "matchCode": "4550671",
       "odds": 1.45,
       "patternScore": 68.26,
-      "patternText": "266.635/390.617",
+      "patternText": "266.659/390.671",
       "picks": 1
     },
     {
@@ -303,7 +303,7 @@
       "matchCode": "4501895",
       "odds": 1.3,
       "patternScore": 68.59,
-      "patternText": "125.670/183.214",
+      "patternText": "125.690/183.256",
       "picks": 1
     },
     {
@@ -313,8 +313,8 @@
       "date": "25.10.2026 19:45",
       "matchCode": "4475121",
       "odds": 1.3,
-      "patternScore": 66.77,
-      "patternText": "191.611/286.990",
+      "patternScore": 66.76,
+      "patternText": "191.631/287.032",
       "picks": 5
     },
     {
@@ -325,7 +325,7 @@
       "matchCode": "4441267",
       "odds": 1.28,
       "patternScore": 68.34,
-      "patternText": "278.193/407.081",
+      "patternText": "278.221/407.139",
       "picks": 3
     }
   ],
