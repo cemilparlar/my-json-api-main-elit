@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 08:26",
+  "updatedAt": "25.10.2026 08:44",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1010,
-      "lost": 553,
-      "total": 1563,
-      "rate": 64.6
+      "won": 1006,
+      "lost": 545,
+      "total": 1551,
+      "rate": 64.9
     },
     "totalAnalyses": 151136,
     "leagues": 536,
@@ -47,7 +47,7 @@
       "total": 162,
       "rate": 54.3
     },
-    "analyses24h": 3413,
+    "analyses24h": 3401,
     "analyses30d": 22761
   },
   "recentWins": [
@@ -226,25 +226,25 @@
     },
     {
       "type": "kickoff",
-      "home": "Persita Tangerang",
-      "away": "Bali United",
-      "at": "25.10.2026 08:30"
-    },
-    {
-      "type": "kickoff",
-      "home": "Arema FC",
-      "away": "Dewa United FC",
-      "at": "25.10.2026 08:30"
-    },
-    {
-      "type": "kickoff",
       "home": "Viitorul Selim",
       "away": "Asa Targu Mures",
       "at": "25.10.2026 09:00"
     },
     {
+      "type": "kickoff",
+      "home": "Afumati",
+      "away": "Csa Steaua Bucu",
+      "at": "25.10.2026 09:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Shonan Bellmare",
+      "away": "Tochigi City FC",
+      "at": "25.10.2026 09:00"
+    },
+    {
       "type": "analysis",
-      "count": 3413
+      "count": 3401
     }
   ],
   "today": {

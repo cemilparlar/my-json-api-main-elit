@@ -68,8 +68,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "25.10.2026 08:26",
-  "updatedAtUtc": "2026-10-25T08:26:00Z",
+  "updatedAt": "25.10.2026 08:44",
+  "updatedAtUtc": "2026-10-25T08:44:00Z",
   "upcoming": [
     {
       "id": "20261024-18-1",
@@ -153,47 +153,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "pending"
-        }
-      ]
-    },
-    {
-      "id": "20261024-05-1",
-      "createdAt": "24.10.2026 02:48",
-      "createdAtUtc": "2026-10-24T02:48:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.31,
-      "winChance": 72.73,
-      "firstKickoff": "25.10.2026 00:30",
-      "lastKickoff": "25.10.2026 00:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.31,
-      "legs": [
-        {
-          "matchCode": "4445802",
-          "nesine": null,
-          "date": "25.10.2026 00:30",
-          "kickoffUtc": "2026-10-25T00:30:00Z",
-          "league": "ABD",
-          "home": "Salt Lake",
-          "away": "St. Louis City SC",
-          "league_tr": "ABD",
-          "home_tr": "Salt Lake",
-          "away_tr": "St. Louis City",
-          "prediction": "Double Chance 1X",
-          "prediction_tr": "Çifte Şans 1-X",
-          "odds": 1.31,
-          "probability": 80.0,
-          "patternScore": 72.73,
-          "patternText": "173.469/254.623",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
         }
       ]
     },
@@ -489,7 +448,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4487631",
@@ -547,7 +506,7 @@
       "winChance": 15.31,
       "firstKickoff": "25.10.2026 08:30",
       "lastKickoff": "25.10.2026 09:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "multi_1",
       "group": "multi",
@@ -574,7 +533,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4561429",
@@ -1245,6 +1204,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261024-05-1",
+      "createdAt": "24.10.2026 02:48",
+      "createdAtUtc": "2026-10-24T02:48:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.31,
+      "winChance": 72.73,
+      "firstKickoff": "25.10.2026 00:30",
+      "lastKickoff": "25.10.2026 00:30",
+      "status": "void",
+      "completedAt": "25.10.2026 08:44",
+      "kind": "safe_a",
+      "group": "safe",
+      "formula": "A",
+      "effectiveOdds": 1.0,
+      "legs": [
+        {
+          "matchCode": "4445802",
+          "nesine": null,
+          "date": "25.10.2026 00:30",
+          "kickoffUtc": "2026-10-25T00:30:00Z",
+          "league": "ABD",
+          "home": "Salt Lake",
+          "away": "St. Louis City SC",
+          "league_tr": "ABD",
+          "home_tr": "Salt Lake",
+          "away_tr": "St. Louis City",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.31,
+          "probability": 80.0,
+          "patternScore": 72.73,
+          "patternText": "173.469/254.623",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "void"
+        }
+      ]
+    },
     {
       "id": "20261024-03-1",
       "createdAt": "24.10.2026 00:07",
