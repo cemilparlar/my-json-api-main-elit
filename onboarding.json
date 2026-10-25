@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 07:25",
+  "updatedAt": "25.10.2026 07:40",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1022,
+      "won": 1019,
       "lost": 555,
-      "total": 1577,
-      "rate": 64.8
+      "total": 1574,
+      "rate": 64.7
     },
     "totalAnalyses": 151136,
     "leagues": 536,
@@ -47,7 +47,7 @@
       "total": 162,
       "rate": 54.3
     },
-    "analyses24h": 3474,
+    "analyses24h": 3430,
     "analyses30d": 22761
   },
   "recentWins": [
@@ -226,25 +226,25 @@
     },
     {
       "type": "kickoff",
-      "home": "Cheonan City F",
-      "away": "Ansan Greeners",
-      "at": "25.10.2026 07:30"
+      "home": "Persita Tangerang",
+      "away": "Bali United",
+      "at": "25.10.2026 08:30"
     },
     {
       "type": "kickoff",
-      "home": "Cheongju Fc",
-      "away": "FC Yongin",
-      "at": "25.10.2026 07:30"
+      "home": "Arema FC",
+      "away": "Dewa United FC",
+      "at": "25.10.2026 08:30"
     },
     {
       "type": "kickoff",
-      "home": "Paju Citizen",
-      "away": "Hwaseong FC",
-      "at": "25.10.2026 07:30"
+      "home": "Viitorul Selim",
+      "away": "Asa Targu Mures",
+      "at": "25.10.2026 09:00"
     },
     {
       "type": "analysis",
-      "count": 3474
+      "count": 3430
     }
   ],
   "today": {
@@ -282,6 +282,17 @@
       "picks": 4
     },
     {
+      "home": "SK Sturm Graz",
+      "away": "SV Ried",
+      "league": "AVU",
+      "date": "25.10.2026 13:30",
+      "matchCode": "4496511",
+      "odds": 1.4,
+      "patternScore": 66.67,
+      "patternText": "254.048/381.039",
+      "picks": 4
+    },
+    {
       "home": "Ogre United",
       "away": "Auda",
       "league": "LET",
@@ -302,17 +313,6 @@
       "patternScore": 67.83,
       "patternText": "192.772/284.191",
       "picks": 4
-    },
-    {
-      "home": "GAIS",
-      "away": "IFK Goteborg",
-      "league": "İSÇ",
-      "date": "25.10.2026 13:00",
-      "matchCode": "4426785",
-      "odds": 1.33,
-      "patternScore": 68.12,
-      "patternText": "169.023/248.110",
-      "picks": 7
     }
   ],
   "recentAnalyzed": [
