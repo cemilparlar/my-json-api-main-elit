@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 13:37",
+  "updatedAt": "25.10.2026 13:50",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 164,
       "rate": 53.7
     },
-    "analyses24h": 2729,
-    "analyses30d": 22740
+    "analyses24h": 2728,
+    "analyses30d": 22729
   },
   "recentWins": [
     {
@@ -78,6 +78,19 @@
       "pro": true
     },
     {
+      "home": "Santutxu U19",
+      "away": "Athletic Club U",
+      "league": "ISPU18",
+      "date": "24.10.2026 17:30",
+      "prediction": "Handicap (2:0) X",
+      "odds": 3.5,
+      "probability": 100.0,
+      "patternScore": 57.84,
+      "firstHalf": "0 - 1",
+      "finalScore": "0 - 2",
+      "pro": false
+    },
+    {
       "home": "Lokomotiv Gorn",
       "away": "Ofk Pirin",
       "league": "BULB",
@@ -101,19 +114,6 @@
       "patternScore": 57.88,
       "firstHalf": "4 - 0",
       "finalScore": "5 - 1",
-      "pro": false
-    },
-    {
-      "home": "BK Hacken",
-      "away": "Degerfors IF",
-      "league": "İSÇ",
-      "date": "24.10.2026 13:00",
-      "prediction": "Total Goals 4-5",
-      "odds": 2.78,
-      "probability": 100.0,
-      "patternScore": 61.75,
-      "firstHalf": "4 - 0",
-      "finalScore": "4 - 0",
       "pro": false
     }
   ],
@@ -198,19 +198,19 @@
     },
     {
       "type": "won",
+      "home": "Santutxu U19",
+      "away": "Athletic Club U",
+      "prediction": "Handicap (2:0) X",
+      "odds": 3.5,
+      "at": "24.10.2026 17:30"
+    },
+    {
+      "type": "won",
       "home": "Lokomotiv Gorn",
       "away": "Ofk Pirin",
       "prediction": "Handicap (0:2) X",
       "odds": 3.37,
       "at": "23.10.2026 15:00"
-    },
-    {
-      "type": "won",
-      "home": "Girona FC",
-      "away": "Celta Vigo B",
-      "prediction": "Handicap (0:2) 1",
-      "odds": 2.91,
-      "at": "24.10.2026 16:30"
     },
     {
       "type": "coupon",
@@ -268,8 +268,8 @@
     "date": "25.10.2026 15:00",
     "matchCode": "4478086",
     "odds": 1.71,
-    "patternScore": 65.37,
-    "patternText": "307.606/470.533",
+    "patternScore": 65.38,
+    "patternText": "307.670/470.613",
     "picks": 7
   },
   "todayList": [
@@ -280,8 +280,8 @@
       "date": "25.10.2026 15:00",
       "matchCode": "4478086",
       "odds": 1.71,
-      "patternScore": 65.37,
-      "patternText": "307.606/470.533",
+      "patternScore": 65.38,
+      "patternText": "307.670/470.613",
       "picks": 7
     },
     {
@@ -291,8 +291,8 @@
       "date": "25.10.2026 15:15",
       "matchCode": "4492792",
       "odds": 1.68,
-      "patternScore": 67.6,
-      "patternText": "247.999/366.847",
+      "patternScore": 67.61,
+      "patternText": "248.043/366.899",
       "picks": 8
     },
     {
@@ -303,7 +303,7 @@
       "matchCode": "4481090",
       "odds": 1.65,
       "patternScore": 67.56,
-      "patternText": "235.886/349.141",
+      "patternText": "235.934/349.209",
       "picks": 4
     },
     {
@@ -314,7 +314,7 @@
       "matchCode": "4475118",
       "odds": 1.58,
       "patternScore": 66.37,
-      "patternText": "173.148/260.880",
+      "patternText": "173.184/260.956",
       "picks": 3
     },
     {
@@ -325,7 +325,7 @@
       "matchCode": "4534752",
       "odds": 1.5,
       "patternScore": 67.44,
-      "patternText": "236.405/350.547",
+      "patternText": "236.453/350.607",
       "picks": 4
     }
   ],
