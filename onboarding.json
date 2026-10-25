@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 09:24",
+  "updatedAt": "25.10.2026 09:41",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1000,
+      "won": 997,
       "lost": 544,
-      "total": 1544,
-      "rate": 64.8
+      "total": 1541,
+      "rate": 64.7
     },
     "totalAnalyses": 151136,
     "leagues": 536,
@@ -47,8 +47,8 @@
       "total": 162,
       "rate": 54.3
     },
-    "analyses24h": 3394,
-    "analyses30d": 22757
+    "analyses24h": 3391,
+    "analyses30d": 22753
   },
   "recentWins": [
     {
@@ -226,12 +226,6 @@
     },
     {
       "type": "kickoff",
-      "home": "Zilina Ii",
-      "away": "Lokomotiva Zvol",
-      "at": "25.10.2026 09:30"
-    },
-    {
-      "type": "kickoff",
       "home": "Altay",
       "away": "FC Yelimay Semey",
       "at": "25.10.2026 10:00"
@@ -243,8 +237,14 @@
       "at": "25.10.2026 10:00"
     },
     {
+      "type": "kickoff",
+      "home": "FC Chelyabinsk",
+      "away": "FC Ural",
+      "at": "25.10.2026 10:00"
+    },
+    {
       "type": "analysis",
-      "count": 3394
+      "count": 3391
     }
   ],
   "today": {
