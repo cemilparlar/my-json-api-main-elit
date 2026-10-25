@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 08:58",
+  "updatedAt": "25.10.2026 09:11",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1006,
-      "lost": 545,
-      "total": 1551,
-      "rate": 64.9
+      "won": 1000,
+      "lost": 544,
+      "total": 1544,
+      "rate": 64.8
     },
     "totalAnalyses": 151136,
     "leagues": 536,
@@ -47,8 +47,8 @@
       "total": 162,
       "rate": 54.3
     },
-    "analyses24h": 3401,
-    "analyses30d": 22761
+    "analyses24h": 3394,
+    "analyses30d": 22757
   },
   "recentWins": [
     {
@@ -226,25 +226,25 @@
     },
     {
       "type": "kickoff",
-      "home": "Viitorul Selim",
-      "away": "Asa Targu Mures",
-      "at": "25.10.2026 09:00"
+      "home": "Slavia Praha I",
+      "away": "SK Prostejov",
+      "at": "25.10.2026 09:15"
     },
     {
       "type": "kickoff",
-      "home": "Afumati",
-      "away": "Csa Steaua Bucu",
-      "at": "25.10.2026 09:00"
+      "home": "Zilina Ii",
+      "away": "Lokomotiva Zvol",
+      "at": "25.10.2026 09:30"
     },
     {
       "type": "kickoff",
-      "home": "Shonan Bellmare",
-      "away": "Tochigi City FC",
-      "at": "25.10.2026 09:00"
+      "home": "Altay",
+      "away": "FC Yelimay Semey",
+      "at": "25.10.2026 10:00"
     },
     {
       "type": "analysis",
-      "count": 3401
+      "count": 3394
     }
   ],
   "today": {
@@ -269,6 +269,17 @@
       "patternScore": 67.08,
       "patternText": "253.868/378.460",
       "picks": 10
+    },
+    {
+      "home": "OFK Beograd",
+      "away": "FK Crvena zvezda",
+      "league": "SIRP",
+      "date": "25.10.2026 15:00",
+      "matchCode": "4478086",
+      "odds": 1.71,
+      "patternScore": 65.34,
+      "patternText": "306.454/469.039",
+      "picks": 7
     },
     {
       "home": "Konyaspor",
@@ -302,17 +313,6 @@
       "patternScore": 68.0,
       "patternText": "249.026/366.236",
       "picks": 8
-    },
-    {
-      "home": "Liverpool",
-      "away": "Brighton & Hove Albion",
-      "league": "İNP",
-      "date": "25.10.2026 14:00",
-      "matchCode": "4481088",
-      "odds": 1.46,
-      "patternScore": 67.6,
-      "patternText": "271.962/402.310",
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
