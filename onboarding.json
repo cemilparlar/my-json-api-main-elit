@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.10.2026 09:11",
+  "updatedAt": "25.10.2026 09:24",
   "config": {
     "pages": [
       "engine",
@@ -226,12 +226,6 @@
     },
     {
       "type": "kickoff",
-      "home": "Slavia Praha I",
-      "away": "SK Prostejov",
-      "at": "25.10.2026 09:15"
-    },
-    {
-      "type": "kickoff",
       "home": "Zilina Ii",
       "away": "Lokomotiva Zvol",
       "at": "25.10.2026 09:30"
@@ -240,6 +234,12 @@
       "type": "kickoff",
       "home": "Altay",
       "away": "FC Yelimay Semey",
+      "at": "25.10.2026 10:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Real Murcia Ii",
+      "away": "Lorca Deportiva",
       "at": "25.10.2026 10:00"
     },
     {
@@ -282,6 +282,17 @@
       "picks": 7
     },
     {
+      "home": "Cadiz CF",
+      "away": "AD Ceuta",
+      "league": "İS2",
+      "date": "25.10.2026 15:15",
+      "matchCode": "4492792",
+      "odds": 1.68,
+      "patternScore": 67.58,
+      "patternText": "247.093/365.651",
+      "picks": 8
+    },
+    {
       "home": "Konyaspor",
       "away": "Genclerbirligi",
       "league": "TSL",
@@ -302,17 +313,6 @@
       "patternScore": 67.43,
       "patternText": "235.574/349.380",
       "picks": 4
-    },
-    {
-      "home": "AS Monaco",
-      "away": "LOSC Lille",
-      "league": "FR1",
-      "date": "25.10.2026 14:00",
-      "matchCode": "4476572",
-      "odds": 1.52,
-      "patternScore": 68.0,
-      "patternText": "249.026/366.236",
-      "picks": 8
     }
   ],
   "recentAnalyzed": [
