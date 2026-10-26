@@ -84,8 +84,8 @@
       "lost": 9
     }
   },
-  "updatedAt": "26.10.2026 10:37",
-  "updatedAtUtc": "2026-10-26T10:37:00Z",
+  "updatedAt": "26.10.2026 10:50",
+  "updatedAtUtc": "2026-10-26T10:50:00Z",
   "upcoming": [
     {
       "id": "20261026-13-3",
@@ -2356,47 +2356,6 @@
           "firstHalf": "1 - 1",
           "finalScore": "2 - 1",
           "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261024-05-2",
-      "createdAt": "24.10.2026 02:48",
-      "createdAtUtc": "2026-10-24T02:48:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.3,
-      "winChance": 72.73,
-      "firstKickoff": "25.10.2026 02:30",
-      "lastKickoff": "25.10.2026 02:30",
-      "status": "void",
-      "completedAt": "25.10.2026 10:41",
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.0,
-      "legs": [
-        {
-          "matchCode": "4419809",
-          "nesine": null,
-          "date": "25.10.2026 02:30",
-          "kickoffUtc": "2026-10-25T02:30:00Z",
-          "league": "ABD",
-          "home": "San Diego FC",
-          "away": "Seattle Sounders",
-          "league_tr": "ABD",
-          "home_tr": "San Diego",
-          "away_tr": "Seattle",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.3,
-          "probability": 100.0,
-          "patternScore": 72.73,
-          "patternText": "213.496/370.149",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void"
         }
       ]
     }
