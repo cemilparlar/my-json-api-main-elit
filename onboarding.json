@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 19:12",
+  "updatedAt": "26.10.2026 19:31",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 105,
+      "won": 103,
       "lost": 53,
-      "total": 158,
-      "rate": 66.5
+      "total": 156,
+      "rate": 66.0
     },
     "totalAnalyses": 151563,
     "leagues": 535,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 511,
-    "analyses30d": 20942
+    "analyses24h": 509,
+    "analyses30d": 20930
   },
   "recentWins": [
     {
@@ -91,19 +91,6 @@
       "pro": true
     },
     {
-      "home": "Santutxu U19",
-      "away": "Athletic Club U",
-      "league": "ISPU18",
-      "date": "24.10.2026 17:30",
-      "prediction": "Handicap (2:0) X",
-      "odds": 3.5,
-      "probability": 100.0,
-      "patternScore": 57.84,
-      "firstHalf": "0 - 1",
-      "finalScore": "0 - 2",
-      "pro": false
-    },
-    {
       "home": "Persija Jakarta",
       "away": "Persik Kediri",
       "league": "ENDL1",
@@ -114,6 +101,19 @@
       "patternScore": 66.75,
       "firstHalf": "0 - 1",
       "finalScore": "2 - 1",
+      "pro": false
+    },
+    {
+      "home": "Atlanta United",
+      "away": "Chicago Fire",
+      "league": "ABD",
+      "date": "24.10.2026 23:30",
+      "prediction": "Total Goals 4-5",
+      "odds": 2.59,
+      "probability": 100.0,
+      "patternScore": 56.4,
+      "firstHalf": "1 - 1",
+      "finalScore": "2 - 3",
       "pro": false
     }
   ],
@@ -206,11 +206,11 @@
     },
     {
       "type": "won",
-      "home": "Santutxu U19",
-      "away": "Athletic Club U",
-      "prediction": "Handicap (2:0) X",
-      "odds": 3.5,
-      "at": "24.10.2026 17:30"
+      "home": "Persija Jakarta",
+      "away": "Persik Kediri",
+      "prediction": "Handicap (0:1) X",
+      "odds": 3.31,
+      "at": "26.10.2026 12:00"
     },
     {
       "type": "coupon",
@@ -238,12 +238,6 @@
     },
     {
       "type": "updated",
-      "at": "26.10.2026 13:30",
-      "home": "Fc Iberia",
-      "away": "Torpedo Kutaisi"
-    },
-    {
-      "type": "updated",
       "at": "26.10.2026 13:31",
       "home": "NK Istra 1961",
       "away": "Hajduk Split"
@@ -259,31 +253,26 @@
       "at": "26.10.2026 17:43",
       "home": "AZ Picerno",
       "away": "Salernitana"
+    },
+    {
+      "type": "updated",
+      "at": "26.10.2026 15:31",
+      "home": "FC Andorra",
+      "away": "Burgos CF"
     }
   ],
   "today": {
-    "home": "Montpellier HSC",
-    "away": "Red Star FC",
-    "league": "FR2",
-    "date": "26.10.2026 19:45",
-    "matchCode": "4476895",
-    "odds": 1.25,
-    "patternScore": 68.47,
-    "patternText": "123.406/180.223",
+    "home": "Juventude",
+    "away": "Nautico",
+    "league": "BR2",
+    "date": "26.10.2026 23:30",
+    "matchCode": "4454036",
+    "odds": 1.24,
+    "patternScore": 68.67,
+    "patternText": "109.362/159.263",
     "picks": 3
   },
   "todayList": [
-    {
-      "home": "Montpellier HSC",
-      "away": "Red Star FC",
-      "league": "FR2",
-      "date": "26.10.2026 19:45",
-      "matchCode": "4476895",
-      "odds": 1.25,
-      "patternScore": 68.47,
-      "patternText": "123.406/180.223",
-      "picks": 3
-    },
     {
       "home": "Juventude",
       "away": "Nautico",
@@ -292,19 +281,8 @@
       "matchCode": "4454036",
       "odds": 1.24,
       "patternScore": 68.67,
-      "patternText": "109.360/159.261",
+      "patternText": "109.362/159.263",
       "picks": 3
-    },
-    {
-      "home": "Boulogne",
-      "away": "Stade de Reims",
-      "league": "FR2",
-      "date": "26.10.2026 19:45",
-      "matchCode": "4476891",
-      "odds": 1.2,
-      "patternScore": 68.29,
-      "patternText": "134.873/197.514",
-      "picks": 5
     },
     {
       "home": "Coritiba FBC",
@@ -314,19 +292,41 @@
       "matchCode": "4423346",
       "odds": 1.19,
       "patternScore": 68.76,
-      "patternText": "191.435/278.406",
+      "patternText": "191.437/278.410",
       "picks": 4
     },
     {
-      "home": "Walsall",
-      "away": "Salford City",
-      "league": "İN2",
-      "date": "26.10.2026 20:00",
-      "matchCode": "4489939",
-      "odds": 1.17,
-      "patternScore": 69.07,
-      "patternText": "225.848/326.973",
-      "picks": 5
+      "home": "Mount Pleasant",
+      "away": "Montego Bay Uni",
+      "league": "JAM",
+      "date": "27.10.2026 01:00",
+      "matchCode": "4562915",
+      "odds": 1.15,
+      "patternScore": 70.5,
+      "patternText": "219.390/311.172",
+      "picks": 1
+    },
+    {
+      "home": "Jaguares",
+      "away": "Llaneros",
+      "league": "KOL",
+      "date": "26.10.2026 23:00",
+      "matchCode": "4513978",
+      "odds": 1.14,
+      "patternScore": 69.66,
+      "patternText": "179.539/257.743",
+      "picks": 1
+    },
+    {
+      "home": "Independiente Santa Fe",
+      "away": "Atletico Bucaramanga",
+      "league": "KOL",
+      "date": "27.10.2026 01:05",
+      "matchCode": "4513960",
+      "odds": 1.14,
+      "patternScore": 70.37,
+      "patternText": "213.642/303.596",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
