@@ -84,8 +84,8 @@
       "lost": 9
     }
   },
-  "updatedAt": "26.10.2026 15:21",
-  "updatedAtUtc": "2026-10-26T15:21:00Z",
+  "updatedAt": "26.10.2026 15:31",
+  "updatedAtUtc": "2026-10-26T15:31:00Z",
   "upcoming": [
     {
       "id": "20261026-13-3",
@@ -2054,110 +2054,6 @@
           "firstHalf": "1 - 1",
           "finalScore": "1 - 1",
           "status": "lost"
-        }
-      ]
-    },
-    {
-      "id": "20261024-16-2",
-      "createdAt": "24.10.2026 13:07",
-      "createdAtUtc": "2026-10-24T13:07:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.34,
-      "winChance": 73.34,
-      "firstKickoff": "25.10.2026 13:00",
-      "lastKickoff": "25.10.2026 13:00",
-      "status": "won",
-      "completedAt": "25.10.2026 15:24",
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.34,
-      "legs": [
-        {
-          "matchCode": "4492799",
-          "nesine": null,
-          "date": "25.10.2026 13:00",
-          "kickoffUtc": "2026-10-25T13:00:00Z",
-          "league": "İS2",
-          "home": "CE Sabadell",
-          "away": "CD Tenerife",
-          "league_tr": "İS2",
-          "home_tr": "Sabadell",
-          "away_tr": "Tenerife",
-          "prediction": "Over 1.5 Goals",
-          "prediction_tr": "1,5 Alt/Üst Üst",
-          "odds": 1.34,
-          "probability": 83.33,
-          "patternScore": 73.34,
-          "patternText": "190.904/281.409",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "1 - 1",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261024-16-3",
-      "createdAt": "24.10.2026 13:07",
-      "createdAtUtc": "2026-10-24T13:07:00Z",
-      "size": 2,
-      "mbs": 2,
-      "totalOdds": 2.4,
-      "winChance": 32.43,
-      "firstKickoff": "25.10.2026 06:00",
-      "lastKickoff": "25.10.2026 13:00",
-      "status": "won",
-      "completedAt": "25.10.2026 15:24",
-      "kind": "surprise_2",
-      "group": "surprise",
-      "formula": "2",
-      "effectiveOdds": 2.4,
-      "legs": [
-        {
-          "matchCode": "4487244",
-          "nesine": null,
-          "date": "25.10.2026 06:00",
-          "kickoffUtc": "2026-10-25T06:00:00Z",
-          "league": "JAP",
-          "home": "Cerezo Osaka",
-          "away": "JEF United Chiba",
-          "league_tr": "JAP",
-          "home_tr": "Cerezo Osaka",
-          "away_tr": "Jef Utd Chiba",
-          "prediction": "Over 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Üst",
-          "odds": 1.51,
-          "probability": 85.71,
-          "patternScore": 59.14,
-          "patternText": "147.409/220.771",
-          "mbs": 2,
-          "firstHalf": "0 - 1",
-          "finalScore": "2 - 2",
-          "status": "won"
-        },
-        {
-          "matchCode": "4542730",
-          "nesine": null,
-          "date": "25.10.2026 13:00",
-          "kickoffUtc": "2026-10-25T13:00:00Z",
-          "league": "TSL",
-          "home": "Konyaspor",
-          "away": "Genclerbirligi",
-          "league_tr": "TSL",
-          "home_tr": "Konyaspor",
-          "away_tr": "Gençlerbirliği",
-          "prediction": "Under 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Alt",
-          "odds": 1.59,
-          "probability": 81.82,
-          "patternScore": 54.84,
-          "patternText": "153.385/226.418",
-          "mbs": 1,
-          "firstHalf": "1 - 0",
-          "finalScore": "2 - 0",
-          "status": "won"
         }
       ]
     }

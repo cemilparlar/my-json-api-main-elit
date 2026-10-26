@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 15:21",
+  "updatedAt": "26.10.2026 15:31",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 298,
-      "lost": 191,
-      "total": 489,
-      "rate": 60.9
+      "won": 248,
+      "lost": 169,
+      "total": 417,
+      "rate": 59.5
     },
-    "totalAnalyses": 151433,
+    "totalAnalyses": 151440,
     "leagues": 533,
     "pro": {
       "won": 1322,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 782,
-    "analyses30d": 21297
+    "analyses24h": 710,
+    "analyses30d": 21263
   },
   "recentWins": [
     {
@@ -232,7 +232,7 @@
     },
     {
       "type": "updated",
-      "at": "26.10.2026 13:32",
+      "at": "26.10.2026 15:31",
       "home": "Paris Saint-Germain",
       "away": "Olympique Lyonnais"
     },
@@ -331,25 +331,32 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "CR Flamengo",
-      "away": "Atletico Mineiro",
-      "league": "BR1",
-      "at": "26.10.2026 14:32",
-      "count": 13
-    },
-    {
       "home": "Paris Saint-Germain",
       "away": "Olympique Lyonnais",
       "league": "FR1",
-      "at": "26.10.2026 13:32",
-      "count": 14
+      "at": "26.10.2026 15:31",
+      "count": 9
+    },
+    {
+      "home": "FC Andorra",
+      "away": "Burgos CF",
+      "league": "İS2",
+      "at": "26.10.2026 15:31",
+      "count": 8
     },
     {
       "home": "Sevilla FC",
       "away": "CA Osasuna",
       "league": "İS1",
-      "at": "26.10.2026 12:31",
+      "at": "26.10.2026 15:31",
       "count": 7
+    },
+    {
+      "home": "CR Flamengo",
+      "away": "Atletico Mineiro",
+      "league": "BR1",
+      "at": "26.10.2026 14:32",
+      "count": 13
     },
     {
       "home": "CD Santa Clara",
@@ -391,13 +398,6 @@
       "away": "Leeds United",
       "league": "İNP",
       "at": "25.10.2026 15:41",
-      "count": 6
-    },
-    {
-      "home": "Verona",
-      "away": "AC Pisa",
-      "league": "İTB",
-      "at": "25.10.2026 15:40",
       "count": 6
     }
   ],
