@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 00:45",
+  "updatedAt": "26.10.2026 01:06",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": 51.9
     },
     "analyses24h": 1425,
-    "analyses30d": 22415
+    "analyses30d": 22391
   },
   "recentWins": [
     {
@@ -232,33 +232,31 @@
     },
     {
       "type": "updated",
-      "at": "25.10.2026 18:54",
-      "home": "Udinese",
-      "away": "AC Milan"
-    },
-    {
-      "type": "updated",
       "at": "25.10.2026 19:54",
       "home": "Club Deportivo Palestino",
       "away": "Colo-Colo"
     },
     {
       "type": "updated",
-      "at": "25.10.2026 18:55",
-      "home": "Sporting CP",
-      "away": "Academico FC Viseu"
+      "at": "25.10.2026 19:55",
+      "home": "Mosta Fc",
+      "away": "Hibernians"
     },
     {
       "type": "updated",
-      "at": "25.10.2026 18:55",
-      "home": "Inter Toronto",
-      "away": "Atletico Ottawa"
+      "at": "25.10.2026 19:54",
+      "home": "Fuerte San Fra",
+      "away": "Balboa"
     },
     {
-      "type": "updated",
-      "at": "25.10.2026 18:56",
-      "home": "FC Queretaro",
-      "away": "Cruz Azul"
+      "type": "kickoff",
+      "home": "Club Tijuana",
+      "away": "Santos Laguna",
+      "at": "26.10.2026 03:10"
+    },
+    {
+      "type": "analysis",
+      "count": 1425
     }
   ],
   "today": {
