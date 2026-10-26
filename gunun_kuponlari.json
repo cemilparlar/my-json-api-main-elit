@@ -6,32 +6,32 @@
       "lost": 88
     },
     "multi": {
-      "won": 96,
-      "lost": 91
+      "won": 98,
+      "lost": 95
     },
     "safe": {
-      "won": 33,
-      "lost": 20
+      "won": 34,
+      "lost": 21
     },
     "safe_b": {
       "won": 24,
       "lost": 16
     },
     "surprise": {
-      "won": 15,
-      "lost": 18
+      "won": 16,
+      "lost": 21
     },
     "surprise_1": {
-      "won": 9,
-      "lost": 6
+      "won": 10,
+      "lost": 8
     },
     "surprise_3": {
       "won": 3,
-      "lost": 8
+      "lost": 9
     },
     "safe_a": {
-      "won": 9,
-      "lost": 4
+      "won": 10,
+      "lost": 5
     },
     "surprise_2": {
       "won": 3,
@@ -48,32 +48,32 @@
       "lost": 88
     },
     "multi": {
-      "won": 96,
-      "lost": 91
+      "won": 98,
+      "lost": 95
     },
     "safe": {
-      "won": 33,
-      "lost": 20
+      "won": 34,
+      "lost": 21
     },
     "safe_b": {
       "won": 24,
       "lost": 16
     },
     "surprise": {
-      "won": 15,
-      "lost": 18
+      "won": 16,
+      "lost": 21
     },
     "surprise_1": {
-      "won": 9,
-      "lost": 6
+      "won": 10,
+      "lost": 8
     },
     "surprise_3": {
       "won": 3,
-      "lost": 8
+      "lost": 9
     },
     "safe_a": {
-      "won": 9,
-      "lost": 4
+      "won": 10,
+      "lost": 5
     },
     "surprise_2": {
       "won": 3,
@@ -84,299 +84,9 @@
       "lost": 9
     }
   },
-  "updatedAt": "26.10.2026 22:01",
-  "updatedAtUtc": "2026-10-26T22:01:00Z",
+  "updatedAt": "26.10.2026 23:17",
+  "updatedAtUtc": "2026-10-26T23:17:00Z",
   "upcoming": [
-    {
-      "id": "20261026-13-3",
-      "createdAt": "26.10.2026 10:37",
-      "createdAtUtc": "2026-10-26T10:37:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 4.06,
-      "winChance": 46.16,
-      "firstKickoff": "26.10.2026 16:00",
-      "lastKickoff": "26.10.2026 18:45",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_3",
-      "group": "surprise",
-      "formula": "3",
-      "effectiveOdds": 4.06,
-      "legs": [
-        {
-          "matchCode": "4484901",
-          "nesine": null,
-          "date": "26.10.2026 16:00",
-          "kickoffUtc": "2026-10-26T16:00:00Z",
-          "league": "LIT1",
-          "home": "Transinvest Vi",
-          "away": "Fa Siauliai Ii",
-          "league_tr": "LIT1",
-          "home_tr": "Transinvest Vi",
-          "away_tr": "Fa Siauliai Ii",
-          "prediction": "1st Half Under 1.5",
-          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
-          "odds": 1.6,
-          "probability": 73.08,
-          "patternScore": 81.86,
-          "patternText": "198.056/291.459",
-          "mbs": 3,
-          "firstHalf": "0 - 0",
-          "finalScore": "3 - 2",
-          "status": "won"
-        },
-        {
-          "matchCode": "4542731",
-          "nesine": null,
-          "date": "26.10.2026 18:30",
-          "kickoffUtc": "2026-10-26T18:30:00Z",
-          "league": "TSL",
-          "home": "Galatasaray",
-          "away": "Fenerbahce",
-          "league_tr": "TSL",
-          "home_tr": "Galatasaray",
-          "away_tr": "Fenerbahçe",
-          "prediction": "1st Half Under 1.5",
-          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
-          "odds": 1.5,
-          "probability": 75.0,
-          "patternScore": 75.86,
-          "patternText": "225.132/338.223",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4517033",
-          "nesine": null,
-          "date": "26.10.2026 18:45",
-          "kickoffUtc": "2026-10-26T18:45:00Z",
-          "league": "POR",
-          "home": "CD Santa Clara",
-          "away": "SL Benfica",
-          "league_tr": "POR",
-          "home_tr": "Santa Clara",
-          "away_tr": "Benfica",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.69,
-          "probability": 100.0,
-          "patternScore": 74.34,
-          "patternText": "216.558/375.003",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261026-13-2",
-      "createdAt": "26.10.2026 10:37",
-      "createdAtUtc": "2026-10-26T10:37:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.76,
-      "winChance": 67.75,
-      "firstKickoff": "26.10.2026 19:30",
-      "lastKickoff": "26.10.2026 19:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.76,
-      "legs": [
-        {
-          "matchCode": "4492791",
-          "nesine": null,
-          "date": "26.10.2026 19:30",
-          "kickoffUtc": "2026-10-26T19:30:00Z",
-          "league": "İS2",
-          "home": "FC Andorra",
-          "away": "Burgos CF",
-          "league_tr": "İS2",
-          "home_tr": "Fc Andorra",
-          "away_tr": "Burgos",
-          "prediction": "Total Goals 2-3",
-          "prediction_tr": "Toplam Gol Aralığı 2-3 Gol",
-          "odds": 1.76,
-          "probability": 72.72727272727273,
-          "patternScore": 67.75,
-          "patternText": "182.544/269.449",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261026-14-1",
-      "createdAt": "26.10.2026 11:00",
-      "createdAtUtc": "2026-10-26T11:00:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.54,
-      "winChance": 55.88,
-      "firstKickoff": "26.10.2026 19:30",
-      "lastKickoff": "26.10.2026 19:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.54,
-      "legs": [
-        {
-          "matchCode": "4476575",
-          "nesine": null,
-          "date": "26.10.2026 19:30",
-          "kickoffUtc": "2026-10-26T19:30:00Z",
-          "league": "FR1",
-          "home": "Paris Saint-Germain",
-          "away": "Olympique Lyonnais",
-          "league_tr": "FR1",
-          "home_tr": "Psg",
-          "away_tr": "Lyon",
-          "prediction": "1st Half Result 1",
-          "prediction_tr": "1. Yarı Sonucu 1",
-          "odds": 1.54,
-          "probability": 100.0,
-          "patternScore": 55.88,
-          "patternText": "196.085/350.913",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261026-19-1",
-      "createdAt": "26.10.2026 16:01",
-      "createdAtUtc": "2026-10-26T16:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.3,
-      "winChance": 72.13,
-      "firstKickoff": "26.10.2026 19:30",
-      "lastKickoff": "26.10.2026 19:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.3,
-      "legs": [
-        {
-          "matchCode": "4492791",
-          "nesine": null,
-          "date": "26.10.2026 19:30",
-          "kickoffUtc": "2026-10-26T19:30:00Z",
-          "league": "İS2",
-          "home": "FC Andorra",
-          "away": "Burgos CF",
-          "league_tr": "İS2",
-          "home_tr": "Fc Andorra",
-          "away_tr": "Burgos",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.3,
-          "probability": 75.0,
-          "patternScore": 72.13,
-          "patternText": "211.064/309.888",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261026-15-1",
-      "createdAt": "26.10.2026 12:02",
-      "createdAtUtc": "2026-10-26T12:02:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.34,
-      "winChance": 72.34,
-      "firstKickoff": "26.10.2026 20:00",
-      "lastKickoff": "26.10.2026 20:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "safe_a",
-      "group": "safe",
-      "formula": "A",
-      "effectiveOdds": 1.34,
-      "legs": [
-        {
-          "matchCode": "4492357",
-          "nesine": null,
-          "date": "26.10.2026 20:00",
-          "kickoffUtc": "2026-10-26T20:00:00Z",
-          "league": "İS1",
-          "home": "Sevilla FC",
-          "away": "CA Osasuna",
-          "league_tr": "İS1",
-          "home_tr": "Sevilla",
-          "away_tr": "Osasuna",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.34,
-          "probability": 88.89,
-          "patternScore": 72.34,
-          "patternText": "126.456/187.862",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261026-19-2",
-      "createdAt": "26.10.2026 16:01",
-      "createdAtUtc": "2026-10-26T16:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.75,
-      "winChance": 66.63,
-      "firstKickoff": "26.10.2026 20:00",
-      "lastKickoff": "26.10.2026 20:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.75,
-      "legs": [
-        {
-          "matchCode": "4492357",
-          "nesine": null,
-          "date": "26.10.2026 20:00",
-          "kickoffUtc": "2026-10-26T20:00:00Z",
-          "league": "İS1",
-          "home": "Sevilla FC",
-          "away": "CA Osasuna",
-          "league_tr": "İS1",
-          "home_tr": "Sevilla",
-          "away_tr": "Osasuna",
-          "prediction": "Total Goals 2-3",
-          "prediction_tr": "Toplam Gol Aralığı 2-3 Gol",
-          "odds": 1.75,
-          "probability": 75.0,
-          "patternScore": 66.63,
-          "patternText": "172.187/258.413",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261026-13-1",
       "createdAt": "26.10.2026 10:37",
@@ -387,7 +97,7 @@
       "winChance": 72.56,
       "firstKickoff": "26.10.2026 22:30",
       "lastKickoff": "26.10.2026 22:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "safe_a",
       "group": "safe",
@@ -414,7 +124,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -584,6 +294,296 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261026-13-2",
+      "createdAt": "26.10.2026 10:37",
+      "createdAtUtc": "2026-10-26T10:37:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.76,
+      "winChance": 67.75,
+      "firstKickoff": "26.10.2026 19:30",
+      "lastKickoff": "26.10.2026 19:30",
+      "status": "lost",
+      "completedAt": "26.10.2026 23:17",
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.76,
+      "legs": [
+        {
+          "matchCode": "4492791",
+          "nesine": null,
+          "date": "26.10.2026 19:30",
+          "kickoffUtc": "2026-10-26T19:30:00Z",
+          "league": "İS2",
+          "home": "FC Andorra",
+          "away": "Burgos CF",
+          "league_tr": "İS2",
+          "home_tr": "Fc Andorra",
+          "away_tr": "Burgos",
+          "prediction": "Total Goals 2-3",
+          "prediction_tr": "Toplam Gol Aralığı 2-3 Gol",
+          "odds": 1.76,
+          "probability": 72.72727272727273,
+          "patternScore": 67.75,
+          "patternText": "182.544/269.449",
+          "mbs": 1,
+          "firstHalf": "2 - 3",
+          "finalScore": "2 - 3",
+          "status": "lost"
+        }
+      ]
+    },
+    {
+      "id": "20261026-13-3",
+      "createdAt": "26.10.2026 10:37",
+      "createdAtUtc": "2026-10-26T10:37:00Z",
+      "size": 3,
+      "mbs": 3,
+      "totalOdds": 4.06,
+      "winChance": 46.16,
+      "firstKickoff": "26.10.2026 16:00",
+      "lastKickoff": "26.10.2026 18:45",
+      "status": "lost",
+      "completedAt": "26.10.2026 23:17",
+      "kind": "surprise_3",
+      "group": "surprise",
+      "formula": "3",
+      "effectiveOdds": 4.06,
+      "legs": [
+        {
+          "matchCode": "4484901",
+          "nesine": null,
+          "date": "26.10.2026 16:00",
+          "kickoffUtc": "2026-10-26T16:00:00Z",
+          "league": "LIT1",
+          "home": "Transinvest Vi",
+          "away": "Fa Siauliai Ii",
+          "league_tr": "LIT1",
+          "home_tr": "Transinvest Vi",
+          "away_tr": "Fa Siauliai Ii",
+          "prediction": "1st Half Under 1.5",
+          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
+          "odds": 1.6,
+          "probability": 73.08,
+          "patternScore": 81.86,
+          "patternText": "198.056/291.459",
+          "mbs": 3,
+          "firstHalf": "0 - 0",
+          "finalScore": "3 - 2",
+          "status": "won"
+        },
+        {
+          "matchCode": "4542731",
+          "nesine": null,
+          "date": "26.10.2026 18:30",
+          "kickoffUtc": "2026-10-26T18:30:00Z",
+          "league": "TSL",
+          "home": "Galatasaray",
+          "away": "Fenerbahce",
+          "league_tr": "TSL",
+          "home_tr": "Galatasaray",
+          "away_tr": "Fenerbahçe",
+          "prediction": "1st Half Under 1.5",
+          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
+          "odds": 1.5,
+          "probability": 75.0,
+          "patternScore": 75.86,
+          "patternText": "225.132/338.223",
+          "mbs": 1,
+          "firstHalf": "2 - 0",
+          "finalScore": "2 - 1",
+          "status": "lost"
+        },
+        {
+          "matchCode": "4517033",
+          "nesine": null,
+          "date": "26.10.2026 18:45",
+          "kickoffUtc": "2026-10-26T18:45:00Z",
+          "league": "POR",
+          "home": "CD Santa Clara",
+          "away": "SL Benfica",
+          "league_tr": "POR",
+          "home_tr": "Santa Clara",
+          "away_tr": "Benfica",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.69,
+          "probability": 100.0,
+          "patternScore": 74.34,
+          "patternText": "216.558/375.003",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 2",
+          "status": "won"
+        }
+      ]
+    },
+    {
+      "id": "20261026-14-1",
+      "createdAt": "26.10.2026 11:00",
+      "createdAtUtc": "2026-10-26T11:00:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.54,
+      "winChance": 55.88,
+      "firstKickoff": "26.10.2026 19:30",
+      "lastKickoff": "26.10.2026 19:30",
+      "status": "lost",
+      "completedAt": "26.10.2026 23:17",
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.54,
+      "legs": [
+        {
+          "matchCode": "4476575",
+          "nesine": null,
+          "date": "26.10.2026 19:30",
+          "kickoffUtc": "2026-10-26T19:30:00Z",
+          "league": "FR1",
+          "home": "Paris Saint-Germain",
+          "away": "Olympique Lyonnais",
+          "league_tr": "FR1",
+          "home_tr": "Psg",
+          "away_tr": "Lyon",
+          "prediction": "1st Half Result 1",
+          "prediction_tr": "1. Yarı Sonucu 1",
+          "odds": 1.54,
+          "probability": 100.0,
+          "patternScore": 55.88,
+          "patternText": "196.085/350.913",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "2 - 0",
+          "status": "lost"
+        }
+      ]
+    },
+    {
+      "id": "20261026-15-1",
+      "createdAt": "26.10.2026 12:02",
+      "createdAtUtc": "2026-10-26T12:02:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.34,
+      "winChance": 72.34,
+      "firstKickoff": "26.10.2026 20:00",
+      "lastKickoff": "26.10.2026 20:00",
+      "status": "lost",
+      "completedAt": "26.10.2026 23:17",
+      "kind": "safe_a",
+      "group": "safe",
+      "formula": "A",
+      "effectiveOdds": 1.34,
+      "legs": [
+        {
+          "matchCode": "4492357",
+          "nesine": null,
+          "date": "26.10.2026 20:00",
+          "kickoffUtc": "2026-10-26T20:00:00Z",
+          "league": "İS1",
+          "home": "Sevilla FC",
+          "away": "CA Osasuna",
+          "league_tr": "İS1",
+          "home_tr": "Sevilla",
+          "away_tr": "Osasuna",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.34,
+          "probability": 88.89,
+          "patternScore": 72.34,
+          "patternText": "126.456/187.862",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 0",
+          "status": "lost"
+        }
+      ]
+    },
+    {
+      "id": "20261026-19-1",
+      "createdAt": "26.10.2026 16:01",
+      "createdAtUtc": "2026-10-26T16:01:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.3,
+      "winChance": 72.13,
+      "firstKickoff": "26.10.2026 19:30",
+      "lastKickoff": "26.10.2026 19:30",
+      "status": "won",
+      "completedAt": "26.10.2026 23:17",
+      "kind": "safe_a",
+      "group": "safe",
+      "formula": "A",
+      "effectiveOdds": 1.3,
+      "legs": [
+        {
+          "matchCode": "4492791",
+          "nesine": null,
+          "date": "26.10.2026 19:30",
+          "kickoffUtc": "2026-10-26T19:30:00Z",
+          "league": "İS2",
+          "home": "FC Andorra",
+          "away": "Burgos CF",
+          "league_tr": "İS2",
+          "home_tr": "Fc Andorra",
+          "away_tr": "Burgos",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.3,
+          "probability": 75.0,
+          "patternScore": 72.13,
+          "patternText": "211.064/309.888",
+          "mbs": 1,
+          "firstHalf": "2 - 3",
+          "finalScore": "2 - 3",
+          "status": "won"
+        }
+      ]
+    },
+    {
+      "id": "20261026-19-2",
+      "createdAt": "26.10.2026 16:01",
+      "createdAtUtc": "2026-10-26T16:01:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.75,
+      "winChance": 66.63,
+      "firstKickoff": "26.10.2026 20:00",
+      "lastKickoff": "26.10.2026 20:00",
+      "status": "won",
+      "completedAt": "26.10.2026 23:17",
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.75,
+      "legs": [
+        {
+          "matchCode": "4492357",
+          "nesine": null,
+          "date": "26.10.2026 20:00",
+          "kickoffUtc": "2026-10-26T20:00:00Z",
+          "league": "İS1",
+          "home": "Sevilla FC",
+          "away": "CA Osasuna",
+          "league_tr": "İS1",
+          "home_tr": "Sevilla",
+          "away_tr": "Osasuna",
+          "prediction": "Total Goals 2-3",
+          "prediction_tr": "Toplam Gol Aralığı 2-3 Gol",
+          "odds": 1.75,
+          "probability": 75.0,
+          "patternScore": 66.63,
+          "patternText": "172.187/258.413",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 0",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261026-00-1",
       "createdAt": "25.10.2026 21:01",
