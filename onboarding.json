@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 15:31",
+  "updatedAt": "26.10.2026 15:42",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 417,
       "rate": 59.5
     },
-    "totalAnalyses": 151440,
-    "leagues": 533,
+    "totalAnalyses": 151451,
+    "leagues": 534,
     "pro": {
       "won": 1322,
       "lost": 581,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 710,
-    "analyses30d": 21263
+    "analyses24h": 719,
+    "analyses30d": 21265
   },
   "recentWins": [
     {
@@ -262,27 +262,27 @@
     }
   ],
   "today": {
-    "home": "FC Andorra",
-    "away": "Burgos CF",
-    "league": "İS2",
-    "date": "26.10.2026 19:30",
-    "matchCode": "4492791",
-    "odds": 1.76,
-    "patternScore": 67.75,
-    "patternText": "182.548/269.453",
-    "picks": 5
+    "home": "Sevilla FC",
+    "away": "CA Osasuna",
+    "league": "İS1",
+    "date": "26.10.2026 20:00",
+    "matchCode": "4492357",
+    "odds": 1.75,
+    "patternScore": 66.63,
+    "patternText": "172.187/258.413",
+    "picks": 6
   },
   "todayList": [
     {
-      "home": "FC Andorra",
-      "away": "Burgos CF",
-      "league": "İS2",
-      "date": "26.10.2026 19:30",
-      "matchCode": "4492791",
-      "odds": 1.76,
-      "patternScore": 67.75,
-      "patternText": "182.548/269.453",
-      "picks": 5
+      "home": "Sevilla FC",
+      "away": "CA Osasuna",
+      "league": "İS1",
+      "date": "26.10.2026 20:00",
+      "matchCode": "4492357",
+      "odds": 1.75,
+      "patternScore": 66.63,
+      "patternText": "172.187/258.413",
+      "picks": 6
     },
     {
       "home": "Al Ula",
@@ -307,6 +307,17 @@
       "picks": 3
     },
     {
+      "home": "FC Andorra",
+      "away": "Burgos CF",
+      "league": "İS2",
+      "date": "26.10.2026 19:30",
+      "matchCode": "4492791",
+      "odds": 1.3,
+      "patternScore": 68.11,
+      "patternText": "211.064/309.888",
+      "picks": 5
+    },
+    {
       "home": "AZ Picerno",
       "away": "Salernitana",
       "league": "İTC",
@@ -316,20 +327,16 @@
       "patternScore": 67.9,
       "patternText": "112.807/166.139",
       "picks": 1
-    },
-    {
-      "home": "Montpellier HSC",
-      "away": "Red Star FC",
-      "league": "FR2",
-      "date": "26.10.2026 19:45",
-      "matchCode": "4476895",
-      "odds": 1.25,
-      "patternScore": 68.47,
-      "patternText": "123.326/180.115",
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Parma Calcio",
+      "away": "Udinese",
+      "league": "İTA",
+      "at": "26.10.2026 15:32",
+      "count": 6
+    },
     {
       "home": "Paris Saint-Germain",
       "away": "Olympique Lyonnais",
@@ -392,13 +399,6 @@
       "league": "İTA",
       "at": "25.10.2026 15:42",
       "count": 1
-    },
-    {
-      "home": "Sunderland",
-      "away": "Leeds United",
-      "league": "İNP",
-      "at": "25.10.2026 15:41",
-      "count": 6
     }
   ],
   "paywall": {
