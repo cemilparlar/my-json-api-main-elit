@@ -35,11 +35,11 @@
     },
     "multi": {
       "won": 0,
-      "lost": 7
+      "lost": 9
     },
     "multi_1": {
       "won": 0,
-      "lost": 7
+      "lost": 9
     }
   },
   "stats30": {
@@ -77,16 +77,17 @@
     },
     "multi": {
       "won": 0,
-      "lost": 7
+      "lost": 9
     },
     "multi_1": {
       "won": 0,
-      "lost": 7
+      "lost": 9
     }
   },
-  "updatedAt": "26.10.2026 02:35",
-  "updatedAtUtc": "2026-10-26T02:35:00Z",
-  "upcoming": [
+  "updatedAt": "26.10.2026 02:49",
+  "updatedAtUtc": "2026-10-26T02:49:00Z",
+  "upcoming": [],
+  "completed": [
     {
       "id": "20261026-00-1",
       "createdAt": "25.10.2026 21:01",
@@ -97,8 +98,8 @@
       "winChance": 17.57,
       "firstKickoff": "25.10.2026 22:00",
       "lastKickoff": "25.10.2026 23:30",
-      "status": "live",
-      "completedAt": null,
+      "status": "lost",
+      "completedAt": "26.10.2026 02:49",
       "kind": "multi_1",
       "group": "multi",
       "formula": "1",
@@ -122,9 +123,9 @@
           "patternScore": 69.3,
           "patternText": "177.588/256.257",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "2 - 0",
+          "finalScore": "2 - 1",
+          "status": "lost"
         },
         {
           "matchCode": "4476473",
@@ -144,9 +145,9 @@
           "patternScore": 72.3,
           "patternText": "152.733/211.254",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 1",
+          "finalScore": "4 - 3",
+          "status": "won"
         },
         {
           "matchCode": "4501896",
@@ -166,9 +167,9 @@
           "patternScore": 70.91,
           "patternText": "286.701/404.311",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 0",
+          "finalScore": "4 - 1",
+          "status": "won"
         },
         {
           "matchCode": "4503507",
@@ -210,9 +211,9 @@
           "patternScore": 70.3,
           "patternText": "78.895/112.229",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 1",
+          "finalScore": "2 - 2",
+          "status": "won"
         }
       ]
     },
@@ -226,8 +227,8 @@
       "winChance": 15.71,
       "firstKickoff": "26.10.2026 00:00",
       "lastKickoff": "26.10.2026 01:00",
-      "status": "live",
-      "completedAt": null,
+      "status": "lost",
+      "completedAt": "26.10.2026 02:49",
       "kind": "multi_1",
       "group": "multi",
       "formula": "1",
@@ -251,9 +252,9 @@
           "patternScore": 68.61,
           "patternText": "181.141/264.027",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 0",
+          "status": "won"
         },
         {
           "matchCode": "4560785",
@@ -273,9 +274,9 @@
           "patternScore": 70.68,
           "patternText": "220.684/312.248",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 2",
+          "finalScore": "2 - 2",
+          "status": "lost"
         },
         {
           "matchCode": "4475904",
@@ -344,9 +345,7 @@
           "status": "live"
         }
       ]
-    }
-  ],
-  "completed": [
+    },
     {
       "id": "20261025-22-1",
       "createdAt": "25.10.2026 19:10",
@@ -448,9 +447,9 @@
           "patternScore": 70.7,
           "patternText": "227.638/321.969",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 1",
+          "status": "lost"
         },
         {
           "matchCode": "4513974",
@@ -470,9 +469,9 @@
           "patternScore": 70.38,
           "patternText": "223.086/316.952",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 0",
+          "status": "won"
         },
         {
           "matchCode": "4563402",
