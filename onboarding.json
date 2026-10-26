@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 10:12",
+  "updatedAt": "26.10.2026 10:37",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 611,
-      "lost": 358,
-      "total": 969,
-      "rate": 63.1
+      "won": 603,
+      "lost": 354,
+      "total": 957,
+      "rate": 63.0
     },
     "totalAnalyses": 151325,
     "leagues": 536,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 1248,
-    "analyses30d": 22266
+    "analyses24h": 1236,
+    "analyses30d": 22254
   },
   "recentWins": [
     {
@@ -214,9 +214,21 @@
     },
     {
       "type": "coupon",
-      "size": 5,
+      "size": 1,
+      "odds": 1.3,
+      "at": "26.10.2026 10:37"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.76,
-      "at": "25.10.2026 23:03"
+      "at": "26.10.2026 10:37"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 4.06,
+      "at": "26.10.2026 10:37"
     },
     {
       "type": "kickoff",
@@ -232,7 +244,7 @@
     },
     {
       "type": "analysis",
-      "count": 1248
+      "count": 1236
     }
   ],
   "today": {
@@ -270,6 +282,17 @@
       "picks": 1
     },
     {
+      "home": "Shinnik Yaroslavl",
+      "away": "Spartak Kostroma",
+      "league": "RUS1",
+      "date": "26.10.2026 16:30",
+      "matchCode": "4498094",
+      "odds": 1.1,
+      "patternScore": 69.8,
+      "patternText": "209.978/300.814",
+      "picks": 1
+    },
+    {
       "home": "Metaloglobus Bucharest",
       "away": "Ramnicu Valcea",
       "league": "ROM2",
@@ -289,17 +312,6 @@
       "odds": 1.08,
       "patternScore": 70.9,
       "patternText": "138.927/195.938",
-      "picks": 1
-    },
-    {
-      "home": "Neftchi Fargon",
-      "away": "Al Ittihad Jeddah",
-      "league": "AŞMP",
-      "date": "26.10.2026 13:45",
-      "matchCode": "4550142",
-      "odds": 1.07,
-      "patternScore": 69.39,
-      "patternText": "190.560/274.602",
       "picks": 1
     }
   ],
