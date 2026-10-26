@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 17:56",
+  "updatedAt": "26.10.2026 18:17",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 140,
-      "lost": 81,
-      "total": 221,
-      "rate": 63.3
+      "won": 116,
+      "lost": 72,
+      "total": 188,
+      "rate": 61.7
     },
     "totalAnalyses": 151544,
     "leagues": 536,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 563,
-    "analyses30d": 21160
+    "analyses24h": 526,
+    "analyses30d": 21069
   },
   "recentWins": [
     {
@@ -238,12 +238,6 @@
     },
     {
       "type": "updated",
-      "at": "26.10.2026 17:43",
-      "home": "Paris Saint-Germain",
-      "away": "Olympique Lyonnais"
-    },
-    {
-      "type": "updated",
       "at": "26.10.2026 13:30",
       "home": "Fc Iberia",
       "away": "Torpedo Kutaisi"
@@ -259,31 +253,26 @@
       "at": "26.10.2026 13:32",
       "home": "Sepsi OSK",
       "away": "Universitatea Craiova"
+    },
+    {
+      "type": "updated",
+      "at": "26.10.2026 17:43",
+      "home": "AZ Picerno",
+      "away": "Salernitana"
     }
   ],
   "today": {
-    "home": "Sevilla FC",
-    "away": "CA Osasuna",
-    "league": "İS1",
-    "date": "26.10.2026 20:00",
-    "matchCode": "4492357",
-    "odds": 1.75,
-    "patternScore": 66.65,
-    "patternText": "172.323/258.565",
-    "picks": 6
+    "home": "FC Andorra",
+    "away": "Burgos CF",
+    "league": "İS2",
+    "date": "26.10.2026 19:30",
+    "matchCode": "4492791",
+    "odds": 1.3,
+    "patternScore": 68.12,
+    "patternText": "211.184/310.020",
+    "picks": 5
   },
   "todayList": [
-    {
-      "home": "Sevilla FC",
-      "away": "CA Osasuna",
-      "league": "İS1",
-      "date": "26.10.2026 20:00",
-      "matchCode": "4492357",
-      "odds": 1.75,
-      "patternScore": 66.65,
-      "patternText": "172.323/258.565",
-      "picks": 6
-    },
     {
       "home": "FC Andorra",
       "away": "Burgos CF",
@@ -294,17 +283,6 @@
       "patternScore": 68.12,
       "patternText": "211.184/310.020",
       "picks": 5
-    },
-    {
-      "home": "AZ Picerno",
-      "away": "Salernitana",
-      "league": "İTC",
-      "date": "26.10.2026 19:30",
-      "matchCode": "4535924",
-      "odds": 1.26,
-      "patternScore": 67.9,
-      "patternText": "112.879/166.231",
-      "picks": 1
     },
     {
       "home": "Montpellier HSC",
@@ -327,6 +305,28 @@
       "patternScore": 68.67,
       "patternText": "109.360/159.261",
       "picks": 3
+    },
+    {
+      "home": "Boulogne",
+      "away": "Stade de Reims",
+      "league": "FR2",
+      "date": "26.10.2026 19:45",
+      "matchCode": "4476891",
+      "odds": 1.2,
+      "patternScore": 68.29,
+      "patternText": "134.873/197.514",
+      "picks": 5
+    },
+    {
+      "home": "Newcastle United U21",
+      "away": "Sunderland U21",
+      "league": "INGPL2",
+      "date": "26.10.2026 19:00",
+      "matchCode": "4544156",
+      "odds": 1.2,
+      "patternScore": 68.25,
+      "patternText": "207.433/303.941",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
