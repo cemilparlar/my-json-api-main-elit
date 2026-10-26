@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 08:21",
+  "updatedAt": "26.10.2026 08:31",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 635,
-      "lost": 369,
-      "total": 1004,
-      "rate": 63.2
+      "won": 633,
+      "lost": 367,
+      "total": 1000,
+      "rate": 63.3
     },
     "totalAnalyses": 151325,
     "leagues": 536,
@@ -47,7 +47,7 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 1283,
+    "analyses24h": 1279,
     "analyses30d": 22296
   },
   "recentWins": [
@@ -225,8 +225,14 @@
       "at": "25.10.2026 21:01"
     },
     {
+      "type": "kickoff",
+      "home": "Geylang International",
+      "away": "Sengkang FC",
+      "at": "26.10.2026 11:30"
+    },
+    {
       "type": "analysis",
-      "count": 1283
+      "count": 1279
     }
   ],
   "today": {
