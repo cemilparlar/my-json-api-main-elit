@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 16:18",
+  "updatedAt": "26.10.2026 16:36",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 175,
-      "lost": 116,
-      "total": 291,
-      "rate": 60.1
+      "won": 151,
+      "lost": 101,
+      "total": 252,
+      "rate": 59.9
     },
-    "totalAnalyses": 151451,
-    "leagues": 533,
+    "totalAnalyses": 151519,
+    "leagues": 535,
     "pro": {
       "won": 1322,
       "lost": 581,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 590,
-    "analyses30d": 21193
+    "analyses24h": 610,
+    "analyses30d": 21210
   },
   "recentWins": [
     {
@@ -285,17 +285,6 @@
       "picks": 6
     },
     {
-      "home": "Sandefjord Ii",
-      "away": "Sarpsborg 08 Ii",
-      "league": "NOR4",
-      "date": "26.10.2026 17:00",
-      "matchCode": "4430342",
-      "odds": 1.38,
-      "patternScore": 67.87,
-      "patternText": "199.427/293.824",
-      "picks": 3
-    },
-    {
       "home": "FC Andorra",
       "away": "Burgos CF",
       "league": "İS2",
@@ -327,9 +316,55 @@
       "patternScore": 68.47,
       "patternText": "123.326/180.115",
       "picks": 3
+    },
+    {
+      "home": "FC Copenhagen",
+      "away": "OB Odense",
+      "league": "DAN",
+      "date": "26.10.2026 18:00",
+      "matchCode": "4474505",
+      "odds": 1.25,
+      "patternScore": 66.83,
+      "patternText": "148.334/221.962",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "AS Roma",
+      "away": "Cagliari Calcio",
+      "league": "İTA",
+      "at": "26.10.2026 16:34",
+      "count": 16
+    },
+    {
+      "home": "Torino FC",
+      "away": "Como 1907",
+      "league": "İTA",
+      "at": "26.10.2026 16:34",
+      "count": 11
+    },
+    {
+      "home": "Bradford City",
+      "away": "Peterborough United",
+      "league": "İNLK",
+      "at": "26.10.2026 16:34",
+      "count": 5
+    },
+    {
+      "home": "Ascoli Calcio",
+      "away": "UC Sampdoria",
+      "league": "İTB",
+      "at": "26.10.2026 16:33",
+      "count": 7
+    },
+    {
+      "home": "US Sassuolo",
+      "away": "SS Lazio",
+      "league": "İTA",
+      "at": "26.10.2026 16:33",
+      "count": 8
+    },
     {
       "home": "Parma Calcio",
       "away": "Udinese",
@@ -364,41 +399,6 @@
       "league": "BR1",
       "at": "26.10.2026 14:32",
       "count": 13
-    },
-    {
-      "home": "CD Santa Clara",
-      "away": "SL Benfica",
-      "league": "POR",
-      "at": "26.10.2026 12:31",
-      "count": 13
-    },
-    {
-      "home": "Sporting CP",
-      "away": "Academico FC Viseu",
-      "league": "POR",
-      "at": "25.10.2026 18:55",
-      "count": 9
-    },
-    {
-      "home": "Udinese",
-      "away": "AC Milan",
-      "league": "İTA",
-      "at": "25.10.2026 18:54",
-      "count": 7
-    },
-    {
-      "home": "Real Sociedad",
-      "away": "Levante UD",
-      "league": "İS1",
-      "at": "25.10.2026 16:47",
-      "count": 14
-    },
-    {
-      "home": "US Lecce",
-      "away": "Juventus",
-      "league": "İTA",
-      "at": "25.10.2026 15:42",
-      "count": 1
     }
   ],
   "paywall": {
