@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 07:30",
+  "updatedAt": "26.10.2026 07:38",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 646,
-      "lost": 373,
-      "total": 1019,
-      "rate": 63.4
+      "won": 635,
+      "lost": 369,
+      "total": 1004,
+      "rate": 63.2
     },
     "totalAnalyses": 151325,
     "leagues": 536,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 1290,
-    "analyses30d": 22354
+    "analyses24h": 1283,
+    "analyses30d": 22347
   },
   "recentWins": [
     {
@@ -226,7 +226,7 @@
     },
     {
       "type": "analysis",
-      "count": 1290
+      "count": 1283
     }
   ],
   "today": {
@@ -264,6 +264,28 @@
       "picks": 2
     },
     {
+      "home": "FC Andorra",
+      "away": "Burgos CF",
+      "league": "İS2",
+      "date": "26.10.2026 19:30",
+      "matchCode": "4492791",
+      "odds": 1.76,
+      "patternScore": 67.75,
+      "patternText": "182.544/269.449",
+      "picks": 5
+    },
+    {
+      "home": "AZ Picerno",
+      "away": "Salernitana",
+      "league": "İTC",
+      "date": "26.10.2026 19:30",
+      "matchCode": "4535924",
+      "odds": 1.26,
+      "patternScore": 67.9,
+      "patternText": "112.807/166.139",
+      "picks": 1
+    },
+    {
       "home": "Warta Poznan",
       "away": "LKS Lodz",
       "league": "POL1",
@@ -273,31 +295,16 @@
       "patternScore": 68.3,
       "patternText": "196.234/287.328",
       "picks": 3
-    },
-    {
-      "home": "Transinvest Vi",
-      "away": "Fa Siauliai Ii",
-      "league": "LIT1",
-      "date": "26.10.2026 16:00",
-      "matchCode": "4484901",
-      "odds": 1.21,
-      "patternScore": 69.81,
-      "patternText": "137.819/197.417",
-      "picks": 1
-    },
-    {
-      "home": "Mardin 1969",
-      "away": "Manisa FK",
-      "league": "T1L",
-      "date": "26.10.2026 17:00",
-      "matchCode": "4498857",
-      "odds": 1.19,
-      "patternScore": 68.52,
-      "patternText": "201.043/293.426",
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "CD Santa Clara",
+      "away": "SL Benfica",
+      "league": "POR",
+      "at": "26.10.2026 07:38",
+      "count": 6
+    },
     {
       "home": "Paris Saint-Germain",
       "away": "Olympique Lyonnais",
@@ -360,13 +367,6 @@
       "league": "FR1",
       "at": "25.10.2026 15:40",
       "count": 8
-    },
-    {
-      "home": "Toulouse FC",
-      "away": "ESTAC Troyes",
-      "league": "FR1",
-      "at": "25.10.2026 15:40",
-      "count": 4
     }
   ],
   "paywall": {
