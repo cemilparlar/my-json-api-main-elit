@@ -84,8 +84,8 @@
       "lost": 9
     }
   },
-  "updatedAt": "26.10.2026 10:50",
-  "updatedAtUtc": "2026-10-26T10:50:00Z",
+  "updatedAt": "26.10.2026 11:00",
+  "updatedAtUtc": "2026-10-26T11:00:00Z",
   "upcoming": [
     {
       "id": "20261026-13-3",
@@ -206,6 +206,47 @@
           "probability": 72.72727272727273,
           "patternScore": 67.75,
           "patternText": "182.544/269.449",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261026-14-1",
+      "createdAt": "26.10.2026 11:00",
+      "createdAtUtc": "2026-10-26T11:00:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.54,
+      "winChance": 55.88,
+      "firstKickoff": "26.10.2026 19:30",
+      "lastKickoff": "26.10.2026 19:30",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "surprise_1",
+      "group": "surprise",
+      "formula": "1",
+      "effectiveOdds": 1.54,
+      "legs": [
+        {
+          "matchCode": "4476575",
+          "nesine": null,
+          "date": "26.10.2026 19:30",
+          "kickoffUtc": "2026-10-26T19:30:00Z",
+          "league": "FR1",
+          "home": "Paris Saint-Germain",
+          "away": "Olympique Lyonnais",
+          "league_tr": "FR1",
+          "home_tr": "Psg",
+          "away_tr": "Lyon",
+          "prediction": "1st Half Result 1",
+          "prediction_tr": "1. Yarı Sonucu 1",
+          "odds": 1.54,
+          "probability": 100.0,
+          "patternScore": 55.88,
+          "patternText": "196.085/350.913",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,

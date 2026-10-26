@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 10:50",
+  "updatedAt": "26.10.2026 11:00",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 954,
       "rate": 63.0
     },
-    "totalAnalyses": 151332,
+    "totalAnalyses": 151343,
     "leagues": 536,
     "pro": {
       "won": 1322,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 1223,
-    "analyses30d": 22246
+    "analyses24h": 1198,
+    "analyses30d": 22211
   },
   "recentWins": [
     {
@@ -215,6 +215,12 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.54,
+      "at": "26.10.2026 11:00"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.3,
       "at": "26.10.2026 10:37"
     },
@@ -225,38 +231,34 @@
       "at": "26.10.2026 10:37"
     },
     {
-      "type": "coupon",
-      "size": 3,
-      "odds": 4.06,
-      "at": "26.10.2026 10:37"
+      "type": "updated",
+      "at": "26.10.2026 10:50",
+      "home": "Paris Saint-Germain",
+      "away": "Olympique Lyonnais"
+    },
+    {
+      "type": "updated",
+      "at": "26.10.2026 10:49",
+      "home": "Persija Jakarta",
+      "away": "Persik Kediri"
+    },
+    {
+      "type": "updated",
+      "at": "26.10.2026 10:50",
+      "home": "Crotone",
+      "away": "US Casarano"
+    },
+    {
+      "type": "updated",
+      "at": "26.10.2026 10:50",
+      "home": "Sevilla FC",
+      "away": "CA Osasuna"
     },
     {
       "type": "updated",
       "at": "26.10.2026 10:50",
       "home": "Neftchi Fargon",
       "away": "Al Ittihad Jeddah"
-    },
-    {
-      "type": "kickoff",
-      "home": "Geylang International",
-      "away": "Sengkang FC",
-      "at": "26.10.2026 11:30"
-    },
-    {
-      "type": "kickoff",
-      "home": "Persebaya Surabaya",
-      "away": "Madura United",
-      "at": "26.10.2026 12:00"
-    },
-    {
-      "type": "kickoff",
-      "home": "Neftchi Fargon",
-      "away": "Al Ittihad Jeddah",
-      "at": "26.10.2026 13:45"
-    },
-    {
-      "type": "analysis",
-      "count": 1223
     }
   ],
   "today": {
@@ -266,8 +268,8 @@
     "date": "26.10.2026 12:00",
     "matchCode": "4550377",
     "odds": 1.53,
-    "patternScore": 67.87,
-    "patternText": "176.817/260.506",
+    "patternScore": 67.88,
+    "patternText": "176.829/260.518",
     "picks": 2
   },
   "todayList": [
@@ -278,8 +280,8 @@
       "date": "26.10.2026 12:00",
       "matchCode": "4550377",
       "odds": 1.53,
-      "patternScore": 67.87,
-      "patternText": "176.817/260.506",
+      "patternScore": 67.88,
+      "patternText": "176.829/260.518",
       "picks": 2
     },
     {
@@ -290,7 +292,7 @@
       "matchCode": "4484901",
       "odds": 1.21,
       "patternScore": 69.81,
-      "patternText": "137.819/197.417",
+      "patternText": "137.823/197.421",
       "picks": 1
     },
     {
@@ -301,7 +303,7 @@
       "matchCode": "4498094",
       "odds": 1.1,
       "patternScore": 69.8,
-      "patternText": "209.978/300.814",
+      "patternText": "209.986/300.822",
       "picks": 1
     },
     {
@@ -312,7 +314,7 @@
       "matchCode": "4477533",
       "odds": 1.09,
       "patternScore": 70.84,
-      "patternText": "276.368/390.145",
+      "patternText": "276.376/390.153",
       "picks": 1
     },
     {
@@ -329,18 +331,25 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Paris Saint-Germain",
+      "away": "Olympique Lyonnais",
+      "league": "FR1",
+      "at": "26.10.2026 10:50",
+      "count": 14
+    },
+    {
+      "home": "Sevilla FC",
+      "away": "CA Osasuna",
+      "league": "İS1",
+      "at": "26.10.2026 10:50",
+      "count": 5
+    },
+    {
       "home": "CD Santa Clara",
       "away": "SL Benfica",
       "league": "POR",
       "at": "26.10.2026 07:38",
       "count": 6
-    },
-    {
-      "home": "Paris Saint-Germain",
-      "away": "Olympique Lyonnais",
-      "league": "FR1",
-      "at": "25.10.2026 19:55",
-      "count": 10
     },
     {
       "home": "Sporting CP",
@@ -390,13 +399,6 @@
       "league": "FR1",
       "at": "25.10.2026 15:40",
       "count": 6
-    },
-    {
-      "home": "Stade Rennais",
-      "away": "RC Strasbourg",
-      "league": "FR1",
-      "at": "25.10.2026 15:40",
-      "count": 8
     }
   ],
   "paywall": {
