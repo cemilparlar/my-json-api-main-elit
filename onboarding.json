@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 14:20",
+  "updatedAt": "26.10.2026 14:32",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 332,
-      "lost": 222,
-      "total": 554,
-      "rate": 59.9
+      "won": 322,
+      "lost": 212,
+      "total": 534,
+      "rate": 60.3
     },
-    "totalAnalyses": 151399,
+    "totalAnalyses": 151433,
     "leagues": 533,
     "pro": {
       "won": 1322,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 841,
-    "analyses30d": 21361
+    "analyses24h": 838,
+    "analyses30d": 21356
   },
   "recentWins": [
     {
@@ -250,15 +250,15 @@
     },
     {
       "type": "updated",
-      "at": "26.10.2026 13:31",
-      "home": "NK Istra 1961",
-      "away": "Hajduk Split"
+      "at": "26.10.2026 14:30",
+      "home": "Nueva Chicago",
+      "away": "San Martin Sj"
     },
     {
       "type": "updated",
-      "at": "26.10.2026 13:32",
-      "home": "Sepsi OSK",
-      "away": "Universitatea Craiova"
+      "at": "26.10.2026 13:31",
+      "home": "NK Istra 1961",
+      "away": "Hajduk Split"
     }
   ],
   "today": {
@@ -331,6 +331,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "CR Flamengo",
+      "away": "Atletico Mineiro",
+      "league": "BR1",
+      "at": "26.10.2026 14:32",
+      "count": 13
+    },
+    {
       "home": "Paris Saint-Germain",
       "away": "Olympique Lyonnais",
       "league": "FR1",
@@ -390,13 +397,6 @@
       "home": "Verona",
       "away": "AC Pisa",
       "league": "İTB",
-      "at": "25.10.2026 15:40",
-      "count": 6
-    },
-    {
-      "home": "Angers SCO",
-      "away": "FC Lorient",
-      "league": "FR1",
       "at": "25.10.2026 15:40",
       "count": 6
     }
