@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 23:36",
+  "updatedAt": "26.10.2026 23:46",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 259,
       "rate": 61.4
     },
-    "totalAnalyses": 151563,
+    "totalAnalyses": 151568,
     "leagues": 535,
     "pro": {
       "won": 1377,
@@ -47,8 +47,8 @@
       "total": 193,
       "rate": 50.8
     },
-    "analyses24h": 421,
-    "analyses30d": 20607
+    "analyses24h": 426,
+    "analyses30d": 20612
   },
   "recentWins": [
     {
@@ -231,34 +231,26 @@
       "at": "26.10.2026 20:08"
     },
     {
-      "type": "updated",
-      "at": "26.10.2026 17:42",
-      "home": "Galatasaray",
-      "away": "Fenerbahce"
-    },
-    {
-      "type": "updated",
-      "at": "26.10.2026 17:43",
-      "home": "AZ Picerno",
-      "away": "Salernitana"
-    },
-    {
-      "type": "updated",
-      "at": "26.10.2026 17:43",
-      "home": "Sevilla FC",
-      "away": "CA Osasuna"
-    },
-    {
-      "type": "updated",
-      "at": "26.10.2026 17:42",
-      "home": "Al Qadsiah",
-      "away": "Al Sadd"
-    },
-    {
       "type": "kickoff",
       "home": "Instituto Cordoba",
       "away": "Deportivo Riestra",
       "at": "27.10.2026 00:15"
+    },
+    {
+      "type": "kickoff",
+      "home": "Mount Pleasant",
+      "away": "Montego Bay Uni",
+      "at": "27.10.2026 01:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Independiente Santa Fe",
+      "away": "Atletico Bucaramanga",
+      "at": "27.10.2026 01:05"
+    },
+    {
+      "type": "analysis",
+      "count": 426
     }
   ],
   "today": {
