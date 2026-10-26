@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 15:42",
+  "updatedAt": "26.10.2026 16:01",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 248,
-      "lost": 169,
-      "total": 417,
-      "rate": 59.5
+      "won": 190,
+      "lost": 132,
+      "total": 322,
+      "rate": 59.0
     },
     "totalAnalyses": 151451,
-    "leagues": 534,
+    "leagues": 533,
     "pro": {
       "won": 1322,
       "lost": 581,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 719,
-    "analyses30d": 21265
+    "analyses24h": 621,
+    "analyses30d": 21193
   },
   "recentWins": [
     {
@@ -215,20 +215,20 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.3,
+      "at": "26.10.2026 16:01"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
+      "odds": 1.75,
+      "at": "26.10.2026 16:01"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.34,
       "at": "26.10.2026 12:02"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.54,
-      "at": "26.10.2026 11:00"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.3,
-      "at": "26.10.2026 10:37"
     },
     {
       "type": "updated",
