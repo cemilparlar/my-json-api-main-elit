@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 03:50",
+  "updatedAt": "26.10.2026 04:04",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 691,
-      "lost": 369,
-      "total": 1060,
-      "rate": 65.2
+      "won": 672,
+      "lost": 363,
+      "total": 1035,
+      "rate": 64.9
     },
     "totalAnalyses": 151325,
     "leagues": 536,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 1389,
-    "analyses30d": 22373
+    "analyses24h": 1364,
+    "analyses30d": 22371
   },
   "recentWins": [
     {
@@ -232,7 +232,7 @@
     },
     {
       "type": "analysis",
-      "count": 1389
+      "count": 1364
     }
   ],
   "today": {
@@ -259,6 +259,17 @@
       "picks": 2
     },
     {
+      "home": "Transinvest Vi",
+      "away": "Fa Siauliai Ii",
+      "league": "LIT1",
+      "date": "26.10.2026 16:00",
+      "matchCode": "4484901",
+      "odds": 1.21,
+      "patternScore": 69.81,
+      "patternText": "137.749/197.317",
+      "picks": 1
+    },
+    {
       "home": "Metaloglobus Bucharest",
       "away": "Ramnicu Valcea",
       "league": "ROM2",
@@ -267,6 +278,17 @@
       "odds": 1.08,
       "patternScore": 70.89,
       "patternText": "130.867/184.602",
+      "picks": 1
+    },
+    {
+      "home": "Nueva Chicago",
+      "away": "San Martin Sj",
+      "league": "ARJPBN",
+      "date": "26.10.2026 16:00",
+      "matchCode": "4441284",
+      "odds": 1.08,
+      "patternScore": 70.9,
+      "patternText": "138.829/195.810",
       "picks": 1
     },
     {
@@ -279,28 +301,6 @@
       "patternScore": 69.39,
       "patternText": "190.434/274.430",
       "picks": 1
-    },
-    {
-      "home": "Geylang International",
-      "away": "Sengkang FC",
-      "league": "SİNP",
-      "date": "26.10.2026 11:30",
-      "matchCode": "4538568",
-      "odds": 1.07,
-      "patternScore": 70.57,
-      "patternText": "243.639/345.229",
-      "picks": 2
-    },
-    {
-      "home": "FC Andorra",
-      "away": "Burgos CF",
-      "league": "İS2",
-      "date": "26.10.2026 19:30",
-      "matchCode": "4492791",
-      "odds": 1.76,
-      "patternScore": 67.74,
-      "patternText": "182.410/269.265",
-      "picks": 5
     }
   ],
   "recentAnalyzed": [

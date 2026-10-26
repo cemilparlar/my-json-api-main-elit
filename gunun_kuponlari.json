@@ -84,8 +84,8 @@
       "lost": 9
     }
   },
-  "updatedAt": "26.10.2026 03:50",
-  "updatedAtUtc": "2026-10-26T03:50:00Z",
+  "updatedAt": "26.10.2026 04:04",
+  "updatedAtUtc": "2026-10-26T04:04:00Z",
   "upcoming": [],
   "completed": [
     {
@@ -2270,88 +2270,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "void"
-        }
-      ]
-    },
-    {
-      "id": "20261024-03-1",
-      "createdAt": "24.10.2026 00:07",
-      "createdAtUtc": "2026-10-24T00:07:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.58,
-      "winChance": 64.06,
-      "firstKickoff": "24.10.2026 23:30",
-      "lastKickoff": "24.10.2026 23:30",
-      "status": "won",
-      "completedAt": "25.10.2026 04:00",
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.58,
-      "legs": [
-        {
-          "matchCode": "4419801",
-          "nesine": null,
-          "date": "24.10.2026 23:30",
-          "kickoffUtc": "2026-10-24T23:30:00Z",
-          "league": "ABD",
-          "home": "Philadelphia Union",
-          "away": "New England Revolution",
-          "league_tr": "ABD",
-          "home_tr": "Philadelphia",
-          "away_tr": "New England",
-          "prediction": "1st Half Under 1.5",
-          "prediction_tr": "1. Yarı 1,5 Alt/Üst Alt",
-          "odds": 1.58,
-          "probability": 75.0,
-          "patternScore": 64.06,
-          "patternText": "264.262/412.503",
-          "mbs": 1,
-          "firstHalf": "0 - 1",
-          "finalScore": "1 - 2",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261024-03-2",
-      "createdAt": "24.10.2026 00:07",
-      "createdAtUtc": "2026-10-24T00:07:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.74,
-      "winChance": 56.37,
-      "firstKickoff": "24.10.2026 23:30",
-      "lastKickoff": "24.10.2026 23:30",
-      "status": "lost",
-      "completedAt": "25.10.2026 04:00",
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.74,
-      "legs": [
-        {
-          "matchCode": "4419802",
-          "nesine": null,
-          "date": "24.10.2026 23:30",
-          "kickoffUtc": "2026-10-24T23:30:00Z",
-          "league": "ABD",
-          "home": "DC United",
-          "away": "FC Cincinnati",
-          "league_tr": "ABD",
-          "home_tr": "Dc United",
-          "away_tr": "Cincinnati",
-          "prediction": "Over 3.5 Goals",
-          "prediction_tr": "3,5 Alt/Üst Üst",
-          "odds": 1.74,
-          "probability": 100.0,
-          "patternScore": 56.37,
-          "patternText": "204.624/362.996",
-          "mbs": 1,
-          "firstHalf": "0 - 1",
-          "finalScore": "0 - 2",
-          "status": "lost"
         }
       ]
     }
