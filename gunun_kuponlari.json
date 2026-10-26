@@ -84,8 +84,8 @@
       "lost": 9
     }
   },
-  "updatedAt": "26.10.2026 18:53",
-  "updatedAtUtc": "2026-10-26T18:53:00Z",
+  "updatedAt": "26.10.2026 19:12",
+  "updatedAtUtc": "2026-10-26T19:12:00Z",
   "upcoming": [
     {
       "id": "20261026-13-3",
@@ -411,6 +411,47 @@
           "probability": 75.0,
           "patternScore": 72.56,
           "patternText": "180.456/262.442",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261026-22-1",
+      "createdAt": "26.10.2026 19:12",
+      "createdAtUtc": "2026-10-26T19:12:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.47,
+      "winChance": 75.3,
+      "firstKickoff": "27.10.2026 19:00",
+      "lastKickoff": "27.10.2026 19:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "safe_b",
+      "group": "safe",
+      "formula": "B",
+      "effectiveOdds": 1.47,
+      "legs": [
+        {
+          "matchCode": "4534757",
+          "nesine": null,
+          "date": "27.10.2026 19:00",
+          "kickoffUtc": "2026-10-27T19:00:00Z",
+          "league": "İTB",
+          "home": "Ascoli Calcio",
+          "away": "UC Sampdoria",
+          "league_tr": "İTB",
+          "home_tr": "Ascoli Picchio",
+          "away_tr": "Sampdoria",
+          "prediction": "Double Chance X2",
+          "prediction_tr": "Çifte Şans X-2",
+          "odds": 1.47,
+          "probability": 72.73,
+          "patternScore": 75.3,
+          "patternText": "204.763/299.675",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
