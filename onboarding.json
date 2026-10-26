@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 21:41",
+  "updatedAt": "26.10.2026 22:01",
   "config": {
     "pages": [
       "engine",
@@ -23,9 +23,9 @@
     "days": 7,
     "last24h": {
       "won": 116,
-      "lost": 73,
-      "total": 189,
-      "rate": 61.4
+      "lost": 70,
+      "total": 186,
+      "rate": 62.4
     },
     "totalAnalyses": 151563,
     "leagues": 535,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 443,
-    "analyses30d": 20678
+    "analyses24h": 440,
+    "analyses30d": 20662
   },
   "recentWins": [
     {
@@ -285,17 +285,6 @@
       "picks": 3
     },
     {
-      "home": "Coritiba FBC",
-      "away": "Gremio FBPA",
-      "league": "BR1",
-      "date": "26.10.2026 22:30",
-      "matchCode": "4423346",
-      "odds": 1.19,
-      "patternScore": 68.77,
-      "patternText": "191.537/278.524",
-      "picks": 4
-    },
-    {
       "home": "Mount Pleasant",
       "away": "Montego Bay Uni",
       "league": "JAM",
@@ -326,6 +315,17 @@
       "odds": 1.14,
       "patternScore": 70.38,
       "patternText": "213.736/303.700",
+      "picks": 1
+    },
+    {
+      "home": "Universidad de Chile",
+      "away": "Everton de Vina del Mar",
+      "league": "ŞİL",
+      "date": "26.10.2026 23:00",
+      "matchCode": "4435988",
+      "odds": 1.08,
+      "patternScore": 72.1,
+      "patternText": "140.985/195.549",
       "picks": 1
     }
   ],
