@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 00:26",
+  "updatedAt": "26.10.2026 00:45",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 732,
-      "lost": 386,
-      "total": 1118,
-      "rate": 65.5
+      "won": 692,
+      "lost": 370,
+      "total": 1062,
+      "rate": 65.2
     },
     "totalAnalyses": 151325,
     "leagues": 536,
@@ -47,7 +47,7 @@
       "total": 185,
       "rate": 51.9
     },
-    "analyses24h": 1481,
+    "analyses24h": 1425,
     "analyses30d": 22415
   },
   "recentWins": [
@@ -262,28 +262,17 @@
     }
   ],
   "today": {
-    "home": "FC Queretaro",
-    "away": "Cruz Azul",
+    "home": "Club Tijuana",
+    "away": "Santos Laguna",
     "league": "MEK",
-    "date": "26.10.2026 01:00",
-    "matchCode": "4476475",
-    "odds": 1.14,
-    "patternScore": 69.04,
-    "patternText": "173.075/250.683",
-    "picks": 3
+    "date": "26.10.2026 03:10",
+    "matchCode": "4476476",
+    "odds": 1.11,
+    "patternScore": 71.8,
+    "patternText": "130.683/182.014",
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "FC Queretaro",
-      "away": "Cruz Azul",
-      "league": "MEK",
-      "date": "26.10.2026 01:00",
-      "matchCode": "4476475",
-      "odds": 1.14,
-      "patternScore": 69.04,
-      "patternText": "173.075/250.683",
-      "picks": 3
-    },
     {
       "home": "Club Tijuana",
       "away": "Santos Laguna",
@@ -294,17 +283,6 @@
       "patternScore": 71.8,
       "patternText": "130.683/182.014",
       "picks": 2
-    },
-    {
-      "home": "Los Angeles FC",
-      "away": "LA Galaxy",
-      "league": "ABD",
-      "date": "26.10.2026 01:00",
-      "matchCode": "4419811",
-      "odds": 1.08,
-      "patternScore": 65.18,
-      "patternText": "228.273/350.240",
-      "picks": 4
     },
     {
       "home": "Persebaya Surabaya",
@@ -327,6 +305,28 @@
       "patternScore": 70.58,
       "patternText": "243.493/344.985",
       "picks": 2
+    },
+    {
+      "home": "Warta Poznan",
+      "away": "LKS Lodz",
+      "league": "POL1",
+      "date": "26.10.2026 17:00",
+      "matchCode": "4486231",
+      "odds": 1.23,
+      "patternScore": 68.3,
+      "patternText": "196.018/286.980",
+      "picks": 3
+    },
+    {
+      "home": "Transinvest Vi",
+      "away": "Fa Siauliai Ii",
+      "league": "LIT1",
+      "date": "26.10.2026 16:00",
+      "matchCode": "4484901",
+      "odds": 1.21,
+      "patternScore": 69.81,
+      "patternText": "137.663/197.197",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
