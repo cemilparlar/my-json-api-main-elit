@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 13:22",
+  "updatedAt": "26.10.2026 13:31",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 434,
-      "lost": 275,
-      "total": 709,
-      "rate": 61.2
+      "won": 392,
+      "lost": 262,
+      "total": 654,
+      "rate": 59.9
     },
-    "totalAnalyses": 151377,
+    "totalAnalyses": 151398,
     "leagues": 534,
     "pro": {
       "won": 1322,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 985,
-    "analyses30d": 21841
+    "analyses24h": 948,
+    "analyses30d": 21808
   },
   "recentWins": [
     {
@@ -262,17 +262,28 @@
     }
   ],
   "today": {
-    "home": "Al Ula",
-    "away": "Al Orubah Club",
-    "league": "SUUD1",
-    "date": "26.10.2026 16:45",
-    "matchCode": "4538708",
-    "odds": 1.63,
-    "patternScore": 68.7,
-    "patternText": "127.716/185.912",
-    "picks": 1
+    "home": "FC Andorra",
+    "away": "Burgos CF",
+    "league": "İS2",
+    "date": "26.10.2026 19:30",
+    "matchCode": "4492791",
+    "odds": 1.76,
+    "patternScore": 67.75,
+    "patternText": "182.548/269.453",
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "FC Andorra",
+      "away": "Burgos CF",
+      "league": "İS2",
+      "date": "26.10.2026 19:30",
+      "matchCode": "4492791",
+      "odds": 1.76,
+      "patternScore": 67.75,
+      "patternText": "182.548/269.453",
+      "picks": 5
+    },
     {
       "home": "Al Ula",
       "away": "Al Orubah Club",
@@ -282,6 +293,17 @@
       "odds": 1.63,
       "patternScore": 68.7,
       "patternText": "127.716/185.912",
+      "picks": 1
+    },
+    {
+      "home": "AZ Picerno",
+      "away": "Salernitana",
+      "league": "İTC",
+      "date": "26.10.2026 19:30",
+      "matchCode": "4535924",
+      "odds": 1.26,
+      "patternScore": 67.9,
+      "patternText": "112.807/166.139",
       "picks": 1
     },
     {
@@ -305,28 +327,6 @@
       "patternScore": 69.81,
       "patternText": "137.823/197.421",
       "picks": 1
-    },
-    {
-      "home": "Mardin 1969",
-      "away": "Manisa FK",
-      "league": "T1L",
-      "date": "26.10.2026 17:00",
-      "matchCode": "4498857",
-      "odds": 1.19,
-      "patternScore": 68.52,
-      "patternText": "201.047/293.430",
-      "picks": 2
-    },
-    {
-      "home": "Al Nassr",
-      "away": "Al Wasl",
-      "league": "AŞMP",
-      "date": "26.10.2026 18:15",
-      "matchCode": "4550147",
-      "odds": 1.17,
-      "patternScore": 68.07,
-      "patternText": "200.823/295.022",
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
