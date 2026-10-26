@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 11:00",
+  "updatedAt": "26.10.2026 11:12",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 601,
-      "lost": 353,
-      "total": 954,
-      "rate": 63.0
+      "won": 577,
+      "lost": 343,
+      "total": 920,
+      "rate": 62.7
     },
     "totalAnalyses": 151343,
     "leagues": 536,
@@ -285,6 +285,17 @@
       "picks": 2
     },
     {
+      "home": "Warta Poznan",
+      "away": "LKS Lodz",
+      "league": "POL1",
+      "date": "26.10.2026 17:00",
+      "matchCode": "4486231",
+      "odds": 1.23,
+      "patternScore": 68.3,
+      "patternText": "196.238/287.332",
+      "picks": 3
+    },
+    {
       "home": "Transinvest Vi",
       "away": "Fa Siauliai Ii",
       "league": "LIT1",
@@ -296,6 +307,17 @@
       "picks": 1
     },
     {
+      "home": "Mardin 1969",
+      "away": "Manisa FK",
+      "league": "T1L",
+      "date": "26.10.2026 17:00",
+      "matchCode": "4498857",
+      "odds": 1.19,
+      "patternScore": 68.52,
+      "patternText": "201.047/293.430",
+      "picks": 2
+    },
+    {
       "home": "Shinnik Yaroslavl",
       "away": "Spartak Kostroma",
       "league": "RUS1",
@@ -304,28 +326,6 @@
       "odds": 1.1,
       "patternScore": 69.8,
       "patternText": "209.986/300.822",
-      "picks": 1
-    },
-    {
-      "home": "Kauno Zalgiris",
-      "away": "Zalgiris Vilniu",
-      "league": "LITA",
-      "date": "26.10.2026 16:45",
-      "matchCode": "4477533",
-      "odds": 1.09,
-      "patternScore": 70.84,
-      "patternText": "276.376/390.153",
-      "picks": 1
-    },
-    {
-      "home": "Metaloglobus Bucharest",
-      "away": "Ramnicu Valcea",
-      "league": "ROM2",
-      "date": "26.10.2026 15:00",
-      "matchCode": "4513304",
-      "odds": 1.08,
-      "patternScore": 70.9,
-      "patternText": "130.965/184.730",
       "picks": 1
     }
   ],
