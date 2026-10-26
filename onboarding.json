@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 11:23",
+  "updatedAt": "26.10.2026 11:33",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 570,
-      "lost": 340,
-      "total": 910,
-      "rate": 62.6
+      "won": 545,
+      "lost": 333,
+      "total": 878,
+      "rate": 62.1
     },
     "totalAnalyses": 151343,
-    "leagues": 536,
+    "leagues": 535,
     "pro": {
       "won": 1322,
       "lost": 581,
@@ -47,8 +47,8 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 1188,
-    "analyses30d": 22211
+    "analyses24h": 1139,
+    "analyses30d": 22171
   },
   "recentWins": [
     {
@@ -262,28 +262,17 @@
     }
   ],
   "today": {
-    "home": "Persebaya Surabaya",
-    "away": "Madura United",
-    "league": "ENDL1",
-    "date": "26.10.2026 12:00",
-    "matchCode": "4550377",
-    "odds": 1.53,
-    "patternScore": 67.88,
-    "patternText": "176.829/260.518",
-    "picks": 2
+    "home": "Warta Poznan",
+    "away": "LKS Lodz",
+    "league": "POL1",
+    "date": "26.10.2026 17:00",
+    "matchCode": "4486231",
+    "odds": 1.23,
+    "patternScore": 68.3,
+    "patternText": "196.238/287.332",
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Persebaya Surabaya",
-      "away": "Madura United",
-      "league": "ENDL1",
-      "date": "26.10.2026 12:00",
-      "matchCode": "4550377",
-      "odds": 1.53,
-      "patternScore": 67.88,
-      "patternText": "176.829/260.518",
-      "picks": 2
-    },
     {
       "home": "Warta Poznan",
       "away": "LKS Lodz",
@@ -326,6 +315,17 @@
       "odds": 1.1,
       "patternScore": 69.8,
       "patternText": "209.986/300.822",
+      "picks": 1
+    },
+    {
+      "home": "Kauno Zalgiris",
+      "away": "Zalgiris Vilniu",
+      "league": "LITA",
+      "date": "26.10.2026 16:45",
+      "matchCode": "4477533",
+      "odds": 1.09,
+      "patternScore": 70.84,
+      "patternText": "276.376/390.153",
       "picks": 1
     }
   ],
