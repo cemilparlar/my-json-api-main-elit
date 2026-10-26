@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.10.2026 16:01",
+  "updatedAt": "26.10.2026 16:18",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 190,
-      "lost": 132,
-      "total": 322,
-      "rate": 59.0
+      "won": 175,
+      "lost": 116,
+      "total": 291,
+      "rate": 60.1
     },
     "totalAnalyses": 151451,
     "leagues": 533,
@@ -47,7 +47,7 @@
       "total": 187,
       "rate": 51.3
     },
-    "analyses24h": 621,
+    "analyses24h": 590,
     "analyses30d": 21193
   },
   "recentWins": [
@@ -285,17 +285,6 @@
       "picks": 6
     },
     {
-      "home": "Al Ula",
-      "away": "Al Orubah Club",
-      "league": "SUUD1",
-      "date": "26.10.2026 16:45",
-      "matchCode": "4538708",
-      "odds": 1.63,
-      "patternScore": 68.7,
-      "patternText": "127.716/185.912",
-      "picks": 1
-    },
-    {
       "home": "Sandefjord Ii",
       "away": "Sarpsborg 08 Ii",
       "league": "NOR4",
@@ -327,6 +316,17 @@
       "patternScore": 67.9,
       "patternText": "112.807/166.139",
       "picks": 1
+    },
+    {
+      "home": "Montpellier HSC",
+      "away": "Red Star FC",
+      "league": "FR2",
+      "date": "26.10.2026 19:45",
+      "matchCode": "4476895",
+      "odds": 1.25,
+      "patternScore": 68.47,
+      "patternText": "123.326/180.115",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
