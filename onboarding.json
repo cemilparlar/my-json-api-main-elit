@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 17:19",
+  "updatedAt": "27.10.2026 17:30",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 194,
       "rate": 51.0
     },
-    "analyses24h": 341,
-    "analyses30d": 19843
+    "analyses24h": 337,
+    "analyses30d": 19841
   },
   "recentWins": [
     {
@@ -226,6 +226,12 @@
     },
     {
       "type": "updated",
+      "at": "27.10.2026 17:16",
+      "home": "Sparta Rotterdam",
+      "away": "Fortuna Sittard"
+    },
+    {
+      "type": "updated",
       "at": "27.10.2026 13:27",
       "home": "Al Jazira Club",
       "away": "Al Muharraq"
@@ -253,12 +259,6 @@
       "at": "27.10.2026 16:39",
       "home": "Phnom Penh Cro",
       "away": "Kitchee SC"
-    },
-    {
-      "type": "kickoff",
-      "home": "US Sassuolo",
-      "away": "SS Lazio",
-      "at": "27.10.2026 17:30"
     }
   ],
   "today": {
@@ -307,17 +307,6 @@
       "picks": 2
     },
     {
-      "home": "Dodoma Jiji FC",
-      "away": "JKT Tanzania",
-      "league": "TANZ",
-      "date": "27.10.2026 18:00",
-      "matchCode": "4509945",
-      "odds": 1.18,
-      "patternScore": 69.64,
-      "patternText": "252.100/361.979",
-      "picks": 1
-    },
-    {
       "home": "Blackpool",
       "away": "Aston Villa U21",
       "league": "İNTK",
@@ -327,6 +316,17 @@
       "patternScore": 68.3,
       "patternText": "196.978/288.421",
       "picks": 1
+    },
+    {
+      "home": "Chesham United",
+      "away": "Farnham Town",
+      "league": "İCON",
+      "date": "27.10.2026 19:45",
+      "matchCode": "4516096",
+      "odds": 1.15,
+      "patternScore": 70.52,
+      "patternText": "193.785/274.797",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
