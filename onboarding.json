@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 21:49",
+  "updatedAt": "27.10.2026 21:58",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 47,
-      "lost": 23,
-      "total": 70,
-      "rate": 67.1
+      "won": 65,
+      "lost": 35,
+      "total": 100,
+      "rate": 65.0
     },
     "totalAnalyses": 151688,
     "leagues": 534,
     "pro": {
-      "won": 1401,
-      "lost": 619,
-      "total": 2020,
+      "won": 1412,
+      "lost": 624,
+      "total": 2036,
       "rate": 69.4
     },
     "insights": {
-      "won": 2370,
-      "lost": 1062,
-      "total": 3432,
-      "rate": 69.1
+      "won": 2388,
+      "lost": 1074,
+      "total": 3462,
+      "rate": 69.0
     },
     "coupons": {
-      "won": 99,
-      "lost": 96,
-      "total": 195,
-      "rate": 50.8
+      "won": 101,
+      "lost": 97,
+      "total": 198,
+      "rate": 51.0
     },
     "analyses24h": 217,
     "analyses30d": 19656
@@ -120,6 +120,36 @@
   "recentCoupons": [
     {
       "size": 1,
+      "totalOdds": 1.35,
+      "winChance": 69.18,
+      "completedAt": "27.10.2026 21:58",
+      "legs": [
+        {
+          "home": "Torino FC",
+          "away": "Como 1907",
+          "prediction": "1st Half Double Chance 12",
+          "odds": 1.35,
+          "finalScore": "1 - 3"
+        }
+      ]
+    },
+    {
+      "size": 1,
+      "totalOdds": 1.52,
+      "winChance": 60.43,
+      "completedAt": "27.10.2026 21:58",
+      "legs": [
+        {
+          "home": "Torino FC",
+          "away": "Como 1907",
+          "prediction": "Match Result 2",
+          "odds": 1.52,
+          "finalScore": "1 - 3"
+        }
+      ]
+    },
+    {
+      "size": 1,
       "totalOdds": 1.3,
       "winChance": 72.56,
       "completedAt": "27.10.2026 02:22",
@@ -145,21 +175,6 @@
           "prediction": "1st Half Double Chance X2",
           "odds": 1.3,
           "finalScore": "2 - 3"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.75,
-      "winChance": 66.63,
-      "completedAt": "26.10.2026 23:17",
-      "legs": [
-        {
-          "home": "Sevilla FC",
-          "away": "CA Osasuna",
-          "prediction": "Total Goals 2-3",
-          "odds": 1.75,
-          "finalScore": "2 - 0"
         }
       ]
     }
@@ -220,6 +235,12 @@
       "at": "27.10.2026 18:16",
       "home": "CD Alcoyano",
       "away": "RCD Mallorca"
+    },
+    {
+      "type": "updated",
+      "at": "27.10.2026 21:54",
+      "home": "Qatar U23",
+      "away": "Al Markhiya"
     },
     {
       "type": "kickoff",
