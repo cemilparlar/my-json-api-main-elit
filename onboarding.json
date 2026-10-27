@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 19:58",
+  "updatedAt": "27.10.2026 20:07",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 59,
-      "lost": 28,
-      "total": 87,
-      "rate": 67.8
+      "won": 48,
+      "lost": 20,
+      "total": 68,
+      "rate": 70.6
     },
     "totalAnalyses": 151675,
     "leagues": 535,
@@ -47,8 +47,8 @@
       "total": 194,
       "rate": 51.0
     },
-    "analyses24h": 234,
-    "analyses30d": 19700
+    "analyses24h": 215,
+    "analyses30d": 19694
   },
   "recentWins": [
     {
@@ -296,6 +296,17 @@
       "picks": 1
     },
     {
+      "home": "FK Radnicki 1923",
+      "away": "FK Zeleznicar Pancevo",
+      "league": "SIRP",
+      "date": "28.10.2026 14:00",
+      "matchCode": "4478006",
+      "odds": 1.24,
+      "patternScore": 68.62,
+      "patternText": "192.397/280.399",
+      "picks": 1
+    },
+    {
       "home": "Nestos Chrisou",
       "away": "Kalamata",
       "league": "YUK",
@@ -316,17 +327,6 @@
       "patternScore": 70.38,
       "patternText": "237.514/337.480",
       "picks": 2
-    },
-    {
-      "home": "Corona Brasov",
-      "away": "FC Arges Pitesti",
-      "league": "ROMK",
-      "date": "28.10.2026 13:00",
-      "matchCode": "4549813",
-      "odds": 1.13,
-      "patternScore": 70.18,
-      "patternText": "243.634/347.158",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
