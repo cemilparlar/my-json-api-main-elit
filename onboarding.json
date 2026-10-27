@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 00:06",
+  "updatedAt": "27.10.2026 00:16",
   "config": {
     "pages": [
       "engine",
@@ -23,9 +23,9 @@
     "days": 7,
     "last24h": {
       "won": 158,
-      "lost": 98,
-      "total": 256,
-      "rate": 61.7
+      "lost": 96,
+      "total": 254,
+      "rate": 62.2
     },
     "totalAnalyses": 151568,
     "leagues": 535,
@@ -232,12 +232,6 @@
     },
     {
       "type": "kickoff",
-      "home": "Instituto Cordoba",
-      "away": "Deportivo Riestra",
-      "at": "27.10.2026 00:15"
-    },
-    {
-      "type": "kickoff",
       "home": "Mount Pleasant",
       "away": "Montego Bay Uni",
       "at": "27.10.2026 01:00"
@@ -247,6 +241,12 @@
       "home": "Independiente Santa Fe",
       "away": "Atletico Bucaramanga",
       "at": "27.10.2026 01:05"
+    },
+    {
+      "type": "kickoff",
+      "home": "Santos Laguna",
+      "away": "León Women",
+      "at": "27.10.2026 01:06"
     },
     {
       "type": "analysis",
