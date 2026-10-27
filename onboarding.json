@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 22:55",
+  "updatedAt": "27.10.2026 23:04",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 61,
-      "lost": 40,
-      "total": 101,
-      "rate": 60.4
+      "won": 51,
+      "lost": 36,
+      "total": 87,
+      "rate": 58.6
     },
     "totalAnalyses": 151698,
     "leagues": 534,
@@ -47,8 +47,8 @@
       "total": 198,
       "rate": 51.0
     },
-    "analyses24h": 219,
-    "analyses30d": 19663
+    "analyses24h": 205,
+    "analyses30d": 19649
   },
   "recentWins": [
     {
@@ -238,32 +238,21 @@
     },
     {
       "type": "analysis",
-      "count": 219
+      "count": 205
     }
   ],
   "today": {
-    "home": "Deportivo Tachira",
-    "away": "Monagas SC",
-    "league": "VEN",
-    "date": "27.10.2026 23:30",
-    "matchCode": "4576825",
-    "odds": 1.06,
-    "patternScore": 70.96,
-    "patternText": "230.016/324.133",
+    "home": "Ntv Beleza Women",
+    "away": "Cerezo Osaka Women",
+    "league": "JWEL",
+    "date": "28.10.2026 09:00",
+    "matchCode": "4488398",
+    "odds": 1.07,
+    "patternScore": 72.31,
+    "patternText": "139.957/193.549",
     "picks": 1
   },
   "todayList": [
-    {
-      "home": "Deportivo Tachira",
-      "away": "Monagas SC",
-      "league": "VEN",
-      "date": "27.10.2026 23:30",
-      "matchCode": "4576825",
-      "odds": 1.06,
-      "patternScore": 70.96,
-      "patternText": "230.016/324.133",
-      "picks": 1
-    },
     {
       "home": "Ntv Beleza Women",
       "away": "Cerezo Osaka Women",
@@ -306,6 +295,17 @@
       "odds": 1.24,
       "patternScore": 68.61,
       "patternText": "192.431/280.463",
+      "picks": 1
+    },
+    {
+      "home": "Nestos Chrisou",
+      "away": "Kalamata",
+      "league": "YUK",
+      "date": "28.10.2026 13:00",
+      "matchCode": "4577227",
+      "odds": 1.21,
+      "patternScore": 68.12,
+      "patternText": "205.138/301.148",
       "picks": 1
     }
   ],
