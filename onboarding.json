@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 20:42",
+  "updatedAt": "27.10.2026 20:52",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 49,
-      "lost": 20,
-      "total": 69,
-      "rate": 71.0
+      "won": 47,
+      "lost": 19,
+      "total": 66,
+      "rate": 71.2
     },
     "totalAnalyses": 151675,
     "leagues": 534,
@@ -47,7 +47,7 @@
       "total": 194,
       "rate": 51.0
     },
-    "analyses24h": 214,
+    "analyses24h": 211,
     "analyses30d": 19671
   },
   "recentWins": [
@@ -160,21 +160,6 @@
           "prediction": "Total Goals 2-3",
           "odds": 1.75,
           "finalScore": "2 - 0"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.34,
-      "winChance": 72.75,
-      "completedAt": "25.10.2026 20:48",
-      "legs": [
-        {
-          "home": "Sunderland",
-          "away": "Leeds United",
-          "prediction": "Double Chance 1X",
-          "odds": 1.34,
-          "finalScore": "0 - 0"
         }
       ]
     }
