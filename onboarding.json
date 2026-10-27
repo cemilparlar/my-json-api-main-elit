@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 23:38",
+  "updatedAt": "27.10.2026 23:47",
   "config": {
     "pages": [
       "engine",
@@ -65,6 +65,19 @@
       "pro": false
     },
     {
+      "home": "Deportivo La Guaira",
+      "away": "Metropolitanos FC",
+      "league": "VEN",
+      "date": "25.10.2026 23:30",
+      "prediction": "1st Half Result X",
+      "odds": 1.93,
+      "probability": 71.43,
+      "patternScore": 67.33,
+      "firstHalf": "1 - 1",
+      "finalScore": "2 - 2",
+      "pro": false
+    },
+    {
       "home": "Paris Saint-Germain",
       "away": "Olympique Lyonnais",
       "league": "FR1",
@@ -102,19 +115,6 @@
       "firstHalf": "2 - 0",
       "finalScore": "2 - 1",
       "pro": true
-    },
-    {
-      "home": "Besiktas",
-      "away": "Istanbul Basaksehir",
-      "league": "TSL",
-      "date": "26.10.2026 16:00",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.78,
-      "probability": 100.0,
-      "patternScore": 57.2,
-      "firstHalf": "0 - 0",
-      "finalScore": "2 - 0",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -190,6 +190,14 @@
     },
     {
       "type": "won",
+      "home": "Deportivo La Guaira",
+      "away": "Metropolitanos FC",
+      "prediction": "1st Half Result X",
+      "odds": 1.93,
+      "at": "25.10.2026 23:30"
+    },
+    {
+      "type": "won",
       "home": "Paris Saint-Germain",
       "away": "Olympique Lyonnais",
       "prediction": "1st Half Double Chance X2",
@@ -203,14 +211,6 @@
       "prediction": "Handicap (0:2) 2",
       "odds": 1.8,
       "at": "26.10.2026 16:00"
-    },
-    {
-      "type": "won",
-      "home": "Galatasaray",
-      "away": "Fenerbahce",
-      "prediction": "Match Result 1",
-      "odds": 1.79,
-      "at": "26.10.2026 18:30"
     },
     {
       "type": "updated",
@@ -237,7 +237,7 @@
     "matchCode": "4564185",
     "odds": 1.1,
     "patternScore": 70.66,
-    "patternText": "238.831/338.002",
+    "patternText": "238.843/338.014",
     "picks": 1
   },
   "todayList": [
@@ -249,7 +249,7 @@
       "matchCode": "4564185",
       "odds": 1.1,
       "patternScore": 70.66,
-      "patternText": "238.831/338.002",
+      "patternText": "238.843/338.014",
       "picks": 1
     },
     {
@@ -260,7 +260,7 @@
       "matchCode": "4488398",
       "odds": 1.07,
       "patternScore": 72.31,
-      "patternText": "139.957/193.549",
+      "patternText": "139.973/193.565",
       "picks": 1
     },
     {
@@ -271,7 +271,7 @@
       "matchCode": "4488295",
       "odds": 1.07,
       "patternScore": 69.33,
-      "patternText": "182.122/262.700",
+      "patternText": "182.130/262.708",
       "picks": 1
     },
     {
@@ -282,7 +282,7 @@
       "matchCode": "4575923",
       "odds": 1.25,
       "patternScore": 67.95,
-      "patternText": "117.252/172.565",
+      "patternText": "117.260/172.573",
       "picks": 2
     },
     {
@@ -293,7 +293,7 @@
       "matchCode": "4478006",
       "odds": 1.24,
       "patternScore": 68.61,
-      "patternText": "192.431/280.463",
+      "patternText": "192.439/280.471",
       "picks": 1
     }
   ],
