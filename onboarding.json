@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 15:21",
+  "updatedAt": "27.10.2026 15:31",
   "config": {
     "pages": [
       "engine",
@@ -48,22 +48,9 @@
       "rate": 51.0
     },
     "analyses24h": 412,
-    "analyses30d": 19997
+    "analyses30d": 19966
   },
   "recentWins": [
-    {
-      "home": "Viking",
-      "away": "Tromso IL",
-      "league": "NOR",
-      "date": "25.10.2026 13:30",
-      "prediction": "Handicap (0:2) X",
-      "odds": 4.11,
-      "probability": 100.0,
-      "patternScore": 57.1,
-      "firstHalf": "3 - 0",
-      "finalScore": "3 - 1",
-      "pro": false
-    },
     {
       "home": "Persija Jakarta",
       "away": "Persik Kediri",
@@ -91,19 +78,6 @@
       "pro": false
     },
     {
-      "home": "SK Sturm Graz",
-      "away": "SV Ried",
-      "league": "AVU",
-      "date": "25.10.2026 13:30",
-      "prediction": "1st Half Result X",
-      "odds": 2.29,
-      "probability": 71.43,
-      "patternScore": 66.76,
-      "firstHalf": "1 - 1",
-      "finalScore": "2 - 2",
-      "pro": false
-    },
-    {
       "home": "Paris Saint-Germain",
       "away": "Olympique Lyonnais",
       "league": "FR1",
@@ -115,6 +89,32 @@
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0",
       "pro": false
+    },
+    {
+      "home": "Mjallby AIF",
+      "away": "Hammarby IF",
+      "league": "İSÇ",
+      "date": "25.10.2026 15:30",
+      "prediction": "Both Teams to Score - No",
+      "odds": 1.85,
+      "probability": 75.0,
+      "patternScore": 63.9,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 2",
+      "pro": false
+    },
+    {
+      "home": "Galatasaray",
+      "away": "Fenerbahce",
+      "league": "TSL",
+      "date": "26.10.2026 18:30",
+      "prediction": "Match Result 1",
+      "odds": 1.79,
+      "probability": 77.78,
+      "patternScore": 66.87,
+      "firstHalf": "2 - 0",
+      "finalScore": "2 - 1",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -182,14 +182,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Viking",
-      "away": "Tromso IL",
-      "prediction": "Handicap (0:2) X",
-      "odds": 4.11,
-      "at": "25.10.2026 13:30"
-    },
-    {
-      "type": "won",
       "home": "Persija Jakarta",
       "away": "Persik Kediri",
       "prediction": "Handicap (0:1) X",
@@ -206,11 +198,19 @@
     },
     {
       "type": "won",
-      "home": "SK Sturm Graz",
-      "away": "SV Ried",
-      "prediction": "1st Half Result X",
-      "odds": 2.29,
-      "at": "25.10.2026 13:30"
+      "home": "Paris Saint-Germain",
+      "away": "Olympique Lyonnais",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.87,
+      "at": "26.10.2026 19:30"
+    },
+    {
+      "type": "won",
+      "home": "Mjallby AIF",
+      "away": "Hammarby IF",
+      "prediction": "Both Teams to Score - No",
+      "odds": 1.85,
+      "at": "25.10.2026 15:30"
     },
     {
       "type": "updated",
@@ -232,6 +232,12 @@
     },
     {
       "type": "updated",
+      "at": "27.10.2026 15:20",
+      "home": "AlbinoLeffe",
+      "away": "US Pergolettese"
+    },
+    {
+      "type": "updated",
       "at": "27.10.2026 13:48",
       "home": "Adelaide United",
       "away": "Lion City Sailors"
@@ -244,19 +250,15 @@
     },
     {
       "type": "kickoff",
-      "home": "US Sassuolo",
-      "away": "SS Lazio",
-      "at": "27.10.2026 17:30"
+      "home": "FK Macva Sabac",
+      "away": "FK Napredak Krusevac",
+      "at": "27.10.2026 16:30"
     },
     {
       "type": "kickoff",
-      "home": "Dodoma Jiji FC",
-      "away": "JKT Tanzania",
-      "at": "27.10.2026 18:00"
-    },
-    {
-      "type": "analysis",
-      "count": 412
+      "home": "US Sassuolo",
+      "away": "SS Lazio",
+      "at": "27.10.2026 17:30"
     }
   ],
   "today": {
@@ -294,6 +296,17 @@
       "picks": 5
     },
     {
+      "home": "FK Macva Sabac",
+      "away": "FK Napredak Krusevac",
+      "league": "SIRBK",
+      "date": "27.10.2026 16:30",
+      "matchCode": "4577290",
+      "odds": 1.43,
+      "patternScore": 68.01,
+      "patternText": "178.220/262.063",
+      "picks": 1
+    },
+    {
       "home": "US Sassuolo",
       "away": "SS Lazio",
       "league": "İTA",
@@ -305,26 +318,15 @@
       "picks": 3
     },
     {
-      "home": "Dodoma Jiji FC",
-      "away": "JKT Tanzania",
-      "league": "TANZ",
-      "date": "27.10.2026 18:00",
-      "matchCode": "4509945",
-      "odds": 1.18,
-      "patternScore": 69.64,
-      "patternText": "252.100/361.979",
-      "picks": 1
-    },
-    {
-      "home": "Blackpool",
-      "away": "Aston Villa U21",
-      "league": "İNTK",
-      "date": "27.10.2026 19:00",
-      "matchCode": "4547587",
-      "odds": 1.17,
-      "patternScore": 68.3,
-      "patternText": "196.978/288.421",
-      "picks": 1
+      "home": "Academia Puert",
+      "away": "Caracas FC",
+      "league": "VEN",
+      "date": "27.10.2026 21:30",
+      "matchCode": "4576824",
+      "odds": 1.23,
+      "patternScore": 68.41,
+      "patternText": "167.914/245.446",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [],
