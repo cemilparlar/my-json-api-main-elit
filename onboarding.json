@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 21:01",
+  "updatedAt": "27.10.2026 21:10",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 47,
-      "lost": 19,
-      "total": 66,
-      "rate": 71.2
+      "won": 50,
+      "lost": 23,
+      "total": 73,
+      "rate": 68.5
     },
     "totalAnalyses": 151678,
     "leagues": 534,
     "pro": {
-      "won": 1400,
-      "lost": 615,
-      "total": 2015,
-      "rate": 69.5
+      "won": 1401,
+      "lost": 619,
+      "total": 2020,
+      "rate": 69.4
     },
     "insights": {
-      "won": 2367,
-      "lost": 1058,
-      "total": 3425,
+      "won": 2370,
+      "lost": 1062,
+      "total": 3432,
       "rate": 69.1
     },
     "coupons": {
       "won": 99,
-      "lost": 95,
-      "total": 194,
-      "rate": 51.0
+      "lost": 96,
+      "total": 195,
+      "rate": 50.8
     },
-    "analyses24h": 214,
-    "analyses30d": 19657
+    "analyses24h": 213,
+    "analyses30d": 19656
   },
   "recentWins": [
     {
@@ -199,12 +199,6 @@
     },
     {
       "type": "updated",
-      "at": "27.10.2026 20:54",
-      "home": "Urawa Red Women",
-      "away": "Sanfrecce Hiros"
-    },
-    {
-      "type": "updated",
       "at": "27.10.2026 16:20",
       "home": "Nestos Chrisou",
       "away": "Kalamata"
@@ -244,6 +238,12 @@
       "at": "27.10.2026 18:16",
       "home": "CD Alcoyano",
       "away": "RCD Mallorca"
+    },
+    {
+      "type": "kickoff",
+      "home": "Academia Puert",
+      "away": "Caracas FC",
+      "at": "27.10.2026 21:30"
     }
   ],
   "today": {
