@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 14:21",
+  "updatedAt": "27.10.2026 14:33",
   "config": {
     "pages": [
       "engine",
@@ -48,22 +48,9 @@
       "rate": 51.0
     },
     "analyses24h": 416,
-    "analyses30d": 20066
+    "analyses30d": 20065
   },
   "recentWins": [
-    {
-      "home": "Havelse",
-      "away": "FC Saarbrucken",
-      "league": "AL3",
-      "date": "25.10.2026 12:30",
-      "prediction": "HT/FT X/1",
-      "odds": 10.05,
-      "probability": 100.0,
-      "patternScore": 57.06,
-      "firstHalf": "1 - 1",
-      "finalScore": "3 - 2",
-      "pro": false
-    },
     {
       "home": "Viking",
       "away": "Tromso IL",
@@ -114,6 +101,19 @@
       "patternScore": 66.76,
       "firstHalf": "1 - 1",
       "finalScore": "2 - 2",
+      "pro": false
+    },
+    {
+      "home": "Paris Saint-Germain",
+      "away": "Olympique Lyonnais",
+      "league": "FR1",
+      "date": "26.10.2026 19:30",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.87,
+      "probability": 100.0,
+      "patternScore": 57.02,
+      "firstHalf": "0 - 0",
+      "finalScore": "2 - 0",
       "pro": false
     }
   ],
@@ -182,14 +182,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Havelse",
-      "away": "FC Saarbrucken",
-      "prediction": "HT/FT X/1",
-      "odds": 10.05,
-      "at": "25.10.2026 12:30"
-    },
-    {
-      "type": "won",
       "home": "Viking",
       "away": "Tromso IL",
       "prediction": "Handicap (0:2) X",
@@ -213,6 +205,14 @@
       "at": "25.10.2026 14:00"
     },
     {
+      "type": "won",
+      "home": "SK Sturm Graz",
+      "away": "SV Ried",
+      "prediction": "1st Half Result X",
+      "odds": 2.29,
+      "at": "25.10.2026 13:30"
+    },
+    {
       "type": "updated",
       "at": "27.10.2026 13:27",
       "home": "Al Jazira Club",
@@ -223,6 +223,12 @@
       "at": "27.10.2026 13:48",
       "home": "Adelaide United",
       "away": "Lion City Sailors"
+    },
+    {
+      "type": "kickoff",
+      "home": "US Sassuolo",
+      "away": "SS Lazio",
+      "at": "27.10.2026 17:30"
     },
     {
       "type": "analysis",
