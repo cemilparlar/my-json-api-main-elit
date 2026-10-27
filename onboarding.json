@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 02:12",
+  "updatedAt": "27.10.2026 02:22",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 140,
-      "lost": 82,
-      "total": 222,
-      "rate": 63.1
+      "won": 158,
+      "lost": 89,
+      "total": 247,
+      "rate": 64.0
     },
     "totalAnalyses": 151568,
     "leagues": 535,
     "pro": {
-      "won": 1377,
-      "lost": 602,
-      "total": 1979,
-      "rate": 69.6
+      "won": 1384,
+      "lost": 606,
+      "total": 1990,
+      "rate": 69.5
     },
     "insights": {
-      "won": 2329,
-      "lost": 1041,
-      "total": 3370,
+      "won": 2339,
+      "lost": 1045,
+      "total": 3384,
       "rate": 69.1
     },
     "coupons": {
-      "won": 98,
+      "won": 99,
       "lost": 95,
-      "total": 193,
-      "rate": 50.8
+      "total": 194,
+      "rate": 51.0
     },
     "analyses24h": 385,
     "analyses30d": 20466
@@ -121,6 +121,21 @@
     {
       "size": 1,
       "totalOdds": 1.3,
+      "winChance": 72.56,
+      "completedAt": "27.10.2026 02:22",
+      "legs": [
+        {
+          "home": "Coritiba FBC",
+          "away": "Gremio FBPA",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.3,
+          "finalScore": "0 - 1"
+        }
+      ]
+    },
+    {
+      "size": 1,
+      "totalOdds": 1.3,
       "winChance": 72.13,
       "completedAt": "26.10.2026 23:17",
       "legs": [
@@ -160,21 +175,6 @@
           "prediction": "Double Chance 1X",
           "odds": 1.34,
           "finalScore": "0 - 0"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.32,
-      "winChance": 71.27,
-      "completedAt": "25.10.2026 18:15",
-      "legs": [
-        {
-          "home": "Goztepe",
-          "away": "Corum FK",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.32,
-          "finalScore": "2 - 0"
         }
       ]
     }
