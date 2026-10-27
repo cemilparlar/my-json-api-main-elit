@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 19:41",
+  "updatedAt": "27.10.2026 19:50",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 66,
-      "lost": 30,
-      "total": 96,
-      "rate": 68.8
+      "won": 59,
+      "lost": 28,
+      "total": 87,
+      "rate": 67.8
     },
     "totalAnalyses": 151675,
     "leagues": 535,
@@ -47,10 +47,49 @@
       "total": 194,
       "rate": 51.0
     },
-    "analyses24h": 243,
+    "analyses24h": 234,
     "analyses30d": 19700
   },
   "recentWins": [
+    {
+      "home": "Persija Jakarta",
+      "away": "Persik Kediri",
+      "league": "ENDL1",
+      "date": "26.10.2026 12:00",
+      "prediction": "Handicap (0:1) X",
+      "odds": 3.31,
+      "probability": 85.71428571428571,
+      "patternScore": 66.75,
+      "firstHalf": "0 - 1",
+      "finalScore": "2 - 1",
+      "pro": false
+    },
+    {
+      "home": "Paris Saint-Germain",
+      "away": "Olympique Lyonnais",
+      "league": "FR1",
+      "date": "26.10.2026 19:30",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.87,
+      "probability": 100.0,
+      "patternScore": 57.02,
+      "firstHalf": "0 - 0",
+      "finalScore": "2 - 0",
+      "pro": false
+    },
+    {
+      "home": "Al Ahli Jeddah",
+      "away": "Al Gharafa",
+      "league": "AŞMP",
+      "date": "26.10.2026 16:00",
+      "prediction": "Handicap (0:2) 2",
+      "odds": 1.8,
+      "probability": 100.0,
+      "patternScore": 56.72,
+      "firstHalf": "1 - 0",
+      "finalScore": "2 - 1",
+      "pro": false
+    },
     {
       "home": "Galatasaray",
       "away": "Fenerbahce",
@@ -65,56 +104,17 @@
       "pro": true
     },
     {
-      "home": "FC Copenhagen",
-      "away": "OB Odense",
-      "league": "DAN",
-      "date": "26.10.2026 18:00",
+      "home": "Besiktas",
+      "away": "Istanbul Basaksehir",
+      "league": "TSL",
+      "date": "26.10.2026 16:00",
       "prediction": "1st Half Double Chance X2",
-      "odds": 1.7,
-      "probability": 71.43,
-      "patternScore": 67.37,
-      "firstHalf": "0 - 1",
-      "finalScore": "1 - 1",
-      "pro": true
-    },
-    {
-      "home": "Persija Jakarta",
-      "away": "Persik Kediri",
-      "league": "ENDL1",
-      "date": "26.10.2026 12:00",
-      "prediction": "Handicap (0:2) 2",
-      "odds": 1.65,
-      "probability": 85.71428571428571,
-      "patternScore": 67.1,
-      "firstHalf": "0 - 1",
-      "finalScore": "2 - 1",
-      "pro": true
-    },
-    {
-      "home": "Al Ula",
-      "away": "Al Orubah Club",
-      "league": "SUUD1",
-      "date": "26.10.2026 16:45",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.63,
-      "probability": 81.82,
-      "patternScore": 68.7,
-      "firstHalf": "0 - 1",
-      "finalScore": "3 - 1",
-      "pro": true
-    },
-    {
-      "home": "Club Deportivo Motagua",
-      "away": "Real Sociedad de Tocoa",
-      "league": "HON",
-      "date": "25.10.2026 21:00",
-      "prediction": "Under 3.5 Goals",
-      "odds": 1.54,
-      "probability": 83.33,
-      "patternScore": 67.46,
+      "odds": 1.78,
+      "probability": 100.0,
+      "patternScore": 57.2,
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0",
-      "pro": true
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -182,41 +182,35 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Persija Jakarta",
+      "away": "Persik Kediri",
+      "prediction": "Handicap (0:1) X",
+      "odds": 3.31,
+      "at": "26.10.2026 12:00"
+    },
+    {
+      "type": "won",
+      "home": "Paris Saint-Germain",
+      "away": "Olympique Lyonnais",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.87,
+      "at": "26.10.2026 19:30"
+    },
+    {
+      "type": "won",
+      "home": "Al Ahli Jeddah",
+      "away": "Al Gharafa",
+      "prediction": "Handicap (0:2) 2",
+      "odds": 1.8,
+      "at": "26.10.2026 16:00"
+    },
+    {
+      "type": "won",
       "home": "Galatasaray",
       "away": "Fenerbahce",
       "prediction": "Match Result 1",
       "odds": 1.79,
       "at": "26.10.2026 18:30"
-    },
-    {
-      "type": "won",
-      "home": "FC Copenhagen",
-      "away": "OB Odense",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.7,
-      "at": "26.10.2026 18:00"
-    },
-    {
-      "type": "won",
-      "home": "Persija Jakarta",
-      "away": "Persik Kediri",
-      "prediction": "Handicap (0:2) 2",
-      "odds": 1.65,
-      "at": "26.10.2026 12:00"
-    },
-    {
-      "type": "won",
-      "home": "Al Ula",
-      "away": "Al Orubah Club",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.63,
-      "at": "26.10.2026 16:45"
-    },
-    {
-      "type": "updated",
-      "at": "27.10.2026 14:42",
-      "home": "Express FC",
-      "away": "Kataka"
     },
     {
       "type": "updated",
@@ -244,21 +238,27 @@
     },
     {
       "type": "updated",
-      "at": "27.10.2026 13:48",
-      "home": "Adelaide United",
-      "away": "Lion City Sailors"
-    },
-    {
-      "type": "updated",
       "at": "27.10.2026 16:39",
       "home": "Phnom Penh Cro",
       "away": "Kitchee SC"
     },
     {
       "type": "updated",
+      "at": "27.10.2026 15:39",
+      "home": "FK Macva Sabac",
+      "away": "FK Napredak Krusevac"
+    },
+    {
+      "type": "updated",
       "at": "27.10.2026 18:16",
       "home": "CD Alcoyano",
       "away": "RCD Mallorca"
+    },
+    {
+      "type": "kickoff",
+      "home": "Academia Puert",
+      "away": "Caracas FC",
+      "at": "27.10.2026 21:30"
     }
   ],
   "today": {
@@ -269,7 +269,7 @@
     "matchCode": "4576824",
     "odds": 1.23,
     "patternScore": 68.41,
-    "patternText": "167.914/245.446",
+    "patternText": "167.970/245.534",
     "picks": 2
   },
   "todayList": [
@@ -281,7 +281,7 @@
       "matchCode": "4576824",
       "odds": 1.23,
       "patternScore": 68.41,
-      "patternText": "167.914/245.446",
+      "patternText": "167.970/245.534",
       "picks": 2
     },
     {
@@ -292,7 +292,7 @@
       "matchCode": "4576825",
       "odds": 1.06,
       "patternScore": 70.97,
-      "patternText": "229.924/323.973",
+      "patternText": "229.988/324.067",
       "picks": 1
     },
     {
@@ -303,7 +303,7 @@
       "matchCode": "4577227",
       "odds": 1.21,
       "patternScore": 68.13,
-      "patternText": "205.064/300.994",
+      "patternText": "205.112/301.076",
       "picks": 1
     },
     {
@@ -314,7 +314,7 @@
       "matchCode": "4523670",
       "odds": 1.13,
       "patternScore": 70.38,
-      "patternText": "237.418/337.340",
+      "patternText": "237.514/337.480",
       "picks": 2
     },
     {
@@ -325,7 +325,7 @@
       "matchCode": "4549813",
       "odds": 1.13,
       "patternScore": 70.18,
-      "patternText": "243.552/347.042",
+      "patternText": "243.634/347.158",
       "picks": 1
     }
   ],
