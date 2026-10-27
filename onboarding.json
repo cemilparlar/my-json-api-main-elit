@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 14:52",
+  "updatedAt": "27.10.2026 15:02",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 142,
-      "lost": 86,
-      "total": 228,
-      "rate": 62.3
+      "won": 138,
+      "lost": 85,
+      "total": 223,
+      "rate": 61.9
     },
     "totalAnalyses": 151635,
     "leagues": 533,
@@ -47,8 +47,8 @@
       "total": 194,
       "rate": 51.0
     },
-    "analyses24h": 413,
-    "analyses30d": 20058
+    "analyses24h": 408,
+    "analyses30d": 19994
   },
   "recentWins": [
     {
@@ -214,9 +214,21 @@
     },
     {
       "type": "updated",
+      "at": "27.10.2026 14:42",
+      "home": "Express FC",
+      "away": "Kataka"
+    },
+    {
+      "type": "updated",
       "at": "27.10.2026 13:27",
       "home": "Al Jazira Club",
       "away": "Al Muharraq"
+    },
+    {
+      "type": "updated",
+      "at": "27.10.2026 15:00",
+      "home": "SD Poblense",
+      "away": "AD Ceuta"
     },
     {
       "type": "updated",
@@ -226,13 +238,25 @@
     },
     {
       "type": "kickoff",
+      "home": "Express FC",
+      "away": "Kataka",
+      "at": "27.10.2026 16:00"
+    },
+    {
+      "type": "kickoff",
       "home": "US Sassuolo",
       "away": "SS Lazio",
       "at": "27.10.2026 17:30"
     },
     {
+      "type": "kickoff",
+      "home": "Dodoma Jiji FC",
+      "away": "JKT Tanzania",
+      "at": "27.10.2026 18:00"
+    },
+    {
       "type": "analysis",
-      "count": 413
+      "count": 408
     }
   ],
   "today": {
