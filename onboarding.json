@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 13:41",
+  "updatedAt": "27.10.2026 13:51",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 146,
+      "won": 142,
       "lost": 86,
-      "total": 232,
-      "rate": 62.9
+      "total": 228,
+      "rate": 62.3
     },
     "totalAnalyses": 151631,
     "leagues": 536,
@@ -47,8 +47,8 @@
       "total": 194,
       "rate": 51.0
     },
-    "analyses24h": 422,
-    "analyses30d": 20148
+    "analyses24h": 416,
+    "analyses30d": 20146
   },
   "recentWins": [
     {
@@ -219,6 +219,12 @@
       "away": "Al Muharraq"
     },
     {
+      "type": "updated",
+      "at": "27.10.2026 13:48",
+      "home": "Adelaide United",
+      "away": "Lion City Sailors"
+    },
+    {
       "type": "kickoff",
       "home": "Bugesera",
       "away": "Apr Kigali",
@@ -226,21 +232,32 @@
     },
     {
       "type": "analysis",
-      "count": 422
+      "count": 416
     }
   ],
   "today": {
-    "home": "Ascoli Calcio",
-    "away": "UC Sampdoria",
-    "league": "İTB",
-    "date": "27.10.2026 19:00",
-    "matchCode": "4534757",
-    "odds": 1.47,
-    "patternScore": 68.33,
-    "patternText": "205.053/300.095",
-    "picks": 5
+    "home": "Torino FC",
+    "away": "Como 1907",
+    "league": "İTA",
+    "date": "27.10.2026 19:45",
+    "matchCode": "4475130",
+    "odds": 2.2,
+    "patternScore": 67.17,
+    "patternText": "197.520/294.071",
+    "picks": 10
   },
   "todayList": [
+    {
+      "home": "Torino FC",
+      "away": "Como 1907",
+      "league": "İTA",
+      "date": "27.10.2026 19:45",
+      "matchCode": "4475130",
+      "odds": 2.2,
+      "patternScore": 67.17,
+      "patternText": "197.520/294.071",
+      "picks": 10
+    },
     {
       "home": "Ascoli Calcio",
       "away": "UC Sampdoria",
@@ -283,17 +300,6 @@
       "odds": 1.17,
       "patternScore": 68.3,
       "patternText": "196.978/288.421",
-      "picks": 1
-    },
-    {
-      "home": "Hunedoara",
-      "away": "Rapid Bucharest",
-      "league": "ROMK",
-      "date": "27.10.2026 19:30",
-      "matchCode": "4549795",
-      "odds": 1.11,
-      "patternScore": 69.64,
-      "patternText": "211.297/303.427",
       "picks": 1
     }
   ],
