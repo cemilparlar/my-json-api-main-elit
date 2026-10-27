@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 15:51",
+  "updatedAt": "27.10.2026 16:01",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 138,
-      "lost": 85,
-      "total": 223,
-      "rate": 61.9
+      "won": 114,
+      "lost": 52,
+      "total": 166,
+      "rate": 68.7
     },
-    "totalAnalyses": 151652,
+    "totalAnalyses": 151653,
     "leagues": 535,
     "pro": {
       "won": 1387,
@@ -47,8 +47,8 @@
       "total": 194,
       "rate": 51.0
     },
-    "analyses24h": 422,
-    "analyses30d": 19976
+    "analyses24h": 364,
+    "analyses30d": 19885
   },
   "recentWins": [
     {
@@ -62,19 +62,6 @@
       "patternScore": 66.75,
       "firstHalf": "0 - 1",
       "finalScore": "2 - 1",
-      "pro": false
-    },
-    {
-      "home": "FC Astana",
-      "away": "Kaisar",
-      "league": "KAZP",
-      "date": "25.10.2026 14:00",
-      "prediction": "1st Half Result X",
-      "odds": 2.34,
-      "probability": 77.78,
-      "patternScore": 66.95,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 0",
       "pro": false
     },
     {
@@ -115,6 +102,19 @@
       "firstHalf": "2 - 0",
       "finalScore": "2 - 1",
       "pro": true
+    },
+    {
+      "home": "Besiktas",
+      "away": "Istanbul Basaksehir",
+      "league": "TSL",
+      "date": "26.10.2026 16:00",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.78,
+      "probability": 100.0,
+      "patternScore": 57.2,
+      "firstHalf": "0 - 0",
+      "finalScore": "2 - 0",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -190,14 +190,6 @@
     },
     {
       "type": "won",
-      "home": "FC Astana",
-      "away": "Kaisar",
-      "prediction": "1st Half Result X",
-      "odds": 2.34,
-      "at": "25.10.2026 14:00"
-    },
-    {
-      "type": "won",
       "home": "Paris Saint-Germain",
       "away": "Olympique Lyonnais",
       "prediction": "1st Half Double Chance X2",
@@ -211,6 +203,14 @@
       "prediction": "Both Teams to Score - No",
       "odds": 1.85,
       "at": "25.10.2026 15:30"
+    },
+    {
+      "type": "won",
+      "home": "Galatasaray",
+      "away": "Fenerbahce",
+      "prediction": "Match Result 1",
+      "odds": 1.79,
+      "at": "26.10.2026 18:30"
     },
     {
       "type": "updated",
@@ -244,12 +244,6 @@
     },
     {
       "type": "kickoff",
-      "home": "Express FC",
-      "away": "Kataka",
-      "at": "27.10.2026 16:00"
-    },
-    {
-      "type": "kickoff",
       "home": "US Sassuolo",
       "away": "SS Lazio",
       "at": "27.10.2026 17:30"
@@ -259,6 +253,12 @@
       "home": "Dodoma Jiji FC",
       "away": "JKT Tanzania",
       "at": "27.10.2026 18:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Ascoli Calcio",
+      "away": "UC Sampdoria",
+      "at": "27.10.2026 19:00"
     }
   ],
   "today": {
