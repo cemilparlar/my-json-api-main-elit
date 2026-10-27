@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 15:31",
+  "updatedAt": "27.10.2026 15:41",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 223,
       "rate": 61.9
     },
-    "totalAnalyses": 151641,
+    "totalAnalyses": 151652,
     "leagues": 535,
     "pro": {
       "won": 1387,
@@ -47,8 +47,8 @@
       "total": 194,
       "rate": 51.0
     },
-    "analyses24h": 412,
-    "analyses30d": 19966
+    "analyses24h": 422,
+    "analyses30d": 19976
   },
   "recentWins": [
     {
@@ -243,6 +243,12 @@
       "away": "Lion City Sailors"
     },
     {
+      "type": "updated",
+      "at": "27.10.2026 15:39",
+      "home": "FK Macva Sabac",
+      "away": "FK Napredak Krusevac"
+    },
+    {
       "type": "kickoff",
       "home": "Express FC",
       "away": "Kataka",
@@ -253,12 +259,6 @@
       "home": "FK Macva Sabac",
       "away": "FK Napredak Krusevac",
       "at": "27.10.2026 16:30"
-    },
-    {
-      "type": "kickoff",
-      "home": "US Sassuolo",
-      "away": "SS Lazio",
-      "at": "27.10.2026 17:30"
     }
   ],
   "today": {
@@ -329,7 +329,15 @@
       "picks": 2
     }
   ],
-  "recentAnalyzed": [],
+  "recentAnalyzed": [
+    {
+      "home": "Le Havre AC",
+      "away": "Paris Saint-Germain",
+      "league": "FR1",
+      "at": "27.10.2026 15:40",
+      "count": 10
+    }
+  ],
   "paywall": {
     "monthly": {
       "price": 9.99,
