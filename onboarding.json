@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 12:07",
+  "updatedAt": "27.10.2026 12:17",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 234,
       "rate": 62.8
     },
-    "totalAnalyses": 151588,
+    "totalAnalyses": 151606,
     "leagues": 534,
     "pro": {
       "won": 1386,
@@ -47,8 +47,8 @@
       "total": 194,
       "rate": 51.0
     },
-    "analyses24h": 385,
-    "analyses30d": 20187
+    "analyses24h": 403,
+    "analyses30d": 20200
   },
   "recentWins": [
     {
@@ -214,12 +214,6 @@
     },
     {
       "type": "kickoff",
-      "home": "Ratchaburi Mitr Phol FC",
-      "away": "Kashiwa Reysol",
-      "at": "27.10.2026 12:15"
-    },
-    {
-      "type": "kickoff",
       "home": "Abha",
       "away": "Al Faisaly",
       "at": "27.10.2026 12:40"
@@ -231,8 +225,14 @@
       "at": "27.10.2026 13:00"
     },
     {
+      "type": "kickoff",
+      "home": "Bugesera",
+      "away": "Apr Kigali",
+      "at": "27.10.2026 14:00"
+    },
+    {
       "type": "analysis",
-      "count": 385
+      "count": 403
     }
   ],
   "today": {
@@ -270,17 +270,6 @@
       "picks": 1
     },
     {
-      "home": "Abha",
-      "away": "Al Faisaly",
-      "league": "SUUD",
-      "date": "27.10.2026 12:40",
-      "matchCode": "4522576",
-      "odds": 1.15,
-      "patternScore": 70.39,
-      "patternText": "244.790/347.755",
-      "picks": 3
-    },
-    {
       "home": "NK Ilirija",
       "away": "NK Bilje",
       "league": "SLVN2",
@@ -301,6 +290,17 @@
       "patternScore": 70.23,
       "patternText": "152.154/216.636",
       "picks": 1
+    },
+    {
+      "home": "Torino FC",
+      "away": "Como 1907",
+      "league": "İTA",
+      "date": "27.10.2026 19:45",
+      "matchCode": "4475130",
+      "odds": 2.2,
+      "patternScore": 67.17,
+      "patternText": "197.514/294.065",
+      "picks": 10
     }
   ],
   "recentAnalyzed": [],
