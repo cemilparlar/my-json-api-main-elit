@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 18:23",
+  "updatedAt": "27.10.2026 18:35",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 72,
+      "won": 63,
       "lost": 39,
-      "total": 111,
-      "rate": 64.9
+      "total": 102,
+      "rate": 61.8
     },
-    "totalAnalyses": 151670,
+    "totalAnalyses": 151675,
     "leagues": 535,
     "pro": {
       "won": 1387,
@@ -47,8 +47,8 @@
       "total": 194,
       "rate": 51.0
     },
-    "analyses24h": 315,
-    "analyses30d": 19807
+    "analyses24h": 310,
+    "analyses30d": 19775
   },
   "recentWins": [
     {
@@ -285,17 +285,6 @@
       "picks": 10
     },
     {
-      "home": "Ascoli Calcio",
-      "away": "UC Sampdoria",
-      "league": "İTB",
-      "date": "27.10.2026 19:00",
-      "matchCode": "4534757",
-      "odds": 1.47,
-      "patternScore": 68.33,
-      "patternText": "205.053/300.095",
-      "picks": 5
-    },
-    {
       "home": "Academia Puert",
       "away": "Caracas FC",
       "league": "VEN",
@@ -307,17 +296,6 @@
       "picks": 2
     },
     {
-      "home": "Blackpool",
-      "away": "Aston Villa U21",
-      "league": "İNTK",
-      "date": "27.10.2026 19:00",
-      "matchCode": "4547587",
-      "odds": 1.17,
-      "patternScore": 68.3,
-      "patternText": "196.978/288.421",
-      "picks": 1
-    },
-    {
       "home": "Chesham United",
       "away": "Farnham Town",
       "league": "İCON",
@@ -327,6 +305,28 @@
       "patternScore": 70.52,
       "patternText": "193.785/274.797",
       "picks": 3
+    },
+    {
+      "home": "Hunedoara",
+      "away": "Rapid Bucharest",
+      "league": "ROMK",
+      "date": "27.10.2026 19:30",
+      "matchCode": "4549795",
+      "odds": 1.11,
+      "patternScore": 69.64,
+      "patternText": "211.297/303.427",
+      "picks": 1
+    },
+    {
+      "home": "Billericay Tow",
+      "away": "Hampton Richmon",
+      "league": "İCON",
+      "date": "27.10.2026 19:45",
+      "matchCode": "4516094",
+      "odds": 1.07,
+      "patternScore": 69.49,
+      "patternText": "201.624/290.147",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
