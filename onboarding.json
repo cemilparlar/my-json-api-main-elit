@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 11:50",
+  "updatedAt": "27.10.2026 12:07",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 155,
-      "lost": 89,
-      "total": 244,
-      "rate": 63.5
+      "won": 147,
+      "lost": 87,
+      "total": 234,
+      "rate": 62.8
     },
     "totalAnalyses": 151588,
     "leagues": 534,
@@ -47,8 +47,8 @@
       "total": 194,
       "rate": 51.0
     },
-    "analyses24h": 395,
-    "analyses30d": 20217
+    "analyses24h": 385,
+    "analyses30d": 20187
   },
   "recentWins": [
     {
@@ -232,7 +232,7 @@
     },
     {
       "type": "analysis",
-      "count": 395
+      "count": 385
     }
   ],
   "today": {
@@ -257,6 +257,17 @@
       "patternScore": 68.55,
       "patternText": "220.064/321.038",
       "picks": 3
+    },
+    {
+      "home": "Dodoma Jiji FC",
+      "away": "JKT Tanzania",
+      "league": "TANZ",
+      "date": "27.10.2026 18:00",
+      "matchCode": "4509945",
+      "odds": 1.18,
+      "patternScore": 69.64,
+      "patternText": "252.094/361.973",
+      "picks": 1
     },
     {
       "home": "Abha",
@@ -290,17 +301,6 @@
       "patternScore": 70.23,
       "patternText": "152.154/216.636",
       "picks": 1
-    },
-    {
-      "home": "Torino FC",
-      "away": "Como 1907",
-      "league": "İTA",
-      "date": "27.10.2026 19:45",
-      "matchCode": "4475130",
-      "odds": 2.2,
-      "patternScore": 67.17,
-      "patternText": "197.514/294.065",
-      "picks": 10
     }
   ],
   "recentAnalyzed": [],
