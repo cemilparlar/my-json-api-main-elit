@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 17:30",
+  "updatedAt": "27.10.2026 17:42",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 92,
+      "won": 90,
       "lost": 45,
-      "total": 137,
-      "rate": 67.2
+      "total": 135,
+      "rate": 66.7
     },
     "totalAnalyses": 151665,
     "leagues": 535,
@@ -78,19 +78,6 @@
       "pro": false
     },
     {
-      "home": "Mjallby AIF",
-      "away": "Hammarby IF",
-      "league": "İSÇ",
-      "date": "25.10.2026 15:30",
-      "prediction": "Both Teams to Score - No",
-      "odds": 1.85,
-      "probability": 75.0,
-      "patternScore": 63.9,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 2",
-      "pro": false
-    },
-    {
       "home": "Galatasaray",
       "away": "Fenerbahce",
       "league": "TSL",
@@ -115,6 +102,19 @@
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0",
       "pro": false
+    },
+    {
+      "home": "FC Copenhagen",
+      "away": "OB Odense",
+      "league": "DAN",
+      "date": "26.10.2026 18:00",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.7,
+      "probability": 71.43,
+      "patternScore": 67.37,
+      "firstHalf": "0 - 1",
+      "finalScore": "1 - 1",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -198,19 +198,19 @@
     },
     {
       "type": "won",
-      "home": "Mjallby AIF",
-      "away": "Hammarby IF",
-      "prediction": "Both Teams to Score - No",
-      "odds": 1.85,
-      "at": "25.10.2026 15:30"
-    },
-    {
-      "type": "won",
       "home": "Galatasaray",
       "away": "Fenerbahce",
       "prediction": "Match Result 1",
       "odds": 1.79,
       "at": "26.10.2026 18:30"
+    },
+    {
+      "type": "won",
+      "home": "Besiktas",
+      "away": "Istanbul Basaksehir",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.78,
+      "at": "26.10.2026 16:00"
     },
     {
       "type": "updated",
