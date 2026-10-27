@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 16:59",
+  "updatedAt": "27.10.2026 17:08",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 110,
-      "lost": 51,
-      "total": 161,
-      "rate": 68.3
+      "won": 92,
+      "lost": 45,
+      "total": 137,
+      "rate": 67.2
     },
-    "totalAnalyses": 151659,
+    "totalAnalyses": 151661,
     "leagues": 535,
     "pro": {
       "won": 1387,
@@ -47,8 +47,8 @@
       "total": 194,
       "rate": 51.0
     },
-    "analyses24h": 360,
-    "analyses30d": 19854
+    "analyses24h": 337,
+    "analyses30d": 19839
   },
   "recentWins": [
     {
@@ -296,17 +296,6 @@
       "picks": 5
     },
     {
-      "home": "US Sassuolo",
-      "away": "SS Lazio",
-      "league": "İTA",
-      "date": "27.10.2026 17:30",
-      "matchCode": "4475129",
-      "odds": 1.29,
-      "patternScore": 68.55,
-      "patternText": "220.070/321.044",
-      "picks": 3
-    },
-    {
       "home": "Academia Puert",
       "away": "Caracas FC",
       "league": "VEN",
@@ -326,6 +315,17 @@
       "odds": 1.18,
       "patternScore": 69.64,
       "patternText": "252.100/361.979",
+      "picks": 1
+    },
+    {
+      "home": "Blackpool",
+      "away": "Aston Villa U21",
+      "league": "İNTK",
+      "date": "27.10.2026 19:00",
+      "matchCode": "4547587",
+      "odds": 1.17,
+      "patternScore": 68.3,
+      "patternText": "196.978/288.421",
       "picks": 1
     }
   ],
