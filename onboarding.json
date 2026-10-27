@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 15:41",
+  "updatedAt": "27.10.2026 15:51",
   "config": {
     "pages": [
       "engine",
@@ -243,12 +243,6 @@
       "away": "Lion City Sailors"
     },
     {
-      "type": "updated",
-      "at": "27.10.2026 15:39",
-      "home": "FK Macva Sabac",
-      "away": "FK Napredak Krusevac"
-    },
-    {
       "type": "kickoff",
       "home": "Express FC",
       "away": "Kataka",
@@ -256,9 +250,15 @@
     },
     {
       "type": "kickoff",
-      "home": "FK Macva Sabac",
-      "away": "FK Napredak Krusevac",
-      "at": "27.10.2026 16:30"
+      "home": "US Sassuolo",
+      "away": "SS Lazio",
+      "at": "27.10.2026 17:30"
+    },
+    {
+      "type": "kickoff",
+      "home": "Dodoma Jiji FC",
+      "away": "JKT Tanzania",
+      "at": "27.10.2026 18:00"
     }
   ],
   "today": {
@@ -296,17 +296,6 @@
       "picks": 5
     },
     {
-      "home": "FK Macva Sabac",
-      "away": "FK Napredak Krusevac",
-      "league": "SIRBK",
-      "date": "27.10.2026 16:30",
-      "matchCode": "4577290",
-      "odds": 1.43,
-      "patternScore": 68.01,
-      "patternText": "178.220/262.063",
-      "picks": 1
-    },
-    {
       "home": "US Sassuolo",
       "away": "SS Lazio",
       "league": "İTA",
@@ -327,6 +316,17 @@
       "patternScore": 68.41,
       "patternText": "167.914/245.446",
       "picks": 2
+    },
+    {
+      "home": "Dodoma Jiji FC",
+      "away": "JKT Tanzania",
+      "league": "TANZ",
+      "date": "27.10.2026 18:00",
+      "matchCode": "4509945",
+      "odds": 1.18,
+      "patternScore": 69.64,
+      "patternText": "252.100/361.979",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
