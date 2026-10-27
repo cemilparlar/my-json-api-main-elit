@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.10.2026 00:26",
+  "updatedAt": "27.10.2026 00:35",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 161,
-      "lost": 96,
-      "total": 257,
-      "rate": 62.6
+      "won": 150,
+      "lost": 88,
+      "total": 238,
+      "rate": 63.0
     },
     "totalAnalyses": 151568,
     "leagues": 535,
@@ -47,8 +47,8 @@
       "total": 193,
       "rate": 50.8
     },
-    "analyses24h": 420,
-    "analyses30d": 20602
+    "analyses24h": 401,
+    "analyses30d": 20553
   },
   "recentWins": [
     {
@@ -78,19 +78,6 @@
       "pro": false
     },
     {
-      "home": "Chapecoense AF",
-      "away": "Fluminense FC",
-      "league": "BR1",
-      "date": "24.10.2026 22:30",
-      "prediction": "Match Result 1",
-      "odds": 3.94,
-      "probability": 100.0,
-      "patternScore": 57.17,
-      "firstHalf": "1 - 1",
-      "finalScore": "2 - 1",
-      "pro": true
-    },
-    {
       "home": "Persija Jakarta",
       "away": "Persik Kediri",
       "league": "ENDL1",
@@ -114,6 +101,19 @@
       "patternScore": 56.4,
       "firstHalf": "1 - 1",
       "finalScore": "2 - 3",
+      "pro": false
+    },
+    {
+      "home": "FC Astana",
+      "away": "Kaisar",
+      "league": "KAZP",
+      "date": "25.10.2026 14:00",
+      "prediction": "1st Half Result X",
+      "odds": 2.34,
+      "probability": 77.78,
+      "patternScore": 66.95,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 0",
       "pro": false
     }
   ],
@@ -198,19 +198,19 @@
     },
     {
       "type": "won",
-      "home": "Chapecoense AF",
-      "away": "Fluminense FC",
-      "prediction": "Match Result 1",
-      "odds": 3.94,
-      "at": "24.10.2026 22:30"
-    },
-    {
-      "type": "won",
       "home": "Persija Jakarta",
       "away": "Persik Kediri",
       "prediction": "Handicap (0:1) X",
       "odds": 3.31,
       "at": "26.10.2026 12:00"
+    },
+    {
+      "type": "won",
+      "home": "Atlanta United",
+      "away": "Chicago Fire",
+      "prediction": "Total Goals 4-5",
+      "odds": 2.59,
+      "at": "24.10.2026 23:30"
     },
     {
       "type": "coupon",
@@ -250,43 +250,21 @@
     },
     {
       "type": "analysis",
-      "count": 420
+      "count": 401
     }
   ],
   "today": {
-    "home": "Mount Pleasant",
-    "away": "Montego Bay Uni",
-    "league": "JAM",
-    "date": "27.10.2026 01:00",
-    "matchCode": "4562915",
-    "odds": 1.15,
-    "patternScore": 70.51,
-    "patternText": "219.606/311.446",
-    "picks": 1
+    "home": "Santos Laguna",
+    "away": "León Women",
+    "league": "MEKKA",
+    "date": "27.10.2026 01:06",
+    "matchCode": "4560787",
+    "odds": 1.08,
+    "patternScore": 69.56,
+    "patternText": "182.937/263.007",
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Mount Pleasant",
-      "away": "Montego Bay Uni",
-      "league": "JAM",
-      "date": "27.10.2026 01:00",
-      "matchCode": "4562915",
-      "odds": 1.15,
-      "patternScore": 70.51,
-      "patternText": "219.606/311.446",
-      "picks": 1
-    },
-    {
-      "home": "Independiente Santa Fe",
-      "away": "Atletico Bucaramanga",
-      "league": "KOL",
-      "date": "27.10.2026 01:05",
-      "matchCode": "4513960",
-      "odds": 1.14,
-      "patternScore": 70.38,
-      "patternText": "213.846/303.854",
-      "picks": 1
-    },
     {
       "home": "Santos Laguna",
       "away": "León Women",
@@ -294,8 +272,8 @@
       "date": "27.10.2026 01:06",
       "matchCode": "4560787",
       "odds": 1.08,
-      "patternScore": 69.55,
-      "patternText": "182.919/262.989",
+      "patternScore": 69.56,
+      "patternText": "182.937/263.007",
       "picks": 2
     },
     {
@@ -306,7 +284,7 @@
       "matchCode": "4550081",
       "odds": 1.23,
       "patternScore": 68.8,
-      "patternText": "164.690/239.380",
+      "patternText": "164.696/239.386",
       "picks": 2
     },
     {
@@ -317,8 +295,30 @@
       "matchCode": "4550078",
       "odds": 1.2,
       "patternScore": 69.34,
-      "patternText": "94.743/136.645",
+      "patternText": "94.753/136.655",
       "picks": 2
+    },
+    {
+      "home": "Daejeon Citizen",
+      "away": "Vissel Kobe",
+      "league": "AŞMP",
+      "date": "27.10.2026 10:00",
+      "matchCode": "4550079",
+      "odds": 1.14,
+      "patternScore": 69.01,
+      "patternText": "184.749/267.728",
+      "picks": 2
+    },
+    {
+      "home": "Ratchaburi Mitr Phol FC",
+      "away": "Kashiwa Reysol",
+      "league": "AŞMP",
+      "date": "27.10.2026 12:15",
+      "matchCode": "4550082",
+      "odds": 1.07,
+      "patternScore": 69.92,
+      "patternText": "139.164/199.039",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
