@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 19:29",
+  "updatedAt": "28.10.2026 19:37",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 68,
-      "lost": 30,
-      "total": 98,
-      "rate": 69.4
+      "won": 70,
+      "lost": 31,
+      "total": 101,
+      "rate": 69.3
     },
-    "totalAnalyses": 293295,
+    "totalAnalyses": 293296,
     "leagues": 535,
     "pro": {
       "won": 1376,
@@ -36,9 +36,9 @@
       "rate": 69.6
     },
     "insights": {
-      "won": 2316,
-      "lost": 1036,
-      "total": 3352,
+      "won": 2319,
+      "lost": 1038,
+      "total": 3357,
       "rate": 69.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 184,
       "rate": 52.7
     },
-    "analyses24h": 296,
-    "analyses30d": 19566
+    "analyses24h": 289,
+    "analyses30d": 19561
   },
   "recentWins": [
     {
@@ -307,17 +307,6 @@
       "picks": 1
     },
     {
-      "home": "FAR Rabat",
-      "away": "Ittihad Tanger",
-      "league": "FAS",
-      "date": "28.10.2026 20:00",
-      "matchCode": "4576927",
-      "odds": 1.1,
-      "patternScore": 69.06,
-      "patternText": "200.872/290.855",
-      "picks": 1
-    },
-    {
       "home": "Charlotte FC",
       "away": "CF Montreal",
       "league": "ABD",
@@ -327,6 +316,17 @@
       "patternScore": 66.55,
       "patternText": "274.614/412.645",
       "picks": 5
+    },
+    {
+      "home": "Club America",
+      "away": "Club Tijuana",
+      "league": "MEK",
+      "date": "29.10.2026 03:00",
+      "matchCode": "4476410",
+      "odds": 1.42,
+      "patternScore": 67.86,
+      "patternText": "156.295/230.329",
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
