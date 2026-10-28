@@ -2,12 +2,12 @@
   "version": 1,
   "stats7": {
     "legacy": {
-      "won": 96,
-      "lost": 88
+      "won": 94,
+      "lost": 80
     },
     "multi": {
-      "won": 101,
-      "lost": 97
+      "won": 100,
+      "lost": 93
     },
     "safe": {
       "won": 36,
@@ -84,8 +84,8 @@
       "lost": 9
     }
   },
-  "updatedAt": "28.10.2026 12:14",
-  "updatedAtUtc": "2026-10-28T12:14:00Z",
+  "updatedAt": "28.10.2026 14:10",
+  "updatedAtUtc": "2026-10-28T14:10:00Z",
   "upcoming": [
     {
       "id": "20261028-15-1",
@@ -97,7 +97,7 @@
       "winChance": 40.12,
       "firstKickoff": "28.10.2026 13:00",
       "lastKickoff": "28.10.2026 14:15",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "surprise_3",
       "group": "surprise",
@@ -124,7 +124,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4549823",
@@ -146,7 +146,7 @@
           "mbs": 3,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4536791",
