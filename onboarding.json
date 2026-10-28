@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 10:40",
+  "updatedAt": "28.10.2026 11:00",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 44,
-      "lost": 32,
-      "total": 76,
-      "rate": 57.9
+      "won": 46,
+      "lost": 33,
+      "total": 79,
+      "rate": 58.2
     },
-    "totalAnalyses": 292910,
-    "leagues": 534,
+    "totalAnalyses": 292931,
+    "leagues": 535,
     "pro": {
       "won": 1390,
       "lost": 613,
@@ -36,9 +36,9 @@
       "rate": 69.4
     },
     "insights": {
-      "won": 2346,
+      "won": 2347,
       "lost": 1049,
-      "total": 3395,
+      "total": 3396,
       "rate": 69.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 198,
       "rate": 51.0
     },
-    "analyses24h": 192,
-    "analyses30d": 19622
+    "analyses24h": 211,
+    "analyses30d": 19627
   },
   "recentWins": [
     {
@@ -213,6 +213,18 @@
       "at": "26.10.2026 18:30"
     },
     {
+      "type": "updated",
+      "at": "28.10.2026 10:48",
+      "home": "Qatar U23",
+      "away": "Al Markhiya"
+    },
+    {
+      "type": "updated",
+      "at": "28.10.2026 10:48",
+      "home": "Marko",
+      "away": "Olympiakos"
+    },
+    {
       "type": "kickoff",
       "home": "Sokol Kleczew",
       "away": "NKP Podhale",
@@ -232,7 +244,7 @@
     },
     {
       "type": "analysis",
-      "count": 192
+      "count": 211
     }
   ],
   "today": {
@@ -304,6 +316,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Servette Cheno",
+      "away": "Oh Leuven Women",
+      "league": "ŞMP-K",
+      "at": "28.10.2026 10:49",
+      "count": 3
+    },
     {
       "home": "Le Havre AC",
       "away": "Paris Saint-Germain",
