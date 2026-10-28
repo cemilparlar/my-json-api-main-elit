@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 11:59",
+  "updatedAt": "28.10.2026 12:14",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 50,
+      "won": 52,
       "lost": 33,
-      "total": 83,
-      "rate": 60.2
+      "total": 85,
+      "rate": 61.2
     },
-    "totalAnalyses": 292989,
-    "leagues": 536,
+    "totalAnalyses": 293015,
+    "leagues": 535,
     "pro": {
       "won": 1391,
-      "lost": 611,
-      "total": 2002,
+      "lost": 609,
+      "total": 2000,
       "rate": 69.5
     },
     "insights": {
-      "won": 2349,
-      "lost": 1047,
-      "total": 3396,
-      "rate": 69.2
+      "won": 2350,
+      "lost": 1042,
+      "total": 3392,
+      "rate": 69.3
     },
     "coupons": {
       "won": 101,
@@ -47,8 +47,8 @@
       "total": 198,
       "rate": 51.0
     },
-    "analyses24h": 228,
-    "analyses30d": 19642
+    "analyses24h": 244,
+    "analyses30d": 19658
   },
   "recentWins": [
     {
@@ -213,40 +213,63 @@
       "at": "26.10.2026 18:30"
     },
     {
-      "type": "kickoff",
-      "home": "KCB FC",
-      "away": "Mombasa United",
-      "at": "28.10.2026 12:00"
+      "type": "coupon",
+      "size": 3,
+      "odds": 4.78,
+      "at": "28.10.2026 12:14"
+    },
+    {
+      "type": "updated",
+      "at": "28.10.2026 12:09",
+      "home": "CD Numancia",
+      "away": "Real Oviedo"
     },
     {
       "type": "kickoff",
-      "home": "Bandari FC",
-      "away": "Posta Rangers",
-      "at": "28.10.2026 12:00"
+      "home": "Fk Vora",
+      "away": "Vllaznia",
+      "at": "28.10.2026 12:30"
     },
     {
       "type": "kickoff",
-      "home": "Ofk Vrsac",
-      "away": "OFK Beograd",
-      "at": "28.10.2026 12:00"
+      "home": "Fethiyespor",
+      "away": "Eyupspor",
+      "at": "28.10.2026 12:30"
+    },
+    {
+      "type": "kickoff",
+      "home": "Sporting Liest",
+      "away": "Fc Bacau",
+      "at": "28.10.2026 13:00"
     },
     {
       "type": "analysis",
-      "count": 228
+      "count": 244
     }
   ],
   "today": {
-    "home": "Esbjerg fB",
-    "away": "FC Nordsjaelland",
-    "league": "DAK",
-    "date": "28.10.2026 16:00",
-    "matchCode": "4575923",
-    "odds": 1.25,
-    "patternScore": 67.95,
-    "patternText": "117.274/172.591",
-    "picks": 2
+    "home": "Degerfors IF",
+    "away": "Vasteras SK",
+    "league": "İSÇ",
+    "date": "28.10.2026 18:00",
+    "matchCode": "4426797",
+    "odds": 1.28,
+    "patternScore": 68.53,
+    "patternText": "210.909/307.761",
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Degerfors IF",
+      "away": "Vasteras SK",
+      "league": "İSÇ",
+      "date": "28.10.2026 18:00",
+      "matchCode": "4426797",
+      "odds": 1.28,
+      "patternScore": 68.53,
+      "patternText": "210.909/307.761",
+      "picks": 3
+    },
     {
       "home": "Esbjerg fB",
       "away": "FC Nordsjaelland",
@@ -255,7 +278,7 @@
       "matchCode": "4575923",
       "odds": 1.25,
       "patternScore": 67.95,
-      "patternText": "117.274/172.591",
+      "patternText": "117.292/172.609",
       "picks": 2
     },
     {
@@ -266,7 +289,7 @@
       "matchCode": "4478006",
       "odds": 1.24,
       "patternScore": 68.61,
-      "patternText": "192.453/280.497",
+      "patternText": "192.475/280.519",
       "picks": 1
     },
     {
@@ -277,7 +300,7 @@
       "matchCode": "4577227",
       "odds": 1.21,
       "patternScore": 68.12,
-      "patternText": "205.176/301.194",
+      "patternText": "205.206/301.224",
       "picks": 1
     },
     {
@@ -288,22 +311,25 @@
       "matchCode": "4575167",
       "odds": 1.21,
       "patternScore": 69.92,
-      "patternText": "251.256/359.348",
-      "picks": 2
-    },
-    {
-      "home": "Krsko",
-      "away": "Dravinja",
-      "league": "SLVN2",
-      "date": "28.10.2026 13:00",
-      "matchCode": "4483995",
-      "odds": 1.15,
-      "patternScore": 69.46,
-      "patternText": "203.419/292.843",
+      "patternText": "251.286/359.378",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Eintracht Frankfurt",
+      "away": "Hamburger SV",
+      "league": "AL1",
+      "at": "28.10.2026 12:11",
+      "count": 11
+    },
+    {
+      "home": "Van Spor FK",
+      "away": "Sariyer",
+      "league": "T1L",
+      "at": "28.10.2026 12:10",
+      "count": 4
+    },
     {
       "home": "Paris Women",
       "away": "Hacken Women",
