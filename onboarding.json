@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 19:54",
+  "updatedAt": "28.10.2026 20:02",
   "config": {
     "pages": [
       "engine",
@@ -36,9 +36,9 @@
       "rate": 69.6
     },
     "insights": {
-      "won": 2319,
+      "won": 2318,
       "lost": 1038,
-      "total": 3357,
+      "total": 3356,
       "rate": 69.1
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 52.7
     },
     "analyses24h": 259,
-    "analyses30d": 19561
+    "analyses30d": 19556
   },
   "recentWins": [
     {
@@ -91,19 +91,6 @@
       "pro": true
     },
     {
-      "home": "FC Copenhagen",
-      "away": "OB Odense",
-      "league": "DAN",
-      "date": "26.10.2026 18:00",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.7,
-      "probability": 71.43,
-      "patternScore": 67.37,
-      "firstHalf": "0 - 1",
-      "finalScore": "1 - 1",
-      "pro": true
-    },
-    {
       "home": "Sevilla FC",
       "away": "CA Osasuna",
       "league": "İS1",
@@ -114,6 +101,19 @@
       "patternScore": 63.53,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 0",
+      "pro": false
+    },
+    {
+      "home": "Qatar U23",
+      "away": "Al Markhiya",
+      "league": "KATQ",
+      "date": "28.10.2026 14:15",
+      "prediction": "Over 2.5 Goals",
+      "odds": 1.58,
+      "probability": 85.71,
+      "patternScore": 66.84,
+      "firstHalf": "1 - 1",
+      "finalScore": "2 - 2",
       "pro": false
     }
   ],
@@ -206,11 +206,11 @@
     },
     {
       "type": "won",
-      "home": "FC Copenhagen",
-      "away": "OB Odense",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.7,
-      "at": "26.10.2026 18:00"
+      "home": "Sevilla FC",
+      "away": "CA Osasuna",
+      "prediction": "Match Result 1",
+      "odds": 1.6,
+      "at": "26.10.2026 20:00"
     },
     {
       "type": "coupon",
