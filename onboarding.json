@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 10:00",
+  "updatedAt": "28.10.2026 10:17",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 50,
-      "lost": 35,
-      "total": 85,
-      "rate": 58.8
+      "won": 44,
+      "lost": 32,
+      "total": 76,
+      "rate": 57.9
     },
     "totalAnalyses": 292910,
     "leagues": 534,
     "pro": {
-      "won": 1416,
-      "lost": 625,
-      "total": 2041,
+      "won": 1392,
+      "lost": 613,
+      "total": 2005,
       "rate": 69.4
     },
     "insights": {
-      "won": 2392,
-      "lost": 1076,
-      "total": 3468,
-      "rate": 69.0
+      "won": 2348,
+      "lost": 1049,
+      "total": 3397,
+      "rate": 69.1
     },
     "coupons": {
       "won": 101,
@@ -236,17 +236,28 @@
     }
   ],
   "today": {
-    "home": "FK Radnicki 1923",
-    "away": "FK Zeleznicar Pancevo",
-    "league": "SIRP",
-    "date": "28.10.2026 14:00",
-    "matchCode": "4478006",
-    "odds": 1.24,
-    "patternScore": 68.61,
-    "patternText": "192.447/280.485",
-    "picks": 1
+    "home": "Esbjerg fB",
+    "away": "FC Nordsjaelland",
+    "league": "DAK",
+    "date": "28.10.2026 16:00",
+    "matchCode": "4575923",
+    "odds": 1.25,
+    "patternScore": 67.95,
+    "patternText": "117.268/172.583",
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Esbjerg fB",
+      "away": "FC Nordsjaelland",
+      "league": "DAK",
+      "date": "28.10.2026 16:00",
+      "matchCode": "4575923",
+      "odds": 1.25,
+      "patternScore": 67.95,
+      "patternText": "117.268/172.583",
+      "picks": 2
+    },
     {
       "home": "FK Radnicki 1923",
       "away": "FK Zeleznicar Pancevo",
@@ -290,17 +301,6 @@
       "patternScore": 70.37,
       "patternText": "237.564/337.570",
       "picks": 2
-    },
-    {
-      "home": "Corona Brasov",
-      "away": "FC Arges Pitesti",
-      "league": "ROMK",
-      "date": "28.10.2026 13:00",
-      "matchCode": "4549813",
-      "odds": 1.13,
-      "patternScore": 70.18,
-      "patternText": "243.684/347.248",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
