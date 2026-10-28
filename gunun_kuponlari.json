@@ -2,11 +2,11 @@
   "version": 1,
   "stats7": {
     "legacy": {
-      "won": 76,
+      "won": 74,
       "lost": 62
     },
     "multi": {
-      "won": 91,
+      "won": 90,
       "lost": 85
     },
     "safe": {
@@ -84,8 +84,8 @@
       "lost": 9
     }
   },
-  "updatedAt": "28.10.2026 21:16",
-  "updatedAtUtc": "2026-10-28T21:16:00Z",
+  "updatedAt": "28.10.2026 23:54",
+  "updatedAtUtc": "2026-10-28T23:54:00Z",
   "upcoming": [],
   "completed": [
     {
@@ -170,129 +170,6 @@
           "firstHalf": "1 - 1",
           "finalScore": "2 - 2",
           "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261026-23-1",
-      "createdAt": "26.10.2026 20:08",
-      "createdAtUtc": "2026-10-26T20:08:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.35,
-      "winChance": 69.18,
-      "firstKickoff": "27.10.2026 19:45",
-      "lastKickoff": "27.10.2026 19:45",
-      "status": "won",
-      "completedAt": "27.10.2026 21:58",
-      "kind": "safe_b",
-      "group": "safe",
-      "formula": "B",
-      "effectiveOdds": 1.35,
-      "legs": [
-        {
-          "matchCode": "4475130",
-          "nesine": null,
-          "date": "27.10.2026 19:45",
-          "kickoffUtc": "2026-10-27T19:45:00Z",
-          "league": "İTA",
-          "home": "Torino FC",
-          "away": "Como 1907",
-          "league_tr": "İTA",
-          "home_tr": "Torino",
-          "away_tr": "Como",
-          "prediction": "1st Half Double Chance 12",
-          "prediction_tr": "1. Yarı Çifte Şans 1-2",
-          "odds": 1.35,
-          "probability": 85.71,
-          "patternScore": 69.18,
-          "patternText": "137.950/206.251",
-          "mbs": 1,
-          "firstHalf": "1 - 0",
-          "finalScore": "1 - 3",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261026-23-2",
-      "createdAt": "26.10.2026 20:08",
-      "createdAtUtc": "2026-10-26T20:08:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.52,
-      "winChance": 60.43,
-      "firstKickoff": "27.10.2026 19:45",
-      "lastKickoff": "27.10.2026 19:45",
-      "status": "won",
-      "completedAt": "27.10.2026 21:58",
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.52,
-      "legs": [
-        {
-          "matchCode": "4475130",
-          "nesine": null,
-          "date": "27.10.2026 19:45",
-          "kickoffUtc": "2026-10-27T19:45:00Z",
-          "league": "İTA",
-          "home": "Torino FC",
-          "away": "Como 1907",
-          "league_tr": "İTA",
-          "home_tr": "Torino",
-          "away_tr": "Como",
-          "prediction": "Match Result 2",
-          "prediction_tr": "Maç Sonucu 2",
-          "odds": 1.52,
-          "probability": 100.0,
-          "patternScore": 60.43,
-          "patternText": "129.555/214.386",
-          "mbs": 1,
-          "firstHalf": "1 - 0",
-          "finalScore": "1 - 3",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261026-23-3",
-      "createdAt": "26.10.2026 20:08",
-      "createdAtUtc": "2026-10-26T20:08:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.6,
-      "winChance": 56.81,
-      "firstKickoff": "27.10.2026 19:45",
-      "lastKickoff": "27.10.2026 19:45",
-      "status": "lost",
-      "completedAt": "27.10.2026 21:58",
-      "kind": "surprise_1",
-      "group": "surprise",
-      "formula": "1",
-      "effectiveOdds": 1.6,
-      "legs": [
-        {
-          "matchCode": "4475128",
-          "nesine": null,
-          "date": "27.10.2026 19:45",
-          "kickoffUtc": "2026-10-27T19:45:00Z",
-          "league": "İTA",
-          "home": "AS Roma",
-          "away": "Cagliari Calcio",
-          "league_tr": "İTA",
-          "home_tr": "Roma",
-          "away_tr": "Cagliari",
-          "prediction": "Handicap (0:2) 2",
-          "prediction_tr": "Handikaplı Maç Sonucu (0:2) 2",
-          "odds": 1.6,
-          "probability": 100.0,
-          "patternScore": 56.81,
-          "patternText": "201.666/355.000",
-          "mbs": 1,
-          "firstHalf": "2 - 1",
-          "finalScore": "4 - 2",
-          "status": "lost"
         }
       ]
     }
