@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 21:06",
+  "updatedAt": "28.10.2026 21:16",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 60,
-      "lost": 25,
-      "total": 85,
-      "rate": 70.6
+      "won": 61,
+      "lost": 33,
+      "total": 94,
+      "rate": 64.9
     },
-    "totalAnalyses": 293312,
+    "totalAnalyses": 293332,
     "leagues": 535,
     "pro": {
       "won": 1380,
-      "lost": 603,
-      "total": 1983,
-      "rate": 69.6
+      "lost": 607,
+      "total": 1987,
+      "rate": 69.5
     },
     "insights": {
-      "won": 2325,
-      "lost": 1042,
-      "total": 3367,
-      "rate": 69.1
+      "won": 2326,
+      "lost": 1047,
+      "total": 3373,
+      "rate": 69.0
     },
     "coupons": {
-      "won": 96,
-      "lost": 86,
-      "total": 182,
-      "rate": 52.7
+      "won": 91,
+      "lost": 85,
+      "total": 176,
+      "rate": 51.7
     },
-    "analyses24h": 263,
-    "analyses30d": 19559
+    "analyses24h": 275,
+    "analyses30d": 19571
   },
   "recentWins": [
     {
@@ -220,6 +220,12 @@
     },
     {
       "type": "updated",
+      "at": "28.10.2026 21:11",
+      "home": "Charlotte FC",
+      "away": "CF Montreal"
+    },
+    {
+      "type": "updated",
       "at": "28.10.2026 17:08",
       "home": "Adelaide United",
       "away": "Lion City Sailors"
@@ -237,6 +243,12 @@
       "away": "Inter"
     },
     {
+      "type": "updated",
+      "at": "28.10.2026 21:12",
+      "home": "Eintracht Frankfurt",
+      "away": "Hamburger SV"
+    },
+    {
       "type": "kickoff",
       "home": "Sportivo Luque",
       "away": "Deportivo Recol",
@@ -247,16 +259,6 @@
       "home": "Universidad Catolica",
       "away": "Audax Italiano",
       "at": "28.10.2026 23:30"
-    },
-    {
-      "type": "kickoff",
-      "home": "Charlotte FC",
-      "away": "CF Montreal",
-      "at": "28.10.2026 23:30"
-    },
-    {
-      "type": "analysis",
-      "count": 263
     }
   ],
   "today": {
@@ -329,6 +331,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Juventus",
+      "away": "SSC Napoli",
+      "league": "İTA",
+      "at": "28.10.2026 21:12",
+      "count": 8
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Fulham",
+      "league": "İNP",
+      "at": "28.10.2026 21:12",
+      "count": 9
+    },
+    {
+      "home": "Eintracht Frankfurt",
+      "away": "Hamburger SV",
+      "league": "AL1",
+      "at": "28.10.2026 21:12",
+      "count": 7
+    },
+    {
+      "home": "Charlotte FC",
+      "away": "CF Montreal",
+      "league": "ABD",
+      "at": "28.10.2026 21:11",
+      "count": 7
+    },
+    {
       "home": "St. Louis City SC",
       "away": "Portland Timbers",
       "league": "ABD",
@@ -369,34 +399,6 @@
       "league": "İNP",
       "at": "28.10.2026 17:50",
       "count": 3
-    },
-    {
-      "home": "Udinese",
-      "away": "AS Roma",
-      "league": "İTA",
-      "at": "28.10.2026 17:50",
-      "count": 14
-    },
-    {
-      "home": "Charlotte FC",
-      "away": "CF Montreal",
-      "league": "ABD",
-      "at": "28.10.2026 17:49",
-      "count": 12
-    },
-    {
-      "home": "Borussia Monchengladbach",
-      "away": "SC Paderborn",
-      "league": "AL1",
-      "at": "28.10.2026 15:17",
-      "count": 11
-    },
-    {
-      "home": "Bursaspor",
-      "away": "Bandirmaspor",
-      "league": "T1L",
-      "at": "28.10.2026 15:17",
-      "count": 1
     }
   ],
   "paywall": {
