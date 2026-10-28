@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 11:13",
+  "updatedAt": "28.10.2026 11:26",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 80,
       "rate": 58.8
     },
-    "totalAnalyses": 292964,
+    "totalAnalyses": 292967,
     "leagues": 536,
     "pro": {
       "won": 1390,
@@ -47,8 +47,8 @@
       "total": 198,
       "rate": 51.0
     },
-    "analyses24h": 220,
-    "analyses30d": 19636
+    "analyses24h": 219,
+    "analyses30d": 19635
   },
   "recentWins": [
     {
@@ -232,21 +232,32 @@
     },
     {
       "type": "analysis",
-      "count": 220
+      "count": 219
     }
   ],
   "today": {
-    "home": "Esbjerg fB",
-    "away": "FC Nordsjaelland",
-    "league": "DAK",
-    "date": "28.10.2026 16:00",
-    "matchCode": "4575923",
-    "odds": 1.25,
-    "patternScore": 67.95,
-    "patternText": "117.268/172.585",
+    "home": "Ofk Vrsac",
+    "away": "OFK Beograd",
+    "league": "SIRBK",
+    "date": "28.10.2026 12:00",
+    "matchCode": "4577291",
+    "odds": 1.38,
+    "patternScore": 68.03,
+    "patternText": "175.194/257.542",
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "Ofk Vrsac",
+      "away": "OFK Beograd",
+      "league": "SIRBK",
+      "date": "28.10.2026 12:00",
+      "matchCode": "4577291",
+      "odds": 1.38,
+      "patternScore": 68.03,
+      "patternText": "175.194/257.542",
+      "picks": 2
+    },
     {
       "home": "Esbjerg fB",
       "away": "FC Nordsjaelland",
@@ -255,7 +266,7 @@
       "matchCode": "4575923",
       "odds": 1.25,
       "patternScore": 67.95,
-      "patternText": "117.268/172.585",
+      "patternText": "117.274/172.591",
       "picks": 2
     },
     {
@@ -266,7 +277,7 @@
       "matchCode": "4478006",
       "odds": 1.24,
       "patternScore": 68.61,
-      "patternText": "192.451/280.495",
+      "patternText": "192.453/280.497",
       "picks": 1
     },
     {
@@ -277,7 +288,7 @@
       "matchCode": "4577227",
       "odds": 1.21,
       "patternScore": 68.12,
-      "patternText": "205.174/301.192",
+      "patternText": "205.176/301.194",
       "picks": 1
     },
     {
@@ -288,18 +299,7 @@
       "matchCode": "4575167",
       "odds": 1.21,
       "patternScore": 69.92,
-      "patternText": "251.250/359.342",
-      "picks": 2
-    },
-    {
-      "home": "Krsko",
-      "away": "Dravinja",
-      "league": "SLVN2",
-      "date": "28.10.2026 13:00",
-      "matchCode": "4483995",
-      "odds": 1.15,
-      "patternScore": 69.46,
-      "patternText": "203.417/292.841",
+      "patternText": "251.256/359.348",
       "picks": 2
     }
   ],
