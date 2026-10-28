@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 18:55",
+  "updatedAt": "28.10.2026 19:03",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 66,
-      "lost": 34,
-      "total": 100,
-      "rate": 66.0
+      "won": 63,
+      "lost": 30,
+      "total": 93,
+      "rate": 67.7
     },
     "totalAnalyses": 293249,
     "leagues": 534,
     "pro": {
-      "won": 1379,
-      "lost": 601,
-      "total": 1980,
+      "won": 1373,
+      "lost": 600,
+      "total": 1973,
       "rate": 69.6
     },
     "insights": {
-      "won": 2327,
-      "lost": 1037,
-      "total": 3364,
-      "rate": 69.2
+      "won": 2311,
+      "lost": 1036,
+      "total": 3347,
+      "rate": 69.0
     },
     "coupons": {
-      "won": 98,
+      "won": 97,
       "lost": 88,
-      "total": 186,
-      "rate": 52.7
+      "total": 185,
+      "rate": 52.4
     },
-    "analyses24h": 267,
-    "analyses30d": 19528
+    "analyses24h": 252,
+    "analyses30d": 19522
   },
   "recentWins": [
     {
@@ -285,17 +285,6 @@
       "picks": 2
     },
     {
-      "home": "CFR Cluj",
-      "away": "Universitatea Craiova",
-      "league": "ROMK",
-      "date": "28.10.2026 19:30",
-      "matchCode": "4549804",
-      "odds": 1.24,
-      "patternScore": 67.99,
-      "patternText": "193.022/283.901",
-      "picks": 2
-    },
-    {
       "home": "Deportivo Saprissa",
       "away": "Club Deportivo Firpo",
       "league": "CONOAK",
@@ -327,6 +316,17 @@
       "patternScore": 69.06,
       "patternText": "200.854/290.833",
       "picks": 1
+    },
+    {
+      "home": "Charlotte FC",
+      "away": "CF Montreal",
+      "league": "ABD",
+      "date": "28.10.2026 23:30",
+      "matchCode": "4419814",
+      "odds": 1.08,
+      "patternScore": 66.55,
+      "patternText": "274.598/412.625",
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
