@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 11:00",
+  "updatedAt": "28.10.2026 11:13",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 46,
+      "won": 47,
       "lost": 33,
-      "total": 79,
-      "rate": 58.2
+      "total": 80,
+      "rate": 58.8
     },
-    "totalAnalyses": 292931,
-    "leagues": 535,
+    "totalAnalyses": 292964,
+    "leagues": 536,
     "pro": {
       "won": 1390,
-      "lost": 613,
-      "total": 2003,
-      "rate": 69.4
+      "lost": 611,
+      "total": 2001,
+      "rate": 69.5
     },
     "insights": {
       "won": 2347,
-      "lost": 1049,
-      "total": 3396,
-      "rate": 69.1
+      "lost": 1047,
+      "total": 3394,
+      "rate": 69.2
     },
     "coupons": {
       "won": 101,
@@ -47,8 +47,8 @@
       "total": 198,
       "rate": 51.0
     },
-    "analyses24h": 211,
-    "analyses30d": 19627
+    "analyses24h": 220,
+    "analyses30d": 19636
   },
   "recentWins": [
     {
@@ -213,18 +213,6 @@
       "at": "26.10.2026 18:30"
     },
     {
-      "type": "updated",
-      "at": "28.10.2026 10:48",
-      "home": "Qatar U23",
-      "away": "Al Markhiya"
-    },
-    {
-      "type": "updated",
-      "at": "28.10.2026 10:48",
-      "home": "Marko",
-      "away": "Olympiakos"
-    },
-    {
       "type": "kickoff",
       "home": "Sokol Kleczew",
       "away": "NKP Podhale",
@@ -244,7 +232,7 @@
     },
     {
       "type": "analysis",
-      "count": 211
+      "count": 220
     }
   ],
   "today": {
@@ -255,7 +243,7 @@
     "matchCode": "4575923",
     "odds": 1.25,
     "patternScore": 67.95,
-    "patternText": "117.268/172.583",
+    "patternText": "117.268/172.585",
     "picks": 2
   },
   "todayList": [
@@ -267,7 +255,7 @@
       "matchCode": "4575923",
       "odds": 1.25,
       "patternScore": 67.95,
-      "patternText": "117.268/172.583",
+      "patternText": "117.268/172.585",
       "picks": 2
     },
     {
@@ -278,7 +266,7 @@
       "matchCode": "4478006",
       "odds": 1.24,
       "patternScore": 68.61,
-      "patternText": "192.447/280.485",
+      "patternText": "192.451/280.495",
       "picks": 1
     },
     {
@@ -289,8 +277,19 @@
       "matchCode": "4577227",
       "odds": 1.21,
       "patternScore": 68.12,
-      "patternText": "205.166/301.182",
+      "patternText": "205.174/301.192",
       "picks": 1
+    },
+    {
+      "home": "Ferroviário De",
+      "away": "Black Bulls Map",
+      "league": "MOZ",
+      "date": "28.10.2026 13:00",
+      "matchCode": "4575167",
+      "odds": 1.21,
+      "patternScore": 69.92,
+      "patternText": "251.250/359.342",
+      "picks": 2
     },
     {
       "home": "Krsko",
@@ -300,18 +299,7 @@
       "matchCode": "4483995",
       "odds": 1.15,
       "patternScore": 69.46,
-      "patternText": "203.413/292.835",
-      "picks": 2
-    },
-    {
-      "home": "Fk Vora",
-      "away": "Vllaznia",
-      "league": "ARNV",
-      "date": "28.10.2026 12:30",
-      "matchCode": "4523670",
-      "odds": 1.13,
-      "patternScore": 70.37,
-      "patternText": "237.564/337.570",
+      "patternText": "203.417/292.841",
       "picks": 2
     }
   ],
