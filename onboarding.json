@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 19:03",
+  "updatedAt": "28.10.2026 19:12",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 63,
+      "won": 68,
       "lost": 30,
-      "total": 93,
-      "rate": 67.7
+      "total": 98,
+      "rate": 69.4
     },
-    "totalAnalyses": 293249,
-    "leagues": 534,
+    "totalAnalyses": 293265,
+    "leagues": 535,
     "pro": {
-      "won": 1373,
+      "won": 1376,
       "lost": 600,
-      "total": 1973,
+      "total": 1976,
       "rate": 69.6
     },
     "insights": {
-      "won": 2311,
+      "won": 2316,
       "lost": 1036,
-      "total": 3347,
-      "rate": 69.0
+      "total": 3352,
+      "rate": 69.1
     },
     "coupons": {
       "won": 97,
-      "lost": 88,
-      "total": 185,
-      "rate": 52.4
+      "lost": 87,
+      "total": 184,
+      "rate": 52.7
     },
-    "analyses24h": 252,
-    "analyses30d": 19522
+    "analyses24h": 267,
+    "analyses30d": 19537
   },
   "recentWins": [
     {
@@ -314,7 +314,7 @@
       "matchCode": "4576927",
       "odds": 1.1,
       "patternScore": 69.06,
-      "patternText": "200.854/290.833",
+      "patternText": "200.854/290.837",
       "picks": 1
     },
     {
@@ -325,11 +325,18 @@
       "matchCode": "4419814",
       "odds": 1.08,
       "patternScore": 66.55,
-      "patternText": "274.598/412.625",
+      "patternText": "274.598/412.629",
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Bayer Leverkusen",
+      "away": "Nuremberg",
+      "league": "AFK",
+      "at": "28.10.2026 19:05",
+      "count": 11
+    },
     {
       "home": "Tottenham Hotspur",
       "away": "Crystal Palace",
@@ -392,13 +399,6 @@
       "league": "ŞMP-K",
       "at": "28.10.2026 10:49",
       "count": 3
-    },
-    {
-      "home": "Le Havre AC",
-      "away": "Paris Saint-Germain",
-      "league": "FR1",
-      "at": "27.10.2026 15:40",
-      "count": 10
     }
   ],
   "paywall": {
