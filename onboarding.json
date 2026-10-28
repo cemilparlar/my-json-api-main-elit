@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 17:16",
+  "updatedAt": "28.10.2026 17:27",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 109,
       "rate": 63.3
     },
-    "totalAnalyses": 293197,
+    "totalAnalyses": 293203,
     "leagues": 535,
     "pro": {
       "won": 1379,
@@ -47,8 +47,8 @@
       "total": 189,
       "rate": 51.9
     },
-    "analyses24h": 256,
-    "analyses30d": 19597
+    "analyses24h": 254,
+    "analyses30d": 19595
   },
   "recentWins": [
     {
@@ -221,12 +221,6 @@
     {
       "type": "updated",
       "at": "28.10.2026 17:07",
-      "home": "MVV Maastricht",
-      "away": "Excelsior Rotterdam"
-    },
-    {
-      "type": "updated",
-      "at": "28.10.2026 17:07",
       "home": "Sparta Rotterdam",
       "away": "Fortuna Sittard"
     },
@@ -259,31 +253,26 @@
       "at": "28.10.2026 14:17",
       "home": "Asane",
       "away": "Hodd"
+    },
+    {
+      "type": "kickoff",
+      "home": "Gks Tychy",
+      "away": "Pogon Siedlce",
+      "at": "28.10.2026 17:30"
     }
   ],
   "today": {
-    "home": "MVV Maastricht",
-    "away": "Excelsior Rotterdam",
-    "league": "HOK",
-    "date": "28.10.2026 19:00",
-    "matchCode": "4576733",
-    "odds": 1.54,
-    "patternScore": 66.59,
-    "patternText": "144.925/217.637",
-    "picks": 1
+    "home": "Degerfors IF",
+    "away": "Vasteras SK",
+    "league": "İSÇ",
+    "date": "28.10.2026 18:00",
+    "matchCode": "4426797",
+    "odds": 1.28,
+    "patternScore": 68.53,
+    "patternText": "211.039/307.971",
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "MVV Maastricht",
-      "away": "Excelsior Rotterdam",
-      "league": "HOK",
-      "date": "28.10.2026 19:00",
-      "matchCode": "4576733",
-      "odds": 1.54,
-      "patternScore": 66.59,
-      "patternText": "144.925/217.637",
-      "picks": 1
-    },
     {
       "home": "Degerfors IF",
       "away": "Vasteras SK",
@@ -318,15 +307,26 @@
       "picks": 2
     },
     {
-      "home": "Sportivo Luque",
-      "away": "Deportivo Recol",
-      "league": "PARK",
-      "date": "28.10.2026 22:30",
-      "matchCode": "4574092",
-      "odds": 1.1,
-      "patternScore": 69.96,
-      "patternText": "175.696/251.129",
+      "home": "Zwolle",
+      "away": "TOP Oss",
+      "league": "HOK",
+      "date": "28.10.2026 19:00",
+      "matchCode": "4576734",
+      "odds": 1.2,
+      "patternScore": 67.03,
+      "patternText": "137.542/205.192",
       "picks": 1
+    },
+    {
+      "home": "IFK Goteborg",
+      "away": "Djurgarden",
+      "league": "İSÇ",
+      "date": "28.10.2026 18:00",
+      "matchCode": "4426794",
+      "odds": 1.13,
+      "patternScore": 70.31,
+      "patternText": "130.415/185.495",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
