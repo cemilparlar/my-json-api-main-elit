@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 15:13",
+  "updatedAt": "28.10.2026 15:24",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 104,
       "rate": 64.4
     },
-    "totalAnalyses": 293102,
-    "leagues": 534,
+    "totalAnalyses": 293133,
+    "leagues": 535,
     "pro": {
       "won": 1393,
       "lost": 608,
@@ -47,10 +47,23 @@
       "total": 190,
       "rate": 52.1
     },
-    "analyses24h": 233,
-    "analyses30d": 19638
+    "analyses24h": 250,
+    "analyses30d": 19655
   },
   "recentWins": [
+    {
+      "home": "Sporting Liest",
+      "away": "Fc Bacau",
+      "league": "ROMK",
+      "date": "28.10.2026 13:00",
+      "prediction": "1st Half Under 1.5",
+      "odds": 1.87,
+      "probability": 100.0,
+      "patternScore": 56.79,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 0",
+      "pro": true
+    },
     {
       "home": "Paris Saint-Germain",
       "away": "Olympique Lyonnais",
@@ -102,19 +115,6 @@
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0",
       "pro": false
-    },
-    {
-      "home": "FC Copenhagen",
-      "away": "OB Odense",
-      "league": "DAN",
-      "date": "26.10.2026 18:00",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.7,
-      "probability": 71.43,
-      "patternScore": 67.37,
-      "firstHalf": "0 - 1",
-      "finalScore": "1 - 1",
-      "pro": true
     }
   ],
   "recentCoupons": [
@@ -182,6 +182,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Sporting Liest",
+      "away": "Fc Bacau",
+      "prediction": "1st Half Under 1.5",
+      "odds": 1.87,
+      "at": "28.10.2026 13:00"
+    },
+    {
+      "type": "won",
       "home": "Paris Saint-Germain",
       "away": "Olympique Lyonnais",
       "prediction": "1st Half Double Chance X2",
@@ -203,14 +211,6 @@
       "prediction": "Match Result 1",
       "odds": 1.79,
       "at": "26.10.2026 18:30"
-    },
-    {
-      "type": "won",
-      "home": "Besiktas",
-      "away": "Istanbul Basaksehir",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.78,
-      "at": "26.10.2026 16:00"
     },
     {
       "type": "coupon",
@@ -249,15 +249,15 @@
       "away": "Hodd"
     },
     {
-      "type": "kickoff",
-      "home": "Al Nahda",
-      "away": "Al Rayyan",
-      "at": "28.10.2026 16:00"
+      "type": "updated",
+      "at": "28.10.2026 10:48",
+      "home": "Marko",
+      "away": "Olympiakos"
     },
     {
       "type": "kickoff",
-      "home": "Decic Tuzi",
-      "away": "Otrant",
+      "home": "Al Nahda",
+      "away": "Al Rayyan",
       "at": "28.10.2026 16:00"
     }
   ],
@@ -269,7 +269,7 @@
     "matchCode": "4576733",
     "odds": 1.54,
     "patternScore": 66.59,
-    "patternText": "144.861/217.529",
+    "patternText": "144.891/217.579",
     "picks": 1
   },
   "todayList": [
@@ -281,7 +281,7 @@
       "matchCode": "4576733",
       "odds": 1.54,
       "patternScore": 66.59,
-      "patternText": "144.861/217.529",
+      "patternText": "144.891/217.579",
       "picks": 1
     },
     {
@@ -292,7 +292,7 @@
       "matchCode": "4426797",
       "odds": 1.28,
       "patternScore": 68.53,
-      "patternText": "210.963/307.823",
+      "patternText": "210.993/307.901",
       "picks": 3
     },
     {
@@ -303,8 +303,19 @@
       "matchCode": "4574147",
       "odds": 1.28,
       "patternScore": 66.71,
-      "patternText": "134.099/201.006",
+      "patternText": "134.129/201.066",
       "picks": 1
+    },
+    {
+      "home": "CFR Cluj",
+      "away": "Universitatea Craiova",
+      "league": "ROMK",
+      "date": "28.10.2026 19:30",
+      "matchCode": "4549804",
+      "odds": 1.24,
+      "patternScore": 67.99,
+      "patternText": "192.950/283.809",
+      "picks": 2
     },
     {
       "home": "Al Jazira Club",
@@ -313,23 +324,26 @@
       "date": "28.10.2026 16:00",
       "matchCode": "4549983",
       "odds": 1.19,
-      "patternScore": 68.96,
-      "patternText": "79.056/114.648",
+      "patternScore": 68.95,
+      "patternText": "79.074/114.682",
       "picks": 2
-    },
-    {
-      "home": "Esbjerg fB",
-      "away": "FC Nordsjaelland",
-      "league": "DAK",
-      "date": "28.10.2026 16:00",
-      "matchCode": "4575923",
-      "odds": 1.13,
-      "patternScore": 68.14,
-      "patternText": "146.770/215.391",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Borussia Monchengladbach",
+      "away": "SC Paderborn",
+      "league": "AL1",
+      "at": "28.10.2026 15:17",
+      "count": 11
+    },
+    {
+      "home": "Bursaspor",
+      "away": "Bandirmaspor",
+      "league": "T1L",
+      "at": "28.10.2026 15:17",
+      "count": 1
+    },
     {
       "home": "Eintracht Frankfurt",
       "away": "Hamburger SV",
