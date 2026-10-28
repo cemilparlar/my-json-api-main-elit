@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 14:10",
+  "updatedAt": "28.10.2026 14:20",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 87,
       "rate": 66.7
     },
-    "totalAnalyses": 293027,
+    "totalAnalyses": 293089,
     "leagues": 534,
     "pro": {
       "won": 1391,
@@ -43,12 +43,12 @@
     },
     "coupons": {
       "won": 100,
-      "lost": 93,
-      "total": 193,
-      "rate": 51.8
+      "lost": 91,
+      "total": 191,
+      "rate": 52.4
     },
-    "analyses24h": 228,
-    "analyses30d": 19649
+    "analyses24h": 235,
+    "analyses30d": 19656
   },
   "recentWins": [
     {
@@ -225,6 +225,24 @@
       "away": "Excelsior Rotterdam"
     },
     {
+      "type": "updated",
+      "at": "28.10.2026 14:16",
+      "home": "Esbjerg fB",
+      "away": "FC Nordsjaelland"
+    },
+    {
+      "type": "updated",
+      "at": "28.10.2026 14:17",
+      "home": "Al Jazira Club",
+      "away": "Al Muharraq"
+    },
+    {
+      "type": "updated",
+      "at": "28.10.2026 14:17",
+      "home": "Asane",
+      "away": "Hodd"
+    },
+    {
       "type": "kickoff",
       "home": "Esbjerg fB",
       "away": "FC Nordsjaelland",
@@ -241,10 +259,6 @@
       "home": "Al Jazira Club",
       "away": "Al Muharraq",
       "at": "28.10.2026 16:00"
-    },
-    {
-      "type": "analysis",
-      "count": 228
     }
   ],
   "today": {
