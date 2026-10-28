@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 01:00",
+  "updatedAt": "28.10.2026 01:16",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 51,
+      "won": 49,
       "lost": 34,
-      "total": 85,
-      "rate": 60.0
+      "total": 83,
+      "rate": 59.0
     },
     "totalAnalyses": 151698,
     "leagues": 534,
@@ -47,8 +47,8 @@
       "total": 198,
       "rate": 51.0
     },
-    "analyses24h": 200,
-    "analyses30d": 19631
+    "analyses24h": 198,
+    "analyses30d": 19630
   },
   "recentWins": [
     {
@@ -220,21 +220,43 @@
     },
     {
       "type": "analysis",
-      "count": 200
+      "count": 198
     }
   ],
   "today": {
-    "home": "Fk Vora",
-    "away": "Vllaznia",
-    "league": "ARNV",
-    "date": "28.10.2026 12:30",
-    "matchCode": "4523670",
-    "odds": 1.13,
-    "patternScore": 70.37,
-    "patternText": "237.550/337.550",
-    "picks": 2
+    "home": "Nestos Chrisou",
+    "away": "Kalamata",
+    "league": "YUK",
+    "date": "28.10.2026 13:00",
+    "matchCode": "4577227",
+    "odds": 1.21,
+    "patternScore": 68.12,
+    "patternText": "205.160/301.170",
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Nestos Chrisou",
+      "away": "Kalamata",
+      "league": "YUK",
+      "date": "28.10.2026 13:00",
+      "matchCode": "4577227",
+      "odds": 1.21,
+      "patternScore": 68.12,
+      "patternText": "205.160/301.170",
+      "picks": 1
+    },
+    {
+      "home": "Krsko",
+      "away": "Dravinja",
+      "league": "SLVN2",
+      "date": "28.10.2026 13:00",
+      "matchCode": "4483995",
+      "odds": 1.15,
+      "patternScore": 69.46,
+      "patternText": "203.407/292.823",
+      "picks": 2
+    },
     {
       "home": "Fk Vora",
       "away": "Vllaznia",
@@ -247,6 +269,17 @@
       "picks": 2
     },
     {
+      "home": "Corona Brasov",
+      "away": "FC Arges Pitesti",
+      "league": "ROMK",
+      "date": "28.10.2026 13:00",
+      "matchCode": "4549813",
+      "odds": 1.13,
+      "patternScore": 70.18,
+      "patternText": "243.670/347.228",
+      "picks": 1
+    },
+    {
       "home": "Sokol Kleczew",
       "away": "NKP Podhale",
       "league": "POLK",
@@ -255,39 +288,6 @@
       "odds": 1.1,
       "patternScore": 70.66,
       "patternText": "238.845/338.016",
-      "picks": 1
-    },
-    {
-      "home": "Bandari FC",
-      "away": "Posta Rangers",
-      "league": "KEN",
-      "date": "28.10.2026 12:00",
-      "matchCode": "4577119",
-      "odds": 1.1,
-      "patternScore": 70.77,
-      "patternText": "128.323/181.315",
-      "picks": 1
-    },
-    {
-      "home": "Ntv Beleza Women",
-      "away": "Cerezo Osaka Women",
-      "league": "JWEL",
-      "date": "28.10.2026 09:00",
-      "matchCode": "4488398",
-      "odds": 1.07,
-      "patternScore": 72.31,
-      "patternText": "139.979/193.571",
-      "picks": 1
-    },
-    {
-      "home": "AC Parceiro Nagano",
-      "away": "Omiya Ardija Women",
-      "league": "JWEL",
-      "date": "28.10.2026 10:00",
-      "matchCode": "4488295",
-      "odds": 1.07,
-      "patternScore": 69.33,
-      "patternText": "182.132/262.710",
       "picks": 1
     }
   ],
