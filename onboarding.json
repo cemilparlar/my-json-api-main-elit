@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 11:26",
+  "updatedAt": "28.10.2026 11:39",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 80,
       "rate": 58.8
     },
-    "totalAnalyses": 292967,
+    "totalAnalyses": 292980,
     "leagues": 536,
     "pro": {
       "won": 1390,
@@ -214,12 +214,6 @@
     },
     {
       "type": "kickoff",
-      "home": "Sokol Kleczew",
-      "away": "NKP Podhale",
-      "at": "28.10.2026 11:30"
-    },
-    {
-      "type": "kickoff",
       "home": "KCB FC",
       "away": "Mombasa United",
       "at": "28.10.2026 12:00"
@@ -231,33 +225,28 @@
       "at": "28.10.2026 12:00"
     },
     {
+      "type": "kickoff",
+      "home": "Ofk Vrsac",
+      "away": "OFK Beograd",
+      "at": "28.10.2026 12:00"
+    },
+    {
       "type": "analysis",
       "count": 219
     }
   ],
   "today": {
-    "home": "Ofk Vrsac",
-    "away": "OFK Beograd",
-    "league": "SIRBK",
-    "date": "28.10.2026 12:00",
-    "matchCode": "4577291",
-    "odds": 1.38,
-    "patternScore": 68.03,
-    "patternText": "175.194/257.542",
+    "home": "Esbjerg fB",
+    "away": "FC Nordsjaelland",
+    "league": "DAK",
+    "date": "28.10.2026 16:00",
+    "matchCode": "4575923",
+    "odds": 1.25,
+    "patternScore": 67.95,
+    "patternText": "117.274/172.591",
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "Ofk Vrsac",
-      "away": "OFK Beograd",
-      "league": "SIRBK",
-      "date": "28.10.2026 12:00",
-      "matchCode": "4577291",
-      "odds": 1.38,
-      "patternScore": 68.03,
-      "patternText": "175.194/257.542",
-      "picks": 2
-    },
     {
       "home": "Esbjerg fB",
       "away": "FC Nordsjaelland",
@@ -300,6 +289,17 @@
       "odds": 1.21,
       "patternScore": 69.92,
       "patternText": "251.256/359.348",
+      "picks": 2
+    },
+    {
+      "home": "Krsko",
+      "away": "Dravinja",
+      "league": "SLVN2",
+      "date": "28.10.2026 13:00",
+      "matchCode": "4483995",
+      "odds": 1.15,
+      "patternScore": 69.46,
+      "patternText": "203.419/292.843",
       "picks": 2
     }
   ],
