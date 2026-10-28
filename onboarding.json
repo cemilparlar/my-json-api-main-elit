@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 14:20",
+  "updatedAt": "28.10.2026 14:30",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 87,
       "rate": 66.7
     },
-    "totalAnalyses": 293089,
+    "totalAnalyses": 293094,
     "leagues": 534,
     "pro": {
       "won": 1391,
@@ -47,8 +47,8 @@
       "total": 191,
       "rate": 52.4
     },
-    "analyses24h": 235,
-    "analyses30d": 19656
+    "analyses24h": 233,
+    "analyses30d": 19654
   },
   "recentWins": [
     {
@@ -227,6 +227,12 @@
     {
       "type": "updated",
       "at": "28.10.2026 14:16",
+      "home": "Adt",
+      "away": "Deportivo Moquegua"
+    },
+    {
+      "type": "updated",
+      "at": "28.10.2026 14:16",
       "home": "Esbjerg fB",
       "away": "FC Nordsjaelland"
     },
@@ -244,20 +250,14 @@
     },
     {
       "type": "kickoff",
-      "home": "Esbjerg fB",
-      "away": "FC Nordsjaelland",
-      "at": "28.10.2026 16:00"
+      "home": "Al Najma",
+      "away": "Al Zulfi",
+      "at": "28.10.2026 15:05"
     },
     {
       "type": "kickoff",
       "home": "Al Nahda",
       "away": "Al Rayyan",
-      "at": "28.10.2026 16:00"
-    },
-    {
-      "type": "kickoff",
-      "home": "Al Jazira Club",
-      "away": "Al Muharraq",
       "at": "28.10.2026 16:00"
     }
   ],
@@ -307,25 +307,25 @@
       "picks": 1
     },
     {
+      "home": "Al Jazira Club",
+      "away": "Al Muharraq",
+      "league": "AFCŞL2",
+      "date": "28.10.2026 16:00",
+      "matchCode": "4549983",
+      "odds": 1.19,
+      "patternScore": 68.96,
+      "patternText": "79.056/114.648",
+      "picks": 2
+    },
+    {
       "home": "Esbjerg fB",
       "away": "FC Nordsjaelland",
       "league": "DAK",
       "date": "28.10.2026 16:00",
       "matchCode": "4575923",
-      "odds": 1.25,
-      "patternScore": 67.96,
-      "patternText": "117.334/172.659",
-      "picks": 2
-    },
-    {
-      "home": "CFR Cluj",
-      "away": "Universitatea Craiova",
-      "league": "ROMK",
-      "date": "28.10.2026 19:30",
-      "matchCode": "4549804",
-      "odds": 1.12,
-      "patternScore": 70.24,
-      "patternText": "255.142/363.251",
+      "odds": 1.13,
+      "patternScore": 68.14,
+      "patternText": "146.770/215.391",
       "picks": 1
     }
   ],
