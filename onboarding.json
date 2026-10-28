@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 01:27",
+  "updatedAt": "28.10.2026 01:35",
   "config": {
     "pages": [
       "engine",
@@ -65,19 +65,6 @@
       "pro": false
     },
     {
-      "home": "Deportivo La Guaira",
-      "away": "Metropolitanos FC",
-      "league": "VEN",
-      "date": "25.10.2026 23:30",
-      "prediction": "1st Half Result X",
-      "odds": 1.93,
-      "probability": 71.43,
-      "patternScore": 67.33,
-      "firstHalf": "1 - 1",
-      "finalScore": "2 - 2",
-      "pro": false
-    },
-    {
       "home": "Paris Saint-Germain",
       "away": "Olympique Lyonnais",
       "league": "FR1",
@@ -115,6 +102,19 @@
       "firstHalf": "2 - 0",
       "finalScore": "2 - 1",
       "pro": true
+    },
+    {
+      "home": "Besiktas",
+      "away": "Istanbul Basaksehir",
+      "league": "TSL",
+      "date": "26.10.2026 16:00",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.78,
+      "probability": 100.0,
+      "patternScore": 57.2,
+      "firstHalf": "0 - 0",
+      "finalScore": "2 - 0",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -190,14 +190,6 @@
     },
     {
       "type": "won",
-      "home": "Deportivo La Guaira",
-      "away": "Metropolitanos FC",
-      "prediction": "1st Half Result X",
-      "odds": 1.93,
-      "at": "25.10.2026 23:30"
-    },
-    {
-      "type": "won",
       "home": "Paris Saint-Germain",
       "away": "Olympique Lyonnais",
       "prediction": "1st Half Double Chance X2",
@@ -211,6 +203,14 @@
       "prediction": "Handicap (0:2) 2",
       "odds": 1.8,
       "at": "26.10.2026 16:00"
+    },
+    {
+      "type": "won",
+      "home": "Galatasaray",
+      "away": "Fenerbahce",
+      "prediction": "Match Result 1",
+      "odds": 1.79,
+      "at": "26.10.2026 18:30"
     },
     {
       "type": "updated",
