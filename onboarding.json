@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 20:29",
+  "updatedAt": "28.10.2026 20:38",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 59,
-      "lost": 24,
-      "total": 83,
-      "rate": 71.1
+      "won": 60,
+      "lost": 25,
+      "total": 85,
+      "rate": 70.6
     },
     "totalAnalyses": 293311,
     "leagues": 535,
     "pro": {
-      "won": 1379,
+      "won": 1380,
       "lost": 604,
-      "total": 1983,
-      "rate": 69.5
+      "total": 1984,
+      "rate": 69.6
     },
     "insights": {
-      "won": 2324,
+      "won": 2325,
       "lost": 1043,
-      "total": 3367,
+      "total": 3368,
       "rate": 69.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 183,
       "rate": 53.0
     },
-    "analyses24h": 264,
-    "analyses30d": 19561
+    "analyses24h": 263,
+    "analyses30d": 19559
   },
   "recentWins": [
     {
@@ -78,19 +78,6 @@
       "pro": false
     },
     {
-      "home": "Galatasaray",
-      "away": "Fenerbahce",
-      "league": "TSL",
-      "date": "26.10.2026 18:30",
-      "prediction": "Match Result 1",
-      "odds": 1.79,
-      "probability": 77.78,
-      "patternScore": 66.87,
-      "firstHalf": "2 - 0",
-      "finalScore": "2 - 1",
-      "pro": true
-    },
-    {
       "home": "Sevilla FC",
       "away": "CA Osasuna",
       "league": "İS1",
@@ -114,6 +101,19 @@
       "patternScore": 66.84,
       "firstHalf": "1 - 1",
       "finalScore": "2 - 2",
+      "pro": false
+    },
+    {
+      "home": "Castellonense",
+      "away": "UD Almeria",
+      "league": "İSPK",
+      "date": "27.10.2026 18:45",
+      "prediction": "Both Teams to Score - No",
+      "odds": 1.56,
+      "probability": 77.78,
+      "patternScore": 66.46,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 0",
       "pro": false
     }
   ],
@@ -198,19 +198,19 @@
     },
     {
       "type": "won",
-      "home": "Galatasaray",
-      "away": "Fenerbahce",
-      "prediction": "Match Result 1",
-      "odds": 1.79,
-      "at": "26.10.2026 18:30"
-    },
-    {
-      "type": "won",
       "home": "Sevilla FC",
       "away": "CA Osasuna",
       "prediction": "Match Result 1",
       "odds": 1.6,
       "at": "26.10.2026 20:00"
+    },
+    {
+      "type": "won",
+      "home": "Qatar U23",
+      "away": "Al Markhiya",
+      "prediction": "Over 2.5 Goals",
+      "odds": 1.58,
+      "at": "28.10.2026 14:15"
     },
     {
       "type": "coupon",
@@ -243,8 +243,20 @@
       "at": "28.10.2026 22:30"
     },
     {
+      "type": "kickoff",
+      "home": "Universidad Catolica",
+      "away": "Audax Italiano",
+      "at": "28.10.2026 23:30"
+    },
+    {
+      "type": "kickoff",
+      "home": "Charlotte FC",
+      "away": "CF Montreal",
+      "at": "28.10.2026 23:30"
+    },
+    {
       "type": "analysis",
-      "count": 264
+      "count": 263
     }
   ],
   "today": {
