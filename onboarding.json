@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 20:10",
+  "updatedAt": "28.10.2026 20:20",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 57,
-      "lost": 22,
-      "total": 79,
-      "rate": 72.2
+      "won": 59,
+      "lost": 24,
+      "total": 83,
+      "rate": 71.1
     },
-    "totalAnalyses": 293300,
+    "totalAnalyses": 293311,
     "leagues": 535,
     "pro": {
       "won": 1379,
-      "lost": 603,
-      "total": 1982,
-      "rate": 69.6
+      "lost": 604,
+      "total": 1983,
+      "rate": 69.5
     },
     "insights": {
-      "won": 2323,
-      "lost": 1041,
-      "total": 3364,
-      "rate": 69.1
+      "won": 2324,
+      "lost": 1043,
+      "total": 3367,
+      "rate": 69.0
     },
     "coupons": {
       "won": 97,
@@ -47,8 +47,8 @@
       "total": 184,
       "rate": 52.7
     },
-    "analyses24h": 259,
-    "analyses30d": 19556
+    "analyses24h": 264,
+    "analyses30d": 19561
   },
   "recentWins": [
     {
@@ -226,24 +226,6 @@
     },
     {
       "type": "updated",
-      "at": "28.10.2026 14:16",
-      "home": "Adt",
-      "away": "Deportivo Moquegua"
-    },
-    {
-      "type": "updated",
-      "at": "28.10.2026 14:16",
-      "home": "Esbjerg fB",
-      "away": "FC Nordsjaelland"
-    },
-    {
-      "type": "updated",
-      "at": "28.10.2026 14:17",
-      "home": "Al Jazira Club",
-      "away": "Al Muharraq"
-    },
-    {
-      "type": "updated",
       "at": "28.10.2026 17:08",
       "home": "Adelaide United",
       "away": "Lion City Sailors"
@@ -256,9 +238,19 @@
     },
     {
       "type": "updated",
-      "at": "28.10.2026 14:17",
-      "home": "Asane",
-      "away": "Hodd"
+      "at": "28.10.2026 20:11",
+      "home": "AC Milan",
+      "away": "Inter"
+    },
+    {
+      "type": "kickoff",
+      "home": "Sportivo Luque",
+      "away": "Deportivo Recol",
+      "at": "28.10.2026 22:30"
+    },
+    {
+      "type": "analysis",
+      "count": 264
     }
   ],
   "today": {
@@ -269,7 +261,7 @@
     "matchCode": "4435981",
     "odds": 1.33,
     "patternScore": 67.95,
-    "patternText": "166.933/245.679",
+    "patternText": "166.941/245.689",
     "picks": 2
   },
   "todayList": [
@@ -281,7 +273,7 @@
       "matchCode": "4435981",
       "odds": 1.33,
       "patternScore": 67.95,
-      "patternText": "166.933/245.679",
+      "patternText": "166.941/245.689",
       "picks": 2
     },
     {
@@ -292,8 +284,19 @@
       "matchCode": "4575444",
       "odds": 1.22,
       "patternScore": 68.15,
-      "patternText": "152.533/223.835",
+      "patternText": "152.541/223.845",
       "picks": 1
+    },
+    {
+      "home": "St. Louis City SC",
+      "away": "Portland Timbers",
+      "league": "ABD",
+      "date": "29.10.2026 00:30",
+      "matchCode": "4504270",
+      "odds": 1.12,
+      "patternScore": 66.52,
+      "patternText": "273.817/411.643",
+      "picks": 4
     },
     {
       "home": "Sportivo Luque",
@@ -303,7 +306,7 @@
       "matchCode": "4574092",
       "odds": 1.1,
       "patternScore": 69.96,
-      "patternText": "175.710/251.145",
+      "patternText": "175.718/251.161",
       "picks": 1
     },
     {
@@ -314,22 +317,25 @@
       "matchCode": "4419814",
       "odds": 1.08,
       "patternScore": 66.55,
-      "patternText": "274.614/412.649",
+      "patternText": "274.626/412.669",
       "picks": 5
-    },
-    {
-      "home": "Club America",
-      "away": "Club Tijuana",
-      "league": "MEK",
-      "date": "29.10.2026 03:00",
-      "matchCode": "4476410",
-      "odds": 1.42,
-      "patternScore": 67.86,
-      "patternText": "156.295/230.331",
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "St. Louis City SC",
+      "away": "Portland Timbers",
+      "league": "ABD",
+      "at": "28.10.2026 20:11",
+      "count": 10
+    },
+    {
+      "home": "AC Milan",
+      "away": "Inter",
+      "league": "İTA",
+      "at": "28.10.2026 20:11",
+      "count": 7
+    },
     {
       "home": "SS Arezzo",
       "away": "Ascoli Calcio",
@@ -343,13 +349,6 @@
       "league": "İTB",
       "at": "28.10.2026 19:28",
       "count": 8
-    },
-    {
-      "home": "AC Milan",
-      "away": "Inter",
-      "league": "İTA",
-      "at": "28.10.2026 19:28",
-      "count": 13
     },
     {
       "home": "Bayer Leverkusen",
@@ -392,13 +391,6 @@
       "league": "T1L",
       "at": "28.10.2026 15:17",
       "count": 1
-    },
-    {
-      "home": "Eintracht Frankfurt",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "28.10.2026 12:11",
-      "count": 11
     }
   ],
   "paywall": {
