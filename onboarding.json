@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.10.2026 23:54",
+  "updatedAt": "29.10.2026 00:15",
   "config": {
     "pages": [
       "engine",
@@ -27,28 +27,28 @@
       "total": 108,
       "rate": 62.0
     },
-    "totalAnalyses": 293333,
+    "totalAnalyses": 293381,
     "leagues": 535,
     "pro": {
-      "won": 1378,
+      "won": 1377,
       "lost": 605,
-      "total": 1983,
+      "total": 1982,
       "rate": 69.5
     },
     "insights": {
-      "won": 2327,
+      "won": 2326,
       "lost": 1043,
-      "total": 3370,
-      "rate": 69.1
+      "total": 3369,
+      "rate": 69.0
     },
     "coupons": {
       "won": 90,
-      "lost": 85,
-      "total": 175,
-      "rate": 51.4
+      "lost": 83,
+      "total": 173,
+      "rate": 52.0
     },
-    "analyses24h": 253,
-    "analyses30d": 19532
+    "analyses24h": 262,
+    "analyses30d": 19529
   },
   "recentWins": [
     {
@@ -114,7 +114,7 @@
       "patternScore": 67.64,
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0",
-      "pro": false
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -198,16 +198,16 @@
       "at": "27.10.2026 19:45"
     },
     {
-      "type": "coupon",
-      "size": 3,
-      "odds": 4.78,
-      "at": "28.10.2026 12:14"
-    },
-    {
       "type": "updated",
       "at": "28.10.2026 21:11",
       "home": "Charlotte FC",
       "away": "CF Montreal"
+    },
+    {
+      "type": "updated",
+      "at": "28.10.2026 23:58",
+      "home": "Deportivo Saprissa",
+      "away": "Club Deportivo Firpo"
     },
     {
       "type": "updated",
@@ -234,8 +234,14 @@
       "at": "29.10.2026 00:30"
     },
     {
+      "type": "kickoff",
+      "home": "Deportivo Olimpia",
+      "away": "CS Cartaginés",
+      "at": "29.10.2026 03:00"
+    },
+    {
       "type": "analysis",
-      "count": 253
+      "count": 262
     }
   ],
   "today": {
@@ -245,8 +251,8 @@
     "date": "29.10.2026 03:00",
     "matchCode": "4476410",
     "odds": 1.42,
-    "patternScore": 67.86,
-    "patternText": "156.311/230.355",
+    "patternScore": 67.85,
+    "patternText": "156.327/230.385",
     "picks": 4
   },
   "todayList": [
@@ -257,30 +263,8 @@
       "date": "29.10.2026 03:00",
       "matchCode": "4476410",
       "odds": 1.42,
-      "patternScore": 67.86,
-      "patternText": "156.311/230.355",
-      "picks": 4
-    },
-    {
-      "home": "Deportivo Saprissa",
-      "away": "Club Deportivo Firpo",
-      "league": "CONOAK",
-      "date": "29.10.2026 00:30",
-      "matchCode": "4575444",
-      "odds": 1.22,
-      "patternScore": 68.14,
-      "patternText": "152.547/223.857",
-      "picks": 1
-    },
-    {
-      "home": "St. Louis City SC",
-      "away": "Portland Timbers",
-      "league": "ABD",
-      "date": "29.10.2026 00:30",
-      "matchCode": "4504270",
-      "odds": 1.12,
-      "patternScore": 66.52,
-      "patternText": "273.835/411.681",
+      "patternScore": 67.85,
+      "patternText": "156.327/230.385",
       "picks": 4
     },
     {
@@ -302,11 +286,40 @@
       "matchCode": "4550030",
       "odds": 1.07,
       "patternScore": 71.33,
-      "patternText": "90.787/127.274",
+      "patternText": "90.789/127.278",
       "picks": 1
+    },
+    {
+      "home": "Wofoo Tai Po",
+      "away": "BG Pathum United",
+      "league": "AFCŞL2",
+      "date": "29.10.2026 12:15",
+      "matchCode": "4550031",
+      "odds": 1.31,
+      "patternScore": 67.57,
+      "patternText": "181.454/268.561",
+      "picks": 1
+    },
+    {
+      "home": "Paris Women",
+      "away": "Hacken Women",
+      "league": "ŞMP-K",
+      "date": "29.10.2026 17:45",
+      "matchCode": "4560851",
+      "odds": 1.14,
+      "patternScore": 68.86,
+      "patternText": "114.822/166.751",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Remo",
+      "away": "Botafogo de Futebol e Regatas",
+      "league": "BR1",
+      "at": "28.10.2026 23:58",
+      "count": 9
+    },
     {
       "home": "Juventus",
       "away": "SSC Napoli",
@@ -369,13 +382,6 @@
       "league": "AFK",
       "at": "28.10.2026 19:05",
       "count": 11
-    },
-    {
-      "home": "Tottenham Hotspur",
-      "away": "Crystal Palace",
-      "league": "İNP",
-      "at": "28.10.2026 17:50",
-      "count": 3
     }
   ],
   "paywall": {
