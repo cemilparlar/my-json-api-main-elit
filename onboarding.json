@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 20:44",
+  "updatedAt": "29.10.2026 21:00",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 77,
       "rate": 71.4
     },
-    "totalAnalyses": 295956,
+    "totalAnalyses": 295974,
     "leagues": 536,
     "pro": {
       "won": 1296,
@@ -47,8 +47,8 @@
       "total": 127,
       "rate": 51.2
     },
-    "analyses24h": 241,
-    "analyses30d": 19235
+    "analyses24h": 256,
+    "analyses30d": 19242
   },
   "recentWins": [
     {
@@ -91,19 +91,6 @@
       "pro": false
     },
     {
-      "home": "Castellonense",
-      "away": "UD Almeria",
-      "league": "İSPK",
-      "date": "27.10.2026 18:45",
-      "prediction": "Both Teams to Score - No",
-      "odds": 1.56,
-      "probability": 77.78,
-      "patternScore": 66.46,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 0",
-      "pro": false
-    },
-    {
       "home": "Torino FC",
       "away": "Como 1907",
       "league": "İTA",
@@ -114,6 +101,19 @@
       "patternScore": 60.43,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 3",
+      "pro": true
+    },
+    {
+      "home": "Remo",
+      "away": "Botafogo de Futebol e Regatas",
+      "league": "BR1",
+      "date": "29.10.2026 00:30",
+      "prediction": "Over 2.5 Goals",
+      "odds": 1.51,
+      "probability": 71.43,
+      "patternScore": 67.29,
+      "firstHalf": "1 - 0",
+      "finalScore": "2 - 1",
       "pro": true
     }
   ],
@@ -176,11 +176,17 @@
     },
     {
       "type": "won",
-      "home": "Castellonense",
-      "away": "UD Almeria",
-      "prediction": "Both Teams to Score - No",
-      "odds": 1.56,
-      "at": "27.10.2026 18:45"
+      "home": "Torino FC",
+      "away": "Como 1907",
+      "prediction": "Match Result 2",
+      "odds": 1.52,
+      "at": "27.10.2026 19:45"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
+      "odds": 1.07,
+      "at": "29.10.2026 21:00"
     },
     {
       "type": "coupon",
@@ -207,43 +213,43 @@
       "away": "Cd Coria"
     },
     {
-      "type": "updated",
-      "at": "29.10.2026 18:59",
-      "home": "Universidad Catolica",
-      "away": "LDU Quito"
-    },
-    {
       "type": "kickoff",
       "home": "America de Cali",
       "away": "Fortaleza EC",
       "at": "29.10.2026 23:15"
     },
     {
+      "type": "kickoff",
+      "home": "Antigua Guatem",
+      "away": "Deportivo San P",
+      "at": "30.10.2026 00:00"
+    },
+    {
       "type": "analysis",
-      "count": 241
+      "count": 256
     }
   ],
   "today": {
-    "home": "Universidad Catolica",
-    "away": "LDU Quito",
-    "league": "EKVK",
-    "date": "30.10.2026 00:00",
-    "matchCode": "4567411",
-    "odds": 1.23,
-    "patternScore": 69.48,
-    "patternText": "203.447/292.809",
+    "home": "LD Alajuelense",
+    "away": "Club Deportivo Motagua",
+    "league": "CONOAK",
+    "date": "30.10.2026 02:00",
+    "matchCode": "4575448",
+    "odds": 1.12,
+    "patternScore": 70.36,
+    "patternText": "245.880/349.457",
     "picks": 1
   },
   "todayList": [
     {
-      "home": "Universidad Catolica",
-      "away": "LDU Quito",
-      "league": "EKVK",
-      "date": "30.10.2026 00:00",
-      "matchCode": "4567411",
-      "odds": 1.23,
-      "patternScore": 69.48,
-      "patternText": "203.447/292.809",
+      "home": "LD Alajuelense",
+      "away": "Club Deportivo Motagua",
+      "league": "CONOAK",
+      "date": "30.10.2026 02:00",
+      "matchCode": "4575448",
+      "odds": 1.12,
+      "patternScore": 70.36,
+      "patternText": "245.880/349.457",
       "picks": 1
     },
     {
@@ -254,7 +260,7 @@
       "matchCode": "4513859",
       "odds": 1.07,
       "patternScore": 71.98,
-      "patternText": "177.397/246.456",
+      "patternText": "177.399/246.458",
       "picks": 1
     },
     {
@@ -265,7 +271,7 @@
       "matchCode": "4490441",
       "odds": 1.06,
       "patternScore": 72.07,
-      "patternText": "174.187/241.681",
+      "patternText": "174.189/241.683",
       "picks": 1
     },
     {
@@ -276,7 +282,7 @@
       "matchCode": "4537646",
       "odds": 1.11,
       "patternScore": 69.92,
-      "patternText": "205.735/294.259",
+      "patternText": "205.739/294.265",
       "picks": 2
     },
     {
@@ -287,7 +293,7 @@
       "matchCode": "4539094",
       "odds": 1.28,
       "patternScore": 68.56,
-      "patternText": "130.382/190.178",
+      "patternText": "130.384/190.182",
       "picks": 2
     }
   ],
