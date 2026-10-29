@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 19:04",
+  "updatedAt": "29.10.2026 19:19",
   "config": {
     "pages": [
       "engine",
@@ -42,13 +42,13 @@
       "rate": 69.3
     },
     "coupons": {
-      "won": 78,
-      "lost": 73,
-      "total": 151,
-      "rate": 51.7
+      "won": 66,
+      "lost": 62,
+      "total": 128,
+      "rate": 51.6
     },
-    "analyses24h": 242,
-    "analyses30d": 19222
+    "analyses24h": 239,
+    "analyses30d": 19217
   },
   "recentWins": [
     {
@@ -219,43 +219,71 @@
       "at": "29.10.2026 19:45"
     },
     {
+      "type": "kickoff",
+      "home": "Manchester City Women",
+      "away": "PSG Women",
+      "at": "29.10.2026 20:00"
+    },
+    {
       "type": "analysis",
-      "count": 242
+      "count": 239
     }
   ],
   "today": {
-    "home": "Amiens SC",
-    "away": "Thionville Lusi",
-    "league": "FR3",
-    "date": "29.10.2026 19:45",
-    "matchCode": "4496233",
-    "odds": 1.18,
-    "patternScore": 68.14,
-    "patternText": "170.816/250.670",
+    "home": "Universidad Catolica",
+    "away": "LDU Quito",
+    "league": "EKVK",
+    "date": "30.10.2026 00:00",
+    "matchCode": "4567411",
+    "odds": 1.23,
+    "patternScore": 69.48,
+    "patternText": "203.413/292.763",
     "picks": 1
   },
   "todayList": [
-    {
-      "home": "Amiens SC",
-      "away": "Thionville Lusi",
-      "league": "FR3",
-      "date": "29.10.2026 19:45",
-      "matchCode": "4496233",
-      "odds": 1.18,
-      "patternScore": 68.14,
-      "patternText": "170.816/250.670",
-      "picks": 1
-    },
     {
       "home": "Universidad Catolica",
       "away": "LDU Quito",
       "league": "EKVK",
       "date": "30.10.2026 00:00",
       "matchCode": "4567411",
-      "odds": 1.11,
-      "patternScore": 69.8,
-      "patternText": "205.221/294.007",
+      "odds": 1.23,
+      "patternScore": 69.48,
+      "patternText": "203.413/292.763",
       "picks": 1
+    },
+    {
+      "home": "Manchester City Women",
+      "away": "PSG Women",
+      "league": "ŞMP-K",
+      "date": "29.10.2026 20:00",
+      "matchCode": "4560854",
+      "odds": 1.07,
+      "patternScore": 70.91,
+      "patternText": "106.366/150.000",
+      "picks": 1
+    },
+    {
+      "home": "America de Cali",
+      "away": "Fortaleza EC",
+      "league": "KOL",
+      "date": "29.10.2026 23:15",
+      "matchCode": "4513859",
+      "odds": 1.07,
+      "patternScore": 71.98,
+      "patternText": "177.389/246.436",
+      "picks": 1
+    },
+    {
+      "home": "DPMM FC",
+      "away": "Negeri Sembilan FC",
+      "league": "MALES",
+      "date": "30.10.2026 08:00",
+      "matchCode": "4537646",
+      "odds": 1.11,
+      "patternScore": 69.92,
+      "patternText": "205.701/294.213",
+      "picks": 2
     },
     {
       "home": "FK Vlasim",
