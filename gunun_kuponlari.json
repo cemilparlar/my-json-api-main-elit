@@ -5,10 +5,6 @@
       "won": 60,
       "lost": 48
     },
-    "multi": {
-      "won": 83,
-      "lost": 78
-    },
     "safe": {
       "won": 36,
       "lost": 22
@@ -47,10 +43,6 @@
       "won": 96,
       "lost": 88
     },
-    "multi": {
-      "won": 101,
-      "lost": 98
-    },
     "safe": {
       "won": 36,
       "lost": 22
@@ -84,94 +76,50 @@
       "lost": 9
     }
   },
-  "updatedAt": "29.10.2026 15:00",
-  "updatedAtUtc": "2026-10-29T15:00:00Z",
-  "upcoming": [],
-  "completed": [
+  "updatedAt": "29.10.2026 15:29",
+  "updatedAtUtc": "2026-10-29T15:29:00Z",
+  "upcoming": [
     {
-      "id": "20261028-15-1",
-      "createdAt": "28.10.2026 12:14",
-      "createdAtUtc": "2026-10-28T12:14:00Z",
-      "size": 3,
-      "mbs": 3,
-      "totalOdds": 4.78,
-      "winChance": 40.12,
-      "firstKickoff": "28.10.2026 13:00",
-      "lastKickoff": "28.10.2026 14:15",
-      "status": "lost",
-      "completedAt": "28.10.2026 15:13",
-      "kind": "surprise_3",
-      "group": "surprise",
-      "formula": "3",
-      "effectiveOdds": 4.78,
+      "id": "20261029-18-1",
+      "createdAt": "29.10.2026 15:29",
+      "createdAtUtc": "2026-10-29T15:29:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.09,
+      "winChance": 71.63,
+      "firstKickoff": "29.10.2026 17:45",
+      "lastKickoff": "29.10.2026 17:45",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.09,
       "legs": [
         {
-          "matchCode": "4577226",
+          "matchCode": "4560851",
           "nesine": null,
-          "date": "28.10.2026 13:00",
-          "kickoffUtc": "2026-10-28T13:00:00Z",
-          "league": "YUK",
-          "home": "Marko",
-          "away": "Olympiakos",
-          "league_tr": "YUK",
-          "home_tr": "Marko",
-          "away_tr": "Olympiakos",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.68,
-          "probability": 75.0,
-          "patternScore": 74.14,
-          "patternText": "239.562/369.800",
-          "mbs": 3,
-          "firstHalf": "0 - 1",
-          "finalScore": "0 - 2",
-          "status": "lost"
-        },
-        {
-          "matchCode": "4549823",
-          "nesine": null,
-          "date": "28.10.2026 13:00",
-          "kickoffUtc": "2026-10-28T13:00:00Z",
-          "league": "ROMK",
-          "home": "Sporting Liest",
-          "away": "Fc Bacau",
-          "league_tr": "ROMK",
-          "home_tr": "Sporting Lieşt",
-          "away_tr": "Fc Bacau",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.8,
-          "probability": 100.0,
-          "patternScore": 74.06,
-          "patternText": "199.544/347.484",
-          "mbs": 3,
-          "firstHalf": "0 - 0",
-          "finalScore": "0 - 0",
-          "status": "won"
-        },
-        {
-          "matchCode": "4536791",
-          "nesine": null,
-          "date": "28.10.2026 14:15",
-          "kickoffUtc": "2026-10-28T14:15:00Z",
-          "league": "KATQ",
-          "home": "Qatar U23",
-          "away": "Al Markhiya",
-          "league_tr": "KATQ",
-          "home_tr": "Katar U23",
-          "away_tr": "Markhiya",
-          "prediction": "Over 2.5 Goals",
-          "prediction_tr": "2,5 Alt/Üst Üst",
-          "odds": 1.58,
-          "probability": 85.71,
-          "patternScore": 73.06,
-          "patternText": "137.630/205.911",
-          "mbs": 3,
-          "firstHalf": "1 - 1",
-          "finalScore": "2 - 2",
-          "status": "won"
+          "date": "29.10.2026 17:45",
+          "kickoffUtc": "2026-10-29T17:45:00Z",
+          "league": "ŞMP-K",
+          "home": "Paris Women",
+          "away": "Hacken Women",
+          "league_tr": "ŞMP-K",
+          "home_tr": "Paris (K)",
+          "away_tr": "Hacken (K)",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.09,
+          "probability": 80.62,
+          "patternScore": 71.63,
+          "patternText": "170.794/238.447",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
         }
       ]
     }
-  ]
+  ],
+  "completed": []
 }
