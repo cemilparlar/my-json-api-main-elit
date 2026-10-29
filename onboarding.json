@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 09:00",
+  "updatedAt": "29.10.2026 09:16",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 75,
+      "won": 74,
       "lost": 43,
-      "total": 118,
-      "rate": 63.6
+      "total": 117,
+      "rate": 63.2
     },
     "totalAnalyses": 294386,
     "leagues": 535,
@@ -181,6 +181,12 @@
       "prediction": "Match Result 2",
       "odds": 1.52,
       "at": "27.10.2026 19:45"
+    },
+    {
+      "type": "kickoff",
+      "home": "Wofoo Tai Po",
+      "away": "BG Pathum United",
+      "at": "29.10.2026 12:15"
     },
     {
       "type": "analysis",
