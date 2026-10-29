@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 17:25",
+  "updatedAt": "29.10.2026 17:38",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 53,
-      "lost": 31,
-      "total": 84,
-      "rate": 63.1
+      "won": 49,
+      "lost": 28,
+      "total": 77,
+      "rate": 63.6
     },
-    "totalAnalyses": 295832,
+    "totalAnalyses": 295835,
     "leagues": 536,
     "pro": {
       "won": 1319,
@@ -47,8 +47,8 @@
       "total": 156,
       "rate": 51.3
     },
-    "analyses24h": 253,
-    "analyses30d": 19401
+    "analyses24h": 245,
+    "analyses30d": 19394
   },
   "recentWins": [
     {
@@ -201,16 +201,10 @@
       "away": "Juventus Women"
     },
     {
-      "type": "kickoff",
-      "home": "Eskisehirspor",
-      "away": "Igdir FK",
-      "at": "29.10.2026 17:30"
-    },
-    {
-      "type": "kickoff",
-      "home": "Egnatia",
-      "away": "Teuta",
-      "at": "29.10.2026 17:30"
+      "type": "updated",
+      "at": "29.10.2026 17:13",
+      "home": "CD San Sebastian de los Reyes",
+      "away": "Cd Coria"
     },
     {
       "type": "kickoff",
@@ -219,8 +213,20 @@
       "at": "29.10.2026 17:45"
     },
     {
+      "type": "kickoff",
+      "home": "Arka Gdynia",
+      "away": "Stal Rzeszow",
+      "at": "29.10.2026 18:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Kalmar FF",
+      "away": "GAIS",
+      "at": "29.10.2026 18:00"
+    },
+    {
       "type": "analysis",
-      "count": 253
+      "count": 245
     }
   ],
   "today": {
@@ -258,25 +264,25 @@
       "picks": 1
     },
     {
-      "home": "Kalmar FF",
-      "away": "GAIS",
-      "league": "İSÇ",
-      "date": "29.10.2026 18:00",
-      "matchCode": "4426798",
-      "odds": 1.15,
-      "patternScore": 69.29,
-      "patternText": "228.008/329.075",
+      "home": "Amiens SC",
+      "away": "Thionville Lusi",
+      "league": "FR3",
+      "date": "29.10.2026 19:45",
+      "matchCode": "4496233",
+      "odds": 1.18,
+      "patternScore": 68.14,
+      "patternText": "170.792/250.632",
       "picks": 1
     },
     {
-      "home": "Arka Gdynia",
-      "away": "Stal Rzeszow",
-      "league": "POLK",
-      "date": "29.10.2026 18:00",
-      "matchCode": "4564187",
-      "odds": 1.07,
-      "patternScore": 67.13,
-      "patternText": "313.055/466.310",
+      "home": "Acv",
+      "away": "Afc Amsterdamsc",
+      "league": "HOK",
+      "date": "29.10.2026 19:00",
+      "matchCode": "4576744",
+      "odds": 1.08,
+      "patternScore": 71.28,
+      "patternText": "164.280/230.465",
       "picks": 1
     },
     {
