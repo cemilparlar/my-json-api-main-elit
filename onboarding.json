@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 17:52",
+  "updatedAt": "29.10.2026 18:11",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 48,
-      "lost": 27,
-      "total": 75,
-      "rate": 64.0
+      "won": 43,
+      "lost": 24,
+      "total": 67,
+      "rate": 64.2
     },
-    "totalAnalyses": 295840,
+    "totalAnalyses": 295843,
     "leagues": 536,
     "pro": {
       "won": 1319,
@@ -43,12 +43,12 @@
     },
     "coupons": {
       "won": 80,
-      "lost": 76,
-      "total": 156,
-      "rate": 51.3
+      "lost": 73,
+      "total": 153,
+      "rate": 52.3
     },
-    "analyses24h": 243,
-    "analyses30d": 19394
+    "analyses24h": 235,
+    "analyses30d": 19380
   },
   "recentWins": [
     {
@@ -208,25 +208,25 @@
     },
     {
       "type": "kickoff",
-      "home": "Arka Gdynia",
-      "away": "Stal Rzeszow",
-      "at": "29.10.2026 18:00"
+      "home": "Real Avila",
+      "away": "Unionistas De S",
+      "at": "29.10.2026 19:00"
     },
     {
       "type": "kickoff",
-      "home": "Kalmar FF",
-      "away": "GAIS",
-      "at": "29.10.2026 18:00"
+      "home": "Purmersteijn",
+      "away": "Gemert",
+      "at": "29.10.2026 19:00"
     },
     {
       "type": "kickoff",
-      "home": "CD San Sebastian de los Reyes",
-      "away": "Cd Coria",
-      "at": "29.10.2026 18:00"
+      "home": "RKAV Volendam",
+      "away": "Rohda Raalte",
+      "at": "29.10.2026 19:00"
     },
     {
       "type": "analysis",
-      "count": 243
+      "count": 235
     }
   ],
   "today": {
@@ -275,17 +275,6 @@
       "picks": 1
     },
     {
-      "home": "Acv",
-      "away": "Afc Amsterdamsc",
-      "league": "HOK",
-      "date": "29.10.2026 19:00",
-      "matchCode": "4576744",
-      "odds": 1.08,
-      "patternScore": 71.28,
-      "patternText": "164.280/230.465",
-      "picks": 1
-    },
-    {
       "home": "Universidad Catolica",
       "away": "LDU Quito",
       "league": "EKVK",
@@ -294,6 +283,17 @@
       "odds": 1.11,
       "patternScore": 69.8,
       "patternText": "205.205/293.983",
+      "picks": 1
+    },
+    {
+      "home": "Acv",
+      "away": "Afc Amsterdamsc",
+      "league": "HOK",
+      "date": "29.10.2026 19:00",
+      "matchCode": "4576744",
+      "odds": 1.08,
+      "patternScore": 71.28,
+      "patternText": "164.280/230.465",
       "picks": 1
     }
   ],
