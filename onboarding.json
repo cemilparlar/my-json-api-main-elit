@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 16:17",
+  "updatedAt": "29.10.2026 16:33",
   "config": {
     "pages": [
       "engine",
@@ -23,11 +23,11 @@
     "days": 7,
     "last24h": {
       "won": 58,
-      "lost": 33,
-      "total": 91,
-      "rate": 63.7
+      "lost": 31,
+      "total": 89,
+      "rate": 65.2
     },
-    "totalAnalyses": 295732,
+    "totalAnalyses": 295776,
     "leagues": 536,
     "pro": {
       "won": 1349,
@@ -42,13 +42,13 @@
       "rate": 69.0
     },
     "coupons": {
-      "won": 82,
+      "won": 80,
       "lost": 78,
-      "total": 160,
-      "rate": 51.2
+      "total": 158,
+      "rate": 50.6
     },
-    "analyses24h": 218,
-    "analyses30d": 19370
+    "analyses24h": 244,
+    "analyses30d": 19398
   },
   "recentWins": [
     {
@@ -189,10 +189,10 @@
       "at": "29.10.2026 15:29"
     },
     {
-      "type": "kickoff",
-      "home": "Umm Salal",
-      "away": "Al Bidda",
-      "at": "29.10.2026 16:30"
+      "type": "updated",
+      "at": "29.10.2026 16:18",
+      "home": "Egnatia",
+      "away": "Teuta"
     },
     {
       "type": "kickoff",
@@ -207,33 +207,28 @@
       "at": "29.10.2026 17:30"
     },
     {
+      "type": "kickoff",
+      "home": "Egnatia",
+      "away": "Teuta",
+      "at": "29.10.2026 17:30"
+    },
+    {
       "type": "analysis",
-      "count": 218
+      "count": 244
     }
   ],
   "today": {
-    "home": "Austria Lust",
-    "away": "SK Sturm Graz",
-    "league": "AVK",
-    "date": "29.10.2026 17:00",
-    "matchCode": "4560204",
-    "odds": 1.34,
-    "patternScore": 66.39,
-    "patternText": "199.250/300.111",
-    "picks": 2
+    "home": "Eskisehirspor",
+    "away": "Igdir FK",
+    "league": "TÜK",
+    "date": "29.10.2026 17:30",
+    "matchCode": "4574227",
+    "odds": 1.25,
+    "patternScore": 68.39,
+    "patternText": "114.744/167.767",
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Austria Lust",
-      "away": "SK Sturm Graz",
-      "league": "AVK",
-      "date": "29.10.2026 17:00",
-      "matchCode": "4560204",
-      "odds": 1.34,
-      "patternScore": 66.39,
-      "patternText": "199.250/300.111",
-      "picks": 2
-    },
     {
       "home": "Eskisehirspor",
       "away": "Igdir FK",
@@ -244,6 +239,17 @@
       "patternScore": 68.39,
       "patternText": "114.744/167.767",
       "picks": 1
+    },
+    {
+      "home": "Egnatia",
+      "away": "Teuta",
+      "league": "ARNV",
+      "date": "29.10.2026 17:30",
+      "matchCode": "4523668",
+      "odds": 1.25,
+      "patternScore": 68.04,
+      "patternText": "183.758/270.090",
+      "picks": 3
     },
     {
       "home": "Austria Wien (",
@@ -257,17 +263,6 @@
       "picks": 3
     },
     {
-      "home": "Egnatia",
-      "away": "Teuta",
-      "league": "ARNV",
-      "date": "29.10.2026 17:30",
-      "matchCode": "4523668",
-      "odds": 1.15,
-      "patternScore": 69.83,
-      "patternText": "245.386/351.386",
-      "picks": 2
-    },
-    {
       "home": "Arka Gdynia",
       "away": "Stal Rzeszow",
       "league": "POLK",
@@ -276,6 +271,17 @@
       "odds": 1.07,
       "patternScore": 67.13,
       "patternText": "313.055/466.310",
+      "picks": 1
+    },
+    {
+      "home": "Universidad Catolica",
+      "away": "LDU Quito",
+      "league": "EKVK",
+      "date": "30.10.2026 00:00",
+      "matchCode": "4567411",
+      "odds": 1.11,
+      "patternScore": 69.8,
+      "patternText": "205.205/293.983",
       "picks": 1
     }
   ],
