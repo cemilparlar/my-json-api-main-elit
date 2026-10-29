@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 17:00",
+  "updatedAt": "29.10.2026 17:25",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 58,
+      "won": 53,
       "lost": 31,
-      "total": 89,
-      "rate": 65.2
+      "total": 84,
+      "rate": 63.1
     },
-    "totalAnalyses": 295806,
+    "totalAnalyses": 295832,
     "leagues": 536,
     "pro": {
-      "won": 1321,
+      "won": 1319,
       "lost": 583,
-      "total": 1904,
-      "rate": 69.4
+      "total": 1902,
+      "rate": 69.3
     },
     "insights": {
-      "won": 2226,
+      "won": 2224,
       "lost": 987,
-      "total": 3213,
+      "total": 3211,
       "rate": 69.3
     },
     "coupons": {
       "won": 80,
-      "lost": 78,
-      "total": 158,
-      "rate": 50.6
+      "lost": 76,
+      "total": 156,
+      "rate": 51.3
     },
-    "analyses24h": 238,
-    "analyses30d": 19394
+    "analyses24h": 253,
+    "analyses30d": 19401
   },
   "recentWins": [
     {
@@ -195,6 +195,12 @@
       "away": "Teuta"
     },
     {
+      "type": "updated",
+      "at": "29.10.2026 17:13",
+      "home": "Austria Wien (",
+      "away": "Juventus Women"
+    },
+    {
       "type": "kickoff",
       "home": "Eskisehirspor",
       "away": "Igdir FK",
@@ -214,7 +220,7 @@
     },
     {
       "type": "analysis",
-      "count": 238
+      "count": 253
     }
   ],
   "today": {
@@ -252,17 +258,6 @@
       "picks": 1
     },
     {
-      "home": "Austria Wien (",
-      "away": "Juventus Women",
-      "league": "ŞMP-K",
-      "date": "29.10.2026 17:45",
-      "matchCode": "4560852",
-      "odds": 1.18,
-      "patternScore": 68.25,
-      "patternText": "192.931/282.697",
-      "picks": 3
-    },
-    {
       "home": "Kalmar FF",
       "away": "GAIS",
       "league": "İSÇ",
@@ -283,6 +278,17 @@
       "patternScore": 67.13,
       "patternText": "313.055/466.310",
       "picks": 1
+    },
+    {
+      "home": "Universidad Catolica",
+      "away": "LDU Quito",
+      "league": "EKVK",
+      "date": "30.10.2026 00:00",
+      "matchCode": "4567411",
+      "odds": 1.11,
+      "patternScore": 69.8,
+      "patternText": "205.205/293.983",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
@@ -290,8 +296,8 @@
       "home": "Austria Wien (",
       "away": "Juventus Women",
       "league": "ŞMP-K",
-      "at": "29.10.2026 15:36",
-      "count": 4
+      "at": "29.10.2026 17:13",
+      "count": 5
     },
     {
       "home": "Paris Women",
