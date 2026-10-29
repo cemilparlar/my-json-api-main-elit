@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 15:29",
+  "updatedAt": "29.10.2026 15:45",
   "config": {
     "pages": [
       "engine",
@@ -23,22 +23,22 @@
     "days": 7,
     "last24h": {
       "won": 65,
-      "lost": 32,
-      "total": 97,
-      "rate": 67.0
+      "lost": 33,
+      "total": 98,
+      "rate": 66.3
     },
-    "totalAnalyses": 295658,
-    "leagues": 535,
+    "totalAnalyses": 295709,
+    "leagues": 536,
     "pro": {
-      "won": 1354,
-      "lost": 598,
-      "total": 1952,
-      "rate": 69.4
+      "won": 1355,
+      "lost": 599,
+      "total": 1954,
+      "rate": 69.3
     },
     "insights": {
-      "won": 2285,
-      "lost": 1031,
-      "total": 3316,
+      "won": 2286,
+      "lost": 1032,
+      "total": 3318,
       "rate": 68.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 161,
       "rate": 51.6
     },
-    "analyses24h": 206,
-    "analyses30d": 19393
+    "analyses24h": 228,
+    "analyses30d": 19412
   },
   "recentWins": [
     {
@@ -189,6 +189,12 @@
       "at": "29.10.2026 15:29"
     },
     {
+      "type": "updated",
+      "at": "29.10.2026 15:36",
+      "home": "Paris Women",
+      "away": "Hacken Women"
+    },
+    {
       "type": "kickoff",
       "home": "Paris Women",
       "away": "Hacken Women",
@@ -202,7 +208,7 @@
     },
     {
       "type": "analysis",
-      "count": 206
+      "count": 228
     }
   ],
   "today": {
@@ -213,7 +219,7 @@
     "matchCode": "4560851",
     "odds": 1.14,
     "patternScore": 68.88,
-    "patternText": "114.952/166.895",
+    "patternText": "114.956/166.899",
     "picks": 2
   },
   "todayList": [
@@ -225,7 +231,7 @@
       "matchCode": "4560851",
       "odds": 1.14,
       "patternScore": 68.88,
-      "patternText": "114.952/166.895",
+      "patternText": "114.956/166.899",
       "picks": 2
     },
     {
@@ -235,8 +241,8 @@
       "date": "29.10.2026 18:00",
       "matchCode": "4564187",
       "odds": 1.07,
-      "patternScore": 67.13,
-      "patternText": "313.029/466.270",
+      "patternScore": 67.14,
+      "patternText": "313.049/466.290",
       "picks": 1
     },
     {
@@ -247,11 +253,25 @@
       "matchCode": "4567411",
       "odds": 1.11,
       "patternScore": 69.8,
-      "patternText": "205.199/293.977",
+      "patternText": "205.203/293.981",
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Austria Wien (",
+      "away": "Juventus Women",
+      "league": "ŞMP-K",
+      "at": "29.10.2026 15:36",
+      "count": 4
+    },
+    {
+      "home": "Paris Women",
+      "away": "Hacken Women",
+      "league": "ŞMP-K",
+      "at": "29.10.2026 15:36",
+      "count": 2
+    },
     {
       "home": "Remo",
       "away": "Botafogo de Futebol e Regatas",
@@ -307,20 +327,6 @@
       "league": "İTB",
       "at": "28.10.2026 19:28",
       "count": 8
-    },
-    {
-      "home": "Empoli",
-      "away": "SS Juve Stabia",
-      "league": "İTB",
-      "at": "28.10.2026 19:28",
-      "count": 8
-    },
-    {
-      "home": "Bayer Leverkusen",
-      "away": "Nuremberg",
-      "league": "AFK",
-      "at": "28.10.2026 19:05",
-      "count": 11
     }
   ],
   "paywall": {
