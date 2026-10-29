@@ -36,6 +36,14 @@
     "multi_1": {
       "won": 0,
       "lost": 9
+    },
+    "multi": {
+      "won": 0,
+      "lost": 1
+    },
+    "c70_1": {
+      "won": 0,
+      "lost": 1
     }
   },
   "stats30": {
@@ -74,11 +82,20 @@
     "multi_1": {
       "won": 0,
       "lost": 9
+    },
+    "multi": {
+      "won": 0,
+      "lost": 1
+    },
+    "c70_1": {
+      "won": 0,
+      "lost": 1
     }
   },
-  "updatedAt": "29.10.2026 19:44",
-  "updatedAtUtc": "2026-10-29T19:44:00Z",
-  "upcoming": [
+  "updatedAt": "29.10.2026 19:59",
+  "updatedAtUtc": "2026-10-29T19:59:00Z",
+  "upcoming": [],
+  "completed": [
     {
       "id": "20261029-18-1",
       "createdAt": "29.10.2026 15:29",
@@ -89,8 +106,8 @@
       "winChance": 71.63,
       "firstKickoff": "29.10.2026 17:45",
       "lastKickoff": "29.10.2026 17:45",
-      "status": "live",
-      "completedAt": null,
+      "status": "lost",
+      "completedAt": "29.10.2026 19:59",
       "kind": "c70_1",
       "group": "multi",
       "formula": "1",
@@ -114,12 +131,11 @@
           "patternScore": 71.63,
           "patternText": "170.794/238.447",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 1",
+          "status": "lost"
         }
       ]
     }
-  ],
-  "completed": []
+  ]
 }
