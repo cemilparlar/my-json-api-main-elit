@@ -2738,7 +2738,7 @@
         "odds": "1.22",
         "matchCount": "152",
         "matchLink": "4574166",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "1-1",
         "predictedScoreText": "23/152",
         "mbs": 3,
@@ -2767,7 +2767,7 @@
         "odds": "1.30",
         "matchCount": "44",
         "matchLink": "4576746",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 3,
@@ -2796,7 +2796,7 @@
         "odds": "1.30",
         "matchCount": "44",
         "matchLink": "4576746",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 3,
@@ -2912,7 +2912,7 @@
         "odds": "1.15",
         "matchCount": "3",
         "matchLink": "4576745",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 3,
@@ -2941,7 +2941,7 @@
         "odds": "1.08",
         "matchCount": "49",
         "matchLink": "4576744",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "1-1",
         "predictedScoreText": "5/49",
         "mbs": 3,
@@ -3382,8 +3382,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.01,
+        "patternText": "127.729/182.437",
+        "patternInfo": {
+            "m": 56,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "30.10.2026 12:00",
@@ -3404,8 +3411,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.58,
+        "patternText": "280.949/398.072",
+        "patternInfo": {
+            "m": 60,
+            "s": 2,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "30.10.2026 12:50",
@@ -3426,8 +3440,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 68.3,
+        "patternText": "235.007/344.079",
+        "patternInfo": {
+            "m": 55,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "30.10.2026 12:50",
@@ -3448,8 +3469,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.8,
+        "patternText": "346.776/489.779",
+        "patternInfo": {
+            "m": 65,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     },
     {
         "date": "30.10.2026 13:00",
@@ -3470,7 +3498,14 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null
+        "patternScore": 70.05,
+        "patternText": "448.340/640.037",
+        "patternInfo": {
+            "m": 69,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        }
     }
 ]
