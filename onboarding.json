@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 19:59",
+  "updatedAt": "29.10.2026 20:12",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 55,
+      "won": 52,
       "lost": 21,
-      "total": 76,
-      "rate": 72.4
+      "total": 73,
+      "rate": 71.2
     },
-    "totalAnalyses": 295939,
+    "totalAnalyses": 295951,
     "leagues": 536,
     "pro": {
       "won": 1295,
@@ -36,9 +36,9 @@
       "rate": 69.5
     },
     "insights": {
-      "won": 2178,
+      "won": 2177,
       "lost": 968,
-      "total": 3146,
+      "total": 3145,
       "rate": 69.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 129,
       "rate": 51.2
     },
-    "analyses24h": 248,
-    "analyses30d": 19241
+    "analyses24h": 241,
+    "analyses30d": 19237
   },
   "recentWins": [
     {
@@ -213,14 +213,8 @@
       "away": "LDU Quito"
     },
     {
-      "type": "kickoff",
-      "home": "Manchester City Women",
-      "away": "PSG Women",
-      "at": "29.10.2026 20:00"
-    },
-    {
       "type": "analysis",
-      "count": 248
+      "count": 241
     }
   ],
   "today": {
@@ -231,7 +225,7 @@
     "matchCode": "4567411",
     "odds": 1.23,
     "patternScore": 69.48,
-    "patternText": "203.435/292.793",
+    "patternText": "203.447/292.809",
     "picks": 1
   },
   "todayList": [
@@ -243,7 +237,7 @@
       "matchCode": "4567411",
       "odds": 1.23,
       "patternScore": 69.48,
-      "patternText": "203.435/292.793",
+      "patternText": "203.447/292.809",
       "picks": 1
     },
     {
@@ -254,7 +248,18 @@
       "matchCode": "4513859",
       "odds": 1.07,
       "patternScore": 71.98,
-      "patternText": "177.393/246.450",
+      "patternText": "177.397/246.456",
+      "picks": 1
+    },
+    {
+      "home": "Antigua Guatem",
+      "away": "Deportivo San P",
+      "league": "GUAT",
+      "date": "30.10.2026 00:00",
+      "matchCode": "4490441",
+      "odds": 1.06,
+      "patternScore": 72.07,
+      "patternText": "174.187/241.681",
       "picks": 1
     },
     {
@@ -265,30 +270,19 @@
       "matchCode": "4537646",
       "odds": 1.11,
       "patternScore": 69.92,
-      "patternText": "205.719/294.239",
+      "patternText": "205.735/294.259",
       "picks": 2
     },
     {
-      "home": "Reggiana",
-      "away": "SS Sambenedettese",
-      "league": "İTC",
-      "date": "30.10.2026 19:30",
-      "matchCode": "4535554",
-      "odds": 1.34,
-      "patternScore": 68.19,
-      "patternText": "220.240/323.003",
-      "picks": 3
-    },
-    {
-      "home": "AlbinoLeffe",
-      "away": "US Pergolettese",
-      "league": "İTC",
-      "date": "30.10.2026 19:30",
-      "matchCode": "4535167",
-      "odds": 1.1,
-      "patternScore": 69.41,
-      "patternText": "245.680/353.968",
-      "picks": 1
+      "home": "Sisaket United",
+      "away": "Ratchaburi Mitr Phol FC",
+      "league": "TAY",
+      "date": "30.10.2026 12:00",
+      "matchCode": "4539094",
+      "odds": 1.28,
+      "patternScore": 68.56,
+      "patternText": "130.382/190.178",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
