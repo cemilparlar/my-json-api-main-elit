@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 16:33",
+  "updatedAt": "29.10.2026 16:48",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 89,
       "rate": 65.2
     },
-    "totalAnalyses": 295776,
+    "totalAnalyses": 295799,
     "leagues": 536,
     "pro": {
-      "won": 1349,
-      "lost": 593,
-      "total": 1942,
-      "rate": 69.5
+      "won": 1321,
+      "lost": 583,
+      "total": 1904,
+      "rate": 69.4
     },
     "insights": {
-      "won": 2272,
-      "lost": 1022,
-      "total": 3294,
-      "rate": 69.0
+      "won": 2226,
+      "lost": 987,
+      "total": 3213,
+      "rate": 69.3
     },
     "coupons": {
       "won": 80,
@@ -47,8 +47,8 @@
       "total": 158,
       "rate": 50.6
     },
-    "analyses24h": 244,
-    "analyses30d": 19398
+    "analyses24h": 243,
+    "analyses30d": 19397
   },
   "recentWins": [
     {
@@ -214,21 +214,32 @@
     },
     {
       "type": "analysis",
-      "count": 244
+      "count": 243
     }
   ],
   "today": {
-    "home": "Eskisehirspor",
-    "away": "Igdir FK",
-    "league": "TÜK",
-    "date": "29.10.2026 17:30",
-    "matchCode": "4574227",
-    "odds": 1.25,
-    "patternScore": 68.39,
-    "patternText": "114.744/167.767",
-    "picks": 1
+    "home": "Purmersteijn",
+    "away": "Gemert",
+    "league": "HOK",
+    "date": "29.10.2026 19:00",
+    "matchCode": "4576746",
+    "odds": 1.3,
+    "patternScore": 67.51,
+    "patternText": "178.832/264.912",
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Purmersteijn",
+      "away": "Gemert",
+      "league": "HOK",
+      "date": "29.10.2026 19:00",
+      "matchCode": "4576746",
+      "odds": 1.3,
+      "patternScore": 67.51,
+      "patternText": "178.832/264.912",
+      "picks": 2
+    },
     {
       "home": "Eskisehirspor",
       "away": "Igdir FK",
@@ -252,6 +263,17 @@
       "picks": 3
     },
     {
+      "home": "Real Avila",
+      "away": "Unionistas De S",
+      "league": "İSPK",
+      "date": "29.10.2026 19:00",
+      "matchCode": "4574166",
+      "odds": 1.22,
+      "patternScore": 67.71,
+      "patternText": "184.463/272.431",
+      "picks": 1
+    },
+    {
       "home": "Austria Wien (",
       "away": "Juventus Women",
       "league": "ŞMP-K",
@@ -261,28 +283,6 @@
       "patternScore": 68.25,
       "patternText": "192.931/282.697",
       "picks": 3
-    },
-    {
-      "home": "Arka Gdynia",
-      "away": "Stal Rzeszow",
-      "league": "POLK",
-      "date": "29.10.2026 18:00",
-      "matchCode": "4564187",
-      "odds": 1.07,
-      "patternScore": 67.13,
-      "patternText": "313.055/466.310",
-      "picks": 1
-    },
-    {
-      "home": "Universidad Catolica",
-      "away": "LDU Quito",
-      "league": "EKVK",
-      "date": "30.10.2026 00:00",
-      "matchCode": "4567411",
-      "odds": 1.11,
-      "patternScore": 69.8,
-      "patternText": "205.205/293.983",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
