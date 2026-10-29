@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 10:02",
+  "updatedAt": "29.10.2026 10:19",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 136,
       "rate": 66.2
     },
-    "totalAnalyses": 294537,
+    "totalAnalyses": 294602,
     "leagues": 535,
     "pro": {
       "won": 1375,
@@ -78,6 +78,19 @@
       "pro": false
     },
     {
+      "home": "St. Louis City SC",
+      "away": "Portland Timbers",
+      "league": "ABD",
+      "date": "29.10.2026 00:30",
+      "prediction": "Handicap (0:1) 2",
+      "odds": 1.57,
+      "probability": 75.0,
+      "patternScore": 63.38,
+      "firstHalf": "0 - 2",
+      "finalScore": "2 - 3",
+      "pro": false
+    },
+    {
       "home": "Castellonense",
       "away": "UD Almeria",
       "league": "İSPK",
@@ -101,19 +114,6 @@
       "patternScore": 60.43,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 3",
-      "pro": true
-    },
-    {
-      "home": "Remo",
-      "away": "Botafogo de Futebol e Regatas",
-      "league": "BR1",
-      "date": "29.10.2026 00:30",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.51,
-      "probability": 71.43,
-      "patternScore": 67.29,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 1",
       "pro": true
     }
   ],
@@ -168,19 +168,19 @@
     },
     {
       "type": "won",
+      "home": "St. Louis City SC",
+      "away": "Portland Timbers",
+      "prediction": "Handicap (0:1) 2",
+      "odds": 1.57,
+      "at": "29.10.2026 00:30"
+    },
+    {
+      "type": "won",
       "home": "Castellonense",
       "away": "UD Almeria",
       "prediction": "Both Teams to Score - No",
       "odds": 1.56,
       "at": "27.10.2026 18:45"
-    },
-    {
-      "type": "won",
-      "home": "Torino FC",
-      "away": "Como 1907",
-      "prediction": "Match Result 2",
-      "odds": 1.52,
-      "at": "27.10.2026 19:45"
     },
     {
       "type": "kickoff",
@@ -201,7 +201,7 @@
     "matchCode": "4550031",
     "odds": 1.31,
     "patternScore": 67.57,
-    "patternText": "181.526/268.667",
+    "patternText": "181.604/268.763",
     "picks": 1
   },
   "todayList": [
@@ -213,7 +213,7 @@
       "matchCode": "4550031",
       "odds": 1.31,
       "patternScore": 67.57,
-      "patternText": "181.526/268.667",
+      "patternText": "181.604/268.763",
       "picks": 1
     },
     {
@@ -223,8 +223,8 @@
       "date": "29.10.2026 17:45",
       "matchCode": "4560851",
       "odds": 1.14,
-      "patternScore": 68.86,
-      "patternText": "114.854/166.791",
+      "patternScore": 68.88,
+      "patternText": "114.952/166.895",
       "picks": 2
     },
     {
@@ -235,7 +235,7 @@
       "matchCode": "4564187",
       "odds": 1.07,
       "patternScore": 67.13,
-      "patternText": "312.899/466.122",
+      "patternText": "313.029/466.270",
       "picks": 1
     },
     {
@@ -246,7 +246,7 @@
       "matchCode": "4567411",
       "odds": 1.11,
       "patternScore": 69.8,
-      "patternText": "205.163/293.931",
+      "patternText": "205.199/293.977",
       "picks": 1
     }
   ],
