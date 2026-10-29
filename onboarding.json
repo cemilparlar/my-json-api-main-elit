@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 18:51",
+  "updatedAt": "29.10.2026 19:04",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 46,
-      "lost": 26,
-      "total": 72,
-      "rate": 63.9
+      "won": 45,
+      "lost": 18,
+      "total": 63,
+      "rate": 71.4
     },
-    "totalAnalyses": 295886,
+    "totalAnalyses": 295905,
     "leagues": 536,
     "pro": {
-      "won": 1318,
-      "lost": 583,
-      "total": 1901,
-      "rate": 69.3
+      "won": 1290,
+      "lost": 566,
+      "total": 1856,
+      "rate": 69.5
     },
     "insights": {
-      "won": 2220,
-      "lost": 989,
-      "total": 3209,
-      "rate": 69.2
+      "won": 2170,
+      "lost": 961,
+      "total": 3131,
+      "rate": 69.3
     },
     "coupons": {
       "won": 78,
@@ -47,7 +47,7 @@
       "total": 151,
       "rate": 51.7
     },
-    "analyses24h": 233,
+    "analyses24h": 242,
     "analyses30d": 19222
   },
   "recentWins": [
@@ -207,26 +207,20 @@
       "away": "Cd Coria"
     },
     {
-      "type": "kickoff",
-      "home": "Real Avila",
-      "away": "Unionistas De S",
-      "at": "29.10.2026 19:00"
+      "type": "updated",
+      "at": "29.10.2026 18:59",
+      "home": "Universidad Catolica",
+      "away": "LDU Quito"
     },
     {
       "type": "kickoff",
-      "home": "Purmersteijn",
-      "away": "Gemert",
-      "at": "29.10.2026 19:00"
-    },
-    {
-      "type": "kickoff",
-      "home": "RKAV Volendam",
-      "away": "Rohda Raalte",
-      "at": "29.10.2026 19:00"
+      "home": "Amiens SC",
+      "away": "Thionville Lusi",
+      "at": "29.10.2026 19:45"
     },
     {
       "type": "analysis",
-      "count": 233
+      "count": 242
     }
   ],
   "today": {
@@ -276,6 +270,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Manchester City Women",
+      "away": "PSG Women",
+      "league": "ŞMP-K",
+      "at": "29.10.2026 18:56",
+      "count": 5
+    },
     {
       "home": "Austria Wien (",
       "away": "Juventus Women",
@@ -338,13 +339,6 @@
       "league": "İTA",
       "at": "28.10.2026 20:11",
       "count": 7
-    },
-    {
-      "home": "SS Arezzo",
-      "away": "Ascoli Calcio",
-      "league": "İTB",
-      "at": "28.10.2026 19:28",
-      "count": 8
     }
   ],
   "paywall": {
