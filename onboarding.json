@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 15:45",
+  "updatedAt": "29.10.2026 16:00",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 98,
       "rate": 66.3
     },
-    "totalAnalyses": 295709,
+    "totalAnalyses": 295721,
     "leagues": 536,
     "pro": {
       "won": 1355,
@@ -42,13 +42,13 @@
       "rate": 68.9
     },
     "coupons": {
-      "won": 83,
+      "won": 82,
       "lost": 78,
-      "total": 161,
-      "rate": 51.6
+      "total": 160,
+      "rate": 51.2
     },
-    "analyses24h": 228,
-    "analyses30d": 19412
+    "analyses24h": 218,
+    "analyses30d": 19370
   },
   "recentWins": [
     {
@@ -189,49 +189,82 @@
       "at": "29.10.2026 15:29"
     },
     {
-      "type": "updated",
-      "at": "29.10.2026 15:36",
-      "home": "Paris Women",
-      "away": "Hacken Women"
+      "type": "kickoff",
+      "home": "Umm Salal",
+      "away": "Al Bidda",
+      "at": "29.10.2026 16:30"
     },
     {
       "type": "kickoff",
-      "home": "Paris Women",
-      "away": "Hacken Women",
-      "at": "29.10.2026 17:45"
+      "home": "Austria Lust",
+      "away": "SK Sturm Graz",
+      "at": "29.10.2026 17:00"
     },
     {
       "type": "kickoff",
-      "home": "Arka Gdynia",
-      "away": "Stal Rzeszow",
-      "at": "29.10.2026 18:00"
+      "home": "Eskisehirspor",
+      "away": "Igdir FK",
+      "at": "29.10.2026 17:30"
     },
     {
       "type": "analysis",
-      "count": 228
+      "count": 218
     }
   ],
   "today": {
-    "home": "Paris Women",
-    "away": "Hacken Women",
-    "league": "ŞMP-K",
-    "date": "29.10.2026 17:45",
-    "matchCode": "4560851",
-    "odds": 1.14,
-    "patternScore": 68.88,
-    "patternText": "114.956/166.899",
+    "home": "Austria Lust",
+    "away": "SK Sturm Graz",
+    "league": "AVK",
+    "date": "29.10.2026 17:00",
+    "matchCode": "4560204",
+    "odds": 1.34,
+    "patternScore": 66.39,
+    "patternText": "199.250/300.111",
     "picks": 2
   },
   "todayList": [
     {
-      "home": "Paris Women",
-      "away": "Hacken Women",
+      "home": "Austria Lust",
+      "away": "SK Sturm Graz",
+      "league": "AVK",
+      "date": "29.10.2026 17:00",
+      "matchCode": "4560204",
+      "odds": 1.34,
+      "patternScore": 66.39,
+      "patternText": "199.250/300.111",
+      "picks": 2
+    },
+    {
+      "home": "Eskisehirspor",
+      "away": "Igdir FK",
+      "league": "TÜK",
+      "date": "29.10.2026 17:30",
+      "matchCode": "4574227",
+      "odds": 1.25,
+      "patternScore": 68.39,
+      "patternText": "114.744/167.767",
+      "picks": 1
+    },
+    {
+      "home": "Austria Wien (",
+      "away": "Juventus Women",
       "league": "ŞMP-K",
       "date": "29.10.2026 17:45",
-      "matchCode": "4560851",
-      "odds": 1.14,
-      "patternScore": 68.88,
-      "patternText": "114.956/166.899",
+      "matchCode": "4560852",
+      "odds": 1.18,
+      "patternScore": 68.25,
+      "patternText": "192.931/282.697",
+      "picks": 3
+    },
+    {
+      "home": "Egnatia",
+      "away": "Teuta",
+      "league": "ARNV",
+      "date": "29.10.2026 17:30",
+      "matchCode": "4523668",
+      "odds": 1.15,
+      "patternScore": 69.83,
+      "patternText": "245.386/351.386",
       "picks": 2
     },
     {
@@ -241,19 +274,8 @@
       "date": "29.10.2026 18:00",
       "matchCode": "4564187",
       "odds": 1.07,
-      "patternScore": 67.14,
-      "patternText": "313.049/466.290",
-      "picks": 1
-    },
-    {
-      "home": "Universidad Catolica",
-      "away": "LDU Quito",
-      "league": "EKVK",
-      "date": "30.10.2026 00:00",
-      "matchCode": "4567411",
-      "odds": 1.11,
-      "patternScore": 69.8,
-      "patternText": "205.203/293.981",
+      "patternScore": 67.13,
+      "patternText": "313.055/466.310",
       "picks": 1
     }
   ],
