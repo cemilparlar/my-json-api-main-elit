@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 00:15",
+  "updatedAt": "29.10.2026 00:37",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 108,
       "rate": 62.0
     },
-    "totalAnalyses": 293381,
+    "totalAnalyses": 293399,
     "leagues": 535,
     "pro": {
-      "won": 1377,
-      "lost": 605,
-      "total": 1982,
+      "won": 1374,
+      "lost": 604,
+      "total": 1978,
       "rate": 69.5
     },
     "insights": {
-      "won": 2326,
-      "lost": 1043,
-      "total": 3369,
+      "won": 2321,
+      "lost": 1041,
+      "total": 3362,
       "rate": 69.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 173,
       "rate": 52.0
     },
-    "analyses24h": 262,
-    "analyses30d": 19529
+    "analyses24h": 260,
+    "analyses30d": 19527
   },
   "recentWins": [
     {
@@ -205,9 +205,9 @@
     },
     {
       "type": "updated",
-      "at": "28.10.2026 23:58",
-      "home": "Deportivo Saprissa",
-      "away": "Club Deportivo Firpo"
+      "at": "28.10.2026 23:59",
+      "home": "CSD Municipal",
+      "away": "CSD Comunicaciones"
     },
     {
       "type": "updated",
@@ -223,15 +223,9 @@
     },
     {
       "type": "kickoff",
-      "home": "Deportivo Saprissa",
-      "away": "Club Deportivo Firpo",
-      "at": "29.10.2026 00:30"
-    },
-    {
-      "type": "kickoff",
-      "home": "St. Louis City SC",
-      "away": "Portland Timbers",
-      "at": "29.10.2026 00:30"
+      "home": "CSD Municipal",
+      "away": "CSD Comunicaciones",
+      "at": "29.10.2026 02:00"
     },
     {
       "type": "kickoff",
@@ -240,8 +234,14 @@
       "at": "29.10.2026 03:00"
     },
     {
+      "type": "kickoff",
+      "home": "Club America",
+      "away": "Club Tijuana",
+      "at": "29.10.2026 03:00"
+    },
+    {
       "type": "analysis",
-      "count": 262
+      "count": 260
     }
   ],
   "today": {
@@ -268,6 +268,17 @@
       "picks": 4
     },
     {
+      "home": "CSD Municipal",
+      "away": "CSD Comunicaciones",
+      "league": "GUAT",
+      "date": "29.10.2026 02:00",
+      "matchCode": "4490442",
+      "odds": 1.28,
+      "patternScore": 68.4,
+      "patternText": "152.365/222.771",
+      "picks": 2
+    },
+    {
       "home": "Deportivo Olimpia",
       "away": "CS Cartaginés",
       "league": "CONOAK",
@@ -276,17 +287,6 @@
       "odds": 1.06,
       "patternScore": 71.7,
       "patternText": "104.489/145.726",
-      "picks": 1
-    },
-    {
-      "home": "Adelaide United",
-      "away": "Lion City Sailors",
-      "league": "AFCŞL2",
-      "date": "29.10.2026 07:45",
-      "matchCode": "4550030",
-      "odds": 1.07,
-      "patternScore": 71.33,
-      "patternText": "90.789/127.278",
       "picks": 1
     },
     {
@@ -301,15 +301,15 @@
       "picks": 1
     },
     {
-      "home": "Paris Women",
-      "away": "Hacken Women",
-      "league": "ŞMP-K",
-      "date": "29.10.2026 17:45",
-      "matchCode": "4560851",
-      "odds": 1.14,
-      "patternScore": 68.86,
-      "patternText": "114.822/166.751",
-      "picks": 2
+      "home": "Adelaide United",
+      "away": "Lion City Sailors",
+      "league": "AFCŞL2",
+      "date": "29.10.2026 07:45",
+      "matchCode": "4550030",
+      "odds": 1.07,
+      "patternScore": 71.33,
+      "patternText": "90.789/127.278",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
