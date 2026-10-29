@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 21:36",
+  "updatedAt": "29.10.2026 21:52",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 61,
-      "lost": 25,
-      "total": 86,
-      "rate": 70.9
+      "won": 66,
+      "lost": 27,
+      "total": 93,
+      "rate": 71.0
     },
-    "totalAnalyses": 295984,
+    "totalAnalyses": 295985,
     "leagues": 536,
     "pro": {
-      "won": 1297,
-      "lost": 569,
-      "total": 1866,
+      "won": 1299,
+      "lost": 570,
+      "total": 1869,
       "rate": 69.5
     },
     "insights": {
-      "won": 2182,
-      "lost": 969,
-      "total": 3151,
-      "rate": 69.2
+      "won": 2186,
+      "lost": 970,
+      "total": 3156,
+      "rate": 69.3
     },
     "coupons": {
       "won": 49,
@@ -62,6 +62,32 @@
       "patternScore": 56.79,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
+      "pro": true
+    },
+    {
+      "home": "SD Guijuelo",
+      "away": "Sporting Gijon",
+      "league": "İSPK",
+      "date": "29.10.2026 19:00",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 1.81,
+      "probability": 80.0,
+      "patternScore": 65.98,
+      "firstHalf": "1 - 0",
+      "finalScore": "1 - 3",
+      "pro": true
+    },
+    {
+      "home": "Cd Laredo",
+      "away": "Burgos CF",
+      "league": "İSPK",
+      "date": "29.10.2026 19:00",
+      "prediction": "1st Half Result 2",
+      "odds": 1.73,
+      "probability": 75.0,
+      "patternScore": 66.68,
+      "firstHalf": "0 - 1",
+      "finalScore": "2 - 4",
       "pro": true
     },
     {
@@ -89,32 +115,6 @@
       "firstHalf": "0 - 2",
       "finalScore": "2 - 3",
       "pro": false
-    },
-    {
-      "home": "Torino FC",
-      "away": "Como 1907",
-      "league": "İTA",
-      "date": "27.10.2026 19:45",
-      "prediction": "Match Result 2",
-      "odds": 1.52,
-      "probability": 100.0,
-      "patternScore": 60.43,
-      "firstHalf": "1 - 0",
-      "finalScore": "1 - 3",
-      "pro": true
-    },
-    {
-      "home": "Remo",
-      "away": "Botafogo de Futebol e Regatas",
-      "league": "BR1",
-      "date": "29.10.2026 00:30",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.51,
-      "probability": 71.43,
-      "patternScore": 67.29,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 1",
-      "pro": true
     }
   ],
   "recentCoupons": [
@@ -160,27 +160,27 @@
     },
     {
       "type": "won",
+      "home": "SD Guijuelo",
+      "away": "Sporting Gijon",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 1.81,
+      "at": "29.10.2026 19:00"
+    },
+    {
+      "type": "won",
+      "home": "Cd Laredo",
+      "away": "Burgos CF",
+      "prediction": "1st Half Result 2",
+      "odds": 1.73,
+      "at": "29.10.2026 19:00"
+    },
+    {
+      "type": "won",
       "home": "Qatar U23",
       "away": "Al Markhiya",
       "prediction": "Over 2.5 Goals",
       "odds": 1.58,
       "at": "28.10.2026 14:15"
-    },
-    {
-      "type": "won",
-      "home": "St. Louis City SC",
-      "away": "Portland Timbers",
-      "prediction": "Handicap (0:1) 2",
-      "odds": 1.57,
-      "at": "29.10.2026 00:30"
-    },
-    {
-      "type": "won",
-      "home": "Torino FC",
-      "away": "Como 1907",
-      "prediction": "Match Result 2",
-      "odds": 1.52,
-      "at": "27.10.2026 19:45"
     },
     {
       "type": "coupon",
@@ -237,7 +237,7 @@
     "matchCode": "4575448",
     "odds": 1.12,
     "patternScore": 70.36,
-    "patternText": "245.880/349.457",
+    "patternText": "245.884/349.463",
     "picks": 1
   },
   "todayList": [
@@ -249,7 +249,7 @@
       "matchCode": "4575448",
       "odds": 1.12,
       "patternScore": 70.36,
-      "patternText": "245.880/349.457",
+      "patternText": "245.884/349.463",
       "picks": 1
     },
     {
@@ -260,7 +260,7 @@
       "matchCode": "4513859",
       "odds": 1.07,
       "patternScore": 71.98,
-      "patternText": "177.399/246.458",
+      "patternText": "177.405/246.466",
       "picks": 1
     },
     {
@@ -271,7 +271,7 @@
       "matchCode": "4490441",
       "odds": 1.06,
       "patternScore": 72.07,
-      "patternText": "174.189/241.683",
+      "patternText": "174.195/241.691",
       "picks": 1
     },
     {
@@ -282,7 +282,7 @@
       "matchCode": "4537646",
       "odds": 1.11,
       "patternScore": 69.92,
-      "patternText": "205.739/294.265",
+      "patternText": "205.743/294.271",
       "picks": 2
     },
     {
@@ -293,7 +293,7 @@
       "matchCode": "4539094",
       "odds": 1.28,
       "patternScore": 68.56,
-      "patternText": "130.384/190.182",
+      "patternText": "130.396/190.198",
       "picks": 2
     }
   ],
