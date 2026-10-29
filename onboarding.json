@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 16:48",
+  "updatedAt": "29.10.2026 17:00",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 89,
       "rate": 65.2
     },
-    "totalAnalyses": 295799,
+    "totalAnalyses": 295806,
     "leagues": 536,
     "pro": {
       "won": 1321,
@@ -47,8 +47,8 @@
       "total": 158,
       "rate": 50.6
     },
-    "analyses24h": 243,
-    "analyses30d": 19397
+    "analyses24h": 238,
+    "analyses30d": 19394
   },
   "recentWins": [
     {
@@ -196,12 +196,6 @@
     },
     {
       "type": "kickoff",
-      "home": "Austria Lust",
-      "away": "SK Sturm Graz",
-      "at": "29.10.2026 17:00"
-    },
-    {
-      "type": "kickoff",
       "home": "Eskisehirspor",
       "away": "Igdir FK",
       "at": "29.10.2026 17:30"
@@ -213,8 +207,14 @@
       "at": "29.10.2026 17:30"
     },
     {
+      "type": "kickoff",
+      "home": "Austria Wien (",
+      "away": "Juventus Women",
+      "at": "29.10.2026 17:45"
+    },
+    {
       "type": "analysis",
-      "count": 243
+      "count": 238
     }
   ],
   "today": {
@@ -241,28 +241,6 @@
       "picks": 2
     },
     {
-      "home": "Eskisehirspor",
-      "away": "Igdir FK",
-      "league": "TÜK",
-      "date": "29.10.2026 17:30",
-      "matchCode": "4574227",
-      "odds": 1.25,
-      "patternScore": 68.39,
-      "patternText": "114.744/167.767",
-      "picks": 1
-    },
-    {
-      "home": "Egnatia",
-      "away": "Teuta",
-      "league": "ARNV",
-      "date": "29.10.2026 17:30",
-      "matchCode": "4523668",
-      "odds": 1.25,
-      "patternScore": 68.04,
-      "patternText": "183.758/270.090",
-      "picks": 3
-    },
-    {
       "home": "Real Avila",
       "away": "Unionistas De S",
       "league": "İSPK",
@@ -283,6 +261,28 @@
       "patternScore": 68.25,
       "patternText": "192.931/282.697",
       "picks": 3
+    },
+    {
+      "home": "Kalmar FF",
+      "away": "GAIS",
+      "league": "İSÇ",
+      "date": "29.10.2026 18:00",
+      "matchCode": "4426798",
+      "odds": 1.15,
+      "patternScore": 69.29,
+      "patternText": "228.008/329.075",
+      "picks": 1
+    },
+    {
+      "home": "Arka Gdynia",
+      "away": "Stal Rzeszow",
+      "league": "POLK",
+      "date": "29.10.2026 18:00",
+      "matchCode": "4564187",
+      "odds": 1.07,
+      "patternScore": 67.13,
+      "patternText": "313.055/466.310",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
