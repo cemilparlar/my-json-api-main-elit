@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 17:38",
+  "updatedAt": "29.10.2026 17:52",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 49,
-      "lost": 28,
-      "total": 77,
-      "rate": 63.6
+      "won": 48,
+      "lost": 27,
+      "total": 75,
+      "rate": 64.0
     },
-    "totalAnalyses": 295835,
+    "totalAnalyses": 295840,
     "leagues": 536,
     "pro": {
       "won": 1319,
@@ -47,7 +47,7 @@
       "total": 156,
       "rate": 51.3
     },
-    "analyses24h": 245,
+    "analyses24h": 243,
     "analyses30d": 19394
   },
   "recentWins": [
@@ -208,12 +208,6 @@
     },
     {
       "type": "kickoff",
-      "home": "Austria Wien (",
-      "away": "Juventus Women",
-      "at": "29.10.2026 17:45"
-    },
-    {
-      "type": "kickoff",
       "home": "Arka Gdynia",
       "away": "Stal Rzeszow",
       "at": "29.10.2026 18:00"
@@ -225,8 +219,14 @@
       "at": "29.10.2026 18:00"
     },
     {
+      "type": "kickoff",
+      "home": "CD San Sebastian de los Reyes",
+      "away": "Cd Coria",
+      "at": "29.10.2026 18:00"
+    },
+    {
       "type": "analysis",
-      "count": 245
+      "count": 243
     }
   ],
   "today": {
