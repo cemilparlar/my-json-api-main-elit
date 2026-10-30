@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 12:08",
+  "updatedAt": "30.10.2026 12:58",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 51,
+      "won": 49,
       "lost": 32,
-      "total": 83,
-      "rate": 61.4
+      "total": 81,
+      "rate": 60.5
     },
-    "totalAnalyses": 296471,
+    "totalAnalyses": 296524,
     "leagues": 536,
     "pro": {
-      "won": 1287,
-      "lost": 559,
-      "total": 1846,
-      "rate": 69.7
+      "won": 1281,
+      "lost": 554,
+      "total": 1835,
+      "rate": 69.8
     },
     "insights": {
-      "won": 2164,
-      "lost": 952,
-      "total": 3116,
-      "rate": 69.4
+      "won": 2154,
+      "lost": 944,
+      "total": 3098,
+      "rate": 69.5
     },
     "coupons": {
       "won": 44,
@@ -47,7 +47,7 @@
       "total": 93,
       "rate": 47.3
     },
-    "analyses24h": 282,
+    "analyses24h": 280,
     "analyses30d": 19268
   },
   "recentWins": [
@@ -232,25 +232,25 @@
     },
     {
       "type": "kickoff",
-      "home": "Dibba Al-Hisn",
-      "away": "Dubai City",
-      "at": "30.10.2026 12:50"
-    },
-    {
-      "type": "kickoff",
-      "home": "Emirates Club",
-      "away": "Dibba Al Fujairah",
-      "at": "30.10.2026 12:50"
-    },
-    {
-      "type": "kickoff",
       "home": "Kataka",
       "away": "Police",
       "at": "30.10.2026 13:00"
     },
     {
+      "type": "kickoff",
+      "home": "Malavan Fc",
+      "away": "Chadormalu",
+      "at": "30.10.2026 13:15"
+    },
+    {
+      "type": "kickoff",
+      "home": "Xorazm Urganch",
+      "away": "Pakhtakor",
+      "at": "30.10.2026 13:30"
+    },
+    {
       "type": "analysis",
-      "count": 282
+      "count": 280
     }
   ],
   "today": {
@@ -277,28 +277,6 @@
       "picks": 2
     },
     {
-      "home": "Dibba Al-Hisn",
-      "away": "Dubai City",
-      "league": "BAE2",
-      "date": "30.10.2026 12:50",
-      "matchCode": "4574625",
-      "odds": 1.15,
-      "patternScore": 68.3,
-      "patternText": "235.051/344.155",
-      "picks": 1
-    },
-    {
-      "home": "Kataka",
-      "away": "Police",
-      "league": "UGA",
-      "date": "30.10.2026 13:00",
-      "matchCode": "4547656",
-      "odds": 1.11,
-      "patternScore": 70.05,
-      "patternText": "448.428/640.177",
-      "picks": 1
-    },
-    {
       "home": "FK Vlasim",
       "away": "FK Usti nad Labem",
       "league": "ÇEK2",
@@ -310,14 +288,36 @@
       "picks": 1
     },
     {
-      "home": "Emirates Club",
-      "away": "Dibba Al Fujairah",
-      "league": "BAE2",
-      "date": "30.10.2026 12:50",
-      "matchCode": "4574624",
-      "odds": 1.1,
-      "patternScore": 70.8,
-      "patternText": "346.836/489.885",
+      "home": "FC Homburg",
+      "away": "Eintracht Trier",
+      "league": "ALMBÖL",
+      "date": "30.10.2026 18:00",
+      "matchCode": "4507617",
+      "odds": 1.09,
+      "patternScore": 70.42,
+      "patternText": "318.284/451.972",
+      "picks": 2
+    },
+    {
+      "home": "Xorazm Urganch",
+      "away": "Pakhtakor",
+      "league": "ÖZB",
+      "date": "30.10.2026 13:30",
+      "matchCode": "4447644",
+      "odds": 1.08,
+      "patternScore": 70.32,
+      "patternText": "292.360/415.742",
+      "picks": 1
+    },
+    {
+      "home": "Steinbach",
+      "away": "Fsv Frankfurt",
+      "league": "ALMBÖL",
+      "date": "30.10.2026 18:00",
+      "matchCode": "4507618",
+      "odds": 1.08,
+      "patternScore": 70.26,
+      "patternText": "311.418/443.266",
       "picks": 1
     }
   ],
