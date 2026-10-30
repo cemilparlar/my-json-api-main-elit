@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 17:30",
+  "updatedAt": "30.10.2026 18:17",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 72,
-      "lost": 33,
-      "total": 105,
-      "rate": 68.6
+      "won": 60,
+      "lost": 26,
+      "total": 86,
+      "rate": 69.8
     },
-    "totalAnalyses": 296960,
+    "totalAnalyses": 296968,
     "leagues": 536,
     "pro": {
-      "won": 1209,
-      "lost": 504,
-      "total": 1713,
-      "rate": 70.6
-    },
-    "insights": {
-      "won": 2048,
-      "lost": 867,
-      "total": 2915,
+      "won": 1162,
+      "lost": 490,
+      "total": 1652,
       "rate": 70.3
     },
-    "coupons": {
-      "won": 46,
-      "lost": 45,
-      "total": 91,
-      "rate": 50.5
+    "insights": {
+      "won": 1966,
+      "lost": 840,
+      "total": 2806,
+      "rate": 70.1
     },
-    "analyses24h": 289,
-    "analyses30d": 19240
+    "coupons": {
+      "won": 47,
+      "lost": 45,
+      "total": 92,
+      "rate": 51.1
+    },
+    "analyses24h": 270,
+    "analyses30d": 19234
   },
   "recentWins": [
     {
@@ -118,6 +118,21 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 1,
+      "totalOdds": 1.1,
+      "winChance": 70.23,
+      "completedAt": "30.10.2026 18:17",
+      "legs": [
+        {
+          "home": "FK Vlasim",
+          "away": "FK Usti nad Labem",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "3 - 0"
+        }
+      ]
+    },
     {
       "size": 1,
       "totalOdds": 1.07,
