@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 01:47",
+  "updatedAt": "30.10.2026 02:03",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 58,
+      "won": 56,
       "lost": 34,
-      "total": 92,
-      "rate": 63.0
+      "total": 90,
+      "rate": 62.2
     },
-    "totalAnalyses": 296097,
+    "totalAnalyses": 296111,
     "leagues": 536,
     "pro": {
       "won": 1297,
@@ -42,13 +42,13 @@
       "rate": 69.4
     },
     "coupons": {
-      "won": 49,
-      "lost": 53,
-      "total": 102,
-      "rate": 48.0
+      "won": 47,
+      "lost": 52,
+      "total": 99,
+      "rate": 47.5
     },
-    "analyses24h": 263,
-    "analyses30d": 19264
+    "analyses24h": 261,
+    "analyses30d": 19259
   },
   "recentWins": [
     {
@@ -232,21 +232,32 @@
     },
     {
       "type": "analysis",
-      "count": 263
+      "count": 261
     }
   ],
   "today": {
-    "home": "Sisaket United",
-    "away": "Ratchaburi Mitr Phol FC",
-    "league": "TAY",
-    "date": "30.10.2026 12:00",
-    "matchCode": "4539094",
-    "odds": 1.28,
-    "patternScore": 68.56,
-    "patternText": "130.410/190.222",
+    "home": "DPMM FC",
+    "away": "Negeri Sembilan FC",
+    "league": "MALES",
+    "date": "30.10.2026 08:00",
+    "matchCode": "4537646",
+    "odds": 1.11,
+    "patternScore": 69.92,
+    "patternText": "205.777/294.321",
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "DPMM FC",
+      "away": "Negeri Sembilan FC",
+      "league": "MALES",
+      "date": "30.10.2026 08:00",
+      "matchCode": "4537646",
+      "odds": 1.11,
+      "patternScore": 69.92,
+      "patternText": "205.777/294.321",
+      "picks": 2
+    },
     {
       "home": "Sisaket United",
       "away": "Ratchaburi Mitr Phol FC",
@@ -289,17 +300,6 @@
       "odds": 1.15,
       "patternScore": 68.3,
       "patternText": "235.051/344.155",
-      "picks": 1
-    },
-    {
-      "home": "Bac Ninh",
-      "away": "Lg Hn Acb",
-      "league": "VİET",
-      "date": "30.10.2026 11:00",
-      "matchCode": "4551343",
-      "odds": 1.12,
-      "patternScore": 70.22,
-      "patternText": "266.161/379.013",
       "picks": 1
     }
   ],
