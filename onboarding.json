@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 18:35",
+  "updatedAt": "30.10.2026 18:54",
   "config": {
     "pages": [
       "engine",
@@ -27,28 +27,28 @@
       "total": 83,
       "rate": 69.9
     },
-    "totalAnalyses": 296999,
+    "totalAnalyses": 297032,
     "leagues": 536,
     "pro": {
-      "won": 1143,
-      "lost": 485,
-      "total": 1628,
-      "rate": 70.2
+      "won": 1124,
+      "lost": 482,
+      "total": 1606,
+      "rate": 70.0
     },
     "insights": {
-      "won": 1932,
-      "lost": 832,
-      "total": 2764,
-      "rate": 69.9
+      "won": 1909,
+      "lost": 828,
+      "total": 2737,
+      "rate": 69.7
     },
     "coupons": {
-      "won": 47,
+      "won": 45,
       "lost": 45,
-      "total": 92,
-      "rate": 51.1
+      "total": 90,
+      "rate": 50.0
     },
-    "analyses24h": 267,
-    "analyses30d": 19224
+    "analyses24h": 298,
+    "analyses30d": 19241
   },
   "recentWins": [
     {
@@ -245,6 +245,12 @@
     },
     {
       "type": "updated",
+      "at": "30.10.2026 18:36",
+      "home": "AlbinoLeffe",
+      "away": "US Pergolettese"
+    },
+    {
+      "type": "updated",
       "at": "30.10.2026 16:44",
       "home": "Le Havre AC",
       "away": "Paris Saint-Germain"
@@ -260,26 +266,31 @@
       "at": "30.10.2026 16:44",
       "home": "FC Volendam",
       "away": "De Graafschap"
-    },
-    {
-      "type": "updated",
-      "at": "30.10.2026 16:46",
-      "home": "Colwyn Bay",
-      "away": "Cambrian"
     }
   ],
   "today": {
-    "home": "Reggiana",
-    "away": "SS Sambenedettese",
-    "league": "İTC",
-    "date": "30.10.2026 19:30",
-    "matchCode": "4535554",
-    "odds": 1.26,
-    "patternScore": 67.86,
-    "patternText": "219.498/323.453",
-    "picks": 1
+    "home": "Colwyn Bay",
+    "away": "Cambrian",
+    "league": "GAL",
+    "date": "30.10.2026 19:45",
+    "matchCode": "4508469",
+    "odds": 1.54,
+    "patternScore": 67.56,
+    "patternText": "219.271/324.566",
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Colwyn Bay",
+      "away": "Cambrian",
+      "league": "GAL",
+      "date": "30.10.2026 19:45",
+      "matchCode": "4508469",
+      "odds": 1.54,
+      "patternScore": 67.56,
+      "patternText": "219.271/324.566",
+      "picks": 2
+    },
     {
       "home": "Reggiana",
       "away": "SS Sambenedettese",
@@ -290,17 +301,6 @@
       "patternScore": 67.86,
       "patternText": "219.498/323.453",
       "picks": 1
-    },
-    {
-      "home": "Colwyn Bay",
-      "away": "Cambrian",
-      "league": "GAL",
-      "date": "30.10.2026 19:45",
-      "matchCode": "4508469",
-      "odds": 1.19,
-      "patternScore": 68.33,
-      "patternText": "219.095/320.652",
-      "picks": 2
     },
     {
       "home": "Deportivo Pereira",
@@ -314,29 +314,36 @@
       "picks": 2
     },
     {
+      "home": "AlbinoLeffe",
+      "away": "US Pergolettese",
+      "league": "İTC",
+      "date": "30.10.2026 19:30",
+      "matchCode": "4535167",
+      "odds": 1.11,
+      "patternScore": 69.26,
+      "patternText": "245.436/354.354",
+      "picks": 1
+    },
+    {
       "home": "Atletico Madrid B",
       "away": "AD Alcorcon",
       "league": "İS3",
       "date": "30.10.2026 20:00",
       "matchCode": "4493611",
       "odds": 1.11,
-      "patternScore": 70.28,
-      "patternText": "258.807/368.267",
-      "picks": 1
-    },
-    {
-      "home": "AlbinoLeffe",
-      "away": "US Pergolettese",
-      "league": "İTC",
-      "date": "30.10.2026 19:30",
-      "matchCode": "4535167",
-      "odds": 1.1,
-      "patternScore": 69.42,
-      "patternText": "246.064/354.444",
+      "patternScore": 70.23,
+      "patternText": "255.065/363.175",
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SC Corinthians",
+      "away": "Mirassol FC",
+      "league": "BR1",
+      "at": "30.10.2026 18:39",
+      "count": 8
+    },
     {
       "home": "Le Havre AC",
       "away": "Paris Saint-Germain",
@@ -399,13 +406,6 @@
       "league": "ABD",
       "at": "28.10.2026 21:11",
       "count": 7
-    },
-    {
-      "home": "St. Louis City SC",
-      "away": "Portland Timbers",
-      "league": "ABD",
-      "at": "28.10.2026 20:11",
-      "count": 10
     }
   ],
   "paywall": {
