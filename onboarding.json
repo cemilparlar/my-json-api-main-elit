@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 19:31",
+  "updatedAt": "30.10.2026 19:50",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 65,
       "rate": 69.2
     },
-    "totalAnalyses": 297036,
-    "leagues": 535,
+    "totalAnalyses": 297091,
+    "leagues": 536,
     "pro": {
       "won": 1113,
-      "lost": 483,
-      "total": 1596,
+      "lost": 484,
+      "total": 1597,
       "rate": 69.7
     },
     "insights": {
-      "won": 1885,
-      "lost": 822,
+      "won": 1887,
+      "lost": 820,
       "total": 2707,
-      "rate": 69.6
+      "rate": 69.7
     },
     "coupons": {
       "won": 44,
@@ -47,8 +47,8 @@
       "total": 90,
       "rate": 48.9
     },
-    "analyses24h": 270,
-    "analyses30d": 19227
+    "analyses24h": 319,
+    "analyses30d": 19280
   },
   "recentWins": [
     {
@@ -276,7 +276,7 @@
     "matchCode": "4475929",
     "odds": 1.41,
     "patternScore": 65.29,
-    "patternText": "309.100/473.446",
+    "patternText": "309.100/473.452",
     "picks": 7
   },
   "todayList": [
@@ -288,7 +288,7 @@
       "matchCode": "4475929",
       "odds": 1.41,
       "patternScore": 65.29,
-      "patternText": "309.100/473.446",
+      "patternText": "309.100/473.452",
       "picks": 7
     },
     {
@@ -299,7 +299,7 @@
       "matchCode": "4423352",
       "odds": 1.26,
       "patternScore": 67.8,
-      "patternText": "269.114/396.934",
+      "patternText": "269.114/396.940",
       "picks": 5
     },
     {
@@ -310,7 +310,7 @@
       "matchCode": "4577002",
       "odds": 1.24,
       "patternScore": 68.14,
-      "patternText": "238.042/349.348",
+      "patternText": "238.042/349.358",
       "picks": 1
     },
     {
@@ -337,6 +337,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Casa Pia AC",
+      "away": "Sporting CP",
+      "league": "POR",
+      "at": "30.10.2026 19:38",
+      "count": 14
+    },
     {
       "home": "SC Corinthians",
       "away": "Mirassol FC",
@@ -398,13 +405,6 @@
       "away": "Hamburger SV",
       "league": "AL1",
       "at": "28.10.2026 21:12",
-      "count": 7
-    },
-    {
-      "home": "Charlotte FC",
-      "away": "CF Montreal",
-      "league": "ABD",
-      "at": "28.10.2026 21:11",
       "count": 7
     }
   ],
