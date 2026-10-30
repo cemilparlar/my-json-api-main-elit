@@ -104,50 +104,9 @@
       "lost": 1
     }
   },
-  "updatedAt": "30.10.2026 19:50",
-  "updatedAtUtc": "2026-10-30T19:50:00Z",
+  "updatedAt": "30.10.2026 20:07",
+  "updatedAtUtc": "2026-10-30T20:07:00Z",
   "upcoming": [
-    {
-      "id": "20261030-14-1",
-      "createdAt": "30.10.2026 11:00",
-      "createdAtUtc": "2026-10-30T11:00:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.06,
-      "winChance": 70.98,
-      "firstKickoff": "30.10.2026 12:00",
-      "lastKickoff": "30.10.2026 12:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.06,
-      "legs": [
-        {
-          "matchCode": "4539094",
-          "nesine": null,
-          "date": "30.10.2026 12:00",
-          "kickoffUtc": "2026-10-30T12:00:00Z",
-          "league": "TAY",
-          "home": "Sisaket United",
-          "away": "Ratchaburi Mitr Phol FC",
-          "league_tr": "TAY",
-          "home_tr": "Sisaket United",
-          "away_tr": "Ratchaburi Fc",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.06,
-          "probability": 83.33,
-          "patternScore": 70.98,
-          "patternText": "149.146/210.120",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261030-20-1",
       "createdAt": "30.10.2026 17:12",
@@ -262,7 +221,7 @@
       "winChance": 70.23,
       "firstKickoff": "30.10.2026 20:00",
       "lastKickoff": "30.10.2026 20:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_1",
       "group": "multi",
@@ -289,12 +248,53 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     }
   ],
   "completed": [
+    {
+      "id": "20261030-14-1",
+      "createdAt": "30.10.2026 11:00",
+      "createdAtUtc": "2026-10-30T11:00:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.06,
+      "winChance": 70.98,
+      "firstKickoff": "30.10.2026 12:00",
+      "lastKickoff": "30.10.2026 12:00",
+      "status": "void",
+      "completedAt": "30.10.2026 20:07",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.0,
+      "legs": [
+        {
+          "matchCode": "4539094",
+          "nesine": null,
+          "date": "30.10.2026 12:00",
+          "kickoffUtc": "2026-10-30T12:00:00Z",
+          "league": "TAY",
+          "home": "Sisaket United",
+          "away": "Ratchaburi Mitr Phol FC",
+          "league_tr": "TAY",
+          "home_tr": "Sisaket United",
+          "away_tr": "Ratchaburi Fc",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.06,
+          "probability": 83.33,
+          "patternScore": 70.98,
+          "patternText": "149.146/210.120",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "void"
+        }
+      ]
+    },
     {
       "id": "20261030-14-3",
       "createdAt": "30.10.2026 11:00",
@@ -645,47 +645,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "void"
-        }
-      ]
-    },
-    {
-      "id": "20261029-18-1",
-      "createdAt": "29.10.2026 15:29",
-      "createdAtUtc": "2026-10-29T15:29:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.09,
-      "winChance": 71.63,
-      "firstKickoff": "29.10.2026 17:45",
-      "lastKickoff": "29.10.2026 17:45",
-      "status": "lost",
-      "completedAt": "29.10.2026 19:59",
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.09,
-      "legs": [
-        {
-          "matchCode": "4560851",
-          "nesine": null,
-          "date": "29.10.2026 17:45",
-          "kickoffUtc": "2026-10-29T17:45:00Z",
-          "league": "ŞMP-K",
-          "home": "Paris Women",
-          "away": "Hacken Women",
-          "league_tr": "ŞMP-K",
-          "home_tr": "Paris (K)",
-          "away_tr": "Hacken (K)",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.09,
-          "probability": 80.62,
-          "patternScore": 71.63,
-          "patternText": "170.794/238.447",
-          "mbs": 1,
-          "firstHalf": "1 - 0",
-          "finalScore": "1 - 1",
-          "status": "lost"
         }
       ]
     }

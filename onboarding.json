@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 19:50",
+  "updatedAt": "30.10.2026 20:07",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 45,
-      "lost": 20,
-      "total": 65,
-      "rate": 69.2
+      "won": 42,
+      "lost": 14,
+      "total": 56,
+      "rate": 75.0
     },
     "totalAnalyses": 297091,
     "leagues": 536,
@@ -47,8 +47,8 @@
       "total": 90,
       "rate": 48.9
     },
-    "analyses24h": 319,
-    "analyses30d": 19280
+    "analyses24h": 307,
+    "analyses30d": 19274
   },
   "recentWins": [
     {
@@ -269,17 +269,28 @@
     }
   ],
   "today": {
-    "home": "Club Atletico Huracan",
-    "away": "Club Atletico Tigre",
+    "home": "Racing Club",
+    "away": "Club Atletico Aldosivi",
     "league": "ARJ",
-    "date": "30.10.2026 22:00",
-    "matchCode": "4475929",
-    "odds": 1.41,
-    "patternScore": 65.29,
-    "patternText": "309.100/473.452",
+    "date": "31.10.2026 00:15",
+    "matchCode": "4475925",
+    "odds": 1.8,
+    "patternScore": 66.35,
+    "patternText": "179.770/270.947",
     "picks": 7
   },
   "todayList": [
+    {
+      "home": "Racing Club",
+      "away": "Club Atletico Aldosivi",
+      "league": "ARJ",
+      "date": "31.10.2026 00:15",
+      "matchCode": "4475925",
+      "odds": 1.8,
+      "patternScore": 66.35,
+      "patternText": "179.770/270.947",
+      "picks": 7
+    },
     {
       "home": "Club Atletico Huracan",
       "away": "Club Atletico Tigre",
@@ -288,7 +299,7 @@
       "matchCode": "4475929",
       "odds": 1.41,
       "patternScore": 65.29,
-      "patternText": "309.100/473.452",
+      "patternText": "309.106/473.460",
       "picks": 7
     },
     {
@@ -299,7 +310,7 @@
       "matchCode": "4423352",
       "odds": 1.26,
       "patternScore": 67.8,
-      "patternText": "269.114/396.940",
+      "patternText": "269.120/396.948",
       "picks": 5
     },
     {
@@ -310,30 +321,19 @@
       "matchCode": "4577002",
       "odds": 1.24,
       "patternScore": 68.14,
-      "patternText": "238.042/349.358",
+      "patternText": "238.048/349.366",
       "picks": 1
     },
     {
-      "home": "CA Sarmiento",
-      "away": "Rosario Central",
-      "league": "ARJ",
-      "date": "31.10.2026 00:15",
-      "matchCode": "4475928",
-      "odds": 1.15,
-      "patternScore": 67.59,
-      "patternText": "187.939/278.062",
+      "home": "Deportivo Perez Zeledon",
+      "away": "Puntarenas FC",
+      "league": "KOSTA",
+      "date": "31.10.2026 02:00",
+      "matchCode": "4487105",
+      "odds": 1.17,
+      "patternScore": 69.3,
+      "patternText": "255.020/367.988",
       "picks": 2
-    },
-    {
-      "home": "Colo-Colo",
-      "away": "Universidad de Concepcion",
-      "league": "ŞİL",
-      "date": "30.10.2026 22:00",
-      "matchCode": "4435996",
-      "odds": 1.14,
-      "patternScore": 67.43,
-      "patternText": "193.319/286.698",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
