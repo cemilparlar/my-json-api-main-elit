@@ -92,8 +92,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "29.10.2026 21:52",
-  "updatedAtUtc": "2026-10-29T21:52:00Z",
+  "updatedAt": "30.10.2026 00:11",
+  "updatedAtUtc": "2026-10-30T00:11:00Z",
   "upcoming": [
     {
       "id": "20261030-00-1",
@@ -105,7 +105,7 @@
       "winChance": 71.98,
       "firstKickoff": "29.10.2026 23:15",
       "lastKickoff": "29.10.2026 23:15",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_1",
       "group": "multi",
@@ -129,6 +129,47 @@
           "probability": 82.76,
           "patternScore": 71.98,
           "patternText": "177.399/246.458",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "id": "20261030-03-1",
+      "createdAt": "30.10.2026 00:11",
+      "createdAtUtc": "2026-10-30T00:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.12,
+      "winChance": 70.36,
+      "firstKickoff": "30.10.2026 02:00",
+      "lastKickoff": "30.10.2026 02:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.12,
+      "legs": [
+        {
+          "matchCode": "4575448",
+          "nesine": null,
+          "date": "30.10.2026 02:00",
+          "kickoffUtc": "2026-10-30T02:00:00Z",
+          "league": "CONOAK",
+          "home": "LD Alajuelense",
+          "away": "Club Deportivo Motagua",
+          "league_tr": "CONOAK",
+          "home_tr": "Alajuelense",
+          "away_tr": "Depor Motagua",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.12,
+          "probability": 75.78,
+          "patternScore": 70.36,
+          "patternText": "245.936/349.543",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "29.10.2026 21:52",
+  "updatedAt": "30.10.2026 00:11",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 66,
-      "lost": 27,
-      "total": 93,
-      "rate": 71.0
+      "won": 72,
+      "lost": 37,
+      "total": 109,
+      "rate": 66.1
     },
-    "totalAnalyses": 295985,
+    "totalAnalyses": 295989,
     "leagues": 536,
     "pro": {
-      "won": 1299,
-      "lost": 570,
-      "total": 1869,
-      "rate": 69.5
+      "won": 1301,
+      "lost": 574,
+      "total": 1875,
+      "rate": 69.4
     },
     "insights": {
-      "won": 2186,
-      "lost": 970,
-      "total": 3156,
-      "rate": 69.3
+      "won": 2194,
+      "lost": 977,
+      "total": 3171,
+      "rate": 69.2
     },
     "coupons": {
       "won": 49,
@@ -47,8 +47,8 @@
       "total": 102,
       "rate": 48.0
     },
-    "analyses24h": 253,
-    "analyses30d": 19239
+    "analyses24h": 241,
+    "analyses30d": 19225
   },
   "recentWins": [
     {
@@ -147,6 +147,36 @@
           "finalScore": "1 - 3"
         }
       ]
+    },
+    {
+      "size": 1,
+      "totalOdds": 1.3,
+      "winChance": 72.56,
+      "completedAt": "27.10.2026 02:22",
+      "legs": [
+        {
+          "home": "Coritiba FBC",
+          "away": "Gremio FBPA",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.3,
+          "finalScore": "0 - 1"
+        }
+      ]
+    },
+    {
+      "size": 1,
+      "totalOdds": 1.3,
+      "winChance": 72.13,
+      "completedAt": "26.10.2026 23:17",
+      "legs": [
+        {
+          "home": "FC Andorra",
+          "away": "Burgos CF",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.3,
+          "finalScore": "2 - 3"
+        }
+      ]
     }
   ],
   "ticker": [
@@ -185,6 +215,12 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.12,
+      "at": "30.10.2026 00:11"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.07,
       "at": "29.10.2026 21:00"
     },
@@ -195,38 +231,14 @@
       "at": "29.10.2026 15:29"
     },
     {
-      "type": "updated",
-      "at": "29.10.2026 16:18",
-      "home": "Egnatia",
-      "away": "Teuta"
-    },
-    {
-      "type": "updated",
-      "at": "29.10.2026 17:13",
-      "home": "Austria Wien (",
-      "away": "Juventus Women"
-    },
-    {
-      "type": "updated",
-      "at": "29.10.2026 17:13",
-      "home": "CD San Sebastian de los Reyes",
-      "away": "Cd Coria"
-    },
-    {
       "type": "kickoff",
-      "home": "America de Cali",
-      "away": "Fortaleza EC",
-      "at": "29.10.2026 23:15"
-    },
-    {
-      "type": "kickoff",
-      "home": "Antigua Guatem",
-      "away": "Deportivo San P",
-      "at": "30.10.2026 00:00"
+      "home": "LD Alajuelense",
+      "away": "Club Deportivo Motagua",
+      "at": "30.10.2026 02:00"
     },
     {
       "type": "analysis",
-      "count": 253
+      "count": 241
     }
   ],
   "today": {
@@ -237,7 +249,7 @@
     "matchCode": "4575448",
     "odds": 1.12,
     "patternScore": 70.36,
-    "patternText": "245.884/349.463",
+    "patternText": "245.936/349.543",
     "picks": 1
   },
   "todayList": [
@@ -249,41 +261,8 @@
       "matchCode": "4575448",
       "odds": 1.12,
       "patternScore": 70.36,
-      "patternText": "245.884/349.463",
+      "patternText": "245.936/349.543",
       "picks": 1
-    },
-    {
-      "home": "America de Cali",
-      "away": "Fortaleza EC",
-      "league": "KOL",
-      "date": "29.10.2026 23:15",
-      "matchCode": "4513859",
-      "odds": 1.07,
-      "patternScore": 71.98,
-      "patternText": "177.405/246.466",
-      "picks": 1
-    },
-    {
-      "home": "Antigua Guatem",
-      "away": "Deportivo San P",
-      "league": "GUAT",
-      "date": "30.10.2026 00:00",
-      "matchCode": "4490441",
-      "odds": 1.06,
-      "patternScore": 72.07,
-      "patternText": "174.195/241.691",
-      "picks": 1
-    },
-    {
-      "home": "DPMM FC",
-      "away": "Negeri Sembilan FC",
-      "league": "MALES",
-      "date": "30.10.2026 08:00",
-      "matchCode": "4537646",
-      "odds": 1.11,
-      "patternScore": 69.92,
-      "patternText": "205.743/294.271",
-      "picks": 2
     },
     {
       "home": "Sisaket United",
@@ -293,8 +272,41 @@
       "matchCode": "4539094",
       "odds": 1.28,
       "patternScore": 68.56,
-      "patternText": "130.396/190.198",
+      "patternText": "130.410/190.222",
       "picks": 2
+    },
+    {
+      "home": "Sheger Ketema",
+      "away": "Negele Arsi Ket",
+      "league": "ETH",
+      "date": "30.10.2026 12:00",
+      "matchCode": "4571938",
+      "odds": 1.22,
+      "patternScore": 70.01,
+      "patternText": "127.743/182.463",
+      "picks": 1
+    },
+    {
+      "home": "Zob Ahan Fc",
+      "away": "Esteghlal Khuze",
+      "league": "IRAN",
+      "date": "30.10.2026 12:00",
+      "matchCode": "4571535",
+      "odds": 1.19,
+      "patternScore": 69.19,
+      "patternText": "223.584/323.125",
+      "picks": 1
+    },
+    {
+      "home": "Bac Ninh",
+      "away": "Lg Hn Acb",
+      "league": "VİET",
+      "date": "30.10.2026 11:00",
+      "matchCode": "4551343",
+      "odds": 1.12,
+      "patternScore": 70.22,
+      "patternText": "266.161/379.013",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
