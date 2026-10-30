@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 23:20",
+  "updatedAt": "30.10.2026 23:35",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 69,
-      "lost": 45,
-      "total": 114,
+      "won": 72,
+      "lost": 47,
+      "total": 119,
       "rate": 60.5
     },
-    "totalAnalyses": 297223,
+    "totalAnalyses": 297246,
     "leagues": 538,
     "pro": {
       "won": 1110,
@@ -36,10 +36,10 @@
       "rate": 69.6
     },
     "insights": {
-      "won": 1892,
-      "lost": 832,
-      "total": 2724,
-      "rate": 69.5
+      "won": 1895,
+      "lost": 834,
+      "total": 2729,
+      "rate": 69.4
     },
     "coupons": {
       "won": 40,
@@ -47,8 +47,8 @@
       "total": 78,
       "rate": 51.3
     },
-    "analyses24h": 310,
-    "analyses30d": 19407
+    "analyses24h": 324,
+    "analyses30d": 19421
   },
   "recentWins": [
     {
@@ -257,15 +257,15 @@
     },
     {
       "type": "updated",
-      "at": "30.10.2026 22:55",
-      "home": "CA Sarmiento",
-      "away": "Rosario Central"
+      "at": "30.10.2026 23:33",
+      "home": "Racing Club",
+      "away": "Club Atletico Aldosivi"
     },
     {
       "type": "updated",
       "at": "30.10.2026 22:55",
-      "home": "Correcaminos UAT",
-      "away": "Venados FC"
+      "home": "CA Sarmiento",
+      "away": "Rosario Central"
     }
   ],
   "today": {
@@ -303,17 +303,6 @@
       "picks": 6
     },
     {
-      "home": "Bidezarra",
-      "away": "Aoiz",
-      "league": "İSTL",
-      "date": "31.10.2026 00:00",
-      "matchCode": "4532536",
-      "odds": 1.17,
-      "patternScore": 69.82,
-      "patternText": "301.846/432.292",
-      "picks": 1
-    },
-    {
       "home": "Deportivo Perez Zeledon",
       "away": "Puntarenas FC",
       "league": "KOSTA",
@@ -334,6 +323,17 @@
       "patternScore": 69.4,
       "patternText": "273.280/393.748",
       "picks": 2
+    },
+    {
+      "home": "Fukushima Unit",
+      "away": "Matsumoto Yamag",
+      "league": "JAP3",
+      "date": "31.10.2026 05:00",
+      "matchCode": "4488017",
+      "odds": 1.13,
+      "patternScore": 69.12,
+      "patternText": "261.351/378.117",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
