@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 10:32",
+  "updatedAt": "30.10.2026 11:00",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 83,
       "rate": 61.4
     },
-    "totalAnalyses": 296426,
+    "totalAnalyses": 296439,
     "leagues": 536,
     "pro": {
       "won": 1289,
@@ -43,9 +43,9 @@
     },
     "coupons": {
       "won": 44,
-      "lost": 50,
-      "total": 94,
-      "rate": 46.8
+      "lost": 49,
+      "total": 93,
+      "rate": 47.3
     },
     "analyses24h": 282,
     "analyses30d": 19268
@@ -215,19 +215,19 @@
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.1,
-      "at": "30.10.2026 09:00"
+      "odds": 1.06,
+      "at": "30.10.2026 11:00"
     },
     {
       "type": "coupon",
-      "size": 1,
-      "odds": 1.12,
-      "at": "30.10.2026 00:11"
+      "size": 2,
+      "odds": 1.19,
+      "at": "30.10.2026 11:00"
     },
     {
-      "type": "kickoff",
-      "home": "Bac Ninh",
-      "away": "Lg Hn Acb",
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.46,
       "at": "30.10.2026 11:00"
     },
     {
@@ -240,6 +240,12 @@
       "type": "kickoff",
       "home": "Slask Wroclaw",
       "away": "Katowice Women",
+      "at": "30.10.2026 12:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Zob Ahan Fc",
+      "away": "Esteghlal Khuze",
       "at": "30.10.2026 12:00"
     },
     {
