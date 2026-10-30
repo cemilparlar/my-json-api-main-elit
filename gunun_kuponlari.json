@@ -1,14 +1,6 @@
 {
   "version": 1,
   "stats7": {
-    "surprise": {
-      "won": 13,
-      "lost": 18
-    },
-    "surprise_1": {
-      "won": 8,
-      "lost": 8
-    },
     "safe": {
       "won": 28,
       "lost": 17
@@ -20,6 +12,14 @@
     "safe_b": {
       "won": 18,
       "lost": 12
+    },
+    "surprise": {
+      "won": 12,
+      "lost": 18
+    },
+    "surprise_1": {
+      "won": 7,
+      "lost": 8
     },
     "surprise_2": {
       "won": 3,
@@ -96,8 +96,8 @@
       "lost": 0
     }
   },
-  "updatedAt": "30.10.2026 18:54",
-  "updatedAtUtc": "2026-10-30T18:54:00Z",
+  "updatedAt": "30.10.2026 19:13",
+  "updatedAtUtc": "2026-10-30T19:13:00Z",
   "upcoming": [
     {
       "id": "20261030-14-1",
@@ -276,7 +276,7 @@
       "winChance": 50.0,
       "firstKickoff": "30.10.2026 19:00",
       "lastKickoff": "30.10.2026 19:15",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_2",
       "group": "multi",
@@ -303,7 +303,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4482238",
@@ -322,6 +322,47 @@
           "probability": 82.09,
           "patternScore": 71.14,
           "patternText": "193.661/272.225",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261030-22-1",
+      "createdAt": "30.10.2026 19:13",
+      "createdAtUtc": "2026-10-30T19:13:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.11,
+      "winChance": 70.23,
+      "firstKickoff": "30.10.2026 20:00",
+      "lastKickoff": "30.10.2026 20:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.11,
+      "legs": [
+        {
+          "matchCode": "4493611",
+          "nesine": null,
+          "date": "30.10.2026 20:00",
+          "kickoffUtc": "2026-10-30T20:00:00Z",
+          "league": "İS3",
+          "home": "Atletico Madrid B",
+          "away": "AD Alcorcon",
+          "league_tr": "İS3",
+          "home_tr": "Atl Madrid Ii",
+          "away_tr": "Alcorcon",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.11,
+          "probability": 75.98,
+          "patternScore": 70.23,
+          "patternText": "255.065/363.175",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,

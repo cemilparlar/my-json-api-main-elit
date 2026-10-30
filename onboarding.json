@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 18:54",
+  "updatedAt": "30.10.2026 19:13",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 58,
-      "lost": 25,
-      "total": 83,
+      "won": 46,
+      "lost": 19,
+      "total": 65,
+      "rate": 70.8
+    },
+    "totalAnalyses": 297036,
+    "leagues": 535,
+    "pro": {
+      "won": 1117,
+      "lost": 482,
+      "total": 1599,
       "rate": 69.9
     },
-    "totalAnalyses": 297032,
-    "leagues": 536,
-    "pro": {
-      "won": 1124,
-      "lost": 482,
-      "total": 1606,
-      "rate": 70.0
-    },
     "insights": {
-      "won": 1909,
-      "lost": 828,
-      "total": 2737,
-      "rate": 69.7
+      "won": 1891,
+      "lost": 820,
+      "total": 2711,
+      "rate": 69.8
     },
     "coupons": {
-      "won": 45,
+      "won": 44,
       "lost": 45,
-      "total": 90,
-      "rate": 50.0
+      "total": 89,
+      "rate": 49.4
     },
-    "analyses24h": 298,
-    "analyses30d": 19241
+    "analyses24h": 273,
+    "analyses30d": 19229
   },
   "recentWins": [
     {
@@ -222,6 +222,12 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.11,
+      "at": "30.10.2026 19:13"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.07,
       "at": "30.10.2026 17:12"
     },
@@ -230,12 +236,6 @@
       "size": 2,
       "odds": 1.17,
       "at": "30.10.2026 17:12"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.1,
-      "at": "30.10.2026 15:06"
     },
     {
       "type": "updated",
@@ -292,48 +292,48 @@
       "picks": 2
     },
     {
-      "home": "Reggiana",
-      "away": "SS Sambenedettese",
-      "league": "İTC",
-      "date": "30.10.2026 19:30",
-      "matchCode": "4535554",
-      "odds": 1.26,
-      "patternScore": 67.86,
-      "patternText": "219.498/323.453",
-      "picks": 1
+      "home": "Club Atletico Huracan",
+      "away": "Club Atletico Tigre",
+      "league": "ARJ",
+      "date": "30.10.2026 22:00",
+      "matchCode": "4475929",
+      "odds": 1.41,
+      "patternScore": 65.29,
+      "patternText": "309.100/473.446",
+      "picks": 7
     },
     {
-      "home": "Deportivo Pereira",
-      "away": "Jaguares",
-      "league": "KOL",
+      "home": "SC Corinthians",
+      "away": "Mirassol FC",
+      "league": "BR1",
       "date": "30.10.2026 23:00",
-      "matchCode": "4513858",
-      "odds": 1.13,
-      "patternScore": 69.13,
-      "patternText": "272.749/394.572",
+      "matchCode": "4423352",
+      "odds": 1.26,
+      "patternScore": 67.8,
+      "patternText": "269.114/396.934",
+      "picks": 5
+    },
+    {
+      "home": "Real Potosi",
+      "away": "Independiente P",
+      "league": "BOLİ",
+      "date": "30.10.2026 22:00",
+      "matchCode": "4577002",
+      "odds": 1.24,
+      "patternScore": 68.14,
+      "patternText": "238.042/349.348",
+      "picks": 1
+    },
+    {
+      "home": "CA Sarmiento",
+      "away": "Rosario Central",
+      "league": "ARJ",
+      "date": "31.10.2026 00:15",
+      "matchCode": "4475928",
+      "odds": 1.15,
+      "patternScore": 67.59,
+      "patternText": "187.939/278.062",
       "picks": 2
-    },
-    {
-      "home": "AlbinoLeffe",
-      "away": "US Pergolettese",
-      "league": "İTC",
-      "date": "30.10.2026 19:30",
-      "matchCode": "4535167",
-      "odds": 1.11,
-      "patternScore": 69.26,
-      "patternText": "245.436/354.354",
-      "picks": 1
-    },
-    {
-      "home": "Atletico Madrid B",
-      "away": "AD Alcorcon",
-      "league": "İS3",
-      "date": "30.10.2026 20:00",
-      "matchCode": "4493611",
-      "odds": 1.11,
-      "patternScore": 70.23,
-      "patternText": "255.065/363.175",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
