@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 08:54",
+  "updatedAt": "30.10.2026 09:00",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 83,
       "rate": 61.4
     },
-    "totalAnalyses": 296359,
-    "leagues": 537,
+    "totalAnalyses": 296386,
+    "leagues": 536,
     "pro": {
       "won": 1295,
       "lost": 563,
@@ -48,7 +48,7 @@
       "rate": 46.8
     },
     "analyses24h": 282,
-    "analyses30d": 19276
+    "analyses30d": 19275
   },
   "recentWins": [
     {
@@ -215,6 +215,12 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.1,
+      "at": "30.10.2026 09:00"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.12,
       "at": "30.10.2026 00:11"
     },
@@ -235,6 +241,12 @@
       "home": "Bac Ninh",
       "away": "Lg Hn Acb",
       "at": "30.10.2026 11:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Sisaket United",
+      "away": "Ratchaburi Mitr Phol FC",
+      "at": "30.10.2026 12:00"
     },
     {
       "type": "analysis",
