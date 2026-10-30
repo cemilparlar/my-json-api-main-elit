@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 12:58",
+  "updatedAt": "30.10.2026 13:00",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 81,
       "rate": 60.5
     },
-    "totalAnalyses": 296524,
+    "totalAnalyses": 296572,
     "leagues": 536,
     "pro": {
       "won": 1281,
@@ -215,6 +215,12 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.07,
+      "at": "30.10.2026 13:00"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.06,
       "at": "30.10.2026 11:00"
     },
@@ -223,18 +229,6 @@
       "size": 2,
       "odds": 1.19,
       "at": "30.10.2026 11:00"
-    },
-    {
-      "type": "coupon",
-      "size": 3,
-      "odds": 1.46,
-      "at": "30.10.2026 11:00"
-    },
-    {
-      "type": "kickoff",
-      "home": "Kataka",
-      "away": "Police",
-      "at": "30.10.2026 13:00"
     },
     {
       "type": "kickoff",
@@ -247,6 +241,12 @@
       "home": "Xorazm Urganch",
       "away": "Pakhtakor",
       "at": "30.10.2026 13:30"
+    },
+    {
+      "type": "kickoff",
+      "home": "Foolad Khuzest",
+      "away": "Shahrdari Arak",
+      "at": "30.10.2026 14:30"
     },
     {
       "type": "analysis",
@@ -299,17 +299,6 @@
       "picks": 2
     },
     {
-      "home": "Xorazm Urganch",
-      "away": "Pakhtakor",
-      "league": "ÖZB",
-      "date": "30.10.2026 13:30",
-      "matchCode": "4447644",
-      "odds": 1.08,
-      "patternScore": 70.32,
-      "patternText": "292.360/415.742",
-      "picks": 1
-    },
-    {
       "home": "Steinbach",
       "away": "Fsv Frankfurt",
       "league": "ALMBÖL",
@@ -319,6 +308,17 @@
       "patternScore": 70.26,
       "patternText": "311.418/443.266",
       "picks": 1
+    },
+    {
+      "home": "Reggiana",
+      "away": "SS Sambenedettese",
+      "league": "İTC",
+      "date": "30.10.2026 19:30",
+      "matchCode": "4535554",
+      "odds": 1.34,
+      "patternScore": 68.18,
+      "patternText": "220.394/323.231",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
