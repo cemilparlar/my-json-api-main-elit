@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 16:36",
+  "updatedAt": "30.10.2026 16:54",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 79,
+      "won": 81,
       "lost": 38,
-      "total": 117,
-      "rate": 67.5
+      "total": 119,
+      "rate": 68.1
     },
-    "totalAnalyses": 296859,
+    "totalAnalyses": 296943,
     "leagues": 536,
     "pro": {
-      "won": 1237,
-      "lost": 522,
-      "total": 1759,
-      "rate": 70.3
+      "won": 1238,
+      "lost": 520,
+      "total": 1758,
+      "rate": 70.4
     },
     "insights": {
-      "won": 2080,
-      "lost": 887,
-      "total": 2967,
-      "rate": 70.1
+      "won": 2081,
+      "lost": 885,
+      "total": 2966,
+      "rate": 70.2
     },
     "coupons": {
-      "won": 45,
+      "won": 46,
       "lost": 45,
-      "total": 90,
-      "rate": 50.0
+      "total": 91,
+      "rate": 50.5
     },
-    "analyses24h": 299,
-    "analyses30d": 19254
+    "analyses24h": 314,
+    "analyses30d": 19256
   },
   "recentWins": [
     {
@@ -104,20 +104,35 @@
       "pro": false
     },
     {
-      "home": "Remo",
-      "away": "Botafogo de Futebol e Regatas",
-      "league": "BR1",
-      "date": "29.10.2026 00:30",
-      "prediction": "Over 2.5 Goals",
+      "home": "Kheybar Khorra",
+      "away": "Sepahan",
+      "league": "IRAN",
+      "date": "30.10.2026 14:00",
+      "prediction": "1st Half Double Chance 12",
       "odds": 1.51,
-      "probability": 71.43,
-      "patternScore": 67.29,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 1",
+      "probability": 75.0,
+      "patternScore": 67.91,
+      "firstHalf": "0 - 2",
+      "finalScore": "1 - 2",
       "pro": true
     }
   ],
   "recentCoupons": [
+    {
+      "size": 1,
+      "totalOdds": 1.07,
+      "winChance": 70.3,
+      "completedAt": "30.10.2026 16:54",
+      "legs": [
+        {
+          "home": "Foolad Khuzest",
+          "away": "Shahrdari Arak",
+          "prediction": "Double Chance 1X",
+          "odds": 1.07,
+          "finalScore": "1 - 0"
+        }
+      ]
+    },
     {
       "size": 2,
       "totalOdds": 1.19,
@@ -209,13 +224,25 @@
     },
     {
       "type": "updated",
-      "at": "30.10.2026 15:29",
+      "at": "30.10.2026 16:46",
+      "home": "Reggiana",
+      "away": "SS Sambenedettese"
+    },
+    {
+      "type": "updated",
+      "at": "30.10.2026 16:44",
       "home": "Le Havre AC",
       "away": "Paris Saint-Germain"
     },
     {
       "type": "updated",
-      "at": "30.10.2026 15:29",
+      "at": "30.10.2026 16:44",
+      "home": "FC Volendam",
+      "away": "De Graafschap"
+    },
+    {
+      "type": "updated",
+      "at": "30.10.2026 16:44",
       "home": "Steinbach",
       "away": "Fsv Frankfurt"
     },
@@ -224,18 +251,6 @@
       "at": "30.10.2026 15:28",
       "home": "Leipzig",
       "away": "VSG Altglienicke"
-    },
-    {
-      "type": "updated",
-      "at": "30.10.2026 15:30",
-      "home": "West Ham United U21",
-      "away": "Sheffield United"
-    },
-    {
-      "type": "kickoff",
-      "home": "ASO Chlef",
-      "away": "ES Setif",
-      "at": "30.10.2026 16:45"
     }
   ],
   "today": {
@@ -246,7 +261,7 @@
     "matchCode": "4535554",
     "odds": 1.34,
     "patternScore": 68.2,
-    "patternText": "220.616/323.473",
+    "patternText": "220.646/323.509",
     "picks": 3
   },
   "todayList": [
@@ -258,7 +273,7 @@
       "matchCode": "4535554",
       "odds": 1.34,
       "patternScore": 68.2,
-      "patternText": "220.616/323.473",
+      "patternText": "220.646/323.509",
       "picks": 3
     },
     {
@@ -269,7 +284,7 @@
       "matchCode": "4540469",
       "odds": 1.32,
       "patternScore": 68.95,
-      "patternText": "152.626/221.359",
+      "patternText": "152.640/221.375",
       "picks": 2
     },
     {
@@ -280,7 +295,7 @@
       "matchCode": "4481912",
       "odds": 1.21,
       "patternScore": 68.29,
-      "patternText": "219.750/321.775",
+      "patternText": "219.780/321.811",
       "picks": 2
     },
     {
@@ -290,8 +305,8 @@
       "date": "30.10.2026 19:00",
       "matchCode": "4481910",
       "odds": 1.17,
-      "patternScore": 68.42,
-      "patternText": "225.722/329.889",
+      "patternScore": 68.43,
+      "patternText": "225.752/329.925",
       "picks": 2
     },
     {
@@ -302,7 +317,7 @@
       "matchCode": "4507014",
       "odds": 1.12,
       "patternScore": 69.99,
-      "patternText": "303.144/433.112",
+      "patternText": "303.182/433.164",
       "picks": 1
     }
   ],
@@ -311,8 +326,8 @@
       "home": "Le Havre AC",
       "away": "Paris Saint-Germain",
       "league": "FR1",
-      "at": "30.10.2026 15:29",
-      "count": 14
+      "at": "30.10.2026 16:44",
+      "count": 16
     },
     {
       "home": "Manchester City Women",

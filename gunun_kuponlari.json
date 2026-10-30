@@ -34,11 +34,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 2,
+      "won": 3,
       "lost": 1
     },
     "c70_1": {
-      "won": 1,
+      "won": 2,
       "lost": 1
     },
     "c70_2": {
@@ -84,11 +84,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 2,
+      "won": 3,
       "lost": 1
     },
     "c70_1": {
-      "won": 1,
+      "won": 2,
       "lost": 1
     },
     "c70_2": {
@@ -96,8 +96,8 @@
       "lost": 0
     }
   },
-  "updatedAt": "30.10.2026 16:36",
-  "updatedAtUtc": "2026-10-30T16:36:00Z",
+  "updatedAt": "30.10.2026 16:54",
+  "updatedAtUtc": "2026-10-30T16:54:00Z",
   "upcoming": [
     {
       "id": "20261030-14-1",
@@ -226,47 +226,6 @@
       ]
     },
     {
-      "id": "20261030-16-1",
-      "createdAt": "30.10.2026 13:00",
-      "createdAtUtc": "2026-10-30T13:00:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.07,
-      "winChance": 70.3,
-      "firstKickoff": "30.10.2026 14:30",
-      "lastKickoff": "30.10.2026 14:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.07,
-      "legs": [
-        {
-          "matchCode": "4571540",
-          "nesine": null,
-          "date": "30.10.2026 14:30",
-          "kickoffUtc": "2026-10-30T14:30:00Z",
-          "league": "IRAN",
-          "home": "Foolad Khuzest",
-          "away": "Shahrdari Arak",
-          "league_tr": "IRAN",
-          "home_tr": "Foolad Khuzest",
-          "away_tr": "Shahrdari Arak",
-          "prediction": "Double Chance 1X",
-          "prediction_tr": "Çifte Şans 1-X",
-          "odds": 1.07,
-          "probability": 94.12,
-          "patternScore": 70.3,
-          "patternText": "111.005/157.909",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
       "id": "20261030-18-1",
       "createdAt": "30.10.2026 15:06",
       "createdAtUtc": "2026-10-30T15:06:00Z",
@@ -309,6 +268,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261030-16-1",
+      "createdAt": "30.10.2026 13:00",
+      "createdAtUtc": "2026-10-30T13:00:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.07,
+      "winChance": 70.3,
+      "firstKickoff": "30.10.2026 14:30",
+      "lastKickoff": "30.10.2026 14:30",
+      "status": "won",
+      "completedAt": "30.10.2026 16:54",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.07,
+      "legs": [
+        {
+          "matchCode": "4571540",
+          "nesine": null,
+          "date": "30.10.2026 14:30",
+          "kickoffUtc": "2026-10-30T14:30:00Z",
+          "league": "IRAN",
+          "home": "Foolad Khuzest",
+          "away": "Shahrdari Arak",
+          "league_tr": "IRAN",
+          "home_tr": "Foolad Khuzest",
+          "away_tr": "Shahrdari Arak",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.07,
+          "probability": 94.12,
+          "patternScore": 70.3,
+          "patternText": "111.005/157.909",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 0",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261030-14-2",
       "createdAt": "30.10.2026 11:00",
