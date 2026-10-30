@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 15:06",
+  "updatedAt": "30.10.2026 15:24",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 71,
-      "lost": 39,
-      "total": 110,
-      "rate": 64.5
+      "won": 76,
+      "lost": 40,
+      "total": 116,
+      "rate": 65.5
     },
-    "totalAnalyses": 296741,
+    "totalAnalyses": 296766,
     "leagues": 536,
     "pro": {
-      "won": 1268,
+      "won": 1269,
       "lost": 538,
-      "total": 1806,
+      "total": 1807,
       "rate": 70.2
     },
     "insights": {
-      "won": 2130,
-      "lost": 919,
-      "total": 3049,
+      "won": 2133,
+      "lost": 920,
+      "total": 3053,
       "rate": 69.9
     },
     "coupons": {
-      "won": 44,
+      "won": 45,
       "lost": 45,
-      "total": 89,
-      "rate": 49.4
+      "total": 90,
+      "rate": 50.0
     },
     "analyses24h": 280,
     "analyses30d": 19257
@@ -118,6 +118,28 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 2,
+      "totalOdds": 1.19,
+      "winChance": 49.96,
+      "completedAt": "30.10.2026 15:24",
+      "legs": [
+        {
+          "home": "Ballkani",
+          "away": "Drenica Skender",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "4 - 0"
+        },
+        {
+          "home": "Emirates Club",
+          "away": "Dibba Al Fujairah",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "3 - 0"
+        }
+      ]
+    },
     {
       "size": 1,
       "totalOdds": 1.1,
