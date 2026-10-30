@@ -96,8 +96,8 @@
       "lost": 0
     }
   },
-  "updatedAt": "30.10.2026 16:54",
-  "updatedAtUtc": "2026-10-30T16:54:00Z",
+  "updatedAt": "30.10.2026 17:12",
+  "updatedAtUtc": "2026-10-30T17:12:00Z",
   "upcoming": [
     {
       "id": "20261030-14-1",
@@ -263,6 +263,110 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "live"
+        }
+      ]
+    },
+    {
+      "id": "20261030-20-1",
+      "createdAt": "30.10.2026 17:12",
+      "createdAtUtc": "2026-10-30T17:12:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.07,
+      "winChance": 71.26,
+      "firstKickoff": "30.10.2026 18:00",
+      "lastKickoff": "30.10.2026 18:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.07,
+      "legs": [
+        {
+          "matchCode": "4507618",
+          "nesine": null,
+          "date": "30.10.2026 18:00",
+          "kickoffUtc": "2026-10-30T18:00:00Z",
+          "league": "ALMBÖL",
+          "home": "Steinbach",
+          "away": "Fsv Frankfurt",
+          "league_tr": "ALMBÖL",
+          "home_tr": "Steinbach",
+          "away_tr": "Fsv Frankfurt",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.07,
+          "probability": 80.0,
+          "patternScore": 71.26,
+          "patternText": "210.399/295.261",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261030-20-2",
+      "createdAt": "30.10.2026 17:12",
+      "createdAtUtc": "2026-10-30T17:12:00Z",
+      "size": 2,
+      "mbs": 1,
+      "totalOdds": 1.17,
+      "winChance": 50.0,
+      "firstKickoff": "30.10.2026 19:00",
+      "lastKickoff": "30.10.2026 19:15",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_2",
+      "group": "multi",
+      "formula": "2",
+      "effectiveOdds": 1.17,
+      "legs": [
+        {
+          "matchCode": "4540469",
+          "nesine": null,
+          "date": "30.10.2026 19:00",
+          "kickoffUtc": "2026-10-30T19:00:00Z",
+          "league": "İNPLK",
+          "home": "West Ham United U21",
+          "away": "Sheffield United",
+          "league_tr": "İNPLK",
+          "home_tr": "West Ham (B)",
+          "away_tr": "Sheffield Unite",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.06,
+          "probability": 76.47,
+          "patternScore": 70.28,
+          "patternText": "309.400/440.255",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4482238",
+          "nesine": null,
+          "date": "30.10.2026 19:15",
+          "kickoffUtc": "2026-10-30T19:15:00Z",
+          "league": "İSV2",
+          "home": "Neuchatel Xamax",
+          "away": "FC Aarau",
+          "league_tr": "İSV2",
+          "home_tr": "Neuchatel Xama",
+          "away_tr": "Aarau",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 82.09,
+          "patternScore": 71.14,
+          "patternText": "193.661/272.225",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
         }
       ]
     }

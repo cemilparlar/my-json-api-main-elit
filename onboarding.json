@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 16:54",
+  "updatedAt": "30.10.2026 17:12",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 81,
-      "lost": 38,
-      "total": 119,
-      "rate": 68.1
+      "won": 72,
+      "lost": 33,
+      "total": 105,
+      "rate": 68.6
     },
-    "totalAnalyses": 296943,
+    "totalAnalyses": 296945,
     "leagues": 536,
     "pro": {
-      "won": 1238,
-      "lost": 520,
-      "total": 1758,
-      "rate": 70.4
+      "won": 1209,
+      "lost": 504,
+      "total": 1713,
+      "rate": 70.6
     },
     "insights": {
-      "won": 2081,
-      "lost": 885,
-      "total": 2966,
-      "rate": 70.2
+      "won": 2048,
+      "lost": 867,
+      "total": 2915,
+      "rate": 70.3
     },
     "coupons": {
       "won": 46,
@@ -47,8 +47,8 @@
       "total": 91,
       "rate": 50.5
     },
-    "analyses24h": 314,
-    "analyses30d": 19256
+    "analyses24h": 296,
+    "analyses30d": 19248
   },
   "recentWins": [
     {
@@ -207,20 +207,20 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.07,
+      "at": "30.10.2026 17:12"
+    },
+    {
+      "type": "coupon",
+      "size": 2,
+      "odds": 1.17,
+      "at": "30.10.2026 17:12"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.1,
       "at": "30.10.2026 15:06"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.07,
-      "at": "30.10.2026 13:00"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.06,
-      "at": "30.10.2026 11:00"
     },
     {
       "type": "updated",
@@ -242,38 +242,38 @@
     },
     {
       "type": "updated",
-      "at": "30.10.2026 16:44",
-      "home": "Steinbach",
-      "away": "Fsv Frankfurt"
+      "at": "30.10.2026 16:46",
+      "home": "Colwyn Bay",
+      "away": "Cambrian"
     },
     {
       "type": "updated",
-      "at": "30.10.2026 15:28",
-      "home": "Leipzig",
-      "away": "VSG Altglienicke"
+      "at": "30.10.2026 16:44",
+      "home": "Steinbach",
+      "away": "Fsv Frankfurt"
     }
   ],
   "today": {
-    "home": "Reggiana",
-    "away": "SS Sambenedettese",
-    "league": "İTC",
-    "date": "30.10.2026 19:30",
-    "matchCode": "4535554",
-    "odds": 1.34,
-    "patternScore": 68.2,
-    "patternText": "220.646/323.509",
+    "home": "Newcastle United U21",
+    "away": "Peterborough United",
+    "league": "İNPLK",
+    "date": "30.10.2026 19:00",
+    "matchCode": "4540445",
+    "odds": 1.37,
+    "patternScore": 67.58,
+    "patternText": "139.863/206.956",
     "picks": 3
   },
   "todayList": [
     {
-      "home": "Reggiana",
-      "away": "SS Sambenedettese",
-      "league": "İTC",
-      "date": "30.10.2026 19:30",
-      "matchCode": "4535554",
-      "odds": 1.34,
-      "patternScore": 68.2,
-      "patternText": "220.646/323.509",
+      "home": "Newcastle United U21",
+      "away": "Peterborough United",
+      "league": "İNPLK",
+      "date": "30.10.2026 19:00",
+      "matchCode": "4540445",
+      "odds": 1.37,
+      "patternScore": 67.58,
+      "patternText": "139.863/206.956",
       "picks": 3
     },
     {
@@ -284,18 +284,7 @@
       "matchCode": "4540469",
       "odds": 1.32,
       "patternScore": 68.95,
-      "patternText": "152.640/221.375",
-      "picks": 2
-    },
-    {
-      "home": "RKC Waalwijk",
-      "away": "Almere City FC",
-      "league": "HOL2",
-      "date": "30.10.2026 19:00",
-      "matchCode": "4481912",
-      "odds": 1.21,
-      "patternScore": 68.29,
-      "patternText": "219.780/321.811",
+      "patternText": "152.644/221.379",
       "picks": 2
     },
     {
@@ -304,21 +293,32 @@
       "league": "HOL2",
       "date": "30.10.2026 19:00",
       "matchCode": "4481910",
-      "odds": 1.17,
-      "patternScore": 68.43,
-      "patternText": "225.752/329.925",
-      "picks": 2
+      "odds": 1.31,
+      "patternScore": 68.42,
+      "patternText": "221.953/324.407",
+      "picks": 3
     },
     {
-      "home": "Leipzig",
-      "away": "VSG Altglienicke",
-      "league": "ALMBÖL",
-      "date": "30.10.2026 18:00",
-      "matchCode": "4507014",
-      "odds": 1.12,
-      "patternScore": 69.99,
-      "patternText": "303.182/433.164",
+      "home": "Reggiana",
+      "away": "SS Sambenedettese",
+      "league": "İTC",
+      "date": "30.10.2026 19:30",
+      "matchCode": "4535554",
+      "odds": 1.26,
+      "patternScore": 67.86,
+      "patternText": "219.480/323.433",
       "picks": 1
+    },
+    {
+      "home": "RKC Waalwijk",
+      "away": "Almere City FC",
+      "league": "HOL2",
+      "date": "30.10.2026 19:00",
+      "matchCode": "4481912",
+      "odds": 1.21,
+      "patternScore": 68.3,
+      "patternText": "219.788/321.819",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
