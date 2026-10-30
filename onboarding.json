@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 21:56",
+  "updatedAt": "30.10.2026 22:13",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 75,
       "rate": 64.0
     },
-    "totalAnalyses": 297200,
+    "totalAnalyses": 297203,
     "leagues": 538,
     "pro": {
       "won": 1108,
-      "lost": 483,
-      "total": 1591,
-      "rate": 69.6
+      "lost": 482,
+      "total": 1590,
+      "rate": 69.7
     },
     "insights": {
       "won": 1882,
-      "lost": 829,
-      "total": 2711,
-      "rate": 69.4
+      "lost": 827,
+      "total": 2709,
+      "rate": 69.5
     },
     "coupons": {
       "won": 40,
@@ -292,6 +292,17 @@
       "picks": 7
     },
     {
+      "home": "South Hobart",
+      "away": "Preston Lions",
+      "league": "AVC",
+      "date": "31.10.2026 04:00",
+      "matchCode": "4573665",
+      "odds": 1.6,
+      "patternScore": 67.13,
+      "patternText": "168.917/251.643",
+      "picks": 6
+    },
+    {
       "home": "SC Corinthians",
       "away": "Mirassol FC",
       "league": "BR1",
@@ -322,17 +333,6 @@
       "odds": 1.15,
       "patternScore": 67.59,
       "patternText": "187.941/278.068",
-      "picks": 2
-    },
-    {
-      "home": "Correcaminos UAT",
-      "away": "Venados FC",
-      "league": "MEK2",
-      "date": "31.10.2026 01:00",
-      "matchCode": "4503514",
-      "odds": 1.15,
-      "patternScore": 69.49,
-      "patternText": "275.504/396.474",
       "picks": 2
     }
   ],
