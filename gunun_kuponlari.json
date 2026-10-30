@@ -2,24 +2,24 @@
   "version": 1,
   "stats7": {
     "safe": {
-      "won": 27,
-      "lost": 14
+      "won": 25,
+      "lost": 11
     },
     "safe_b": {
-      "won": 17,
-      "lost": 10
+      "won": 15,
+      "lost": 8
     },
     "surprise": {
-      "won": 12,
+      "won": 11,
       "lost": 17
     },
     "surprise_1": {
-      "won": 7,
+      "won": 6,
       "lost": 8
     },
     "safe_a": {
       "won": 10,
-      "lost": 4
+      "lost": 3
     },
     "surprise_3": {
       "won": 2,
@@ -104,8 +104,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "30.10.2026 20:46",
-  "updatedAtUtc": "2026-10-30T20:46:00Z",
+  "updatedAt": "30.10.2026 21:07",
+  "updatedAtUtc": "2026-10-30T21:07:00Z",
   "upcoming": [
     {
       "id": "20261030-20-1",
@@ -249,6 +249,47 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "live"
+        }
+      ]
+    },
+    {
+      "id": "20261031-00-1",
+      "createdAt": "30.10.2026 21:07",
+      "createdAtUtc": "2026-10-30T21:07:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.1,
+      "winChance": 70.4,
+      "firstKickoff": "30.10.2026 22:00",
+      "lastKickoff": "30.10.2026 22:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.1,
+      "legs": [
+        {
+          "matchCode": "4435999",
+          "nesine": null,
+          "date": "30.10.2026 22:00",
+          "kickoffUtc": "2026-10-30T22:00:00Z",
+          "league": "ŞİL",
+          "home": "Coquimbo Unido",
+          "away": "Union La Calera",
+          "league_tr": "ŞİL",
+          "home_tr": "Coquimbo Unido",
+          "away_tr": "Union La Calera",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 71.59,
+          "patternScore": 70.4,
+          "patternText": "325.220/461.967",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
         }
       ]
     }
