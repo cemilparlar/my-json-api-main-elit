@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 02:03",
+  "updatedAt": "30.10.2026 02:22",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 90,
       "rate": 62.2
     },
-    "totalAnalyses": 296111,
-    "leagues": 536,
+    "totalAnalyses": 296144,
+    "leagues": 537,
     "pro": {
       "won": 1297,
       "lost": 564,
@@ -47,8 +47,8 @@
       "total": 99,
       "rate": 47.5
     },
-    "analyses24h": 261,
-    "analyses30d": 19259
+    "analyses24h": 291,
+    "analyses30d": 19289
   },
   "recentWins": [
     {
@@ -231,8 +231,14 @@
       "at": "29.10.2026 15:29"
     },
     {
+      "type": "updated",
+      "at": "30.10.2026 02:07",
+      "home": "DPMM FC",
+      "away": "Negeri Sembilan FC"
+    },
+    {
       "type": "analysis",
-      "count": 261
+      "count": 291
     }
   ],
   "today": {
