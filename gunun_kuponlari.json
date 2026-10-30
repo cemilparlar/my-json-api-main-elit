@@ -104,8 +104,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "30.10.2026 22:45",
-  "updatedAtUtc": "2026-10-30T22:45:00Z",
+  "updatedAt": "30.10.2026 23:04",
+  "updatedAtUtc": "2026-10-30T23:04:00Z",
   "upcoming": [
     {
       "id": "20261030-20-1",
@@ -249,6 +249,110 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "live"
+        }
+      ]
+    },
+    {
+      "id": "20261031-02-2",
+      "createdAt": "30.10.2026 23:04",
+      "createdAtUtc": "2026-10-30T23:04:00Z",
+      "size": 2,
+      "mbs": 1,
+      "totalOdds": 1.21,
+      "winChance": 49.39,
+      "firstKickoff": "31.10.2026 00:00",
+      "lastKickoff": "31.10.2026 01:05",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_2",
+      "group": "multi",
+      "formula": "2",
+      "effectiveOdds": 1.21,
+      "legs": [
+        {
+          "matchCode": "4577003",
+          "nesine": null,
+          "date": "31.10.2026 00:00",
+          "kickoffUtc": "2026-10-31T00:00:00Z",
+          "league": "BOLİ",
+          "home": "Oriente Petrol",
+          "away": "CSD Aurora",
+          "league_tr": "BOLİ",
+          "home_tr": "Oriente Petrol",
+          "away_tr": "Aurora",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.12,
+          "probability": 78.48,
+          "patternScore": 70.13,
+          "patternText": "317.267/452.390",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4513862",
+          "nesine": null,
+          "date": "31.10.2026 01:05",
+          "kickoffUtc": "2026-10-31T01:05:00Z",
+          "league": "KOL",
+          "home": "Atletico Bucaramanga",
+          "away": "Deportivo Pasto",
+          "league_tr": "KOL",
+          "home_tr": "Bucaramanga",
+          "away_tr": "Deportivo Pasto",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 78.12,
+          "patternScore": 70.43,
+          "patternText": "332.258/471.782",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261031-02-1",
+      "createdAt": "30.10.2026 23:04",
+      "createdAtUtc": "2026-10-30T23:04:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.08,
+      "winChance": 71.08,
+      "firstKickoff": "31.10.2026 01:00",
+      "lastKickoff": "31.10.2026 01:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.08,
+      "legs": [
+        {
+          "matchCode": "4503514",
+          "nesine": null,
+          "date": "31.10.2026 01:00",
+          "kickoffUtc": "2026-10-31T01:00:00Z",
+          "league": "MEK2",
+          "home": "Correcaminos UAT",
+          "away": "Venados FC",
+          "league_tr": "MEK2",
+          "home_tr": "Correcaminos U",
+          "away_tr": "Venados Fc",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 74.29,
+          "patternScore": 71.08,
+          "patternText": "217.022/305.336",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
         }
       ]
     }

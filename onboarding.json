@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 22:45",
+  "updatedAt": "30.10.2026 23:04",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 116,
       "rate": 61.2
     },
-    "totalAnalyses": 297210,
+    "totalAnalyses": 297217,
     "leagues": 538,
     "pro": {
-      "won": 1113,
-      "lost": 487,
-      "total": 1600,
+      "won": 1110,
+      "lost": 485,
+      "total": 1595,
       "rate": 69.6
     },
     "insights": {
-      "won": 1898,
-      "lost": 835,
-      "total": 2733,
-      "rate": 69.4
+      "won": 1892,
+      "lost": 832,
+      "total": 2724,
+      "rate": 69.5
     },
     "coupons": {
       "won": 40,
@@ -48,7 +48,7 @@
       "rate": 51.3
     },
     "analyses24h": 314,
-    "analyses30d": 19412
+    "analyses30d": 19409
   },
   "recentWins": [
     {
@@ -222,26 +222,20 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.08,
+      "at": "30.10.2026 23:04"
+    },
+    {
+      "type": "coupon",
+      "size": 2,
+      "odds": 1.21,
+      "at": "30.10.2026 23:04"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.1,
       "at": "30.10.2026 21:07"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.11,
-      "at": "30.10.2026 19:13"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.07,
-      "at": "30.10.2026 17:12"
-    },
-    {
-      "type": "updated",
-      "at": "30.10.2026 16:46",
-      "home": "Reggiana",
-      "away": "SS Sambenedettese"
     },
     {
       "type": "updated",
@@ -257,15 +251,21 @@
     },
     {
       "type": "updated",
-      "at": "30.10.2026 18:37",
-      "home": "Atletico Madrid B",
-      "away": "AD Alcorcon"
-    },
-    {
-      "type": "updated",
       "at": "30.10.2026 21:16",
       "home": "SC Corinthians",
       "away": "Mirassol FC"
+    },
+    {
+      "type": "updated",
+      "at": "30.10.2026 22:55",
+      "home": "CA Sarmiento",
+      "away": "Rosario Central"
+    },
+    {
+      "type": "updated",
+      "at": "30.10.2026 22:55",
+      "home": "Correcaminos UAT",
+      "away": "Venados FC"
     }
   ],
   "today": {
@@ -276,7 +276,7 @@
     "matchCode": "4475925",
     "odds": 1.8,
     "patternScore": 66.35,
-    "patternText": "179.774/270.963",
+    "patternText": "179.778/270.969",
     "picks": 7
   },
   "todayList": [
@@ -288,7 +288,7 @@
       "matchCode": "4475925",
       "odds": 1.8,
       "patternScore": 66.35,
-      "patternText": "179.774/270.963",
+      "patternText": "179.778/270.969",
       "picks": 7
     },
     {
@@ -299,7 +299,7 @@
       "matchCode": "4573665",
       "odds": 1.6,
       "patternScore": 67.12,
-      "patternText": "168.917/251.649",
+      "patternText": "168.921/251.655",
       "picks": 6
     },
     {
@@ -310,7 +310,7 @@
       "matchCode": "4532536",
       "odds": 1.17,
       "patternScore": 69.82,
-      "patternText": "301.814/432.252",
+      "patternText": "301.846/432.292",
       "picks": 1
     },
     {
@@ -321,7 +321,7 @@
       "matchCode": "4475928",
       "odds": 1.15,
       "patternScore": 67.59,
-      "patternText": "187.941/278.072",
+      "patternText": "187.945/278.078",
       "picks": 2
     },
     {
@@ -332,7 +332,7 @@
       "matchCode": "4503514",
       "odds": 1.15,
       "patternScore": 69.49,
-      "patternText": "275.520/396.504",
+      "patternText": "275.542/396.530",
       "picks": 2
     }
   ],
