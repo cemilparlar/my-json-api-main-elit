@@ -92,50 +92,9 @@
       "lost": 1
     }
   },
-  "updatedAt": "30.10.2026 07:00",
-  "updatedAtUtc": "2026-10-30T07:00:00Z",
+  "updatedAt": "30.10.2026 07:21",
+  "updatedAtUtc": "2026-10-30T07:21:00Z",
   "upcoming": [
-    {
-      "id": "20261030-00-1",
-      "createdAt": "29.10.2026 21:00",
-      "createdAtUtc": "2026-10-29T21:00:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.07,
-      "winChance": 71.98,
-      "firstKickoff": "29.10.2026 23:15",
-      "lastKickoff": "29.10.2026 23:15",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.07,
-      "legs": [
-        {
-          "matchCode": "4513859",
-          "nesine": null,
-          "date": "29.10.2026 23:15",
-          "kickoffUtc": "2026-10-29T23:15:00Z",
-          "league": "KOL",
-          "home": "America de Cali",
-          "away": "Fortaleza EC",
-          "league_tr": "KOL",
-          "home_tr": "America De Cal",
-          "away_tr": "Fortaleza",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.07,
-          "probability": 82.76,
-          "patternScore": 71.98,
-          "patternText": "177.399/246.458",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261030-03-1",
       "createdAt": "30.10.2026 00:11",
@@ -179,6 +138,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261030-00-1",
+      "createdAt": "29.10.2026 21:00",
+      "createdAtUtc": "2026-10-29T21:00:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.07,
+      "winChance": 71.98,
+      "firstKickoff": "29.10.2026 23:15",
+      "lastKickoff": "29.10.2026 23:15",
+      "status": "void",
+      "completedAt": "30.10.2026 07:21",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.0,
+      "legs": [
+        {
+          "matchCode": "4513859",
+          "nesine": null,
+          "date": "29.10.2026 23:15",
+          "kickoffUtc": "2026-10-29T23:15:00Z",
+          "league": "KOL",
+          "home": "America de Cali",
+          "away": "Fortaleza EC",
+          "league_tr": "KOL",
+          "home_tr": "America De Cal",
+          "away_tr": "Fortaleza",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.07,
+          "probability": 82.76,
+          "patternScore": 71.98,
+          "patternText": "177.399/246.458",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "void"
+        }
+      ]
+    },
     {
       "id": "20261029-18-1",
       "createdAt": "29.10.2026 15:29",
