@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 07:21",
+  "updatedAt": "30.10.2026 07:52",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 53,
+      "won": 51,
       "lost": 32,
-      "total": 85,
-      "rate": 62.4
+      "total": 83,
+      "rate": 61.4
     },
-    "totalAnalyses": 296296,
+    "totalAnalyses": 296321,
     "leagues": 537,
     "pro": {
       "won": 1296,
@@ -47,7 +47,7 @@
       "total": 94,
       "rate": 46.8
     },
-    "analyses24h": 284,
+    "analyses24h": 282,
     "analyses30d": 19276
   },
   "recentWins": [
@@ -244,32 +244,21 @@
     },
     {
       "type": "analysis",
-      "count": 284
+      "count": 282
     }
   ],
   "today": {
-    "home": "DPMM FC",
-    "away": "Negeri Sembilan FC",
-    "league": "MALES",
-    "date": "30.10.2026 08:00",
-    "matchCode": "4537646",
-    "odds": 1.38,
-    "patternScore": 68.21,
-    "patternText": "178.355/261.461",
-    "picks": 1
+    "home": "Sisaket United",
+    "away": "Ratchaburi Mitr Phol FC",
+    "league": "TAY",
+    "date": "30.10.2026 12:00",
+    "matchCode": "4539094",
+    "odds": 1.28,
+    "patternScore": 68.56,
+    "patternText": "130.410/190.222",
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "DPMM FC",
-      "away": "Negeri Sembilan FC",
-      "league": "MALES",
-      "date": "30.10.2026 08:00",
-      "matchCode": "4537646",
-      "odds": 1.38,
-      "patternScore": 68.21,
-      "patternText": "178.355/261.461",
-      "picks": 1
-    },
     {
       "home": "Sisaket United",
       "away": "Ratchaburi Mitr Phol FC",
@@ -312,6 +301,17 @@
       "odds": 1.15,
       "patternScore": 68.3,
       "patternText": "235.051/344.155",
+      "picks": 1
+    },
+    {
+      "home": "Bac Ninh",
+      "away": "Lg Hn Acb",
+      "league": "VİET",
+      "date": "30.10.2026 11:00",
+      "matchCode": "4551343",
+      "odds": 1.12,
+      "patternScore": 70.22,
+      "patternText": "266.161/379.013",
       "picks": 1
     }
   ],
