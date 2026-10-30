@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 14:12",
+  "updatedAt": "30.10.2026 14:30",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 110,
       "rate": 64.5
     },
-    "totalAnalyses": 296676,
+    "totalAnalyses": 296688,
     "leagues": 536,
     "pro": {
-      "won": 1279,
-      "lost": 545,
-      "total": 1824,
+      "won": 1277,
+      "lost": 544,
+      "total": 1821,
       "rate": 70.1
     },
     "insights": {
-      "won": 2149,
-      "lost": 930,
-      "total": 3079,
+      "won": 2147,
+      "lost": 929,
+      "total": 3076,
       "rate": 69.8
     },
     "coupons": {
@@ -51,6 +51,19 @@
     "analyses30d": 19268
   },
   "recentWins": [
+    {
+      "home": "Tanjong Pagar United",
+      "away": "Albirex Niigata",
+      "league": "SİNP",
+      "date": "30.10.2026 11:30",
+      "prediction": "Handicap (1:0) 1",
+      "odds": 2.59,
+      "probability": 75.0,
+      "patternScore": 64.33,
+      "firstHalf": "0 - 0",
+      "finalScore": "1 - 1",
+      "pro": true
+    },
     {
       "home": "Sporting Liest",
       "away": "Fc Bacau",
@@ -102,19 +115,6 @@
       "firstHalf": "1 - 1",
       "finalScore": "2 - 2",
       "pro": false
-    },
-    {
-      "home": "St. Louis City SC",
-      "away": "Portland Timbers",
-      "league": "ABD",
-      "date": "29.10.2026 00:30",
-      "prediction": "Handicap (0:1) 2",
-      "odds": 1.57,
-      "probability": 75.0,
-      "patternScore": 63.38,
-      "firstHalf": "0 - 2",
-      "finalScore": "2 - 3",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -135,6 +135,14 @@
     }
   ],
   "ticker": [
+    {
+      "type": "won",
+      "home": "Tanjong Pagar United",
+      "away": "Albirex Niigata",
+      "prediction": "Handicap (1:0) 1",
+      "odds": 2.59,
+      "at": "30.10.2026 11:30"
+    },
     {
       "type": "won",
       "home": "Sporting Liest",
@@ -160,14 +168,6 @@
       "at": "29.10.2026 19:00"
     },
     {
-      "type": "won",
-      "home": "Qatar U23",
-      "away": "Al Markhiya",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.58,
-      "at": "28.10.2026 14:15"
-    },
-    {
       "type": "coupon",
       "size": 1,
       "odds": 1.07,
@@ -187,12 +187,6 @@
     },
     {
       "type": "kickoff",
-      "home": "Foolad Khuzest",
-      "away": "Shahrdari Arak",
-      "at": "30.10.2026 14:30"
-    },
-    {
-      "type": "kickoff",
       "home": "FK Vlasim",
       "away": "FK Usti nad Labem",
       "at": "30.10.2026 16:00"
@@ -209,8 +203,8 @@
     "date": "30.10.2026 19:30",
     "matchCode": "4535554",
     "odds": 1.34,
-    "patternScore": 68.19,
-    "patternText": "220.492/323.331",
+    "patternScore": 68.2,
+    "patternText": "220.562/323.417",
     "picks": 3
   },
   "todayList": [
@@ -221,8 +215,8 @@
       "date": "30.10.2026 19:30",
       "matchCode": "4535554",
       "odds": 1.34,
-      "patternScore": 68.19,
-      "patternText": "220.492/323.331",
+      "patternScore": 68.2,
+      "patternText": "220.562/323.417",
       "picks": 3
     },
     {
@@ -233,7 +227,7 @@
       "matchCode": "4535167",
       "odds": 1.1,
       "patternScore": 69.41,
-      "patternText": "245.848/354.202",
+      "patternText": "245.934/354.304",
       "picks": 1
     },
     {
@@ -243,8 +237,8 @@
       "date": "30.10.2026 16:00",
       "matchCode": "4504122",
       "odds": 1.1,
-      "patternScore": 70.22,
-      "patternText": "281.674/401.110",
+      "patternScore": 70.23,
+      "patternText": "281.772/401.224",
       "picks": 1
     },
     {
@@ -254,8 +248,8 @@
       "date": "30.10.2026 18:00",
       "matchCode": "4507617",
       "odds": 1.09,
-      "patternScore": 70.42,
-      "patternText": "318.326/452.020",
+      "patternScore": 70.43,
+      "patternText": "318.424/452.134",
       "picks": 2
     },
     {
@@ -266,7 +260,7 @@
       "matchCode": "4507618",
       "odds": 1.08,
       "patternScore": 70.26,
-      "patternText": "311.460/443.314",
+      "patternText": "311.582/443.452",
       "picks": 1
     }
   ],
