@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 04:44",
+  "updatedAt": "30.10.2026 05:10",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 85,
       "rate": 62.4
     },
-    "totalAnalyses": 296177,
+    "totalAnalyses": 296207,
     "leagues": 537,
     "pro": {
       "won": 1297,
@@ -231,6 +231,12 @@
       "away": "Negeri Sembilan FC"
     },
     {
+      "type": "kickoff",
+      "home": "DPMM FC",
+      "away": "Negeri Sembilan FC",
+      "at": "30.10.2026 08:00"
+    },
+    {
       "type": "analysis",
       "count": 284
     }
@@ -256,6 +262,17 @@
       "odds": 1.38,
       "patternScore": 68.21,
       "patternText": "178.355/261.461",
+      "picks": 1
+    },
+    {
+      "home": "Bac Ninh",
+      "away": "Lg Hn Acb",
+      "league": "VİET",
+      "date": "30.10.2026 11:00",
+      "matchCode": "4551343",
+      "odds": 1.12,
+      "patternScore": 70.22,
+      "patternText": "266.161/379.013",
       "picks": 1
     },
     {
@@ -289,17 +306,6 @@
       "odds": 1.22,
       "patternScore": 70.01,
       "patternText": "127.743/182.463",
-      "picks": 1
-    },
-    {
-      "home": "Zob Ahan Fc",
-      "away": "Esteghlal Khuze",
-      "league": "IRAN",
-      "date": "30.10.2026 12:00",
-      "matchCode": "4571535",
-      "odds": 1.19,
-      "patternScore": 69.19,
-      "patternText": "223.584/323.125",
       "picks": 1
     }
   ],
