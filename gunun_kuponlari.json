@@ -1,10 +1,6 @@
 {
   "version": 1,
   "stats7": {
-    "legacy": {
-      "won": 2,
-      "lost": 0
-    },
     "safe": {
       "won": 29,
       "lost": 17
@@ -92,8 +88,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "30.10.2026 14:48",
-  "updatedAtUtc": "2026-10-30T14:48:00Z",
+  "updatedAt": "30.10.2026 15:06",
+  "updatedAtUtc": "2026-10-30T15:06:00Z",
   "upcoming": [
     {
       "id": "20261030-14-1",
@@ -322,6 +318,47 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "live"
+        }
+      ]
+    },
+    {
+      "id": "20261030-18-1",
+      "createdAt": "30.10.2026 15:06",
+      "createdAtUtc": "2026-10-30T15:06:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.1,
+      "winChance": 70.23,
+      "firstKickoff": "30.10.2026 16:00",
+      "lastKickoff": "30.10.2026 16:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.1,
+      "legs": [
+        {
+          "matchCode": "4504122",
+          "nesine": null,
+          "date": "30.10.2026 16:00",
+          "kickoffUtc": "2026-10-30T16:00:00Z",
+          "league": "ÇEK2",
+          "home": "FK Vlasim",
+          "away": "FK Usti nad Labem",
+          "league_tr": "ÇEK2",
+          "home_tr": "Vlasim",
+          "away_tr": "Usti Nad Labem",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 75.54,
+          "patternScore": 70.23,
+          "patternText": "281.772/401.224",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
         }
       ]
     }

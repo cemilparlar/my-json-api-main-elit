@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 14:48",
+  "updatedAt": "30.10.2026 15:06",
   "config": {
     "pages": [
       "engine",
@@ -27,28 +27,28 @@
       "total": 110,
       "rate": 64.5
     },
-    "totalAnalyses": 296713,
+    "totalAnalyses": 296741,
     "leagues": 536,
     "pro": {
-      "won": 1273,
-      "lost": 540,
-      "total": 1813,
+      "won": 1268,
+      "lost": 538,
+      "total": 1806,
       "rate": 70.2
     },
     "insights": {
-      "won": 2142,
-      "lost": 924,
-      "total": 3066,
+      "won": 2130,
+      "lost": 919,
+      "total": 3049,
       "rate": 69.9
     },
     "coupons": {
-      "won": 45,
+      "won": 44,
       "lost": 45,
-      "total": 90,
-      "rate": 50.0
+      "total": 89,
+      "rate": 49.4
     },
     "analyses24h": 280,
-    "analyses30d": 19268
+    "analyses30d": 19257
   },
   "recentWins": [
     {
@@ -62,19 +62,6 @@
       "patternScore": 64.33,
       "firstHalf": "0 - 0",
       "finalScore": "1 - 1",
-      "pro": true
-    },
-    {
-      "home": "Sporting Liest",
-      "away": "Fc Bacau",
-      "league": "ROMK",
-      "date": "28.10.2026 13:00",
-      "prediction": "1st Half Under 1.5",
-      "odds": 1.87,
-      "probability": 100.0,
-      "patternScore": 56.79,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 0",
       "pro": true
     },
     {
@@ -115,6 +102,19 @@
       "firstHalf": "1 - 1",
       "finalScore": "2 - 2",
       "pro": false
+    },
+    {
+      "home": "St. Louis City SC",
+      "away": "Portland Timbers",
+      "league": "ABD",
+      "date": "29.10.2026 00:30",
+      "prediction": "Handicap (0:1) 2",
+      "odds": 1.57,
+      "probability": 75.0,
+      "patternScore": 63.38,
+      "firstHalf": "0 - 2",
+      "finalScore": "2 - 3",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -145,14 +145,6 @@
     },
     {
       "type": "won",
-      "home": "Sporting Liest",
-      "away": "Fc Bacau",
-      "prediction": "1st Half Under 1.5",
-      "odds": 1.87,
-      "at": "28.10.2026 13:00"
-    },
-    {
-      "type": "won",
       "home": "SD Guijuelo",
       "away": "Sporting Gijon",
       "prediction": "Both Teams to Score - Yes",
@@ -168,6 +160,20 @@
       "at": "29.10.2026 19:00"
     },
     {
+      "type": "won",
+      "home": "Qatar U23",
+      "away": "Al Markhiya",
+      "prediction": "Over 2.5 Goals",
+      "odds": 1.58,
+      "at": "28.10.2026 14:15"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
+      "odds": 1.1,
+      "at": "30.10.2026 15:06"
+    },
+    {
       "type": "coupon",
       "size": 1,
       "odds": 1.07,
@@ -180,16 +186,22 @@
       "at": "30.10.2026 11:00"
     },
     {
-      "type": "coupon",
-      "size": 2,
-      "odds": 1.19,
-      "at": "30.10.2026 11:00"
-    },
-    {
       "type": "kickoff",
       "home": "FK Vlasim",
       "away": "FK Usti nad Labem",
       "at": "30.10.2026 16:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Steinbach",
+      "away": "Fsv Frankfurt",
+      "at": "30.10.2026 18:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "FC Homburg",
+      "away": "Eintracht Trier",
+      "at": "30.10.2026 18:00"
     },
     {
       "type": "analysis",
