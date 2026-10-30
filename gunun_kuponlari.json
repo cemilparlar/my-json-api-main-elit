@@ -38,11 +38,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 0,
+      "won": 1,
       "lost": 1
     },
     "c70_1": {
-      "won": 0,
+      "won": 1,
       "lost": 1
     }
   },
@@ -84,58 +84,17 @@
       "lost": 9
     },
     "multi": {
-      "won": 0,
+      "won": 1,
       "lost": 1
     },
     "c70_1": {
-      "won": 0,
+      "won": 1,
       "lost": 1
     }
   },
-  "updatedAt": "30.10.2026 13:00",
-  "updatedAtUtc": "2026-10-30T13:00:00Z",
+  "updatedAt": "30.10.2026 13:18",
+  "updatedAtUtc": "2026-10-30T13:18:00Z",
   "upcoming": [
-    {
-      "id": "20261030-12-1",
-      "createdAt": "30.10.2026 09:00",
-      "createdAtUtc": "2026-10-30T09:00:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.1,
-      "winChance": 70.88,
-      "firstKickoff": "30.10.2026 10:00",
-      "lastKickoff": "30.10.2026 10:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.1,
-      "legs": [
-        {
-          "matchCode": "4551342",
-          "nesine": null,
-          "date": "30.10.2026 10:00",
-          "kickoffUtc": "2026-10-30T10:00:00Z",
-          "league": "VİET",
-          "home": "Dong A Thanh Hoa",
-          "away": "Hong Linh Ha Tinh",
-          "league_tr": "VİET",
-          "home_tr": "Thanh Hoa",
-          "away_tr": "Hong Linh Ha Ti",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.1,
-          "probability": 82.35,
-          "patternScore": 70.88,
-          "patternText": "133.022/187.663",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261030-14-1",
       "createdAt": "30.10.2026 11:00",
@@ -368,6 +327,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261030-12-1",
+      "createdAt": "30.10.2026 09:00",
+      "createdAtUtc": "2026-10-30T09:00:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.1,
+      "winChance": 70.88,
+      "firstKickoff": "30.10.2026 10:00",
+      "lastKickoff": "30.10.2026 10:00",
+      "status": "won",
+      "completedAt": "30.10.2026 13:18",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.1,
+      "legs": [
+        {
+          "matchCode": "4551342",
+          "nesine": null,
+          "date": "30.10.2026 10:00",
+          "kickoffUtc": "2026-10-30T10:00:00Z",
+          "league": "VİET",
+          "home": "Dong A Thanh Hoa",
+          "away": "Hong Linh Ha Tinh",
+          "league_tr": "VİET",
+          "home_tr": "Thanh Hoa",
+          "away_tr": "Hong Linh Ha Ti",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.1,
+          "probability": 82.35,
+          "patternScore": 70.88,
+          "patternText": "133.022/187.663",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 1",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261030-03-1",
       "createdAt": "30.10.2026 00:11",
