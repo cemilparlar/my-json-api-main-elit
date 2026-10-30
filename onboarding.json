@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 11:19",
+  "updatedAt": "30.10.2026 12:08",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 83,
       "rate": 61.4
     },
-    "totalAnalyses": 296461,
+    "totalAnalyses": 296471,
     "leagues": 536,
     "pro": {
-      "won": 1289,
-      "lost": 560,
-      "total": 1849,
+      "won": 1287,
+      "lost": 559,
+      "total": 1846,
       "rate": 69.7
     },
     "insights": {
-      "won": 2168,
-      "lost": 960,
-      "total": 3128,
-      "rate": 69.3
+      "won": 2164,
+      "lost": 952,
+      "total": 3116,
+      "rate": 69.4
     },
     "coupons": {
       "won": 44,
@@ -232,21 +232,21 @@
     },
     {
       "type": "kickoff",
-      "home": "Sisaket United",
-      "away": "Ratchaburi Mitr Phol FC",
-      "at": "30.10.2026 12:00"
+      "home": "Dibba Al-Hisn",
+      "away": "Dubai City",
+      "at": "30.10.2026 12:50"
     },
     {
       "type": "kickoff",
-      "home": "Slask Wroclaw",
-      "away": "Katowice Women",
-      "at": "30.10.2026 12:00"
+      "home": "Emirates Club",
+      "away": "Dibba Al Fujairah",
+      "at": "30.10.2026 12:50"
     },
     {
       "type": "kickoff",
-      "home": "Zob Ahan Fc",
-      "away": "Esteghlal Khuze",
-      "at": "30.10.2026 12:00"
+      "home": "Kataka",
+      "away": "Police",
+      "at": "30.10.2026 13:00"
     },
     {
       "type": "analysis",
@@ -254,50 +254,17 @@
     }
   ],
   "today": {
-    "home": "Sisaket United",
-    "away": "Ratchaburi Mitr Phol FC",
-    "league": "TAY",
-    "date": "30.10.2026 12:00",
-    "matchCode": "4539094",
-    "odds": 1.28,
-    "patternScore": 68.56,
-    "patternText": "130.410/190.222",
+    "home": "Foolad Khuzest",
+    "away": "Shahrdari Arak",
+    "league": "IRAN",
+    "date": "30.10.2026 14:30",
+    "matchCode": "4571540",
+    "odds": 1.16,
+    "patternScore": 68.47,
+    "patternText": "225.463/329.271",
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "Sisaket United",
-      "away": "Ratchaburi Mitr Phol FC",
-      "league": "TAY",
-      "date": "30.10.2026 12:00",
-      "matchCode": "4539094",
-      "odds": 1.28,
-      "patternScore": 68.56,
-      "patternText": "130.410/190.222",
-      "picks": 2
-    },
-    {
-      "home": "Sheger Ketema",
-      "away": "Negele Arsi Ket",
-      "league": "ETH",
-      "date": "30.10.2026 12:00",
-      "matchCode": "4571938",
-      "odds": 1.22,
-      "patternScore": 70.01,
-      "patternText": "127.743/182.463",
-      "picks": 1
-    },
-    {
-      "home": "Zob Ahan Fc",
-      "away": "Esteghlal Khuze",
-      "league": "IRAN",
-      "date": "30.10.2026 12:00",
-      "matchCode": "4571535",
-      "odds": 1.19,
-      "patternScore": 69.19,
-      "patternText": "223.584/323.125",
-      "picks": 1
-    },
     {
       "home": "Foolad Khuzest",
       "away": "Shahrdari Arak",
@@ -318,6 +285,39 @@
       "odds": 1.15,
       "patternScore": 68.3,
       "patternText": "235.051/344.155",
+      "picks": 1
+    },
+    {
+      "home": "Kataka",
+      "away": "Police",
+      "league": "UGA",
+      "date": "30.10.2026 13:00",
+      "matchCode": "4547656",
+      "odds": 1.11,
+      "patternScore": 70.05,
+      "patternText": "448.428/640.177",
+      "picks": 1
+    },
+    {
+      "home": "FK Vlasim",
+      "away": "FK Usti nad Labem",
+      "league": "ÇEK2",
+      "date": "30.10.2026 16:00",
+      "matchCode": "4504122",
+      "odds": 1.1,
+      "patternScore": 70.22,
+      "patternText": "281.628/401.058",
+      "picks": 1
+    },
+    {
+      "home": "Emirates Club",
+      "away": "Dibba Al Fujairah",
+      "league": "BAE2",
+      "date": "30.10.2026 12:50",
+      "matchCode": "4574624",
+      "odds": 1.1,
+      "patternScore": 70.8,
+      "patternText": "346.836/489.885",
       "picks": 1
     }
   ],
