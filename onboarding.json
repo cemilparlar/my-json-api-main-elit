@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 00:27",
+  "updatedAt": "30.10.2026 00:42",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 72,
-      "lost": 37,
-      "total": 109,
-      "rate": 66.1
+      "won": 58,
+      "lost": 34,
+      "total": 92,
+      "rate": 63.0
     },
-    "totalAnalyses": 296051,
+    "totalAnalyses": 296055,
     "leagues": 536,
     "pro": {
-      "won": 1301,
-      "lost": 574,
-      "total": 1875,
-      "rate": 69.4
+      "won": 1299,
+      "lost": 565,
+      "total": 1864,
+      "rate": 69.7
     },
     "insights": {
-      "won": 2194,
-      "lost": 977,
-      "total": 3171,
-      "rate": 69.2
+      "won": 2192,
+      "lost": 968,
+      "total": 3160,
+      "rate": 69.4
     },
     "coupons": {
       "won": 49,
@@ -47,8 +47,8 @@
       "total": 102,
       "rate": 48.0
     },
-    "analyses24h": 261,
-    "analyses30d": 19245
+    "analyses24h": 240,
+    "analyses30d": 19241
   },
   "recentWins": [
     {
@@ -231,45 +231,22 @@
       "at": "29.10.2026 15:29"
     },
     {
-      "type": "updated",
-      "at": "30.10.2026 00:16",
-      "home": "LD Alajuelense",
-      "away": "Club Deportivo Motagua"
-    },
-    {
-      "type": "kickoff",
-      "home": "LD Alajuelense",
-      "away": "Club Deportivo Motagua",
-      "at": "30.10.2026 02:00"
-    },
-    {
       "type": "analysis",
-      "count": 261
+      "count": 240
     }
   ],
   "today": {
-    "home": "LD Alajuelense",
-    "away": "Club Deportivo Motagua",
-    "league": "CONOAK",
-    "date": "30.10.2026 02:00",
-    "matchCode": "4575448",
-    "odds": 1.12,
-    "patternScore": 70.36,
-    "patternText": "245.936/349.543",
-    "picks": 1
+    "home": "Sisaket United",
+    "away": "Ratchaburi Mitr Phol FC",
+    "league": "TAY",
+    "date": "30.10.2026 12:00",
+    "matchCode": "4539094",
+    "odds": 1.28,
+    "patternScore": 68.56,
+    "patternText": "130.410/190.222",
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "LD Alajuelense",
-      "away": "Club Deportivo Motagua",
-      "league": "CONOAK",
-      "date": "30.10.2026 02:00",
-      "matchCode": "4575448",
-      "odds": 1.12,
-      "patternScore": 70.36,
-      "patternText": "245.936/349.543",
-      "picks": 1
-    },
     {
       "home": "Sisaket United",
       "away": "Ratchaburi Mitr Phol FC",
@@ -313,6 +290,17 @@
       "patternScore": 70.22,
       "patternText": "266.161/379.013",
       "picks": 1
+    },
+    {
+      "home": "DPMM FC",
+      "away": "Negeri Sembilan FC",
+      "league": "MALES",
+      "date": "30.10.2026 08:00",
+      "matchCode": "4537646",
+      "odds": 1.11,
+      "patternScore": 69.92,
+      "patternText": "205.777/294.321",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
