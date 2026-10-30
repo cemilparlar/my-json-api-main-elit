@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "30.10.2026 20:28",
+  "updatedAt": "30.10.2026 20:46",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 71,
       "rate": 62.0
     },
-    "totalAnalyses": 297104,
+    "totalAnalyses": 297123,
     "leagues": 536,
     "pro": {
       "won": 1113,
@@ -36,19 +36,19 @@
       "rate": 69.6
     },
     "insights": {
-      "won": 1889,
-      "lost": 832,
-      "total": 2721,
+      "won": 1888,
+      "lost": 831,
+      "total": 2719,
       "rate": 69.4
     },
     "coupons": {
       "won": 43,
-      "lost": 43,
-      "total": 86,
-      "rate": 50.0
+      "lost": 42,
+      "total": 85,
+      "rate": 50.6
     },
-    "analyses24h": 315,
-    "analyses30d": 19282
+    "analyses24h": 313,
+    "analyses30d": 19280
   },
   "recentWins": [
     {
@@ -91,6 +91,19 @@
       "pro": true
     },
     {
+      "home": "Le Havre AC",
+      "away": "Paris Saint-Germain",
+      "league": "FR1",
+      "date": "30.10.2026 18:00",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 1.57,
+      "probability": 100.0,
+      "patternScore": 57.23,
+      "firstHalf": "1 - 2",
+      "finalScore": "1 - 5",
+      "pro": false
+    },
+    {
       "home": "St. Louis City SC",
       "away": "Portland Timbers",
       "league": "ABD",
@@ -102,19 +115,6 @@
       "firstHalf": "0 - 2",
       "finalScore": "2 - 3",
       "pro": false
-    },
-    {
-      "home": "Kheybar Khorra",
-      "away": "Sepahan",
-      "league": "IRAN",
-      "date": "30.10.2026 14:00",
-      "prediction": "1st Half Double Chance 12",
-      "odds": 1.51,
-      "probability": 75.0,
-      "patternScore": 67.91,
-      "firstHalf": "0 - 2",
-      "finalScore": "1 - 2",
-      "pro": true
     }
   ],
   "recentCoupons": [
@@ -213,11 +213,11 @@
     },
     {
       "type": "won",
-      "home": "St. Louis City SC",
-      "away": "Portland Timbers",
-      "prediction": "Handicap (0:1) 2",
+      "home": "Le Havre AC",
+      "away": "Paris Saint-Germain",
+      "prediction": "Both Teams to Score - Yes",
       "odds": 1.57,
-      "at": "29.10.2026 00:30"
+      "at": "30.10.2026 18:00"
     },
     {
       "type": "coupon",
@@ -251,12 +251,6 @@
     },
     {
       "type": "updated",
-      "at": "30.10.2026 16:44",
-      "home": "Le Havre AC",
-      "away": "Paris Saint-Germain"
-    },
-    {
-      "type": "updated",
       "at": "30.10.2026 15:28",
       "home": "FK Vlasim",
       "away": "FK Usti nad Labem"
@@ -266,6 +260,12 @@
       "at": "30.10.2026 16:44",
       "home": "FC Volendam",
       "away": "De Graafschap"
+    },
+    {
+      "type": "updated",
+      "at": "30.10.2026 18:36",
+      "home": "Colwyn Bay",
+      "away": "Cambrian"
     }
   ],
   "today": {
@@ -276,7 +276,7 @@
     "matchCode": "4475925",
     "odds": 1.8,
     "patternScore": 66.35,
-    "patternText": "179.770/270.947",
+    "patternText": "179.772/270.949",
     "picks": 7
   },
   "todayList": [
@@ -288,7 +288,7 @@
       "matchCode": "4475925",
       "odds": 1.8,
       "patternScore": 66.35,
-      "patternText": "179.770/270.947",
+      "patternText": "179.772/270.949",
       "picks": 7
     },
     {
@@ -298,8 +298,8 @@
       "date": "30.10.2026 22:00",
       "matchCode": "4475929",
       "odds": 1.41,
-      "patternScore": 65.29,
-      "patternText": "309.106/473.460",
+      "patternScore": 65.28,
+      "patternText": "309.110/473.490",
       "picks": 7
     },
     {
@@ -310,7 +310,7 @@
       "matchCode": "4423352",
       "odds": 1.26,
       "patternScore": 67.8,
-      "patternText": "269.120/396.948",
+      "patternText": "269.120/396.950",
       "picks": 5
     },
     {
@@ -325,15 +325,15 @@
       "picks": 1
     },
     {
-      "home": "Deportivo Perez Zeledon",
-      "away": "Puntarenas FC",
-      "league": "KOSTA",
-      "date": "31.10.2026 02:00",
-      "matchCode": "4487105",
+      "home": "Bidezarra",
+      "away": "Aoiz",
+      "league": "İSTL",
+      "date": "31.10.2026 00:00",
+      "matchCode": "4532536",
       "odds": 1.17,
-      "patternScore": 69.3,
-      "patternText": "255.020/367.988",
-      "picks": 2
+      "patternScore": 69.82,
+      "patternText": "301.784/432.206",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
