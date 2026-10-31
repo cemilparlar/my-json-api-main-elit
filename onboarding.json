@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 17:22",
+  "updatedAt": "31.10.2026 17:39",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 52,
-      "lost": 42,
-      "total": 94,
-      "rate": 55.3
+      "won": 49,
+      "lost": 41,
+      "total": 90,
+      "rate": 54.4
     },
     "totalAnalyses": 299221,
     "leagues": 539,
     "pro": {
-      "won": 720,
-      "lost": 318,
-      "total": 1038,
-      "rate": 69.4
+      "won": 719,
+      "lost": 312,
+      "total": 1031,
+      "rate": 69.7
     },
     "insights": {
-      "won": 1160,
-      "lost": 530,
-      "total": 1690,
-      "rate": 68.6
+      "won": 1158,
+      "lost": 524,
+      "total": 1682,
+      "rate": 68.8
     },
     "coupons": {
-      "won": 35,
-      "lost": 36,
-      "total": 71,
-      "rate": 49.3
+      "won": 34,
+      "lost": 34,
+      "total": 68,
+      "rate": 50.0
     },
-    "analyses24h": 1537,
-    "analyses30d": 20606
+    "analyses24h": 1533,
+    "analyses30d": 20598
   },
   "recentWins": [
     {
@@ -292,17 +292,6 @@
       "picks": 2
     },
     {
-      "home": "Columbus Crew",
-      "away": "DC United",
-      "league": "ABD",
-      "date": "31.10.2026 18:00",
-      "matchCode": "4419827",
-      "odds": 1.29,
-      "patternScore": 66.49,
-      "patternText": "213.283/320.760",
-      "picks": 1
-    },
-    {
       "home": "Coritiba FBC",
       "away": "Vitoria Bahia",
       "league": "BR1",
@@ -334,6 +323,17 @@
       "patternScore": 68.72,
       "patternText": "195.519/284.504",
       "picks": 1
+    },
+    {
+      "home": "ESTAC Troyes",
+      "away": "Le Mans FC",
+      "league": "FR1",
+      "date": "31.10.2026 19:45",
+      "matchCode": "4476584",
+      "odds": 1.18,
+      "patternScore": 69.38,
+      "patternText": "359.353/517.917",
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
