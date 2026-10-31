@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 05:52",
+  "updatedAt": "31.10.2026 06:05",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 137,
       "rate": 60.6
     },
-    "totalAnalyses": 297542,
+    "totalAnalyses": 297558,
     "leagues": 538,
     "pro": {
-      "won": 1088,
-      "lost": 482,
-      "total": 1570,
-      "rate": 69.3
+      "won": 1080,
+      "lost": 475,
+      "total": 1555,
+      "rate": 69.5
     },
     "insights": {
-      "won": 1839,
-      "lost": 822,
-      "total": 2661,
-      "rate": 69.1
+      "won": 1825,
+      "lost": 813,
+      "total": 2638,
+      "rate": 69.2
     },
     "coupons": {
       "won": 42,
@@ -48,7 +48,7 @@
       "rate": 51.9
     },
     "analyses24h": 357,
-    "analyses30d": 19450
+    "analyses30d": 19441
   },
   "recentWins": [
     {
@@ -262,10 +262,8 @@
       "away": "Busan Transport"
     },
     {
-      "type": "kickoff",
-      "home": "Melbourne City FC",
-      "away": "Sydney FC",
-      "at": "31.10.2026 06:00"
+      "type": "analysis",
+      "count": 357
     }
   ],
   "today": {
