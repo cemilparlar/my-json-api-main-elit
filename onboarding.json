@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 14:32",
+  "updatedAt": "31.10.2026 14:50",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 98,
       "rate": 56.1
     },
-    "totalAnalyses": 298447,
+    "totalAnalyses": 298583,
     "leagues": 537,
     "pro": {
-      "won": 809,
-      "lost": 363,
-      "total": 1172,
+      "won": 807,
+      "lost": 362,
+      "total": 1169,
       "rate": 69.0
     },
     "insights": {
-      "won": 1330,
-      "lost": 624,
-      "total": 1954,
+      "won": 1328,
+      "lost": 623,
+      "total": 1951,
       "rate": 68.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 75,
       "rate": 50.7
     },
-    "analyses24h": 937,
-    "analyses30d": 20056
+    "analyses24h": 1061,
+    "analyses30d": 20180
   },
   "recentWins": [
     {
@@ -327,16 +327,58 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Eibar",
-      "away": "UD Almeria",
-      "league": "İS2",
-      "at": "31.10.2026 14:20",
-      "count": 5
+      "home": "Standard Liege",
+      "away": "KV Kortrijk",
+      "league": "BEL",
+      "at": "31.10.2026 14:51",
+      "count": 6
+    },
+    {
+      "home": "Fk Rodina Mosk",
+      "away": "FK Krasnodar",
+      "league": "RUS",
+      "at": "31.10.2026 14:45",
+      "count": 7
+    },
+    {
+      "home": "US Catanzaro",
+      "away": "Calcio Padova",
+      "league": "İTB",
+      "at": "31.10.2026 14:42",
+      "count": 4
+    },
+    {
+      "home": "Manisa FK",
+      "away": "Batman Petrolspor",
+      "league": "T1L",
+      "at": "31.10.2026 14:42",
+      "count": 2
+    },
+    {
+      "home": "Fenerbahce",
+      "away": "Goztepe",
+      "league": "TSL",
+      "at": "31.10.2026 14:40",
+      "count": 6
+    },
+    {
+      "home": "Moreirense FC",
+      "away": "CF Estrela da Amadora",
+      "league": "POR",
+      "at": "31.10.2026 14:39",
+      "count": 8
     },
     {
       "home": "Rayo Vallecano",
       "away": "Celta de Vigo",
       "league": "İS1",
+      "at": "31.10.2026 14:37",
+      "count": 9
+    },
+    {
+      "home": "Eibar",
+      "away": "UD Almeria",
+      "league": "İS2",
       "at": "31.10.2026 14:20",
       "count": 5
     },
@@ -353,48 +395,6 @@
       "league": "İNP",
       "at": "31.10.2026 14:17",
       "count": 7
-    },
-    {
-      "home": "Manchester City",
-      "away": "Brighton & Hove Albion",
-      "league": "İNP",
-      "at": "31.10.2026 14:16",
-      "count": 9
-    },
-    {
-      "home": "KV Mechelen",
-      "away": "KRC Genk",
-      "league": "BEL",
-      "at": "31.10.2026 14:14",
-      "count": 6
-    },
-    {
-      "home": "Burnley",
-      "away": "Portsmouth",
-      "league": "İNCL",
-      "at": "31.10.2026 14:03",
-      "count": 6
-    },
-    {
-      "home": "Swansea",
-      "away": "Blackburn",
-      "league": "İNCL",
-      "at": "31.10.2026 14:03",
-      "count": 8
-    },
-    {
-      "home": "Brentford",
-      "away": "Nottingham Forest",
-      "league": "İNP",
-      "at": "31.10.2026 14:02",
-      "count": 6
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "SC Freiburg",
-      "league": "AL1",
-      "at": "31.10.2026 13:54",
-      "count": 4
     }
   ],
   "paywall": {
