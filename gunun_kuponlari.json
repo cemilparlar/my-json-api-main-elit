@@ -104,50 +104,9 @@
       "lost": 1
     }
   },
-  "updatedAt": "31.10.2026 11:58",
-  "updatedAtUtc": "2026-10-31T11:58:00Z",
+  "updatedAt": "31.10.2026 12:19",
+  "updatedAtUtc": "2026-10-31T12:19:00Z",
   "upcoming": [
-    {
-      "id": "20261031-06-1",
-      "createdAt": "31.10.2026 03:23",
-      "createdAtUtc": "2026-10-31T03:23:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.08,
-      "winChance": 70.56,
-      "firstKickoff": "31.10.2026 04:00",
-      "lastKickoff": "31.10.2026 04:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.08,
-      "legs": [
-        {
-          "matchCode": "4551564",
-          "nesine": null,
-          "date": "31.10.2026 04:00",
-          "kickoffUtc": "2026-10-31T04:00:00Z",
-          "league": "AVUSTW",
-          "home": "Brisbane Roar",
-          "away": "Sydney FC Women",
-          "league_tr": "AVUSTW",
-          "home_tr": "Brisbane Roar",
-          "away_tr": "Sydney (K)",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 76.34,
-          "patternScore": 70.56,
-          "patternText": "326.106/462.157",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261031-06-3",
       "createdAt": "31.10.2026 03:23",
@@ -163,7 +122,7 @@
       "kind": "c70_3",
       "group": "multi",
       "formula": "3",
-      "effectiveOdds": 1.32,
+      "effectiveOdds": 1.19,
       "legs": [
         {
           "matchCode": "4573664",
@@ -185,7 +144,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live"
+          "status": "void"
         },
         {
           "matchCode": "4488021",
@@ -339,6 +298,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261031-06-1",
+      "createdAt": "31.10.2026 03:23",
+      "createdAtUtc": "2026-10-31T03:23:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.08,
+      "winChance": 70.56,
+      "firstKickoff": "31.10.2026 04:00",
+      "lastKickoff": "31.10.2026 04:00",
+      "status": "void",
+      "completedAt": "31.10.2026 12:19",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.0,
+      "legs": [
+        {
+          "matchCode": "4551564",
+          "nesine": null,
+          "date": "31.10.2026 04:00",
+          "kickoffUtc": "2026-10-31T04:00:00Z",
+          "league": "AVUSTW",
+          "home": "Brisbane Roar",
+          "away": "Sydney FC Women",
+          "league_tr": "AVUSTW",
+          "home_tr": "Brisbane Roar",
+          "away_tr": "Sydney (K)",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 76.34,
+          "patternScore": 70.56,
+          "patternText": "326.106/462.157",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "void"
+        }
+      ]
+    },
     {
       "id": "20261031-04-1",
       "createdAt": "31.10.2026 01:13",

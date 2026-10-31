@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 11:58",
+  "updatedAt": "31.10.2026 12:19",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 76,
-      "lost": 54,
-      "total": 130,
-      "rate": 58.5
+      "won": 67,
+      "lost": 47,
+      "total": 114,
+      "rate": 58.8
     },
-    "totalAnalyses": 297944,
+    "totalAnalyses": 298048,
     "leagues": 537,
     "pro": {
-      "won": 1008,
-      "lost": 446,
-      "total": 1454,
-      "rate": 69.3
+      "won": 984,
+      "lost": 439,
+      "total": 1423,
+      "rate": 69.1
     },
     "insights": {
-      "won": 1690,
-      "lost": 760,
-      "total": 2450,
-      "rate": 69.0
+      "won": 1632,
+      "lost": 749,
+      "total": 2381,
+      "rate": 68.5
     },
     "coupons": {
       "won": 41,
@@ -47,8 +47,8 @@
       "total": 80,
       "rate": 51.2
     },
-    "analyses24h": 630,
-    "analyses30d": 19717
+    "analyses24h": 706,
+    "analyses30d": 19809
   },
   "recentWins": [
     {
@@ -269,28 +269,17 @@
     }
   ],
   "today": {
-    "home": "Norwich City",
-    "away": "Watford",
-    "league": "İNCL",
-    "date": "31.10.2026 12:30",
-    "matchCode": "4488830",
-    "odds": 2.17,
-    "patternScore": 67.04,
-    "patternText": "282.213/420.968",
-    "picks": 1
+    "home": "MSV Duisburg",
+    "away": "VfB Stuttgart Amat.",
+    "league": "AL3",
+    "date": "31.10.2026 13:00",
+    "matchCode": "4517702",
+    "odds": 1.57,
+    "patternScore": 66.6,
+    "patternText": "218.836/328.592",
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Norwich City",
-      "away": "Watford",
-      "league": "İNCL",
-      "date": "31.10.2026 12:30",
-      "matchCode": "4488830",
-      "odds": 2.17,
-      "patternScore": 67.04,
-      "patternText": "282.213/420.968",
-      "picks": 1
-    },
     {
       "home": "MSV Duisburg",
       "away": "VfB Stuttgart Amat.",
@@ -325,18 +314,57 @@
       "picks": 3
     },
     {
-      "home": "Stoke City",
-      "away": "Preston North End",
-      "league": "İNCL",
-      "date": "31.10.2026 12:30",
-      "matchCode": "4488833",
-      "odds": 1.29,
-      "patternScore": 68.0,
-      "patternText": "190.719/280.469",
-      "picks": 2
+      "home": "Sorrento Calcio",
+      "away": "SS Altamura",
+      "league": "İTC",
+      "date": "31.10.2026 13:30",
+      "matchCode": "4535936",
+      "odds": 1.27,
+      "patternScore": 68.21,
+      "patternText": "279.431/409.670",
+      "picks": 4
+    },
+    {
+      "home": "Giugliano Calcio",
+      "away": "Casertana FC",
+      "league": "İTC",
+      "date": "31.10.2026 13:30",
+      "matchCode": "4535933",
+      "odds": 1.25,
+      "patternScore": 67.9,
+      "patternText": "278.736/410.533",
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Schalke 04",
+      "away": "RB Leipzig",
+      "league": "AL1",
+      "at": "31.10.2026 12:02",
+      "count": 5
+    },
+    {
+      "home": "FC Augsburg",
+      "away": "SC Freiburg",
+      "league": "AL1",
+      "at": "31.10.2026 12:02",
+      "count": 9
+    },
+    {
+      "home": "Dinamo Moscow",
+      "away": "Akhmat Grozny",
+      "league": "RUS",
+      "at": "31.10.2026 12:01",
+      "count": 6
+    },
+    {
+      "home": "Werder Bremen",
+      "away": "TSG Hoffenheim",
+      "league": "AL1",
+      "at": "31.10.2026 12:00",
+      "count": 7
+    },
     {
       "home": "Borussia Monchengladbach",
       "away": "SC Paderborn",
@@ -378,34 +406,6 @@
       "league": "TSL",
       "at": "31.10.2026 11:50",
       "count": 6
-    },
-    {
-      "home": "Levante UD",
-      "away": "Atletico Madrid",
-      "league": "İS1",
-      "at": "31.10.2026 11:49",
-      "count": 8
-    },
-    {
-      "home": "Norwich City",
-      "away": "Watford",
-      "league": "İNCL",
-      "at": "31.10.2026 11:48",
-      "count": 8
-    },
-    {
-      "home": "Chelsea",
-      "away": "Manchester United",
-      "league": "İNP",
-      "at": "31.10.2026 11:48",
-      "count": 7
-    },
-    {
-      "home": "Lincoln City",
-      "away": "Birmingham City",
-      "league": "İNCL",
-      "at": "31.10.2026 11:47",
-      "count": 4
     }
   ],
   "paywall": {
