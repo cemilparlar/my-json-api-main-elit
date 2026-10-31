@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 15:49",
+  "updatedAt": "31.10.2026 16:07",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 55,
-      "lost": 43,
-      "total": 98,
-      "rate": 56.1
+      "won": 52,
+      "lost": 42,
+      "total": 94,
+      "rate": 55.3
     },
-    "totalAnalyses": 298901,
+    "totalAnalyses": 298923,
     "leagues": 538,
     "pro": {
-      "won": 778,
-      "lost": 351,
-      "total": 1129,
-      "rate": 68.9
+      "won": 755,
+      "lost": 338,
+      "total": 1093,
+      "rate": 69.1
     },
     "insights": {
-      "won": 1264,
-      "lost": 600,
-      "total": 1864,
-      "rate": 67.8
+      "won": 1220,
+      "lost": 575,
+      "total": 1795,
+      "rate": 68.0
     },
     "coupons": {
       "won": 38,
@@ -47,8 +47,8 @@
       "total": 74,
       "rate": 51.4
     },
-    "analyses24h": 1326,
-    "analyses30d": 20432
+    "analyses24h": 1320,
+    "analyses30d": 20405
   },
   "recentWins": [
     {
@@ -338,6 +338,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Fk Rodina Mosk",
+      "away": "FK Krasnodar",
+      "league": "RUS",
+      "at": "31.10.2026 16:05",
+      "count": 12
+    },
+    {
       "home": "Ajax",
       "away": "AZ Alkmaar",
       "league": "HOL",
@@ -399,13 +406,6 @@
       "league": "İS2",
       "at": "31.10.2026 15:07",
       "count": 6
-    },
-    {
-      "home": "SC Cambuur",
-      "away": "Go Ahead Eagles",
-      "league": "HOL",
-      "at": "31.10.2026 15:07",
-      "count": 4
     }
   ],
   "paywall": {
