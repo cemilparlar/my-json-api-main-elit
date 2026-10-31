@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 18:57",
+  "updatedAt": "31.10.2026 19:18",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 382,
-      "lost": 157,
-      "total": 539,
-      "rate": 70.9
+      "won": 507,
+      "lost": 222,
+      "total": 729,
+      "rate": 69.5
     },
-    "totalAnalyses": 299236,
-    "leagues": 539,
+    "totalAnalyses": 299284,
+    "leagues": 538,
     "pro": {
-      "won": 849,
-      "lost": 371,
-      "total": 1220,
-      "rate": 69.6
+      "won": 902,
+      "lost": 386,
+      "total": 1288,
+      "rate": 70.0
     },
     "insights": {
-      "won": 1403,
-      "lost": 609,
-      "total": 2012,
-      "rate": 69.7
+      "won": 1515,
+      "lost": 648,
+      "total": 2163,
+      "rate": 70.0
     },
     "coupons": {
-      "won": 29,
-      "lost": 32,
-      "total": 61,
-      "rate": 47.5
+      "won": 30,
+      "lost": 34,
+      "total": 64,
+      "rate": 46.9
     },
-    "analyses24h": 1514,
-    "analyses30d": 20572
+    "analyses24h": 1517,
+    "analyses30d": 20599
   },
   "recentWins": [
     {
@@ -118,6 +118,21 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 1,
+      "totalOdds": 1.09,
+      "winChance": 70.41,
+      "completedAt": "31.10.2026 19:18",
+      "legs": [
+        {
+          "home": "FK ZP Sport Podbrezova",
+          "away": "SK Slovan Bratislava",
+          "prediction": "Double Chance 12",
+          "odds": 1.09,
+          "finalScore": "1 - 2"
+        }
+      ]
+    },
     {
       "size": 2,
       "totalOdds": 1.16,
@@ -190,21 +205,6 @@
           "finalScore": "1 - 3"
         }
       ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.1,
-      "winChance": 70.4,
-      "completedAt": "31.10.2026 03:23",
-      "legs": [
-        {
-          "home": "Coquimbo Unido",
-          "away": "Union La Calera",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
-          "finalScore": "1 - 0"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -243,6 +243,12 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.06,
+      "at": "31.10.2026 19:18"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.09,
       "at": "31.10.2026 17:07"
     },
@@ -253,16 +259,16 @@
       "at": "31.10.2026 17:07"
     },
     {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.09,
-      "at": "31.10.2026 15:10"
+      "type": "updated",
+      "at": "31.10.2026 13:54",
+      "home": "FC Augsburg",
+      "away": "SC Freiburg"
     },
     {
       "type": "updated",
-      "at": "31.10.2026 13:12",
-      "home": "Bologna FC",
-      "away": "AC Monza"
+      "at": "31.10.2026 13:53",
+      "home": "Bayer Leverkusen",
+      "away": "VfB Stuttgart"
     },
     {
       "type": "updated",
@@ -272,21 +278,15 @@
     },
     {
       "type": "updated",
-      "at": "31.10.2026 13:53",
-      "home": "Werder Bremen",
-      "away": "TSG Hoffenheim"
-    },
-    {
-      "type": "updated",
-      "at": "31.10.2026 13:13",
-      "home": "Borussia Monchengladbach",
-      "away": "SC Paderborn"
-    },
-    {
-      "type": "updated",
       "at": "31.10.2026 14:17",
       "home": "AFC Bournemouth",
       "away": "Leeds United"
+    },
+    {
+      "type": "updated",
+      "at": "31.10.2026 14:19",
+      "home": "Hull City",
+      "away": "Ipswich Town"
     }
   ],
   "today": {
@@ -296,8 +296,8 @@
     "date": "31.10.2026 20:00",
     "matchCode": "4481092",
     "odds": 1.32,
-    "patternScore": 67.66,
-    "patternText": "270.897/400.383",
+    "patternScore": 67.67,
+    "patternText": "271.991/401.941",
     "picks": 2
   },
   "todayList": [
@@ -308,42 +308,9 @@
       "date": "31.10.2026 20:00",
       "matchCode": "4481092",
       "odds": 1.32,
-      "patternScore": 67.66,
-      "patternText": "270.897/400.383",
+      "patternScore": 67.67,
+      "patternText": "271.991/401.941",
       "picks": 2
-    },
-    {
-      "home": "FC Lorient",
-      "away": "Stade Brest",
-      "league": "FR1",
-      "date": "31.10.2026 19:45",
-      "matchCode": "4476578",
-      "odds": 1.2,
-      "patternScore": 68.75,
-      "patternText": "196.077/285.214",
-      "picks": 1
-    },
-    {
-      "home": "ESTAC Troyes",
-      "away": "Le Mans FC",
-      "league": "FR1",
-      "date": "31.10.2026 19:45",
-      "matchCode": "4476584",
-      "odds": 1.18,
-      "patternScore": 69.41,
-      "patternText": "360.431/519.307",
-      "picks": 5
-    },
-    {
-      "home": "AC Milan",
-      "away": "Inter",
-      "league": "İTA",
-      "date": "31.10.2026 19:45",
-      "matchCode": "4475139",
-      "odds": 1.18,
-      "patternScore": 67.98,
-      "patternText": "306.796/451.301",
-      "picks": 3
     },
     {
       "home": "FUS Rabat",
@@ -352,12 +319,80 @@
       "date": "31.10.2026 20:00",
       "matchCode": "4576932",
       "odds": 1.17,
-      "patternScore": 68.74,
-      "patternText": "266.651/387.891",
+      "patternScore": 68.75,
+      "patternText": "267.649/389.305",
+      "picks": 2
+    },
+    {
+      "home": "Albacete Balompie",
+      "away": "CE Sabadell",
+      "league": "İS2",
+      "date": "31.10.2026 20:00",
+      "matchCode": "4492800",
+      "odds": 1.15,
+      "patternScore": 67.67,
+      "patternText": "290.778/429.715",
+      "picks": 2
+    },
+    {
+      "home": "Velez Sarsfiel",
+      "away": "San Lorenzo",
+      "league": "ARJ",
+      "date": "31.10.2026 22:15",
+      "matchCode": "4475922",
+      "odds": 1.09,
+      "patternScore": 66.3,
+      "patternText": "320.012/482.707",
+      "picks": 3
+    },
+    {
+      "home": "Real Zaragoza",
+      "away": "Villarreal B",
+      "league": "İS3",
+      "date": "31.10.2026 20:00",
+      "matchCode": "4493620",
+      "odds": 1.08,
+      "patternScore": 69.8,
+      "patternText": "177.554/254.385",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Arouca",
+      "away": "CD Nacional",
+      "league": "POR",
+      "at": "31.10.2026 19:19",
+      "count": 8
+    },
+    {
+      "home": "LA Galaxy",
+      "away": "Austin FC",
+      "league": "ABD",
+      "at": "31.10.2026 19:02",
+      "count": 5
+    },
+    {
+      "home": "AC Milan",
+      "away": "Inter",
+      "league": "İTA",
+      "at": "31.10.2026 19:01",
+      "count": 7
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Fulham",
+      "league": "İNP",
+      "at": "31.10.2026 19:01",
+      "count": 9
+    },
+    {
+      "home": "ESTAC Troyes",
+      "away": "Le Mans FC",
+      "league": "FR1",
+      "at": "31.10.2026 19:01",
+      "count": 7
+    },
     {
       "home": "Sporting Kansas City",
       "away": "FC Dallas",
@@ -392,41 +427,6 @@
       "league": "HOL",
       "at": "31.10.2026 16:53",
       "count": 8
-    },
-    {
-      "home": "Excelsior Rotterdam",
-      "away": "FC Twente",
-      "league": "HOL",
-      "at": "31.10.2026 16:43",
-      "count": 7
-    },
-    {
-      "home": "Aston Villa",
-      "away": "Fulham",
-      "league": "İNP",
-      "at": "31.10.2026 16:42",
-      "count": 6
-    },
-    {
-      "home": "Tottenham Hotspur",
-      "away": "Crystal Palace",
-      "league": "İNP",
-      "at": "31.10.2026 16:41",
-      "count": 5
-    },
-    {
-      "home": "Olympique Lyonnais",
-      "away": "Angers SCO",
-      "league": "FR1",
-      "at": "31.10.2026 16:41",
-      "count": 4
-    },
-    {
-      "home": "Real Betis",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "31.10.2026 16:40",
-      "count": 6
     }
   ],
   "paywall": {
