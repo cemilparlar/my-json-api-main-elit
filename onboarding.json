@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 12:19",
+  "updatedAt": "31.10.2026 12:39",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 114,
       "rate": 58.8
     },
-    "totalAnalyses": 298048,
+    "totalAnalyses": 298082,
     "leagues": 537,
     "pro": {
-      "won": 984,
-      "lost": 439,
-      "total": 1423,
+      "won": 972,
+      "lost": 435,
+      "total": 1407,
       "rate": 69.1
     },
     "insights": {
-      "won": 1632,
-      "lost": 749,
-      "total": 2381,
-      "rate": 68.5
+      "won": 1604,
+      "lost": 743,
+      "total": 2347,
+      "rate": 68.3
     },
     "coupons": {
       "won": 41,
@@ -47,8 +47,8 @@
       "total": 80,
       "rate": 51.2
     },
-    "analyses24h": 706,
-    "analyses30d": 19809
+    "analyses24h": 694,
+    "analyses30d": 19797
   },
   "recentWins": [
     {
@@ -269,37 +269,26 @@
     }
   ],
   "today": {
-    "home": "MSV Duisburg",
-    "away": "VfB Stuttgart Amat.",
-    "league": "AL3",
-    "date": "31.10.2026 13:00",
-    "matchCode": "4517702",
-    "odds": 1.57,
-    "patternScore": 66.6,
-    "patternText": "218.836/328.592",
-    "picks": 4
+    "home": "Dinamo Moscow",
+    "away": "Akhmat Grozny",
+    "league": "RUS",
+    "date": "31.10.2026 14:30",
+    "matchCode": "4485904",
+    "odds": 1.49,
+    "patternScore": 67.15,
+    "patternText": "311.933/464.520",
+    "picks": 2
   },
   "todayList": [
     {
-      "home": "MSV Duisburg",
-      "away": "VfB Stuttgart Amat.",
-      "league": "AL3",
-      "date": "31.10.2026 13:00",
-      "matchCode": "4517702",
-      "odds": 1.57,
-      "patternScore": 66.6,
-      "patternText": "218.836/328.592",
-      "picks": 4
-    },
-    {
-      "home": "Stade de Reims",
-      "away": "FC Sochaux",
-      "league": "FR2",
-      "date": "31.10.2026 13:00",
-      "matchCode": "4476907",
-      "odds": 1.44,
-      "patternScore": 68.34,
-      "patternText": "292.017/427.280",
+      "home": "Dinamo Moscow",
+      "away": "Akhmat Grozny",
+      "league": "RUS",
+      "date": "31.10.2026 14:30",
+      "matchCode": "4485904",
+      "odds": 1.49,
+      "patternScore": 67.15,
+      "patternText": "311.933/464.520",
       "picks": 2
     },
     {
@@ -311,6 +300,17 @@
       "odds": 1.43,
       "patternScore": 66.81,
       "patternText": "306.486/458.732",
+      "picks": 3
+    },
+    {
+      "home": "FC Schalke 04",
+      "away": "RB Leipzig",
+      "league": "AL1",
+      "date": "31.10.2026 14:30",
+      "matchCode": "4495501",
+      "odds": 1.43,
+      "patternScore": 67.17,
+      "patternText": "330.640/492.265",
       "picks": 3
     },
     {
@@ -341,8 +341,29 @@
       "home": "FC Schalke 04",
       "away": "RB Leipzig",
       "league": "AL1",
-      "at": "31.10.2026 12:02",
+      "at": "31.10.2026 12:38",
       "count": 5
+    },
+    {
+      "home": "Borussia Monchengladbach",
+      "away": "SC Paderborn",
+      "league": "AL1",
+      "at": "31.10.2026 12:38",
+      "count": 5
+    },
+    {
+      "home": "Bologna FC",
+      "away": "AC Monza",
+      "league": "İTA",
+      "at": "31.10.2026 12:35",
+      "count": 4
+    },
+    {
+      "home": "Levante UD",
+      "away": "Atletico Madrid",
+      "league": "İS1",
+      "at": "31.10.2026 12:31",
+      "count": 4
     },
     {
       "home": "FC Augsburg",
@@ -366,13 +387,6 @@
       "count": 7
     },
     {
-      "home": "Borussia Monchengladbach",
-      "away": "SC Paderborn",
-      "league": "AL1",
-      "at": "31.10.2026 11:59",
-      "count": 6
-    },
-    {
       "home": "Bayer Leverkusen",
       "away": "VfB Stuttgart",
       "league": "AL1",
@@ -392,20 +406,6 @@
       "league": "İTB",
       "at": "31.10.2026 11:56",
       "count": 10
-    },
-    {
-      "home": "Bologna FC",
-      "away": "AC Monza",
-      "league": "İTA",
-      "at": "31.10.2026 11:55",
-      "count": 3
-    },
-    {
-      "home": "Kocaelispor",
-      "away": "Rizespor",
-      "league": "TSL",
-      "at": "31.10.2026 11:50",
-      "count": 6
     }
   ],
   "paywall": {
