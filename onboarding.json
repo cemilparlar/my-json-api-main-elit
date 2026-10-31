@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 01:28",
+  "updatedAt": "31.10.2026 01:42",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 70,
+      "won": 69,
       "lost": 48,
-      "total": 118,
-      "rate": 59.3
+      "total": 117,
+      "rate": 59.0
     },
     "totalAnalyses": 297317,
     "leagues": 538,
@@ -47,7 +47,7 @@
       "total": 78,
       "rate": 51.3
     },
-    "analyses24h": 334,
+    "analyses24h": 333,
     "analyses30d": 19429
   },
   "recentWins": [
@@ -314,17 +314,6 @@
       "picks": 2
     },
     {
-      "home": "Deportivo Perez Zeledon",
-      "away": "Puntarenas FC",
-      "league": "KOSTA",
-      "date": "31.10.2026 02:00",
-      "matchCode": "4487105",
-      "odds": 1.15,
-      "patternScore": 69.11,
-      "patternText": "254.868/368.808",
-      "picks": 2
-    },
-    {
       "home": "Gyeongnam",
       "away": "Hwaseong FC",
       "league": "GKOR2",
@@ -334,6 +323,17 @@
       "patternScore": 69.02,
       "patternText": "276.392/400.437",
       "picks": 4
+    },
+    {
+      "home": "Fukushima Unit",
+      "away": "Matsumoto Yamag",
+      "league": "JAP3",
+      "date": "31.10.2026 05:00",
+      "matchCode": "4488017",
+      "odds": 1.13,
+      "patternScore": 69.21,
+      "patternText": "266.015/384.371",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
