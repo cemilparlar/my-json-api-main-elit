@@ -104,50 +104,9 @@
       "lost": 2
     }
   },
-  "updatedAt": "31.10.2026 22:46",
-  "updatedAtUtc": "2026-10-31T22:46:00Z",
+  "updatedAt": "31.10.2026 23:01",
+  "updatedAtUtc": "2026-10-31T23:01:00Z",
   "upcoming": [
-    {
-      "id": "20261031-16-1",
-      "createdAt": "31.10.2026 13:17",
-      "createdAtUtc": "2026-10-31T13:17:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.09,
-      "winChance": 71.45,
-      "firstKickoff": "31.10.2026 15:00",
-      "lastKickoff": "31.10.2026 15:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.09,
-      "legs": [
-        {
-          "matchCode": "4516110",
-          "nesine": null,
-          "date": "31.10.2026 15:00",
-          "kickoffUtc": "2026-10-31T15:00:00Z",
-          "league": "İCON",
-          "home": "Dover Athletic",
-          "away": "Farnham Town",
-          "league_tr": "İCON",
-          "home_tr": "Dover Athletic",
-          "away_tr": "Farnham Town",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.09,
-          "probability": 82.14,
-          "patternScore": 71.45,
-          "patternText": "354.289/495.838",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261101-00-2",
       "createdAt": "31.10.2026 21:09",
@@ -207,7 +166,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -251,9 +210,91 @@
           "status": "pending"
         }
       ]
+    },
+    {
+      "id": "20261101-02-1",
+      "createdAt": "31.10.2026 23:01",
+      "createdAtUtc": "2026-10-31T23:01:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.13,
+      "winChance": 70.19,
+      "firstKickoff": "01.11.2026 01:00",
+      "lastKickoff": "01.11.2026 01:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.13,
+      "legs": [
+        {
+          "matchCode": "4503519",
+          "nesine": null,
+          "date": "01.11.2026 01:00",
+          "kickoffUtc": "2026-11-01T01:00:00Z",
+          "league": "MEK2",
+          "home": "Durango",
+          "away": "Monarcas Morelia",
+          "league_tr": "MEK2",
+          "home_tr": "Durango",
+          "away_tr": "Monarcas",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.13,
+          "probability": 75.95,
+          "patternScore": 70.19,
+          "patternText": "277.214/394.926",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
     }
   ],
   "completed": [
+    {
+      "id": "20261031-16-1",
+      "createdAt": "31.10.2026 13:17",
+      "createdAtUtc": "2026-10-31T13:17:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.09,
+      "winChance": 71.45,
+      "firstKickoff": "31.10.2026 15:00",
+      "lastKickoff": "31.10.2026 15:00",
+      "status": "void",
+      "completedAt": "31.10.2026 23:01",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.0,
+      "legs": [
+        {
+          "matchCode": "4516110",
+          "nesine": null,
+          "date": "31.10.2026 15:00",
+          "kickoffUtc": "2026-10-31T15:00:00Z",
+          "league": "İCON",
+          "home": "Dover Athletic",
+          "away": "Farnham Town",
+          "league_tr": "İCON",
+          "home_tr": "Dover Athletic",
+          "away_tr": "Farnham Town",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.09,
+          "probability": 82.14,
+          "patternScore": 71.45,
+          "patternText": "354.289/495.838",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "void"
+        }
+      ]
+    },
     {
       "id": "20261031-22-1",
       "createdAt": "31.10.2026 19:18",
