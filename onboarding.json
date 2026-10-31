@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 23:17",
+  "updatedAt": "31.10.2026 23:32",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 585,
+      "won": 586,
       "lost": 248,
-      "total": 833,
-      "rate": 70.2
+      "total": 834,
+      "rate": 70.3
     },
-    "totalAnalyses": 299895,
+    "totalAnalyses": 299915,
     "leagues": 538,
     "pro": {
-      "won": 894,
-      "lost": 366,
-      "total": 1260,
-      "rate": 71.0
+      "won": 874,
+      "lost": 364,
+      "total": 1238,
+      "rate": 70.6
     },
     "insights": {
-      "won": 1530,
-      "lost": 640,
-      "total": 2170,
-      "rate": 70.5
+      "won": 1509,
+      "lost": 637,
+      "total": 2146,
+      "rate": 70.3
     },
     "coupons": {
       "won": 30,
@@ -47,8 +47,8 @@
       "total": 64,
       "rate": 46.9
     },
-    "analyses24h": 1962,
-    "analyses30d": 21086
+    "analyses24h": 1981,
+    "analyses30d": 21105
   },
   "recentWins": [
     {
@@ -269,28 +269,17 @@
     }
   ],
   "today": {
-    "home": "Suwon FC",
-    "away": "Ansan Greeners",
-    "league": "GKOR2",
-    "date": "01.11.2026 05:00",
-    "matchCode": "4442871",
-    "odds": 1.5,
-    "patternScore": 67.91,
-    "patternText": "214.155/315.356",
-    "picks": 2
+    "home": "Yokohama F. Marinos",
+    "away": "Kawasaki Frontale",
+    "league": "JAP",
+    "date": "01.11.2026 04:00",
+    "matchCode": "4487252",
+    "odds": 1.33,
+    "patternScore": 66.87,
+    "patternText": "229.086/342.599",
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Suwon FC",
-      "away": "Ansan Greeners",
-      "league": "GKOR2",
-      "date": "01.11.2026 05:00",
-      "matchCode": "4442871",
-      "odds": 1.5,
-      "patternScore": 67.91,
-      "patternText": "214.155/315.356",
-      "picks": 2
-    },
     {
       "home": "Yokohama F. Marinos",
       "away": "Kawasaki Frontale",
@@ -299,7 +288,7 @@
       "matchCode": "4487252",
       "odds": 1.33,
       "patternScore": 66.87,
-      "patternText": "229.070/342.583",
+      "patternText": "229.086/342.599",
       "picks": 3
     },
     {
@@ -310,7 +299,7 @@
       "matchCode": "4504409",
       "odds": 1.23,
       "patternScore": 68.16,
-      "patternText": "215.215/315.738",
+      "patternText": "215.239/315.762",
       "picks": 2
     },
     {
@@ -321,22 +310,40 @@
       "matchCode": "4475920",
       "odds": 1.21,
       "patternScore": 66.32,
-      "patternText": "333.218/502.468",
+      "patternText": "333.238/502.488",
       "picks": 5
     },
     {
-      "home": "Colorado Rapids",
-      "away": "Chicago Fire",
-      "league": "ABD",
-      "date": "01.11.2026 01:30",
-      "matchCode": "4419825",
-      "odds": 1.17,
-      "patternScore": 70.0,
-      "patternText": "160.229/228.912",
+      "home": "JEF United Chiba",
+      "away": "Avispa Fukuoka",
+      "league": "JAP",
+      "date": "01.11.2026 05:00",
+      "matchCode": "4487249",
+      "odds": 1.21,
+      "patternScore": 67.78,
+      "patternText": "176.281/260.088",
       "picks": 4
+    },
+    {
+      "home": "Suwon FC",
+      "away": "Ansan Greeners",
+      "league": "GKOR2",
+      "date": "01.11.2026 05:00",
+      "matchCode": "4442871",
+      "odds": 1.19,
+      "patternScore": 68.06,
+      "patternText": "228.029/335.026",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Racing Santander",
+      "away": "Real Madrid",
+      "league": "İS1",
+      "at": "31.10.2026 23:24",
+      "count": 13
+    },
     {
       "home": "Red Bull Bragantino",
       "away": "FC Santos",
@@ -398,13 +405,6 @@
       "away": "Toronto FC",
       "league": "ABD",
       "at": "31.10.2026 20:32",
-      "count": 10
-    },
-    {
-      "home": "SC Braga",
-      "away": "FC Famalicao",
-      "league": "POR",
-      "at": "31.10.2026 20:30",
       "count": 10
     }
   ],
