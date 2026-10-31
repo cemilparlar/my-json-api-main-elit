@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 17:39",
+  "updatedAt": "31.10.2026 18:57",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 49,
-      "lost": 41,
-      "total": 90,
-      "rate": 54.4
+      "won": 382,
+      "lost": 157,
+      "total": 539,
+      "rate": 70.9
     },
-    "totalAnalyses": 299221,
+    "totalAnalyses": 299236,
     "leagues": 539,
     "pro": {
-      "won": 719,
-      "lost": 312,
-      "total": 1031,
-      "rate": 69.7
+      "won": 849,
+      "lost": 371,
+      "total": 1220,
+      "rate": 69.6
     },
     "insights": {
-      "won": 1158,
-      "lost": 524,
-      "total": 1682,
-      "rate": 68.8
+      "won": 1403,
+      "lost": 609,
+      "total": 2012,
+      "rate": 69.7
     },
     "coupons": {
-      "won": 34,
-      "lost": 34,
-      "total": 68,
-      "rate": 50.0
+      "won": 29,
+      "lost": 32,
+      "total": 61,
+      "rate": 47.5
     },
-    "analyses24h": 1533,
-    "analyses30d": 20598
+    "analyses24h": 1514,
+    "analyses30d": 20572
   },
   "recentWins": [
     {
@@ -65,6 +65,45 @@
       "pro": true
     },
     {
+      "home": "Annecy",
+      "away": "Montpellier HSC",
+      "league": "FR2",
+      "date": "31.10.2026 13:00",
+      "prediction": "Match Result 2",
+      "odds": 2.1,
+      "probability": 75.0,
+      "patternScore": 66.97,
+      "firstHalf": "0 - 2",
+      "finalScore": "0 - 3",
+      "pro": true
+    },
+    {
+      "home": "Verl 1924",
+      "away": "SV Wehen Wiesbaden",
+      "league": "AL3",
+      "date": "31.10.2026 13:00",
+      "prediction": "Over 3.5 Goals",
+      "odds": 2.06,
+      "probability": 71.43,
+      "patternScore": 66.92,
+      "firstHalf": "1 - 1",
+      "finalScore": "1 - 4",
+      "pro": false
+    },
+    {
+      "home": "Jahn Regensburg",
+      "away": "Hansa Rostock",
+      "league": "AL3",
+      "date": "31.10.2026 13:00",
+      "prediction": "Total Goals 2-3",
+      "odds": 1.93,
+      "probability": 100.0,
+      "patternScore": 57.76,
+      "firstHalf": "0 - 1",
+      "finalScore": "2 - 1",
+      "pro": false
+    },
+    {
       "home": "SD Guijuelo",
       "away": "Sporting Gijon",
       "league": "İSPK",
@@ -76,48 +115,60 @@
       "firstHalf": "1 - 0",
       "finalScore": "1 - 3",
       "pro": true
-    },
-    {
-      "home": "Cd Laredo",
-      "away": "Burgos CF",
-      "league": "İSPK",
-      "date": "29.10.2026 19:00",
-      "prediction": "1st Half Result 2",
-      "odds": 1.73,
-      "probability": 75.0,
-      "patternScore": 66.68,
-      "firstHalf": "0 - 1",
-      "finalScore": "2 - 4",
-      "pro": true
-    },
-    {
-      "home": "Le Havre AC",
-      "away": "Paris Saint-Germain",
-      "league": "FR1",
-      "date": "30.10.2026 18:00",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.57,
-      "probability": 100.0,
-      "patternScore": 57.23,
-      "firstHalf": "1 - 2",
-      "finalScore": "1 - 5",
-      "pro": false
-    },
-    {
-      "home": "Kheybar Khorra",
-      "away": "Sepahan",
-      "league": "IRAN",
-      "date": "30.10.2026 14:00",
-      "prediction": "1st Half Double Chance 12",
-      "odds": 1.51,
-      "probability": 75.0,
-      "patternScore": 67.91,
-      "firstHalf": "0 - 2",
-      "finalScore": "1 - 2",
-      "pro": true
     }
   ],
   "recentCoupons": [
+    {
+      "size": 2,
+      "totalOdds": 1.16,
+      "winChance": 50.18,
+      "completedAt": "31.10.2026 18:57",
+      "legs": [
+        {
+          "home": "Lechia Gdansk",
+          "away": "Unia Skierniewice",
+          "prediction": "Double Chance 12",
+          "odds": 1.07,
+          "finalScore": "3 - 2"
+        },
+        {
+          "home": "Buxton",
+          "away": "Marine",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "4 - 2"
+        }
+      ]
+    },
+    {
+      "size": 3,
+      "totalOdds": 1.28,
+      "winChance": 34.98,
+      "completedAt": "31.10.2026 18:57",
+      "legs": [
+        {
+          "home": "FK Jablonec",
+          "away": "SK Slavia Prague",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.06,
+          "finalScore": "0 - 5"
+        },
+        {
+          "home": "Leamington",
+          "away": "Peterborough United",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "2 - 4"
+        },
+        {
+          "home": "Tamworth",
+          "away": "Woking",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "0 - 1"
+        }
+      ]
+    },
     {
       "size": 2,
       "totalOdds": 1.17,
@@ -154,36 +205,6 @@
           "finalScore": "1 - 0"
         }
       ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.1,
-      "winChance": 70.23,
-      "completedAt": "30.10.2026 18:17",
-      "legs": [
-        {
-          "home": "FK Vlasim",
-          "away": "FK Usti nad Labem",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
-          "finalScore": "3 - 0"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.07,
-      "winChance": 70.3,
-      "completedAt": "30.10.2026 16:54",
-      "legs": [
-        {
-          "home": "Foolad Khuzest",
-          "away": "Shahrdari Arak",
-          "prediction": "Double Chance 1X",
-          "odds": 1.07,
-          "finalScore": "1 - 0"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -197,27 +218,27 @@
     },
     {
       "type": "won",
-      "home": "SD Guijuelo",
-      "away": "Sporting Gijon",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.81,
-      "at": "29.10.2026 19:00"
+      "home": "Annecy",
+      "away": "Montpellier HSC",
+      "prediction": "Match Result 2",
+      "odds": 2.1,
+      "at": "31.10.2026 13:00"
     },
     {
       "type": "won",
-      "home": "Cd Laredo",
-      "away": "Burgos CF",
-      "prediction": "1st Half Result 2",
-      "odds": 1.73,
-      "at": "29.10.2026 19:00"
+      "home": "Verl 1924",
+      "away": "SV Wehen Wiesbaden",
+      "prediction": "Over 3.5 Goals",
+      "odds": 2.06,
+      "at": "31.10.2026 13:00"
     },
     {
       "type": "won",
-      "home": "Le Havre AC",
-      "away": "Paris Saint-Germain",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.57,
-      "at": "30.10.2026 18:00"
+      "home": "Jahn Regensburg",
+      "away": "Hansa Rostock",
+      "prediction": "Total Goals 2-3",
+      "odds": 1.93,
+      "at": "31.10.2026 13:00"
     },
     {
       "type": "coupon",
@@ -239,33 +260,33 @@
     },
     {
       "type": "updated",
-      "at": "31.10.2026 11:48",
-      "home": "Norwich City",
-      "away": "Watford"
+      "at": "31.10.2026 13:12",
+      "home": "Bologna FC",
+      "away": "AC Monza"
     },
     {
       "type": "updated",
-      "at": "31.10.2026 11:47",
-      "home": "Lincoln City",
-      "away": "Birmingham City"
+      "at": "31.10.2026 13:52",
+      "home": "FC Schalke 04",
+      "away": "RB Leipzig"
     },
     {
       "type": "updated",
-      "at": "31.10.2026 11:48",
-      "home": "Chelsea",
-      "away": "Manchester United"
+      "at": "31.10.2026 13:53",
+      "home": "Werder Bremen",
+      "away": "TSG Hoffenheim"
     },
     {
       "type": "updated",
-      "at": "31.10.2026 11:50",
-      "home": "Kocaelispor",
-      "away": "Rizespor"
+      "at": "31.10.2026 13:13",
+      "home": "Borussia Monchengladbach",
+      "away": "SC Paderborn"
     },
     {
       "type": "updated",
-      "at": "31.10.2026 12:31",
-      "home": "Levante UD",
-      "away": "Atletico Madrid"
+      "at": "31.10.2026 14:17",
+      "home": "AFC Bournemouth",
+      "away": "Leeds United"
     }
   ],
   "today": {
@@ -275,8 +296,8 @@
     "date": "31.10.2026 20:00",
     "matchCode": "4481092",
     "odds": 1.32,
-    "patternScore": 67.65,
-    "patternText": "270.011/399.155",
+    "patternScore": 67.66,
+    "patternText": "270.897/400.383",
     "picks": 2
   },
   "todayList": [
@@ -287,30 +308,8 @@
       "date": "31.10.2026 20:00",
       "matchCode": "4481092",
       "odds": 1.32,
-      "patternScore": 67.65,
-      "patternText": "270.011/399.155",
-      "picks": 2
-    },
-    {
-      "home": "Coritiba FBC",
-      "away": "Vitoria Bahia",
-      "league": "BR1",
-      "date": "31.10.2026 19:00",
-      "matchCode": "4423356",
-      "odds": 1.25,
-      "patternScore": 68.37,
-      "patternText": "292.640/428.011",
-      "picks": 3
-    },
-    {
-      "home": "Real Oruro",
-      "away": "Nacional Potosi",
-      "league": "BOLİ",
-      "date": "31.10.2026 19:00",
-      "matchCode": "4577004",
-      "odds": 1.22,
-      "patternScore": 68.98,
-      "patternText": "288.800/418.680",
+      "patternScore": 67.66,
+      "patternText": "270.897/400.383",
       "picks": 2
     },
     {
@@ -320,8 +319,8 @@
       "date": "31.10.2026 19:45",
       "matchCode": "4476578",
       "odds": 1.2,
-      "patternScore": 68.72,
-      "patternText": "195.519/284.504",
+      "patternScore": 68.75,
+      "patternText": "196.077/285.214",
       "picks": 1
     },
     {
@@ -331,12 +330,41 @@
       "date": "31.10.2026 19:45",
       "matchCode": "4476584",
       "odds": 1.18,
-      "patternScore": 69.38,
-      "patternText": "359.353/517.917",
+      "patternScore": 69.41,
+      "patternText": "360.431/519.307",
       "picks": 5
+    },
+    {
+      "home": "AC Milan",
+      "away": "Inter",
+      "league": "İTA",
+      "date": "31.10.2026 19:45",
+      "matchCode": "4475139",
+      "odds": 1.18,
+      "patternScore": 67.98,
+      "patternText": "306.796/451.301",
+      "picks": 3
+    },
+    {
+      "home": "FUS Rabat",
+      "away": "Husa Agadir",
+      "league": "FAS",
+      "date": "31.10.2026 20:00",
+      "matchCode": "4576932",
+      "odds": 1.17,
+      "patternScore": 68.74,
+      "patternText": "266.651/387.891",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sporting Kansas City",
+      "away": "FC Dallas",
+      "league": "ABD",
+      "at": "31.10.2026 17:43",
+      "count": 4
+    },
     {
       "home": "Sint-Truidense VV",
       "away": "OH Leuven",
@@ -399,13 +427,6 @@
       "league": "İS1",
       "at": "31.10.2026 16:40",
       "count": 6
-    },
-    {
-      "home": "Cercle Brugge",
-      "away": "Royal Antwerp",
-      "league": "BEL",
-      "at": "31.10.2026 16:25",
-      "count": 7
     }
   ],
   "paywall": {

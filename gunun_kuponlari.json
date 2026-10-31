@@ -1,40 +1,40 @@
 {
   "version": 1,
   "stats7": {
-    "safe": {
-      "won": 19,
-      "lost": 8
-    },
-    "safe_a": {
-      "won": 8,
-      "lost": 2
-    },
-    "safe_b": {
-      "won": 11,
-      "lost": 6
-    },
     "surprise": {
-      "won": 9,
-      "lost": 12
+      "won": 8,
+      "lost": 11
     },
     "surprise_3": {
       "won": 1,
       "lost": 5
     },
+    "safe": {
+      "won": 13,
+      "lost": 7
+    },
+    "safe_a": {
+      "won": 6,
+      "lost": 2
+    },
     "surprise_2": {
-      "won": 3,
-      "lost": 3
+      "won": 2,
+      "lost": 2
     },
     "surprise_1": {
       "won": 5,
       "lost": 4
+    },
+    "safe_b": {
+      "won": 7,
+      "lost": 5
     },
     "multi_1": {
       "won": 0,
       "lost": 9
     },
     "multi": {
-      "won": 6,
+      "won": 8,
       "lost": 5
     },
     "c70_1": {
@@ -42,11 +42,11 @@
       "lost": 3
     },
     "c70_2": {
-      "won": 2,
+      "won": 3,
       "lost": 1
     },
     "c70_3": {
-      "won": 0,
+      "won": 1,
       "lost": 1
     }
   },
@@ -88,7 +88,7 @@
       "lost": 9
     },
     "multi": {
-      "won": 6,
+      "won": 8,
       "lost": 5
     },
     "c70_1": {
@@ -96,165 +96,17 @@
       "lost": 3
     },
     "c70_2": {
-      "won": 2,
+      "won": 3,
       "lost": 1
     },
     "c70_3": {
-      "won": 0,
+      "won": 1,
       "lost": 1
     }
   },
-  "updatedAt": "31.10.2026 17:39",
-  "updatedAtUtc": "2026-10-31T17:39:00Z",
+  "updatedAt": "31.10.2026 18:57",
+  "updatedAtUtc": "2026-10-31T18:57:00Z",
   "upcoming": [
-    {
-      "id": "20261031-16-3",
-      "createdAt": "31.10.2026 13:17",
-      "createdAtUtc": "2026-10-31T13:17:00Z",
-      "size": 3,
-      "mbs": 1,
-      "totalOdds": 1.28,
-      "winChance": 34.98,
-      "firstKickoff": "31.10.2026 14:00",
-      "lastKickoff": "31.10.2026 15:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_3",
-      "group": "multi",
-      "formula": "3",
-      "effectiveOdds": 1.28,
-      "legs": [
-        {
-          "matchCode": "4503888",
-          "nesine": null,
-          "date": "31.10.2026 14:00",
-          "kickoffUtc": "2026-10-31T14:00:00Z",
-          "league": "ÇEK",
-          "home": "FK Jablonec",
-          "away": "SK Slavia Prague",
-          "league_tr": "ÇEK",
-          "home_tr": "Jablonec",
-          "away_tr": "Slavia Prag",
-          "prediction": "Over 1.5 Goals",
-          "prediction_tr": "1,5 Alt/Üst Üst",
-          "odds": 1.06,
-          "probability": 88.89,
-          "patternScore": 70.55,
-          "patternText": "226.860/321.556",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4519190",
-          "nesine": null,
-          "date": "31.10.2026 15:00",
-          "kickoffUtc": "2026-10-31T15:00:00Z",
-          "league": "İNGNLP",
-          "home": "Leamington",
-          "away": "Peterborough United",
-          "league_tr": "İNGNLP",
-          "home_tr": "Leamington",
-          "away_tr": "Peterborough Sp",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 76.81,
-          "patternScore": 70.42,
-          "patternText": "376.849/535.111",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4515021",
-          "nesine": null,
-          "date": "31.10.2026 15:00",
-          "kickoffUtc": "2026-10-31T15:00:00Z",
-          "league": "İBSL",
-          "home": "Tamworth",
-          "away": "Woking",
-          "league_tr": "İBSL",
-          "home_tr": "Tamworth",
-          "away_tr": "Woking",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 76.47,
-          "patternScore": 70.4,
-          "patternText": "373.209/530.141",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261031-16-2",
-      "createdAt": "31.10.2026 13:17",
-      "createdAtUtc": "2026-10-31T13:17:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 1.16,
-      "winChance": 50.18,
-      "firstKickoff": "31.10.2026 14:30",
-      "lastKickoff": "31.10.2026 15:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_2",
-      "group": "multi",
-      "formula": "2",
-      "effectiveOdds": 1.16,
-      "legs": [
-        {
-          "matchCode": "4486233",
-          "nesine": null,
-          "date": "31.10.2026 14:30",
-          "kickoffUtc": "2026-10-31T14:30:00Z",
-          "league": "POL1",
-          "home": "Lechia Gdansk",
-          "away": "Unia Skierniewice",
-          "league_tr": "POL1",
-          "home_tr": "Lechia Gdansk",
-          "away_tr": "Unia Skierniewi",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.07,
-          "probability": 80.33,
-          "patternScore": 71.07,
-          "patternText": "267.290/376.071",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4515554",
-          "nesine": null,
-          "date": "31.10.2026 15:00",
-          "kickoffUtc": "2026-10-31T15:00:00Z",
-          "league": "İCON",
-          "home": "Buxton",
-          "away": "Marine",
-          "league_tr": "İCON",
-          "home_tr": "Buxton",
-          "away_tr": "Marine",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 73.49,
-          "patternScore": 70.6,
-          "patternText": "452.996/641.663",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261031-16-1",
       "createdAt": "31.10.2026 13:17",
@@ -495,7 +347,7 @@
       "winChance": 70.4,
       "firstKickoff": "31.10.2026 17:45",
       "lastKickoff": "31.10.2026 17:45",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_1",
       "group": "multi",
@@ -522,7 +374,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -536,7 +388,7 @@
       "winChance": 49.19,
       "firstKickoff": "31.10.2026 18:00",
       "lastKickoff": "31.10.2026 19:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_2",
       "group": "multi",
@@ -563,7 +415,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4577004",
@@ -591,6 +443,154 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261031-16-2",
+      "createdAt": "31.10.2026 13:17",
+      "createdAtUtc": "2026-10-31T13:17:00Z",
+      "size": 2,
+      "mbs": 1,
+      "totalOdds": 1.16,
+      "winChance": 50.18,
+      "firstKickoff": "31.10.2026 14:30",
+      "lastKickoff": "31.10.2026 15:00",
+      "status": "won",
+      "completedAt": "31.10.2026 18:57",
+      "kind": "c70_2",
+      "group": "multi",
+      "formula": "2",
+      "effectiveOdds": 1.16,
+      "legs": [
+        {
+          "matchCode": "4486233",
+          "nesine": null,
+          "date": "31.10.2026 14:30",
+          "kickoffUtc": "2026-10-31T14:30:00Z",
+          "league": "POL1",
+          "home": "Lechia Gdansk",
+          "away": "Unia Skierniewice",
+          "league_tr": "POL1",
+          "home_tr": "Lechia Gdansk",
+          "away_tr": "Unia Skierniewi",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.07,
+          "probability": 80.33,
+          "patternScore": 71.07,
+          "patternText": "267.290/376.071",
+          "mbs": 1,
+          "firstHalf": "1 - 2",
+          "finalScore": "3 - 2",
+          "status": "won"
+        },
+        {
+          "matchCode": "4515554",
+          "nesine": null,
+          "date": "31.10.2026 15:00",
+          "kickoffUtc": "2026-10-31T15:00:00Z",
+          "league": "İCON",
+          "home": "Buxton",
+          "away": "Marine",
+          "league_tr": "İCON",
+          "home_tr": "Buxton",
+          "away_tr": "Marine",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 73.49,
+          "patternScore": 70.6,
+          "patternText": "452.996/641.663",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "4 - 2",
+          "status": "won"
+        }
+      ]
+    },
+    {
+      "id": "20261031-16-3",
+      "createdAt": "31.10.2026 13:17",
+      "createdAtUtc": "2026-10-31T13:17:00Z",
+      "size": 3,
+      "mbs": 1,
+      "totalOdds": 1.28,
+      "winChance": 34.98,
+      "firstKickoff": "31.10.2026 14:00",
+      "lastKickoff": "31.10.2026 15:00",
+      "status": "won",
+      "completedAt": "31.10.2026 18:57",
+      "kind": "c70_3",
+      "group": "multi",
+      "formula": "3",
+      "effectiveOdds": 1.28,
+      "legs": [
+        {
+          "matchCode": "4503888",
+          "nesine": null,
+          "date": "31.10.2026 14:00",
+          "kickoffUtc": "2026-10-31T14:00:00Z",
+          "league": "ÇEK",
+          "home": "FK Jablonec",
+          "away": "SK Slavia Prague",
+          "league_tr": "ÇEK",
+          "home_tr": "Jablonec",
+          "away_tr": "Slavia Prag",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.06,
+          "probability": 88.89,
+          "patternScore": 70.55,
+          "patternText": "226.860/321.556",
+          "mbs": 1,
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 5",
+          "status": "won"
+        },
+        {
+          "matchCode": "4519190",
+          "nesine": null,
+          "date": "31.10.2026 15:00",
+          "kickoffUtc": "2026-10-31T15:00:00Z",
+          "league": "İNGNLP",
+          "home": "Leamington",
+          "away": "Peterborough United",
+          "league_tr": "İNGNLP",
+          "home_tr": "Leamington",
+          "away_tr": "Peterborough Sp",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 76.81,
+          "patternScore": 70.42,
+          "patternText": "376.849/535.111",
+          "mbs": 1,
+          "firstHalf": "0 - 3",
+          "finalScore": "2 - 4",
+          "status": "won"
+        },
+        {
+          "matchCode": "4515021",
+          "nesine": null,
+          "date": "31.10.2026 15:00",
+          "kickoffUtc": "2026-10-31T15:00:00Z",
+          "league": "İBSL",
+          "home": "Tamworth",
+          "away": "Woking",
+          "league_tr": "İBSL",
+          "home_tr": "Tamworth",
+          "away_tr": "Woking",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 76.47,
+          "patternScore": 70.4,
+          "patternText": "373.209/530.141",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 1",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261031-08-1",
       "createdAt": "31.10.2026 05:11",
@@ -1338,47 +1338,6 @@
           "firstHalf": "0 - 0",
           "finalScore": "1 - 1",
           "status": "lost"
-        }
-      ]
-    },
-    {
-      "id": "20261030-18-1",
-      "createdAt": "30.10.2026 15:06",
-      "createdAtUtc": "2026-10-30T15:06:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.1,
-      "winChance": 70.23,
-      "firstKickoff": "30.10.2026 16:00",
-      "lastKickoff": "30.10.2026 16:00",
-      "status": "won",
-      "completedAt": "30.10.2026 18:17",
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.1,
-      "legs": [
-        {
-          "matchCode": "4504122",
-          "nesine": null,
-          "date": "30.10.2026 16:00",
-          "kickoffUtc": "2026-10-30T16:00:00Z",
-          "league": "ÇEK2",
-          "home": "FK Vlasim",
-          "away": "FK Usti nad Labem",
-          "league_tr": "ÇEK2",
-          "home_tr": "Vlasim",
-          "away_tr": "Usti Nad Labem",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 75.54,
-          "patternScore": 70.23,
-          "patternText": "281.772/401.224",
-          "mbs": 1,
-          "firstHalf": "2 - 0",
-          "finalScore": "3 - 0",
-          "status": "won"
         }
       ]
     }
