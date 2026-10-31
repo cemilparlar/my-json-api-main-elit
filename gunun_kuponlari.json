@@ -35,7 +35,7 @@
     },
     "multi": {
       "won": 10,
-      "lost": 7
+      "lost": 8
     },
     "c70_1": {
       "won": 6,
@@ -43,7 +43,7 @@
     },
     "c70_2": {
       "won": 3,
-      "lost": 2
+      "lost": 3
     },
     "c70_3": {
       "won": 1,
@@ -89,7 +89,7 @@
     },
     "multi": {
       "won": 10,
-      "lost": 7
+      "lost": 8
     },
     "c70_1": {
       "won": 6,
@@ -97,15 +97,15 @@
     },
     "c70_2": {
       "won": 3,
-      "lost": 2
+      "lost": 3
     },
     "c70_3": {
       "won": 1,
       "lost": 2
     }
   },
-  "updatedAt": "31.10.2026 20:49",
-  "updatedAtUtc": "2026-10-31T20:49:00Z",
+  "updatedAt": "31.10.2026 21:09",
+  "updatedAtUtc": "2026-10-31T21:09:00Z",
   "upcoming": [
     {
       "id": "20261031-16-1",
@@ -141,69 +141,6 @@
           "probability": 82.14,
           "patternScore": 71.45,
           "patternText": "354.289/495.838",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261031-20-2",
-      "createdAt": "31.10.2026 17:07",
-      "createdAtUtc": "2026-10-31T17:07:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 1.18,
-      "winChance": 49.19,
-      "firstKickoff": "31.10.2026 18:00",
-      "lastKickoff": "31.10.2026 19:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_2",
-      "group": "multi",
-      "formula": "2",
-      "effectiveOdds": 1.18,
-      "legs": [
-        {
-          "matchCode": "4517335",
-          "nesine": null,
-          "date": "31.10.2026 18:00",
-          "kickoffUtc": "2026-10-31T18:00:00Z",
-          "league": "POR2",
-          "home": "Leiria",
-          "away": "AVS",
-          "league_tr": "POR2",
-          "home_tr": "Leiria",
-          "away_tr": "Avs",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.07,
-          "probability": 79.78,
-          "patternScore": 70.1,
-          "patternText": "361.461/515.614",
-          "mbs": 1,
-          "firstHalf": "0 - 1",
-          "finalScore": "2 - 1",
-          "status": "won"
-        },
-        {
-          "matchCode": "4577004",
-          "nesine": null,
-          "date": "31.10.2026 19:00",
-          "kickoffUtc": "2026-10-31T19:00:00Z",
-          "league": "BOLİ",
-          "home": "Real Oruro",
-          "away": "Nacional Potosi",
-          "league_tr": "BOLİ",
-          "home_tr": "Real Oruro",
-          "away_tr": "Nacional Potosi",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 71.21,
-          "patternScore": 70.17,
-          "patternText": "358.988/511.600",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
@@ -251,9 +188,176 @@
           "status": "live"
         }
       ]
+    },
+    {
+      "id": "20261101-00-2",
+      "createdAt": "31.10.2026 21:09",
+      "createdAtUtc": "2026-10-31T21:09:00Z",
+      "size": 2,
+      "mbs": 1,
+      "totalOdds": 1.13,
+      "winChance": 50.31,
+      "firstKickoff": "31.10.2026 22:30",
+      "lastKickoff": "31.10.2026 23:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_2",
+      "group": "multi",
+      "formula": "2",
+      "effectiveOdds": 1.13,
+      "legs": [
+        {
+          "matchCode": "4454044",
+          "nesine": null,
+          "date": "31.10.2026 22:30",
+          "kickoffUtc": "2026-10-31T22:30:00Z",
+          "league": "BR2",
+          "home": "Nautico",
+          "away": "Avai",
+          "league_tr": "BR2",
+          "home_tr": "Nautico",
+          "away_tr": "Avai",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.06,
+          "probability": 82.04,
+          "patternScore": 71.13,
+          "patternText": "155.028/217.940",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4436001",
+          "nesine": null,
+          "date": "31.10.2026 23:00",
+          "kickoffUtc": "2026-10-31T23:00:00Z",
+          "league": "ŞİL",
+          "home": "O'Higgins FC",
+          "away": "Atletico Nublense",
+          "league_tr": "ŞİL",
+          "home_tr": "O Higgins",
+          "away_tr": "Atletico Nublen",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.07,
+          "probability": 81.77,
+          "patternScore": 70.73,
+          "patternText": "152.156/215.122",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261101-00-1",
+      "createdAt": "31.10.2026 21:09",
+      "createdAtUtc": "2026-10-31T21:09:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.06,
+      "winChance": 71.18,
+      "firstKickoff": "31.10.2026 23:30",
+      "lastKickoff": "31.10.2026 23:30",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.06,
+      "legs": [
+        {
+          "matchCode": "4576827",
+          "nesine": null,
+          "date": "31.10.2026 23:30",
+          "kickoffUtc": "2026-10-31T23:30:00Z",
+          "league": "VEN",
+          "home": "Caracas FC",
+          "away": "Monagas SC",
+          "league_tr": "VEN",
+          "home_tr": "Caracas Fc",
+          "away_tr": "Monagas",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.06,
+          "probability": 84.09,
+          "patternScore": 71.18,
+          "patternText": "157.707/221.568",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
     }
   ],
   "completed": [
+    {
+      "id": "20261031-20-2",
+      "createdAt": "31.10.2026 17:07",
+      "createdAtUtc": "2026-10-31T17:07:00Z",
+      "size": 2,
+      "mbs": 1,
+      "totalOdds": 1.18,
+      "winChance": 49.19,
+      "firstKickoff": "31.10.2026 18:00",
+      "lastKickoff": "31.10.2026 19:00",
+      "status": "lost",
+      "completedAt": "31.10.2026 21:09",
+      "kind": "c70_2",
+      "group": "multi",
+      "formula": "2",
+      "effectiveOdds": 1.18,
+      "legs": [
+        {
+          "matchCode": "4517335",
+          "nesine": null,
+          "date": "31.10.2026 18:00",
+          "kickoffUtc": "2026-10-31T18:00:00Z",
+          "league": "POR2",
+          "home": "Leiria",
+          "away": "AVS",
+          "league_tr": "POR2",
+          "home_tr": "Leiria",
+          "away_tr": "Avs",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.07,
+          "probability": 79.78,
+          "patternScore": 70.1,
+          "patternText": "361.461/515.614",
+          "mbs": 1,
+          "firstHalf": "0 - 1",
+          "finalScore": "2 - 1",
+          "status": "won"
+        },
+        {
+          "matchCode": "4577004",
+          "nesine": null,
+          "date": "31.10.2026 19:00",
+          "kickoffUtc": "2026-10-31T19:00:00Z",
+          "league": "BOLİ",
+          "home": "Real Oruro",
+          "away": "Nacional Potosi",
+          "league_tr": "BOLİ",
+          "home_tr": "Real Oruro",
+          "away_tr": "Nacional Potosi",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 71.21,
+          "patternScore": 70.17,
+          "patternText": "358.988/511.600",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 1",
+          "status": "lost"
+        }
+      ]
+    },
     {
       "id": "20261031-20-1",
       "createdAt": "31.10.2026 17:07",
