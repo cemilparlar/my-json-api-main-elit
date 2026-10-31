@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 23:32",
+  "updatedAt": "31.10.2026 23:48",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 834,
       "rate": 70.3
     },
-    "totalAnalyses": 299915,
+    "totalAnalyses": 299916,
     "leagues": 538,
     "pro": {
       "won": 874,
@@ -42,13 +42,13 @@
       "rate": 70.3
     },
     "coupons": {
-      "won": 30,
-      "lost": 34,
-      "total": 64,
-      "rate": 46.9
+      "won": 28,
+      "lost": 33,
+      "total": 61,
+      "rate": 45.9
     },
-    "analyses24h": 1981,
-    "analyses30d": 21105
+    "analyses24h": 1980,
+    "analyses30d": 21104
   },
   "recentWins": [
     {
@@ -269,17 +269,28 @@
     }
   ],
   "today": {
-    "home": "Yokohama F. Marinos",
-    "away": "Kawasaki Frontale",
+    "home": "V-Varen Nagasaki",
+    "away": "Tokyo Verdy",
     "league": "JAP",
-    "date": "01.11.2026 04:00",
-    "matchCode": "4487252",
-    "odds": 1.33,
-    "patternScore": 66.87,
-    "patternText": "229.086/342.599",
-    "picks": 3
+    "date": "01.11.2026 05:00",
+    "matchCode": "4487256",
+    "odds": 1.87,
+    "patternScore": 67.89,
+    "patternText": "213.136/313.921",
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "V-Varen Nagasaki",
+      "away": "Tokyo Verdy",
+      "league": "JAP",
+      "date": "01.11.2026 05:00",
+      "matchCode": "4487256",
+      "odds": 1.87,
+      "patternScore": 67.89,
+      "patternText": "213.136/313.921",
+      "picks": 5
+    },
     {
       "home": "Yokohama F. Marinos",
       "away": "Kawasaki Frontale",
@@ -323,17 +334,6 @@
       "patternScore": 67.78,
       "patternText": "176.281/260.088",
       "picks": 4
-    },
-    {
-      "home": "Suwon FC",
-      "away": "Ansan Greeners",
-      "league": "GKOR2",
-      "date": "01.11.2026 05:00",
-      "matchCode": "4442871",
-      "odds": 1.19,
-      "patternScore": 68.06,
-      "patternText": "228.029/335.026",
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
