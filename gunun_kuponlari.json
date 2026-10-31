@@ -2,12 +2,8 @@
   "version": 1,
   "stats7": {
     "surprise": {
-      "won": 7,
+      "won": 6,
       "lost": 11
-    },
-    "surprise_3": {
-      "won": 1,
-      "lost": 5
     },
     "surprise_1": {
       "won": 5,
@@ -28,6 +24,10 @@
     "surprise_2": {
       "won": 1,
       "lost": 2
+    },
+    "surprise_3": {
+      "won": 0,
+      "lost": 5
     },
     "multi_1": {
       "won": 0,
@@ -104,8 +104,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "31.10.2026 22:31",
-  "updatedAtUtc": "2026-10-31T22:31:00Z",
+  "updatedAt": "31.10.2026 22:46",
+  "updatedAtUtc": "2026-10-31T22:46:00Z",
   "upcoming": [
     {
       "id": "20261031-16-1",
@@ -1316,47 +1316,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "void"
-        }
-      ]
-    },
-    {
-      "id": "20261030-22-1",
-      "createdAt": "30.10.2026 19:13",
-      "createdAtUtc": "2026-10-30T19:13:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.11,
-      "winChance": 70.23,
-      "firstKickoff": "30.10.2026 20:00",
-      "lastKickoff": "30.10.2026 20:00",
-      "status": "lost",
-      "completedAt": "30.10.2026 22:45",
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.11,
-      "legs": [
-        {
-          "matchCode": "4493611",
-          "nesine": null,
-          "date": "30.10.2026 20:00",
-          "kickoffUtc": "2026-10-30T20:00:00Z",
-          "league": "İS3",
-          "home": "Atletico Madrid B",
-          "away": "AD Alcorcon",
-          "league_tr": "İS3",
-          "home_tr": "Atl Madrid Ii",
-          "away_tr": "Alcorcon",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.11,
-          "probability": 75.98,
-          "patternScore": 70.23,
-          "patternText": "255.065/363.175",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "1 - 1",
-          "status": "lost"
         }
       ]
     }

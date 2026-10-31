@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 22:31",
+  "updatedAt": "31.10.2026 22:46",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 583,
+      "won": 587,
       "lost": 250,
-      "total": 833,
-      "rate": 70.0
+      "total": 837,
+      "rate": 70.1
     },
-    "totalAnalyses": 299874,
+    "totalAnalyses": 299882,
     "leagues": 538,
     "pro": {
-      "won": 900,
+      "won": 904,
       "lost": 371,
-      "total": 1271,
-      "rate": 70.8
+      "total": 1275,
+      "rate": 70.9
     },
     "insights": {
-      "won": 1538,
+      "won": 1542,
       "lost": 649,
-      "total": 2187,
-      "rate": 70.3
+      "total": 2191,
+      "rate": 70.4
     },
     "coupons": {
-      "won": 31,
+      "won": 30,
       "lost": 34,
-      "total": 65,
-      "rate": 47.7
+      "total": 64,
+      "rate": 46.9
     },
-    "analyses24h": 1958,
-    "analyses30d": 21086
+    "analyses24h": 1963,
+    "analyses30d": 21091
   },
   "recentWins": [
     {
@@ -239,18 +239,6 @@
     },
     {
       "type": "updated",
-      "at": "31.10.2026 16:41",
-      "home": "Tottenham Hotspur",
-      "away": "Crystal Palace"
-    },
-    {
-      "type": "updated",
-      "at": "31.10.2026 16:40",
-      "home": "Real Betis",
-      "away": "Malaga CF"
-    },
-    {
-      "type": "updated",
       "at": "31.10.2026 19:01",
       "home": "AC Milan",
       "away": "Inter"
@@ -266,6 +254,18 @@
       "at": "31.10.2026 19:01",
       "home": "ESTAC Troyes",
       "away": "Le Mans FC"
+    },
+    {
+      "type": "updated",
+      "at": "31.10.2026 20:17",
+      "home": "San Jose Earthquakes",
+      "away": "Salt Lake"
+    },
+    {
+      "type": "updated",
+      "at": "31.10.2026 20:17",
+      "home": "LA Galaxy",
+      "away": "Austin FC"
     }
   ],
   "today": {
@@ -290,6 +290,17 @@
       "patternScore": 67.98,
       "patternText": "171.421/252.151",
       "picks": 2
+    },
+    {
+      "home": "Yokohama F. Marinos",
+      "away": "Kawasaki Frontale",
+      "league": "JAP",
+      "date": "01.11.2026 04:00",
+      "matchCode": "4487252",
+      "odds": 1.33,
+      "patternScore": 66.87,
+      "patternText": "229.070/342.583",
+      "picks": 3
     },
     {
       "home": "Isidro Metapan",
@@ -323,17 +334,6 @@
       "patternScore": 70.03,
       "patternText": "271.150/387.192",
       "picks": 2
-    },
-    {
-      "home": "Durango",
-      "away": "Monarcas Morelia",
-      "league": "MEK2",
-      "date": "01.11.2026 01:00",
-      "matchCode": "4503519",
-      "odds": 1.13,
-      "patternScore": 70.19,
-      "patternText": "277.214/394.926",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
