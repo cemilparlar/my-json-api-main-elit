@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 21:45",
+  "updatedAt": "31.10.2026 22:01",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 565,
-      "lost": 244,
-      "total": 809,
-      "rate": 69.8
+      "won": 564,
+      "lost": 249,
+      "total": 813,
+      "rate": 69.4
     },
     "totalAnalyses": 299858,
     "leagues": 539,
     "pro": {
-      "won": 895,
+      "won": 896,
       "lost": 385,
-      "total": 1280,
+      "total": 1281,
       "rate": 69.9
     },
     "insights": {
-      "won": 1528,
-      "lost": 660,
-      "total": 2188,
+      "won": 1531,
+      "lost": 662,
+      "total": 2193,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 64,
       "rate": 46.9
     },
-    "analyses24h": 1958,
-    "analyses30d": 21075
+    "analyses24h": 1943,
+    "analyses30d": 21074
   },
   "recentWins": [
     {
@@ -78,19 +78,6 @@
       "pro": false
     },
     {
-      "home": "Karlsruher SC",
-      "away": "FC Heidenheim",
-      "league": "AL2",
-      "date": "31.10.2026 19:30",
-      "prediction": "Handicap (0:1) X",
-      "odds": 4.75,
-      "probability": 100.0,
-      "patternScore": 57.5,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 1",
-      "pro": false
-    },
-    {
       "home": "Tanjong Pagar United",
       "away": "Albirex Niigata",
       "league": "SİNP",
@@ -115,6 +102,19 @@
       "firstHalf": "0 - 2",
       "finalScore": "0 - 3",
       "pro": true
+    },
+    {
+      "home": "Verl 1924",
+      "away": "SV Wehen Wiesbaden",
+      "league": "AL3",
+      "date": "31.10.2026 13:00",
+      "prediction": "Over 3.5 Goals",
+      "odds": 2.06,
+      "probability": 71.43,
+      "patternScore": 66.92,
+      "firstHalf": "1 - 1",
+      "finalScore": "1 - 4",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -219,19 +219,19 @@
     },
     {
       "type": "won",
-      "home": "Karlsruher SC",
-      "away": "FC Heidenheim",
-      "prediction": "Handicap (0:1) X",
-      "odds": 4.75,
-      "at": "31.10.2026 19:30"
-    },
-    {
-      "type": "won",
       "home": "Tanjong Pagar United",
       "away": "Albirex Niigata",
       "prediction": "Handicap (1:0) 1",
       "odds": 2.59,
       "at": "30.10.2026 11:30"
+    },
+    {
+      "type": "won",
+      "home": "Annecy",
+      "away": "Montpellier HSC",
+      "prediction": "Match Result 2",
+      "odds": 2.1,
+      "at": "31.10.2026 13:00"
     },
     {
       "type": "coupon",
@@ -290,7 +290,7 @@
     "matchCode": "4475920",
     "odds": 1.34,
     "patternScore": 67.98,
-    "patternText": "171.345/252.051",
+    "patternText": "171.383/252.111",
     "picks": 2
   },
   "todayList": [
@@ -302,19 +302,8 @@
       "matchCode": "4475920",
       "odds": 1.34,
       "patternScore": 67.98,
-      "patternText": "171.345/252.051",
+      "patternText": "171.383/252.111",
       "picks": 2
-    },
-    {
-      "home": "Caracas FC",
-      "away": "Monagas SC",
-      "league": "VEN",
-      "date": "31.10.2026 23:30",
-      "matchCode": "4576827",
-      "odds": 1.27,
-      "patternScore": 67.83,
-      "patternText": "218.222/321.725",
-      "picks": 3
     },
     {
       "home": "Isidro Metapan",
@@ -324,7 +313,7 @@
       "matchCode": "4504409",
       "odds": 1.23,
       "patternScore": 68.16,
-      "patternText": "215.189/315.702",
+      "patternText": "215.197/315.718",
       "picks": 2
     },
     {
@@ -335,7 +324,7 @@
       "matchCode": "4419825",
       "odds": 1.17,
       "patternScore": 69.99,
-      "patternText": "160.165/228.840",
+      "patternText": "160.197/228.878",
       "picks": 4
     },
     {
@@ -346,8 +335,19 @@
       "matchCode": "4487106",
       "odds": 1.14,
       "patternScore": 70.03,
-      "patternText": "271.116/387.140",
+      "patternText": "271.128/387.162",
       "picks": 2
+    },
+    {
+      "home": "Durango",
+      "away": "Monarcas Morelia",
+      "league": "MEK2",
+      "date": "01.11.2026 01:00",
+      "matchCode": "4503519",
+      "odds": 1.13,
+      "patternScore": 70.19,
+      "patternText": "277.192/394.896",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
