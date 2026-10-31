@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 14:50",
+  "updatedAt": "31.10.2026 15:10",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 98,
       "rate": 56.1
     },
-    "totalAnalyses": 298583,
-    "leagues": 537,
+    "totalAnalyses": 298728,
+    "leagues": 538,
     "pro": {
-      "won": 807,
-      "lost": 362,
-      "total": 1169,
+      "won": 789,
+      "lost": 354,
+      "total": 1143,
       "rate": 69.0
     },
     "insights": {
-      "won": 1328,
-      "lost": 623,
-      "total": 1951,
+      "won": 1289,
+      "lost": 605,
+      "total": 1894,
       "rate": 68.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 75,
       "rate": 50.7
     },
-    "analyses24h": 1061,
-    "analyses30d": 20180
+    "analyses24h": 1195,
+    "analyses30d": 20303
   },
   "recentWins": [
     {
@@ -223,19 +223,19 @@
       "type": "coupon",
       "size": 1,
       "odds": 1.09,
-      "at": "31.10.2026 13:17"
+      "at": "31.10.2026 15:10"
     },
     {
       "type": "coupon",
       "size": 2,
-      "odds": 1.16,
-      "at": "31.10.2026 13:17"
+      "odds": 1.25,
+      "at": "31.10.2026 15:10"
     },
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.28,
-      "at": "31.10.2026 13:17"
+      "odds": 1.29,
+      "at": "31.10.2026 15:10"
     },
     {
       "type": "updated",
@@ -269,28 +269,17 @@
     }
   ],
   "today": {
-    "home": "Tottenham Hotspur",
-    "away": "Crystal Palace",
-    "league": "İNP",
-    "date": "31.10.2026 17:30",
-    "matchCode": "4481100",
-    "odds": 1.43,
-    "patternScore": 66.81,
-    "patternText": "306.486/458.732",
-    "picks": 3
+    "home": "AC Milan",
+    "away": "Inter",
+    "league": "İTA",
+    "date": "31.10.2026 19:45",
+    "matchCode": "4475139",
+    "odds": 1.34,
+    "patternScore": 67.9,
+    "patternText": "305.240/449.524",
+    "picks": 5
   },
   "todayList": [
-    {
-      "home": "Tottenham Hotspur",
-      "away": "Crystal Palace",
-      "league": "İNP",
-      "date": "31.10.2026 17:30",
-      "matchCode": "4481100",
-      "odds": 1.43,
-      "patternScore": 66.81,
-      "patternText": "306.486/458.732",
-      "picks": 3
-    },
     {
       "home": "AC Milan",
       "away": "Inter",
@@ -303,6 +292,39 @@
       "picks": 5
     },
     {
+      "home": "US Catanzaro",
+      "away": "Calcio Padova",
+      "league": "İTB",
+      "date": "31.10.2026 16:15",
+      "matchCode": "4534769",
+      "odds": 1.26,
+      "patternScore": 68.27,
+      "patternText": "296.278/433.962",
+      "picks": 2
+    },
+    {
+      "home": "Elche B",
+      "away": "Castellon Ii",
+      "league": "İS4",
+      "date": "31.10.2026 16:00",
+      "matchCode": "4551921",
+      "odds": 1.16,
+      "patternScore": 68.72,
+      "patternText": "284.748/414.339",
+      "picks": 2
+    },
+    {
+      "home": "Monterosi Tuscia",
+      "away": "AC Perugia",
+      "league": "İTC",
+      "date": "31.10.2026 16:30",
+      "matchCode": "4535549",
+      "odds": 1.15,
+      "patternScore": 70.23,
+      "patternText": "233.676/332.709",
+      "picks": 3
+    },
+    {
       "home": "Aston Villa",
       "away": "Fulham",
       "league": "İNP",
@@ -312,89 +334,78 @@
       "patternScore": 68.02,
       "patternText": "121.638/178.819",
       "picks": 3
-    },
-    {
-      "home": "Empoli",
-      "away": "SS Juve Stabia",
-      "league": "İTB",
-      "date": "01.11.2026 14:00",
-      "matchCode": "4534771",
-      "odds": 1.48,
-      "patternScore": 68.0,
-      "patternText": "246.338/362.278",
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Standard Liege",
-      "away": "KV Kortrijk",
-      "league": "BEL",
-      "at": "31.10.2026 14:51",
-      "count": 6
-    },
-    {
-      "home": "Fk Rodina Mosk",
-      "away": "FK Krasnodar",
-      "league": "RUS",
-      "at": "31.10.2026 14:45",
-      "count": 7
-    },
-    {
-      "home": "US Catanzaro",
-      "away": "Calcio Padova",
-      "league": "İTB",
-      "at": "31.10.2026 14:42",
-      "count": 4
-    },
-    {
-      "home": "Manisa FK",
-      "away": "Batman Petrolspor",
-      "league": "T1L",
-      "at": "31.10.2026 14:42",
-      "count": 2
-    },
-    {
-      "home": "Fenerbahce",
-      "away": "Goztepe",
-      "league": "TSL",
-      "at": "31.10.2026 14:40",
-      "count": 6
-    },
-    {
-      "home": "Moreirense FC",
-      "away": "CF Estrela da Amadora",
-      "league": "POR",
-      "at": "31.10.2026 14:39",
-      "count": 8
-    },
-    {
-      "home": "Rayo Vallecano",
-      "away": "Celta de Vigo",
-      "league": "İS1",
-      "at": "31.10.2026 14:37",
-      "count": 9
-    },
-    {
-      "home": "Eibar",
-      "away": "UD Almeria",
+      "home": "Albacete Balompie",
+      "away": "CE Sabadell",
       "league": "İS2",
-      "at": "31.10.2026 14:20",
-      "count": 5
+      "at": "31.10.2026 15:07",
+      "count": 6
     },
     {
-      "home": "Hull City",
-      "away": "Ipswich Town",
-      "league": "İNP",
-      "at": "31.10.2026 14:19",
+      "home": "SC Cambuur",
+      "away": "Go Ahead Eagles",
+      "league": "HOL",
+      "at": "31.10.2026 15:07",
       "count": 4
     },
     {
-      "home": "AFC Bournemouth",
-      "away": "Leeds United",
+      "home": "Aston Villa",
+      "away": "Fulham",
       "league": "İNP",
-      "at": "31.10.2026 14:17",
+      "at": "31.10.2026 15:06",
       "count": 7
+    },
+    {
+      "home": "RSC Anderlecht",
+      "away": "KVC Westerlo",
+      "league": "BEL",
+      "at": "31.10.2026 15:05",
+      "count": 3
+    },
+    {
+      "home": "ESTAC Troyes",
+      "away": "Le Mans FC",
+      "league": "FR1",
+      "at": "31.10.2026 15:04",
+      "count": 6
+    },
+    {
+      "home": "Olympique Lyonnais",
+      "away": "Angers SCO",
+      "league": "FR1",
+      "at": "31.10.2026 15:04",
+      "count": 7
+    },
+    {
+      "home": "AC Milan",
+      "away": "Inter",
+      "league": "İTA",
+      "at": "31.10.2026 15:04",
+      "count": 11
+    },
+    {
+      "home": "FC Lorient",
+      "away": "Stade Brest",
+      "league": "FR1",
+      "at": "31.10.2026 15:03",
+      "count": 1
+    },
+    {
+      "home": "Waasland-Beveren",
+      "away": "Union St.G",
+      "league": "BEL",
+      "at": "31.10.2026 15:03",
+      "count": 1
+    },
+    {
+      "home": "Karlsruher SC",
+      "away": "FC Heidenheim",
+      "league": "AL2",
+      "at": "31.10.2026 15:02",
+      "count": 14
     }
   ],
   "paywall": {
