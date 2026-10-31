@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 16:29",
+  "updatedAt": "31.10.2026 16:47",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 94,
       "rate": 55.3
     },
-    "totalAnalyses": 299067,
+    "totalAnalyses": 299130,
     "leagues": 539,
     "pro": {
-      "won": 751,
-      "lost": 336,
-      "total": 1087,
+      "won": 724,
+      "lost": 323,
+      "total": 1047,
       "rate": 69.1
     },
     "insights": {
-      "won": 1213,
-      "lost": 571,
-      "total": 1784,
-      "rate": 68.0
+      "won": 1165,
+      "lost": 542,
+      "total": 1707,
+      "rate": 68.2
     },
     "coupons": {
       "won": 35,
@@ -47,8 +47,8 @@
       "total": 71,
       "rate": 49.3
     },
-    "analyses24h": 1429,
-    "analyses30d": 20514
+    "analyses24h": 1463,
+    "analyses30d": 20536
   },
   "recentWins": [
     {
@@ -292,14 +292,25 @@
       "picks": 3
     },
     {
+      "home": "Columbus Crew",
+      "away": "DC United",
+      "league": "ABD",
+      "date": "31.10.2026 18:00",
+      "matchCode": "4419827",
+      "odds": 1.29,
+      "patternScore": 66.49,
+      "patternText": "213.283/320.760",
+      "picks": 1
+    },
+    {
       "home": "Tottenham Hotspur",
       "away": "Crystal Palace",
       "league": "İNP",
       "date": "31.10.2026 17:30",
       "matchCode": "4481100",
       "odds": 1.28,
-      "patternScore": 68.27,
-      "patternText": "206.217/302.057",
+      "patternScore": 67.9,
+      "patternText": "308.911/454.972",
       "picks": 1
     },
     {
@@ -314,29 +325,53 @@
       "picks": 3
     },
     {
-      "home": "Aluminij",
-      "away": "NK Radomlje",
-      "league": "SLVN",
-      "date": "31.10.2026 17:00",
-      "matchCode": "4483791",
-      "odds": 1.25,
-      "patternScore": 67.72,
-      "patternText": "271.190/400.429",
-      "picks": 2
-    },
-    {
-      "home": "Grasshopper Club Zurich",
-      "away": "FC Vaduz",
-      "league": "İSV",
-      "date": "31.10.2026 17:00",
-      "matchCode": "4482337",
-      "odds": 1.25,
-      "patternScore": 66.73,
-      "patternText": "206.520/309.503",
-      "picks": 2
+      "home": "Aston Villa",
+      "away": "Fulham",
+      "league": "İNP",
+      "date": "31.10.2026 20:00",
+      "matchCode": "4481092",
+      "odds": 1.24,
+      "patternScore": 68.22,
+      "patternText": "275.935/404.494",
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Excelsior Rotterdam",
+      "away": "FC Twente",
+      "league": "HOL",
+      "at": "31.10.2026 16:43",
+      "count": 7
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Fulham",
+      "league": "İNP",
+      "at": "31.10.2026 16:42",
+      "count": 6
+    },
+    {
+      "home": "Tottenham Hotspur",
+      "away": "Crystal Palace",
+      "league": "İNP",
+      "at": "31.10.2026 16:41",
+      "count": 5
+    },
+    {
+      "home": "Olympique Lyonnais",
+      "away": "Angers SCO",
+      "league": "FR1",
+      "at": "31.10.2026 16:41",
+      "count": 4
+    },
+    {
+      "home": "Real Betis",
+      "away": "Malaga CF",
+      "league": "İS1",
+      "at": "31.10.2026 16:40",
+      "count": 6
+    },
     {
       "home": "Cercle Brugge",
       "away": "Royal Antwerp",
@@ -371,41 +406,6 @@
       "league": "AL1",
       "at": "31.10.2026 16:12",
       "count": 14
-    },
-    {
-      "home": "AC Milan",
-      "away": "Inter",
-      "league": "İTA",
-      "at": "31.10.2026 16:11",
-      "count": 7
-    },
-    {
-      "home": "Real Betis",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "31.10.2026 16:10",
-      "count": 7
-    },
-    {
-      "home": "Columbus Crew",
-      "away": "DC United",
-      "league": "ABD",
-      "at": "31.10.2026 16:10",
-      "count": 6
-    },
-    {
-      "home": "Udinese",
-      "away": "AS Roma",
-      "league": "İTA",
-      "at": "31.10.2026 16:09",
-      "count": 1
-    },
-    {
-      "home": "Tottenham Hotspur",
-      "away": "Crystal Palace",
-      "league": "İNP",
-      "at": "31.10.2026 16:09",
-      "count": 6
     }
   ],
   "paywall": {
