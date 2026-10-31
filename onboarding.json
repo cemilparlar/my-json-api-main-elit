@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 13:38",
+  "updatedAt": "31.10.2026 13:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 105,
       "rate": 58.1
     },
-    "totalAnalyses": 298298,
+    "totalAnalyses": 298351,
     "leagues": 537,
     "pro": {
       "won": 924,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 51.9
     },
-    "analyses24h": 864,
-    "analyses30d": 19976
+    "analyses24h": 865,
+    "analyses30d": 19977
   },
   "recentWins": [
     {
@@ -292,6 +292,28 @@
       "picks": 2
     },
     {
+      "home": "Millwall",
+      "away": "Derby County",
+      "league": "İNCL",
+      "date": "31.10.2026 15:00",
+      "matchCode": "4488829",
+      "odds": 1.47,
+      "patternScore": 68.93,
+      "patternText": "203.378/295.053",
+      "picks": 2
+    },
+    {
+      "home": "East Kilbride",
+      "away": "Ross County",
+      "league": "İK1",
+      "date": "31.10.2026 15:00",
+      "matchCode": "4482476",
+      "odds": 1.45,
+      "patternScore": 68.11,
+      "patternText": "201.463/295.784",
+      "picks": 1
+    },
+    {
       "home": "Tottenham Hotspur",
       "away": "Crystal Palace",
       "league": "İNP",
@@ -303,40 +325,53 @@
       "picks": 3
     },
     {
-      "home": "MFK Zilina",
-      "away": "Zemplin",
-      "league": "SLVK",
-      "date": "31.10.2026 14:30",
-      "matchCode": "4484220",
-      "odds": 1.31,
-      "patternScore": 68.37,
-      "patternText": "294.756/431.143",
-      "picks": 2
-    },
-    {
-      "home": "Bolton Wanderers",
-      "away": "Bristol City",
-      "league": "İNCL",
-      "date": "31.10.2026 15:00",
-      "matchCode": "4488825",
-      "odds": 1.31,
-      "patternScore": 67.74,
-      "patternText": "313.304/462.543",
-      "picks": 3
-    },
-    {
-      "home": "Stockport County",
-      "away": "AFC Wimbledon",
-      "league": "İN1",
-      "date": "31.10.2026 15:00",
-      "matchCode": "4489398",
-      "odds": 1.27,
-      "patternScore": 68.05,
-      "patternText": "194.678/286.070",
-      "picks": 1
+      "home": "AC Milan",
+      "away": "Inter",
+      "league": "İTA",
+      "date": "31.10.2026 19:45",
+      "matchCode": "4475139",
+      "odds": 1.34,
+      "patternScore": 67.9,
+      "patternText": "305.240/449.524",
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Augsburg",
+      "away": "SC Freiburg",
+      "league": "AL1",
+      "at": "31.10.2026 13:54",
+      "count": 4
+    },
+    {
+      "home": "Dinamo Moscow",
+      "away": "Akhmat Grozny",
+      "league": "RUS",
+      "at": "31.10.2026 13:54",
+      "count": 4
+    },
+    {
+      "home": "Bayer Leverkusen",
+      "away": "VfB Stuttgart",
+      "league": "AL1",
+      "at": "31.10.2026 13:53",
+      "count": 7
+    },
+    {
+      "home": "Werder Bremen",
+      "away": "TSG Hoffenheim",
+      "league": "AL1",
+      "at": "31.10.2026 13:53",
+      "count": 19
+    },
+    {
+      "home": "FC Schalke 04",
+      "away": "RB Leipzig",
+      "league": "AL1",
+      "at": "31.10.2026 13:52",
+      "count": 7
+    },
     {
       "home": "Wolverhampton Wanderers",
       "away": "Cardiff City",
@@ -371,41 +406,6 @@
       "league": "İNCL",
       "at": "31.10.2026 13:14",
       "count": 6
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "SC Freiburg",
-      "league": "AL1",
-      "at": "31.10.2026 13:13",
-      "count": 10
-    },
-    {
-      "home": "Werder Bremen",
-      "away": "TSG Hoffenheim",
-      "league": "AL1",
-      "at": "31.10.2026 13:13",
-      "count": 7
-    },
-    {
-      "home": "Borussia Monchengladbach",
-      "away": "SC Paderborn",
-      "league": "AL1",
-      "at": "31.10.2026 13:13",
-      "count": 6
-    },
-    {
-      "home": "Bologna FC",
-      "away": "AC Monza",
-      "league": "İTA",
-      "at": "31.10.2026 13:12",
-      "count": 5
-    },
-    {
-      "home": "Bayer Leverkusen",
-      "away": "VfB Stuttgart",
-      "league": "AL1",
-      "at": "31.10.2026 13:12",
-      "count": 16
     }
   ],
   "paywall": {
