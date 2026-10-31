@@ -1,29 +1,29 @@
 {
   "version": 1,
   "stats7": {
-    "safe": {
-      "won": 24,
-      "lost": 9
-    },
-    "safe_a": {
-      "won": 10,
-      "lost": 3
-    },
-    "safe_b": {
-      "won": 14,
-      "lost": 6
-    },
     "surprise": {
-      "won": 11,
-      "lost": 15
-    },
-    "surprise_3": {
-      "won": 2,
-      "lost": 6
+      "won": 10,
+      "lost": 14
     },
     "surprise_1": {
       "won": 6,
       "lost": 6
+    },
+    "safe": {
+      "won": 22,
+      "lost": 9
+    },
+    "safe_a": {
+      "won": 9,
+      "lost": 3
+    },
+    "safe_b": {
+      "won": 13,
+      "lost": 6
+    },
+    "surprise_3": {
+      "won": 1,
+      "lost": 5
     },
     "surprise_2": {
       "won": 3,
@@ -104,50 +104,9 @@
       "lost": 1
     }
   },
-  "updatedAt": "31.10.2026 13:55",
-  "updatedAtUtc": "2026-10-31T13:55:00Z",
+  "updatedAt": "31.10.2026 14:14",
+  "updatedAtUtc": "2026-10-31T14:14:00Z",
   "upcoming": [
-    {
-      "id": "20261031-08-1",
-      "createdAt": "31.10.2026 05:11",
-      "createdAtUtc": "2026-10-31T05:11:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.1,
-      "winChance": 70.12,
-      "firstKickoff": "31.10.2026 06:00",
-      "lastKickoff": "31.10.2026 06:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.1,
-      "legs": [
-        {
-          "matchCode": "4546748",
-          "nesine": null,
-          "date": "31.10.2026 06:00",
-          "kickoffUtc": "2026-10-31T06:00:00Z",
-          "league": "AVUS",
-          "home": "Melbourne City FC",
-          "away": "Sydney FC",
-          "league_tr": "AVUS",
-          "home_tr": "Melbourne City",
-          "away_tr": "Sydney",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.1,
-          "probability": 80.0,
-          "patternScore": 70.12,
-          "patternText": "194.307/277.092",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261031-16-3",
       "createdAt": "31.10.2026 13:17",
@@ -158,7 +117,7 @@
       "winChance": 34.98,
       "firstKickoff": "31.10.2026 14:00",
       "lastKickoff": "31.10.2026 15:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_3",
       "group": "multi",
@@ -185,7 +144,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4519190",
@@ -339,6 +298,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261031-08-1",
+      "createdAt": "31.10.2026 05:11",
+      "createdAtUtc": "2026-10-31T05:11:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.1,
+      "winChance": 70.12,
+      "firstKickoff": "31.10.2026 06:00",
+      "lastKickoff": "31.10.2026 06:00",
+      "status": "void",
+      "completedAt": "31.10.2026 14:14",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.0,
+      "legs": [
+        {
+          "matchCode": "4546748",
+          "nesine": null,
+          "date": "31.10.2026 06:00",
+          "kickoffUtc": "2026-10-31T06:00:00Z",
+          "league": "AVUS",
+          "home": "Melbourne City FC",
+          "away": "Sydney FC",
+          "league_tr": "AVUS",
+          "home_tr": "Melbourne City",
+          "away_tr": "Sydney",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.1,
+          "probability": 80.0,
+          "patternScore": 70.12,
+          "patternText": "194.307/277.092",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "void"
+        }
+      ]
+    },
     {
       "id": "20261031-06-2",
       "createdAt": "31.10.2026 03:23",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 13:55",
+  "updatedAt": "31.10.2026 14:14",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 61,
-      "lost": 44,
-      "total": 105,
-      "rate": 58.1
+      "won": 57,
+      "lost": 43,
+      "total": 100,
+      "rate": 57.0
     },
-    "totalAnalyses": 298351,
+    "totalAnalyses": 298400,
     "leagues": 537,
     "pro": {
-      "won": 924,
-      "lost": 408,
-      "total": 1332,
-      "rate": 69.4
+      "won": 841,
+      "lost": 374,
+      "total": 1215,
+      "rate": 69.2
     },
     "insights": {
-      "won": 1509,
-      "lost": 687,
-      "total": 2196,
-      "rate": 68.7
+      "won": 1373,
+      "lost": 640,
+      "total": 2013,
+      "rate": 68.2
     },
     "coupons": {
-      "won": 41,
-      "lost": 38,
-      "total": 79,
-      "rate": 51.9
+      "won": 38,
+      "lost": 37,
+      "total": 75,
+      "rate": 50.7
     },
-    "analyses24h": 865,
-    "analyses30d": 19977
+    "analyses24h": 902,
+    "analyses30d": 20019
   },
   "recentWins": [
     {
@@ -269,28 +269,17 @@
     }
   ],
   "today": {
-    "home": "Dinamo Moscow",
-    "away": "Akhmat Grozny",
-    "league": "RUS",
-    "date": "31.10.2026 14:30",
-    "matchCode": "4485904",
-    "odds": 1.49,
-    "patternScore": 67.15,
-    "patternText": "311.933/464.520",
+    "home": "Millwall",
+    "away": "Derby County",
+    "league": "İNCL",
+    "date": "31.10.2026 15:00",
+    "matchCode": "4488829",
+    "odds": 1.47,
+    "patternScore": 68.93,
+    "patternText": "203.378/295.053",
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "Dinamo Moscow",
-      "away": "Akhmat Grozny",
-      "league": "RUS",
-      "date": "31.10.2026 14:30",
-      "matchCode": "4485904",
-      "odds": 1.49,
-      "patternScore": 67.15,
-      "patternText": "311.933/464.520",
-      "picks": 2
-    },
     {
       "home": "Millwall",
       "away": "Derby County",
@@ -334,9 +323,41 @@
       "patternScore": 67.9,
       "patternText": "305.240/449.524",
       "picks": 5
+    },
+    {
+      "home": "Bolton Wanderers",
+      "away": "Bristol City",
+      "league": "İNCL",
+      "date": "31.10.2026 15:00",
+      "matchCode": "4488825",
+      "odds": 1.31,
+      "patternScore": 67.74,
+      "patternText": "313.304/462.543",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Burnley",
+      "away": "Portsmouth",
+      "league": "İNCL",
+      "at": "31.10.2026 14:03",
+      "count": 6
+    },
+    {
+      "home": "Swansea",
+      "away": "Blackburn",
+      "league": "İNCL",
+      "at": "31.10.2026 14:03",
+      "count": 8
+    },
+    {
+      "home": "Brentford",
+      "away": "Nottingham Forest",
+      "league": "İNP",
+      "at": "31.10.2026 14:02",
+      "count": 6
+    },
     {
       "home": "FC Augsburg",
       "away": "SC Freiburg",
@@ -385,27 +406,6 @@
       "league": "İNP",
       "at": "31.10.2026 13:31",
       "count": 5
-    },
-    {
-      "home": "Manchester City",
-      "away": "Brighton & Hove Albion",
-      "league": "İNP",
-      "at": "31.10.2026 13:31",
-      "count": 6
-    },
-    {
-      "home": "Millwall",
-      "away": "Derby County",
-      "league": "İNCL",
-      "at": "31.10.2026 13:22",
-      "count": 3
-    },
-    {
-      "home": "Bolton Wanderers",
-      "away": "Bristol City",
-      "league": "İNCL",
-      "at": "31.10.2026 13:14",
-      "count": 6
     }
   ],
   "paywall": {
