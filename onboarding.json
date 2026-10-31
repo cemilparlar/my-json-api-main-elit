@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 20:00",
+  "updatedAt": "31.10.2026 20:24",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 530,
-      "lost": 221,
-      "total": 751,
-      "rate": 70.6
+      "won": 527,
+      "lost": 211,
+      "total": 738,
+      "rate": 71.4
     },
-    "totalAnalyses": 299478,
-    "leagues": 538,
+    "totalAnalyses": 299546,
+    "leagues": 539,
     "pro": {
-      "won": 893,
-      "lost": 386,
-      "total": 1279,
-      "rate": 69.8
+      "won": 892,
+      "lost": 385,
+      "total": 1277,
+      "rate": 69.9
     },
     "insights": {
-      "won": 1512,
-      "lost": 649,
-      "total": 2161,
-      "rate": 70.0
+      "won": 1516,
+      "lost": 648,
+      "total": 2164,
+      "rate": 70.1
     },
     "coupons": {
       "won": 31,
@@ -47,8 +47,8 @@
       "total": 65,
       "rate": 47.7
     },
-    "analyses24h": 1673,
-    "analyses30d": 20779
+    "analyses24h": 1708,
+    "analyses30d": 20828
   },
   "recentWins": [
     {
@@ -253,33 +253,33 @@
     },
     {
       "type": "updated",
-      "at": "31.10.2026 14:17",
-      "home": "AFC Bournemouth",
-      "away": "Leeds United"
-    },
-    {
-      "type": "updated",
-      "at": "31.10.2026 14:19",
-      "home": "Hull City",
-      "away": "Ipswich Town"
-    },
-    {
-      "type": "updated",
-      "at": "31.10.2026 14:16",
-      "home": "Manchester City",
-      "away": "Brighton & Hove Albion"
-    },
-    {
-      "type": "updated",
       "at": "31.10.2026 14:37",
       "home": "Rayo Vallecano",
       "away": "Celta de Vigo"
     },
     {
       "type": "updated",
+      "at": "31.10.2026 16:41",
+      "home": "Tottenham Hotspur",
+      "away": "Crystal Palace"
+    },
+    {
+      "type": "updated",
       "at": "31.10.2026 16:40",
       "home": "Real Betis",
       "away": "Malaga CF"
+    },
+    {
+      "type": "updated",
+      "at": "31.10.2026 19:01",
+      "home": "AC Milan",
+      "away": "Inter"
+    },
+    {
+      "type": "updated",
+      "at": "31.10.2026 19:01",
+      "home": "Aston Villa",
+      "away": "Fulham"
     }
   ],
   "today": {
@@ -289,8 +289,8 @@
     "date": "31.10.2026 23:30",
     "matchCode": "4576827",
     "odds": 1.27,
-    "patternScore": 67.77,
-    "patternText": "217.358/320.751",
+    "patternScore": 67.83,
+    "patternText": "218.184/321.671",
     "picks": 3
   },
   "todayList": [
@@ -301,9 +301,42 @@
       "date": "31.10.2026 23:30",
       "matchCode": "4576827",
       "odds": 1.27,
-      "patternScore": 67.77,
-      "patternText": "217.358/320.751",
+      "patternScore": 67.83,
+      "patternText": "218.184/321.671",
       "picks": 3
+    },
+    {
+      "home": "Isidro Metapan",
+      "away": "Municipal Limen",
+      "league": "ELSAL",
+      "date": "01.11.2026 01:00",
+      "matchCode": "4504409",
+      "odds": 1.23,
+      "patternScore": 68.16,
+      "patternText": "215.151/315.648",
+      "picks": 2
+    },
+    {
+      "home": "Colorado Rapids",
+      "away": "Chicago Fire",
+      "league": "ABD",
+      "date": "01.11.2026 01:30",
+      "matchCode": "4419825",
+      "odds": 1.17,
+      "patternScore": 69.99,
+      "patternText": "160.135/228.808",
+      "picks": 4
+    },
+    {
+      "home": "Sporting San J",
+      "away": "Club Sport Herediano",
+      "league": "KOSTA",
+      "date": "01.11.2026 02:00",
+      "matchCode": "4487106",
+      "odds": 1.14,
+      "patternScore": 70.03,
+      "patternText": "271.050/387.052",
+      "picks": 2
     },
     {
       "home": "Nautico",
@@ -313,44 +346,53 @@
       "matchCode": "4454044",
       "odds": 1.14,
       "patternScore": 69.98,
-      "patternText": "276.675/395.359",
+      "patternText": "276.685/395.371",
       "picks": 2
+    }
+  ],
+  "recentAnalyzed": [
+    {
+      "home": "SE Palmeiras",
+      "away": "Club de Regatas Vasco da Gama",
+      "league": "BRK",
+      "at": "31.10.2026 20:20",
+      "count": 5
     },
     {
-      "home": "Velez Sarsfiel",
-      "away": "San Lorenzo",
-      "league": "ARJ",
-      "date": "31.10.2026 22:15",
-      "matchCode": "4475922",
-      "odds": 1.1,
-      "patternScore": 66.3,
-      "patternText": "320.296/483.107",
-      "picks": 3
+      "home": "San Jose Earthquakes",
+      "away": "Salt Lake",
+      "league": "ABD",
+      "at": "31.10.2026 20:17",
+      "count": 17
     },
     {
       "home": "LA Galaxy",
       "away": "Austin FC",
       "league": "ABD",
-      "date": "31.10.2026 21:00",
-      "matchCode": "4419828",
-      "odds": 1.09,
-      "patternScore": 65.64,
-      "patternText": "280.632/427.538",
-      "picks": 2
+      "at": "31.10.2026 20:17",
+      "count": 8
     },
     {
-      "home": "Isidro Metapan",
-      "away": "Municipal Limen",
-      "league": "ELSAL",
-      "date": "01.11.2026 01:00",
-      "matchCode": "4504409",
-      "odds": 1.08,
-      "patternScore": 70.51,
-      "patternText": "151.586/214.992",
-      "picks": 2
-    }
-  ],
-  "recentAnalyzed": [
+      "home": "Sporting Charleroi",
+      "away": "La Louviere",
+      "league": "BEL",
+      "at": "31.10.2026 20:09",
+      "count": 3
+    },
+    {
+      "home": "Academico FC Viseu",
+      "away": "Rio Ave FC",
+      "league": "POR",
+      "at": "31.10.2026 20:08",
+      "count": 8
+    },
+    {
+      "home": "CS Maritimo",
+      "away": "CD Santa Clara",
+      "league": "POR",
+      "at": "31.10.2026 20:05",
+      "count": 5
+    },
     {
       "home": "Lommel United",
       "away": "KAA Gent",
@@ -378,48 +420,6 @@
       "league": "HOL",
       "at": "31.10.2026 19:21",
       "count": 8
-    },
-    {
-      "home": "FC Arouca",
-      "away": "CD Nacional",
-      "league": "POR",
-      "at": "31.10.2026 19:19",
-      "count": 8
-    },
-    {
-      "home": "LA Galaxy",
-      "away": "Austin FC",
-      "league": "ABD",
-      "at": "31.10.2026 19:02",
-      "count": 5
-    },
-    {
-      "home": "AC Milan",
-      "away": "Inter",
-      "league": "İTA",
-      "at": "31.10.2026 19:01",
-      "count": 7
-    },
-    {
-      "home": "Aston Villa",
-      "away": "Fulham",
-      "league": "İNP",
-      "at": "31.10.2026 19:01",
-      "count": 9
-    },
-    {
-      "home": "ESTAC Troyes",
-      "away": "Le Mans FC",
-      "league": "FR1",
-      "at": "31.10.2026 19:01",
-      "count": 7
-    },
-    {
-      "home": "Sporting Kansas City",
-      "away": "FC Dallas",
-      "league": "ABD",
-      "at": "31.10.2026 17:43",
-      "count": 4
     }
   ],
   "paywall": {

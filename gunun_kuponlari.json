@@ -104,8 +104,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "31.10.2026 20:00",
-  "updatedAtUtc": "2026-10-31T20:00:00Z",
+  "updatedAt": "31.10.2026 20:24",
+  "updatedAtUtc": "2026-10-31T20:24:00Z",
   "upcoming": [
     {
       "id": "20261031-16-1",
@@ -1253,47 +1253,6 @@
           "firstHalf": "0 - 0",
           "finalScore": "1 - 1",
           "status": "lost"
-        }
-      ]
-    },
-    {
-      "id": "20261030-14-1",
-      "createdAt": "30.10.2026 11:00",
-      "createdAtUtc": "2026-10-30T11:00:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.06,
-      "winChance": 70.98,
-      "firstKickoff": "30.10.2026 12:00",
-      "lastKickoff": "30.10.2026 12:00",
-      "status": "void",
-      "completedAt": "30.10.2026 20:07",
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.0,
-      "legs": [
-        {
-          "matchCode": "4539094",
-          "nesine": null,
-          "date": "30.10.2026 12:00",
-          "kickoffUtc": "2026-10-30T12:00:00Z",
-          "league": "TAY",
-          "home": "Sisaket United",
-          "away": "Ratchaburi Mitr Phol FC",
-          "league_tr": "TAY",
-          "home_tr": "Sisaket United",
-          "away_tr": "Ratchaburi Fc",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.06,
-          "probability": 83.33,
-          "patternScore": 70.98,
-          "patternText": "149.146/210.120",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void"
         }
       ]
     }
