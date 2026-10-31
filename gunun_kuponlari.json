@@ -1,14 +1,6 @@
 {
   "version": 1,
   "stats7": {
-    "surprise": {
-      "won": 10,
-      "lost": 14
-    },
-    "surprise_1": {
-      "won": 6,
-      "lost": 6
-    },
     "safe": {
       "won": 22,
       "lost": 9
@@ -21,8 +13,16 @@
       "won": 13,
       "lost": 6
     },
+    "surprise": {
+      "won": 10,
+      "lost": 13
+    },
     "surprise_3": {
       "won": 1,
+      "lost": 5
+    },
+    "surprise_1": {
+      "won": 6,
       "lost": 5
     },
     "surprise_2": {
@@ -104,8 +104,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "31.10.2026 15:10",
-  "updatedAtUtc": "2026-10-31T15:10:00Z",
+  "updatedAt": "31.10.2026 15:28",
+  "updatedAtUtc": "2026-10-31T15:28:00Z",
   "upcoming": [
     {
       "id": "20261031-16-3",
@@ -1315,69 +1315,6 @@
           "mbs": 1,
           "firstHalf": "1 - 0",
           "finalScore": "1 - 0",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261030-14-2",
-      "createdAt": "30.10.2026 11:00",
-      "createdAtUtc": "2026-10-30T11:00:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 1.19,
-      "winChance": 49.96,
-      "firstKickoff": "30.10.2026 12:00",
-      "lastKickoff": "30.10.2026 12:50",
-      "status": "won",
-      "completedAt": "30.10.2026 15:24",
-      "kind": "c70_2",
-      "group": "multi",
-      "formula": "2",
-      "effectiveOdds": 1.19,
-      "legs": [
-        {
-          "matchCode": "4577914",
-          "nesine": null,
-          "date": "30.10.2026 12:00",
-          "kickoffUtc": "2026-10-30T12:00:00Z",
-          "league": "KOS",
-          "home": "Ballkani",
-          "away": "Drenica Skender",
-          "league_tr": "KOS",
-          "home_tr": "Ballkani",
-          "away_tr": "Drenica Skender",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 73.68,
-          "patternScore": 70.57,
-          "patternText": "280.997/398.168",
-          "mbs": 1,
-          "firstHalf": "1 - 0",
-          "finalScore": "4 - 0",
-          "status": "won"
-        },
-        {
-          "matchCode": "4574624",
-          "nesine": null,
-          "date": "30.10.2026 12:50",
-          "kickoffUtc": "2026-10-30T12:50:00Z",
-          "league": "BAE2",
-          "home": "Emirates Club",
-          "away": "Dibba Al Fujairah",
-          "league_tr": "BAE2",
-          "home_tr": "Emirates",
-          "away_tr": "Dubba Al Fujair",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 70.73,
-          "patternScore": 70.8,
-          "patternText": "346.836/489.885",
-          "mbs": 1,
-          "firstHalf": "1 - 0",
-          "finalScore": "3 - 0",
           "status": "won"
         }
       ]
