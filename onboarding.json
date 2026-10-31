@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 20:24",
+  "updatedAt": "31.10.2026 20:49",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 527,
-      "lost": 211,
-      "total": 738,
-      "rate": 71.4
+      "won": 539,
+      "lost": 219,
+      "total": 758,
+      "rate": 71.1
     },
-    "totalAnalyses": 299546,
+    "totalAnalyses": 299653,
     "leagues": 539,
     "pro": {
-      "won": 892,
-      "lost": 385,
-      "total": 1277,
+      "won": 898,
+      "lost": 387,
+      "total": 1285,
       "rate": 69.9
     },
     "insights": {
-      "won": 1516,
-      "lost": 648,
-      "total": 2164,
-      "rate": 70.1
+      "won": 1527,
+      "lost": 655,
+      "total": 2182,
+      "rate": 70.0
     },
     "coupons": {
       "won": 31,
@@ -47,8 +47,8 @@
       "total": 65,
       "rate": 47.7
     },
-    "analyses24h": 1708,
-    "analyses30d": 20828
+    "analyses24h": 1806,
+    "analyses30d": 20926
   },
   "recentWins": [
     {
@@ -253,12 +253,6 @@
     },
     {
       "type": "updated",
-      "at": "31.10.2026 14:37",
-      "home": "Rayo Vallecano",
-      "away": "Celta de Vigo"
-    },
-    {
-      "type": "updated",
       "at": "31.10.2026 16:41",
       "home": "Tottenham Hotspur",
       "away": "Crystal Palace"
@@ -280,20 +274,37 @@
       "at": "31.10.2026 19:01",
       "home": "Aston Villa",
       "away": "Fulham"
+    },
+    {
+      "type": "updated",
+      "at": "31.10.2026 19:01",
+      "home": "ESTAC Troyes",
+      "away": "Le Mans FC"
     }
   ],
   "today": {
-    "home": "Caracas FC",
-    "away": "Monagas SC",
-    "league": "VEN",
-    "date": "31.10.2026 23:30",
-    "matchCode": "4576827",
-    "odds": 1.27,
-    "patternScore": 67.83,
-    "patternText": "218.184/321.671",
-    "picks": 3
+    "home": "Estudiantes de La Plata",
+    "away": "Instituto Cordoba",
+    "league": "ARJ",
+    "date": "01.11.2026 00:30",
+    "matchCode": "4475920",
+    "odds": 1.34,
+    "patternScore": 67.98,
+    "patternText": "171.337/252.043",
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Estudiantes de La Plata",
+      "away": "Instituto Cordoba",
+      "league": "ARJ",
+      "date": "01.11.2026 00:30",
+      "matchCode": "4475920",
+      "odds": 1.34,
+      "patternScore": 67.98,
+      "patternText": "171.337/252.043",
+      "picks": 2
+    },
     {
       "home": "Caracas FC",
       "away": "Monagas SC",
@@ -302,7 +313,7 @@
       "matchCode": "4576827",
       "odds": 1.27,
       "patternScore": 67.83,
-      "patternText": "218.184/321.671",
+      "patternText": "218.194/321.681",
       "picks": 3
     },
     {
@@ -313,7 +324,18 @@
       "matchCode": "4504409",
       "odds": 1.23,
       "patternScore": 68.16,
-      "patternText": "215.151/315.648",
+      "patternText": "215.161/315.658",
+      "picks": 2
+    },
+    {
+      "home": "Velez Sarsfiel",
+      "away": "San Lorenzo",
+      "league": "ARJ",
+      "date": "31.10.2026 22:15",
+      "matchCode": "4475922",
+      "odds": 1.2,
+      "patternScore": 70.66,
+      "patternText": "195.473/276.634",
       "picks": 2
     },
     {
@@ -324,33 +346,67 @@
       "matchCode": "4419825",
       "odds": 1.17,
       "patternScore": 69.99,
-      "patternText": "160.135/228.808",
+      "patternText": "160.149/228.822",
       "picks": 4
-    },
-    {
-      "home": "Sporting San J",
-      "away": "Club Sport Herediano",
-      "league": "KOSTA",
-      "date": "01.11.2026 02:00",
-      "matchCode": "4487106",
-      "odds": 1.14,
-      "patternScore": 70.03,
-      "patternText": "271.050/387.052",
-      "picks": 2
-    },
-    {
-      "home": "Nautico",
-      "away": "Avai",
-      "league": "BR2",
-      "date": "31.10.2026 22:30",
-      "matchCode": "4454044",
-      "odds": 1.14,
-      "patternScore": 69.98,
-      "patternText": "276.685/395.371",
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Krylya Sovetov",
+      "away": "Zenit St. Petersburg",
+      "league": "RUS",
+      "at": "31.10.2026 20:42",
+      "count": 3
+    },
+    {
+      "home": "Portland Timbers",
+      "away": "Houston Dynamo",
+      "league": "ABD",
+      "at": "31.10.2026 20:39",
+      "count": 7
+    },
+    {
+      "home": "Los Angeles FC",
+      "away": "Minnesota United",
+      "league": "ABD",
+      "at": "31.10.2026 20:38",
+      "count": 8
+    },
+    {
+      "home": "New England Revolution",
+      "away": "Inter Miami CF",
+      "league": "ABD",
+      "at": "31.10.2026 20:38",
+      "count": 18
+    },
+    {
+      "home": "Gremio FBPA",
+      "away": "Atletico Mineiro",
+      "league": "BRK",
+      "at": "31.10.2026 20:34",
+      "count": 5
+    },
+    {
+      "home": "Nashville SC",
+      "away": "New York Red Bulls",
+      "league": "ABD",
+      "at": "31.10.2026 20:34",
+      "count": 7
+    },
+    {
+      "home": "Atlanta United",
+      "away": "Toronto FC",
+      "league": "ABD",
+      "at": "31.10.2026 20:32",
+      "count": 10
+    },
+    {
+      "home": "SC Braga",
+      "away": "FC Famalicao",
+      "league": "POR",
+      "at": "31.10.2026 20:30",
+      "count": 10
+    },
     {
       "home": "SE Palmeiras",
       "away": "Club de Regatas Vasco da Gama",
@@ -364,62 +420,6 @@
       "league": "ABD",
       "at": "31.10.2026 20:17",
       "count": 17
-    },
-    {
-      "home": "LA Galaxy",
-      "away": "Austin FC",
-      "league": "ABD",
-      "at": "31.10.2026 20:17",
-      "count": 8
-    },
-    {
-      "home": "Sporting Charleroi",
-      "away": "La Louviere",
-      "league": "BEL",
-      "at": "31.10.2026 20:09",
-      "count": 3
-    },
-    {
-      "home": "Academico FC Viseu",
-      "away": "Rio Ave FC",
-      "league": "POR",
-      "at": "31.10.2026 20:08",
-      "count": 8
-    },
-    {
-      "home": "CS Maritimo",
-      "away": "CD Santa Clara",
-      "league": "POR",
-      "at": "31.10.2026 20:05",
-      "count": 5
-    },
-    {
-      "home": "Lommel United",
-      "away": "KAA Gent",
-      "league": "BEL",
-      "at": "31.10.2026 19:56",
-      "count": 10
-    },
-    {
-      "home": "Lokomotiv Moscow",
-      "away": "Spartak Moscow",
-      "league": "RUS",
-      "at": "31.10.2026 19:47",
-      "count": 7
-    },
-    {
-      "home": "Colorado Rapids",
-      "away": "Chicago Fire",
-      "league": "ABD",
-      "at": "31.10.2026 19:45",
-      "count": 6
-    },
-    {
-      "home": "FC Groningen",
-      "away": "Sparta Rotterdam",
-      "league": "HOL",
-      "at": "31.10.2026 19:21",
-      "count": 8
     }
   ],
   "paywall": {
