@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 15:28",
+  "updatedAt": "31.10.2026 15:49",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 98,
       "rate": 56.1
     },
-    "totalAnalyses": 298800,
+    "totalAnalyses": 298901,
     "leagues": 538,
     "pro": {
-      "won": 785,
-      "lost": 352,
-      "total": 1137,
-      "rate": 69.0
+      "won": 778,
+      "lost": 351,
+      "total": 1129,
+      "rate": 68.9
     },
     "insights": {
-      "won": 1285,
-      "lost": 603,
-      "total": 1888,
-      "rate": 68.1
+      "won": 1264,
+      "lost": 600,
+      "total": 1864,
+      "rate": 67.8
     },
     "coupons": {
       "won": 38,
@@ -47,8 +47,8 @@
       "total": 74,
       "rate": 51.4
     },
-    "analyses24h": 1232,
-    "analyses30d": 20340
+    "analyses24h": 1326,
+    "analyses30d": 20432
   },
   "recentWins": [
     {
@@ -303,17 +303,6 @@
       "picks": 5
     },
     {
-      "home": "US Catanzaro",
-      "away": "Calcio Padova",
-      "league": "İTB",
-      "date": "31.10.2026 16:15",
-      "matchCode": "4534769",
-      "odds": 1.26,
-      "patternScore": 68.27,
-      "patternText": "296.278/433.962",
-      "picks": 2
-    },
-    {
       "home": "Coritiba FBC",
       "away": "Vitoria Bahia",
       "league": "BR1",
@@ -331,12 +320,37 @@
       "date": "31.10.2026 20:00",
       "matchCode": "4481092",
       "odds": 1.24,
-      "patternScore": 68.19,
-      "patternText": "279.152/409.394",
-      "picks": 5
+      "patternScore": 68.22,
+      "patternText": "275.935/404.494",
+      "picks": 4
+    },
+    {
+      "home": "FC Lorient",
+      "away": "Stade Brest",
+      "league": "FR1",
+      "date": "31.10.2026 19:45",
+      "matchCode": "4476578",
+      "odds": 1.2,
+      "patternScore": 68.72,
+      "patternText": "195.519/284.504",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Ajax",
+      "away": "AZ Alkmaar",
+      "league": "HOL",
+      "at": "31.10.2026 15:34",
+      "count": 6
+    },
+    {
+      "home": "Sporting Kansas City",
+      "away": "FC Dallas",
+      "league": "ABD",
+      "at": "31.10.2026 15:32",
+      "count": 3
+    },
     {
       "home": "LA Galaxy",
       "away": "Austin FC",
@@ -392,20 +406,6 @@
       "league": "HOL",
       "at": "31.10.2026 15:07",
       "count": 4
-    },
-    {
-      "home": "RSC Anderlecht",
-      "away": "KVC Westerlo",
-      "league": "BEL",
-      "at": "31.10.2026 15:05",
-      "count": 3
-    },
-    {
-      "home": "Olympique Lyonnais",
-      "away": "Angers SCO",
-      "league": "FR1",
-      "at": "31.10.2026 15:04",
-      "count": 7
     }
   ],
   "paywall": {
