@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 12:39",
+  "updatedAt": "31.10.2026 12:59",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 67,
+      "won": 65,
       "lost": 47,
-      "total": 114,
-      "rate": 58.8
+      "total": 112,
+      "rate": 58.0
     },
-    "totalAnalyses": 298082,
+    "totalAnalyses": 298151,
     "leagues": 537,
     "pro": {
-      "won": 972,
-      "lost": 435,
-      "total": 1407,
+      "won": 970,
+      "lost": 434,
+      "total": 1404,
       "rate": 69.1
     },
     "insights": {
-      "won": 1604,
-      "lost": 743,
-      "total": 2347,
-      "rate": 68.3
+      "won": 1600,
+      "lost": 740,
+      "total": 2340,
+      "rate": 68.4
     },
     "coupons": {
       "won": 41,
-      "lost": 39,
-      "total": 80,
-      "rate": 51.2
+      "lost": 38,
+      "total": 79,
+      "rate": 51.9
     },
-    "analyses24h": 694,
-    "analyses30d": 19797
+    "analyses24h": 732,
+    "analyses30d": 19839
   },
   "recentWins": [
     {
@@ -269,17 +269,28 @@
     }
   ],
   "today": {
-    "home": "Dinamo Moscow",
-    "away": "Akhmat Grozny",
-    "league": "RUS",
-    "date": "31.10.2026 14:30",
-    "matchCode": "4485904",
-    "odds": 1.49,
-    "patternScore": 67.15,
-    "patternText": "311.933/464.520",
+    "home": "FK Qabala",
+    "away": "FK Qarabag",
+    "league": "AZERPL",
+    "date": "31.10.2026 13:30",
+    "matchCode": "4523923",
+    "odds": 1.8,
+    "patternScore": 67.03,
+    "patternText": "281.034/419.280",
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "FK Qabala",
+      "away": "FK Qarabag",
+      "league": "AZERPL",
+      "date": "31.10.2026 13:30",
+      "matchCode": "4523923",
+      "odds": 1.8,
+      "patternScore": 67.03,
+      "patternText": "281.034/419.280",
+      "picks": 2
+    },
     {
       "home": "Dinamo Moscow",
       "away": "Akhmat Grozny",
@@ -303,15 +314,15 @@
       "picks": 3
     },
     {
-      "home": "FC Schalke 04",
-      "away": "RB Leipzig",
-      "league": "AL1",
+      "home": "MFK Zilina",
+      "away": "Zemplin",
+      "league": "SLVK",
       "date": "31.10.2026 14:30",
-      "matchCode": "4495501",
-      "odds": 1.43,
-      "patternScore": 67.17,
-      "patternText": "330.640/492.265",
-      "picks": 3
+      "matchCode": "4484220",
+      "odds": 1.31,
+      "patternScore": 68.37,
+      "patternText": "294.756/431.143",
+      "picks": 2
     },
     {
       "home": "Sorrento Calcio",
@@ -323,20 +334,23 @@
       "patternScore": 68.21,
       "patternText": "279.431/409.670",
       "picks": 4
-    },
-    {
-      "home": "Giugliano Calcio",
-      "away": "Casertana FC",
-      "league": "İTC",
-      "date": "31.10.2026 13:30",
-      "matchCode": "4535933",
-      "odds": 1.25,
-      "patternScore": 67.9,
-      "patternText": "278.736/410.533",
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Coventry City",
+      "away": "Sunderland",
+      "league": "İNP",
+      "at": "31.10.2026 12:43",
+      "count": 7
+    },
+    {
+      "home": "Hull City",
+      "away": "Ipswich Town",
+      "league": "İNP",
+      "at": "31.10.2026 12:42",
+      "count": 6
+    },
     {
       "home": "FC Schalke 04",
       "away": "RB Leipzig",
@@ -392,20 +406,6 @@
       "league": "AL1",
       "at": "31.10.2026 11:58",
       "count": 17
-    },
-    {
-      "home": "Modena FC",
-      "away": "Mantova 1911",
-      "league": "İTB",
-      "at": "31.10.2026 11:57",
-      "count": 8
-    },
-    {
-      "home": "US Cremonese",
-      "away": "Benevento",
-      "league": "İTB",
-      "at": "31.10.2026 11:56",
-      "count": 10
     }
   ],
   "paywall": {

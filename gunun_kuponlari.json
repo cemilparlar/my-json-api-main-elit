@@ -1,14 +1,6 @@
 {
   "version": 1,
   "stats7": {
-    "surprise": {
-      "won": 11,
-      "lost": 16
-    },
-    "surprise_1": {
-      "won": 6,
-      "lost": 7
-    },
     "safe": {
       "won": 24,
       "lost": 9
@@ -21,8 +13,16 @@
       "won": 14,
       "lost": 6
     },
+    "surprise": {
+      "won": 11,
+      "lost": 15
+    },
     "surprise_3": {
       "won": 2,
+      "lost": 6
+    },
+    "surprise_1": {
+      "won": 6,
       "lost": 6
     },
     "surprise_2": {
@@ -104,8 +104,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "31.10.2026 12:39",
-  "updatedAtUtc": "2026-10-31T12:39:00Z",
+  "updatedAt": "31.10.2026 12:59",
+  "updatedAtUtc": "2026-10-31T12:59:00Z",
   "upcoming": [
     {
       "id": "20261031-06-3",
