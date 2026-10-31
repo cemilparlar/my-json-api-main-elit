@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 11:00",
+  "updatedAt": "31.10.2026 11:20",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 82,
+      "won": 81,
       "lost": 54,
-      "total": 136,
-      "rate": 60.3
+      "total": 135,
+      "rate": 60.0
     },
-    "totalAnalyses": 297606,
+    "totalAnalyses": 297786,
     "leagues": 537,
     "pro": {
-      "won": 1054,
-      "lost": 463,
-      "total": 1517,
+      "won": 1031,
+      "lost": 453,
+      "total": 1484,
       "rate": 69.5
     },
     "insights": {
-      "won": 1776,
-      "lost": 791,
-      "total": 2567,
+      "won": 1727,
+      "lost": 770,
+      "total": 2497,
       "rate": 69.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 81,
       "rate": 51.9
     },
-    "analyses24h": 351,
-    "analyses30d": 19433
+    "analyses24h": 527,
+    "analyses30d": 19609
   },
   "recentWins": [
     {
@@ -238,6 +238,24 @@
       "at": "31.10.2026 03:23"
     },
     {
+      "type": "updated",
+      "at": "31.10.2026 11:14",
+      "home": "Bursaspor",
+      "away": "Bandirmaspor"
+    },
+    {
+      "type": "kickoff",
+      "home": "NK Hrvace",
+      "away": "NK Dugopolje",
+      "at": "31.10.2026 11:45"
+    },
+    {
+      "type": "kickoff",
+      "home": "SV Darmstadt 98",
+      "away": "FC Magdeburg",
+      "at": "31.10.2026 12:00"
+    },
+    {
       "type": "kickoff",
       "home": "Bursaspor",
       "away": "Bandirmaspor",
@@ -245,21 +263,32 @@
     },
     {
       "type": "analysis",
-      "count": 351
+      "count": 527
     }
   ],
   "today": {
-    "home": "Borussia Monchengladbach",
-    "away": "SC Paderborn",
-    "league": "AL1",
-    "date": "31.10.2026 14:30",
-    "matchCode": "4495499",
-    "odds": 1.15,
-    "patternScore": 65.48,
-    "patternText": "368.257/562.356",
-    "picks": 3
+    "home": "SV Darmstadt 98",
+    "away": "FC Magdeburg",
+    "league": "AL2",
+    "date": "31.10.2026 12:00",
+    "matchCode": "4495822",
+    "odds": 1.16,
+    "patternScore": 68.36,
+    "patternText": "145.505/212.845",
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "SV Darmstadt 98",
+      "away": "FC Magdeburg",
+      "league": "AL2",
+      "date": "31.10.2026 12:00",
+      "matchCode": "4495822",
+      "odds": 1.16,
+      "patternScore": 68.36,
+      "patternText": "145.505/212.845",
+      "picks": 2
+    },
     {
       "home": "Borussia Monchengladbach",
       "away": "SC Paderborn",
@@ -303,89 +332,78 @@
       "patternScore": 67.9,
       "patternText": "305.240/449.524",
       "picks": 5
-    },
-    {
-      "home": "Aston Villa",
-      "away": "Fulham",
-      "league": "İNP",
-      "date": "31.10.2026 20:00",
-      "matchCode": "4481092",
-      "odds": 1.13,
-      "patternScore": 68.02,
-      "patternText": "121.638/178.819",
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "SC Corinthians",
-      "away": "Mirassol FC",
-      "league": "BR1",
-      "at": "30.10.2026 21:16",
-      "count": 7
-    },
-    {
-      "home": "Casa Pia AC",
-      "away": "Sporting CP",
-      "league": "POR",
-      "at": "30.10.2026 19:38",
-      "count": 14
-    },
-    {
-      "home": "Le Havre AC",
-      "away": "Paris Saint-Germain",
-      "league": "FR1",
-      "at": "30.10.2026 16:44",
-      "count": 16
-    },
-    {
-      "home": "Manchester City Women",
-      "away": "PSG Women",
-      "league": "ŞMP-K",
-      "at": "29.10.2026 18:56",
-      "count": 5
-    },
-    {
-      "home": "Austria Wien (",
-      "away": "Juventus Women",
-      "league": "ŞMP-K",
-      "at": "29.10.2026 17:13",
-      "count": 5
-    },
-    {
-      "home": "Paris Women",
-      "away": "Hacken Women",
-      "league": "ŞMP-K",
-      "at": "29.10.2026 15:36",
+      "home": "Levante UD",
+      "away": "Atletico Madrid",
+      "league": "İS1",
+      "at": "31.10.2026 11:16",
       "count": 2
     },
     {
-      "home": "Remo",
-      "away": "Botafogo de Futebol e Regatas",
-      "league": "BR1",
-      "at": "28.10.2026 23:58",
-      "count": 9
-    },
-    {
-      "home": "Juventus",
-      "away": "SSC Napoli",
-      "league": "İTA",
-      "at": "28.10.2026 21:12",
+      "home": "Real Sociedad",
+      "away": "Girona FC",
+      "league": "İS2",
+      "at": "31.10.2026 11:16",
       "count": 8
     },
     {
-      "home": "Aston Villa",
-      "away": "Fulham",
-      "league": "İNP",
-      "at": "28.10.2026 21:12",
-      "count": 9
+      "home": "Bursaspor",
+      "away": "Bandirmaspor",
+      "league": "T1L",
+      "at": "31.10.2026 11:14",
+      "count": 2
     },
     {
-      "home": "Eintracht Frankfurt",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "28.10.2026 21:12",
-      "count": 7
+      "home": "Fatih Karagumruk",
+      "away": "Pendikspor",
+      "league": "T1L",
+      "at": "31.10.2026 11:13",
+      "count": 5
+    },
+    {
+      "home": "Kocaelispor",
+      "away": "Rizespor",
+      "league": "TSL",
+      "at": "31.10.2026 11:13",
+      "count": 8
+    },
+    {
+      "home": "Annecy",
+      "away": "Montpellier HSC",
+      "league": "FR2",
+      "at": "31.10.2026 11:12",
+      "count": 10
+    },
+    {
+      "home": "Stade de Reims",
+      "away": "FC Sochaux",
+      "league": "FR2",
+      "at": "31.10.2026 11:12",
+      "count": 3
+    },
+    {
+      "home": "Lincoln City",
+      "away": "Birmingham City",
+      "league": "İNCL",
+      "at": "31.10.2026 11:08",
+      "count": 6
+    },
+    {
+      "home": "Chelsea",
+      "away": "Manchester United",
+      "league": "İNP",
+      "at": "31.10.2026 11:07",
+      "count": 6
+    },
+    {
+      "home": "Stoke City",
+      "away": "Preston North End",
+      "league": "İNCL",
+      "at": "31.10.2026 11:07",
+      "count": 6
     }
   ],
   "paywall": {
