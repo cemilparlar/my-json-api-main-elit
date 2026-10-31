@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 09:44",
+  "updatedAt": "31.10.2026 10:00",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 297606,
     "leagues": 537,
     "pro": {
-      "won": 1067,
-      "lost": 472,
-      "total": 1539,
+      "won": 1065,
+      "lost": 471,
+      "total": 1536,
       "rate": 69.3
     },
     "insights": {
-      "won": 1800,
-      "lost": 807,
-      "total": 2607,
+      "won": 1798,
+      "lost": 806,
+      "total": 2604,
       "rate": 69.0
     },
     "coupons": {
@@ -47,7 +47,7 @@
       "total": 81,
       "rate": 51.9
     },
-    "analyses24h": 353,
+    "analyses24h": 352,
     "analyses30d": 19440
   },
   "recentWins": [
@@ -244,8 +244,14 @@
       "at": "31.10.2026 10:30"
     },
     {
+      "type": "kickoff",
+      "home": "Bursaspor",
+      "away": "Bandirmaspor",
+      "at": "31.10.2026 13:00"
+    },
+    {
       "type": "analysis",
-      "count": 353
+      "count": 352
     }
   ],
   "today": {
@@ -270,17 +276,6 @@
       "patternScore": 65.48,
       "patternText": "368.257/562.356",
       "picks": 3
-    },
-    {
-      "home": "Van Spor FK",
-      "away": "Sariyer",
-      "league": "T1L",
-      "date": "31.10.2026 10:30",
-      "matchCode": "4498866",
-      "odds": 1.13,
-      "patternScore": 69.08,
-      "patternText": "271.824/393.480",
-      "picks": 1
     },
     {
       "home": "Bursaspor",
@@ -314,6 +309,17 @@
       "patternScore": 67.9,
       "patternText": "305.240/449.524",
       "picks": 5
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Fulham",
+      "league": "İNP",
+      "date": "31.10.2026 20:00",
+      "matchCode": "4481092",
+      "odds": 1.13,
+      "patternScore": 68.02,
+      "patternText": "121.638/178.819",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
