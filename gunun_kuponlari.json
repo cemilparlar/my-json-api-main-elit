@@ -104,8 +104,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "31.10.2026 19:18",
-  "updatedAtUtc": "2026-10-31T19:18:00Z",
+  "updatedAt": "31.10.2026 19:39",
+  "updatedAtUtc": "2026-10-31T19:39:00Z",
   "upcoming": [
     {
       "id": "20261031-16-1",
@@ -393,9 +393,9 @@
           "patternScore": 70.39,
           "patternText": "206.869/293.902",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 1",
+          "finalScore": "1 - 1",
+          "status": "lost"
         }
       ]
     },
@@ -1294,91 +1294,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "void"
-        }
-      ]
-    },
-    {
-      "id": "20261030-14-3",
-      "createdAt": "30.10.2026 11:00",
-      "createdAtUtc": "2026-10-30T11:00:00Z",
-      "size": 3,
-      "mbs": 1,
-      "totalOdds": 1.46,
-      "winChance": 34.49,
-      "firstKickoff": "30.10.2026 12:00",
-      "lastKickoff": "30.10.2026 13:30",
-      "status": "lost",
-      "completedAt": "30.10.2026 19:31",
-      "kind": "c70_3",
-      "group": "multi",
-      "formula": "3",
-      "effectiveOdds": 1.46,
-      "legs": [
-        {
-          "matchCode": "4571938",
-          "nesine": null,
-          "date": "30.10.2026 12:00",
-          "kickoffUtc": "2026-10-30T12:00:00Z",
-          "league": "ETH",
-          "home": "Sheger Ketema",
-          "away": "Negele Arsi Ket",
-          "league_tr": "ETH",
-          "home_tr": "Sheger Ketema",
-          "away_tr": "Negele Arsi Ket",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.22,
-          "probability": 91.67,
-          "patternScore": 70.01,
-          "patternText": "127.743/182.463",
-          "mbs": 1,
-          "firstHalf": "0 - 1",
-          "finalScore": "1 - 2",
-          "status": "won"
-        },
-        {
-          "matchCode": "4547656",
-          "nesine": null,
-          "date": "30.10.2026 13:00",
-          "kickoffUtc": "2026-10-30T13:00:00Z",
-          "league": "UGA",
-          "home": "Kataka",
-          "away": "Police",
-          "league_tr": "UGA",
-          "home_tr": "Kataka",
-          "away_tr": "Police",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.11,
-          "probability": 70.0,
-          "patternScore": 70.05,
-          "patternText": "448.428/640.177",
-          "mbs": 1,
-          "firstHalf": "0 - 1",
-          "finalScore": "1 - 2",
-          "status": "won"
-        },
-        {
-          "matchCode": "4447644",
-          "nesine": null,
-          "date": "30.10.2026 13:30",
-          "kickoffUtc": "2026-10-30T13:30:00Z",
-          "league": "ÖZB",
-          "home": "Xorazm Urganch",
-          "away": "Pakhtakor",
-          "league_tr": "ÖZB",
-          "home_tr": "Xorazm Urganch",
-          "away_tr": "Pakhtakor",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 71.88,
-          "patternScore": 70.32,
-          "patternText": "292.360/415.742",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "1 - 1",
-          "status": "lost"
         }
       ]
     }

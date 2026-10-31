@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 19:18",
+  "updatedAt": "31.10.2026 19:39",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 507,
-      "lost": 222,
-      "total": 729,
-      "rate": 69.5
+      "won": 530,
+      "lost": 227,
+      "total": 757,
+      "rate": 70.0
     },
-    "totalAnalyses": 299284,
+    "totalAnalyses": 299401,
     "leagues": 538,
     "pro": {
-      "won": 902,
-      "lost": 386,
-      "total": 1288,
-      "rate": 70.0
+      "won": 892,
+      "lost": 385,
+      "total": 1277,
+      "rate": 69.9
     },
     "insights": {
-      "won": 1515,
+      "won": 1507,
       "lost": 648,
-      "total": 2163,
-      "rate": 70.0
+      "total": 2155,
+      "rate": 69.9
     },
     "coupons": {
       "won": 30,
@@ -47,10 +47,23 @@
       "total": 64,
       "rate": 46.9
     },
-    "analyses24h": 1517,
-    "analyses30d": 20599
+    "analyses24h": 1627,
+    "analyses30d": 20715
   },
   "recentWins": [
+    {
+      "home": "Rudes",
+      "away": "Dinamo Zagreb",
+      "league": "HIR",
+      "date": "31.10.2026 17:00",
+      "prediction": "Match Result 1",
+      "odds": 8.02,
+      "probability": 75.0,
+      "patternScore": 64.45,
+      "firstHalf": "1 - 0",
+      "finalScore": "1 - 0",
+      "pro": false
+    },
     {
       "home": "Tanjong Pagar United",
       "away": "Albirex Niigata",
@@ -91,30 +104,17 @@
       "pro": false
     },
     {
-      "home": "Jahn Regensburg",
-      "away": "Hansa Rostock",
-      "league": "AL3",
-      "date": "31.10.2026 13:00",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.93,
-      "probability": 100.0,
-      "patternScore": 57.76,
-      "firstHalf": "0 - 1",
-      "finalScore": "2 - 1",
-      "pro": false
-    },
-    {
-      "home": "SD Guijuelo",
-      "away": "Sporting Gijon",
-      "league": "İSPK",
-      "date": "29.10.2026 19:00",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.81,
+      "home": "Rayo Vallecano",
+      "away": "Celta de Vigo",
+      "league": "İS1",
+      "date": "31.10.2026 15:15",
+      "prediction": "Over 2.5 Goals",
+      "odds": 1.94,
       "probability": 80.0,
-      "patternScore": 65.98,
+      "patternScore": 67.82,
       "firstHalf": "1 - 0",
-      "finalScore": "1 - 3",
-      "pro": true
+      "finalScore": "3 - 0",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -210,6 +210,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Rudes",
+      "away": "Dinamo Zagreb",
+      "prediction": "Match Result 1",
+      "odds": 8.02,
+      "at": "31.10.2026 17:00"
+    },
+    {
+      "type": "won",
       "home": "Tanjong Pagar United",
       "away": "Albirex Niigata",
       "prediction": "Handicap (1:0) 1",
@@ -230,14 +238,6 @@
       "away": "SV Wehen Wiesbaden",
       "prediction": "Over 3.5 Goals",
       "odds": 2.06,
-      "at": "31.10.2026 13:00"
-    },
-    {
-      "type": "won",
-      "home": "Jahn Regensburg",
-      "away": "Hansa Rostock",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.93,
       "at": "31.10.2026 13:00"
     },
     {
@@ -290,48 +290,37 @@
     }
   ],
   "today": {
-    "home": "Aston Villa",
-    "away": "Fulham",
-    "league": "İNP",
-    "date": "31.10.2026 20:00",
-    "matchCode": "4481092",
-    "odds": 1.32,
-    "patternScore": 67.67,
-    "patternText": "271.991/401.941",
-    "picks": 2
+    "home": "Caracas FC",
+    "away": "Monagas SC",
+    "league": "VEN",
+    "date": "31.10.2026 23:30",
+    "matchCode": "4576827",
+    "odds": 1.27,
+    "patternScore": 67.76,
+    "patternText": "217.338/320.725",
+    "picks": 3
   },
   "todayList": [
     {
-      "home": "Aston Villa",
-      "away": "Fulham",
-      "league": "İNP",
-      "date": "31.10.2026 20:00",
-      "matchCode": "4481092",
-      "odds": 1.32,
-      "patternScore": 67.67,
-      "patternText": "271.991/401.941",
-      "picks": 2
+      "home": "Caracas FC",
+      "away": "Monagas SC",
+      "league": "VEN",
+      "date": "31.10.2026 23:30",
+      "matchCode": "4576827",
+      "odds": 1.27,
+      "patternScore": 67.76,
+      "patternText": "217.338/320.725",
+      "picks": 3
     },
     {
-      "home": "FUS Rabat",
-      "away": "Husa Agadir",
-      "league": "FAS",
-      "date": "31.10.2026 20:00",
-      "matchCode": "4576932",
-      "odds": 1.17,
-      "patternScore": 68.75,
-      "patternText": "267.649/389.305",
-      "picks": 2
-    },
-    {
-      "home": "Albacete Balompie",
-      "away": "CE Sabadell",
-      "league": "İS2",
-      "date": "31.10.2026 20:00",
-      "matchCode": "4492800",
-      "odds": 1.15,
-      "patternScore": 67.67,
-      "patternText": "290.778/429.715",
+      "home": "Nautico",
+      "away": "Avai",
+      "league": "BR2",
+      "date": "31.10.2026 22:30",
+      "matchCode": "4454044",
+      "odds": 1.14,
+      "patternScore": 69.98,
+      "patternText": "276.657/395.337",
       "picks": 2
     },
     {
@@ -342,22 +331,40 @@
       "matchCode": "4475922",
       "odds": 1.09,
       "patternScore": 66.3,
-      "patternText": "320.012/482.707",
+      "patternText": "320.250/483.053",
       "picks": 3
     },
     {
-      "home": "Real Zaragoza",
-      "away": "Villarreal B",
-      "league": "İS3",
-      "date": "31.10.2026 20:00",
-      "matchCode": "4493620",
-      "odds": 1.08,
-      "patternScore": 69.8,
-      "patternText": "177.554/254.385",
+      "home": "LA Galaxy",
+      "away": "Austin FC",
+      "league": "ABD",
+      "date": "31.10.2026 21:00",
+      "matchCode": "4419828",
+      "odds": 1.09,
+      "patternScore": 65.64,
+      "patternText": "280.584/427.482",
       "picks": 2
+    },
+    {
+      "home": "Isidro Metapan",
+      "away": "Municipal Limen",
+      "league": "ELSAL",
+      "date": "01.11.2026 01:00",
+      "matchCode": "4504409",
+      "odds": 1.08,
+      "patternScore": 70.51,
+      "patternText": "151.570/214.970",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Groningen",
+      "away": "Sparta Rotterdam",
+      "league": "HOL",
+      "at": "31.10.2026 19:21",
+      "count": 8
+    },
     {
       "home": "FC Arouca",
       "away": "CD Nacional",
@@ -420,13 +427,6 @@
       "league": "RUS",
       "at": "31.10.2026 17:04",
       "count": 5
-    },
-    {
-      "home": "SC Telstar",
-      "away": "FC Utrecht",
-      "league": "HOL",
-      "at": "31.10.2026 16:53",
-      "count": 8
     }
   ],
   "paywall": {
