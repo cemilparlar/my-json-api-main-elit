@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 13:17",
+  "updatedAt": "31.10.2026 13:38",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 62,
-      "lost": 47,
-      "total": 109,
-      "rate": 56.9
+      "won": 61,
+      "lost": 44,
+      "total": 105,
+      "rate": 58.1
     },
-    "totalAnalyses": 298192,
+    "totalAnalyses": 298298,
     "leagues": 537,
     "pro": {
-      "won": 932,
-      "lost": 412,
-      "total": 1344,
-      "rate": 69.3
+      "won": 924,
+      "lost": 408,
+      "total": 1332,
+      "rate": 69.4
     },
     "insights": {
-      "won": 1529,
-      "lost": 700,
-      "total": 2229,
-      "rate": 68.6
+      "won": 1509,
+      "lost": 687,
+      "total": 2196,
+      "rate": 68.7
     },
     "coupons": {
       "won": 41,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 51.9
     },
-    "analyses24h": 769,
-    "analyses30d": 19877
+    "analyses24h": 864,
+    "analyses30d": 19976
   },
   "recentWins": [
     {
@@ -314,29 +314,57 @@
       "picks": 2
     },
     {
-      "home": "Werder Bremen",
-      "away": "TSG Hoffenheim",
-      "league": "AL1",
-      "date": "31.10.2026 14:30",
-      "matchCode": "4495500",
-      "odds": 1.25,
+      "home": "Bolton Wanderers",
+      "away": "Bristol City",
+      "league": "İNCL",
+      "date": "31.10.2026 15:00",
+      "matchCode": "4488825",
+      "odds": 1.31,
       "patternScore": 67.74,
-      "patternText": "238.572/352.192",
-      "picks": 2
+      "patternText": "313.304/462.543",
+      "picks": 3
     },
     {
-      "home": "FC Augsburg",
-      "away": "SC Freiburg",
-      "league": "AL1",
-      "date": "31.10.2026 14:30",
-      "matchCode": "4495497",
-      "odds": 1.25,
-      "patternScore": 68.16,
-      "patternText": "206.590/303.113",
-      "picks": 4
+      "home": "Stockport County",
+      "away": "AFC Wimbledon",
+      "league": "İN1",
+      "date": "31.10.2026 15:00",
+      "matchCode": "4489398",
+      "odds": 1.27,
+      "patternScore": 68.05,
+      "patternText": "194.678/286.070",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Cardiff City",
+      "league": "İNCL",
+      "at": "31.10.2026 13:38",
+      "count": 4
+    },
+    {
+      "home": "AFC Bournemouth",
+      "away": "Leeds United",
+      "league": "İNP",
+      "at": "31.10.2026 13:31",
+      "count": 5
+    },
+    {
+      "home": "Manchester City",
+      "away": "Brighton & Hove Albion",
+      "league": "İNP",
+      "at": "31.10.2026 13:31",
+      "count": 6
+    },
+    {
+      "home": "Millwall",
+      "away": "Derby County",
+      "league": "İNCL",
+      "at": "31.10.2026 13:22",
+      "count": 3
+    },
     {
       "home": "Bolton Wanderers",
       "away": "Bristol City",
@@ -378,34 +406,6 @@
       "league": "AL1",
       "at": "31.10.2026 13:12",
       "count": 16
-    },
-    {
-      "home": "FC Schalke 04",
-      "away": "RB Leipzig",
-      "league": "AL1",
-      "at": "31.10.2026 13:12",
-      "count": 7
-    },
-    {
-      "home": "Modena FC",
-      "away": "Mantova 1911",
-      "league": "İTB",
-      "at": "31.10.2026 13:11",
-      "count": 5
-    },
-    {
-      "home": "Coventry City",
-      "away": "Sunderland",
-      "league": "İNP",
-      "at": "31.10.2026 12:43",
-      "count": 7
-    },
-    {
-      "home": "Hull City",
-      "away": "Ipswich Town",
-      "league": "İNP",
-      "at": "31.10.2026 12:42",
-      "count": 6
     }
   ],
   "paywall": {
