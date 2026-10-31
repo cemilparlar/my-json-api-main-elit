@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 11:20",
+  "updatedAt": "31.10.2026 11:38",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 81,
+      "won": 76,
       "lost": 54,
-      "total": 135,
-      "rate": 60.0
+      "total": 130,
+      "rate": 58.5
     },
-    "totalAnalyses": 297786,
+    "totalAnalyses": 297854,
     "leagues": 537,
     "pro": {
-      "won": 1031,
-      "lost": 453,
-      "total": 1484,
-      "rate": 69.5
+      "won": 1008,
+      "lost": 446,
+      "total": 1454,
+      "rate": 69.3
     },
     "insights": {
-      "won": 1727,
-      "lost": 770,
-      "total": 2497,
-      "rate": 69.2
+      "won": 1690,
+      "lost": 760,
+      "total": 2450,
+      "rate": 69.0
     },
     "coupons": {
       "won": 42,
@@ -47,8 +47,8 @@
       "total": 81,
       "rate": 51.9
     },
-    "analyses24h": 527,
-    "analyses30d": 19609
+    "analyses24h": 574,
+    "analyses30d": 19661
   },
   "recentWins": [
     {
@@ -257,59 +257,59 @@
     },
     {
       "type": "kickoff",
-      "home": "Bursaspor",
-      "away": "Bandirmaspor",
-      "at": "31.10.2026 13:00"
+      "home": "Kaiserslautern",
+      "away": "Hertha BSC",
+      "at": "31.10.2026 12:00"
     },
     {
       "type": "analysis",
-      "count": 527
+      "count": 574
     }
   ],
   "today": {
-    "home": "SV Darmstadt 98",
-    "away": "FC Magdeburg",
-    "league": "AL2",
-    "date": "31.10.2026 12:00",
-    "matchCode": "4495822",
-    "odds": 1.16,
-    "patternScore": 68.36,
-    "patternText": "145.505/212.845",
-    "picks": 2
+    "home": "Norwich City",
+    "away": "Watford",
+    "league": "İNCL",
+    "date": "31.10.2026 12:30",
+    "matchCode": "4488830",
+    "odds": 2.17,
+    "patternScore": 67.04,
+    "patternText": "282.213/420.968",
+    "picks": 1
   },
   "todayList": [
     {
-      "home": "SV Darmstadt 98",
-      "away": "FC Magdeburg",
-      "league": "AL2",
-      "date": "31.10.2026 12:00",
-      "matchCode": "4495822",
-      "odds": 1.16,
-      "patternScore": 68.36,
-      "patternText": "145.505/212.845",
-      "picks": 2
-    },
-    {
-      "home": "Borussia Monchengladbach",
-      "away": "SC Paderborn",
-      "league": "AL1",
-      "date": "31.10.2026 14:30",
-      "matchCode": "4495499",
-      "odds": 1.15,
-      "patternScore": 65.48,
-      "patternText": "368.257/562.356",
-      "picks": 3
-    },
-    {
-      "home": "Bursaspor",
-      "away": "Bandirmaspor",
-      "league": "T1L",
-      "date": "31.10.2026 13:00",
-      "matchCode": "4498861",
-      "odds": 1.07,
-      "patternScore": 69.34,
-      "patternText": "309.167/445.888",
+      "home": "Norwich City",
+      "away": "Watford",
+      "league": "İNCL",
+      "date": "31.10.2026 12:30",
+      "matchCode": "4488830",
+      "odds": 2.17,
+      "patternScore": 67.04,
+      "patternText": "282.213/420.968",
       "picks": 1
+    },
+    {
+      "home": "MSV Duisburg",
+      "away": "VfB Stuttgart Amat.",
+      "league": "AL3",
+      "date": "31.10.2026 13:00",
+      "matchCode": "4517702",
+      "odds": 1.57,
+      "patternScore": 66.6,
+      "patternText": "218.836/328.592",
+      "picks": 4
+    },
+    {
+      "home": "Stade de Reims",
+      "away": "FC Sochaux",
+      "league": "FR2",
+      "date": "31.10.2026 13:00",
+      "matchCode": "4476907",
+      "odds": 1.44,
+      "patternScore": 68.34,
+      "patternText": "292.017/427.280",
+      "picks": 2
     },
     {
       "home": "Tottenham Hotspur",
@@ -323,18 +323,25 @@
       "picks": 3
     },
     {
-      "home": "AC Milan",
-      "away": "Inter",
-      "league": "İTA",
-      "date": "31.10.2026 19:45",
-      "matchCode": "4475139",
-      "odds": 1.34,
-      "patternScore": 67.9,
-      "patternText": "305.240/449.524",
-      "picks": 5
+      "home": "Stoke City",
+      "away": "Preston North End",
+      "league": "İNCL",
+      "date": "31.10.2026 12:30",
+      "matchCode": "4488833",
+      "odds": 1.29,
+      "patternScore": 68.0,
+      "patternText": "190.719/280.469",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Sudtirol",
+      "away": "Cesena FC",
+      "league": "İTB",
+      "at": "31.10.2026 11:28",
+      "count": 7
+    },
     {
       "home": "Levante UD",
       "away": "Atletico Madrid",
@@ -395,13 +402,6 @@
       "home": "Chelsea",
       "away": "Manchester United",
       "league": "İNP",
-      "at": "31.10.2026 11:07",
-      "count": 6
-    },
-    {
-      "home": "Stoke City",
-      "away": "Preston North End",
-      "league": "İNCL",
       "at": "31.10.2026 11:07",
       "count": 6
     }
