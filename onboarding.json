@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 02:35",
+  "updatedAt": "31.10.2026 03:23",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 66,
-      "lost": 47,
-      "total": 113,
-      "rate": 58.4
+      "won": 83,
+      "lost": 54,
+      "total": 137,
+      "rate": 60.6
     },
     "totalAnalyses": 297355,
     "leagues": 538,
     "pro": {
-      "won": 1102,
-      "lost": 486,
-      "total": 1588,
-      "rate": 69.4
-    },
-    "insights": {
-      "won": 1880,
-      "lost": 834,
-      "total": 2714,
+      "won": 1110,
+      "lost": 491,
+      "total": 1601,
       "rate": 69.3
     },
+    "insights": {
+      "won": 1888,
+      "lost": 840,
+      "total": 2728,
+      "rate": 69.2
+    },
     "coupons": {
-      "won": 40,
-      "lost": 38,
-      "total": 78,
-      "rate": 51.3
+      "won": 42,
+      "lost": 39,
+      "total": 81,
+      "rate": 51.9
     },
     "analyses24h": 357,
     "analyses30d": 19450
@@ -119,6 +119,43 @@
   ],
   "recentCoupons": [
     {
+      "size": 2,
+      "totalOdds": 1.17,
+      "winChance": 50.0,
+      "completedAt": "31.10.2026 03:23",
+      "legs": [
+        {
+          "home": "West Ham United U21",
+          "away": "Sheffield United",
+          "prediction": "Double Chance 12",
+          "odds": 1.06,
+          "finalScore": null
+        },
+        {
+          "home": "Neuchatel Xamax",
+          "away": "FC Aarau",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "1 - 3"
+        }
+      ]
+    },
+    {
+      "size": 1,
+      "totalOdds": 1.1,
+      "winChance": 70.4,
+      "completedAt": "31.10.2026 03:23",
+      "legs": [
+        {
+          "home": "Coquimbo Unido",
+          "away": "Union La Calera",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "1 - 0"
+        }
+      ]
+    },
+    {
       "size": 1,
       "totalOdds": 1.1,
       "winChance": 70.23,
@@ -145,43 +182,6 @@
           "prediction": "Double Chance 1X",
           "odds": 1.07,
           "finalScore": "1 - 0"
-        }
-      ]
-    },
-    {
-      "size": 2,
-      "totalOdds": 1.19,
-      "winChance": 49.96,
-      "completedAt": "30.10.2026 15:24",
-      "legs": [
-        {
-          "home": "Ballkani",
-          "away": "Drenica Skender",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "4 - 0"
-        },
-        {
-          "home": "Emirates Club",
-          "away": "Dibba Al Fujairah",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
-          "finalScore": "3 - 0"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.1,
-      "winChance": 70.88,
-      "completedAt": "30.10.2026 13:18",
-      "legs": [
-        {
-          "home": "Dong A Thanh Hoa",
-          "away": "Hong Linh Ha Tinh",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.1,
-          "finalScore": "1 - 1"
         }
       ]
     }
@@ -222,26 +222,20 @@
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.06,
-      "at": "31.10.2026 01:13"
+      "odds": 1.08,
+      "at": "31.10.2026 03:23"
     },
     {
       "type": "coupon",
       "size": 2,
-      "odds": 1.24,
-      "at": "31.10.2026 01:13"
+      "odds": 1.22,
+      "at": "31.10.2026 03:23"
     },
     {
       "type": "coupon",
-      "size": 1,
-      "odds": 1.08,
-      "at": "30.10.2026 23:04"
-    },
-    {
-      "type": "updated",
-      "at": "30.10.2026 21:16",
-      "home": "SC Corinthians",
-      "away": "Mirassol FC"
+      "size": 3,
+      "odds": 1.32,
+      "at": "31.10.2026 03:23"
     },
     {
       "type": "updated",
@@ -257,15 +251,21 @@
     },
     {
       "type": "updated",
-      "at": "30.10.2026 22:55",
-      "home": "Correcaminos UAT",
-      "away": "Venados FC"
+      "at": "30.10.2026 23:33",
+      "home": "Club Puebla",
+      "away": "Pumas UNAM"
+    },
+    {
+      "type": "updated",
+      "at": "31.10.2026 01:49",
+      "home": "Fagiano Okayama",
+      "away": "FC Tokyo"
     },
     {
       "type": "updated",
       "at": "30.10.2026 23:33",
-      "home": "Club Puebla",
-      "away": "Pumas UNAM"
+      "home": "South Hobart",
+      "away": "Preston Lions"
     }
   ],
   "today": {
@@ -276,7 +276,7 @@
     "matchCode": "4487255",
     "odds": 1.63,
     "patternScore": 67.91,
-    "patternText": "205.388/302.443",
+    "patternText": "205.414/302.479",
     "picks": 6
   },
   "todayList": [
@@ -288,7 +288,7 @@
       "matchCode": "4487255",
       "odds": 1.63,
       "patternScore": 67.91,
-      "patternText": "205.388/302.443",
+      "patternText": "205.414/302.479",
       "picks": 6
     },
     {
@@ -299,7 +299,7 @@
       "matchCode": "4488020",
       "odds": 1.34,
       "patternScore": 68.81,
-      "patternText": "249.513/362.615",
+      "patternText": "249.575/362.705",
       "picks": 1
     },
     {
@@ -310,7 +310,7 @@
       "matchCode": "4487253",
       "odds": 1.34,
       "patternScore": 68.29,
-      "patternText": "247.896/362.987",
+      "patternText": "247.958/363.077",
       "picks": 6
     },
     {
@@ -320,8 +320,8 @@
       "date": "31.10.2026 05:00",
       "matchCode": "4443067",
       "odds": 1.33,
-      "patternScore": 67.97,
-      "patternText": "246.986/363.352",
+      "patternScore": 67.98,
+      "patternText": "247.056/363.450",
       "picks": 1
     },
     {
@@ -332,7 +332,7 @@
       "matchCode": "4488017",
       "odds": 1.33,
       "patternScore": 68.02,
-      "patternText": "249.465/366.777",
+      "patternText": "249.535/366.875",
       "picks": 2
     }
   ],
