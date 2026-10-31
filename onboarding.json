@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 12:59",
+  "updatedAt": "31.10.2026 13:17",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 65,
+      "won": 62,
       "lost": 47,
-      "total": 112,
-      "rate": 58.0
+      "total": 109,
+      "rate": 56.9
     },
-    "totalAnalyses": 298151,
+    "totalAnalyses": 298192,
     "leagues": 537,
     "pro": {
-      "won": 970,
-      "lost": 434,
-      "total": 1404,
-      "rate": 69.1
+      "won": 932,
+      "lost": 412,
+      "total": 1344,
+      "rate": 69.3
     },
     "insights": {
-      "won": 1600,
-      "lost": 740,
-      "total": 2340,
-      "rate": 68.4
+      "won": 1529,
+      "lost": 700,
+      "total": 2229,
+      "rate": 68.6
     },
     "coupons": {
       "won": 41,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 51.9
     },
-    "analyses24h": 732,
-    "analyses30d": 19839
+    "analyses24h": 769,
+    "analyses30d": 19877
   },
   "recentWins": [
     {
@@ -222,20 +222,20 @@
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.1,
-      "at": "31.10.2026 05:11"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.08,
-      "at": "31.10.2026 03:23"
+      "odds": 1.09,
+      "at": "31.10.2026 13:17"
     },
     {
       "type": "coupon",
       "size": 2,
-      "odds": 1.22,
-      "at": "31.10.2026 03:23"
+      "odds": 1.16,
+      "at": "31.10.2026 13:17"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.28,
+      "at": "31.10.2026 13:17"
     },
     {
       "type": "updated",
@@ -269,28 +269,17 @@
     }
   ],
   "today": {
-    "home": "FK Qabala",
-    "away": "FK Qarabag",
-    "league": "AZERPL",
-    "date": "31.10.2026 13:30",
-    "matchCode": "4523923",
-    "odds": 1.8,
-    "patternScore": 67.03,
-    "patternText": "281.034/419.280",
+    "home": "Dinamo Moscow",
+    "away": "Akhmat Grozny",
+    "league": "RUS",
+    "date": "31.10.2026 14:30",
+    "matchCode": "4485904",
+    "odds": 1.49,
+    "patternScore": 67.15,
+    "patternText": "311.933/464.520",
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "FK Qabala",
-      "away": "FK Qarabag",
-      "league": "AZERPL",
-      "date": "31.10.2026 13:30",
-      "matchCode": "4523923",
-      "odds": 1.8,
-      "patternScore": 67.03,
-      "patternText": "281.034/419.280",
-      "picks": 2
-    },
     {
       "home": "Dinamo Moscow",
       "away": "Akhmat Grozny",
@@ -325,18 +314,85 @@
       "picks": 2
     },
     {
-      "home": "Sorrento Calcio",
-      "away": "SS Altamura",
-      "league": "İTC",
-      "date": "31.10.2026 13:30",
-      "matchCode": "4535936",
-      "odds": 1.27,
-      "patternScore": 68.21,
-      "patternText": "279.431/409.670",
+      "home": "Werder Bremen",
+      "away": "TSG Hoffenheim",
+      "league": "AL1",
+      "date": "31.10.2026 14:30",
+      "matchCode": "4495500",
+      "odds": 1.25,
+      "patternScore": 67.74,
+      "patternText": "238.572/352.192",
+      "picks": 2
+    },
+    {
+      "home": "FC Augsburg",
+      "away": "SC Freiburg",
+      "league": "AL1",
+      "date": "31.10.2026 14:30",
+      "matchCode": "4495497",
+      "odds": 1.25,
+      "patternScore": 68.16,
+      "patternText": "206.590/303.113",
       "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Bolton Wanderers",
+      "away": "Bristol City",
+      "league": "İNCL",
+      "at": "31.10.2026 13:14",
+      "count": 6
+    },
+    {
+      "home": "FC Augsburg",
+      "away": "SC Freiburg",
+      "league": "AL1",
+      "at": "31.10.2026 13:13",
+      "count": 10
+    },
+    {
+      "home": "Werder Bremen",
+      "away": "TSG Hoffenheim",
+      "league": "AL1",
+      "at": "31.10.2026 13:13",
+      "count": 7
+    },
+    {
+      "home": "Borussia Monchengladbach",
+      "away": "SC Paderborn",
+      "league": "AL1",
+      "at": "31.10.2026 13:13",
+      "count": 6
+    },
+    {
+      "home": "Bologna FC",
+      "away": "AC Monza",
+      "league": "İTA",
+      "at": "31.10.2026 13:12",
+      "count": 5
+    },
+    {
+      "home": "Bayer Leverkusen",
+      "away": "VfB Stuttgart",
+      "league": "AL1",
+      "at": "31.10.2026 13:12",
+      "count": 16
+    },
+    {
+      "home": "FC Schalke 04",
+      "away": "RB Leipzig",
+      "league": "AL1",
+      "at": "31.10.2026 13:12",
+      "count": 7
+    },
+    {
+      "home": "Modena FC",
+      "away": "Mantova 1911",
+      "league": "İTB",
+      "at": "31.10.2026 13:11",
+      "count": 5
+    },
     {
       "home": "Coventry City",
       "away": "Sunderland",
@@ -350,62 +406,6 @@
       "league": "İNP",
       "at": "31.10.2026 12:42",
       "count": 6
-    },
-    {
-      "home": "FC Schalke 04",
-      "away": "RB Leipzig",
-      "league": "AL1",
-      "at": "31.10.2026 12:38",
-      "count": 5
-    },
-    {
-      "home": "Borussia Monchengladbach",
-      "away": "SC Paderborn",
-      "league": "AL1",
-      "at": "31.10.2026 12:38",
-      "count": 5
-    },
-    {
-      "home": "Bologna FC",
-      "away": "AC Monza",
-      "league": "İTA",
-      "at": "31.10.2026 12:35",
-      "count": 4
-    },
-    {
-      "home": "Levante UD",
-      "away": "Atletico Madrid",
-      "league": "İS1",
-      "at": "31.10.2026 12:31",
-      "count": 4
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "SC Freiburg",
-      "league": "AL1",
-      "at": "31.10.2026 12:02",
-      "count": 9
-    },
-    {
-      "home": "Dinamo Moscow",
-      "away": "Akhmat Grozny",
-      "league": "RUS",
-      "at": "31.10.2026 12:01",
-      "count": 6
-    },
-    {
-      "home": "Werder Bremen",
-      "away": "TSG Hoffenheim",
-      "league": "AL1",
-      "at": "31.10.2026 12:00",
-      "count": 7
-    },
-    {
-      "home": "Bayer Leverkusen",
-      "away": "VfB Stuttgart",
-      "league": "AL1",
-      "at": "31.10.2026 11:58",
-      "count": 17
     }
   ],
   "paywall": {
