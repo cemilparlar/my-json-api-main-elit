@@ -34,11 +34,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 10,
+      "won": 11,
       "lost": 8
     },
     "c70_1": {
-      "won": 6,
+      "won": 7,
       "lost": 3
     },
     "c70_2": {
@@ -88,11 +88,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 10,
+      "won": 11,
       "lost": 8
     },
     "c70_1": {
-      "won": 6,
+      "won": 7,
       "lost": 3
     },
     "c70_2": {
@@ -104,8 +104,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "31.10.2026 22:01",
-  "updatedAtUtc": "2026-10-31T22:01:00Z",
+  "updatedAt": "31.10.2026 22:15",
+  "updatedAtUtc": "2026-10-31T22:15:00Z",
   "upcoming": [
     {
       "id": "20261031-16-1",
@@ -141,47 +141,6 @@
           "probability": 82.14,
           "patternScore": 71.45,
           "patternText": "354.289/495.838",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261031-22-1",
-      "createdAt": "31.10.2026 19:18",
-      "createdAtUtc": "2026-10-31T19:18:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.06,
-      "winChance": 70.57,
-      "firstKickoff": "31.10.2026 20:00",
-      "lastKickoff": "31.10.2026 20:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.06,
-      "legs": [
-        {
-          "matchCode": "4493620",
-          "nesine": null,
-          "date": "31.10.2026 20:00",
-          "kickoffUtc": "2026-10-31T20:00:00Z",
-          "league": "İS3",
-          "home": "Real Zaragoza",
-          "away": "Villarreal B",
-          "league_tr": "İS3",
-          "home_tr": "Zaragoza",
-          "away_tr": "Villarreal B",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.06,
-          "probability": 82.79,
-          "patternScore": 70.57,
-          "patternText": "187.583/265.822",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
@@ -295,6 +254,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261031-22-1",
+      "createdAt": "31.10.2026 19:18",
+      "createdAtUtc": "2026-10-31T19:18:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.06,
+      "winChance": 70.57,
+      "firstKickoff": "31.10.2026 20:00",
+      "lastKickoff": "31.10.2026 20:00",
+      "status": "won",
+      "completedAt": "31.10.2026 22:15",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.06,
+      "legs": [
+        {
+          "matchCode": "4493620",
+          "nesine": null,
+          "date": "31.10.2026 20:00",
+          "kickoffUtc": "2026-10-31T20:00:00Z",
+          "league": "İS3",
+          "home": "Real Zaragoza",
+          "away": "Villarreal B",
+          "league_tr": "İS3",
+          "home_tr": "Zaragoza",
+          "away_tr": "Villarreal B",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.06,
+          "probability": 82.79,
+          "patternScore": 70.57,
+          "patternText": "187.583/265.822",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "2 - 2",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261031-20-2",
       "createdAt": "31.10.2026 17:07",
