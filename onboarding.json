@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 12:26",
+  "updatedAt": "01.11.2026 12:37",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 539,
-      "lost": 238,
-      "total": 777,
-      "rate": 69.4
+      "won": 521,
+      "lost": 235,
+      "total": 756,
+      "rate": 68.9
     },
-    "totalAnalyses": 300462,
+    "totalAnalyses": 300526,
     "leagues": 539,
     "pro": {
-      "won": 743,
-      "lost": 329,
-      "total": 1072,
+      "won": 737,
+      "lost": 327,
+      "total": 1064,
       "rate": 69.3
     },
     "insights": {
-      "won": 1313,
-      "lost": 579,
-      "total": 1892,
-      "rate": 69.4
+      "won": 1286,
+      "lost": 572,
+      "total": 1858,
+      "rate": 69.2
     },
     "coupons": {
       "won": 28,
@@ -47,8 +47,8 @@
       "total": 60,
       "rate": 46.7
     },
-    "analyses24h": 2098,
-    "analyses30d": 21363
+    "analyses24h": 2055,
+    "analyses30d": 21359
   },
   "recentWins": [
     {
@@ -298,9 +298,9 @@
       "date": "01.11.2026 14:00",
       "matchCode": "4534768",
       "odds": 1.6,
-      "patternScore": 67.52,
-      "patternText": "171.565/254.080",
-      "picks": 6
+      "patternScore": 67.35,
+      "patternText": "262.563/389.874",
+      "picks": 7
     },
     {
       "home": "Sporting Charleroi",
@@ -337,6 +337,34 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Bodrum FK",
+      "away": "Umraniyespor",
+      "league": "T1L",
+      "at": "01.11.2026 12:34",
+      "count": 5
+    },
+    {
+      "home": "FC Groningen",
+      "away": "Sparta Rotterdam",
+      "league": "HOL",
+      "at": "01.11.2026 12:31",
+      "count": 13
+    },
+    {
+      "home": "FC Arouca",
+      "away": "CD Nacional",
+      "league": "POR",
+      "at": "01.11.2026 12:28",
+      "count": 11
+    },
+    {
+      "home": "AD Ceuta",
+      "away": "Sporting Gijon",
+      "league": "İS2",
+      "at": "01.11.2026 12:27",
+      "count": 6
+    },
     {
       "home": "Frosinone Calcio",
       "away": "Torino FC",
@@ -378,34 +406,6 @@
       "league": "HOL",
       "at": "01.11.2026 12:21",
       "count": 9
-    },
-    {
-      "home": "Excelsior Rotterdam",
-      "away": "FC Twente",
-      "league": "HOL",
-      "at": "01.11.2026 12:20",
-      "count": 15
-    },
-    {
-      "home": "Istanbul Basaksehir",
-      "away": "Samsunspor",
-      "league": "TSL",
-      "at": "01.11.2026 12:19",
-      "count": 9
-    },
-    {
-      "home": "CD Eldense",
-      "away": "Granada CF",
-      "league": "İS2",
-      "at": "01.11.2026 12:18",
-      "count": 7
-    },
-    {
-      "home": "Igdir FK",
-      "away": "Antalyaspor",
-      "league": "T1L",
-      "at": "01.11.2026 12:17",
-      "count": 4
     }
   ],
   "paywall": {
