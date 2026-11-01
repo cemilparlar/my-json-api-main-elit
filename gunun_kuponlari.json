@@ -104,8 +104,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "01.11.2026 04:59",
-  "updatedAtUtc": "2026-11-01T04:59:00Z",
+  "updatedAt": "01.11.2026 05:14",
+  "updatedAtUtc": "2026-11-01T05:14:00Z",
   "upcoming": [
     {
       "id": "20261101-00-2",
@@ -262,7 +262,7 @@
       "winChance": 49.17,
       "firstKickoff": "01.11.2026 05:00",
       "lastKickoff": "01.11.2026 05:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_2",
       "group": "multi",
@@ -289,7 +289,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4443072",
@@ -308,6 +308,47 @@
           "probability": 74.24,
           "patternScore": 70.0,
           "patternText": "281.270/401.816",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live"
+        }
+      ]
+    },
+    {
+      "id": "20261101-08-1",
+      "createdAt": "01.11.2026 05:14",
+      "createdAtUtc": "2026-11-01T05:14:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.12,
+      "winChance": 70.19,
+      "firstKickoff": "01.11.2026 07:00",
+      "lastKickoff": "01.11.2026 07:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.12,
+      "legs": [
+        {
+          "matchCode": "4487251",
+          "nesine": null,
+          "date": "01.11.2026 07:00",
+          "kickoffUtc": "2026-11-01T07:00:00Z",
+          "league": "JAP",
+          "home": "FC Machida Zelvia",
+          "away": "Gamba Osaka",
+          "league_tr": "JAP",
+          "home_tr": "Machida Zelvia",
+          "away_tr": "Gamba Osaka",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.12,
+          "probability": 83.33,
+          "patternScore": 70.19,
+          "patternText": "165.111/235.246",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,

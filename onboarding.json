@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 04:59",
+  "updatedAt": "01.11.2026 05:14",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 581,
-      "lost": 241,
-      "total": 822,
-      "rate": 70.7
+      "won": 539,
+      "lost": 220,
+      "total": 759,
+      "rate": 71.0
     },
-    "totalAnalyses": 299993,
+    "totalAnalyses": 300007,
     "leagues": 538,
     "pro": {
-      "won": 829,
-      "lost": 342,
-      "total": 1171,
-      "rate": 70.8
+      "won": 800,
+      "lost": 339,
+      "total": 1139,
+      "rate": 70.2
     },
     "insights": {
-      "won": 1438,
-      "lost": 601,
-      "total": 2039,
-      "rate": 70.5
+      "won": 1408,
+      "lost": 598,
+      "total": 2006,
+      "rate": 70.2
     },
     "coupons": {
       "won": 26,
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 44.8
     },
-    "analyses24h": 1980,
-    "analyses30d": 21146
+    "analyses24h": 1929,
+    "analyses30d": 21158
   },
   "recentWins": [
     {
@@ -215,6 +215,12 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.12,
+      "at": "01.11.2026 05:14"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.09,
       "at": "01.11.2026 03:09"
     },
@@ -223,12 +229,6 @@
       "size": 2,
       "odds": 1.35,
       "at": "01.11.2026 03:09"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.14,
-      "at": "01.11.2026 01:05"
     },
     {
       "type": "updated",
@@ -262,17 +262,28 @@
     }
   ],
   "today": {
-    "home": "FC Orenburg",
-    "away": "CSKA Moscow",
-    "league": "RUS",
-    "date": "01.11.2026 10:00",
-    "matchCode": "4485908",
-    "odds": 1.42,
-    "patternScore": 67.28,
-    "patternText": "233.121/346.477",
-    "picks": 5
+    "home": "Nardo",
+    "away": "Kvik Trond",
+    "league": "NOR4",
+    "date": "01.11.2026 11:00",
+    "matchCode": "4429619",
+    "odds": 1.48,
+    "patternScore": 68.03,
+    "patternText": "157.627/231.688",
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Nardo",
+      "away": "Kvik Trond",
+      "league": "NOR4",
+      "date": "01.11.2026 11:00",
+      "matchCode": "4429619",
+      "odds": 1.48,
+      "patternScore": 68.03,
+      "patternText": "157.627/231.688",
+      "picks": 1
+    },
     {
       "home": "FC Orenburg",
       "away": "CSKA Moscow",
@@ -285,6 +296,28 @@
       "picks": 5
     },
     {
+      "home": "Auda",
+      "away": "Fs Jelgava",
+      "league": "LET",
+      "date": "01.11.2026 11:00",
+      "matchCode": "4446807",
+      "odds": 1.39,
+      "patternScore": 67.98,
+      "patternText": "226.935/333.837",
+      "picks": 1
+    },
+    {
+      "home": "Liepaja",
+      "away": "Super Nova",
+      "league": "LET",
+      "date": "01.11.2026 11:00",
+      "matchCode": "4446805",
+      "odds": 1.35,
+      "patternScore": 67.96,
+      "patternText": "245.371/361.042",
+      "picks": 2
+    },
+    {
       "home": "Perth Glory",
       "away": "Adelaide United",
       "league": "AVUS",
@@ -294,39 +327,6 @@
       "patternScore": 68.14,
       "patternText": "241.090/353.829",
       "picks": 2
-    },
-    {
-      "home": "FC Machida Zelvia",
-      "away": "Gamba Osaka",
-      "league": "JAP",
-      "date": "01.11.2026 07:00",
-      "matchCode": "4487251",
-      "odds": 1.3,
-      "patternScore": 67.88,
-      "patternText": "235.406/346.812",
-      "picks": 5
-    },
-    {
-      "home": "Melbourne Victory",
-      "away": "Newcastle Jets",
-      "league": "AVUSTW",
-      "date": "01.11.2026 06:45",
-      "matchCode": "4551567",
-      "odds": 1.28,
-      "patternScore": 68.31,
-      "patternText": "204.162/298.897",
-      "picks": 1
-    },
-    {
-      "home": "Fc Ordino",
-      "away": "Descaldes",
-      "league": "AND",
-      "date": "01.11.2026 10:00",
-      "matchCode": "4551742",
-      "odds": 1.2,
-      "patternScore": 67.75,
-      "patternText": "233.112/344.093",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
