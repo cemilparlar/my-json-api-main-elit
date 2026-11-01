@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 05:14",
+  "updatedAt": "01.11.2026 05:29",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 759,
       "rate": 71.0
     },
-    "totalAnalyses": 300007,
+    "totalAnalyses": 300037,
     "leagues": 538,
     "pro": {
       "won": 800,
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 44.8
     },
-    "analyses24h": 1929,
-    "analyses30d": 21158
+    "analyses24h": 1955,
+    "analyses30d": 21184
   },
   "recentWins": [
     {
@@ -256,7 +256,7 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 04:43",
+      "at": "01.11.2026 05:23",
       "home": "FC Machida Zelvia",
       "away": "Gamba Osaka"
     }
@@ -331,6 +331,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Zwolle",
+      "away": "ADO Den Haag",
+      "league": "HOL",
+      "at": "01.11.2026 05:27",
+      "count": 9
+    },
+    {
       "home": "Sivasspor",
       "away": "Boluspor",
       "league": "T1L",
@@ -392,13 +399,6 @@
       "league": "ABD",
       "at": "31.10.2026 20:38",
       "count": 8
-    },
-    {
-      "home": "New England Revolution",
-      "away": "Inter Miami CF",
-      "league": "ABD",
-      "at": "31.10.2026 20:38",
-      "count": 18
     }
   ],
   "paywall": {
