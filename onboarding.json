@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 15:04",
+  "updatedAt": "01.11.2026 15:12",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 409,
-      "lost": 188,
-      "total": 597,
-      "rate": 68.5
+      "won": 418,
+      "lost": 189,
+      "total": 607,
+      "rate": 68.9
     },
-    "totalAnalyses": 300847,
+    "totalAnalyses": 300869,
     "leagues": 539,
     "pro": {
-      "won": 706,
+      "won": 712,
       "lost": 309,
-      "total": 1015,
-      "rate": 69.6
+      "total": 1021,
+      "rate": 69.7
     },
     "insights": {
-      "won": 1250,
-      "lost": 548,
-      "total": 1798,
-      "rate": 69.5
+      "won": 1257,
+      "lost": 549,
+      "total": 1806,
+      "rate": 69.6
     },
     "coupons": {
       "won": 28,
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 1637,
-    "analyses30d": 21461
+    "analyses24h": 1630,
+    "analyses30d": 21454
   },
   "recentWins": [
     {
@@ -276,7 +276,7 @@
     "matchCode": "4475138",
     "odds": 2.65,
     "patternScore": 66.79,
-    "patternText": "171.191/256.295",
+    "patternText": "171.219/256.341",
     "picks": 9
   },
   "todayList": [
@@ -288,8 +288,19 @@
       "matchCode": "4475138",
       "odds": 2.65,
       "patternScore": 66.79,
-      "patternText": "171.191/256.295",
+      "patternText": "171.219/256.341",
       "picks": 9
+    },
+    {
+      "home": "Sarpsborg 08",
+      "away": "Kristiansund",
+      "league": "NOR",
+      "date": "01.11.2026 16:00",
+      "matchCode": "4428346",
+      "odds": 1.54,
+      "patternScore": 67.41,
+      "patternText": "278.783/413.547",
+      "picks": 3
     },
     {
       "home": "Juventus",
@@ -299,7 +310,7 @@
       "matchCode": "4475136",
       "odds": 1.46,
       "patternScore": 66.78,
-      "patternText": "94.685/141.781",
+      "patternText": "94.713/141.823",
       "picks": 4
     },
     {
@@ -310,7 +321,7 @@
       "matchCode": "4534774",
       "odds": 1.38,
       "patternScore": 67.7,
-      "patternText": "257.276/379.997",
+      "patternText": "257.316/380.055",
       "picks": 1
     },
     {
@@ -321,19 +332,8 @@
       "matchCode": "4517703",
       "odds": 1.36,
       "patternScore": 66.47,
-      "patternText": "189.686/285.374",
+      "patternText": "189.722/285.428",
       "picks": 6
-    },
-    {
-      "home": "Ujpest",
-      "away": "Nyiregyhaza",
-      "league": "MAC",
-      "date": "01.11.2026 17:15",
-      "matchCode": "4484672",
-      "odds": 1.33,
-      "patternScore": 68.19,
-      "patternText": "244.489/358.536",
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
