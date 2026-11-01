@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 16:32",
+  "updatedAt": "01.11.2026 16:39",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 434,
+      "won": 437,
       "lost": 226,
-      "total": 660,
-      "rate": 65.8
+      "total": 663,
+      "rate": 65.9
     },
-    "totalAnalyses": 300941,
+    "totalAnalyses": 300944,
     "leagues": 538,
     "pro": {
-      "won": 672,
+      "won": 675,
       "lost": 297,
-      "total": 969,
-      "rate": 69.3
+      "total": 972,
+      "rate": 69.4
     },
     "insights": {
-      "won": 1200,
+      "won": 1203,
       "lost": 536,
-      "total": 1736,
-      "rate": 69.1
+      "total": 1739,
+      "rate": 69.2
     },
     "coupons": {
       "won": 26,
@@ -47,8 +47,8 @@
       "total": 54,
       "rate": 48.1
     },
-    "analyses24h": 1535,
-    "analyses30d": 21436
+    "analyses24h": 1530,
+    "analyses30d": 21431
   },
   "recentWins": [
     {
@@ -297,7 +297,7 @@
     "matchCode": "4534774",
     "odds": 1.38,
     "patternScore": 67.67,
-    "patternText": "257.742/380.907",
+    "patternText": "257.818/381.001",
     "picks": 2
   },
   "todayList": [
@@ -309,7 +309,7 @@
       "matchCode": "4534774",
       "odds": 1.38,
       "patternScore": 67.67,
-      "patternText": "257.742/380.907",
+      "patternText": "257.818/381.001",
       "picks": 2
     },
     {
@@ -320,7 +320,7 @@
       "matchCode": "4517703",
       "odds": 1.36,
       "patternScore": 66.46,
-      "patternText": "190.018/285.934",
+      "patternText": "190.042/285.964",
       "picks": 6
     },
     {
@@ -331,7 +331,7 @@
       "matchCode": "4492359",
       "odds": 1.34,
       "patternScore": 69.07,
-      "patternText": "153.870/222.776",
+      "patternText": "153.894/222.810",
       "picks": 5
     },
     {
@@ -342,7 +342,7 @@
       "matchCode": "4484672",
       "odds": 1.33,
       "patternScore": 68.18,
-      "patternText": "244.845/359.124",
+      "patternText": "244.881/359.178",
       "picks": 3
     },
     {
@@ -353,16 +353,37 @@
       "matchCode": "4501914",
       "odds": 1.27,
       "patternScore": 68.24,
-      "patternText": "162.585/238.264",
+      "patternText": "162.625/238.318",
       "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "Nashville SC",
+      "away": "New York Red Bulls",
+      "league": "ABD",
+      "at": "01.11.2026 16:37",
+      "count": 8
+    },
+    {
       "home": "Juventus",
       "away": "SSC Napoli",
       "league": "İTA",
-      "at": "01.11.2026 16:22",
+      "at": "01.11.2026 16:36",
+      "count": 8
+    },
+    {
+      "home": "Lommel United",
+      "away": "KAA Gent",
+      "league": "BEL",
+      "at": "01.11.2026 16:36",
+      "count": 5
+    },
+    {
+      "home": "Elche CF",
+      "away": "Valencia CF",
+      "league": "İS1",
+      "at": "01.11.2026 16:35",
       "count": 5
     },
     {
@@ -394,13 +415,6 @@
       "count": 4
     },
     {
-      "home": "Elche CF",
-      "away": "Valencia CF",
-      "league": "İS1",
-      "at": "01.11.2026 15:58",
-      "count": 5
-    },
-    {
       "home": "Eintracht Frankfurt",
       "away": "Hamburger SV",
       "league": "AL1",
@@ -413,20 +427,6 @@
       "league": "İNP",
       "at": "01.11.2026 15:56",
       "count": 5
-    },
-    {
-      "home": "Atlanta United",
-      "away": "Toronto FC",
-      "league": "ABD",
-      "at": "01.11.2026 15:42",
-      "count": 18
-    },
-    {
-      "home": "Nashville SC",
-      "away": "New York Red Bulls",
-      "league": "ABD",
-      "at": "01.11.2026 15:42",
-      "count": 17
     }
   ],
   "paywall": {
