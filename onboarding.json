@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 13:44",
+  "updatedAt": "01.11.2026 13:57",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 513,
-      "lost": 229,
-      "total": 742,
-      "rate": 69.1
+      "won": 488,
+      "lost": 225,
+      "total": 713,
+      "rate": 68.4
     },
-    "totalAnalyses": 300705,
+    "totalAnalyses": 300732,
     "leagues": 539,
     "pro": {
       "won": 707,
-      "lost": 318,
-      "total": 1025,
+      "lost": 317,
+      "total": 1024,
       "rate": 69.0
     },
     "insights": {
-      "won": 1242,
-      "lost": 563,
-      "total": 1805,
+      "won": 1239,
+      "lost": 562,
+      "total": 1801,
       "rate": 68.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 2036,
-    "analyses30d": 21421
+    "analyses24h": 2015,
+    "analyses30d": 21434
   },
   "recentWins": [
     {
@@ -292,39 +292,6 @@
       "picks": 7
     },
     {
-      "home": "Lokomotiv Moscow",
-      "away": "Spartak Moscow",
-      "league": "RUS",
-      "date": "01.11.2026 16:45",
-      "matchCode": "4485909",
-      "odds": 1.91,
-      "patternScore": 66.92,
-      "patternText": "247.923/370.474",
-      "picks": 9
-    },
-    {
-      "home": "Liverpool",
-      "away": "Arsenal",
-      "league": "İNP",
-      "date": "01.11.2026 16:30",
-      "matchCode": "4481097",
-      "odds": 1.52,
-      "patternScore": 67.5,
-      "patternText": "241.653/357.981",
-      "picks": 2
-    },
-    {
-      "home": "Odds Bk",
-      "away": "Sandnes",
-      "league": "NOR1",
-      "date": "01.11.2026 16:00",
-      "matchCode": "4428750",
-      "odds": 1.47,
-      "patternScore": 68.42,
-      "patternText": "258.143/377.308",
-      "picks": 3
-    },
-    {
       "home": "Alemannia Aachen",
       "away": "Preussen Munster",
       "league": "AL3",
@@ -334,9 +301,49 @@
       "patternScore": 66.47,
       "patternText": "189.358/284.868",
       "picks": 6
+    },
+    {
+      "home": "Vasteras SK",
+      "away": "IF Brommapojkarna",
+      "league": "İSÇ",
+      "date": "01.11.2026 15:30",
+      "matchCode": "4426807",
+      "odds": 1.31,
+      "patternScore": 67.65,
+      "patternText": "290.520/429.429",
+      "picks": 4
+    },
+    {
+      "home": "FC Lausanne-Sport",
+      "away": "FC Thun",
+      "league": "İSV",
+      "date": "01.11.2026 15:30",
+      "matchCode": "4482338",
+      "odds": 1.29,
+      "patternScore": 67.4,
+      "patternText": "271.253/402.466",
+      "picks": 4
+    },
+    {
+      "home": "Union Berlin",
+      "away": "FC Koln",
+      "league": "AL1",
+      "date": "01.11.2026 14:30",
+      "matchCode": "4495498",
+      "odds": 1.28,
+      "patternScore": 68.0,
+      "patternText": "255.858/376.289",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Burgos CF",
+      "away": "Castellon",
+      "league": "İS2",
+      "at": "01.11.2026 13:45",
+      "count": 7
+    },
     {
       "home": "US Lecce",
       "away": "Genoa CFC",
@@ -392,13 +399,6 @@
       "league": "BEL",
       "at": "01.11.2026 13:31",
       "count": 7
-    },
-    {
-      "home": "Burgos CF",
-      "away": "Castellon",
-      "league": "İS2",
-      "at": "01.11.2026 13:28",
-      "count": 6
     },
     {
       "home": "Elche CF",
