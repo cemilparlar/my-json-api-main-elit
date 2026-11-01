@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 13:15",
+  "updatedAt": "01.11.2026 13:24",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 499,
-      "lost": 228,
-      "total": 727,
-      "rate": 68.6
+      "won": 507,
+      "lost": 230,
+      "total": 737,
+      "rate": 68.8
     },
-    "totalAnalyses": 300610,
+    "totalAnalyses": 300625,
     "leagues": 539,
     "pro": {
-      "won": 718,
-      "lost": 319,
-      "total": 1037,
-      "rate": 69.2
+      "won": 716,
+      "lost": 320,
+      "total": 1036,
+      "rate": 69.1
     },
     "insights": {
-      "won": 1262,
-      "lost": 563,
-      "total": 1825,
-      "rate": 69.2
+      "won": 1261,
+      "lost": 565,
+      "total": 1826,
+      "rate": 69.1
     },
     "coupons": {
       "won": 28,
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 2017,
-    "analyses30d": 21387
+    "analyses24h": 2013,
+    "analyses30d": 21383
   },
   "recentWins": [
     {
@@ -303,6 +303,28 @@
       "picks": 9
     },
     {
+      "home": "SS Lazio",
+      "away": "Cagliari Calcio",
+      "league": "İTA",
+      "date": "01.11.2026 14:00",
+      "matchCode": "4475137",
+      "odds": 1.78,
+      "patternScore": 66.9,
+      "patternText": "181.231/270.895",
+      "picks": 7
+    },
+    {
+      "home": "RC Strasbourg",
+      "away": "AJ Auxerre",
+      "league": "FR1",
+      "date": "01.11.2026 14:00",
+      "matchCode": "4476583",
+      "odds": 1.64,
+      "patternScore": 67.75,
+      "patternText": "260.255/384.152",
+      "picks": 7
+    },
+    {
       "home": "US Avellino",
       "away": "AC Pisa",
       "league": "İTB",
@@ -312,31 +334,37 @@
       "patternScore": 67.35,
       "patternText": "262.697/390.064",
       "picks": 7
-    },
-    {
-      "home": "Sporting Charleroi",
-      "away": "La Louviere",
-      "league": "BEL",
-      "date": "01.11.2026 18:15",
-      "matchCode": "4480758",
-      "odds": 1.58,
-      "patternScore": 68.34,
-      "patternText": "265.026/387.825",
-      "picks": 2
-    },
+    }
+  ],
+  "recentAnalyzed": [
     {
       "home": "Liverpool",
       "away": "Arsenal",
       "league": "İNP",
-      "date": "01.11.2026 16:30",
-      "matchCode": "4481097",
-      "odds": 1.52,
-      "patternScore": 67.51,
-      "patternText": "241.561/357.837",
-      "picks": 2
-    }
-  ],
-  "recentAnalyzed": [
+      "at": "01.11.2026 13:18",
+      "count": 6
+    },
+    {
+      "home": "Paris FC",
+      "away": "AS Monaco",
+      "league": "FR1",
+      "at": "01.11.2026 13:18",
+      "count": 11
+    },
+    {
+      "home": "FC Groningen",
+      "away": "Sparta Rotterdam",
+      "league": "HOL",
+      "at": "01.11.2026 13:17",
+      "count": 12
+    },
+    {
+      "home": "FC Arouca",
+      "away": "CD Nacional",
+      "league": "POR",
+      "at": "01.11.2026 13:16",
+      "count": 5
+    },
     {
       "home": "Union Berlin",
       "away": "FC Koln",
@@ -350,6 +378,13 @@
       "league": "RUS",
       "at": "01.11.2026 13:15",
       "count": 3
+    },
+    {
+      "home": "Heart of Midlothian",
+      "away": "Hibernian",
+      "league": "İKLK",
+      "at": "01.11.2026 13:15",
+      "count": 6
     },
     {
       "home": "RC Strasbourg",
@@ -371,41 +406,6 @@
       "league": "İTB",
       "at": "01.11.2026 13:13",
       "count": 9
-    },
-    {
-      "home": "Liverpool",
-      "away": "Arsenal",
-      "league": "İNP",
-      "at": "01.11.2026 12:41",
-      "count": 6
-    },
-    {
-      "home": "Lokomotiv Moscow",
-      "away": "Spartak Moscow",
-      "league": "RUS",
-      "at": "01.11.2026 12:41",
-      "count": 10
-    },
-    {
-      "home": "Eintracht Frankfurt",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "01.11.2026 12:40",
-      "count": 6
-    },
-    {
-      "home": "Verona",
-      "away": "Carrarese Calcio",
-      "league": "İTB",
-      "at": "01.11.2026 12:39",
-      "count": 7
-    },
-    {
-      "home": "Paris FC",
-      "away": "AS Monaco",
-      "league": "FR1",
-      "at": "01.11.2026 12:39",
-      "count": 3
     }
   ],
   "paywall": {
