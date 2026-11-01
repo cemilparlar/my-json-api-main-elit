@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 14:23",
+  "updatedAt": "01.11.2026 14:31",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 466,
-      "lost": 222,
-      "total": 688,
-      "rate": 67.7
+      "won": 449,
+      "lost": 211,
+      "total": 660,
+      "rate": 68.0
     },
-    "totalAnalyses": 300792,
+    "totalAnalyses": 300798,
     "leagues": 539,
     "pro": {
-      "won": 677,
-      "lost": 298,
-      "total": 975,
-      "rate": 69.4
+      "won": 686,
+      "lost": 301,
+      "total": 987,
+      "rate": 69.5
     },
     "insights": {
-      "won": 1205,
-      "lost": 539,
-      "total": 1744,
-      "rate": 69.1
+      "won": 1223,
+      "lost": 543,
+      "total": 1766,
+      "rate": 69.3
     },
     "coupons": {
       "won": 28,
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 1986,
-    "analyses30d": 21451
+    "analyses24h": 1932,
+    "analyses30d": 21462
   },
   "recentWins": [
     {
@@ -292,17 +292,6 @@
       "picks": 9
     },
     {
-      "home": "Sint-Truidense VV",
-      "away": "OH Leuven",
-      "league": "BEL",
-      "date": "01.11.2026 15:00",
-      "matchCode": "4480761",
-      "odds": 2.19,
-      "patternScore": 67.76,
-      "patternText": "247.256/364.890",
-      "picks": 7
-    },
-    {
       "home": "Liverpool",
       "away": "Arsenal",
       "league": "İNP",
@@ -323,6 +312,17 @@
       "patternScore": 67.58,
       "patternText": "165.078/244.261",
       "picks": 2
+    },
+    {
+      "home": "SC Braga",
+      "away": "FC Famalicao",
+      "league": "POR",
+      "date": "01.11.2026 20:30",
+      "matchCode": "4517038",
+      "odds": 1.55,
+      "patternScore": 66.48,
+      "patternText": "229.507/345.234",
+      "picks": 6
     },
     {
       "home": "Palermo FC",
