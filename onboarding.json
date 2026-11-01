@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 06:33",
+  "updatedAt": "01.11.2026 06:50",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 766,
       "rate": 70.4
     },
-    "totalAnalyses": 300091,
+    "totalAnalyses": 300117,
     "leagues": 538,
     "pro": {
-      "won": 796,
+      "won": 795,
       "lost": 342,
-      "total": 1138,
+      "total": 1137,
       "rate": 69.9
     },
     "insights": {
-      "won": 1405,
+      "won": 1404,
       "lost": 602,
-      "total": 2007,
+      "total": 2006,
       "rate": 70.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 60,
       "rate": 46.7
     },
-    "analyses24h": 1957,
-    "analyses30d": 21190
+    "analyses24h": 1987,
+    "analyses30d": 21220
   },
   "recentWins": [
     {
@@ -338,18 +338,32 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Amed SK",
-      "away": "Eyupspor",
-      "league": "TSL",
-      "at": "01.11.2026 06:20",
-      "count": 14
+      "home": "SpVgg Greuther Furth",
+      "away": "Holstein Kiel",
+      "league": "AL2",
+      "at": "01.11.2026 06:42",
+      "count": 6
+    },
+    {
+      "home": "Hannover 96",
+      "away": "Dynamo Dresden",
+      "league": "AL2",
+      "at": "01.11.2026 06:41",
+      "count": 6
     },
     {
       "home": "Como 1907",
       "away": "Unione V.",
       "league": "İTA",
-      "at": "01.11.2026 06:06",
-      "count": 3
+      "at": "01.11.2026 06:41",
+      "count": 10
+    },
+    {
+      "home": "Amed SK",
+      "away": "Eyupspor",
+      "league": "TSL",
+      "at": "01.11.2026 06:20",
+      "count": 14
     },
     {
       "home": "Zwolle",
@@ -392,20 +406,6 @@
       "league": "İS2",
       "at": "31.10.2026 21:14",
       "count": 3
-    },
-    {
-      "home": "Krylya Sovetov",
-      "away": "Zenit St. Petersburg",
-      "league": "RUS",
-      "at": "31.10.2026 20:42",
-      "count": 3
-    },
-    {
-      "home": "Portland Timbers",
-      "away": "Houston Dynamo",
-      "league": "ABD",
-      "at": "31.10.2026 20:39",
-      "count": 7
     }
   ],
   "paywall": {
