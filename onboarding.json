@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 09:27",
+  "updatedAt": "01.11.2026 09:45",
   "config": {
     "pages": [
       "engine",
@@ -23,23 +23,23 @@
     "days": 7,
     "last24h": {
       "won": 556,
-      "lost": 232,
-      "total": 788,
-      "rate": 70.6
+      "lost": 236,
+      "total": 792,
+      "rate": 70.2
     },
-    "totalAnalyses": 300297,
+    "totalAnalyses": 300319,
     "leagues": 539,
     "pro": {
-      "won": 789,
-      "lost": 339,
+      "won": 788,
+      "lost": 340,
       "total": 1128,
       "rate": 69.9
     },
     "insights": {
-      "won": 1394,
-      "lost": 598,
-      "total": 1992,
-      "rate": 70.0
+      "won": 1391,
+      "lost": 602,
+      "total": 1993,
+      "rate": 69.8
     },
     "coupons": {
       "won": 28,
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 45.2
     },
-    "analyses24h": 2079,
-    "analyses30d": 21312
+    "analyses24h": 2084,
+    "analyses30d": 21314
   },
   "recentWins": [
     {
@@ -239,12 +239,6 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 09:22",
-      "home": "Amed SK",
-      "away": "Eyupspor"
-    },
-    {
-      "type": "updated",
       "at": "01.11.2026 07:38",
       "home": "Hannover 96",
       "away": "Dynamo Dresden"
@@ -263,9 +257,15 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 03:44",
-      "home": "JEF United Chiba",
-      "away": "Avispa Fukuoka"
+      "at": "01.11.2026 04:07",
+      "home": "V-Varen Nagasaki",
+      "away": "Tokyo Verdy"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 06:19",
+      "home": "FC Machida Zelvia",
+      "away": "Gamba Osaka"
     }
   ],
   "today": {
@@ -290,6 +290,17 @@
       "patternScore": 67.05,
       "patternText": "251.754/375.481",
       "picks": 8
+    },
+    {
+      "home": "Sint-Truidense VV",
+      "away": "OH Leuven",
+      "league": "BEL",
+      "date": "01.11.2026 15:00",
+      "matchCode": "4480761",
+      "odds": 2.19,
+      "patternScore": 67.77,
+      "patternText": "246.830/364.192",
+      "picks": 7
     },
     {
       "home": "Oulu",
@@ -323,20 +334,23 @@
       "patternScore": 66.51,
       "patternText": "168.605/253.511",
       "picks": 2
-    },
-    {
-      "home": "Folgore Carate",
-      "away": "Union Brescia",
-      "league": "İTC",
-      "date": "01.11.2026 11:30",
-      "matchCode": "4535171",
-      "odds": 1.5,
-      "patternScore": 68.3,
-      "patternText": "144.270/211.238",
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "AD Ceuta",
+      "away": "Sporting Gijon",
+      "league": "İS2",
+      "at": "01.11.2026 09:32",
+      "count": 6
+    },
+    {
+      "home": "Heart of Midlothian",
+      "away": "Hibernian",
+      "league": "İKLK",
+      "at": "01.11.2026 09:29",
+      "count": 7
+    },
     {
       "home": "Sint-Truidense VV",
       "away": "OH Leuven",
@@ -391,20 +405,6 @@
       "away": "AJ Auxerre",
       "league": "FR1",
       "at": "01.11.2026 08:24",
-      "count": 7
-    },
-    {
-      "home": "US Avellino",
-      "away": "AC Pisa",
-      "league": "İTB",
-      "at": "01.11.2026 08:24",
-      "count": 7
-    },
-    {
-      "home": "Getafe CF",
-      "away": "Sevilla FC",
-      "league": "İS1",
-      "at": "01.11.2026 08:22",
       "count": 7
     }
   ],
