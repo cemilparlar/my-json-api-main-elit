@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 14:06",
+  "updatedAt": "01.11.2026 14:14",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 681,
       "rate": 67.7
     },
-    "totalAnalyses": 300735,
+    "totalAnalyses": 300772,
     "leagues": 539,
     "pro": {
       "won": 674,
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 1961,
-    "analyses30d": 21426
+    "analyses24h": 1975,
+    "analyses30d": 21440
   },
   "recentWins": [
     {
@@ -276,7 +276,7 @@
     "matchCode": "4480761",
     "odds": 2.19,
     "patternScore": 67.76,
-    "patternText": "247.152/364.738",
+    "patternText": "247.226/364.848",
     "picks": 7
   },
   "todayList": [
@@ -288,8 +288,19 @@
       "matchCode": "4480761",
       "odds": 2.19,
       "patternScore": 67.76,
-      "patternText": "247.152/364.738",
+      "patternText": "247.226/364.848",
       "picks": 7
+    },
+    {
+      "home": "FC Arouca",
+      "away": "CD Nacional",
+      "league": "POR",
+      "date": "01.11.2026 15:30",
+      "matchCode": "4517037",
+      "odds": 1.67,
+      "patternScore": 67.58,
+      "patternText": "165.068/244.247",
+      "picks": 2
     },
     {
       "home": "Alemannia Aachen",
@@ -299,7 +310,7 @@
       "matchCode": "4517703",
       "odds": 1.36,
       "patternScore": 66.47,
-      "patternText": "189.358/284.868",
+      "patternText": "189.380/284.902",
       "picks": 6
     },
     {
@@ -310,7 +321,7 @@
       "matchCode": "4426807",
       "odds": 1.31,
       "patternScore": 67.65,
-      "patternText": "290.520/429.429",
+      "patternText": "290.586/429.539",
       "picks": 4
     },
     {
@@ -321,91 +332,80 @@
       "matchCode": "4482338",
       "odds": 1.29,
       "patternScore": 67.4,
-      "patternText": "271.253/402.466",
+      "patternText": "271.327/402.576",
       "picks": 4
-    },
-    {
-      "home": "Cusco FC",
-      "away": "Sport Boys",
-      "league": "PER",
-      "date": "01.11.2026 18:15",
-      "matchCode": "4501914",
-      "odds": 1.27,
-      "patternScore": 68.26,
-      "patternText": "162.081/237.458",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Marseille",
+      "away": "Toulouse FC",
+      "league": "FR1",
+      "at": "01.11.2026 14:14",
+      "count": 12
+    },
+    {
+      "home": "Juventus",
+      "away": "SSC Napoli",
+      "league": "İTA",
+      "at": "01.11.2026 14:14",
+      "count": 6
+    },
+    {
+      "home": "Palermo FC",
+      "away": "LR Vicenza",
+      "league": "İTB",
+      "at": "01.11.2026 14:14",
+      "count": 2
+    },
+    {
+      "home": "Sporting Charleroi",
+      "away": "La Louviere",
+      "league": "BEL",
+      "at": "01.11.2026 14:12",
+      "count": 1
+    },
+    {
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "league": "İNP",
+      "at": "01.11.2026 14:11",
+      "count": 9
+    },
+    {
+      "home": "Eintracht Frankfurt",
+      "away": "Hamburger SV",
+      "league": "AL1",
+      "at": "01.11.2026 14:11",
+      "count": 9
+    },
+    {
+      "home": "US Lecce",
+      "away": "Genoa CFC",
+      "league": "İTA",
+      "at": "01.11.2026 14:11",
+      "count": 11
+    },
+    {
+      "home": "Paris FC",
+      "away": "AS Monaco",
+      "league": "FR1",
+      "at": "01.11.2026 14:11",
+      "count": 7
+    },
+    {
+      "home": "Kasimpasa",
+      "away": "Besiktas",
+      "league": "TSL",
+      "at": "01.11.2026 14:10",
+      "count": 4
+    },
     {
       "home": "FC Arouca",
       "away": "CD Nacional",
       "league": "POR",
       "at": "01.11.2026 14:03",
       "count": 4
-    },
-    {
-      "home": "Burgos CF",
-      "away": "Castellon",
-      "league": "İS2",
-      "at": "01.11.2026 13:45",
-      "count": 7
-    },
-    {
-      "home": "US Lecce",
-      "away": "Genoa CFC",
-      "league": "İTA",
-      "at": "01.11.2026 13:44",
-      "count": 6
-    },
-    {
-      "home": "Lokomotiv Moscow",
-      "away": "Spartak Moscow",
-      "league": "RUS",
-      "at": "01.11.2026 13:44",
-      "count": 7
-    },
-    {
-      "home": "Union Berlin",
-      "away": "FC Koln",
-      "league": "AL1",
-      "at": "01.11.2026 13:43",
-      "count": 7
-    },
-    {
-      "home": "Liverpool",
-      "away": "Arsenal",
-      "league": "İNP",
-      "at": "01.11.2026 13:43",
-      "count": 4
-    },
-    {
-      "home": "Palermo FC",
-      "away": "LR Vicenza",
-      "league": "İTB",
-      "at": "01.11.2026 13:34",
-      "count": 4
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "Club de Regatas Vasco da Gama",
-      "league": "BRK",
-      "at": "01.11.2026 13:34",
-      "count": 7
-    },
-    {
-      "home": "Academico FC Viseu",
-      "away": "Rio Ave FC",
-      "league": "POR",
-      "at": "01.11.2026 13:31",
-      "count": 7
-    },
-    {
-      "home": "Sporting Charleroi",
-      "away": "La Louviere",
-      "league": "BEL",
-      "at": "01.11.2026 13:31",
-      "count": 7
     }
   ],
   "paywall": {
