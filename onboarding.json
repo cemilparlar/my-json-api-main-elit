@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 07:54",
+  "updatedAt": "01.11.2026 08:15",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 780,
       "rate": 70.4
     },
-    "totalAnalyses": 300206,
+    "totalAnalyses": 300240,
     "leagues": 539,
     "pro": {
       "won": 788,
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 2030,
-    "analyses30d": 21263
+    "analyses24h": 2043,
+    "analyses30d": 21276
   },
   "recentWins": [
     {
@@ -325,18 +325,25 @@
       "picks": 5
     },
     {
-      "home": "FC Orenburg",
-      "away": "CSKA Moscow",
-      "league": "RUS",
-      "date": "01.11.2026 10:00",
-      "matchCode": "4485908",
-      "odds": 1.42,
-      "patternScore": 67.28,
-      "patternText": "233.239/346.655",
-      "picks": 5
+      "home": "Empoli",
+      "away": "SS Juve Stabia",
+      "league": "İTB",
+      "date": "01.11.2026 14:00",
+      "matchCode": "4534771",
+      "odds": 1.48,
+      "patternScore": 68.03,
+      "patternText": "247.752/364.168",
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Amed SK",
+      "away": "Eyupspor",
+      "league": "TSL",
+      "at": "01.11.2026 08:13",
+      "count": 3
+    },
     {
       "home": "SC Telstar",
       "away": "FC Utrecht",
@@ -399,13 +406,6 @@
       "league": "AL2",
       "at": "01.11.2026 06:42",
       "count": 6
-    },
-    {
-      "home": "Como 1907",
-      "away": "Unione V.",
-      "league": "İTA",
-      "at": "01.11.2026 06:41",
-      "count": 10
     }
   ],
   "paywall": {
