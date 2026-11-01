@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 18:54",
+  "updatedAt": "01.11.2026 19:01",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 479,
-      "lost": 258,
-      "total": 737,
-      "rate": 65.0
+      "won": 472,
+      "lost": 246,
+      "total": 718,
+      "rate": 65.7
     },
     "totalAnalyses": 301010,
-    "leagues": 536,
+    "leagues": 535,
     "pro": {
-      "won": 721,
-      "lost": 301,
-      "total": 1022,
-      "rate": 70.5
+      "won": 719,
+      "lost": 300,
+      "total": 1019,
+      "rate": 70.6
     },
     "insights": {
-      "won": 1270,
-      "lost": 557,
-      "total": 1827,
-      "rate": 69.5
+      "won": 1266,
+      "lost": 554,
+      "total": 1820,
+      "rate": 69.6
     },
     "coupons": {
       "won": 24,
@@ -47,8 +47,8 @@
       "total": 49,
       "rate": 49.0
     },
-    "analyses24h": 1372,
-    "analyses30d": 21326
+    "analyses24h": 1347,
+    "analyses30d": 21320
   },
   "recentWins": [
     {
@@ -243,19 +243,19 @@
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.07,
-      "at": "01.11.2026 17:00"
+      "odds": 1.14,
+      "at": "01.11.2026 19:01"
     },
     {
       "type": "coupon",
       "size": 2,
-      "odds": 1.23,
-      "at": "01.11.2026 17:00"
+      "odds": 1.27,
+      "at": "01.11.2026 19:01"
     },
     {
       "type": "coupon",
-      "size": 3,
-      "odds": 1.35,
+      "size": 1,
+      "odds": 1.07,
       "at": "01.11.2026 17:00"
     },
     {
@@ -290,17 +290,28 @@
     }
   ],
   "today": {
-    "home": "Gremio FBPA",
-    "away": "Atletico Mineiro",
-    "league": "BRK",
-    "date": "01.11.2026 21:30",
-    "matchCode": "4564199",
-    "odds": 1.26,
-    "patternScore": 69.03,
-    "patternText": "196.097/284.071",
-    "picks": 4
+    "home": "Athletic Bilbao",
+    "away": "Real Sociedad",
+    "league": "İS1",
+    "date": "01.11.2026 20:00",
+    "matchCode": "4492359",
+    "odds": 1.32,
+    "patternScore": 67.49,
+    "patternText": "157.519/233.385",
+    "picks": 6
   },
   "todayList": [
+    {
+      "home": "Athletic Bilbao",
+      "away": "Real Sociedad",
+      "league": "İS1",
+      "date": "01.11.2026 20:00",
+      "matchCode": "4492359",
+      "odds": 1.32,
+      "patternScore": 67.49,
+      "patternText": "157.519/233.385",
+      "picks": 6
+    },
     {
       "home": "Gremio FBPA",
       "away": "Atletico Mineiro",
@@ -309,7 +320,7 @@
       "matchCode": "4564199",
       "odds": 1.26,
       "patternScore": 69.03,
-      "patternText": "196.097/284.071",
+      "patternText": "196.105/284.091",
       "picks": 4
     },
     {
@@ -320,18 +331,7 @@
       "matchCode": "4517038",
       "odds": 1.24,
       "patternScore": 68.38,
-      "patternText": "162.049/236.973",
-      "picks": 4
-    },
-    {
-      "home": "Athletic Bilbao",
-      "away": "Real Sociedad",
-      "league": "İS1",
-      "date": "01.11.2026 20:00",
-      "matchCode": "4492359",
-      "odds": 1.24,
-      "patternScore": 67.73,
-      "patternText": "98.982/146.142",
+      "patternText": "162.129/237.089",
       "picks": 4
     },
     {
@@ -342,7 +342,7 @@
       "matchCode": "4492809",
       "odds": 1.22,
       "patternScore": 68.65,
-      "patternText": "247.646/360.715",
+      "patternText": "247.688/360.791",
       "picks": 4
     },
     {
@@ -353,8 +353,8 @@
       "matchCode": "4475136",
       "odds": 1.2,
       "patternScore": 68.61,
-      "patternText": "177.835/259.197",
-      "picks": 3
+      "patternText": "177.873/259.261",
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
