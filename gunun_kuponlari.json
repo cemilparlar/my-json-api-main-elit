@@ -34,11 +34,11 @@
       "lost": 3
     },
     "multi": {
-      "won": 13,
+      "won": 14,
       "lost": 8
     },
     "c70_1": {
-      "won": 9,
+      "won": 10,
       "lost": 3
     },
     "c70_2": {
@@ -88,11 +88,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 13,
+      "won": 14,
       "lost": 8
     },
     "c70_1": {
-      "won": 9,
+      "won": 10,
       "lost": 3
     },
     "c70_2": {
@@ -104,8 +104,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "01.11.2026 06:01",
-  "updatedAtUtc": "2026-11-01T06:01:00Z",
+  "updatedAt": "01.11.2026 06:18",
+  "updatedAtUtc": "2026-11-01T06:18:00Z",
   "upcoming": [
     {
       "id": "20261101-00-2",
@@ -204,47 +204,6 @@
           "probability": 72.34,
           "patternScore": 70.01,
           "patternText": "272.332/388.986",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261101-06-1",
-      "createdAt": "01.11.2026 03:09",
-      "createdAtUtc": "2026-11-01T03:09:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.09,
-      "winChance": 70.62,
-      "firstKickoff": "01.11.2026 04:00",
-      "lastKickoff": "01.11.2026 04:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.09,
-      "legs": [
-        {
-          "matchCode": "4488305",
-          "nesine": null,
-          "date": "01.11.2026 04:00",
-          "kickoffUtc": "2026-11-01T04:00:00Z",
-          "league": "JWEL",
-          "home": "Albirex Niigata",
-          "away": "Urawa Red Women",
-          "league_tr": "JWEL",
-          "home_tr": "Albirex Niigat",
-          "away_tr": "Urawa Red (K)",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.09,
-          "probability": 70.0,
-          "patternScore": 70.62,
-          "patternText": "314.123/444.779",
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
@@ -358,6 +317,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261101-06-1",
+      "createdAt": "01.11.2026 03:09",
+      "createdAtUtc": "2026-11-01T03:09:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.09,
+      "winChance": 70.62,
+      "firstKickoff": "01.11.2026 04:00",
+      "lastKickoff": "01.11.2026 04:00",
+      "status": "won",
+      "completedAt": "01.11.2026 06:18",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.09,
+      "legs": [
+        {
+          "matchCode": "4488305",
+          "nesine": null,
+          "date": "01.11.2026 04:00",
+          "kickoffUtc": "2026-11-01T04:00:00Z",
+          "league": "JWEL",
+          "home": "Albirex Niigata",
+          "away": "Urawa Red Women",
+          "league_tr": "JWEL",
+          "home_tr": "Albirex Niigat",
+          "away_tr": "Urawa Red (K)",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.09,
+          "probability": 70.0,
+          "patternScore": 70.62,
+          "patternText": "314.123/444.779",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 2",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261101-02-1",
       "createdAt": "31.10.2026 23:01",

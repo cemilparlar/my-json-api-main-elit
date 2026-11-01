@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 06:01",
+  "updatedAt": "01.11.2026 06:18",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 532,
-      "lost": 219,
-      "total": 751,
-      "rate": 70.8
+      "won": 539,
+      "lost": 227,
+      "total": 766,
+      "rate": 70.4
     },
-    "totalAnalyses": 300058,
+    "totalAnalyses": 300077,
     "leagues": 538,
     "pro": {
-      "won": 792,
-      "lost": 339,
-      "total": 1131,
-      "rate": 70.0
+      "won": 796,
+      "lost": 342,
+      "total": 1138,
+      "rate": 69.9
     },
     "insights": {
-      "won": 1398,
-      "lost": 596,
-      "total": 1994,
-      "rate": 70.1
+      "won": 1405,
+      "lost": 602,
+      "total": 2007,
+      "rate": 70.0
     },
     "coupons": {
-      "won": 26,
+      "won": 27,
       "lost": 32,
-      "total": 58,
-      "rate": 44.8
+      "total": 59,
+      "rate": 45.8
     },
-    "analyses24h": 1949,
-    "analyses30d": 21186
+    "analyses24h": 1955,
+    "analyses30d": 21188
   },
   "recentWins": [
     {
@@ -120,6 +120,21 @@
   "recentCoupons": [
     {
       "size": 1,
+      "totalOdds": 1.09,
+      "winChance": 70.62,
+      "completedAt": "01.11.2026 06:18",
+      "legs": [
+        {
+          "home": "Albirex Niigata",
+          "away": "Urawa Red Women",
+          "prediction": "Double Chance 12",
+          "odds": 1.09,
+          "finalScore": "0 - 2"
+        }
+      ]
+    },
+    {
+      "size": 1,
       "totalOdds": 1.13,
       "winChance": 70.19,
       "completedAt": "01.11.2026 03:09",
@@ -160,21 +175,6 @@
           "prediction": "1st Half Double Chance 1X",
           "odds": 1.06,
           "finalScore": "2 - 2"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.09,
-      "winChance": 70.4,
-      "completedAt": "31.10.2026 20:00",
-      "legs": [
-        {
-          "home": "Real Union Irun",
-          "away": "Real Aviles",
-          "prediction": "Double Chance 12",
-          "odds": 1.09,
-          "finalScore": "0 - 3"
         }
       ]
     }
@@ -232,12 +232,6 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 00:02",
-      "home": "Club Deportivo Guadalajara",
-      "away": "Atlante"
-    },
-    {
-      "type": "updated",
       "at": "01.11.2026 03:23",
       "home": "Yokohama F. Marinos",
       "away": "Kawasaki Frontale"
@@ -259,20 +253,48 @@
       "at": "01.11.2026 05:45",
       "home": "FC Machida Zelvia",
       "away": "Gamba Osaka"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 00:21",
+      "home": "Sporting San J",
+      "away": "Club Sport Herediano"
     }
   ],
   "today": {
-    "home": "Folgore Carate",
-    "away": "Union Brescia",
-    "league": "İTC",
-    "date": "01.11.2026 11:30",
-    "matchCode": "4535171",
-    "odds": 1.5,
-    "patternScore": 68.3,
-    "patternText": "144.194/211.116",
-    "picks": 5
+    "home": "FC Makhachkala",
+    "away": "FC Rostov",
+    "league": "RUS",
+    "date": "01.11.2026 12:15",
+    "matchCode": "4485906",
+    "odds": 2.21,
+    "patternScore": 67.05,
+    "patternText": "251.638/375.323",
+    "picks": 8
   },
   "todayList": [
+    {
+      "home": "FC Makhachkala",
+      "away": "FC Rostov",
+      "league": "RUS",
+      "date": "01.11.2026 12:15",
+      "matchCode": "4485906",
+      "odds": 2.21,
+      "patternScore": 67.05,
+      "patternText": "251.638/375.323",
+      "picks": 8
+    },
+    {
+      "home": "Inter Milan",
+      "away": "SS Lazio Women",
+      "league": "İTKSA",
+      "date": "01.11.2026 11:30",
+      "matchCode": "4534571",
+      "odds": 1.55,
+      "patternScore": 66.51,
+      "patternText": "168.533/253.393",
+      "picks": 2
+    },
     {
       "home": "Folgore Carate",
       "away": "Union Brescia",
@@ -296,17 +318,6 @@
       "picks": 5
     },
     {
-      "home": "Liepaja",
-      "away": "Super Nova",
-      "league": "LET",
-      "date": "01.11.2026 11:00",
-      "matchCode": "4446805",
-      "odds": 1.42,
-      "patternScore": 68.02,
-      "patternText": "222.833/327.582",
-      "picks": 2
-    },
-    {
       "home": "Auda",
       "away": "Fs Jelgava",
       "league": "LET",
@@ -316,17 +327,6 @@
       "patternScore": 67.98,
       "patternText": "226.935/333.837",
       "picks": 1
-    },
-    {
-      "home": "Zwolle",
-      "away": "ADO Den Haag",
-      "league": "HOL",
-      "date": "01.11.2026 11:15",
-      "matchCode": "4481578",
-      "odds": 1.39,
-      "patternScore": 67.57,
-      "patternText": "157.067/232.445",
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
@@ -334,8 +334,8 @@
       "home": "Como 1907",
       "away": "Unione V.",
       "league": "İTA",
-      "at": "01.11.2026 05:49",
-      "count": 6
+      "at": "01.11.2026 06:06",
+      "count": 3
     },
     {
       "home": "Zwolle",
