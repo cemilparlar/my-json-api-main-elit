@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 18:11",
+  "updatedAt": "01.11.2026 18:19",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 443,
+      "won": 442,
       "lost": 245,
-      "total": 688,
-      "rate": 64.4
+      "total": 687,
+      "rate": 64.3
     },
-    "totalAnalyses": 300991,
+    "totalAnalyses": 300998,
     "leagues": 536,
     "pro": {
       "won": 702,
-      "lost": 303,
-      "total": 1005,
-      "rate": 69.9
+      "lost": 301,
+      "total": 1003,
+      "rate": 70.0
     },
     "insights": {
-      "won": 1246,
-      "lost": 553,
-      "total": 1799,
+      "won": 1239,
+      "lost": 550,
+      "total": 1789,
       "rate": 69.3
     },
     "coupons": {
-      "won": 25,
-      "lost": 28,
-      "total": 53,
-      "rate": 47.2
+      "won": 24,
+      "lost": 25,
+      "total": 49,
+      "rate": 49.0
     },
-    "analyses24h": 1400,
-    "analyses30d": 21421
+    "analyses24h": 1384,
+    "analyses30d": 21406
   },
   "recentWins": [
     {
@@ -260,33 +260,33 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 12:18",
-      "home": "CD Eldense",
-      "away": "Granada CF"
-    },
-    {
-      "type": "updated",
-      "at": "01.11.2026 12:17",
-      "home": "Igdir FK",
-      "away": "Antalyaspor"
-    },
-    {
-      "type": "updated",
       "at": "01.11.2026 12:19",
       "home": "Istanbul Basaksehir",
       "away": "Samsunspor"
     },
     {
       "type": "updated",
-      "at": "01.11.2026 12:16",
-      "home": "Getafe CF",
-      "away": "Sevilla FC"
-    },
-    {
-      "type": "updated",
       "at": "01.11.2026 12:25",
       "home": "Frosinone Calcio",
       "away": "Torino FC"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 13:13",
+      "home": "SS Lazio",
+      "away": "Cagliari Calcio"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 13:43",
+      "home": "Union Berlin",
+      "away": "FC Koln"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 14:40",
+      "home": "AD Ceuta",
+      "away": "Sporting Gijon"
     }
   ],
   "today": {
@@ -297,7 +297,7 @@
     "matchCode": "4492359",
     "odds": 1.32,
     "patternScore": 66.29,
-    "patternText": "102.370/154.432",
+    "patternText": "102.374/154.436",
     "picks": 2
   },
   "todayList": [
@@ -309,7 +309,7 @@
       "matchCode": "4492359",
       "odds": 1.32,
       "patternScore": 66.29,
-      "patternText": "102.370/154.432",
+      "patternText": "102.374/154.436",
       "picks": 2
     },
     {
@@ -320,7 +320,7 @@
       "matchCode": "4564199",
       "odds": 1.26,
       "patternScore": 69.03,
-      "patternText": "196.037/283.989",
+      "patternText": "196.041/283.993",
       "picks": 4
     },
     {
@@ -331,7 +331,7 @@
       "matchCode": "4517038",
       "odds": 1.24,
       "patternScore": 68.37,
-      "patternText": "161.877/236.761",
+      "patternText": "161.881/236.765",
       "picks": 4
     },
     {
@@ -342,7 +342,7 @@
       "matchCode": "4475136",
       "odds": 1.24,
       "patternScore": 68.09,
-      "patternText": "265.010/389.225",
+      "patternText": "265.022/389.237",
       "picks": 3
     },
     {
@@ -353,24 +353,45 @@
       "matchCode": "4492809",
       "odds": 1.22,
       "patternScore": 68.65,
-      "patternText": "247.450/360.451",
+      "patternText": "247.462/360.463",
       "picks": 4
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Marseille",
-      "away": "Toulouse FC",
-      "league": "FR1",
-      "at": "01.11.2026 17:56",
-      "count": 6
+      "home": "New England Revolution",
+      "away": "Inter Miami CF",
+      "league": "ABD",
+      "at": "01.11.2026 18:15",
+      "count": 8
     },
     {
       "home": "Athletic Bilbao",
       "away": "Real Sociedad",
       "league": "İS1",
-      "at": "01.11.2026 17:16",
+      "at": "01.11.2026 18:14",
+      "count": 9
+    },
+    {
+      "home": "Nashville SC",
+      "away": "New York Red Bulls",
+      "league": "ABD",
+      "at": "01.11.2026 18:14",
+      "count": 2
+    },
+    {
+      "home": "Juventus",
+      "away": "SSC Napoli",
+      "league": "İTA",
+      "at": "01.11.2026 18:13",
       "count": 8
+    },
+    {
+      "home": "Marseille",
+      "away": "Toulouse FC",
+      "league": "FR1",
+      "at": "01.11.2026 18:13",
+      "count": 4
     },
     {
       "home": "Palermo FC",
@@ -401,32 +422,11 @@
       "count": 6
     },
     {
-      "home": "Nashville SC",
-      "away": "New York Red Bulls",
-      "league": "ABD",
-      "at": "01.11.2026 16:37",
-      "count": 8
-    },
-    {
-      "home": "Juventus",
-      "away": "SSC Napoli",
-      "league": "İTA",
-      "at": "01.11.2026 16:36",
-      "count": 8
-    },
-    {
       "home": "US Lecce",
       "away": "Genoa CFC",
       "league": "İTA",
       "at": "01.11.2026 16:21",
       "count": 9
-    },
-    {
-      "home": "Sporting Charleroi",
-      "away": "La Louviere",
-      "league": "BEL",
-      "at": "01.11.2026 15:59",
-      "count": 4
     }
   ],
   "paywall": {

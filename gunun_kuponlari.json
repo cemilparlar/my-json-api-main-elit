@@ -2,27 +2,23 @@
   "version": 1,
   "stats7": {
     "safe": {
-      "won": 5,
-      "lost": 4
-    },
-    "safe_b": {
-      "won": 2,
+      "won": 4,
       "lost": 3
     },
     "safe_a": {
       "won": 3,
       "lost": 1
     },
-    "surprise": {
-      "won": 2,
-      "lost": 6
-    },
-    "surprise_2": {
-      "won": 0,
-      "lost": 1
+    "safe_b": {
+      "won": 1,
+      "lost": 2
     },
     "multi_1": {
       "won": 0,
+      "lost": 4
+    },
+    "surprise": {
+      "won": 2,
       "lost": 5
     },
     "surprise_1": {
@@ -104,8 +100,8 @@
       "lost": 5
     }
   },
-  "updatedAt": "01.11.2026 18:11",
-  "updatedAtUtc": "2026-11-01T18:11:00Z",
+  "updatedAt": "01.11.2026 18:19",
+  "updatedAtUtc": "2026-11-01T18:19:00Z",
   "upcoming": [
     {
       "id": "20261101-12-1",
@@ -541,7 +537,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4534774",
