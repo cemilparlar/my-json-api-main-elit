@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 15:41",
+  "updatedAt": "01.11.2026 15:48",
   "config": {
     "pages": [
       "engine",
@@ -23,23 +23,23 @@
     "days": 7,
     "last24h": {
       "won": 426,
-      "lost": 203,
-      "total": 629,
-      "rate": 67.7
+      "lost": 201,
+      "total": 627,
+      "rate": 67.9
     },
-    "totalAnalyses": 300888,
+    "totalAnalyses": 300920,
     "leagues": 539,
     "pro": {
-      "won": 699,
-      "lost": 306,
-      "total": 1005,
+      "won": 698,
+      "lost": 305,
+      "total": 1003,
       "rate": 69.6
     },
     "insights": {
-      "won": 1238,
-      "lost": 550,
-      "total": 1788,
-      "rate": 69.2
+      "won": 1237,
+      "lost": 548,
+      "total": 1785,
+      "rate": 69.3
     },
     "coupons": {
       "won": 29,
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 46.8
     },
-    "analyses24h": 1585,
-    "analyses30d": 21445
+    "analyses24h": 1602,
+    "analyses30d": 21459
   },
   "recentWins": [
     {
@@ -290,39 +290,17 @@
     }
   ],
   "today": {
-    "home": "US Lecce",
-    "away": "Genoa CFC",
-    "league": "İTA",
-    "date": "01.11.2026 17:00",
-    "matchCode": "4475138",
-    "odds": 2.65,
-    "patternScore": 66.79,
-    "patternText": "171.333/256.511",
-    "picks": 9
+    "home": "Palermo FC",
+    "away": "LR Vicenza",
+    "league": "İTB",
+    "date": "01.11.2026 18:30",
+    "matchCode": "4534774",
+    "odds": 1.38,
+    "patternScore": 67.71,
+    "patternText": "257.502/380.321",
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "US Lecce",
-      "away": "Genoa CFC",
-      "league": "İTA",
-      "date": "01.11.2026 17:00",
-      "matchCode": "4475138",
-      "odds": 2.65,
-      "patternScore": 66.79,
-      "patternText": "171.333/256.511",
-      "picks": 9
-    },
-    {
-      "home": "Gremio FBPA",
-      "away": "Atletico Mineiro",
-      "league": "BRK",
-      "date": "01.11.2026 21:30",
-      "matchCode": "4564199",
-      "odds": 1.61,
-      "patternScore": 67.6,
-      "patternText": "165.788/245.233",
-      "picks": 3
-    },
     {
       "home": "Palermo FC",
       "away": "LR Vicenza",
@@ -346,6 +324,17 @@
       "picks": 6
     },
     {
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "league": "İNP",
+      "date": "01.11.2026 16:30",
+      "matchCode": "4481097",
+      "odds": 1.34,
+      "patternScore": 67.35,
+      "patternText": "269.248/399.745",
+      "picks": 5
+    },
+    {
       "home": "Ujpest",
       "away": "Nyiregyhaza",
       "league": "MAC",
@@ -355,9 +344,41 @@
       "patternScore": 68.19,
       "patternText": "244.699/358.848",
       "picks": 3
+    },
+    {
+      "home": "Paok",
+      "away": "Asteras Tripoli",
+      "league": "YUN",
+      "date": "01.11.2026 17:00",
+      "matchCode": "4540160",
+      "odds": 1.32,
+      "patternScore": 67.34,
+      "patternText": "269.760/400.596",
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Atlanta United",
+      "away": "Toronto FC",
+      "league": "ABD",
+      "at": "01.11.2026 15:42",
+      "count": 18
+    },
+    {
+      "home": "Nashville SC",
+      "away": "New York Red Bulls",
+      "league": "ABD",
+      "at": "01.11.2026 15:42",
+      "count": 17
+    },
+    {
+      "home": "Gremio FBPA",
+      "away": "Atletico Mineiro",
+      "league": "BRK",
+      "at": "01.11.2026 15:42",
+      "count": 5
+    },
     {
       "home": "US Lecce",
       "away": "Genoa CFC",
@@ -406,27 +427,6 @@
       "league": "İTA",
       "at": "01.11.2026 15:25",
       "count": 6
-    },
-    {
-      "home": "Marseille",
-      "away": "Toulouse FC",
-      "league": "FR1",
-      "at": "01.11.2026 15:25",
-      "count": 7
-    },
-    {
-      "home": "Eintracht Frankfurt",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "01.11.2026 15:24",
-      "count": 9
-    },
-    {
-      "home": "Lokomotiv Moscow",
-      "away": "Spartak Moscow",
-      "league": "RUS",
-      "at": "01.11.2026 15:24",
-      "count": 7
     }
   ],
   "paywall": {
