@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 00:19",
+  "updatedAt": "01.11.2026 00:34",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 832,
       "rate": 70.3
     },
-    "totalAnalyses": 299920,
+    "totalAnalyses": 299929,
     "leagues": 538,
     "pro": {
-      "won": 863,
-      "lost": 359,
-      "total": 1222,
-      "rate": 70.6
+      "won": 843,
+      "lost": 352,
+      "total": 1195,
+      "rate": 70.5
     },
     "insights": {
-      "won": 1494,
-      "lost": 625,
-      "total": 2119,
-      "rate": 70.5
+      "won": 1462,
+      "lost": 615,
+      "total": 2077,
+      "rate": 70.4
     },
     "coupons": {
       "won": 27,
@@ -47,8 +47,8 @@
       "total": 60,
       "rate": 45.0
     },
-    "analyses24h": 1972,
-    "analyses30d": 21108
+    "analyses24h": 1982,
+    "analyses30d": 21118
   },
   "recentWins": [
     {
@@ -314,17 +314,6 @@
       "picks": 3
     },
     {
-      "home": "Isidro Metapan",
-      "away": "Municipal Limen",
-      "league": "ELSAL",
-      "date": "01.11.2026 01:00",
-      "matchCode": "4504409",
-      "odds": 1.23,
-      "patternScore": 68.16,
-      "patternText": "215.239/315.762",
-      "picks": 2
-    },
-    {
       "home": "JEF United Chiba",
       "away": "Avispa Fukuoka",
       "league": "JAP",
@@ -334,6 +323,17 @@
       "patternScore": 67.78,
       "patternText": "176.281/260.088",
       "picks": 4
+    },
+    {
+      "home": "Suwon FC",
+      "away": "Ansan Greeners",
+      "league": "GKOR2",
+      "date": "01.11.2026 05:00",
+      "matchCode": "4442871",
+      "odds": 1.19,
+      "patternScore": 68.06,
+      "patternText": "228.029/335.026",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
