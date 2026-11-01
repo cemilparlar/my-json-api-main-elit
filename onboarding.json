@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 12:15",
+  "updatedAt": "01.11.2026 12:26",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 543,
-      "lost": 241,
-      "total": 784,
-      "rate": 69.3
+      "won": 539,
+      "lost": 238,
+      "total": 777,
+      "rate": 69.4
     },
-    "totalAnalyses": 300373,
+    "totalAnalyses": 300462,
     "leagues": 539,
     "pro": {
-      "won": 744,
+      "won": 743,
       "lost": 329,
-      "total": 1073,
+      "total": 1072,
       "rate": 69.3
     },
     "insights": {
-      "won": 1314,
+      "won": 1313,
       "lost": 579,
-      "total": 1893,
+      "total": 1892,
       "rate": 69.4
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 60,
       "rate": 46.7
     },
-    "analyses24h": 2044,
-    "analyses30d": 21309
+    "analyses24h": 2098,
+    "analyses30d": 21363
   },
   "recentWins": [
     {
@@ -245,27 +245,27 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 08:22",
+      "at": "01.11.2026 12:18",
+      "home": "CD Eldense",
+      "away": "Granada CF"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 12:17",
+      "home": "Igdir FK",
+      "away": "Antalyaspor"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 12:19",
+      "home": "Istanbul Basaksehir",
+      "away": "Samsunspor"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 12:16",
       "home": "Getafe CF",
       "away": "Sevilla FC"
-    },
-    {
-      "type": "updated",
-      "at": "01.11.2026 08:32",
-      "home": "Empoli",
-      "away": "SS Juve Stabia"
-    },
-    {
-      "type": "updated",
-      "at": "01.11.2026 06:19",
-      "home": "FC Machida Zelvia",
-      "away": "Gamba Osaka"
-    },
-    {
-      "type": "updated",
-      "at": "01.11.2026 08:13",
-      "home": "Isloch",
-      "away": "Slavia Mozyr"
     }
   ],
   "today": {
@@ -275,8 +275,8 @@
     "date": "01.11.2026 15:00",
     "matchCode": "4480761",
     "odds": 2.19,
-    "patternScore": 67.75,
-    "patternText": "246.888/364.390",
+    "patternScore": 67.76,
+    "patternText": "246.902/364.404",
     "picks": 7
   },
   "todayList": [
@@ -287,20 +287,9 @@
       "date": "01.11.2026 15:00",
       "matchCode": "4480761",
       "odds": 2.19,
-      "patternScore": 67.75,
-      "patternText": "246.888/364.390",
+      "patternScore": 67.76,
+      "patternText": "246.902/364.404",
       "picks": 7
-    },
-    {
-      "home": "Oulu",
-      "away": "Kuopion",
-      "league": "FİN",
-      "date": "01.11.2026 13:00",
-      "matchCode": "4560156",
-      "odds": 1.71,
-      "patternScore": 67.15,
-      "patternText": "180.909/269.405",
-      "picks": 4
     },
     {
       "home": "US Avellino",
@@ -310,8 +299,19 @@
       "matchCode": "4534768",
       "odds": 1.6,
       "patternScore": 67.52,
-      "patternText": "171.559/254.074",
+      "patternText": "171.565/254.080",
       "picks": 6
+    },
+    {
+      "home": "Sporting Charleroi",
+      "away": "La Louviere",
+      "league": "BEL",
+      "date": "01.11.2026 18:15",
+      "matchCode": "4480758",
+      "odds": 1.58,
+      "patternScore": 68.33,
+      "patternText": "264.888/387.639",
+      "picks": 2
     },
     {
       "home": "Sarpsborg 08",
@@ -321,7 +321,7 @@
       "matchCode": "4428346",
       "odds": 1.54,
       "patternScore": 67.4,
-      "patternText": "278.119/412.615",
+      "patternText": "278.125/412.621",
       "picks": 4
     },
     {
@@ -332,79 +332,79 @@
       "matchCode": "4485907",
       "odds": 1.5,
       "patternScore": 67.2,
-      "patternText": "272.116/404.960",
+      "patternText": "272.122/404.966",
       "picks": 3
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Trabzonspor",
-      "away": "Gaziantep FK",
-      "league": "TSL",
-      "at": "01.11.2026 12:15",
-      "count": 14
-    },
-    {
-      "home": "AD Ceuta",
-      "away": "Sporting Gijon",
-      "league": "İS2",
-      "at": "01.11.2026 09:32",
-      "count": 6
-    },
-    {
-      "home": "Heart of Midlothian",
-      "away": "Hibernian",
-      "league": "İKLK",
-      "at": "01.11.2026 09:29",
-      "count": 7
-    },
-    {
-      "home": "Sint-Truidense VV",
-      "away": "OH Leuven",
-      "league": "BEL",
-      "at": "01.11.2026 09:28",
-      "count": 11
-    },
-    {
-      "home": "Baltika Kalini",
-      "away": "FC Akron Togliatti",
-      "league": "RUS",
-      "at": "01.11.2026 09:27",
-      "count": 3
+      "home": "Frosinone Calcio",
+      "away": "Torino FC",
+      "league": "İTA",
+      "at": "01.11.2026 12:25",
+      "count": 18
     },
     {
       "home": "Union Berlin",
       "away": "FC Koln",
       "league": "AL1",
-      "at": "01.11.2026 09:26",
+      "at": "01.11.2026 12:25",
       "count": 6
     },
     {
-      "home": "Amed SK",
-      "away": "Eyupspor",
-      "league": "TSL",
-      "at": "01.11.2026 09:22",
-      "count": 3
+      "home": "RC Strasbourg",
+      "away": "AJ Auxerre",
+      "league": "FR1",
+      "at": "01.11.2026 12:25",
+      "count": 7
     },
     {
-      "home": "Frosinone Calcio",
-      "away": "Torino FC",
-      "league": "İTA",
-      "at": "01.11.2026 08:41",
-      "count": 15
+      "home": "US Avellino",
+      "away": "AC Pisa",
+      "league": "İTB",
+      "at": "01.11.2026 12:24",
+      "count": 7
     },
     {
       "home": "SS Lazio",
       "away": "Cagliari Calcio",
       "league": "İTA",
-      "at": "01.11.2026 08:41",
+      "at": "01.11.2026 12:23",
       "count": 4
     },
     {
-      "home": "Empoli",
-      "away": "SS Juve Stabia",
-      "league": "İTB",
-      "at": "01.11.2026 08:32",
+      "home": "SC Telstar",
+      "away": "FC Utrecht",
+      "league": "HOL",
+      "at": "01.11.2026 12:21",
+      "count": 9
+    },
+    {
+      "home": "Excelsior Rotterdam",
+      "away": "FC Twente",
+      "league": "HOL",
+      "at": "01.11.2026 12:20",
+      "count": 15
+    },
+    {
+      "home": "Istanbul Basaksehir",
+      "away": "Samsunspor",
+      "league": "TSL",
+      "at": "01.11.2026 12:19",
+      "count": 9
+    },
+    {
+      "home": "CD Eldense",
+      "away": "Granada CF",
+      "league": "İS2",
+      "at": "01.11.2026 12:18",
+      "count": 7
+    },
+    {
+      "home": "Igdir FK",
+      "away": "Antalyaspor",
+      "league": "T1L",
+      "at": "01.11.2026 12:17",
       "count": 4
     }
   ],
