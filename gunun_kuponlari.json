@@ -100,113 +100,9 @@
       "lost": 5
     }
   },
-  "updatedAt": "01.11.2026 22:59",
-  "updatedAtUtc": "2026-11-01T22:59:00Z",
+  "updatedAt": "01.11.2026 23:06",
+  "updatedAtUtc": "2026-11-01T23:06:00Z",
   "upcoming": [
-    {
-      "id": "20261101-16-2",
-      "createdAt": "01.11.2026 13:00",
-      "createdAtUtc": "2026-11-01T13:00:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 1.22,
-      "winChance": 49.98,
-      "firstKickoff": "01.11.2026 14:00",
-      "lastKickoff": "01.11.2026 15:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_2",
-      "group": "multi",
-      "formula": "2",
-      "effectiveOdds": 1.15,
-      "legs": [
-        {
-          "matchCode": "4489397",
-          "nesine": null,
-          "date": "01.11.2026 14:00",
-          "kickoffUtc": "2026-11-01T14:00:00Z",
-          "league": "İN1",
-          "home": "Sheffield Wednesday",
-          "away": "Blackpool",
-          "league_tr": "İN1",
-          "home_tr": "Sheffield Wed",
-          "away_tr": "Blackpool",
-          "prediction": "Double Chance 1X",
-          "prediction_tr": "Çifte Şans 1-X",
-          "odds": 1.06,
-          "probability": 83.51,
-          "patternScore": 70.64,
-          "patternText": "193.202/273.500",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void"
-        },
-        {
-          "matchCode": "4562864",
-          "nesine": null,
-          "date": "01.11.2026 15:00",
-          "kickoffUtc": "2026-11-01T15:00:00Z",
-          "league": "İKLK",
-          "home": "Heart of Midlothian",
-          "away": "Hibernian",
-          "league_tr": "İKLK",
-          "home_tr": "Hearts",
-          "away_tr": "Hibernian",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.15,
-          "probability": 82.35,
-          "patternScore": 70.75,
-          "patternText": "242.358/342.577",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261101-16-1",
-      "createdAt": "01.11.2026 13:00",
-      "createdAtUtc": "2026-11-01T13:00:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.15,
-      "winChance": 70.75,
-      "firstKickoff": "01.11.2026 15:00",
-      "lastKickoff": "01.11.2026 15:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.15,
-      "legs": [
-        {
-          "matchCode": "4562864",
-          "nesine": null,
-          "date": "01.11.2026 15:00",
-          "kickoffUtc": "2026-11-01T15:00:00Z",
-          "league": "İKLK",
-          "home": "Heart of Midlothian",
-          "away": "Hibernian",
-          "league_tr": "İKLK",
-          "home_tr": "Hearts",
-          "away_tr": "Hibernian",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.15,
-          "probability": 82.35,
-          "patternScore": 70.75,
-          "patternText": "242.358/342.577",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261101-18-1",
       "createdAt": "01.11.2026 15:04",
@@ -474,7 +370,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4577008",
@@ -510,7 +406,7 @@
       "winChance": 72.02,
       "firstKickoff": "01.11.2026 23:00",
       "lastKickoff": "01.11.2026 23:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_1",
       "group": "multi",
@@ -537,7 +433,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -551,7 +447,7 @@
       "winChance": 51.83,
       "firstKickoff": "01.11.2026 23:00",
       "lastKickoff": "01.11.2026 23:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_2",
       "group": "multi",
@@ -578,7 +474,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4577008",
@@ -606,6 +502,110 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261101-16-1",
+      "createdAt": "01.11.2026 13:00",
+      "createdAtUtc": "2026-11-01T13:00:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.15,
+      "winChance": 70.75,
+      "firstKickoff": "01.11.2026 15:00",
+      "lastKickoff": "01.11.2026 15:00",
+      "status": "void",
+      "completedAt": "01.11.2026 23:06",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.0,
+      "legs": [
+        {
+          "matchCode": "4562864",
+          "nesine": null,
+          "date": "01.11.2026 15:00",
+          "kickoffUtc": "2026-11-01T15:00:00Z",
+          "league": "İKLK",
+          "home": "Heart of Midlothian",
+          "away": "Hibernian",
+          "league_tr": "İKLK",
+          "home_tr": "Hearts",
+          "away_tr": "Hibernian",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.15,
+          "probability": 82.35,
+          "patternScore": 70.75,
+          "patternText": "242.358/342.577",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "void"
+        }
+      ]
+    },
+    {
+      "id": "20261101-16-2",
+      "createdAt": "01.11.2026 13:00",
+      "createdAtUtc": "2026-11-01T13:00:00Z",
+      "size": 2,
+      "mbs": 1,
+      "totalOdds": 1.22,
+      "winChance": 49.98,
+      "firstKickoff": "01.11.2026 14:00",
+      "lastKickoff": "01.11.2026 15:00",
+      "status": "void",
+      "completedAt": "01.11.2026 23:06",
+      "kind": "c70_2",
+      "group": "multi",
+      "formula": "2",
+      "effectiveOdds": 1.0,
+      "legs": [
+        {
+          "matchCode": "4489397",
+          "nesine": null,
+          "date": "01.11.2026 14:00",
+          "kickoffUtc": "2026-11-01T14:00:00Z",
+          "league": "İN1",
+          "home": "Sheffield Wednesday",
+          "away": "Blackpool",
+          "league_tr": "İN1",
+          "home_tr": "Sheffield Wed",
+          "away_tr": "Blackpool",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.06,
+          "probability": 83.51,
+          "patternScore": 70.64,
+          "patternText": "193.202/273.500",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "void"
+        },
+        {
+          "matchCode": "4562864",
+          "nesine": null,
+          "date": "01.11.2026 15:00",
+          "kickoffUtc": "2026-11-01T15:00:00Z",
+          "league": "İKLK",
+          "home": "Heart of Midlothian",
+          "away": "Hibernian",
+          "league_tr": "İKLK",
+          "home_tr": "Hearts",
+          "away_tr": "Hibernian",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.15,
+          "probability": 82.35,
+          "patternScore": 70.75,
+          "patternText": "242.358/342.577",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "void"
+        }
+      ]
+    },
     {
       "id": "20261101-20-1",
       "createdAt": "01.11.2026 17:00",
@@ -999,7 +999,7 @@
       "kind": "c70_3",
       "group": "multi",
       "formula": "3",
-      "effectiveOdds": 1.22,
+      "effectiveOdds": 1.06,
       "legs": [
         {
           "matchCode": "4489397",
@@ -1043,7 +1043,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live"
+          "status": "void"
         },
         {
           "matchCode": "4540157",
@@ -1671,47 +1671,6 @@
           "firstHalf": "2 - 1",
           "finalScore": "2 - 3",
           "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261031-16-1",
-      "createdAt": "31.10.2026 13:17",
-      "createdAtUtc": "2026-10-31T13:17:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.09,
-      "winChance": 71.45,
-      "firstKickoff": "31.10.2026 15:00",
-      "lastKickoff": "31.10.2026 15:00",
-      "status": "void",
-      "completedAt": "31.10.2026 23:01",
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.0,
-      "legs": [
-        {
-          "matchCode": "4516110",
-          "nesine": null,
-          "date": "31.10.2026 15:00",
-          "kickoffUtc": "2026-10-31T15:00:00Z",
-          "league": "İCON",
-          "home": "Dover Athletic",
-          "away": "Farnham Town",
-          "league_tr": "İCON",
-          "home_tr": "Dover Athletic",
-          "away_tr": "Farnham Town",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.09,
-          "probability": 82.14,
-          "patternScore": 71.45,
-          "patternText": "354.289/495.838",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void"
         }
       ]
     }
