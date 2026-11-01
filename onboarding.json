@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 08:34",
+  "updatedAt": "01.11.2026 08:52",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 549,
+      "won": 550,
       "lost": 231,
-      "total": 780,
+      "total": 781,
       "rate": 70.4
     },
-    "totalAnalyses": 300265,
+    "totalAnalyses": 300285,
     "leagues": 539,
     "pro": {
-      "won": 788,
+      "won": 789,
       "lost": 340,
-      "total": 1128,
+      "total": 1129,
       "rate": 69.9
     },
     "insights": {
       "won": 1396,
-      "lost": 601,
-      "total": 1997,
+      "lost": 600,
+      "total": 1996,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 2055,
-    "analyses30d": 21288
+    "analyses24h": 2071,
+    "analyses30d": 21304
   },
   "recentWins": [
     {
@@ -303,6 +303,17 @@
       "picks": 4
     },
     {
+      "home": "US Avellino",
+      "away": "AC Pisa",
+      "league": "İTB",
+      "date": "01.11.2026 14:00",
+      "matchCode": "4534768",
+      "odds": 1.6,
+      "patternScore": 67.53,
+      "patternText": "171.443/253.872",
+      "picks": 6
+    },
+    {
       "home": "Inter Milan",
       "away": "SS Lazio Women",
       "league": "İTKSA",
@@ -323,20 +334,23 @@
       "patternScore": 68.29,
       "patternText": "144.240/211.202",
       "picks": 5
-    },
-    {
-      "home": "Empoli",
-      "away": "SS Juve Stabia",
-      "league": "İTB",
-      "date": "01.11.2026 14:00",
-      "matchCode": "4534771",
-      "odds": 1.48,
-      "patternScore": 68.03,
-      "patternText": "247.752/364.168",
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Frosinone Calcio",
+      "away": "Torino FC",
+      "league": "İTA",
+      "at": "01.11.2026 08:41",
+      "count": 15
+    },
+    {
+      "home": "SS Lazio",
+      "away": "Cagliari Calcio",
+      "league": "İTA",
+      "at": "01.11.2026 08:41",
+      "count": 4
+    },
     {
       "home": "Empoli",
       "away": "SS Juve Stabia",
@@ -392,20 +406,6 @@
       "league": "AL2",
       "at": "01.11.2026 07:38",
       "count": 8
-    },
-    {
-      "home": "Igdir FK",
-      "away": "Antalyaspor",
-      "league": "T1L",
-      "at": "01.11.2026 07:21",
-      "count": 5
-    },
-    {
-      "home": "CD Eldense",
-      "away": "Granada CF",
-      "league": "İS2",
-      "at": "01.11.2026 07:19",
-      "count": 7
     }
   ],
   "paywall": {
