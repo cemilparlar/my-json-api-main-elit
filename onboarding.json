@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 01:36",
+  "updatedAt": "01.11.2026 01:54",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 584,
+      "won": 586,
       "lost": 246,
-      "total": 830,
+      "total": 832,
       "rate": 70.4
     },
     "totalAnalyses": 299935,
     "leagues": 538,
     "pro": {
-      "won": 843,
+      "won": 845,
       "lost": 352,
-      "total": 1195,
-      "rate": 70.5
+      "total": 1197,
+      "rate": 70.6
     },
     "insights": {
-      "won": 1462,
+      "won": 1464,
       "lost": 615,
-      "total": 2077,
+      "total": 2079,
       "rate": 70.4
     },
     "coupons": {
-      "won": 25,
+      "won": 26,
       "lost": 33,
-      "total": 58,
-      "rate": 43.1
+      "total": 59,
+      "rate": 44.1
     },
     "analyses24h": 1980,
     "analyses30d": 21118
@@ -121,6 +121,21 @@
     {
       "size": 1,
       "totalOdds": 1.06,
+      "winChance": 71.18,
+      "completedAt": "01.11.2026 01:54",
+      "legs": [
+        {
+          "home": "Caracas FC",
+          "away": "Monagas SC",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.06,
+          "finalScore": "2 - 3"
+        }
+      ]
+    },
+    {
+      "size": 1,
+      "totalOdds": 1.06,
       "winChance": 70.57,
       "completedAt": "31.10.2026 22:15",
       "legs": [
@@ -160,28 +175,6 @@
           "prediction": "Double Chance 12",
           "odds": 1.09,
           "finalScore": "1 - 2"
-        }
-      ]
-    },
-    {
-      "size": 2,
-      "totalOdds": 1.16,
-      "winChance": 50.18,
-      "completedAt": "31.10.2026 18:57",
-      "legs": [
-        {
-          "home": "Lechia Gdansk",
-          "away": "Unia Skierniewice",
-          "prediction": "Double Chance 12",
-          "odds": 1.07,
-          "finalScore": "3 - 2"
-        },
-        {
-          "home": "Buxton",
-          "away": "Marine",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "4 - 2"
         }
       ]
     }

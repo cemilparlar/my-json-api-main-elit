@@ -34,11 +34,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 11,
+      "won": 12,
       "lost": 8
     },
     "c70_1": {
-      "won": 7,
+      "won": 8,
       "lost": 3
     },
     "c70_2": {
@@ -88,11 +88,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 11,
+      "won": 12,
       "lost": 8
     },
     "c70_1": {
-      "won": 7,
+      "won": 8,
       "lost": 3
     },
     "c70_2": {
@@ -104,8 +104,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "01.11.2026 01:36",
-  "updatedAtUtc": "2026-11-01T01:36:00Z",
+  "updatedAt": "01.11.2026 01:54",
+  "updatedAtUtc": "2026-11-01T01:54:00Z",
   "upcoming": [
     {
       "id": "20261101-00-2",
@@ -167,47 +167,6 @@
           "firstHalf": "1 - 0",
           "finalScore": "1 - 0",
           "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261101-00-1",
-      "createdAt": "31.10.2026 21:09",
-      "createdAtUtc": "2026-10-31T21:09:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.06,
-      "winChance": 71.18,
-      "firstKickoff": "31.10.2026 23:30",
-      "lastKickoff": "31.10.2026 23:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.06,
-      "legs": [
-        {
-          "matchCode": "4576827",
-          "nesine": null,
-          "date": "31.10.2026 23:30",
-          "kickoffUtc": "2026-10-31T23:30:00Z",
-          "league": "VEN",
-          "home": "Caracas FC",
-          "away": "Monagas SC",
-          "league_tr": "VEN",
-          "home_tr": "Caracas Fc",
-          "away_tr": "Monagas",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.06,
-          "probability": 84.09,
-          "patternScore": 71.18,
-          "patternText": "157.707/221.568",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
         }
       ]
     },
@@ -295,6 +254,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261101-00-1",
+      "createdAt": "31.10.2026 21:09",
+      "createdAtUtc": "2026-10-31T21:09:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.06,
+      "winChance": 71.18,
+      "firstKickoff": "31.10.2026 23:30",
+      "lastKickoff": "31.10.2026 23:30",
+      "status": "won",
+      "completedAt": "01.11.2026 01:54",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.06,
+      "legs": [
+        {
+          "matchCode": "4576827",
+          "nesine": null,
+          "date": "31.10.2026 23:30",
+          "kickoffUtc": "2026-10-31T23:30:00Z",
+          "league": "VEN",
+          "home": "Caracas FC",
+          "away": "Monagas SC",
+          "league_tr": "VEN",
+          "home_tr": "Caracas Fc",
+          "away_tr": "Monagas",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.06,
+          "probability": 84.09,
+          "patternScore": 71.18,
+          "patternText": "157.707/221.568",
+          "mbs": 1,
+          "firstHalf": "2 - 1",
+          "finalScore": "2 - 3",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261031-16-1",
       "createdAt": "31.10.2026 13:17",
