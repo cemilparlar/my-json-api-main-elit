@@ -104,8 +104,8 @@
       "lost": 3
     }
   },
-  "updatedAt": "01.11.2026 15:55",
-  "updatedAtUtc": "2026-11-01T15:55:00Z",
+  "updatedAt": "01.11.2026 16:03",
+  "updatedAtUtc": "2026-11-01T16:03:00Z",
   "upcoming": [
     {
       "id": "20261101-12-1",
@@ -410,7 +410,7 @@
       "winChance": 70.98,
       "firstKickoff": "01.11.2026 16:00",
       "lastKickoff": "01.11.2026 16:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_1",
       "group": "multi",
@@ -437,7 +437,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -451,7 +451,7 @@
       "winChance": 50.35,
       "firstKickoff": "01.11.2026 16:00",
       "lastKickoff": "01.11.2026 16:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_2",
       "group": "multi",
@@ -478,7 +478,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4428747",
@@ -500,7 +500,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -514,7 +514,7 @@
       "winChance": 35.4,
       "firstKickoff": "01.11.2026 16:00",
       "lastKickoff": "01.11.2026 16:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_3",
       "group": "multi",
@@ -541,7 +541,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4428747",
@@ -563,7 +563,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         },
         {
           "matchCode": "4495205",
@@ -585,7 +585,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     }
