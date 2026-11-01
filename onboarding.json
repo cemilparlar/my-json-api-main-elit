@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 14:14",
+  "updatedAt": "01.11.2026 14:23",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 461,
-      "lost": 220,
-      "total": 681,
+      "won": 466,
+      "lost": 222,
+      "total": 688,
       "rate": 67.7
     },
-    "totalAnalyses": 300772,
+    "totalAnalyses": 300792,
     "leagues": 539,
     "pro": {
-      "won": 674,
-      "lost": 297,
-      "total": 971,
+      "won": 677,
+      "lost": 298,
+      "total": 975,
       "rate": 69.4
     },
     "insights": {
-      "won": 1200,
-      "lost": 537,
-      "total": 1737,
+      "won": 1205,
+      "lost": 539,
+      "total": 1744,
       "rate": 69.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 1975,
-    "analyses30d": 21440
+    "analyses24h": 1986,
+    "analyses30d": 21451
   },
   "recentWins": [
     {
@@ -269,17 +269,28 @@
     }
   ],
   "today": {
-    "home": "Sint-Truidense VV",
-    "away": "OH Leuven",
-    "league": "BEL",
-    "date": "01.11.2026 15:00",
-    "matchCode": "4480761",
-    "odds": 2.19,
-    "patternScore": 67.76,
-    "patternText": "247.226/364.848",
-    "picks": 7
+    "home": "US Lecce",
+    "away": "Genoa CFC",
+    "league": "İTA",
+    "date": "01.11.2026 17:00",
+    "matchCode": "4475138",
+    "odds": 2.65,
+    "patternScore": 66.8,
+    "patternText": "170.963/255.937",
+    "picks": 9
   },
   "todayList": [
+    {
+      "home": "US Lecce",
+      "away": "Genoa CFC",
+      "league": "İTA",
+      "date": "01.11.2026 17:00",
+      "matchCode": "4475138",
+      "odds": 2.65,
+      "patternScore": 66.8,
+      "patternText": "170.963/255.937",
+      "picks": 9
+    },
     {
       "home": "Sint-Truidense VV",
       "away": "OH Leuven",
@@ -288,8 +299,19 @@
       "matchCode": "4480761",
       "odds": 2.19,
       "patternScore": 67.76,
-      "patternText": "247.226/364.848",
+      "patternText": "247.256/364.890",
       "picks": 7
+    },
+    {
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "league": "İNP",
+      "date": "01.11.2026 16:30",
+      "matchCode": "4481097",
+      "odds": 1.8,
+      "patternScore": 67.37,
+      "patternText": "241.405/358.314",
+      "picks": 4
     },
     {
       "home": "FC Arouca",
@@ -299,44 +321,36 @@
       "matchCode": "4517037",
       "odds": 1.67,
       "patternScore": 67.58,
-      "patternText": "165.068/244.247",
+      "patternText": "165.078/244.261",
       "picks": 2
     },
     {
-      "home": "Alemannia Aachen",
-      "away": "Preussen Munster",
-      "league": "AL3",
+      "home": "Palermo FC",
+      "away": "LR Vicenza",
+      "league": "İTB",
       "date": "01.11.2026 18:30",
-      "matchCode": "4517703",
-      "odds": 1.36,
-      "patternScore": 66.47,
-      "patternText": "189.380/284.902",
-      "picks": 6
-    },
-    {
-      "home": "Vasteras SK",
-      "away": "IF Brommapojkarna",
-      "league": "İSÇ",
-      "date": "01.11.2026 15:30",
-      "matchCode": "4426807",
-      "odds": 1.31,
-      "patternScore": 67.65,
-      "patternText": "290.586/429.539",
-      "picks": 4
-    },
-    {
-      "home": "FC Lausanne-Sport",
-      "away": "FC Thun",
-      "league": "İSV",
-      "date": "01.11.2026 15:30",
-      "matchCode": "4482338",
-      "odds": 1.29,
-      "patternScore": 67.4,
-      "patternText": "271.327/402.576",
-      "picks": 4
+      "matchCode": "4534774",
+      "odds": 1.38,
+      "patternScore": 67.7,
+      "patternText": "256.952/379.559",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Athletic Bilbao",
+      "away": "Real Sociedad",
+      "league": "İS1",
+      "at": "01.11.2026 14:15",
+      "count": 4
+    },
+    {
+      "home": "CD Tenerife",
+      "away": "FC Andorra",
+      "league": "İS2",
+      "at": "01.11.2026 14:15",
+      "count": 7
+    },
     {
       "home": "Marseille",
       "away": "Toulouse FC",
@@ -392,20 +406,6 @@
       "league": "FR1",
       "at": "01.11.2026 14:11",
       "count": 7
-    },
-    {
-      "home": "Kasimpasa",
-      "away": "Besiktas",
-      "league": "TSL",
-      "at": "01.11.2026 14:10",
-      "count": 4
-    },
-    {
-      "home": "FC Arouca",
-      "away": "CD Nacional",
-      "league": "POR",
-      "at": "01.11.2026 14:03",
-      "count": 4
     }
   ],
   "paywall": {
