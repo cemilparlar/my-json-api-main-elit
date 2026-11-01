@@ -34,7 +34,7 @@
       "lost": 3
     },
     "multi": {
-      "won": 14,
+      "won": 15,
       "lost": 8
     },
     "c70_1": {
@@ -42,7 +42,7 @@
       "lost": 3
     },
     "c70_2": {
-      "won": 3,
+      "won": 4,
       "lost": 3
     },
     "c70_3": {
@@ -88,7 +88,7 @@
       "lost": 9
     },
     "multi": {
-      "won": 14,
+      "won": 15,
       "lost": 8
     },
     "c70_1": {
@@ -96,7 +96,7 @@
       "lost": 3
     },
     "c70_2": {
-      "won": 3,
+      "won": 4,
       "lost": 3
     },
     "c70_3": {
@@ -104,72 +104,9 @@
       "lost": 2
     }
   },
-  "updatedAt": "01.11.2026 06:18",
-  "updatedAtUtc": "2026-11-01T06:18:00Z",
+  "updatedAt": "01.11.2026 06:33",
+  "updatedAtUtc": "2026-11-01T06:33:00Z",
   "upcoming": [
-    {
-      "id": "20261101-00-2",
-      "createdAt": "31.10.2026 21:09",
-      "createdAtUtc": "2026-10-31T21:09:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 1.13,
-      "winChance": 50.31,
-      "firstKickoff": "31.10.2026 22:30",
-      "lastKickoff": "31.10.2026 23:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_2",
-      "group": "multi",
-      "formula": "2",
-      "effectiveOdds": 1.13,
-      "legs": [
-        {
-          "matchCode": "4454044",
-          "nesine": null,
-          "date": "31.10.2026 22:30",
-          "kickoffUtc": "2026-10-31T22:30:00Z",
-          "league": "BR2",
-          "home": "Nautico",
-          "away": "Avai",
-          "league_tr": "BR2",
-          "home_tr": "Nautico",
-          "away_tr": "Avai",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.06,
-          "probability": 82.04,
-          "patternScore": 71.13,
-          "patternText": "155.028/217.940",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4436001",
-          "nesine": null,
-          "date": "31.10.2026 23:00",
-          "kickoffUtc": "2026-10-31T23:00:00Z",
-          "league": "ŞİL",
-          "home": "O'Higgins FC",
-          "away": "Atletico Nublense",
-          "league_tr": "ŞİL",
-          "home_tr": "O Higgins",
-          "away_tr": "Atletico Nublen",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.07,
-          "probability": 81.77,
-          "patternScore": 70.73,
-          "patternText": "152.156/215.122",
-          "mbs": 1,
-          "firstHalf": "1 - 0",
-          "finalScore": "1 - 0",
-          "status": "won"
-        }
-      ]
-    },
     {
       "id": "20261101-04-1",
       "createdAt": "01.11.2026 01:05",
@@ -317,6 +254,69 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261101-00-2",
+      "createdAt": "31.10.2026 21:09",
+      "createdAtUtc": "2026-10-31T21:09:00Z",
+      "size": 2,
+      "mbs": 1,
+      "totalOdds": 1.13,
+      "winChance": 50.31,
+      "firstKickoff": "31.10.2026 22:30",
+      "lastKickoff": "31.10.2026 23:00",
+      "status": "won",
+      "completedAt": "01.11.2026 06:33",
+      "kind": "c70_2",
+      "group": "multi",
+      "formula": "2",
+      "effectiveOdds": 1.07,
+      "legs": [
+        {
+          "matchCode": "4454044",
+          "nesine": null,
+          "date": "31.10.2026 22:30",
+          "kickoffUtc": "2026-10-31T22:30:00Z",
+          "league": "BR2",
+          "home": "Nautico",
+          "away": "Avai",
+          "league_tr": "BR2",
+          "home_tr": "Nautico",
+          "away_tr": "Avai",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.06,
+          "probability": 82.04,
+          "patternScore": 71.13,
+          "patternText": "155.028/217.940",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "void"
+        },
+        {
+          "matchCode": "4436001",
+          "nesine": null,
+          "date": "31.10.2026 23:00",
+          "kickoffUtc": "2026-10-31T23:00:00Z",
+          "league": "ŞİL",
+          "home": "O'Higgins FC",
+          "away": "Atletico Nublense",
+          "league_tr": "ŞİL",
+          "home_tr": "O Higgins",
+          "away_tr": "Atletico Nublen",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.07,
+          "probability": 81.77,
+          "patternScore": 70.73,
+          "patternText": "152.156/215.122",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 0",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261101-06-1",
       "createdAt": "01.11.2026 03:09",
