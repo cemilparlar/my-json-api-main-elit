@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 04:28",
+  "updatedAt": "01.11.2026 04:44",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 822,
       "rate": 70.7
     },
-    "totalAnalyses": 299974,
+    "totalAnalyses": 299993,
     "leagues": 538,
     "pro": {
       "won": 829,
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 44.8
     },
-    "analyses24h": 1967,
-    "analyses30d": 21133
+    "analyses24h": 1981,
+    "analyses30d": 21147
   },
   "recentWins": [
     {
@@ -307,17 +307,6 @@
       "picks": 2
     },
     {
-      "home": "JEF United Chiba",
-      "away": "Avispa Fukuoka",
-      "league": "JAP",
-      "date": "01.11.2026 05:00",
-      "matchCode": "4487249",
-      "odds": 1.3,
-      "patternScore": 68.43,
-      "patternText": "240.408/351.296",
-      "picks": 4
-    },
-    {
       "home": "Melbourne Victory",
       "away": "Newcastle Jets",
       "league": "AVUSTW",
@@ -327,9 +316,34 @@
       "patternScore": 68.31,
       "patternText": "204.162/298.897",
       "picks": 1
+    },
+    {
+      "home": "Fc Ordino",
+      "away": "Descaldes",
+      "league": "AND",
+      "date": "01.11.2026 10:00",
+      "matchCode": "4551742",
+      "odds": 1.2,
+      "patternScore": 67.75,
+      "patternText": "233.112/344.093",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sivasspor",
+      "away": "Boluspor",
+      "league": "T1L",
+      "at": "01.11.2026 04:44",
+      "count": 2
+    },
+    {
+      "home": "Amed SK",
+      "away": "Eyupspor",
+      "league": "TSL",
+      "at": "01.11.2026 04:43",
+      "count": 13
+    },
     {
       "home": "FC Orenburg",
       "away": "CSKA Moscow",
@@ -385,20 +399,6 @@
       "league": "ABD",
       "at": "31.10.2026 20:38",
       "count": 18
-    },
-    {
-      "home": "Gremio FBPA",
-      "away": "Atletico Mineiro",
-      "league": "BRK",
-      "at": "31.10.2026 20:34",
-      "count": 5
-    },
-    {
-      "home": "Nashville SC",
-      "away": "New York Red Bulls",
-      "league": "ABD",
-      "at": "31.10.2026 20:34",
-      "count": 7
     }
   ],
   "paywall": {
