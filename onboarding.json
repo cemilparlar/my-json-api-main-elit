@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 15:19",
+  "updatedAt": "01.11.2026 15:27",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 408,
-      "lost": 187,
-      "total": 595,
-      "rate": 68.6
+      "won": 414,
+      "lost": 195,
+      "total": 609,
+      "rate": 68.0
     },
-    "totalAnalyses": 300869,
+    "totalAnalyses": 300883,
     "leagues": 539,
     "pro": {
-      "won": 705,
-      "lost": 303,
-      "total": 1008,
+      "won": 710,
+      "lost": 306,
+      "total": 1016,
       "rate": 69.9
     },
     "insights": {
-      "won": 1247,
-      "lost": 541,
-      "total": 1788,
-      "rate": 69.7
+      "won": 1252,
+      "lost": 547,
+      "total": 1799,
+      "rate": 69.6
     },
     "coupons": {
-      "won": 28,
+      "won": 27,
       "lost": 33,
-      "total": 61,
-      "rate": 45.9
+      "total": 60,
+      "rate": 45.0
     },
-    "analyses24h": 1618,
-    "analyses30d": 21454
+    "analyses24h": 1613,
+    "analyses30d": 21449
   },
   "recentWins": [
     {
@@ -119,6 +119,21 @@
   ],
   "recentCoupons": [
     {
+      "size": 1,
+      "totalOdds": 1.07,
+      "winChance": 71.23,
+      "completedAt": "01.11.2026 15:27",
+      "legs": [
+        {
+          "home": "FC Emmen",
+          "away": "FC Den Bosch",
+          "prediction": "Double Chance 12",
+          "odds": 1.07,
+          "finalScore": "0 - 5"
+        }
+      ]
+    },
+    {
       "size": 2,
       "totalOdds": 1.13,
       "winChance": 50.31,
@@ -167,21 +182,6 @@
           "prediction": "Double Chance 12",
           "odds": 1.13,
           "finalScore": "3 - 1"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.06,
-      "winChance": 71.18,
-      "completedAt": "01.11.2026 01:54",
-      "legs": [
-        {
-          "home": "Caracas FC",
-          "away": "Monagas SC",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.06,
-          "finalScore": "2 - 3"
         }
       ]
     }
@@ -239,12 +239,6 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 09:22",
-      "home": "Amed SK",
-      "away": "Eyupspor"
-    },
-    {
-      "type": "updated",
       "at": "01.11.2026 12:18",
       "home": "CD Eldense",
       "away": "Granada CF"
@@ -266,6 +260,12 @@
       "at": "01.11.2026 12:16",
       "home": "Getafe CF",
       "away": "Sevilla FC"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 12:25",
+      "home": "Frosinone Calcio",
+      "away": "Torino FC"
     }
   ],
   "today": {
@@ -338,6 +338,55 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "CD Tenerife",
+      "away": "FC Andorra",
+      "league": "İS2",
+      "at": "01.11.2026 15:26",
+      "count": 5
+    },
+    {
+      "home": "US Lecce",
+      "away": "Genoa CFC",
+      "league": "İTA",
+      "at": "01.11.2026 15:25",
+      "count": 11
+    },
+    {
+      "home": "Juventus",
+      "away": "SSC Napoli",
+      "league": "İTA",
+      "at": "01.11.2026 15:25",
+      "count": 6
+    },
+    {
+      "home": "Marseille",
+      "away": "Toulouse FC",
+      "league": "FR1",
+      "at": "01.11.2026 15:25",
+      "count": 7
+    },
+    {
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "league": "İNP",
+      "at": "01.11.2026 15:24",
+      "count": 4
+    },
+    {
+      "home": "Eintracht Frankfurt",
+      "away": "Hamburger SV",
+      "league": "AL1",
+      "at": "01.11.2026 15:24",
+      "count": 9
+    },
+    {
+      "home": "Lokomotiv Moscow",
+      "away": "Spartak Moscow",
+      "league": "RUS",
+      "at": "01.11.2026 15:24",
+      "count": 7
+    },
+    {
       "home": "Athletic Bilbao",
       "away": "Real Sociedad",
       "league": "İS1",
@@ -352,59 +401,10 @@
       "count": 9
     },
     {
-      "home": "Lokomotiv Moscow",
-      "away": "Spartak Moscow",
-      "league": "RUS",
-      "at": "01.11.2026 15:02",
-      "count": 5
-    },
-    {
-      "home": "Eintracht Frankfurt",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "01.11.2026 15:01",
-      "count": 6
-    },
-    {
       "home": "Paris FC",
       "away": "AS Monaco",
       "league": "FR1",
       "at": "01.11.2026 15:01",
-      "count": 7
-    },
-    {
-      "home": "SC Braga",
-      "away": "FC Famalicao",
-      "league": "POR",
-      "at": "01.11.2026 14:48",
-      "count": 5
-    },
-    {
-      "home": "Liverpool",
-      "away": "Arsenal",
-      "league": "İNP",
-      "at": "01.11.2026 14:42",
-      "count": 8
-    },
-    {
-      "home": "Elche CF",
-      "away": "Valencia CF",
-      "league": "İS1",
-      "at": "01.11.2026 14:42",
-      "count": 5
-    },
-    {
-      "home": "AD Ceuta",
-      "away": "Sporting Gijon",
-      "league": "İS2",
-      "at": "01.11.2026 14:40",
-      "count": 5
-    },
-    {
-      "home": "Juventus",
-      "away": "SSC Napoli",
-      "league": "İTA",
-      "at": "01.11.2026 14:36",
       "count": 7
     }
   ],
