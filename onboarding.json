@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 14:31",
+  "updatedAt": "01.11.2026 14:41",
   "config": {
     "pages": [
       "engine",
@@ -23,23 +23,23 @@
     "days": 7,
     "last24h": {
       "won": 449,
-      "lost": 211,
-      "total": 660,
-      "rate": 68.0
+      "lost": 212,
+      "total": 661,
+      "rate": 67.9
     },
-    "totalAnalyses": 300798,
+    "totalAnalyses": 300810,
     "leagues": 539,
     "pro": {
       "won": 686,
-      "lost": 301,
-      "total": 987,
-      "rate": 69.5
+      "lost": 302,
+      "total": 988,
+      "rate": 69.4
     },
     "insights": {
       "won": 1223,
-      "lost": 543,
-      "total": 1766,
-      "rate": 69.3
+      "lost": 544,
+      "total": 1767,
+      "rate": 69.2
     },
     "coupons": {
       "won": 28,
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 1932,
-    "analyses30d": 21462
+    "analyses24h": 1917,
+    "analyses30d": 21447
   },
   "recentWins": [
     {
@@ -78,6 +78,19 @@
       "pro": false
     },
     {
+      "home": "FC Saarbrucken",
+      "away": "Waldhof Mannheim",
+      "league": "AL3",
+      "date": "01.11.2026 12:30",
+      "prediction": "Handicap (0:1) X",
+      "odds": 3.96,
+      "probability": 100.0,
+      "patternScore": 56.94,
+      "firstHalf": "1 - 1",
+      "finalScore": "2 - 1",
+      "pro": false
+    },
+    {
       "home": "FC Machida Zelvia",
       "away": "Gamba Osaka",
       "league": "JAP",
@@ -102,19 +115,6 @@
       "firstHalf": "0 - 2",
       "finalScore": "0 - 3",
       "pro": true
-    },
-    {
-      "home": "Verl 1924",
-      "away": "SV Wehen Wiesbaden",
-      "league": "AL3",
-      "date": "31.10.2026 13:00",
-      "prediction": "Over 3.5 Goals",
-      "odds": 2.06,
-      "probability": 71.43,
-      "patternScore": 66.92,
-      "firstHalf": "1 - 1",
-      "finalScore": "1 - 4",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -205,19 +205,19 @@
     },
     {
       "type": "won",
+      "home": "FC Saarbrucken",
+      "away": "Waldhof Mannheim",
+      "prediction": "Handicap (0:1) X",
+      "odds": 3.96,
+      "at": "01.11.2026 12:30"
+    },
+    {
+      "type": "won",
       "home": "FC Machida Zelvia",
       "away": "Gamba Osaka",
       "prediction": "1st Half Under 0.5",
       "odds": 2.78,
       "at": "01.11.2026 07:00"
-    },
-    {
-      "type": "won",
-      "home": "Annecy",
-      "away": "Montpellier HSC",
-      "prediction": "Match Result 2",
-      "odds": 2.1,
-      "at": "31.10.2026 13:00"
     },
     {
       "type": "coupon",
@@ -276,8 +276,8 @@
     "matchCode": "4475138",
     "odds": 2.65,
     "patternScore": 66.8,
-    "patternText": "170.963/255.937",
-    "picks": 9
+    "patternText": "171.031/256.027",
+    "picks": 11
   },
   "todayList": [
     {
@@ -288,19 +288,8 @@
       "matchCode": "4475138",
       "odds": 2.65,
       "patternScore": 66.8,
-      "patternText": "170.963/255.937",
-      "picks": 9
-    },
-    {
-      "home": "Liverpool",
-      "away": "Arsenal",
-      "league": "İNP",
-      "date": "01.11.2026 16:30",
-      "matchCode": "4481097",
-      "odds": 1.8,
-      "patternScore": 67.37,
-      "patternText": "241.405/358.314",
-      "picks": 4
+      "patternText": "171.031/256.027",
+      "picks": 11
     },
     {
       "home": "FC Arouca",
@@ -309,8 +298,8 @@
       "date": "01.11.2026 15:30",
       "matchCode": "4517037",
       "odds": 1.67,
-      "patternScore": 67.58,
-      "patternText": "165.078/244.261",
+      "patternScore": 67.59,
+      "patternText": "165.186/244.411",
       "picks": 2
     },
     {
@@ -321,8 +310,19 @@
       "matchCode": "4517038",
       "odds": 1.55,
       "patternScore": 66.48,
-      "patternText": "229.507/345.234",
+      "patternText": "229.591/345.340",
       "picks": 6
+    },
+    {
+      "home": "FC Lausanne-Sport",
+      "away": "FC Thun",
+      "league": "İSV",
+      "date": "01.11.2026 15:30",
+      "matchCode": "4482338",
+      "odds": 1.41,
+      "patternScore": 66.93,
+      "patternText": "187.112/279.546",
+      "picks": 7
     },
     {
       "home": "Palermo FC",
@@ -332,11 +332,53 @@
       "matchCode": "4534774",
       "odds": 1.38,
       "patternScore": 67.7,
-      "patternText": "256.952/379.559",
+      "patternText": "257.104/379.749",
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "AD Ceuta",
+      "away": "Sporting Gijon",
+      "league": "İS2",
+      "at": "01.11.2026 14:40",
+      "count": 5
+    },
+    {
+      "home": "Juventus",
+      "away": "SSC Napoli",
+      "league": "İTA",
+      "at": "01.11.2026 14:36",
+      "count": 7
+    },
+    {
+      "home": "SE Palmeiras",
+      "away": "Club de Regatas Vasco da Gama",
+      "league": "BRK",
+      "at": "01.11.2026 14:36",
+      "count": 3
+    },
+    {
+      "home": "US Lecce",
+      "away": "Genoa CFC",
+      "league": "İTA",
+      "at": "01.11.2026 14:35",
+      "count": 11
+    },
+    {
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "league": "İNP",
+      "at": "01.11.2026 14:33",
+      "count": 6
+    },
+    {
+      "home": "Paris FC",
+      "away": "AS Monaco",
+      "league": "FR1",
+      "at": "01.11.2026 14:33",
+      "count": 3
+    },
     {
       "home": "Athletic Bilbao",
       "away": "Real Sociedad",
@@ -359,53 +401,11 @@
       "count": 12
     },
     {
-      "home": "Juventus",
-      "away": "SSC Napoli",
-      "league": "İTA",
-      "at": "01.11.2026 14:14",
-      "count": 6
-    },
-    {
       "home": "Palermo FC",
       "away": "LR Vicenza",
       "league": "İTB",
       "at": "01.11.2026 14:14",
       "count": 2
-    },
-    {
-      "home": "Sporting Charleroi",
-      "away": "La Louviere",
-      "league": "BEL",
-      "at": "01.11.2026 14:12",
-      "count": 1
-    },
-    {
-      "home": "Liverpool",
-      "away": "Arsenal",
-      "league": "İNP",
-      "at": "01.11.2026 14:11",
-      "count": 9
-    },
-    {
-      "home": "Eintracht Frankfurt",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "01.11.2026 14:11",
-      "count": 9
-    },
-    {
-      "home": "US Lecce",
-      "away": "Genoa CFC",
-      "league": "İTA",
-      "at": "01.11.2026 14:11",
-      "count": 11
-    },
-    {
-      "home": "Paris FC",
-      "away": "AS Monaco",
-      "league": "FR1",
-      "at": "01.11.2026 14:11",
-      "count": 7
     }
   ],
   "paywall": {
