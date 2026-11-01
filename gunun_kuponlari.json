@@ -34,11 +34,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 12,
+      "won": 13,
       "lost": 8
     },
     "c70_1": {
-      "won": 8,
+      "won": 9,
       "lost": 3
     },
     "c70_2": {
@@ -88,11 +88,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 12,
+      "won": 13,
       "lost": 8
     },
     "c70_1": {
-      "won": 8,
+      "won": 9,
       "lost": 3
     },
     "c70_2": {
@@ -104,8 +104,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "01.11.2026 02:53",
-  "updatedAtUtc": "2026-11-01T02:53:00Z",
+  "updatedAt": "01.11.2026 03:09",
+  "updatedAtUtc": "2026-11-01T03:09:00Z",
   "upcoming": [
     {
       "id": "20261101-00-2",
@@ -171,47 +171,6 @@
       ]
     },
     {
-      "id": "20261101-02-1",
-      "createdAt": "31.10.2026 23:01",
-      "createdAtUtc": "2026-10-31T23:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.13,
-      "winChance": 70.19,
-      "firstKickoff": "01.11.2026 01:00",
-      "lastKickoff": "01.11.2026 01:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.13,
-      "legs": [
-        {
-          "matchCode": "4503519",
-          "nesine": null,
-          "date": "01.11.2026 01:00",
-          "kickoffUtc": "2026-11-01T01:00:00Z",
-          "league": "MEK2",
-          "home": "Durango",
-          "away": "Monarcas Morelia",
-          "league_tr": "MEK2",
-          "home_tr": "Durango",
-          "away_tr": "Monarcas",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.13,
-          "probability": 75.95,
-          "patternScore": 70.19,
-          "patternText": "277.214/394.926",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
       "id": "20261101-04-1",
       "createdAt": "01.11.2026 01:05",
       "createdAtUtc": "2026-11-01T01:05:00Z",
@@ -251,9 +210,154 @@
           "status": "live"
         }
       ]
+    },
+    {
+      "id": "20261101-06-1",
+      "createdAt": "01.11.2026 03:09",
+      "createdAtUtc": "2026-11-01T03:09:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.09,
+      "winChance": 70.62,
+      "firstKickoff": "01.11.2026 04:00",
+      "lastKickoff": "01.11.2026 04:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.09,
+      "legs": [
+        {
+          "matchCode": "4488305",
+          "nesine": null,
+          "date": "01.11.2026 04:00",
+          "kickoffUtc": "2026-11-01T04:00:00Z",
+          "league": "JWEL",
+          "home": "Albirex Niigata",
+          "away": "Urawa Red Women",
+          "league_tr": "JWEL",
+          "home_tr": "Albirex Niigat",
+          "away_tr": "Urawa Red (K)",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.09,
+          "probability": 70.0,
+          "patternScore": 70.62,
+          "patternText": "314.123/444.779",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261101-06-2",
+      "createdAt": "01.11.2026 03:09",
+      "createdAtUtc": "2026-11-01T03:09:00Z",
+      "size": 2,
+      "mbs": 1,
+      "totalOdds": 1.35,
+      "winChance": 49.17,
+      "firstKickoff": "01.11.2026 05:00",
+      "lastKickoff": "01.11.2026 05:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_2",
+      "group": "multi",
+      "formula": "2",
+      "effectiveOdds": 1.35,
+      "legs": [
+        {
+          "matchCode": "4487256",
+          "nesine": null,
+          "date": "01.11.2026 05:00",
+          "kickoffUtc": "2026-11-01T05:00:00Z",
+          "league": "JAP",
+          "home": "V-Varen Nagasaki",
+          "away": "Tokyo Verdy",
+          "league_tr": "JAP",
+          "home_tr": "V-Varen Nagasa",
+          "away_tr": "Tokyo Verdy",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.14,
+          "probability": 80.0,
+          "patternScore": 70.24,
+          "patternText": "169.458/241.247",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4443072",
+          "nesine": null,
+          "date": "01.11.2026 05:00",
+          "kickoffUtc": "2026-11-01T05:00:00Z",
+          "league": "GK3L",
+          "home": "Ulsan Citizen",
+          "away": "Changwon City",
+          "league_tr": "GK3L",
+          "home_tr": "Ulsan Citizen",
+          "away_tr": "Changwon City",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.18,
+          "probability": 74.24,
+          "patternScore": 70.0,
+          "patternText": "281.270/401.816",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
     }
   ],
   "completed": [
+    {
+      "id": "20261101-02-1",
+      "createdAt": "31.10.2026 23:01",
+      "createdAtUtc": "2026-10-31T23:01:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.13,
+      "winChance": 70.19,
+      "firstKickoff": "01.11.2026 01:00",
+      "lastKickoff": "01.11.2026 01:00",
+      "status": "won",
+      "completedAt": "01.11.2026 03:09",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.13,
+      "legs": [
+        {
+          "matchCode": "4503519",
+          "nesine": null,
+          "date": "01.11.2026 01:00",
+          "kickoffUtc": "2026-11-01T01:00:00Z",
+          "league": "MEK2",
+          "home": "Durango",
+          "away": "Monarcas Morelia",
+          "league_tr": "MEK2",
+          "home_tr": "Durango",
+          "away_tr": "Monarcas",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.13,
+          "probability": 75.95,
+          "patternScore": 70.19,
+          "patternText": "277.214/394.926",
+          "mbs": 1,
+          "firstHalf": "2 - 0",
+          "finalScore": "3 - 1",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261101-00-1",
       "createdAt": "31.10.2026 21:09",
