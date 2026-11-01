@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 14:41",
+  "updatedAt": "01.11.2026 14:50",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 449,
+      "won": 450,
       "lost": 212,
-      "total": 661,
-      "rate": 67.9
+      "total": 662,
+      "rate": 68.0
     },
-    "totalAnalyses": 300810,
+    "totalAnalyses": 300824,
     "leagues": 539,
     "pro": {
       "won": 686,
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 1917,
-    "analyses30d": 21447
+    "analyses24h": 1909,
+    "analyses30d": 21443
   },
   "recentWins": [
     {
@@ -276,8 +276,8 @@
     "matchCode": "4475138",
     "odds": 2.65,
     "patternScore": 66.8,
-    "patternText": "171.031/256.027",
-    "picks": 11
+    "patternText": "171.031/256.029",
+    "picks": 9
   },
   "todayList": [
     {
@@ -288,8 +288,8 @@
       "matchCode": "4475138",
       "odds": 2.65,
       "patternScore": 66.8,
-      "patternText": "171.031/256.027",
-      "picks": 11
+      "patternText": "171.031/256.029",
+      "picks": 9
     },
     {
       "home": "FC Arouca",
@@ -298,9 +298,20 @@
       "date": "01.11.2026 15:30",
       "matchCode": "4517037",
       "odds": 1.67,
-      "patternScore": 67.59,
-      "patternText": "165.186/244.411",
+      "patternScore": 67.58,
+      "patternText": "165.186/244.413",
       "picks": 2
+    },
+    {
+      "home": "IF Elfsborg",
+      "away": "Orgryte IS",
+      "league": "İSÇ",
+      "date": "01.11.2026 15:30",
+      "matchCode": "4426805",
+      "odds": 1.63,
+      "patternScore": 66.71,
+      "patternText": "186.957/280.266",
+      "picks": 8
     },
     {
       "home": "SC Braga",
@@ -310,33 +321,43 @@
       "matchCode": "4517038",
       "odds": 1.55,
       "patternScore": 66.48,
-      "patternText": "229.591/345.340",
+      "patternText": "229.591/345.346",
       "picks": 6
     },
     {
-      "home": "FC Lausanne-Sport",
-      "away": "FC Thun",
-      "league": "İSV",
-      "date": "01.11.2026 15:30",
-      "matchCode": "4482338",
-      "odds": 1.41,
-      "patternScore": 66.93,
-      "patternText": "187.112/279.546",
-      "picks": 7
-    },
-    {
-      "home": "Palermo FC",
-      "away": "LR Vicenza",
-      "league": "İTB",
-      "date": "01.11.2026 18:30",
-      "matchCode": "4534774",
-      "odds": 1.38,
-      "patternScore": 67.7,
-      "patternText": "257.104/379.749",
-      "picks": 1
+      "home": "Juventus",
+      "away": "SSC Napoli",
+      "league": "İTA",
+      "date": "01.11.2026 19:45",
+      "matchCode": "4475136",
+      "odds": 1.46,
+      "patternScore": 66.78,
+      "patternText": "94.593/141.647",
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SC Braga",
+      "away": "FC Famalicao",
+      "league": "POR",
+      "at": "01.11.2026 14:48",
+      "count": 5
+    },
+    {
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "league": "İNP",
+      "at": "01.11.2026 14:42",
+      "count": 8
+    },
+    {
+      "home": "Elche CF",
+      "away": "Valencia CF",
+      "league": "İS1",
+      "at": "01.11.2026 14:42",
+      "count": 5
+    },
     {
       "home": "AD Ceuta",
       "away": "Sporting Gijon",
@@ -366,13 +387,6 @@
       "count": 11
     },
     {
-      "home": "Liverpool",
-      "away": "Arsenal",
-      "league": "İNP",
-      "at": "01.11.2026 14:33",
-      "count": 6
-    },
-    {
       "home": "Paris FC",
       "away": "AS Monaco",
       "league": "FR1",
@@ -392,20 +406,6 @@
       "league": "İS2",
       "at": "01.11.2026 14:15",
       "count": 7
-    },
-    {
-      "home": "Marseille",
-      "away": "Toulouse FC",
-      "league": "FR1",
-      "at": "01.11.2026 14:14",
-      "count": 12
-    },
-    {
-      "home": "Palermo FC",
-      "away": "LR Vicenza",
-      "league": "İTB",
-      "at": "01.11.2026 14:14",
-      "count": 2
     }
   ],
   "paywall": {
