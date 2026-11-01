@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 09:10",
+  "updatedAt": "01.11.2026 09:27",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 788,
       "rate": 70.6
     },
-    "totalAnalyses": 300286,
+    "totalAnalyses": 300297,
     "leagues": 539,
     "pro": {
-      "won": 790,
+      "won": 789,
       "lost": 339,
-      "total": 1129,
-      "rate": 70.0
+      "total": 1128,
+      "rate": 69.9
     },
     "insights": {
-      "won": 1396,
+      "won": 1394,
       "lost": 598,
-      "total": 1994,
+      "total": 1992,
       "rate": 70.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 45.2
     },
-    "analyses24h": 2070,
-    "analyses30d": 21303
+    "analyses24h": 2079,
+    "analyses30d": 21312
   },
   "recentWins": [
     {
@@ -78,6 +78,19 @@
       "pro": false
     },
     {
+      "home": "FC Machida Zelvia",
+      "away": "Gamba Osaka",
+      "league": "JAP",
+      "date": "01.11.2026 07:00",
+      "prediction": "1st Half Under 0.5",
+      "odds": 2.78,
+      "probability": 76.92,
+      "patternScore": 67.76,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 0",
+      "pro": true
+    },
+    {
       "home": "Tanjong Pagar United",
       "away": "Albirex Niigata",
       "league": "SİNP",
@@ -102,19 +115,6 @@
       "firstHalf": "0 - 2",
       "finalScore": "0 - 3",
       "pro": true
-    },
-    {
-      "home": "Verl 1924",
-      "away": "SV Wehen Wiesbaden",
-      "league": "AL3",
-      "date": "31.10.2026 13:00",
-      "prediction": "Over 3.5 Goals",
-      "odds": 2.06,
-      "probability": 71.43,
-      "patternScore": 66.92,
-      "firstHalf": "1 - 1",
-      "finalScore": "1 - 4",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -205,19 +205,19 @@
     },
     {
       "type": "won",
+      "home": "FC Machida Zelvia",
+      "away": "Gamba Osaka",
+      "prediction": "1st Half Under 0.5",
+      "odds": 2.78,
+      "at": "01.11.2026 07:00"
+    },
+    {
+      "type": "won",
       "home": "Tanjong Pagar United",
       "away": "Albirex Niigata",
       "prediction": "Handicap (1:0) 1",
       "odds": 2.59,
       "at": "30.10.2026 11:30"
-    },
-    {
-      "type": "won",
-      "home": "Annecy",
-      "away": "Montpellier HSC",
-      "prediction": "Match Result 2",
-      "odds": 2.1,
-      "at": "31.10.2026 13:00"
     },
     {
       "type": "coupon",
@@ -239,7 +239,7 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 08:55",
+      "at": "01.11.2026 09:22",
       "home": "Amed SK",
       "away": "Eyupspor"
     },
@@ -263,9 +263,9 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 03:23",
-      "home": "Yokohama F. Marinos",
-      "away": "Kawasaki Frontale"
+      "at": "01.11.2026 03:44",
+      "home": "JEF United Chiba",
+      "away": "Avispa Fukuoka"
     }
   ],
   "today": {
@@ -276,7 +276,7 @@
     "matchCode": "4485906",
     "odds": 2.21,
     "patternScore": 67.05,
-    "patternText": "251.734/375.459",
+    "patternText": "251.754/375.481",
     "picks": 8
   },
   "todayList": [
@@ -288,7 +288,7 @@
       "matchCode": "4485906",
       "odds": 2.21,
       "patternScore": 67.05,
-      "patternText": "251.734/375.459",
+      "patternText": "251.754/375.481",
       "picks": 8
     },
     {
@@ -298,8 +298,8 @@
       "date": "01.11.2026 13:00",
       "matchCode": "4560156",
       "odds": 1.71,
-      "patternScore": 67.15,
-      "patternText": "180.855/269.313",
+      "patternScore": 67.16,
+      "patternText": "180.883/269.347",
       "picks": 4
     },
     {
@@ -309,8 +309,8 @@
       "date": "01.11.2026 14:00",
       "matchCode": "4534768",
       "odds": 1.6,
-      "patternScore": 67.53,
-      "patternText": "171.445/253.874",
+      "patternScore": 67.54,
+      "patternText": "171.513/253.956",
       "picks": 6
     },
     {
@@ -321,7 +321,7 @@
       "matchCode": "4534571",
       "odds": 1.55,
       "patternScore": 66.51,
-      "patternText": "168.577/253.477",
+      "patternText": "168.605/253.511",
       "picks": 2
     },
     {
@@ -332,16 +332,37 @@
       "matchCode": "4535171",
       "odds": 1.5,
       "patternScore": 68.3,
-      "patternText": "144.242/211.204",
+      "patternText": "144.270/211.238",
       "picks": 5
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "Sint-Truidense VV",
+      "away": "OH Leuven",
+      "league": "BEL",
+      "at": "01.11.2026 09:28",
+      "count": 11
+    },
+    {
+      "home": "Baltika Kalini",
+      "away": "FC Akron Togliatti",
+      "league": "RUS",
+      "at": "01.11.2026 09:27",
+      "count": 3
+    },
+    {
+      "home": "Union Berlin",
+      "away": "FC Koln",
+      "league": "AL1",
+      "at": "01.11.2026 09:26",
+      "count": 6
+    },
+    {
       "home": "Amed SK",
       "away": "Eyupspor",
       "league": "TSL",
-      "at": "01.11.2026 08:55",
+      "at": "01.11.2026 09:22",
       "count": 3
     },
     {
@@ -385,27 +406,6 @@
       "league": "İS1",
       "at": "01.11.2026 08:22",
       "count": 7
-    },
-    {
-      "home": "SC Telstar",
-      "away": "FC Utrecht",
-      "league": "HOL",
-      "at": "01.11.2026 07:40",
-      "count": 11
-    },
-    {
-      "home": "Excelsior Rotterdam",
-      "away": "FC Twente",
-      "league": "HOL",
-      "at": "01.11.2026 07:39",
-      "count": 5
-    },
-    {
-      "home": "Hannover 96",
-      "away": "Dynamo Dresden",
-      "league": "AL2",
-      "at": "01.11.2026 07:38",
-      "count": 8
     }
   ],
   "paywall": {
