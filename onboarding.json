@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 20:04",
+  "updatedAt": "01.11.2026 20:10",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 706,
       "rate": 66.4
     },
-    "totalAnalyses": 301032,
+    "totalAnalyses": 301037,
     "leagues": 535,
     "pro": {
       "won": 726,
@@ -47,8 +47,8 @@
       "total": 49,
       "rate": 49.0
     },
-    "analyses24h": 1272,
-    "analyses30d": 21322
+    "analyses24h": 1277,
+    "analyses30d": 21327
   },
   "recentWins": [
     {
@@ -290,17 +290,28 @@
     }
   ],
   "today": {
-    "home": "Gremio FBPA",
-    "away": "Atletico Mineiro",
-    "league": "BRK",
+    "home": "Novorizontino",
+    "away": "Operario",
+    "league": "BR2",
     "date": "01.11.2026 21:30",
-    "matchCode": "4564199",
-    "odds": 1.26,
-    "patternScore": 69.03,
-    "patternText": "196.185/284.207",
+    "matchCode": "4454038",
+    "odds": 1.33,
+    "patternScore": 66.76,
+    "patternText": "66.143/99.080",
     "picks": 4
   },
   "todayList": [
+    {
+      "home": "Novorizontino",
+      "away": "Operario",
+      "league": "BR2",
+      "date": "01.11.2026 21:30",
+      "matchCode": "4454038",
+      "odds": 1.33,
+      "patternScore": 66.76,
+      "patternText": "66.143/99.080",
+      "picks": 4
+    },
     {
       "home": "Gremio FBPA",
       "away": "Atletico Mineiro",
@@ -309,7 +320,7 @@
       "matchCode": "4564199",
       "odds": 1.26,
       "patternScore": 69.03,
-      "patternText": "196.185/284.207",
+      "patternText": "196.185/284.211",
       "picks": 4
     },
     {
@@ -320,7 +331,7 @@
       "matchCode": "4574399",
       "odds": 1.22,
       "patternScore": 67.91,
-      "patternText": "166.350/244.960",
+      "patternText": "166.352/244.970",
       "picks": 1
     },
     {
@@ -331,7 +342,7 @@
       "matchCode": "4475926",
       "odds": 1.19,
       "patternScore": 66.24,
-      "patternText": "271.359/409.666",
+      "patternText": "271.361/409.672",
       "picks": 1
     },
     {
@@ -342,18 +353,7 @@
       "matchCode": "4487103",
       "odds": 1.11,
       "patternScore": 70.57,
-      "patternText": "229.569/325.311",
-      "picks": 1
-    },
-    {
-      "home": "CSD Comunicaciones",
-      "away": "Mixco",
-      "league": "GUAT",
-      "date": "02.11.2026 02:00",
-      "matchCode": "4490444",
-      "odds": 1.09,
-      "patternScore": 72.54,
-      "patternText": "151.919/209.441",
+      "patternText": "229.571/325.317",
       "picks": 1
     }
   ],
