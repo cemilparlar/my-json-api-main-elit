@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 19:43",
+  "updatedAt": "01.11.2026 19:50",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 493,
-      "lost": 244,
-      "total": 737,
-      "rate": 66.9
+      "won": 487,
+      "lost": 237,
+      "total": 724,
+      "rate": 67.3
     },
-    "totalAnalyses": 301018,
+    "totalAnalyses": 301032,
     "leagues": 535,
     "pro": {
-      "won": 732,
-      "lost": 304,
-      "total": 1036,
-      "rate": 70.7
+      "won": 733,
+      "lost": 305,
+      "total": 1038,
+      "rate": 70.6
     },
     "insights": {
-      "won": 1296,
-      "lost": 560,
-      "total": 1856,
+      "won": 1298,
+      "lost": 562,
+      "total": 1860,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 49,
       "rate": 49.0
     },
-    "analyses24h": 1312,
-    "analyses30d": 21317
+    "analyses24h": 1302,
+    "analyses30d": 21328
   },
   "recentWins": [
     {
@@ -260,12 +260,6 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 13:43",
-      "home": "Union Berlin",
-      "away": "FC Koln"
-    },
-    {
-      "type": "updated",
       "at": "01.11.2026 14:40",
       "home": "AD Ceuta",
       "away": "Sporting Gijon"
@@ -287,6 +281,12 @@
       "at": "01.11.2026 15:57",
       "home": "Eintracht Frankfurt",
       "away": "Hamburger SV"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 16:21",
+      "home": "US Lecce",
+      "away": "Genoa CFC"
     }
   ],
   "today": {
@@ -359,11 +359,18 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Los Angeles FC",
+      "away": "Minnesota United",
+      "league": "ABD",
+      "at": "01.11.2026 19:49",
+      "count": 7
+    },
+    {
       "home": "SC Braga",
       "away": "FC Famalicao",
       "league": "POR",
-      "at": "01.11.2026 19:28",
-      "count": 4
+      "at": "01.11.2026 19:48",
+      "count": 5
     },
     {
       "home": "Athletic Bilbao",
@@ -420,13 +427,6 @@
       "league": "İS1",
       "at": "01.11.2026 16:55",
       "count": 7
-    },
-    {
-      "home": "Lommel United",
-      "away": "KAA Gent",
-      "league": "BEL",
-      "at": "01.11.2026 16:55",
-      "count": 6
     }
   ],
   "paywall": {
