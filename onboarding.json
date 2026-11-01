@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 16:39",
+  "updatedAt": "01.11.2026 16:46",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 437,
-      "lost": 226,
-      "total": 663,
-      "rate": 65.9
+      "won": 434,
+      "lost": 217,
+      "total": 651,
+      "rate": 66.7
     },
     "totalAnalyses": 300944,
     "leagues": 538,
@@ -47,8 +47,8 @@
       "total": 54,
       "rate": 48.1
     },
-    "analyses24h": 1530,
-    "analyses30d": 21431
+    "analyses24h": 1512,
+    "analyses30d": 21420
   },
   "recentWins": [
     {
@@ -297,7 +297,7 @@
     "matchCode": "4534774",
     "odds": 1.38,
     "patternScore": 67.67,
-    "patternText": "257.818/381.001",
+    "patternText": "257.836/381.019",
     "picks": 2
   },
   "todayList": [
@@ -309,7 +309,7 @@
       "matchCode": "4534774",
       "odds": 1.38,
       "patternScore": 67.67,
-      "patternText": "257.818/381.001",
+      "patternText": "257.836/381.019",
       "picks": 2
     },
     {
@@ -320,7 +320,7 @@
       "matchCode": "4517703",
       "odds": 1.36,
       "patternScore": 66.46,
-      "patternText": "190.042/285.964",
+      "patternText": "190.048/285.970",
       "picks": 6
     },
     {
@@ -331,19 +331,8 @@
       "matchCode": "4492359",
       "odds": 1.34,
       "patternScore": 69.07,
-      "patternText": "153.894/222.810",
+      "patternText": "153.900/222.816",
       "picks": 5
-    },
-    {
-      "home": "Ujpest",
-      "away": "Nyiregyhaza",
-      "league": "MAC",
-      "date": "01.11.2026 17:15",
-      "matchCode": "4484672",
-      "odds": 1.33,
-      "patternScore": 68.18,
-      "patternText": "244.881/359.178",
-      "picks": 3
     },
     {
       "home": "Cusco FC",
@@ -353,8 +342,19 @@
       "matchCode": "4501914",
       "odds": 1.27,
       "patternScore": 68.24,
-      "patternText": "162.625/238.318",
+      "patternText": "162.631/238.324",
       "picks": 1
+    },
+    {
+      "home": "Sporting Charleroi",
+      "away": "La Louviere",
+      "league": "BEL",
+      "date": "01.11.2026 18:15",
+      "matchCode": "4480758",
+      "odds": 1.27,
+      "patternScore": 67.7,
+      "patternText": "263.232/388.849",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
