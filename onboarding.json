@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 00:48",
+  "updatedAt": "01.11.2026 01:05",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 585,
-      "lost": 247,
-      "total": 832,
-      "rate": 70.3
+      "won": 584,
+      "lost": 246,
+      "total": 830,
+      "rate": 70.4
     },
     "totalAnalyses": 299929,
     "leagues": 538,
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 43.1
     },
-    "analyses24h": 1981,
-    "analyses30d": 21117
+    "analyses24h": 1978,
+    "analyses30d": 21116
   },
   "recentWins": [
     {
@@ -222,6 +222,12 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.14,
+      "at": "01.11.2026 01:05"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.13,
       "at": "31.10.2026 23:01"
     },
@@ -230,30 +236,6 @@
       "size": 1,
       "odds": 1.06,
       "at": "31.10.2026 21:09"
-    },
-    {
-      "type": "coupon",
-      "size": 2,
-      "odds": 1.13,
-      "at": "31.10.2026 21:09"
-    },
-    {
-      "type": "updated",
-      "at": "31.10.2026 19:01",
-      "home": "AC Milan",
-      "away": "Inter"
-    },
-    {
-      "type": "updated",
-      "at": "31.10.2026 19:01",
-      "home": "Aston Villa",
-      "away": "Fulham"
-    },
-    {
-      "type": "updated",
-      "at": "31.10.2026 19:01",
-      "home": "ESTAC Troyes",
-      "away": "Le Mans FC"
     },
     {
       "type": "updated",
@@ -266,6 +248,24 @@
       "at": "31.10.2026 20:17",
       "home": "LA Galaxy",
       "away": "Austin FC"
+    },
+    {
+      "type": "updated",
+      "at": "31.10.2026 21:41",
+      "home": "Velez Sarsfiel",
+      "away": "San Lorenzo"
+    },
+    {
+      "type": "updated",
+      "at": "31.10.2026 21:42",
+      "home": "Caracas FC",
+      "away": "Monagas SC"
+    },
+    {
+      "type": "updated",
+      "at": "31.10.2026 22:44",
+      "home": "Estudiantes de La Plata",
+      "away": "Instituto Cordoba"
     }
   ],
   "today": {
