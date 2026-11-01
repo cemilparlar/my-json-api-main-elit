@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 13:08",
+  "updatedAt": "01.11.2026 13:15",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 496,
-      "lost": 227,
-      "total": 723,
+      "won": 499,
+      "lost": 228,
+      "total": 727,
       "rate": 68.6
     },
-    "totalAnalyses": 300594,
+    "totalAnalyses": 300610,
     "leagues": 539,
     "pro": {
-      "won": 717,
+      "won": 718,
       "lost": 319,
-      "total": 1036,
+      "total": 1037,
       "rate": 69.2
     },
     "insights": {
-      "won": 1259,
+      "won": 1262,
       "lost": 563,
-      "total": 1822,
-      "rate": 69.1
+      "total": 1825,
+      "rate": 69.2
     },
     "coupons": {
       "won": 28,
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 2004,
-    "analyses30d": 21381
+    "analyses24h": 2017,
+    "analyses30d": 21387
   },
   "recentWins": [
     {
@@ -275,8 +275,8 @@
     "date": "01.11.2026 15:00",
     "matchCode": "4480761",
     "odds": 2.19,
-    "patternScore": 67.75,
-    "patternText": "246.966/364.500",
+    "patternScore": 67.76,
+    "patternText": "247.036/364.582",
     "picks": 7
   },
   "todayList": [
@@ -287,8 +287,8 @@
       "date": "01.11.2026 15:00",
       "matchCode": "4480761",
       "odds": 2.19,
-      "patternScore": 67.75,
-      "patternText": "246.966/364.500",
+      "patternScore": 67.76,
+      "patternText": "247.036/364.582",
       "picks": 7
     },
     {
@@ -298,8 +298,8 @@
       "date": "01.11.2026 16:45",
       "matchCode": "4485909",
       "odds": 1.91,
-      "patternScore": 66.91,
-      "patternText": "247.769/370.276",
+      "patternScore": 66.92,
+      "patternText": "247.835/370.354",
       "picks": 9
     },
     {
@@ -309,8 +309,8 @@
       "date": "01.11.2026 14:00",
       "matchCode": "4534768",
       "odds": 1.6,
-      "patternScore": 67.34,
-      "patternText": "262.627/389.978",
+      "patternScore": 67.35,
+      "patternText": "262.697/390.064",
       "picks": 7
     },
     {
@@ -320,8 +320,8 @@
       "date": "01.11.2026 18:15",
       "matchCode": "4480758",
       "odds": 1.58,
-      "patternScore": 68.33,
-      "patternText": "264.952/387.735",
+      "patternScore": 68.34,
+      "patternText": "265.026/387.825",
       "picks": 2
     },
     {
@@ -331,12 +331,47 @@
       "date": "01.11.2026 16:30",
       "matchCode": "4481097",
       "odds": 1.52,
-      "patternScore": 67.5,
-      "patternText": "241.491/357.751",
+      "patternScore": 67.51,
+      "patternText": "241.561/357.837",
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Union Berlin",
+      "away": "FC Koln",
+      "league": "AL1",
+      "at": "01.11.2026 13:15",
+      "count": 5
+    },
+    {
+      "home": "Baltika Kalini",
+      "away": "FC Akron Togliatti",
+      "league": "RUS",
+      "at": "01.11.2026 13:15",
+      "count": 3
+    },
+    {
+      "home": "RC Strasbourg",
+      "away": "AJ Auxerre",
+      "league": "FR1",
+      "at": "01.11.2026 13:14",
+      "count": 9
+    },
+    {
+      "home": "SS Lazio",
+      "away": "Cagliari Calcio",
+      "league": "İTA",
+      "at": "01.11.2026 13:13",
+      "count": 7
+    },
+    {
+      "home": "SS Arezzo",
+      "away": "Ascoli Calcio",
+      "league": "İTB",
+      "at": "01.11.2026 13:13",
+      "count": 9
+    },
     {
       "home": "Liverpool",
       "away": "Arsenal",
@@ -371,41 +406,6 @@
       "league": "FR1",
       "at": "01.11.2026 12:39",
       "count": 3
-    },
-    {
-      "home": "Kasimpasa",
-      "away": "Besiktas",
-      "league": "TSL",
-      "at": "01.11.2026 12:38",
-      "count": 10
-    },
-    {
-      "home": "Bodrum FK",
-      "away": "Umraniyespor",
-      "league": "T1L",
-      "at": "01.11.2026 12:34",
-      "count": 5
-    },
-    {
-      "home": "FC Groningen",
-      "away": "Sparta Rotterdam",
-      "league": "HOL",
-      "at": "01.11.2026 12:31",
-      "count": 13
-    },
-    {
-      "home": "FC Arouca",
-      "away": "CD Nacional",
-      "league": "POR",
-      "at": "01.11.2026 12:28",
-      "count": 11
-    },
-    {
-      "home": "AD Ceuta",
-      "away": "Sporting Gijon",
-      "league": "İS2",
-      "at": "01.11.2026 12:27",
-      "count": 6
     }
   ],
   "paywall": {
