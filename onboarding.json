@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "31.10.2026 23:48",
+  "updatedAt": "01.11.2026 00:03",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 586,
-      "lost": 248,
-      "total": 834,
+      "won": 585,
+      "lost": 247,
+      "total": 832,
       "rate": 70.3
     },
-    "totalAnalyses": 299916,
+    "totalAnalyses": 299920,
     "leagues": 538,
     "pro": {
-      "won": 874,
-      "lost": 364,
-      "total": 1238,
-      "rate": 70.6
+      "won": 865,
+      "lost": 359,
+      "total": 1224,
+      "rate": 70.7
     },
     "insights": {
-      "won": 1509,
-      "lost": 637,
-      "total": 2146,
-      "rate": 70.3
+      "won": 1497,
+      "lost": 628,
+      "total": 2125,
+      "rate": 70.4
     },
     "coupons": {
       "won": 28,
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 1980,
-    "analyses30d": 21104
+    "analyses24h": 1981,
+    "analyses30d": 21108
   },
   "recentWins": [
     {
@@ -314,17 +314,6 @@
       "picks": 2
     },
     {
-      "home": "Estudiantes de La Plata",
-      "away": "Instituto Cordoba",
-      "league": "ARJ",
-      "date": "01.11.2026 00:30",
-      "matchCode": "4475920",
-      "odds": 1.21,
-      "patternScore": 66.32,
-      "patternText": "333.238/502.488",
-      "picks": 5
-    },
-    {
       "home": "JEF United Chiba",
       "away": "Avispa Fukuoka",
       "league": "JAP",
@@ -334,6 +323,17 @@
       "patternScore": 67.78,
       "patternText": "176.281/260.088",
       "picks": 4
+    },
+    {
+      "home": "Suwon FC",
+      "away": "Ansan Greeners",
+      "league": "GKOR2",
+      "date": "01.11.2026 05:00",
+      "matchCode": "4442871",
+      "odds": 1.19,
+      "patternScore": 68.06,
+      "patternText": "228.029/335.026",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
