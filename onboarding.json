@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 13:57",
+  "updatedAt": "01.11.2026 14:06",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 488,
-      "lost": 225,
-      "total": 713,
-      "rate": 68.4
+      "won": 461,
+      "lost": 220,
+      "total": 681,
+      "rate": 67.7
     },
-    "totalAnalyses": 300732,
+    "totalAnalyses": 300735,
     "leagues": 539,
     "pro": {
-      "won": 707,
-      "lost": 317,
-      "total": 1024,
-      "rate": 69.0
+      "won": 674,
+      "lost": 297,
+      "total": 971,
+      "rate": 69.4
     },
     "insights": {
-      "won": 1239,
-      "lost": 562,
-      "total": 1801,
-      "rate": 68.8
+      "won": 1200,
+      "lost": 537,
+      "total": 1737,
+      "rate": 69.1
     },
     "coupons": {
       "won": 28,
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 2015,
-    "analyses30d": 21434
+    "analyses24h": 1961,
+    "analyses30d": 21426
   },
   "recentWins": [
     {
@@ -325,18 +325,25 @@
       "picks": 4
     },
     {
-      "home": "Union Berlin",
-      "away": "FC Koln",
-      "league": "AL1",
-      "date": "01.11.2026 14:30",
-      "matchCode": "4495498",
-      "odds": 1.28,
-      "patternScore": 68.0,
-      "patternText": "255.858/376.289",
-      "picks": 3
+      "home": "Cusco FC",
+      "away": "Sport Boys",
+      "league": "PER",
+      "date": "01.11.2026 18:15",
+      "matchCode": "4501914",
+      "odds": 1.27,
+      "patternScore": 68.26,
+      "patternText": "162.081/237.458",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Arouca",
+      "away": "CD Nacional",
+      "league": "POR",
+      "at": "01.11.2026 14:03",
+      "count": 4
+    },
     {
       "home": "Burgos CF",
       "away": "Castellon",
@@ -398,13 +405,6 @@
       "away": "La Louviere",
       "league": "BEL",
       "at": "01.11.2026 13:31",
-      "count": 7
-    },
-    {
-      "home": "Elche CF",
-      "away": "Valencia CF",
-      "league": "İS1",
-      "at": "01.11.2026 13:28",
       "count": 7
     }
   ],
