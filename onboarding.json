@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 16:53",
+  "updatedAt": "01.11.2026 17:00",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 434,
-      "lost": 217,
-      "total": 651,
-      "rate": 66.7
+      "won": 436,
+      "lost": 219,
+      "total": 655,
+      "rate": 66.6
     },
-    "totalAnalyses": 300944,
+    "totalAnalyses": 300965,
     "leagues": 538,
     "pro": {
-      "won": 675,
-      "lost": 297,
-      "total": 972,
+      "won": 676,
+      "lost": 298,
+      "total": 974,
       "rate": 69.4
     },
     "insights": {
-      "won": 1203,
-      "lost": 536,
-      "total": 1739,
-      "rate": 69.2
+      "won": 1205,
+      "lost": 538,
+      "total": 1743,
+      "rate": 69.1
     },
     "coupons": {
       "won": 26,
@@ -47,8 +47,8 @@
       "total": 54,
       "rate": 48.1
     },
-    "analyses24h": 1512,
-    "analyses30d": 21420
+    "analyses24h": 1472,
+    "analyses30d": 21428
   },
   "recentWins": [
     {
@@ -243,20 +243,20 @@
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.08,
-      "at": "01.11.2026 15:04"
+      "odds": 1.07,
+      "at": "01.11.2026 17:00"
     },
     {
       "type": "coupon",
       "size": 2,
-      "odds": 1.19,
-      "at": "01.11.2026 15:04"
+      "odds": 1.23,
+      "at": "01.11.2026 17:00"
     },
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.31,
-      "at": "01.11.2026 15:04"
+      "odds": 1.35,
+      "at": "01.11.2026 17:00"
     },
     {
       "type": "updated",
@@ -359,6 +359,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Marseille",
+      "away": "Toulouse FC",
+      "league": "FR1",
+      "at": "01.11.2026 16:57",
+      "count": 7
+    },
+    {
+      "home": "Palermo FC",
+      "away": "LR Vicenza",
+      "league": "İTB",
+      "at": "01.11.2026 16:56",
+      "count": 8
+    },
+    {
+      "home": "Burgos CF",
+      "away": "Castellon",
+      "league": "İS2",
+      "at": "01.11.2026 16:55",
+      "count": 5
+    },
+    {
+      "home": "Elche CF",
+      "away": "Valencia CF",
+      "league": "İS1",
+      "at": "01.11.2026 16:55",
+      "count": 7
+    },
+    {
+      "home": "Lommel United",
+      "away": "KAA Gent",
+      "league": "BEL",
+      "at": "01.11.2026 16:55",
+      "count": 6
+    },
+    {
       "home": "Nashville SC",
       "away": "New York Red Bulls",
       "league": "ABD",
@@ -371,20 +406,6 @@
       "league": "İTA",
       "at": "01.11.2026 16:36",
       "count": 8
-    },
-    {
-      "home": "Lommel United",
-      "away": "KAA Gent",
-      "league": "BEL",
-      "at": "01.11.2026 16:36",
-      "count": 5
-    },
-    {
-      "home": "Elche CF",
-      "away": "Valencia CF",
-      "league": "İS1",
-      "at": "01.11.2026 16:35",
-      "count": 5
     },
     {
       "home": "US Lecce",
@@ -401,32 +422,11 @@
       "count": 7
     },
     {
-      "home": "Marseille",
-      "away": "Toulouse FC",
-      "league": "FR1",
-      "at": "01.11.2026 15:59",
-      "count": 8
-    },
-    {
       "home": "Sporting Charleroi",
       "away": "La Louviere",
       "league": "BEL",
       "at": "01.11.2026 15:59",
       "count": 4
-    },
-    {
-      "home": "Eintracht Frankfurt",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "01.11.2026 15:57",
-      "count": 6
-    },
-    {
-      "home": "Liverpool",
-      "away": "Arsenal",
-      "league": "İNP",
-      "at": "01.11.2026 15:56",
-      "count": 5
     }
   ],
   "paywall": {
