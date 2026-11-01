@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 05:29",
+  "updatedAt": "01.11.2026 05:44",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 300037,
     "leagues": 538,
     "pro": {
-      "won": 800,
+      "won": 799,
       "lost": 339,
-      "total": 1139,
+      "total": 1138,
       "rate": 70.2
     },
     "insights": {
-      "won": 1408,
+      "won": 1406,
       "lost": 598,
-      "total": 2006,
+      "total": 2004,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 44.8
     },
-    "analyses24h": 1955,
-    "analyses30d": 21184
+    "analyses24h": 1953,
+    "analyses30d": 21182
   },
   "recentWins": [
     {
@@ -262,17 +262,28 @@
     }
   ],
   "today": {
-    "home": "Nardo",
-    "away": "Kvik Trond",
-    "league": "NOR4",
-    "date": "01.11.2026 11:00",
-    "matchCode": "4429619",
-    "odds": 1.48,
-    "patternScore": 68.03,
-    "patternText": "157.627/231.688",
-    "picks": 1
+    "home": "Folgore Carate",
+    "away": "Union Brescia",
+    "league": "İTC",
+    "date": "01.11.2026 11:30",
+    "matchCode": "4535171",
+    "odds": 1.5,
+    "patternScore": 68.3,
+    "patternText": "144.194/211.116",
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "Folgore Carate",
+      "away": "Union Brescia",
+      "league": "İTC",
+      "date": "01.11.2026 11:30",
+      "matchCode": "4535171",
+      "odds": 1.5,
+      "patternScore": 68.3,
+      "patternText": "144.194/211.116",
+      "picks": 5
+    },
     {
       "home": "Nardo",
       "away": "Kvik Trond",
@@ -296,6 +307,17 @@
       "picks": 5
     },
     {
+      "home": "Liepaja",
+      "away": "Super Nova",
+      "league": "LET",
+      "date": "01.11.2026 11:00",
+      "matchCode": "4446805",
+      "odds": 1.42,
+      "patternScore": 68.02,
+      "patternText": "222.833/327.582",
+      "picks": 2
+    },
+    {
       "home": "Auda",
       "away": "Fs Jelgava",
       "league": "LET",
@@ -305,28 +327,6 @@
       "patternScore": 67.98,
       "patternText": "226.935/333.837",
       "picks": 1
-    },
-    {
-      "home": "Liepaja",
-      "away": "Super Nova",
-      "league": "LET",
-      "date": "01.11.2026 11:00",
-      "matchCode": "4446805",
-      "odds": 1.35,
-      "patternScore": 67.96,
-      "patternText": "245.371/361.042",
-      "picks": 2
-    },
-    {
-      "home": "Perth Glory",
-      "away": "Adelaide United",
-      "league": "AVUS",
-      "date": "01.11.2026 08:00",
-      "matchCode": "4546751",
-      "odds": 1.32,
-      "patternScore": 68.14,
-      "patternText": "241.090/353.829",
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
