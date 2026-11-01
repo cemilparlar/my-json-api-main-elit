@@ -35,11 +35,11 @@
     },
     "multi": {
       "won": 15,
-      "lost": 9
+      "lost": 10
     },
     "c70_1": {
       "won": 10,
-      "lost": 3
+      "lost": 4
     },
     "c70_2": {
       "won": 4,
@@ -89,11 +89,11 @@
     },
     "multi": {
       "won": 15,
-      "lost": 9
+      "lost": 10
     },
     "c70_1": {
       "won": 10,
-      "lost": 3
+      "lost": 4
     },
     "c70_2": {
       "won": 4,
@@ -104,8 +104,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "01.11.2026 08:52",
-  "updatedAtUtc": "2026-11-01T08:52:00Z",
+  "updatedAt": "01.11.2026 09:10",
+  "updatedAtUtc": "2026-11-01T09:10:00Z",
   "upcoming": [
     {
       "id": "20261101-04-1",
@@ -149,6 +149,197 @@
       ]
     },
     {
+      "id": "20261101-12-3",
+      "createdAt": "01.11.2026 09:10",
+      "createdAtUtc": "2026-11-01T09:10:00Z",
+      "size": 3,
+      "mbs": 1,
+      "totalOdds": 1.29,
+      "winChance": 35.38,
+      "firstKickoff": "01.11.2026 10:00",
+      "lastKickoff": "01.11.2026 11:30",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_3",
+      "group": "multi",
+      "formula": "3",
+      "effectiveOdds": 1.29,
+      "legs": [
+        {
+          "matchCode": "4454471",
+          "nesine": null,
+          "date": "01.11.2026 10:00",
+          "kickoffUtc": "2026-11-01T10:00:00Z",
+          "league": "BLR",
+          "home": "Isloch",
+          "away": "Slavia Mozyr",
+          "league_tr": "BLR",
+          "home_tr": "Isloch",
+          "away_tr": "Slavia Mozyr",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 75.31,
+          "patternScore": 70.66,
+          "patternText": "371.987/526.473",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4495201",
+          "nesine": null,
+          "date": "01.11.2026 11:00",
+          "kickoffUtc": "2026-11-01T11:00:00Z",
+          "league": "İS4",
+          "home": "Real Valladolid",
+          "away": "Getafe B",
+          "league_tr": "İS4",
+          "home_tr": "Real Valladoli",
+          "away_tr": "Getafe Ii",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.08,
+          "probability": 78.57,
+          "patternScore": 70.73,
+          "patternText": "171.451/242.415",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4535171",
+          "nesine": null,
+          "date": "01.11.2026 11:30",
+          "kickoffUtc": "2026-11-01T11:30:00Z",
+          "league": "İTC",
+          "home": "Folgore Carate",
+          "away": "Union Brescia",
+          "league_tr": "İTC",
+          "home_tr": "Folgore Carate",
+          "away_tr": "Union Brescia",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.11,
+          "probability": 86.96,
+          "patternScore": 70.79,
+          "patternText": "220.930/312.094",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261101-12-1",
+      "createdAt": "01.11.2026 09:10",
+      "createdAtUtc": "2026-11-01T09:10:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.06,
+      "winChance": 71.6,
+      "firstKickoff": "01.11.2026 11:00",
+      "lastKickoff": "01.11.2026 11:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.06,
+      "legs": [
+        {
+          "matchCode": "4429619",
+          "nesine": null,
+          "date": "01.11.2026 11:00",
+          "kickoffUtc": "2026-11-01T11:00:00Z",
+          "league": "NOR4",
+          "home": "Nardo",
+          "away": "Kvik Trond",
+          "league_tr": "NOR4",
+          "home_tr": "Nardo",
+          "away_tr": "Kvik Trond",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.06,
+          "probability": 88.24,
+          "patternScore": 71.6,
+          "patternText": "217.819/304.216",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    },
+    {
+      "id": "20261101-12-2",
+      "createdAt": "01.11.2026 09:10",
+      "createdAtUtc": "2026-11-01T09:10:00Z",
+      "size": 2,
+      "mbs": 1,
+      "totalOdds": 1.14,
+      "winChance": 50.67,
+      "firstKickoff": "01.11.2026 11:00",
+      "lastKickoff": "01.11.2026 11:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_2",
+      "group": "multi",
+      "formula": "2",
+      "effectiveOdds": 1.14,
+      "legs": [
+        {
+          "matchCode": "4523925",
+          "nesine": null,
+          "date": "01.11.2026 11:00",
+          "kickoffUtc": "2026-11-01T11:00:00Z",
+          "league": "AZERPL",
+          "home": "FK Keshla",
+          "away": "FK Neftchi Baku",
+          "league_tr": "AZERPL",
+          "home_tr": "Keshla",
+          "away_tr": "Neftchi Baku",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.07,
+          "probability": 88.24,
+          "patternScore": 71.19,
+          "patternText": "227.373/319.370",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        },
+        {
+          "matchCode": "4429615",
+          "nesine": null,
+          "date": "01.11.2026 11:00",
+          "kickoffUtc": "2026-11-01T11:00:00Z",
+          "league": "NOR4",
+          "home": "Melhus",
+          "away": "Byasen",
+          "league_tr": "NOR4",
+          "home_tr": "Melhus",
+          "away_tr": "Byasen",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.07,
+          "probability": 87.5,
+          "patternScore": 71.18,
+          "patternText": "227.593/319.741",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
+        }
+      ]
+    }
+  ],
+  "completed": [
+    {
       "id": "20261101-08-1",
       "createdAt": "01.11.2026 05:14",
       "createdAtUtc": "2026-11-01T05:14:00Z",
@@ -158,8 +349,8 @@
       "winChance": 70.19,
       "firstKickoff": "01.11.2026 07:00",
       "lastKickoff": "01.11.2026 07:00",
-      "status": "live",
-      "completedAt": null,
+      "status": "lost",
+      "completedAt": "01.11.2026 09:10",
       "kind": "c70_1",
       "group": "multi",
       "formula": "1",
@@ -183,14 +374,12 @@
           "patternScore": 70.19,
           "patternText": "165.111/235.246",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "lost"
         }
       ]
-    }
-  ],
-  "completed": [
+    },
     {
       "id": "20261101-06-2",
       "createdAt": "01.11.2026 03:09",

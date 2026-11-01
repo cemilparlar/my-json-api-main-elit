@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 08:52",
+  "updatedAt": "01.11.2026 09:10",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 550,
-      "lost": 231,
-      "total": 781,
-      "rate": 70.4
+      "won": 556,
+      "lost": 232,
+      "total": 788,
+      "rate": 70.6
     },
-    "totalAnalyses": 300285,
+    "totalAnalyses": 300286,
     "leagues": 539,
     "pro": {
-      "won": 789,
-      "lost": 340,
+      "won": 790,
+      "lost": 339,
       "total": 1129,
-      "rate": 69.9
+      "rate": 70.0
     },
     "insights": {
       "won": 1396,
-      "lost": 600,
-      "total": 1996,
-      "rate": 69.9
+      "lost": 598,
+      "total": 1994,
+      "rate": 70.0
     },
     "coupons": {
       "won": 28,
-      "lost": 33,
-      "total": 61,
-      "rate": 45.9
+      "lost": 34,
+      "total": 62,
+      "rate": 45.2
     },
-    "analyses24h": 2071,
-    "analyses30d": 21304
+    "analyses24h": 2070,
+    "analyses30d": 21303
   },
   "recentWins": [
     {
@@ -222,20 +222,26 @@
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.12,
-      "at": "01.11.2026 05:14"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.09,
-      "at": "01.11.2026 03:09"
+      "odds": 1.06,
+      "at": "01.11.2026 09:10"
     },
     {
       "type": "coupon",
       "size": 2,
-      "odds": 1.35,
-      "at": "01.11.2026 03:09"
+      "odds": 1.14,
+      "at": "01.11.2026 09:10"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.29,
+      "at": "01.11.2026 09:10"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 08:55",
+      "home": "Amed SK",
+      "away": "Eyupspor"
     },
     {
       "type": "updated",
@@ -260,12 +266,6 @@
       "at": "01.11.2026 03:23",
       "home": "Yokohama F. Marinos",
       "away": "Kawasaki Frontale"
-    },
-    {
-      "type": "updated",
-      "at": "01.11.2026 03:44",
-      "home": "JEF United Chiba",
-      "away": "Avispa Fukuoka"
     }
   ],
   "today": {
@@ -276,7 +276,7 @@
     "matchCode": "4485906",
     "odds": 2.21,
     "patternScore": 67.05,
-    "patternText": "251.728/375.453",
+    "patternText": "251.734/375.459",
     "picks": 8
   },
   "todayList": [
@@ -288,7 +288,7 @@
       "matchCode": "4485906",
       "odds": 2.21,
       "patternScore": 67.05,
-      "patternText": "251.728/375.453",
+      "patternText": "251.734/375.459",
       "picks": 8
     },
     {
@@ -299,7 +299,7 @@
       "matchCode": "4560156",
       "odds": 1.71,
       "patternScore": 67.15,
-      "patternText": "180.853/269.311",
+      "patternText": "180.855/269.313",
       "picks": 4
     },
     {
@@ -310,7 +310,7 @@
       "matchCode": "4534768",
       "odds": 1.6,
       "patternScore": 67.53,
-      "patternText": "171.443/253.872",
+      "patternText": "171.445/253.874",
       "picks": 6
     },
     {
@@ -321,7 +321,7 @@
       "matchCode": "4534571",
       "odds": 1.55,
       "patternScore": 66.51,
-      "patternText": "168.575/253.475",
+      "patternText": "168.577/253.477",
       "picks": 2
     },
     {
@@ -331,12 +331,19 @@
       "date": "01.11.2026 11:30",
       "matchCode": "4535171",
       "odds": 1.5,
-      "patternScore": 68.29,
-      "patternText": "144.240/211.202",
+      "patternScore": 68.3,
+      "patternText": "144.242/211.204",
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Amed SK",
+      "away": "Eyupspor",
+      "league": "TSL",
+      "at": "01.11.2026 08:55",
+      "count": 3
+    },
     {
       "home": "Frosinone Calcio",
       "away": "Torino FC",
@@ -378,13 +385,6 @@
       "league": "İS1",
       "at": "01.11.2026 08:22",
       "count": 7
-    },
-    {
-      "home": "Amed SK",
-      "away": "Eyupspor",
-      "league": "TSL",
-      "at": "01.11.2026 08:13",
-      "count": 3
     },
     {
       "home": "SC Telstar",
