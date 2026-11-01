@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 19:08",
+  "updatedAt": "01.11.2026 19:15",
   "config": {
     "pages": [
       "engine",
@@ -47,7 +47,7 @@
       "total": 49,
       "rate": 49.0
     },
-    "analyses24h": 1347,
+    "analyses24h": 1343,
     "analyses30d": 21320
   },
   "recentWins": [
@@ -62,19 +62,6 @@
       "patternScore": 57.77,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 2",
-      "pro": false
-    },
-    {
-      "home": "Rudes",
-      "away": "Dinamo Zagreb",
-      "league": "HIR",
-      "date": "31.10.2026 17:00",
-      "prediction": "Match Result 1",
-      "odds": 8.02,
-      "probability": 75.0,
-      "patternScore": 64.45,
-      "firstHalf": "1 - 0",
-      "finalScore": "1 - 0",
       "pro": false
     },
     {
@@ -115,6 +102,19 @@
       "firstHalf": "0 - 2",
       "finalScore": "0 - 3",
       "pro": true
+    },
+    {
+      "home": "Verl 1924",
+      "away": "SV Wehen Wiesbaden",
+      "league": "AL3",
+      "date": "31.10.2026 13:00",
+      "prediction": "Over 3.5 Goals",
+      "odds": 2.06,
+      "probability": 71.43,
+      "patternScore": 66.92,
+      "firstHalf": "1 - 1",
+      "finalScore": "1 - 4",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -218,14 +218,6 @@
     },
     {
       "type": "won",
-      "home": "Rudes",
-      "away": "Dinamo Zagreb",
-      "prediction": "Match Result 1",
-      "odds": 8.02,
-      "at": "31.10.2026 17:00"
-    },
-    {
-      "type": "won",
       "home": "FC Saarbrucken",
       "away": "Waldhof Mannheim",
       "prediction": "Handicap (0:1) X",
@@ -239,6 +231,14 @@
       "prediction": "1st Half Under 0.5",
       "odds": 2.78,
       "at": "01.11.2026 07:00"
+    },
+    {
+      "type": "won",
+      "home": "Annecy",
+      "away": "Montpellier HSC",
+      "prediction": "Match Result 2",
+      "odds": 2.1,
+      "at": "31.10.2026 13:00"
     },
     {
       "type": "coupon",
@@ -257,12 +257,6 @@
       "size": 1,
       "odds": 1.07,
       "at": "01.11.2026 17:00"
-    },
-    {
-      "type": "updated",
-      "at": "01.11.2026 13:13",
-      "home": "SS Lazio",
-      "away": "Cagliari Calcio"
     },
     {
       "type": "updated",
@@ -287,6 +281,12 @@
       "at": "01.11.2026 15:56",
       "home": "Liverpool",
       "away": "Arsenal"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 15:57",
+      "home": "Eintracht Frankfurt",
+      "away": "Hamburger SV"
     }
   ],
   "today": {
@@ -296,8 +296,8 @@
     "date": "01.11.2026 20:00",
     "matchCode": "4492359",
     "odds": 1.32,
-    "patternScore": 67.49,
-    "patternText": "157.519/233.385",
+    "patternScore": 67.5,
+    "patternText": "157.615/233.507",
     "picks": 6
   },
   "todayList": [
@@ -308,8 +308,8 @@
       "date": "01.11.2026 20:00",
       "matchCode": "4492359",
       "odds": 1.32,
-      "patternScore": 67.49,
-      "patternText": "157.519/233.385",
+      "patternScore": 67.5,
+      "patternText": "157.615/233.507",
       "picks": 6
     },
     {
@@ -320,7 +320,7 @@
       "matchCode": "4564199",
       "odds": 1.26,
       "patternScore": 69.03,
-      "patternText": "196.105/284.091",
+      "patternText": "196.141/284.145",
       "picks": 4
     },
     {
@@ -330,8 +330,8 @@
       "date": "01.11.2026 20:30",
       "matchCode": "4517038",
       "odds": 1.24,
-      "patternScore": 68.38,
-      "patternText": "162.129/237.089",
+      "patternScore": 68.39,
+      "patternText": "162.225/237.203",
       "picks": 4
     },
     {
@@ -342,19 +342,19 @@
       "matchCode": "4492809",
       "odds": 1.22,
       "patternScore": 68.65,
-      "patternText": "247.688/360.791",
+      "patternText": "247.804/360.949",
       "picks": 4
     },
     {
-      "home": "Juventus",
-      "away": "SSC Napoli",
-      "league": "İTA",
-      "date": "01.11.2026 19:45",
-      "matchCode": "4475136",
-      "odds": 1.2,
-      "patternScore": 68.61,
-      "patternText": "177.873/259.261",
-      "picks": 4
+      "home": "Club Atletico Belgrano",
+      "away": "Barracas Central",
+      "league": "ARJ",
+      "date": "01.11.2026 21:30",
+      "matchCode": "4475926",
+      "odds": 1.19,
+      "patternScore": 66.24,
+      "patternText": "271.309/409.598",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
