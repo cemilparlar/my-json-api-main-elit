@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 20:38",
+  "updatedAt": "01.11.2026 20:46",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 743,
       "rate": 67.0
     },
-    "totalAnalyses": 301050,
+    "totalAnalyses": 301071,
     "leagues": 535,
     "pro": {
       "won": 741,
@@ -47,8 +47,8 @@
       "total": 52,
       "rate": 51.9
     },
-    "analyses24h": 1279,
-    "analyses30d": 21326
+    "analyses24h": 1296,
+    "analyses30d": 21343
   },
   "recentWins": [
     {
@@ -260,12 +260,6 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 14:40",
-      "home": "AD Ceuta",
-      "away": "Sporting Gijon"
-    },
-    {
-      "type": "updated",
       "at": "01.11.2026 15:56",
       "home": "Liverpool",
       "away": "Arsenal"
@@ -287,6 +281,12 @@
       "at": "01.11.2026 16:55",
       "home": "Burgos CF",
       "away": "Castellon"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 16:55",
+      "home": "Elche CF",
+      "away": "Valencia CF"
     }
   ],
   "today": {
@@ -359,6 +359,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Nashville SC",
+      "away": "New York Red Bulls",
+      "league": "ABD",
+      "at": "01.11.2026 20:42",
+      "count": 3
+    },
+    {
+      "home": "Gremio FBPA",
+      "away": "Atletico Mineiro",
+      "league": "BRK",
+      "at": "01.11.2026 20:42",
+      "count": 6
+    },
+    {
       "home": "Los Angeles FC",
       "away": "Minnesota United",
       "league": "ABD",
@@ -394,13 +408,6 @@
       "count": 5
     },
     {
-      "home": "Nashville SC",
-      "away": "New York Red Bulls",
-      "league": "ABD",
-      "at": "01.11.2026 18:32",
-      "count": 5
-    },
-    {
       "home": "New England Revolution",
       "away": "Inter Miami CF",
       "league": "ABD",
@@ -420,13 +427,6 @@
       "league": "İS2",
       "at": "01.11.2026 16:55",
       "count": 5
-    },
-    {
-      "home": "Elche CF",
-      "away": "Valencia CF",
-      "league": "İS1",
-      "at": "01.11.2026 16:55",
-      "count": 7
     }
   ],
   "paywall": {
