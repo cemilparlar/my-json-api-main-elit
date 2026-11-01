@@ -100,8 +100,8 @@
       "lost": 5
     }
   },
-  "updatedAt": "01.11.2026 21:08",
-  "updatedAtUtc": "2026-11-01T21:08:00Z",
+  "updatedAt": "01.11.2026 21:15",
+  "updatedAtUtc": "2026-11-01T21:15:00Z",
   "upcoming": [
     {
       "id": "20261101-16-2",
@@ -1753,69 +1753,6 @@
           "firstHalf": "0 - 0",
           "finalScore": "2 - 2",
           "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261031-20-2",
-      "createdAt": "31.10.2026 17:07",
-      "createdAtUtc": "2026-10-31T17:07:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 1.18,
-      "winChance": 49.19,
-      "firstKickoff": "31.10.2026 18:00",
-      "lastKickoff": "31.10.2026 19:00",
-      "status": "lost",
-      "completedAt": "31.10.2026 21:09",
-      "kind": "c70_2",
-      "group": "multi",
-      "formula": "2",
-      "effectiveOdds": 1.18,
-      "legs": [
-        {
-          "matchCode": "4517335",
-          "nesine": null,
-          "date": "31.10.2026 18:00",
-          "kickoffUtc": "2026-10-31T18:00:00Z",
-          "league": "POR2",
-          "home": "Leiria",
-          "away": "AVS",
-          "league_tr": "POR2",
-          "home_tr": "Leiria",
-          "away_tr": "Avs",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.07,
-          "probability": 79.78,
-          "patternScore": 70.1,
-          "patternText": "361.461/515.614",
-          "mbs": 1,
-          "firstHalf": "0 - 1",
-          "finalScore": "2 - 1",
-          "status": "won"
-        },
-        {
-          "matchCode": "4577004",
-          "nesine": null,
-          "date": "31.10.2026 19:00",
-          "kickoffUtc": "2026-10-31T19:00:00Z",
-          "league": "BOLİ",
-          "home": "Real Oruro",
-          "away": "Nacional Potosi",
-          "league_tr": "BOLİ",
-          "home_tr": "Real Oruro",
-          "away_tr": "Nacional Potosi",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 71.21,
-          "patternScore": 70.17,
-          "patternText": "358.988/511.600",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "1 - 1",
-          "status": "lost"
         }
       ]
     }
