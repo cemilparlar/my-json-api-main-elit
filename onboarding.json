@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 02:08",
+  "updatedAt": "01.11.2026 02:24",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 59,
       "rate": 44.1
     },
-    "analyses24h": 1986,
-    "analyses30d": 21123
+    "analyses24h": 1984,
+    "analyses30d": 21121
   },
   "recentWins": [
     {
@@ -232,18 +232,6 @@
     },
     {
       "type": "updated",
-      "at": "31.10.2026 20:17",
-      "home": "San Jose Earthquakes",
-      "away": "Salt Lake"
-    },
-    {
-      "type": "updated",
-      "at": "31.10.2026 20:17",
-      "home": "LA Galaxy",
-      "away": "Austin FC"
-    },
-    {
-      "type": "updated",
       "at": "31.10.2026 21:41",
       "home": "Velez Sarsfiel",
       "away": "San Lorenzo"
@@ -259,6 +247,18 @@
       "at": "31.10.2026 22:44",
       "home": "Estudiantes de La Plata",
       "away": "Instituto Cordoba"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 00:02",
+      "home": "Club Deportivo Guadalajara",
+      "away": "Atlante"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 01:17",
+      "home": "JEF United Chiba",
+      "away": "Avispa Fukuoka"
     }
   ],
   "today": {
@@ -307,6 +307,17 @@
       "picks": 3
     },
     {
+      "home": "Perth Glory",
+      "away": "Adelaide United",
+      "league": "AVUS",
+      "date": "01.11.2026 08:00",
+      "matchCode": "4546751",
+      "odds": 1.32,
+      "patternScore": 68.13,
+      "patternText": "241.046/353.783",
+      "picks": 2
+    },
+    {
       "home": "Suwon FC",
       "away": "Ansan Greeners",
       "league": "GKOR2",
@@ -316,17 +327,6 @@
       "patternScore": 68.06,
       "patternText": "228.041/335.038",
       "picks": 3
-    },
-    {
-      "home": "Ulsan Citizen",
-      "away": "Changwon City",
-      "league": "GK3L",
-      "date": "01.11.2026 05:00",
-      "matchCode": "4443072",
-      "odds": 1.18,
-      "patternScore": 70.0,
-      "patternText": "281.248/401.794",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
