@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 07:06",
+  "updatedAt": "01.11.2026 07:22",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 547,
-      "lost": 229,
-      "total": 776,
-      "rate": 70.5
+      "won": 549,
+      "lost": 231,
+      "total": 780,
+      "rate": 70.4
     },
-    "totalAnalyses": 300118,
-    "leagues": 538,
+    "totalAnalyses": 300173,
+    "leagues": 539,
     "pro": {
-      "won": 795,
-      "lost": 342,
-      "total": 1137,
+      "won": 797,
+      "lost": 344,
+      "total": 1141,
       "rate": 69.9
     },
     "insights": {
-      "won": 1406,
-      "lost": 604,
-      "total": 2010,
-      "rate": 70.0
+      "won": 1408,
+      "lost": 606,
+      "total": 2014,
+      "rate": 69.9
     },
     "coupons": {
       "won": 28,
-      "lost": 32,
-      "total": 60,
-      "rate": 46.7
+      "lost": 33,
+      "total": 61,
+      "rate": 45.9
     },
-    "analyses24h": 1983,
-    "analyses30d": 21216
+    "analyses24h": 2033,
+    "analyses30d": 21266
   },
   "recentWins": [
     {
@@ -263,9 +263,9 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 05:23",
-      "home": "Gimhae City FC",
-      "away": "Cheonan City Fc"
+      "at": "01.11.2026 04:25",
+      "home": "Ulsan Citizen",
+      "away": "Changwon City"
     }
   ],
   "today": {
@@ -275,8 +275,8 @@
     "date": "01.11.2026 12:15",
     "matchCode": "4485906",
     "odds": 2.21,
-    "patternScore": 67.04,
-    "patternText": "251.676/375.389",
+    "patternScore": 67.05,
+    "patternText": "251.720/375.441",
     "picks": 8
   },
   "todayList": [
@@ -287,8 +287,8 @@
       "date": "01.11.2026 12:15",
       "matchCode": "4485906",
       "odds": 2.21,
-      "patternScore": 67.04,
-      "patternText": "251.676/375.389",
+      "patternScore": 67.05,
+      "patternText": "251.720/375.441",
       "picks": 8
     },
     {
@@ -299,7 +299,7 @@
       "matchCode": "4534571",
       "odds": 1.55,
       "patternScore": 66.51,
-      "patternText": "168.547/253.427",
+      "patternText": "168.567/253.455",
       "picks": 2
     },
     {
@@ -310,7 +310,7 @@
       "matchCode": "4535171",
       "odds": 1.5,
       "patternScore": 68.3,
-      "patternText": "144.212/211.154",
+      "patternText": "144.232/211.182",
       "picks": 5
     },
     {
@@ -321,7 +321,7 @@
       "matchCode": "4426804",
       "odds": 1.46,
       "patternScore": 65.14,
-      "patternText": "308.155/473.053",
+      "patternText": "308.207/473.113",
       "picks": 8
     },
     {
@@ -332,11 +332,46 @@
       "matchCode": "4485908",
       "odds": 1.42,
       "patternScore": 67.28,
-      "patternText": "233.175/346.571",
+      "patternText": "233.219/346.623",
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Igdir FK",
+      "away": "Antalyaspor",
+      "league": "T1L",
+      "at": "01.11.2026 07:21",
+      "count": 5
+    },
+    {
+      "home": "CD Eldense",
+      "away": "Granada CF",
+      "league": "İS2",
+      "at": "01.11.2026 07:19",
+      "count": 7
+    },
+    {
+      "home": "Istanbul Basaksehir",
+      "away": "Samsunspor",
+      "league": "TSL",
+      "at": "01.11.2026 07:18",
+      "count": 7
+    },
+    {
+      "home": "Getafe CF",
+      "away": "Sevilla FC",
+      "league": "İS1",
+      "at": "01.11.2026 07:17",
+      "count": 5
+    },
+    {
+      "home": "Istanbulspor",
+      "away": "Mardin 1969",
+      "league": "T1L",
+      "at": "01.11.2026 07:17",
+      "count": 6
+    },
     {
       "home": "SpVgg Greuther Furth",
       "away": "Holstein Kiel",
@@ -371,41 +406,6 @@
       "league": "HOL",
       "at": "01.11.2026 05:27",
       "count": 9
-    },
-    {
-      "home": "Sivasspor",
-      "away": "Boluspor",
-      "league": "T1L",
-      "at": "01.11.2026 04:44",
-      "count": 2
-    },
-    {
-      "home": "FC Orenburg",
-      "away": "CSKA Moscow",
-      "league": "RUS",
-      "at": "01.11.2026 04:09",
-      "count": 6
-    },
-    {
-      "home": "Racing Santander",
-      "away": "Real Madrid",
-      "league": "İS1",
-      "at": "31.10.2026 23:24",
-      "count": 13
-    },
-    {
-      "home": "Red Bull Bragantino",
-      "away": "FC Santos",
-      "league": "BR1",
-      "at": "31.10.2026 21:17",
-      "count": 7
-    },
-    {
-      "home": "RCD Mallorca",
-      "away": "Cadiz CF",
-      "league": "İS2",
-      "at": "31.10.2026 21:14",
-      "count": 3
     }
   ],
   "paywall": {
