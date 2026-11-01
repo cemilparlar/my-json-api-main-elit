@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 12:46",
+  "updatedAt": "01.11.2026 12:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 756,
       "rate": 68.9
     },
-    "totalAnalyses": 300584,
+    "totalAnalyses": 300594,
     "leagues": 539,
     "pro": {
       "won": 737,
@@ -47,8 +47,8 @@
       "total": 60,
       "rate": 46.7
     },
-    "analyses24h": 2083,
-    "analyses30d": 21389
+    "analyses24h": 2075,
+    "analyses30d": 21381
   },
   "recentWins": [
     {
@@ -276,7 +276,7 @@
     "matchCode": "4480761",
     "odds": 2.19,
     "patternScore": 67.76,
-    "patternText": "246.922/364.426",
+    "patternText": "246.928/364.438",
     "picks": 7
   },
   "todayList": [
@@ -288,8 +288,19 @@
       "matchCode": "4480761",
       "odds": 2.19,
       "patternScore": 67.76,
-      "patternText": "246.922/364.426",
+      "patternText": "246.928/364.438",
       "picks": 7
+    },
+    {
+      "home": "Lokomotiv Moscow",
+      "away": "Spartak Moscow",
+      "league": "RUS",
+      "date": "01.11.2026 16:45",
+      "matchCode": "4485909",
+      "odds": 1.91,
+      "patternScore": 66.92,
+      "patternText": "247.731/370.214",
+      "picks": 9
     },
     {
       "home": "US Avellino",
@@ -299,7 +310,7 @@
       "matchCode": "4534768",
       "odds": 1.6,
       "patternScore": 67.35,
-      "patternText": "262.583/389.896",
+      "patternText": "262.589/389.908",
       "picks": 7
     },
     {
@@ -310,30 +321,19 @@
       "matchCode": "4480758",
       "odds": 1.58,
       "patternScore": 68.33,
-      "patternText": "264.908/387.661",
+      "patternText": "264.914/387.673",
       "picks": 2
     },
     {
-      "home": "Baltika Kalini",
-      "away": "FC Akron Togliatti",
-      "league": "RUS",
-      "date": "01.11.2026 14:30",
-      "matchCode": "4485907",
-      "odds": 1.5,
-      "patternScore": 67.2,
-      "patternText": "272.150/404.996",
-      "picks": 3
-    },
-    {
-      "home": "Odds Bk",
-      "away": "Sandnes",
-      "league": "NOR1",
-      "date": "01.11.2026 16:00",
-      "matchCode": "4428750",
-      "odds": 1.47,
-      "patternScore": 68.42,
-      "patternText": "257.945/377.028",
-      "picks": 3
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "league": "İNP",
+      "date": "01.11.2026 16:30",
+      "matchCode": "4481097",
+      "odds": 1.52,
+      "patternScore": 67.51,
+      "patternText": "241.453/357.681",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
