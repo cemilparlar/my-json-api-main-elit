@@ -1,14 +1,6 @@
 {
   "version": 1,
   "stats7": {
-    "surprise": {
-      "won": 4,
-      "lost": 10
-    },
-    "surprise_1": {
-      "won": 3,
-      "lost": 4
-    },
     "safe": {
       "won": 10,
       "lost": 6
@@ -16,6 +8,10 @@
     "safe_a": {
       "won": 5,
       "lost": 1
+    },
+    "surprise": {
+      "won": 3,
+      "lost": 9
     },
     "surprise_2": {
       "won": 1,
@@ -32,6 +28,10 @@
     "multi_1": {
       "won": 0,
       "lost": 9
+    },
+    "surprise_1": {
+      "won": 2,
+      "lost": 3
     },
     "multi": {
       "won": 13,
@@ -104,8 +104,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "01.11.2026 03:57",
-  "updatedAtUtc": "2026-11-01T03:57:00Z",
+  "updatedAt": "01.11.2026 04:12",
+  "updatedAtUtc": "2026-11-01T04:12:00Z",
   "upcoming": [
     {
       "id": "20261101-00-2",
@@ -221,7 +221,7 @@
       "winChance": 70.62,
       "firstKickoff": "01.11.2026 04:00",
       "lastKickoff": "01.11.2026 04:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_1",
       "group": "multi",
@@ -248,7 +248,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
