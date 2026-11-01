@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 20:24",
+  "updatedAt": "01.11.2026 20:31",
   "config": {
     "pages": [
       "engine",
@@ -22,32 +22,32 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 484,
-      "lost": 242,
-      "total": 726,
-      "rate": 66.7
+      "won": 498,
+      "lost": 245,
+      "total": 743,
+      "rate": 67.0
     },
-    "totalAnalyses": 301048,
+    "totalAnalyses": 301050,
     "leagues": 535,
     "pro": {
-      "won": 735,
+      "won": 741,
       "lost": 306,
-      "total": 1041,
-      "rate": 70.6
+      "total": 1047,
+      "rate": 70.8
     },
     "insights": {
-      "won": 1300,
-      "lost": 562,
-      "total": 1862,
+      "won": 1306,
+      "lost": 564,
+      "total": 1870,
       "rate": 69.8
     },
     "coupons": {
-      "won": 24,
+      "won": 27,
       "lost": 25,
-      "total": 49,
-      "rate": 49.0
+      "total": 52,
+      "rate": 51.9
     },
-    "analyses24h": 1277,
+    "analyses24h": 1280,
     "analyses30d": 21327
   },
   "recentWins": [
@@ -119,6 +119,72 @@
   ],
   "recentCoupons": [
     {
+      "size": 1,
+      "totalOdds": 1.07,
+      "winChance": 70.46,
+      "completedAt": "01.11.2026 20:31",
+      "legs": [
+        {
+          "home": "Palermo FC",
+          "away": "LR Vicenza",
+          "prediction": "Double Chance 12",
+          "odds": 1.07,
+          "finalScore": "3 - 1"
+        }
+      ]
+    },
+    {
+      "size": 2,
+      "totalOdds": 1.23,
+      "winChance": 49.6,
+      "completedAt": "01.11.2026 20:31",
+      "legs": [
+        {
+          "home": "Academico FC Viseu",
+          "away": "Rio Ave FC",
+          "prediction": "Double Chance 12",
+          "odds": 1.15,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Palermo FC",
+          "away": "LR Vicenza",
+          "prediction": "Double Chance 12",
+          "odds": 1.07,
+          "finalScore": "3 - 1"
+        }
+      ]
+    },
+    {
+      "size": 3,
+      "totalOdds": 1.35,
+      "winChance": 34.9,
+      "completedAt": "01.11.2026 20:31",
+      "legs": [
+        {
+          "home": "Academico FC Viseu",
+          "away": "Rio Ave FC",
+          "prediction": "Double Chance 12",
+          "odds": 1.15,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Sporting Charleroi",
+          "away": "La Louviere",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "5 - 2"
+        },
+        {
+          "home": "Palermo FC",
+          "away": "LR Vicenza",
+          "prediction": "Double Chance 12",
+          "odds": 1.07,
+          "finalScore": "3 - 1"
+        }
+      ]
+    },
+    {
       "size": 2,
       "totalOdds": 1.14,
       "winChance": 50.54,
@@ -137,72 +203,6 @@
           "prediction": "Double Chance 12",
           "odds": 1.07,
           "finalScore": "2 - 1"
-        }
-      ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.31,
-      "winChance": 35.75,
-      "completedAt": "01.11.2026 15:34",
-      "legs": [
-        {
-          "home": "Cercle Brugge",
-          "away": "Royal Antwerp",
-          "prediction": "Double Chance 12",
-          "odds": 1.14,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "FC Emmen",
-          "away": "FC Den Bosch",
-          "prediction": "Double Chance 12",
-          "odds": 1.07,
-          "finalScore": "0 - 5"
-        },
-        {
-          "home": "Ranheim",
-          "away": "Sogndal",
-          "prediction": "Double Chance 12",
-          "odds": 1.07,
-          "finalScore": "2 - 1"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.07,
-      "winChance": 71.23,
-      "completedAt": "01.11.2026 15:27",
-      "legs": [
-        {
-          "home": "FC Emmen",
-          "away": "FC Den Bosch",
-          "prediction": "Double Chance 12",
-          "odds": 1.07,
-          "finalScore": "0 - 5"
-        }
-      ]
-    },
-    {
-      "size": 2,
-      "totalOdds": 1.13,
-      "winChance": 50.31,
-      "completedAt": "01.11.2026 06:33",
-      "legs": [
-        {
-          "home": "Nautico",
-          "away": "Avai",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.06,
-          "finalScore": null
-        },
-        {
-          "home": "O'Higgins FC",
-          "away": "Atletico Nublense",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.07,
-          "finalScore": "1 - 0"
         }
       ]
     }
