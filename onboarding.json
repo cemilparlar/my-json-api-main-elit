@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 19:22",
+  "updatedAt": "01.11.2026 19:29",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 744,
       "rate": 66.0
     },
-    "totalAnalyses": 301017,
+    "totalAnalyses": 301018,
     "leagues": 535,
     "pro": {
       "won": 727,
@@ -47,8 +47,8 @@
       "total": 49,
       "rate": 49.0
     },
-    "analyses24h": 1343,
-    "analyses30d": 21320
+    "analyses24h": 1341,
+    "analyses30d": 21318
   },
   "recentWins": [
     {
@@ -297,7 +297,7 @@
     "matchCode": "4492359",
     "odds": 1.32,
     "patternScore": 67.5,
-    "patternText": "157.615/233.507",
+    "patternText": "157.621/233.513",
     "picks": 6
   },
   "todayList": [
@@ -309,7 +309,7 @@
       "matchCode": "4492359",
       "odds": 1.32,
       "patternScore": 67.5,
-      "patternText": "157.615/233.507",
+      "patternText": "157.621/233.513",
       "picks": 6
     },
     {
@@ -320,7 +320,7 @@
       "matchCode": "4564199",
       "odds": 1.26,
       "patternScore": 69.03,
-      "patternText": "196.141/284.145",
+      "patternText": "196.147/284.151",
       "picks": 4
     },
     {
@@ -331,7 +331,7 @@
       "matchCode": "4517038",
       "odds": 1.24,
       "patternScore": 68.39,
-      "patternText": "162.225/237.203",
+      "patternText": "162.231/237.209",
       "picks": 4
     },
     {
@@ -341,8 +341,8 @@
       "date": "01.11.2026 20:00",
       "matchCode": "4492809",
       "odds": 1.22,
-      "patternScore": 68.65,
-      "patternText": "247.804/360.949",
+      "patternScore": 68.66,
+      "patternText": "247.822/360.967",
       "picks": 4
     },
     {
@@ -353,17 +353,24 @@
       "matchCode": "4475926",
       "odds": 1.19,
       "patternScore": 66.24,
-      "patternText": "271.309/409.598",
+      "patternText": "271.319/409.608",
       "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "SC Braga",
+      "away": "FC Famalicao",
+      "league": "POR",
+      "at": "01.11.2026 19:28",
+      "count": 4
+    },
+    {
       "home": "Athletic Bilbao",
       "away": "Real Sociedad",
       "league": "İS1",
-      "at": "01.11.2026 18:49",
-      "count": 8
+      "at": "01.11.2026 19:27",
+      "count": 6
     },
     {
       "home": "Juventus",
@@ -420,13 +427,6 @@
       "league": "BEL",
       "at": "01.11.2026 16:55",
       "count": 6
-    },
-    {
-      "home": "US Lecce",
-      "away": "Genoa CFC",
-      "league": "İTA",
-      "at": "01.11.2026 16:21",
-      "count": 9
     }
   ],
   "paywall": {
