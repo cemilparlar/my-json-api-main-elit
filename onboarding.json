@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 06:50",
+  "updatedAt": "01.11.2026 07:06",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 539,
-      "lost": 227,
-      "total": 766,
-      "rate": 70.4
+      "won": 547,
+      "lost": 229,
+      "total": 776,
+      "rate": 70.5
     },
-    "totalAnalyses": 300117,
+    "totalAnalyses": 300118,
     "leagues": 538,
     "pro": {
       "won": 795,
@@ -36,9 +36,9 @@
       "rate": 69.9
     },
     "insights": {
-      "won": 1404,
-      "lost": 602,
-      "total": 2006,
+      "won": 1406,
+      "lost": 604,
+      "total": 2010,
       "rate": 70.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 60,
       "rate": 46.7
     },
-    "analyses24h": 1987,
-    "analyses30d": 21220
+    "analyses24h": 1983,
+    "analyses30d": 21216
   },
   "recentWins": [
     {
@@ -314,6 +314,17 @@
       "picks": 5
     },
     {
+      "home": "Malmo FF",
+      "away": "Hammarby IF",
+      "league": "İSÇ",
+      "date": "01.11.2026 13:00",
+      "matchCode": "4426804",
+      "odds": 1.46,
+      "patternScore": 65.14,
+      "patternText": "308.155/473.053",
+      "picks": 8
+    },
+    {
       "home": "FC Orenburg",
       "away": "CSKA Moscow",
       "league": "RUS",
@@ -323,17 +334,6 @@
       "patternScore": 67.28,
       "patternText": "233.175/346.571",
       "picks": 5
-    },
-    {
-      "home": "Auda",
-      "away": "Fs Jelgava",
-      "league": "LET",
-      "date": "01.11.2026 11:00",
-      "matchCode": "4446807",
-      "odds": 1.39,
-      "patternScore": 67.98,
-      "patternText": "226.973/333.903",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
