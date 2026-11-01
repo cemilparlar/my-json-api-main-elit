@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 20:10",
+  "updatedAt": "01.11.2026 20:17",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 469,
-      "lost": 237,
-      "total": 706,
-      "rate": 66.4
+      "won": 484,
+      "lost": 242,
+      "total": 726,
+      "rate": 66.7
     },
-    "totalAnalyses": 301037,
+    "totalAnalyses": 301048,
     "leagues": 535,
     "pro": {
-      "won": 726,
-      "lost": 303,
-      "total": 1029,
+      "won": 735,
+      "lost": 306,
+      "total": 1041,
       "rate": 70.6
     },
     "insights": {
-      "won": 1287,
-      "lost": 557,
-      "total": 1844,
+      "won": 1300,
+      "lost": 562,
+      "total": 1862,
       "rate": 69.8
     },
     "coupons": {
@@ -266,12 +266,6 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 14:10",
-      "home": "Kasimpasa",
-      "away": "Besiktas"
-    },
-    {
-      "type": "updated",
       "at": "01.11.2026 15:56",
       "home": "Liverpool",
       "away": "Arsenal"
@@ -287,6 +281,12 @@
       "at": "01.11.2026 16:21",
       "home": "US Lecce",
       "away": "Genoa CFC"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 16:55",
+      "home": "Burgos CF",
+      "away": "Castellon"
     }
   ],
   "today": {
