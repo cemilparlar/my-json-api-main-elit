@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 21:01",
+  "updatedAt": "01.11.2026 21:08",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 498,
-      "lost": 245,
-      "total": 743,
-      "rate": 67.0
+      "won": 511,
+      "lost": 250,
+      "total": 761,
+      "rate": 67.1
     },
-    "totalAnalyses": 301071,
+    "totalAnalyses": 301077,
     "leagues": 535,
     "pro": {
-      "won": 737,
-      "lost": 305,
-      "total": 1042,
+      "won": 739,
+      "lost": 306,
+      "total": 1045,
       "rate": 70.7
     },
     "insights": {
-      "won": 1301,
-      "lost": 563,
-      "total": 1864,
+      "won": 1308,
+      "lost": 566,
+      "total": 1874,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 49,
       "rate": 53.1
     },
-    "analyses24h": 1268,
-    "analyses30d": 21338
+    "analyses24h": 1274,
+    "analyses30d": 21344
   },
   "recentWins": [
     {
@@ -359,6 +359,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Vancouver Whitecaps",
+      "away": "Seattle Sounders",
+      "league": "ABD",
+      "at": "01.11.2026 21:07",
+      "count": 6
+    },
+    {
       "home": "Nashville SC",
       "away": "New York Red Bulls",
       "league": "ABD",
@@ -420,13 +427,6 @@
       "league": "İTB",
       "at": "01.11.2026 16:56",
       "count": 8
-    },
-    {
-      "home": "Burgos CF",
-      "away": "Castellon",
-      "league": "İS2",
-      "at": "01.11.2026 16:55",
-      "count": 5
     }
   ],
   "paywall": {
