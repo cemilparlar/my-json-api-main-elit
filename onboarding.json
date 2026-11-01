@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 12:37",
+  "updatedAt": "01.11.2026 12:46",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 756,
       "rate": 68.9
     },
-    "totalAnalyses": 300526,
+    "totalAnalyses": 300584,
     "leagues": 539,
     "pro": {
       "won": 737,
@@ -36,9 +36,9 @@
       "rate": 69.3
     },
     "insights": {
-      "won": 1286,
-      "lost": 572,
-      "total": 1858,
+      "won": 1287,
+      "lost": 573,
+      "total": 1860,
       "rate": 69.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 60,
       "rate": 46.7
     },
-    "analyses24h": 2055,
-    "analyses30d": 21359
+    "analyses24h": 2083,
+    "analyses30d": 21389
   },
   "recentWins": [
     {
@@ -239,6 +239,12 @@
     },
     {
       "type": "updated",
+      "at": "01.11.2026 09:22",
+      "home": "Amed SK",
+      "away": "Eyupspor"
+    },
+    {
+      "type": "updated",
       "at": "01.11.2026 07:38",
       "home": "Hannover 96",
       "away": "Dynamo Dresden"
@@ -260,12 +266,6 @@
       "at": "01.11.2026 12:19",
       "home": "Istanbul Basaksehir",
       "away": "Samsunspor"
-    },
-    {
-      "type": "updated",
-      "at": "01.11.2026 12:16",
-      "home": "Getafe CF",
-      "away": "Sevilla FC"
     }
   ],
   "today": {
@@ -276,7 +276,7 @@
     "matchCode": "4480761",
     "odds": 2.19,
     "patternScore": 67.76,
-    "patternText": "246.902/364.404",
+    "patternText": "246.922/364.426",
     "picks": 7
   },
   "todayList": [
@@ -288,7 +288,7 @@
       "matchCode": "4480761",
       "odds": 2.19,
       "patternScore": 67.76,
-      "patternText": "246.902/364.404",
+      "patternText": "246.922/364.426",
       "picks": 7
     },
     {
@@ -299,7 +299,7 @@
       "matchCode": "4534768",
       "odds": 1.6,
       "patternScore": 67.35,
-      "patternText": "262.563/389.874",
+      "patternText": "262.583/389.896",
       "picks": 7
     },
     {
@@ -310,19 +310,8 @@
       "matchCode": "4480758",
       "odds": 1.58,
       "patternScore": 68.33,
-      "patternText": "264.888/387.639",
+      "patternText": "264.908/387.661",
       "picks": 2
-    },
-    {
-      "home": "Sarpsborg 08",
-      "away": "Kristiansund",
-      "league": "NOR",
-      "date": "01.11.2026 16:00",
-      "matchCode": "4428346",
-      "odds": 1.54,
-      "patternScore": 67.4,
-      "patternText": "278.125/412.621",
-      "picks": 4
     },
     {
       "home": "Baltika Kalini",
@@ -332,11 +321,64 @@
       "matchCode": "4485907",
       "odds": 1.5,
       "patternScore": 67.2,
-      "patternText": "272.122/404.966",
+      "patternText": "272.150/404.996",
+      "picks": 3
+    },
+    {
+      "home": "Odds Bk",
+      "away": "Sandnes",
+      "league": "NOR1",
+      "date": "01.11.2026 16:00",
+      "matchCode": "4428750",
+      "odds": 1.47,
+      "patternScore": 68.42,
+      "patternText": "257.945/377.028",
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Liverpool",
+      "away": "Arsenal",
+      "league": "İNP",
+      "at": "01.11.2026 12:41",
+      "count": 6
+    },
+    {
+      "home": "Lokomotiv Moscow",
+      "away": "Spartak Moscow",
+      "league": "RUS",
+      "at": "01.11.2026 12:41",
+      "count": 10
+    },
+    {
+      "home": "Eintracht Frankfurt",
+      "away": "Hamburger SV",
+      "league": "AL1",
+      "at": "01.11.2026 12:40",
+      "count": 6
+    },
+    {
+      "home": "Verona",
+      "away": "Carrarese Calcio",
+      "league": "İTB",
+      "at": "01.11.2026 12:39",
+      "count": 7
+    },
+    {
+      "home": "Paris FC",
+      "away": "AS Monaco",
+      "league": "FR1",
+      "at": "01.11.2026 12:39",
+      "count": 3
+    },
+    {
+      "home": "Kasimpasa",
+      "away": "Besiktas",
+      "league": "TSL",
+      "at": "01.11.2026 12:38",
+      "count": 10
+    },
     {
       "home": "Bodrum FK",
       "away": "Umraniyespor",
@@ -364,48 +406,6 @@
       "league": "İS2",
       "at": "01.11.2026 12:27",
       "count": 6
-    },
-    {
-      "home": "Frosinone Calcio",
-      "away": "Torino FC",
-      "league": "İTA",
-      "at": "01.11.2026 12:25",
-      "count": 18
-    },
-    {
-      "home": "Union Berlin",
-      "away": "FC Koln",
-      "league": "AL1",
-      "at": "01.11.2026 12:25",
-      "count": 6
-    },
-    {
-      "home": "RC Strasbourg",
-      "away": "AJ Auxerre",
-      "league": "FR1",
-      "at": "01.11.2026 12:25",
-      "count": 7
-    },
-    {
-      "home": "US Avellino",
-      "away": "AC Pisa",
-      "league": "İTB",
-      "at": "01.11.2026 12:24",
-      "count": 7
-    },
-    {
-      "home": "SS Lazio",
-      "away": "Cagliari Calcio",
-      "league": "İTA",
-      "at": "01.11.2026 12:23",
-      "count": 4
-    },
-    {
-      "home": "SC Telstar",
-      "away": "FC Utrecht",
-      "league": "HOL",
-      "at": "01.11.2026 12:21",
-      "count": 9
     }
   ],
   "paywall": {
