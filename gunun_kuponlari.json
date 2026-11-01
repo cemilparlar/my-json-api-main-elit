@@ -100,8 +100,8 @@
       "lost": 5
     }
   },
-  "updatedAt": "01.11.2026 18:26",
-  "updatedAtUtc": "2026-11-01T18:26:00Z",
+  "updatedAt": "01.11.2026 18:33",
+  "updatedAtUtc": "2026-11-01T18:33:00Z",
   "upcoming": [
     {
       "id": "20261101-12-1",
@@ -474,7 +474,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -559,7 +559,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -573,7 +573,7 @@
       "winChance": 70.46,
       "firstKickoff": "01.11.2026 18:30",
       "lastKickoff": "01.11.2026 18:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_1",
       "group": "multi",
@@ -600,7 +600,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     }
