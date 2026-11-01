@@ -30,11 +30,11 @@
       "lost": 1
     },
     "multi": {
-      "won": 21,
+      "won": 22,
       "lost": 13
     },
     "c70_1": {
-      "won": 12,
+      "won": 13,
       "lost": 4
     },
     "c70_2": {
@@ -84,11 +84,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 21,
+      "won": 22,
       "lost": 13
     },
     "c70_1": {
-      "won": 12,
+      "won": 13,
       "lost": 4
     },
     "c70_2": {
@@ -100,8 +100,8 @@
       "lost": 5
     }
   },
-  "updatedAt": "01.11.2026 23:33",
-  "updatedAtUtc": "2026-11-01T23:33:00Z",
+  "updatedAt": "01.11.2026 23:40",
+  "updatedAtUtc": "2026-11-01T23:40:00Z",
   "upcoming": [
     {
       "id": "20261101-18-1",
@@ -264,50 +264,9 @@
           "patternScore": 70.73,
           "patternText": "121.555/171.861",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
-      "id": "20261101-22-1",
-      "createdAt": "01.11.2026 19:01",
-      "createdAtUtc": "2026-11-01T19:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.14,
-      "winChance": 70.73,
-      "firstKickoff": "01.11.2026 21:30",
-      "lastKickoff": "01.11.2026 21:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.14,
-      "legs": [
-        {
-          "matchCode": "4564199",
-          "nesine": null,
-          "date": "01.11.2026 21:30",
-          "kickoffUtc": "2026-11-01T21:30:00Z",
-          "league": "BRK",
-          "home": "Gremio FBPA",
-          "away": "Atletico Mineiro",
-          "league_tr": "BRK",
-          "home_tr": "Gremio",
-          "away_tr": "Atletico Mg",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.14,
-          "probability": 81.82,
-          "patternScore": 70.73,
-          "patternText": "121.555/171.861",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 0",
+          "status": "won"
         }
       ]
     },
@@ -502,6 +461,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261101-22-1",
+      "createdAt": "01.11.2026 19:01",
+      "createdAtUtc": "2026-11-01T19:01:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.14,
+      "winChance": 70.73,
+      "firstKickoff": "01.11.2026 21:30",
+      "lastKickoff": "01.11.2026 21:30",
+      "status": "won",
+      "completedAt": "01.11.2026 23:40",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.14,
+      "legs": [
+        {
+          "matchCode": "4564199",
+          "nesine": null,
+          "date": "01.11.2026 21:30",
+          "kickoffUtc": "2026-11-01T21:30:00Z",
+          "league": "BRK",
+          "home": "Gremio FBPA",
+          "away": "Atletico Mineiro",
+          "league_tr": "BRK",
+          "home_tr": "Gremio",
+          "away_tr": "Atletico Mg",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.14,
+          "probability": 81.82,
+          "patternScore": 70.73,
+          "patternText": "121.555/171.861",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 0",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261101-16-1",
       "createdAt": "01.11.2026 13:00",
