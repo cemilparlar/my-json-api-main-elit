@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "01.11.2026 08:15",
+  "updatedAt": "01.11.2026 08:34",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 780,
       "rate": 70.4
     },
-    "totalAnalyses": 300240,
+    "totalAnalyses": 300265,
     "leagues": 539,
     "pro": {
       "won": 788,
-      "lost": 342,
-      "total": 1130,
-      "rate": 69.7
+      "lost": 340,
+      "total": 1128,
+      "rate": 69.9
     },
     "insights": {
-      "won": 1398,
-      "lost": 603,
-      "total": 2001,
+      "won": 1396,
+      "lost": 601,
+      "total": 1997,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 61,
       "rate": 45.9
     },
-    "analyses24h": 2043,
-    "analyses30d": 21276
+    "analyses24h": 2055,
+    "analyses30d": 21288
   },
   "recentWins": [
     {
@@ -245,9 +245,15 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 07:38",
+      "at": "01.11.2026 08:22",
       "home": "Getafe CF",
       "away": "Sevilla FC"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 08:32",
+      "home": "Empoli",
+      "away": "SS Juve Stabia"
     },
     {
       "type": "updated",
@@ -260,12 +266,6 @@
       "at": "01.11.2026 03:44",
       "home": "JEF United Chiba",
       "away": "Avispa Fukuoka"
-    },
-    {
-      "type": "updated",
-      "at": "01.11.2026 04:07",
-      "home": "V-Varen Nagasaki",
-      "away": "Tokyo Verdy"
     }
   ],
   "today": {
@@ -338,6 +338,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Empoli",
+      "away": "SS Juve Stabia",
+      "league": "İTB",
+      "at": "01.11.2026 08:32",
+      "count": 4
+    },
+    {
+      "home": "RC Strasbourg",
+      "away": "AJ Auxerre",
+      "league": "FR1",
+      "at": "01.11.2026 08:24",
+      "count": 7
+    },
+    {
+      "home": "US Avellino",
+      "away": "AC Pisa",
+      "league": "İTB",
+      "at": "01.11.2026 08:24",
+      "count": 7
+    },
+    {
+      "home": "Getafe CF",
+      "away": "Sevilla FC",
+      "league": "İS1",
+      "at": "01.11.2026 08:22",
+      "count": 7
+    },
+    {
       "home": "Amed SK",
       "away": "Eyupspor",
       "league": "TSL",
@@ -366,13 +394,6 @@
       "count": 8
     },
     {
-      "home": "Getafe CF",
-      "away": "Sevilla FC",
-      "league": "İS1",
-      "at": "01.11.2026 07:38",
-      "count": 5
-    },
-    {
       "home": "Igdir FK",
       "away": "Antalyaspor",
       "league": "T1L",
@@ -385,27 +406,6 @@
       "league": "İS2",
       "at": "01.11.2026 07:19",
       "count": 7
-    },
-    {
-      "home": "Istanbul Basaksehir",
-      "away": "Samsunspor",
-      "league": "TSL",
-      "at": "01.11.2026 07:18",
-      "count": 7
-    },
-    {
-      "home": "Istanbulspor",
-      "away": "Mardin 1969",
-      "league": "T1L",
-      "at": "01.11.2026 07:17",
-      "count": 6
-    },
-    {
-      "home": "SpVgg Greuther Furth",
-      "away": "Holstein Kiel",
-      "league": "AL2",
-      "at": "01.11.2026 06:42",
-      "count": 6
     }
   ],
   "paywall": {
