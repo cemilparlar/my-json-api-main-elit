@@ -96,8 +96,8 @@
       "lost": 7
     }
   },
-  "updatedAt": "02.11.2026 18:08",
-  "updatedAtUtc": "2026-11-02T18:08:00Z",
+  "updatedAt": "02.11.2026 18:16",
+  "updatedAtUtc": "2026-11-02T18:16:00Z",
   "upcoming": [
     {
       "id": "20261102-20-1",
@@ -1456,91 +1456,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "void"
-        }
-      ]
-    },
-    {
-      "id": "20261101-18-3",
-      "createdAt": "01.11.2026 15:04",
-      "createdAtUtc": "2026-11-01T15:04:00Z",
-      "size": 3,
-      "mbs": 1,
-      "totalOdds": 1.31,
-      "winChance": 35.4,
-      "firstKickoff": "01.11.2026 16:00",
-      "lastKickoff": "01.11.2026 16:00",
-      "status": "lost",
-      "completedAt": "01.11.2026 18:11",
-      "kind": "c70_3",
-      "group": "multi",
-      "formula": "3",
-      "effectiveOdds": 1.1,
-      "legs": [
-        {
-          "matchCode": "4428746",
-          "nesine": null,
-          "date": "01.11.2026 16:00",
-          "kickoffUtc": "2026-11-01T16:00:00Z",
-          "league": "NOR1",
-          "home": "Egersund IK",
-          "away": "Strommen IF",
-          "league_tr": "NOR1",
-          "home_tr": "Egersunds",
-          "away_tr": "Strommen",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 89.66,
-          "patternScore": 70.98,
-          "patternText": "218.204/307.413",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void"
-        },
-        {
-          "matchCode": "4428747",
-          "nesine": null,
-          "date": "01.11.2026 16:00",
-          "kickoffUtc": "2026-11-01T16:00:00Z",
-          "league": "NOR1",
-          "home": "Hodd",
-          "away": "FK Bryne",
-          "league_tr": "NOR1",
-          "home_tr": "Hodd",
-          "away_tr": "Bryne",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 81.82,
-          "patternScore": 70.93,
-          "patternText": "214.104/301.852",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void"
-        },
-        {
-          "matchCode": "4495205",
-          "nesine": null,
-          "date": "01.11.2026 16:00",
-          "kickoffUtc": "2026-11-01T16:00:00Z",
-          "league": "İS4",
-          "home": "CD Conquense",
-          "away": "Rsd Alcala",
-          "league_tr": "İS4",
-          "home_tr": "Conquense",
-          "away_tr": "Rsd Alcala",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 78.49,
-          "patternScore": 70.31,
-          "patternText": "330.450/469.974",
-          "mbs": 1,
-          "firstHalf": "1 - 1",
-          "finalScore": "2 - 2",
-          "status": "lost"
         }
       ]
     }
