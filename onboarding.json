@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 17:18",
+  "updatedAt": "02.11.2026 17:25",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 181,
-      "lost": 71,
-      "total": 252,
-      "rate": 71.8
+      "won": 186,
+      "lost": 72,
+      "total": 258,
+      "rate": 72.1
     },
     "totalAnalyses": 302203,
     "leagues": 532,
     "pro": {
-      "won": 773,
-      "lost": 320,
-      "total": 1093,
+      "won": 775,
+      "lost": 321,
+      "total": 1096,
       "rate": 70.7
     },
     "insights": {
-      "won": 1374,
-      "lost": 589,
-      "total": 1963,
+      "won": 1378,
+      "lost": 590,
+      "total": 1968,
       "rate": 70.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 55,
       "rate": 60.0
     },
-    "analyses24h": 1133,
-    "analyses30d": 21797
+    "analyses24h": 1127,
+    "analyses30d": 21791
   },
   "recentWins": [
     {
@@ -269,17 +269,39 @@
     }
   ],
   "today": {
-    "home": "Stade de Reims",
-    "away": "FC Sochaux",
-    "league": "FR2",
-    "date": "02.11.2026 19:45",
-    "matchCode": "4476907",
-    "odds": 1.55,
-    "patternScore": 67.86,
-    "patternText": "190.163/280.232",
-    "picks": 4
+    "home": "Deportivo La Coruna",
+    "away": "CA Osasuna",
+    "league": "İS1",
+    "date": "02.11.2026 20:00",
+    "matchCode": "4492361",
+    "odds": 3.98,
+    "patternScore": 67.0,
+    "patternText": "173.579/259.056",
+    "picks": 10
   },
   "todayList": [
+    {
+      "home": "Deportivo La Coruna",
+      "away": "CA Osasuna",
+      "league": "İS1",
+      "date": "02.11.2026 20:00",
+      "matchCode": "4492361",
+      "odds": 3.98,
+      "patternScore": 67.0,
+      "patternText": "173.579/259.056",
+      "picks": 10
+    },
+    {
+      "home": "Red Bull Bragantino",
+      "away": "FC Santos",
+      "league": "BR1",
+      "date": "02.11.2026 23:00",
+      "matchCode": "4423363",
+      "odds": 1.78,
+      "patternScore": 67.26,
+      "patternText": "117.894/175.272",
+      "picks": 4
+    },
     {
       "home": "Stade de Reims",
       "away": "FC Sochaux",
@@ -288,7 +310,7 @@
       "matchCode": "4476907",
       "odds": 1.55,
       "patternScore": 67.86,
-      "patternText": "190.163/280.232",
+      "patternText": "190.163/280.234",
       "picks": 4
     },
     {
@@ -299,7 +321,7 @@
       "matchCode": "4426801",
       "odds": 1.38,
       "patternScore": 67.39,
-      "patternText": "224.907/333.740",
+      "patternText": "224.907/333.742",
       "picks": 5
     },
     {
@@ -311,28 +333,6 @@
       "odds": 1.18,
       "patternScore": 68.78,
       "patternText": "206.428/300.139",
-      "picks": 3
-    },
-    {
-      "home": "Deportivo La Coruna",
-      "away": "CA Osasuna",
-      "league": "İS1",
-      "date": "02.11.2026 20:00",
-      "matchCode": "4492361",
-      "odds": 1.18,
-      "patternScore": 67.5,
-      "patternText": "197.878/293.146",
-      "picks": 10
-    },
-    {
-      "home": "Novara Calcio",
-      "away": "Calvina",
-      "league": "İTC",
-      "date": "02.11.2026 19:30",
-      "matchCode": "4535175",
-      "odds": 1.17,
-      "patternScore": 68.92,
-      "patternText": "199.703/289.763",
       "picks": 3
     }
   ],
