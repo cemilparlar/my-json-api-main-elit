@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 11:14",
+  "updatedAt": "02.11.2026 11:22",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 482,
-      "lost": 223,
-      "total": 705,
-      "rate": 68.4
+      "won": 476,
+      "lost": 221,
+      "total": 697,
+      "rate": 68.3
     },
-    "totalAnalyses": 301723,
+    "totalAnalyses": 301742,
     "leagues": 534,
     "pro": {
-      "won": 747,
+      "won": 749,
       "lost": 307,
-      "total": 1054,
+      "total": 1056,
       "rate": 70.9
     },
     "insights": {
-      "won": 1323,
+      "won": 1325,
       "lost": 564,
-      "total": 1887,
+      "total": 1889,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 52,
       "rate": 59.6
     },
-    "analyses24h": 1629,
-    "analyses30d": 21831
+    "analyses24h": 1626,
+    "analyses30d": 21836
   },
   "recentWins": [
     {
@@ -283,7 +283,7 @@
     "matchCode": "4492807",
     "odds": 1.52,
     "patternScore": 68.17,
-    "patternText": "126.251/185.192",
+    "patternText": "126.259/185.200",
     "picks": 2
   },
   "todayList": [
@@ -295,7 +295,7 @@
       "matchCode": "4492807",
       "odds": 1.52,
       "patternScore": 68.17,
-      "patternText": "126.251/185.192",
+      "patternText": "126.259/185.200",
       "picks": 2
     },
     {
@@ -306,7 +306,7 @@
       "matchCode": "4509957",
       "odds": 1.34,
       "patternScore": 67.93,
-      "patternText": "178.060/262.125",
+      "patternText": "178.062/262.127",
       "picks": 1
     },
     {
@@ -317,8 +317,19 @@
       "matchCode": "4565273",
       "odds": 1.24,
       "patternScore": 69.13,
-      "patternText": "186.848/270.288",
+      "patternText": "186.854/270.294",
       "picks": 1
+    },
+    {
+      "home": "Real Jaen",
+      "away": "Algeciras CF",
+      "league": "İS3",
+      "date": "02.11.2026 17:15",
+      "matchCode": "4493616",
+      "odds": 1.19,
+      "patternScore": 68.82,
+      "patternText": "197.974/287.680",
+      "picks": 4
     },
     {
       "home": "Radomiak Radom",
@@ -328,22 +339,25 @@
       "matchCode": "4484397",
       "odds": 1.17,
       "patternScore": 68.14,
-      "patternText": "184.320/270.503",
+      "patternText": "184.322/270.505",
       "picks": 3
-    },
-    {
-      "home": "Zaglebie Lubin",
-      "away": "Korona Kielce",
-      "league": "POL",
-      "date": "02.11.2026 17:00",
-      "matchCode": "4484401",
-      "odds": 1.15,
-      "patternScore": 69.94,
-      "patternText": "258.090/369.006",
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Atletico Madrid",
+      "away": "Bayern Munich",
+      "league": "ŞMP",
+      "at": "02.11.2026 11:21",
+      "count": 5
+    },
+    {
+      "home": "Genclerbirligi",
+      "away": "Alanyaspor",
+      "league": "TSL",
+      "at": "02.11.2026 11:19",
+      "count": 7
+    },
     {
       "home": "SK Slavia Prague",
       "away": "Arsenal",
@@ -399,20 +413,6 @@
       "league": "İNCL",
       "at": "02.11.2026 07:06",
       "count": 7
-    },
-    {
-      "home": "Wrexham AFC",
-      "away": "Middlesbrough",
-      "league": "İNCL",
-      "at": "02.11.2026 07:06",
-      "count": 10
-    },
-    {
-      "home": "Sport Club Internacional",
-      "away": "Coritiba FBC",
-      "league": "BR1",
-      "at": "02.11.2026 06:52",
-      "count": 4
     }
   ],
   "paywall": {
