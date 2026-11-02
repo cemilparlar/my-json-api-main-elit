@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 14:53",
+  "updatedAt": "02.11.2026 15:00",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 327,
+      "won": 328,
       "lost": 144,
-      "total": 471,
-      "rate": 69.4
+      "total": 472,
+      "rate": 69.5
     },
-    "totalAnalyses": 302041,
+    "totalAnalyses": 302044,
     "leagues": 534,
     "pro": {
-      "won": 771,
+      "won": 772,
       "lost": 317,
-      "total": 1088,
+      "total": 1089,
       "rate": 70.9
     },
     "insights": {
-      "won": 1377,
+      "won": 1378,
       "lost": 591,
-      "total": 1968,
+      "total": 1969,
       "rate": 70.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 54,
       "rate": 59.3
     },
-    "analyses24h": 1376,
-    "analyses30d": 21889
+    "analyses24h": 1327,
+    "analyses30d": 21880
   },
   "recentWins": [
     {
@@ -229,20 +229,20 @@
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.13,
-      "at": "02.11.2026 13:04"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.1,
-      "at": "02.11.2026 09:06"
+      "odds": 1.11,
+      "at": "02.11.2026 15:00"
     },
     {
       "type": "coupon",
       "size": 2,
-      "odds": 1.29,
-      "at": "02.11.2026 09:06"
+      "odds": 1.21,
+      "at": "02.11.2026 15:00"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.33,
+      "at": "02.11.2026 15:00"
     },
     {
       "type": "updated",
@@ -252,19 +252,19 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 12:37",
+      "at": "02.11.2026 14:56",
       "home": "Real Valladolid",
       "away": "CD Leganes"
     },
     {
       "type": "updated",
-      "at": "02.11.2026 14:37",
+      "at": "02.11.2026 14:56",
       "home": "US Sassuolo",
       "away": "ACF Fiorentina"
     },
     {
       "type": "updated",
-      "at": "02.11.2026 14:38",
+      "at": "02.11.2026 14:57",
       "home": "Atalanta",
       "away": "Parma Calcio"
     },
@@ -345,17 +345,31 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Atalanta",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "02.11.2026 14:57",
+      "count": 5
+    },
+    {
+      "home": "Real Valladolid",
+      "away": "CD Leganes",
+      "league": "İS2",
+      "at": "02.11.2026 14:56",
+      "count": 3
+    },
+    {
+      "home": "US Sassuolo",
+      "away": "ACF Fiorentina",
+      "league": "İTA",
+      "at": "02.11.2026 14:56",
+      "count": 4
+    },
+    {
       "home": "Newcastle United",
       "away": "Everton",
       "league": "İNP",
       "at": "02.11.2026 14:39",
-      "count": 8
-    },
-    {
-      "home": "Atalanta",
-      "away": "Parma Calcio",
-      "league": "İTA",
-      "at": "02.11.2026 14:38",
       "count": 8
     },
     {
@@ -371,13 +385,6 @@
       "league": "FR2",
       "at": "02.11.2026 14:38",
       "count": 4
-    },
-    {
-      "home": "US Sassuolo",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "at": "02.11.2026 14:37",
-      "count": 9
     },
     {
       "home": "Red Star FC",
@@ -399,13 +406,6 @@
       "league": "ŞMP",
       "at": "02.11.2026 12:56",
       "count": 13
-    },
-    {
-      "home": "Real Valladolid",
-      "away": "CD Leganes",
-      "league": "İS2",
-      "at": "02.11.2026 12:37",
-      "count": 6
     },
     {
       "home": "Lincoln Red Im",
