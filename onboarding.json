@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 11:22",
+  "updatedAt": "02.11.2026 11:29",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 52,
       "rate": 59.6
     },
-    "analyses24h": 1626,
-    "analyses30d": 21836
+    "analyses24h": 1623,
+    "analyses30d": 21833
   },
   "recentWins": [
     {
@@ -246,6 +246,12 @@
     },
     {
       "type": "updated",
+      "at": "02.11.2026 11:18",
+      "home": "Chonburi FC",
+      "away": "BG Pathum United"
+    },
+    {
+      "type": "updated",
       "at": "02.11.2026 10:58",
       "home": "FC Torpedo Kutaisi",
       "away": "FC Dila Gori"
@@ -267,12 +273,6 @@
       "at": "02.11.2026 10:17",
       "home": "Atromitos",
       "away": "Volos Nfc"
-    },
-    {
-      "type": "updated",
-      "at": "02.11.2026 10:18",
-      "home": "Vaasa",
-      "away": "Helsinki"
     }
   ],
   "today": {
@@ -282,8 +282,8 @@
     "date": "02.11.2026 15:15",
     "matchCode": "4492807",
     "odds": 1.52,
-    "patternScore": 68.17,
-    "patternText": "126.259/185.200",
+    "patternScore": 68.18,
+    "patternText": "126.269/185.210",
     "picks": 2
   },
   "todayList": [
@@ -294,9 +294,20 @@
       "date": "02.11.2026 15:15",
       "matchCode": "4492807",
       "odds": 1.52,
-      "patternScore": 68.17,
-      "patternText": "126.259/185.200",
+      "patternScore": 68.18,
+      "patternText": "126.269/185.210",
       "picks": 2
+    },
+    {
+      "home": "Genclerbirligi",
+      "away": "Alanyaspor",
+      "league": "TSL",
+      "date": "02.11.2026 17:00",
+      "matchCode": "4542738",
+      "odds": 1.48,
+      "patternScore": 67.5,
+      "patternText": "197.477/292.542",
+      "picks": 5
     },
     {
       "home": "Mashujaa",
@@ -306,7 +317,7 @@
       "matchCode": "4509957",
       "odds": 1.34,
       "patternScore": 67.93,
-      "patternText": "178.062/262.127",
+      "patternText": "178.066/262.131",
       "picks": 1
     },
     {
@@ -317,30 +328,19 @@
       "matchCode": "4565273",
       "odds": 1.24,
       "patternScore": 69.13,
-      "patternText": "186.854/270.294",
+      "patternText": "186.858/270.298",
       "picks": 1
     },
     {
-      "home": "Real Jaen",
-      "away": "Algeciras CF",
-      "league": "İS3",
-      "date": "02.11.2026 17:15",
-      "matchCode": "4493616",
-      "odds": 1.19,
-      "patternScore": 68.82,
-      "patternText": "197.974/287.680",
-      "picks": 4
-    },
-    {
-      "home": "Radomiak Radom",
-      "away": "Slask Wroclaw",
-      "league": "POL",
+      "home": "Polonia Bytom",
+      "away": "Odra Opole",
+      "league": "POL1",
       "date": "02.11.2026 17:00",
-      "matchCode": "4484397",
-      "odds": 1.17,
-      "patternScore": 68.14,
-      "patternText": "184.322/270.505",
-      "picks": 3
+      "matchCode": "4486237",
+      "odds": 1.21,
+      "patternScore": 68.32,
+      "patternText": "202.240/296.012",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
