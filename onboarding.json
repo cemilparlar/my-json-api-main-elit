@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 13:18",
+  "updatedAt": "02.11.2026 13:25",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 540,
       "rate": 67.8
     },
-    "totalAnalyses": 301889,
+    "totalAnalyses": 301905,
     "leagues": 534,
     "pro": {
       "won": 762,
@@ -47,8 +47,8 @@
       "total": 53,
       "rate": 60.4
     },
-    "analyses24h": 1481,
-    "analyses30d": 21884
+    "analyses24h": 1483,
+    "analyses30d": 21886
   },
   "recentWins": [
     {
@@ -246,13 +246,19 @@
     },
     {
       "type": "updated",
+      "at": "02.11.2026 13:18",
+      "home": "Real Oviedo",
+      "away": "UD Las Palmas"
+    },
+    {
+      "type": "updated",
       "at": "02.11.2026 12:37",
       "home": "Real Valladolid",
       "away": "CD Leganes"
     },
     {
       "type": "updated",
-      "at": "02.11.2026 12:56",
+      "at": "02.11.2026 13:19",
       "home": "US Sassuolo",
       "away": "ACF Fiorentina"
     },
@@ -267,12 +273,6 @@
       "at": "02.11.2026 12:00",
       "home": "FC Torpedo Kutaisi",
       "away": "FC Dila Gori"
-    },
-    {
-      "type": "updated",
-      "at": "02.11.2026 09:04",
-      "home": "Krylya Sovetov",
-      "away": "Zenit St. Petersburg"
     }
   ],
   "today": {
@@ -281,10 +281,10 @@
     "league": "İS2",
     "date": "02.11.2026 15:15",
     "matchCode": "4492807",
-    "odds": 1.52,
-    "patternScore": 68.18,
-    "patternText": "126.365/185.336",
-    "picks": 2
+    "odds": 1.49,
+    "patternScore": 67.83,
+    "patternText": "205.381/302.797",
+    "picks": 3
   },
   "todayList": [
     {
@@ -293,10 +293,10 @@
       "league": "İS2",
       "date": "02.11.2026 15:15",
       "matchCode": "4492807",
-      "odds": 1.52,
-      "patternScore": 68.18,
-      "patternText": "126.365/185.336",
-      "picks": 2
+      "odds": 1.49,
+      "patternScore": 67.83,
+      "patternText": "205.381/302.797",
+      "picks": 3
     },
     {
       "home": "Genclerbirligi",
@@ -345,18 +345,25 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "US Sassuolo",
+      "away": "ACF Fiorentina",
+      "league": "İTA",
+      "at": "02.11.2026 13:19",
+      "count": 11
+    },
+    {
+      "home": "Real Oviedo",
+      "away": "UD Las Palmas",
+      "league": "İS2",
+      "at": "02.11.2026 13:18",
+      "count": 6
+    },
+    {
       "home": "Aek",
       "away": "Real Madrid",
       "league": "ŞMP",
       "at": "02.11.2026 12:56",
       "count": 13
-    },
-    {
-      "home": "US Sassuolo",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "at": "02.11.2026 12:56",
-      "count": 8
     },
     {
       "home": "Real Valladolid",
@@ -392,13 +399,6 @@
       "league": "ŞMP",
       "at": "02.11.2026 09:59",
       "count": 13
-    },
-    {
-      "home": "Real Oviedo",
-      "away": "UD Las Palmas",
-      "league": "İS2",
-      "at": "02.11.2026 09:24",
-      "count": 6
     },
     {
       "home": "Krylya Sovetov",
