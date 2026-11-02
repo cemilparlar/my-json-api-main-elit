@@ -96,8 +96,8 @@
       "lost": 6
     }
   },
-  "updatedAt": "02.11.2026 09:06",
-  "updatedAtUtc": "2026-11-02T09:06:00Z",
+  "updatedAt": "02.11.2026 09:13",
+  "updatedAtUtc": "2026-11-02T09:13:00Z",
   "upcoming": [
     {
       "id": "20261102-12-1",
@@ -1522,47 +1522,6 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "void"
-        }
-      ]
-    },
-    {
-      "id": "20261101-08-1",
-      "createdAt": "01.11.2026 05:14",
-      "createdAtUtc": "2026-11-01T05:14:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.12,
-      "winChance": 70.19,
-      "firstKickoff": "01.11.2026 07:00",
-      "lastKickoff": "01.11.2026 07:00",
-      "status": "lost",
-      "completedAt": "01.11.2026 09:10",
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.12,
-      "legs": [
-        {
-          "matchCode": "4487251",
-          "nesine": null,
-          "date": "01.11.2026 07:00",
-          "kickoffUtc": "2026-11-01T07:00:00Z",
-          "league": "JAP",
-          "home": "FC Machida Zelvia",
-          "away": "Gamba Osaka",
-          "league_tr": "JAP",
-          "home_tr": "Machida Zelvia",
-          "away_tr": "Gamba Osaka",
-          "prediction": "Over 1.5 Goals",
-          "prediction_tr": "1,5 Alt/Üst Üst",
-          "odds": 1.12,
-          "probability": 83.33,
-          "patternScore": 70.19,
-          "patternText": "165.111/235.246",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "0 - 0",
-          "status": "lost"
         }
       ]
     }
