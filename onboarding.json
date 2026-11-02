@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 18:30",
+  "updatedAt": "02.11.2026 18:37",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 174,
-      "lost": 89,
-      "total": 263,
-      "rate": 66.2
+      "won": 160,
+      "lost": 86,
+      "total": 246,
+      "rate": 65.0
     },
-    "totalAnalyses": 302269,
+    "totalAnalyses": 302277,
     "leagues": 532,
     "pro": {
-      "won": 776,
+      "won": 772,
       "lost": 322,
-      "total": 1098,
-      "rate": 70.7
+      "total": 1094,
+      "rate": 70.6
     },
     "insights": {
-      "won": 1384,
+      "won": 1375,
       "lost": 599,
-      "total": 1983,
-      "rate": 69.8
+      "total": 1974,
+      "rate": 69.7
     },
     "coupons": {
       "won": 35,
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 60.3
     },
-    "analyses24h": 1069,
-    "analyses30d": 21757
+    "analyses24h": 1063,
+    "analyses30d": 21751
   },
   "recentWins": [
     {
@@ -257,15 +257,15 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 18:10",
-      "home": "Atalanta",
-      "away": "Parma Calcio"
+      "at": "02.11.2026 18:31",
+      "home": "Deportivo La Coruna",
+      "away": "CA Osasuna"
     },
     {
       "type": "updated",
-      "at": "02.11.2026 18:11",
-      "home": "Deportivo La Coruna",
-      "away": "CA Osasuna"
+      "at": "02.11.2026 18:30",
+      "home": "Newcastle United",
+      "away": "Everton"
     }
   ],
   "today": {
@@ -276,7 +276,7 @@
     "matchCode": "4475923",
     "odds": 2.1,
     "patternScore": 66.53,
-    "patternText": "116.396/174.954",
+    "patternText": "116.396/174.960",
     "picks": 5
   },
   "todayList": [
@@ -288,7 +288,7 @@
       "matchCode": "4475923",
       "odds": 2.1,
       "patternScore": 66.53,
-      "patternText": "116.396/174.954",
+      "patternText": "116.396/174.960",
       "picks": 5
     },
     {
@@ -298,8 +298,8 @@
       "date": "02.11.2026 23:00",
       "matchCode": "4423363",
       "odds": 1.78,
-      "patternScore": 67.26,
-      "patternText": "117.938/175.350",
+      "patternScore": 67.25,
+      "patternText": "117.938/175.364",
       "picks": 4
     },
     {
@@ -310,7 +310,7 @@
       "matchCode": "4492806",
       "odds": 1.61,
       "patternScore": 66.57,
-      "patternText": "182.870/274.698",
+      "patternText": "182.876/274.710",
       "picks": 6
     },
     {
@@ -319,20 +319,20 @@
       "league": "İS1",
       "date": "02.11.2026 20:00",
       "matchCode": "4492361",
-      "odds": 1.51,
-      "patternScore": 67.53,
-      "patternText": "177.237/262.454",
-      "picks": 4
+      "odds": 1.43,
+      "patternScore": 67.24,
+      "patternText": "175.459/260.960",
+      "picks": 8
     },
     {
-      "home": "Atalanta",
-      "away": "Parma Calcio",
-      "league": "İTA",
+      "home": "Stade de Reims",
+      "away": "FC Sochaux",
+      "league": "FR2",
       "date": "02.11.2026 19:45",
-      "matchCode": "4475132",
-      "odds": 1.47,
-      "patternScore": 67.16,
-      "patternText": "206.378/307.291",
+      "matchCode": "4476907",
+      "odds": 1.34,
+      "patternScore": 67.46,
+      "patternText": "135.421/200.737",
       "picks": 5
     }
   ],
@@ -341,8 +341,22 @@
       "home": "Deportivo La Coruna",
       "away": "CA Osasuna",
       "league": "İS1",
-      "at": "02.11.2026 18:11",
-      "count": 10
+      "at": "02.11.2026 18:31",
+      "count": 8
+    },
+    {
+      "home": "Atalanta",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "02.11.2026 18:30",
+      "count": 3
+    },
+    {
+      "home": "Newcastle United",
+      "away": "Everton",
+      "league": "İNP",
+      "at": "02.11.2026 18:30",
+      "count": 8
     },
     {
       "home": "Stade de Reims",
@@ -350,20 +364,6 @@
       "league": "FR2",
       "at": "02.11.2026 18:11",
       "count": 8
-    },
-    {
-      "home": "Atalanta",
-      "away": "Parma Calcio",
-      "league": "İTA",
-      "at": "02.11.2026 18:10",
-      "count": 7
-    },
-    {
-      "home": "Newcastle United",
-      "away": "Everton",
-      "league": "İNP",
-      "at": "02.11.2026 17:49",
-      "count": 9
     },
     {
       "home": "RCD Mallorca",
