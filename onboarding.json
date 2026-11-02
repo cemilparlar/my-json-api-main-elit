@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 06:02",
+  "updatedAt": "02.11.2026 06:10",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 784,
       "rate": 68.0
     },
-    "totalAnalyses": 301092,
+    "totalAnalyses": 301214,
     "leagues": 535,
     "pro": {
       "won": 744,
@@ -47,8 +47,8 @@
       "total": 52,
       "rate": 59.6
     },
-    "analyses24h": 1214,
-    "analyses30d": 21330
+    "analyses24h": 1335,
+    "analyses30d": 21451
   },
   "recentWins": [
     {
@@ -252,13 +252,25 @@
     },
     {
       "type": "updated",
+      "at": "02.11.2026 06:05",
+      "home": "Chonburi FC",
+      "away": "BG Pathum United"
+    },
+    {
+      "type": "updated",
+      "at": "02.11.2026 06:05",
+      "home": "Cbe",
+      "away": "Ethiopian Insurance"
+    },
+    {
+      "type": "updated",
       "at": "02.11.2026 05:44",
       "home": "Tabora United",
       "away": "Fountain Gate FC"
     },
     {
       "type": "analysis",
-      "count": 1214
+      "count": 1335
     }
   ],
   "today": {
@@ -331,74 +343,74 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Los Angeles FC",
-      "away": "Minnesota United",
-      "league": "ABD",
-      "at": "02.11.2026 00:45",
+      "home": "PFC Levski Sofia",
+      "away": "Jagiellonia Bialystok",
+      "league": "AVL",
+      "at": "02.11.2026 06:10",
+      "count": 6
+    },
+    {
+      "home": "Trabzonspor",
+      "away": "SC Freiburg",
+      "league": "AVKL",
+      "at": "02.11.2026 06:09",
+      "count": 5
+    },
+    {
+      "home": "FC Porto",
+      "away": "SSC Napoli",
+      "league": "ŞMP",
+      "at": "02.11.2026 06:09",
+      "count": 6
+    },
+    {
+      "home": "PSV Eindhoven",
+      "away": "Club Brugge",
+      "league": "ŞMP",
+      "at": "02.11.2026 06:08",
       "count": 18
     },
     {
-      "home": "Vancouver Whitecaps",
-      "away": "Seattle Sounders",
-      "league": "ABD",
-      "at": "01.11.2026 21:07",
-      "count": 6
+      "home": "Borussia Dortmund",
+      "away": "Real Betis",
+      "league": "ŞMP",
+      "at": "02.11.2026 06:08",
+      "count": 11
     },
     {
-      "home": "Nashville SC",
-      "away": "New York Red Bulls",
-      "league": "ABD",
-      "at": "01.11.2026 20:42",
-      "count": 3
+      "home": "RB Leipzig",
+      "away": "Manchester City",
+      "league": "ŞMP",
+      "at": "02.11.2026 06:08",
+      "count": 16
     },
     {
-      "home": "Gremio FBPA",
-      "away": "Atletico Mineiro",
-      "league": "BRK",
-      "at": "01.11.2026 20:42",
-      "count": 6
+      "home": "Fenerbahce",
+      "away": "Liverpool",
+      "league": "ŞMP",
+      "at": "02.11.2026 06:08",
+      "count": 15
     },
     {
-      "home": "SC Braga",
-      "away": "FC Famalicao",
-      "league": "POR",
-      "at": "01.11.2026 19:48",
-      "count": 5
+      "home": "FK Bodo/Glimt",
+      "away": "LOSC Lille",
+      "league": "ŞMP",
+      "at": "02.11.2026 06:07",
+      "count": 10
     },
     {
-      "home": "Athletic Bilbao",
-      "away": "Real Sociedad",
-      "league": "İS1",
-      "at": "01.11.2026 19:27",
-      "count": 6
+      "home": "Manchester United",
+      "away": "AS Roma",
+      "league": "ŞMP",
+      "at": "02.11.2026 06:07",
+      "count": 4
     },
     {
-      "home": "Juventus",
-      "away": "SSC Napoli",
-      "league": "İTA",
-      "at": "01.11.2026 18:48",
-      "count": 8
-    },
-    {
-      "home": "Marseille",
-      "away": "Toulouse FC",
-      "league": "FR1",
-      "at": "01.11.2026 18:48",
-      "count": 5
-    },
-    {
-      "home": "New England Revolution",
-      "away": "Inter Miami CF",
-      "league": "ABD",
-      "at": "01.11.2026 18:15",
-      "count": 8
-    },
-    {
-      "home": "Palermo FC",
-      "away": "LR Vicenza",
-      "league": "İTB",
-      "at": "01.11.2026 16:56",
-      "count": 8
+      "home": "Feyenoord",
+      "away": "Inter",
+      "league": "ŞMP",
+      "at": "02.11.2026 06:07",
+      "count": 11
     }
   ],
   "paywall": {
