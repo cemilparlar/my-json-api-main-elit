@@ -26,7 +26,7 @@
       "lost": 1
     },
     "multi": {
-      "won": 32,
+      "won": 33,
       "lost": 16
     },
     "c70_1": {
@@ -38,7 +38,7 @@
       "lost": 5
     },
     "c70_3": {
-      "won": 3,
+      "won": 4,
       "lost": 7
     }
   },
@@ -80,7 +80,7 @@
       "lost": 9
     },
     "multi": {
-      "won": 32,
+      "won": 33,
       "lost": 16
     },
     "c70_1": {
@@ -92,98 +92,13 @@
       "lost": 5
     },
     "c70_3": {
-      "won": 3,
+      "won": 4,
       "lost": 7
     }
   },
-  "updatedAt": "02.11.2026 20:56",
-  "updatedAtUtc": "2026-11-02T20:56:00Z",
+  "updatedAt": "02.11.2026 21:03",
+  "updatedAtUtc": "2026-11-02T21:03:00Z",
   "upcoming": [
-    {
-      "id": "20261102-20-3",
-      "createdAt": "02.11.2026 17:03",
-      "createdAtUtc": "2026-11-02T17:03:00Z",
-      "size": 3,
-      "mbs": 1,
-      "totalOdds": 1.21,
-      "winChance": 36.2,
-      "firstKickoff": "02.11.2026 18:00",
-      "lastKickoff": "02.11.2026 19:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_3",
-      "group": "multi",
-      "formula": "3",
-      "effectiveOdds": 1.21,
-      "legs": [
-        {
-          "matchCode": "4428748",
-          "nesine": null,
-          "date": "02.11.2026 18:00",
-          "kickoffUtc": "2026-11-02T18:00:00Z",
-          "league": "NOR1",
-          "home": "Kongsvinger",
-          "away": "Stabaek",
-          "league_tr": "NOR1",
-          "home_tr": "Kongsvinger",
-          "away_tr": "Stabaek",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.06,
-          "probability": 82.35,
-          "patternScore": 71.44,
-          "patternText": "198.360/277.646",
-          "mbs": 1,
-          "firstHalf": "1 - 2",
-          "finalScore": "1 - 2",
-          "status": "won"
-        },
-        {
-          "matchCode": "4427056",
-          "nesine": null,
-          "date": "02.11.2026 18:05",
-          "kickoffUtc": "2026-11-02T18:05:00Z",
-          "league": "İSÇ2",
-          "home": "Landskrona BoIS",
-          "away": "Orebro SK",
-          "league_tr": "İSÇ2",
-          "home_tr": "Landskrona",
-          "away_tr": "Orebro",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 81.82,
-          "patternScore": 71.35,
-          "patternText": "178.236/249.814",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "2 - 1",
-          "status": "won"
-        },
-        {
-          "matchCode": "4454041",
-          "nesine": null,
-          "date": "02.11.2026 19:00",
-          "kickoffUtc": "2026-11-02T19:00:00Z",
-          "league": "BR2",
-          "home": "Fortaleza Ce",
-          "away": "Atletico Goiani",
-          "league_tr": "BR2",
-          "home_tr": "Fortaleza Ce",
-          "away_tr": "Atletico Goiani",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.06,
-          "probability": 81.47,
-          "patternScore": 71.02,
-          "patternText": "137.195/193.185",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261102-22-1",
       "createdAt": "02.11.2026 19:06",
@@ -284,7 +199,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -369,7 +284,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     },
@@ -383,7 +298,7 @@
       "winChance": 43.05,
       "firstKickoff": "02.11.2026 21:00",
       "lastKickoff": "02.11.2026 23:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_4",
       "group": "multi",
@@ -411,7 +326,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 85
         },
         {
@@ -487,6 +402,91 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261102-20-3",
+      "createdAt": "02.11.2026 17:03",
+      "createdAtUtc": "2026-11-02T17:03:00Z",
+      "size": 3,
+      "mbs": 1,
+      "totalOdds": 1.21,
+      "winChance": 36.2,
+      "firstKickoff": "02.11.2026 18:00",
+      "lastKickoff": "02.11.2026 19:00",
+      "status": "won",
+      "completedAt": "02.11.2026 21:03",
+      "kind": "c70_3",
+      "group": "multi",
+      "formula": "3",
+      "effectiveOdds": 1.21,
+      "legs": [
+        {
+          "matchCode": "4428748",
+          "nesine": null,
+          "date": "02.11.2026 18:00",
+          "kickoffUtc": "2026-11-02T18:00:00Z",
+          "league": "NOR1",
+          "home": "Kongsvinger",
+          "away": "Stabaek",
+          "league_tr": "NOR1",
+          "home_tr": "Kongsvinger",
+          "away_tr": "Stabaek",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.06,
+          "probability": 82.35,
+          "patternScore": 71.44,
+          "patternText": "198.360/277.646",
+          "mbs": 1,
+          "firstHalf": "1 - 2",
+          "finalScore": "1 - 2",
+          "status": "won"
+        },
+        {
+          "matchCode": "4427056",
+          "nesine": null,
+          "date": "02.11.2026 18:05",
+          "kickoffUtc": "2026-11-02T18:05:00Z",
+          "league": "İSÇ2",
+          "home": "Landskrona BoIS",
+          "away": "Orebro SK",
+          "league_tr": "İSÇ2",
+          "home_tr": "Landskrona",
+          "away_tr": "Orebro",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 81.82,
+          "patternScore": 71.35,
+          "patternText": "178.236/249.814",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "2 - 1",
+          "status": "won"
+        },
+        {
+          "matchCode": "4454041",
+          "nesine": null,
+          "date": "02.11.2026 19:00",
+          "kickoffUtc": "2026-11-02T19:00:00Z",
+          "league": "BR2",
+          "home": "Fortaleza Ce",
+          "away": "Atletico Goiani",
+          "league_tr": "BR2",
+          "home_tr": "Fortaleza Ce",
+          "away_tr": "Atletico Goiani",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.06,
+          "probability": 81.47,
+          "patternScore": 71.02,
+          "patternText": "137.195/193.185",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261102-20-2",
       "createdAt": "02.11.2026 17:03",
