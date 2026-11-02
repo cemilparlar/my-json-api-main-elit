@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 15:50",
+  "updatedAt": "02.11.2026 15:58",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 376,
       "rate": 71.8
     },
-    "totalAnalyses": 302074,
+    "totalAnalyses": 302100,
     "leagues": 534,
     "pro": {
       "won": 777,
@@ -47,8 +47,8 @@
       "total": 54,
       "rate": 59.3
     },
-    "analyses24h": 1271,
-    "analyses30d": 21884
+    "analyses24h": 1294,
+    "analyses30d": 21907
   },
   "recentWins": [
     {
@@ -270,34 +270,23 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 14:38",
+      "at": "02.11.2026 15:51",
       "home": "Deportivo La Coruna",
       "away": "CA Osasuna"
     }
   ],
   "today": {
-    "home": "Deportivo La Coruna",
-    "away": "CA Osasuna",
-    "league": "İS1",
-    "date": "02.11.2026 20:00",
-    "matchCode": "4492361",
-    "odds": 1.6,
-    "patternScore": 67.36,
-    "patternText": "168.637/250.362",
-    "picks": 6
+    "home": "Genclerbirligi",
+    "away": "Alanyaspor",
+    "league": "TSL",
+    "date": "02.11.2026 17:00",
+    "matchCode": "4542738",
+    "odds": 1.48,
+    "patternScore": 67.5,
+    "patternText": "197.775/292.990",
+    "picks": 5
   },
   "todayList": [
-    {
-      "home": "Deportivo La Coruna",
-      "away": "CA Osasuna",
-      "league": "İS1",
-      "date": "02.11.2026 20:00",
-      "matchCode": "4492361",
-      "odds": 1.6,
-      "patternScore": 67.36,
-      "patternText": "168.637/250.362",
-      "picks": 6
-    },
     {
       "home": "Genclerbirligi",
       "away": "Alanyaspor",
@@ -341,9 +330,34 @@
       "patternScore": 67.39,
       "patternText": "224.867/333.680",
       "picks": 5
+    },
+    {
+      "home": "Deportivo La Coruna",
+      "away": "CA Osasuna",
+      "league": "İS1",
+      "date": "02.11.2026 20:00",
+      "matchCode": "4492361",
+      "odds": 1.33,
+      "patternScore": 68.9,
+      "patternText": "115.195/167.180",
+      "picks": 7
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Villarreal CF",
+      "away": "Paris Saint-Germain",
+      "league": "ŞMP",
+      "at": "02.11.2026 15:52",
+      "count": 17
+    },
+    {
+      "home": "Deportivo La Coruna",
+      "away": "CA Osasuna",
+      "league": "İS1",
+      "at": "02.11.2026 15:51",
+      "count": 9
+    },
     {
       "home": "Atalanta",
       "away": "Parma Calcio",
@@ -373,13 +387,6 @@
       "count": 3
     },
     {
-      "home": "Deportivo La Coruna",
-      "away": "CA Osasuna",
-      "league": "İS1",
-      "at": "02.11.2026 14:38",
-      "count": 8
-    },
-    {
       "home": "Stade de Reims",
       "away": "FC Sochaux",
       "league": "FR2",
@@ -406,13 +413,6 @@
       "league": "ŞMP",
       "at": "02.11.2026 12:56",
       "count": 13
-    },
-    {
-      "home": "Lincoln Red Im",
-      "away": "Hajduk Split",
-      "league": "AVKL",
-      "at": "02.11.2026 12:22",
-      "count": 12
     }
   ],
   "paywall": {
