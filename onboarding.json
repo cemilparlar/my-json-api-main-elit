@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 06:42",
+  "updatedAt": "02.11.2026 06:50",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 533,
+      "won": 532,
       "lost": 251,
-      "total": 784,
-      "rate": 68.0
+      "total": 783,
+      "rate": 67.9
     },
-    "totalAnalyses": 301468,
+    "totalAnalyses": 301547,
     "leagues": 535,
     "pro": {
       "won": 744,
@@ -47,8 +47,8 @@
       "total": 52,
       "rate": 59.6
     },
-    "analyses24h": 1555,
-    "analyses30d": 21671
+    "analyses24h": 1630,
+    "analyses30d": 21747
   },
   "recentWins": [
     {
@@ -246,12 +246,6 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 00:45",
-      "home": "Los Angeles FC",
-      "away": "Minnesota United"
-    },
-    {
-      "type": "updated",
       "at": "02.11.2026 06:27",
       "home": "Chonburi FC",
       "away": "BG Pathum United"
@@ -270,7 +264,7 @@
     },
     {
       "type": "analysis",
-      "count": 1555
+      "count": 1630
     }
   ],
   "today": {
@@ -343,74 +337,74 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Birmingham City",
+      "away": "Millwall",
+      "league": "İNCL",
+      "at": "02.11.2026 06:50",
+      "count": 7
+    },
+    {
+      "home": "West Bromwich Albion",
+      "away": "Southam",
+      "league": "İNCL",
+      "at": "02.11.2026 06:50",
+      "count": 6
+    },
+    {
+      "home": "Charlton Athletic",
+      "away": "Bolton Wanderers",
+      "league": "İNCL",
+      "at": "02.11.2026 06:48",
+      "count": 8
+    },
+    {
+      "home": "Portsmouth",
+      "away": "Swansea",
+      "league": "İNCL",
+      "at": "02.11.2026 06:46",
+      "count": 5
+    },
+    {
+      "home": "Watford",
+      "away": "Lincoln City",
+      "league": "İNCL",
+      "at": "02.11.2026 06:45",
+      "count": 7
+    },
+    {
+      "home": "Preston North End",
+      "away": "Sheffield United",
+      "league": "İNCL",
+      "at": "02.11.2026 06:45",
+      "count": 7
+    },
+    {
+      "home": "Blackburn",
+      "away": "Stoke City",
+      "league": "İNCL",
+      "at": "02.11.2026 06:44",
+      "count": 9
+    },
+    {
+      "home": "Derby County",
+      "away": "Norwich City",
+      "league": "İNCL",
+      "at": "02.11.2026 06:44",
+      "count": 5
+    },
+    {
+      "home": "Queens Park Rangers",
+      "away": "Burnley",
+      "league": "İNCL",
+      "at": "02.11.2026 06:44",
+      "count": 5
+    },
+    {
       "home": "Bayer Leverkusen",
       "away": "Marseille",
       "league": "AVL",
       "at": "02.11.2026 06:26",
       "count": 8
-    },
-    {
-      "home": "Sint-Truidense VV",
-      "away": "SK Brann",
-      "league": "AVKL",
-      "at": "02.11.2026 06:19",
-      "count": 10
-    },
-    {
-      "home": "Hapoel Beer Sh",
-      "away": "Ofi",
-      "league": "AVL",
-      "at": "02.11.2026 06:19",
-      "count": 8
-    },
-    {
-      "home": "Panathinaikos",
-      "away": "CSKA Sofia",
-      "league": "AVKL",
-      "at": "02.11.2026 06:18",
-      "count": 7
-    },
-    {
-      "home": "AS Monaco",
-      "away": "FC Nordsjaelland",
-      "league": "AVKL",
-      "at": "02.11.2026 06:18",
-      "count": 5
-    },
-    {
-      "home": "AZ Alkmaar",
-      "away": "Juventus",
-      "league": "AVL",
-      "at": "02.11.2026 06:17",
-      "count": 9
-    },
-    {
-      "home": "FC Lugano",
-      "away": "Kauno Zalgiris",
-      "league": "AVKL",
-      "at": "02.11.2026 06:17",
-      "count": 13
-    },
-    {
-      "home": "FC Copenhagen",
-      "away": "Fc Iberia",
-      "league": "AVKL",
-      "at": "02.11.2026 06:17",
-      "count": 15
-    },
-    {
-      "home": "SK Sturm Graz",
-      "away": "NK Celje",
-      "league": "AVL",
-      "at": "02.11.2026 06:16",
-      "count": 5
-    },
-    {
-      "home": "Celtic",
-      "away": "Besiktas",
-      "league": "AVL",
-      "at": "02.11.2026 06:16",
-      "count": 9
     }
   ],
   "paywall": {
