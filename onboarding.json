@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 13:25",
+  "updatedAt": "02.11.2026 13:32",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 366,
-      "lost": 174,
-      "total": 540,
-      "rate": 67.8
+      "won": 346,
+      "lost": 154,
+      "total": 500,
+      "rate": 69.2
     },
     "totalAnalyses": 301905,
     "leagues": 534,
     "pro": {
-      "won": 762,
+      "won": 767,
       "lost": 313,
-      "total": 1075,
-      "rate": 70.9
+      "total": 1080,
+      "rate": 71.0
     },
     "insights": {
-      "won": 1356,
+      "won": 1366,
       "lost": 578,
-      "total": 1934,
-      "rate": 70.1
+      "total": 1944,
+      "rate": 70.3
     },
     "coupons": {
       "won": 32,
@@ -47,8 +47,8 @@
       "total": 53,
       "rate": 60.4
     },
-    "analyses24h": 1483,
-    "analyses30d": 21886
+    "analyses24h": 1419,
+    "analyses30d": 21875
   },
   "recentWins": [
     {
@@ -310,17 +310,6 @@
       "picks": 5
     },
     {
-      "home": "Brezice",
-      "away": "ND Beltinci",
-      "league": "SLVN2",
-      "date": "02.11.2026 16:00",
-      "matchCode": "4484003",
-      "odds": 1.42,
-      "patternScore": 67.42,
-      "patternText": "194.383/288.311",
-      "picks": 1
-    },
-    {
       "home": "GAIS",
       "away": "Aik Stockholm",
       "league": "İSÇ",
@@ -332,15 +321,26 @@
       "picks": 5
     },
     {
+      "home": "Arda Kardzhali",
+      "away": "FC Septemvri Sofia",
+      "league": "BUL1",
+      "date": "02.11.2026 17:30",
+      "matchCode": "4476051",
+      "odds": 1.28,
+      "patternScore": 68.28,
+      "patternText": "195.334/286.061",
+      "picks": 2
+    },
+    {
       "home": "US Sassuolo",
       "away": "ACF Fiorentina",
       "league": "İTA",
       "date": "02.11.2026 17:30",
       "matchCode": "4475140",
-      "odds": 1.37,
-      "patternScore": 67.83,
-      "patternText": "127.471/187.924",
-      "picks": 5
+      "odds": 1.25,
+      "patternScore": 66.62,
+      "patternText": "141.199/211.940",
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
