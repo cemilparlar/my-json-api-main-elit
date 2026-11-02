@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 23:31",
+  "updatedAt": "02.11.2026 23:38",
   "config": {
     "pages": [
       "engine",
@@ -351,18 +351,6 @@
       "picks": 3
     },
     {
-      "home": "Renofa Yamaguchi",
-      "away": "Kagoshima United",
-      "league": "JAP3",
-      "date": "03.11.2026 05:00",
-      "matchCode": "4488032",
-      "odds": 1.22,
-      "patternScore": 68.94,
-      "patternText": "170.551/247.405",
-      "aiScore": 67,
-      "picks": 3
-    },
-    {
       "home": "Fujieda MYFC",
       "away": "Jubilo Iwata",
       "league": "JAP2",
@@ -373,6 +361,18 @@
       "patternText": "175.745/252.986",
       "aiScore": 68,
       "picks": 4
+    },
+    {
+      "home": "Waterhouse",
+      "away": "Cavalier Sc",
+      "league": "JAM",
+      "date": "03.11.2026 01:00",
+      "matchCode": "4562922",
+      "odds": 1.15,
+      "patternScore": 70.55,
+      "patternText": "222.544/315.452",
+      "aiScore": 77,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
