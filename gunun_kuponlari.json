@@ -30,11 +30,11 @@
       "lost": 1
     },
     "multi": {
-      "won": 22,
+      "won": 23,
       "lost": 14
     },
     "c70_1": {
-      "won": 13,
+      "won": 14,
       "lost": 4
     },
     "c70_2": {
@@ -84,11 +84,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 22,
+      "won": 23,
       "lost": 14
     },
     "c70_1": {
-      "won": 13,
+      "won": 14,
       "lost": 4
     },
     "c70_2": {
@@ -100,8 +100,8 @@
       "lost": 6
     }
   },
-  "updatedAt": "02.11.2026 01:06",
-  "updatedAtUtc": "2026-11-02T01:06:00Z",
+  "updatedAt": "02.11.2026 01:13",
+  "updatedAtUtc": "2026-11-02T01:13:00Z",
   "upcoming": [
     {
       "id": "20261101-22-2",
@@ -167,47 +167,6 @@
       ]
     },
     {
-      "id": "20261102-00-1",
-      "createdAt": "01.11.2026 21:01",
-      "createdAtUtc": "2026-11-01T21:01:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.08,
-      "winChance": 72.02,
-      "firstKickoff": "01.11.2026 23:00",
-      "lastKickoff": "01.11.2026 23:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.08,
-      "legs": [
-        {
-          "matchCode": "4476484",
-          "nesine": null,
-          "date": "01.11.2026 23:00",
-          "kickoffUtc": "2026-11-01T23:00:00Z",
-          "league": "MEK",
-          "home": "Santos Laguna",
-          "away": "Club Necaxa",
-          "league_tr": "MEK",
-          "home_tr": "Santos Laguna",
-          "away_tr": "Necaxa",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 86.15,
-          "patternScore": 72.02,
-          "patternText": "147.652/205.028",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
-    {
       "id": "20261102-00-2",
       "createdAt": "01.11.2026 21:01",
       "createdAtUtc": "2026-11-01T21:01:00Z",
@@ -242,9 +201,9 @@
           "patternScore": 72.02,
           "patternText": "147.652/205.028",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 0",
+          "status": "won"
         },
         {
           "matchCode": "4577008",
@@ -314,6 +273,47 @@
   ],
   "completed": [
     {
+      "id": "20261102-00-1",
+      "createdAt": "01.11.2026 21:01",
+      "createdAtUtc": "2026-11-01T21:01:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.08,
+      "winChance": 72.02,
+      "firstKickoff": "01.11.2026 23:00",
+      "lastKickoff": "01.11.2026 23:00",
+      "status": "won",
+      "completedAt": "02.11.2026 01:13",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.08,
+      "legs": [
+        {
+          "matchCode": "4476484",
+          "nesine": null,
+          "date": "01.11.2026 23:00",
+          "kickoffUtc": "2026-11-01T23:00:00Z",
+          "league": "MEK",
+          "home": "Santos Laguna",
+          "away": "Club Necaxa",
+          "league_tr": "MEK",
+          "home_tr": "Santos Laguna",
+          "away_tr": "Necaxa",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 86.15,
+          "patternScore": 72.02,
+          "patternText": "147.652/205.028",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 0",
+          "status": "won"
+        }
+      ]
+    },
+    {
       "id": "20261102-00-3",
       "createdAt": "01.11.2026 21:01",
       "createdAtUtc": "2026-11-01T21:01:00Z",
@@ -370,9 +370,9 @@
           "patternScore": 72.02,
           "patternText": "147.652/205.028",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 0",
+          "status": "won"
         },
         {
           "matchCode": "4577008",
