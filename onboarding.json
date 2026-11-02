@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 22:56",
+  "updatedAt": "02.11.2026 23:03",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 187,
-      "lost": 116,
-      "total": 303,
-      "rate": 61.7
+      "won": 184,
+      "lost": 115,
+      "total": 299,
+      "rate": 61.5
     },
     "totalAnalyses": 302331,
     "leagues": 532,
     "pro": {
-      "won": 830,
-      "lost": 345,
-      "total": 1175,
-      "rate": 70.6
+      "won": 828,
+      "lost": 346,
+      "total": 1174,
+      "rate": 70.5
     },
     "insights": {
-      "won": 1461,
-      "lost": 638,
-      "total": 2099,
-      "rate": 69.6
+      "won": 1459,
+      "lost": 639,
+      "total": 2098,
+      "rate": 69.5
     },
     "coupons": {
       "won": 39,
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 62.9
     },
-    "analyses24h": 982,
-    "analyses30d": 21663
+    "analyses24h": 975,
+    "analyses30d": 21645
   },
   "recentWins": [
     {
@@ -325,40 +325,40 @@
       "picks": 4
     },
     {
-      "home": "Waterhouse",
-      "away": "Cavalier Sc",
-      "league": "JAM",
-      "date": "03.11.2026 01:00",
-      "matchCode": "4562922",
-      "odds": 1.15,
-      "patternScore": 70.55,
-      "patternText": "222.514/315.418",
-      "aiScore": 78,
-      "picks": 1
-    },
-    {
-      "home": "Kataller Toyama",
-      "away": "Vegalta Sendai",
-      "league": "JAP2",
-      "date": "03.11.2026 04:55",
-      "matchCode": "4487652",
-      "odds": 1.12,
-      "patternScore": 70.72,
-      "patternText": "226.053/319.634",
-      "aiScore": 88,
-      "picks": 1
-    },
-    {
-      "home": "Vissel Kobe",
-      "away": "Ratchaburi Mitr Phol FC",
-      "league": "AŞMP",
-      "date": "03.11.2026 10:00",
-      "matchCode": "4550089",
-      "odds": 1.79,
-      "patternScore": 68.12,
-      "patternText": "178.226/261.617",
-      "aiScore": 52,
+      "home": "Kochi United",
+      "away": "Ehime FC",
+      "league": "JAP3",
+      "date": "03.11.2026 05:00",
+      "matchCode": "4488034",
+      "odds": 1.28,
+      "patternScore": 68.37,
+      "patternText": "170.599/249.530",
+      "aiScore": 67,
       "picks": 2
+    },
+    {
+      "home": "Renofa Yamaguchi",
+      "away": "Kagoshima United",
+      "league": "JAP3",
+      "date": "03.11.2026 05:00",
+      "matchCode": "4488032",
+      "odds": 1.25,
+      "patternScore": 68.33,
+      "patternText": "169.351/247.837",
+      "aiScore": 63,
+      "picks": 2
+    },
+    {
+      "home": "Yokohama FC",
+      "away": "Blaublitz Akita",
+      "league": "JAP2",
+      "date": "03.11.2026 05:00",
+      "matchCode": "4487649",
+      "odds": 1.23,
+      "patternScore": 68.65,
+      "patternText": "180.950/263.599",
+      "aiScore": 62,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
