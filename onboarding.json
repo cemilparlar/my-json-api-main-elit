@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 22:49",
+  "updatedAt": "02.11.2026 22:56",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 62.9
     },
-    "analyses24h": 981,
-    "analyses30d": 21662
+    "analyses24h": 982,
+    "analyses30d": 21663
   },
   "recentWins": [
     {
@@ -258,18 +258,6 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 16:49",
-      "home": "Real Valladolid",
-      "away": "CD Leganes"
-    },
-    {
-      "type": "updated",
-      "at": "02.11.2026 16:49",
-      "home": "US Sassuolo",
-      "away": "ACF Fiorentina"
-    },
-    {
-      "type": "updated",
       "at": "02.11.2026 19:06",
       "home": "Atalanta",
       "away": "Parma Calcio"
@@ -285,6 +273,18 @@
       "at": "02.11.2026 19:24",
       "home": "Newcastle United",
       "away": "Everton"
+    },
+    {
+      "type": "updated",
+      "at": "02.11.2026 18:11",
+      "home": "Stade de Reims",
+      "away": "FC Sochaux"
+    },
+    {
+      "type": "updated",
+      "at": "02.11.2026 17:10",
+      "home": "FC Penafiel",
+      "away": "CD Feirense"
     }
   ],
   "today": {
@@ -337,6 +337,18 @@
       "picks": 1
     },
     {
+      "home": "Kataller Toyama",
+      "away": "Vegalta Sendai",
+      "league": "JAP2",
+      "date": "03.11.2026 04:55",
+      "matchCode": "4487652",
+      "odds": 1.12,
+      "patternScore": 70.72,
+      "patternText": "226.053/319.634",
+      "aiScore": 88,
+      "picks": 1
+    },
+    {
       "home": "Vissel Kobe",
       "away": "Ratchaburi Mitr Phol FC",
       "league": "AŞMP",
@@ -346,18 +358,6 @@
       "patternScore": 68.12,
       "patternText": "178.226/261.617",
       "aiScore": 52,
-      "picks": 2
-    },
-    {
-      "home": "Kochi United",
-      "away": "Ehime FC",
-      "league": "JAP3",
-      "date": "03.11.2026 05:00",
-      "matchCode": "4488034",
-      "odds": 1.28,
-      "patternScore": 68.37,
-      "patternText": "170.599/249.530",
-      "aiScore": 67,
       "picks": 2
     }
   ],
