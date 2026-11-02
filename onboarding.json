@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 11:43",
+  "updatedAt": "02.11.2026 11:50",
   "config": {
     "pages": [
       "engine",
@@ -30,16 +30,16 @@
     "totalAnalyses": 301764,
     "leagues": 534,
     "pro": {
-      "won": 750,
+      "won": 751,
       "lost": 308,
-      "total": 1058,
+      "total": 1059,
       "rate": 70.9
     },
     "insights": {
-      "won": 1326,
+      "won": 1329,
       "lost": 565,
-      "total": 1891,
-      "rate": 70.1
+      "total": 1894,
+      "rate": 70.2
     },
     "coupons": {
       "won": 31,
@@ -47,8 +47,8 @@
       "total": 52,
       "rate": 59.6
     },
-    "analyses24h": 1621,
-    "analyses30d": 21854
+    "analyses24h": 1615,
+    "analyses30d": 21848
   },
   "recentWins": [
     {
@@ -283,7 +283,7 @@
     "matchCode": "4492807",
     "odds": 1.52,
     "patternScore": 68.18,
-    "patternText": "126.269/185.210",
+    "patternText": "126.279/185.222",
     "picks": 2
   },
   "todayList": [
@@ -295,7 +295,7 @@
       "matchCode": "4492807",
       "odds": 1.52,
       "patternScore": 68.18,
-      "patternText": "126.269/185.210",
+      "patternText": "126.279/185.222",
       "picks": 2
     },
     {
@@ -306,8 +306,19 @@
       "matchCode": "4542738",
       "odds": 1.48,
       "patternScore": 67.5,
-      "patternText": "197.477/292.542",
+      "patternText": "197.481/292.548",
       "picks": 5
+    },
+    {
+      "home": "US Sassuolo",
+      "away": "ACF Fiorentina",
+      "league": "İTA",
+      "date": "02.11.2026 17:30",
+      "matchCode": "4475140",
+      "odds": 1.44,
+      "patternScore": 67.17,
+      "patternText": "228.570/340.273",
+      "picks": 4
     },
     {
       "home": "Mashujaa",
@@ -317,29 +328,18 @@
       "matchCode": "4509957",
       "odds": 1.34,
       "patternScore": 67.93,
-      "patternText": "178.066/262.131",
+      "patternText": "178.070/262.137",
       "picks": 1
     },
     {
-      "home": "Naft Gachsaran",
-      "away": "Sanat Mes Kerma",
-      "league": "IRANAZ",
-      "date": "02.11.2026 13:15",
-      "matchCode": "4565273",
-      "odds": 1.24,
-      "patternScore": 69.13,
-      "patternText": "186.858/270.298",
-      "picks": 1
-    },
-    {
-      "home": "Polonia Bytom",
-      "away": "Odra Opole",
-      "league": "POL1",
-      "date": "02.11.2026 17:00",
-      "matchCode": "4486237",
-      "odds": 1.21,
-      "patternScore": 68.32,
-      "patternText": "202.240/296.012",
+      "home": "Arda Kardzhali",
+      "away": "FC Septemvri Sofia",
+      "league": "BUL1",
+      "date": "02.11.2026 17:30",
+      "matchCode": "4476051",
+      "odds": 1.28,
+      "patternScore": 68.28,
+      "patternText": "195.234/285.931",
       "picks": 2
     }
   ],
