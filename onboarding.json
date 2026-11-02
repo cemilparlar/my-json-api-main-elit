@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 14:17",
+  "updatedAt": "02.11.2026 14:24",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 467,
       "rate": 70.4
     },
-    "totalAnalyses": 301967,
+    "totalAnalyses": 301987,
     "leagues": 534,
     "pro": {
       "won": 768,
@@ -47,8 +47,8 @@
       "total": 54,
       "rate": 59.3
     },
-    "analyses24h": 1363,
-    "analyses30d": 21865
+    "analyses24h": 1378,
+    "analyses30d": 21880
   },
   "recentWins": [
     {
@@ -282,8 +282,8 @@
     "date": "02.11.2026 15:15",
     "matchCode": "4492807",
     "odds": 1.49,
-    "patternScore": 67.82,
-    "patternText": "205.519/303.019",
+    "patternScore": 67.83,
+    "patternText": "205.533/303.033",
     "picks": 3
   },
   "todayList": [
@@ -294,8 +294,8 @@
       "date": "02.11.2026 15:15",
       "matchCode": "4492807",
       "odds": 1.49,
-      "patternScore": 67.82,
-      "patternText": "205.519/303.019",
+      "patternScore": 67.83,
+      "patternText": "205.533/303.033",
       "picks": 3
     },
     {
@@ -305,9 +305,20 @@
       "date": "02.11.2026 17:00",
       "matchCode": "4542738",
       "odds": 1.48,
-      "patternScore": 67.5,
-      "patternText": "197.707/292.878",
+      "patternScore": 67.51,
+      "patternText": "197.721/292.892",
       "picks": 5
+    },
+    {
+      "home": "Stade de Reims",
+      "away": "FC Sochaux",
+      "league": "FR2",
+      "date": "02.11.2026 19:45",
+      "matchCode": "4476907",
+      "odds": 1.44,
+      "patternScore": 68.14,
+      "patternText": "118.912/174.504",
+      "picks": 2
     },
     {
       "home": "Arda Kardzhali",
@@ -317,33 +328,36 @@
       "matchCode": "4476051",
       "odds": 1.41,
       "patternScore": 67.97,
-      "patternText": "179.048/263.409",
+      "patternText": "179.054/263.415",
       "picks": 2
     },
     {
-      "home": "GAIS",
-      "away": "Aik Stockholm",
-      "league": "İSÇ",
-      "date": "02.11.2026 18:00",
-      "matchCode": "4426801",
-      "odds": 1.38,
-      "patternScore": 67.39,
-      "patternText": "224.803/333.580",
-      "picks": 5
-    },
-    {
-      "home": "US Sassuolo",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "date": "02.11.2026 17:30",
-      "matchCode": "4475140",
-      "odds": 1.25,
-      "patternScore": 66.63,
-      "patternText": "141.325/212.106",
-      "picks": 4
+      "home": "Al Wasl",
+      "away": "Al Jawiya",
+      "league": "AŞMP",
+      "date": "02.11.2026 16:00",
+      "matchCode": "4550151",
+      "odds": 1.41,
+      "patternScore": 66.5,
+      "patternText": "129.925/195.379",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Newcastle United",
+      "away": "Everton",
+      "league": "İNP",
+      "at": "02.11.2026 14:18",
+      "count": 10
+    },
+    {
+      "home": "Deportivo La Coruna",
+      "away": "CA Osasuna",
+      "league": "İS1",
+      "at": "02.11.2026 14:17",
+      "count": 5
+    },
     {
       "home": "Atalanta",
       "away": "Parma Calcio",
@@ -399,20 +413,6 @@
       "league": "AVKL",
       "at": "02.11.2026 12:22",
       "count": 12
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "Bayern Munich",
-      "league": "ŞMP",
-      "at": "02.11.2026 11:21",
-      "count": 5
-    },
-    {
-      "home": "Genclerbirligi",
-      "away": "Alanyaspor",
-      "league": "TSL",
-      "at": "02.11.2026 11:19",
-      "count": 7
     }
   ],
   "paywall": {
