@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 23:18",
+  "updatedAt": "02.11.2026 23:25",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 186,
-      "lost": 115,
-      "total": 301,
-      "rate": 61.8
+      "won": 187,
+      "lost": 116,
+      "total": 303,
+      "rate": 61.7
     },
     "totalAnalyses": 302338,
     "leagues": 532,
     "pro": {
       "won": 829,
-      "lost": 346,
-      "total": 1175,
-      "rate": 70.6
+      "lost": 347,
+      "total": 1176,
+      "rate": 70.5
     },
     "insights": {
       "won": 1461,
-      "lost": 639,
-      "total": 2100,
-      "rate": 69.6
+      "lost": 640,
+      "total": 2101,
+      "rate": 69.5
     },
     "coupons": {
       "won": 39,
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 67.2
     },
-    "analyses24h": 974,
-    "analyses30d": 21644
+    "analyses24h": 972,
+    "analyses30d": 21639
   },
   "recentWins": [
     {
@@ -339,16 +339,16 @@
       "picks": 4
     },
     {
-      "home": "Kochi United",
-      "away": "Ehime FC",
+      "home": "Tochigi SC",
+      "away": "Fukushima United FC",
       "league": "JAP3",
       "date": "03.11.2026 05:00",
-      "matchCode": "4488034",
-      "odds": 1.28,
-      "patternScore": 68.37,
-      "patternText": "170.615/249.550",
-      "aiScore": 67,
-      "picks": 2
+      "matchCode": "4488027",
+      "odds": 1.38,
+      "patternScore": 68.91,
+      "patternText": "173.531/251.823",
+      "aiScore": 57,
+      "picks": 3
     },
     {
       "home": "Renofa Yamaguchi",
@@ -356,22 +356,22 @@
       "league": "JAP3",
       "date": "03.11.2026 05:00",
       "matchCode": "4488032",
-      "odds": 1.25,
-      "patternScore": 68.33,
-      "patternText": "169.371/247.861",
-      "aiScore": 63,
-      "picks": 2
+      "odds": 1.22,
+      "patternScore": 68.94,
+      "patternText": "170.549/247.403",
+      "aiScore": 67,
+      "picks": 3
     },
     {
-      "home": "Yokohama FC",
-      "away": "Blaublitz Akita",
+      "home": "Fujieda MYFC",
+      "away": "Jubilo Iwata",
       "league": "JAP2",
       "date": "03.11.2026 05:00",
-      "matchCode": "4487649",
-      "odds": 1.23,
-      "patternScore": 68.65,
-      "patternText": "180.966/263.619",
-      "aiScore": 62,
+      "matchCode": "4487653",
+      "odds": 1.18,
+      "patternScore": 69.47,
+      "patternText": "175.743/252.984",
+      "aiScore": 68,
       "picks": 4
     }
   ],
