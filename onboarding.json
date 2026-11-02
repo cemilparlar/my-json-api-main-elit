@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 22:27",
+  "updatedAt": "02.11.2026 22:34",
   "config": {
     "pages": [
       "engine",
@@ -30,16 +30,16 @@
     "totalAnalyses": 302331,
     "leagues": 532,
     "pro": {
-      "won": 834,
-      "lost": 346,
-      "total": 1180,
-      "rate": 70.7
+      "won": 830,
+      "lost": 345,
+      "total": 1175,
+      "rate": 70.6
     },
     "insights": {
-      "won": 1467,
-      "lost": 639,
-      "total": 2106,
-      "rate": 69.7
+      "won": 1461,
+      "lost": 638,
+      "total": 2099,
+      "rate": 69.6
     },
     "coupons": {
       "won": 39,
@@ -48,7 +48,7 @@
       "rate": 62.9
     },
     "analyses24h": 981,
-    "analyses30d": 21666
+    "analyses30d": 21662
   },
   "recentWins": [
     {
@@ -325,18 +325,6 @@
       "picks": 4
     },
     {
-      "home": "Red Bull Bragantino",
-      "away": "FC Santos",
-      "league": "BR1",
-      "date": "02.11.2026 23:00",
-      "matchCode": "4423363",
-      "odds": 1.16,
-      "patternScore": 68.6,
-      "patternText": "144.616/210.812",
-      "aiScore": 81,
-      "picks": 4
-    },
-    {
       "home": "Waterhouse",
       "away": "Cavalier Sc",
       "league": "JAM",
@@ -358,6 +346,18 @@
       "patternScore": 68.12,
       "patternText": "178.226/261.617",
       "aiScore": 52,
+      "picks": 2
+    },
+    {
+      "home": "Kochi United",
+      "away": "Ehime FC",
+      "league": "JAP3",
+      "date": "03.11.2026 05:00",
+      "matchCode": "4488034",
+      "odds": 1.28,
+      "patternScore": 68.37,
+      "patternText": "170.599/249.530",
+      "aiScore": 67,
       "picks": 2
     }
   ],
