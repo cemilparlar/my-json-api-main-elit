@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 06:26",
+  "updatedAt": "02.11.2026 06:34",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 784,
       "rate": 68.0
     },
-    "totalAnalyses": 301384,
+    "totalAnalyses": 301453,
     "leagues": 535,
     "pro": {
       "won": 744,
@@ -47,8 +47,8 @@
       "total": 52,
       "rate": 59.6
     },
-    "analyses24h": 1482,
-    "analyses30d": 21598
+    "analyses24h": 1552,
+    "analyses30d": 21668
   },
   "recentWins": [
     {
@@ -252,7 +252,7 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 06:05",
+      "at": "02.11.2026 06:27",
       "home": "Chonburi FC",
       "away": "BG Pathum United"
     },
@@ -270,7 +270,7 @@
     },
     {
       "type": "analysis",
-      "count": 1482
+      "count": 1552
     }
   ],
   "today": {
@@ -343,6 +343,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Bayer Leverkusen",
+      "away": "Marseille",
+      "league": "AVL",
+      "at": "02.11.2026 06:26",
+      "count": 8
+    },
+    {
       "home": "Sint-Truidense VV",
       "away": "SK Brann",
       "league": "AVKL",
@@ -404,13 +411,6 @@
       "league": "AVL",
       "at": "02.11.2026 06:16",
       "count": 9
-    },
-    {
-      "home": "Riga Fc",
-      "away": "FK Jablonec",
-      "league": "AVKL",
-      "at": "02.11.2026 06:16",
-      "count": 5
     }
   ],
   "paywall": {
