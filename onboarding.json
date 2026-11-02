@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 16:56",
+  "updatedAt": "02.11.2026 17:03",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 207,
-      "lost": 83,
-      "total": 290,
-      "rate": 71.4
+      "won": 185,
+      "lost": 72,
+      "total": 257,
+      "rate": 72.0
     },
     "totalAnalyses": 302179,
-    "leagues": 533,
+    "leagues": 532,
     "pro": {
-      "won": 773,
-      "lost": 317,
-      "total": 1090,
-      "rate": 70.9
+      "won": 767,
+      "lost": 313,
+      "total": 1080,
+      "rate": 71.0
     },
     "insights": {
-      "won": 1369,
-      "lost": 585,
-      "total": 1954,
-      "rate": 70.1
+      "won": 1368,
+      "lost": 582,
+      "total": 1950,
+      "rate": 70.2
     },
     "coupons": {
-      "won": 32,
+      "won": 33,
       "lost": 22,
-      "total": 54,
-      "rate": 59.3
+      "total": 55,
+      "rate": 60.0
     },
-    "analyses24h": 1173,
-    "analyses30d": 21853
+    "analyses24h": 1127,
+    "analyses30d": 21786
   },
   "recentWins": [
     {
@@ -120,6 +120,21 @@
   "recentCoupons": [
     {
       "size": 1,
+      "totalOdds": 1.13,
+      "winChance": 70.29,
+      "completedAt": "02.11.2026 17:03",
+      "legs": [
+        {
+          "home": "FC Torpedo Kutaisi",
+          "away": "FC Dila Gori",
+          "prediction": "Double Chance 12",
+          "odds": 1.13,
+          "finalScore": "2 - 1"
+        }
+      ]
+    },
+    {
+      "size": 1,
       "totalOdds": 1.1,
       "winChance": 70.34,
       "completedAt": "02.11.2026 13:11",
@@ -169,28 +184,6 @@
           "finalScore": "2 - 0"
         }
       ]
-    },
-    {
-      "size": 2,
-      "totalOdds": 1.17,
-      "winChance": 51.83,
-      "completedAt": "02.11.2026 01:34",
-      "legs": [
-        {
-          "home": "Santos Laguna",
-          "away": "Club Necaxa",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Universitario de Deportes",
-          "away": "Always Ready",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "1 - 3"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -229,20 +222,20 @@
     {
       "type": "coupon",
       "size": 1,
-      "odds": 1.11,
-      "at": "02.11.2026 15:00"
+      "odds": 1.06,
+      "at": "02.11.2026 17:03"
     },
     {
       "type": "coupon",
       "size": 2,
-      "odds": 1.21,
-      "at": "02.11.2026 15:00"
+      "odds": 1.14,
+      "at": "02.11.2026 17:03"
     },
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.33,
-      "at": "02.11.2026 15:00"
+      "odds": 1.21,
+      "at": "02.11.2026 17:03"
     },
     {
       "type": "updated",
@@ -283,7 +276,7 @@
     "matchCode": "4476907",
     "odds": 1.55,
     "patternScore": 67.86,
-    "patternText": "190.119/280.178",
+    "patternText": "190.129/280.190",
     "picks": 4
   },
   "todayList": [
@@ -295,7 +288,7 @@
       "matchCode": "4476907",
       "odds": 1.55,
       "patternScore": 67.86,
-      "patternText": "190.119/280.178",
+      "patternText": "190.129/280.190",
       "picks": 4
     },
     {
@@ -306,7 +299,7 @@
       "matchCode": "4426801",
       "odds": 1.38,
       "patternScore": 67.39,
-      "patternText": "224.869/333.690",
+      "patternText": "224.873/333.694",
       "picks": 5
     },
     {
@@ -317,7 +310,7 @@
       "matchCode": "4492361",
       "odds": 1.21,
       "patternScore": 70.26,
-      "patternText": "158.766/225.955",
+      "patternText": "158.772/225.969",
       "picks": 4
     },
     {
@@ -328,18 +321,18 @@
       "matchCode": "4481099",
       "odds": 1.2,
       "patternScore": 70.07,
-      "patternText": "120.387/171.802",
+      "patternText": "120.399/171.830",
       "picks": 3
     },
     {
-      "home": "FC Penafiel",
-      "away": "CD Feirense",
-      "league": "POR2",
-      "date": "02.11.2026 18:00",
-      "matchCode": "4517338",
-      "odds": 1.18,
-      "patternScore": 68.73,
-      "patternText": "205.092/298.397",
+      "home": "Jong PSV",
+      "away": "NAC Breda",
+      "league": "HOL2",
+      "date": "02.11.2026 19:00",
+      "matchCode": "4481918",
+      "odds": 1.19,
+      "patternScore": 67.62,
+      "patternText": "214.856/317.739",
       "picks": 3
     }
   ],
