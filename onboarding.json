@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 20:07",
+  "updatedAt": "02.11.2026 20:14",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 159,
-      "lost": 93,
-      "total": 252,
-      "rate": 63.1
+      "won": 162,
+      "lost": 95,
+      "total": 257,
+      "rate": 63.0
     },
     "totalAnalyses": 302304,
     "leagues": 532,
     "pro": {
-      "won": 785,
-      "lost": 321,
-      "total": 1106,
+      "won": 787,
+      "lost": 322,
+      "total": 1109,
       "rate": 71.0
     },
     "insights": {
-      "won": 1394,
-      "lost": 595,
-      "total": 1989,
+      "won": 1397,
+      "lost": 597,
+      "total": 1994,
       "rate": 70.1
     },
     "coupons": {
-      "won": 36,
+      "won": 37,
       "lost": 23,
-      "total": 59,
-      "rate": 61.0
+      "total": 60,
+      "rate": 61.7
     },
-    "analyses24h": 1037,
-    "analyses30d": 21680
+    "analyses24h": 1033,
+    "analyses30d": 21676
   },
   "recentWins": [
     {
@@ -102,7 +102,7 @@
       "odds": 2.12,
       "probability": 100.0,
       "patternScore": 56.15,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "0 - 1",
       "finalScore": "0 - 3",
       "pro": true
@@ -123,6 +123,28 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 2,
+      "totalOdds": 1.14,
+      "winChance": 50.97,
+      "completedAt": "02.11.2026 20:14",
+      "legs": [
+        {
+          "home": "Kongsvinger",
+          "away": "Stabaek",
+          "prediction": "Double Chance 12",
+          "odds": 1.06,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "Landskrona BoIS",
+          "away": "Orebro SK",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "2 - 1"
+        }
+      ]
+    },
     {
       "size": 1,
       "totalOdds": 1.06,
@@ -172,21 +194,6 @@
           "prediction": "Double Chance 12",
           "odds": 1.09,
           "finalScore": "1 - 4"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.13,
-      "winChance": 70.29,
-      "completedAt": "02.11.2026 17:03",
-      "legs": [
-        {
-          "home": "FC Torpedo Kutaisi",
-          "away": "FC Dila Gori",
-          "prediction": "Double Chance 12",
-          "odds": 1.13,
-          "finalScore": "2 - 1"
         }
       ]
     }
@@ -307,20 +314,8 @@
       "odds": 2.1,
       "patternScore": 66.53,
       "patternText": "116.444/175.030",
-      "aiScore": 51,
+      "aiScore": 52,
       "picks": 5
-    },
-    {
-      "home": "Red Bull Bragantino",
-      "away": "FC Santos",
-      "league": "BR1",
-      "date": "02.11.2026 23:00",
-      "matchCode": "4423363",
-      "odds": 1.78,
-      "patternScore": 67.25,
-      "patternText": "117.962/175.400",
-      "aiScore": 53,
-      "picks": 4
     },
     {
       "home": "Atletico Tucuman",
@@ -333,6 +328,18 @@
       "patternText": "111.136/165.625",
       "aiScore": 54,
       "picks": 5
+    },
+    {
+      "home": "Red Bull Bragantino",
+      "away": "FC Santos",
+      "league": "BR1",
+      "date": "02.11.2026 23:00",
+      "matchCode": "4423363",
+      "odds": 1.16,
+      "patternScore": 68.61,
+      "patternText": "144.522/210.644",
+      "aiScore": 82,
+      "picks": 4
     },
     {
       "home": "Defensa y Justicia",
