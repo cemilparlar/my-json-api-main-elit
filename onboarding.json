@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 00:46",
+  "updatedAt": "02.11.2026 00:53",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 50,
       "rate": 54.0
     },
-    "analyses24h": 1263,
-    "analyses30d": 21337
+    "analyses24h": 1261,
+    "analyses30d": 21335
   },
   "recentWins": [
     {
@@ -253,21 +253,9 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 18:48",
-      "home": "Juventus",
-      "away": "SSC Napoli"
-    },
-    {
-      "type": "updated",
       "at": "01.11.2026 19:27",
       "home": "Athletic Bilbao",
       "away": "Real Sociedad"
-    },
-    {
-      "type": "updated",
-      "at": "01.11.2026 18:48",
-      "home": "Marseille",
-      "away": "Toulouse FC"
     },
     {
       "type": "updated",
@@ -280,6 +268,18 @@
       "at": "01.11.2026 19:48",
       "home": "SC Braga",
       "away": "FC Famalicao"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 20:42",
+      "home": "Guabira",
+      "away": "Bolivar"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 20:04",
+      "home": "Novorizontino",
+      "away": "Operario"
     }
   ],
   "today": {
@@ -317,17 +317,6 @@
       "picks": 1
     },
     {
-      "home": "Los Angeles FC",
-      "away": "Minnesota United",
-      "league": "ABD",
-      "date": "02.11.2026 01:30",
-      "matchCode": "4419826",
-      "odds": 1.06,
-      "patternScore": 69.95,
-      "patternText": "149.683/213.998",
-      "picks": 2
-    },
-    {
       "home": "Cbe",
       "away": "Ethiopian Insurance",
       "league": "ETH",
@@ -348,6 +337,17 @@
       "patternScore": 70.15,
       "patternText": "235.156/335.242",
       "picks": 1
+    },
+    {
+      "home": "Chonburi FC",
+      "away": "BG Pathum United",
+      "league": "TAY",
+      "date": "02.11.2026 12:00",
+      "matchCode": "4539100",
+      "odds": 1.16,
+      "patternScore": 69.54,
+      "patternText": "201.592/289.897",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
