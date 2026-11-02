@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 16:04",
+  "updatedAt": "02.11.2026 16:12",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 333,
       "rate": 71.2
     },
-    "totalAnalyses": 302100,
+    "totalAnalyses": 302106,
     "leagues": 533,
     "pro": {
       "won": 770,
@@ -47,8 +47,8 @@
       "total": 54,
       "rate": 59.3
     },
-    "analyses24h": 1214,
-    "analyses30d": 21863
+    "analyses24h": 1206,
+    "analyses30d": 21855
   },
   "recentWins": [
     {
@@ -252,6 +252,12 @@
     },
     {
       "type": "updated",
+      "at": "02.11.2026 16:10",
+      "home": "Genclerbirligi",
+      "away": "Alanyaspor"
+    },
+    {
+      "type": "updated",
       "at": "02.11.2026 14:56",
       "home": "Real Valladolid",
       "away": "CD Leganes"
@@ -264,15 +270,9 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 15:50",
+      "at": "02.11.2026 16:11",
       "home": "Atalanta",
       "away": "Parma Calcio"
-    },
-    {
-      "type": "updated",
-      "at": "02.11.2026 15:51",
-      "home": "Deportivo La Coruna",
-      "away": "CA Osasuna"
     }
   ],
   "today": {
@@ -345,25 +345,46 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Villarreal CF",
-      "away": "Paris Saint-Germain",
-      "league": "ŞMP",
-      "at": "02.11.2026 15:52",
-      "count": 17
+      "home": "Atalanta",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "02.11.2026 16:11",
+      "count": 2
     },
     {
       "home": "Deportivo La Coruna",
       "away": "CA Osasuna",
       "league": "İS1",
-      "at": "02.11.2026 15:51",
+      "at": "02.11.2026 16:11",
       "count": 9
     },
     {
-      "home": "Atalanta",
-      "away": "Parma Calcio",
-      "league": "İTA",
-      "at": "02.11.2026 15:50",
-      "count": 12
+      "home": "Newcastle United",
+      "away": "Everton",
+      "league": "İNP",
+      "at": "02.11.2026 16:11",
+      "count": 7
+    },
+    {
+      "home": "Stade de Reims",
+      "away": "FC Sochaux",
+      "league": "FR2",
+      "at": "02.11.2026 16:11",
+      "count": 4
+    },
+    {
+      "home": "Genclerbirligi",
+      "away": "Alanyaspor",
+      "league": "TSL",
+      "at": "02.11.2026 16:10",
+      "count": 7
+    },
+    {
+      "home": "Villarreal CF",
+      "away": "Paris Saint-Germain",
+      "league": "ŞMP",
+      "at": "02.11.2026 15:52",
+      "count": 17
     },
     {
       "home": "US Sassuolo",
@@ -373,25 +394,11 @@
       "count": 8
     },
     {
-      "home": "Newcastle United",
-      "away": "Everton",
-      "league": "İNP",
-      "at": "02.11.2026 15:18",
-      "count": 8
-    },
-    {
       "home": "Real Valladolid",
       "away": "CD Leganes",
       "league": "İS2",
       "at": "02.11.2026 14:56",
       "count": 3
-    },
-    {
-      "home": "Stade de Reims",
-      "away": "FC Sochaux",
-      "league": "FR2",
-      "at": "02.11.2026 14:38",
-      "count": 4
     },
     {
       "home": "Red Star FC",
@@ -406,13 +413,6 @@
       "league": "İS2",
       "at": "02.11.2026 13:18",
       "count": 6
-    },
-    {
-      "home": "Aek",
-      "away": "Real Madrid",
-      "league": "ŞMP",
-      "at": "02.11.2026 12:56",
-      "count": 13
     }
   ],
   "paywall": {
