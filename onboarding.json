@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 23:03",
+  "updatedAt": "02.11.2026 23:10",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 184,
+      "won": 186,
       "lost": 115,
-      "total": 299,
-      "rate": 61.5
+      "total": 301,
+      "rate": 61.8
     },
     "totalAnalyses": 302331,
     "leagues": 532,
     "pro": {
-      "won": 828,
+      "won": 829,
       "lost": 346,
-      "total": 1174,
-      "rate": 70.5
+      "total": 1175,
+      "rate": 70.6
     },
     "insights": {
-      "won": 1459,
+      "won": 1461,
       "lost": 639,
-      "total": 2098,
-      "rate": 69.5
+      "total": 2100,
+      "rate": 69.6
     },
     "coupons": {
-      "won": 39,
+      "won": 41,
       "lost": 23,
-      "total": 62,
-      "rate": 62.9
+      "total": 64,
+      "rate": 64.1
     },
     "analyses24h": 975,
     "analyses30d": 21645
@@ -124,6 +124,57 @@
   ],
   "recentCoupons": [
     {
+      "size": 2,
+      "totalOdds": 1.21,
+      "winChance": 49.88,
+      "completedAt": "02.11.2026 23:10",
+      "legs": [
+        {
+          "home": "Chelmsford",
+          "away": "Farnham Town",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.08,
+          "finalScore": "0 - 2"
+        },
+        {
+          "home": "Deportes Limache",
+          "away": "Audax Italiano",
+          "prediction": "Double Chance 12",
+          "odds": 1.12,
+          "finalScore": "2 - 0"
+        }
+      ]
+    },
+    {
+      "size": 3,
+      "totalOdds": 1.34,
+      "winChance": 35.1,
+      "completedAt": "02.11.2026 23:10",
+      "legs": [
+        {
+          "home": "Chelmsford",
+          "away": "Farnham Town",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.08,
+          "finalScore": "0 - 2"
+        },
+        {
+          "home": "Stade de Reims",
+          "away": "FC Sochaux",
+          "prediction": "Double Chance 12",
+          "odds": 1.11,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "Deportes Limache",
+          "away": "Audax Italiano",
+          "prediction": "Double Chance 12",
+          "odds": 1.12,
+          "finalScore": "2 - 0"
+        }
+      ]
+    },
+    {
       "size": 1,
       "totalOdds": 1.08,
       "winChance": 70.65,
@@ -164,43 +215,6 @@
           "prediction": "1st Half Double Chance 1X",
           "odds": 1.06,
           "finalScore": "0 - 0"
-        }
-      ]
-    },
-    {
-      "size": 2,
-      "totalOdds": 1.14,
-      "winChance": 50.97,
-      "completedAt": "02.11.2026 20:14",
-      "legs": [
-        {
-          "home": "Kongsvinger",
-          "away": "Stabaek",
-          "prediction": "Double Chance 12",
-          "odds": 1.06,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "Landskrona BoIS",
-          "away": "Orebro SK",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "2 - 1"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.06,
-      "winChance": 71.44,
-      "completedAt": "02.11.2026 20:00",
-      "legs": [
-        {
-          "home": "Kongsvinger",
-          "away": "Stabaek",
-          "prediction": "Double Chance 12",
-          "odds": 1.06,
-          "finalScore": "1 - 2"
         }
       ]
     }
@@ -295,7 +309,7 @@
     "matchCode": "4475931",
     "odds": 2.46,
     "patternScore": 66.93,
-    "patternText": "170.783/255.170",
+    "patternText": "170.787/255.178",
     "aiScore": 50,
     "picks": 6
   },
@@ -308,7 +322,7 @@
       "matchCode": "4475931",
       "odds": 2.46,
       "patternScore": 66.93,
-      "patternText": "170.783/255.170",
+      "patternText": "170.787/255.178",
       "aiScore": 50,
       "picks": 6
     },
@@ -320,7 +334,7 @@
       "matchCode": "4475930",
       "odds": 1.75,
       "patternScore": 66.84,
-      "patternText": "171.526/256.630",
+      "patternText": "171.530/256.638",
       "aiScore": 52,
       "picks": 4
     },
@@ -332,7 +346,7 @@
       "matchCode": "4488034",
       "odds": 1.28,
       "patternScore": 68.37,
-      "patternText": "170.599/249.530",
+      "patternText": "170.603/249.538",
       "aiScore": 67,
       "picks": 2
     },
@@ -344,7 +358,7 @@
       "matchCode": "4488032",
       "odds": 1.25,
       "patternScore": 68.33,
-      "patternText": "169.351/247.837",
+      "patternText": "169.359/247.849",
       "aiScore": 63,
       "picks": 2
     },
@@ -356,7 +370,7 @@
       "matchCode": "4487649",
       "odds": 1.23,
       "patternScore": 68.65,
-      "patternText": "180.950/263.599",
+      "patternText": "180.954/263.607",
       "aiScore": 62,
       "picks": 4
     }
