@@ -96,8 +96,8 @@
       "lost": 6
     }
   },
-  "updatedAt": "02.11.2026 07:19",
-  "updatedAtUtc": "2026-11-02T07:19:00Z",
+  "updatedAt": "02.11.2026 07:26",
+  "updatedAtUtc": "2026-11-02T07:26:00Z",
   "upcoming": [],
   "completed": [
     {
@@ -1458,69 +1458,6 @@
           "firstHalf": "0 - 0",
           "finalScore": "0 - 0",
           "status": "lost"
-        }
-      ]
-    },
-    {
-      "id": "20261101-06-2",
-      "createdAt": "01.11.2026 03:09",
-      "createdAtUtc": "2026-11-01T03:09:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 1.35,
-      "winChance": 49.17,
-      "firstKickoff": "01.11.2026 05:00",
-      "lastKickoff": "01.11.2026 05:00",
-      "status": "lost",
-      "completedAt": "01.11.2026 07:22",
-      "kind": "c70_2",
-      "group": "multi",
-      "formula": "2",
-      "effectiveOdds": 1.35,
-      "legs": [
-        {
-          "matchCode": "4487256",
-          "nesine": null,
-          "date": "01.11.2026 05:00",
-          "kickoffUtc": "2026-11-01T05:00:00Z",
-          "league": "JAP",
-          "home": "V-Varen Nagasaki",
-          "away": "Tokyo Verdy",
-          "league_tr": "JAP",
-          "home_tr": "V-Varen Nagasa",
-          "away_tr": "Tokyo Verdy",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.14,
-          "probability": 80.0,
-          "patternScore": 70.24,
-          "patternText": "169.458/241.247",
-          "mbs": 1,
-          "firstHalf": "0 - 1",
-          "finalScore": "1 - 2",
-          "status": "lost"
-        },
-        {
-          "matchCode": "4443072",
-          "nesine": null,
-          "date": "01.11.2026 05:00",
-          "kickoffUtc": "2026-11-01T05:00:00Z",
-          "league": "GK3L",
-          "home": "Ulsan Citizen",
-          "away": "Changwon City",
-          "league_tr": "GK3L",
-          "home_tr": "Ulsan Citizen",
-          "away_tr": "Changwon City",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.18,
-          "probability": 74.24,
-          "patternScore": 70.0,
-          "patternText": "281.270/401.816",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "2 - 1",
-          "status": "won"
         }
       ]
     }
