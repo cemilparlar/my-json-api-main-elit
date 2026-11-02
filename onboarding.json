@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 04:01",
+  "updatedAt": "02.11.2026 04:07",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 542,
-      "lost": 254,
-      "total": 796,
-      "rate": 68.1
+      "won": 543,
+      "lost": 255,
+      "total": 798,
+      "rate": 68.0
     },
     "totalAnalyses": 301091,
     "leagues": 535,
     "pro": {
-      "won": 743,
+      "won": 744,
       "lost": 306,
-      "total": 1049,
-      "rate": 70.8
+      "total": 1050,
+      "rate": 70.9
     },
     "insights": {
-      "won": 1319,
-      "lost": 562,
-      "total": 1881,
+      "won": 1320,
+      "lost": 563,
+      "total": 1883,
       "rate": 70.1
     },
     "coupons": {
-      "won": 30,
+      "won": 31,
       "lost": 21,
-      "total": 51,
-      "rate": 58.8
+      "total": 52,
+      "rate": 59.6
     },
     "analyses24h": 1228,
     "analyses30d": 21330
@@ -119,6 +119,21 @@
   ],
   "recentCoupons": [
     {
+      "size": 1,
+      "totalOdds": 1.08,
+      "winChance": 72.11,
+      "completedAt": "02.11.2026 04:07",
+      "legs": [
+        {
+          "home": "CSD Comunicaciones",
+          "away": "Mixco",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "3 - 1"
+        }
+      ]
+    },
+    {
       "size": 2,
       "totalOdds": 1.27,
       "winChance": 49.58,
@@ -174,21 +189,6 @@
           "prediction": "Double Chance 12",
           "odds": 1.08,
           "finalScore": "1 - 0"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.14,
-      "winChance": 70.73,
-      "completedAt": "01.11.2026 23:40",
-      "legs": [
-        {
-          "home": "Gremio FBPA",
-          "away": "Atletico Mineiro",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.14,
-          "finalScore": "2 - 0"
         }
       ]
     }
