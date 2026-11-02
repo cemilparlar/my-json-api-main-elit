@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 12:43",
+  "updatedAt": "02.11.2026 12:50",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 301874,
     "leagues": 534,
     "pro": {
-      "won": 756,
+      "won": 758,
       "lost": 310,
-      "total": 1066,
-      "rate": 70.9
+      "total": 1068,
+      "rate": 71.0
     },
     "insights": {
-      "won": 1348,
+      "won": 1351,
       "lost": 575,
-      "total": 1923,
+      "total": 1926,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 52,
       "rate": 59.6
     },
-    "analyses24h": 1596,
-    "analyses30d": 21880
+    "analyses24h": 1592,
+    "analyses30d": 21877
   },
   "recentWins": [
     {
@@ -305,8 +305,8 @@
       "date": "02.11.2026 17:00",
       "matchCode": "4542738",
       "odds": 1.48,
-      "patternScore": 67.5,
-      "patternText": "197.537/292.626",
+      "patternScore": 67.51,
+      "patternText": "197.543/292.632",
       "picks": 5
     },
     {
@@ -317,8 +317,19 @@
       "matchCode": "4475140",
       "odds": 1.44,
       "patternScore": 67.17,
-      "patternText": "228.612/340.339",
+      "patternText": "228.618/340.345",
       "picks": 4
+    },
+    {
+      "home": "Brezice",
+      "away": "ND Beltinci",
+      "league": "SLVN2",
+      "date": "02.11.2026 16:00",
+      "matchCode": "4484003",
+      "odds": 1.42,
+      "patternScore": 67.42,
+      "patternText": "194.349/288.271",
+      "picks": 1
     },
     {
       "home": "GAIS",
@@ -328,19 +339,8 @@
       "matchCode": "4426801",
       "odds": 1.38,
       "patternScore": 67.39,
-      "patternText": "224.629/333.320",
+      "patternText": "224.635/333.326",
       "picks": 5
-    },
-    {
-      "home": "Mashujaa",
-      "away": "Pamba Jiji",
-      "league": "TANZ",
-      "date": "02.11.2026 13:15",
-      "matchCode": "4509957",
-      "odds": 1.34,
-      "patternScore": 67.93,
-      "patternText": "178.112/262.199",
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
