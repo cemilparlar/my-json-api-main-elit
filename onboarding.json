@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 12:50",
+  "updatedAt": "02.11.2026 12:57",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 429,
-      "lost": 205,
-      "total": 634,
+      "won": 428,
+      "lost": 204,
+      "total": 632,
       "rate": 67.7
     },
-    "totalAnalyses": 301874,
+    "totalAnalyses": 301889,
     "leagues": 534,
     "pro": {
       "won": 758,
@@ -47,8 +47,8 @@
       "total": 52,
       "rate": 59.6
     },
-    "analyses24h": 1592,
-    "analyses30d": 21877
+    "analyses24h": 1603,
+    "analyses30d": 21889
   },
   "recentWins": [
     {
@@ -252,6 +252,12 @@
     },
     {
       "type": "updated",
+      "at": "02.11.2026 12:56",
+      "home": "US Sassuolo",
+      "away": "ACF Fiorentina"
+    },
+    {
+      "type": "updated",
       "at": "02.11.2026 11:18",
       "home": "Chonburi FC",
       "away": "BG Pathum United"
@@ -267,12 +273,6 @@
       "at": "02.11.2026 09:04",
       "home": "Krylya Sovetov",
       "away": "Zenit St. Petersburg"
-    },
-    {
-      "type": "updated",
-      "at": "02.11.2026 10:19",
-      "home": "FC Banik Ostrava",
-      "away": "FC Vysocina Jihlava"
     }
   ],
   "today": {
@@ -283,7 +283,7 @@
     "matchCode": "4492807",
     "odds": 1.52,
     "patternScore": 68.18,
-    "patternText": "126.355/185.324",
+    "patternText": "126.357/185.326",
     "picks": 2
   },
   "todayList": [
@@ -295,7 +295,7 @@
       "matchCode": "4492807",
       "odds": 1.52,
       "patternScore": 68.18,
-      "patternText": "126.355/185.324",
+      "patternText": "126.357/185.326",
       "picks": 2
     },
     {
@@ -306,7 +306,7 @@
       "matchCode": "4542738",
       "odds": 1.48,
       "patternScore": 67.51,
-      "patternText": "197.543/292.632",
+      "patternText": "197.551/292.640",
       "picks": 5
     },
     {
@@ -317,7 +317,7 @@
       "matchCode": "4475140",
       "odds": 1.44,
       "patternScore": 67.17,
-      "patternText": "228.618/340.345",
+      "patternText": "228.630/340.357",
       "picks": 4
     },
     {
@@ -328,7 +328,7 @@
       "matchCode": "4484003",
       "odds": 1.42,
       "patternScore": 67.42,
-      "patternText": "194.349/288.271",
+      "patternText": "194.357/288.279",
       "picks": 1
     },
     {
@@ -339,11 +339,25 @@
       "matchCode": "4426801",
       "odds": 1.38,
       "patternScore": 67.39,
-      "patternText": "224.635/333.326",
+      "patternText": "224.647/333.338",
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Aek",
+      "away": "Real Madrid",
+      "league": "ŞMP",
+      "at": "02.11.2026 12:56",
+      "count": 13
+    },
+    {
+      "home": "US Sassuolo",
+      "away": "ACF Fiorentina",
+      "league": "İTA",
+      "at": "02.11.2026 12:56",
+      "count": 8
+    },
     {
       "home": "Real Valladolid",
       "away": "CD Leganes",
@@ -356,13 +370,6 @@
       "away": "Hajduk Split",
       "league": "AVKL",
       "at": "02.11.2026 12:22",
-      "count": 12
-    },
-    {
-      "home": "US Sassuolo",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "at": "02.11.2026 11:41",
       "count": 12
     },
     {
@@ -406,13 +413,6 @@
       "league": "BR1",
       "at": "02.11.2026 07:08",
       "count": 11
-    },
-    {
-      "home": "Sao Paulo FC",
-      "away": "SC Corinthians",
-      "league": "BR1",
-      "at": "02.11.2026 07:07",
-      "count": 5
     }
   ],
   "paywall": {
