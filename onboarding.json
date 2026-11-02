@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 01:28",
+  "updatedAt": "02.11.2026 01:34",
   "config": {
     "pages": [
       "engine",
@@ -22,32 +22,32 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 548,
+      "won": 549,
       "lost": 262,
-      "total": 810,
+      "total": 811,
       "rate": 67.7
     },
     "totalAnalyses": 301091,
     "leagues": 535,
     "pro": {
-      "won": 745,
+      "won": 746,
       "lost": 306,
-      "total": 1051,
+      "total": 1052,
       "rate": 70.9
     },
     "insights": {
-      "won": 1321,
+      "won": 1322,
       "lost": 562,
-      "total": 1883,
+      "total": 1884,
       "rate": 70.2
     },
     "coupons": {
-      "won": 28,
+      "won": 29,
       "lost": 23,
-      "total": 51,
-      "rate": 54.9
+      "total": 52,
+      "rate": 55.8
     },
-    "analyses24h": 1252,
+    "analyses24h": 1246,
     "analyses30d": 21335
   },
   "recentWins": [
@@ -119,6 +119,28 @@
   ],
   "recentCoupons": [
     {
+      "size": 2,
+      "totalOdds": 1.17,
+      "winChance": 51.83,
+      "completedAt": "02.11.2026 01:34",
+      "legs": [
+        {
+          "home": "Santos Laguna",
+          "away": "Club Necaxa",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "1 - 0"
+        },
+        {
+          "home": "Universitario de Deportes",
+          "away": "Always Ready",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "1 - 3"
+        }
+      ]
+    },
+    {
       "size": 1,
       "totalOdds": 1.08,
       "winChance": 72.02,
@@ -154,28 +176,6 @@
       "winChance": 70.46,
       "completedAt": "01.11.2026 20:31",
       "legs": [
-        {
-          "home": "Palermo FC",
-          "away": "LR Vicenza",
-          "prediction": "Double Chance 12",
-          "odds": 1.07,
-          "finalScore": "3 - 1"
-        }
-      ]
-    },
-    {
-      "size": 2,
-      "totalOdds": 1.23,
-      "winChance": 49.6,
-      "completedAt": "01.11.2026 20:31",
-      "legs": [
-        {
-          "home": "Academico FC Viseu",
-          "away": "Rio Ave FC",
-          "prediction": "Double Chance 12",
-          "odds": 1.15,
-          "finalScore": "2 - 1"
-        },
         {
           "home": "Palermo FC",
           "away": "LR Vicenza",
@@ -239,12 +239,6 @@
     },
     {
       "type": "updated",
-      "at": "01.11.2026 19:28",
-      "home": "Extremadura 19",
-      "away": "Unionistas De S"
-    },
-    {
-      "type": "updated",
       "at": "01.11.2026 19:48",
       "home": "SC Braga",
       "away": "FC Famalicao"
@@ -266,6 +260,12 @@
       "at": "01.11.2026 20:42",
       "home": "Gremio FBPA",
       "away": "Atletico Mineiro"
+    },
+    {
+      "type": "updated",
+      "at": "01.11.2026 21:22",
+      "home": "Deportivo Saprissa",
+      "away": "LD Alajuelense"
     }
   ],
   "today": {
@@ -290,17 +290,6 @@
       "patternScore": 68.76,
       "patternText": "136.584/198.638",
       "picks": 2
-    },
-    {
-      "home": "CSD Comunicaciones",
-      "away": "Mixco",
-      "league": "GUAT",
-      "date": "02.11.2026 02:00",
-      "matchCode": "4490444",
-      "odds": 1.08,
-      "patternScore": 72.11,
-      "patternText": "201.575/279.538",
-      "picks": 1
     },
     {
       "home": "Cbe",
@@ -334,6 +323,17 @@
       "patternScore": 69.54,
       "patternText": "201.610/289.921",
       "picks": 2
+    },
+    {
+      "home": "Mashujaa",
+      "away": "Pamba Jiji",
+      "league": "TANZ",
+      "date": "02.11.2026 13:15",
+      "matchCode": "4509957",
+      "odds": 1.13,
+      "patternScore": 69.28,
+      "patternText": "212.704/307.033",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
