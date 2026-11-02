@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 19:28",
+  "updatedAt": "02.11.2026 19:35",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 163,
+      "won": 162,
       "lost": 85,
-      "total": 248,
-      "rate": 65.7
+      "total": 247,
+      "rate": 65.6
     },
     "totalAnalyses": 302299,
     "leagues": 532,
     "pro": {
-      "won": 783,
-      "lost": 324,
-      "total": 1107,
-      "rate": 70.7
+      "won": 780,
+      "lost": 321,
+      "total": 1101,
+      "rate": 70.8
     },
     "insights": {
-      "won": 1388,
-      "lost": 595,
-      "total": 1983,
-      "rate": 70.0
+      "won": 1380,
+      "lost": 589,
+      "total": 1969,
+      "rate": 70.1
     },
     "coupons": {
       "won": 35,
@@ -47,23 +47,10 @@
       "total": 58,
       "rate": 60.3
     },
-    "analyses24h": 1063,
-    "analyses30d": 21678
+    "analyses24h": 1060,
+    "analyses30d": 21676
   },
   "recentWins": [
-    {
-      "home": "Bayern Munich",
-      "away": "Borussia Dortmund",
-      "league": "AL1",
-      "date": "31.10.2026 17:30",
-      "prediction": "HT/FT 1/X",
-      "odds": 17.6,
-      "probability": 100.0,
-      "patternScore": 57.77,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 2",
-      "pro": false
-    },
     {
       "home": "FC Saarbrucken",
       "away": "Waldhof Mannheim",
@@ -115,6 +102,19 @@
       "firstHalf": "0 - 1",
       "finalScore": "0 - 3",
       "pro": true
+    },
+    {
+      "home": "Lokomotiv Moscow",
+      "away": "Spartak Moscow",
+      "league": "RUS",
+      "date": "01.11.2026 16:45",
+      "prediction": "Both Teams to Score - No",
+      "odds": 2.04,
+      "probability": 100.0,
+      "patternScore": 57.03,
+      "firstHalf": "0 - 3",
+      "finalScore": "0 - 4",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -189,14 +189,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Bayern Munich",
-      "away": "Borussia Dortmund",
-      "prediction": "HT/FT 1/X",
-      "odds": 17.6,
-      "at": "31.10.2026 17:30"
-    },
-    {
-      "type": "won",
       "home": "FC Saarbrucken",
       "away": "Waldhof Mannheim",
       "prediction": "Handicap (0:1) X",
@@ -218,6 +210,14 @@
       "prediction": "1st Half Under 0.5",
       "odds": 2.3,
       "at": "01.11.2026 21:30"
+    },
+    {
+      "type": "won",
+      "home": "Krylya Sovetov",
+      "away": "Zenit St. Petersburg",
+      "prediction": "Handicap (1:0) 2",
+      "odds": 2.12,
+      "at": "02.11.2026 15:00"
     },
     {
       "type": "coupon",
@@ -303,17 +303,6 @@
       "picks": 5
     },
     {
-      "home": "RCD Mallorca",
-      "away": "Cadiz CF",
-      "league": "İS2",
-      "date": "02.11.2026 20:00",
-      "matchCode": "4492806",
-      "odds": 1.79,
-      "patternScore": 66.68,
-      "patternText": "176.392/264.538",
-      "picks": 9
-    },
-    {
       "home": "Red Bull Bragantino",
       "away": "FC Santos",
       "league": "BR1",
@@ -334,6 +323,17 @@
       "patternScore": 67.1,
       "patternText": "111.090/165.553",
       "picks": 5
+    },
+    {
+      "home": "Defensa y Justicia",
+      "away": "Independiente del Valle",
+      "league": "ARJ",
+      "date": "02.11.2026 22:00",
+      "matchCode": "4475918",
+      "odds": 1.15,
+      "patternScore": 69.65,
+      "patternText": "112.378/161.337",
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
