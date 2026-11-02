@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 19:13",
+  "updatedAt": "02.11.2026 19:21",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 60.3
     },
-    "analyses24h": 1065,
-    "analyses30d": 21684
+    "analyses24h": 1061,
+    "analyses30d": 21676
   },
   "recentWins": [
     {
@@ -239,12 +239,6 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 13:18",
-      "home": "Real Oviedo",
-      "away": "UD Las Palmas"
-    },
-    {
-      "type": "updated",
       "at": "02.11.2026 16:10",
       "home": "Genclerbirligi",
       "away": "Alanyaspor"
@@ -266,6 +260,12 @@
       "at": "02.11.2026 19:07",
       "home": "Deportivo La Coruna",
       "away": "CA Osasuna"
+    },
+    {
+      "type": "updated",
+      "at": "02.11.2026 19:07",
+      "home": "Newcastle United",
+      "away": "Everton"
     }
   ],
   "today": {
@@ -276,7 +276,7 @@
     "matchCode": "4475931",
     "odds": 2.46,
     "patternScore": 66.94,
-    "patternText": "170.545/254.788",
+    "patternText": "170.569/254.816",
     "picks": 6
   },
   "todayList": [
@@ -288,7 +288,7 @@
       "matchCode": "4475931",
       "odds": 2.46,
       "patternScore": 66.94,
-      "patternText": "170.545/254.788",
+      "patternText": "170.569/254.816",
       "picks": 6
     },
     {
@@ -299,8 +299,19 @@
       "matchCode": "4475923",
       "odds": 2.1,
       "patternScore": 66.53,
-      "patternText": "116.400/174.968",
+      "patternText": "116.404/174.972",
       "picks": 5
+    },
+    {
+      "home": "RCD Mallorca",
+      "away": "Cadiz CF",
+      "league": "İS2",
+      "date": "02.11.2026 20:00",
+      "matchCode": "4492806",
+      "odds": 1.79,
+      "patternScore": 66.68,
+      "patternText": "176.392/264.538",
+      "picks": 9
     },
     {
       "home": "Red Bull Bragantino",
@@ -310,19 +321,8 @@
       "matchCode": "4423363",
       "odds": 1.78,
       "patternScore": 67.25,
-      "patternText": "117.946/175.376",
+      "patternText": "117.950/175.380",
       "picks": 4
-    },
-    {
-      "home": "RCD Mallorca",
-      "away": "Cadiz CF",
-      "league": "İS2",
-      "date": "02.11.2026 20:00",
-      "matchCode": "4492806",
-      "odds": 1.61,
-      "patternScore": 66.57,
-      "patternText": "182.918/274.762",
-      "picks": 9
     },
     {
       "home": "Atletico Tucuman",
@@ -332,7 +332,7 @@
       "matchCode": "4475930",
       "odds": 1.6,
       "patternScore": 67.1,
-      "patternText": "111.086/165.549",
+      "patternText": "111.090/165.553",
       "picks": 5
     }
   ],
