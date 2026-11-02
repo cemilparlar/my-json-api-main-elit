@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 17:32",
+  "updatedAt": "02.11.2026 17:40",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 55,
       "rate": 60.0
     },
-    "analyses24h": 1119,
-    "analyses30d": 21790
+    "analyses24h": 1115,
+    "analyses30d": 21786
   },
   "recentWins": [
     {
@@ -257,40 +257,29 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 17:29",
-      "home": "Atalanta",
-      "away": "Parma Calcio"
+      "at": "02.11.2026 17:30",
+      "home": "Deportivo La Coruna",
+      "away": "CA Osasuna"
     },
     {
       "type": "updated",
       "at": "02.11.2026 17:30",
-      "home": "Deportivo La Coruna",
-      "away": "CA Osasuna"
+      "home": "Newcastle United",
+      "away": "Everton"
     }
   ],
   "today": {
-    "home": "Deportivo La Coruna",
-    "away": "CA Osasuna",
-    "league": "İS1",
-    "date": "02.11.2026 20:00",
-    "matchCode": "4492361",
-    "odds": 3.98,
-    "patternScore": 67.01,
-    "patternText": "173.601/259.084",
-    "picks": 10
+    "home": "Red Bull Bragantino",
+    "away": "FC Santos",
+    "league": "BR1",
+    "date": "02.11.2026 23:00",
+    "matchCode": "4423363",
+    "odds": 1.78,
+    "patternScore": 67.26,
+    "patternText": "117.900/175.280",
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Deportivo La Coruna",
-      "away": "CA Osasuna",
-      "league": "İS1",
-      "date": "02.11.2026 20:00",
-      "matchCode": "4492361",
-      "odds": 3.98,
-      "patternScore": 67.01,
-      "patternText": "173.601/259.084",
-      "picks": 10
-    },
     {
       "home": "Red Bull Bragantino",
       "away": "FC Santos",
@@ -299,8 +288,19 @@
       "matchCode": "4423363",
       "odds": 1.78,
       "patternScore": 67.26,
-      "patternText": "117.898/175.278",
+      "patternText": "117.900/175.280",
       "picks": 4
+    },
+    {
+      "home": "RCD Mallorca",
+      "away": "Cadiz CF",
+      "league": "İS2",
+      "date": "02.11.2026 20:00",
+      "matchCode": "4492806",
+      "odds": 1.61,
+      "patternScore": 66.58,
+      "patternText": "182.746/274.462",
+      "picks": 6
     },
     {
       "home": "Stade de Reims",
@@ -310,7 +310,18 @@
       "matchCode": "4476907",
       "odds": 1.55,
       "patternScore": 67.86,
-      "patternText": "190.185/280.262",
+      "patternText": "190.187/280.266",
+      "picks": 4
+    },
+    {
+      "home": "Deportivo La Coruna",
+      "away": "CA Osasuna",
+      "league": "İS1",
+      "date": "02.11.2026 20:00",
+      "matchCode": "4492361",
+      "odds": 1.2,
+      "patternScore": 69.44,
+      "patternText": "243.606/350.839",
       "picks": 4
     },
     {
@@ -321,19 +332,8 @@
       "matchCode": "4535175",
       "odds": 1.17,
       "patternScore": 68.92,
-      "patternText": "199.733/289.799",
+      "patternText": "199.735/289.803",
       "picks": 3
-    },
-    {
-      "home": "Universidad de Cajamarca",
-      "away": "Deportivo Garci",
-      "league": "PER",
-      "date": "02.11.2026 18:15",
-      "matchCode": "4501910",
-      "odds": 1.17,
-      "patternScore": 68.28,
-      "patternText": "201.019/294.411",
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
