@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 17:47",
+  "updatedAt": "02.11.2026 17:54",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 170,
-      "lost": 65,
-      "total": 235,
-      "rate": 72.3
+      "won": 175,
+      "lost": 66,
+      "total": 241,
+      "rate": 72.6
     },
-    "totalAnalyses": 302222,
+    "totalAnalyses": 302228,
     "leagues": 532,
     "pro": {
       "won": 775,
@@ -36,10 +36,10 @@
       "rate": 70.6
     },
     "insights": {
-      "won": 1377,
-      "lost": 591,
-      "total": 1968,
-      "rate": 70.0
+      "won": 1378,
+      "lost": 592,
+      "total": 1970,
+      "rate": 69.9
     },
     "coupons": {
       "won": 33,
@@ -47,8 +47,8 @@
       "total": 55,
       "rate": 60.0
     },
-    "analyses24h": 1107,
-    "analyses30d": 21786
+    "analyses24h": 1116,
+    "analyses30d": 21795
   },
   "recentWins": [
     {
@@ -257,15 +257,15 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 17:30",
-      "home": "Deportivo La Coruna",
-      "away": "CA Osasuna"
+      "at": "02.11.2026 17:48",
+      "home": "Atalanta",
+      "away": "Parma Calcio"
     },
     {
       "type": "updated",
-      "at": "02.11.2026 17:30",
-      "home": "Newcastle United",
-      "away": "Everton"
+      "at": "02.11.2026 17:49",
+      "home": "Deportivo La Coruna",
+      "away": "CA Osasuna"
     }
   ],
   "today": {
@@ -276,7 +276,7 @@
     "matchCode": "4423363",
     "odds": 1.78,
     "patternScore": 67.26,
-    "patternText": "117.900/175.280",
+    "patternText": "117.902/175.282",
     "picks": 4
   },
   "todayList": [
@@ -288,7 +288,7 @@
       "matchCode": "4423363",
       "odds": 1.78,
       "patternScore": 67.26,
-      "patternText": "117.900/175.280",
+      "patternText": "117.902/175.282",
       "picks": 4
     },
     {
@@ -299,7 +299,7 @@
       "matchCode": "4492806",
       "odds": 1.61,
       "patternScore": 66.58,
-      "patternText": "182.746/274.462",
+      "patternText": "182.748/274.464",
       "picks": 6
     },
     {
@@ -310,7 +310,7 @@
       "matchCode": "4476907",
       "odds": 1.55,
       "patternScore": 67.86,
-      "patternText": "190.187/280.266",
+      "patternText": "190.189/280.268",
       "picks": 4
     },
     {
@@ -319,10 +319,10 @@
       "league": "İS1",
       "date": "02.11.2026 20:00",
       "matchCode": "4492361",
-      "odds": 1.2,
-      "patternScore": 69.44,
-      "patternText": "243.606/350.839",
-      "picks": 4
+      "odds": 1.44,
+      "patternScore": 67.25,
+      "patternText": "175.339/260.730",
+      "picks": 10
     },
     {
       "home": "Novara Calcio",
@@ -332,7 +332,7 @@
       "matchCode": "4535175",
       "odds": 1.17,
       "patternScore": 68.92,
-      "patternText": "199.735/289.803",
+      "patternText": "199.737/289.805",
       "picks": 3
     }
   ],
@@ -341,15 +341,22 @@
       "home": "Deportivo La Coruna",
       "away": "CA Osasuna",
       "league": "İS1",
-      "at": "02.11.2026 17:30",
-      "count": 11
+      "at": "02.11.2026 17:49",
+      "count": 10
     },
     {
       "home": "Newcastle United",
       "away": "Everton",
       "league": "İNP",
-      "at": "02.11.2026 17:30",
-      "count": 6
+      "at": "02.11.2026 17:49",
+      "count": 9
+    },
+    {
+      "home": "Atalanta",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "02.11.2026 17:48",
+      "count": 4
     },
     {
       "home": "RCD Mallorca",
@@ -357,13 +364,6 @@
       "league": "İS2",
       "at": "02.11.2026 17:30",
       "count": 6
-    },
-    {
-      "home": "Atalanta",
-      "away": "Parma Calcio",
-      "league": "İTA",
-      "at": "02.11.2026 17:29",
-      "count": 2
     },
     {
       "home": "Red Bull Bragantino",
