@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 14:09",
+  "updatedAt": "02.11.2026 14:17",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 328,
+      "won": 329,
       "lost": 138,
-      "total": 466,
+      "total": 467,
       "rate": 70.4
     },
-    "totalAnalyses": 301955,
+    "totalAnalyses": 301967,
     "leagues": 534,
     "pro": {
       "won": 768,
@@ -36,10 +36,10 @@
       "rate": 70.8
     },
     "insights": {
-      "won": 1370,
+      "won": 1371,
       "lost": 586,
-      "total": 1956,
-      "rate": 70.0
+      "total": 1957,
+      "rate": 70.1
     },
     "coupons": {
       "won": 32,
@@ -47,8 +47,8 @@
       "total": 54,
       "rate": 59.3
     },
-    "analyses24h": 1365,
-    "analyses30d": 21867
+    "analyses24h": 1363,
+    "analyses30d": 21865
   },
   "recentWins": [
     {
@@ -258,21 +258,21 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 13:19",
+      "at": "02.11.2026 14:16",
       "home": "US Sassuolo",
       "away": "ACF Fiorentina"
     },
     {
       "type": "updated",
-      "at": "02.11.2026 11:18",
-      "home": "Chonburi FC",
-      "away": "BG Pathum United"
+      "at": "02.11.2026 14:17",
+      "home": "Atalanta",
+      "away": "Parma Calcio"
     },
     {
       "type": "updated",
-      "at": "02.11.2026 13:57",
-      "home": "FC Torpedo Kutaisi",
-      "away": "FC Dila Gori"
+      "at": "02.11.2026 14:17",
+      "home": "Stade de Reims",
+      "away": "FC Sochaux"
     }
   ],
   "today": {
@@ -345,25 +345,32 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Red Star FC",
-      "away": "AS Nancy",
-      "league": "FR2",
-      "at": "02.11.2026 13:59",
-      "count": 4
-    },
-    {
       "home": "Atalanta",
       "away": "Parma Calcio",
       "league": "İTA",
-      "at": "02.11.2026 13:59",
-      "count": 6
+      "at": "02.11.2026 14:17",
+      "count": 9
+    },
+    {
+      "home": "Stade de Reims",
+      "away": "FC Sochaux",
+      "league": "FR2",
+      "at": "02.11.2026 14:17",
+      "count": 4
     },
     {
       "home": "US Sassuolo",
       "away": "ACF Fiorentina",
       "league": "İTA",
-      "at": "02.11.2026 13:19",
-      "count": 11
+      "at": "02.11.2026 14:16",
+      "count": 9
+    },
+    {
+      "home": "Red Star FC",
+      "away": "AS Nancy",
+      "league": "FR2",
+      "at": "02.11.2026 13:59",
+      "count": 4
     },
     {
       "home": "Real Oviedo",
@@ -406,13 +413,6 @@
       "league": "TSL",
       "at": "02.11.2026 11:19",
       "count": 7
-    },
-    {
-      "home": "SK Slavia Prague",
-      "away": "Arsenal",
-      "league": "ŞMP",
-      "at": "02.11.2026 09:59",
-      "count": 13
     }
   ],
   "paywall": {
