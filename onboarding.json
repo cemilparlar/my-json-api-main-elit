@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 10:59",
+  "updatedAt": "02.11.2026 11:06",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 511,
-      "lost": 235,
-      "total": 746,
-      "rate": 68.5
+      "won": 482,
+      "lost": 223,
+      "total": 705,
+      "rate": 68.4
     },
-    "totalAnalyses": 301699,
+    "totalAnalyses": 301717,
     "leagues": 534,
     "pro": {
       "won": 745,
@@ -47,8 +47,8 @@
       "total": 52,
       "rate": 59.6
     },
-    "analyses24h": 1676,
-    "analyses30d": 21823
+    "analyses24h": 1632,
+    "analyses30d": 21834
   },
   "recentWins": [
     {
@@ -246,6 +246,12 @@
     },
     {
       "type": "updated",
+      "at": "02.11.2026 10:58",
+      "home": "FC Torpedo Kutaisi",
+      "away": "FC Dila Gori"
+    },
+    {
+      "type": "updated",
       "at": "02.11.2026 09:04",
       "home": "Krylya Sovetov",
       "away": "Zenit St. Petersburg"
@@ -267,12 +273,6 @@
       "at": "02.11.2026 10:18",
       "home": "Vaasa",
       "away": "Helsinki"
-    },
-    {
-      "type": "updated",
-      "at": "02.11.2026 10:19",
-      "home": "Leixoes SC U23",
-      "away": "Rio Ave U23"
     }
   ],
   "today": {
@@ -310,17 +310,6 @@
       "picks": 1
     },
     {
-      "home": "GCR Temouchent",
-      "away": "Biskra",
-      "league": "CZYR",
-      "date": "02.11.2026 16:45",
-      "matchCode": "4546153",
-      "odds": 1.28,
-      "patternScore": 67.78,
-      "patternText": "189.356/279.381",
-      "picks": 1
-    },
-    {
       "home": "Naft Gachsaran",
       "away": "Sanat Mes Kerma",
       "league": "IRANAZ",
@@ -332,15 +321,26 @@
       "picks": 1
     },
     {
-      "home": "Besat Kermansh",
-      "away": "Saipa",
-      "league": "IRANAZ",
-      "date": "02.11.2026 11:30",
-      "matchCode": "4565269",
+      "home": "Radomiak Radom",
+      "away": "Slask Wroclaw",
+      "league": "POL",
+      "date": "02.11.2026 17:00",
+      "matchCode": "4484397",
       "odds": 1.17,
-      "patternScore": 70.14,
-      "patternText": "235.196/335.308",
-      "picks": 1
+      "patternScore": 68.14,
+      "patternText": "184.320/270.503",
+      "picks": 3
+    },
+    {
+      "home": "Zaglebie Lubin",
+      "away": "Korona Kielce",
+      "league": "POL",
+      "date": "02.11.2026 17:00",
+      "matchCode": "4484401",
+      "odds": 1.15,
+      "patternScore": 69.94,
+      "patternText": "258.090/369.006",
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
