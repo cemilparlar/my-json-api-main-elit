@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 22:14",
+  "updatedAt": "02.11.2026 22:21",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 303,
       "rate": 61.7
     },
-    "totalAnalyses": 302314,
+    "totalAnalyses": 302331,
     "leagues": 532,
     "pro": {
       "won": 834,
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 62.9
     },
-    "analyses24h": 967,
-    "analyses30d": 21665
+    "analyses24h": 982,
+    "analyses30d": 21667
   },
   "recentWins": [
     {
@@ -363,6 +363,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "FC Barcelona",
+      "away": "Aston Villa",
+      "league": "ŞMP",
+      "at": "02.11.2026 22:16",
+      "count": 15
+    },
+    {
       "home": "Red Bull Bragantino",
       "away": "FC Santos",
       "league": "BR1",
@@ -424,13 +431,6 @@
       "league": "TSL",
       "at": "02.11.2026 16:10",
       "count": 7
-    },
-    {
-      "home": "Villarreal CF",
-      "away": "Paris Saint-Germain",
-      "league": "ŞMP",
-      "at": "02.11.2026 15:52",
-      "count": 17
     }
   ],
   "paywall": {
