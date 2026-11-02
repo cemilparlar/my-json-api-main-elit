@@ -96,8 +96,8 @@
       "lost": 6
     }
   },
-  "updatedAt": "02.11.2026 12:57",
-  "updatedAtUtc": "2026-11-02T12:57:00Z",
+  "updatedAt": "02.11.2026 13:04",
+  "updatedAtUtc": "2026-11-02T13:04:00Z",
   "upcoming": [
     {
       "id": "20261102-12-1",
@@ -200,6 +200,47 @@
           "firstHalf": null,
           "finalScore": null,
           "status": "live"
+        }
+      ]
+    },
+    {
+      "id": "20261102-16-1",
+      "createdAt": "02.11.2026 13:04",
+      "createdAtUtc": "2026-11-02T13:04:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.13,
+      "winChance": 70.29,
+      "firstKickoff": "02.11.2026 15:00",
+      "lastKickoff": "02.11.2026 15:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.13,
+      "legs": [
+        {
+          "matchCode": "4435463",
+          "nesine": null,
+          "date": "02.11.2026 15:00",
+          "kickoffUtc": "2026-11-02T15:00:00Z",
+          "league": "GUR",
+          "home": "FC Torpedo Kutaisi",
+          "away": "FC Dila Gori",
+          "league_tr": "GUR",
+          "home_tr": "Torpedo Kutais",
+          "away_tr": "Dila Gori",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.13,
+          "probability": 72.29,
+          "patternScore": 70.29,
+          "patternText": "258.138/367.227",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending"
         }
       ]
     }
@@ -1395,91 +1436,6 @@
           "mbs": 1,
           "firstHalf": "0 - 2",
           "finalScore": "0 - 5",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261101-12-3",
-      "createdAt": "01.11.2026 09:10",
-      "createdAtUtc": "2026-11-01T09:10:00Z",
-      "size": 3,
-      "mbs": 1,
-      "totalOdds": 1.29,
-      "winChance": 35.38,
-      "firstKickoff": "01.11.2026 10:00",
-      "lastKickoff": "01.11.2026 11:30",
-      "status": "lost",
-      "completedAt": "01.11.2026 13:00",
-      "kind": "c70_3",
-      "group": "multi",
-      "formula": "3",
-      "effectiveOdds": 1.29,
-      "legs": [
-        {
-          "matchCode": "4454471",
-          "nesine": null,
-          "date": "01.11.2026 10:00",
-          "kickoffUtc": "2026-11-01T10:00:00Z",
-          "league": "BLR",
-          "home": "Isloch",
-          "away": "Slavia Mozyr",
-          "league_tr": "BLR",
-          "home_tr": "Isloch",
-          "away_tr": "Slavia Mozyr",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 75.31,
-          "patternScore": 70.66,
-          "patternText": "371.987/526.473",
-          "mbs": 1,
-          "firstHalf": "0 - 1",
-          "finalScore": "3 - 1",
-          "status": "won"
-        },
-        {
-          "matchCode": "4495201",
-          "nesine": null,
-          "date": "01.11.2026 11:00",
-          "kickoffUtc": "2026-11-01T11:00:00Z",
-          "league": "İS4",
-          "home": "Real Valladolid",
-          "away": "Getafe B",
-          "league_tr": "İS4",
-          "home_tr": "Real Valladoli",
-          "away_tr": "Getafe Ii",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.08,
-          "probability": 78.57,
-          "patternScore": 70.73,
-          "patternText": "171.451/242.415",
-          "mbs": 1,
-          "firstHalf": "1 - 2",
-          "finalScore": "4 - 3",
-          "status": "lost"
-        },
-        {
-          "matchCode": "4535171",
-          "nesine": null,
-          "date": "01.11.2026 11:30",
-          "kickoffUtc": "2026-11-01T11:30:00Z",
-          "league": "İTC",
-          "home": "Folgore Carate",
-          "away": "Union Brescia",
-          "league_tr": "İTC",
-          "home_tr": "Folgore Carate",
-          "away_tr": "Union Brescia",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.11,
-          "probability": 86.96,
-          "patternScore": 70.79,
-          "patternText": "220.930/312.094",
-          "mbs": 1,
-          "firstHalf": "0 - 2",
-          "finalScore": "0 - 4",
           "status": "won"
         }
       ]

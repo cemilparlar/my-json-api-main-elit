@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 12:57",
+  "updatedAt": "02.11.2026 13:04",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 428,
-      "lost": 204,
-      "total": 632,
+      "won": 365,
+      "lost": 174,
+      "total": 539,
       "rate": 67.7
     },
     "totalAnalyses": 301889,
     "leagues": 534,
     "pro": {
-      "won": 758,
-      "lost": 310,
-      "total": 1068,
-      "rate": 71.0
+      "won": 761,
+      "lost": 313,
+      "total": 1074,
+      "rate": 70.9
     },
     "insights": {
-      "won": 1351,
-      "lost": 575,
-      "total": 1926,
+      "won": 1353,
+      "lost": 578,
+      "total": 1931,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 52,
       "rate": 59.6
     },
-    "analyses24h": 1603,
-    "analyses30d": 21889
+    "analyses24h": 1481,
+    "analyses30d": 21886
   },
   "recentWins": [
     {
@@ -229,6 +229,12 @@
     {
       "type": "coupon",
       "size": 1,
+      "odds": 1.13,
+      "at": "02.11.2026 13:04"
+    },
+    {
+      "type": "coupon",
+      "size": 1,
       "odds": 1.1,
       "at": "02.11.2026 09:06"
     },
@@ -237,12 +243,6 @@
       "size": 2,
       "odds": 1.29,
       "at": "02.11.2026 09:06"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.08,
-      "at": "02.11.2026 01:06"
     },
     {
       "type": "updated",
@@ -310,17 +310,6 @@
       "picks": 5
     },
     {
-      "home": "US Sassuolo",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "date": "02.11.2026 17:30",
-      "matchCode": "4475140",
-      "odds": 1.44,
-      "patternScore": 67.17,
-      "patternText": "228.630/340.357",
-      "picks": 4
-    },
-    {
       "home": "Brezice",
       "away": "ND Beltinci",
       "league": "SLVN2",
@@ -340,6 +329,17 @@
       "odds": 1.38,
       "patternScore": 67.39,
       "patternText": "224.647/333.338",
+      "picks": 5
+    },
+    {
+      "home": "US Sassuolo",
+      "away": "ACF Fiorentina",
+      "league": "İTA",
+      "date": "02.11.2026 17:30",
+      "matchCode": "4475140",
+      "odds": 1.37,
+      "patternScore": 67.83,
+      "patternText": "127.463/187.914",
       "picks": 5
     }
   ],
