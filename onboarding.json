@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 16:49",
+  "updatedAt": "02.11.2026 16:56",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 290,
       "rate": 71.4
     },
-    "totalAnalyses": 302175,
+    "totalAnalyses": 302179,
     "leagues": 533,
     "pro": {
-      "won": 770,
-      "lost": 316,
-      "total": 1086,
+      "won": 773,
+      "lost": 317,
+      "total": 1090,
       "rate": 70.9
     },
     "insights": {
-      "won": 1364,
-      "lost": 583,
-      "total": 1947,
+      "won": 1369,
+      "lost": 585,
+      "total": 1954,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 54,
       "rate": 59.3
     },
-    "analyses24h": 1177,
-    "analyses30d": 21857
+    "analyses24h": 1173,
+    "analyses30d": 21853
   },
   "recentWins": [
     {
@@ -258,13 +258,13 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 14:56",
+      "at": "02.11.2026 16:49",
       "home": "Real Valladolid",
       "away": "CD Leganes"
     },
     {
       "type": "updated",
-      "at": "02.11.2026 16:29",
+      "at": "02.11.2026 16:51",
       "home": "Atalanta",
       "away": "Parma Calcio"
     },
@@ -299,17 +299,6 @@
       "picks": 4
     },
     {
-      "home": "Arda Kardzhali",
-      "away": "FC Septemvri Sofia",
-      "league": "BUL1",
-      "date": "02.11.2026 17:30",
-      "matchCode": "4476051",
-      "odds": 1.41,
-      "patternScore": 67.97,
-      "patternText": "179.110/263.523",
-      "picks": 2
-    },
-    {
       "home": "GAIS",
       "away": "Aik Stockholm",
       "league": "İSÇ",
@@ -321,17 +310,6 @@
       "picks": 5
     },
     {
-      "home": "Real Valladolid",
-      "away": "CD Leganes",
-      "league": "İS2",
-      "date": "02.11.2026 17:30",
-      "matchCode": "4492810",
-      "odds": 1.26,
-      "patternScore": 68.26,
-      "patternText": "212.171/310.816",
-      "picks": 3
-    },
-    {
       "home": "Deportivo La Coruna",
       "away": "CA Osasuna",
       "league": "İS1",
@@ -341,22 +319,51 @@
       "patternScore": 70.26,
       "patternText": "158.766/225.955",
       "picks": 4
+    },
+    {
+      "home": "Newcastle United",
+      "away": "Everton",
+      "league": "İNP",
+      "date": "02.11.2026 20:00",
+      "matchCode": "4481099",
+      "odds": 1.2,
+      "patternScore": 70.07,
+      "patternText": "120.387/171.802",
+      "picks": 3
+    },
+    {
+      "home": "FC Penafiel",
+      "away": "CD Feirense",
+      "league": "POR2",
+      "date": "02.11.2026 18:00",
+      "matchCode": "4517338",
+      "odds": 1.18,
+      "patternScore": 68.73,
+      "patternText": "205.092/298.397",
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "US Sassuolo",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "at": "02.11.2026 16:29",
-      "count": 6
-    },
-    {
       "home": "Atalanta",
       "away": "Parma Calcio",
       "league": "İTA",
-      "at": "02.11.2026 16:29",
-      "count": 13
+      "at": "02.11.2026 16:51",
+      "count": 8
+    },
+    {
+      "home": "Real Valladolid",
+      "away": "CD Leganes",
+      "league": "İS2",
+      "at": "02.11.2026 16:49",
+      "count": 5
+    },
+    {
+      "home": "US Sassuolo",
+      "away": "ACF Fiorentina",
+      "league": "İTA",
+      "at": "02.11.2026 16:49",
+      "count": 5
     },
     {
       "home": "Deportivo La Coruna",
@@ -392,13 +399,6 @@
       "league": "ŞMP",
       "at": "02.11.2026 15:52",
       "count": 17
-    },
-    {
-      "home": "Real Valladolid",
-      "away": "CD Leganes",
-      "league": "İS2",
-      "at": "02.11.2026 14:56",
-      "count": 3
     },
     {
       "home": "Red Star FC",
