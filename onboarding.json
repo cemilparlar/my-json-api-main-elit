@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 19:52",
+  "updatedAt": "02.11.2026 20:00",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 162,
-      "lost": 86,
-      "total": 248,
-      "rate": 65.3
+      "won": 175,
+      "lost": 94,
+      "total": 269,
+      "rate": 65.1
     },
     "totalAnalyses": 302299,
     "leagues": 532,
     "pro": {
-      "won": 780,
-      "lost": 321,
-      "total": 1101,
-      "rate": 70.8
+      "won": 790,
+      "lost": 323,
+      "total": 1113,
+      "rate": 71.0
     },
     "insights": {
-      "won": 1384,
-      "lost": 591,
-      "total": 1975,
+      "won": 1402,
+      "lost": 598,
+      "total": 2000,
       "rate": 70.1
     },
     "coupons": {
-      "won": 35,
+      "won": 36,
       "lost": 23,
-      "total": 58,
-      "rate": 60.3
+      "total": 59,
+      "rate": 61.0
     },
-    "analyses24h": 1048,
-    "analyses30d": 21675
+    "analyses24h": 1031,
+    "analyses30d": 21674
   },
   "recentWins": [
     {
@@ -125,6 +125,21 @@
   "recentCoupons": [
     {
       "size": 1,
+      "totalOdds": 1.06,
+      "winChance": 71.44,
+      "completedAt": "02.11.2026 20:00",
+      "legs": [
+        {
+          "home": "Kongsvinger",
+          "away": "Stabaek",
+          "prediction": "Double Chance 12",
+          "odds": 1.06,
+          "finalScore": "1 - 2"
+        }
+      ]
+    },
+    {
+      "size": 1,
       "totalOdds": 1.11,
       "winChance": 71.03,
       "completedAt": "02.11.2026 18:08",
@@ -174,21 +189,6 @@
           "finalScore": "2 - 1"
         }
       ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.1,
-      "winChance": 70.34,
-      "completedAt": "02.11.2026 13:11",
-      "legs": [
-        {
-          "home": "Tabora United",
-          "away": "Fountain Gate FC",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
-          "finalScore": "3 - 2"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -226,6 +226,12 @@
     },
     {
       "type": "coupon",
+      "size": 4,
+      "odds": 1.52,
+      "at": "02.11.2026 20:00"
+    },
+    {
+      "type": "coupon",
       "size": 1,
       "odds": 1.08,
       "at": "02.11.2026 19:06"
@@ -234,12 +240,6 @@
       "type": "coupon",
       "size": 2,
       "odds": 1.21,
-      "at": "02.11.2026 19:06"
-    },
-    {
-      "type": "coupon",
-      "size": 3,
-      "odds": 1.34,
       "at": "02.11.2026 19:06"
     },
     {
