@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 05:49",
+  "updatedAt": "02.11.2026 05:55",
   "config": {
     "pages": [
       "engine",
@@ -251,6 +251,12 @@
       "away": "Minnesota United"
     },
     {
+      "type": "updated",
+      "at": "02.11.2026 05:44",
+      "home": "Tabora United",
+      "away": "Fountain Gate FC"
+    },
+    {
       "type": "analysis",
       "count": 1214
     }
@@ -276,6 +282,17 @@
       "odds": 1.17,
       "patternScore": 70.15,
       "patternText": "235.190/335.288",
+      "picks": 1
+    },
+    {
+      "home": "Tabora United",
+      "away": "Fountain Gate FC",
+      "league": "TANZ",
+      "date": "02.11.2026 11:00",
+      "matchCode": "4509956",
+      "odds": 1.1,
+      "patternScore": 70.34,
+      "patternText": "264.529/376.082",
       "picks": 1
     },
     {
@@ -310,17 +327,6 @@
       "patternScore": 68.56,
       "patternText": "190.845/278.376",
       "picks": 2
-    },
-    {
-      "home": "Atromitos",
-      "away": "Volos Nfc",
-      "league": "YUN",
-      "date": "02.11.2026 16:00",
-      "matchCode": "4540154",
-      "odds": 1.21,
-      "patternScore": 68.45,
-      "patternText": "200.593/293.062",
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
