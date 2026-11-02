@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 21:53",
+  "updatedAt": "02.11.2026 22:00",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 166,
-      "lost": 105,
-      "total": 271,
-      "rate": 61.3
+      "won": 172,
+      "lost": 107,
+      "total": 279,
+      "rate": 61.6
     },
-    "totalAnalyses": 302310,
+    "totalAnalyses": 302314,
     "leagues": 532,
     "pro": {
-      "won": 817,
-      "lost": 337,
-      "total": 1154,
+      "won": 820,
+      "lost": 338,
+      "total": 1158,
       "rate": 70.8
     },
     "insights": {
-      "won": 1446,
-      "lost": 630,
-      "total": 2076,
+      "won": 1451,
+      "lost": 631,
+      "total": 2082,
       "rate": 69.7
     },
     "coupons": {
-      "won": 38,
+      "won": 39,
       "lost": 23,
-      "total": 61,
-      "rate": 62.3
+      "total": 62,
+      "rate": 62.9
     },
-    "analyses24h": 967,
-    "analyses30d": 21670
+    "analyses24h": 968,
+    "analyses30d": 21666
   },
   "recentWins": [
     {
@@ -124,6 +124,21 @@
   ],
   "recentCoupons": [
     {
+      "size": 1,
+      "totalOdds": 1.08,
+      "winChance": 70.65,
+      "completedAt": "02.11.2026 22:00",
+      "legs": [
+        {
+          "home": "Chelmsford",
+          "away": "Farnham Town",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.08,
+          "finalScore": "0 - 2"
+        }
+      ]
+    },
+    {
       "size": 3,
       "totalOdds": 1.21,
       "winChance": 36.2,
@@ -186,21 +201,6 @@
           "prediction": "Double Chance 12",
           "odds": 1.06,
           "finalScore": "1 - 2"
-        }
-      ]
-    },
-    {
-      "size": 1,
-      "totalOdds": 1.11,
-      "winChance": 71.03,
-      "completedAt": "02.11.2026 18:08",
-      "legs": [
-        {
-          "home": "FC Banik Ostrava",
-          "away": "FC Vysocina Jihlava",
-          "prediction": "Double Chance 12",
-          "odds": 1.11,
-          "finalScore": "1 - 3"
         }
       ]
     }

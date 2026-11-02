@@ -26,11 +26,11 @@
       "lost": 1
     },
     "multi": {
-      "won": 33,
+      "won": 34,
       "lost": 16
     },
     "c70_1": {
-      "won": 19,
+      "won": 20,
       "lost": 4
     },
     "c70_2": {
@@ -80,11 +80,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 33,
+      "won": 34,
       "lost": 16
     },
     "c70_1": {
-      "won": 19,
+      "won": 20,
       "lost": 4
     },
     "c70_2": {
@@ -96,50 +96,9 @@
       "lost": 7
     }
   },
-  "updatedAt": "02.11.2026 21:53",
-  "updatedAtUtc": "2026-11-02T21:53:00Z",
+  "updatedAt": "02.11.2026 22:00",
+  "updatedAtUtc": "2026-11-02T22:00:00Z",
   "upcoming": [
-    {
-      "id": "20261102-22-1",
-      "createdAt": "02.11.2026 19:06",
-      "createdAtUtc": "2026-11-02T19:06:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.08,
-      "winChance": 70.65,
-      "firstKickoff": "02.11.2026 19:45",
-      "lastKickoff": "02.11.2026 19:45",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.08,
-      "legs": [
-        {
-          "matchCode": "4516069",
-          "nesine": null,
-          "date": "02.11.2026 19:45",
-          "kickoffUtc": "2026-11-02T19:45:00Z",
-          "league": "İCON",
-          "home": "Chelmsford",
-          "away": "Farnham Town",
-          "league_tr": "İCON",
-          "home_tr": "Chelmsford",
-          "away_tr": "Farnham Town",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.08,
-          "probability": 81.61,
-          "patternScore": 70.65,
-          "patternText": "138.345/195.826",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261102-22-2",
       "createdAt": "02.11.2026 19:06",
@@ -175,9 +134,9 @@
           "patternScore": 70.65,
           "patternText": "138.345/195.826",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 2",
+          "status": "won"
         },
         {
           "matchCode": "4436000",
@@ -238,9 +197,9 @@
           "patternScore": 70.65,
           "patternText": "138.345/195.826",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 2",
+          "status": "won"
         },
         {
           "matchCode": "4476907",
@@ -349,7 +308,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 96
         },
         {
@@ -372,7 +331,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 93
         },
         {
@@ -402,6 +361,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261102-22-1",
+      "createdAt": "02.11.2026 19:06",
+      "createdAtUtc": "2026-11-02T19:06:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.08,
+      "winChance": 70.65,
+      "firstKickoff": "02.11.2026 19:45",
+      "lastKickoff": "02.11.2026 19:45",
+      "status": "won",
+      "completedAt": "02.11.2026 22:00",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.08,
+      "legs": [
+        {
+          "matchCode": "4516069",
+          "nesine": null,
+          "date": "02.11.2026 19:45",
+          "kickoffUtc": "2026-11-02T19:45:00Z",
+          "league": "İCON",
+          "home": "Chelmsford",
+          "away": "Farnham Town",
+          "league_tr": "İCON",
+          "home_tr": "Chelmsford",
+          "away_tr": "Farnham Town",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.08,
+          "probability": 81.61,
+          "patternScore": 70.65,
+          "patternText": "138.345/195.826",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 2",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261102-20-3",
       "createdAt": "02.11.2026 17:03",
