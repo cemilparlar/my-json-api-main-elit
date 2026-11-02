@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 12:19",
+  "updatedAt": "02.11.2026 12:27",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 447,
-      "lost": 204,
-      "total": 651,
-      "rate": 68.7
+      "won": 455,
+      "lost": 212,
+      "total": 667,
+      "rate": 68.2
     },
-    "totalAnalyses": 301813,
+    "totalAnalyses": 301841,
     "leagues": 534,
     "pro": {
-      "won": 752,
-      "lost": 309,
-      "total": 1061,
+      "won": 756,
+      "lost": 310,
+      "total": 1066,
       "rate": 70.9
     },
     "insights": {
-      "won": 1337,
-      "lost": 567,
-      "total": 1904,
-      "rate": 70.2
+      "won": 1345,
+      "lost": 575,
+      "total": 1920,
+      "rate": 70.1
     },
     "coupons": {
       "won": 31,
@@ -47,8 +47,8 @@
       "total": 52,
       "rate": 59.6
     },
-    "analyses24h": 1607,
-    "analyses30d": 21870
+    "analyses24h": 1623,
+    "analyses30d": 21886
   },
   "recentWins": [
     {
@@ -276,28 +276,17 @@
     }
   ],
   "today": {
-    "home": "Al Gharafa",
-    "away": "Al Qadsiah",
-    "league": "AŞMP",
-    "date": "02.11.2026 18:15",
-    "matchCode": "4550155",
-    "odds": 1.56,
-    "patternScore": 67.91,
-    "patternText": "235.300/346.495",
+    "home": "Real Oviedo",
+    "away": "UD Las Palmas",
+    "league": "İS2",
+    "date": "02.11.2026 15:15",
+    "matchCode": "4492807",
+    "odds": 1.52,
+    "patternScore": 68.18,
+    "patternText": "126.339/185.292",
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "Al Gharafa",
-      "away": "Al Qadsiah",
-      "league": "AŞMP",
-      "date": "02.11.2026 18:15",
-      "matchCode": "4550155",
-      "odds": 1.56,
-      "patternScore": 67.91,
-      "patternText": "235.300/346.495",
-      "picks": 2
-    },
     {
       "home": "Real Oviedo",
       "away": "UD Las Palmas",
@@ -306,7 +295,7 @@
       "matchCode": "4492807",
       "odds": 1.52,
       "patternScore": 68.18,
-      "patternText": "126.331/185.282",
+      "patternText": "126.339/185.292",
       "picks": 2
     },
     {
@@ -317,7 +306,7 @@
       "matchCode": "4542738",
       "odds": 1.48,
       "patternScore": 67.51,
-      "patternText": "197.513/292.584",
+      "patternText": "197.521/292.594",
       "picks": 5
     },
     {
@@ -328,22 +317,40 @@
       "matchCode": "4475140",
       "odds": 1.44,
       "patternScore": 67.17,
-      "patternText": "228.588/340.293",
+      "patternText": "228.596/340.303",
       "picks": 4
     },
     {
-      "home": "Kongsvinger",
-      "away": "Stabaek",
-      "league": "NOR1",
+      "home": "GAIS",
+      "away": "Aik Stockholm",
+      "league": "İSÇ",
       "date": "02.11.2026 18:00",
-      "matchCode": "4428748",
-      "odds": 1.41,
-      "patternScore": 68.1,
-      "patternText": "210.385/308.940",
-      "picks": 3
+      "matchCode": "4426801",
+      "odds": 1.38,
+      "patternScore": 67.39,
+      "patternText": "224.613/333.288",
+      "picks": 5
+    },
+    {
+      "home": "Mashujaa",
+      "away": "Pamba Jiji",
+      "league": "TANZ",
+      "date": "02.11.2026 13:15",
+      "matchCode": "4509957",
+      "odds": 1.34,
+      "patternScore": 67.93,
+      "patternText": "178.096/262.167",
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Lincoln Red Im",
+      "away": "Hajduk Split",
+      "league": "AVKL",
+      "at": "02.11.2026 12:22",
+      "count": 12
+    },
     {
       "home": "Real Valladolid",
       "away": "CD Leganes",
@@ -406,13 +413,6 @@
       "league": "BR1",
       "at": "02.11.2026 07:07",
       "count": 5
-    },
-    {
-      "home": "Botafogo de Futebol e Regatas",
-      "away": "Atletico Mineiro",
-      "league": "BR1",
-      "at": "02.11.2026 07:07",
-      "count": 6
     }
   ],
   "paywall": {
