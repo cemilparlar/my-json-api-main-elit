@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 23:45",
+  "updatedAt": "02.11.2026 23:52",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 302339,
     "leagues": 532,
     "pro": {
-      "won": 828,
+      "won": 829,
       "lost": 345,
-      "total": 1173,
+      "total": 1174,
       "rate": 70.6
     },
     "insights": {
-      "won": 1459,
+      "won": 1463,
       "lost": 638,
-      "total": 2097,
+      "total": 2101,
       "rate": 69.6
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 67.2
     },
     "analyses24h": 967,
-    "analyses30d": 21631
+    "analyses30d": 21628
   },
   "recentWins": [
     {
@@ -339,6 +339,18 @@
       "picks": 4
     },
     {
+      "home": "FC Imabari",
+      "away": "Consadole Sapporo",
+      "league": "JAP2",
+      "date": "03.11.2026 05:50",
+      "matchCode": "4487654",
+      "odds": 1.18,
+      "patternScore": 69.02,
+      "patternText": "176.014/255.010",
+      "aiScore": 89,
+      "picks": 4
+    },
+    {
       "home": "Waterhouse",
       "away": "Cavalier Sc",
       "league": "JAM",
@@ -360,18 +372,6 @@
       "patternScore": 69.55,
       "patternText": "192.708/277.090",
       "aiScore": 89,
-      "picks": 3
-    },
-    {
-      "home": "Kofu",
-      "away": "Albirex Niigata",
-      "league": "JAP2",
-      "date": "03.11.2026 05:00",
-      "matchCode": "4487651",
-      "odds": 1.15,
-      "patternScore": 70.68,
-      "patternText": "234.563/331.859",
-      "aiScore": 92,
       "picks": 3
     }
   ],
