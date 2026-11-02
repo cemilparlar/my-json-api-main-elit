@@ -100,8 +100,8 @@
       "lost": 6
     }
   },
-  "updatedAt": "02.11.2026 01:49",
-  "updatedAtUtc": "2026-11-02T01:49:00Z",
+  "updatedAt": "02.11.2026 02:03",
+  "updatedAtUtc": "2026-11-02T02:03:00Z",
   "upcoming": [
     {
       "id": "20261101-22-2",
@@ -176,7 +176,7 @@
       "winChance": 72.11,
       "firstKickoff": "02.11.2026 02:00",
       "lastKickoff": "02.11.2026 02:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "c70_1",
       "group": "multi",
@@ -203,7 +203,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending"
+          "status": "live"
         }
       ]
     }
@@ -1670,47 +1670,6 @@
           "mbs": 1,
           "firstHalf": "2 - 0",
           "finalScore": "3 - 1",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261101-00-1",
-      "createdAt": "31.10.2026 21:09",
-      "createdAtUtc": "2026-10-31T21:09:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.06,
-      "winChance": 71.18,
-      "firstKickoff": "31.10.2026 23:30",
-      "lastKickoff": "31.10.2026 23:30",
-      "status": "won",
-      "completedAt": "01.11.2026 01:54",
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.06,
-      "legs": [
-        {
-          "matchCode": "4576827",
-          "nesine": null,
-          "date": "31.10.2026 23:30",
-          "kickoffUtc": "2026-10-31T23:30:00Z",
-          "league": "VEN",
-          "home": "Caracas FC",
-          "away": "Monagas SC",
-          "league_tr": "VEN",
-          "home_tr": "Caracas Fc",
-          "away_tr": "Monagas",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.06,
-          "probability": 84.09,
-          "patternScore": 71.18,
-          "patternText": "157.707/221.568",
-          "mbs": 1,
-          "firstHalf": "2 - 1",
-          "finalScore": "2 - 3",
           "status": "won"
         }
       ]
