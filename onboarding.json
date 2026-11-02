@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 19:06",
+  "updatedAt": "02.11.2026 19:13",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 152,
-      "lost": 84,
-      "total": 236,
-      "rate": 64.4
+      "won": 163,
+      "lost": 85,
+      "total": 248,
+      "rate": 65.7
     },
-    "totalAnalyses": 302291,
+    "totalAnalyses": 302299,
     "leagues": 532,
     "pro": {
-      "won": 773,
-      "lost": 322,
-      "total": 1095,
-      "rate": 70.6
+      "won": 783,
+      "lost": 324,
+      "total": 1107,
+      "rate": 70.7
     },
     "insights": {
-      "won": 1374,
-      "lost": 592,
-      "total": 1966,
-      "rate": 69.9
+      "won": 1388,
+      "lost": 595,
+      "total": 1983,
+      "rate": 70.0
     },
     "coupons": {
       "won": 35,
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 60.3
     },
-    "analyses24h": 1058,
-    "analyses30d": 21677
+    "analyses24h": 1065,
+    "analyses30d": 21684
   },
   "recentWins": [
     {
@@ -263,7 +263,7 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 18:49",
+      "at": "02.11.2026 19:07",
       "home": "Deportivo La Coruna",
       "away": "CA Osasuna"
     }
@@ -322,7 +322,7 @@
       "odds": 1.61,
       "patternScore": 66.57,
       "patternText": "182.918/274.762",
-      "picks": 6
+      "picks": 9
     },
     {
       "home": "Atletico Tucuman",
@@ -338,6 +338,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Deportivo La Coruna",
+      "away": "CA Osasuna",
+      "league": "İS1",
+      "at": "02.11.2026 19:07",
+      "count": 8
+    },
+    {
+      "home": "Newcastle United",
+      "away": "Everton",
+      "league": "İNP",
+      "at": "02.11.2026 19:07",
+      "count": 10
+    },
+    {
+      "home": "RCD Mallorca",
+      "away": "Cadiz CF",
+      "league": "İS2",
+      "at": "02.11.2026 19:07",
+      "count": 9
+    },
+    {
       "home": "Atalanta",
       "away": "Parma Calcio",
       "league": "İTA",
@@ -345,32 +366,11 @@
       "count": 15
     },
     {
-      "home": "Deportivo La Coruna",
-      "away": "CA Osasuna",
-      "league": "İS1",
-      "at": "02.11.2026 18:49",
-      "count": 10
-    },
-    {
-      "home": "Newcastle United",
-      "away": "Everton",
-      "league": "İNP",
-      "at": "02.11.2026 18:49",
-      "count": 8
-    },
-    {
       "home": "Stade de Reims",
       "away": "FC Sochaux",
       "league": "FR2",
       "at": "02.11.2026 18:11",
       "count": 8
-    },
-    {
-      "home": "RCD Mallorca",
-      "away": "Cadiz CF",
-      "league": "İS2",
-      "at": "02.11.2026 17:30",
-      "count": 6
     },
     {
       "home": "Red Bull Bragantino",
