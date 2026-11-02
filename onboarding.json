@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 19:42",
+  "updatedAt": "02.11.2026 19:52",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 171,
-      "lost": 88,
-      "total": 259,
-      "rate": 66.0
+      "won": 162,
+      "lost": 86,
+      "total": 248,
+      "rate": 65.3
     },
     "totalAnalyses": 302299,
     "leagues": 532,
     "pro": {
-      "won": 785,
-      "lost": 323,
-      "total": 1108,
+      "won": 780,
+      "lost": 321,
+      "total": 1101,
       "rate": 70.8
     },
     "insights": {
-      "won": 1388,
-      "lost": 592,
-      "total": 1980,
+      "won": 1384,
+      "lost": 591,
+      "total": 1975,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 60.3
     },
-    "analyses24h": 1060,
-    "analyses30d": 21676
+    "analyses24h": 1048,
+    "analyses30d": 21675
   },
   "recentWins": [
     {
@@ -256,6 +256,12 @@
     },
     {
       "type": "updated",
+      "at": "02.11.2026 16:49",
+      "home": "US Sassuolo",
+      "away": "ACF Fiorentina"
+    },
+    {
+      "type": "updated",
       "at": "02.11.2026 19:06",
       "home": "Atalanta",
       "away": "Parma Calcio"
@@ -265,12 +271,6 @@
       "at": "02.11.2026 19:23",
       "home": "Deportivo La Coruna",
       "away": "CA Osasuna"
-    },
-    {
-      "type": "updated",
-      "at": "02.11.2026 19:24",
-      "home": "Newcastle United",
-      "away": "Everton"
     }
   ],
   "today": {
@@ -280,8 +280,8 @@
     "date": "03.11.2026 00:15",
     "matchCode": "4475931",
     "odds": 2.46,
-    "patternScore": 66.93,
-    "patternText": "170.623/254.912",
+    "patternScore": 66.94,
+    "patternText": "170.643/254.938",
     "aiScore": 50,
     "picks": 6
   },
@@ -293,8 +293,8 @@
       "date": "03.11.2026 00:15",
       "matchCode": "4475931",
       "odds": 2.46,
-      "patternScore": 66.93,
-      "patternText": "170.623/254.912",
+      "patternScore": 66.94,
+      "patternText": "170.643/254.938",
       "aiScore": 50,
       "picks": 6
     },
@@ -306,7 +306,7 @@
       "matchCode": "4475923",
       "odds": 2.1,
       "patternScore": 66.53,
-      "patternText": "116.414/174.988",
+      "patternText": "116.434/175.016",
       "aiScore": 51,
       "picks": 5
     },
@@ -318,7 +318,7 @@
       "matchCode": "4423363",
       "odds": 1.78,
       "patternScore": 67.25,
-      "patternText": "117.950/175.380",
+      "patternText": "117.952/175.384",
       "aiScore": 53,
       "picks": 4
     },
@@ -330,7 +330,7 @@
       "matchCode": "4475930",
       "odds": 1.6,
       "patternScore": 67.1,
-      "patternText": "111.120/165.601",
+      "patternText": "111.128/165.613",
       "aiScore": 54,
       "picks": 5
     },
@@ -341,8 +341,8 @@
       "date": "02.11.2026 22:00",
       "matchCode": "4475918",
       "odds": 1.15,
-      "patternScore": 69.65,
-      "patternText": "112.388/161.353",
+      "patternScore": 69.66,
+      "patternText": "112.432/161.409",
       "aiScore": 89,
       "picks": 2
     }
