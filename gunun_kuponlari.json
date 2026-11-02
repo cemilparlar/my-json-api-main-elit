@@ -26,11 +26,11 @@
       "lost": 1
     },
     "multi": {
-      "won": 26,
+      "won": 27,
       "lost": 14
     },
     "c70_1": {
-      "won": 15,
+      "won": 16,
       "lost": 4
     },
     "c70_2": {
@@ -80,11 +80,11 @@
       "lost": 9
     },
     "multi": {
-      "won": 26,
+      "won": 27,
       "lost": 14
     },
     "c70_1": {
-      "won": 15,
+      "won": 16,
       "lost": 4
     },
     "c70_2": {
@@ -96,50 +96,9 @@
       "lost": 6
     }
   },
-  "updatedAt": "02.11.2026 13:04",
-  "updatedAtUtc": "2026-11-02T13:04:00Z",
+  "updatedAt": "02.11.2026 13:11",
+  "updatedAtUtc": "2026-11-02T13:11:00Z",
   "upcoming": [
-    {
-      "id": "20261102-12-1",
-      "createdAt": "02.11.2026 09:06",
-      "createdAtUtc": "2026-11-02T09:06:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.1,
-      "winChance": 70.34,
-      "firstKickoff": "02.11.2026 11:00",
-      "lastKickoff": "02.11.2026 11:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.1,
-      "legs": [
-        {
-          "matchCode": "4509956",
-          "nesine": null,
-          "date": "02.11.2026 11:00",
-          "kickoffUtc": "2026-11-02T11:00:00Z",
-          "league": "TANZ",
-          "home": "Tabora United",
-          "away": "Fountain Gate FC",
-          "league_tr": "TANZ",
-          "home_tr": "Tabora United",
-          "away_tr": "Fountain Gate",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 76.47,
-          "patternScore": 70.34,
-          "patternText": "264.535/376.102",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        }
-      ]
-    },
     {
       "id": "20261102-12-2",
       "createdAt": "02.11.2026 09:06",
@@ -175,9 +134,9 @@
           "patternScore": 70.34,
           "patternText": "264.535/376.102",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
+          "firstHalf": "2 - 0",
+          "finalScore": "3 - 2",
+          "status": "won"
         },
         {
           "matchCode": "4565269",
@@ -246,6 +205,47 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261102-12-1",
+      "createdAt": "02.11.2026 09:06",
+      "createdAtUtc": "2026-11-02T09:06:00Z",
+      "size": 1,
+      "mbs": 1,
+      "totalOdds": 1.1,
+      "winChance": 70.34,
+      "firstKickoff": "02.11.2026 11:00",
+      "lastKickoff": "02.11.2026 11:00",
+      "status": "won",
+      "completedAt": "02.11.2026 13:11",
+      "kind": "c70_1",
+      "group": "multi",
+      "formula": "1",
+      "effectiveOdds": 1.1,
+      "legs": [
+        {
+          "matchCode": "4509956",
+          "nesine": null,
+          "date": "02.11.2026 11:00",
+          "kickoffUtc": "2026-11-02T11:00:00Z",
+          "league": "TANZ",
+          "home": "Tabora United",
+          "away": "Fountain Gate FC",
+          "league_tr": "TANZ",
+          "home_tr": "Tabora United",
+          "away_tr": "Fountain Gate",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 76.47,
+          "patternScore": 70.34,
+          "patternText": "264.535/376.102",
+          "mbs": 1,
+          "firstHalf": "2 - 0",
+          "finalScore": "3 - 2",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261102-04-1",
       "createdAt": "02.11.2026 01:06",
