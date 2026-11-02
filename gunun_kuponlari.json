@@ -96,8 +96,8 @@
       "lost": 6
     }
   },
-  "updatedAt": "02.11.2026 15:22",
-  "updatedAtUtc": "2026-11-02T15:22:00Z",
+  "updatedAt": "02.11.2026 15:29",
+  "updatedAtUtc": "2026-11-02T15:29:00Z",
   "upcoming": [
     {
       "id": "20261102-16-1",
@@ -1584,47 +1584,6 @@
           "mbs": 1,
           "firstHalf": "1 - 1",
           "finalScore": "2 - 1",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261101-14-1",
-      "createdAt": "01.11.2026 11:56",
-      "createdAtUtc": "2026-11-01T11:56:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.07,
-      "winChance": 71.23,
-      "firstKickoff": "01.11.2026 13:30",
-      "lastKickoff": "01.11.2026 13:30",
-      "status": "won",
-      "completedAt": "01.11.2026 15:27",
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.07,
-      "legs": [
-        {
-          "matchCode": "4481909",
-          "nesine": null,
-          "date": "01.11.2026 13:30",
-          "kickoffUtc": "2026-11-01T13:30:00Z",
-          "league": "HOL2",
-          "home": "FC Emmen",
-          "away": "FC Den Bosch",
-          "league_tr": "HOL2",
-          "home_tr": "Emmen",
-          "away_tr": "Den Bosch",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.07,
-          "probability": 89.29,
-          "patternScore": 71.23,
-          "patternText": "228.042/320.134",
-          "mbs": 1,
-          "firstHalf": "0 - 2",
-          "finalScore": "0 - 5",
           "status": "won"
         }
       ]
