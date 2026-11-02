@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 13:32",
+  "updatedAt": "02.11.2026 13:39",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 500,
       "rate": 69.2
     },
-    "totalAnalyses": 301905,
+    "totalAnalyses": 301920,
     "leagues": 534,
     "pro": {
       "won": 767,
@@ -91,6 +91,19 @@
       "pro": true
     },
     {
+      "home": "Newells Old Boys",
+      "away": "Union Santa Fe",
+      "league": "ARJ",
+      "date": "01.11.2026 21:30",
+      "prediction": "1st Half Under 0.5",
+      "odds": 2.3,
+      "probability": 70.0,
+      "patternScore": 67.9,
+      "firstHalf": "0 - 0",
+      "finalScore": "1 - 1",
+      "pro": true
+    },
+    {
       "home": "Annecy",
       "away": "Montpellier HSC",
       "league": "FR2",
@@ -102,19 +115,6 @@
       "firstHalf": "0 - 2",
       "finalScore": "0 - 3",
       "pro": true
-    },
-    {
-      "home": "Verl 1924",
-      "away": "SV Wehen Wiesbaden",
-      "league": "AL3",
-      "date": "31.10.2026 13:00",
-      "prediction": "Over 3.5 Goals",
-      "odds": 2.06,
-      "probability": 71.43,
-      "patternScore": 66.92,
-      "firstHalf": "1 - 1",
-      "finalScore": "1 - 4",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -220,11 +220,11 @@
     },
     {
       "type": "won",
-      "home": "Annecy",
-      "away": "Montpellier HSC",
-      "prediction": "Match Result 2",
-      "odds": 2.1,
-      "at": "31.10.2026 13:00"
+      "home": "Newells Old Boys",
+      "away": "Union Santa Fe",
+      "prediction": "1st Half Under 0.5",
+      "odds": 2.3,
+      "at": "01.11.2026 21:30"
     },
     {
       "type": "coupon",
@@ -282,8 +282,8 @@
     "date": "02.11.2026 15:15",
     "matchCode": "4492807",
     "odds": 1.49,
-    "patternScore": 67.83,
-    "patternText": "205.381/302.797",
+    "patternScore": 67.84,
+    "patternText": "205.465/302.883",
     "picks": 3
   },
   "todayList": [
@@ -294,8 +294,8 @@
       "date": "02.11.2026 15:15",
       "matchCode": "4492807",
       "odds": 1.49,
-      "patternScore": 67.83,
-      "patternText": "205.381/302.797",
+      "patternScore": 67.84,
+      "patternText": "205.465/302.883",
       "picks": 3
     },
     {
@@ -305,8 +305,8 @@
       "date": "02.11.2026 17:00",
       "matchCode": "4542738",
       "odds": 1.48,
-      "patternScore": 67.51,
-      "patternText": "197.569/292.664",
+      "patternScore": 67.52,
+      "patternText": "197.653/292.750",
       "picks": 5
     },
     {
@@ -316,8 +316,8 @@
       "date": "02.11.2026 18:00",
       "matchCode": "4426801",
       "odds": 1.38,
-      "patternScore": 67.39,
-      "patternText": "224.665/333.362",
+      "patternScore": 67.4,
+      "patternText": "224.757/333.456",
       "picks": 5
     },
     {
@@ -327,8 +327,8 @@
       "date": "02.11.2026 17:30",
       "matchCode": "4476051",
       "odds": 1.28,
-      "patternScore": 68.28,
-      "patternText": "195.334/286.061",
+      "patternScore": 68.29,
+      "patternText": "195.378/286.107",
       "picks": 2
     },
     {
@@ -338,8 +338,8 @@
       "date": "02.11.2026 17:30",
       "matchCode": "4475140",
       "odds": 1.25,
-      "patternScore": 66.62,
-      "patternText": "141.199/211.940",
+      "patternScore": 66.63,
+      "patternText": "141.291/212.038",
       "picks": 4
     }
   ],
