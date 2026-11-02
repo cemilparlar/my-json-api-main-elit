@@ -26,7 +26,7 @@
       "lost": 1
     },
     "multi": {
-      "won": 24,
+      "won": 25,
       "lost": 14
     },
     "c70_1": {
@@ -34,7 +34,7 @@
       "lost": 4
     },
     "c70_2": {
-      "won": 7,
+      "won": 8,
       "lost": 4
     },
     "c70_3": {
@@ -80,7 +80,7 @@
       "lost": 9
     },
     "multi": {
-      "won": 24,
+      "won": 25,
       "lost": 14
     },
     "c70_1": {
@@ -88,7 +88,7 @@
       "lost": 4
     },
     "c70_2": {
-      "won": 7,
+      "won": 8,
       "lost": 4
     },
     "c70_3": {
@@ -96,72 +96,9 @@
       "lost": 6
     }
   },
-  "updatedAt": "02.11.2026 03:54",
-  "updatedAtUtc": "2026-11-02T03:54:00Z",
+  "updatedAt": "02.11.2026 04:01",
+  "updatedAtUtc": "2026-11-02T04:01:00Z",
   "upcoming": [
-    {
-      "id": "20261101-22-2",
-      "createdAt": "01.11.2026 19:01",
-      "createdAtUtc": "2026-11-01T19:01:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 1.27,
-      "winChance": 49.58,
-      "firstKickoff": "01.11.2026 20:00",
-      "lastKickoff": "01.11.2026 21:30",
-      "status": "live",
-      "completedAt": null,
-      "kind": "c70_2",
-      "group": "multi",
-      "formula": "2",
-      "effectiveOdds": 1.27,
-      "legs": [
-        {
-          "matchCode": "4492809",
-          "nesine": null,
-          "date": "01.11.2026 20:00",
-          "kickoffUtc": "2026-11-01T20:00:00Z",
-          "league": "İS2",
-          "home": "CD Tenerife",
-          "away": "FC Andorra",
-          "league_tr": "İS2",
-          "home_tr": "Tenerife",
-          "away_tr": "Fc Andorra",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.11,
-          "probability": 89.47,
-          "patternScore": 70.1,
-          "patternText": "176.286/251.473",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live"
-        },
-        {
-          "matchCode": "4564199",
-          "nesine": null,
-          "date": "01.11.2026 21:30",
-          "kickoffUtc": "2026-11-01T21:30:00Z",
-          "league": "BRK",
-          "home": "Gremio FBPA",
-          "away": "Atletico Mineiro",
-          "league_tr": "BRK",
-          "home_tr": "Gremio",
-          "away_tr": "Atletico Mg",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.14,
-          "probability": 81.82,
-          "patternScore": 70.73,
-          "patternText": "121.555/171.861",
-          "mbs": 1,
-          "firstHalf": "1 - 0",
-          "finalScore": "2 - 0",
-          "status": "won"
-        }
-      ]
-    },
     {
       "id": "20261102-04-1",
       "createdAt": "02.11.2026 01:06",
@@ -205,6 +142,69 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261101-22-2",
+      "createdAt": "01.11.2026 19:01",
+      "createdAtUtc": "2026-11-01T19:01:00Z",
+      "size": 2,
+      "mbs": 1,
+      "totalOdds": 1.27,
+      "winChance": 49.58,
+      "firstKickoff": "01.11.2026 20:00",
+      "lastKickoff": "01.11.2026 21:30",
+      "status": "won",
+      "completedAt": "02.11.2026 04:01",
+      "kind": "c70_2",
+      "group": "multi",
+      "formula": "2",
+      "effectiveOdds": 1.14,
+      "legs": [
+        {
+          "matchCode": "4492809",
+          "nesine": null,
+          "date": "01.11.2026 20:00",
+          "kickoffUtc": "2026-11-01T20:00:00Z",
+          "league": "İS2",
+          "home": "CD Tenerife",
+          "away": "FC Andorra",
+          "league_tr": "İS2",
+          "home_tr": "Tenerife",
+          "away_tr": "Fc Andorra",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.11,
+          "probability": 89.47,
+          "patternScore": 70.1,
+          "patternText": "176.286/251.473",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "void"
+        },
+        {
+          "matchCode": "4564199",
+          "nesine": null,
+          "date": "01.11.2026 21:30",
+          "kickoffUtc": "2026-11-01T21:30:00Z",
+          "league": "BRK",
+          "home": "Gremio FBPA",
+          "away": "Atletico Mineiro",
+          "league_tr": "BRK",
+          "home_tr": "Gremio",
+          "away_tr": "Atletico Mg",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.14,
+          "probability": 81.82,
+          "patternScore": 70.73,
+          "patternText": "121.555/171.861",
+          "mbs": 1,
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 0",
+          "status": "won"
+        }
+      ]
+    },
     {
       "id": "20261102-00-2",
       "createdAt": "01.11.2026 21:01",
