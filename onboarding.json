@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "02.11.2026 17:10",
+  "updatedAt": "02.11.2026 17:18",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 185,
-      "lost": 72,
-      "total": 257,
-      "rate": 72.0
+      "won": 181,
+      "lost": 71,
+      "total": 252,
+      "rate": 71.8
     },
-    "totalAnalyses": 302184,
+    "totalAnalyses": 302203,
     "leagues": 532,
     "pro": {
-      "won": 767,
-      "lost": 313,
-      "total": 1080,
-      "rate": 71.0
+      "won": 773,
+      "lost": 320,
+      "total": 1093,
+      "rate": 70.7
     },
     "insights": {
-      "won": 1368,
-      "lost": 582,
-      "total": 1950,
-      "rate": 70.2
+      "won": 1374,
+      "lost": 589,
+      "total": 1963,
+      "rate": 70.0
     },
     "coupons": {
       "won": 33,
@@ -48,7 +48,7 @@
       "rate": 60.0
     },
     "analyses24h": 1133,
-    "analyses30d": 21792
+    "analyses30d": 21797
   },
   "recentWins": [
     {
@@ -257,13 +257,13 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 16:51",
+      "at": "02.11.2026 17:12",
       "home": "Atalanta",
       "away": "Parma Calcio"
     },
     {
       "type": "updated",
-      "at": "02.11.2026 16:11",
+      "at": "02.11.2026 17:12",
       "home": "Deportivo La Coruna",
       "away": "CA Osasuna"
     }
@@ -303,46 +303,67 @@
       "picks": 5
     },
     {
+      "home": "FC Penafiel",
+      "away": "CD Feirense",
+      "league": "POR2",
+      "date": "02.11.2026 18:00",
+      "matchCode": "4517338",
+      "odds": 1.18,
+      "patternScore": 68.78,
+      "patternText": "206.428/300.139",
+      "picks": 3
+    },
+    {
       "home": "Deportivo La Coruna",
       "away": "CA Osasuna",
       "league": "İS1",
       "date": "02.11.2026 20:00",
       "matchCode": "4492361",
-      "odds": 1.21,
-      "patternScore": 70.27,
-      "patternText": "158.802/226.003",
-      "picks": 4
+      "odds": 1.18,
+      "patternScore": 67.5,
+      "patternText": "197.878/293.146",
+      "picks": 10
     },
     {
-      "home": "Newcastle United",
-      "away": "Everton",
-      "league": "İNP",
-      "date": "02.11.2026 20:00",
-      "matchCode": "4481099",
-      "odds": 1.2,
-      "patternScore": 70.07,
-      "patternText": "120.421/171.854",
-      "picks": 3
-    },
-    {
-      "home": "Jong PSV",
-      "away": "NAC Breda",
-      "league": "HOL2",
-      "date": "02.11.2026 19:00",
-      "matchCode": "4481918",
-      "odds": 1.19,
-      "patternScore": 67.62,
-      "patternText": "214.890/317.781",
+      "home": "Novara Calcio",
+      "away": "Calvina",
+      "league": "İTC",
+      "date": "02.11.2026 19:30",
+      "matchCode": "4535175",
+      "odds": 1.17,
+      "patternScore": 68.92,
+      "patternText": "199.703/289.763",
       "picks": 3
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "Newcastle United",
+      "away": "Everton",
+      "league": "İNP",
+      "at": "02.11.2026 17:13",
+      "count": 7
+    },
+    {
+      "home": "Red Bull Bragantino",
+      "away": "FC Santos",
+      "league": "BR1",
+      "at": "02.11.2026 17:13",
+      "count": 9
+    },
+    {
       "home": "Atalanta",
       "away": "Parma Calcio",
       "league": "İTA",
-      "at": "02.11.2026 16:51",
-      "count": 8
+      "at": "02.11.2026 17:12",
+      "count": 6
+    },
+    {
+      "home": "Deportivo La Coruna",
+      "away": "CA Osasuna",
+      "league": "İS1",
+      "at": "02.11.2026 17:12",
+      "count": 14
     },
     {
       "home": "Real Valladolid",
@@ -357,20 +378,6 @@
       "league": "İTA",
       "at": "02.11.2026 16:49",
       "count": 5
-    },
-    {
-      "home": "Deportivo La Coruna",
-      "away": "CA Osasuna",
-      "league": "İS1",
-      "at": "02.11.2026 16:11",
-      "count": 9
-    },
-    {
-      "home": "Newcastle United",
-      "away": "Everton",
-      "league": "İNP",
-      "at": "02.11.2026 16:11",
-      "count": 7
     },
     {
       "home": "Stade de Reims",
@@ -399,13 +406,6 @@
       "league": "FR2",
       "at": "02.11.2026 13:59",
       "count": 4
-    },
-    {
-      "home": "Real Oviedo",
-      "away": "UD Las Palmas",
-      "league": "İS2",
-      "at": "02.11.2026 13:18",
-      "count": 6
     }
   ],
   "paywall": {
