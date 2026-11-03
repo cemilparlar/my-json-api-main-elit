@@ -1857,7 +1857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "05.11.2026 17:45",
@@ -3057,7 +3057,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "05.11.2026 20:00",
@@ -3417,7 +3417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "03.11.2026 05:00",
@@ -5757,7 +5757,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "04.11.2026 19:45",
@@ -7200,36 +7200,6 @@
         "aiScore": 94
     },
     {
-        "date": "03.11.2026 12:35",
-        "league": "SUUD1",
-        "matchCode": "4538722",
-        "home": "Damak",
-        "away": "Al Akhdoud",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.55",
-        "odds": "1.10",
-        "matchCount": "121",
-        "matchLink": "4538722",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "14/81",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 06:49",
-        "patternScore": 70.8,
-        "patternText": "251.357/355.038",
-        "patternInfo": {
-            "m": 57,
-            "s": 10,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 88
-    },
-    {
         "date": "03.11.2026 13:00",
         "league": "INGPDL",
         "matchCode": "4540668",
@@ -7587,7 +7557,7 @@
             "e": 85,
             "b": 94.74
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "02.11.2026 18:00",
@@ -10887,7 +10857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "02.11.2026 20:00",
@@ -13318,5 +13288,35 @@
             "b": 100.0
         },
         "aiScore": 76
+    },
+    {
+        "date": "03.11.2026 12:35",
+        "league": "SUUD1",
+        "matchCode": "4538722",
+        "home": "Damak",
+        "away": "Al Akhdoud",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "80.25",
+        "odds": "1.10",
+        "matchCount": "81",
+        "matchLink": "4538722",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "14/81",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 06:49",
+        "patternScore": 72.02,
+        "patternText": "225.420/312.998",
+        "patternInfo": {
+            "m": 57,
+            "s": 7,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 95
     }
 ]
