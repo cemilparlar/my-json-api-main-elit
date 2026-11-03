@@ -96,8 +96,8 @@
       "lost": 7
     }
   },
-  "updatedAt": "02.11.2026 23:59",
-  "updatedAtUtc": "2026-11-02T23:59:00Z",
+  "updatedAt": "03.11.2026 00:06",
+  "updatedAtUtc": "2026-11-03T00:06:00Z",
   "upcoming": [
     {
       "id": "20261102-23-1",
@@ -1215,110 +1215,6 @@
           "firstHalf": "1 - 2",
           "finalScore": "1 - 3",
           "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261101-18-1",
-      "createdAt": "01.11.2026 15:04",
-      "createdAtUtc": "2026-11-01T15:04:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.08,
-      "winChance": 70.98,
-      "firstKickoff": "01.11.2026 16:00",
-      "lastKickoff": "01.11.2026 16:00",
-      "status": "void",
-      "completedAt": "02.11.2026 00:01",
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.0,
-      "legs": [
-        {
-          "matchCode": "4428746",
-          "nesine": null,
-          "date": "01.11.2026 16:00",
-          "kickoffUtc": "2026-11-01T16:00:00Z",
-          "league": "NOR1",
-          "home": "Egersund IK",
-          "away": "Strommen IF",
-          "league_tr": "NOR1",
-          "home_tr": "Egersunds",
-          "away_tr": "Strommen",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 89.66,
-          "patternScore": 70.98,
-          "patternText": "218.204/307.413",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void"
-        }
-      ]
-    },
-    {
-      "id": "20261101-18-2",
-      "createdAt": "01.11.2026 15:04",
-      "createdAtUtc": "2026-11-01T15:04:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 1.19,
-      "winChance": 50.35,
-      "firstKickoff": "01.11.2026 16:00",
-      "lastKickoff": "01.11.2026 16:00",
-      "status": "void",
-      "completedAt": "02.11.2026 00:01",
-      "kind": "c70_2",
-      "group": "multi",
-      "formula": "2",
-      "effectiveOdds": 1.0,
-      "legs": [
-        {
-          "matchCode": "4428746",
-          "nesine": null,
-          "date": "01.11.2026 16:00",
-          "kickoffUtc": "2026-11-01T16:00:00Z",
-          "league": "NOR1",
-          "home": "Egersund IK",
-          "away": "Strommen IF",
-          "league_tr": "NOR1",
-          "home_tr": "Egersunds",
-          "away_tr": "Strommen",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 89.66,
-          "patternScore": 70.98,
-          "patternText": "218.204/307.413",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void"
-        },
-        {
-          "matchCode": "4428747",
-          "nesine": null,
-          "date": "01.11.2026 16:00",
-          "kickoffUtc": "2026-11-01T16:00:00Z",
-          "league": "NOR1",
-          "home": "Hodd",
-          "away": "FK Bryne",
-          "league_tr": "NOR1",
-          "home_tr": "Hodd",
-          "away_tr": "Bryne",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 81.82,
-          "patternScore": 70.93,
-          "patternText": "214.104/301.852",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void"
         }
       ]
     }
