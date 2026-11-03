@@ -4737,7 +4737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "04.11.2026 00:30",
@@ -6237,7 +6237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "02.11.2026 17:00",
@@ -6387,7 +6387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "03.11.2026 20:00",
@@ -6987,7 +6987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "04.11.2026 17:45",
@@ -8337,7 +8337,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "02.11.2026 17:00",
@@ -8697,7 +8697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "02.11.2026 18:00",
@@ -9087,7 +9087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "02.11.2026 19:00",
@@ -12777,7 +12777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "03.11.2026 17:00",
@@ -13740,36 +13740,6 @@
         "aiScore": 83
     },
     {
-        "date": "03.11.2026 19:00",
-        "league": "İNTK",
-        "matchCode": "4527817",
-        "home": "Rotherham United",
-        "away": "Newcastle United U21",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "75.0",
-        "odds": "1.12",
-        "matchCount": "76",
-        "matchLink": "4527817",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 13:26",
-        "patternScore": 69.22,
-        "patternText": "201.879/291.634",
-        "patternInfo": {
-            "m": 59,
-            "s": 7,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 77
-    },
-    {
         "date": "04.11.2026 16:00",
         "league": "AFCŞL2",
         "matchCode": "4549972",
@@ -13858,5 +13828,65 @@
             "b": 100.0
         },
         "aiScore": 98
+    },
+    {
+        "date": "03.11.2026 19:00",
+        "league": "İNTK",
+        "matchCode": "4527817",
+        "home": "Rotherham United",
+        "away": "Newcastle United U21",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "79.46",
+        "odds": "1.09",
+        "matchCount": "112",
+        "matchLink": "4527817",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 13:26",
+        "patternScore": 70.7,
+        "patternText": "279.488/395.314",
+        "patternInfo": {
+            "m": 69,
+            "s": 8,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 88
+    },
+    {
+        "date": "03.11.2026 19:00",
+        "league": "İNTK",
+        "matchCode": "4527817",
+        "home": "Rotherham United",
+        "away": "Newcastle United U21",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "75.89",
+        "odds": "1.12",
+        "matchCount": "112",
+        "matchLink": "4527817",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 13:26",
+        "patternScore": 69.16,
+        "patternText": "199.829/288.947",
+        "patternInfo": {
+            "m": 59,
+            "s": 8,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 80
     }
 ]
