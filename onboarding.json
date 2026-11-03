@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 22:37",
+  "updatedAt": "03.11.2026 22:44",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 322,
       "rate": 65.8
     },
-    "totalAnalyses": 302842,
+    "totalAnalyses": 302845,
     "leagues": 525,
     "pro": {
       "won": 993,
@@ -379,18 +379,30 @@
     }
   ],
   "today": {
-    "home": "Alianza Lima",
-    "away": "Cienciano",
-    "league": "PER",
-    "date": "04.11.2026 01:00",
-    "matchCode": "4501909",
-    "odds": 1.21,
-    "patternScore": 68.4,
-    "patternText": "175.364/256.395",
-    "aiScore": 70,
-    "picks": 1
+    "home": "Sport Club Internacional",
+    "away": "Coritiba FBC",
+    "league": "BR1",
+    "date": "04.11.2026 00:30",
+    "matchCode": "4423365",
+    "odds": 1.7,
+    "patternScore": 67.36,
+    "patternText": "166.827/247.683",
+    "aiScore": 52,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Sport Club Internacional",
+      "away": "Coritiba FBC",
+      "league": "BR1",
+      "date": "04.11.2026 00:30",
+      "matchCode": "4423365",
+      "odds": 1.7,
+      "patternScore": 67.36,
+      "patternText": "166.827/247.683",
+      "aiScore": 52,
+      "picks": 3
+    },
     {
       "home": "Alianza Lima",
       "away": "Cienciano",
@@ -438,18 +450,6 @@
       "patternText": "228.393/323.186",
       "aiScore": 90,
       "picks": 2
-    },
-    {
-      "home": "Melbourne Victory",
-      "away": "Persib Bandung",
-      "league": "AFCŞL2",
-      "date": "04.11.2026 07:45",
-      "matchCode": "4550020",
-      "odds": 1.09,
-      "patternScore": 71.24,
-      "patternText": "238.088/334.194",
-      "aiScore": 96,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
