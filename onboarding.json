@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 13:58",
+  "updatedAt": "03.11.2026 14:07",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 248,
+      "won": 251,
       "lost": 124,
-      "total": 372,
-      "rate": 66.7
+      "total": 375,
+      "rate": 66.9
     },
-    "totalAnalyses": 302593,
-    "leagues": 530,
+    "totalAnalyses": 302614,
+    "leagues": 528,
     "pro": {
-      "won": 911,
+      "won": 915,
       "lost": 374,
-      "total": 1285,
-      "rate": 70.9
+      "total": 1289,
+      "rate": 71.0
     },
     "insights": {
-      "won": 1594,
+      "won": 1598,
       "lost": 686,
-      "total": 2280,
-      "rate": 69.9
+      "total": 2284,
+      "rate": 70.0
     },
     "coupons": {
       "won": 42,
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 67.7
     },
-    "analyses24h": 1043,
-    "analyses30d": 21102
+    "analyses24h": 1047,
+    "analyses30d": 20779
   },
   "recentWins": [
     {
@@ -325,6 +325,12 @@
     {
       "type": "coupon",
       "size": 5,
+      "odds": 1.57,
+      "at": "03.11.2026 14:07"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
       "odds": 1.52,
       "at": "03.11.2026 12:04"
     },
@@ -335,10 +341,10 @@
       "at": "03.11.2026 11:07"
     },
     {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.55,
-      "at": "03.11.2026 04:02"
+      "type": "updated",
+      "at": "03.11.2026 14:04",
+      "home": "Shakhtar Donetsk",
+      "away": "Sporting CP"
     },
     {
       "type": "updated",
@@ -363,12 +369,6 @@
       "at": "03.11.2026 11:11",
       "home": "Pogon Siedlce",
       "away": "Ruch Chorzow"
-    },
-    {
-      "type": "updated",
-      "at": "03.11.2026 13:45",
-      "home": "Al Hilal",
-      "away": "Al Ahli Dubai"
     }
   ],
   "today": {
@@ -395,6 +395,18 @@
       "patternText": "192.985/285.562",
       "aiScore": 52,
       "picks": 5
+    },
+    {
+      "home": "LASK Linz",
+      "away": "SK Slovan Bratislava",
+      "league": "ŞMP",
+      "date": "03.11.2026 20:00",
+      "matchCode": "4549518",
+      "odds": 1.51,
+      "patternScore": 67.13,
+      "patternText": "118.614/176.685",
+      "aiScore": 57,
+      "picks": 4
     },
     {
       "home": "Portsmouth",
@@ -431,27 +443,36 @@
       "patternText": "216.519/319.922",
       "aiScore": 56,
       "picks": 2
-    },
-    {
-      "home": "Al Raed",
-      "away": "Al Wahda",
-      "league": "SUUD1",
-      "date": "03.11.2026 15:00",
-      "matchCode": "4538723",
-      "odds": 1.33,
-      "patternScore": 68.17,
-      "patternText": "200.644/294.329",
-      "aiScore": 62,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "Derby County",
+      "away": "Norwich City",
+      "league": "İNCL",
+      "at": "03.11.2026 14:06",
+      "count": 6
+    },
+    {
+      "home": "Portsmouth",
+      "away": "Swansea",
+      "league": "İNCL",
+      "at": "03.11.2026 14:05",
+      "count": 6
+    },
+    {
+      "home": "Charlton Athletic",
+      "away": "Bolton Wanderers",
+      "league": "İNCL",
+      "at": "03.11.2026 14:05",
+      "count": 9
+    },
+    {
       "home": "Shakhtar Donetsk",
       "away": "Sporting CP",
       "league": "ŞMP",
-      "at": "03.11.2026 11:50",
-      "count": 12
+      "at": "03.11.2026 14:04",
+      "count": 6
     },
     {
       "home": "Galatasaray",
@@ -494,27 +515,6 @@
       "league": "İS2",
       "at": "02.11.2026 19:07",
       "count": 9
-    },
-    {
-      "home": "Atalanta",
-      "away": "Parma Calcio",
-      "league": "İTA",
-      "at": "02.11.2026 19:06",
-      "count": 15
-    },
-    {
-      "home": "Stade de Reims",
-      "away": "FC Sochaux",
-      "league": "FR2",
-      "at": "02.11.2026 18:11",
-      "count": 8
-    },
-    {
-      "home": "Real Valladolid",
-      "away": "CD Leganes",
-      "league": "İS2",
-      "at": "02.11.2026 16:49",
-      "count": 5
     }
   ],
   "paywall": {
