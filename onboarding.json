@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 18:56",
+  "updatedAt": "03.11.2026 19:04",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 196,
-      "lost": 85,
-      "total": 281,
-      "rate": 69.8
+      "won": 180,
+      "lost": 72,
+      "total": 252,
+      "rate": 71.4
     },
     "totalAnalyses": 302809,
     "leagues": 526,
     "pro": {
-      "won": 955,
-      "lost": 385,
-      "total": 1340,
-      "rate": 71.3
+      "won": 959,
+      "lost": 382,
+      "total": 1341,
+      "rate": 71.5
     },
     "insights": {
-      "won": 1654,
-      "lost": 706,
-      "total": 2360,
-      "rate": 70.1
+      "won": 1658,
+      "lost": 704,
+      "total": 2362,
+      "rate": 70.2
     },
     "coupons": {
-      "won": 43,
+      "won": 44,
       "lost": 21,
-      "total": 64,
-      "rate": 67.2
+      "total": 65,
+      "rate": 67.7
     },
-    "analyses24h": 921,
-    "analyses30d": 20429
+    "analyses24h": 878,
+    "analyses30d": 20416
   },
   "recentWins": [
     {
@@ -123,6 +123,49 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.57,
+      "winChance": 33.93,
+      "completedAt": "03.11.2026 19:04",
+      "legs": [
+        {
+          "home": "Al Raed",
+          "away": "Al Wahda",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "Atl Madrid U19",
+          "away": "Bayern Munich",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.08,
+          "finalScore": "4 - 1"
+        },
+        {
+          "home": "Al Hussein",
+          "away": "Al Shorta",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.09,
+          "finalScore": "0 - 3"
+        },
+        {
+          "home": "Esteghlal",
+          "away": "Al Shamal",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.11,
+          "finalScore": "1 - 0"
+        },
+        {
+          "home": "Pogon Siedlce",
+          "away": "Ruch Chorzow",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.09,
+          "finalScore": "1 - 1"
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.52,
@@ -251,49 +294,6 @@
           "finalScore": "0 - 1"
         }
       ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.55,
-      "winChance": 38.5,
-      "completedAt": "03.11.2026 07:14",
-      "legs": [
-        {
-          "home": "Kamatamare Sanuki",
-          "away": "Matsumoto Yamag",
-          "prediction": "Double Chance 12",
-          "odds": 1.09,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Kochi United",
-          "away": "Ehime FC",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
-          "finalScore": "4 - 0"
-        },
-        {
-          "home": "Montedio Yamagata",
-          "away": "Tokushima Vortis",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.08,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Yokohama FC",
-          "away": "Blaublitz Akita",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Nara Club",
-          "away": "Thespa Kusatsu Gunma",
-          "prediction": "Double Chance 12",
-          "odds": 1.09,
-          "finalScore": "3 - 0"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -331,6 +331,12 @@
     },
     {
       "type": "coupon",
+      "size": 4,
+      "odds": 1.56,
+      "at": "03.11.2026 19:04"
+    },
+    {
+      "type": "coupon",
       "size": 5,
       "odds": 1.52,
       "at": "03.11.2026 18:05"
@@ -340,12 +346,6 @@
       "size": 5,
       "odds": 1.51,
       "at": "03.11.2026 18:05"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.56,
-      "at": "03.11.2026 17:01"
     },
     {
       "type": "updated",
@@ -379,41 +379,41 @@
     }
   ],
   "today": {
-    "home": "Derby County",
-    "away": "Norwich City",
+    "home": "Portsmouth",
+    "away": "Swansea",
     "league": "İNCL",
     "date": "03.11.2026 19:45",
-    "matchCode": "4488839",
-    "odds": 1.52,
-    "patternScore": 67.58,
-    "patternText": "126.736/187.521",
-    "aiScore": 54,
+    "matchCode": "4488840",
+    "odds": 2.35,
+    "patternScore": 67.66,
+    "patternText": "196.104/289.833",
+    "aiScore": 51,
     "picks": 6
   },
   "todayList": [
-    {
-      "home": "Derby County",
-      "away": "Norwich City",
-      "league": "İNCL",
-      "date": "03.11.2026 19:45",
-      "matchCode": "4488839",
-      "odds": 1.52,
-      "patternScore": 67.58,
-      "patternText": "126.736/187.521",
-      "aiScore": 54,
-      "picks": 6
-    },
     {
       "home": "Portsmouth",
       "away": "Swansea",
       "league": "İNCL",
       "date": "03.11.2026 19:45",
       "matchCode": "4488840",
-      "odds": 1.52,
-      "patternScore": 68.05,
-      "patternText": "193.712/284.652",
-      "aiScore": 56,
-      "picks": 3
+      "odds": 2.35,
+      "patternScore": 67.66,
+      "patternText": "196.104/289.833",
+      "aiScore": 51,
+      "picks": 6
+    },
+    {
+      "home": "Derby County",
+      "away": "Norwich City",
+      "league": "İNCL",
+      "date": "03.11.2026 19:45",
+      "matchCode": "4488839",
+      "odds": 1.61,
+      "patternScore": 68.02,
+      "patternText": "128.465/188.851",
+      "aiScore": 55,
+      "picks": 5
     },
     {
       "home": "Charlton Athletic",
@@ -421,22 +421,10 @@
       "league": "İNCL",
       "date": "03.11.2026 19:45",
       "matchCode": "4488847",
-      "odds": 1.47,
-      "patternScore": 68.28,
-      "patternText": "209.671/307.088",
-      "aiScore": 55,
-      "picks": 6
-    },
-    {
-      "home": "Watford",
-      "away": "Lincoln City",
-      "league": "İNCL",
-      "date": "03.11.2026 19:45",
-      "matchCode": "4488843",
       "odds": 1.33,
-      "patternScore": 68.67,
-      "patternText": "230.941/336.326",
-      "aiScore": 59,
+      "patternScore": 67.77,
+      "patternText": "216.863/319.989",
+      "aiScore": 58,
       "picks": 3
     },
     {
@@ -447,9 +435,21 @@
       "matchCode": "4488841",
       "odds": 1.29,
       "patternScore": 66.92,
-      "patternText": "230.453/344.362",
+      "patternText": "230.459/344.368",
       "aiScore": 60,
       "picks": 4
+    },
+    {
+      "home": "Watford",
+      "away": "Lincoln City",
+      "league": "İNCL",
+      "date": "03.11.2026 19:45",
+      "matchCode": "4488843",
+      "odds": 1.29,
+      "patternScore": 68.76,
+      "patternText": "227.669/331.098",
+      "aiScore": 62,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
