@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 21:55",
+  "updatedAt": "03.11.2026 22:02",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 175,
-      "lost": 72,
-      "total": 247,
-      "rate": 70.9
+      "won": 159,
+      "lost": 71,
+      "total": 230,
+      "rate": 69.1
     },
     "totalAnalyses": 302836,
     "leagues": 525,
@@ -42,13 +42,13 @@
       "rate": 70.3
     },
     "coupons": {
-      "won": 44,
-      "lost": 23,
-      "total": 67,
-      "rate": 65.7
+      "won": 42,
+      "lost": 22,
+      "total": 64,
+      "rate": 65.6
     },
-    "analyses24h": 799,
-    "analyses30d": 20348
+    "analyses24h": 782,
+    "analyses30d": 20341
   },
   "recentWins": [
     {
@@ -379,29 +379,29 @@
     }
   ],
   "today": {
-    "home": "Chapecoense AF",
-    "away": "Mirassol FC",
-    "league": "BR1",
-    "date": "03.11.2026 22:30",
-    "matchCode": "4423368",
-    "odds": 1.26,
-    "patternScore": 68.23,
-    "patternText": "193.391/283.427",
-    "aiScore": 62,
-    "picks": 2
+    "home": "Alianza Lima",
+    "away": "Cienciano",
+    "league": "PER",
+    "date": "04.11.2026 01:00",
+    "matchCode": "4501909",
+    "odds": 1.21,
+    "patternScore": 68.4,
+    "patternText": "175.340/256.357",
+    "aiScore": 70,
+    "picks": 1
   },
   "todayList": [
     {
-      "home": "Chapecoense AF",
-      "away": "Mirassol FC",
-      "league": "BR1",
-      "date": "03.11.2026 22:30",
-      "matchCode": "4423368",
-      "odds": 1.26,
-      "patternScore": 68.23,
-      "patternText": "193.391/283.427",
-      "aiScore": 62,
-      "picks": 2
+      "home": "Alianza Lima",
+      "away": "Cienciano",
+      "league": "PER",
+      "date": "04.11.2026 01:00",
+      "matchCode": "4501909",
+      "odds": 1.21,
+      "patternScore": 68.4,
+      "patternText": "175.340/256.357",
+      "aiScore": 70,
+      "picks": 1
     },
     {
       "home": "Sporting San J",
@@ -409,10 +409,10 @@
       "league": "KOSTA",
       "date": "04.11.2026 01:00",
       "matchCode": "4487111",
-      "odds": 1.19,
-      "patternScore": 68.53,
-      "patternText": "169.054/246.694",
-      "aiScore": 73,
+      "odds": 1.21,
+      "patternScore": 68.43,
+      "patternText": "172.708/252.372",
+      "aiScore": 72,
       "picks": 1
     },
     {
@@ -422,10 +422,22 @@
       "date": "03.11.2026 23:00",
       "matchCode": "4575436",
       "odds": 1.08,
-      "patternScore": 71.35,
-      "patternText": "126.035/176.644",
+      "patternScore": 71.34,
+      "patternText": "126.079/176.720",
       "aiScore": 95,
       "picks": 1
+    },
+    {
+      "home": "Pohang Steelers",
+      "away": "Gamba Osaka",
+      "league": "AŞMP",
+      "date": "04.11.2026 10:00",
+      "matchCode": "4550092",
+      "odds": 1.17,
+      "patternScore": 68.91,
+      "patternText": "185.159/268.708",
+      "aiScore": 69,
+      "picks": 3
     },
     {
       "home": "Cerezo Osaka",
@@ -435,21 +447,9 @@
       "matchCode": "4488029",
       "odds": 1.15,
       "patternScore": 70.67,
-      "patternText": "228.329/323.096",
+      "patternText": "228.353/323.134",
       "aiScore": 90,
       "picks": 2
-    },
-    {
-      "home": "Melbourne Victory",
-      "away": "Persib Bandung",
-      "league": "AFCŞL2",
-      "date": "04.11.2026 07:45",
-      "matchCode": "4550020",
-      "odds": 1.09,
-      "patternScore": 71.24,
-      "patternText": "238.024/334.106",
-      "aiScore": 97,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [

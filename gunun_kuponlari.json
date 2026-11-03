@@ -1,20 +1,8 @@
 {
   "version": 1,
   "stats7": {
-    "safe": {
-      "won": 1,
-      "lost": 0
-    },
-    "safe_b": {
-      "won": 1,
-      "lost": 0
-    },
     "surprise": {
-      "won": 1,
-      "lost": 2
-    },
-    "surprise_1": {
-      "won": 1,
+      "won": 0,
       "lost": 1
     },
     "surprise_3": {
@@ -108,8 +96,8 @@
       "lost": 4
     }
   },
-  "updatedAt": "03.11.2026 21:55",
-  "updatedAtUtc": "2026-11-03T21:55:00Z",
+  "updatedAt": "03.11.2026 22:02",
+  "updatedAtUtc": "2026-11-03T22:02:00Z",
   "upcoming": [
     {
       "id": "20261103-20-2",
@@ -2259,47 +2247,6 @@
           "mbs": 1,
           "firstHalf": "1 - 0",
           "finalScore": "2 - 0",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261102-22-1",
-      "createdAt": "02.11.2026 19:06",
-      "createdAtUtc": "2026-11-02T19:06:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.08,
-      "winChance": 70.65,
-      "firstKickoff": "02.11.2026 19:45",
-      "lastKickoff": "02.11.2026 19:45",
-      "status": "won",
-      "completedAt": "02.11.2026 22:00",
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.08,
-      "legs": [
-        {
-          "matchCode": "4516069",
-          "nesine": null,
-          "date": "02.11.2026 19:45",
-          "kickoffUtc": "2026-11-02T19:45:00Z",
-          "league": "İCON",
-          "home": "Chelmsford",
-          "away": "Farnham Town",
-          "league_tr": "İCON",
-          "home_tr": "Chelmsford",
-          "away_tr": "Farnham Town",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.08,
-          "probability": 81.61,
-          "patternScore": 70.65,
-          "patternText": "138.345/195.826",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "0 - 2",
           "status": "won"
         }
       ]
