@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 13:16",
+  "updatedAt": "03.11.2026 13:24",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 372,
       "rate": 66.7
     },
-    "totalAnalyses": 302580,
+    "totalAnalyses": 302585,
     "leagues": 530,
     "pro": {
       "won": 911,
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 67.7
     },
-    "analyses24h": 1045,
-    "analyses30d": 21190
+    "analyses24h": 1042,
+    "analyses30d": 21183
   },
   "recentWins": [
     {
@@ -354,12 +354,6 @@
     },
     {
       "type": "updated",
-      "at": "03.11.2026 10:29",
-      "home": "CF Estrela da Amadora U23",
-      "away": "CD Santa Clara U23"
-    },
-    {
-      "type": "updated",
       "at": "03.11.2026 10:10",
       "home": "Esteghlal",
       "away": "Al Shamal"
@@ -369,33 +363,27 @@
       "at": "03.11.2026 11:11",
       "home": "Chrobry Glogow",
       "away": "Arka Gdynia"
+    },
+    {
+      "type": "updated",
+      "at": "03.11.2026 11:11",
+      "home": "Pogon Siedlce",
+      "away": "Ruch Chorzow"
     }
   ],
   "today": {
-    "home": "Boston United",
-    "away": "Leicester City U21",
-    "league": "İULK",
-    "date": "03.11.2026 19:00",
-    "matchCode": "4527526",
+    "home": "CS Maritimo U23",
+    "away": "Moreirense U23",
+    "league": "PORU23",
+    "date": "03.11.2026 15:00",
+    "matchCode": "4523177",
     "odds": 1.41,
-    "patternScore": 68.25,
-    "patternText": "195.702/286.724",
-    "aiScore": 55,
+    "patternScore": 68.46,
+    "patternText": "120.927/176.641",
+    "aiScore": 62,
     "picks": 1
   },
   "todayList": [
-    {
-      "home": "Boston United",
-      "away": "Leicester City U21",
-      "league": "İULK",
-      "date": "03.11.2026 19:00",
-      "matchCode": "4527526",
-      "odds": 1.41,
-      "patternScore": 68.25,
-      "patternText": "195.702/286.724",
-      "aiScore": 55,
-      "picks": 1
-    },
     {
       "home": "CS Maritimo U23",
       "away": "Moreirense U23",
@@ -404,7 +392,7 @@
       "matchCode": "4523177",
       "odds": 1.41,
       "patternScore": 68.46,
-      "patternText": "120.927/176.629",
+      "patternText": "120.927/176.641",
       "aiScore": 62,
       "picks": 1
     },
@@ -416,7 +404,7 @@
       "matchCode": "4538723",
       "odds": 1.33,
       "patternScore": 68.17,
-      "patternText": "200.644/294.317",
+      "patternText": "200.644/294.329",
       "aiScore": 62,
       "picks": 3
     },
@@ -428,7 +416,7 @@
       "matchCode": "4486232",
       "odds": 1.27,
       "patternScore": 68.78,
-      "patternText": "206.402/300.073",
+      "patternText": "206.402/300.085",
       "aiScore": 64,
       "picks": 3
     },
@@ -440,9 +428,21 @@
       "matchCode": "4550157",
       "odds": 1.22,
       "patternScore": 68.85,
-      "patternText": "120.506/175.015",
+      "patternText": "120.506/175.019",
       "aiScore": 72,
       "picks": 2
+    },
+    {
+      "home": "Esteghlal",
+      "away": "Al Shamal",
+      "league": "AŞMP",
+      "date": "03.11.2026 16:00",
+      "matchCode": "4550156",
+      "odds": 1.2,
+      "patternScore": 67.91,
+      "patternText": "191.029/281.300",
+      "aiScore": 64,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
