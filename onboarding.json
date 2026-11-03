@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 15:29",
+  "updatedAt": "03.11.2026 15:36",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 379,
       "rate": 65.4
     },
-    "totalAnalyses": 302717,
-    "leagues": 528,
+    "totalAnalyses": 302729,
+    "leagues": 527,
     "pro": {
-      "won": 933,
-      "lost": 380,
-      "total": 1313,
-      "rate": 71.1
+      "won": 934,
+      "lost": 382,
+      "total": 1316,
+      "rate": 71.0
     },
     "insights": {
-      "won": 1625,
-      "lost": 698,
-      "total": 2323,
-      "rate": 70.0
+      "won": 1626,
+      "lost": 700,
+      "total": 2326,
+      "rate": 69.9
     },
     "coupons": {
       "won": 42,
@@ -47,8 +47,8 @@
       "total": 63,
       "rate": 66.7
     },
-    "analyses24h": 1032,
-    "analyses30d": 20706
+    "analyses24h": 1039,
+    "analyses30d": 20693
   },
   "recentWins": [
     {
@@ -379,7 +379,7 @@
     "matchCode": "4488839",
     "odds": 1.58,
     "patternScore": 67.89,
-    "patternText": "238.552/351.404",
+    "patternText": "238.560/351.416",
     "aiScore": 54,
     "picks": 6
   },
@@ -392,7 +392,7 @@
       "matchCode": "4488839",
       "odds": 1.58,
       "patternScore": 67.89,
-      "patternText": "238.552/351.404",
+      "patternText": "238.560/351.416",
       "aiScore": 54,
       "picks": 6
     },
@@ -416,7 +416,7 @@
       "matchCode": "4515987",
       "odds": 1.41,
       "patternScore": 68.48,
-      "patternText": "218.560/319.167",
+      "patternText": "218.564/319.175",
       "aiScore": 56,
       "picks": 2
     },
@@ -440,12 +440,26 @@
       "matchCode": "4488840",
       "odds": 1.34,
       "patternScore": 69.29,
-      "patternText": "145.185/209.542",
+      "patternText": "145.193/209.554",
       "aiScore": 61,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FK Bodo/Glimt",
+      "away": "LOSC Lille",
+      "league": "ŞMP",
+      "at": "03.11.2026 15:35",
+      "count": 17
+    },
+    {
+      "home": "Atletico Madrid",
+      "away": "Bayern Munich",
+      "league": "ŞMP",
+      "at": "03.11.2026 15:34",
+      "count": 3
+    },
     {
       "home": "Galatasaray",
       "away": "VfB Stuttgart",
@@ -482,13 +496,6 @@
       "count": 6
     },
     {
-      "home": "FK Bodo/Glimt",
-      "away": "LOSC Lille",
-      "league": "ŞMP",
-      "at": "03.11.2026 14:12",
-      "count": 8
-    },
-    {
       "home": "West Bromwich Albion",
       "away": "Southam",
       "league": "İNCL",
@@ -508,13 +515,6 @@
       "league": "ŞMP",
       "at": "03.11.2026 14:11",
       "count": 14
-    },
-    {
-      "home": "Manchester United",
-      "away": "AS Roma",
-      "league": "ŞMP",
-      "at": "03.11.2026 14:10",
-      "count": 10
     }
   ],
   "paywall": {
