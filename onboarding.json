@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 18:27",
+  "updatedAt": "03.11.2026 18:34",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 197,
-      "lost": 86,
-      "total": 283,
-      "rate": 69.6
+      "won": 196,
+      "lost": 85,
+      "total": 281,
+      "rate": 69.8
     },
-    "totalAnalyses": 302783,
+    "totalAnalyses": 302791,
     "leagues": 527,
     "pro": {
       "won": 948,
@@ -47,8 +47,8 @@
       "total": 64,
       "rate": 67.2
     },
-    "analyses24h": 914,
-    "analyses30d": 20492
+    "analyses24h": 916,
+    "analyses30d": 20476
   },
   "recentWins": [
     {
@@ -379,18 +379,30 @@
     }
   ],
   "today": {
-    "home": "Derby County",
-    "away": "Norwich City",
-    "league": "İNCL",
-    "date": "03.11.2026 19:45",
-    "matchCode": "4488839",
-    "odds": 1.52,
-    "patternScore": 67.58,
-    "patternText": "126.734/187.519",
-    "aiScore": 54,
-    "picks": 6
+    "home": "Sport Club Internacional",
+    "away": "Coritiba FBC",
+    "league": "BR1",
+    "date": "04.11.2026 00:30",
+    "matchCode": "4423365",
+    "odds": 1.57,
+    "patternScore": 67.86,
+    "patternText": "98.524/145.191",
+    "aiScore": 58,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Sport Club Internacional",
+      "away": "Coritiba FBC",
+      "league": "BR1",
+      "date": "04.11.2026 00:30",
+      "matchCode": "4423365",
+      "odds": 1.57,
+      "patternScore": 67.86,
+      "patternText": "98.524/145.191",
+      "aiScore": 58,
+      "picks": 3
+    },
     {
       "home": "Derby County",
       "away": "Norwich City",
@@ -411,21 +423,9 @@
       "matchCode": "4488840",
       "odds": 1.52,
       "patternScore": 68.05,
-      "patternText": "193.696/284.634",
+      "patternText": "193.696/284.636",
       "aiScore": 56,
       "picks": 3
-    },
-    {
-      "home": "Wealdstone",
-      "away": "Derby County U21",
-      "league": "İULK",
-      "date": "03.11.2026 19:00",
-      "matchCode": "4527481",
-      "odds": 1.52,
-      "patternScore": 68.15,
-      "patternText": "224.733/329.739",
-      "aiScore": 54,
-      "picks": 1
     },
     {
       "home": "Charlton Athletic",
@@ -435,7 +435,7 @@
       "matchCode": "4488847",
       "odds": 1.47,
       "patternScore": 68.28,
-      "patternText": "209.655/307.070",
+      "patternText": "209.655/307.072",
       "aiScore": 55,
       "picks": 6
     },
@@ -447,12 +447,19 @@
       "matchCode": "4488843",
       "odds": 1.33,
       "patternScore": 68.66,
-      "patternText": "230.909/336.290",
+      "patternText": "230.909/336.294",
       "aiScore": 59,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Villarreal CF",
+      "away": "Paris Saint-Germain",
+      "league": "ŞMP",
+      "at": "03.11.2026 18:34",
+      "count": 18
+    },
     {
       "home": "Birmingham City",
       "away": "Millwall",
@@ -515,13 +522,6 @@
       "league": "ŞMP",
       "at": "03.11.2026 17:14",
       "count": 7
-    },
-    {
-      "home": "Galatasaray",
-      "away": "VfB Stuttgart",
-      "league": "ŞMP",
-      "at": "03.11.2026 17:14",
-      "count": 17
     }
   ],
   "paywall": {
