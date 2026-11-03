@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 02:56",
+  "updatedAt": "03.11.2026 03:03",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": 67.2
     },
     "analyses24h": 933,
-    "analyses30d": 21555
+    "analyses30d": 21552
   },
   "recentWins": [
     {
@@ -262,6 +262,12 @@
     {
       "type": "coupon",
       "size": 5,
+      "odds": 1.57,
+      "at": "03.11.2026 03:03"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
       "odds": 1.51,
       "at": "03.11.2026 02:05"
     },
@@ -270,12 +276,6 @@
       "size": 5,
       "odds": 1.55,
       "at": "03.11.2026 02:05"
-    },
-    {
-      "type": "coupon",
-      "size": 4,
-      "odds": 1.52,
-      "at": "02.11.2026 20:00"
     },
     {
       "type": "updated",
@@ -354,7 +354,7 @@
       "odds": 1.31,
       "patternScore": 68.3,
       "patternText": "169.661/248.423",
-      "aiScore": 59,
+      "aiScore": 60,
       "picks": 2
     },
     {
