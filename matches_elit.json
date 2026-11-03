@@ -1197,7 +1197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "04.11.2026 20:00",
@@ -7047,7 +7047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "02.11.2026 17:00",
@@ -7317,7 +7317,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "03.11.2026 13:00",
@@ -8307,7 +8307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "02.11.2026 15:15",
@@ -10077,7 +10077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "02.11.2026 18:00",
@@ -12180,36 +12180,6 @@
         "aiScore": 74
     },
     {
-        "date": "03.11.2026 07:00",
-        "league": "JAP3",
-        "matchCode": "4488036",
-        "home": "FC Ryukyu",
-        "away": "FC Gifu",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "80.17",
-        "odds": "1.12",
-        "matchCount": "116",
-        "matchLink": "4488036",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "29/165",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "03.11.2026 05:47",
-        "patternScore": 72.05,
-        "patternText": "138.733/192.552",
-        "patternInfo": {
-            "m": 46,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
-    },
-    {
         "date": "03.11.2026 04:55",
         "league": "JAP2",
         "matchCode": "4487652",
@@ -13318,5 +13288,35 @@
             "b": 100.0
         },
         "aiScore": 87
+    },
+    {
+        "date": "03.11.2026 07:00",
+        "league": "JAP3",
+        "matchCode": "4488036",
+        "home": "FC Ryukyu",
+        "away": "FC Gifu",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "71.52",
+        "odds": "1.13",
+        "matchCount": "165",
+        "matchLink": "4488036",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "29/165",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 05:47",
+        "patternScore": 70.55,
+        "patternText": "225.227/319.250",
+        "patternInfo": {
+            "m": 55,
+            "s": 13,
+            "f": 10,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 85
     }
 ]
