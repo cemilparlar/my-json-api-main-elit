@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 13:09",
+  "updatedAt": "03.11.2026 13:16",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 251,
-      "lost": 122,
-      "total": 373,
-      "rate": 67.3
+      "won": 248,
+      "lost": 124,
+      "total": 372,
+      "rate": 66.7
     },
-    "totalAnalyses": 302565,
+    "totalAnalyses": 302580,
     "leagues": 530,
     "pro": {
       "won": 911,
-      "lost": 374,
-      "total": 1285,
-      "rate": 70.9
+      "lost": 375,
+      "total": 1286,
+      "rate": 70.8
     },
     "insights": {
       "won": 1594,
-      "lost": 686,
-      "total": 2280,
+      "lost": 687,
+      "total": 2281,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 67.7
     },
-    "analyses24h": 1042,
-    "analyses30d": 21205
+    "analyses24h": 1045,
+    "analyses30d": 21190
   },
   "recentWins": [
     {
@@ -348,12 +348,6 @@
     },
     {
       "type": "updated",
-      "at": "03.11.2026 07:10",
-      "home": "Newcastle Jets",
-      "away": "Shanghai Port FC"
-    },
-    {
-      "type": "updated",
       "at": "03.11.2026 07:54",
       "home": "Jeonbuk Hm",
       "away": "Johor Darul Tazim"
@@ -369,33 +363,27 @@
       "at": "03.11.2026 10:10",
       "home": "Esteghlal",
       "away": "Al Shamal"
+    },
+    {
+      "type": "updated",
+      "at": "03.11.2026 11:11",
+      "home": "Chrobry Glogow",
+      "away": "Arka Gdynia"
     }
   ],
   "today": {
-    "home": "Al Hilal",
-    "away": "Al Ahli Dubai",
-    "league": "AŞMP",
-    "date": "03.11.2026 18:15",
-    "matchCode": "4550157",
-    "odds": 1.42,
-    "patternScore": 68.16,
-    "patternText": "139.570/204.773",
-    "aiScore": 57,
-    "picks": 2
+    "home": "Boston United",
+    "away": "Leicester City U21",
+    "league": "İULK",
+    "date": "03.11.2026 19:00",
+    "matchCode": "4527526",
+    "odds": 1.41,
+    "patternScore": 68.25,
+    "patternText": "195.702/286.724",
+    "aiScore": 55,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Al Hilal",
-      "away": "Al Ahli Dubai",
-      "league": "AŞMP",
-      "date": "03.11.2026 18:15",
-      "matchCode": "4550157",
-      "odds": 1.42,
-      "patternScore": 68.16,
-      "patternText": "139.570/204.773",
-      "aiScore": 57,
-      "picks": 2
-    },
     {
       "home": "Boston United",
       "away": "Leicester City U21",
@@ -405,7 +393,7 @@
       "odds": 1.41,
       "patternScore": 68.25,
       "patternText": "195.702/286.724",
-      "aiScore": 56,
+      "aiScore": 55,
       "picks": 1
     },
     {
@@ -443,6 +431,18 @@
       "patternText": "206.402/300.073",
       "aiScore": 64,
       "picks": 3
+    },
+    {
+      "home": "Al Hilal",
+      "away": "Al Ahli Dubai",
+      "league": "AŞMP",
+      "date": "03.11.2026 18:15",
+      "matchCode": "4550157",
+      "odds": 1.22,
+      "patternScore": 68.85,
+      "patternText": "120.506/175.015",
+      "aiScore": 72,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
