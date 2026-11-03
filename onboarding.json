@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 01:23",
+  "updatedAt": "03.11.2026 01:30",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 302344,
     "leagues": 532,
     "pro": {
-      "won": 831,
-      "lost": 345,
-      "total": 1176,
-      "rate": 70.7
+      "won": 834,
+      "lost": 347,
+      "total": 1181,
+      "rate": 70.6
     },
     "insights": {
-      "won": 1466,
-      "lost": 641,
-      "total": 2107,
+      "won": 1471,
+      "lost": 644,
+      "total": 2115,
       "rate": 69.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 67.2
     },
-    "analyses24h": 957,
-    "analyses30d": 21574
+    "analyses24h": 941,
+    "analyses30d": 21567
   },
   "recentWins": [
     {
@@ -272,18 +272,6 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 19:23",
-      "home": "Deportivo La Coruna",
-      "away": "CA Osasuna"
-    },
-    {
-      "type": "updated",
-      "at": "02.11.2026 19:24",
-      "home": "Newcastle United",
-      "away": "Everton"
-    },
-    {
-      "type": "updated",
       "at": "02.11.2026 20:04",
       "home": "Deportes Limache",
       "away": "Audax Italiano"
@@ -299,6 +287,18 @@
       "at": "02.11.2026 22:15",
       "home": "Atletico Tucuman",
       "away": "Argentinos Juniors"
+    },
+    {
+      "type": "updated",
+      "at": "02.11.2026 20:38",
+      "home": "Waterhouse",
+      "away": "Cavalier Sc"
+    },
+    {
+      "type": "updated",
+      "at": "02.11.2026 23:12",
+      "home": "Tochigi SC",
+      "away": "Fukushima United FC"
     }
   ],
   "today": {
