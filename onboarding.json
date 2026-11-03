@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 13:44",
+  "updatedAt": "03.11.2026 13:52",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 372,
       "rate": 66.7
     },
-    "totalAnalyses": 302588,
+    "totalAnalyses": 302593,
     "leagues": 530,
     "pro": {
       "won": 911,
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 67.7
     },
-    "analyses24h": 1041,
-    "analyses30d": 21102
+    "analyses24h": 1044,
+    "analyses30d": 21103
   },
   "recentWins": [
     {
@@ -372,18 +372,42 @@
     }
   ],
   "today": {
-    "home": "CS Maritimo U23",
-    "away": "Moreirense U23",
-    "league": "PORU23",
-    "date": "03.11.2026 15:00",
-    "matchCode": "4523177",
-    "odds": 1.41,
-    "patternScore": 68.46,
-    "patternText": "120.927/176.641",
-    "aiScore": 62,
-    "picks": 1
+    "home": "Watford",
+    "away": "Lincoln City",
+    "league": "İNCL",
+    "date": "03.11.2026 19:45",
+    "matchCode": "4488843",
+    "odds": 1.89,
+    "patternScore": 67.58,
+    "patternText": "192.985/285.562",
+    "aiScore": 52,
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "Watford",
+      "away": "Lincoln City",
+      "league": "İNCL",
+      "date": "03.11.2026 19:45",
+      "matchCode": "4488843",
+      "odds": 1.89,
+      "patternScore": 67.58,
+      "patternText": "192.985/285.562",
+      "aiScore": 52,
+      "picks": 5
+    },
+    {
+      "home": "Portsmouth",
+      "away": "Swansea",
+      "league": "İNCL",
+      "date": "03.11.2026 19:45",
+      "matchCode": "4488840",
+      "odds": 1.49,
+      "patternScore": 67.93,
+      "patternText": "195.933/288.420",
+      "aiScore": 54,
+      "picks": 4
+    },
     {
       "home": "CS Maritimo U23",
       "away": "Moreirense U23",
@@ -397,6 +421,18 @@
       "picks": 1
     },
     {
+      "home": "Queens Park Rangers",
+      "away": "Burnley",
+      "league": "İNCL",
+      "date": "03.11.2026 19:45",
+      "matchCode": "4488842",
+      "odds": 1.35,
+      "patternScore": 67.68,
+      "patternText": "216.519/319.922",
+      "aiScore": 56,
+      "picks": 2
+    },
+    {
       "home": "Al Raed",
       "away": "Al Wahda",
       "league": "SUUD1",
@@ -407,42 +443,6 @@
       "patternText": "200.644/294.329",
       "aiScore": 62,
       "picks": 3
-    },
-    {
-      "home": "Chrobry Glogow",
-      "away": "Arka Gdynia",
-      "league": "POL1",
-      "date": "03.11.2026 17:00",
-      "matchCode": "4486232",
-      "odds": 1.27,
-      "patternScore": 68.78,
-      "patternText": "206.402/300.085",
-      "aiScore": 64,
-      "picks": 3
-    },
-    {
-      "home": "Al Hilal",
-      "away": "Al Ahli Dubai",
-      "league": "AŞMP",
-      "date": "03.11.2026 18:15",
-      "matchCode": "4550157",
-      "odds": 1.22,
-      "patternScore": 68.85,
-      "patternText": "120.506/175.019",
-      "aiScore": 72,
-      "picks": 2
-    },
-    {
-      "home": "Esteghlal",
-      "away": "Al Shamal",
-      "league": "AŞMP",
-      "date": "03.11.2026 16:00",
-      "matchCode": "4550156",
-      "odds": 1.2,
-      "patternScore": 67.91,
-      "patternText": "191.029/281.300",
-      "aiScore": 64,
-      "picks": 6
     }
   ],
   "recentAnalyzed": [

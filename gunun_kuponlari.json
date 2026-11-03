@@ -108,8 +108,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "03.11.2026 13:44",
-  "updatedAtUtc": "2026-11-03T13:44:00Z",
+  "updatedAt": "03.11.2026 13:52",
+  "updatedAtUtc": "2026-11-03T13:52:00Z",
   "upcoming": [
     {
       "id": "20261103-14-1",
@@ -1640,69 +1640,6 @@
           "firstHalf": "1 - 1",
           "finalScore": "2 - 1",
           "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261102-12-2",
-      "createdAt": "02.11.2026 09:06",
-      "createdAtUtc": "2026-11-02T09:06:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 1.29,
-      "winChance": 49.34,
-      "firstKickoff": "02.11.2026 11:00",
-      "lastKickoff": "02.11.2026 11:30",
-      "status": "lost",
-      "completedAt": "02.11.2026 13:48",
-      "kind": "c70_2",
-      "group": "multi",
-      "formula": "2",
-      "effectiveOdds": 1.29,
-      "legs": [
-        {
-          "matchCode": "4509956",
-          "nesine": null,
-          "date": "02.11.2026 11:00",
-          "kickoffUtc": "2026-11-02T11:00:00Z",
-          "league": "TANZ",
-          "home": "Tabora United",
-          "away": "Fountain Gate FC",
-          "league_tr": "TANZ",
-          "home_tr": "Tabora United",
-          "away_tr": "Fountain Gate",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.1,
-          "probability": 76.47,
-          "patternScore": 70.34,
-          "patternText": "264.535/376.102",
-          "mbs": 1,
-          "firstHalf": "2 - 0",
-          "finalScore": "3 - 2",
-          "status": "won"
-        },
-        {
-          "matchCode": "4565269",
-          "nesine": null,
-          "date": "02.11.2026 11:30",
-          "kickoffUtc": "2026-11-02T11:30:00Z",
-          "league": "IRANAZ",
-          "home": "Besat Kermansh",
-          "away": "Saipa",
-          "league_tr": "IRANAZ",
-          "home_tr": "Besat Kermansh",
-          "away_tr": "Saipa",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.17,
-          "probability": 72.09,
-          "patternScore": 70.14,
-          "patternText": "235.196/335.308",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "0 - 0",
-          "status": "lost"
         }
       ]
     }
