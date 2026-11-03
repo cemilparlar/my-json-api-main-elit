@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 22:29",
+  "updatedAt": "03.11.2026 22:37",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 213,
+      "won": 212,
       "lost": 110,
-      "total": 323,
-      "rate": 65.9
+      "total": 322,
+      "rate": 65.8
     },
-    "totalAnalyses": 302838,
+    "totalAnalyses": 302842,
     "leagues": 525,
     "pro": {
       "won": 993,
@@ -47,8 +47,8 @@
       "total": 66,
       "rate": 63.6
     },
-    "analyses24h": 781,
-    "analyses30d": 20334
+    "analyses24h": 783,
+    "analyses30d": 20336
   },
   "recentWins": [
     {
@@ -416,18 +416,6 @@
       "picks": 1
     },
     {
-      "home": "CSD Aurora",
-      "away": "Independiente P",
-      "league": "BOLPLK",
-      "date": "03.11.2026 23:00",
-      "matchCode": "4575436",
-      "odds": 1.08,
-      "patternScore": 71.35,
-      "patternText": "126.141/176.804",
-      "aiScore": 95,
-      "picks": 1
-    },
-    {
       "home": "Pohang Steelers",
       "away": "Gamba Osaka",
       "league": "AŞMP",
@@ -450,6 +438,18 @@
       "patternText": "228.393/323.186",
       "aiScore": 90,
       "picks": 2
+    },
+    {
+      "home": "Melbourne Victory",
+      "away": "Persib Bandung",
+      "league": "AFCŞL2",
+      "date": "04.11.2026 07:45",
+      "matchCode": "4550020",
+      "odds": 1.09,
+      "patternScore": 71.24,
+      "patternText": "238.088/334.194",
+      "aiScore": 96,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
@@ -457,8 +457,8 @@
       "home": "Sport Club Internacional",
       "away": "Coritiba FBC",
       "league": "BR1",
-      "at": "03.11.2026 20:49",
-      "count": 7
+      "at": "03.11.2026 22:33",
+      "count": 9
     },
     {
       "home": "FK Bodo/Glimt",
