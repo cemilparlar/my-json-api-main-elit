@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 02:48",
+  "updatedAt": "03.11.2026 02:56",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 67.2
     },
-    "analyses24h": 936,
-    "analyses30d": 21558
+    "analyses24h": 933,
+    "analyses30d": 21555
   },
   "recentWins": [
     {
@@ -334,6 +334,30 @@
       "picks": 3
     },
     {
+      "home": "Kataller Toyama",
+      "away": "Vegalta Sendai",
+      "league": "JAP2",
+      "date": "03.11.2026 04:55",
+      "matchCode": "4487652",
+      "odds": 1.34,
+      "patternScore": 68.86,
+      "patternText": "157.999/229.463",
+      "aiScore": 60,
+      "picks": 2
+    },
+    {
+      "home": "Nara Club",
+      "away": "Thespa Kusatsu Gunma",
+      "league": "JAP3",
+      "date": "03.11.2026 05:00",
+      "matchCode": "4488030",
+      "odds": 1.31,
+      "patternScore": 68.3,
+      "patternText": "169.661/248.423",
+      "aiScore": 59,
+      "picks": 2
+    },
+    {
       "home": "Fujieda MYFC",
       "away": "Jubilo Iwata",
       "league": "JAP2",
@@ -356,30 +380,6 @@
       "patternText": "176.271/253.433",
       "aiScore": 67,
       "picks": 3
-    },
-    {
-      "home": "Montedio Yamagata",
-      "away": "Tokushima Vortis",
-      "league": "JAP2",
-      "date": "03.11.2026 05:00",
-      "matchCode": "4487647",
-      "odds": 1.15,
-      "patternScore": 70.6,
-      "patternText": "229.099/324.509",
-      "aiScore": 82,
-      "picks": 3
-    },
-    {
-      "home": "Renofa Yamaguchi",
-      "away": "Kagoshima United",
-      "league": "JAP3",
-      "date": "03.11.2026 05:00",
-      "matchCode": "4488032",
-      "odds": 1.15,
-      "patternScore": 69.22,
-      "patternText": "178.911/258.465",
-      "aiScore": 74,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
