@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 22:59",
+  "updatedAt": "03.11.2026 23:06",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 212,
-      "lost": 110,
-      "total": 322,
-      "rate": 65.8
+      "won": 207,
+      "lost": 107,
+      "total": 314,
+      "rate": 65.9
     },
-    "totalAnalyses": 302846,
+    "totalAnalyses": 302848,
     "leagues": 525,
     "pro": {
       "won": 993,
@@ -47,8 +47,8 @@
       "total": 66,
       "rate": 63.6
     },
-    "analyses24h": 781,
-    "analyses30d": 20334
+    "analyses24h": 773,
+    "analyses30d": 20314
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 2.84,
       "probability": 100.0,
       "patternScore": 55.44,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "1 - 0",
       "finalScore": "3 - 0",
       "pro": false
@@ -416,18 +416,6 @@
       "picks": 1
     },
     {
-      "home": "Pohang Steelers",
-      "away": "Gamba Osaka",
-      "league": "AŞMP",
-      "date": "04.11.2026 10:00",
-      "matchCode": "4550092",
-      "odds": 1.17,
-      "patternScore": 68.91,
-      "patternText": "185.185/268.748",
-      "aiScore": 68,
-      "picks": 3
-    },
-    {
       "home": "Cerezo Osaka",
       "away": "Roasso Kumamoto",
       "league": "JAP3",
@@ -438,6 +426,18 @@
       "patternText": "228.393/323.186",
       "aiScore": 90,
       "picks": 2
+    },
+    {
+      "home": "Pohang Steelers",
+      "away": "Gamba Osaka",
+      "league": "AŞMP",
+      "date": "04.11.2026 10:00",
+      "matchCode": "4550092",
+      "odds": 1.17,
+      "patternScore": 68.91,
+      "patternText": "185.185/268.748",
+      "aiScore": 68,
+      "picks": 3
     },
     {
       "home": "Melbourne Victory",
