@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 00:27",
+  "updatedAt": "03.11.2026 00:34",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 295,
       "rate": 62.0
     },
-    "totalAnalyses": 302343,
+    "totalAnalyses": 302344,
     "leagues": 532,
     "pro": {
       "won": 829,
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 67.2
     },
-    "analyses24h": 958,
-    "analyses30d": 21613
+    "analyses24h": 959,
+    "analyses30d": 21601
   },
   "recentWins": [
     {
@@ -290,15 +290,15 @@
     },
     {
       "type": "updated",
-      "at": "02.11.2026 18:29",
-      "home": "Jong PSV",
-      "away": "NAC Breda"
+      "at": "02.11.2026 18:48",
+      "home": "Rakow Czestochowa",
+      "away": "Pogon Szczecin"
     },
     {
       "type": "updated",
-      "at": "02.11.2026 18:29",
-      "home": "Jong Ajax",
-      "away": "Vitesse Arnhem"
+      "at": "02.11.2026 19:07",
+      "home": "RCD Mallorca",
+      "away": "Cadiz CF"
     }
   ],
   "today": {
@@ -339,18 +339,6 @@
       "picks": 4
     },
     {
-      "home": "Waterhouse",
-      "away": "Cavalier Sc",
-      "league": "JAM",
-      "date": "03.11.2026 01:00",
-      "matchCode": "4562922",
-      "odds": 1.15,
-      "patternScore": 70.55,
-      "patternText": "222.556/315.464",
-      "aiScore": 77,
-      "picks": 1
-    },
-    {
       "home": "Yokohama FC",
       "away": "Blaublitz Akita",
       "league": "JAP2",
@@ -372,6 +360,18 @@
       "patternScore": 70.68,
       "patternText": "234.575/331.871",
       "aiScore": 92,
+      "picks": 3
+    },
+    {
+      "home": "Montedio Yamagata",
+      "away": "Tokushima Vortis",
+      "league": "JAP2",
+      "date": "03.11.2026 05:00",
+      "matchCode": "4487647",
+      "odds": 1.15,
+      "patternScore": 70.59,
+      "patternText": "228.959/324.339",
+      "aiScore": 82,
       "picks": 3
     }
   ],
