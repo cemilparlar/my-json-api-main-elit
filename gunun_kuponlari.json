@@ -108,8 +108,8 @@
       "lost": 3
     }
   },
-  "updatedAt": "03.11.2026 20:14",
-  "updatedAtUtc": "2026-11-03T20:14:00Z",
+  "updatedAt": "03.11.2026 20:21",
+  "updatedAtUtc": "2026-11-03T20:21:00Z",
   "upcoming": [
     {
       "id": "20261103-20-2",
@@ -2385,69 +2385,6 @@
           "mbs": 1,
           "firstHalf": "0 - 0",
           "finalScore": "0 - 0",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261102-20-2",
-      "createdAt": "02.11.2026 17:03",
-      "createdAtUtc": "2026-11-02T17:03:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 1.14,
-      "winChance": 50.97,
-      "firstKickoff": "02.11.2026 18:00",
-      "lastKickoff": "02.11.2026 18:05",
-      "status": "won",
-      "completedAt": "02.11.2026 20:14",
-      "kind": "c70_2",
-      "group": "multi",
-      "formula": "2",
-      "effectiveOdds": 1.14,
-      "legs": [
-        {
-          "matchCode": "4428748",
-          "nesine": null,
-          "date": "02.11.2026 18:00",
-          "kickoffUtc": "2026-11-02T18:00:00Z",
-          "league": "NOR1",
-          "home": "Kongsvinger",
-          "away": "Stabaek",
-          "league_tr": "NOR1",
-          "home_tr": "Kongsvinger",
-          "away_tr": "Stabaek",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.06,
-          "probability": 82.35,
-          "patternScore": 71.44,
-          "patternText": "198.360/277.646",
-          "mbs": 1,
-          "firstHalf": "1 - 2",
-          "finalScore": "1 - 2",
-          "status": "won"
-        },
-        {
-          "matchCode": "4427056",
-          "nesine": null,
-          "date": "02.11.2026 18:05",
-          "kickoffUtc": "2026-11-02T18:05:00Z",
-          "league": "İSÇ2",
-          "home": "Landskrona BoIS",
-          "away": "Orebro SK",
-          "league_tr": "İSÇ2",
-          "home_tr": "Landskrona",
-          "away_tr": "Orebro",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 81.82,
-          "patternScore": 71.35,
-          "patternText": "178.236/249.814",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "2 - 1",
           "status": "won"
         }
       ]
