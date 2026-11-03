@@ -108,8 +108,8 @@
       "lost": 3
     }
   },
-  "updatedAt": "03.11.2026 19:53",
-  "updatedAtUtc": "2026-11-03T19:53:00Z",
+  "updatedAt": "03.11.2026 20:01",
+  "updatedAtUtc": "2026-11-03T20:01:00Z",
   "upcoming": [
     {
       "id": "20261103-20-2",
@@ -147,9 +147,9 @@
           "patternScore": 58.16,
           "patternText": "223.371/384.071",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "2 - 0",
+          "finalScore": "2 - 0",
+          "status": "won",
           "aiScore": 94
         },
         {
@@ -241,7 +241,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 95
         },
         {
@@ -264,7 +264,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 94
         }
       ]
@@ -376,7 +376,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 92
         },
         {
@@ -399,7 +399,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 89
         }
       ]
@@ -488,7 +488,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 99
         },
         {
@@ -511,7 +511,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 97
         },
         {
@@ -534,7 +534,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 82
         }
       ]
@@ -804,7 +804,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 92
         }
       ]
@@ -893,7 +893,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 96
         },
         {
@@ -916,7 +916,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 92
         }
       ]
@@ -2448,47 +2448,6 @@
           "mbs": 1,
           "firstHalf": "0 - 0",
           "finalScore": "2 - 1",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261102-20-1",
-      "createdAt": "02.11.2026 17:03",
-      "createdAtUtc": "2026-11-02T17:03:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.06,
-      "winChance": 71.44,
-      "firstKickoff": "02.11.2026 18:00",
-      "lastKickoff": "02.11.2026 18:00",
-      "status": "won",
-      "completedAt": "02.11.2026 20:00",
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.06,
-      "legs": [
-        {
-          "matchCode": "4428748",
-          "nesine": null,
-          "date": "02.11.2026 18:00",
-          "kickoffUtc": "2026-11-02T18:00:00Z",
-          "league": "NOR1",
-          "home": "Kongsvinger",
-          "away": "Stabaek",
-          "league_tr": "NOR1",
-          "home_tr": "Kongsvinger",
-          "away_tr": "Stabaek",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.06,
-          "probability": 82.35,
-          "patternScore": 71.44,
-          "patternText": "198.360/277.646",
-          "mbs": 1,
-          "firstHalf": "1 - 2",
-          "finalScore": "1 - 2",
           "status": "won"
         }
       ]
