@@ -96,8 +96,8 @@
       "lost": 7
     }
   },
-  "updatedAt": "03.11.2026 01:30",
-  "updatedAtUtc": "2026-11-03T01:30:00Z",
+  "updatedAt": "03.11.2026 01:37",
+  "updatedAtUtc": "2026-11-03T01:37:00Z",
   "upcoming": [
     {
       "id": "20261102-23-1",
@@ -1025,69 +1025,6 @@
           "mbs": 1,
           "firstHalf": "1 - 0",
           "finalScore": "2 - 0",
-          "status": "won"
-        }
-      ]
-    },
-    {
-      "id": "20261102-00-2",
-      "createdAt": "01.11.2026 21:01",
-      "createdAtUtc": "2026-11-01T21:01:00Z",
-      "size": 2,
-      "mbs": 1,
-      "totalOdds": 1.17,
-      "winChance": 51.83,
-      "firstKickoff": "01.11.2026 23:00",
-      "lastKickoff": "01.11.2026 23:30",
-      "status": "won",
-      "completedAt": "02.11.2026 01:34",
-      "kind": "c70_2",
-      "group": "multi",
-      "formula": "2",
-      "effectiveOdds": 1.17,
-      "legs": [
-        {
-          "matchCode": "4476484",
-          "nesine": null,
-          "date": "01.11.2026 23:00",
-          "kickoffUtc": "2026-11-01T23:00:00Z",
-          "league": "MEK",
-          "home": "Santos Laguna",
-          "away": "Club Necaxa",
-          "league_tr": "MEK",
-          "home_tr": "Santos Laguna",
-          "away_tr": "Necaxa",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 86.15,
-          "patternScore": 72.02,
-          "patternText": "147.652/205.028",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "1 - 0",
-          "status": "won"
-        },
-        {
-          "matchCode": "4577008",
-          "nesine": null,
-          "date": "01.11.2026 23:30",
-          "kickoffUtc": "2026-11-01T23:30:00Z",
-          "league": "BOLİ",
-          "home": "Universitario de Deportes",
-          "away": "Always Ready",
-          "league_tr": "BOLİ",
-          "home_tr": "Universitario",
-          "away_tr": "Always Ready",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 81.25,
-          "patternScore": 71.97,
-          "patternText": "153.935/213.873",
-          "mbs": 1,
-          "firstHalf": "1 - 2",
-          "finalScore": "1 - 3",
           "status": "won"
         }
       ]
