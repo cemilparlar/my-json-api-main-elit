@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 02:12",
+  "updatedAt": "03.11.2026 02:20",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 184,
-      "lost": 105,
-      "total": 289,
-      "rate": 63.7
+      "won": 202,
+      "lost": 106,
+      "total": 308,
+      "rate": 65.6
     },
     "totalAnalyses": 302350,
     "leagues": 532,
     "pro": {
-      "won": 834,
-      "lost": 348,
-      "total": 1182,
+      "won": 838,
+      "lost": 349,
+      "total": 1187,
       "rate": 70.6
     },
     "insights": {
-      "won": 1477,
-      "lost": 645,
-      "total": 2122,
-      "rate": 69.6
+      "won": 1490,
+      "lost": 647,
+      "total": 2137,
+      "rate": 69.7
     },
     "coupons": {
-      "won": 39,
+      "won": 40,
       "lost": 19,
-      "total": 58,
-      "rate": 67.2
+      "total": 59,
+      "rate": 67.8
     },
-    "analyses24h": 940,
-    "analyses30d": 21562
+    "analyses24h": 939,
+    "analyses30d": 21557
   },
   "recentWins": [
     {
@@ -124,6 +124,42 @@
   ],
   "recentCoupons": [
     {
+      "size": 4,
+      "totalOdds": 1.52,
+      "winChance": 43.05,
+      "completedAt": "03.11.2026 02:20",
+      "legs": [
+        {
+          "home": "Deportes Limache",
+          "away": "Audax Italiano",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.11,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "Club Deportivo Platense",
+          "away": "Corboda Santiag",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "Defensa y Justicia",
+          "away": "Independiente del Valle",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.1,
+          "finalScore": "1 - 1"
+        },
+        {
+          "home": "Red Bull Bragantino",
+          "away": "FC Santos",
+          "prediction": "Handicap (1:0) 1",
+          "odds": 1.15,
+          "finalScore": "2 - 1"
+        }
+      ]
+    },
+    {
       "size": 2,
       "totalOdds": 1.21,
       "winChance": 49.88,
@@ -186,35 +222,6 @@
           "prediction": "1st Half Double Chance 1X",
           "odds": 1.08,
           "finalScore": "0 - 2"
-        }
-      ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.21,
-      "winChance": 36.2,
-      "completedAt": "02.11.2026 21:03",
-      "legs": [
-        {
-          "home": "Kongsvinger",
-          "away": "Stabaek",
-          "prediction": "Double Chance 12",
-          "odds": 1.06,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "Landskrona BoIS",
-          "away": "Orebro SK",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Fortaleza Ce",
-          "away": "Atletico Goiani",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.06,
-          "finalScore": "0 - 0"
         }
       ]
     }
@@ -344,10 +351,10 @@
       "league": "JAP2",
       "date": "03.11.2026 05:00",
       "matchCode": "4487651",
-      "odds": 1.15,
-      "patternScore": 70.68,
-      "patternText": "234.635/331.953",
-      "aiScore": 92,
+      "odds": 1.17,
+      "patternScore": 69.55,
+      "patternText": "176.215/253.373",
+      "aiScore": 67,
       "picks": 3
     },
     {
