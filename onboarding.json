@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 18:34",
+  "updatedAt": "03.11.2026 18:42",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 281,
       "rate": 69.8
     },
-    "totalAnalyses": 302791,
+    "totalAnalyses": 302799,
     "leagues": 527,
     "pro": {
-      "won": 948,
+      "won": 949,
       "lost": 385,
-      "total": 1333,
+      "total": 1334,
       "rate": 71.1
     },
     "insights": {
-      "won": 1642,
+      "won": 1647,
       "lost": 706,
-      "total": 2348,
-      "rate": 69.9
+      "total": 2353,
+      "rate": 70.0
     },
     "coupons": {
       "won": 43,
@@ -47,8 +47,8 @@
       "total": 64,
       "rate": 67.2
     },
-    "analyses24h": 916,
-    "analyses30d": 20476
+    "analyses24h": 920,
+    "analyses30d": 20480
   },
   "recentWins": [
     {
@@ -379,30 +379,18 @@
     }
   ],
   "today": {
-    "home": "Sport Club Internacional",
-    "away": "Coritiba FBC",
-    "league": "BR1",
-    "date": "04.11.2026 00:30",
-    "matchCode": "4423365",
-    "odds": 1.57,
-    "patternScore": 67.86,
-    "patternText": "98.524/145.191",
-    "aiScore": 58,
-    "picks": 3
+    "home": "Derby County",
+    "away": "Norwich City",
+    "league": "İNCL",
+    "date": "03.11.2026 19:45",
+    "matchCode": "4488839",
+    "odds": 1.52,
+    "patternScore": 67.58,
+    "patternText": "126.734/187.519",
+    "aiScore": 54,
+    "picks": 6
   },
   "todayList": [
-    {
-      "home": "Sport Club Internacional",
-      "away": "Coritiba FBC",
-      "league": "BR1",
-      "date": "04.11.2026 00:30",
-      "matchCode": "4423365",
-      "odds": 1.57,
-      "patternScore": 67.86,
-      "patternText": "98.524/145.191",
-      "aiScore": 58,
-      "picks": 3
-    },
     {
       "home": "Derby County",
       "away": "Norwich City",
@@ -450,9 +438,28 @@
       "patternText": "230.909/336.294",
       "aiScore": 59,
       "picks": 3
+    },
+    {
+      "home": "Preston North End",
+      "away": "Sheffield United",
+      "league": "İNCL",
+      "date": "03.11.2026 19:45",
+      "matchCode": "4488841",
+      "odds": 1.29,
+      "patternScore": 66.92,
+      "patternText": "230.437/344.346",
+      "aiScore": 60,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sport Club Internacional",
+      "away": "Coritiba FBC",
+      "league": "BR1",
+      "at": "03.11.2026 18:35",
+      "count": 7
+    },
     {
       "home": "Villarreal CF",
       "away": "Paris Saint-Germain",
@@ -515,13 +522,6 @@
       "league": "İNCL",
       "at": "03.11.2026 17:17",
       "count": 5
-    },
-    {
-      "home": "Shakhtar Donetsk",
-      "away": "Sporting CP",
-      "league": "ŞMP",
-      "at": "03.11.2026 17:14",
-      "count": 7
     }
   ],
   "paywall": {
