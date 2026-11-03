@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 14:54",
+  "updatedAt": "03.11.2026 15:01",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 259,
+      "won": 252,
       "lost": 132,
-      "total": 391,
-      "rate": 66.2
+      "total": 384,
+      "rate": 65.6
     },
-    "totalAnalyses": 302689,
+    "totalAnalyses": 302704,
     "leagues": 528,
     "pro": {
-      "won": 927,
+      "won": 931,
       "lost": 379,
-      "total": 1306,
-      "rate": 71.0
+      "total": 1310,
+      "rate": 71.1
     },
     "insights": {
-      "won": 1614,
+      "won": 1619,
       "lost": 696,
-      "total": 2310,
+      "total": 2315,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 63,
       "rate": 66.7
     },
-    "analyses24h": 1046,
-    "analyses30d": 20724
+    "analyses24h": 1044,
+    "analyses30d": 20712
   },
   "recentWins": [
     {
@@ -360,30 +360,42 @@
     },
     {
       "type": "updated",
-      "at": "03.11.2026 14:10",
-      "home": "Manchester United",
-      "away": "AS Roma"
+      "at": "03.11.2026 14:58",
+      "home": "Feyenoord",
+      "away": "Inter"
     },
     {
       "type": "updated",
-      "at": "03.11.2026 14:12",
-      "home": "FK Bodo/Glimt",
-      "away": "LOSC Lille"
+      "at": "03.11.2026 14:10",
+      "home": "Manchester United",
+      "away": "AS Roma"
     }
   ],
   "today": {
-    "home": "Derby County",
-    "away": "Norwich City",
-    "league": "İNCL",
-    "date": "03.11.2026 19:45",
-    "matchCode": "4488839",
-    "odds": 1.52,
-    "patternScore": 66.84,
-    "patternText": "211.995/317.164",
-    "aiScore": 53,
-    "picks": 5
+    "home": "Xelaju MC",
+    "away": "Deportivo Marquense",
+    "league": "GUAT",
+    "date": "03.11.2026 21:00",
+    "matchCode": "4490447",
+    "odds": 1.54,
+    "patternScore": 68.6,
+    "patternText": "181.582/264.711",
+    "aiScore": 54,
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Xelaju MC",
+      "away": "Deportivo Marquense",
+      "league": "GUAT",
+      "date": "03.11.2026 21:00",
+      "matchCode": "4490447",
+      "odds": 1.54,
+      "patternScore": 68.6,
+      "patternText": "181.582/264.711",
+      "aiScore": 54,
+      "picks": 1
+    },
     {
       "home": "Derby County",
       "away": "Norwich City",
@@ -392,7 +404,7 @@
       "matchCode": "4488839",
       "odds": 1.52,
       "patternScore": 66.84,
-      "patternText": "211.995/317.164",
+      "patternText": "211.999/317.170",
       "aiScore": 53,
       "picks": 5
     },
@@ -404,7 +416,7 @@
       "matchCode": "4549519",
       "odds": 1.51,
       "patternScore": 67.49,
-      "patternText": "191.635/283.940",
+      "patternText": "191.641/283.948",
       "aiScore": 53,
       "picks": 7
     },
@@ -416,7 +428,7 @@
       "matchCode": "4515987",
       "odds": 1.41,
       "patternScore": 68.48,
-      "patternText": "218.510/319.109",
+      "patternText": "218.518/319.119",
       "aiScore": 56,
       "picks": 2
     },
@@ -428,24 +440,26 @@
       "matchCode": "4488844",
       "odds": 1.38,
       "patternScore": 68.45,
-      "patternText": "101.539/148.338",
+      "patternText": "101.549/148.350",
       "aiScore": 57,
-      "picks": 3
-    },
-    {
-      "home": "Portsmouth",
-      "away": "Swansea",
-      "league": "İNCL",
-      "date": "03.11.2026 19:45",
-      "matchCode": "4488840",
-      "odds": 1.34,
-      "patternScore": 69.28,
-      "patternText": "145.129/209.482",
-      "aiScore": 61,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Feyenoord",
+      "away": "Inter",
+      "league": "ŞMP",
+      "at": "03.11.2026 14:58",
+      "count": 18
+    },
+    {
+      "home": "Birmingham City",
+      "away": "Millwall",
+      "league": "İNCL",
+      "at": "03.11.2026 14:57",
+      "count": 6
+    },
     {
       "home": "Galatasaray",
       "away": "VfB Stuttgart",
@@ -501,20 +515,6 @@
       "league": "İNCL",
       "at": "03.11.2026 14:10",
       "count": 5
-    },
-    {
-      "home": "Birmingham City",
-      "away": "Millwall",
-      "league": "İNCL",
-      "at": "03.11.2026 14:10",
-      "count": 6
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "Bayern Munich",
-      "league": "ŞMP",
-      "at": "03.11.2026 14:10",
-      "count": 6
     }
   ],
   "paywall": {
