@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 10:59",
+  "updatedAt": "03.11.2026 11:07",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 249,
+      "won": 250,
       "lost": 124,
-      "total": 373,
+      "total": 374,
       "rate": 66.8
     },
-    "totalAnalyses": 302465,
+    "totalAnalyses": 302467,
     "leagues": 531,
     "pro": {
-      "won": 912,
+      "won": 913,
       "lost": 375,
-      "total": 1287,
+      "total": 1288,
       "rate": 70.9
     },
     "insights": {
-      "won": 1591,
+      "won": 1592,
       "lost": 687,
-      "total": 2278,
-      "rate": 69.8
+      "total": 2279,
+      "rate": 69.9
     },
     "coupons": {
       "won": 42,
@@ -325,6 +325,12 @@
     {
       "type": "coupon",
       "size": 5,
+      "odds": 1.51,
+      "at": "03.11.2026 11:07"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
       "odds": 1.55,
       "at": "03.11.2026 04:02"
     },
@@ -333,12 +339,6 @@
       "size": 5,
       "odds": 1.57,
       "at": "03.11.2026 03:03"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.51,
-      "at": "03.11.2026 02:05"
     },
     {
       "type": "updated",
@@ -379,7 +379,7 @@
     "matchCode": "4523177",
     "odds": 1.41,
     "patternScore": 68.46,
-    "patternText": "120.895/176.593",
+    "patternText": "120.899/176.597",
     "aiScore": 61,
     "picks": 1
   },
@@ -392,7 +392,7 @@
       "matchCode": "4523177",
       "odds": 1.41,
       "patternScore": 68.46,
-      "patternText": "120.895/176.593",
+      "patternText": "120.899/176.597",
       "aiScore": 61,
       "picks": 1
     },
@@ -404,7 +404,7 @@
       "matchCode": "4538723",
       "odds": 1.33,
       "patternScore": 68.17,
-      "patternText": "200.596/294.245",
+      "patternText": "200.604/294.265",
       "aiScore": 61,
       "picks": 3
     },
@@ -416,7 +416,7 @@
       "matchCode": "4560698",
       "odds": 1.29,
       "patternScore": 68.41,
-      "patternText": "178.907/261.511",
+      "patternText": "178.911/261.527",
       "aiScore": 59,
       "picks": 4
     },
@@ -427,8 +427,8 @@
       "date": "03.11.2026 13:00",
       "matchCode": "4547667",
       "odds": 1.25,
-      "patternScore": 67.85,
-      "patternText": "203.301/299.647",
+      "patternScore": 67.84,
+      "patternText": "203.309/299.667",
       "aiScore": 62,
       "picks": 1
     },
@@ -440,7 +440,7 @@
       "matchCode": "4540668",
       "odds": 1.2,
       "patternScore": 67.86,
-      "patternText": "199.110/293.401",
+      "patternText": "199.114/293.421",
       "aiScore": 71,
       "picks": 1
     }
