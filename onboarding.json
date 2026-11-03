@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 03:54",
+  "updatedAt": "03.11.2026 04:02",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 67.2
     },
-    "analyses24h": 939,
-    "analyses30d": 21552
+    "analyses24h": 938,
+    "analyses30d": 21547
   },
   "recentWins": [
     {
@@ -262,6 +262,12 @@
     {
       "type": "coupon",
       "size": 5,
+      "odds": 1.55,
+      "at": "03.11.2026 04:02"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
       "odds": 1.57,
       "at": "03.11.2026 03:03"
     },
@@ -269,12 +275,6 @@
       "type": "coupon",
       "size": 5,
       "odds": 1.51,
-      "at": "03.11.2026 02:05"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.55,
       "at": "03.11.2026 02:05"
     },
     {
@@ -309,18 +309,30 @@
     }
   ],
   "today": {
-    "home": "Tochigi SC",
-    "away": "Fukushima United FC",
-    "league": "JAP3",
-    "date": "03.11.2026 05:00",
-    "matchCode": "4488027",
-    "odds": 1.38,
-    "patternScore": 68.92,
-    "patternText": "173.709/252.047",
-    "aiScore": 57,
-    "picks": 3
+    "home": "Vissel Kobe",
+    "away": "Ratchaburi Mitr Phol FC",
+    "league": "AŞMP",
+    "date": "03.11.2026 10:00",
+    "matchCode": "4550089",
+    "odds": 1.79,
+    "patternScore": 68.13,
+    "patternText": "178.430/261.885",
+    "aiScore": 53,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Vissel Kobe",
+      "away": "Ratchaburi Mitr Phol FC",
+      "league": "AŞMP",
+      "date": "03.11.2026 10:00",
+      "matchCode": "4550089",
+      "odds": 1.79,
+      "patternScore": 68.13,
+      "patternText": "178.430/261.885",
+      "aiScore": 53,
+      "picks": 2
+    },
     {
       "home": "Tochigi SC",
       "away": "Fukushima United FC",
@@ -329,7 +341,7 @@
       "matchCode": "4488027",
       "odds": 1.38,
       "patternScore": 68.92,
-      "patternText": "173.709/252.047",
+      "patternText": "173.721/252.063",
       "aiScore": 57,
       "picks": 3
     },
@@ -341,7 +353,7 @@
       "matchCode": "4487652",
       "odds": 1.34,
       "patternScore": 68.85,
-      "patternText": "158.053/229.549",
+      "patternText": "158.077/229.583",
       "aiScore": 60,
       "picks": 2
     },
@@ -353,7 +365,7 @@
       "matchCode": "4488033",
       "odds": 1.31,
       "patternScore": 69.71,
-      "patternText": "180.180/258.479",
+      "patternText": "180.192/258.495",
       "aiScore": 61,
       "picks": 3
     },
@@ -365,21 +377,9 @@
       "matchCode": "4487649",
       "odds": 1.23,
       "patternScore": 68.49,
-      "patternText": "176.304/257.429",
+      "patternText": "176.330/257.467",
       "aiScore": 66,
       "picks": 3
-    },
-    {
-      "home": "Renofa Yamaguchi",
-      "away": "Kagoshima United",
-      "league": "JAP3",
-      "date": "03.11.2026 05:00",
-      "matchCode": "4488032",
-      "odds": 1.22,
-      "patternScore": 68.36,
-      "patternText": "169.899/248.551",
-      "aiScore": 65,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
