@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 18:12",
+  "updatedAt": "03.11.2026 18:19",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 207,
-      "lost": 95,
-      "total": 302,
-      "rate": 68.5
+      "won": 197,
+      "lost": 86,
+      "total": 283,
+      "rate": 69.6
     },
-    "totalAnalyses": 302779,
+    "totalAnalyses": 302783,
     "leagues": 527,
     "pro": {
       "won": 946,
@@ -47,8 +47,8 @@
       "total": 64,
       "rate": 67.2
     },
-    "analyses24h": 927,
-    "analyses30d": 20486
+    "analyses24h": 916,
+    "analyses30d": 20494
   },
   "recentWins": [
     {
@@ -416,6 +416,18 @@
       "picks": 3
     },
     {
+      "home": "Wealdstone",
+      "away": "Derby County U21",
+      "league": "İULK",
+      "date": "03.11.2026 19:00",
+      "matchCode": "4527481",
+      "odds": 1.52,
+      "patternScore": 68.15,
+      "patternText": "224.733/329.739",
+      "aiScore": 54,
+      "picks": 1
+    },
+    {
       "home": "Charlton Athletic",
       "away": "Bolton Wanderers",
       "league": "İNCL",
@@ -438,21 +450,23 @@
       "patternText": "230.909/336.290",
       "aiScore": 59,
       "picks": 3
-    },
-    {
-      "home": "Preston North End",
-      "away": "Sheffield United",
-      "league": "İNCL",
-      "date": "03.11.2026 19:45",
-      "matchCode": "4488841",
-      "odds": 1.29,
-      "patternScore": 66.92,
-      "patternText": "230.435/344.342",
-      "aiScore": 60,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Birmingham City",
+      "away": "Millwall",
+      "league": "İNCL",
+      "at": "03.11.2026 18:14",
+      "count": 8
+    },
+    {
+      "home": "Atletico Madrid",
+      "away": "Bayern Munich",
+      "league": "ŞMP",
+      "at": "03.11.2026 18:14",
+      "count": 7
+    },
     {
       "home": "FK Bodo/Glimt",
       "away": "LOSC Lille",
@@ -482,13 +496,6 @@
       "count": 8
     },
     {
-      "home": "Birmingham City",
-      "away": "Millwall",
-      "league": "İNCL",
-      "at": "03.11.2026 17:36",
-      "count": 6
-    },
-    {
       "home": "LASK Linz",
       "away": "SK Slovan Bratislava",
       "league": "ŞMP",
@@ -515,13 +522,6 @@
       "league": "ŞMP",
       "at": "03.11.2026 17:14",
       "count": 17
-    },
-    {
-      "home": "Preston North End",
-      "away": "Sheffield United",
-      "league": "İNCL",
-      "at": "03.11.2026 16:56",
-      "count": 5
     }
   ],
   "paywall": {
