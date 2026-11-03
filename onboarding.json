@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 09:01",
+  "updatedAt": "03.11.2026 09:09",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 235,
-      "lost": 116,
-      "total": 351,
-      "rate": 67.0
+      "won": 236,
+      "lost": 117,
+      "total": 353,
+      "rate": 66.9
     },
-    "totalAnalyses": 302433,
+    "totalAnalyses": 302439,
     "leagues": 533,
     "pro": {
-      "won": 907,
+      "won": 908,
       "lost": 376,
-      "total": 1283,
+      "total": 1284,
       "rate": 70.7
     },
     "insights": {
-      "won": 1583,
-      "lost": 686,
-      "total": 2269,
-      "rate": 69.8
+      "won": 1584,
+      "lost": 687,
+      "total": 2271,
+      "rate": 69.7
     },
     "coupons": {
-      "won": 41,
+      "won": 42,
       "lost": 20,
-      "total": 61,
-      "rate": 67.2
+      "total": 62,
+      "rate": 67.7
     },
-    "analyses24h": 989,
-    "analyses30d": 21498
+    "analyses24h": 995,
+    "analyses30d": 21504
   },
   "recentWins": [
     {
@@ -123,6 +123,49 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.55,
+      "winChance": 34.9,
+      "completedAt": "03.11.2026 09:09",
+      "legs": [
+        {
+          "home": "Kofu",
+          "away": "Albirex Niigata",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.06,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "Nara Club",
+          "away": "Thespa Kusatsu Gunma",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.06,
+          "finalScore": "3 - 0"
+        },
+        {
+          "home": "Yokohama FC",
+          "away": "Blaublitz Akita",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.14,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Tochigi SC",
+          "away": "Fukushima United FC",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.08,
+          "finalScore": "0 - 0"
+        },
+        {
+          "home": "FC Ryukyu",
+          "away": "FC Gifu",
+          "prediction": "Double Chance 12",
+          "odds": 1.12,
+          "finalScore": "2 - 3"
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.51,
@@ -244,28 +287,6 @@
           "finalScore": "2 - 1"
         }
       ]
-    },
-    {
-      "size": 2,
-      "totalOdds": 1.21,
-      "winChance": 49.88,
-      "completedAt": "02.11.2026 23:10",
-      "legs": [
-        {
-          "home": "Chelmsford",
-          "away": "Farnham Town",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.08,
-          "finalScore": "0 - 2"
-        },
-        {
-          "home": "Deportes Limache",
-          "away": "Audax Italiano",
-          "prediction": "Double Chance 12",
-          "odds": 1.12,
-          "finalScore": "2 - 0"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -327,12 +348,6 @@
     },
     {
       "type": "updated",
-      "at": "03.11.2026 03:07",
-      "home": "Gainare Tottor",
-      "away": "SC Sagamihara"
-    },
-    {
-      "type": "updated",
       "at": "03.11.2026 03:29",
       "home": "Kofu",
       "away": "Albirex Niigata"
@@ -348,6 +363,12 @@
       "at": "03.11.2026 03:28",
       "home": "Yokohama FC",
       "away": "Blaublitz Akita"
+    },
+    {
+      "type": "updated",
+      "at": "03.11.2026 03:30",
+      "home": "Nara Club",
+      "away": "Thespa Kusatsu Gunma"
     }
   ],
   "today": {
