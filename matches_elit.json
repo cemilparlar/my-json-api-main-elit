@@ -477,7 +477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "03.11.2026 20:00",
@@ -747,7 +747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "04.11.2026 20:00",
@@ -1677,7 +1677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "05.11.2026 17:45",
@@ -1857,7 +1857,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "05.11.2026 17:45",
@@ -5247,7 +5247,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 98
     },
     {
         "date": "04.11.2026 22:30",
@@ -6297,7 +6297,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "02.11.2026 17:00",
@@ -7767,7 +7767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "02.11.2026 16:00",
@@ -8667,7 +8667,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "02.11.2026 18:00",
@@ -8847,7 +8847,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "02.11.2026 18:00",
@@ -9357,7 +9357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "02.11.2026 19:00",
@@ -9567,7 +9567,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 97
     },
     {
         "date": "02.11.2026 20:00",
@@ -12597,7 +12597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "03.11.2026 12:00",
@@ -13197,7 +13197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "04.11.2026 16:00",
@@ -13740,36 +13740,6 @@
         "aiScore": 81
     },
     {
-        "date": "03.11.2026 18:15",
-        "league": "AŞMP",
-        "matchCode": "4550157",
-        "home": "Al Hilal",
-        "away": "Al Ahli Dubai",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "78.79",
-        "odds": "1.07",
-        "matchCount": "33",
-        "matchLink": "4550157",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.44,
-        "patternText": "217.803/313.650",
-        "patternInfo": {
-            "m": 72,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
-    },
-    {
         "date": "04.11.2026 10:00",
         "league": "AFCŞL2",
         "matchCode": "4550021",
@@ -13828,5 +13798,65 @@
             "b": 100.0
         },
         "aiScore": 56
+    },
+    {
+        "date": "03.11.2026 18:15",
+        "league": "AŞMP",
+        "matchCode": "4550157",
+        "home": "Al Hilal",
+        "away": "Al Ahli Dubai",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "88.24",
+        "odds": "1.07",
+        "matchCount": "17",
+        "matchLink": "4550157",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/17",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 12:47",
+        "patternScore": 70.33,
+        "patternText": "148.956/211.789",
+        "patternInfo": {
+            "m": 78,
+            "s": 12,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 99
+    },
+    {
+        "date": "03.11.2026 18:15",
+        "league": "AŞMP",
+        "matchCode": "4550157",
+        "home": "Al Hilal",
+        "away": "Al Ahli Dubai",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "82.35",
+        "odds": "1.42",
+        "matchCount": "17",
+        "matchLink": "4550157",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/17",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "03.11.2026 12:47",
+        "patternScore": 68.16,
+        "patternText": "139.570/204.773",
+        "patternInfo": {
+            "m": 60,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 58
     }
 ]

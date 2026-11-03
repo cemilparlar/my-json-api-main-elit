@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 12:46",
+  "updatedAt": "03.11.2026 12:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 373,
       "rate": 67.3
     },
-    "totalAnalyses": 302563,
+    "totalAnalyses": 302564,
     "leagues": 530,
     "pro": {
       "won": 912,
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 67.7
     },
-    "analyses24h": 1041,
-    "analyses30d": 21270
+    "analyses24h": 1040,
+    "analyses30d": 21269
   },
   "recentWins": [
     {
@@ -372,18 +372,30 @@
     }
   ],
   "today": {
-    "home": "CS Maritimo U23",
-    "away": "Moreirense U23",
-    "league": "PORU23",
-    "date": "03.11.2026 15:00",
-    "matchCode": "4523177",
-    "odds": 1.41,
-    "patternScore": 68.46,
-    "patternText": "120.927/176.629",
-    "aiScore": 62,
-    "picks": 1
+    "home": "Al Hilal",
+    "away": "Al Ahli Dubai",
+    "league": "AŞMP",
+    "date": "03.11.2026 18:15",
+    "matchCode": "4550157",
+    "odds": 1.42,
+    "patternScore": 68.16,
+    "patternText": "139.570/204.773",
+    "aiScore": 57,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Al Hilal",
+      "away": "Al Ahli Dubai",
+      "league": "AŞMP",
+      "date": "03.11.2026 18:15",
+      "matchCode": "4550157",
+      "odds": 1.42,
+      "patternScore": 68.16,
+      "patternText": "139.570/204.773",
+      "aiScore": 57,
+      "picks": 2
+    },
     {
       "home": "CS Maritimo U23",
       "away": "Moreirense U23",
@@ -431,18 +443,6 @@
       "patternText": "191.029/281.288",
       "aiScore": 64,
       "picks": 6
-    },
-    {
-      "home": "Al Hussein",
-      "away": "Al Shorta",
-      "league": "AFCŞL2",
-      "date": "03.11.2026 16:00",
-      "matchCode": "4550009",
-      "odds": 1.18,
-      "patternScore": 69.81,
-      "patternText": "239.406/342.951",
-      "aiScore": 76,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
