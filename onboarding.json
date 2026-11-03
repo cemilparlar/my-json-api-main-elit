@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 22:09",
+  "updatedAt": "03.11.2026 22:15",
   "config": {
     "pages": [
       "engine",
@@ -66,6 +66,20 @@
       "pro": true
     },
     {
+      "home": "FC Barcelona",
+      "away": "Aston Villa",
+      "league": "ŞMP",
+      "date": "03.11.2026 20:00",
+      "prediction": "Total Goals 2-3",
+      "odds": 2.84,
+      "probability": 100.0,
+      "patternScore": 55.44,
+      "aiScore": 50,
+      "firstHalf": "1 - 0",
+      "finalScore": "3 - 0",
+      "pro": false
+    },
+    {
       "home": "Rivadavia",
       "away": "Club Atletico Banfield",
       "league": "ARJ",
@@ -106,20 +120,6 @@
       "firstHalf": "0 - 1",
       "finalScore": "0 - 3",
       "pro": true
-    },
-    {
-      "home": "Atlanta United",
-      "away": "Toronto FC",
-      "league": "ABD",
-      "date": "01.11.2026 21:30",
-      "prediction": "1st Half Over 1.5",
-      "odds": 1.87,
-      "probability": 100.0,
-      "patternScore": 55.21,
-      "aiScore": 51,
-      "firstHalf": "2 - 0",
-      "finalScore": "3 - 1",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -307,6 +307,14 @@
     },
     {
       "type": "won",
+      "home": "FC Barcelona",
+      "away": "Aston Villa",
+      "prediction": "Total Goals 2-3",
+      "odds": 2.84,
+      "at": "03.11.2026 20:00"
+    },
+    {
+      "type": "won",
       "home": "Rivadavia",
       "away": "Club Atletico Banfield",
       "prediction": "1st Half Over 1.5",
@@ -320,14 +328,6 @@
       "prediction": "1st Half Under 0.5",
       "odds": 2.3,
       "at": "01.11.2026 21:30"
-    },
-    {
-      "type": "won",
-      "home": "Krylya Sovetov",
-      "away": "Zenit St. Petersburg",
-      "prediction": "Handicap (1:0) 2",
-      "odds": 2.12,
-      "at": "02.11.2026 15:00"
     },
     {
       "type": "coupon",
@@ -361,21 +361,21 @@
     },
     {
       "type": "updated",
+      "at": "03.11.2026 17:18",
+      "home": "LASK Linz",
+      "away": "SK Slovan Bratislava"
+    },
+    {
+      "type": "updated",
       "at": "03.11.2026 19:11",
       "home": "Feyenoord",
       "away": "Inter"
     },
     {
       "type": "updated",
-      "at": "03.11.2026 19:29",
-      "home": "FK Bodo/Glimt",
-      "away": "LOSC Lille"
-    },
-    {
-      "type": "updated",
-      "at": "03.11.2026 17:15",
-      "home": "IK Sirius",
-      "away": "Halmstads BK"
+      "at": "03.11.2026 18:52",
+      "home": "Manchester United",
+      "away": "AS Roma"
     }
   ],
   "today": {
@@ -386,7 +386,7 @@
     "matchCode": "4501909",
     "odds": 1.21,
     "patternScore": 68.4,
-    "patternText": "175.340/256.357",
+    "patternText": "175.364/256.395",
     "aiScore": 70,
     "picks": 1
   },
@@ -399,7 +399,7 @@
       "matchCode": "4501909",
       "odds": 1.21,
       "patternScore": 68.4,
-      "patternText": "175.340/256.357",
+      "patternText": "175.364/256.395",
       "aiScore": 70,
       "picks": 1
     },
@@ -411,8 +411,8 @@
       "matchCode": "4487111",
       "odds": 1.21,
       "patternScore": 68.43,
-      "patternText": "172.708/252.372",
-      "aiScore": 72,
+      "patternText": "172.770/252.474",
+      "aiScore": 71,
       "picks": 1
     },
     {
@@ -422,8 +422,8 @@
       "date": "03.11.2026 23:00",
       "matchCode": "4575436",
       "odds": 1.08,
-      "patternScore": 71.34,
-      "patternText": "126.079/176.720",
+      "patternScore": 71.35,
+      "patternText": "126.141/176.804",
       "aiScore": 95,
       "picks": 1
     },
@@ -435,8 +435,8 @@
       "matchCode": "4550092",
       "odds": 1.17,
       "patternScore": 68.91,
-      "patternText": "185.159/268.708",
-      "aiScore": 69,
+      "patternText": "185.185/268.748",
+      "aiScore": 68,
       "picks": 3
     },
     {
@@ -447,7 +447,7 @@
       "matchCode": "4488029",
       "odds": 1.15,
       "patternScore": 70.67,
-      "patternText": "228.353/323.134",
+      "patternText": "228.393/323.186",
       "aiScore": 90,
       "picks": 2
     }
