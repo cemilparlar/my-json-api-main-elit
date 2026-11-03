@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 09:24",
+  "updatedAt": "03.11.2026 09:32",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 353,
       "rate": 66.9
     },
-    "totalAnalyses": 302439,
+    "totalAnalyses": 302446,
     "leagues": 533,
     "pro": {
       "won": 908,
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 67.7
     },
-    "analyses24h": 991,
-    "analyses30d": 21500
+    "analyses24h": 993,
+    "analyses30d": 21494
   },
   "recentWins": [
     {
@@ -348,54 +348,42 @@
     },
     {
       "type": "updated",
-      "at": "03.11.2026 03:29",
-      "home": "Kofu",
-      "away": "Albirex Niigata"
+      "at": "03.11.2026 07:10",
+      "home": "Newcastle Jets",
+      "away": "Shanghai Port FC"
     },
     {
       "type": "updated",
-      "at": "03.11.2026 03:29",
-      "home": "Kamatamare Sanuki",
-      "away": "Matsumoto Yamag"
+      "at": "03.11.2026 07:54",
+      "home": "Jeonbuk Hm",
+      "away": "Johor Darul Tazim"
     },
     {
       "type": "updated",
-      "at": "03.11.2026 03:28",
-      "home": "Yokohama FC",
-      "away": "Blaublitz Akita"
+      "at": "03.11.2026 09:26",
+      "home": "CF Estrela da Amadora U23",
+      "away": "CD Santa Clara U23"
     },
     {
       "type": "updated",
-      "at": "03.11.2026 03:30",
-      "home": "Nara Club",
-      "away": "Thespa Kusatsu Gunma"
+      "at": "03.11.2026 09:05",
+      "home": "Academico FC Viseu",
+      "away": "Torreense U23"
     }
   ],
   "today": {
-    "home": "Vissel Kobe",
-    "away": "Ratchaburi Mitr Phol FC",
-    "league": "AŞMP",
-    "date": "03.11.2026 10:00",
-    "matchCode": "4550089",
-    "odds": 1.79,
-    "patternScore": 68.14,
-    "patternText": "178.684/262.241",
-    "aiScore": 52,
-    "picks": 2
+    "home": "CS Maritimo U23",
+    "away": "Moreirense U23",
+    "league": "PORU23",
+    "date": "03.11.2026 15:00",
+    "matchCode": "4523177",
+    "odds": 1.41,
+    "patternScore": 68.45,
+    "patternText": "120.863/176.559",
+    "aiScore": 61,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Vissel Kobe",
-      "away": "Ratchaburi Mitr Phol FC",
-      "league": "AŞMP",
-      "date": "03.11.2026 10:00",
-      "matchCode": "4550089",
-      "odds": 1.79,
-      "patternScore": 68.14,
-      "patternText": "178.684/262.241",
-      "aiScore": 52,
-      "picks": 2
-    },
     {
       "home": "CS Maritimo U23",
       "away": "Moreirense U23",
@@ -443,6 +431,18 @@
       "patternText": "186.980/274.062",
       "aiScore": 58,
       "picks": 2
+    },
+    {
+      "home": "NEC Nijmegen",
+      "away": "UPDF FC",
+      "league": "UGA",
+      "date": "03.11.2026 13:00",
+      "matchCode": "4547667",
+      "odds": 1.25,
+      "patternScore": 67.85,
+      "patternText": "203.273/299.613",
+      "aiScore": 62,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
