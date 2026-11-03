@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 10:30",
+  "updatedAt": "03.11.2026 10:37",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 67.7
     },
-    "analyses24h": 1000,
-    "analyses30d": 21469
+    "analyses24h": 999,
+    "analyses30d": 21468
   },
   "recentWins": [
     {
@@ -354,7 +354,13 @@
     },
     {
       "type": "updated",
-      "at": "03.11.2026 09:49",
+      "at": "03.11.2026 10:29",
+      "home": "CF Estrela da Amadora U23",
+      "away": "CD Santa Clara U23"
+    },
+    {
+      "type": "updated",
+      "at": "03.11.2026 10:31",
       "home": "Academico FC Viseu",
       "away": "Torreense U23"
     },
@@ -363,12 +369,6 @@
       "at": "03.11.2026 10:10",
       "home": "Esteghlal",
       "away": "Al Shamal"
-    },
-    {
-      "type": "updated",
-      "at": "03.11.2026 06:27",
-      "home": "FC Ryukyu",
-      "away": "FC Gifu"
     }
   ],
   "today": {
@@ -394,6 +394,18 @@
       "patternScore": 68.46,
       "patternText": "120.893/176.591",
       "aiScore": 61,
+      "picks": 1
+    },
+    {
+      "home": "Salzburg U19",
+      "away": "Genk U19",
+      "league": "UEGL",
+      "date": "03.11.2026 13:00",
+      "matchCode": "4560336",
+      "odds": 1.41,
+      "patternScore": 68.22,
+      "patternText": "186.582/273.510",
+      "aiScore": 54,
       "picks": 1
     },
     {
@@ -430,18 +442,6 @@
       "patternScore": 67.85,
       "patternText": "203.299/299.645",
       "aiScore": 62,
-      "picks": 1
-    },
-    {
-      "home": "Wigan Athletic",
-      "away": "Sheffield United",
-      "league": "INGPDL",
-      "date": "03.11.2026 13:00",
-      "matchCode": "4540668",
-      "odds": 1.2,
-      "patternScore": 67.86,
-      "patternText": "199.108/293.399",
-      "aiScore": 71,
       "picks": 1
     }
   ],
