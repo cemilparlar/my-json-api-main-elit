@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 23:27",
+  "updatedAt": "03.11.2026 23:34",
   "config": {
     "pages": [
       "engine",
@@ -22,22 +22,22 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 207,
+      "won": 205,
       "lost": 107,
-      "total": 314,
-      "rate": 65.9
+      "total": 312,
+      "rate": 65.7
     },
     "totalAnalyses": 302850,
     "leagues": 524,
     "pro": {
-      "won": 993,
+      "won": 992,
       "lost": 396,
-      "total": 1389,
+      "total": 1388,
       "rate": 71.5
     },
     "insights": {
-      "won": 1718,
-      "lost": 731,
+      "won": 1719,
+      "lost": 730,
       "total": 2449,
       "rate": 70.2
     },
@@ -47,8 +47,8 @@
       "total": 66,
       "rate": 63.6
     },
-    "analyses24h": 774,
-    "analyses30d": 20314
+    "analyses24h": 770,
+    "analyses30d": 20306
   },
   "recentWins": [
     {
@@ -94,20 +94,6 @@
       "pro": false
     },
     {
-      "home": "Newells Old Boys",
-      "away": "Union Santa Fe",
-      "league": "ARJ",
-      "date": "01.11.2026 21:30",
-      "prediction": "1st Half Under 0.5",
-      "odds": 2.3,
-      "probability": 70.0,
-      "patternScore": 67.9,
-      "aiScore": 51,
-      "firstHalf": "0 - 0",
-      "finalScore": "1 - 1",
-      "pro": true
-    },
-    {
       "home": "Krylya Sovetov",
       "away": "Zenit St. Petersburg",
       "league": "RUS",
@@ -120,6 +106,20 @@
       "firstHalf": "0 - 1",
       "finalScore": "0 - 3",
       "pro": true
+    },
+    {
+      "home": "Al Wasl",
+      "away": "Al Jawiya",
+      "league": "AŞMP",
+      "date": "02.11.2026 16:00",
+      "prediction": "Handicap (0:2) 2",
+      "odds": 1.83,
+      "probability": 75.0,
+      "patternScore": 64.0,
+      "aiScore": 52,
+      "firstHalf": "3 - 1",
+      "finalScore": "4 - 3",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -323,11 +323,11 @@
     },
     {
       "type": "won",
-      "home": "Newells Old Boys",
-      "away": "Union Santa Fe",
-      "prediction": "1st Half Under 0.5",
-      "odds": 2.3,
-      "at": "01.11.2026 21:30"
+      "home": "Krylya Sovetov",
+      "away": "Zenit St. Petersburg",
+      "prediction": "Handicap (1:0) 2",
+      "odds": 2.12,
+      "at": "02.11.2026 15:00"
     },
     {
       "type": "coupon",
