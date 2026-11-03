@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 16:25",
+  "updatedAt": "03.11.2026 16:32",
   "config": {
     "pages": [
       "engine",
@@ -23,11 +23,11 @@
     "days": 7,
     "last24h": {
       "won": 228,
-      "lost": 101,
-      "total": 329,
-      "rate": 69.3
+      "lost": 100,
+      "total": 328,
+      "rate": 69.5
     },
-    "totalAnalyses": 302742,
+    "totalAnalyses": 302744,
     "leagues": 527,
     "pro": {
       "won": 936,
@@ -47,8 +47,8 @@
       "total": 63,
       "rate": 66.7
     },
-    "analyses24h": 983,
-    "analyses30d": 20612
+    "analyses24h": 982,
+    "analyses30d": 20586
   },
   "recentWins": [
     {
@@ -421,6 +421,18 @@
       "picks": 3
     },
     {
+      "home": "Chapecoense AF",
+      "away": "Mirassol FC",
+      "league": "BR1",
+      "date": "03.11.2026 22:30",
+      "matchCode": "4423368",
+      "odds": 1.33,
+      "patternScore": 68.46,
+      "patternText": "133.419/194.876",
+      "aiScore": 63,
+      "picks": 2
+    },
+    {
       "home": "Charlton Athletic",
       "away": "Bolton Wanderers",
       "league": "İNCL",
@@ -431,18 +443,6 @@
       "patternText": "212.430/312.711",
       "aiScore": 56,
       "picks": 7
-    },
-    {
-      "home": "Shakhtar Donetsk",
-      "away": "Sporting CP",
-      "league": "ŞMP",
-      "date": "03.11.2026 17:45",
-      "matchCode": "4549514",
-      "odds": 1.3,
-      "patternScore": 68.11,
-      "patternText": "224.894/330.209",
-      "aiScore": 59,
-      "picks": 6
     }
   ],
   "recentAnalyzed": [
