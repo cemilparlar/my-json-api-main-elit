@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 20:28",
+  "updatedAt": "03.11.2026 20:35",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": 66.7
     },
     "analyses24h": 802,
-    "analyses30d": 20386
+    "analyses30d": 20380
   },
   "recentWins": [
     {
@@ -404,18 +404,6 @@
       "picks": 2
     },
     {
-      "home": "Xelaju MC",
-      "away": "Deportivo Marquense",
-      "league": "GUAT",
-      "date": "03.11.2026 21:00",
-      "matchCode": "4490447",
-      "odds": 1.24,
-      "patternScore": 69.23,
-      "patternText": "100.550/145.247",
-      "aiScore": 76,
-      "picks": 1
-    },
-    {
       "home": "Sporting San J",
       "away": "Deportivo Perez Zeledon",
       "league": "KOSTA",
@@ -450,6 +438,18 @@
       "patternText": "228.307/323.066",
       "aiScore": 91,
       "picks": 2
+    },
+    {
+      "home": "Melbourne Victory",
+      "away": "Persib Bandung",
+      "league": "AFCŞL2",
+      "date": "04.11.2026 07:45",
+      "matchCode": "4550020",
+      "odds": 1.09,
+      "patternScore": 71.24,
+      "patternText": "238.002/334.076",
+      "aiScore": 97,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
