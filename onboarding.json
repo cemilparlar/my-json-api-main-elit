@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 01:58",
+  "updatedAt": "03.11.2026 02:05",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 185,
-      "lost": 106,
-      "total": 291,
-      "rate": 63.6
+      "won": 184,
+      "lost": 105,
+      "total": 289,
+      "rate": 63.7
     },
     "totalAnalyses": 302344,
     "leagues": 532,
     "pro": {
       "won": 834,
-      "lost": 347,
-      "total": 1181,
+      "lost": 348,
+      "total": 1182,
       "rate": 70.6
     },
     "insights": {
-      "won": 1473,
-      "lost": 644,
-      "total": 2117,
+      "won": 1477,
+      "lost": 645,
+      "total": 2122,
       "rate": 69.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 67.2
     },
-    "analyses24h": 941,
-    "analyses30d": 21567
+    "analyses24h": 939,
+    "analyses30d": 21561
   },
   "recentWins": [
     {
@@ -254,33 +254,21 @@
     },
     {
       "type": "coupon",
+      "size": 5,
+      "odds": 1.51,
+      "at": "03.11.2026 02:05"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
+      "odds": 1.55,
+      "at": "03.11.2026 02:05"
+    },
+    {
+      "type": "coupon",
       "size": 4,
       "odds": 1.52,
       "at": "02.11.2026 20:00"
-    },
-    {
-      "type": "coupon",
-      "size": 1,
-      "odds": 1.08,
-      "at": "02.11.2026 19:06"
-    },
-    {
-      "type": "coupon",
-      "size": 2,
-      "odds": 1.21,
-      "at": "02.11.2026 19:06"
-    },
-    {
-      "type": "updated",
-      "at": "02.11.2026 20:04",
-      "home": "Deportes Limache",
-      "away": "Audax Italiano"
-    },
-    {
-      "type": "updated",
-      "at": "02.11.2026 20:04",
-      "home": "Red Bull Bragantino",
-      "away": "FC Santos"
     },
     {
       "type": "updated",
@@ -299,6 +287,18 @@
       "at": "02.11.2026 20:38",
       "home": "Waterhouse",
       "away": "Cavalier Sc"
+    },
+    {
+      "type": "updated",
+      "at": "02.11.2026 23:12",
+      "home": "Tochigi SC",
+      "away": "Fukushima United FC"
+    },
+    {
+      "type": "updated",
+      "at": "02.11.2026 23:15",
+      "home": "Montedio Yamagata",
+      "away": "Tokushima Vortis"
     }
   ],
   "today": {
