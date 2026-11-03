@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 19:04",
+  "updatedAt": "03.11.2026 19:11",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 252,
       "rate": 71.4
     },
-    "totalAnalyses": 302809,
+    "totalAnalyses": 302824,
     "leagues": 526,
     "pro": {
-      "won": 959,
-      "lost": 382,
-      "total": 1341,
+      "won": 961,
+      "lost": 383,
+      "total": 1344,
       "rate": 71.5
     },
     "insights": {
-      "won": 1658,
-      "lost": 704,
-      "total": 2362,
+      "won": 1662,
+      "lost": 705,
+      "total": 2367,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 65,
       "rate": 67.7
     },
-    "analyses24h": 878,
-    "analyses30d": 20416
+    "analyses24h": 890,
+    "analyses30d": 20425
   },
   "recentWins": [
     {
@@ -367,7 +367,7 @@
     },
     {
       "type": "updated",
-      "at": "03.11.2026 14:58",
+      "at": "03.11.2026 19:11",
       "home": "Feyenoord",
       "away": "Inter"
     },
@@ -386,7 +386,7 @@
     "matchCode": "4488840",
     "odds": 2.35,
     "patternScore": 67.66,
-    "patternText": "196.104/289.833",
+    "patternText": "196.146/289.887",
     "aiScore": 51,
     "picks": 6
   },
@@ -399,7 +399,7 @@
       "matchCode": "4488840",
       "odds": 2.35,
       "patternScore": 67.66,
-      "patternText": "196.104/289.833",
+      "patternText": "196.146/289.887",
       "aiScore": 51,
       "picks": 6
     },
@@ -410,8 +410,8 @@
       "date": "03.11.2026 19:45",
       "matchCode": "4488839",
       "odds": 1.61,
-      "patternScore": 68.02,
-      "patternText": "128.465/188.851",
+      "patternScore": 68.03,
+      "patternText": "128.483/188.873",
       "aiScore": 55,
       "picks": 5
     },
@@ -423,7 +423,7 @@
       "matchCode": "4488847",
       "odds": 1.33,
       "patternScore": 67.77,
-      "patternText": "216.863/319.989",
+      "patternText": "216.913/320.051",
       "aiScore": 58,
       "picks": 3
     },
@@ -435,7 +435,7 @@
       "matchCode": "4488841",
       "odds": 1.29,
       "patternScore": 66.92,
-      "patternText": "230.459/344.368",
+      "patternText": "230.509/344.430",
       "aiScore": 60,
       "picks": 4
     },
@@ -447,12 +447,40 @@
       "matchCode": "4488843",
       "odds": 1.29,
       "patternScore": 68.76,
-      "patternText": "227.669/331.098",
+      "patternText": "227.719/331.160",
       "aiScore": 62,
       "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Feyenoord",
+      "away": "Inter",
+      "league": "ŞMP",
+      "at": "03.11.2026 19:11",
+      "count": 18
+    },
+    {
+      "home": "Atletico Madrid",
+      "away": "Bayern Munich",
+      "league": "ŞMP",
+      "at": "03.11.2026 19:11",
+      "count": 14
+    },
+    {
+      "home": "FK Bodo/Glimt",
+      "away": "LOSC Lille",
+      "league": "ŞMP",
+      "at": "03.11.2026 19:10",
+      "count": 11
+    },
+    {
+      "home": "Portsmouth",
+      "away": "Swansea",
+      "league": "İNCL",
+      "at": "03.11.2026 19:10",
+      "count": 5
+    },
     {
       "home": "Manchester United",
       "away": "AS Roma",
@@ -475,13 +503,6 @@
       "count": 9
     },
     {
-      "home": "Portsmouth",
-      "away": "Swansea",
-      "league": "İNCL",
-      "at": "03.11.2026 18:51",
-      "count": 8
-    },
-    {
       "home": "Charlton Athletic",
       "away": "Bolton Wanderers",
       "league": "İNCL",
@@ -501,27 +522,6 @@
       "league": "ŞMP",
       "at": "03.11.2026 18:34",
       "count": 18
-    },
-    {
-      "home": "Birmingham City",
-      "away": "Millwall",
-      "league": "İNCL",
-      "at": "03.11.2026 18:14",
-      "count": 8
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "Bayern Munich",
-      "league": "ŞMP",
-      "at": "03.11.2026 18:14",
-      "count": 7
-    },
-    {
-      "home": "FK Bodo/Glimt",
-      "away": "LOSC Lille",
-      "league": "ŞMP",
-      "at": "03.11.2026 17:57",
-      "count": 7
     }
   ],
   "paywall": {
