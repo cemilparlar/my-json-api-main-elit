@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 10:15",
+  "updatedAt": "03.11.2026 10:22",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 67.7
     },
-    "analyses24h": 1001,
-    "analyses30d": 21488
+    "analyses24h": 998,
+    "analyses30d": 21479
   },
   "recentWins": [
     {
@@ -397,18 +397,6 @@
       "picks": 1
     },
     {
-      "home": "S. Donetsk U19",
-      "away": "Sporting CP U19",
-      "league": "UEGL",
-      "date": "03.11.2026 12:00",
-      "matchCode": "4560702",
-      "odds": 1.39,
-      "patternScore": 68.16,
-      "patternText": "195.700/287.130",
-      "aiScore": 56,
-      "picks": 1
-    },
-    {
       "home": "Al Raed",
       "away": "Al Wahda",
       "league": "SUUD1",
@@ -442,6 +430,18 @@
       "patternScore": 67.85,
       "patternText": "203.299/299.645",
       "aiScore": 62,
+      "picks": 1
+    },
+    {
+      "home": "Wigan Athletic",
+      "away": "Sheffield United",
+      "league": "INGPDL",
+      "date": "03.11.2026 13:00",
+      "matchCode": "4540668",
+      "odds": 1.2,
+      "patternScore": 67.86,
+      "patternText": "199.108/293.399",
+      "aiScore": 71,
       "picks": 1
     }
   ],
