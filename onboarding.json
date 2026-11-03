@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 18:48",
+  "updatedAt": "03.11.2026 18:56",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 281,
       "rate": 69.8
     },
-    "totalAnalyses": 302803,
+    "totalAnalyses": 302809,
     "leagues": 526,
     "pro": {
-      "won": 949,
+      "won": 955,
       "lost": 385,
-      "total": 1334,
-      "rate": 71.1
+      "total": 1340,
+      "rate": 71.3
     },
     "insights": {
-      "won": 1646,
+      "won": 1654,
       "lost": 706,
-      "total": 2352,
-      "rate": 70.0
+      "total": 2360,
+      "rate": 70.1
     },
     "coupons": {
       "won": 43,
@@ -47,8 +47,8 @@
       "total": 64,
       "rate": 67.2
     },
-    "analyses24h": 919,
-    "analyses30d": 20427
+    "analyses24h": 921,
+    "analyses30d": 20429
   },
   "recentWins": [
     {
@@ -373,7 +373,7 @@
     },
     {
       "type": "updated",
-      "at": "03.11.2026 14:10",
+      "at": "03.11.2026 18:52",
       "home": "Manchester United",
       "away": "AS Roma"
     }
@@ -411,7 +411,7 @@
       "matchCode": "4488840",
       "odds": 1.52,
       "patternScore": 68.05,
-      "patternText": "193.704/284.644",
+      "patternText": "193.712/284.652",
       "aiScore": 56,
       "picks": 3
     },
@@ -423,7 +423,7 @@
       "matchCode": "4488847",
       "odds": 1.47,
       "patternScore": 68.28,
-      "patternText": "209.663/307.080",
+      "patternText": "209.671/307.088",
       "aiScore": 55,
       "picks": 6
     },
@@ -435,7 +435,7 @@
       "matchCode": "4488843",
       "odds": 1.33,
       "patternScore": 68.67,
-      "patternText": "230.933/336.318",
+      "patternText": "230.941/336.326",
       "aiScore": 59,
       "picks": 3
     },
@@ -447,12 +447,47 @@
       "matchCode": "4488841",
       "odds": 1.29,
       "patternScore": 66.92,
-      "patternText": "230.445/344.354",
+      "patternText": "230.453/344.362",
       "aiScore": 60,
       "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Manchester United",
+      "away": "AS Roma",
+      "league": "ŞMP",
+      "at": "03.11.2026 18:52",
+      "count": 4
+    },
+    {
+      "home": "Watford",
+      "away": "Lincoln City",
+      "league": "İNCL",
+      "at": "03.11.2026 18:52",
+      "count": 8
+    },
+    {
+      "home": "Derby County",
+      "away": "Norwich City",
+      "league": "İNCL",
+      "at": "03.11.2026 18:51",
+      "count": 9
+    },
+    {
+      "home": "Portsmouth",
+      "away": "Swansea",
+      "league": "İNCL",
+      "at": "03.11.2026 18:51",
+      "count": 8
+    },
+    {
+      "home": "Charlton Athletic",
+      "away": "Bolton Wanderers",
+      "league": "İNCL",
+      "at": "03.11.2026 18:51",
+      "count": 7
+    },
     {
       "home": "Sport Club Internacional",
       "away": "Coritiba FBC",
@@ -487,41 +522,6 @@
       "league": "ŞMP",
       "at": "03.11.2026 17:57",
       "count": 7
-    },
-    {
-      "home": "Queens Park Rangers",
-      "away": "Burnley",
-      "league": "İNCL",
-      "at": "03.11.2026 17:57",
-      "count": 7
-    },
-    {
-      "home": "Portsmouth",
-      "away": "Swansea",
-      "league": "İNCL",
-      "at": "03.11.2026 17:57",
-      "count": 4
-    },
-    {
-      "home": "Charlton Athletic",
-      "away": "Bolton Wanderers",
-      "league": "İNCL",
-      "at": "03.11.2026 17:56",
-      "count": 8
-    },
-    {
-      "home": "LASK Linz",
-      "away": "SK Slovan Bratislava",
-      "league": "ŞMP",
-      "at": "03.11.2026 17:18",
-      "count": 13
-    },
-    {
-      "home": "Watford",
-      "away": "Lincoln City",
-      "league": "İNCL",
-      "at": "03.11.2026 17:17",
-      "count": 5
     }
   ],
   "paywall": {
