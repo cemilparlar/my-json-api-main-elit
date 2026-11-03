@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 05:14",
+  "updatedAt": "03.11.2026 05:20",
   "config": {
     "pages": [
       "engine",
@@ -31,14 +31,14 @@
     "leagues": 532,
     "pro": {
       "won": 865,
-      "lost": 366,
-      "total": 1231,
-      "rate": 70.3
+      "lost": 367,
+      "total": 1232,
+      "rate": 70.2
     },
     "insights": {
-      "won": 1532,
-      "lost": 670,
-      "total": 2202,
+      "won": 1533,
+      "lost": 671,
+      "total": 2204,
       "rate": 69.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 67.2
     },
-    "analyses24h": 947,
-    "analyses30d": 21520
+    "analyses24h": 945,
+    "analyses30d": 21518
   },
   "recentWins": [
     {
@@ -358,18 +358,6 @@
       "picks": 2
     },
     {
-      "home": "FC Imabari",
-      "away": "Consadole Sapporo",
-      "league": "JAP2",
-      "date": "03.11.2026 05:50",
-      "matchCode": "4487654",
-      "odds": 1.13,
-      "patternScore": 70.62,
-      "patternText": "228.872/324.107",
-      "aiScore": 84,
-      "picks": 2
-    },
-    {
       "home": "FC Ryukyu",
       "away": "FC Gifu",
       "league": "JAP3",
@@ -380,6 +368,18 @@
       "patternText": "138.719/192.538",
       "aiScore": 96,
       "picks": 1
+    },
+    {
+      "home": "Newcastle Jets",
+      "away": "Shanghai Port FC",
+      "league": "AŞMP",
+      "date": "03.11.2026 07:45",
+      "matchCode": "4550086",
+      "odds": 1.1,
+      "patternScore": 69.91,
+      "patternText": "183.315/262.208",
+      "aiScore": 96,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
