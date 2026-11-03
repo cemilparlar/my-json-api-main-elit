@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 11:28",
+  "updatedAt": "03.11.2026 11:36",
   "config": {
     "pages": [
       "engine",
@@ -23,11 +23,11 @@
     "days": 7,
     "last24h": {
       "won": 250,
-      "lost": 124,
-      "total": 374,
-      "rate": 66.8
+      "lost": 123,
+      "total": 373,
+      "rate": 67.0
     },
-    "totalAnalyses": 302480,
+    "totalAnalyses": 302491,
     "leagues": 531,
     "pro": {
       "won": 913,
@@ -36,9 +36,9 @@
       "rate": 70.9
     },
     "insights": {
-      "won": 1592,
+      "won": 1594,
       "lost": 687,
-      "total": 2279,
+      "total": 2281,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 67.7
     },
-    "analyses24h": 995,
-    "analyses30d": 21373
+    "analyses24h": 1006,
+    "analyses30d": 21376
   },
   "recentWins": [
     {
@@ -372,30 +372,18 @@
     }
   ],
   "today": {
-    "home": "Villarreal U19",
-    "away": "Paris Sg U19",
-    "league": "UEGL",
-    "date": "03.11.2026 12:00",
-    "matchCode": "4560698",
-    "odds": 1.47,
-    "patternScore": 68.06,
-    "patternText": "188.015/276.237",
-    "aiScore": 54,
-    "picks": 2
+    "home": "CS Maritimo U23",
+    "away": "Moreirense U23",
+    "league": "PORU23",
+    "date": "03.11.2026 15:00",
+    "matchCode": "4523177",
+    "odds": 1.41,
+    "patternScore": 68.46,
+    "patternText": "120.899/176.597",
+    "aiScore": 61,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Villarreal U19",
-      "away": "Paris Sg U19",
-      "league": "UEGL",
-      "date": "03.11.2026 12:00",
-      "matchCode": "4560698",
-      "odds": 1.47,
-      "patternScore": 68.06,
-      "patternText": "188.015/276.237",
-      "aiScore": 54,
-      "picks": 2
-    },
     {
       "home": "CS Maritimo U23",
       "away": "Moreirense U23",
@@ -443,6 +431,18 @@
       "patternText": "203.317/299.675",
       "aiScore": 62,
       "picks": 1
+    },
+    {
+      "home": "Cand",
+      "away": "Kyoto Sanga FC",
+      "league": "AŞMP",
+      "date": "03.11.2026 12:15",
+      "matchCode": "4550091",
+      "odds": 1.21,
+      "patternScore": 68.74,
+      "patternText": "194.301/282.641",
+      "aiScore": 72,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
