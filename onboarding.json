@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 00:55",
+  "updatedAt": "03.11.2026 01:03",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": 67.2
     },
     "analyses24h": 957,
-    "analyses30d": 21593
+    "analyses30d": 21581
   },
   "recentWins": [
     {
@@ -339,18 +339,6 @@
       "picks": 4
     },
     {
-      "home": "Yokohama FC",
-      "away": "Blaublitz Akita",
-      "league": "JAP2",
-      "date": "03.11.2026 05:00",
-      "matchCode": "4487649",
-      "odds": 1.15,
-      "patternScore": 69.55,
-      "patternText": "192.720/277.102",
-      "aiScore": 89,
-      "picks": 3
-    },
-    {
       "home": "Kofu",
       "away": "Albirex Niigata",
       "league": "JAP2",
@@ -373,6 +361,18 @@
       "patternText": "228.959/324.339",
       "aiScore": 82,
       "picks": 3
+    },
+    {
+      "home": "Renofa Yamaguchi",
+      "away": "Kagoshima United",
+      "league": "JAP3",
+      "date": "03.11.2026 05:00",
+      "matchCode": "4488032",
+      "odds": 1.15,
+      "patternScore": 69.22,
+      "patternText": "178.807/258.335",
+      "aiScore": 74,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
