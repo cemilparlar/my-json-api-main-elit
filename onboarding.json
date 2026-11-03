@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 17:37",
+  "updatedAt": "03.11.2026 17:44",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 209,
-      "lost": 98,
-      "total": 307,
-      "rate": 68.1
+      "won": 218,
+      "lost": 103,
+      "total": 321,
+      "rate": 67.9
     },
     "totalAnalyses": 302771,
     "leagues": 527,
     "pro": {
-      "won": 938,
+      "won": 942,
       "lost": 383,
-      "total": 1321,
-      "rate": 71.0
+      "total": 1325,
+      "rate": 71.1
     },
     "insights": {
-      "won": 1630,
-      "lost": 701,
-      "total": 2331,
+      "won": 1634,
+      "lost": 702,
+      "total": 2336,
       "rate": 69.9
     },
     "coupons": {
-      "won": 42,
+      "won": 43,
       "lost": 21,
-      "total": 63,
-      "rate": 66.7
+      "total": 64,
+      "rate": 67.2
     },
-    "analyses24h": 968,
-    "analyses30d": 20577
+    "analyses24h": 966,
+    "analyses30d": 20575
   },
   "recentWins": [
     {
@@ -123,6 +123,49 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.52,
+      "winChance": 37.28,
+      "completedAt": "03.11.2026 17:44",
+      "legs": [
+        {
+          "home": "Damak",
+          "away": "Al Akhdoud",
+          "prediction": "Double Chance 12",
+          "odds": 1.14,
+          "finalScore": "4 - 3"
+        },
+        {
+          "home": "Bul",
+          "away": "SC Villa",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.1,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Atl Madrid U19",
+          "away": "Bayern Munich",
+          "prediction": "Double Chance 12",
+          "odds": 1.06,
+          "finalScore": "4 - 1"
+        },
+        {
+          "home": "Al Raed",
+          "away": "Al Wahda",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.06,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "FC Vizela U23",
+          "away": "Portimonense U23",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "1 - 2"
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.55,
@@ -251,42 +294,6 @@
           "finalScore": "3 - 0"
         }
       ]
-    },
-    {
-      "size": 4,
-      "totalOdds": 1.52,
-      "winChance": 43.05,
-      "completedAt": "03.11.2026 02:20",
-      "legs": [
-        {
-          "home": "Deportes Limache",
-          "away": "Audax Italiano",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.11,
-          "finalScore": "2 - 0"
-        },
-        {
-          "home": "Club Deportivo Platense",
-          "away": "Corboda Santiag",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "2 - 0"
-        },
-        {
-          "home": "Defensa y Justicia",
-          "away": "Independiente del Valle",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.1,
-          "finalScore": "1 - 1"
-        },
-        {
-          "home": "Red Bull Bragantino",
-          "away": "FC Santos",
-          "prediction": "Handicap (1:0) 1",
-          "odds": 1.15,
-          "finalScore": "2 - 1"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -405,7 +412,7 @@
       "odds": 1.33,
       "patternScore": 68.66,
       "patternText": "230.835/336.188",
-      "aiScore": 59,
+      "aiScore": 58,
       "picks": 3
     },
     {
