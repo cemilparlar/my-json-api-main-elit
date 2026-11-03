@@ -23,7 +23,7 @@
     },
     "multi": {
       "won": 42,
-      "lost": 19
+      "lost": 21
     },
     "c70_1": {
       "won": 20,
@@ -39,11 +39,11 @@
     },
     "cyz_4": {
       "won": 1,
-      "lost": 0
+      "lost": 1
     },
     "cyz_5": {
       "won": 5,
-      "lost": 3
+      "lost": 4
     }
   },
   "stats30": {
@@ -85,7 +85,7 @@
     },
     "multi": {
       "won": 42,
-      "lost": 19
+      "lost": 21
     },
     "c70_1": {
       "won": 20,
@@ -101,15 +101,15 @@
     },
     "cyz_4": {
       "won": 1,
-      "lost": 0
+      "lost": 1
     },
     "cyz_5": {
       "won": 5,
-      "lost": 3
+      "lost": 4
     }
   },
-  "updatedAt": "03.11.2026 21:48",
-  "updatedAtUtc": "2026-11-03T21:48:00Z",
+  "updatedAt": "03.11.2026 21:55",
+  "updatedAtUtc": "2026-11-03T21:55:00Z",
   "upcoming": [
     {
       "id": "20261103-20-2",
@@ -351,9 +351,9 @@
           "patternScore": 68.75,
           "patternText": "234.784/341.517",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 3",
+          "finalScore": "2 - 3",
+          "status": "won",
           "aiScore": 92
         },
         {
@@ -374,9 +374,9 @@
           "patternScore": 57.35,
           "patternText": "188.398/328.523",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "won",
           "aiScore": 92
         },
         {
@@ -463,9 +463,9 @@
           "patternScore": 67.84,
           "patternText": "156.358/230.481",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 3",
+          "finalScore": "2 - 3",
+          "status": "won",
           "aiScore": 95
         },
         {
@@ -509,9 +509,9 @@
           "patternScore": 63.46,
           "patternText": "142.043/223.841",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "won",
           "aiScore": 97
         },
         {
@@ -575,9 +575,9 @@
           "patternScore": 70.67,
           "patternText": "136.697/193.427",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 1",
+          "status": "won",
           "aiScore": 98
         },
         {
@@ -598,9 +598,9 @@
           "patternScore": 69.35,
           "patternText": "102.494/147.795",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 3",
+          "finalScore": "0 - 4",
+          "status": "won",
           "aiScore": 97
         },
         {
@@ -667,13 +667,15 @@
           "patternScore": 68.26,
           "patternText": "164.476/240.972",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 1",
+          "finalScore": "1 - 2",
+          "status": "won",
           "aiScore": 85
         }
       ]
-    },
+    }
+  ],
+  "completed": [
     {
       "id": "20261103-21-2",
       "createdAt": "03.11.2026 18:05",
@@ -684,8 +686,8 @@
       "winChance": 34.51,
       "firstKickoff": "03.11.2026 19:45",
       "lastKickoff": "03.11.2026 20:00",
-      "status": "live",
-      "completedAt": null,
+      "status": "lost",
+      "completedAt": "03.11.2026 21:55",
       "kind": "cyz_5",
       "group": "multi",
       "formula": "5",
@@ -710,9 +712,9 @@
           "patternScore": 69.02,
           "patternText": "228.348/330.864",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 3",
+          "finalScore": "0 - 4",
+          "status": "lost",
           "aiScore": 93
         },
         {
@@ -779,9 +781,9 @@
           "patternScore": 70.72,
           "patternText": "162.101/229.226",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 1",
+          "status": "lost",
           "aiScore": 85
         },
         {
@@ -819,8 +821,8 @@
       "winChance": 44.82,
       "firstKickoff": "03.11.2026 19:45",
       "lastKickoff": "03.11.2026 20:00",
-      "status": "live",
-      "completedAt": null,
+      "status": "lost",
+      "completedAt": "03.11.2026 21:55",
       "kind": "cyz_4",
       "group": "multi",
       "formula": "4",
@@ -845,9 +847,9 @@
           "patternScore": 67.9,
           "patternText": "165.550/243.823",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 3",
+          "finalScore": "2 - 3",
+          "status": "won",
           "aiScore": 95
         },
         {
@@ -891,9 +893,9 @@
           "patternScore": 62.38,
           "patternText": "136.751/219.229",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "lost",
           "aiScore": 96
         },
         {
@@ -920,9 +922,7 @@
           "aiScore": 92
         }
       ]
-    }
-  ],
-  "completed": [
+    },
     {
       "id": "20261103-19-1",
       "createdAt": "03.11.2026 16:04",
