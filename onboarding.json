@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 11:43",
+  "updatedAt": "03.11.2026 11:50",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 373,
       "rate": 67.0
     },
-    "totalAnalyses": 302491,
+    "totalAnalyses": 302520,
     "leagues": 531,
     "pro": {
       "won": 913,
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 67.7
     },
-    "analyses24h": 1001,
-    "analyses30d": 21371
+    "analyses24h": 1026,
+    "analyses30d": 21394
   },
   "recentWins": [
     {
@@ -342,6 +342,12 @@
     },
     {
       "type": "updated",
+      "at": "03.11.2026 11:49",
+      "home": "Galatasaray",
+      "away": "VfB Stuttgart"
+    },
+    {
+      "type": "updated",
       "at": "03.11.2026 07:10",
       "home": "Newcastle Jets",
       "away": "Shanghai Port FC"
@@ -363,12 +369,6 @@
       "at": "03.11.2026 10:10",
       "home": "Esteghlal",
       "away": "Al Shamal"
-    },
-    {
-      "type": "updated",
-      "at": "03.11.2026 11:11",
-      "home": "Chrobry Glogow",
-      "away": "Arka Gdynia"
     }
   ],
   "today": {
@@ -447,6 +447,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Shakhtar Donetsk",
+      "away": "Sporting CP",
+      "league": "ŞMP",
+      "at": "03.11.2026 11:50",
+      "count": 12
+    },
+    {
+      "home": "Galatasaray",
+      "away": "VfB Stuttgart",
+      "league": "ŞMP",
+      "at": "03.11.2026 11:49",
+      "count": 19
+    },
+    {
       "home": "FC Barcelona",
       "away": "Aston Villa",
       "league": "ŞMP",
@@ -501,20 +515,6 @@
       "league": "İS2",
       "at": "02.11.2026 16:49",
       "count": 5
-    },
-    {
-      "home": "US Sassuolo",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "at": "02.11.2026 16:49",
-      "count": 5
-    },
-    {
-      "home": "Genclerbirligi",
-      "away": "Alanyaspor",
-      "league": "TSL",
-      "at": "02.11.2026 16:10",
-      "count": 7
     }
   ],
   "paywall": {
