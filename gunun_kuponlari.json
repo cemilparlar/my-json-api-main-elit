@@ -108,8 +108,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "03.11.2026 17:01",
-  "updatedAtUtc": "2026-11-03T17:01:00Z",
+  "updatedAt": "03.11.2026 17:08",
+  "updatedAtUtc": "2026-11-03T17:08:00Z",
   "upcoming": [
     {
       "id": "20261103-15-1",
@@ -2297,47 +2297,6 @@
           "firstHalf": "0 - 0",
           "finalScore": "0 - 0",
           "status": "lost"
-        }
-      ]
-    },
-    {
-      "id": "20261102-16-1",
-      "createdAt": "02.11.2026 13:04",
-      "createdAtUtc": "2026-11-02T13:04:00Z",
-      "size": 1,
-      "mbs": 1,
-      "totalOdds": 1.13,
-      "winChance": 70.29,
-      "firstKickoff": "02.11.2026 15:00",
-      "lastKickoff": "02.11.2026 15:00",
-      "status": "won",
-      "completedAt": "02.11.2026 17:03",
-      "kind": "c70_1",
-      "group": "multi",
-      "formula": "1",
-      "effectiveOdds": 1.13,
-      "legs": [
-        {
-          "matchCode": "4435463",
-          "nesine": null,
-          "date": "02.11.2026 15:00",
-          "kickoffUtc": "2026-11-02T15:00:00Z",
-          "league": "GUR",
-          "home": "FC Torpedo Kutaisi",
-          "away": "FC Dila Gori",
-          "league_tr": "GUR",
-          "home_tr": "Torpedo Kutais",
-          "away_tr": "Dila Gori",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.13,
-          "probability": 72.29,
-          "patternScore": 70.29,
-          "patternText": "258.138/367.227",
-          "mbs": 1,
-          "firstHalf": "1 - 1",
-          "finalScore": "2 - 1",
-          "status": "won"
         }
       ]
     }
