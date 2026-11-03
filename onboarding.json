@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 05:35",
+  "updatedAt": "03.11.2026 05:42",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 302377,
     "leagues": 532,
     "pro": {
-      "won": 866,
-      "lost": 367,
-      "total": 1233,
-      "rate": 70.2
+      "won": 870,
+      "lost": 368,
+      "total": 1238,
+      "rate": 70.3
     },
     "insights": {
-      "won": 1536,
-      "lost": 672,
-      "total": 2208,
+      "won": 1540,
+      "lost": 673,
+      "total": 2213,
       "rate": 69.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 58,
       "rate": 67.2
     },
-    "analyses24h": 953,
-    "analyses30d": 21522
+    "analyses24h": 951,
+    "analyses30d": 21520
   },
   "recentWins": [
     {
@@ -316,8 +316,8 @@
     "matchCode": "4550089",
     "odds": 1.79,
     "patternScore": 68.13,
-    "patternText": "178.476/261.961",
-    "aiScore": 53,
+    "patternText": "178.484/261.973",
+    "aiScore": 52,
     "picks": 2
   },
   "todayList": [
@@ -329,21 +329,9 @@
       "matchCode": "4550089",
       "odds": 1.79,
       "patternScore": 68.13,
-      "patternText": "178.476/261.961",
-      "aiScore": 53,
+      "patternText": "178.484/261.973",
+      "aiScore": 52,
       "picks": 2
-    },
-    {
-      "home": "Kashiwa Reysol",
-      "away": "Daejeon Citizen",
-      "league": "AŞMP",
-      "date": "03.11.2026 10:00",
-      "matchCode": "4550088",
-      "odds": 1.27,
-      "patternScore": 68.76,
-      "patternText": "187.619/272.860",
-      "aiScore": 63,
-      "picks": 1
     },
     {
       "home": "Jeonbuk Hm",
@@ -353,9 +341,33 @@
       "matchCode": "4550087",
       "odds": 1.18,
       "patternScore": 69.46,
-      "patternText": "182.868/263.281",
+      "patternText": "182.880/263.297",
       "aiScore": 83,
       "picks": 2
+    },
+    {
+      "home": "Kashiwa Reysol",
+      "away": "Daejeon Citizen",
+      "league": "AŞMP",
+      "date": "03.11.2026 10:00",
+      "matchCode": "4550088",
+      "odds": 1.13,
+      "patternScore": 69.32,
+      "patternText": "196.430/283.374",
+      "aiScore": 75,
+      "picks": 1
+    },
+    {
+      "home": "CF Estrela da Amadora U23",
+      "away": "CD Santa Clara U23",
+      "league": "PORU23",
+      "date": "03.11.2026 11:00",
+      "matchCode": "4523176",
+      "odds": 1.13,
+      "patternScore": 70.35,
+      "patternText": "243.864/346.658",
+      "aiScore": 85,
+      "picks": 1
     },
     {
       "home": "FC Ryukyu",
@@ -365,21 +377,9 @@
       "matchCode": "4488036",
       "odds": 1.12,
       "patternScore": 72.05,
-      "patternText": "138.725/192.544",
+      "patternText": "138.733/192.552",
       "aiScore": 96,
       "picks": 1
-    },
-    {
-      "home": "Newcastle Jets",
-      "away": "Shanghai Port FC",
-      "league": "AŞMP",
-      "date": "03.11.2026 07:45",
-      "matchCode": "4550086",
-      "odds": 1.1,
-      "patternScore": 69.91,
-      "patternText": "183.317/262.212",
-      "aiScore": 96,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
