@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 17:15",
+  "updatedAt": "03.11.2026 17:23",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 218,
-      "lost": 101,
-      "total": 319,
-      "rate": 68.3
+      "won": 216,
+      "lost": 100,
+      "total": 316,
+      "rate": 68.4
     },
-    "totalAnalyses": 302765,
+    "totalAnalyses": 302768,
     "leagues": 527,
     "pro": {
       "won": 940,
@@ -47,8 +47,8 @@
       "total": 63,
       "rate": 66.7
     },
-    "analyses24h": 976,
-    "analyses30d": 20581
+    "analyses24h": 973,
+    "analyses30d": 20578
   },
   "recentWins": [
     {
@@ -354,7 +354,7 @@
     },
     {
       "type": "updated",
-      "at": "03.11.2026 15:14",
+      "at": "03.11.2026 17:18",
       "home": "LASK Linz",
       "away": "SK Slovan Bratislava"
     },
@@ -378,8 +378,8 @@
     "date": "03.11.2026 19:45",
     "matchCode": "4488839",
     "odds": 1.52,
-    "patternScore": 67.59,
-    "patternText": "126.686/187.439",
+    "patternScore": 67.58,
+    "patternText": "126.694/187.465",
     "aiScore": 54,
     "picks": 6
   },
@@ -391,8 +391,8 @@
       "date": "03.11.2026 19:45",
       "matchCode": "4488839",
       "odds": 1.52,
-      "patternScore": 67.59,
-      "patternText": "126.686/187.439",
+      "patternScore": 67.58,
+      "patternText": "126.694/187.465",
       "aiScore": 54,
       "picks": 6
     },
@@ -404,7 +404,7 @@
       "matchCode": "4488847",
       "odds": 1.32,
       "patternScore": 67.93,
-      "patternText": "212.454/312.743",
+      "patternText": "212.466/312.769",
       "aiScore": 56,
       "picks": 7
     },
@@ -415,8 +415,8 @@
       "date": "03.11.2026 19:45",
       "matchCode": "4488840",
       "odds": 1.31,
-      "patternScore": 68.28,
-      "patternText": "218.720/320.347",
+      "patternScore": 68.27,
+      "patternText": "218.732/320.393",
       "aiScore": 61,
       "picks": 4
     },
@@ -428,24 +428,38 @@
       "matchCode": "4488841",
       "odds": 1.29,
       "patternScore": 66.92,
-      "patternText": "230.349/344.206",
-      "aiScore": 60,
+      "patternText": "230.361/344.232",
+      "aiScore": 59,
       "picks": 4
+    },
+    {
+      "home": "Blackburn",
+      "away": "Stoke City",
+      "league": "İNCL",
+      "date": "03.11.2026 19:45",
+      "matchCode": "4488838",
+      "odds": 1.28,
+      "patternScore": 67.48,
+      "patternText": "158.307/234.598",
+      "aiScore": 64,
+      "picks": 3
+    }
+  ],
+  "recentAnalyzed": [
+    {
+      "home": "LASK Linz",
+      "away": "SK Slovan Bratislava",
+      "league": "ŞMP",
+      "at": "03.11.2026 17:18",
+      "count": 13
     },
     {
       "home": "Watford",
       "away": "Lincoln City",
       "league": "İNCL",
-      "date": "03.11.2026 19:45",
-      "matchCode": "4488843",
-      "odds": 1.28,
-      "patternScore": 68.09,
-      "patternText": "201.011/295.230",
-      "aiScore": 62,
-      "picks": 7
-    }
-  ],
-  "recentAnalyzed": [
+      "at": "03.11.2026 17:17",
+      "count": 5
+    },
     {
       "home": "Shakhtar Donetsk",
       "away": "Sporting CP",
@@ -501,20 +515,6 @@
       "league": "İNCL",
       "at": "03.11.2026 16:18",
       "count": 10
-    },
-    {
-      "home": "FK Bodo/Glimt",
-      "away": "LOSC Lille",
-      "league": "ŞMP",
-      "at": "03.11.2026 15:35",
-      "count": 17
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "Bayern Munich",
-      "league": "ŞMP",
-      "at": "03.11.2026 15:34",
-      "count": 3
     }
   ],
   "paywall": {
