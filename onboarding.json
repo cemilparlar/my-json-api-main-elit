@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 11:58",
+  "updatedAt": "03.11.2026 12:04",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 254,
-      "lost": 124,
-      "total": 378,
-      "rate": 67.2
+      "won": 249,
+      "lost": 121,
+      "total": 370,
+      "rate": 67.3
     },
     "totalAnalyses": 302523,
-    "leagues": 531,
+    "leagues": 529,
     "pro": {
       "won": 914,
       "lost": 376,
@@ -47,8 +47,8 @@
       "total": 62,
       "rate": 67.7
     },
-    "analyses24h": 1023,
-    "analyses30d": 21389
+    "analyses24h": 1015,
+    "analyses30d": 21291
   },
   "recentWins": [
     {
@@ -325,6 +325,12 @@
     {
       "type": "coupon",
       "size": 5,
+      "odds": 1.52,
+      "at": "03.11.2026 12:04"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
       "odds": 1.51,
       "at": "03.11.2026 11:07"
     },
@@ -333,12 +339,6 @@
       "size": 5,
       "odds": 1.55,
       "at": "03.11.2026 04:02"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.57,
-      "at": "03.11.2026 03:03"
     },
     {
       "type": "updated",
@@ -379,7 +379,7 @@
     "matchCode": "4523177",
     "odds": 1.41,
     "patternScore": 68.46,
-    "patternText": "120.899/176.597",
+    "patternText": "120.915/176.615",
     "aiScore": 61,
     "picks": 1
   },
@@ -392,7 +392,7 @@
       "matchCode": "4523177",
       "odds": 1.41,
       "patternScore": 68.46,
-      "patternText": "120.899/176.597",
+      "patternText": "120.915/176.615",
       "aiScore": 61,
       "picks": 1
     },
@@ -404,7 +404,7 @@
       "matchCode": "4538723",
       "odds": 1.33,
       "patternScore": 68.17,
-      "patternText": "200.612/294.273",
+      "patternText": "200.640/294.307",
       "aiScore": 61,
       "picks": 3
     },
@@ -416,7 +416,7 @@
       "matchCode": "4486232",
       "odds": 1.27,
       "patternScore": 68.78,
-      "patternText": "206.378/300.037",
+      "patternText": "206.398/300.063",
       "aiScore": 63,
       "picks": 3
     },
@@ -428,7 +428,7 @@
       "matchCode": "4547667",
       "odds": 1.25,
       "patternScore": 67.85,
-      "patternText": "203.321/299.679",
+      "patternText": "203.341/299.705",
       "aiScore": 62,
       "picks": 1
     },
@@ -440,7 +440,7 @@
       "matchCode": "4540668",
       "odds": 1.2,
       "patternScore": 67.86,
-      "patternText": "199.122/293.429",
+      "patternText": "199.142/293.455",
       "aiScore": 71,
       "picks": 1
     }
