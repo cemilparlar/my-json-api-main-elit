@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 12:53",
+  "updatedAt": "03.11.2026 13:01",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 302564,
     "leagues": 530,
     "pro": {
-      "won": 912,
+      "won": 911,
       "lost": 374,
-      "total": 1286,
+      "total": 1285,
       "rate": 70.9
     },
     "insights": {
-      "won": 1596,
-      "lost": 687,
-      "total": 2283,
+      "won": 1594,
+      "lost": 686,
+      "total": 2280,
       "rate": 69.9
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 67.7
     },
     "analyses24h": 1040,
-    "analyses30d": 21269
+    "analyses30d": 21203
   },
   "recentWins": [
     {
@@ -397,6 +397,18 @@
       "picks": 2
     },
     {
+      "home": "Boston United",
+      "away": "Leicester City U21",
+      "league": "İULK",
+      "date": "03.11.2026 19:00",
+      "matchCode": "4527526",
+      "odds": 1.41,
+      "patternScore": 68.25,
+      "patternText": "195.702/286.724",
+      "aiScore": 56,
+      "picks": 1
+    },
+    {
       "home": "CS Maritimo U23",
       "away": "Moreirense U23",
       "league": "PORU23",
@@ -431,18 +443,6 @@
       "patternText": "206.402/300.073",
       "aiScore": 64,
       "picks": 3
-    },
-    {
-      "home": "Esteghlal",
-      "away": "Al Shamal",
-      "league": "AŞMP",
-      "date": "03.11.2026 16:00",
-      "matchCode": "4550156",
-      "odds": 1.2,
-      "patternScore": 67.91,
-      "patternText": "191.029/281.288",
-      "aiScore": 64,
-      "picks": 6
     }
   ],
   "recentAnalyzed": [
