@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 04:24",
+  "updatedAt": "03.11.2026 04:32",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 302361,
     "leagues": 532,
     "pro": {
-      "won": 859,
-      "lost": 360,
-      "total": 1219,
+      "won": 861,
+      "lost": 361,
+      "total": 1222,
       "rate": 70.5
     },
     "insights": {
-      "won": 1519,
-      "lost": 662,
-      "total": 2181,
+      "won": 1522,
+      "lost": 665,
+      "total": 2187,
       "rate": 69.6
     },
     "coupons": {
@@ -316,7 +316,7 @@
     "matchCode": "4550089",
     "odds": 1.79,
     "patternScore": 68.13,
-    "patternText": "178.438/261.895",
+    "patternText": "178.438/261.897",
     "aiScore": 53,
     "picks": 2
   },
@@ -329,45 +329,9 @@
       "matchCode": "4550089",
       "odds": 1.79,
       "patternScore": 68.13,
-      "patternText": "178.438/261.895",
+      "patternText": "178.438/261.897",
       "aiScore": 53,
       "picks": 2
-    },
-    {
-      "home": "Tochigi SC",
-      "away": "Fukushima United FC",
-      "league": "JAP3",
-      "date": "03.11.2026 05:00",
-      "matchCode": "4488027",
-      "odds": 1.38,
-      "patternScore": 68.92,
-      "patternText": "173.731/252.075",
-      "aiScore": 57,
-      "picks": 3
-    },
-    {
-      "home": "Kataller Toyama",
-      "away": "Vegalta Sendai",
-      "league": "JAP2",
-      "date": "03.11.2026 04:55",
-      "matchCode": "4487652",
-      "odds": 1.34,
-      "patternScore": 68.85,
-      "patternText": "158.083/229.593",
-      "aiScore": 60,
-      "picks": 2
-    },
-    {
-      "home": "Kamatamare Sanuki",
-      "away": "Matsumoto Yamag",
-      "league": "JAP3",
-      "date": "03.11.2026 05:00",
-      "matchCode": "4488033",
-      "odds": 1.31,
-      "patternScore": 69.71,
-      "patternText": "180.198/258.507",
-      "aiScore": 61,
-      "picks": 3
     },
     {
       "home": "Kashiwa Reysol",
@@ -377,8 +341,44 @@
       "matchCode": "4550088",
       "odds": 1.27,
       "patternScore": 68.77,
-      "patternText": "187.595/272.796",
+      "patternText": "187.595/272.798",
       "aiScore": 63,
+      "picks": 1
+    },
+    {
+      "home": "Jeonbuk Hm",
+      "away": "Johor Darul Tazim",
+      "league": "AŞMP",
+      "date": "03.11.2026 10:00",
+      "matchCode": "4550087",
+      "odds": 1.18,
+      "patternScore": 69.46,
+      "patternText": "182.836/263.223",
+      "aiScore": 83,
+      "picks": 2
+    },
+    {
+      "home": "FC Imabari",
+      "away": "Consadole Sapporo",
+      "league": "JAP2",
+      "date": "03.11.2026 05:50",
+      "matchCode": "4487654",
+      "odds": 1.13,
+      "patternScore": 70.62,
+      "patternText": "228.844/324.051",
+      "aiScore": 84,
+      "picks": 2
+    },
+    {
+      "home": "FC Ryukyu",
+      "away": "FC Gifu",
+      "league": "JAP3",
+      "date": "03.11.2026 07:00",
+      "matchCode": "4488036",
+      "odds": 1.12,
+      "patternScore": 72.05,
+      "patternText": "138.709/192.522",
+      "aiScore": 96,
       "picks": 1
     }
   ],
