@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 17:23",
+  "updatedAt": "03.11.2026 17:30",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 316,
       "rate": 68.4
     },
-    "totalAnalyses": 302768,
+    "totalAnalyses": 302770,
     "leagues": 527,
     "pro": {
       "won": 940,
@@ -47,8 +47,8 @@
       "total": 63,
       "rate": 66.7
     },
-    "analyses24h": 973,
-    "analyses30d": 20578
+    "analyses24h": 964,
+    "analyses30d": 20573
   },
   "recentWins": [
     {
@@ -397,6 +397,18 @@
       "picks": 6
     },
     {
+      "home": "Watford",
+      "away": "Lincoln City",
+      "league": "İNCL",
+      "date": "03.11.2026 19:45",
+      "matchCode": "4488843",
+      "odds": 1.33,
+      "patternScore": 68.66,
+      "patternText": "230.835/336.188",
+      "aiScore": 59,
+      "picks": 3
+    },
+    {
       "home": "Charlton Athletic",
       "away": "Bolton Wanderers",
       "league": "İNCL",
@@ -429,20 +441,8 @@
       "odds": 1.29,
       "patternScore": 66.92,
       "patternText": "230.361/344.232",
-      "aiScore": 59,
+      "aiScore": 60,
       "picks": 4
-    },
-    {
-      "home": "Blackburn",
-      "away": "Stoke City",
-      "league": "İNCL",
-      "date": "03.11.2026 19:45",
-      "matchCode": "4488838",
-      "odds": 1.28,
-      "patternScore": 67.48,
-      "patternText": "158.307/234.598",
-      "aiScore": 64,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
