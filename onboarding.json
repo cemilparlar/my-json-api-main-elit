@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 15:15",
+  "updatedAt": "03.11.2026 15:22",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 253,
-      "lost": 132,
-      "total": 385,
-      "rate": 65.7
+      "won": 248,
+      "lost": 131,
+      "total": 379,
+      "rate": 65.4
     },
     "totalAnalyses": 302713,
     "leagues": 528,
@@ -47,8 +47,8 @@
       "total": 63,
       "rate": 66.7
     },
-    "analyses24h": 1036,
-    "analyses30d": 20710
+    "analyses24h": 1032,
+    "analyses30d": 20706
   },
   "recentWins": [
     {
@@ -372,41 +372,29 @@
     }
   ],
   "today": {
-    "home": "Xelaju MC",
-    "away": "Deportivo Marquense",
-    "league": "GUAT",
-    "date": "03.11.2026 21:00",
-    "matchCode": "4490447",
-    "odds": 1.54,
-    "patternScore": 68.6,
-    "patternText": "181.598/264.733",
+    "home": "Derby County",
+    "away": "Norwich City",
+    "league": "İNCL",
+    "date": "03.11.2026 19:45",
+    "matchCode": "4488839",
+    "odds": 1.58,
+    "patternScore": 67.89,
+    "patternText": "238.552/351.404",
     "aiScore": 54,
-    "picks": 1
+    "picks": 6
   },
   "todayList": [
-    {
-      "home": "Xelaju MC",
-      "away": "Deportivo Marquense",
-      "league": "GUAT",
-      "date": "03.11.2026 21:00",
-      "matchCode": "4490447",
-      "odds": 1.54,
-      "patternScore": 68.6,
-      "patternText": "181.598/264.733",
-      "aiScore": 54,
-      "picks": 1
-    },
     {
       "home": "Derby County",
       "away": "Norwich City",
       "league": "İNCL",
       "date": "03.11.2026 19:45",
       "matchCode": "4488839",
-      "odds": 1.52,
-      "patternScore": 66.84,
-      "patternText": "212.035/317.212",
-      "aiScore": 53,
-      "picks": 5
+      "odds": 1.58,
+      "patternScore": 67.89,
+      "patternText": "238.552/351.404",
+      "aiScore": 54,
+      "picks": 6
     },
     {
       "home": "FK Bodo/Glimt",
@@ -416,7 +404,7 @@
       "matchCode": "4549519",
       "odds": 1.51,
       "patternScore": 67.49,
-      "patternText": "191.677/283.998",
+      "patternText": "191.681/284.002",
       "aiScore": 53,
       "picks": 7
     },
@@ -428,7 +416,7 @@
       "matchCode": "4515987",
       "odds": 1.41,
       "patternScore": 68.48,
-      "patternText": "218.546/319.153",
+      "patternText": "218.560/319.167",
       "aiScore": 56,
       "picks": 2
     },
@@ -440,8 +428,20 @@
       "matchCode": "4488844",
       "odds": 1.38,
       "patternScore": 68.46,
-      "patternText": "101.569/148.372",
+      "patternText": "101.579/148.382",
       "aiScore": 57,
+      "picks": 3
+    },
+    {
+      "home": "Portsmouth",
+      "away": "Swansea",
+      "league": "İNCL",
+      "date": "03.11.2026 19:45",
+      "matchCode": "4488840",
+      "odds": 1.34,
+      "patternScore": 69.29,
+      "patternText": "145.185/209.542",
+      "aiScore": 61,
       "picks": 3
     }
   ],
