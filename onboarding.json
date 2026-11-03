@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 17:58",
+  "updatedAt": "03.11.2026 18:05",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 223,
-      "lost": 105,
-      "total": 328,
-      "rate": 68.0
+      "won": 208,
+      "lost": 96,
+      "total": 304,
+      "rate": 68.4
     },
-    "totalAnalyses": 302776,
+    "totalAnalyses": 302777,
     "leagues": 527,
     "pro": {
       "won": 946,
-      "lost": 385,
-      "total": 1331,
+      "lost": 384,
+      "total": 1330,
       "rate": 71.1
     },
     "insights": {
-      "won": 1641,
-      "lost": 705,
-      "total": 2346,
-      "rate": 69.9
+      "won": 1640,
+      "lost": 704,
+      "total": 2344,
+      "rate": 70.0
     },
     "coupons": {
       "won": 43,
@@ -47,8 +47,8 @@
       "total": 64,
       "rate": 67.2
     },
-    "analyses24h": 961,
-    "analyses30d": 20570
+    "analyses24h": 927,
+    "analyses30d": 20488
   },
   "recentWins": [
     {
@@ -332,19 +332,19 @@
     {
       "type": "coupon",
       "size": 5,
-      "odds": 1.56,
-      "at": "03.11.2026 17:01"
-    },
-    {
-      "type": "coupon",
-      "size": 6,
-      "odds": 1.53,
-      "at": "03.11.2026 17:01"
+      "odds": 1.52,
+      "at": "03.11.2026 18:05"
     },
     {
       "type": "coupon",
       "size": 5,
       "odds": 1.51,
+      "at": "03.11.2026 18:05"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
+      "odds": 1.56,
       "at": "03.11.2026 17:01"
     },
     {
@@ -386,7 +386,7 @@
     "matchCode": "4488839",
     "odds": 1.52,
     "patternScore": 67.58,
-    "patternText": "126.720/187.501",
+    "patternText": "126.734/187.519",
     "aiScore": 54,
     "picks": 6
   },
@@ -399,8 +399,32 @@
       "matchCode": "4488839",
       "odds": 1.52,
       "patternScore": 67.58,
-      "patternText": "126.720/187.501",
+      "patternText": "126.734/187.519",
       "aiScore": 54,
+      "picks": 6
+    },
+    {
+      "home": "Portsmouth",
+      "away": "Swansea",
+      "league": "İNCL",
+      "date": "03.11.2026 19:45",
+      "matchCode": "4488840",
+      "odds": 1.52,
+      "patternScore": 68.05,
+      "patternText": "193.696/284.634",
+      "aiScore": 56,
+      "picks": 3
+    },
+    {
+      "home": "Charlton Athletic",
+      "away": "Bolton Wanderers",
+      "league": "İNCL",
+      "date": "03.11.2026 19:45",
+      "matchCode": "4488847",
+      "odds": 1.47,
+      "patternScore": 68.28,
+      "patternText": "209.655/307.070",
+      "aiScore": 55,
       "picks": 6
     },
     {
@@ -411,33 +435,9 @@
       "matchCode": "4488843",
       "odds": 1.33,
       "patternScore": 68.66,
-      "patternText": "230.877/336.244",
+      "patternText": "230.909/336.290",
       "aiScore": 59,
       "picks": 3
-    },
-    {
-      "home": "Charlton Athletic",
-      "away": "Bolton Wanderers",
-      "league": "İNCL",
-      "date": "03.11.2026 19:45",
-      "matchCode": "4488847",
-      "odds": 1.32,
-      "patternScore": 67.93,
-      "patternText": "212.508/312.833",
-      "aiScore": 56,
-      "picks": 7
-    },
-    {
-      "home": "Portsmouth",
-      "away": "Swansea",
-      "league": "İNCL",
-      "date": "03.11.2026 19:45",
-      "matchCode": "4488840",
-      "odds": 1.31,
-      "patternScore": 68.27,
-      "patternText": "218.766/320.441",
-      "aiScore": 61,
-      "picks": 4
     },
     {
       "home": "Preston North End",
@@ -447,7 +447,7 @@
       "matchCode": "4488841",
       "odds": 1.29,
       "patternScore": 66.92,
-      "patternText": "230.403/344.296",
+      "patternText": "230.435/344.342",
       "aiScore": 60,
       "picks": 4
     }
