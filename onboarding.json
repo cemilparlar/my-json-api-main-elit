@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 12:04",
+  "updatedAt": "04.11.2026 12:11",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 279,
       "rate": 65.9
     },
-    "totalAnalyses": 444254,
+    "totalAnalyses": 444260,
     "leagues": 523,
     "pro": {
       "won": 999,
@@ -94,6 +94,20 @@
       "pro": false
     },
     {
+      "home": "Not FC Seoul - check data",
+      "away": "Viettel FC",
+      "league": "AFCŞL2",
+      "date": "04.11.2026 10:00",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 2.32,
+      "probability": 100.0,
+      "patternScore": 55.55,
+      "aiScore": 50,
+      "firstHalf": "0 - 0",
+      "finalScore": "3 - 0",
+      "pro": false
+    },
+    {
       "home": "Krylya Sovetov",
       "away": "Zenit St. Petersburg",
       "league": "RUS",
@@ -106,20 +120,6 @@
       "firstHalf": "0 - 1",
       "finalScore": "0 - 3",
       "pro": true
-    },
-    {
-      "home": "Al Wasl",
-      "away": "Al Jawiya",
-      "league": "AŞMP",
-      "date": "02.11.2026 16:00",
-      "prediction": "Handicap (0:2) 2",
-      "odds": 1.83,
-      "probability": 75.0,
-      "patternScore": 64.0,
-      "aiScore": 51,
-      "firstHalf": "3 - 1",
-      "finalScore": "4 - 3",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -323,11 +323,11 @@
     },
     {
       "type": "won",
-      "home": "Krylya Sovetov",
-      "away": "Zenit St. Petersburg",
-      "prediction": "Handicap (1:0) 2",
-      "odds": 2.12,
-      "at": "02.11.2026 15:00"
+      "home": "Not FC Seoul - check data",
+      "away": "Viettel FC",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 2.32,
+      "at": "04.11.2026 10:00"
     },
     {
       "type": "coupon",
@@ -386,7 +386,7 @@
     "matchCode": "4547669",
     "odds": 1.56,
     "patternScore": 66.7,
-    "patternText": "201.986/302.833",
+    "patternText": "202.014/302.873",
     "aiScore": 52,
     "picks": 4
   },
@@ -399,7 +399,7 @@
       "matchCode": "4547669",
       "odds": 1.56,
       "patternScore": 66.7,
-      "patternText": "201.986/302.833",
+      "patternText": "202.014/302.873",
       "aiScore": 52,
       "picks": 4
     },
@@ -411,7 +411,7 @@
       "matchCode": "4547668",
       "odds": 1.4,
       "patternScore": 68.69,
-      "patternText": "215.486/313.695",
+      "patternText": "215.514/313.735",
       "aiScore": 57,
       "picks": 2
     },
@@ -423,7 +423,7 @@
       "matchCode": "4560711",
       "odds": 1.23,
       "patternScore": 69.79,
-      "patternText": "114.316/163.800",
+      "patternText": "114.360/163.852",
       "aiScore": 69,
       "picks": 3
     },
@@ -435,7 +435,7 @@
       "matchCode": "4563459",
       "odds": 1.21,
       "patternScore": 68.03,
-      "patternText": "127.902/187.997",
+      "patternText": "127.930/188.037",
       "aiScore": 71,
       "picks": 2
     },
@@ -447,8 +447,8 @@
       "matchCode": "4549973",
       "odds": 1.17,
       "patternScore": 68.68,
-      "patternText": "196.094/285.532",
-      "aiScore": 80,
+      "patternText": "196.158/285.620",
+      "aiScore": 81,
       "picks": 3
     }
   ],
