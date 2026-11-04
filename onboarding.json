@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 16:12",
+  "updatedAt": "04.11.2026 16:20",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 178,
-      "lost": 89,
-      "total": 267,
-      "rate": 66.7
+      "won": 179,
+      "lost": 90,
+      "total": 269,
+      "rate": 66.5
     },
-    "totalAnalyses": 444501,
+    "totalAnalyses": 444508,
     "leagues": 514,
     "pro": {
       "won": 1006,
@@ -37,8 +37,8 @@
     },
     "insights": {
       "won": 1737,
-      "lost": 740,
-      "total": 2477,
+      "lost": 741,
+      "total": 2478,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 66.2
     },
-    "analyses24h": 744,
-    "analyses30d": 19796
+    "analyses24h": 743,
+    "analyses30d": 19792
   },
   "recentWins": [
     {
@@ -343,7 +343,7 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 15:55",
+      "at": "04.11.2026 16:17",
       "home": "Fenerbahce",
       "away": "Liverpool"
     },
@@ -361,7 +361,7 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 15:55",
+      "at": "04.11.2026 16:17",
       "home": "FC Porto",
       "away": "SSC Napoli"
     },
@@ -454,25 +454,32 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Bristol City",
+      "away": "Wolverhampton Wanderers",
+      "league": "İNCL",
+      "at": "04.11.2026 16:18",
+      "count": 6
+    },
+    {
       "home": "Fenerbahce",
       "away": "Liverpool",
       "league": "ŞMP",
-      "at": "04.11.2026 15:55",
+      "at": "04.11.2026 16:17",
       "count": 13
     },
     {
       "home": "FC Porto",
       "away": "SSC Napoli",
       "league": "ŞMP",
-      "at": "04.11.2026 15:55",
-      "count": 5
+      "at": "04.11.2026 16:17",
+      "count": 9
     },
     {
       "home": "Aek",
       "away": "Real Madrid",
       "league": "ŞMP",
-      "at": "04.11.2026 15:55",
-      "count": 13
+      "at": "04.11.2026 16:17",
+      "count": 4
     },
     {
       "home": "Borussia Dortmund",
@@ -515,13 +522,6 @@
       "league": "ŞMP",
       "at": "04.11.2026 14:01",
       "count": 14
-    },
-    {
-      "home": "Bristol City",
-      "away": "Wolverhampton Wanderers",
-      "league": "İNCL",
-      "at": "04.11.2026 14:01",
-      "count": 9
     }
   ],
   "paywall": {
