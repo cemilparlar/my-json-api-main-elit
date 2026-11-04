@@ -96,8 +96,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "04.11.2026 19:39",
-  "updatedAtUtc": "2026-11-04T19:39:00Z",
+  "updatedAt": "04.11.2026 19:46",
+  "updatedAtUtc": "2026-11-04T19:46:00Z",
   "upcoming": [
     {
       "id": "20261104-15-1",
@@ -270,9 +270,9 @@
           "patternScore": 57.48,
           "patternText": "211.850/368.569",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 1",
+          "finalScore": "3 - 2",
+          "status": "won",
           "aiScore": 91
         },
         {
@@ -295,7 +295,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 97
         },
         {
@@ -491,7 +491,7 @@
       "winChance": 42.31,
       "firstKickoff": "04.11.2026 19:45",
       "lastKickoff": "04.11.2026 20:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_4",
       "group": "multi",
@@ -519,7 +519,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 96
         },
         {
