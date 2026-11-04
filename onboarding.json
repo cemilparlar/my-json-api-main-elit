@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 16:34",
+  "updatedAt": "04.11.2026 16:42",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 271,
       "rate": 66.8
     },
-    "totalAnalyses": 444508,
+    "totalAnalyses": 444515,
     "leagues": 513,
     "pro": {
       "won": 1006,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 66.2
     },
-    "analyses24h": 740,
-    "analyses30d": 19784
+    "analyses24h": 732,
+    "analyses30d": 19776
   },
   "recentWins": [
     {
@@ -343,7 +343,7 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 16:17",
+      "at": "04.11.2026 16:36",
       "home": "Fenerbahce",
       "away": "Liverpool"
     },
@@ -386,7 +386,7 @@
     "matchCode": "4546092",
     "odds": 1.8,
     "patternScore": 67.23,
-    "patternText": "191.139/284.321",
+    "patternText": "191.151/284.333",
     "aiScore": 52,
     "picks": 3
   },
@@ -399,7 +399,7 @@
       "matchCode": "4546092",
       "odds": 1.8,
       "patternScore": 67.23,
-      "patternText": "191.139/284.321",
+      "patternText": "191.151/284.333",
       "aiScore": 52,
       "picks": 3
     },
@@ -411,7 +411,7 @@
       "matchCode": "4489264",
       "odds": 1.24,
       "patternScore": 67.94,
-      "patternText": "177.241/260.896",
+      "patternText": "177.245/260.900",
       "aiScore": 64,
       "picks": 2
     },
@@ -423,7 +423,7 @@
       "matchCode": "4566285",
       "odds": 1.19,
       "patternScore": 69.17,
-      "patternText": "175.997/254.451",
+      "patternText": "176.001/254.455",
       "aiScore": 74,
       "picks": 3
     },
@@ -435,7 +435,7 @@
       "matchCode": "4549997",
       "odds": 1.19,
       "patternScore": 69.27,
-      "patternText": "131.179/189.378",
+      "patternText": "131.191/189.390",
       "aiScore": 88,
       "picks": 3
     },
@@ -447,25 +447,39 @@
       "matchCode": "4488845",
       "odds": 1.17,
       "patternScore": 69.38,
-      "patternText": "171.454/247.127",
+      "patternText": "171.466/247.139",
       "aiScore": 87,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Bristol City",
-      "away": "Wolverhampton Wanderers",
-      "league": "İNCL",
-      "at": "04.11.2026 16:18",
+      "home": "Atletico Paranaense",
+      "away": "Club de Regatas Vasco da Gama",
+      "league": "BR1",
+      "at": "04.11.2026 16:38",
       "count": 6
+    },
+    {
+      "home": "Viking",
+      "away": "FK Sabah",
+      "league": "ŞMP",
+      "at": "04.11.2026 16:37",
+      "count": 13
     },
     {
       "home": "Fenerbahce",
       "away": "Liverpool",
       "league": "ŞMP",
-      "at": "04.11.2026 16:17",
-      "count": 13
+      "at": "04.11.2026 16:36",
+      "count": 5
+    },
+    {
+      "home": "Bristol City",
+      "away": "Wolverhampton Wanderers",
+      "league": "İNCL",
+      "at": "04.11.2026 16:18",
+      "count": 6
     },
     {
       "home": "FC Porto",
@@ -489,13 +503,6 @@
       "count": 2
     },
     {
-      "home": "Viking",
-      "away": "FK Sabah",
-      "league": "ŞMP",
-      "at": "04.11.2026 14:56",
-      "count": 15
-    },
-    {
       "home": "Stade Rennais",
       "away": "Olympiakos",
       "league": "AVL",
@@ -515,13 +522,6 @@
       "league": "ŞMP",
       "at": "04.11.2026 14:19",
       "count": 13
-    },
-    {
-      "home": "RB Leipzig",
-      "away": "Manchester City",
-      "league": "ŞMP",
-      "at": "04.11.2026 14:01",
-      "count": 14
     }
   ],
   "paywall": {
