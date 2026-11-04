@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 14:59",
+  "updatedAt": "04.11.2026 15:06",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 190,
-      "lost": 98,
-      "total": 288,
-      "rate": 66.0
+      "won": 179,
+      "lost": 89,
+      "total": 268,
+      "rate": 66.8
     },
     "totalAnalyses": 444458,
-    "leagues": 518,
+    "leagues": 516,
     "pro": {
-      "won": 1006,
+      "won": 1008,
       "lost": 405,
-      "total": 1411,
+      "total": 1413,
       "rate": 71.3
     },
     "insights": {
-      "won": 1739,
+      "won": 1741,
       "lost": 738,
-      "total": 2477,
+      "total": 2479,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 753,
-    "analyses30d": 19906
+    "analyses24h": 730,
+    "analyses30d": 19822
   },
   "recentWins": [
     {
@@ -367,15 +367,15 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 14:56",
-      "home": "Viking",
-      "away": "FK Sabah"
-    },
-    {
-      "type": "updated",
       "at": "04.11.2026 14:35",
       "home": "Cardiff City",
       "away": "West Ham United"
+    },
+    {
+      "type": "updated",
+      "at": "04.11.2026 14:00",
+      "home": "Wrexham AFC",
+      "away": "Middlesbrough"
     }
   ],
   "today": {
@@ -386,7 +386,7 @@
     "matchCode": "4546092",
     "odds": 1.8,
     "patternScore": 67.23,
-    "patternText": "191.085/284.221",
+    "patternText": "191.097/284.261",
     "aiScore": 52,
     "picks": 3
   },
@@ -399,7 +399,7 @@
       "matchCode": "4546092",
       "odds": 1.8,
       "patternScore": 67.23,
-      "patternText": "191.085/284.221",
+      "patternText": "191.097/284.261",
       "aiScore": 52,
       "picks": 3
     },
@@ -411,21 +411,9 @@
       "matchCode": "4488845",
       "odds": 1.7,
       "patternScore": 67.55,
-      "patternText": "103.341/152.982",
+      "patternText": "103.377/153.042",
       "aiScore": 54,
       "picks": 6
-    },
-    {
-      "home": "Kampala City Council FC",
-      "away": "Maroons",
-      "league": "UGA",
-      "date": "04.11.2026 17:00",
-      "matchCode": "4547669",
-      "odds": 1.53,
-      "patternScore": 68.18,
-      "patternText": "210.916/309.373",
-      "aiScore": 54,
-      "picks": 1
     },
     {
       "home": "Borussia Dortmund",
@@ -435,7 +423,7 @@
       "matchCode": "4549524",
       "odds": 1.46,
       "patternScore": 67.39,
-      "patternText": "200.217/297.092",
+      "patternText": "200.229/297.124",
       "aiScore": 55,
       "picks": 3
     },
@@ -447,8 +435,20 @@
       "matchCode": "4489264",
       "odds": 1.24,
       "patternScore": 67.94,
-      "patternText": "177.199/260.816",
+      "patternText": "177.211/260.848",
       "aiScore": 64,
+      "picks": 2
+    },
+    {
+      "home": "Espanyol B",
+      "away": "Naxara",
+      "league": "İS4",
+      "date": "04.11.2026 17:00",
+      "matchCode": "4563459",
+      "odds": 1.21,
+      "patternScore": 68.03,
+      "patternText": "127.998/188.149",
+      "aiScore": 73,
       "picks": 2
     }
   ],
