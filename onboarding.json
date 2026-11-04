@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 00:10",
+  "updatedAt": "04.11.2026 00:16",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 205,
-      "lost": 107,
-      "total": 312,
-      "rate": 65.7
+      "won": 199,
+      "lost": 103,
+      "total": 302,
+      "rate": 65.9
     },
     "totalAnalyses": 302850,
     "leagues": 524,
@@ -47,7 +47,7 @@
       "total": 66,
       "rate": 63.6
     },
-    "analyses24h": 770,
+    "analyses24h": 760,
     "analyses30d": 20298
   },
   "recentWins": [
@@ -412,8 +412,20 @@
       "odds": 1.17,
       "patternScore": 68.91,
       "patternText": "185.197/268.760",
-      "aiScore": 68,
+      "aiScore": 69,
       "picks": 3
+    },
+    {
+      "home": "Buriram United",
+      "away": "Kashima Antlers",
+      "league": "AŞMP",
+      "date": "04.11.2026 12:15",
+      "matchCode": "4550093",
+      "odds": 1.1,
+      "patternScore": 70.63,
+      "patternText": "254.126/359.815",
+      "aiScore": 94,
+      "picks": 1
     },
     {
       "home": "Melbourne Victory",
@@ -438,18 +450,6 @@
       "patternText": "198.545/289.531",
       "aiScore": 62,
       "picks": 3
-    },
-    {
-      "home": "Espanyol B",
-      "away": "Naxara",
-      "league": "İS4",
-      "date": "04.11.2026 17:00",
-      "matchCode": "4563459",
-      "odds": 1.21,
-      "patternScore": 68.02,
-      "patternText": "127.758/187.825",
-      "aiScore": 70,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
