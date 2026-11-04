@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 01:41",
+  "updatedAt": "04.11.2026 01:48",
   "config": {
     "pages": [
       "engine",
@@ -390,6 +390,18 @@
       "picks": 2
     },
     {
+      "home": "Melbourne Victory",
+      "away": "Persib Bandung",
+      "league": "AFCŞL2",
+      "date": "04.11.2026 07:45",
+      "matchCode": "4550020",
+      "odds": 1.09,
+      "patternScore": 71.25,
+      "patternText": "238.160/334.266",
+      "aiScore": 96,
+      "picks": 1
+    },
+    {
       "home": "Pohang Steelers",
       "away": "Gamba Osaka",
       "league": "AŞMP",
@@ -423,18 +435,6 @@
       "patternScore": 66.28,
       "patternText": "269.906/407.196",
       "aiScore": 80,
-      "picks": 1
-    },
-    {
-      "home": "Buriram United",
-      "away": "Kashima Antlers",
-      "league": "AŞMP",
-      "date": "04.11.2026 12:15",
-      "matchCode": "4550093",
-      "odds": 1.1,
-      "patternScore": 70.63,
-      "patternText": "254.182/359.871",
-      "aiScore": 94,
       "picks": 1
     }
   ],
