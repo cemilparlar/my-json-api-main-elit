@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 14:17",
+  "updatedAt": "04.11.2026 14:24",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 278,
       "rate": 66.2
     },
-    "totalAnalyses": 444323,
+    "totalAnalyses": 444359,
     "leagues": 520,
     "pro": {
       "won": 1000,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 746,
-    "analyses30d": 19931
+    "analyses24h": 756,
+    "analyses30d": 19941
   },
   "recentWins": [
     {
@@ -386,7 +386,7 @@
     "matchCode": "4546092",
     "odds": 1.8,
     "patternScore": 67.23,
-    "patternText": "191.085/284.213",
+    "patternText": "191.085/284.221",
     "aiScore": 52,
     "picks": 3
   },
@@ -399,7 +399,7 @@
       "matchCode": "4546092",
       "odds": 1.8,
       "patternScore": 67.23,
-      "patternText": "191.085/284.213",
+      "patternText": "191.085/284.221",
       "aiScore": 52,
       "picks": 3
     },
@@ -411,7 +411,7 @@
       "matchCode": "4488845",
       "odds": 1.7,
       "patternScore": 67.55,
-      "patternText": "103.341/152.974",
+      "patternText": "103.341/152.982",
       "aiScore": 55,
       "picks": 6
     },
@@ -423,7 +423,7 @@
       "matchCode": "4547669",
       "odds": 1.53,
       "patternScore": 68.18,
-      "patternText": "210.916/309.365",
+      "patternText": "210.916/309.373",
       "aiScore": 54,
       "picks": 1
     },
@@ -435,7 +435,7 @@
       "matchCode": "4549524",
       "odds": 1.46,
       "patternScore": 67.39,
-      "patternText": "200.217/297.084",
+      "patternText": "200.217/297.092",
       "aiScore": 56,
       "picks": 3
     },
@@ -447,12 +447,33 @@
       "matchCode": "4489264",
       "odds": 1.24,
       "patternScore": 67.94,
-      "patternText": "177.199/260.808",
+      "patternText": "177.199/260.816",
       "aiScore": 64,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Viking",
+      "away": "FK Sabah",
+      "league": "ŞMP",
+      "at": "04.11.2026 14:19",
+      "count": 14
+    },
+    {
+      "home": "SK Slavia Prague",
+      "away": "Arsenal",
+      "league": "ŞMP",
+      "at": "04.11.2026 14:19",
+      "count": 13
+    },
+    {
+      "home": "Aek",
+      "away": "Real Madrid",
+      "league": "ŞMP",
+      "at": "04.11.2026 14:18",
+      "count": 6
+    },
     {
       "home": "RB Leipzig",
       "away": "Manchester City",
@@ -496,32 +517,11 @@
       "count": 5
     },
     {
-      "home": "Aek",
-      "away": "Real Madrid",
-      "league": "ŞMP",
-      "at": "04.11.2026 13:23",
-      "count": 13
-    },
-    {
       "home": "Fenerbahce",
       "away": "Liverpool",
       "league": "ŞMP",
       "at": "04.11.2026 11:56",
       "count": 11
-    },
-    {
-      "home": "Stade Rennais",
-      "away": "Olympiakos",
-      "league": "AVL",
-      "at": "04.11.2026 07:31",
-      "count": 6
-    },
-    {
-      "home": "Sport Club Internacional",
-      "away": "Coritiba FBC",
-      "league": "BR1",
-      "at": "03.11.2026 22:33",
-      "count": 9
     }
   ],
   "paywall": {
