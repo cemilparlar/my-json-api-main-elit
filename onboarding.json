@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 18:35",
+  "updatedAt": "04.11.2026 18:43",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 163,
-      "lost": 83,
-      "total": 246,
-      "rate": 66.3
+      "won": 166,
+      "lost": 84,
+      "total": 250,
+      "rate": 66.4
     },
-    "totalAnalyses": 444638,
+    "totalAnalyses": 444641,
     "leagues": 512,
     "pro": {
-      "won": 1003,
-      "lost": 407,
-      "total": 1410,
+      "won": 1004,
+      "lost": 408,
+      "total": 1412,
       "rate": 71.1
     },
     "insights": {
-      "won": 1733,
-      "lost": 739,
-      "total": 2472,
+      "won": 1735,
+      "lost": 740,
+      "total": 2475,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 66.2
     },
-    "analyses24h": 705,
-    "analyses30d": 19719
+    "analyses24h": 702,
+    "analyses30d": 19715
   },
   "recentWins": [
     {
@@ -404,6 +404,18 @@
       "picks": 5
     },
     {
+      "home": "Wrexham AFC",
+      "away": "Middlesbrough",
+      "league": "İNCL",
+      "date": "04.11.2026 19:45",
+      "matchCode": "4488848",
+      "odds": 1.42,
+      "patternScore": 67.48,
+      "patternText": "133.298/197.548",
+      "aiScore": 58,
+      "picks": 4
+    },
+    {
       "home": "Bristol City",
       "away": "Wolverhampton Wanderers",
       "league": "İNCL",
@@ -438,18 +450,6 @@
       "patternText": "176.055/254.559",
       "aiScore": 75,
       "picks": 3
-    },
-    {
-      "home": "Botafogo de Futebol e Regatas",
-      "away": "Atletico Mineiro",
-      "league": "BR1",
-      "date": "05.11.2026 00:30",
-      "matchCode": "4423360",
-      "odds": 1.15,
-      "patternScore": 70.29,
-      "patternText": "125.840/179.039",
-      "aiScore": 87,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
