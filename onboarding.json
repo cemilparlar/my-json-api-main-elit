@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 11:57",
+  "updatedAt": "04.11.2026 12:04",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 178,
-      "lost": 93,
-      "total": 271,
-      "rate": 65.7
+      "won": 184,
+      "lost": 95,
+      "total": 279,
+      "rate": 65.9
     },
     "totalAnalyses": 444254,
     "leagues": 523,
     "pro": {
-      "won": 1001,
+      "won": 999,
       "lost": 398,
-      "total": 1399,
-      "rate": 71.6
+      "total": 1397,
+      "rate": 71.5
     },
     "insights": {
-      "won": 1736,
-      "lost": 733,
-      "total": 2469,
-      "rate": 70.3
+      "won": 1737,
+      "lost": 736,
+      "total": 2473,
+      "rate": 70.2
     },
     "coupons": {
       "won": 44,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 762,
-    "analyses30d": 20113
+    "analyses24h": 754,
+    "analyses30d": 20063
   },
   "recentWins": [
     {
@@ -332,6 +332,12 @@
     {
       "type": "coupon",
       "size": 5,
+      "odds": 1.54,
+      "at": "04.11.2026 12:04"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
       "odds": 1.52,
       "at": "04.11.2026 10:06"
     },
@@ -370,39 +376,21 @@
       "at": "04.11.2026 10:20",
       "home": "Al Kuwait SC",
       "away": "Nasaf Qarshi"
-    },
-    {
-      "type": "updated",
-      "at": "04.11.2026 10:21",
-      "home": "Al Wahda",
-      "away": "Khalidiya"
     }
   ],
   "today": {
-    "home": "Kataka",
-    "away": "URAFC",
+    "home": "Kampala City Council FC",
+    "away": "Maroons",
     "league": "UGA",
-    "date": "04.11.2026 13:00",
-    "matchCode": "4547668",
-    "odds": 1.58,
-    "patternScore": 67.78,
-    "patternText": "184.422/272.103",
+    "date": "04.11.2026 17:00",
+    "matchCode": "4547669",
+    "odds": 1.56,
+    "patternScore": 66.7,
+    "patternText": "201.986/302.833",
     "aiScore": 52,
     "picks": 4
   },
   "todayList": [
-    {
-      "home": "Kataka",
-      "away": "URAFC",
-      "league": "UGA",
-      "date": "04.11.2026 13:00",
-      "matchCode": "4547668",
-      "odds": 1.58,
-      "patternScore": 67.78,
-      "patternText": "184.422/272.103",
-      "aiScore": 52,
-      "picks": 4
-    },
     {
       "home": "Kampala City Council FC",
       "away": "Maroons",
@@ -414,6 +402,18 @@
       "patternText": "201.986/302.833",
       "aiScore": 52,
       "picks": 4
+    },
+    {
+      "home": "Kataka",
+      "away": "URAFC",
+      "league": "UGA",
+      "date": "04.11.2026 13:00",
+      "matchCode": "4547668",
+      "odds": 1.4,
+      "patternScore": 68.69,
+      "patternText": "215.486/313.695",
+      "aiScore": 57,
+      "picks": 2
     },
     {
       "home": "Slavia Prague U1",
