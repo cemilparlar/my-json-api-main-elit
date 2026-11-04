@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 07:29",
+  "updatedAt": "04.11.2026 07:36",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 285,
       "rate": 66.0
     },
-    "totalAnalyses": 302893,
+    "totalAnalyses": 302913,
     "leagues": 523,
     "pro": {
       "won": 1003,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 748,
-    "analyses30d": 20254
+    "analyses24h": 769,
+    "analyses30d": 20269
   },
   "recentWins": [
     {
@@ -367,7 +367,7 @@
     },
     {
       "type": "analysis",
-      "count": 748
+      "count": 769
     }
   ],
   "today": {
@@ -446,6 +446,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Stade Rennais",
+      "away": "Olympiakos",
+      "league": "AVL",
+      "at": "04.11.2026 07:31",
+      "count": 6
+    },
+    {
       "home": "Sport Club Internacional",
       "away": "Coritiba FBC",
       "league": "BR1",
@@ -507,13 +514,6 @@
       "league": "İNCL",
       "at": "03.11.2026 18:51",
       "count": 7
-    },
-    {
-      "home": "Villarreal CF",
-      "away": "Paris Saint-Germain",
-      "league": "ŞMP",
-      "at": "03.11.2026 18:34",
-      "count": 18
     }
   ],
   "paywall": {
