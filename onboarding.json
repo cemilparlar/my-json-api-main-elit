@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 09:22",
+  "updatedAt": "04.11.2026 09:29",
   "config": {
     "pages": [
       "engine",
@@ -349,6 +349,12 @@
     },
     {
       "type": "updated",
+      "at": "04.11.2026 09:21",
+      "home": "União De Leiri",
+      "away": "Estoril Praia U23"
+    },
+    {
+      "type": "updated",
       "at": "04.11.2026 07:11",
       "home": "Melbourne Victory",
       "away": "Persib Bandung"
@@ -370,12 +376,6 @@
       "at": "04.11.2026 08:24",
       "home": "Aek Athens U19",
       "away": "Real Madrid U19"
-    },
-    {
-      "type": "updated",
-      "at": "04.11.2026 09:02",
-      "home": "B. Dortmund U1",
-      "away": "Real Betis U19"
     }
   ],
   "today": {
@@ -402,18 +402,6 @@
       "patternText": "111.760/165.137",
       "aiScore": 51,
       "picks": 4
-    },
-    {
-      "home": "Al Nasr Dubai",
-      "away": "Sur SC",
-      "league": "UMM",
-      "date": "04.11.2026 13:05",
-      "matchCode": "4573354",
-      "odds": 1.32,
-      "patternScore": 68.23,
-      "patternText": "186.855/273.848",
-      "aiScore": 58,
-      "picks": 2
     },
     {
       "home": "Lens U19",
@@ -450,6 +438,18 @@
       "patternText": "198.290/285.762",
       "aiScore": 81,
       "picks": 2
+    },
+    {
+      "home": "Etincelles",
+      "away": "Kiyovu",
+      "league": "RUA",
+      "date": "04.11.2026 13:00",
+      "matchCode": "4556509",
+      "odds": 1.12,
+      "patternScore": 69.71,
+      "patternText": "121.698/174.582",
+      "aiScore": 86,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
