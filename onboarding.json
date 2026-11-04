@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 06:32",
+  "updatedAt": "04.11.2026 06:39",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 723,
-    "analyses30d": 20233
+    "analyses24h": 722,
+    "analyses30d": 20232
   },
   "recentWins": [
     {
@@ -337,12 +337,6 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 06:31",
-      "home": "Pohang Steelers",
-      "away": "Gamba Osaka"
-    },
-    {
-      "type": "updated",
       "at": "04.11.2026 06:32",
       "home": "Buriram United",
       "away": "Kashima Antlers"
@@ -361,22 +355,34 @@
     },
     {
       "type": "analysis",
-      "count": 723
+      "count": 722
     }
   ],
   "today": {
-    "home": "Melbourne Victory",
-    "away": "Persib Bandung",
-    "league": "AFCŞL2",
-    "date": "04.11.2026 07:45",
-    "matchCode": "4550020",
-    "odds": 1.13,
-    "patternScore": 70.57,
-    "patternText": "219.824/311.496",
-    "aiScore": 84,
-    "picks": 2
+    "home": "Buriram United",
+    "away": "Kashima Antlers",
+    "league": "AŞMP",
+    "date": "04.11.2026 12:15",
+    "matchCode": "4550093",
+    "odds": 1.14,
+    "patternScore": 68.98,
+    "patternText": "179.026/259.543",
+    "aiScore": 73,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Buriram United",
+      "away": "Kashima Antlers",
+      "league": "AŞMP",
+      "date": "04.11.2026 12:15",
+      "matchCode": "4550093",
+      "odds": 1.14,
+      "patternScore": 68.98,
+      "patternText": "179.026/259.543",
+      "aiScore": 73,
+      "picks": 3
+    },
     {
       "home": "Melbourne Victory",
       "away": "Persib Bandung",
@@ -388,30 +394,6 @@
       "patternText": "219.824/311.496",
       "aiScore": 84,
       "picks": 2
-    },
-    {
-      "home": "Buriram United",
-      "away": "Kashima Antlers",
-      "league": "AŞMP",
-      "date": "04.11.2026 12:15",
-      "matchCode": "4550093",
-      "odds": 1.1,
-      "patternScore": 70.63,
-      "patternText": "254.242/359.949",
-      "aiScore": 94,
-      "picks": 1
-    },
-    {
-      "home": "Pohang Steelers",
-      "away": "Gamba Osaka",
-      "league": "AŞMP",
-      "date": "04.11.2026 10:00",
-      "matchCode": "4550092",
-      "odds": 1.1,
-      "patternScore": 69.0,
-      "patternText": "170.891/247.676",
-      "aiScore": 88,
-      "picks": 1
     },
     {
       "home": "Al Wahda",
@@ -435,6 +417,18 @@
       "patternScore": 68.03,
       "patternText": "127.890/187.983",
       "aiScore": 71,
+      "picks": 2
+    },
+    {
+      "home": "Al Kuwait SC",
+      "away": "Nasaf Qarshi",
+      "league": "AFCŞL2",
+      "date": "04.11.2026 16:00",
+      "matchCode": "4549973",
+      "odds": 1.13,
+      "patternScore": 70.19,
+      "patternText": "250.061/356.288",
+      "aiScore": 86,
       "picks": 2
     }
   ],
