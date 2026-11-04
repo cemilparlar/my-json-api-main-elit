@@ -1257,7 +1257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "05.11.2026 17:45",
@@ -1677,7 +1677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "05.11.2026 20:00",
@@ -2907,7 +2907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "04.11.2026 20:00",
@@ -4977,7 +4977,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "04.11.2026 17:00",
@@ -6087,7 +6087,7 @@
             "e": 85,
             "b": 88.46
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "03.11.2026 19:30",
@@ -6357,7 +6357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "03.11.2026 19:45",
@@ -6447,7 +6447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "03.11.2026 20:00",
@@ -8127,7 +8127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "03.11.2026 19:45",
@@ -8997,7 +8997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "04.11.2026 14:00",
@@ -9690,36 +9690,6 @@
         "aiScore": 51
     },
     {
-        "date": "04.11.2026 12:15",
-        "league": "AŞMP",
-        "matchCode": "4550093",
-        "home": "Buriram United",
-        "away": "Kashima Antlers",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "74.19",
-        "odds": "1.07",
-        "matchCount": "31",
-        "matchLink": "4550093",
-        "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "9/55",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "04.11.2026 09:57",
-        "patternScore": 70.77,
-        "patternText": "257.332/363.627",
-        "patternInfo": {
-            "m": 72,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 85
-    },
-    {
         "date": "04.11.2026 15:00",
         "league": "UEGL",
         "matchCode": "4560713",
@@ -9868,5 +9838,65 @@
             "b": 100.0
         },
         "aiScore": 80
+    },
+    {
+        "date": "04.11.2026 12:15",
+        "league": "AŞMP",
+        "matchCode": "4550093",
+        "home": "Buriram United",
+        "away": "Kashima Antlers",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "74.55",
+        "odds": "1.07",
+        "matchCount": "55",
+        "matchLink": "4550093",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "9/55",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "04.11.2026 09:57",
+        "patternScore": 70.82,
+        "patternText": "250.952/354.329",
+        "patternInfo": {
+            "m": 66,
+            "s": 7,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 86
+    },
+    {
+        "date": "04.11.2026 12:15",
+        "league": "AŞMP",
+        "matchCode": "4550093",
+        "home": "Buriram United",
+        "away": "Kashima Antlers",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "72.73",
+        "odds": "1.12",
+        "matchCount": "55",
+        "matchLink": "4550093",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "9/55",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "04.11.2026 09:57",
+        "patternScore": 69.26,
+        "patternText": "202.556/292.443",
+        "patternInfo": {
+            "m": 64,
+            "s": 8,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 73
     }
 ]
