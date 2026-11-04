@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 04:33",
+  "updatedAt": "04.11.2026 04:40",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 760,
-    "analyses30d": 20249
+    "analyses24h": 761,
+    "analyses30d": 20250
   },
   "recentWins": [
     {
@@ -349,12 +349,6 @@
     },
     {
       "type": "updated",
-      "at": "03.11.2026 22:33",
-      "home": "Sport Club Internacional",
-      "away": "Coritiba FBC"
-    },
-    {
-      "type": "updated",
       "at": "03.11.2026 22:50",
       "home": "Alianza Lima",
       "away": "Cienciano"
@@ -367,7 +361,7 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 04:17",
+      "at": "04.11.2026 04:35",
       "home": "Pohang Steelers",
       "away": "Gamba Osaka"
     },
@@ -376,6 +370,10 @@
       "at": "04.11.2026 04:17",
       "home": "Melbourne Victory",
       "away": "Persib Bandung"
+    },
+    {
+      "type": "analysis",
+      "count": 761
     }
   ],
   "today": {
