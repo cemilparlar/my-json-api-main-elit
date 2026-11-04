@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 22:07",
+  "updatedAt": "04.11.2026 22:14",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 106,
-      "lost": 50,
-      "total": 156,
-      "rate": 67.9
+      "won": 152,
+      "lost": 78,
+      "total": 230,
+      "rate": 66.1
     },
-    "totalAnalyses": 444740,
+    "totalAnalyses": 444742,
     "leagues": 509,
     "pro": {
-      "won": 1013,
-      "lost": 407,
-      "total": 1420,
-      "rate": 71.3
+      "won": 1032,
+      "lost": 409,
+      "total": 1441,
+      "rate": 71.6
     },
     "insights": {
-      "won": 1752,
-      "lost": 748,
-      "total": 2500,
-      "rate": 70.1
+      "won": 1780,
+      "lost": 754,
+      "total": 2534,
+      "rate": 70.2
     },
     "coupons": {
-      "won": 45,
+      "won": 48,
       "lost": 23,
-      "total": 68,
-      "rate": 66.2
+      "total": 71,
+      "rate": 67.6
     },
-    "analyses24h": 509,
-    "analyses30d": 19585
+    "analyses24h": 506,
+    "analyses30d": 19582
   },
   "recentWins": [
     {
@@ -125,6 +125,121 @@
   "recentCoupons": [
     {
       "size": 5,
+      "totalOdds": 1.58,
+      "winChance": 35.8,
+      "completedAt": "04.11.2026 22:14",
+      "legs": [
+        {
+          "home": "Fenerbahce",
+          "away": "Liverpool",
+          "prediction": "1st Half Under 2.5",
+          "odds": 1.07,
+          "finalScore": "3 - 2"
+        },
+        {
+          "home": "Wrexham AFC",
+          "away": "Middlesbrough",
+          "prediction": "Under 4.5 Goals",
+          "odds": 1.07,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "PSV Eindhoven",
+          "away": "Club Brugge",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "Borussia Dortmund",
+          "away": "Real Betis",
+          "prediction": "Double Chance 1X",
+          "odds": 1.07,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Bristol City",
+          "away": "Wolverhampton Wanderers",
+          "prediction": "Double Chance 12",
+          "odds": 1.17,
+          "finalScore": "1 - 2"
+        }
+      ]
+    },
+    {
+      "size": 4,
+      "totalOdds": 1.52,
+      "winChance": 40.74,
+      "completedAt": "04.11.2026 22:14",
+      "legs": [
+        {
+          "home": "MC Alger",
+          "away": "MC Oran",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "FC Porto",
+          "away": "SSC Napoli",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.11,
+          "finalScore": "4 - 1"
+        },
+        {
+          "home": "FAR Rabat",
+          "away": "Raja Club Athletic",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.08,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "RB Leipzig",
+          "away": "Manchester City",
+          "prediction": "1st Half Under 2.5",
+          "odds": 1.15,
+          "finalScore": "2 - 3"
+        }
+      ]
+    },
+    {
+      "size": 4,
+      "totalOdds": 1.6,
+      "winChance": 42.31,
+      "completedAt": "04.11.2026 22:14",
+      "legs": [
+        {
+          "home": "Wrexham AFC",
+          "away": "Middlesbrough",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "Bristol City",
+          "away": "Wolverhampton Wanderers",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.15,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "PSV Eindhoven",
+          "away": "Club Brugge",
+          "prediction": "1st Half Under 2.5",
+          "odds": 1.1,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "FC Porto",
+          "away": "SSC Napoli",
+          "prediction": "Double Chance 12",
+          "odds": 1.15,
+          "finalScore": "4 - 1"
+        }
+      ]
+    },
+    {
+      "size": 5,
       "totalOdds": 1.52,
       "winChance": 37.89,
       "completedAt": "04.11.2026 15:29",
@@ -163,135 +278,6 @@
           "prediction": "Double Chance 12",
           "odds": 1.06,
           "finalScore": "0 - 3"
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.56,
-      "winChance": 38.49,
-      "completedAt": "04.11.2026 03:50",
-      "legs": [
-        {
-          "home": "Charlton Athletic",
-          "away": "Bolton Wanderers",
-          "prediction": "Handicap (0:2) 2",
-          "odds": 1.06,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "Derby County",
-          "away": "Norwich City",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.08,
-          "finalScore": "0 - 4"
-        },
-        {
-          "home": "Aldershot",
-          "away": "Ipswich Town U21",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": null
-        },
-        {
-          "home": "Guiseley",
-          "away": "Leek Town",
-          "prediction": "Double Chance 12",
-          "odds": 1.06,
-          "finalScore": "4 - 1"
-        },
-        {
-          "home": "Blackburn",
-          "away": "Stoke City",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.19,
-          "finalScore": "1 - 2"
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.52,
-      "winChance": 38.68,
-      "completedAt": "04.11.2026 03:03",
-      "legs": [
-        {
-          "home": "Hornchurch",
-          "away": "West Ham United U21",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": null
-        },
-        {
-          "home": "Preston North End",
-          "away": "Sheffield United",
-          "prediction": "Handicap (0:1) 2",
-          "odds": 1.1,
-          "finalScore": "2 - 3"
-        },
-        {
-          "home": "Birmingham City",
-          "away": "Millwall",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.09,
-          "finalScore": "3 - 0"
-        },
-        {
-          "home": "FK Bodo/Glimt",
-          "away": "LOSC Lille",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.06,
-          "finalScore": "0 - 0"
-        },
-        {
-          "home": "Feyenoord",
-          "away": "Inter",
-          "prediction": "Double Chance 12",
-          "odds": 1.11,
-          "finalScore": "0 - 3"
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.57,
-      "winChance": 33.93,
-      "completedAt": "03.11.2026 19:04",
-      "legs": [
-        {
-          "home": "Al Raed",
-          "away": "Al Wahda",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "Atl Madrid U19",
-          "away": "Bayern Munich",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.08,
-          "finalScore": "4 - 1"
-        },
-        {
-          "home": "Al Hussein",
-          "away": "Al Shorta",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.09,
-          "finalScore": "0 - 3"
-        },
-        {
-          "home": "Esteghlal",
-          "away": "Al Shamal",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.11,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Pogon Siedlce",
-          "away": "Ruch Chorzow",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.09,
-          "finalScore": "1 - 1"
         }
       ]
     }
