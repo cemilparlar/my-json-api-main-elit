@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 19:25",
+  "updatedAt": "04.11.2026 19:32",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 251,
       "rate": 66.5
     },
-    "totalAnalyses": 444684,
+    "totalAnalyses": 444688,
     "leagues": 509,
     "pro": {
-      "won": 1004,
-      "lost": 404,
-      "total": 1408,
+      "won": 1003,
+      "lost": 403,
+      "total": 1406,
       "rate": 71.3
     },
     "insights": {
-      "won": 1735,
-      "lost": 735,
-      "total": 2470,
-      "rate": 70.2
+      "won": 1733,
+      "lost": 733,
+      "total": 2466,
+      "rate": 70.3
     },
     "coupons": {
       "won": 45,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 66.2
     },
-    "analyses24h": 684,
-    "analyses30d": 19653
+    "analyses24h": 673,
+    "analyses30d": 19642
   },
   "recentWins": [
     {
@@ -361,7 +361,7 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 19:05",
+      "at": "04.11.2026 19:26",
       "home": "Borussia Dortmund",
       "away": "Real Betis"
     },
@@ -373,7 +373,7 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 19:06",
+      "at": "04.11.2026 19:26",
       "home": "Viking",
       "away": "FK Sabah"
     }
@@ -404,42 +404,6 @@
       "picks": 5
     },
     {
-      "home": "Bristol City",
-      "away": "Wolverhampton Wanderers",
-      "league": "İNCL",
-      "date": "04.11.2026 20:00",
-      "matchCode": "4488845",
-      "odds": 1.24,
-      "patternScore": 68.06,
-      "patternText": "196.251/288.343",
-      "aiScore": 67,
-      "picks": 4
-    },
-    {
-      "home": "FC Porto",
-      "away": "SSC Napoli",
-      "league": "ŞMP",
-      "date": "04.11.2026 20:00",
-      "matchCode": "4549528",
-      "odds": 1.23,
-      "patternScore": 68.47,
-      "patternText": "195.434/285.446",
-      "aiScore": 69,
-      "picks": 4
-    },
-    {
-      "home": "FAR Rabat",
-      "away": "Raja Club Athletic",
-      "league": "FAS",
-      "date": "04.11.2026 20:00",
-      "matchCode": "4566285",
-      "odds": 1.19,
-      "patternScore": 69.16,
-      "patternText": "176.079/254.589",
-      "aiScore": 75,
-      "picks": 3
-    },
-    {
       "home": "LDU Quito",
       "away": "Universidad Catolica",
       "league": "EKVK",
@@ -450,22 +414,65 @@
       "patternText": "217.053/308.506",
       "aiScore": 88,
       "picks": 1
+    },
+    {
+      "home": "Club Deportivo Firpo",
+      "away": "Alianza FC",
+      "league": "ELSAL",
+      "date": "05.11.2026 01:00",
+      "matchCode": "4504364",
+      "odds": 1.11,
+      "patternScore": 71.97,
+      "patternText": "195.403/271.509",
+      "aiScore": 98,
+      "picks": 1
+    },
+    {
+      "home": "The Strongest",
+      "away": "Always Ready",
+      "league": "BOLPLK",
+      "date": "05.11.2026 00:30",
+      "matchCode": "4575438",
+      "odds": 1.1,
+      "patternScore": 70.71,
+      "patternText": "223.326/315.824",
+      "aiScore": 93,
+      "picks": 1
+    },
+    {
+      "home": "Botafogo de Futebol e Regatas",
+      "away": "Atletico Mineiro",
+      "league": "BR1",
+      "date": "05.11.2026 00:30",
+      "matchCode": "4423360",
+      "odds": 1.08,
+      "patternScore": 65.44,
+      "patternText": "235.847/360.383",
+      "aiScore": 89,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Viking",
-      "away": "FK Sabah",
-      "league": "ŞMP",
-      "at": "04.11.2026 19:06",
-      "count": 16
-    },
-    {
       "home": "Borussia Dortmund",
       "away": "Real Betis",
       "league": "ŞMP",
-      "at": "04.11.2026 19:05",
-      "count": 11
+      "at": "04.11.2026 19:26",
+      "count": 8
+    },
+    {
+      "home": "Viking",
+      "away": "FK Sabah",
+      "league": "ŞMP",
+      "at": "04.11.2026 19:26",
+      "count": 5
+    },
+    {
+      "home": "RC Lens",
+      "away": "Como 1907",
+      "league": "ŞMP",
+      "at": "04.11.2026 19:26",
+      "count": 7
     },
     {
       "home": "Cardiff City",
@@ -501,13 +508,6 @@
       "league": "ŞMP",
       "at": "04.11.2026 18:29",
       "count": 16
-    },
-    {
-      "home": "RC Lens",
-      "away": "Como 1907",
-      "league": "ŞMP",
-      "at": "04.11.2026 18:16",
-      "count": 5
     },
     {
       "home": "FC Porto",
