@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 10:39",
+  "updatedAt": "04.11.2026 10:50",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 273,
       "rate": 65.2
     },
-    "totalAnalyses": 444165,
+    "totalAnalyses": 444168,
     "leagues": 523,
     "pro": {
       "won": 1002,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 751,
-    "analyses30d": 20132
+    "analyses24h": 750,
+    "analyses30d": 20130
   },
   "recentWins": [
     {
@@ -343,15 +343,9 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 10:19",
+      "at": "04.11.2026 10:40",
       "home": "Buriram United",
       "away": "Kashima Antlers"
-    },
-    {
-      "type": "updated",
-      "at": "04.11.2026 09:21",
-      "home": "União De Leiri",
-      "away": "Estoril Praia U23"
     },
     {
       "type": "updated",
@@ -376,44 +370,38 @@
       "at": "04.11.2026 10:21",
       "home": "Al Wahda",
       "away": "Khalidiya"
+    },
+    {
+      "type": "updated",
+      "at": "04.11.2026 08:44",
+      "home": "Tauras",
+      "away": "Minija"
     }
   ],
   "today": {
-    "home": "Buriram United",
-    "away": "Kashima Antlers",
-    "league": "AŞMP",
-    "date": "04.11.2026 12:15",
-    "matchCode": "4550093",
-    "odds": 1.39,
-    "patternScore": 67.92,
-    "patternText": "198.306/291.971",
-    "aiScore": 54,
-    "picks": 5
+    "home": "Kataka",
+    "away": "URAFC",
+    "league": "UGA",
+    "date": "04.11.2026 13:00",
+    "matchCode": "4547668",
+    "odds": 1.58,
+    "patternScore": 67.78,
+    "patternText": "184.422/272.103",
+    "aiScore": 52,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Buriram United",
-      "away": "Kashima Antlers",
-      "league": "AŞMP",
-      "date": "04.11.2026 12:15",
-      "matchCode": "4550093",
-      "odds": 1.39,
-      "patternScore": 67.92,
-      "patternText": "198.306/291.971",
-      "aiScore": 54,
-      "picks": 5
-    },
     {
       "home": "Kataka",
       "away": "URAFC",
       "league": "UGA",
       "date": "04.11.2026 13:00",
       "matchCode": "4547668",
-      "odds": 1.23,
-      "patternScore": 67.72,
-      "patternText": "215.178/317.753",
-      "aiScore": 66,
-      "picks": 2
+      "odds": 1.58,
+      "patternScore": 67.78,
+      "patternText": "184.422/272.103",
+      "aiScore": 52,
+      "picks": 4
     },
     {
       "home": "Al Kuwait SC",
@@ -449,6 +437,18 @@
       "patternScore": 69.29,
       "patternText": "212.386/306.511",
       "aiScore": 82,
+      "picks": 2
+    },
+    {
+      "home": "B. Dortmund U1",
+      "away": "Real Betis U19",
+      "league": "UEGL",
+      "date": "04.11.2026 15:00",
+      "matchCode": "4560713",
+      "odds": 1.13,
+      "patternScore": 69.39,
+      "patternText": "198.316/285.794",
+      "aiScore": 81,
       "picks": 2
     }
   ],
