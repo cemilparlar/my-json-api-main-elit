@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 20:35",
+  "updatedAt": "04.11.2026 20:42",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 66.2
     },
-    "analyses24h": 513,
-    "analyses30d": 19604
+    "analyses24h": 512,
+    "analyses30d": 19603
   },
   "recentWins": [
     {
@@ -404,6 +404,30 @@
       "picks": 5
     },
     {
+      "home": "Nacional Potos",
+      "away": "Oriente Petrole",
+      "league": "BOLPLK",
+      "date": "04.11.2026 22:00",
+      "matchCode": "4575437",
+      "odds": 1.53,
+      "patternScore": 68.54,
+      "patternText": "89.885/131.144",
+      "aiScore": 54,
+      "picks": 2
+    },
+    {
+      "home": "Sao Paulo FC",
+      "away": "SC Corinthians",
+      "league": "BR1",
+      "date": "05.11.2026 00:30",
+      "matchCode": "4423361",
+      "odds": 1.3,
+      "patternScore": 67.97,
+      "patternText": "194.021/285.471",
+      "aiScore": 63,
+      "picks": 3
+    },
+    {
       "home": "Club Deportivo Firpo",
       "away": "Alianza FC",
       "league": "ELSAL",
@@ -421,34 +445,10 @@
       "league": "EKVK",
       "date": "05.11.2026 00:00",
       "matchCode": "4567413",
-      "odds": 1.13,
-      "patternScore": 70.36,
-      "patternText": "217.073/308.530",
-      "aiScore": 88,
-      "picks": 1
-    },
-    {
-      "home": "The Strongest",
-      "away": "Always Ready",
-      "league": "BOLPLK",
-      "date": "05.11.2026 00:30",
-      "matchCode": "4575438",
-      "odds": 1.1,
-      "patternScore": 70.71,
-      "patternText": "223.338/315.840",
-      "aiScore": 93,
-      "picks": 1
-    },
-    {
-      "home": "Botafogo de Futebol e Regatas",
-      "away": "Atletico Mineiro",
-      "league": "BR1",
-      "date": "05.11.2026 00:30",
-      "matchCode": "4423360",
-      "odds": 1.08,
-      "patternScore": 71.36,
-      "patternText": "160.315/224.643",
-      "aiScore": 98,
+      "odds": 1.21,
+      "patternScore": 67.92,
+      "patternText": "165.722/243.993",
+      "aiScore": 65,
       "picks": 1
     }
   ],
