@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 18:43",
+  "updatedAt": "04.11.2026 18:50",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 250,
       "rate": 66.4
     },
-    "totalAnalyses": 444641,
+    "totalAnalyses": 444649,
     "leagues": 512,
     "pro": {
       "won": 1004,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 66.2
     },
-    "analyses24h": 702,
-    "analyses30d": 19715
+    "analyses24h": 707,
+    "analyses30d": 19675
   },
   "recentWins": [
     {
@@ -386,7 +386,7 @@
     "matchCode": "4423366",
     "odds": 1.57,
     "patternScore": 67.79,
-    "patternText": "162.579/239.812",
+    "patternText": "162.585/239.820",
     "aiScore": 53,
     "picks": 5
   },
@@ -399,7 +399,7 @@
       "matchCode": "4423366",
       "odds": 1.57,
       "patternScore": 67.79,
-      "patternText": "162.579/239.812",
+      "patternText": "162.585/239.820",
       "aiScore": 53,
       "picks": 5
     },
@@ -411,7 +411,7 @@
       "matchCode": "4488848",
       "odds": 1.42,
       "patternScore": 67.48,
-      "patternText": "133.298/197.548",
+      "patternText": "133.304/197.556",
       "aiScore": 58,
       "picks": 4
     },
@@ -423,7 +423,7 @@
       "matchCode": "4488845",
       "odds": 1.24,
       "patternScore": 68.06,
-      "patternText": "196.227/288.313",
+      "patternText": "196.245/288.337",
       "aiScore": 67,
       "picks": 4
     },
@@ -434,8 +434,8 @@
       "date": "04.11.2026 20:00",
       "matchCode": "4549528",
       "odds": 1.23,
-      "patternScore": 68.46,
-      "patternText": "195.410/285.416",
+      "patternScore": 68.47,
+      "patternText": "195.428/285.440",
       "aiScore": 69,
       "picks": 4
     },
@@ -447,12 +447,26 @@
       "matchCode": "4566285",
       "odds": 1.19,
       "patternScore": 69.16,
-      "patternText": "176.055/254.559",
+      "patternText": "176.073/254.583",
       "aiScore": 75,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Cardiff City",
+      "away": "West Ham United",
+      "league": "İNCL",
+      "at": "04.11.2026 18:49",
+      "count": 19
+    },
+    {
+      "home": "Wrexham AFC",
+      "away": "Middlesbrough",
+      "league": "İNCL",
+      "at": "04.11.2026 18:49",
+      "count": 9
+    },
     {
       "home": "Viking",
       "away": "FK Sabah",
@@ -466,13 +480,6 @@
       "league": "ŞMP",
       "at": "04.11.2026 18:29",
       "count": 16
-    },
-    {
-      "home": "Wrexham AFC",
-      "away": "Middlesbrough",
-      "league": "İNCL",
-      "at": "04.11.2026 18:29",
-      "count": 7
     },
     {
       "home": "RC Lens",
@@ -515,13 +522,6 @@
       "league": "BR1",
       "at": "04.11.2026 16:38",
       "count": 6
-    },
-    {
-      "home": "Aek",
-      "away": "Real Madrid",
-      "league": "ŞMP",
-      "at": "04.11.2026 16:17",
-      "count": 4
     }
   ],
   "paywall": {
