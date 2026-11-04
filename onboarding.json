@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 02:55",
+  "updatedAt": "04.11.2026 03:03",
   "config": {
     "pages": [
       "engine",
@@ -22,9 +22,9 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 214,
-      "lost": 104,
-      "total": 318,
+      "won": 216,
+      "lost": 105,
+      "total": 321,
       "rate": 67.3
     },
     "totalAnalyses": 302852,
@@ -36,19 +36,19 @@
       "rate": 71.6
     },
     "insights": {
-      "won": 1734,
+      "won": 1735,
       "lost": 732,
-      "total": 2466,
+      "total": 2467,
       "rate": 70.3
     },
     "coupons": {
-      "won": 42,
+      "won": 43,
       "lost": 24,
-      "total": 66,
-      "rate": 63.6
+      "total": 67,
+      "rate": 64.2
     },
-    "analyses24h": 758,
-    "analyses30d": 20261
+    "analyses24h": 759,
+    "analyses30d": 20262
   },
   "recentWins": [
     {
@@ -123,6 +123,49 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.52,
+      "winChance": 38.68,
+      "completedAt": "04.11.2026 03:03",
+      "legs": [
+        {
+          "home": "Hornchurch",
+          "away": "West Ham United U21",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": null
+        },
+        {
+          "home": "Preston North End",
+          "away": "Sheffield United",
+          "prediction": "Handicap (0:1) 2",
+          "odds": 1.1,
+          "finalScore": "2 - 3"
+        },
+        {
+          "home": "Birmingham City",
+          "away": "Millwall",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.09,
+          "finalScore": "3 - 0"
+        },
+        {
+          "home": "FK Bodo/Glimt",
+          "away": "LOSC Lille",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.06,
+          "finalScore": "0 - 0"
+        },
+        {
+          "home": "Feyenoord",
+          "away": "Inter",
+          "prediction": "Double Chance 12",
+          "odds": 1.11,
+          "finalScore": "0 - 3"
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.57,
@@ -251,49 +294,6 @@
           "finalScore": "2 - 3"
         }
       ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.51,
-      "winChance": 40.06,
-      "completedAt": "03.11.2026 07:14",
-      "legs": [
-        {
-          "home": "Omiya Ardija",
-          "away": "Iwaki FC",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.07,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Zweigen Kanaza",
-          "away": "AC Parceiro Nagano",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "0 - 2"
-        },
-        {
-          "home": "Fujieda MYFC",
-          "away": "Jubilo Iwata",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.08,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "Kofu",
-          "away": "Albirex Niigata",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.09,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "Gainare Tottor",
-          "away": "SC Sagamihara",
-          "prediction": "Double Chance 12",
-          "odds": 1.11,
-          "finalScore": "0 - 1"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -355,7 +355,7 @@
     },
     {
       "type": "updated",
-      "at": "03.11.2026 23:06",
+      "at": "04.11.2026 03:00",
       "home": "Cerezo Osaka",
       "away": "Roasso Kumamoto"
     },
@@ -373,7 +373,7 @@
     },
     {
       "type": "analysis",
-      "count": 758
+      "count": 759
     }
   ],
   "today": {
@@ -384,7 +384,7 @@
     "matchCode": "4488029",
     "odds": 1.14,
     "patternScore": 70.51,
-    "patternText": "221.243/313.770",
+    "patternText": "221.277/313.816",
     "aiScore": 89,
     "picks": 2
   },
@@ -397,7 +397,7 @@
       "matchCode": "4488029",
       "odds": 1.14,
       "patternScore": 70.51,
-      "patternText": "221.243/313.770",
+      "patternText": "221.277/313.816",
       "aiScore": 89,
       "picks": 2
     },
@@ -408,8 +408,8 @@
       "date": "04.11.2026 07:45",
       "matchCode": "4550020",
       "odds": 1.13,
-      "patternScore": 70.6,
-      "patternText": "222.952/315.774",
+      "patternScore": 70.61,
+      "patternText": "222.986/315.820",
       "aiScore": 81,
       "picks": 2
     },
@@ -421,7 +421,7 @@
       "matchCode": "4550092",
       "odds": 1.17,
       "patternScore": 68.91,
-      "patternText": "185.257/268.820",
+      "patternText": "185.295/268.878",
       "aiScore": 69,
       "picks": 3
     },
@@ -432,8 +432,8 @@
       "date": "04.11.2026 13:00",
       "matchCode": "4556509",
       "odds": 1.12,
-      "patternScore": 69.7,
-      "patternText": "121.656/174.530",
+      "patternScore": 69.71,
+      "patternText": "121.674/174.552",
       "aiScore": 86,
       "picks": 1
     },
@@ -445,7 +445,7 @@
       "matchCode": "4556508",
       "odds": 1.11,
       "patternScore": 66.28,
-      "patternText": "269.906/407.196",
+      "patternText": "269.936/407.238",
       "aiScore": 80,
       "picks": 1
     }

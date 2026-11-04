@@ -10,7 +10,7 @@
       "lost": 1
     },
     "multi": {
-      "won": 42,
+      "won": 43,
       "lost": 23
     },
     "c70_1": {
@@ -30,7 +30,7 @@
       "lost": 1
     },
     "cyz_5": {
-      "won": 5,
+      "won": 6,
       "lost": 5
     },
     "cyz_6": {
@@ -76,7 +76,7 @@
       "lost": 9
     },
     "multi": {
-      "won": 42,
+      "won": 43,
       "lost": 23
     },
     "c70_1": {
@@ -96,7 +96,7 @@
       "lost": 1
     },
     "cyz_5": {
-      "won": 5,
+      "won": 6,
       "lost": 5
     },
     "cyz_6": {
@@ -104,144 +104,9 @@
       "lost": 1
     }
   },
-  "updatedAt": "04.11.2026 02:55",
-  "updatedAtUtc": "2026-11-04T02:55:00Z",
+  "updatedAt": "04.11.2026 03:03",
+  "updatedAtUtc": "2026-11-04T03:03:00Z",
   "upcoming": [
-    {
-      "id": "20261103-21-1",
-      "createdAt": "03.11.2026 18:05",
-      "createdAtUtc": "2026-11-03T18:05:00Z",
-      "size": 5,
-      "mbs": 1,
-      "totalOdds": 1.52,
-      "winChance": 38.68,
-      "firstKickoff": "03.11.2026 19:00",
-      "lastKickoff": "03.11.2026 20:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "cyz_5",
-      "group": "multi",
-      "formula": "5",
-      "multiScore": 79,
-      "effectiveOdds": 1.52,
-      "legs": [
-        {
-          "matchCode": "4527494",
-          "nesine": null,
-          "date": "03.11.2026 19:00",
-          "kickoffUtc": "2026-11-03T19:00:00Z",
-          "league": "İULK",
-          "home": "Hornchurch",
-          "away": "West Ham United U21",
-          "league_tr": "İULK",
-          "home_tr": "Hornchurch",
-          "away_tr": "West Ham (B)",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 87.5,
-          "patternScore": 71.43,
-          "patternText": "182.437/255.420",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 96
-        },
-        {
-          "matchCode": "4488841",
-          "nesine": null,
-          "date": "03.11.2026 19:45",
-          "kickoffUtc": "2026-11-03T19:45:00Z",
-          "league": "İNCL",
-          "home": "Preston North End",
-          "away": "Sheffield United",
-          "league_tr": "İNCL",
-          "home_tr": "Prest",
-          "away_tr": "Sheffield Utd",
-          "prediction": "Handicap (0:1) 2",
-          "prediction_tr": "Handikaplı Maç Sonucu (0:1) 2",
-          "odds": 1.1,
-          "probability": 88.88888888888889,
-          "patternScore": 67.84,
-          "patternText": "156.358/230.481",
-          "mbs": 1,
-          "firstHalf": "1 - 3",
-          "finalScore": "2 - 3",
-          "status": "won",
-          "aiScore": 95
-        },
-        {
-          "matchCode": "4488837",
-          "nesine": null,
-          "date": "03.11.2026 20:00",
-          "kickoffUtc": "2026-11-03T20:00:00Z",
-          "league": "İNCL",
-          "home": "Birmingham City",
-          "away": "Millwall",
-          "league_tr": "İNCL",
-          "home_tr": "Birmingham",
-          "away_tr": "Millwall",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.09,
-          "probability": 90.91,
-          "patternScore": 70.73,
-          "patternText": "91.524/129.395",
-          "mbs": 1,
-          "firstHalf": "3 - 0",
-          "finalScore": "3 - 0",
-          "status": "won",
-          "aiScore": 99
-        },
-        {
-          "matchCode": "4549519",
-          "nesine": null,
-          "date": "03.11.2026 20:00",
-          "kickoffUtc": "2026-11-03T20:00:00Z",
-          "league": "ŞMP",
-          "home": "FK Bodo/Glimt",
-          "away": "LOSC Lille",
-          "league_tr": "ŞMP",
-          "home_tr": "Bodo Glimt",
-          "away_tr": "Lille",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.06,
-          "probability": 100.0,
-          "patternScore": 63.46,
-          "patternText": "142.043/223.841",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "0 - 0",
-          "status": "won",
-          "aiScore": 97
-        },
-        {
-          "matchCode": "4549521",
-          "nesine": null,
-          "date": "03.11.2026 20:00",
-          "kickoffUtc": "2026-11-03T20:00:00Z",
-          "league": "ŞMP",
-          "home": "Feyenoord",
-          "away": "Inter",
-          "league_tr": "ŞMP",
-          "home_tr": "Feyenoord",
-          "away_tr": "Inter",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.11,
-          "probability": 100.0,
-          "patternScore": 60.08,
-          "patternText": "237.440/395.217",
-          "mbs": 1,
-          "firstHalf": "0 - 2",
-          "finalScore": "0 - 3",
-          "status": "won",
-          "aiScore": 82
-        }
-      ]
-    },
     {
       "id": "20261103-20-1",
       "createdAt": "03.11.2026 17:01",
@@ -380,6 +245,141 @@
   ],
   "completed": [
     {
+      "id": "20261103-21-1",
+      "createdAt": "03.11.2026 18:05",
+      "createdAtUtc": "2026-11-03T18:05:00Z",
+      "size": 5,
+      "mbs": 1,
+      "totalOdds": 1.52,
+      "winChance": 38.68,
+      "firstKickoff": "03.11.2026 19:00",
+      "lastKickoff": "03.11.2026 20:00",
+      "status": "won",
+      "completedAt": "04.11.2026 03:03",
+      "kind": "cyz_5",
+      "group": "multi",
+      "formula": "5",
+      "multiScore": 79,
+      "effectiveOdds": 1.41,
+      "legs": [
+        {
+          "matchCode": "4527494",
+          "nesine": null,
+          "date": "03.11.2026 19:00",
+          "kickoffUtc": "2026-11-03T19:00:00Z",
+          "league": "İULK",
+          "home": "Hornchurch",
+          "away": "West Ham United U21",
+          "league_tr": "İULK",
+          "home_tr": "Hornchurch",
+          "away_tr": "West Ham (B)",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 87.5,
+          "patternScore": 71.43,
+          "patternText": "182.437/255.420",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "void",
+          "aiScore": 96
+        },
+        {
+          "matchCode": "4488841",
+          "nesine": null,
+          "date": "03.11.2026 19:45",
+          "kickoffUtc": "2026-11-03T19:45:00Z",
+          "league": "İNCL",
+          "home": "Preston North End",
+          "away": "Sheffield United",
+          "league_tr": "İNCL",
+          "home_tr": "Prest",
+          "away_tr": "Sheffield Utd",
+          "prediction": "Handicap (0:1) 2",
+          "prediction_tr": "Handikaplı Maç Sonucu (0:1) 2",
+          "odds": 1.1,
+          "probability": 88.88888888888889,
+          "patternScore": 67.84,
+          "patternText": "156.358/230.481",
+          "mbs": 1,
+          "firstHalf": "1 - 3",
+          "finalScore": "2 - 3",
+          "status": "won",
+          "aiScore": 95
+        },
+        {
+          "matchCode": "4488837",
+          "nesine": null,
+          "date": "03.11.2026 20:00",
+          "kickoffUtc": "2026-11-03T20:00:00Z",
+          "league": "İNCL",
+          "home": "Birmingham City",
+          "away": "Millwall",
+          "league_tr": "İNCL",
+          "home_tr": "Birmingham",
+          "away_tr": "Millwall",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.09,
+          "probability": 90.91,
+          "patternScore": 70.73,
+          "patternText": "91.524/129.395",
+          "mbs": 1,
+          "firstHalf": "3 - 0",
+          "finalScore": "3 - 0",
+          "status": "won",
+          "aiScore": 99
+        },
+        {
+          "matchCode": "4549519",
+          "nesine": null,
+          "date": "03.11.2026 20:00",
+          "kickoffUtc": "2026-11-03T20:00:00Z",
+          "league": "ŞMP",
+          "home": "FK Bodo/Glimt",
+          "away": "LOSC Lille",
+          "league_tr": "ŞMP",
+          "home_tr": "Bodo Glimt",
+          "away_tr": "Lille",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.06,
+          "probability": 100.0,
+          "patternScore": 63.46,
+          "patternText": "142.043/223.841",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "won",
+          "aiScore": 97
+        },
+        {
+          "matchCode": "4549521",
+          "nesine": null,
+          "date": "03.11.2026 20:00",
+          "kickoffUtc": "2026-11-03T20:00:00Z",
+          "league": "ŞMP",
+          "home": "Feyenoord",
+          "away": "Inter",
+          "league_tr": "ŞMP",
+          "home_tr": "Feyenoord",
+          "away_tr": "Inter",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.11,
+          "probability": 100.0,
+          "patternScore": 60.08,
+          "patternText": "237.440/395.217",
+          "mbs": 1,
+          "firstHalf": "0 - 2",
+          "finalScore": "0 - 3",
+          "status": "won",
+          "aiScore": 82
+        }
+      ]
+    },
+    {
       "id": "20261103-20-2",
       "createdAt": "03.11.2026 17:01",
       "createdAtUtc": "2026-11-03T17:01:00Z",
@@ -395,7 +395,7 @@
       "group": "multi",
       "formula": "6",
       "multiScore": 76,
-      "effectiveOdds": 1.53,
+      "effectiveOdds": 1.34,
       "legs": [
         {
           "matchCode": "4426806",
@@ -440,7 +440,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 95
         },
         {
@@ -463,7 +463,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 93
         },
         {
@@ -553,7 +553,7 @@
       "group": "multi",
       "formula": "5",
       "multiScore": 75,
-      "effectiveOdds": 1.51,
+      "effectiveOdds": 1.37,
       "legs": [
         {
           "matchCode": "4527817",
@@ -575,7 +575,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 85
         },
         {
@@ -935,7 +935,7 @@
       "group": "multi",
       "formula": "5",
       "multiScore": 79,
-      "effectiveOdds": 1.55,
+      "effectiveOdds": 1.17,
       "legs": [
         {
           "matchCode": "4549514",
@@ -1003,7 +1003,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 99
         },
         {
@@ -1026,7 +1026,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 95
         },
         {
@@ -1049,7 +1049,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 85
         }
       ]
