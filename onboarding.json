@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 21:53",
+  "updatedAt": "04.11.2026 22:00",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 102,
-      "lost": 48,
-      "total": 150,
-      "rate": 68.0
+      "won": 106,
+      "lost": 50,
+      "total": 156,
+      "rate": 67.9
     },
     "totalAnalyses": 444740,
     "leagues": 509,
     "pro": {
-      "won": 1011,
-      "lost": 405,
-      "total": 1416,
-      "rate": 71.4
+      "won": 1013,
+      "lost": 407,
+      "total": 1420,
+      "rate": 71.3
     },
     "insights": {
-      "won": 1748,
-      "lost": 746,
-      "total": 2494,
+      "won": 1752,
+      "lost": 748,
+      "total": 2500,
       "rate": 70.1
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 66.2
     },
     "analyses24h": 509,
-    "analyses30d": 19591
+    "analyses30d": 19585
   },
   "recentWins": [
     {
@@ -428,18 +428,6 @@
       "picks": 1
     },
     {
-      "home": "Atletico Paranaense",
-      "away": "Club de Regatas Vasco da Gama",
-      "league": "BR1",
-      "date": "04.11.2026 22:30",
-      "matchCode": "4423366",
-      "odds": 1.21,
-      "patternScore": 68.5,
-      "patternText": "191.328/279.330",
-      "aiScore": 70,
-      "picks": 4
-    },
-    {
       "home": "Metropolitanos FC",
       "away": "Carabobo FC",
       "league": "VEN",
@@ -448,7 +436,19 @@
       "odds": 1.14,
       "patternScore": 69.66,
       "patternText": "180.376/258.938",
-      "aiScore": 89,
+      "aiScore": 88,
+      "picks": 1
+    },
+    {
+      "home": "The Strongest",
+      "away": "Always Ready",
+      "league": "BOLPLK",
+      "date": "05.11.2026 00:30",
+      "matchCode": "4575438",
+      "odds": 1.1,
+      "patternScore": 70.71,
+      "patternText": "223.368/315.880",
+      "aiScore": 93,
       "picks": 1
     }
   ],
