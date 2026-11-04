@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 06:53",
+  "updatedAt": "04.11.2026 07:00",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 186,
+      "won": 189,
       "lost": 98,
-      "total": 284,
-      "rate": 65.5
+      "total": 287,
+      "rate": 65.9
     },
     "totalAnalyses": 302873,
-    "leagues": 524,
+    "leagues": 523,
     "pro": {
       "won": 1003,
       "lost": 398,
@@ -36,10 +36,10 @@
       "rate": 71.6
     },
     "insights": {
-      "won": 1736,
+      "won": 1739,
       "lost": 732,
-      "total": 2468,
-      "rate": 70.3
+      "total": 2471,
+      "rate": 70.4
     },
     "coupons": {
       "won": 44,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 737,
-    "analyses30d": 20247
+    "analyses24h": 732,
+    "analyses30d": 20238
   },
   "recentWins": [
     {
@@ -354,23 +354,41 @@
       "at": "04.11.2026 07:45"
     },
     {
+      "type": "kickoff",
+      "home": "Not FC Seoul - check data",
+      "away": "Viettel FC",
+      "at": "04.11.2026 10:00"
+    },
+    {
       "type": "analysis",
-      "count": 737
+      "count": 732
     }
   ],
   "today": {
-    "home": "Buriram United",
-    "away": "Kashima Antlers",
-    "league": "AŞMP",
-    "date": "04.11.2026 12:15",
-    "matchCode": "4550093",
-    "odds": 1.14,
-    "patternScore": 68.98,
-    "patternText": "179.026/259.543",
-    "aiScore": 73,
+    "home": "Melbourne Victory",
+    "away": "Persib Bandung",
+    "league": "AFCŞL2",
+    "date": "04.11.2026 07:45",
+    "matchCode": "4550020",
+    "odds": 1.15,
+    "patternScore": 69.31,
+    "patternText": "178.660/257.772",
+    "aiScore": 87,
     "picks": 3
   },
   "todayList": [
+    {
+      "home": "Melbourne Victory",
+      "away": "Persib Bandung",
+      "league": "AFCŞL2",
+      "date": "04.11.2026 07:45",
+      "matchCode": "4550020",
+      "odds": 1.15,
+      "patternScore": 69.31,
+      "patternText": "178.660/257.772",
+      "aiScore": 87,
+      "picks": 3
+    },
     {
       "home": "Buriram United",
       "away": "Kashima Antlers",
@@ -382,18 +400,6 @@
       "patternText": "179.026/259.543",
       "aiScore": 73,
       "picks": 3
-    },
-    {
-      "home": "Melbourne Victory",
-      "away": "Persib Bandung",
-      "league": "AFCŞL2",
-      "date": "04.11.2026 07:45",
-      "matchCode": "4550020",
-      "odds": 1.13,
-      "patternScore": 70.57,
-      "patternText": "219.824/311.496",
-      "aiScore": 84,
-      "picks": 2
     },
     {
       "home": "Al Wahda",
@@ -416,7 +422,7 @@
       "odds": 1.21,
       "patternScore": 68.03,
       "patternText": "127.890/187.983",
-      "aiScore": 71,
+      "aiScore": 70,
       "picks": 2
     },
     {
@@ -428,7 +434,7 @@
       "odds": 1.13,
       "patternScore": 70.19,
       "patternText": "250.061/356.288",
-      "aiScore": 86,
+      "aiScore": 85,
       "picks": 2
     }
   ],
