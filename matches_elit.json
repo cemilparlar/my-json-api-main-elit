@@ -417,7 +417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "04.11.2026 20:00",
@@ -2067,7 +2067,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "05.11.2026 20:00",
@@ -2907,7 +2907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "04.11.2026 20:00",
@@ -3087,7 +3087,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "05.11.2026 00:30",
@@ -3807,7 +3807,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "03.11.2026 00:15",
@@ -3837,7 +3837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "03.11.2026 00:15",
@@ -4677,7 +4677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 56
     },
     {
         "date": "03.11.2026 05:00",
@@ -6117,7 +6117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "03.11.2026 12:00",
@@ -6357,7 +6357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "03.11.2026 17:00",
@@ -6537,37 +6537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
-    },
-    {
-        "date": "04.11.2026 07:45",
-        "league": "AFCŞL2",
-        "matchCode": "4550020",
-        "home": "Melbourne Victory",
-        "away": "Persib Bandung",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "72.5",
-        "odds": "1.09",
-        "matchCount": "120",
-        "matchLink": "4550020",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "30/181",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "04.11.2026 01:59",
-        "patternScore": 71.25,
-        "patternText": "238.160/334.266",
-        "patternInfo": {
-            "m": 56,
-            "s": 11,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
+        "aiScore": 69
     },
     {
         "date": "04.11.2026 16:00",
@@ -7587,7 +7557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "03.11.2026 15:00",
@@ -9957,7 +9927,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "04.11.2026 00:30",
@@ -10048,5 +10018,35 @@
             "b": 100.0
         },
         "aiScore": 80
+    },
+    {
+        "date": "04.11.2026 07:45",
+        "league": "AFCŞL2",
+        "matchCode": "4550020",
+        "home": "Melbourne Victory",
+        "away": "Persib Bandung",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "75.14",
+        "odds": "1.12",
+        "matchCount": "181",
+        "matchLink": "4550020",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "30/181",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "04.11.2026 01:59",
+        "patternScore": 69.4,
+        "patternText": "178.040/256.546",
+        "patternInfo": {
+            "m": 46,
+            "s": 9,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 87
     }
 ]
