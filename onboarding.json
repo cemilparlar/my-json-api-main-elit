@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 07:15",
+  "updatedAt": "04.11.2026 07:22",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 750,
-    "analyses30d": 20256
+    "analyses24h": 748,
+    "analyses30d": 20254
   },
   "recentWins": [
     {
@@ -348,6 +348,12 @@
       "away": "Persib Bandung"
     },
     {
+      "type": "updated",
+      "at": "04.11.2026 07:11",
+      "home": "Al Nasr Dubai",
+      "away": "Sur SC"
+    },
+    {
       "type": "kickoff",
       "home": "Melbourne Victory",
       "away": "Persib Bandung",
@@ -361,81 +367,81 @@
     },
     {
       "type": "analysis",
-      "count": 750
+      "count": 748
     }
   ],
   "today": {
-    "home": "Buriram United",
-    "away": "Kashima Antlers",
-    "league": "AŞMP",
-    "date": "04.11.2026 12:15",
-    "matchCode": "4550093",
-    "odds": 1.14,
-    "patternScore": 68.98,
-    "patternText": "179.052/259.569",
-    "aiScore": 73,
-    "picks": 3
+    "home": "Kataka",
+    "away": "URAFC",
+    "league": "UGA",
+    "date": "04.11.2026 13:00",
+    "matchCode": "4547668",
+    "odds": 1.97,
+    "patternScore": 67.68,
+    "patternText": "111.760/165.137",
+    "aiScore": 51,
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Kataka",
+      "away": "URAFC",
+      "league": "UGA",
+      "date": "04.11.2026 13:00",
+      "matchCode": "4547668",
+      "odds": 1.97,
+      "patternScore": 67.68,
+      "patternText": "111.760/165.137",
+      "aiScore": 51,
+      "picks": 4
+    },
+    {
+      "home": "Al Nasr Dubai",
+      "away": "Sur SC",
+      "league": "UMM",
+      "date": "04.11.2026 13:05",
+      "matchCode": "4573354",
+      "odds": 1.7,
+      "patternScore": 67.83,
+      "patternText": "183.913/271.136",
+      "aiScore": 51,
+      "picks": 2
+    },
     {
       "home": "Buriram United",
       "away": "Kashima Antlers",
       "league": "AŞMP",
       "date": "04.11.2026 12:15",
       "matchCode": "4550093",
-      "odds": 1.14,
-      "patternScore": 68.98,
-      "patternText": "179.052/259.569",
-      "aiScore": 73,
+      "odds": 1.31,
+      "patternScore": 68.45,
+      "patternText": "169.452/247.547",
+      "aiScore": 57,
       "picks": 3
     },
     {
-      "home": "Etincelles",
-      "away": "Kiyovu",
-      "league": "RUA",
+      "home": "Lens U19",
+      "away": "Como U19",
+      "league": "UEGL",
       "date": "04.11.2026 13:00",
-      "matchCode": "4556509",
-      "odds": 1.12,
-      "patternScore": 69.71,
-      "patternText": "121.698/174.582",
-      "aiScore": 86,
-      "picks": 1
+      "matchCode": "4560712",
+      "odds": 1.13,
+      "patternScore": 70.52,
+      "patternText": "131.888/187.034",
+      "aiScore": 90,
+      "picks": 2
     },
     {
-      "home": "Gorilla",
-      "away": "Gicumbi",
-      "league": "RUA",
+      "home": "PSV Eindhoven",
+      "away": "Club Brugge U19",
+      "league": "UEGL",
       "date": "04.11.2026 13:00",
-      "matchCode": "4556508",
-      "odds": 1.11,
-      "patternScore": 66.29,
-      "patternText": "269.988/407.296",
-      "aiScore": 80,
-      "picks": 1
-    },
-    {
-      "home": "Bugesera",
-      "away": "Amagaju",
-      "league": "RUA",
-      "date": "04.11.2026 13:00",
-      "matchCode": "4556506",
-      "odds": 1.1,
-      "patternScore": 69.69,
-      "patternText": "359.330/515.616",
-      "aiScore": 93,
-      "picks": 1
-    },
-    {
-      "home": "Al Wahda",
-      "away": "Khalidiya",
-      "league": "AFCŞL2",
-      "date": "04.11.2026 16:00",
-      "matchCode": "4549972",
-      "odds": 1.35,
-      "patternScore": 68.58,
-      "patternText": "198.675/289.679",
-      "aiScore": 62,
-      "picks": 3
+      "matchCode": "4560714",
+      "odds": 1.13,
+      "patternScore": 69.29,
+      "patternText": "212.360/306.479",
+      "aiScore": 82,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
