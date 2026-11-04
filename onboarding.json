@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 04:54",
+  "updatedAt": "04.11.2026 05:01",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 219,
-      "lost": 105,
-      "total": 324,
-      "rate": 67.6
+      "won": 188,
+      "lost": 98,
+      "total": 286,
+      "rate": 65.7
     },
     "totalAnalyses": 302855,
     "leagues": 524,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 762,
-    "analyses30d": 20251
+    "analyses24h": 723,
+    "analyses30d": 20241
   },
   "recentWins": [
     {
@@ -373,7 +373,7 @@
     },
     {
       "type": "analysis",
-      "count": 762
+      "count": 723
     }
   ],
   "today": {
@@ -407,11 +407,11 @@
       "league": "AŞMP",
       "date": "04.11.2026 10:00",
       "matchCode": "4550092",
-      "odds": 1.11,
-      "patternScore": 71.7,
-      "patternText": "144.608/201.687",
-      "aiScore": 92,
-      "picks": 3
+      "odds": 1.08,
+      "patternScore": 70.95,
+      "patternText": "112.936/159.183",
+      "aiScore": 95,
+      "picks": 2
     },
     {
       "home": "Al Wahda",
@@ -426,6 +426,18 @@
       "picks": 3
     },
     {
+      "home": "Espanyol B",
+      "away": "Naxara",
+      "league": "İS4",
+      "date": "04.11.2026 17:00",
+      "matchCode": "4563459",
+      "odds": 1.21,
+      "patternScore": 68.03,
+      "patternText": "127.890/187.983",
+      "aiScore": 71,
+      "picks": 2
+    },
+    {
       "home": "Al Kuwait SC",
       "away": "Nasaf Qarshi",
       "league": "AFCŞL2",
@@ -436,18 +448,6 @@
       "patternText": "250.061/356.288",
       "aiScore": 85,
       "picks": 2
-    },
-    {
-      "home": "Etincelles",
-      "away": "Kiyovu",
-      "league": "RUA",
-      "date": "04.11.2026 13:00",
-      "matchCode": "4556509",
-      "odds": 1.12,
-      "patternScore": 69.71,
-      "patternText": "121.692/174.576",
-      "aiScore": 86,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
