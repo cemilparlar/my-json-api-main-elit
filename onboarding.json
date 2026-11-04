@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "03.11.2026 23:55",
+  "updatedAt": "04.11.2026 00:03",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": 63.6
     },
     "analyses24h": 770,
-    "analyses30d": 20306
+    "analyses30d": 20298
   },
   "recentWins": [
     {
@@ -367,42 +367,30 @@
     },
     {
       "type": "updated",
-      "at": "03.11.2026 17:57",
-      "home": "Queens Park Rangers",
-      "away": "Burnley"
-    },
-    {
-      "type": "updated",
       "at": "03.11.2026 18:51",
       "home": "Derby County",
       "away": "Norwich City"
+    },
+    {
+      "type": "updated",
+      "at": "03.11.2026 18:52",
+      "home": "Watford",
+      "away": "Lincoln City"
     }
   ],
   "today": {
-    "home": "Sport Club Internacional",
-    "away": "Coritiba FBC",
-    "league": "BR1",
-    "date": "04.11.2026 00:30",
-    "matchCode": "4423365",
-    "odds": 1.7,
-    "patternScore": 67.36,
-    "patternText": "166.839/247.695",
-    "aiScore": 52,
-    "picks": 3
+    "home": "Cerezo Osaka",
+    "away": "Roasso Kumamoto",
+    "league": "JAP3",
+    "date": "04.11.2026 05:00",
+    "matchCode": "4488029",
+    "odds": 1.14,
+    "patternScore": 70.51,
+    "patternText": "221.195/313.722",
+    "aiScore": 88,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Sport Club Internacional",
-      "away": "Coritiba FBC",
-      "league": "BR1",
-      "date": "04.11.2026 00:30",
-      "matchCode": "4423365",
-      "odds": 1.7,
-      "patternScore": 67.36,
-      "patternText": "166.839/247.695",
-      "aiScore": 52,
-      "picks": 3
-    },
     {
       "home": "Cerezo Osaka",
       "away": "Roasso Kumamoto",
@@ -450,6 +438,18 @@
       "patternText": "198.545/289.531",
       "aiScore": 62,
       "picks": 3
+    },
+    {
+      "home": "Espanyol B",
+      "away": "Naxara",
+      "league": "İS4",
+      "date": "04.11.2026 17:00",
+      "matchCode": "4563459",
+      "odds": 1.21,
+      "patternScore": 68.02,
+      "patternText": "127.758/187.825",
+      "aiScore": 70,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
