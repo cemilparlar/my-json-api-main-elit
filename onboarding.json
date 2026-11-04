@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 13:55",
+  "updatedAt": "04.11.2026 14:03",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 170,
-      "lost": 88,
-      "total": 258,
-      "rate": 65.9
+      "won": 184,
+      "lost": 92,
+      "total": 276,
+      "rate": 66.7
     },
-    "totalAnalyses": 444284,
-    "leagues": 521,
+    "totalAnalyses": 444323,
+    "leagues": 520,
     "pro": {
-      "won": 995,
-      "lost": 397,
-      "total": 1392,
+      "won": 1000,
+      "lost": 399,
+      "total": 1399,
       "rate": 71.5
     },
     "insights": {
-      "won": 1731,
-      "lost": 733,
-      "total": 2464,
+      "won": 1736,
+      "lost": 734,
+      "total": 2470,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 732,
-    "analyses30d": 19968
+    "analyses24h": 756,
+    "analyses30d": 19947
   },
   "recentWins": [
     {
@@ -349,33 +349,33 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 13:23",
-      "home": "Aek",
-      "away": "Real Madrid"
+      "at": "04.11.2026 14:01",
+      "home": "RB Leipzig",
+      "away": "Manchester City"
     },
     {
       "type": "updated",
-      "at": "04.11.2026 09:20",
-      "home": "Pohang Steelers",
-      "away": "Gamba Osaka"
+      "at": "04.11.2026 14:01",
+      "home": "Borussia Dortmund",
+      "away": "Real Betis"
     },
     {
       "type": "updated",
-      "at": "04.11.2026 11:38",
-      "home": "Buriram United",
-      "away": "Kashima Antlers"
+      "at": "04.11.2026 14:01",
+      "home": "FC Porto",
+      "away": "SSC Napoli"
     },
     {
       "type": "updated",
-      "at": "04.11.2026 09:21",
-      "home": "Al Nasr Dubai",
-      "away": "Sur SC"
+      "at": "04.11.2026 14:00",
+      "home": "Wrexham AFC",
+      "away": "Middlesbrough"
     },
     {
       "type": "updated",
-      "at": "04.11.2026 10:20",
-      "home": "Al Kuwait SC",
-      "away": "Nasaf Qarshi"
+      "at": "04.11.2026 14:01",
+      "home": "Bristol City",
+      "away": "Wolverhampton Wanderers"
     }
   ],
   "today": {
@@ -428,31 +428,73 @@
       "picks": 6
     },
     {
-      "home": "Espanyol B",
-      "away": "Naxara",
-      "league": "İS4",
-      "date": "04.11.2026 17:00",
-      "matchCode": "4563459",
-      "odds": 1.21,
-      "patternScore": 68.03,
-      "patternText": "127.930/188.037",
-      "aiScore": 72,
-      "picks": 2
+      "home": "FC Porto",
+      "away": "SSC Napoli",
+      "league": "ŞMP",
+      "date": "04.11.2026 20:00",
+      "matchCode": "4549528",
+      "odds": 1.27,
+      "patternScore": 68.36,
+      "patternText": "195.114/285.414",
+      "aiScore": 63,
+      "picks": 4
     },
     {
-      "home": "Al Kuwait SC",
-      "away": "Nasaf Qarshi",
-      "league": "AFCŞL2",
-      "date": "04.11.2026 16:00",
-      "matchCode": "4549973",
-      "odds": 1.17,
-      "patternScore": 68.68,
-      "patternText": "196.158/285.620",
-      "aiScore": 82,
-      "picks": 3
+      "home": "Borussia Dortmund",
+      "away": "Real Betis",
+      "league": "ŞMP",
+      "date": "04.11.2026 20:00",
+      "matchCode": "4549524",
+      "odds": 1.24,
+      "patternScore": 67.22,
+      "patternText": "120.602/179.412",
+      "aiScore": 73,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "RB Leipzig",
+      "away": "Manchester City",
+      "league": "ŞMP",
+      "at": "04.11.2026 14:01",
+      "count": 14
+    },
+    {
+      "home": "Borussia Dortmund",
+      "away": "Real Betis",
+      "league": "ŞMP",
+      "at": "04.11.2026 14:01",
+      "count": 7
+    },
+    {
+      "home": "FC Porto",
+      "away": "SSC Napoli",
+      "league": "ŞMP",
+      "at": "04.11.2026 14:01",
+      "count": 6
+    },
+    {
+      "home": "Bristol City",
+      "away": "Wolverhampton Wanderers",
+      "league": "İNCL",
+      "at": "04.11.2026 14:01",
+      "count": 9
+    },
+    {
+      "home": "Cardiff City",
+      "away": "West Ham United",
+      "league": "İNCL",
+      "at": "04.11.2026 14:00",
+      "count": 18
+    },
+    {
+      "home": "Wrexham AFC",
+      "away": "Middlesbrough",
+      "league": "İNCL",
+      "at": "04.11.2026 14:00",
+      "count": 5
+    },
     {
       "home": "Aek",
       "away": "Real Madrid",
@@ -480,48 +522,6 @@
       "league": "BR1",
       "at": "03.11.2026 22:33",
       "count": 9
-    },
-    {
-      "home": "FK Bodo/Glimt",
-      "away": "LOSC Lille",
-      "league": "ŞMP",
-      "at": "03.11.2026 19:29",
-      "count": 2
-    },
-    {
-      "home": "Feyenoord",
-      "away": "Inter",
-      "league": "ŞMP",
-      "at": "03.11.2026 19:11",
-      "count": 18
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "Bayern Munich",
-      "league": "ŞMP",
-      "at": "03.11.2026 19:11",
-      "count": 14
-    },
-    {
-      "home": "Portsmouth",
-      "away": "Swansea",
-      "league": "İNCL",
-      "at": "03.11.2026 19:10",
-      "count": 5
-    },
-    {
-      "home": "Manchester United",
-      "away": "AS Roma",
-      "league": "ŞMP",
-      "at": "03.11.2026 18:52",
-      "count": 4
-    },
-    {
-      "home": "Watford",
-      "away": "Lincoln City",
-      "league": "İNCL",
-      "at": "03.11.2026 18:52",
-      "count": 8
     }
   ],
   "paywall": {
