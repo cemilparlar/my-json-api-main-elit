@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 23:24",
+  "updatedAt": "04.11.2026 23:31",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 444746,
     "leagues": 509,
     "pro": {
-      "won": 1031,
-      "lost": 409,
-      "total": 1440,
+      "won": 1027,
+      "lost": 408,
+      "total": 1435,
       "rate": 71.6
     },
     "insights": {
-      "won": 1779,
-      "lost": 754,
-      "total": 2533,
+      "won": 1774,
+      "lost": 753,
+      "total": 2527,
       "rate": 70.2
     },
     "coupons": {
@@ -365,42 +365,18 @@
     }
   ],
   "today": {
-    "home": "Club Deportivo Firpo",
-    "away": "Alianza FC",
-    "league": "ELSAL",
-    "date": "05.11.2026 01:00",
-    "matchCode": "4504364",
-    "odds": 1.25,
-    "patternScore": 68.33,
-    "patternText": "169.105/247.493",
-    "aiScore": 64,
-    "picks": 1
+    "home": "Sao Paulo FC",
+    "away": "SC Corinthians",
+    "league": "BR1",
+    "date": "05.11.2026 00:30",
+    "matchCode": "4423361",
+    "odds": 1.14,
+    "patternScore": 68.76,
+    "patternText": "136.145/198.010",
+    "aiScore": 88,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Club Deportivo Firpo",
-      "away": "Alianza FC",
-      "league": "ELSAL",
-      "date": "05.11.2026 01:00",
-      "matchCode": "4504364",
-      "odds": 1.25,
-      "patternScore": 68.33,
-      "patternText": "169.105/247.493",
-      "aiScore": 64,
-      "picks": 1
-    },
-    {
-      "home": "LDU Quito",
-      "away": "Universidad Catolica",
-      "league": "EKVK",
-      "date": "05.11.2026 00:00",
-      "matchCode": "4567413",
-      "odds": 1.23,
-      "patternScore": 68.56,
-      "patternText": "162.128/236.466",
-      "aiScore": 67,
-      "picks": 2
-    },
     {
       "home": "Sao Paulo FC",
       "away": "SC Corinthians",
@@ -426,15 +402,39 @@
       "picks": 1
     },
     {
-      "home": "Puntarenas FC",
-      "away": "AD San Carlos",
-      "league": "KOSTA",
-      "date": "05.11.2026 00:00",
-      "matchCode": "4487110",
-      "odds": 1.1,
-      "patternScore": 70.0,
-      "patternText": "177.442/253.474",
-      "aiScore": 93,
+      "home": "Botafogo de Futebol e Regatas",
+      "away": "Atletico Mineiro",
+      "league": "BR1",
+      "date": "05.11.2026 00:30",
+      "matchCode": "4423360",
+      "odds": 1.08,
+      "patternScore": 71.36,
+      "patternText": "160.385/224.743",
+      "aiScore": 98,
+      "picks": 1
+    },
+    {
+      "home": "Sydney Olympic FC",
+      "away": "Oakleigh Cannons",
+      "league": "AVC",
+      "date": "05.11.2026 08:30",
+      "matchCode": "4573654",
+      "odds": 1.06,
+      "patternScore": 72.34,
+      "patternText": "157.162/217.266",
+      "aiScore": 98,
+      "picks": 1
+    },
+    {
+      "home": "Al Markhiya",
+      "away": "Al Waab",
+      "league": "KATQ",
+      "date": "05.11.2026 14:15",
+      "matchCode": "4536797",
+      "odds": 1.21,
+      "patternScore": 68.24,
+      "patternText": "209.569/307.101",
+      "aiScore": 66,
       "picks": 1
     }
   ],
