@@ -2,7 +2,7 @@
   "version": 1,
   "stats7": {
     "multi": {
-      "won": 48,
+      "won": 49,
       "lost": 23
     },
     "c70_1": {
@@ -22,7 +22,7 @@
       "lost": 1
     },
     "cyz_5": {
-      "won": 9,
+      "won": 10,
       "lost": 5
     },
     "cyz_6": {
@@ -68,7 +68,7 @@
       "lost": 9
     },
     "multi": {
-      "won": 48,
+      "won": 49,
       "lost": 23
     },
     "c70_1": {
@@ -88,7 +88,7 @@
       "lost": 1
     },
     "cyz_5": {
-      "won": 9,
+      "won": 10,
       "lost": 5
     },
     "cyz_6": {
@@ -96,9 +96,146 @@
       "lost": 1
     }
   },
-  "updatedAt": "04.11.2026 22:56",
-  "updatedAtUtc": "2026-11-04T22:56:00Z",
+  "updatedAt": "04.11.2026 23:03",
+  "updatedAtUtc": "2026-11-04T23:03:00Z",
   "upcoming": [
+    {
+      "id": "20261105-02-1",
+      "createdAt": "04.11.2026 23:03",
+      "createdAtUtc": "2026-11-04T23:03:00Z",
+      "size": 5,
+      "mbs": 1,
+      "totalOdds": 1.58,
+      "winChance": 34.71,
+      "firstKickoff": "05.11.2026 00:00",
+      "lastKickoff": "05.11.2026 00:30",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "cyz_5",
+      "group": "multi",
+      "formula": "5",
+      "multiScore": 75,
+      "effectiveOdds": 1.58,
+      "legs": [
+        {
+          "matchCode": "4567413",
+          "nesine": null,
+          "date": "05.11.2026 00:00",
+          "kickoffUtc": "2026-11-05T00:00:00Z",
+          "league": "EKVK",
+          "home": "LDU Quito",
+          "away": "Universidad Catolica",
+          "league_tr": "EKVK",
+          "home_tr": "Ldu Quito",
+          "away_tr": "Univ Catolica (",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.06,
+          "probability": 78.97,
+          "patternScore": 70.42,
+          "patternText": "180.555/256.406",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 96
+        },
+        {
+          "matchCode": "4487110",
+          "nesine": null,
+          "date": "05.11.2026 00:00",
+          "kickoffUtc": "2026-11-05T00:00:00Z",
+          "league": "KOSTA",
+          "home": "Puntarenas FC",
+          "away": "AD San Carlos",
+          "league_tr": "KOSTA",
+          "home_tr": "Puntarenas Fc",
+          "away_tr": "Ad San Carlos",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.1,
+          "probability": 76.99,
+          "patternScore": 70.0,
+          "patternText": "177.442/253.474",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 84
+        },
+        {
+          "matchCode": "4423360",
+          "nesine": null,
+          "date": "05.11.2026 00:30",
+          "kickoffUtc": "2026-11-05T00:30:00Z",
+          "league": "BR1",
+          "home": "Botafogo de Futebol e Regatas",
+          "away": "Atletico Mineiro",
+          "league_tr": "BR1",
+          "home_tr": "Botafogo",
+          "away_tr": "Atletico Mg",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 83.33,
+          "patternScore": 71.36,
+          "patternText": "160.385/224.743",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 97
+        },
+        {
+          "matchCode": "4423361",
+          "nesine": null,
+          "date": "05.11.2026 00:30",
+          "kickoffUtc": "2026-11-05T00:30:00Z",
+          "league": "BR1",
+          "home": "Sao Paulo FC",
+          "away": "SC Corinthians",
+          "league_tr": "BR1",
+          "home_tr": "Sao Paulo",
+          "away_tr": "Corinthians",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.14,
+          "probability": 85.71,
+          "patternScore": 68.76,
+          "patternText": "136.145/198.010",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 88
+        },
+        {
+          "matchCode": "4575438",
+          "nesine": null,
+          "date": "05.11.2026 00:30",
+          "kickoffUtc": "2026-11-05T00:30:00Z",
+          "league": "BOLPLK",
+          "home": "The Strongest",
+          "away": "Always Ready",
+          "league_tr": "BOLPLK",
+          "home_tr": "The Strongest",
+          "away_tr": "Always Ready",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 78.79,
+          "patternScore": 70.71,
+          "patternText": "223.410/315.932",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 86
+        }
+      ]
+    }
+  ],
+  "completed": [
     {
       "id": "20261104-15-1",
       "createdAt": "04.11.2026 12:04",
@@ -109,13 +246,13 @@
       "winChance": 37.2,
       "firstKickoff": "04.11.2026 13:00",
       "lastKickoff": "04.11.2026 15:00",
-      "status": "live",
-      "completedAt": null,
+      "status": "won",
+      "completedAt": "04.11.2026 23:03",
       "kind": "cyz_5",
       "group": "multi",
       "formula": "5",
       "multiScore": 78,
-      "effectiveOdds": 1.54,
+      "effectiveOdds": 1.4,
       "legs": [
         {
           "matchCode": "4560711",
@@ -229,13 +366,11 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 96
         }
       ]
-    }
-  ],
-  "completed": [
+    },
     {
       "id": "20261104-20-1",
       "createdAt": "04.11.2026 17:03",
