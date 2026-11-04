@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 04:40",
+  "updatedAt": "04.11.2026 04:47",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 324,
       "rate": 67.6
     },
-    "totalAnalyses": 302854,
+    "totalAnalyses": 302855,
     "leagues": 524,
     "pro": {
       "won": 1003,
@@ -372,35 +372,25 @@
       "away": "Persib Bandung"
     },
     {
-      "type": "analysis",
-      "count": 761
+      "type": "kickoff",
+      "home": "Melbourne Victory",
+      "away": "Persib Bandung",
+      "at": "04.11.2026 07:45"
     }
   ],
   "today": {
-    "home": "Pohang Steelers",
-    "away": "Gamba Osaka",
-    "league": "AŞMP",
-    "date": "04.11.2026 10:00",
-    "matchCode": "4550092",
-    "odds": 1.18,
-    "patternScore": 69.06,
-    "patternText": "231.231/334.816",
-    "aiScore": 64,
-    "picks": 5
+    "home": "Melbourne Victory",
+    "away": "Persib Bandung",
+    "league": "AFCŞL2",
+    "date": "04.11.2026 07:45",
+    "matchCode": "4550020",
+    "odds": 1.13,
+    "patternScore": 70.57,
+    "patternText": "219.908/311.608",
+    "aiScore": 88,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Pohang Steelers",
-      "away": "Gamba Osaka",
-      "league": "AŞMP",
-      "date": "04.11.2026 10:00",
-      "matchCode": "4550092",
-      "odds": 1.18,
-      "patternScore": 69.06,
-      "patternText": "231.231/334.816",
-      "aiScore": 64,
-      "picks": 5
-    },
     {
       "home": "Melbourne Victory",
       "away": "Persib Bandung",
@@ -412,6 +402,18 @@
       "patternText": "219.908/311.608",
       "aiScore": 88,
       "picks": 2
+    },
+    {
+      "home": "Pohang Steelers",
+      "away": "Gamba Osaka",
+      "league": "AŞMP",
+      "date": "04.11.2026 10:00",
+      "matchCode": "4550092",
+      "odds": 1.11,
+      "patternScore": 71.7,
+      "patternText": "144.608/201.687",
+      "aiScore": 92,
+      "picks": 3
     },
     {
       "home": "Al Wahda",
