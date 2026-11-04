@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 07:50",
+  "updatedAt": "04.11.2026 07:57",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 764,
-    "analyses30d": 20272
+    "analyses24h": 762,
+    "analyses30d": 20270
   },
   "recentWins": [
     {
@@ -331,6 +331,12 @@
     },
     {
       "type": "updated",
+      "at": "04.11.2026 07:47",
+      "home": "Pohang Steelers",
+      "away": "Gamba Osaka"
+    },
+    {
+      "type": "updated",
       "at": "04.11.2026 07:48",
       "home": "Buriram United",
       "away": "Kashima Antlers"
@@ -366,8 +372,10 @@
       "at": "04.11.2026 10:00"
     },
     {
-      "type": "analysis",
-      "count": 764
+      "type": "kickoff",
+      "home": "Pohang Steelers",
+      "away": "Gamba Osaka",
+      "at": "04.11.2026 10:00"
     }
   ],
   "today": {
@@ -396,18 +404,6 @@
       "picks": 4
     },
     {
-      "home": "Al Nasr Dubai",
-      "away": "Sur SC",
-      "league": "UMM",
-      "date": "04.11.2026 13:05",
-      "matchCode": "4573354",
-      "odds": 1.7,
-      "patternScore": 67.83,
-      "patternText": "183.913/271.136",
-      "aiScore": 51,
-      "picks": 2
-    },
-    {
       "home": "Aek Athens U19",
       "away": "Real Madrid U19",
       "league": "UEGL",
@@ -425,11 +421,23 @@
       "league": "AŞMP",
       "date": "04.11.2026 12:15",
       "matchCode": "4550093",
-      "odds": 1.31,
-      "patternScore": 68.45,
-      "patternText": "169.452/247.547",
+      "odds": 1.34,
+      "patternScore": 67.97,
+      "patternText": "186.524/274.423",
+      "aiScore": 56,
+      "picks": 4
+    },
+    {
+      "home": "Al Nasr Dubai",
+      "away": "Sur SC",
+      "league": "UMM",
+      "date": "04.11.2026 13:05",
+      "matchCode": "4573354",
+      "odds": 1.32,
+      "patternScore": 68.23,
+      "patternText": "186.855/273.848",
       "aiScore": 57,
-      "picks": 3
+      "picks": 2
     },
     {
       "home": "Lens U19",
