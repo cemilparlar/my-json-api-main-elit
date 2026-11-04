@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 12:46",
+  "updatedAt": "04.11.2026 12:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 268,
       "rate": 66.8
     },
-    "totalAnalyses": 444273,
+    "totalAnalyses": 444277,
     "leagues": 523,
     "pro": {
       "won": 999,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 738,
-    "analyses30d": 20033
+    "analyses24h": 737,
+    "analyses30d": 20032
   },
   "recentWins": [
     {
@@ -349,6 +349,12 @@
     },
     {
       "type": "updated",
+      "at": "04.11.2026 12:49",
+      "home": "Aek",
+      "away": "Real Madrid"
+    },
+    {
+      "type": "updated",
       "at": "04.11.2026 09:20",
       "home": "Pohang Steelers",
       "away": "Gamba Osaka"
@@ -370,12 +376,6 @@
       "at": "04.11.2026 09:21",
       "home": "Al Nasr Dubai",
       "away": "Sur SC"
-    },
-    {
-      "type": "updated",
-      "at": "04.11.2026 10:20",
-      "home": "Al Kuwait SC",
-      "away": "Nasaf Qarshi"
     }
   ],
   "today": {
@@ -454,6 +454,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Aek",
+      "away": "Real Madrid",
+      "league": "ŞMP",
+      "at": "04.11.2026 12:49",
+      "count": 13
+    },
+    {
       "home": "Fenerbahce",
       "away": "Liverpool",
       "league": "ŞMP",
@@ -515,13 +522,6 @@
       "league": "İNCL",
       "at": "03.11.2026 18:52",
       "count": 8
-    },
-    {
-      "home": "Derby County",
-      "away": "Norwich City",
-      "league": "İNCL",
-      "at": "03.11.2026 18:51",
-      "count": 9
     }
   ],
   "paywall": {
