@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 15:21",
+  "updatedAt": "04.11.2026 15:29",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 181,
-      "lost": 89,
-      "total": 270,
-      "rate": 67.0
+      "won": 182,
+      "lost": 90,
+      "total": 272,
+      "rate": 66.9
     },
     "totalAnalyses": 444473,
     "leagues": 516,
     "pro": {
-      "won": 1010,
+      "won": 1011,
       "lost": 405,
-      "total": 1415,
+      "total": 1416,
       "rate": 71.4
     },
     "insights": {
-      "won": 1743,
-      "lost": 738,
-      "total": 2481,
-      "rate": 70.3
+      "won": 1744,
+      "lost": 739,
+      "total": 2483,
+      "rate": 70.2
     },
     "coupons": {
-      "won": 44,
+      "won": 45,
       "lost": 23,
-      "total": 67,
-      "rate": 65.7
+      "total": 68,
+      "rate": 66.2
     },
-    "analyses24h": 741,
-    "analyses30d": 19833
+    "analyses24h": 738,
+    "analyses30d": 19830
   },
   "recentWins": [
     {
@@ -123,6 +123,49 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.52,
+      "winChance": 37.89,
+      "completedAt": "04.11.2026 15:29",
+      "legs": [
+        {
+          "home": "PSV Eindhoven",
+          "away": "Club Brugge U19",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "3 - 2"
+        },
+        {
+          "home": "Kataka",
+          "away": "URAFC",
+          "prediction": "Double Chance 12",
+          "odds": 1.09,
+          "finalScore": "3 - 4"
+        },
+        {
+          "home": "Slavia Prague U1",
+          "away": "Arsenal Fc U19",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.11,
+          "finalScore": "1 - 0"
+        },
+        {
+          "home": "Bugesera",
+          "away": "Amagaju",
+          "prediction": "Double Chance 1X",
+          "odds": 1.1,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Al Nasr Dubai",
+          "away": "Sur SC",
+          "prediction": "Double Chance 12",
+          "odds": 1.06,
+          "finalScore": "0 - 3"
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.56,
@@ -249,49 +292,6 @@
           "prediction": "Over 1.5 Goals",
           "odds": 1.09,
           "finalScore": "1 - 1"
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.52,
-      "winChance": 37.28,
-      "completedAt": "03.11.2026 17:44",
-      "legs": [
-        {
-          "home": "Damak",
-          "away": "Al Akhdoud",
-          "prediction": "Double Chance 12",
-          "odds": 1.14,
-          "finalScore": "4 - 3"
-        },
-        {
-          "home": "Bul",
-          "away": "SC Villa",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.1,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Atl Madrid U19",
-          "away": "Bayern Munich",
-          "prediction": "Double Chance 12",
-          "odds": 1.06,
-          "finalScore": "4 - 1"
-        },
-        {
-          "home": "Al Raed",
-          "away": "Al Wahda",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.06,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "FC Vizela U23",
-          "away": "Portimonense U23",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "1 - 2"
         }
       ]
     }
