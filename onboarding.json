@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 14:31",
+  "updatedAt": "04.11.2026 14:38",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 278,
       "rate": 66.2
     },
-    "totalAnalyses": 444412,
+    "totalAnalyses": 444434,
     "leagues": 519,
     "pro": {
       "won": 1000,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 756,
-    "analyses30d": 19927
+    "analyses24h": 760,
+    "analyses30d": 19931
   },
   "recentWins": [
     {
@@ -367,15 +367,15 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 14:00",
-      "home": "Wrexham AFC",
-      "away": "Middlesbrough"
+      "at": "04.11.2026 14:35",
+      "home": "Cardiff City",
+      "away": "West Ham United"
     },
     {
       "type": "updated",
-      "at": "04.11.2026 14:01",
-      "home": "Bristol City",
-      "away": "Wolverhampton Wanderers"
+      "at": "04.11.2026 14:00",
+      "home": "Wrexham AFC",
+      "away": "Middlesbrough"
     }
   ],
   "today": {
@@ -454,6 +454,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Cardiff City",
+      "away": "West Ham United",
+      "league": "İNCL",
+      "at": "04.11.2026 14:35",
+      "count": 18
+    },
+    {
+      "home": "Stade Rennais",
+      "away": "Olympiakos",
+      "league": "AVL",
+      "at": "04.11.2026 14:34",
+      "count": 6
+    },
+    {
       "home": "Viking",
       "away": "FK Sabah",
       "league": "ŞMP",
@@ -503,25 +517,11 @@
       "count": 9
     },
     {
-      "home": "Cardiff City",
-      "away": "West Ham United",
-      "league": "İNCL",
-      "at": "04.11.2026 14:00",
-      "count": 18
-    },
-    {
       "home": "Wrexham AFC",
       "away": "Middlesbrough",
       "league": "İNCL",
       "at": "04.11.2026 14:00",
       "count": 5
-    },
-    {
-      "home": "Fenerbahce",
-      "away": "Liverpool",
-      "league": "ŞMP",
-      "at": "04.11.2026 11:56",
-      "count": 11
     }
   ],
   "paywall": {
