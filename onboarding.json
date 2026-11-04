@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 14:52",
+  "updatedAt": "04.11.2026 14:59",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 184,
-      "lost": 94,
-      "total": 278,
-      "rate": 66.2
+      "won": 190,
+      "lost": 98,
+      "total": 288,
+      "rate": 66.0
     },
-    "totalAnalyses": 444434,
+    "totalAnalyses": 444458,
     "leagues": 518,
     "pro": {
-      "won": 1000,
-      "lost": 401,
-      "total": 1401,
-      "rate": 71.4
+      "won": 1006,
+      "lost": 405,
+      "total": 1411,
+      "rate": 71.3
     },
     "insights": {
-      "won": 1733,
-      "lost": 734,
-      "total": 2467,
+      "won": 1739,
+      "lost": 738,
+      "total": 2477,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 756,
-    "analyses30d": 19909
+    "analyses24h": 753,
+    "analyses30d": 19906
   },
   "recentWins": [
     {
@@ -367,15 +367,15 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 14:35",
-      "home": "Cardiff City",
-      "away": "West Ham United"
+      "at": "04.11.2026 14:56",
+      "home": "Viking",
+      "away": "FK Sabah"
     },
     {
       "type": "updated",
-      "at": "04.11.2026 14:00",
-      "home": "Wrexham AFC",
-      "away": "Middlesbrough"
+      "at": "04.11.2026 14:35",
+      "home": "Cardiff City",
+      "away": "West Ham United"
     }
   ],
   "today": {
@@ -454,6 +454,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Viking",
+      "away": "FK Sabah",
+      "league": "ŞMP",
+      "at": "04.11.2026 14:56",
+      "count": 15
+    },
+    {
+      "home": "Aek",
+      "away": "Real Madrid",
+      "league": "ŞMP",
+      "at": "04.11.2026 14:56",
+      "count": 1
+    },
+    {
+      "home": "Stade Rennais",
+      "away": "Olympiakos",
+      "league": "AVL",
+      "at": "04.11.2026 14:55",
+      "count": 7
+    },
+    {
       "home": "Cardiff City",
       "away": "West Ham United",
       "league": "İNCL",
@@ -461,32 +482,11 @@
       "count": 18
     },
     {
-      "home": "Stade Rennais",
-      "away": "Olympiakos",
-      "league": "AVL",
-      "at": "04.11.2026 14:34",
-      "count": 6
-    },
-    {
-      "home": "Viking",
-      "away": "FK Sabah",
-      "league": "ŞMP",
-      "at": "04.11.2026 14:19",
-      "count": 14
-    },
-    {
       "home": "SK Slavia Prague",
       "away": "Arsenal",
       "league": "ŞMP",
       "at": "04.11.2026 14:19",
       "count": 13
-    },
-    {
-      "home": "Aek",
-      "away": "Real Madrid",
-      "league": "ŞMP",
-      "at": "04.11.2026 14:18",
-      "count": 6
     },
     {
       "home": "RB Leipzig",
