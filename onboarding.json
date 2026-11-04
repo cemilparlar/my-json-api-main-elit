@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 11:22",
+  "updatedAt": "04.11.2026 11:29",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 271,
       "rate": 65.7
     },
-    "totalAnalyses": 444187,
+    "totalAnalyses": 444229,
     "leagues": 523,
     "pro": {
       "won": 1002,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 758,
-    "analyses30d": 20111
+    "analyses24h": 766,
+    "analyses30d": 20119
   },
   "recentWins": [
     {
@@ -404,15 +404,27 @@
       "picks": 4
     },
     {
+      "home": "Kampala City Council FC",
+      "away": "Maroons",
+      "league": "UGA",
+      "date": "04.11.2026 17:00",
+      "matchCode": "4547669",
+      "odds": 1.56,
+      "patternScore": 66.7,
+      "patternText": "201.986/302.833",
+      "aiScore": 52,
+      "picks": 4
+    },
+    {
       "home": "Buriram United",
       "away": "Kashima Antlers",
       "league": "AŞMP",
       "date": "04.11.2026 12:15",
       "matchCode": "4550093",
-      "odds": 1.34,
-      "patternScore": 69.16,
-      "patternText": "243.000/351.336",
-      "aiScore": 59,
+      "odds": 1.38,
+      "patternScore": 68.29,
+      "patternText": "189.470/277.455",
+      "aiScore": 56,
       "picks": 6
     },
     {
@@ -438,18 +450,6 @@
       "patternText": "196.094/285.532",
       "aiScore": 80,
       "picks": 3
-    },
-    {
-      "home": "Lens U19",
-      "away": "Como U19",
-      "league": "UEGL",
-      "date": "04.11.2026 13:00",
-      "matchCode": "4560712",
-      "odds": 1.13,
-      "patternScore": 70.52,
-      "patternText": "131.902/187.050",
-      "aiScore": 91,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
