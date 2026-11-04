@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 07:07",
+  "updatedAt": "04.11.2026 07:15",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 285,
       "rate": 66.0
     },
-    "totalAnalyses": 302873,
+    "totalAnalyses": 302893,
     "leagues": 523,
     "pro": {
       "won": 1003,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 732,
-    "analyses30d": 20238
+    "analyses24h": 750,
+    "analyses30d": 20256
   },
   "recentWins": [
     {
@@ -331,7 +331,7 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 06:32",
+      "at": "04.11.2026 07:11",
       "home": "Buriram United",
       "away": "Kashima Antlers"
     },
@@ -343,7 +343,7 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 06:53",
+      "at": "04.11.2026 07:11",
       "home": "Melbourne Victory",
       "away": "Persib Bandung"
     },
@@ -361,34 +361,22 @@
     },
     {
       "type": "analysis",
-      "count": 732
+      "count": 750
     }
   ],
   "today": {
-    "home": "Melbourne Victory",
-    "away": "Persib Bandung",
-    "league": "AFCŞL2",
-    "date": "04.11.2026 07:45",
-    "matchCode": "4550020",
-    "odds": 1.15,
-    "patternScore": 69.31,
-    "patternText": "178.678/257.790",
-    "aiScore": 87,
+    "home": "Buriram United",
+    "away": "Kashima Antlers",
+    "league": "AŞMP",
+    "date": "04.11.2026 12:15",
+    "matchCode": "4550093",
+    "odds": 1.14,
+    "patternScore": 68.98,
+    "patternText": "179.052/259.569",
+    "aiScore": 73,
     "picks": 3
   },
   "todayList": [
-    {
-      "home": "Melbourne Victory",
-      "away": "Persib Bandung",
-      "league": "AFCŞL2",
-      "date": "04.11.2026 07:45",
-      "matchCode": "4550020",
-      "odds": 1.15,
-      "patternScore": 69.31,
-      "patternText": "178.678/257.790",
-      "aiScore": 87,
-      "picks": 3
-    },
     {
       "home": "Buriram United",
       "away": "Kashima Antlers",
@@ -436,6 +424,18 @@
       "patternText": "359.330/515.616",
       "aiScore": 93,
       "picks": 1
+    },
+    {
+      "home": "Al Wahda",
+      "away": "Khalidiya",
+      "league": "AFCŞL2",
+      "date": "04.11.2026 16:00",
+      "matchCode": "4549972",
+      "odds": 1.35,
+      "patternScore": 68.58,
+      "patternText": "198.675/289.679",
+      "aiScore": 62,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
