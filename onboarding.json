@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 18:28",
+  "updatedAt": "04.11.2026 18:35",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 246,
       "rate": 66.3
     },
-    "totalAnalyses": 444628,
+    "totalAnalyses": 444638,
     "leagues": 512,
     "pro": {
       "won": 1003,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 66.2
     },
-    "analyses24h": 699,
-    "analyses30d": 19735
+    "analyses24h": 705,
+    "analyses30d": 19719
   },
   "recentWins": [
     {
@@ -355,7 +355,7 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 14:01",
+      "at": "04.11.2026 18:29",
       "home": "RB Leipzig",
       "away": "Manchester City"
     },
@@ -379,30 +379,18 @@
     }
   ],
   "today": {
-    "home": "MC Alger",
-    "away": "MC Oran",
-    "league": "CZYR",
-    "date": "04.11.2026 19:00",
-    "matchCode": "4546092",
-    "odds": 1.8,
-    "patternScore": 67.22,
-    "patternText": "191.197/284.417",
-    "aiScore": 52,
-    "picks": 3
+    "home": "Atletico Paranaense",
+    "away": "Club de Regatas Vasco da Gama",
+    "league": "BR1",
+    "date": "04.11.2026 22:30",
+    "matchCode": "4423366",
+    "odds": 1.57,
+    "patternScore": 67.79,
+    "patternText": "162.579/239.812",
+    "aiScore": 53,
+    "picks": 5
   },
   "todayList": [
-    {
-      "home": "MC Alger",
-      "away": "MC Oran",
-      "league": "CZYR",
-      "date": "04.11.2026 19:00",
-      "matchCode": "4546092",
-      "odds": 1.8,
-      "patternScore": 67.22,
-      "patternText": "191.197/284.417",
-      "aiScore": 52,
-      "picks": 3
-    },
     {
       "home": "Atletico Paranaense",
       "away": "Club de Regatas Vasco da Gama",
@@ -450,9 +438,42 @@
       "patternText": "176.055/254.559",
       "aiScore": 75,
       "picks": 3
+    },
+    {
+      "home": "Botafogo de Futebol e Regatas",
+      "away": "Atletico Mineiro",
+      "league": "BR1",
+      "date": "05.11.2026 00:30",
+      "matchCode": "4423360",
+      "odds": 1.15,
+      "patternScore": 70.29,
+      "patternText": "125.840/179.039",
+      "aiScore": 87,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Viking",
+      "away": "FK Sabah",
+      "league": "ŞMP",
+      "at": "04.11.2026 18:30",
+      "count": 6
+    },
+    {
+      "home": "RB Leipzig",
+      "away": "Manchester City",
+      "league": "ŞMP",
+      "at": "04.11.2026 18:29",
+      "count": 16
+    },
+    {
+      "home": "Wrexham AFC",
+      "away": "Middlesbrough",
+      "league": "İNCL",
+      "at": "04.11.2026 18:29",
+      "count": 7
+    },
     {
       "home": "RC Lens",
       "away": "Como 1907",
@@ -482,13 +503,6 @@
       "count": 10
     },
     {
-      "home": "Viking",
-      "away": "FK Sabah",
-      "league": "ŞMP",
-      "at": "04.11.2026 17:17",
-      "count": 5
-    },
-    {
       "home": "Fenerbahce",
       "away": "Liverpool",
       "league": "ŞMP",
@@ -508,20 +522,6 @@
       "league": "ŞMP",
       "at": "04.11.2026 16:17",
       "count": 4
-    },
-    {
-      "home": "Stade Rennais",
-      "away": "Olympiakos",
-      "league": "AVL",
-      "at": "04.11.2026 14:55",
-      "count": 7
-    },
-    {
-      "home": "Cardiff City",
-      "away": "West Ham United",
-      "league": "İNCL",
-      "at": "04.11.2026 14:35",
-      "count": 18
     }
   ],
   "paywall": {
