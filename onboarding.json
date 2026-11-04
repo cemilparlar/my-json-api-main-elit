@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 22:49",
+  "updatedAt": "04.11.2026 22:56",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 71,
       "rate": 67.6
     },
-    "analyses24h": 500,
-    "analyses30d": 19570
+    "analyses24h": 496,
+    "analyses30d": 19566
   },
   "recentWins": [
     {
@@ -365,30 +365,18 @@
     }
   ],
   "today": {
-    "home": "Sao Paulo FC",
-    "away": "SC Corinthians",
-    "league": "BR1",
-    "date": "05.11.2026 00:30",
-    "matchCode": "4423361",
-    "odds": 1.3,
-    "patternScore": 67.96,
-    "patternText": "194.081/285.565",
-    "aiScore": 63,
-    "picks": 3
+    "home": "Club Deportivo Firpo",
+    "away": "Alianza FC",
+    "league": "ELSAL",
+    "date": "05.11.2026 01:00",
+    "matchCode": "4504364",
+    "odds": 1.25,
+    "patternScore": 68.33,
+    "patternText": "169.105/247.493",
+    "aiScore": 64,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Sao Paulo FC",
-      "away": "SC Corinthians",
-      "league": "BR1",
-      "date": "05.11.2026 00:30",
-      "matchCode": "4423361",
-      "odds": 1.3,
-      "patternScore": 67.96,
-      "patternText": "194.081/285.565",
-      "aiScore": 63,
-      "picks": 3
-    },
     {
       "home": "Club Deportivo Firpo",
       "away": "Alianza FC",
@@ -398,7 +386,7 @@
       "odds": 1.25,
       "patternScore": 68.33,
       "patternText": "169.105/247.493",
-      "aiScore": 65,
+      "aiScore": 64,
       "picks": 1
     },
     {
@@ -407,11 +395,11 @@
       "league": "EKVK",
       "date": "05.11.2026 00:00",
       "matchCode": "4567413",
-      "odds": 1.24,
-      "patternScore": 67.92,
-      "patternText": "160.022/235.619",
-      "aiScore": 65,
-      "picks": 3
+      "odds": 1.23,
+      "patternScore": 68.56,
+      "patternText": "162.128/236.466",
+      "aiScore": 67,
+      "picks": 2
     },
     {
       "home": "Metropolitanos FC",
@@ -424,6 +412,18 @@
       "patternText": "180.400/258.972",
       "aiScore": 89,
       "picks": 1
+    },
+    {
+      "home": "Sao Paulo FC",
+      "away": "SC Corinthians",
+      "league": "BR1",
+      "date": "05.11.2026 00:30",
+      "matchCode": "4423361",
+      "odds": 1.14,
+      "patternScore": 68.76,
+      "patternText": "136.145/198.010",
+      "aiScore": 88,
+      "picks": 2
     },
     {
       "home": "The Strongest",
