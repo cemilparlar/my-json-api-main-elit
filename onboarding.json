@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 20:49",
+  "updatedAt": "04.11.2026 20:56",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 127,
       "rate": 74.0
     },
-    "totalAnalyses": 444719,
+    "totalAnalyses": 444720,
     "leagues": 509,
     "pro": {
       "won": 1006,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 66.2
     },
-    "analyses24h": 512,
-    "analyses30d": 19603
+    "analyses24h": 513,
+    "analyses30d": 19604
   },
   "recentWins": [
     {
@@ -404,18 +404,6 @@
       "picks": 5
     },
     {
-      "home": "Nacional Potos",
-      "away": "Oriente Petrole",
-      "league": "BOLPLK",
-      "date": "04.11.2026 22:00",
-      "matchCode": "4575437",
-      "odds": 1.53,
-      "patternScore": 68.54,
-      "patternText": "89.885/131.144",
-      "aiScore": 54,
-      "picks": 2
-    },
-    {
       "home": "Sao Paulo FC",
       "away": "SC Corinthians",
       "league": "BR1",
@@ -449,6 +437,18 @@
       "patternScore": 67.92,
       "patternText": "165.722/243.993",
       "aiScore": 65,
+      "picks": 1
+    },
+    {
+      "home": "The Strongest",
+      "away": "Always Ready",
+      "league": "BOLPLK",
+      "date": "05.11.2026 00:30",
+      "matchCode": "4575438",
+      "odds": 1.1,
+      "patternScore": 70.71,
+      "patternText": "223.338/315.840",
+      "aiScore": 93,
       "picks": 1
     }
   ],
