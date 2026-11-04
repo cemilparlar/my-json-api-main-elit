@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 11:50",
+  "updatedAt": "04.11.2026 11:57",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 271,
       "rate": 65.7
     },
-    "totalAnalyses": 444246,
+    "totalAnalyses": 444254,
     "leagues": 523,
     "pro": {
       "won": 1001,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 761,
-    "analyses30d": 20112
+    "analyses24h": 762,
+    "analyses30d": 20113
   },
   "recentWins": [
     {
@@ -337,6 +337,12 @@
     },
     {
       "type": "updated",
+      "at": "04.11.2026 11:56",
+      "home": "Fenerbahce",
+      "away": "Liverpool"
+    },
+    {
+      "type": "updated",
       "at": "04.11.2026 09:20",
       "home": "Pohang Steelers",
       "away": "Gamba Osaka"
@@ -370,12 +376,6 @@
       "at": "04.11.2026 10:21",
       "home": "Al Wahda",
       "away": "Khalidiya"
-    },
-    {
-      "type": "updated",
-      "at": "04.11.2026 08:44",
-      "home": "Tauras",
-      "away": "Minija"
     }
   ],
   "today": {
@@ -454,6 +454,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Fenerbahce",
+      "away": "Liverpool",
+      "league": "ŞMP",
+      "at": "04.11.2026 11:56",
+      "count": 11
+    },
+    {
       "home": "Stade Rennais",
       "away": "Olympiakos",
       "league": "AVL",
@@ -515,13 +522,6 @@
       "league": "İNCL",
       "at": "03.11.2026 18:51",
       "count": 9
-    },
-    {
-      "home": "Charlton Athletic",
-      "away": "Bolton Wanderers",
-      "league": "İNCL",
-      "at": "03.11.2026 18:51",
-      "count": 7
     }
   ],
   "paywall": {
