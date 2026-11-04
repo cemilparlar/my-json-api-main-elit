@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 08:18",
+  "updatedAt": "04.11.2026 08:25",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 277,
       "rate": 65.3
     },
-    "totalAnalyses": 302922,
+    "totalAnalyses": 302930,
     "leagues": 524,
     "pro": {
       "won": 1003,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 760,
-    "analyses30d": 20268
+    "analyses24h": 761,
+    "analyses30d": 20269
   },
   "recentWins": [
     {
@@ -331,7 +331,7 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 07:47",
+      "at": "04.11.2026 08:24",
       "home": "Pohang Steelers",
       "away": "Gamba Osaka"
     },
@@ -354,6 +354,12 @@
       "away": "Sur SC"
     },
     {
+      "type": "updated",
+      "at": "04.11.2026 08:24",
+      "home": "Aek Athens U19",
+      "away": "Real Madrid U19"
+    },
+    {
       "type": "kickoff",
       "home": "Not FC Seoul - check data",
       "away": "Viettel FC",
@@ -370,10 +376,6 @@
       "home": "Pohang Steelers",
       "away": "Gamba Osaka",
       "at": "04.11.2026 10:00"
-    },
-    {
-      "type": "analysis",
-      "count": 760
     }
   ],
   "today": {
