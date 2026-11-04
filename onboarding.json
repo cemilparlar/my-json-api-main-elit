@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 17:17",
+  "updatedAt": "04.11.2026 17:24",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 263,
       "rate": 66.5
     },
-    "totalAnalyses": 444567,
+    "totalAnalyses": 444581,
     "leagues": 512,
     "pro": {
       "won": 1003,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 66.2
     },
-    "analyses24h": 706,
-    "analyses30d": 19742
+    "analyses24h": 703,
+    "analyses30d": 19739
   },
   "recentWins": [
     {
@@ -367,15 +367,15 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 16:17",
+      "at": "04.11.2026 17:17",
       "home": "FC Porto",
       "away": "SSC Napoli"
     },
     {
       "type": "updated",
       "at": "04.11.2026 17:17",
-      "home": "Viking",
-      "away": "FK Sabah"
+      "home": "Oxford United",
+      "away": "Reading"
     }
   ],
   "today": {
@@ -416,27 +416,15 @@
       "picks": 5
     },
     {
-      "home": "Oxford United",
-      "away": "Reading",
-      "league": "İN1",
-      "date": "04.11.2026 19:45",
-      "matchCode": "4489264",
-      "odds": 1.24,
-      "patternScore": 67.94,
-      "patternText": "177.251/260.906",
-      "aiScore": 64,
-      "picks": 2
-    },
-    {
       "home": "Clermont U19",
       "away": "Legia Warsaw",
       "league": "UEGL",
       "date": "04.11.2026 18:00",
       "matchCode": "4560333",
       "odds": 1.23,
-      "patternScore": 68.24,
-      "patternText": "123.704/181.272",
-      "aiScore": 67,
+      "patternScore": 67.57,
+      "patternText": "193.490/286.342",
+      "aiScore": 58,
       "picks": 3
     },
     {
@@ -450,9 +438,28 @@
       "patternText": "132.259/191.037",
       "aiScore": 82,
       "picks": 1
+    },
+    {
+      "home": "FAR Rabat",
+      "away": "Raja Club Athletic",
+      "league": "FAS",
+      "date": "04.11.2026 20:00",
+      "matchCode": "4566285",
+      "odds": 1.19,
+      "patternScore": 69.17,
+      "patternText": "176.007/254.461",
+      "aiScore": 75,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Porto",
+      "away": "SSC Napoli",
+      "league": "ŞMP",
+      "at": "04.11.2026 17:17",
+      "count": 8
+    },
     {
       "home": "Viking",
       "away": "FK Sabah",
@@ -480,13 +487,6 @@
       "league": "İNCL",
       "at": "04.11.2026 16:18",
       "count": 6
-    },
-    {
-      "home": "FC Porto",
-      "away": "SSC Napoli",
-      "league": "ŞMP",
-      "at": "04.11.2026 16:17",
-      "count": 9
     },
     {
       "home": "Aek",
