@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 09:52",
+  "updatedAt": "04.11.2026 10:06",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 184,
-      "lost": 97,
-      "total": 281,
-      "rate": 65.5
+      "won": 178,
+      "lost": 95,
+      "total": 273,
+      "rate": 65.2
     },
     "totalAnalyses": 444160,
     "leagues": 524,
     "pro": {
-      "won": 1004,
+      "won": 1002,
       "lost": 398,
-      "total": 1402,
+      "total": 1400,
       "rate": 71.6
     },
     "insights": {
-      "won": 1741,
+      "won": 1737,
       "lost": 733,
-      "total": 2474,
-      "rate": 70.4
+      "total": 2470,
+      "rate": 70.3
     },
     "coupons": {
       "won": 44,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 758,
-    "analyses30d": 20227
+    "analyses24h": 751,
+    "analyses30d": 20148
   },
   "recentWins": [
     {
@@ -330,6 +330,12 @@
       "at": "02.11.2026 15:00"
     },
     {
+      "type": "coupon",
+      "size": 5,
+      "odds": 1.52,
+      "at": "04.11.2026 10:06"
+    },
+    {
       "type": "updated",
       "at": "04.11.2026 09:20",
       "home": "Pohang Steelers",
@@ -337,7 +343,7 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 09:02",
+      "at": "04.11.2026 09:57",
       "home": "Buriram United",
       "away": "Kashima Antlers"
     },
@@ -370,12 +376,6 @@
       "at": "04.11.2026 08:44",
       "home": "Tauras",
       "away": "Minija"
-    },
-    {
-      "type": "updated",
-      "at": "04.11.2026 08:24",
-      "home": "Aek Athens U19",
-      "away": "Real Madrid U19"
     }
   ],
   "today": {
@@ -386,7 +386,7 @@
     "matchCode": "4547668",
     "odds": 1.97,
     "patternScore": 67.68,
-    "patternText": "111.760/165.137",
+    "patternText": "111.766/165.145",
     "aiScore": 51,
     "picks": 4
   },
@@ -399,9 +399,33 @@
       "matchCode": "4547668",
       "odds": 1.97,
       "patternScore": 67.68,
-      "patternText": "111.760/165.137",
+      "patternText": "111.766/165.145",
       "aiScore": 51,
       "picks": 4
+    },
+    {
+      "home": "Al Wahda",
+      "away": "Khalidiya",
+      "league": "AFCŞL2",
+      "date": "04.11.2026 16:00",
+      "matchCode": "4549972",
+      "odds": 1.35,
+      "patternScore": 68.59,
+      "patternText": "198.717/289.735",
+      "aiScore": 62,
+      "picks": 3
+    },
+    {
+      "home": "Al Kuwait SC",
+      "away": "Nasaf Qarshi",
+      "league": "AFCŞL2",
+      "date": "04.11.2026 16:00",
+      "matchCode": "4549973",
+      "odds": 1.13,
+      "patternScore": 70.19,
+      "patternText": "250.175/356.416",
+      "aiScore": 86,
+      "picks": 2
     },
     {
       "home": "Lens U19",
@@ -411,7 +435,7 @@
       "matchCode": "4560712",
       "odds": 1.13,
       "patternScore": 70.52,
-      "patternText": "131.888/187.034",
+      "patternText": "131.902/187.050",
       "aiScore": 90,
       "picks": 2
     },
@@ -423,33 +447,9 @@
       "matchCode": "4560714",
       "odds": 1.13,
       "patternScore": 69.29,
-      "patternText": "212.360/306.479",
+      "patternText": "212.386/306.511",
       "aiScore": 82,
       "picks": 2
-    },
-    {
-      "home": "B. Dortmund U1",
-      "away": "Real Betis U19",
-      "league": "UEGL",
-      "date": "04.11.2026 15:00",
-      "matchCode": "4560713",
-      "odds": 1.13,
-      "patternScore": 69.39,
-      "patternText": "198.290/285.762",
-      "aiScore": 81,
-      "picks": 2
-    },
-    {
-      "home": "Etincelles",
-      "away": "Kiyovu",
-      "league": "RUA",
-      "date": "04.11.2026 13:00",
-      "matchCode": "4556509",
-      "odds": 1.12,
-      "patternScore": 69.71,
-      "patternText": "121.698/174.582",
-      "aiScore": 86,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
