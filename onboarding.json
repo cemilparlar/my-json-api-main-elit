@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 22:14",
+  "updatedAt": "04.11.2026 22:21",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": 67.6
     },
     "analyses24h": 506,
-    "analyses30d": 19582
+    "analyses30d": 19568
   },
   "recentWins": [
     {
@@ -80,6 +80,20 @@
       "pro": false
     },
     {
+      "home": "PSV Eindhoven",
+      "away": "Club Brugge",
+      "league": "ŞMP",
+      "date": "04.11.2026 20:00",
+      "prediction": "Match Result 2",
+      "odds": 2.68,
+      "probability": 100.0,
+      "patternScore": 55.64,
+      "aiScore": 50,
+      "firstHalf": "0 - 1",
+      "finalScore": "1 - 2",
+      "pro": true
+    },
+    {
       "home": "Rivadavia",
       "away": "Club Atletico Banfield",
       "league": "ARJ",
@@ -105,20 +119,6 @@
       "aiScore": 50,
       "firstHalf": "0 - 0",
       "finalScore": "3 - 0",
-      "pro": false
-    },
-    {
-      "home": "Tauras",
-      "away": "Minija",
-      "league": "LIT1",
-      "date": "04.11.2026 12:00",
-      "prediction": "1st Half Over 1.5",
-      "odds": 1.97,
-      "probability": 75.0,
-      "patternScore": 63.47,
-      "aiScore": 51,
-      "firstHalf": "1 - 1",
-      "finalScore": "3 - 3",
       "pro": false
     }
   ],
@@ -301,19 +301,19 @@
     },
     {
       "type": "won",
+      "home": "PSV Eindhoven",
+      "away": "Club Brugge",
+      "prediction": "Match Result 2",
+      "odds": 2.68,
+      "at": "04.11.2026 20:00"
+    },
+    {
+      "type": "won",
       "home": "Rivadavia",
       "away": "Club Atletico Banfield",
       "prediction": "1st Half Over 1.5",
       "odds": 2.46,
       "at": "03.11.2026 00:15"
-    },
-    {
-      "type": "won",
-      "home": "Not FC Seoul - check data",
-      "away": "Viettel FC",
-      "prediction": "Handicap (0:2) 1",
-      "odds": 2.32,
-      "at": "04.11.2026 10:00"
     },
     {
       "type": "coupon",
@@ -372,7 +372,7 @@
     "matchCode": "4423361",
     "odds": 1.3,
     "patternScore": 67.96,
-    "patternText": "194.049/285.521",
+    "patternText": "194.081/285.565",
     "aiScore": 63,
     "picks": 3
   },
@@ -385,7 +385,7 @@
       "matchCode": "4423361",
       "odds": 1.3,
       "patternScore": 67.96,
-      "patternText": "194.049/285.521",
+      "patternText": "194.081/285.565",
       "aiScore": 63,
       "picks": 3
     },
@@ -396,9 +396,9 @@
       "date": "05.11.2026 01:00",
       "matchCode": "4504364",
       "odds": 1.25,
-      "patternScore": 68.32,
-      "patternText": "169.069/247.449",
-      "aiScore": 64,
+      "patternScore": 68.33,
+      "patternText": "169.105/247.493",
+      "aiScore": 65,
       "picks": 1
     },
     {
@@ -407,11 +407,11 @@
       "league": "EKVK",
       "date": "05.11.2026 00:00",
       "matchCode": "4567413",
-      "odds": 1.21,
-      "patternScore": 67.92,
-      "patternText": "165.740/244.029",
+      "odds": 1.22,
+      "patternScore": 68.0,
+      "patternText": "162.814/239.419",
       "aiScore": 64,
-      "picks": 1
+      "picks": 2
     },
     {
       "home": "Metropolitanos FC",
@@ -421,8 +421,8 @@
       "matchCode": "4576817",
       "odds": 1.14,
       "patternScore": 69.66,
-      "patternText": "180.380/258.946",
-      "aiScore": 88,
+      "patternText": "180.400/258.972",
+      "aiScore": 89,
       "picks": 1
     },
     {
@@ -433,7 +433,7 @@
       "matchCode": "4575438",
       "odds": 1.1,
       "patternScore": 70.71,
-      "patternText": "223.376/315.892",
+      "patternText": "223.410/315.932",
       "aiScore": 93,
       "picks": 1
     }
