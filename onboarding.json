@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 16:42",
+  "updatedAt": "04.11.2026 16:49",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 66.2
     },
-    "analyses24h": 732,
-    "analyses30d": 19776
+    "analyses24h": 731,
+    "analyses30d": 19767
   },
   "recentWins": [
     {
@@ -367,15 +367,15 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 14:35",
-      "home": "Cardiff City",
-      "away": "West Ham United"
+      "at": "04.11.2026 16:37",
+      "home": "Viking",
+      "away": "FK Sabah"
     },
     {
       "type": "updated",
-      "at": "04.11.2026 14:00",
-      "home": "Wrexham AFC",
-      "away": "Middlesbrough"
+      "at": "04.11.2026 14:35",
+      "home": "Cardiff City",
+      "away": "West Ham United"
     }
   ],
   "today": {
@@ -404,6 +404,18 @@
       "picks": 3
     },
     {
+      "home": "Atletico Paranaense",
+      "away": "Club de Regatas Vasco da Gama",
+      "league": "BR1",
+      "date": "04.11.2026 22:30",
+      "matchCode": "4423366",
+      "odds": 1.57,
+      "patternScore": 67.8,
+      "patternText": "162.565/239.786",
+      "aiScore": 53,
+      "picks": 5
+    },
+    {
       "home": "Oxford United",
       "away": "Reading",
       "league": "İN1",
@@ -416,6 +428,18 @@
       "picks": 2
     },
     {
+      "home": "Clermont U19",
+      "away": "Legia Warsaw",
+      "league": "UEGL",
+      "date": "04.11.2026 18:00",
+      "matchCode": "4560333",
+      "odds": 1.23,
+      "patternScore": 68.24,
+      "patternText": "123.702/181.270",
+      "aiScore": 67,
+      "picks": 3
+    },
+    {
       "home": "FAR Rabat",
       "away": "Raja Club Athletic",
       "league": "FAS",
@@ -424,32 +448,8 @@
       "odds": 1.19,
       "patternScore": 69.17,
       "patternText": "176.001/254.455",
-      "aiScore": 74,
+      "aiScore": 75,
       "picks": 3
-    },
-    {
-      "home": "Al Taawon",
-      "away": "Al Faisaly Amman",
-      "league": "AFCŞL2",
-      "date": "04.11.2026 18:15",
-      "matchCode": "4549997",
-      "odds": 1.19,
-      "patternScore": 69.27,
-      "patternText": "131.191/189.390",
-      "aiScore": 88,
-      "picks": 3
-    },
-    {
-      "home": "Bristol City",
-      "away": "Wolverhampton Wanderers",
-      "league": "İNCL",
-      "date": "04.11.2026 20:00",
-      "matchCode": "4488845",
-      "odds": 1.17,
-      "patternScore": 69.38,
-      "patternText": "171.466/247.139",
-      "aiScore": 87,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
