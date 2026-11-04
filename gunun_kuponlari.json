@@ -10,7 +10,7 @@
       "lost": 1
     },
     "multi": {
-      "won": 43,
+      "won": 44,
       "lost": 23
     },
     "c70_1": {
@@ -30,7 +30,7 @@
       "lost": 1
     },
     "cyz_5": {
-      "won": 6,
+      "won": 7,
       "lost": 5
     },
     "cyz_6": {
@@ -76,7 +76,7 @@
       "lost": 9
     },
     "multi": {
-      "won": 43,
+      "won": 44,
       "lost": 23
     },
     "c70_1": {
@@ -96,7 +96,7 @@
       "lost": 1
     },
     "cyz_5": {
-      "won": 6,
+      "won": 7,
       "lost": 5
     },
     "cyz_6": {
@@ -104,9 +104,10 @@
       "lost": 1
     }
   },
-  "updatedAt": "04.11.2026 03:38",
-  "updatedAtUtc": "2026-11-04T03:38:00Z",
-  "upcoming": [
+  "updatedAt": "04.11.2026 03:50",
+  "updatedAtUtc": "2026-11-04T03:50:00Z",
+  "upcoming": [],
+  "completed": [
     {
       "id": "20261103-20-1",
       "createdAt": "03.11.2026 17:01",
@@ -117,13 +118,13 @@
       "winChance": 38.49,
       "firstKickoff": "03.11.2026 19:45",
       "lastKickoff": "03.11.2026 19:45",
-      "status": "live",
-      "completedAt": null,
+      "status": "won",
+      "completedAt": "04.11.2026 03:50",
       "kind": "cyz_5",
       "group": "multi",
       "formula": "5",
       "multiScore": 80,
-      "effectiveOdds": 1.56,
+      "effectiveOdds": 1.44,
       "legs": [
         {
           "matchCode": "4488847",
@@ -191,7 +192,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 96
         },
         {
@@ -241,9 +242,7 @@
           "aiScore": 85
         }
       ]
-    }
-  ],
-  "completed": [
+    },
     {
       "id": "20261103-21-1",
       "createdAt": "03.11.2026 18:05",
@@ -395,7 +394,7 @@
       "group": "multi",
       "formula": "6",
       "multiScore": 76,
-      "effectiveOdds": 1.34,
+      "effectiveOdds": 1.24,
       "legs": [
         {
           "matchCode": "4426806",
@@ -486,7 +485,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 93
         },
         {
@@ -688,7 +687,7 @@
       "group": "multi",
       "formula": "5",
       "multiScore": 74,
-      "effectiveOdds": 1.51,
+      "effectiveOdds": 1.4,
       "legs": [
         {
           "matchCode": "4488839",
@@ -756,7 +755,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 87
         },
         {

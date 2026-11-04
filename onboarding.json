@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 03:38",
+  "updatedAt": "04.11.2026 03:50",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 216,
+      "won": 219,
       "lost": 105,
-      "total": 321,
-      "rate": 67.3
+      "total": 324,
+      "rate": 67.6
     },
     "totalAnalyses": 302852,
     "leagues": 524,
     "pro": {
-      "won": 1002,
+      "won": 1003,
       "lost": 398,
-      "total": 1400,
+      "total": 1401,
       "rate": 71.6
     },
     "insights": {
-      "won": 1735,
+      "won": 1736,
       "lost": 732,
-      "total": 2467,
+      "total": 2468,
       "rate": 70.3
     },
     "coupons": {
-      "won": 43,
+      "won": 44,
       "lost": 24,
-      "total": 67,
-      "rate": 64.2
+      "total": 68,
+      "rate": 64.7
     },
     "analyses24h": 755,
     "analyses30d": 20258
@@ -123,6 +123,49 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.56,
+      "winChance": 38.49,
+      "completedAt": "04.11.2026 03:50",
+      "legs": [
+        {
+          "home": "Charlton Athletic",
+          "away": "Bolton Wanderers",
+          "prediction": "Handicap (0:2) 2",
+          "odds": 1.06,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "Derby County",
+          "away": "Norwich City",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.08,
+          "finalScore": "0 - 4"
+        },
+        {
+          "home": "Aldershot",
+          "away": "Ipswich Town U21",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": null
+        },
+        {
+          "home": "Guiseley",
+          "away": "Leek Town",
+          "prediction": "Double Chance 12",
+          "odds": 1.06,
+          "finalScore": "4 - 1"
+        },
+        {
+          "home": "Blackburn",
+          "away": "Stoke City",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.19,
+          "finalScore": "1 - 2"
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.52,
@@ -249,49 +292,6 @@
           "prediction": "Double Chance 12",
           "odds": 1.08,
           "finalScore": "1 - 2"
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.55,
-      "winChance": 34.9,
-      "completedAt": "03.11.2026 09:09",
-      "legs": [
-        {
-          "home": "Kofu",
-          "away": "Albirex Niigata",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.06,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "Nara Club",
-          "away": "Thespa Kusatsu Gunma",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.06,
-          "finalScore": "3 - 0"
-        },
-        {
-          "home": "Yokohama FC",
-          "away": "Blaublitz Akita",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.14,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Tochigi SC",
-          "away": "Fukushima United FC",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.08,
-          "finalScore": "0 - 0"
-        },
-        {
-          "home": "FC Ryukyu",
-          "away": "FC Gifu",
-          "prediction": "Double Chance 12",
-          "odds": 1.12,
-          "finalScore": "2 - 3"
         }
       ]
     }
