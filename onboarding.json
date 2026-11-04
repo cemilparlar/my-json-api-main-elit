@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 08:46",
+  "updatedAt": "04.11.2026 08:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 277,
       "rate": 65.3
     },
-    "totalAnalyses": 444057,
+    "totalAnalyses": 444131,
     "leagues": 524,
     "pro": {
       "won": 1003,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 769,
-    "analyses30d": 20274
+    "analyses24h": 767,
+    "analyses30d": 20272
   },
   "recentWins": [
     {
@@ -88,7 +88,7 @@
       "odds": 2.46,
       "probability": 75.0,
       "patternScore": 66.95,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "3 - 1",
       "finalScore": "3 - 1",
       "pro": false
@@ -102,7 +102,7 @@
       "odds": 2.12,
       "probability": 100.0,
       "patternScore": 56.15,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "0 - 1",
       "finalScore": "0 - 3",
       "pro": true
@@ -337,6 +337,12 @@
     },
     {
       "type": "updated",
+      "at": "04.11.2026 08:44",
+      "home": "Buriram United",
+      "away": "Kashima Antlers"
+    },
+    {
+      "type": "updated",
       "at": "04.11.2026 04:16",
       "home": "Cerezo Osaka",
       "away": "Roasso Kumamoto"
@@ -370,12 +376,6 @@
       "home": "Not FC Seoul - check data",
       "away": "Viettel FC",
       "at": "04.11.2026 10:00"
-    },
-    {
-      "type": "kickoff",
-      "home": "Aek Athens U19",
-      "away": "Real Madrid U19",
-      "at": "04.11.2026 10:00"
     }
   ],
   "today": {
@@ -404,6 +404,18 @@
       "picks": 4
     },
     {
+      "home": "Buriram United",
+      "away": "Kashima Antlers",
+      "league": "AŞMP",
+      "date": "04.11.2026 12:15",
+      "matchCode": "4550093",
+      "odds": 1.42,
+      "patternScore": 67.84,
+      "patternText": "175.026/257.983",
+      "aiScore": 53,
+      "picks": 5
+    },
+    {
       "home": "Al Nasr Dubai",
       "away": "Sur SC",
       "league": "UMM",
@@ -412,7 +424,7 @@
       "odds": 1.32,
       "patternScore": 68.23,
       "patternText": "186.855/273.848",
-      "aiScore": 58,
+      "aiScore": 57,
       "picks": 2
     },
     {
@@ -438,18 +450,6 @@
       "patternText": "212.360/306.479",
       "aiScore": 82,
       "picks": 2
-    },
-    {
-      "home": "Etincelles",
-      "away": "Kiyovu",
-      "league": "RUA",
-      "date": "04.11.2026 13:00",
-      "matchCode": "4556509",
-      "odds": 1.12,
-      "patternScore": 69.71,
-      "patternText": "121.698/174.582",
-      "aiScore": 86,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
