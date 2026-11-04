@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 07:36",
+  "updatedAt": "04.11.2026 07:43",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 64.7
     },
-    "analyses24h": 769,
-    "analyses30d": 20269
+    "analyses24h": 765,
+    "analyses30d": 20265
   },
   "recentWins": [
     {
@@ -366,8 +366,14 @@
       "at": "04.11.2026 10:00"
     },
     {
+      "type": "kickoff",
+      "home": "Aek Athens U19",
+      "away": "Real Madrid U19",
+      "at": "04.11.2026 10:00"
+    },
+    {
       "type": "analysis",
-      "count": 769
+      "count": 765
     }
   ],
   "today": {
@@ -408,6 +414,18 @@
       "picks": 2
     },
     {
+      "home": "Aek Athens U19",
+      "away": "Real Madrid U19",
+      "league": "UEGL",
+      "date": "04.11.2026 10:00",
+      "matchCode": "4560708",
+      "odds": 1.5,
+      "patternScore": 66.83,
+      "patternText": "198.626/297.192",
+      "aiScore": 53,
+      "picks": 2
+    },
+    {
       "home": "Buriram United",
       "away": "Kashima Antlers",
       "league": "AŞMP",
@@ -429,18 +447,6 @@
       "patternScore": 70.52,
       "patternText": "131.888/187.034",
       "aiScore": 90,
-      "picks": 2
-    },
-    {
-      "home": "PSV Eindhoven",
-      "away": "Club Brugge U19",
-      "league": "UEGL",
-      "date": "04.11.2026 13:00",
-      "matchCode": "4560714",
-      "odds": 1.13,
-      "patternScore": 69.29,
-      "patternText": "212.360/306.479",
-      "aiScore": 82,
       "picks": 2
     }
   ],
