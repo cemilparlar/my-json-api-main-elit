@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 17:24",
+  "updatedAt": "04.11.2026 17:31",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 175,
-      "lost": 88,
-      "total": 263,
-      "rate": 66.5
+      "won": 178,
+      "lost": 92,
+      "total": 270,
+      "rate": 65.9
     },
     "totalAnalyses": 444581,
     "leagues": 512,
     "pro": {
-      "won": 1003,
-      "lost": 406,
-      "total": 1409,
-      "rate": 71.2
+      "won": 1002,
+      "lost": 409,
+      "total": 1411,
+      "rate": 71.0
     },
     "insights": {
-      "won": 1735,
-      "lost": 739,
-      "total": 2474,
+      "won": 1734,
+      "lost": 741,
+      "total": 2475,
       "rate": 70.1
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 66.2
     },
     "analyses24h": 703,
-    "analyses30d": 19739
+    "analyses30d": 19733
   },
   "recentWins": [
     {
@@ -416,18 +416,6 @@
       "picks": 5
     },
     {
-      "home": "Clermont U19",
-      "away": "Legia Warsaw",
-      "league": "UEGL",
-      "date": "04.11.2026 18:00",
-      "matchCode": "4560333",
-      "odds": 1.23,
-      "patternScore": 67.57,
-      "patternText": "193.490/286.342",
-      "aiScore": 58,
-      "picks": 3
-    },
-    {
       "home": "Al Taawon",
       "away": "Al Faisaly Amman",
       "league": "AFCŞL2",
@@ -450,6 +438,18 @@
       "patternText": "176.007/254.461",
       "aiScore": 75,
       "picks": 3
+    },
+    {
+      "home": "Bristol City",
+      "away": "Wolverhampton Wanderers",
+      "league": "İNCL",
+      "date": "04.11.2026 20:00",
+      "matchCode": "4488845",
+      "odds": 1.17,
+      "patternScore": 69.38,
+      "patternText": "171.472/247.145",
+      "aiScore": 87,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
