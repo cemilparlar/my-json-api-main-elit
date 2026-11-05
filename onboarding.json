@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 20:13",
+  "updatedAt": "05.11.2026 20:20",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 172,
       "rate": 50.6
     },
-    "totalAnalyses": 450336,
+    "totalAnalyses": 450348,
     "leagues": 503,
     "pro": {
       "won": 1045,
@@ -365,18 +365,30 @@
     }
   ],
   "today": {
-    "home": "Cruzeiro EC",
-    "away": "EC Bahia",
-    "league": "BR1",
-    "date": "06.11.2026 00:30",
-    "matchCode": "4423364",
-    "odds": 1.13,
-    "patternScore": 65.15,
-    "patternText": "263.608/404.591",
-    "aiScore": 77,
-    "picks": 5
+    "home": "Indep. Jose Te",
+    "away": "Delfin SC",
+    "league": "EKVK",
+    "date": "06.11.2026 00:00",
+    "matchCode": "4567414",
+    "odds": 1.37,
+    "patternScore": 67.03,
+    "patternText": "220.382/328.767",
+    "aiScore": 56,
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Indep. Jose Te",
+      "away": "Delfin SC",
+      "league": "EKVK",
+      "date": "06.11.2026 00:00",
+      "matchCode": "4567414",
+      "odds": 1.37,
+      "patternScore": 67.03,
+      "patternText": "220.382/328.767",
+      "aiScore": 56,
+      "picks": 1
+    },
     {
       "home": "Cruzeiro EC",
       "away": "EC Bahia",
@@ -414,28 +426,16 @@
       "picks": 1
     },
     {
-      "home": "Al Kahraba",
-      "away": "Zakho FC",
-      "league": "IRAK",
-      "date": "06.11.2026 00:00",
-      "matchCode": "4540923",
-      "odds": 1.08,
-      "patternScore": 69.56,
-      "patternText": "202.833/291.606",
-      "aiScore": 86,
+      "home": "Club Sport Herediano",
+      "away": "Deportivo Saprissa",
+      "league": "KOSTA",
+      "date": "06.11.2026 02:00",
+      "matchCode": "4487107",
+      "odds": 1.09,
+      "patternScore": 70.02,
+      "patternText": "211.256/301.706",
+      "aiScore": 92,
       "picks": 1
-    },
-    {
-      "home": "Canberra",
-      "away": "Sydney United 58 FC",
-      "league": "AVC",
-      "date": "06.11.2026 08:30",
-      "matchCode": "4573630",
-      "odds": 1.25,
-      "patternScore": 67.57,
-      "patternText": "200.525/296.773",
-      "aiScore": 61,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
