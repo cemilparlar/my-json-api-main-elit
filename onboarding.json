@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 10:04",
+  "updatedAt": "05.11.2026 10:12",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 208,
       "rate": 61.5
     },
-    "totalAnalyses": 446729,
+    "totalAnalyses": 446882,
     "leagues": 508,
     "pro": {
       "won": 1024,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1235,
-    "analyses30d": 20302
+    "analyses24h": 1297,
+    "analyses30d": 20364
   },
   "recentWins": [
     {
@@ -359,7 +359,7 @@
     },
     {
       "type": "analysis",
-      "count": 1235
+      "count": 1297
     }
   ],
   "today": {
@@ -371,7 +371,7 @@
     "odds": 1.6,
     "patternScore": 68.11,
     "patternText": "177.172/260.118",
-    "aiScore": 52,
+    "aiScore": 53,
     "picks": 2
   },
   "todayList": [
@@ -384,7 +384,7 @@
       "odds": 1.6,
       "patternScore": 68.11,
       "patternText": "177.172/260.118",
-      "aiScore": 52,
+      "aiScore": 53,
       "picks": 2
     },
     {
@@ -420,7 +420,7 @@
       "odds": 1.1,
       "patternScore": 69.79,
       "patternText": "206.646/296.110",
-      "aiScore": 89,
+      "aiScore": 88,
       "picks": 1
     },
     {
@@ -432,11 +432,18 @@
       "odds": 1.59,
       "patternScore": 66.67,
       "patternText": "137.120/205.671",
-      "aiScore": 53,
+      "aiScore": 54,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SC Paderborn",
+      "away": "Eintracht Frankfurt",
+      "league": "AL1",
+      "at": "05.11.2026 10:04",
+      "count": 15
+    },
     {
       "home": "Borussia Dortmund",
       "away": "SV Elversberg",
@@ -499,13 +506,6 @@
       "league": "İS1",
       "at": "05.11.2026 09:20",
       "count": 5
-    },
-    {
-      "home": "Leeds United",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "05.11.2026 09:14",
-      "count": 6
     }
   ],
   "paywall": {
