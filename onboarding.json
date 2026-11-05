@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 07:37",
+  "updatedAt": "05.11.2026 07:45",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 228,
       "rate": 62.7
     },
-    "totalAnalyses": 445062,
+    "totalAnalyses": 445231,
     "leagues": 508,
     "pro": {
       "won": 1025,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 644,
-    "analyses30d": 19693
+    "analyses24h": 681,
+    "analyses30d": 19734
   },
   "recentWins": [
     {
@@ -347,7 +347,7 @@
     },
     {
       "type": "analysis",
-      "count": 644
+      "count": 681
     }
   ],
   "today": {
@@ -384,7 +384,7 @@
       "odds": 1.11,
       "patternScore": 69.59,
       "patternText": "201.234/289.162",
-      "aiScore": 91,
+      "aiScore": 90,
       "picks": 1
     },
     {
@@ -408,7 +408,7 @@
       "odds": 1.06,
       "patternScore": 72.34,
       "patternText": "157.264/217.400",
-      "aiScore": 98,
+      "aiScore": 97,
       "picks": 1
     },
     {
@@ -425,6 +425,55 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Besiktas",
+      "away": "Genclerbirligi",
+      "league": "TSL",
+      "at": "05.11.2026 07:41",
+      "count": 14
+    },
+    {
+      "home": "Alanyaspor",
+      "away": "Trabzonspor",
+      "league": "TSL",
+      "at": "05.11.2026 07:40",
+      "count": 2
+    },
+    {
+      "home": "Boluspor",
+      "away": "Bodrum FK",
+      "league": "T1L",
+      "at": "05.11.2026 07:40",
+      "count": 3
+    },
+    {
+      "home": "Umraniyespor",
+      "away": "Kayserispor",
+      "league": "T1L",
+      "at": "05.11.2026 07:39",
+      "count": 3
+    },
+    {
+      "home": "Corum FK",
+      "away": "Fenerbahce",
+      "league": "TSL",
+      "at": "05.11.2026 07:39",
+      "count": 7
+    },
+    {
+      "home": "Bandirmaspor",
+      "away": "Fatih Karagumruk",
+      "league": "T1L",
+      "at": "05.11.2026 07:38",
+      "count": 5
+    },
+    {
+      "home": "Rizespor",
+      "away": "Erzurumspor FK",
+      "league": "TSL",
+      "at": "05.11.2026 07:38",
+      "count": 8
+    },
     {
       "home": "Galatasaray",
       "away": "Amed SK",
@@ -445,55 +494,6 @@
       "league": "T1L",
       "at": "05.11.2026 07:35",
       "count": 4
-    },
-    {
-      "home": "Samsunspor",
-      "away": "Konyaspor",
-      "league": "TSL",
-      "at": "05.11.2026 07:34",
-      "count": 4
-    },
-    {
-      "home": "Muglaspor",
-      "away": "Esenler Erokspor",
-      "league": "T1L",
-      "at": "05.11.2026 07:34",
-      "count": 5
-    },
-    {
-      "home": "Van Spor FK",
-      "away": "Sivasspor",
-      "league": "T1L",
-      "at": "05.11.2026 07:34",
-      "count": 4
-    },
-    {
-      "home": "A. Keciorengucu",
-      "away": "Manisa FK",
-      "league": "T1L",
-      "at": "05.11.2026 07:34",
-      "count": 2
-    },
-    {
-      "home": "Eyupspor",
-      "away": "Kocaelispor",
-      "league": "TSL",
-      "at": "05.11.2026 07:33",
-      "count": 5
-    },
-    {
-      "home": "Sariyer",
-      "away": "Igdir FK",
-      "league": "T1L",
-      "at": "05.11.2026 07:28",
-      "count": 4
-    },
-    {
-      "home": "Gaziantep FK",
-      "away": "Kasimpasa",
-      "league": "TSL",
-      "at": "05.11.2026 07:28",
-      "count": 10
     }
   ],
   "paywall": {
