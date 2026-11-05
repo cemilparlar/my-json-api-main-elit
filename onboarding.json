@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 14:39",
+  "updatedAt": "05.11.2026 14:46",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 107,
+      "won": 109,
       "lost": 71,
-      "total": 178,
-      "rate": 60.1
+      "total": 180,
+      "rate": 60.6
     },
-    "totalAnalyses": 449207,
+    "totalAnalyses": 449216,
     "leagues": 504,
     "pro": {
       "won": 1026,
@@ -36,9 +36,9 @@
       "rate": 71.5
     },
     "insights": {
-      "won": 1774,
+      "won": 1775,
       "lost": 758,
-      "total": 2532,
+      "total": 2533,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2384,
-    "analyses30d": 21473
+    "analyses24h": 2383,
+    "analyses30d": 21472
   },
   "recentWins": [
     {
@@ -359,9 +359,9 @@
     },
     {
       "type": "updated",
-      "at": "05.11.2026 13:59",
-      "home": "Real Sociedad",
-      "away": "Olympique Lyonnais"
+      "at": "05.11.2026 14:40",
+      "home": "AC Sparta Prague",
+      "away": "AFC Bournemouth"
     }
   ],
   "today": {
@@ -440,6 +440,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "AGF Aarhus",
+      "away": "SC Braga",
+      "league": "AVKL",
+      "at": "05.11.2026 14:40",
+      "count": 7
+    },
+    {
+      "home": "AC Sparta Prague",
+      "away": "AFC Bournemouth",
+      "league": "AVL",
+      "at": "05.11.2026 14:40",
+      "count": 1
+    },
+    {
+      "home": "AC Milan",
+      "away": "Ferencvaros",
+      "league": "AVL",
+      "at": "05.11.2026 14:40",
+      "count": 3
+    },
+    {
       "home": "Orlando City SC",
       "away": "New England Revolution",
       "league": "ABD",
@@ -487,27 +508,6 @@
       "league": "BEL",
       "at": "05.11.2026 14:27",
       "count": 6
-    },
-    {
-      "home": "Hertha BSC",
-      "away": "VfL Wolfsburg",
-      "league": "AL2",
-      "at": "05.11.2026 14:26",
-      "count": 14
-    },
-    {
-      "home": "Pau FC",
-      "away": "FC Nantes",
-      "league": "FR2",
-      "at": "05.11.2026 14:20",
-      "count": 6
-    },
-    {
-      "home": "AS Saint-Etienne",
-      "away": "Stade Lavalois",
-      "league": "FR2",
-      "at": "05.11.2026 14:20",
-      "count": 14
     }
   ],
   "paywall": {
