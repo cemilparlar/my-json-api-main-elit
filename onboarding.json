@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 00:28",
+  "updatedAt": "05.11.2026 00:35",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 143,
-      "lost": 80,
-      "total": 223,
-      "rate": 64.1
+      "won": 136,
+      "lost": 78,
+      "total": 214,
+      "rate": 63.6
     },
     "totalAnalyses": 444793,
     "leagues": 509,
     "pro": {
-      "won": 1027,
-      "lost": 408,
-      "total": 1435,
+      "won": 1023,
+      "lost": 405,
+      "total": 1428,
       "rate": 71.6
     },
     "insights": {
-      "won": 1775,
-      "lost": 753,
-      "total": 2528,
+      "won": 1765,
+      "lost": 750,
+      "total": 2515,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 72,
       "rate": 68.1
     },
-    "analyses24h": 495,
-    "analyses30d": 19549
+    "analyses24h": 486,
+    "analyses30d": 19535
   },
   "recentWins": [
     {
@@ -335,12 +335,6 @@
     },
     {
       "type": "updated",
-      "at": "04.11.2026 18:29",
-      "home": "RB Leipzig",
-      "away": "Manchester City"
-    },
-    {
-      "type": "updated",
       "at": "04.11.2026 19:26",
       "home": "Viking",
       "away": "FK Sabah"
@@ -362,6 +356,12 @@
       "at": "04.11.2026 21:47",
       "home": "Atletico Paranaense",
       "away": "Club de Regatas Vasco da Gama"
+    },
+    {
+      "type": "updated",
+      "at": "04.11.2026 22:47",
+      "home": "Puntarenas FC",
+      "away": "AD San Carlos"
     }
   ],
   "today": {
