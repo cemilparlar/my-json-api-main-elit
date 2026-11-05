@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 23:26",
+  "updatedAt": "05.11.2026 23:33",
   "config": {
     "pages": [
       "engine",
@@ -23,9 +23,9 @@
     "days": 7,
     "last24h": {
       "won": 170,
-      "lost": 145,
-      "total": 315,
-      "rate": 54.0
+      "lost": 143,
+      "total": 313,
+      "rate": 54.3
     },
     "totalAnalyses": 450388,
     "leagues": 503,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2721,
-    "analyses30d": 21758
+    "analyses24h": 2717,
+    "analyses30d": 21756
   },
   "recentWins": [
     {
@@ -404,18 +404,6 @@
       "picks": 5
     },
     {
-      "home": "FC Mosul",
-      "away": "FC Duhok",
-      "league": "IRAK",
-      "date": "06.11.2026 00:00",
-      "matchCode": "4540925",
-      "odds": 1.1,
-      "patternScore": 69.95,
-      "patternText": "210.302/300.648",
-      "aiScore": 83,
-      "picks": 1
-    },
-    {
       "home": "Club Sport Herediano",
       "away": "Deportivo Saprissa",
       "league": "KOSTA",
@@ -425,18 +413,6 @@
       "patternScore": 70.02,
       "patternText": "211.308/301.792",
       "aiScore": 92,
-      "picks": 1
-    },
-    {
-      "home": "Al Kahraba",
-      "away": "Zakho FC",
-      "league": "IRAK",
-      "date": "06.11.2026 00:00",
-      "matchCode": "4540923",
-      "odds": 1.08,
-      "patternScore": 69.55,
-      "patternText": "202.889/291.696",
-      "aiScore": 86,
       "picks": 1
     },
     {
@@ -450,6 +426,30 @@
       "patternText": "200.591/296.889",
       "aiScore": 61,
       "picks": 2
+    },
+    {
+      "home": "Gaziantep FK",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "date": "06.11.2026 17:00",
+      "matchCode": "4542743",
+      "odds": 1.67,
+      "patternScore": 66.71,
+      "patternText": "236.523/354.554",
+      "aiScore": 54,
+      "picks": 8
+    },
+    {
+      "home": "Vejle BK",
+      "away": "FC Fredericia",
+      "league": "DAN1",
+      "date": "06.11.2026 17:00",
+      "matchCode": "4476299",
+      "odds": 1.28,
+      "patternScore": 68.22,
+      "patternText": "222.172/325.664",
+      "aiScore": 69,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
