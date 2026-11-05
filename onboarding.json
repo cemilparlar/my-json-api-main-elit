@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 00:56",
+  "updatedAt": "05.11.2026 01:03",
   "config": {
     "pages": [
       "engine",
@@ -22,9 +22,9 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 140,
-      "lost": 78,
-      "total": 218,
+      "won": 138,
+      "lost": 77,
+      "total": 215,
       "rate": 64.2
     },
     "totalAnalyses": 444811,
@@ -47,8 +47,8 @@
       "total": 72,
       "rate": 68.1
     },
-    "analyses24h": 486,
-    "analyses30d": 19535
+    "analyses24h": 483,
+    "analyses30d": 19533
   },
   "recentWins": [
     {
@@ -365,18 +365,42 @@
     }
   ],
   "today": {
-    "home": "Sydney Olympic FC",
-    "away": "Oakleigh Cannons",
-    "league": "AVC",
-    "date": "05.11.2026 08:30",
-    "matchCode": "4573654",
-    "odds": 1.06,
-    "patternScore": 72.34,
-    "patternText": "157.220/217.328",
-    "aiScore": 98,
+    "home": "Shams Azar Qaz",
+    "away": "Sanat Naft",
+    "league": "IRAN",
+    "date": "05.11.2026 13:00",
+    "matchCode": "4571543",
+    "odds": 1.15,
+    "patternScore": 70.05,
+    "patternText": "247.996/354.008",
+    "aiScore": 78,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "Shams Azar Qaz",
+      "away": "Sanat Naft",
+      "league": "IRAN",
+      "date": "05.11.2026 13:00",
+      "matchCode": "4571543",
+      "odds": 1.15,
+      "patternScore": 70.05,
+      "patternText": "247.996/354.008",
+      "aiScore": 78,
+      "picks": 1
+    },
+    {
+      "home": "Marines",
+      "away": "Police Fc",
+      "league": "RUA",
+      "date": "05.11.2026 13:00",
+      "matchCode": "4556512",
+      "odds": 1.1,
+      "patternScore": 70.5,
+      "patternText": "127.386/180.692",
+      "aiScore": 98,
+      "picks": 1
+    },
     {
       "home": "Sydney Olympic FC",
       "away": "Oakleigh Cannons",
@@ -412,30 +436,6 @@
       "patternText": "130.413/193.561",
       "aiScore": 54,
       "picks": 9
-    },
-    {
-      "home": "FC Thun",
-      "away": "Heart of Midlothian",
-      "league": "AVKL",
-      "date": "05.11.2026 17:45",
-      "matchCode": "4578035",
-      "odds": 1.42,
-      "patternScore": 68.05,
-      "patternText": "211.895/311.370",
-      "aiScore": 57,
-      "picks": 3
-    },
-    {
-      "home": "AC Sparta Prague",
-      "away": "AFC Bournemouth",
-      "league": "AVL",
-      "date": "05.11.2026 17:45",
-      "matchCode": "4549613",
-      "odds": 1.32,
-      "patternScore": 66.54,
-      "patternText": "133.683/200.898",
-      "aiScore": 60,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
