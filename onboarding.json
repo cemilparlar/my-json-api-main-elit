@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 03:29",
+  "updatedAt": "05.11.2026 03:36",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 230,
       "rate": 63.0
     },
-    "totalAnalyses": 444831,
+    "totalAnalyses": 444843,
     "leagues": 508,
     "pro": {
       "won": 1025,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 483,
-    "analyses30d": 19529
+    "analyses24h": 495,
+    "analyses30d": 19541
   },
   "recentWins": [
     {
@@ -353,7 +353,7 @@
     },
     {
       "type": "analysis",
-      "count": 483
+      "count": 495
     }
   ],
   "today": {
@@ -432,6 +432,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "SL Benfica",
+      "away": "Lech Poznan",
+      "league": "AVL",
+      "at": "05.11.2026 03:35",
+      "count": 12
+    },
+    {
       "home": "Sao Paulo FC",
       "away": "SC Corinthians",
       "league": "BR1",
@@ -493,13 +500,6 @@
       "league": "ŞMP",
       "at": "04.11.2026 18:29",
       "count": 16
-    },
-    {
-      "home": "FC Porto",
-      "away": "SSC Napoli",
-      "league": "ŞMP",
-      "at": "04.11.2026 18:13",
-      "count": 7
     }
   ],
   "paywall": {
