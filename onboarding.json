@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 16:55",
+  "updatedAt": "05.11.2026 17:02",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 107,
-      "lost": 76,
-      "total": 183,
-      "rate": 58.5
+      "won": 106,
+      "lost": 74,
+      "total": 180,
+      "rate": 58.9
     },
-    "totalAnalyses": 450050,
-    "leagues": 504,
+    "totalAnalyses": 450090,
+    "leagues": 503,
     "pro": {
-      "won": 1033,
-      "lost": 415,
-      "total": 1448,
-      "rate": 71.3
+      "won": 1032,
+      "lost": 414,
+      "total": 1446,
+      "rate": 71.4
     },
     "insights": {
-      "won": 1781,
-      "lost": 764,
-      "total": 2545,
+      "won": 1778,
+      "lost": 762,
+      "total": 2540,
       "rate": 70.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2818,
-    "analyses30d": 21891
+    "analyses24h": 2792,
+    "analyses30d": 21854
   },
   "recentWins": [
     {
@@ -318,20 +318,20 @@
     {
       "type": "coupon",
       "size": 5,
-      "odds": 1.54,
-      "at": "05.11.2026 16:08"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.54,
-      "at": "05.11.2026 15:03"
+      "odds": 1.51,
+      "at": "05.11.2026 17:02"
     },
     {
       "type": "coupon",
       "size": 4,
-      "odds": 1.53,
-      "at": "05.11.2026 15:03"
+      "odds": 1.52,
+      "at": "05.11.2026 17:02"
+    },
+    {
+      "type": "coupon",
+      "size": 4,
+      "odds": 1.52,
+      "at": "05.11.2026 17:02"
     },
     {
       "type": "updated",
@@ -341,25 +341,25 @@
     },
     {
       "type": "updated",
-      "at": "05.11.2026 16:39",
+      "at": "05.11.2026 17:00",
       "home": "PFC Levski Sofia",
       "away": "Jagiellonia Bialystok"
     },
     {
       "type": "updated",
-      "at": "05.11.2026 12:35",
+      "at": "05.11.2026 17:01",
       "home": "Mjallby AIF",
       "away": "FK Borac Banja Luka"
     },
     {
       "type": "updated",
-      "at": "05.11.2026 15:19",
+      "at": "05.11.2026 17:02",
       "home": "FC Midtjylland",
       "away": "Ajax"
     },
     {
       "type": "updated",
-      "at": "05.11.2026 16:02",
+      "at": "05.11.2026 17:00",
       "home": "FC Thun",
       "away": "Heart of Midlothian"
     }
@@ -440,6 +440,62 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "FC Midtjylland",
+      "away": "Ajax",
+      "league": "AVKL",
+      "at": "05.11.2026 17:02",
+      "count": 9
+    },
+    {
+      "home": "Mjallby AIF",
+      "away": "FK Borac Banja Luka",
+      "league": "AVKL",
+      "at": "05.11.2026 17:01",
+      "count": 6
+    },
+    {
+      "home": "Kuopion",
+      "away": "KAA Gent",
+      "league": "AVKL",
+      "at": "05.11.2026 17:01",
+      "count": 9
+    },
+    {
+      "home": "AC Milan",
+      "away": "Ferencvaros",
+      "league": "AVL",
+      "at": "05.11.2026 17:01",
+      "count": 3
+    },
+    {
+      "home": "PFC Levski Sofia",
+      "away": "Jagiellonia Bialystok",
+      "league": "AVL",
+      "at": "05.11.2026 17:00",
+      "count": 5
+    },
+    {
+      "home": "FC Thun",
+      "away": "Heart of Midlothian",
+      "league": "AVKL",
+      "at": "05.11.2026 17:00",
+      "count": 7
+    },
+    {
+      "home": "RSC Anderlecht",
+      "away": "Red Bull Salzburg",
+      "league": "AVL",
+      "at": "05.11.2026 17:00",
+      "count": 9
+    },
+    {
+      "home": "AGF Aarhus",
+      "away": "SC Braga",
+      "league": "AVKL",
+      "at": "05.11.2026 16:59",
+      "count": 7
+    },
+    {
       "home": "AS Monaco",
       "away": "FC Nordsjaelland",
       "league": "AVKL",
@@ -447,67 +503,11 @@
       "count": 7
     },
     {
-      "home": "PFC Levski Sofia",
-      "away": "Jagiellonia Bialystok",
-      "league": "AVL",
-      "at": "05.11.2026 16:39",
-      "count": 8
-    },
-    {
-      "home": "Kuopion",
-      "away": "KAA Gent",
-      "league": "AVKL",
-      "at": "05.11.2026 16:39",
-      "count": 11
-    },
-    {
-      "home": "AC Milan",
-      "away": "Ferencvaros",
-      "league": "AVL",
-      "at": "05.11.2026 16:39",
-      "count": 15
-    },
-    {
       "home": "Getafe CF",
       "away": "Brighton & Hove Albion",
       "league": "AVKL",
       "at": "05.11.2026 16:21",
       "count": 6
-    },
-    {
-      "home": "Hapoel Beer Sh",
-      "away": "Ofi",
-      "league": "AVL",
-      "at": "05.11.2026 16:20",
-      "count": 8
-    },
-    {
-      "home": "Sunderland",
-      "away": "Dinamo Zagreb",
-      "league": "AVL",
-      "at": "05.11.2026 16:20",
-      "count": 5
-    },
-    {
-      "home": "Torreense",
-      "away": "Ararat-Armenia",
-      "league": "AVL",
-      "at": "05.11.2026 16:03",
-      "count": 4
-    },
-    {
-      "home": "FC Thun",
-      "away": "Heart of Midlothian",
-      "league": "AVKL",
-      "at": "05.11.2026 16:02",
-      "count": 7
-    },
-    {
-      "home": "Crystal Palace",
-      "away": "TSG Hoffenheim",
-      "league": "AVL",
-      "at": "05.11.2026 16:02",
-      "count": 13
     }
   ],
   "paywall": {
