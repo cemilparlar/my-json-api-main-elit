@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 15:11",
+  "updatedAt": "05.11.2026 15:19",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 196,
       "rate": 58.2
     },
-    "totalAnalyses": 449508,
+    "totalAnalyses": 449520,
     "leagues": 504,
     "pro": {
       "won": 1031,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2501,
-    "analyses30d": 21589
+    "analyses24h": 2508,
+    "analyses30d": 21596
   },
   "recentWins": [
     {
@@ -440,6 +440,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "AC Milan",
+      "away": "Ferencvaros",
+      "league": "AVL",
+      "at": "05.11.2026 15:19",
+      "count": 6
+    },
+    {
+      "home": "AC Sparta Prague",
+      "away": "AFC Bournemouth",
+      "league": "AVL",
+      "at": "05.11.2026 15:18",
+      "count": 7
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Olympique Lyonnais",
+      "league": "AVL",
+      "at": "05.11.2026 15:18",
+      "count": 8
+    },
+    {
       "home": "Chicago Fire",
       "away": "Columbus Crew",
       "league": "ABD",
@@ -487,27 +508,6 @@
       "league": "AVL",
       "at": "05.11.2026 14:51",
       "count": 6
-    },
-    {
-      "home": "Torreense",
-      "away": "Ararat-Armenia",
-      "league": "AVL",
-      "at": "05.11.2026 14:50",
-      "count": 4
-    },
-    {
-      "home": "AS Monaco",
-      "away": "FC Nordsjaelland",
-      "league": "AVKL",
-      "at": "05.11.2026 14:50",
-      "count": 11
-    },
-    {
-      "home": "Panathinaikos",
-      "away": "CSKA Sofia",
-      "league": "AVKL",
-      "at": "05.11.2026 14:50",
-      "count": 13
     }
   ],
   "paywall": {
