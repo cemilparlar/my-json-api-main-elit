@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 08:53",
+  "updatedAt": "05.11.2026 09:01",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 224,
       "rate": 62.5
     },
-    "totalAnalyses": 446036,
+    "totalAnalyses": 446100,
     "leagues": 508,
     "pro": {
       "won": 1024,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 911,
-    "analyses30d": 19964
+    "analyses24h": 975,
+    "analyses30d": 20026
   },
   "recentWins": [
     {
@@ -347,7 +347,7 @@
     },
     {
       "type": "analysis",
-      "count": 911
+      "count": 975
     }
   ],
   "today": {
@@ -426,6 +426,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "FC Famalicao",
+      "away": "FC Arouca",
+      "league": "POR",
+      "at": "05.11.2026 08:59",
+      "count": 6
+    },
+    {
       "home": "Vitoria Bahia",
       "away": "Fluminense FC",
       "league": "BR1",
@@ -487,13 +494,6 @@
       "league": "İTB",
       "at": "05.11.2026 07:59",
       "count": 6
-    },
-    {
-      "home": "Castellon",
-      "away": "Eibar",
-      "league": "İS2",
-      "at": "05.11.2026 07:58",
-      "count": 4
     }
   ],
   "paywall": {
