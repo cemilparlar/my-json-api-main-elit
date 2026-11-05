@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 12:11",
+  "updatedAt": "05.11.2026 12:19",
   "config": {
     "pages": [
       "engine",
@@ -23,22 +23,22 @@
     "days": 7,
     "last24h": {
       "won": 120,
-      "lost": 77,
-      "total": 197,
-      "rate": 60.9
+      "lost": 75,
+      "total": 195,
+      "rate": 61.5
     },
-    "totalAnalyses": 447738,
+    "totalAnalyses": 447902,
     "leagues": 507,
     "pro": {
-      "won": 1027,
+      "won": 1026,
       "lost": 407,
-      "total": 1434,
+      "total": 1433,
       "rate": 71.6
     },
     "insights": {
-      "won": 1774,
+      "won": 1772,
       "lost": 756,
-      "total": 2530,
+      "total": 2528,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1743,
-    "analyses30d": 20812
+    "analyses24h": 1752,
+    "analyses30d": 20823
   },
   "recentWins": [
     {
@@ -317,6 +317,24 @@
     },
     {
       "type": "updated",
+      "at": "05.11.2026 12:18",
+      "home": "Trabzonspor",
+      "away": "SC Freiburg"
+    },
+    {
+      "type": "updated",
+      "at": "05.11.2026 12:19",
+      "home": "Real Sociedad",
+      "away": "Olympique Lyonnais"
+    },
+    {
+      "type": "updated",
+      "at": "05.11.2026 12:19",
+      "home": "Lincoln Red Im",
+      "away": "Hajduk Split"
+    },
+    {
+      "type": "updated",
       "at": "05.11.2026 08:33",
       "home": "Al Markhiya",
       "away": "Al Waab"
@@ -329,31 +347,21 @@
     },
     {
       "type": "updated",
-      "at": "05.11.2026 09:39",
+      "at": "05.11.2026 12:17",
       "home": "Shams Azar Qaz",
       "away": "Sanat Naft"
     },
     {
-      "type": "kickoff",
-      "home": "Pkr Svay Rieng",
-      "away": "Tampines Rovers",
-      "at": "05.11.2026 12:15"
-    },
-    {
-      "type": "kickoff",
-      "home": "Kuching FA",
-      "away": "Gangwon FC",
-      "at": "05.11.2026 12:15"
+      "type": "updated",
+      "at": "05.11.2026 12:18",
+      "home": "Hay Al-Amir Ha",
+      "away": "Al Sareeh"
     },
     {
       "type": "kickoff",
       "home": "Shams Azar Qaz",
       "away": "Sanat Naft",
       "at": "05.11.2026 13:00"
-    },
-    {
-      "type": "analysis",
-      "count": 1743
     }
   ],
   "today": {
@@ -432,6 +440,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Real Sociedad",
+      "away": "Olympique Lyonnais",
+      "league": "AVL",
+      "at": "05.11.2026 12:19",
+      "count": 2
+    },
+    {
+      "home": "Lincoln Red Im",
+      "away": "Hajduk Split",
+      "league": "AVKL",
+      "at": "05.11.2026 12:19",
+      "count": 16
+    },
+    {
+      "home": "Trabzonspor",
+      "away": "SC Freiburg",
+      "league": "AVKL",
+      "at": "05.11.2026 12:18",
+      "count": 8
+    },
+    {
       "home": "Elche CF",
       "away": "Real Betis",
       "league": "İS1",
@@ -479,27 +508,6 @@
       "league": "ABD",
       "at": "05.11.2026 11:43",
       "count": 8
-    },
-    {
-      "home": "Seattle Sounders",
-      "away": "Los Angeles FC",
-      "league": "ABD",
-      "at": "05.11.2026 11:16",
-      "count": 6
-    },
-    {
-      "home": "CA Osasuna",
-      "away": "Athletic Bilbao",
-      "league": "İS1",
-      "at": "05.11.2026 11:13",
-      "count": 6
-    },
-    {
-      "home": "CD Leganes",
-      "away": "Albacete Balompie",
-      "league": "İS2",
-      "at": "05.11.2026 11:13",
-      "count": 5
     }
   ],
   "paywall": {
