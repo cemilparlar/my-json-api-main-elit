@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 16:39",
+  "updatedAt": "05.11.2026 16:47",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 183,
       "rate": 58.5
     },
-    "totalAnalyses": 449990,
+    "totalAnalyses": 450050,
     "leagues": 504,
     "pro": {
       "won": 1033,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2814,
-    "analyses30d": 21887
+    "analyses24h": 2821,
+    "analyses30d": 21894
   },
   "recentWins": [
     {
@@ -422,7 +422,7 @@
       "odds": 1.37,
       "patternScore": 66.36,
       "patternText": "114.977/173.250",
-      "aiScore": 57,
+      "aiScore": 56,
       "picks": 3
     },
     {
@@ -440,6 +440,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "AS Monaco",
+      "away": "FC Nordsjaelland",
+      "league": "AVKL",
+      "at": "05.11.2026 16:40",
+      "count": 7
+    },
+    {
       "home": "PFC Levski Sofia",
       "away": "Jagiellonia Bialystok",
       "league": "AVL",
@@ -454,18 +461,18 @@
       "count": 11
     },
     {
+      "home": "AC Milan",
+      "away": "Ferencvaros",
+      "league": "AVL",
+      "at": "05.11.2026 16:39",
+      "count": 15
+    },
+    {
       "home": "Getafe CF",
       "away": "Brighton & Hove Albion",
       "league": "AVKL",
       "at": "05.11.2026 16:21",
       "count": 6
-    },
-    {
-      "home": "AC Milan",
-      "away": "Ferencvaros",
-      "league": "AVL",
-      "at": "05.11.2026 16:20",
-      "count": 10
     },
     {
       "home": "Hapoel Beer Sh",
@@ -480,13 +487,6 @@
       "league": "AVL",
       "at": "05.11.2026 16:20",
       "count": 5
-    },
-    {
-      "home": "AS Monaco",
-      "away": "FC Nordsjaelland",
-      "league": "AVKL",
-      "at": "05.11.2026 16:04",
-      "count": 14
     },
     {
       "home": "Torreense",
