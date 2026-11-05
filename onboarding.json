@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 16:08",
+  "updatedAt": "05.11.2026 16:16",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 106,
-      "lost": 76,
-      "total": 182,
+      "won": 107,
+      "lost": 77,
+      "total": 184,
       "rate": 58.2
     },
-    "totalAnalyses": 449890,
+    "totalAnalyses": 449906,
     "leagues": 504,
     "pro": {
       "won": 1033,
@@ -48,7 +48,7 @@
       "rate": 67.1
     },
     "analyses24h": 2747,
-    "analyses30d": 21827
+    "analyses30d": 21823
   },
   "recentWins": [
     {
@@ -365,30 +365,18 @@
     }
   ],
   "today": {
-    "home": "Sunderland",
-    "away": "Dinamo Zagreb",
+    "home": "Lillestrom SK",
+    "away": "FC Viktoria Plzen",
     "league": "AVL",
-    "date": "05.11.2026 20:00",
-    "matchCode": "4549622",
-    "odds": 1.67,
-    "patternScore": 67.38,
-    "patternText": "189.153/280.737",
-    "aiScore": 54,
-    "picks": 4
+    "date": "05.11.2026 17:45",
+    "matchCode": "4549610",
+    "odds": 1.43,
+    "patternScore": 67.37,
+    "patternText": "130.505/193.717",
+    "aiScore": 56,
+    "picks": 9
   },
   "todayList": [
-    {
-      "home": "Sunderland",
-      "away": "Dinamo Zagreb",
-      "league": "AVL",
-      "date": "05.11.2026 20:00",
-      "matchCode": "4549622",
-      "odds": 1.67,
-      "patternScore": 67.38,
-      "patternText": "189.153/280.737",
-      "aiScore": 54,
-      "picks": 4
-    },
     {
       "home": "Lillestrom SK",
       "away": "FC Viktoria Plzen",
@@ -414,18 +402,6 @@
       "picks": 2
     },
     {
-      "home": "Torreense",
-      "away": "Ararat-Armenia",
-      "league": "AVL",
-      "date": "05.11.2026 20:00",
-      "matchCode": "4549615",
-      "odds": 1.41,
-      "patternScore": 68.43,
-      "patternText": "180.404/263.643",
-      "aiScore": 59,
-      "picks": 1
-    },
-    {
       "home": "NEC Nijmegen",
       "away": "Omonia",
       "league": "AVL",
@@ -436,6 +412,30 @@
       "patternText": "151.412/225.789",
       "aiScore": 60,
       "picks": 3
+    },
+    {
+      "home": "AGF Aarhus",
+      "away": "SC Braga",
+      "league": "AVKL",
+      "date": "05.11.2026 17:45",
+      "matchCode": "4578038",
+      "odds": 1.28,
+      "patternScore": 66.31,
+      "patternText": "147.749/222.801",
+      "aiScore": 63,
+      "picks": 4
+    },
+    {
+      "home": "Riga Fc",
+      "away": "FK Jablonec",
+      "league": "AVKL",
+      "date": "05.11.2026 20:00",
+      "matchCode": "4578042",
+      "odds": 1.26,
+      "patternScore": 69.39,
+      "patternText": "119.657/172.440",
+      "aiScore": 71,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
