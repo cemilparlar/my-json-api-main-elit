@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 18:30",
+  "updatedAt": "05.11.2026 18:38",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 172,
       "rate": 58.7
     },
-    "totalAnalyses": 450205,
+    "totalAnalyses": 450231,
     "leagues": 503,
     "pro": {
       "won": 1026,
@@ -36,9 +36,9 @@
       "rate": 71.4
     },
     "insights": {
-      "won": 1767,
+      "won": 1766,
       "lost": 757,
-      "total": 2524,
+      "total": 2523,
       "rate": 70.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2807,
-    "analyses30d": 21878
+    "analyses24h": 2824,
+    "analyses30d": 21895
   },
   "recentWins": [
     {
@@ -372,7 +372,7 @@
     "matchCode": "4578047",
     "odds": 1.64,
     "patternScore": 67.33,
-    "patternText": "189.162/280.962",
+    "patternText": "189.170/280.972",
     "aiScore": 55,
     "picks": 2
   },
@@ -385,7 +385,7 @@
       "matchCode": "4578047",
       "odds": 1.64,
       "patternScore": 67.33,
-      "patternText": "189.162/280.962",
+      "patternText": "189.170/280.972",
       "aiScore": 55,
       "picks": 2
     },
@@ -397,7 +397,7 @@
       "matchCode": "4549621",
       "odds": 1.4,
       "patternScore": 66.81,
-      "patternText": "115.769/173.291",
+      "patternText": "115.777/173.301",
       "aiScore": 60,
       "picks": 3
     },
@@ -409,7 +409,7 @@
       "matchCode": "4578045",
       "odds": 1.37,
       "patternScore": 66.37,
-      "patternText": "114.979/173.252",
+      "patternText": "114.991/173.266",
       "aiScore": 56,
       "picks": 3
     },
@@ -421,7 +421,7 @@
       "matchCode": "4578042",
       "odds": 1.26,
       "patternScore": 69.39,
-      "patternText": "119.671/172.460",
+      "patternText": "119.679/172.470",
       "aiScore": 71,
       "picks": 2
     },
@@ -433,12 +433,19 @@
       "matchCode": "4549619",
       "odds": 1.25,
       "patternScore": 68.11,
-      "patternText": "107.577/157.938",
-      "aiScore": 66,
+      "patternText": "107.589/157.952",
+      "aiScore": 67,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Cruzeiro EC",
+      "away": "EC Bahia",
+      "league": "BR1",
+      "at": "05.11.2026 18:36",
+      "count": 9
+    },
     {
       "home": "Panathinaikos",
       "away": "CSKA Sofia",
@@ -501,13 +508,6 @@
       "league": "AVKL",
       "at": "05.11.2026 17:01",
       "count": 9
-    },
-    {
-      "home": "AC Milan",
-      "away": "Ferencvaros",
-      "league": "AVL",
-      "at": "05.11.2026 17:01",
-      "count": 3
     }
   ],
   "paywall": {
