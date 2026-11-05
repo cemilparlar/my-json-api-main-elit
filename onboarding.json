@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 05:28",
+  "updatedAt": "05.11.2026 05:35",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 228,
       "rate": 62.7
     },
-    "totalAnalyses": 444884,
+    "totalAnalyses": 444885,
     "leagues": 508,
     "pro": {
       "won": 1025,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 495,
-    "analyses30d": 19544
+    "analyses24h": 496,
+    "analyses30d": 19545
   },
   "recentWins": [
     {
@@ -334,8 +334,14 @@
       "away": "Phnom Penh Crow"
     },
     {
+      "type": "kickoff",
+      "home": "Sydney Olympic FC",
+      "away": "Oakleigh Cannons",
+      "at": "05.11.2026 08:30"
+    },
+    {
       "type": "analysis",
-      "count": 495
+      "count": 496
     }
   ],
   "today": {
