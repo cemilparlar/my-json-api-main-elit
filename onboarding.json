@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 02:27",
+  "updatedAt": "05.11.2026 02:34",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 141,
-      "lost": 81,
-      "total": 222,
-      "rate": 63.5
+      "won": 143,
+      "lost": 83,
+      "total": 226,
+      "rate": 63.3
     },
     "totalAnalyses": 444829,
     "leagues": 508,
     "pro": {
-      "won": 1026,
+      "won": 1027,
       "lost": 408,
-      "total": 1434,
-      "rate": 71.5
+      "total": 1435,
+      "rate": 71.6
     },
     "insights": {
-      "won": 1770,
-      "lost": 754,
-      "total": 2524,
+      "won": 1772,
+      "lost": 755,
+      "total": 2527,
       "rate": 70.1
     },
     "coupons": {
@@ -357,18 +357,30 @@
     }
   ],
   "today": {
-    "home": "Al Markhiya",
-    "away": "Al Waab",
-    "league": "KATQ",
-    "date": "05.11.2026 14:15",
-    "matchCode": "4536797",
-    "odds": 1.21,
-    "patternScore": 68.24,
-    "patternText": "209.657/307.225",
-    "aiScore": 67,
+    "home": "Sydney Olympic FC",
+    "away": "Oakleigh Cannons",
+    "league": "AVC",
+    "date": "05.11.2026 08:30",
+    "matchCode": "4573654",
+    "odds": 1.06,
+    "patternScore": 72.34,
+    "patternText": "157.234/217.354",
+    "aiScore": 98,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "Sydney Olympic FC",
+      "away": "Oakleigh Cannons",
+      "league": "AVC",
+      "date": "05.11.2026 08:30",
+      "matchCode": "4573654",
+      "odds": 1.06,
+      "patternScore": 72.34,
+      "patternText": "157.234/217.354",
+      "aiScore": 98,
+      "picks": 1
+    },
     {
       "home": "Al Markhiya",
       "away": "Al Waab",
@@ -414,18 +426,6 @@
       "odds": 1.1,
       "patternScore": 70.49,
       "patternText": "127.392/180.714",
-      "aiScore": 98,
-      "picks": 1
-    },
-    {
-      "home": "Sydney Olympic FC",
-      "away": "Oakleigh Cannons",
-      "league": "AVC",
-      "date": "05.11.2026 08:30",
-      "matchCode": "4573654",
-      "odds": 1.06,
-      "patternScore": 72.34,
-      "patternText": "157.234/217.354",
       "aiScore": 98,
       "picks": 1
     }
