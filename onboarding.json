@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 09:18",
+  "updatedAt": "05.11.2026 09:25",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 224,
       "rate": 62.5
     },
-    "totalAnalyses": 446462,
+    "totalAnalyses": 446507,
     "leagues": 508,
     "pro": {
       "won": 1024,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1069,
-    "analyses30d": 20120
+    "analyses24h": 1111,
+    "analyses30d": 20162
   },
   "recentWins": [
     {
@@ -347,7 +347,7 @@
     },
     {
       "type": "analysis",
-      "count": 1069
+      "count": 1111
     }
   ],
   "today": {
@@ -408,7 +408,7 @@
       "odds": 1.11,
       "patternScore": 69.59,
       "patternText": "201.234/289.162",
-      "aiScore": 91,
+      "aiScore": 92,
       "picks": 1
     },
     {
@@ -425,6 +425,27 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Clermont Foot",
+      "away": "Rodez AF",
+      "league": "FR2",
+      "at": "05.11.2026 09:22",
+      "count": 3
+    },
+    {
+      "home": "Burgos CF",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "at": "05.11.2026 09:21",
+      "count": 5
+    },
+    {
+      "home": "Malaga CF",
+      "away": "Racing Santander",
+      "league": "İS1",
+      "at": "05.11.2026 09:20",
+      "count": 5
+    },
     {
       "home": "Leeds United",
       "away": "Tottenham Hotspur",
@@ -473,27 +494,6 @@
       "league": "AL2",
       "at": "05.11.2026 09:07",
       "count": 6
-    },
-    {
-      "home": "FK Fakel Voronezh",
-      "away": "Dinamo Moscow",
-      "league": "RUS",
-      "at": "05.11.2026 09:06",
-      "count": 2
-    },
-    {
-      "home": "FC Famalicao",
-      "away": "FC Arouca",
-      "league": "POR",
-      "at": "05.11.2026 08:59",
-      "count": 6
-    },
-    {
-      "home": "Vitoria Bahia",
-      "away": "Fluminense FC",
-      "league": "BR1",
-      "at": "05.11.2026 08:10",
-      "count": 4
     }
   ],
   "paywall": {
