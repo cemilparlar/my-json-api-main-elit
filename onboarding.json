@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 15:43",
+  "updatedAt": "05.11.2026 15:51",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 192,
       "rate": 58.9
     },
-    "totalAnalyses": 449712,
+    "totalAnalyses": 449761,
     "leagues": 504,
     "pro": {
       "won": 1033,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2642,
-    "analyses30d": 21736
+    "analyses24h": 2687,
+    "analyses30d": 21781
   },
   "recentWins": [
     {
@@ -402,18 +402,6 @@
       "picks": 9
     },
     {
-      "home": "NEC Nijmegen",
-      "away": "Omonia",
-      "league": "AVL",
-      "date": "05.11.2026 17:45",
-      "matchCode": "4549617",
-      "odds": 1.42,
-      "patternScore": 66.58,
-      "patternText": "218.135/327.634",
-      "aiScore": 56,
-      "picks": 3
-    },
-    {
       "home": "Trabzonspor",
       "away": "SC Freiburg",
       "league": "AVKL",
@@ -436,9 +424,28 @@
       "patternText": "180.404/263.643",
       "aiScore": 59,
       "picks": 1
+    },
+    {
+      "home": "NEC Nijmegen",
+      "away": "Omonia",
+      "league": "AVL",
+      "date": "05.11.2026 17:45",
+      "matchCode": "4549617",
+      "odds": 1.37,
+      "patternScore": 67.06,
+      "patternText": "151.412/225.789",
+      "aiScore": 60,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Valencia CF",
+      "away": "Real Madrid",
+      "league": "İS1",
+      "at": "05.11.2026 15:50",
+      "count": 14
+    },
     {
       "home": "Crystal Palace",
       "away": "TSG Hoffenheim",
@@ -501,13 +508,6 @@
       "league": "AVL",
       "at": "05.11.2026 15:20",
       "count": 8
-    },
-    {
-      "home": "FC Midtjylland",
-      "away": "Ajax",
-      "league": "AVKL",
-      "at": "05.11.2026 15:19",
-      "count": 18
     }
   ],
   "paywall": {
