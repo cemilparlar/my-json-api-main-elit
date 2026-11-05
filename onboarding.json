@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 11:38",
+  "updatedAt": "05.11.2026 11:46",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 212,
       "rate": 61.8
     },
-    "totalAnalyses": 447398,
+    "totalAnalyses": 447452,
     "leagues": 507,
     "pro": {
       "won": 1025,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1527,
-    "analyses30d": 20578
+    "analyses24h": 1581,
+    "analyses30d": 20632
   },
   "recentWins": [
     {
@@ -347,46 +347,22 @@
     },
     {
       "type": "analysis",
-      "count": 1527
+      "count": 1581
     }
   ],
   "today": {
-    "home": "Al Markhiya",
-    "away": "Al Waab",
-    "league": "KATQ",
-    "date": "05.11.2026 14:15",
-    "matchCode": "4536797",
-    "odds": 1.34,
-    "patternScore": 68.33,
-    "patternText": "125.972/184.371",
-    "aiScore": 58,
+    "home": "NEC Nijmegen",
+    "away": "Omonia",
+    "league": "AVL",
+    "date": "05.11.2026 17:45",
+    "matchCode": "4549617",
+    "odds": 1.59,
+    "patternScore": 66.67,
+    "patternText": "137.138/205.691",
+    "aiScore": 53,
     "picks": 1
   },
   "todayList": [
-    {
-      "home": "Al Markhiya",
-      "away": "Al Waab",
-      "league": "KATQ",
-      "date": "05.11.2026 14:15",
-      "matchCode": "4536797",
-      "odds": 1.34,
-      "patternScore": 68.33,
-      "patternText": "125.972/184.371",
-      "aiScore": 58,
-      "picks": 1
-    },
-    {
-      "home": "Shams Azar Qaz",
-      "away": "Sanat Naft",
-      "league": "IRAN",
-      "date": "05.11.2026 13:00",
-      "matchCode": "4571543",
-      "odds": 1.1,
-      "patternScore": 69.79,
-      "patternText": "206.652/296.122",
-      "aiScore": 88,
-      "picks": 1
-    },
     {
       "home": "NEC Nijmegen",
       "away": "Omonia",
@@ -400,18 +376,6 @@
       "picks": 1
     },
     {
-      "home": "Panathinaikos",
-      "away": "CSKA Sofia",
-      "league": "AVKL",
-      "date": "05.11.2026 20:00",
-      "matchCode": "4578048",
-      "odds": 1.55,
-      "patternScore": 68.05,
-      "patternText": "183.664/269.897",
-      "aiScore": 53,
-      "picks": 3
-    },
-    {
       "home": "Lillestrom SK",
       "away": "FC Viktoria Plzen",
       "league": "AVL",
@@ -422,9 +386,59 @@
       "patternText": "130.467/193.649",
       "aiScore": 54,
       "picks": 9
+    },
+    {
+      "home": "FC Thun",
+      "away": "Heart of Midlothian",
+      "league": "AVKL",
+      "date": "05.11.2026 17:45",
+      "matchCode": "4578035",
+      "odds": 1.42,
+      "patternScore": 68.05,
+      "patternText": "211.953/311.478",
+      "aiScore": 56,
+      "picks": 3
+    },
+    {
+      "home": "Al Markhiya",
+      "away": "Al Waab",
+      "league": "KATQ",
+      "date": "05.11.2026 14:15",
+      "matchCode": "4536797",
+      "odds": 1.34,
+      "patternScore": 68.33,
+      "patternText": "125.972/184.371",
+      "aiScore": 58,
+      "picks": 1
+    },
+    {
+      "home": "AC Sparta Prague",
+      "away": "AFC Bournemouth",
+      "league": "AVL",
+      "date": "05.11.2026 17:45",
+      "matchCode": "4549613",
+      "odds": 1.32,
+      "patternScore": 66.54,
+      "patternText": "133.737/200.990",
+      "aiScore": 58,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Salt Lake",
+      "away": "LA Galaxy",
+      "league": "ABD",
+      "at": "05.11.2026 11:43",
+      "count": 14
+    },
+    {
+      "home": "FC Dallas",
+      "away": "Colorado Rapids",
+      "league": "ABD",
+      "at": "05.11.2026 11:43",
+      "count": 8
+    },
     {
       "home": "Seattle Sounders",
       "away": "Los Angeles FC",
@@ -480,20 +494,6 @@
       "league": "İNCL",
       "at": "05.11.2026 10:44",
       "count": 5
-    },
-    {
-      "home": "Charlton Athletic",
-      "away": "Sheffield United",
-      "league": "İNCL",
-      "at": "05.11.2026 10:41",
-      "count": 8
-    },
-    {
-      "home": "KVC Westerlo",
-      "away": "Sporting Charleroi",
-      "league": "BEL",
-      "at": "05.11.2026 10:41",
-      "count": 3
     }
   ],
   "paywall": {
