@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 22:27",
+  "updatedAt": "05.11.2026 22:34",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 174,
+      "won": 170,
       "lost": 145,
-      "total": 319,
-      "rate": 54.5
+      "total": 315,
+      "rate": 54.0
     },
     "totalAnalyses": 450388,
     "leagues": 503,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2725,
-    "analyses30d": 21776
+    "analyses24h": 2721,
+    "analyses30d": 21772
   },
   "recentWins": [
     {
@@ -404,18 +404,6 @@
       "picks": 5
     },
     {
-      "home": "Indep. Jose Te",
-      "away": "Delfin SC",
-      "league": "EKVK",
-      "date": "06.11.2026 00:00",
-      "matchCode": "4567414",
-      "odds": 1.11,
-      "patternScore": 69.58,
-      "patternText": "126.764/182.187",
-      "aiScore": 94,
-      "picks": 1
-    },
-    {
       "home": "FC Mosul",
       "away": "FC Duhok",
       "league": "IRAK",
@@ -450,6 +438,18 @@
       "patternText": "202.889/291.696",
       "aiScore": 86,
       "picks": 1
+    },
+    {
+      "home": "Canberra",
+      "away": "Sydney United 58 FC",
+      "league": "AVC",
+      "date": "06.11.2026 08:30",
+      "matchCode": "4573630",
+      "odds": 1.25,
+      "patternScore": 67.56,
+      "patternText": "200.591/296.889",
+      "aiScore": 61,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
