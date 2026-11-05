@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 08:09",
+  "updatedAt": "05.11.2026 08:16",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 224,
       "rate": 62.5
     },
-    "totalAnalyses": 445839,
+    "totalAnalyses": 445848,
     "leagues": 508,
     "pro": {
       "won": 1024,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 873,
-    "analyses30d": 19926
+    "analyses24h": 881,
+    "analyses30d": 19934
   },
   "recentWins": [
     {
@@ -347,22 +347,34 @@
     },
     {
       "type": "analysis",
-      "count": 873
+      "count": 881
     }
   ],
   "today": {
-    "home": "ATK Mohun Bagan",
-    "away": "Odisha FC",
-    "league": "HİNSL",
-    "date": "05.11.2026 14:00",
-    "matchCode": "4572343",
-    "odds": 1.17,
-    "patternScore": 67.43,
-    "patternText": "218.185/323.561",
-    "aiScore": 69,
+    "home": "Al Markhiya",
+    "away": "Al Waab",
+    "league": "KATQ",
+    "date": "05.11.2026 14:15",
+    "matchCode": "4536797",
+    "odds": 1.21,
+    "patternScore": 68.24,
+    "patternText": "209.679/307.259",
+    "aiScore": 65,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "Al Markhiya",
+      "away": "Al Waab",
+      "league": "KATQ",
+      "date": "05.11.2026 14:15",
+      "matchCode": "4536797",
+      "odds": 1.21,
+      "patternScore": 68.24,
+      "patternText": "209.679/307.259",
+      "aiScore": 65,
+      "picks": 1
+    },
     {
       "home": "ATK Mohun Bagan",
       "away": "Odisha FC",
@@ -410,21 +422,16 @@
       "patternText": "96.027/135.881",
       "aiScore": 96,
       "picks": 1
-    },
-    {
-      "home": "NEC Nijmegen",
-      "away": "Omonia",
-      "league": "AVL",
-      "date": "05.11.2026 17:45",
-      "matchCode": "4549617",
-      "odds": 1.59,
-      "patternScore": 66.67,
-      "patternText": "137.120/205.671",
-      "aiScore": 54,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Vitoria Bahia",
+      "away": "Fluminense FC",
+      "league": "BR1",
+      "at": "05.11.2026 08:10",
+      "count": 4
+    },
     {
       "home": "Everton",
       "away": "Coventry City",
@@ -487,13 +494,6 @@
       "league": "İS2",
       "at": "05.11.2026 07:58",
       "count": 4
-    },
-    {
-      "home": "Willem",
-      "away": "Zwolle",
-      "league": "HOL",
-      "at": "05.11.2026 07:58",
-      "count": 3
     }
   ],
   "paywall": {
