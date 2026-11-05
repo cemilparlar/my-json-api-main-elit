@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 17:26",
+  "updatedAt": "05.11.2026 17:33",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 180,
       "rate": 58.9
     },
-    "totalAnalyses": 450111,
+    "totalAnalyses": 450136,
     "leagues": 503,
     "pro": {
-      "won": 1032,
-      "lost": 414,
-      "total": 1446,
+      "won": 1030,
+      "lost": 412,
+      "total": 1442,
       "rate": 71.4
     },
     "insights": {
-      "won": 1778,
-      "lost": 762,
-      "total": 2540,
-      "rate": 70.0
+      "won": 1776,
+      "lost": 758,
+      "total": 2534,
+      "rate": 70.1
     },
     "coupons": {
       "won": 49,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2785,
-    "analyses30d": 21847
+    "analyses24h": 2783,
+    "analyses30d": 21845
   },
   "recentWins": [
     {
@@ -390,6 +390,18 @@
       "picks": 2
     },
     {
+      "home": "SK Sturm Graz",
+      "away": "NK Celje",
+      "league": "AVL",
+      "date": "05.11.2026 20:00",
+      "matchCode": "4549621",
+      "odds": 1.4,
+      "patternScore": 66.81,
+      "patternText": "115.767/173.289",
+      "aiScore": 61,
+      "picks": 3
+    },
+    {
       "home": "Getafe CF",
       "away": "Brighton & Hove Albion",
       "league": "AVKL",
@@ -424,18 +436,6 @@
       "patternText": "107.575/157.936",
       "aiScore": 67,
       "picks": 2
-    },
-    {
-      "home": "Torreense",
-      "away": "Ararat-Armenia",
-      "league": "AVL",
-      "date": "05.11.2026 20:00",
-      "matchCode": "4549615",
-      "odds": 1.23,
-      "patternScore": 67.99,
-      "patternText": "194.903/286.673",
-      "aiScore": 67,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
