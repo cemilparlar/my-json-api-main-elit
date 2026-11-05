@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 09:39",
+  "updatedAt": "05.11.2026 09:48",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 224,
       "rate": 62.5
     },
-    "totalAnalyses": 446507,
+    "totalAnalyses": 446585,
     "leagues": 508,
     "pro": {
       "won": 1024,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1108,
-    "analyses30d": 20159
+    "analyses24h": 1182,
+    "analyses30d": 20233
   },
   "recentWins": [
     {
@@ -323,6 +323,12 @@
     },
     {
       "type": "updated",
+      "at": "05.11.2026 09:40",
+      "home": "Marines",
+      "away": "Police Fc"
+    },
+    {
+      "type": "updated",
       "at": "05.11.2026 08:33",
       "home": "Al Markhiya",
       "away": "Al Waab"
@@ -347,22 +353,34 @@
     },
     {
       "type": "analysis",
-      "count": 1108
+      "count": 1182
     }
   ],
   "today": {
-    "home": "Al Markhiya",
-    "away": "Al Waab",
-    "league": "KATQ",
-    "date": "05.11.2026 14:15",
-    "matchCode": "4536797",
-    "odds": 1.34,
-    "patternScore": 68.32,
-    "patternText": "125.954/184.351",
-    "aiScore": 58,
-    "picks": 1
+    "home": "Marines",
+    "away": "Police Fc",
+    "league": "RUA",
+    "date": "05.11.2026 13:00",
+    "matchCode": "4556512",
+    "odds": 1.6,
+    "patternScore": 68.11,
+    "patternText": "177.172/260.118",
+    "aiScore": 53,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Marines",
+      "away": "Police Fc",
+      "league": "RUA",
+      "date": "05.11.2026 13:00",
+      "matchCode": "4556512",
+      "odds": 1.6,
+      "patternScore": 68.11,
+      "patternText": "177.172/260.118",
+      "aiScore": 53,
+      "picks": 2
+    },
     {
       "home": "Al Markhiya",
       "away": "Al Waab",
@@ -393,22 +411,10 @@
       "league": "IRAN",
       "date": "05.11.2026 13:00",
       "matchCode": "4571543",
-      "odds": 1.11,
-      "patternScore": 69.59,
-      "patternText": "201.234/289.162",
-      "aiScore": 92,
-      "picks": 1
-    },
-    {
-      "home": "Marines",
-      "away": "Police Fc",
-      "league": "RUA",
-      "date": "05.11.2026 13:00",
-      "matchCode": "4556512",
       "odds": 1.1,
-      "patternScore": 70.49,
-      "patternText": "127.414/180.748",
-      "aiScore": 98,
+      "patternScore": 69.79,
+      "patternText": "206.646/296.110",
+      "aiScore": 88,
       "picks": 1
     },
     {
@@ -425,6 +431,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Akhmat Grozny",
+      "away": "Fk Rodina Moskv",
+      "league": "RUS",
+      "at": "05.11.2026 09:44",
+      "count": 5
+    },
     {
       "home": "Clermont Foot",
       "away": "Rodez AF",
@@ -487,13 +500,6 @@
       "league": "AL2",
       "at": "05.11.2026 09:08",
       "count": 11
-    },
-    {
-      "home": "Osnabruck",
-      "away": "Kaiserslautern",
-      "league": "AL2",
-      "at": "05.11.2026 09:07",
-      "count": 6
     }
   ],
   "paywall": {
