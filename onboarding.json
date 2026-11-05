@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 16:24",
+  "updatedAt": "05.11.2026 16:32",
   "config": {
     "pages": [
       "engine",
@@ -23,23 +23,23 @@
     "days": 7,
     "last24h": {
       "won": 107,
-      "lost": 77,
-      "total": 184,
-      "rate": 58.2
+      "lost": 76,
+      "total": 183,
+      "rate": 58.5
     },
-    "totalAnalyses": 449953,
+    "totalAnalyses": 449984,
     "leagues": 504,
     "pro": {
       "won": 1033,
-      "lost": 416,
-      "total": 1449,
+      "lost": 415,
+      "total": 1448,
       "rate": 71.3
     },
     "insights": {
-      "won": 1782,
-      "lost": 767,
-      "total": 2549,
-      "rate": 69.9
+      "won": 1781,
+      "lost": 764,
+      "total": 2545,
+      "rate": 70.0
     },
     "coupons": {
       "won": 49,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2792,
-    "analyses30d": 21868
+    "analyses24h": 2805,
+    "analyses30d": 21878
   },
   "recentWins": [
     {
@@ -414,6 +414,18 @@
       "picks": 3
     },
     {
+      "home": "Getafe CF",
+      "away": "Brighton & Hove Albion",
+      "league": "AVKL",
+      "date": "05.11.2026 20:00",
+      "matchCode": "4578045",
+      "odds": 1.37,
+      "patternScore": 66.36,
+      "patternText": "114.975/173.248",
+      "aiScore": 57,
+      "picks": 3
+    },
+    {
       "home": "AGF Aarhus",
       "away": "SC Braga",
       "league": "AVKL",
@@ -424,18 +436,6 @@
       "patternText": "147.751/222.809",
       "aiScore": 63,
       "picks": 4
-    },
-    {
-      "home": "Riga Fc",
-      "away": "FK Jablonec",
-      "league": "AVKL",
-      "date": "05.11.2026 20:00",
-      "matchCode": "4578042",
-      "odds": 1.26,
-      "patternScore": 69.39,
-      "patternText": "119.663/172.452",
-      "aiScore": 71,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
