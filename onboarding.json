@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 11:08",
+  "updatedAt": "05.11.2026 11:16",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 212,
       "rate": 61.8
     },
-    "totalAnalyses": 447241,
+    "totalAnalyses": 447336,
     "leagues": 507,
     "pro": {
       "won": 1025,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1481,
-    "analyses30d": 20533
+    "analyses24h": 1510,
+    "analyses30d": 20562
   },
   "recentWins": [
     {
@@ -340,8 +340,14 @@
       "at": "05.11.2026 13:00"
     },
     {
+      "type": "kickoff",
+      "home": "Al Markhiya",
+      "away": "Al Waab",
+      "at": "05.11.2026 14:15"
+    },
+    {
       "type": "analysis",
-      "count": 1481
+      "count": 1510
     }
   ],
   "today": {
@@ -420,6 +426,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "CA Osasuna",
+      "away": "Athletic Bilbao",
+      "league": "İS1",
+      "at": "05.11.2026 11:13",
+      "count": 6
+    },
+    {
+      "home": "CD Leganes",
+      "away": "Albacete Balompie",
+      "league": "İS2",
+      "at": "05.11.2026 11:13",
+      "count": 5
+    },
+    {
       "home": "RCD Espanyol",
       "away": "Deportivo La Coruna",
       "league": "İS1",
@@ -474,20 +494,6 @@
       "league": "İNP",
       "at": "05.11.2026 10:39",
       "count": 8
-    },
-    {
-      "home": "Preston North End",
-      "away": "Southam",
-      "league": "İNCL",
-      "at": "05.11.2026 10:31",
-      "count": 2
-    },
-    {
-      "home": "Queens Park Rangers",
-      "away": "Lincoln City",
-      "league": "İNCL",
-      "at": "05.11.2026 10:28",
-      "count": 5
     }
   ],
   "paywall": {
