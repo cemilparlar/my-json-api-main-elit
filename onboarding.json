@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 09:01",
+  "updatedAt": "05.11.2026 09:10",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 224,
       "rate": 62.5
     },
-    "totalAnalyses": 446100,
+    "totalAnalyses": 446425,
     "leagues": 508,
     "pro": {
       "won": 1024,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 975,
-    "analyses30d": 20026
+    "analyses24h": 1040,
+    "analyses30d": 20091
   },
   "recentWins": [
     {
@@ -347,7 +347,7 @@
     },
     {
       "type": "analysis",
-      "count": 975
+      "count": 1040
     }
   ],
   "today": {
@@ -359,7 +359,7 @@
     "odds": 1.34,
     "patternScore": 68.32,
     "patternText": "125.954/184.351",
-    "aiScore": 59,
+    "aiScore": 58,
     "picks": 1
   },
   "todayList": [
@@ -372,7 +372,7 @@
       "odds": 1.34,
       "patternScore": 68.32,
       "patternText": "125.954/184.351",
-      "aiScore": 59,
+      "aiScore": 58,
       "picks": 1
     },
     {
@@ -426,6 +426,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Nuremberg",
+      "away": "SV Darmstadt 98",
+      "league": "AL2",
+      "at": "05.11.2026 09:09",
+      "count": 8
+    },
+    {
+      "home": "Holstein Kiel",
+      "away": "Arminia Bielefe",
+      "league": "AL2",
+      "at": "05.11.2026 09:08",
+      "count": 11
+    },
+    {
+      "home": "Osnabruck",
+      "away": "Kaiserslautern",
+      "league": "AL2",
+      "at": "05.11.2026 09:07",
+      "count": 6
+    },
+    {
+      "home": "FK Fakel Voronezh",
+      "away": "Dinamo Moscow",
+      "league": "RUS",
+      "at": "05.11.2026 09:06",
+      "count": 2
+    },
+    {
       "home": "FC Famalicao",
       "away": "FC Arouca",
       "league": "POR",
@@ -466,34 +494,6 @@
       "league": "FR1",
       "at": "05.11.2026 08:01",
       "count": 7
-    },
-    {
-      "home": "Standard Liege",
-      "away": "Waasland-Beveren",
-      "league": "BEL",
-      "at": "05.11.2026 08:01",
-      "count": 10
-    },
-    {
-      "home": "Unione V.",
-      "away": "Udinese",
-      "league": "İTA",
-      "at": "05.11.2026 08:01",
-      "count": 7
-    },
-    {
-      "home": "Hamburger SV",
-      "away": "Borussia Monchengladbach",
-      "league": "AL1",
-      "at": "05.11.2026 08:00",
-      "count": 9
-    },
-    {
-      "home": "Ascoli Calcio",
-      "away": "Palermo FC",
-      "league": "İTB",
-      "at": "05.11.2026 07:59",
-      "count": 6
     }
   ],
   "paywall": {
