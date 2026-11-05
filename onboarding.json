@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 10:44",
+  "updatedAt": "05.11.2026 10:52",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 212,
       "rate": 61.8
     },
-    "totalAnalyses": 447102,
+    "totalAnalyses": 447215,
     "leagues": 507,
     "pro": {
       "won": 1025,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1428,
-    "analyses30d": 20490
+    "analyses24h": 1460,
+    "analyses30d": 20522
   },
   "recentWins": [
     {
@@ -347,7 +347,7 @@
     },
     {
       "type": "analysis",
-      "count": 1428
+      "count": 1460
     }
   ],
   "today": {
@@ -357,8 +357,8 @@
     "date": "05.11.2026 14:15",
     "matchCode": "4536797",
     "odds": 1.34,
-    "patternScore": 68.32,
-    "patternText": "125.954/184.351",
+    "patternScore": 68.33,
+    "patternText": "125.972/184.371",
     "aiScore": 58,
     "picks": 1
   },
@@ -370,8 +370,8 @@
       "date": "05.11.2026 14:15",
       "matchCode": "4536797",
       "odds": 1.34,
-      "patternScore": 68.32,
-      "patternText": "125.954/184.351",
+      "patternScore": 68.33,
+      "patternText": "125.972/184.371",
       "aiScore": 58,
       "picks": 1
     },
@@ -383,7 +383,7 @@
       "matchCode": "4571543",
       "odds": 1.1,
       "patternScore": 69.79,
-      "patternText": "206.646/296.110",
+      "patternText": "206.652/296.122",
       "aiScore": 88,
       "picks": 1
     },
@@ -395,8 +395,8 @@
       "matchCode": "4549617",
       "odds": 1.59,
       "patternScore": 66.67,
-      "patternText": "137.120/205.671",
-      "aiScore": 53,
+      "patternText": "137.138/205.691",
+      "aiScore": 54,
       "picks": 1
     },
     {
@@ -407,7 +407,7 @@
       "matchCode": "4578048",
       "odds": 1.55,
       "patternScore": 68.05,
-      "patternText": "183.654/269.881",
+      "patternText": "183.664/269.897",
       "aiScore": 54,
       "picks": 3
     },
@@ -419,12 +419,33 @@
       "matchCode": "4549610",
       "odds": 1.43,
       "patternScore": 67.37,
-      "patternText": "130.449/193.629",
+      "patternText": "130.467/193.649",
       "aiScore": 54,
       "picks": 9
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Watford",
+      "away": "Middlesbrough",
+      "league": "İNCL",
+      "at": "05.11.2026 10:48",
+      "count": 6
+    },
+    {
+      "home": "West Bromwich Albion",
+      "away": "Millwall",
+      "league": "İNCL",
+      "at": "05.11.2026 10:48",
+      "count": 8
+    },
+    {
+      "home": "Birmingham City",
+      "away": "Swansea",
+      "league": "İNCL",
+      "at": "05.11.2026 10:44",
+      "count": 5
+    },
     {
       "home": "Charlton Athletic",
       "away": "Sheffield United",
@@ -473,27 +494,6 @@
       "league": "AL1",
       "at": "05.11.2026 10:03",
       "count": 13
-    },
-    {
-      "home": "Torino FC",
-      "away": "US Lecce",
-      "league": "İTA",
-      "at": "05.11.2026 10:02",
-      "count": 5
-    },
-    {
-      "home": "Cagliari Calcio",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "05.11.2026 09:59",
-      "count": 5
-    },
-    {
-      "home": "SS Juve Stabia",
-      "away": "SS Arezzo",
-      "league": "İTB",
-      "at": "05.11.2026 09:58",
-      "count": 3
     }
   ],
   "paywall": {
