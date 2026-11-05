@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 16:32",
+  "updatedAt": "05.11.2026 16:39",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 183,
       "rate": 58.5
     },
-    "totalAnalyses": 449984,
+    "totalAnalyses": 449990,
     "leagues": 504,
     "pro": {
       "won": 1033,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2805,
-    "analyses30d": 21878
+    "analyses24h": 2814,
+    "analyses30d": 21887
   },
   "recentWins": [
     {
@@ -341,7 +341,7 @@
     },
     {
       "type": "updated",
-      "at": "05.11.2026 15:40",
+      "at": "05.11.2026 16:39",
       "home": "PFC Levski Sofia",
       "away": "Jagiellonia Bialystok"
     },
@@ -372,7 +372,7 @@
     "matchCode": "4549610",
     "odds": 1.43,
     "patternScore": 67.37,
-    "patternText": "130.507/193.721",
+    "patternText": "130.509/193.723",
     "aiScore": 56,
     "picks": 9
   },
@@ -385,7 +385,7 @@
       "matchCode": "4549610",
       "odds": 1.43,
       "patternScore": 67.37,
-      "patternText": "130.507/193.721",
+      "patternText": "130.509/193.723",
       "aiScore": 56,
       "picks": 9
     },
@@ -397,7 +397,7 @@
       "matchCode": "4549551",
       "odds": 1.41,
       "patternScore": 66.76,
-      "patternText": "83.587/125.203",
+      "patternText": "83.593/125.209",
       "aiScore": 61,
       "picks": 2
     },
@@ -409,7 +409,7 @@
       "matchCode": "4549617",
       "odds": 1.37,
       "patternScore": 67.06,
-      "patternText": "151.414/225.797",
+      "patternText": "151.420/225.803",
       "aiScore": 60,
       "picks": 3
     },
@@ -421,7 +421,7 @@
       "matchCode": "4578045",
       "odds": 1.37,
       "patternScore": 66.36,
-      "patternText": "114.975/173.248",
+      "patternText": "114.977/173.250",
       "aiScore": 57,
       "picks": 3
     },
@@ -433,12 +433,26 @@
       "matchCode": "4578038",
       "odds": 1.28,
       "patternScore": 66.31,
-      "patternText": "147.751/222.809",
+      "patternText": "147.753/222.811",
       "aiScore": 63,
       "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "PFC Levski Sofia",
+      "away": "Jagiellonia Bialystok",
+      "league": "AVL",
+      "at": "05.11.2026 16:39",
+      "count": 8
+    },
+    {
+      "home": "Kuopion",
+      "away": "KAA Gent",
+      "league": "AVKL",
+      "at": "05.11.2026 16:39",
+      "count": 11
+    },
     {
       "home": "Getafe CF",
       "away": "Brighton & Hove Albion",
@@ -494,20 +508,6 @@
       "league": "AVL",
       "at": "05.11.2026 16:02",
       "count": 13
-    },
-    {
-      "home": "Valencia CF",
-      "away": "Real Madrid",
-      "league": "İS1",
-      "at": "05.11.2026 15:50",
-      "count": 14
-    },
-    {
-      "home": "PFC Levski Sofia",
-      "away": "Jagiellonia Bialystok",
-      "league": "AVL",
-      "at": "05.11.2026 15:40",
-      "count": 6
     }
   ],
   "paywall": {
