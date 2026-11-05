@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 12:56",
+  "updatedAt": "05.11.2026 13:05",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 120,
-      "lost": 75,
-      "total": 195,
-      "rate": 61.5
+      "won": 110,
+      "lost": 72,
+      "total": 182,
+      "rate": 60.4
     },
-    "totalAnalyses": 448217,
-    "leagues": 507,
+    "totalAnalyses": 448278,
+    "leagues": 506,
     "pro": {
       "won": 1026,
       "lost": 407,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1784,
-    "analyses30d": 20855
+    "analyses24h": 1831,
+    "analyses30d": 20907
   },
   "recentWins": [
     {
@@ -440,6 +440,62 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Brighton & Hove Albion",
+      "away": "Brentford",
+      "league": "İNP",
+      "at": "05.11.2026 13:03",
+      "count": 10
+    },
+    {
+      "home": "Stade Rennais",
+      "away": "LOSC Lille",
+      "league": "FR1",
+      "at": "05.11.2026 13:03",
+      "count": 5
+    },
+    {
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "league": "İNP",
+      "at": "05.11.2026 13:03",
+      "count": 6
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Liverpool",
+      "league": "İNP",
+      "at": "05.11.2026 13:03",
+      "count": 5
+    },
+    {
+      "home": "Virtus Entella",
+      "away": "Modena FC",
+      "league": "İTB",
+      "at": "05.11.2026 13:02",
+      "count": 6
+    },
+    {
+      "home": "Ipswich Town",
+      "away": "AFC Bournemouth",
+      "league": "İNP",
+      "at": "05.11.2026 13:01",
+      "count": 6
+    },
+    {
+      "home": "Krylya Sovetov",
+      "away": "FC Orenburg",
+      "league": "RUS",
+      "at": "05.11.2026 13:00",
+      "count": 1
+    },
+    {
+      "home": "Minnesota United",
+      "away": "San Jose Earthquakes",
+      "league": "ABD",
+      "at": "05.11.2026 12:59",
+      "count": 8
+    },
+    {
       "home": "FC Midtjylland",
       "away": "Ajax",
       "league": "AVKL",
@@ -452,62 +508,6 @@
       "league": "AVL",
       "at": "05.11.2026 12:36",
       "count": 3
-    },
-    {
-      "home": "Mjallby AIF",
-      "away": "FK Borac Banja Luka",
-      "league": "AVKL",
-      "at": "05.11.2026 12:35",
-      "count": 8
-    },
-    {
-      "home": "RSC Anderlecht",
-      "away": "Red Bull Salzburg",
-      "league": "AVL",
-      "at": "05.11.2026 12:35",
-      "count": 9
-    },
-    {
-      "home": "NEC Nijmegen",
-      "away": "Omonia",
-      "league": "AVL",
-      "at": "05.11.2026 12:34",
-      "count": 10
-    },
-    {
-      "home": "PFC Levski Sofia",
-      "away": "Jagiellonia Bialystok",
-      "league": "AVL",
-      "at": "05.11.2026 12:19",
-      "count": 9
-    },
-    {
-      "home": "Real Sociedad",
-      "away": "Olympique Lyonnais",
-      "league": "AVL",
-      "at": "05.11.2026 12:19",
-      "count": 2
-    },
-    {
-      "home": "Lincoln Red Im",
-      "away": "Hajduk Split",
-      "league": "AVKL",
-      "at": "05.11.2026 12:19",
-      "count": 16
-    },
-    {
-      "home": "Trabzonspor",
-      "away": "SC Freiburg",
-      "league": "AVKL",
-      "at": "05.11.2026 12:18",
-      "count": 8
-    },
-    {
-      "home": "Elche CF",
-      "away": "Real Betis",
-      "league": "İS1",
-      "at": "05.11.2026 12:01",
-      "count": 9
     }
   ],
   "paywall": {
