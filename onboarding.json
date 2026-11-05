@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 13:05",
+  "updatedAt": "05.11.2026 13:12",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 110,
-      "lost": 72,
-      "total": 182,
-      "rate": 60.4
+      "won": 109,
+      "lost": 71,
+      "total": 180,
+      "rate": 60.6
     },
-    "totalAnalyses": 448278,
+    "totalAnalyses": 448393,
     "leagues": 506,
     "pro": {
       "won": 1026,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1831,
-    "analyses30d": 20907
+    "analyses24h": 1835,
+    "analyses30d": 20911
   },
   "recentWins": [
     {
@@ -440,6 +440,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "FC Koln",
+      "away": "Bayer Leverkusen",
+      "league": "AL1",
+      "at": "05.11.2026 13:12",
+      "count": 7
+    },
+    {
       "home": "Brighton & Hove Albion",
       "away": "Brentford",
       "league": "İNP",
@@ -501,13 +508,6 @@
       "league": "AVKL",
       "at": "05.11.2026 12:36",
       "count": 9
-    },
-    {
-      "home": "Crystal Palace",
-      "away": "TSG Hoffenheim",
-      "league": "AVL",
-      "at": "05.11.2026 12:36",
-      "count": 3
     }
   ],
   "paywall": {
