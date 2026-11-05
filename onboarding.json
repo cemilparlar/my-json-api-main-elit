@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 09:10",
+  "updatedAt": "05.11.2026 09:18",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 224,
       "rate": 62.5
     },
-    "totalAnalyses": 446425,
+    "totalAnalyses": 446462,
     "leagues": 508,
     "pro": {
       "won": 1024,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1040,
-    "analyses30d": 20091
+    "analyses24h": 1069,
+    "analyses30d": 20120
   },
   "recentWins": [
     {
@@ -347,7 +347,7 @@
     },
     {
       "type": "analysis",
-      "count": 1040
+      "count": 1069
     }
   ],
   "today": {
@@ -408,7 +408,7 @@
       "odds": 1.11,
       "patternScore": 69.59,
       "patternText": "201.234/289.162",
-      "aiScore": 92,
+      "aiScore": 91,
       "picks": 1
     },
     {
@@ -425,6 +425,34 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Leeds United",
+      "away": "Tottenham Hotspur",
+      "league": "İNP",
+      "at": "05.11.2026 09:14",
+      "count": 6
+    },
+    {
+      "home": "Portsmouth",
+      "away": "Stoke City",
+      "league": "İNCL",
+      "at": "05.11.2026 09:14",
+      "count": 7
+    },
+    {
+      "home": "Wrexham AFC",
+      "away": "Wolverhampton Wanderers",
+      "league": "İNCL",
+      "at": "05.11.2026 09:13",
+      "count": 5
+    },
+    {
+      "home": "Bristol City",
+      "away": "Norwich City",
+      "league": "İNCL",
+      "at": "05.11.2026 09:11",
+      "count": 6
+    },
     {
       "home": "Nuremberg",
       "away": "SV Darmstadt 98",
@@ -466,34 +494,6 @@
       "league": "BR1",
       "at": "05.11.2026 08:10",
       "count": 4
-    },
-    {
-      "home": "Everton",
-      "away": "Coventry City",
-      "league": "İNP",
-      "at": "05.11.2026 08:02",
-      "count": 5
-    },
-    {
-      "home": "Sevilla FC",
-      "away": "Deportivo Alaves",
-      "league": "İS1",
-      "at": "05.11.2026 08:02",
-      "count": 6
-    },
-    {
-      "home": "Derby County",
-      "away": "Bolton Wanderers",
-      "league": "İNCL",
-      "at": "05.11.2026 08:02",
-      "count": 4
-    },
-    {
-      "home": "Toulouse FC",
-      "away": "RC Strasbourg",
-      "league": "FR1",
-      "at": "05.11.2026 08:01",
-      "count": 7
     }
   ],
   "paywall": {
