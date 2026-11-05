@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 13:43",
+  "updatedAt": "05.11.2026 13:51",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 109,
-      "lost": 71,
-      "total": 180,
-      "rate": 60.6
+      "won": 108,
+      "lost": 70,
+      "total": 178,
+      "rate": 60.7
     },
-    "totalAnalyses": 448763,
+    "totalAnalyses": 448929,
     "leagues": 504,
     "pro": {
       "won": 1026,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2085,
-    "analyses30d": 21159
+    "analyses24h": 2178,
+    "analyses30d": 21252
   },
   "recentWins": [
     {
@@ -426,88 +426,88 @@
       "picks": 4
     },
     {
-      "home": "Al Markhiya",
-      "away": "Al Waab",
-      "league": "KATQ",
-      "date": "05.11.2026 14:15",
-      "matchCode": "4536797",
-      "odds": 1.34,
-      "patternScore": 68.33,
-      "patternText": "125.982/184.381",
+      "home": "AC Sparta Prague",
+      "away": "AFC Bournemouth",
+      "league": "AVL",
+      "date": "05.11.2026 17:45",
+      "matchCode": "4549613",
+      "odds": 1.32,
+      "patternScore": 66.54,
+      "patternText": "133.747/201.000",
       "aiScore": 60,
-      "picks": 1
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "CE Sabadell",
+      "away": "Real Sociedad B",
+      "league": "İS2",
+      "at": "05.11.2026 13:51",
+      "count": 5
+    },
+    {
+      "home": "Rio Ave FC",
+      "away": "SC Braga",
+      "league": "POR",
+      "at": "05.11.2026 13:48",
+      "count": 5
+    },
+    {
+      "home": "Club de Regatas Vasco da Gama",
+      "away": "SE Palmeiras",
+      "league": "BRK",
+      "at": "05.11.2026 13:47",
+      "count": 7
+    },
+    {
+      "home": "RC Lens",
+      "away": "Marseille",
+      "league": "FR1",
+      "at": "05.11.2026 13:47",
+      "count": 3
+    },
+    {
+      "home": "ACF Fiorentina",
+      "away": "Juventus",
+      "league": "İTA",
+      "at": "05.11.2026 13:47",
+      "count": 7
+    },
+    {
+      "home": "FC Utrecht",
+      "away": "NEC Nijmegen",
+      "league": "HOL",
+      "at": "05.11.2026 13:46",
+      "count": 6
+    },
+    {
+      "home": "TSG Hoffenheim",
+      "away": "FC Schalke 04",
+      "league": "AL1",
+      "at": "05.11.2026 13:46",
+      "count": 10
+    },
+    {
+      "home": "LR Vicenza",
+      "away": "US Cremonese",
+      "league": "İTB",
+      "at": "05.11.2026 13:45",
+      "count": 7
+    },
+    {
+      "home": "Union St.G",
+      "away": "KRC Genk",
+      "league": "BEL",
+      "at": "05.11.2026 13:44",
+      "count": 4
+    },
     {
       "home": "UD Las Palmas",
       "away": "CD Eldense",
       "league": "İS2",
       "at": "05.11.2026 13:42",
       "count": 9
-    },
-    {
-      "home": "Villarreal CF",
-      "away": "Getafe CF",
-      "league": "İS1",
-      "at": "05.11.2026 13:42",
-      "count": 5
-    },
-    {
-      "home": "Celta de Vigo",
-      "away": "Levante UD",
-      "league": "İS1",
-      "at": "05.11.2026 13:42",
-      "count": 5
-    },
-    {
-      "home": "Sporting Gijon",
-      "away": "Real Valladolid",
-      "league": "İS2",
-      "at": "05.11.2026 13:42",
-      "count": 7
-    },
-    {
-      "home": "SC Freiburg",
-      "away": "Union Berlin",
-      "league": "AL1",
-      "at": "05.11.2026 13:26",
-      "count": 12
-    },
-    {
-      "home": "Manchester United",
-      "away": "Aston Villa",
-      "league": "İNP",
-      "at": "05.11.2026 13:25",
-      "count": 9
-    },
-    {
-      "home": "Angers SCO",
-      "away": "OGC Nice",
-      "league": "FR1",
-      "at": "05.11.2026 13:24",
-      "count": 6
-    },
-    {
-      "home": "Le Havre AC",
-      "away": "FC Lorient",
-      "league": "FR1",
-      "at": "05.11.2026 13:24",
-      "count": 6
-    },
-    {
-      "home": "Stade Brest",
-      "away": "Olympique Lyonnais",
-      "league": "FR1",
-      "at": "05.11.2026 13:24",
-      "count": 4
-    },
-    {
-      "home": "Le Mans FC",
-      "away": "AS Monaco",
-      "league": "FR1",
-      "at": "05.11.2026 13:24",
-      "count": 19
     }
   ],
   "paywall": {
