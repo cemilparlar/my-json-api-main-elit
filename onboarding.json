@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 20:56",
+  "updatedAt": "05.11.2026 21:03",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": 64.5
     },
     "analyses24h": 2728,
-    "analyses30d": 21805
+    "analyses30d": 21801
   },
   "recentWins": [
     {
@@ -365,30 +365,18 @@
     }
   ],
   "today": {
-    "home": "Indep. Jose Te",
-    "away": "Delfin SC",
-    "league": "EKVK",
-    "date": "06.11.2026 00:00",
-    "matchCode": "4567414",
-    "odds": 1.37,
-    "patternScore": 67.03,
-    "patternText": "220.382/328.767",
-    "aiScore": 56,
-    "picks": 1
+    "home": "Cruzeiro EC",
+    "away": "EC Bahia",
+    "league": "BR1",
+    "date": "06.11.2026 00:30",
+    "matchCode": "4423364",
+    "odds": 1.13,
+    "patternScore": 65.15,
+    "patternText": "263.608/404.591",
+    "aiScore": 77,
+    "picks": 5
   },
   "todayList": [
-    {
-      "home": "Indep. Jose Te",
-      "away": "Delfin SC",
-      "league": "EKVK",
-      "date": "06.11.2026 00:00",
-      "matchCode": "4567414",
-      "odds": 1.37,
-      "patternScore": 67.03,
-      "patternText": "220.382/328.767",
-      "aiScore": 56,
-      "picks": 1
-    },
     {
       "home": "Cruzeiro EC",
       "away": "EC Bahia",
@@ -400,18 +388,6 @@
       "patternText": "263.608/404.591",
       "aiScore": 77,
       "picks": 5
-    },
-    {
-      "home": "Club Deportivo Maraton",
-      "away": "Club Deportivo Platense",
-      "league": "HON",
-      "date": "06.11.2026 01:30",
-      "matchCode": "4574405",
-      "odds": 1.11,
-      "patternScore": 69.14,
-      "patternText": "133.060/192.446",
-      "aiScore": 92,
-      "picks": 1
     },
     {
       "home": "FC Mosul",
@@ -436,6 +412,30 @@
       "patternText": "211.256/301.706",
       "aiScore": 92,
       "picks": 1
+    },
+    {
+      "home": "Al Kahraba",
+      "away": "Zakho FC",
+      "league": "IRAK",
+      "date": "06.11.2026 00:00",
+      "matchCode": "4540923",
+      "odds": 1.08,
+      "patternScore": 69.56,
+      "patternText": "202.833/291.606",
+      "aiScore": 86,
+      "picks": 1
+    },
+    {
+      "home": "Canberra",
+      "away": "Sydney United 58 FC",
+      "league": "AVC",
+      "date": "06.11.2026 08:30",
+      "matchCode": "4573630",
+      "odds": 1.25,
+      "patternScore": 67.57,
+      "patternText": "200.525/296.773",
+      "aiScore": 61,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
