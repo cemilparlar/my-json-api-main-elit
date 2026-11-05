@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 11:16",
+  "updatedAt": "05.11.2026 11:24",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 212,
       "rate": 61.8
     },
-    "totalAnalyses": 447336,
+    "totalAnalyses": 447353,
     "leagues": 507,
     "pro": {
       "won": 1025,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1510,
-    "analyses30d": 20562
+    "analyses24h": 1524,
+    "analyses30d": 20576
   },
   "recentWins": [
     {
@@ -347,7 +347,7 @@
     },
     {
       "type": "analysis",
-      "count": 1510
+      "count": 1524
     }
   ],
   "today": {
@@ -408,7 +408,7 @@
       "odds": 1.55,
       "patternScore": 68.05,
       "patternText": "183.664/269.897",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 3
     },
     {
@@ -425,6 +425,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Seattle Sounders",
+      "away": "Los Angeles FC",
+      "league": "ABD",
+      "at": "05.11.2026 11:16",
+      "count": 6
+    },
     {
       "home": "CA Osasuna",
       "away": "Athletic Bilbao",
@@ -487,13 +494,6 @@
       "league": "BEL",
       "at": "05.11.2026 10:41",
       "count": 3
-    },
-    {
-      "home": "Fulham",
-      "away": "Newcastle United",
-      "league": "İNP",
-      "at": "05.11.2026 10:39",
-      "count": 8
     }
   ],
   "paywall": {
