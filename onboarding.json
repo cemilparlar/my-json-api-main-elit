@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 16:47",
+  "updatedAt": "05.11.2026 16:55",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2821,
-    "analyses30d": 21894
+    "analyses24h": 2818,
+    "analyses30d": 21891
   },
   "recentWins": [
     {
@@ -365,18 +365,30 @@
     }
   ],
   "today": {
-    "home": "Lillestrom SK",
-    "away": "FC Viktoria Plzen",
-    "league": "AVL",
-    "date": "05.11.2026 17:45",
-    "matchCode": "4549610",
-    "odds": 1.43,
-    "patternScore": 67.37,
-    "patternText": "130.509/193.723",
-    "aiScore": 56,
-    "picks": 9
+    "home": "AS Monaco",
+    "away": "FC Nordsjaelland",
+    "league": "AVKL",
+    "date": "05.11.2026 20:00",
+    "matchCode": "4578047",
+    "odds": 1.64,
+    "patternScore": 67.33,
+    "patternText": "189.156/280.956",
+    "aiScore": 55,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "AS Monaco",
+      "away": "FC Nordsjaelland",
+      "league": "AVKL",
+      "date": "05.11.2026 20:00",
+      "matchCode": "4578047",
+      "odds": 1.64,
+      "patternScore": 67.33,
+      "patternText": "189.156/280.956",
+      "aiScore": 55,
+      "picks": 2
+    },
     {
       "home": "Lillestrom SK",
       "away": "FC Viktoria Plzen",
@@ -424,18 +436,6 @@
       "patternText": "114.977/173.250",
       "aiScore": 56,
       "picks": 3
-    },
-    {
-      "home": "AGF Aarhus",
-      "away": "SC Braga",
-      "league": "AVKL",
-      "date": "05.11.2026 17:45",
-      "matchCode": "4578038",
-      "odds": 1.28,
-      "patternScore": 66.31,
-      "patternText": "147.753/222.811",
-      "aiScore": 63,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
