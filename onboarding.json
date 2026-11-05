@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 02:12",
+  "updatedAt": "05.11.2026 02:19",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 222,
       "rate": 63.5
     },
-    "totalAnalyses": 444823,
+    "totalAnalyses": 444829,
     "leagues": 508,
     "pro": {
       "won": 1026,
@@ -80,20 +80,6 @@
       "pro": true
     },
     {
-      "home": "Rivadavia",
-      "away": "Club Atletico Banfield",
-      "league": "ARJ",
-      "date": "03.11.2026 00:15",
-      "prediction": "1st Half Over 1.5",
-      "odds": 2.46,
-      "probability": 75.0,
-      "patternScore": 66.95,
-      "aiScore": 50,
-      "firstHalf": "3 - 1",
-      "finalScore": "3 - 1",
-      "pro": false
-    },
-    {
       "home": "Not FC Seoul - check data",
       "away": "Viettel FC",
       "league": "AFCŞL2",
@@ -120,6 +106,20 @@
       "firstHalf": "0 - 1",
       "finalScore": "2 - 3",
       "pro": true
+    },
+    {
+      "home": "Tauras",
+      "away": "Minija",
+      "league": "LIT1",
+      "date": "04.11.2026 12:00",
+      "prediction": "1st Half Over 1.5",
+      "odds": 1.97,
+      "probability": 75.0,
+      "patternScore": 63.47,
+      "aiScore": 51,
+      "firstHalf": "1 - 1",
+      "finalScore": "3 - 3",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -301,19 +301,19 @@
     },
     {
       "type": "won",
-      "home": "Rivadavia",
-      "away": "Club Atletico Banfield",
-      "prediction": "1st Half Over 1.5",
-      "odds": 2.46,
-      "at": "03.11.2026 00:15"
-    },
-    {
-      "type": "won",
       "home": "Not FC Seoul - check data",
       "away": "Viettel FC",
       "prediction": "Handicap (0:2) 1",
       "odds": 2.32,
       "at": "04.11.2026 10:00"
+    },
+    {
+      "type": "won",
+      "home": "RB Leipzig",
+      "away": "Manchester City",
+      "prediction": "Over 4.5 Goals",
+      "odds": 2.29,
+      "at": "04.11.2026 20:00"
     },
     {
       "type": "coupon",
@@ -357,18 +357,30 @@
     }
   ],
   "today": {
-    "home": "ATK Mohun Bagan",
-    "away": "Odisha FC",
-    "league": "HİNSL",
-    "date": "05.11.2026 14:00",
-    "matchCode": "4572343",
-    "odds": 1.17,
-    "patternScore": 67.43,
-    "patternText": "218.151/323.503",
-    "aiScore": 71,
+    "home": "Al Markhiya",
+    "away": "Al Waab",
+    "league": "KATQ",
+    "date": "05.11.2026 14:15",
+    "matchCode": "4536797",
+    "odds": 1.21,
+    "patternScore": 68.24,
+    "patternText": "209.657/307.225",
+    "aiScore": 67,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "Al Markhiya",
+      "away": "Al Waab",
+      "league": "KATQ",
+      "date": "05.11.2026 14:15",
+      "matchCode": "4536797",
+      "odds": 1.21,
+      "patternScore": 68.24,
+      "patternText": "209.657/307.225",
+      "aiScore": 67,
+      "picks": 1
+    },
     {
       "home": "ATK Mohun Bagan",
       "away": "Odisha FC",
@@ -415,18 +427,6 @@
       "patternScore": 72.34,
       "patternText": "157.234/217.354",
       "aiScore": 98,
-      "picks": 1
-    },
-    {
-      "home": "NEC Nijmegen",
-      "away": "Omonia",
-      "league": "AVL",
-      "date": "05.11.2026 17:45",
-      "matchCode": "4549617",
-      "odds": 1.59,
-      "patternScore": 66.67,
-      "patternText": "137.090/205.621",
-      "aiScore": 54,
       "picks": 1
     }
   ],
