@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 16:16",
+  "updatedAt": "05.11.2026 16:24",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 184,
       "rate": 58.2
     },
-    "totalAnalyses": 449906,
+    "totalAnalyses": 449953,
     "leagues": 504,
     "pro": {
       "won": 1033,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2747,
-    "analyses30d": 21823
+    "analyses24h": 2792,
+    "analyses30d": 21868
   },
   "recentWins": [
     {
@@ -372,7 +372,7 @@
     "matchCode": "4549610",
     "odds": 1.43,
     "patternScore": 67.37,
-    "patternText": "130.505/193.717",
+    "patternText": "130.507/193.721",
     "aiScore": 56,
     "picks": 9
   },
@@ -385,7 +385,7 @@
       "matchCode": "4549610",
       "odds": 1.43,
       "patternScore": 67.37,
-      "patternText": "130.505/193.717",
+      "patternText": "130.507/193.721",
       "aiScore": 56,
       "picks": 9
     },
@@ -397,7 +397,7 @@
       "matchCode": "4549551",
       "odds": 1.41,
       "patternScore": 66.76,
-      "patternText": "83.585/125.195",
+      "patternText": "83.587/125.203",
       "aiScore": 61,
       "picks": 2
     },
@@ -409,7 +409,7 @@
       "matchCode": "4549617",
       "odds": 1.37,
       "patternScore": 67.06,
-      "patternText": "151.412/225.789",
+      "patternText": "151.414/225.797",
       "aiScore": 60,
       "picks": 3
     },
@@ -421,7 +421,7 @@
       "matchCode": "4578038",
       "odds": 1.28,
       "patternScore": 66.31,
-      "patternText": "147.749/222.801",
+      "patternText": "147.751/222.809",
       "aiScore": 63,
       "picks": 4
     },
@@ -433,12 +433,40 @@
       "matchCode": "4578042",
       "odds": 1.26,
       "patternScore": 69.39,
-      "patternText": "119.657/172.440",
+      "patternText": "119.663/172.452",
       "aiScore": 71,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Getafe CF",
+      "away": "Brighton & Hove Albion",
+      "league": "AVKL",
+      "at": "05.11.2026 16:21",
+      "count": 6
+    },
+    {
+      "home": "AC Milan",
+      "away": "Ferencvaros",
+      "league": "AVL",
+      "at": "05.11.2026 16:20",
+      "count": 10
+    },
+    {
+      "home": "Hapoel Beer Sh",
+      "away": "Ofi",
+      "league": "AVL",
+      "at": "05.11.2026 16:20",
+      "count": 8
+    },
+    {
+      "home": "Sunderland",
+      "away": "Dinamo Zagreb",
+      "league": "AVL",
+      "at": "05.11.2026 16:20",
+      "count": 5
+    },
     {
       "home": "AS Monaco",
       "away": "FC Nordsjaelland",
@@ -452,13 +480,6 @@
       "league": "AVL",
       "at": "05.11.2026 16:03",
       "count": 4
-    },
-    {
-      "home": "Sunderland",
-      "away": "Dinamo Zagreb",
-      "league": "AVL",
-      "at": "05.11.2026 16:03",
-      "count": 5
     },
     {
       "home": "FC Thun",
@@ -475,13 +496,6 @@
       "count": 13
     },
     {
-      "home": "AC Milan",
-      "away": "Ferencvaros",
-      "league": "AVL",
-      "at": "05.11.2026 16:02",
-      "count": 6
-    },
-    {
       "home": "Valencia CF",
       "away": "Real Madrid",
       "league": "İS1",
@@ -489,25 +503,11 @@
       "count": 14
     },
     {
-      "home": "Getafe CF",
-      "away": "Brighton & Hove Albion",
-      "league": "AVKL",
-      "at": "05.11.2026 15:41",
-      "count": 5
-    },
-    {
       "home": "PFC Levski Sofia",
       "away": "Jagiellonia Bialystok",
       "league": "AVL",
       "at": "05.11.2026 15:40",
       "count": 6
-    },
-    {
-      "home": "NEC Nijmegen",
-      "away": "Omonia",
-      "league": "AVL",
-      "at": "05.11.2026 15:40",
-      "count": 9
     }
   ],
   "paywall": {
