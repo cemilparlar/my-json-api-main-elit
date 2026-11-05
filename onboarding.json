@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 12:19",
+  "updatedAt": "05.11.2026 12:26",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 195,
       "rate": 61.5
     },
-    "totalAnalyses": 447902,
+    "totalAnalyses": 447991,
     "leagues": 507,
     "pro": {
       "won": 1026,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1752,
-    "analyses30d": 20823
+    "analyses24h": 1747,
+    "analyses30d": 20818
   },
   "recentWins": [
     {
@@ -324,6 +324,12 @@
     {
       "type": "updated",
       "at": "05.11.2026 12:19",
+      "home": "PFC Levski Sofia",
+      "away": "Jagiellonia Bialystok"
+    },
+    {
+      "type": "updated",
+      "at": "05.11.2026 12:19",
       "home": "Real Sociedad",
       "away": "Olympique Lyonnais"
     },
@@ -356,12 +362,6 @@
       "at": "05.11.2026 12:18",
       "home": "Hay Al-Amir Ha",
       "away": "Al Sareeh"
-    },
-    {
-      "type": "kickoff",
-      "home": "Shams Azar Qaz",
-      "away": "Sanat Naft",
-      "at": "05.11.2026 13:00"
     }
   ],
   "today": {
@@ -414,6 +414,18 @@
       "picks": 3
     },
     {
+      "home": "Trabzonspor",
+      "away": "SC Freiburg",
+      "league": "AVKL",
+      "date": "05.11.2026 17:45",
+      "matchCode": "4549551",
+      "odds": 1.41,
+      "patternScore": 68.07,
+      "patternText": "135.381/198.888",
+      "aiScore": 58,
+      "picks": 4
+    },
+    {
       "home": "Al Markhiya",
       "away": "Al Waab",
       "league": "KATQ",
@@ -424,21 +436,16 @@
       "patternText": "125.982/184.381",
       "aiScore": 59,
       "picks": 1
-    },
-    {
-      "home": "AC Sparta Prague",
-      "away": "AFC Bournemouth",
-      "league": "AVL",
-      "date": "05.11.2026 17:45",
-      "matchCode": "4549613",
-      "odds": 1.32,
-      "patternScore": 66.54,
-      "patternText": "133.747/201.000",
-      "aiScore": 59,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "PFC Levski Sofia",
+      "away": "Jagiellonia Bialystok",
+      "league": "AVL",
+      "at": "05.11.2026 12:19",
+      "count": 9
+    },
     {
       "home": "Real Sociedad",
       "away": "Olympique Lyonnais",
@@ -501,13 +508,6 @@
       "league": "ABD",
       "at": "05.11.2026 11:43",
       "count": 14
-    },
-    {
-      "home": "FC Dallas",
-      "away": "Colorado Rapids",
-      "league": "ABD",
-      "at": "05.11.2026 11:43",
-      "count": 8
     }
   ],
   "paywall": {
