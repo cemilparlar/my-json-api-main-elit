@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 14:55",
+  "updatedAt": "05.11.2026 15:03",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 109,
-      "lost": 71,
-      "total": 180,
-      "rate": 60.6
+      "won": 114,
+      "lost": 82,
+      "total": 196,
+      "rate": 58.2
     },
-    "totalAnalyses": 449422,
+    "totalAnalyses": 449473,
     "leagues": 504,
     "pro": {
-      "won": 1026,
-      "lost": 408,
-      "total": 1434,
-      "rate": 71.5
+      "won": 1031,
+      "lost": 416,
+      "total": 1447,
+      "rate": 71.3
     },
     "insights": {
-      "won": 1775,
-      "lost": 758,
-      "total": 2533,
-      "rate": 70.1
+      "won": 1780,
+      "lost": 767,
+      "total": 2547,
+      "rate": 69.9
     },
     "coupons": {
       "won": 49,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2433,
-    "analyses30d": 21522
+    "analyses24h": 2474,
+    "analyses30d": 21562
   },
   "recentWins": [
     {
@@ -316,6 +316,18 @@
       "at": "04.11.2026 20:00"
     },
     {
+      "type": "coupon",
+      "size": 5,
+      "odds": 1.54,
+      "at": "05.11.2026 15:03"
+    },
+    {
+      "type": "coupon",
+      "size": 4,
+      "odds": 1.53,
+      "at": "05.11.2026 15:03"
+    },
+    {
       "type": "updated",
       "at": "05.11.2026 14:01",
       "home": "Trabzonspor",
@@ -350,44 +362,32 @@
       "at": "05.11.2026 14:00",
       "home": "Kuopion",
       "away": "KAA Gent"
-    },
-    {
-      "type": "updated",
-      "at": "05.11.2026 14:01",
-      "home": "Crystal Palace",
-      "away": "TSG Hoffenheim"
-    },
-    {
-      "type": "updated",
-      "at": "05.11.2026 13:59",
-      "home": "Real Sociedad",
-      "away": "Olympique Lyonnais"
     }
   ],
   "today": {
-    "home": "Panathinaikos",
-    "away": "CSKA Sofia",
-    "league": "AVKL",
+    "home": "Sunderland",
+    "away": "Dinamo Zagreb",
+    "league": "AVL",
     "date": "05.11.2026 20:00",
-    "matchCode": "4578048",
-    "odds": 1.55,
-    "patternScore": 68.05,
-    "patternText": "183.702/269.947",
-    "aiScore": 56,
-    "picks": 3
+    "matchCode": "4549622",
+    "odds": 1.67,
+    "patternScore": 67.38,
+    "patternText": "189.129/280.679",
+    "aiScore": 54,
+    "picks": 4
   },
   "todayList": [
     {
-      "home": "Panathinaikos",
-      "away": "CSKA Sofia",
-      "league": "AVKL",
+      "home": "Sunderland",
+      "away": "Dinamo Zagreb",
+      "league": "AVL",
       "date": "05.11.2026 20:00",
-      "matchCode": "4578048",
-      "odds": 1.55,
-      "patternScore": 68.05,
-      "patternText": "183.702/269.947",
-      "aiScore": 56,
-      "picks": 3
+      "matchCode": "4549622",
+      "odds": 1.67,
+      "patternScore": 67.38,
+      "patternText": "189.129/280.679",
+      "aiScore": 54,
+      "picks": 4
     },
     {
       "home": "Lillestrom SK",
@@ -426,19 +426,40 @@
       "picks": 2
     },
     {
-      "home": "SK Sturm Graz",
-      "away": "NK Celje",
+      "home": "Torreense",
+      "away": "Ararat-Armenia",
       "league": "AVL",
       "date": "05.11.2026 20:00",
-      "matchCode": "4549621",
-      "odds": 1.32,
-      "patternScore": 67.43,
-      "patternText": "171.389/254.174",
+      "matchCode": "4549615",
+      "odds": 1.41,
+      "patternScore": 68.43,
+      "patternText": "180.380/263.585",
       "aiScore": 59,
-      "picks": 2
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Chicago Fire",
+      "away": "Columbus Crew",
+      "league": "ABD",
+      "at": "05.11.2026 15:03",
+      "count": 9
+    },
+    {
+      "home": "DC United",
+      "away": "New York City FC",
+      "league": "ABD",
+      "at": "05.11.2026 15:02",
+      "count": 5
+    },
+    {
+      "home": "New York Red Bulls",
+      "away": "Atlanta United",
+      "league": "ABD",
+      "at": "05.11.2026 15:02",
+      "count": 8
+    },
     {
       "home": "Universitatea Craiova",
       "away": "Egnatia",
@@ -487,27 +508,6 @@
       "league": "AVKL",
       "at": "05.11.2026 14:50",
       "count": 13
-    },
-    {
-      "home": "Sunderland",
-      "away": "Dinamo Zagreb",
-      "league": "AVL",
-      "at": "05.11.2026 14:49",
-      "count": 7
-    },
-    {
-      "home": "AZ Alkmaar",
-      "away": "Juventus",
-      "league": "AVL",
-      "at": "05.11.2026 14:49",
-      "count": 1
-    },
-    {
-      "home": "Sint-Truidense VV",
-      "away": "SK Brann",
-      "league": "AVKL",
-      "at": "05.11.2026 14:49",
-      "count": 17
     }
   ],
   "paywall": {
