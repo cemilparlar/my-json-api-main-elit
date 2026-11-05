@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 15:19",
+  "updatedAt": "05.11.2026 15:27",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 196,
       "rate": 58.2
     },
-    "totalAnalyses": 449520,
+    "totalAnalyses": 449604,
     "leagues": 504,
     "pro": {
       "won": 1031,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2508,
-    "analyses30d": 21596
+    "analyses24h": 2573,
+    "analyses30d": 21661
   },
   "recentWins": [
     {
@@ -347,7 +347,7 @@
     },
     {
       "type": "updated",
-      "at": "05.11.2026 12:36",
+      "at": "05.11.2026 15:19",
       "home": "FC Midtjylland",
       "away": "Ajax"
     },
@@ -440,6 +440,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Houston Dynamo",
+      "away": "St. Louis City SC",
+      "league": "ABD",
+      "at": "05.11.2026 15:26",
+      "count": 6
+    },
+    {
+      "home": "AJ Auxerre",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "05.11.2026 15:25",
+      "count": 6
+    },
+    {
+      "home": "Bayer Leverkusen",
+      "away": "Marseille",
+      "league": "AVL",
+      "at": "05.11.2026 15:20",
+      "count": 8
+    },
+    {
+      "home": "FC Midtjylland",
+      "away": "Ajax",
+      "league": "AVKL",
+      "at": "05.11.2026 15:19",
+      "count": 18
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "TSG Hoffenheim",
+      "league": "AVL",
+      "at": "05.11.2026 15:19",
+      "count": 18
+    },
+    {
       "home": "AC Milan",
       "away": "Ferencvaros",
       "league": "AVL",
@@ -473,41 +508,6 @@
       "league": "ABD",
       "at": "05.11.2026 15:02",
       "count": 5
-    },
-    {
-      "home": "New York Red Bulls",
-      "away": "Atlanta United",
-      "league": "ABD",
-      "at": "05.11.2026 15:02",
-      "count": 8
-    },
-    {
-      "home": "Universitatea Craiova",
-      "away": "Egnatia",
-      "league": "AVKL",
-      "at": "05.11.2026 14:51",
-      "count": 12
-    },
-    {
-      "home": "Riga Fc",
-      "away": "FK Jablonec",
-      "league": "AVKL",
-      "at": "05.11.2026 14:51",
-      "count": 6
-    },
-    {
-      "home": "SK Sturm Graz",
-      "away": "NK Celje",
-      "league": "AVL",
-      "at": "05.11.2026 14:51",
-      "count": 7
-    },
-    {
-      "home": "Hapoel Beer Sh",
-      "away": "Ofi",
-      "league": "AVL",
-      "at": "05.11.2026 14:51",
-      "count": 6
     }
   ],
   "paywall": {
