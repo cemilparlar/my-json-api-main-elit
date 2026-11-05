@@ -3,7 +3,7 @@
   "stats7": {
     "multi": {
       "won": 49,
-      "lost": 23
+      "lost": 24
     },
     "c70_1": {
       "won": 20,
@@ -23,7 +23,7 @@
     },
     "cyz_5": {
       "won": 10,
-      "lost": 5
+      "lost": 6
     },
     "cyz_6": {
       "won": 0,
@@ -69,7 +69,7 @@
     },
     "multi": {
       "won": 49,
-      "lost": 23
+      "lost": 24
     },
     "c70_1": {
       "won": 20,
@@ -89,16 +89,17 @@
     },
     "cyz_5": {
       "won": 10,
-      "lost": 5
+      "lost": 6
     },
     "cyz_6": {
       "won": 0,
       "lost": 1
     }
   },
-  "updatedAt": "05.11.2026 01:58",
-  "updatedAtUtc": "2026-11-05T01:58:00Z",
-  "upcoming": [
+  "updatedAt": "05.11.2026 02:05",
+  "updatedAtUtc": "2026-11-05T02:05:00Z",
+  "upcoming": [],
+  "completed": [
     {
       "id": "20261105-02-1",
       "createdAt": "04.11.2026 23:03",
@@ -109,8 +110,8 @@
       "winChance": 34.71,
       "firstKickoff": "05.11.2026 00:00",
       "lastKickoff": "05.11.2026 00:30",
-      "status": "live",
-      "completedAt": null,
+      "status": "lost",
+      "completedAt": "05.11.2026 02:05",
       "kind": "cyz_5",
       "group": "multi",
       "formula": "5",
@@ -135,9 +136,9 @@
           "patternScore": 70.42,
           "patternText": "180.555/256.406",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 1",
+          "finalScore": "1 - 2",
+          "status": "lost",
           "aiScore": 96
         },
         {
@@ -158,9 +159,9 @@
           "patternScore": 70.0,
           "patternText": "177.442/253.474",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 1",
+          "status": "lost",
           "aiScore": 84
         },
         {
@@ -233,9 +234,7 @@
           "aiScore": 86
         }
       ]
-    }
-  ],
-  "completed": [
+    },
     {
       "id": "20261104-15-1",
       "createdAt": "04.11.2026 12:04",

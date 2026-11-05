@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 01:58",
+  "updatedAt": "05.11.2026 02:05",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 138,
-      "lost": 79,
-      "total": 217,
-      "rate": 63.6
+      "won": 141,
+      "lost": 81,
+      "total": 222,
+      "rate": 63.5
     },
     "totalAnalyses": 444823,
     "leagues": 508,
     "pro": {
-      "won": 1027,
-      "lost": 406,
-      "total": 1433,
-      "rate": 71.7
+      "won": 1026,
+      "lost": 408,
+      "total": 1434,
+      "rate": 71.5
     },
     "insights": {
-      "won": 1769,
-      "lost": 752,
-      "total": 2521,
-      "rate": 70.2
+      "won": 1770,
+      "lost": 754,
+      "total": 2524,
+      "rate": 70.1
     },
     "coupons": {
       "won": 49,
-      "lost": 23,
-      "total": 72,
-      "rate": 68.1
+      "lost": 24,
+      "total": 73,
+      "rate": 67.1
     },
     "analyses24h": 483,
-    "analyses30d": 19530
+    "analyses30d": 19529
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 2.84,
       "probability": 100.0,
       "patternScore": 55.44,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "1 - 0",
       "finalScore": "3 - 0",
       "pro": false
@@ -74,7 +74,7 @@
       "odds": 2.68,
       "probability": 100.0,
       "patternScore": 55.64,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "0 - 1",
       "finalScore": "1 - 2",
       "pro": true
@@ -88,7 +88,7 @@
       "odds": 2.46,
       "probability": 75.0,
       "patternScore": 66.95,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "3 - 1",
       "finalScore": "3 - 1",
       "pro": false
@@ -102,7 +102,7 @@
       "odds": 2.32,
       "probability": 100.0,
       "patternScore": 55.55,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "0 - 0",
       "finalScore": "3 - 0",
       "pro": false
@@ -116,7 +116,7 @@
       "odds": 2.29,
       "probability": 100.0,
       "patternScore": 55.26,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "0 - 1",
       "finalScore": "2 - 3",
       "pro": true
@@ -365,18 +365,30 @@
     }
   ],
   "today": {
-    "home": "Shams Azar Qaz",
-    "away": "Sanat Naft",
-    "league": "IRAN",
-    "date": "05.11.2026 13:00",
-    "matchCode": "4571543",
-    "odds": 1.15,
-    "patternScore": 70.05,
-    "patternText": "247.996/354.020",
-    "aiScore": 79,
+    "home": "ATK Mohun Bagan",
+    "away": "Odisha FC",
+    "league": "HİNSL",
+    "date": "05.11.2026 14:00",
+    "matchCode": "4572343",
+    "odds": 1.17,
+    "patternScore": 67.43,
+    "patternText": "218.133/323.473",
+    "aiScore": 71,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "ATK Mohun Bagan",
+      "away": "Odisha FC",
+      "league": "HİNSL",
+      "date": "05.11.2026 14:00",
+      "matchCode": "4572343",
+      "odds": 1.17,
+      "patternScore": 67.43,
+      "patternText": "218.133/323.473",
+      "aiScore": 71,
+      "picks": 1
+    },
     {
       "home": "Shams Azar Qaz",
       "away": "Sanat Naft",
@@ -386,7 +398,7 @@
       "odds": 1.15,
       "patternScore": 70.05,
       "patternText": "247.996/354.020",
-      "aiScore": 79,
+      "aiScore": 78,
       "picks": 1
     },
     {
@@ -424,18 +436,6 @@
       "patternText": "137.084/205.611",
       "aiScore": 54,
       "picks": 1
-    },
-    {
-      "home": "Lillestrom SK",
-      "away": "FC Viktoria Plzen",
-      "league": "AVL",
-      "date": "05.11.2026 17:45",
-      "matchCode": "4549610",
-      "odds": 1.43,
-      "patternScore": 67.37,
-      "patternText": "130.413/193.565",
-      "aiScore": 55,
-      "picks": 9
     }
   ],
   "recentAnalyzed": [
