@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 18:14",
+  "updatedAt": "05.11.2026 18:22",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 102,
-      "lost": 73,
-      "total": 175,
-      "rate": 58.3
+      "won": 97,
+      "lost": 70,
+      "total": 167,
+      "rate": 58.1
     },
-    "totalAnalyses": 450144,
+    "totalAnalyses": 450177,
     "leagues": 503,
     "pro": {
       "won": 1026,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2774,
-    "analyses30d": 21837
+    "analyses24h": 2785,
+    "analyses30d": 21856
   },
   "recentWins": [
     {
@@ -398,7 +398,7 @@
       "odds": 1.4,
       "patternScore": 66.81,
       "patternText": "115.769/173.291",
-      "aiScore": 60,
+      "aiScore": 61,
       "picks": 3
     },
     {
@@ -439,6 +439,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Panathinaikos",
+      "away": "CSKA Sofia",
+      "league": "AVKL",
+      "at": "05.11.2026 18:19",
+      "count": 4
+    },
     {
       "home": "SK Sturm Graz",
       "away": "NK Celje",
@@ -501,13 +508,6 @@
       "league": "AVL",
       "at": "05.11.2026 17:01",
       "count": 3
-    },
-    {
-      "home": "PFC Levski Sofia",
-      "away": "Jagiellonia Bialystok",
-      "league": "AVL",
-      "at": "05.11.2026 17:00",
-      "count": 5
     }
   ],
   "paywall": {
