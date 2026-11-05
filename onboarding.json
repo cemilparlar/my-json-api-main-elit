@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 17:02",
+  "updatedAt": "05.11.2026 17:10",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 180,
       "rate": 58.9
     },
-    "totalAnalyses": 450090,
+    "totalAnalyses": 450104,
     "leagues": 503,
     "pro": {
       "won": 1032,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2792,
-    "analyses30d": 21854
+    "analyses24h": 2788,
+    "analyses30d": 21850
   },
   "recentWins": [
     {
@@ -335,7 +335,7 @@
     },
     {
       "type": "updated",
-      "at": "05.11.2026 14:01",
+      "at": "05.11.2026 17:02",
       "home": "Trabzonspor",
       "away": "SC Freiburg"
     },
@@ -402,18 +402,6 @@
       "picks": 9
     },
     {
-      "home": "Trabzonspor",
-      "away": "SC Freiburg",
-      "league": "AVKL",
-      "date": "05.11.2026 17:45",
-      "matchCode": "4549551",
-      "odds": 1.41,
-      "patternScore": 66.76,
-      "patternText": "83.593/125.209",
-      "aiScore": 61,
-      "picks": 2
-    },
-    {
       "home": "NEC Nijmegen",
       "away": "Omonia",
       "league": "AVL",
@@ -436,9 +424,49 @@
       "patternText": "114.977/173.250",
       "aiScore": 56,
       "picks": 3
+    },
+    {
+      "home": "Riga Fc",
+      "away": "FK Jablonec",
+      "league": "AVKL",
+      "date": "05.11.2026 20:00",
+      "matchCode": "4578042",
+      "odds": 1.26,
+      "patternScore": 69.39,
+      "patternText": "119.665/172.454",
+      "aiScore": 71,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SK Sturm Graz",
+      "away": "NK Celje",
+      "league": "AVL",
+      "at": "05.11.2026 17:04",
+      "count": 10
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Olympique Lyonnais",
+      "league": "AVL",
+      "at": "05.11.2026 17:03",
+      "count": 4
+    },
+    {
+      "home": "Celta de Vigo",
+      "away": "Union St.G",
+      "league": "AVL",
+      "at": "05.11.2026 17:03",
+      "count": 7
+    },
+    {
+      "home": "Trabzonspor",
+      "away": "SC Freiburg",
+      "league": "AVKL",
+      "at": "05.11.2026 17:02",
+      "count": 4
+    },
     {
       "home": "FC Midtjylland",
       "away": "Ajax",
@@ -480,34 +508,6 @@
       "league": "AVKL",
       "at": "05.11.2026 17:00",
       "count": 7
-    },
-    {
-      "home": "RSC Anderlecht",
-      "away": "Red Bull Salzburg",
-      "league": "AVL",
-      "at": "05.11.2026 17:00",
-      "count": 9
-    },
-    {
-      "home": "AGF Aarhus",
-      "away": "SC Braga",
-      "league": "AVKL",
-      "at": "05.11.2026 16:59",
-      "count": 7
-    },
-    {
-      "home": "AS Monaco",
-      "away": "FC Nordsjaelland",
-      "league": "AVKL",
-      "at": "05.11.2026 16:40",
-      "count": 7
-    },
-    {
-      "home": "Getafe CF",
-      "away": "Brighton & Hove Albion",
-      "league": "AVKL",
-      "at": "05.11.2026 16:21",
-      "count": 6
     }
   ],
   "paywall": {
