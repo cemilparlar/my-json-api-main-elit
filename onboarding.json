@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 14:15",
+  "updatedAt": "05.11.2026 14:24",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 110,
-      "lost": 72,
-      "total": 182,
-      "rate": 60.4
+      "won": 109,
+      "lost": 71,
+      "total": 180,
+      "rate": 60.6
     },
-    "totalAnalyses": 449041,
+    "totalAnalyses": 449123,
     "leagues": 504,
     "pro": {
       "won": 1026,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2240,
-    "analyses30d": 21328
+    "analyses24h": 2314,
+    "analyses30d": 21402
   },
   "recentWins": [
     {
@@ -372,7 +372,7 @@
     "matchCode": "4578048",
     "odds": 1.55,
     "patternScore": 68.05,
-    "patternText": "183.678/269.911",
+    "patternText": "183.690/269.935",
     "aiScore": 56,
     "picks": 3
   },
@@ -385,7 +385,7 @@
       "matchCode": "4578048",
       "odds": 1.55,
       "patternScore": 68.05,
-      "patternText": "183.678/269.911",
+      "patternText": "183.690/269.935",
       "aiScore": 56,
       "picks": 3
     },
@@ -397,7 +397,7 @@
       "matchCode": "4549610",
       "odds": 1.43,
       "patternScore": 67.37,
-      "patternText": "130.477/193.659",
+      "patternText": "130.481/193.671",
       "aiScore": 56,
       "picks": 9
     },
@@ -409,7 +409,7 @@
       "matchCode": "4549617",
       "odds": 1.42,
       "patternScore": 66.58,
-      "patternText": "218.083/327.540",
+      "patternText": "218.095/327.560",
       "aiScore": 56,
       "picks": 3
     },
@@ -421,7 +421,7 @@
       "matchCode": "4549551",
       "odds": 1.41,
       "patternScore": 66.77,
-      "patternText": "83.553/125.133",
+      "patternText": "83.561/125.145",
       "aiScore": 61,
       "picks": 2
     },
@@ -433,12 +433,61 @@
       "matchCode": "4549613",
       "odds": 1.32,
       "patternScore": 66.54,
-      "patternText": "133.747/201.000",
-      "aiScore": 60,
+      "patternText": "133.751/201.012",
+      "aiScore": 61,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Pau FC",
+      "away": "FC Nantes",
+      "league": "FR2",
+      "at": "05.11.2026 14:20",
+      "count": 6
+    },
+    {
+      "home": "AS Saint-Etienne",
+      "away": "Stade Lavalois",
+      "league": "FR2",
+      "at": "05.11.2026 14:20",
+      "count": 14
+    },
+    {
+      "home": "Benevento",
+      "away": "US Avellino",
+      "league": "İTB",
+      "at": "05.11.2026 14:19",
+      "count": 5
+    },
+    {
+      "home": "ADO Den Haag",
+      "away": "Sparta Rotterdam",
+      "league": "HOL",
+      "at": "05.11.2026 14:18",
+      "count": 10
+    },
+    {
+      "home": "Nottingham Forest",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "05.11.2026 14:17",
+      "count": 11
+    },
+    {
+      "home": "OH Leuven",
+      "away": "KV Mechelen",
+      "league": "BEL",
+      "at": "05.11.2026 14:17",
+      "count": 4
+    },
+    {
+      "home": "Parma Calcio",
+      "away": "Bologna FC",
+      "league": "İTA",
+      "at": "05.11.2026 14:15",
+      "count": 11
+    },
     {
       "home": "FK Krasnodar",
       "away": "CSKA Moscow",
@@ -459,55 +508,6 @@
       "league": "AVKL",
       "at": "05.11.2026 14:02",
       "count": 13
-    },
-    {
-      "home": "Trabzonspor",
-      "away": "SC Freiburg",
-      "league": "AVKL",
-      "at": "05.11.2026 14:01",
-      "count": 5
-    },
-    {
-      "home": "Crystal Palace",
-      "away": "TSG Hoffenheim",
-      "league": "AVL",
-      "at": "05.11.2026 14:01",
-      "count": 16
-    },
-    {
-      "home": "Lincoln Red Im",
-      "away": "Hajduk Split",
-      "league": "AVKL",
-      "at": "05.11.2026 14:01",
-      "count": 14
-    },
-    {
-      "home": "Kuopion",
-      "away": "KAA Gent",
-      "league": "AVKL",
-      "at": "05.11.2026 14:00",
-      "count": 2
-    },
-    {
-      "home": "AC Milan",
-      "away": "Ferencvaros",
-      "league": "AVL",
-      "at": "05.11.2026 14:00",
-      "count": 7
-    },
-    {
-      "home": "PFC Levski Sofia",
-      "away": "Jagiellonia Bialystok",
-      "league": "AVL",
-      "at": "05.11.2026 13:59",
-      "count": 11
-    },
-    {
-      "home": "FC Thun",
-      "away": "Heart of Midlothian",
-      "league": "AVKL",
-      "at": "05.11.2026 13:59",
-      "count": 7
     }
   ],
   "paywall": {
