@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 07:29",
+  "updatedAt": "05.11.2026 07:37",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 228,
       "rate": 62.7
     },
-    "totalAnalyses": 444932,
+    "totalAnalyses": 445062,
     "leagues": 508,
     "pro": {
       "won": 1025,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 519,
-    "analyses30d": 19568
+    "analyses24h": 644,
+    "analyses30d": 19693
   },
   "recentWins": [
     {
@@ -347,7 +347,7 @@
     },
     {
       "type": "analysis",
-      "count": 519
+      "count": 644
     }
   ],
   "today": {
@@ -359,7 +359,7 @@
     "odds": 1.13,
     "patternScore": 69.73,
     "patternText": "186.931/268.095",
-    "aiScore": 85,
+    "aiScore": 84,
     "picks": 2
   },
   "todayList": [
@@ -372,7 +372,7 @@
       "odds": 1.13,
       "patternScore": 69.73,
       "patternText": "186.931/268.095",
-      "aiScore": 85,
+      "aiScore": 84,
       "picks": 2
     },
     {
@@ -384,7 +384,7 @@
       "odds": 1.11,
       "patternScore": 69.59,
       "patternText": "201.234/289.162",
-      "aiScore": 92,
+      "aiScore": 91,
       "picks": 1
     },
     {
@@ -396,7 +396,7 @@
       "odds": 1.1,
       "patternScore": 70.49,
       "patternText": "127.414/180.748",
-      "aiScore": 98,
+      "aiScore": 97,
       "picks": 1
     },
     {
@@ -408,7 +408,7 @@
       "odds": 1.06,
       "patternScore": 72.34,
       "patternText": "157.264/217.400",
-      "aiScore": 99,
+      "aiScore": 98,
       "picks": 1
     },
     {
@@ -426,6 +426,62 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Galatasaray",
+      "away": "Amed SK",
+      "league": "TSL",
+      "at": "05.11.2026 07:35",
+      "count": 6
+    },
+    {
+      "home": "Goztepe",
+      "away": "Istanbul Basaksehir",
+      "league": "TSL",
+      "at": "05.11.2026 07:35",
+      "count": 4
+    },
+    {
+      "home": "Pendikspor",
+      "away": "Istanbulspor",
+      "league": "T1L",
+      "at": "05.11.2026 07:35",
+      "count": 4
+    },
+    {
+      "home": "Samsunspor",
+      "away": "Konyaspor",
+      "league": "TSL",
+      "at": "05.11.2026 07:34",
+      "count": 4
+    },
+    {
+      "home": "Muglaspor",
+      "away": "Esenler Erokspor",
+      "league": "T1L",
+      "at": "05.11.2026 07:34",
+      "count": 5
+    },
+    {
+      "home": "Van Spor FK",
+      "away": "Sivasspor",
+      "league": "T1L",
+      "at": "05.11.2026 07:34",
+      "count": 4
+    },
+    {
+      "home": "A. Keciorengucu",
+      "away": "Manisa FK",
+      "league": "T1L",
+      "at": "05.11.2026 07:34",
+      "count": 2
+    },
+    {
+      "home": "Eyupspor",
+      "away": "Kocaelispor",
+      "league": "TSL",
+      "at": "05.11.2026 07:33",
+      "count": 5
+    },
+    {
       "home": "Sariyer",
       "away": "Igdir FK",
       "league": "T1L",
@@ -438,62 +494,6 @@
       "league": "TSL",
       "at": "05.11.2026 07:28",
       "count": 10
-    },
-    {
-      "home": "Antalyaspor",
-      "away": "Bursaspor",
-      "league": "T1L",
-      "at": "05.11.2026 07:28",
-      "count": 3
-    },
-    {
-      "home": "SL Benfica",
-      "away": "Lech Poznan",
-      "league": "AVL",
-      "at": "05.11.2026 03:35",
-      "count": 12
-    },
-    {
-      "home": "Sao Paulo FC",
-      "away": "SC Corinthians",
-      "league": "BR1",
-      "at": "04.11.2026 22:47",
-      "count": 5
-    },
-    {
-      "home": "Atletico Paranaense",
-      "away": "Club de Regatas Vasco da Gama",
-      "league": "BR1",
-      "at": "04.11.2026 21:47",
-      "count": 4
-    },
-    {
-      "home": "Botafogo de Futebol e Regatas",
-      "away": "Atletico Mineiro",
-      "league": "BR1",
-      "at": "04.11.2026 20:08",
-      "count": 3
-    },
-    {
-      "home": "Borussia Dortmund",
-      "away": "Real Betis",
-      "league": "ŞMP",
-      "at": "04.11.2026 19:26",
-      "count": 8
-    },
-    {
-      "home": "Viking",
-      "away": "FK Sabah",
-      "league": "ŞMP",
-      "at": "04.11.2026 19:26",
-      "count": 5
-    },
-    {
-      "home": "RC Lens",
-      "away": "Como 1907",
-      "league": "ŞMP",
-      "at": "04.11.2026 19:26",
-      "count": 7
     }
   ],
   "paywall": {
