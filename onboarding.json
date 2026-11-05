@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 10:35",
+  "updatedAt": "05.11.2026 10:44",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 128,
-      "lost": 80,
-      "total": 208,
-      "rate": 61.5
+      "won": 131,
+      "lost": 81,
+      "total": 212,
+      "rate": 61.8
     },
-    "totalAnalyses": 447040,
+    "totalAnalyses": 447102,
     "leagues": 507,
     "pro": {
-      "won": 1024,
+      "won": 1025,
       "lost": 407,
-      "total": 1431,
+      "total": 1432,
       "rate": 71.6
     },
     "insights": {
-      "won": 1768,
-      "lost": 755,
-      "total": 2523,
+      "won": 1771,
+      "lost": 756,
+      "total": 2527,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1372,
-    "analyses30d": 20433
+    "analyses24h": 1428,
+    "analyses30d": 20490
   },
   "recentWins": [
     {
@@ -347,7 +347,7 @@
     },
     {
       "type": "analysis",
-      "count": 1372
+      "count": 1428
     }
   ],
   "today": {
@@ -396,7 +396,7 @@
       "odds": 1.59,
       "patternScore": 66.67,
       "patternText": "137.120/205.671",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 1
     },
     {
@@ -425,6 +425,27 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Charlton Athletic",
+      "away": "Sheffield United",
+      "league": "İNCL",
+      "at": "05.11.2026 10:41",
+      "count": 8
+    },
+    {
+      "home": "KVC Westerlo",
+      "away": "Sporting Charleroi",
+      "league": "BEL",
+      "at": "05.11.2026 10:41",
+      "count": 3
+    },
+    {
+      "home": "Fulham",
+      "away": "Newcastle United",
+      "league": "İNP",
+      "at": "05.11.2026 10:39",
+      "count": 8
+    },
     {
       "home": "Preston North End",
       "away": "Southam",
@@ -472,27 +493,6 @@
       "away": "SS Arezzo",
       "league": "İTB",
       "at": "05.11.2026 09:58",
-      "count": 3
-    },
-    {
-      "home": "AC Pisa",
-      "away": "FC Sudtirol",
-      "league": "İTB",
-      "at": "05.11.2026 09:58",
-      "count": 8
-    },
-    {
-      "home": "Akhmat Grozny",
-      "away": "Fk Rodina Moskv",
-      "league": "RUS",
-      "at": "05.11.2026 09:44",
-      "count": 5
-    },
-    {
-      "home": "Clermont Foot",
-      "away": "Rodez AF",
-      "league": "FR2",
-      "at": "05.11.2026 09:22",
       "count": 3
     }
   ],
