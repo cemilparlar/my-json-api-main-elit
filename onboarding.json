@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 10:19",
+  "updatedAt": "05.11.2026 10:27",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 208,
       "rate": 61.5
     },
-    "totalAnalyses": 446882,
+    "totalAnalyses": 446910,
     "leagues": 508,
     "pro": {
       "won": 1024,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1289,
-    "analyses30d": 20356
+    "analyses24h": 1312,
+    "analyses30d": 20379
   },
   "recentWins": [
     {
@@ -323,7 +323,13 @@
     },
     {
       "type": "updated",
-      "at": "05.11.2026 09:40",
+      "at": "05.11.2026 10:23",
+      "home": "ATK Mohun Bagan",
+      "away": "Odisha FC"
+    },
+    {
+      "type": "updated",
+      "at": "05.11.2026 10:22",
       "home": "Marines",
       "away": "Police Fc"
     },
@@ -356,10 +362,6 @@
       "home": "Marines",
       "away": "Police Fc",
       "at": "05.11.2026 13:00"
-    },
-    {
-      "type": "analysis",
-      "count": 1289
     }
   ],
   "today": {
