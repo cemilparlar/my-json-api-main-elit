@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 10:27",
+  "updatedAt": "05.11.2026 10:35",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 208,
       "rate": 61.5
     },
-    "totalAnalyses": 446910,
-    "leagues": 508,
+    "totalAnalyses": 447040,
+    "leagues": 507,
     "pro": {
       "won": 1024,
       "lost": 407,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1312,
-    "analyses30d": 20379
+    "analyses24h": 1372,
+    "analyses30d": 20433
   },
   "recentWins": [
     {
@@ -323,18 +323,6 @@
     },
     {
       "type": "updated",
-      "at": "05.11.2026 10:23",
-      "home": "ATK Mohun Bagan",
-      "away": "Odisha FC"
-    },
-    {
-      "type": "updated",
-      "at": "05.11.2026 10:22",
-      "home": "Marines",
-      "away": "Police Fc"
-    },
-    {
-      "type": "updated",
       "at": "05.11.2026 08:33",
       "home": "Al Markhiya",
       "away": "Al Waab"
@@ -358,37 +346,23 @@
       "at": "05.11.2026 13:00"
     },
     {
-      "type": "kickoff",
-      "home": "Marines",
-      "away": "Police Fc",
-      "at": "05.11.2026 13:00"
+      "type": "analysis",
+      "count": 1372
     }
   ],
   "today": {
-    "home": "Marines",
-    "away": "Police Fc",
-    "league": "RUA",
-    "date": "05.11.2026 13:00",
-    "matchCode": "4556512",
-    "odds": 1.6,
-    "patternScore": 68.11,
-    "patternText": "177.172/260.118",
-    "aiScore": 53,
-    "picks": 2
+    "home": "Al Markhiya",
+    "away": "Al Waab",
+    "league": "KATQ",
+    "date": "05.11.2026 14:15",
+    "matchCode": "4536797",
+    "odds": 1.34,
+    "patternScore": 68.32,
+    "patternText": "125.954/184.351",
+    "aiScore": 58,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Marines",
-      "away": "Police Fc",
-      "league": "RUA",
-      "date": "05.11.2026 13:00",
-      "matchCode": "4556512",
-      "odds": 1.6,
-      "patternScore": 68.11,
-      "patternText": "177.172/260.118",
-      "aiScore": 53,
-      "picks": 2
-    },
     {
       "home": "Al Markhiya",
       "away": "Al Waab",
@@ -399,18 +373,6 @@
       "patternScore": 68.32,
       "patternText": "125.954/184.351",
       "aiScore": 58,
-      "picks": 1
-    },
-    {
-      "home": "ATK Mohun Bagan",
-      "away": "Odisha FC",
-      "league": "HİNSL",
-      "date": "05.11.2026 14:00",
-      "matchCode": "4572343",
-      "odds": 1.17,
-      "patternScore": 67.43,
-      "patternText": "218.185/323.561",
-      "aiScore": 69,
       "picks": 1
     },
     {
@@ -436,9 +398,47 @@
       "patternText": "137.120/205.671",
       "aiScore": 54,
       "picks": 1
+    },
+    {
+      "home": "Panathinaikos",
+      "away": "CSKA Sofia",
+      "league": "AVKL",
+      "date": "05.11.2026 20:00",
+      "matchCode": "4578048",
+      "odds": 1.55,
+      "patternScore": 68.05,
+      "patternText": "183.654/269.881",
+      "aiScore": 54,
+      "picks": 3
+    },
+    {
+      "home": "Lillestrom SK",
+      "away": "FC Viktoria Plzen",
+      "league": "AVL",
+      "date": "05.11.2026 17:45",
+      "matchCode": "4549610",
+      "odds": 1.43,
+      "patternScore": 67.37,
+      "patternText": "130.449/193.629",
+      "aiScore": 54,
+      "picks": 9
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Preston North End",
+      "away": "Southam",
+      "league": "İNCL",
+      "at": "05.11.2026 10:31",
+      "count": 2
+    },
+    {
+      "home": "Queens Park Rangers",
+      "away": "Lincoln City",
+      "league": "İNCL",
+      "at": "05.11.2026 10:28",
+      "count": 5
+    },
     {
       "home": "SC Paderborn",
       "away": "Eintracht Frankfurt",
@@ -494,20 +494,6 @@
       "league": "FR2",
       "at": "05.11.2026 09:22",
       "count": 3
-    },
-    {
-      "home": "Burgos CF",
-      "away": "Celta Vigo B",
-      "league": "İS2",
-      "at": "05.11.2026 09:21",
-      "count": 5
-    },
-    {
-      "home": "Malaga CF",
-      "away": "Racing Santander",
-      "league": "İS1",
-      "at": "05.11.2026 09:20",
-      "count": 5
     }
   ],
   "paywall": {
