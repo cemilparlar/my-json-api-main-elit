@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 14:24",
+  "updatedAt": "05.11.2026 14:31",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 109,
+      "won": 107,
       "lost": 71,
-      "total": 180,
-      "rate": 60.6
+      "total": 178,
+      "rate": 60.1
     },
-    "totalAnalyses": 449123,
+    "totalAnalyses": 449207,
     "leagues": 504,
     "pro": {
       "won": 1026,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2314,
-    "analyses30d": 21402
+    "analyses24h": 2390,
+    "analyses30d": 21479
   },
   "recentWins": [
     {
@@ -440,6 +440,62 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Orlando City SC",
+      "away": "New England Revolution",
+      "league": "ABD",
+      "at": "05.11.2026 14:29",
+      "count": 18
+    },
+    {
+      "home": "Atletico Mineiro",
+      "away": "Gremio FBPA",
+      "league": "BRK",
+      "at": "05.11.2026 14:28",
+      "count": 4
+    },
+    {
+      "home": "Philadelphia Union",
+      "away": "Toronto FC",
+      "league": "ABD",
+      "at": "05.11.2026 14:28",
+      "count": 15
+    },
+    {
+      "home": "Excelsior Rotterdam",
+      "away": "Go Ahead Eagles",
+      "league": "HOL",
+      "at": "05.11.2026 14:28",
+      "count": 5
+    },
+    {
+      "home": "AS Roma",
+      "away": "US Sassuolo",
+      "league": "İTA",
+      "at": "05.11.2026 14:27",
+      "count": 10
+    },
+    {
+      "home": "Royal Antwerp",
+      "away": "Lommel United",
+      "league": "BEL",
+      "at": "05.11.2026 14:27",
+      "count": 12
+    },
+    {
+      "home": "La Louviere",
+      "away": "Cercle Brugge",
+      "league": "BEL",
+      "at": "05.11.2026 14:27",
+      "count": 6
+    },
+    {
+      "home": "Hertha BSC",
+      "away": "VfL Wolfsburg",
+      "league": "AL2",
+      "at": "05.11.2026 14:26",
+      "count": 14
+    },
+    {
       "home": "Pau FC",
       "away": "FC Nantes",
       "league": "FR2",
@@ -452,62 +508,6 @@
       "league": "FR2",
       "at": "05.11.2026 14:20",
       "count": 14
-    },
-    {
-      "home": "Benevento",
-      "away": "US Avellino",
-      "league": "İTB",
-      "at": "05.11.2026 14:19",
-      "count": 5
-    },
-    {
-      "home": "ADO Den Haag",
-      "away": "Sparta Rotterdam",
-      "league": "HOL",
-      "at": "05.11.2026 14:18",
-      "count": 10
-    },
-    {
-      "home": "Nottingham Forest",
-      "away": "Manchester City",
-      "league": "İNP",
-      "at": "05.11.2026 14:17",
-      "count": 11
-    },
-    {
-      "home": "OH Leuven",
-      "away": "KV Mechelen",
-      "league": "BEL",
-      "at": "05.11.2026 14:17",
-      "count": 4
-    },
-    {
-      "home": "Parma Calcio",
-      "away": "Bologna FC",
-      "league": "İTA",
-      "at": "05.11.2026 14:15",
-      "count": 11
-    },
-    {
-      "home": "FK Krasnodar",
-      "away": "CSKA Moscow",
-      "league": "RUS",
-      "at": "05.11.2026 14:12",
-      "count": 7
-    },
-    {
-      "home": "Mantova 1911",
-      "away": "Verona",
-      "league": "İTB",
-      "at": "05.11.2026 14:10",
-      "count": 8
-    },
-    {
-      "home": "FC Twente",
-      "away": "Pafos Fc",
-      "league": "AVKL",
-      "at": "05.11.2026 14:02",
-      "count": 13
     }
   ],
   "paywall": {
