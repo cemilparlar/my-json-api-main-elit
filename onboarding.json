@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "04.11.2026 23:53",
+  "updatedAt": "05.11.2026 00:00",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 142,
-      "lost": 78,
-      "total": 220,
-      "rate": 64.5
+      "won": 143,
+      "lost": 80,
+      "total": 223,
+      "rate": 64.1
     },
     "totalAnalyses": 444746,
     "leagues": 509,
@@ -36,9 +36,9 @@
       "rate": 71.6
     },
     "insights": {
-      "won": 1774,
+      "won": 1775,
       "lost": 753,
-      "total": 2527,
+      "total": 2528,
       "rate": 70.2
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 68.1
     },
     "analyses24h": 495,
-    "analyses30d": 19553
+    "analyses30d": 19549
   },
   "recentWins": [
     {
@@ -365,54 +365,18 @@
     }
   ],
   "today": {
-    "home": "Sao Paulo FC",
-    "away": "SC Corinthians",
-    "league": "BR1",
-    "date": "05.11.2026 00:30",
-    "matchCode": "4423361",
-    "odds": 1.14,
-    "patternScore": 68.76,
-    "patternText": "136.145/198.010",
-    "aiScore": 88,
-    "picks": 2
+    "home": "Sydney Olympic FC",
+    "away": "Oakleigh Cannons",
+    "league": "AVC",
+    "date": "05.11.2026 08:30",
+    "matchCode": "4573654",
+    "odds": 1.06,
+    "patternScore": 72.34,
+    "patternText": "157.162/217.266",
+    "aiScore": 98,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Sao Paulo FC",
-      "away": "SC Corinthians",
-      "league": "BR1",
-      "date": "05.11.2026 00:30",
-      "matchCode": "4423361",
-      "odds": 1.14,
-      "patternScore": 68.76,
-      "patternText": "136.145/198.010",
-      "aiScore": 88,
-      "picks": 2
-    },
-    {
-      "home": "The Strongest",
-      "away": "Always Ready",
-      "league": "BOLPLK",
-      "date": "05.11.2026 00:30",
-      "matchCode": "4575438",
-      "odds": 1.1,
-      "patternScore": 70.71,
-      "patternText": "223.410/315.932",
-      "aiScore": 93,
-      "picks": 1
-    },
-    {
-      "home": "Botafogo de Futebol e Regatas",
-      "away": "Atletico Mineiro",
-      "league": "BR1",
-      "date": "05.11.2026 00:30",
-      "matchCode": "4423360",
-      "odds": 1.08,
-      "patternScore": 71.36,
-      "patternText": "160.385/224.743",
-      "aiScore": 98,
-      "picks": 1
-    },
     {
       "home": "Sydney Olympic FC",
       "away": "Oakleigh Cannons",
@@ -436,6 +400,42 @@
       "patternText": "137.054/205.565",
       "aiScore": 54,
       "picks": 1
+    },
+    {
+      "home": "Lillestrom SK",
+      "away": "FC Viktoria Plzen",
+      "league": "AVL",
+      "date": "05.11.2026 17:45",
+      "matchCode": "4549610",
+      "odds": 1.43,
+      "patternScore": 67.38,
+      "patternText": "130.395/193.535",
+      "aiScore": 55,
+      "picks": 9
+    },
+    {
+      "home": "FC Thun",
+      "away": "Heart of Midlothian",
+      "league": "AVKL",
+      "date": "05.11.2026 17:45",
+      "matchCode": "4578035",
+      "odds": 1.42,
+      "patternScore": 68.05,
+      "patternText": "211.849/311.312",
+      "aiScore": 57,
+      "picks": 3
+    },
+    {
+      "home": "AC Sparta Prague",
+      "away": "AFC Bournemouth",
+      "league": "AVL",
+      "date": "05.11.2026 17:45",
+      "matchCode": "4549613",
+      "odds": 1.32,
+      "patternScore": 66.54,
+      "patternText": "133.661/200.864",
+      "aiScore": 60,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
