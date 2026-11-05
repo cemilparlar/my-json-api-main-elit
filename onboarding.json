@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 13:12",
+  "updatedAt": "05.11.2026 13:20",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 180,
       "rate": 60.6
     },
-    "totalAnalyses": 448393,
-    "leagues": 506,
+    "totalAnalyses": 448620,
+    "leagues": 505,
     "pro": {
       "won": 1026,
       "lost": 407,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 1835,
-    "analyses30d": 20911
+    "analyses24h": 1967,
+    "analyses30d": 21042
   },
   "recentWins": [
     {
@@ -440,6 +440,48 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Estoril Praia",
+      "away": "CS Maritimo",
+      "league": "POR",
+      "at": "05.11.2026 13:17",
+      "count": 8
+    },
+    {
+      "home": "CD Santa Clara",
+      "away": "Gil Vicente FC",
+      "league": "POR",
+      "at": "05.11.2026 13:16",
+      "count": 7
+    },
+    {
+      "home": "Zenit St. Petersburg",
+      "away": "FC Rostov",
+      "league": "RUS",
+      "at": "05.11.2026 13:16",
+      "count": 10
+    },
+    {
+      "home": "Girona FC",
+      "away": "UD Almeria",
+      "league": "İS2",
+      "at": "05.11.2026 13:15",
+      "count": 7
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Rayo Vallecano",
+      "league": "İS1",
+      "at": "05.11.2026 13:15",
+      "count": 7
+    },
+    {
+      "home": "KAA Gent",
+      "away": "KV Kortrijk",
+      "league": "BEL",
+      "at": "05.11.2026 13:14",
+      "count": 9
+    },
+    {
       "home": "FC Koln",
       "away": "Bayer Leverkusen",
       "league": "AL1",
@@ -466,48 +508,6 @@
       "league": "İNP",
       "at": "05.11.2026 13:03",
       "count": 6
-    },
-    {
-      "home": "Crystal Palace",
-      "away": "Liverpool",
-      "league": "İNP",
-      "at": "05.11.2026 13:03",
-      "count": 5
-    },
-    {
-      "home": "Virtus Entella",
-      "away": "Modena FC",
-      "league": "İTB",
-      "at": "05.11.2026 13:02",
-      "count": 6
-    },
-    {
-      "home": "Ipswich Town",
-      "away": "AFC Bournemouth",
-      "league": "İNP",
-      "at": "05.11.2026 13:01",
-      "count": 6
-    },
-    {
-      "home": "Krylya Sovetov",
-      "away": "FC Orenburg",
-      "league": "RUS",
-      "at": "05.11.2026 13:00",
-      "count": 1
-    },
-    {
-      "home": "Minnesota United",
-      "away": "San Jose Earthquakes",
-      "league": "ABD",
-      "at": "05.11.2026 12:59",
-      "count": 8
-    },
-    {
-      "home": "FC Midtjylland",
-      "away": "Ajax",
-      "league": "AVKL",
-      "at": "05.11.2026 12:36",
-      "count": 9
     }
   ],
   "paywall": {
