@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 04:18",
+  "updatedAt": "05.11.2026 04:25",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 231,
       "rate": 63.2
     },
-    "totalAnalyses": 444850,
+    "totalAnalyses": 444853,
     "leagues": 508,
     "pro": {
       "won": 1025,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 498,
-    "analyses30d": 19544
+    "analyses24h": 497,
+    "analyses30d": 19543
   },
   "recentWins": [
     {
@@ -347,22 +347,34 @@
     },
     {
       "type": "analysis",
-      "count": 498
+      "count": 497
     }
   ],
   "today": {
-    "home": "Sydney Olympic FC",
-    "away": "Oakleigh Cannons",
-    "league": "AVC",
-    "date": "05.11.2026 08:30",
-    "matchCode": "4573654",
-    "odds": 1.06,
-    "patternScore": 72.34,
-    "patternText": "157.264/217.400",
-    "aiScore": 98,
+    "home": "Kitchee SC",
+    "away": "Phnom Penh Crow",
+    "league": "AFCŞL2",
+    "date": "05.11.2026 10:00",
+    "matchCode": "4550056",
+    "odds": 1.12,
+    "patternScore": 70.41,
+    "patternText": "228.773/324.905",
+    "aiScore": 88,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "Kitchee SC",
+      "away": "Phnom Penh Crow",
+      "league": "AFCŞL2",
+      "date": "05.11.2026 10:00",
+      "matchCode": "4550056",
+      "odds": 1.12,
+      "patternScore": 70.41,
+      "patternText": "228.773/324.905",
+      "aiScore": 88,
+      "picks": 1
+    },
     {
       "home": "Sydney Olympic FC",
       "away": "Oakleigh Cannons",
@@ -409,18 +421,6 @@
       "patternScore": 70.05,
       "patternText": "248.064/354.116",
       "aiScore": 78,
-      "picks": 1
-    },
-    {
-      "home": "Marines",
-      "away": "Police Fc",
-      "league": "RUA",
-      "date": "05.11.2026 13:00",
-      "matchCode": "4556512",
-      "odds": 1.1,
-      "patternScore": 70.49,
-      "patternText": "127.414/180.748",
-      "aiScore": 98,
       "picks": 1
     }
   ],
