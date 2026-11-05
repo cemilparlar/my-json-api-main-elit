@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "05.11.2026 15:59",
+  "updatedAt": "05.11.2026 16:08",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 113,
-      "lost": 79,
-      "total": 192,
-      "rate": 58.9
+      "won": 106,
+      "lost": 76,
+      "total": 182,
+      "rate": 58.2
     },
-    "totalAnalyses": 449861,
+    "totalAnalyses": 449890,
     "leagues": 504,
     "pro": {
       "won": 1033,
@@ -47,8 +47,8 @@
       "total": 73,
       "rate": 67.1
     },
-    "analyses24h": 2742,
-    "analyses30d": 21836
+    "analyses24h": 2747,
+    "analyses30d": 21827
   },
   "recentWins": [
     {
@@ -319,6 +319,12 @@
       "type": "coupon",
       "size": 5,
       "odds": 1.54,
+      "at": "05.11.2026 16:08"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
+      "odds": 1.54,
       "at": "05.11.2026 15:03"
     },
     {
@@ -353,15 +359,9 @@
     },
     {
       "type": "updated",
-      "at": "05.11.2026 13:59",
+      "at": "05.11.2026 16:02",
       "home": "FC Thun",
       "away": "Heart of Midlothian"
-    },
-    {
-      "type": "updated",
-      "at": "05.11.2026 14:00",
-      "home": "Kuopion",
-      "away": "KAA Gent"
     }
   ],
   "today": {
@@ -440,18 +440,53 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Valencia CF",
-      "away": "Real Madrid",
-      "league": "İS1",
-      "at": "05.11.2026 15:50",
+      "home": "AS Monaco",
+      "away": "FC Nordsjaelland",
+      "league": "AVKL",
+      "at": "05.11.2026 16:04",
       "count": 14
+    },
+    {
+      "home": "Torreense",
+      "away": "Ararat-Armenia",
+      "league": "AVL",
+      "at": "05.11.2026 16:03",
+      "count": 4
+    },
+    {
+      "home": "Sunderland",
+      "away": "Dinamo Zagreb",
+      "league": "AVL",
+      "at": "05.11.2026 16:03",
+      "count": 5
+    },
+    {
+      "home": "FC Thun",
+      "away": "Heart of Midlothian",
+      "league": "AVKL",
+      "at": "05.11.2026 16:02",
+      "count": 7
     },
     {
       "home": "Crystal Palace",
       "away": "TSG Hoffenheim",
       "league": "AVL",
-      "at": "05.11.2026 15:41",
-      "count": 9
+      "at": "05.11.2026 16:02",
+      "count": 13
+    },
+    {
+      "home": "AC Milan",
+      "away": "Ferencvaros",
+      "league": "AVL",
+      "at": "05.11.2026 16:02",
+      "count": 6
+    },
+    {
+      "home": "Valencia CF",
+      "away": "Real Madrid",
+      "league": "İS1",
+      "at": "05.11.2026 15:50",
+      "count": 14
     },
     {
       "home": "Getafe CF",
@@ -468,46 +503,11 @@
       "count": 6
     },
     {
-      "home": "AC Milan",
-      "away": "Ferencvaros",
-      "league": "AVL",
-      "at": "05.11.2026 15:40",
-      "count": 11
-    },
-    {
       "home": "NEC Nijmegen",
       "away": "Omonia",
       "league": "AVL",
       "at": "05.11.2026 15:40",
       "count": 9
-    },
-    {
-      "home": "FC Magdeburg",
-      "away": "St Pauli",
-      "league": "AL2",
-      "at": "05.11.2026 15:28",
-      "count": 4
-    },
-    {
-      "home": "Houston Dynamo",
-      "away": "St. Louis City SC",
-      "league": "ABD",
-      "at": "05.11.2026 15:26",
-      "count": 6
-    },
-    {
-      "home": "AJ Auxerre",
-      "away": "Paris FC",
-      "league": "FR1",
-      "at": "05.11.2026 15:25",
-      "count": 6
-    },
-    {
-      "home": "Bayer Leverkusen",
-      "away": "Marseille",
-      "league": "AVL",
-      "at": "05.11.2026 15:20",
-      "count": 8
     }
   ],
   "paywall": {
