@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 06:23",
+  "updatedAt": "06.11.2026 06:30",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2728,
-    "analyses30d": 21743
+    "analyses24h": 2726,
+    "analyses30d": 21741
   },
   "recentWins": [
     {
@@ -343,12 +343,6 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 06:21",
-      "home": "Adelaide United",
-      "away": "Wellington Phoenix"
-    },
-    {
-      "type": "updated",
       "at": "06.11.2026 06:01",
       "home": "Canberra",
       "away": "Sydney United 58 FC"
@@ -358,6 +352,12 @@
       "at": "06.11.2026 05:03",
       "home": "Sydney FC",
       "away": "Central Coast Mariners"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 06:21",
+      "home": "Madura United",
+      "away": "Arema FC"
     },
     {
       "type": "updated",
@@ -404,6 +404,18 @@
       "picks": 3
     },
     {
+      "home": "Madura United",
+      "away": "Arema FC",
+      "league": "ENDL1",
+      "date": "06.11.2026 12:00",
+      "matchCode": "4550391",
+      "odds": 1.12,
+      "patternScore": 71.19,
+      "patternText": "177.614/249.488",
+      "aiScore": 89,
+      "picks": 2
+    },
+    {
       "home": "Canberra",
       "away": "Sydney United 58 FC",
       "league": "AVC",
@@ -413,18 +425,6 @@
       "patternScore": 68.78,
       "patternText": "150.476/218.765",
       "aiScore": 98,
-      "picks": 1
-    },
-    {
-      "home": "Adelaide United",
-      "away": "Wellington Phoenix",
-      "league": "AVUSTW",
-      "date": "06.11.2026 08:00",
-      "matchCode": "4551569",
-      "odds": 1.09,
-      "patternScore": 71.02,
-      "patternText": "279.587/393.661",
-      "aiScore": 95,
       "picks": 1
     },
     {
