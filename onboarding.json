@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 10:54",
+  "updatedAt": "06.11.2026 11:02",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 181,
-      "lost": 142,
-      "total": 323,
+      "won": 183,
+      "lost": 144,
+      "total": 327,
       "rate": 56.0
     },
-    "totalAnalyses": 450927,
-    "leagues": 504,
+    "totalAnalyses": 450975,
+    "leagues": 502,
     "pro": {
       "won": 1077,
       "lost": 442,
@@ -36,9 +36,9 @@
       "rate": 70.9
     },
     "insights": {
-      "won": 1862,
-      "lost": 801,
-      "total": 2663,
+      "won": 1863,
+      "lost": 803,
+      "total": 2666,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2785,
-    "analyses30d": 21790
+    "analyses24h": 2827,
+    "analyses30d": 21819
   },
   "recentWins": [
     {
@@ -355,12 +355,6 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 10:47",
-      "home": "Madura United",
-      "away": "Arema FC"
-    },
-    {
-      "type": "updated",
       "at": "06.11.2026 08:15",
       "home": "Al Jazeera Club",
       "away": "Al Ramtha"
@@ -376,6 +370,12 @@
       "at": "06.11.2026 10:11",
       "home": "Chadormalu",
       "away": "Foolad Khuzesta"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 10:29",
+      "home": "Lamphun Warrior",
+      "away": "Sukhothai FC"
     }
   ],
   "today": {
@@ -404,6 +404,18 @@
       "picks": 1
     },
     {
+      "home": "Gaziantep FK",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "date": "06.11.2026 17:00",
+      "matchCode": "4542743",
+      "odds": 1.67,
+      "patternScore": 66.72,
+      "patternText": "236.717/354.792",
+      "aiScore": 54,
+      "picks": 8
+    },
+    {
       "home": "Al Zulfi",
       "away": "Jeddah Club",
       "league": "SUUD1",
@@ -416,40 +428,28 @@
       "picks": 3
     },
     {
-      "home": "Al Shabab",
-      "away": "Al Tadhamon",
-      "league": "KUV",
-      "date": "06.11.2026 16:40",
-      "matchCode": "4545740",
-      "odds": 1.25,
-      "patternScore": 68.45,
-      "patternText": "223.267/326.165",
-      "aiScore": 65,
-      "picks": 4
+      "home": "Vejle BK",
+      "away": "FC Fredericia",
+      "league": "DAN1",
+      "date": "06.11.2026 17:00",
+      "matchCode": "4476299",
+      "odds": 1.28,
+      "patternScore": 68.23,
+      "patternText": "222.290/325.814",
+      "aiScore": 70,
+      "picks": 3
     },
     {
-      "home": "Chadormalu",
-      "away": "Foolad Khuzesta",
-      "league": "IRAN",
-      "date": "06.11.2026 14:00",
-      "matchCode": "4571547",
+      "home": "Puszcza Niepolomice",
+      "away": "Miedz Legnica",
+      "league": "POL1",
+      "date": "06.11.2026 17:00",
+      "matchCode": "4486246",
       "odds": 1.19,
-      "patternScore": 69.4,
-      "patternText": "404.147/582.312",
+      "patternScore": 69.06,
+      "patternText": "233.764/338.472",
       "aiScore": 80,
-      "picks": 2
-    },
-    {
-      "home": "Al Jazeera Club",
-      "away": "Al Ramtha",
-      "league": "ÜRD",
-      "date": "06.11.2026 14:00",
-      "matchCode": "4571287",
-      "odds": 1.18,
-      "patternScore": 69.38,
-      "patternText": "237.786/342.733",
-      "aiScore": 77,
-      "picks": 2
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
