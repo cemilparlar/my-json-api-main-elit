@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 10:45",
+  "updatedAt": "06.11.2026 10:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 323,
       "rate": 56.0
     },
-    "totalAnalyses": 450893,
+    "totalAnalyses": 450927,
     "leagues": 504,
     "pro": {
       "won": 1077,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2755,
-    "analyses30d": 21760
+    "analyses24h": 2785,
+    "analyses30d": 21790
   },
   "recentWins": [
     {
@@ -331,6 +331,12 @@
     },
     {
       "type": "updated",
+      "at": "06.11.2026 10:49",
+      "home": "Lokomotiv Moscow",
+      "away": "Rubin Kazan"
+    },
+    {
+      "type": "updated",
       "at": "06.11.2026 07:15",
       "home": "Adelaide United",
       "away": "Wellington Phoenix"
@@ -349,7 +355,7 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 10:29",
+      "at": "06.11.2026 10:47",
       "home": "Madura United",
       "away": "Arema FC"
     },
@@ -370,12 +376,6 @@
       "at": "06.11.2026 10:11",
       "home": "Chadormalu",
       "away": "Foolad Khuzesta"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 10:29",
-      "home": "Lamphun Warrior",
-      "away": "Sukhothai FC"
     }
   ],
   "today": {
@@ -386,7 +386,7 @@
     "matchCode": "4544157",
     "odds": 1.77,
     "patternScore": 67.94,
-    "patternText": "176.720/260.121",
+    "patternText": "176.732/260.139",
     "aiScore": 55,
     "picks": 1
   },
@@ -399,7 +399,7 @@
       "matchCode": "4544157",
       "odds": 1.77,
       "patternScore": 67.94,
-      "patternText": "176.720/260.121",
+      "patternText": "176.732/260.139",
       "aiScore": 55,
       "picks": 1
     },
@@ -410,8 +410,8 @@
       "date": "06.11.2026 14:55",
       "matchCode": "4538725",
       "odds": 1.32,
-      "patternScore": 68.46,
-      "patternText": "219.517/320.666",
+      "patternScore": 68.45,
+      "patternText": "219.533/320.700",
       "aiScore": 61,
       "picks": 3
     },
@@ -422,8 +422,8 @@
       "date": "06.11.2026 16:40",
       "matchCode": "4545740",
       "odds": 1.25,
-      "patternScore": 68.46,
-      "patternText": "223.255/326.127",
+      "patternScore": 68.45,
+      "patternText": "223.267/326.165",
       "aiScore": 65,
       "picks": 4
     },
@@ -434,8 +434,8 @@
       "date": "06.11.2026 14:00",
       "matchCode": "4571547",
       "odds": 1.19,
-      "patternScore": 69.41,
-      "patternText": "404.135/582.270",
+      "patternScore": 69.4,
+      "patternText": "404.147/582.312",
       "aiScore": 80,
       "picks": 2
     },
@@ -447,12 +447,19 @@
       "matchCode": "4571287",
       "odds": 1.18,
       "patternScore": 69.38,
-      "patternText": "237.774/342.703",
+      "patternText": "237.786/342.733",
       "aiScore": 77,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Lokomotiv Moscow",
+      "away": "Rubin Kazan",
+      "league": "RUS",
+      "at": "06.11.2026 10:49",
+      "count": 5
+    },
     {
       "home": "RB Leipzig",
       "away": "FC Augsburg",
@@ -515,13 +522,6 @@
       "league": "AVL",
       "at": "05.11.2026 17:03",
       "count": 4
-    },
-    {
-      "home": "Celta de Vigo",
-      "away": "Union St.G",
-      "league": "AVL",
-      "at": "05.11.2026 17:03",
-      "count": 7
     }
   ],
   "paywall": {
