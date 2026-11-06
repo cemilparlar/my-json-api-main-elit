@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 14:23",
+  "updatedAt": "06.11.2026 14:31",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 305,
       "rate": 56.7
     },
-    "totalAnalyses": 451770,
+    "totalAnalyses": 451786,
     "leagues": 502,
     "pro": {
-      "won": 1070,
+      "won": 1068,
       "lost": 441,
-      "total": 1511,
+      "total": 1509,
       "rate": 70.8
     },
     "insights": {
-      "won": 1848,
+      "won": 1846,
       "lost": 799,
-      "total": 2647,
+      "total": 2645,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 78,
       "rate": 62.8
     },
-    "analyses24h": 3118,
-    "analyses30d": 22088
+    "analyses24h": 3096,
+    "analyses30d": 22066
   },
   "recentWins": [
     {
@@ -349,7 +349,7 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 12:12",
+      "at": "06.11.2026 14:26",
       "home": "Gaziantep FK",
       "away": "Kasimpasa"
     },
@@ -367,13 +367,13 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 14:10",
+      "at": "06.11.2026 14:26",
       "home": "UFC Amstetten",
       "away": "Wacker Innsbruc"
     },
     {
       "type": "updated",
-      "at": "06.11.2026 13:45",
+      "at": "06.11.2026 14:28",
       "home": "FC Admira Wacker Modling",
       "away": "St Polten"
     }
@@ -454,6 +454,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Sevilla FC",
+      "away": "Deportivo Alaves",
+      "league": "İS1",
+      "at": "06.11.2026 14:30",
+      "count": 7
+    },
+    {
+      "home": "Everton",
+      "away": "Coventry City",
+      "league": "İNP",
+      "at": "06.11.2026 14:29",
+      "count": 2
+    },
+    {
+      "home": "Gaziantep FK",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "at": "06.11.2026 14:26",
+      "count": 4
+    },
+    {
       "home": "Vitoria Guimaraes",
       "away": "FC Porto",
       "league": "POR",
@@ -473,20 +494,6 @@
       "league": "İNCL",
       "at": "06.11.2026 14:13",
       "count": 5
-    },
-    {
-      "home": "Sevilla FC",
-      "away": "Deportivo Alaves",
-      "league": "İS1",
-      "at": "06.11.2026 14:12",
-      "count": 7
-    },
-    {
-      "home": "Everton",
-      "away": "Coventry City",
-      "league": "İNP",
-      "at": "06.11.2026 14:12",
-      "count": 8
     },
     {
       "home": "Hamburger SV",
@@ -515,13 +522,6 @@
       "league": "FR1",
       "at": "06.11.2026 13:54",
       "count": 8
-    },
-    {
-      "home": "Ascoli Calcio",
-      "away": "Palermo FC",
-      "league": "İTB",
-      "at": "06.11.2026 13:44",
-      "count": 5
     }
   ],
   "paywall": {
