@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 11:25",
+  "updatedAt": "06.11.2026 11:34",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 327,
       "rate": 56.0
     },
-    "totalAnalyses": 451034,
+    "totalAnalyses": 451093,
     "leagues": 502,
     "pro": {
       "won": 1077,
@@ -36,9 +36,9 @@
       "rate": 70.9
     },
     "insights": {
-      "won": 1863,
+      "won": 1862,
       "lost": 803,
-      "total": 2666,
+      "total": 2665,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2850,
-    "analyses30d": 21842
+    "analyses24h": 2886,
+    "analyses30d": 21861
   },
   "recentWins": [
     {
@@ -337,7 +337,7 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 11:09",
+      "at": "06.11.2026 11:29",
       "home": "Gaziantep FK",
       "away": "Kasimpasa"
     },
@@ -416,18 +416,6 @@
       "picks": 1
     },
     {
-      "home": "Lamphun Warrior",
-      "away": "Sukhothai FC",
-      "league": "TAY",
-      "date": "06.11.2026 12:00",
-      "matchCode": "4539101",
-      "odds": 1.34,
-      "patternScore": 68.08,
-      "patternText": "216.821/318.492",
-      "aiScore": 60,
-      "picks": 1
-    },
-    {
       "home": "Al Zulfi",
       "away": "Jeddah Club",
       "league": "SUUD1",
@@ -450,9 +438,28 @@
       "patternText": "241.394/352.426",
       "aiScore": 70,
       "picks": 1
+    },
+    {
+      "home": "Puszcza Niepolomice",
+      "away": "Miedz Legnica",
+      "league": "POL1",
+      "date": "06.11.2026 17:00",
+      "matchCode": "4486246",
+      "odds": 1.21,
+      "patternScore": 68.32,
+      "patternText": "233.718/342.082",
+      "aiScore": 77,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Gaziantep FK",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "at": "06.11.2026 11:29",
+      "count": 6
+    },
     {
       "home": "Antalyaspor",
       "away": "Bursaspor",
@@ -466,13 +473,6 @@
       "league": "T1L",
       "at": "06.11.2026 11:10",
       "count": 5
-    },
-    {
-      "home": "Gaziantep FK",
-      "away": "Kasimpasa",
-      "league": "TSL",
-      "at": "06.11.2026 11:09",
-      "count": 10
     },
     {
       "home": "Lokomotiv Moscow",
