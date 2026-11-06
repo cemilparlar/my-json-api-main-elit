@@ -96,8 +96,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "06.11.2026 18:53",
-  "updatedAtUtc": "2026-11-06T18:53:00Z",
+  "updatedAt": "06.11.2026 19:01",
+  "updatedAtUtc": "2026-11-06T19:01:00Z",
   "upcoming": [
     {
       "id": "20261106-18-3",
@@ -362,9 +362,9 @@
           "patternScore": 69.97,
           "patternText": "207.307/296.290",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 2",
+          "finalScore": "0 - 2",
+          "status": "won",
           "aiScore": 84
         }
       ]
@@ -611,7 +611,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 99
         },
         {
@@ -634,7 +634,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 98
         },
         {
@@ -657,7 +657,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 98
         }
       ]
@@ -792,7 +792,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 97
         }
       ]
@@ -904,7 +904,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 98
         },
         {
@@ -927,7 +927,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 97
         },
         {
@@ -950,7 +950,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 97
         }
       ]
@@ -1016,7 +1016,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 96
         },
         {
@@ -1039,7 +1039,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 93
         },
         {
@@ -1062,7 +1062,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 93
         },
         {
@@ -1085,7 +1085,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 92
         }
       ]
@@ -1174,7 +1174,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 93
         },
         {
@@ -1197,7 +1197,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 88
         },
         {
@@ -1220,7 +1220,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 87
         }
       ]
@@ -1332,7 +1332,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 83
         },
         {
@@ -1355,7 +1355,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 82
         }
       ]
@@ -1421,7 +1421,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 89
         },
         {
@@ -1482,7 +1482,7 @@
       "winChance": 44.33,
       "firstKickoff": "06.11.2026 19:00",
       "lastKickoff": "06.11.2026 20:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_4",
       "group": "multi",
@@ -1510,7 +1510,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 98
         },
         {
@@ -1594,7 +1594,7 @@
       "winChance": 44.54,
       "firstKickoff": "06.11.2026 19:00",
       "lastKickoff": "06.11.2026 19:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_4",
       "group": "multi",
@@ -1622,7 +1622,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 95
         },
         {
@@ -1706,7 +1706,7 @@
       "winChance": 39.89,
       "firstKickoff": "06.11.2026 19:00",
       "lastKickoff": "06.11.2026 20:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_4",
       "group": "multi",
@@ -1734,7 +1734,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 87
         },
         {
@@ -1818,7 +1818,7 @@
       "winChance": 42.85,
       "firstKickoff": "06.11.2026 19:00",
       "lastKickoff": "06.11.2026 20:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_4",
       "group": "multi",
@@ -1846,7 +1846,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 94
         },
         {
@@ -1869,7 +1869,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 84
         },
         {
@@ -1930,7 +1930,7 @@
       "winChance": 42.09,
       "firstKickoff": "06.11.2026 19:00",
       "lastKickoff": "06.11.2026 19:45",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_4",
       "group": "multi",
@@ -1958,7 +1958,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 92
         },
         {
@@ -2042,7 +2042,7 @@
       "winChance": 33.31,
       "firstKickoff": "06.11.2026 19:00",
       "lastKickoff": "06.11.2026 20:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_5",
       "group": "multi",
@@ -2070,7 +2070,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 91
         },
         {
@@ -2177,7 +2177,7 @@
       "winChance": 39.37,
       "firstKickoff": "06.11.2026 19:00",
       "lastKickoff": "06.11.2026 19:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_4",
       "group": "multi",
@@ -2205,7 +2205,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 85
         },
         {
@@ -2228,7 +2228,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 84
         },
         {
@@ -2251,7 +2251,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 83
         },
         {
@@ -2411,6 +2411,141 @@
           "finalScore": null,
           "status": "pending",
           "aiScore": 90
+        }
+      ]
+    },
+    {
+      "id": "20261106-22-1",
+      "createdAt": "06.11.2026 19:01",
+      "createdAtUtc": "2026-11-06T19:01:00Z",
+      "size": 5,
+      "mbs": 1,
+      "totalOdds": 1.54,
+      "winChance": 34.69,
+      "firstKickoff": "06.11.2026 19:45",
+      "lastKickoff": "06.11.2026 20:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "cyz_5",
+      "group": "multi",
+      "formula": "5",
+      "multiScore": 77,
+      "effectiveOdds": 1.54,
+      "legs": [
+        {
+          "matchCode": "4480762",
+          "nesine": null,
+          "date": "06.11.2026 19:45",
+          "kickoffUtc": "2026-11-06T19:45:00Z",
+          "league": "BEL",
+          "home": "Standard Liege",
+          "away": "Waasland-Beveren",
+          "league_tr": "BEL",
+          "home_tr": "Standard Liege",
+          "away_tr": "Waasland Bevere",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.11,
+          "probability": 91.67,
+          "patternScore": 68.93,
+          "patternText": "119.875/173.912",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 96
+        },
+        {
+          "matchCode": "4476592",
+          "nesine": null,
+          "date": "06.11.2026 19:45",
+          "kickoffUtc": "2026-11-06T19:45:00Z",
+          "league": "FR1",
+          "home": "Toulouse FC",
+          "away": "RC Strasbourg",
+          "league_tr": "FR1",
+          "home_tr": "Toulouse",
+          "away_tr": "Strasbourg",
+          "prediction": "Handicap (0:2) 2",
+          "prediction_tr": "Handikaplı Maç Sonucu (0:2) 2",
+          "odds": 1.08,
+          "probability": 75.0,
+          "patternScore": 68.59,
+          "patternText": "249.193/363.325",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 92
+        },
+        {
+          "matchCode": "4475151",
+          "nesine": null,
+          "date": "06.11.2026 19:45",
+          "kickoffUtc": "2026-11-06T19:45:00Z",
+          "league": "İTA",
+          "home": "Unione V.",
+          "away": "Udinese",
+          "league_tr": "İTA",
+          "home_tr": "Unione V.",
+          "away_tr": "Udinese",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.1,
+          "probability": 73.53,
+          "patternScore": 69.5,
+          "patternText": "257.289/370.217",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 84
+        },
+        {
+          "matchCode": "4492376",
+          "nesine": null,
+          "date": "06.11.2026 20:00",
+          "kickoffUtc": "2026-11-06T20:00:00Z",
+          "league": "İS1",
+          "home": "Sevilla FC",
+          "away": "Deportivo Alaves",
+          "league_tr": "İS1",
+          "home_tr": "Sevilla",
+          "away_tr": "Alaves",
+          "prediction": "Handicap (1:0) 1",
+          "prediction_tr": "Handikaplı Maç Sonucu (1:0) 1",
+          "odds": 1.06,
+          "probability": 80.0,
+          "patternScore": 70.02,
+          "patternText": "142.502/203.530",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 94
+        },
+        {
+          "matchCode": "4481104",
+          "nesine": null,
+          "date": "06.11.2026 20:00",
+          "kickoffUtc": "2026-11-06T20:00:00Z",
+          "league": "İNP",
+          "home": "Everton",
+          "away": "Coventry City",
+          "league_tr": "İNP",
+          "home_tr": "Everton",
+          "away_tr": "Coventry",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.1,
+          "probability": 77.78,
+          "patternScore": 70.29,
+          "patternText": "285.249/405.828",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 92
         }
       ]
     }

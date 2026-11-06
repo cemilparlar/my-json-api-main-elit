@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 18:53",
+  "updatedAt": "06.11.2026 19:01",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 171,
-      "lost": 97,
-      "total": 268,
-      "rate": 63.8
+      "won": 185,
+      "lost": 103,
+      "total": 288,
+      "rate": 64.2
     },
     "totalAnalyses": 452288,
-    "leagues": 493,
+    "leagues": 492,
     "pro": {
       "won": 1094,
-      "lost": 446,
-      "total": 1540,
-      "rate": 71.0
+      "lost": 442,
+      "total": 1536,
+      "rate": 71.2
     },
     "insights": {
-      "won": 1877,
-      "lost": 800,
-      "total": 2677,
-      "rate": 70.1
+      "won": 1871,
+      "lost": 795,
+      "total": 2666,
+      "rate": 70.2
     },
     "coupons": {
       "won": 46,
@@ -47,8 +47,8 @@
       "total": 77,
       "rate": 59.7
     },
-    "analyses24h": 3055,
-    "analyses30d": 21851
+    "analyses24h": 3054,
+    "analyses30d": 21844
   },
   "recentWins": [
     {
@@ -331,6 +331,12 @@
     },
     {
       "type": "coupon",
+      "size": 5,
+      "odds": 1.54,
+      "at": "06.11.2026 19:01"
+    },
+    {
+      "type": "coupon",
       "size": 4,
       "odds": 1.51,
       "at": "06.11.2026 18:00"
@@ -339,12 +345,6 @@
       "type": "coupon",
       "size": 4,
       "odds": 1.54,
-      "at": "06.11.2026 18:00"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.51,
       "at": "06.11.2026 18:00"
     },
     {
@@ -428,18 +428,6 @@
       "picks": 3
     },
     {
-      "home": "Union Brescia",
-      "away": "Union Arzignano",
-      "league": "İTC",
-      "date": "06.11.2026 19:30",
-      "matchCode": "4535186",
-      "odds": 1.33,
-      "patternScore": 68.05,
-      "patternText": "210.710/309.646",
-      "aiScore": 57,
-      "picks": 3
-    },
-    {
       "home": "Cuiaba",
       "away": "Juventude",
       "league": "BR2",
@@ -449,6 +437,18 @@
       "patternScore": 68.47,
       "patternText": "258.699/377.846",
       "aiScore": 60,
+      "picks": 3
+    },
+    {
+      "home": "Derby County",
+      "away": "Bolton Wanderers",
+      "league": "İNCL",
+      "date": "06.11.2026 20:00",
+      "matchCode": "4488854",
+      "odds": 1.31,
+      "patternScore": 67.91,
+      "patternText": "200.899/295.848",
+      "aiScore": 58,
       "picks": 3
     }
   ],
