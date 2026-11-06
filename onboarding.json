@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 13:42",
+  "updatedAt": "06.11.2026 13:50",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 306,
       "rate": 56.5
     },
-    "totalAnalyses": 451502,
+    "totalAnalyses": 451585,
     "leagues": 502,
     "pro": {
       "won": 1070,
@@ -47,8 +47,8 @@
       "total": 78,
       "rate": 62.8
     },
-    "analyses24h": 3020,
-    "analyses30d": 21997
+    "analyses24h": 3045,
+    "analyses30d": 22022
   },
   "recentWins": [
     {
@@ -367,15 +367,15 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 10:49",
-      "home": "Lokomotiv Moscow",
-      "away": "Rubin Kazan"
+      "at": "06.11.2026 13:45",
+      "home": "FC Admira Wacker Modling",
+      "away": "St Polten"
     },
     {
       "type": "updated",
-      "at": "06.11.2026 11:10",
-      "home": "Vejle BK",
-      "away": "FC Fredericia"
+      "at": "06.11.2026 10:49",
+      "home": "Lokomotiv Moscow",
+      "away": "Rubin Kazan"
     }
   ],
   "today": {
@@ -428,31 +428,38 @@
       "picks": 8
     },
     {
-      "home": "Silkeborg IF",
-      "away": "Lyngby BK",
-      "league": "DAN",
-      "date": "06.11.2026 18:00",
-      "matchCode": "4474522",
-      "odds": 1.39,
-      "patternScore": 67.5,
-      "patternText": "263.026/389.683",
-      "aiScore": 56,
+      "home": "Unione V.",
+      "away": "Udinese",
+      "league": "İTA",
+      "date": "06.11.2026 19:45",
+      "matchCode": "4475151",
+      "odds": 1.47,
+      "patternScore": 67.75,
+      "patternText": "222.432/328.295",
+      "aiScore": 55,
       "picks": 6
     },
     {
-      "home": "Brentford U21",
-      "away": "Wolverhampton Wanderers U21",
-      "league": "INGPL2",
-      "date": "06.11.2026 19:00",
-      "matchCode": "4544158",
-      "odds": 1.36,
-      "patternScore": 66.98,
-      "patternText": "167.478/250.029",
-      "aiScore": 61,
-      "picks": 1
+      "home": "Toulouse FC",
+      "away": "RC Strasbourg",
+      "league": "FR1",
+      "date": "06.11.2026 19:45",
+      "matchCode": "4476592",
+      "odds": 1.41,
+      "patternScore": 66.58,
+      "patternText": "164.738/247.434",
+      "aiScore": 60,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Ascoli Calcio",
+      "away": "Palermo FC",
+      "league": "İTB",
+      "at": "06.11.2026 13:44",
+      "count": 5
+    },
     {
       "home": "Hamburger SV",
       "away": "Borussia Monchengladbach",
@@ -515,13 +522,6 @@
       "league": "TSL",
       "at": "06.11.2026 12:12",
       "count": 6
-    },
-    {
-      "home": "Eintracht Braunschweig",
-      "away": "Energie Cottbus",
-      "league": "AL2",
-      "at": "06.11.2026 11:51",
-      "count": 9
     }
   ],
   "paywall": {
