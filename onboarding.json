@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 15:55",
+  "updatedAt": "06.11.2026 16:03",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 197,
+      "won": 201,
       "lost": 149,
-      "total": 346,
-      "rate": 56.9
+      "total": 350,
+      "rate": 57.4
     },
     "totalAnalyses": 451963,
     "leagues": 500,
     "pro": {
       "won": 1079,
-      "lost": 446,
-      "total": 1525,
+      "lost": 445,
+      "total": 1524,
       "rate": 70.8
     },
     "insights": {
-      "won": 1861,
-      "lost": 808,
-      "total": 2669,
-      "rate": 69.7
+      "won": 1865,
+      "lost": 807,
+      "total": 2672,
+      "rate": 69.8
     },
     "coupons": {
       "won": 48,
@@ -47,8 +47,8 @@
       "total": 78,
       "rate": 61.5
     },
-    "analyses24h": 3104,
-    "analyses30d": 22069
+    "analyses24h": 3098,
+    "analyses30d": 22048
   },
   "recentWins": [
     {
@@ -332,20 +332,20 @@
     {
       "type": "coupon",
       "size": 5,
-      "odds": 1.51,
-      "at": "06.11.2026 15:01"
+      "odds": 1.52,
+      "at": "06.11.2026 16:03"
     },
     {
       "type": "coupon",
       "size": 6,
-      "odds": 1.53,
-      "at": "06.11.2026 15:01"
+      "odds": 1.5,
+      "at": "06.11.2026 16:03"
     },
     {
       "type": "coupon",
       "size": 5,
-      "odds": 1.57,
-      "at": "06.11.2026 15:01"
+      "odds": 1.51,
+      "at": "06.11.2026 16:03"
     },
     {
       "type": "updated",
@@ -379,30 +379,18 @@
     }
   ],
   "today": {
-    "home": "Sevilla FC",
-    "away": "Deportivo Alaves",
-    "league": "İS1",
-    "date": "06.11.2026 20:00",
-    "matchCode": "4492376",
-    "odds": 1.88,
-    "patternScore": 66.61,
-    "patternText": "202.848/304.508",
-    "aiScore": 52,
-    "picks": 5
+    "home": "Eintracht Braunschweig",
+    "away": "Energie Cottbus",
+    "league": "AL2",
+    "date": "06.11.2026 17:30",
+    "matchCode": "4495835",
+    "odds": 1.52,
+    "patternScore": 66.88,
+    "patternText": "253.471/378.989",
+    "aiScore": 55,
+    "picks": 8
   },
   "todayList": [
-    {
-      "home": "Sevilla FC",
-      "away": "Deportivo Alaves",
-      "league": "İS1",
-      "date": "06.11.2026 20:00",
-      "matchCode": "4492376",
-      "odds": 1.88,
-      "patternScore": 66.61,
-      "patternText": "202.848/304.508",
-      "aiScore": 52,
-      "picks": 5
-    },
     {
       "home": "Eintracht Braunschweig",
       "away": "Energie Cottbus",
@@ -422,10 +410,22 @@
       "date": "06.11.2026 19:45",
       "matchCode": "4476592",
       "odds": 1.43,
-      "patternScore": 67.62,
-      "patternText": "222.228/328.626",
-      "aiScore": 55,
-      "picks": 8
+      "patternScore": 66.82,
+      "patternText": "238.139/356.384",
+      "aiScore": 56,
+      "picks": 6
+    },
+    {
+      "home": "Everton",
+      "away": "Coventry City",
+      "league": "İNP",
+      "date": "06.11.2026 20:00",
+      "matchCode": "4481104",
+      "odds": 1.38,
+      "patternScore": 66.78,
+      "patternText": "138.915/208.013",
+      "aiScore": 57,
+      "picks": 3
     },
     {
       "home": "Brentford U21",
