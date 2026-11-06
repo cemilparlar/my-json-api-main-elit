@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 12:11",
+  "updatedAt": "06.11.2026 12:19",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 183,
-      "lost": 144,
-      "total": 327,
-      "rate": 56.0
+      "won": 179,
+      "lost": 142,
+      "total": 321,
+      "rate": 55.8
     },
-    "totalAnalyses": 451113,
+    "totalAnalyses": 451134,
     "leagues": 502,
     "pro": {
       "won": 1073,
@@ -36,9 +36,9 @@
       "rate": 70.9
     },
     "insights": {
-      "won": 1854,
-      "lost": 801,
-      "total": 2655,
+      "won": 1853,
+      "lost": 800,
+      "total": 2653,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2890,
-    "analyses30d": 21845
+    "analyses24h": 2871,
+    "analyses30d": 21832
   },
   "recentWins": [
     {
@@ -343,7 +343,7 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 11:50",
+      "at": "06.11.2026 12:12",
       "home": "Gaziantep FK",
       "away": "Kasimpasa"
     },
@@ -352,6 +352,12 @@
       "at": "06.11.2026 11:10",
       "home": "Sariyer",
       "away": "Igdir FK"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 12:13",
+      "home": "FK Austria Wien",
+      "away": "First Vienna FC"
     },
     {
       "type": "updated",
@@ -370,39 +376,21 @@
       "at": "06.11.2026 11:11",
       "home": "Puszcza Niepolomice",
       "away": "Miedz Legnica"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 11:52",
-      "home": "Dynamo Dresden",
-      "away": "SpVgg Greuther Furth"
     }
   ],
   "today": {
-    "home": "Gaziantep FK",
-    "away": "Kasimpasa",
-    "league": "TSL",
-    "date": "06.11.2026 17:00",
-    "matchCode": "4542743",
-    "odds": 3.06,
-    "patternScore": 67.47,
-    "patternText": "220.997/327.537",
-    "aiScore": 51,
-    "picks": 6
+    "home": "Birmingham City",
+    "away": "West Ham United U21",
+    "league": "INGPL2",
+    "date": "06.11.2026 13:00",
+    "matchCode": "4544157",
+    "odds": 1.77,
+    "patternScore": 67.94,
+    "patternText": "176.752/260.171",
+    "aiScore": 54,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Gaziantep FK",
-      "away": "Kasimpasa",
-      "league": "TSL",
-      "date": "06.11.2026 17:00",
-      "matchCode": "4542743",
-      "odds": 3.06,
-      "patternScore": 67.47,
-      "patternText": "220.997/327.537",
-      "aiScore": 51,
-      "picks": 6
-    },
     {
       "home": "Birmingham City",
       "away": "West Ham United U21",
@@ -412,7 +400,7 @@
       "odds": 1.77,
       "patternScore": 67.94,
       "patternText": "176.752/260.171",
-      "aiScore": 55,
+      "aiScore": 54,
       "picks": 1
     },
     {
@@ -436,7 +424,7 @@
       "odds": 1.52,
       "patternScore": 66.88,
       "patternText": "253.353/378.813",
-      "aiScore": 56,
+      "aiScore": 55,
       "picks": 8
     },
     {
@@ -450,6 +438,18 @@
       "patternText": "260.611/381.516",
       "aiScore": 56,
       "picks": 1
+    },
+    {
+      "home": "Ab Gladsaxe",
+      "away": "Vendsyssel",
+      "league": "DAN1",
+      "date": "06.11.2026 18:00",
+      "matchCode": "4476302",
+      "odds": 1.35,
+      "patternScore": 68.44,
+      "patternText": "241.947/353.500",
+      "aiScore": 59,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
@@ -457,8 +457,15 @@
       "home": "Dynamo Dresden",
       "away": "SpVgg Greuther Furth",
       "league": "AL2",
-      "at": "06.11.2026 11:52",
+      "at": "06.11.2026 12:13",
       "count": 8
+    },
+    {
+      "home": "Gaziantep FK",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "at": "06.11.2026 12:12",
+      "count": 6
     },
     {
       "home": "Eintracht Braunschweig",
@@ -466,13 +473,6 @@
       "league": "AL2",
       "at": "06.11.2026 11:51",
       "count": 9
-    },
-    {
-      "home": "Gaziantep FK",
-      "away": "Kasimpasa",
-      "league": "TSL",
-      "at": "06.11.2026 11:50",
-      "count": 10
     },
     {
       "home": "Antalyaspor",
