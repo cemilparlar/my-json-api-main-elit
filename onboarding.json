@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 04:34",
+  "updatedAt": "06.11.2026 04:41",
   "config": {
     "pages": [
       "engine",
@@ -426,6 +426,18 @@
       "picks": 1
     },
     {
+      "home": "Al Shabab",
+      "away": "Al Tadhamon",
+      "league": "KUV",
+      "date": "06.11.2026 16:40",
+      "matchCode": "4545740",
+      "odds": 1.25,
+      "patternScore": 68.46,
+      "patternText": "223.243/326.115",
+      "aiScore": 65,
+      "picks": 4
+    },
+    {
       "home": "Chadormalu",
       "away": "Foolad Khuzesta",
       "league": "IRAN",
@@ -435,18 +447,6 @@
       "patternScore": 69.27,
       "patternText": "242.820/350.522",
       "aiScore": 75,
-      "picks": 2
-    },
-    {
-      "home": "Al Adalah",
-      "away": "Al Orubah Club",
-      "league": "SUUD1",
-      "date": "06.11.2026 14:35",
-      "matchCode": "4538724",
-      "odds": 1.14,
-      "patternScore": 70.1,
-      "patternText": "289.937/413.627",
-      "aiScore": 95,
       "picks": 2
     }
   ],
