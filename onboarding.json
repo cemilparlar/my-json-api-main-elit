@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 16:49",
+  "updatedAt": "06.11.2026 16:57",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 200,
+      "won": 202,
       "lost": 150,
-      "total": 350,
-      "rate": 57.1
+      "total": 352,
+      "rate": 57.4
     },
-    "totalAnalyses": 452042,
+    "totalAnalyses": 452057,
     "leagues": 500,
     "pro": {
-      "won": 1082,
+      "won": 1083,
       "lost": 447,
-      "total": 1529,
+      "total": 1530,
       "rate": 70.8
     },
     "insights": {
-      "won": 1868,
+      "won": 1869,
       "lost": 809,
-      "total": 2677,
+      "total": 2678,
       "rate": 69.8
     },
     "coupons": {
-      "won": 48,
+      "won": 47,
       "lost": 30,
-      "total": 78,
-      "rate": 61.5
+      "total": 77,
+      "rate": 61.0
     },
-    "analyses24h": 3119,
-    "analyses30d": 22058
+    "analyses24h": 3128,
+    "analyses30d": 22067
   },
   "recentWins": [
     {
@@ -454,11 +454,25 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "FC Famalicao",
+      "away": "FC Arouca",
+      "league": "POR",
+      "at": "06.11.2026 16:52",
+      "count": 7
+    },
+    {
       "home": "Toulouse FC",
       "away": "RC Strasbourg",
       "league": "FR1",
-      "at": "06.11.2026 16:33",
-      "count": 8
+      "at": "06.11.2026 16:51",
+      "count": 10
+    },
+    {
+      "home": "Hamburger SV",
+      "away": "Borussia Monchengladbach",
+      "league": "AL1",
+      "at": "06.11.2026 16:50",
+      "count": 5
     },
     {
       "home": "Sevilla FC",
@@ -489,13 +503,6 @@
       "count": 5
     },
     {
-      "home": "Hamburger SV",
-      "away": "Borussia Monchengladbach",
-      "league": "AL1",
-      "at": "06.11.2026 16:09",
-      "count": 9
-    },
-    {
       "home": "Everton",
       "away": "Coventry City",
       "league": "İNP",
@@ -515,13 +522,6 @@
       "league": "RUS",
       "at": "06.11.2026 15:47",
       "count": 5
-    },
-    {
-      "home": "Unione V.",
-      "away": "Udinese",
-      "league": "İTA",
-      "at": "06.11.2026 15:10",
-      "count": 8
     }
   ],
   "paywall": {
