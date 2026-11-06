@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 17:43",
+  "updatedAt": "06.11.2026 17:52",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 204,
-      "lost": 151,
-      "total": 355,
-      "rate": 57.5
+      "won": 157,
+      "lost": 92,
+      "total": 249,
+      "rate": 63.1
     },
-    "totalAnalyses": 452176,
+    "totalAnalyses": 452199,
     "leagues": 498,
     "pro": {
-      "won": 1083,
+      "won": 1084,
       "lost": 446,
-      "total": 1529,
+      "total": 1530,
       "rate": 70.8
     },
     "insights": {
-      "won": 1868,
+      "won": 1869,
       "lost": 809,
-      "total": 2677,
+      "total": 2678,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 77,
       "rate": 61.0
     },
-    "analyses24h": 3124,
-    "analyses30d": 22020
+    "analyses24h": 3049,
+    "analyses30d": 22050
   },
   "recentWins": [
     {
@@ -386,7 +386,7 @@
     "matchCode": "4481104",
     "odds": 1.79,
     "patternScore": 67.81,
-    "patternText": "194.597/286.970",
+    "patternText": "194.609/286.988",
     "aiScore": 54,
     "picks": 5
   },
@@ -399,7 +399,7 @@
       "matchCode": "4481104",
       "odds": 1.79,
       "patternScore": 67.81,
-      "patternText": "194.597/286.970",
+      "patternText": "194.609/286.988",
       "aiScore": 54,
       "picks": 5
     },
@@ -411,7 +411,7 @@
       "matchCode": "4476917",
       "odds": 1.76,
       "patternScore": 66.77,
-      "patternText": "239.390/358.553",
+      "patternText": "239.402/358.571",
       "aiScore": 54,
       "picks": 6
     },
@@ -423,7 +423,7 @@
       "matchCode": "4492376",
       "odds": 1.41,
       "patternScore": 66.77,
-      "patternText": "207.548/310.838",
+      "patternText": "207.560/310.856",
       "aiScore": 56,
       "picks": 3
     },
@@ -435,7 +435,7 @@
       "matchCode": "4508474",
       "odds": 1.4,
       "patternScore": 67.81,
-      "patternText": "186.805/275.484",
+      "patternText": "186.817/275.502",
       "aiScore": 55,
       "picks": 1
     },
@@ -447,60 +447,67 @@
       "matchCode": "4544158",
       "odds": 1.36,
       "patternScore": 66.98,
-      "patternText": "167.622/250.241",
+      "patternText": "167.626/250.247",
       "aiScore": 61,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "Sevilla FC",
+      "away": "Deportivo Alaves",
+      "league": "İS1",
+      "at": "06.11.2026 17:48",
+      "count": 12
+    },
+    {
+      "home": "Everton",
+      "away": "Coventry City",
+      "league": "İNP",
+      "at": "06.11.2026 17:48",
+      "count": 3
+    },
+    {
       "home": "Vitoria Bahia",
       "away": "Fluminense FC",
       "league": "BR1",
-      "at": "06.11.2026 17:29",
-      "count": 6
+      "at": "06.11.2026 17:48",
+      "count": 8
     },
     {
       "home": "Unione V.",
       "away": "Udinese",
       "league": "İTA",
-      "at": "06.11.2026 17:28",
-      "count": 3
+      "at": "06.11.2026 17:47",
+      "count": 7
     },
     {
       "home": "Standard Liege",
       "away": "Waasland-Beveren",
       "league": "BEL",
-      "at": "06.11.2026 17:28",
-      "count": 10
-    },
-    {
-      "home": "Sevilla FC",
-      "away": "Deportivo Alaves",
-      "league": "İS1",
-      "at": "06.11.2026 17:28",
-      "count": 7
-    },
-    {
-      "home": "Hamburger SV",
-      "away": "Borussia Monchengladbach",
-      "league": "AL1",
-      "at": "06.11.2026 17:27",
-      "count": 6
+      "at": "06.11.2026 17:47",
+      "count": 8
     },
     {
       "home": "Toulouse FC",
       "away": "RC Strasbourg",
       "league": "FR1",
-      "at": "06.11.2026 17:27",
-      "count": 5
+      "at": "06.11.2026 17:47",
+      "count": 8
+    },
+    {
+      "home": "Hamburger SV",
+      "away": "Borussia Monchengladbach",
+      "league": "AL1",
+      "at": "06.11.2026 17:46",
+      "count": 7
     },
     {
       "home": "AS Nancy",
       "away": "FC Sochaux",
       "league": "FR2",
-      "at": "06.11.2026 17:25",
-      "count": 6
+      "at": "06.11.2026 17:44",
+      "count": 4
     },
     {
       "home": "FC Famalicao",
@@ -515,13 +522,6 @@
       "league": "TSL",
       "at": "06.11.2026 16:29",
       "count": 6
-    },
-    {
-      "home": "Eintracht Braunschweig",
-      "away": "Energie Cottbus",
-      "league": "AL2",
-      "at": "06.11.2026 16:29",
-      "count": 5
     }
   ],
   "paywall": {
