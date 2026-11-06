@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 19:01",
+  "updatedAt": "06.11.2026 19:10",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 288,
       "rate": 64.2
     },
-    "totalAnalyses": 452288,
+    "totalAnalyses": 452314,
     "leagues": 492,
     "pro": {
       "won": 1094,
@@ -47,8 +47,8 @@
       "total": 77,
       "rate": 59.7
     },
-    "analyses24h": 3054,
-    "analyses30d": 21844
+    "analyses24h": 3062,
+    "analyses30d": 21852
   },
   "recentWins": [
     {
@@ -386,7 +386,7 @@
     "matchCode": "4492376",
     "odds": 1.42,
     "patternScore": 68.11,
-    "patternText": "118.736/174.324",
+    "patternText": "118.780/174.384",
     "aiScore": 56,
     "picks": 6
   },
@@ -399,7 +399,7 @@
       "matchCode": "4492376",
       "odds": 1.42,
       "patternScore": 68.11,
-      "patternText": "118.736/174.324",
+      "patternText": "118.780/174.384",
       "aiScore": 56,
       "picks": 6
     },
@@ -411,9 +411,21 @@
       "matchCode": "4508474",
       "odds": 1.4,
       "patternScore": 67.81,
-      "patternText": "186.889/275.604",
+      "patternText": "186.957/275.704",
       "aiScore": 56,
       "picks": 1
+    },
+    {
+      "home": "Standard Liege",
+      "away": "Waasland-Beveren",
+      "league": "BEL",
+      "date": "06.11.2026 19:45",
+      "matchCode": "4480762",
+      "odds": 1.37,
+      "patternScore": 67.83,
+      "patternText": "146.112/215.410",
+      "aiScore": 62,
+      "picks": 2
     },
     {
       "home": "Everton",
@@ -423,7 +435,7 @@
       "matchCode": "4481104",
       "odds": 1.35,
       "patternScore": 67.8,
-      "patternText": "215.464/317.779",
+      "patternText": "215.540/317.887",
       "aiScore": 59,
       "picks": 3
     },
@@ -435,44 +447,53 @@
       "matchCode": "4454055",
       "odds": 1.33,
       "patternScore": 68.47,
-      "patternText": "258.699/377.846",
+      "patternText": "258.721/377.882",
       "aiScore": 60,
-      "picks": 3
-    },
-    {
-      "home": "Derby County",
-      "away": "Bolton Wanderers",
-      "league": "İNCL",
-      "date": "06.11.2026 20:00",
-      "matchCode": "4488854",
-      "odds": 1.31,
-      "patternScore": 67.91,
-      "patternText": "200.899/295.848",
-      "aiScore": 58,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Standard Liege",
-      "away": "Waasland-Beveren",
-      "league": "BEL",
-      "at": "06.11.2026 18:45",
+      "home": "Derby County",
+      "away": "Bolton Wanderers",
+      "league": "İNCL",
+      "at": "06.11.2026 19:03",
       "count": 9
     },
     {
-      "home": "Toulouse FC",
-      "away": "RC Strasbourg",
-      "league": "FR1",
-      "at": "06.11.2026 18:45",
-      "count": 5
+      "home": "Sevilla FC",
+      "away": "Deportivo Alaves",
+      "league": "İS1",
+      "at": "06.11.2026 19:03",
+      "count": 6
     },
     {
       "home": "Everton",
       "away": "Coventry City",
       "league": "İNP",
-      "at": "06.11.2026 18:45",
-      "count": 3
+      "at": "06.11.2026 19:03",
+      "count": 6
+    },
+    {
+      "home": "Unione V.",
+      "away": "Udinese",
+      "league": "İTA",
+      "at": "06.11.2026 19:02",
+      "count": 5
+    },
+    {
+      "home": "Standard Liege",
+      "away": "Waasland-Beveren",
+      "league": "BEL",
+      "at": "06.11.2026 19:02",
+      "count": 6
+    },
+    {
+      "home": "Toulouse FC",
+      "away": "RC Strasbourg",
+      "league": "FR1",
+      "at": "06.11.2026 19:02",
+      "count": 5
     },
     {
       "home": "Ascoli Calcio",
@@ -489,20 +510,6 @@
       "count": 17
     },
     {
-      "home": "Unione V.",
-      "away": "Udinese",
-      "league": "İTA",
-      "at": "06.11.2026 18:29",
-      "count": 7
-    },
-    {
-      "home": "Sevilla FC",
-      "away": "Deportivo Alaves",
-      "league": "İS1",
-      "at": "06.11.2026 18:29",
-      "count": 6
-    },
-    {
       "home": "Hamburger SV",
       "away": "Borussia Monchengladbach",
       "league": "AL1",
@@ -515,13 +522,6 @@
       "league": "HOL",
       "at": "06.11.2026 18:27",
       "count": 6
-    },
-    {
-      "home": "AS Nancy",
-      "away": "FC Sochaux",
-      "league": "FR2",
-      "at": "06.11.2026 18:26",
-      "count": 4
     }
   ],
   "paywall": {
