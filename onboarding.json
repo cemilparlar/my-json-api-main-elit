@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 21:09",
+  "updatedAt": "06.11.2026 21:16",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 315,
       "rate": 66.3
     },
-    "totalAnalyses": 452393,
+    "totalAnalyses": 452394,
     "leagues": 492,
     "pro": {
       "won": 1130,
@@ -80,20 +80,6 @@
       "pro": true
     },
     {
-      "home": "Willem",
-      "away": "Zwolle",
-      "league": "HOL",
-      "date": "06.11.2026 19:00",
-      "prediction": "1st Half Over 1.5",
-      "odds": 2.17,
-      "probability": 70.0,
-      "patternScore": 67.33,
-      "aiScore": 51,
-      "firstHalf": "1 - 1",
-      "finalScore": "1 - 1",
-      "pro": false
-    },
-    {
       "home": "RSC Anderlecht",
       "away": "Red Bull Salzburg",
       "league": "AVL",
@@ -119,6 +105,20 @@
       "aiScore": 53,
       "firstHalf": "0 - 1",
       "finalScore": "1 - 2",
+      "pro": true
+    },
+    {
+      "home": "Sydney FC",
+      "away": "Central Coast Mariners",
+      "league": "AVUS",
+      "date": "06.11.2026 08:40",
+      "prediction": "HT/FT 1/1",
+      "odds": 1.89,
+      "probability": 100.0,
+      "patternScore": 56.12,
+      "aiScore": 52,
+      "firstHalf": "2 - 0",
+      "finalScore": "4 - 1",
       "pro": true
     }
   ],
@@ -315,19 +315,19 @@
     },
     {
       "type": "won",
-      "home": "Willem",
-      "away": "Zwolle",
-      "prediction": "1st Half Over 1.5",
-      "odds": 2.17,
-      "at": "06.11.2026 19:00"
-    },
-    {
-      "type": "won",
       "home": "RSC Anderlecht",
       "away": "Red Bull Salzburg",
       "prediction": "Total Goals 2-3",
       "odds": 1.97,
       "at": "05.11.2026 17:45"
+    },
+    {
+      "type": "won",
+      "home": "Persepolis",
+      "away": "Fajr Sepasi",
+      "prediction": "Over 2.5 Goals",
+      "odds": 1.9,
+      "at": "06.11.2026 13:00"
     },
     {
       "type": "coupon",
@@ -385,8 +385,8 @@
     "date": "07.11.2026 00:00",
     "matchCode": "4483797",
     "odds": 1.4,
-    "patternScore": 67.84,
-    "patternText": "265.521/391.368",
+    "patternScore": 67.85,
+    "patternText": "265.595/391.468",
     "aiScore": 57,
     "picks": 3
   },
@@ -398,8 +398,8 @@
       "date": "07.11.2026 00:00",
       "matchCode": "4483797",
       "odds": 1.4,
-      "patternScore": 67.84,
-      "patternText": "265.521/391.368",
+      "patternScore": 67.85,
+      "patternText": "265.595/391.468",
       "aiScore": 57,
       "picks": 3
     },
@@ -411,7 +411,7 @@
       "matchCode": "4423367",
       "odds": 1.34,
       "patternScore": 67.42,
-      "patternText": "200.103/296.808",
+      "patternText": "200.153/296.890",
       "aiScore": 61,
       "picks": 5
     },
@@ -423,7 +423,7 @@
       "matchCode": "4454055",
       "odds": 1.33,
       "patternScore": 68.47,
-      "patternText": "258.837/378.054",
+      "patternText": "258.925/378.168",
       "aiScore": 60,
       "picks": 3
     },
@@ -434,8 +434,8 @@
       "date": "07.11.2026 00:00",
       "matchCode": "4508203",
       "odds": 1.23,
-      "patternScore": 68.47,
-      "patternText": "251.873/367.834",
+      "patternScore": 68.48,
+      "patternText": "251.957/367.944",
       "aiScore": 71,
       "picks": 1
     },
@@ -446,8 +446,8 @@
       "date": "06.11.2026 23:30",
       "matchCode": "4454056",
       "odds": 1.16,
-      "patternScore": 69.83,
-      "patternText": "315.574/451.895",
+      "patternScore": 69.84,
+      "patternText": "315.688/452.043",
       "aiScore": 75,
       "picks": 3
     }
