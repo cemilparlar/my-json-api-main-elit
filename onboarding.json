@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 18:38",
+  "updatedAt": "06.11.2026 18:46",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 168,
-      "lost": 96,
-      "total": 264,
-      "rate": 63.6
+      "won": 171,
+      "lost": 97,
+      "total": 268,
+      "rate": 63.8
     },
-    "totalAnalyses": 452247,
-    "leagues": 497,
+    "totalAnalyses": 452280,
+    "leagues": 493,
     "pro": {
-      "won": 1091,
-      "lost": 445,
-      "total": 1536,
+      "won": 1094,
+      "lost": 446,
+      "total": 1540,
       "rate": 71.0
     },
     "insights": {
-      "won": 1874,
-      "lost": 799,
-      "total": 2673,
+      "won": 1877,
+      "lost": 800,
+      "total": 2677,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 77,
       "rate": 59.7
     },
-    "analyses24h": 3057,
-    "analyses30d": 21981
+    "analyses24h": 3050,
+    "analyses30d": 21846
   },
   "recentWins": [
     {
@@ -454,6 +454,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Standard Liege",
+      "away": "Waasland-Beveren",
+      "league": "BEL",
+      "at": "06.11.2026 18:45",
+      "count": 9
+    },
+    {
+      "home": "Toulouse FC",
+      "away": "RC Strasbourg",
+      "league": "FR1",
+      "at": "06.11.2026 18:45",
+      "count": 5
+    },
+    {
+      "home": "Everton",
+      "away": "Coventry City",
+      "league": "İNP",
+      "at": "06.11.2026 18:45",
+      "count": 3
+    },
+    {
+      "home": "Ascoli Calcio",
+      "away": "Palermo FC",
+      "league": "İTB",
+      "at": "06.11.2026 18:44",
+      "count": 7
+    },
+    {
       "home": "Atletico Madrid",
       "away": "FC Barcelona",
       "league": "İS1",
@@ -471,13 +499,6 @@
       "home": "Sevilla FC",
       "away": "Deportivo Alaves",
       "league": "İS1",
-      "at": "06.11.2026 18:29",
-      "count": 6
-    },
-    {
-      "home": "Everton",
-      "away": "Coventry City",
-      "league": "İNP",
       "at": "06.11.2026 18:29",
       "count": 6
     },
@@ -501,27 +522,6 @@
       "league": "FR2",
       "at": "06.11.2026 18:26",
       "count": 4
-    },
-    {
-      "home": "Grenoble Foot",
-      "away": "Stade de Reims",
-      "league": "FR2",
-      "at": "06.11.2026 18:26",
-      "count": 9
-    },
-    {
-      "home": "Toulouse FC",
-      "away": "RC Strasbourg",
-      "league": "FR1",
-      "at": "06.11.2026 18:06",
-      "count": 6
-    },
-    {
-      "home": "Vitoria Bahia",
-      "away": "Fluminense FC",
-      "league": "BR1",
-      "at": "06.11.2026 17:48",
-      "count": 8
     }
   ],
   "paywall": {
