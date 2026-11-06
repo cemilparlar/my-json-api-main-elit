@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 17:28",
+  "updatedAt": "06.11.2026 17:36",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 352,
       "rate": 57.4
     },
-    "totalAnalyses": 452151,
+    "totalAnalyses": 452161,
     "leagues": 498,
     "pro": {
       "won": 1083,
-      "lost": 447,
-      "total": 1530,
+      "lost": 446,
+      "total": 1529,
       "rate": 70.8
     },
     "insights": {
-      "won": 1869,
-      "lost": 809,
-      "total": 2678,
+      "won": 1866,
+      "lost": 808,
+      "total": 2674,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 77,
       "rate": 61.0
     },
-    "analyses24h": 3125,
-    "analyses30d": 22021
+    "analyses24h": 3126,
+    "analyses30d": 22022
   },
   "recentWins": [
     {
@@ -361,12 +361,6 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 17:26",
-      "home": "FC Admira Wacker Modling",
-      "away": "St Polten"
-    },
-    {
-      "type": "updated",
       "at": "06.11.2026 15:47",
       "home": "Lokomotiv Moscow",
       "away": "Rubin Kazan"
@@ -376,6 +370,12 @@
       "at": "06.11.2026 15:48",
       "home": "Vejle BK",
       "away": "FC Fredericia"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 12:13",
+      "home": "Dynamo Dresden",
+      "away": "SpVgg Greuther Furth"
     }
   ],
   "today": {
@@ -404,6 +404,30 @@
       "picks": 5
     },
     {
+      "home": "AS Nancy",
+      "away": "FC Sochaux",
+      "league": "FR2",
+      "date": "06.11.2026 19:00",
+      "matchCode": "4476917",
+      "odds": 1.76,
+      "patternScore": 66.77,
+      "patternText": "239.390/358.553",
+      "aiScore": 54,
+      "picks": 6
+    },
+    {
+      "home": "Sevilla FC",
+      "away": "Deportivo Alaves",
+      "league": "İS1",
+      "date": "06.11.2026 20:00",
+      "matchCode": "4492376",
+      "odds": 1.41,
+      "patternScore": 66.77,
+      "patternText": "207.548/310.838",
+      "aiScore": 56,
+      "picks": 3
+    },
+    {
       "home": "Connah's Quay Nomads",
       "away": "Flint Town",
       "league": "GAL",
@@ -412,7 +436,7 @@
       "odds": 1.4,
       "patternScore": 67.81,
       "patternText": "186.805/275.484",
-      "aiScore": 56,
+      "aiScore": 55,
       "picks": 1
     },
     {
@@ -426,33 +450,37 @@
       "patternText": "167.622/250.241",
       "aiScore": 61,
       "picks": 1
-    },
-    {
-      "home": "Ascoli Calcio",
-      "away": "Palermo FC",
-      "league": "İTB",
-      "date": "06.11.2026 19:30",
-      "matchCode": "4534777",
-      "odds": 1.36,
-      "patternScore": 67.91,
-      "patternText": "233.807/344.274",
-      "aiScore": 59,
-      "picks": 1
-    },
-    {
-      "home": "Silkeborg IF",
-      "away": "Lyngby BK",
-      "league": "DAN",
-      "date": "06.11.2026 18:00",
-      "matchCode": "4474522",
-      "odds": 1.34,
-      "patternScore": 67.37,
-      "patternText": "192.474/285.709",
-      "aiScore": 60,
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Vitoria Bahia",
+      "away": "Fluminense FC",
+      "league": "BR1",
+      "at": "06.11.2026 17:29",
+      "count": 6
+    },
+    {
+      "home": "Unione V.",
+      "away": "Udinese",
+      "league": "İTA",
+      "at": "06.11.2026 17:28",
+      "count": 3
+    },
+    {
+      "home": "Standard Liege",
+      "away": "Waasland-Beveren",
+      "league": "BEL",
+      "at": "06.11.2026 17:28",
+      "count": 10
+    },
+    {
+      "home": "Sevilla FC",
+      "away": "Deportivo Alaves",
+      "league": "İS1",
+      "at": "06.11.2026 17:28",
+      "count": 7
+    },
     {
       "home": "Hamburger SV",
       "away": "Borussia Monchengladbach",
@@ -482,20 +510,6 @@
       "count": 7
     },
     {
-      "home": "Sevilla FC",
-      "away": "Deportivo Alaves",
-      "league": "İS1",
-      "at": "06.11.2026 16:33",
-      "count": 5
-    },
-    {
-      "home": "Standard Liege",
-      "away": "Waasland-Beveren",
-      "league": "BEL",
-      "at": "06.11.2026 16:32",
-      "count": 8
-    },
-    {
       "home": "Gaziantep FK",
       "away": "Kasimpasa",
       "league": "TSL",
@@ -508,20 +522,6 @@
       "league": "AL2",
       "at": "06.11.2026 16:29",
       "count": 5
-    },
-    {
-      "home": "Everton",
-      "away": "Coventry City",
-      "league": "İNP",
-      "at": "06.11.2026 16:09",
-      "count": 5
-    },
-    {
-      "home": "Antalyaspor",
-      "away": "Bursaspor",
-      "league": "T1L",
-      "at": "06.11.2026 16:06",
-      "count": 3
     }
   ],
   "paywall": {
