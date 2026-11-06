@@ -96,8 +96,8 @@
       "lost": 4
     }
   },
-  "updatedAt": "06.11.2026 22:16",
-  "updatedAtUtc": "2026-11-06T22:16:00Z",
+  "updatedAt": "06.11.2026 22:23",
+  "updatedAtUtc": "2026-11-06T22:23:00Z",
   "upcoming": [
     {
       "id": "20261106-19-1",
@@ -1688,9 +1688,9 @@
           "patternScore": 69.8,
           "patternText": "259.033/371.083",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 1",
+          "finalScore": "2 - 2",
+          "status": "lost",
           "aiScore": 87
         },
         {
@@ -2656,9 +2656,9 @@
           "patternScore": 64.39,
           "patternText": "179.855/279.343",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "2 - 1",
+          "finalScore": "4 - 1",
+          "status": "won",
           "aiScore": 97
         }
       ]
