@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 14:54",
+  "updatedAt": "06.11.2026 15:01",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 174,
-      "lost": 132,
-      "total": 306,
-      "rate": 56.9
+      "won": 184,
+      "lost": 143,
+      "total": 327,
+      "rate": 56.3
     },
-    "totalAnalyses": 451817,
-    "leagues": 502,
+    "totalAnalyses": 451842,
+    "leagues": 500,
     "pro": {
-      "won": 1069,
-      "lost": 441,
-      "total": 1510,
+      "won": 1075,
+      "lost": 444,
+      "total": 1519,
       "rate": 70.8
     },
     "insights": {
-      "won": 1847,
-      "lost": 799,
-      "total": 2646,
+      "won": 1854,
+      "lost": 804,
+      "total": 2658,
       "rate": 69.8
     },
     "coupons": {
       "won": 49,
-      "lost": 29,
-      "total": 78,
-      "rate": 62.8
+      "lost": 30,
+      "total": 79,
+      "rate": 62.0
     },
-    "analyses24h": 3096,
-    "analyses30d": 22066
+    "analyses24h": 3091,
+    "analyses30d": 22055
   },
   "recentWins": [
     {
@@ -332,14 +332,20 @@
     {
       "type": "coupon",
       "size": 5,
-      "odds": 1.61,
-      "at": "06.11.2026 14:06"
+      "odds": 1.51,
+      "at": "06.11.2026 15:01"
     },
     {
       "type": "coupon",
       "size": 6,
-      "odds": 1.54,
-      "at": "06.11.2026 12:03"
+      "odds": 1.53,
+      "at": "06.11.2026 15:01"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
+      "odds": 1.57,
+      "at": "06.11.2026 15:01"
     },
     {
       "type": "updated",
@@ -370,38 +376,32 @@
       "at": "06.11.2026 14:26",
       "home": "UFC Amstetten",
       "away": "Wacker Innsbruc"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 14:49",
-      "home": "FC Admira Wacker Modling",
-      "away": "St Polten"
     }
   ],
   "today": {
-    "home": "Grenoble Foot",
-    "away": "Stade de Reims",
-    "league": "FR2",
-    "date": "06.11.2026 19:00",
-    "matchCode": "4476913",
-    "odds": 2.58,
-    "patternScore": 67.22,
-    "patternText": "227.148/337.940",
-    "aiScore": 51,
-    "picks": 7
+    "home": "Everton",
+    "away": "Coventry City",
+    "league": "İNP",
+    "date": "06.11.2026 20:00",
+    "matchCode": "4481104",
+    "odds": 1.8,
+    "patternScore": 67.79,
+    "patternText": "194.461/286.844",
+    "aiScore": 53,
+    "picks": 6
   },
   "todayList": [
     {
-      "home": "Grenoble Foot",
-      "away": "Stade de Reims",
-      "league": "FR2",
-      "date": "06.11.2026 19:00",
-      "matchCode": "4476913",
-      "odds": 2.58,
-      "patternScore": 67.22,
-      "patternText": "227.148/337.940",
-      "aiScore": 51,
-      "picks": 7
+      "home": "Everton",
+      "away": "Coventry City",
+      "league": "İNP",
+      "date": "06.11.2026 20:00",
+      "matchCode": "4481104",
+      "odds": 1.8,
+      "patternScore": 67.79,
+      "patternText": "194.461/286.844",
+      "aiScore": 53,
+      "picks": 6
     },
     {
       "home": "AS Nancy",
@@ -414,18 +414,6 @@
       "patternText": "236.998/354.377",
       "aiScore": 54,
       "picks": 5
-    },
-    {
-      "home": "FC Famalicao",
-      "away": "FC Arouca",
-      "league": "POR",
-      "date": "06.11.2026 20:45",
-      "matchCode": "4517048",
-      "odds": 1.62,
-      "patternScore": 67.11,
-      "patternText": "204.834/305.204",
-      "aiScore": 54,
-      "picks": 3
     },
     {
       "home": "Eintracht Braunschweig",
@@ -450,6 +438,18 @@
       "patternText": "232.920/340.685",
       "aiScore": 59,
       "picks": 4
+    },
+    {
+      "home": "Silkeborg IF",
+      "away": "Lyngby BK",
+      "league": "DAN",
+      "date": "06.11.2026 18:00",
+      "matchCode": "4474522",
+      "odds": 1.39,
+      "patternScore": 67.5,
+      "patternText": "263.040/389.697",
+      "aiScore": 56,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
