@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 05:11",
+  "updatedAt": "06.11.2026 05:18",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 319,
       "rate": 56.1
     },
-    "totalAnalyses": 450586,
+    "totalAnalyses": 450616,
     "leagues": 503,
     "pro": {
       "won": 1074,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2725,
-    "analyses30d": 21740
+    "analyses24h": 2723,
+    "analyses30d": 21738
   },
   "recentWins": [
     {
@@ -360,8 +360,14 @@
       "away": "Central Coast Mariners"
     },
     {
+      "type": "updated",
+      "at": "06.11.2026 05:04",
+      "home": "Hong Linh Ha Tinh",
+      "away": "Nam Dinh FC"
+    },
+    {
       "type": "analysis",
-      "count": 2725
+      "count": 2723
     }
   ],
   "today": {
@@ -402,6 +408,18 @@
       "picks": 1
     },
     {
+      "home": "Hong Linh Ha Tinh",
+      "away": "Nam Dinh FC",
+      "league": "VİET",
+      "date": "06.11.2026 11:00",
+      "matchCode": "4551350",
+      "odds": 1.06,
+      "patternScore": 69.75,
+      "patternText": "368.246/527.976",
+      "aiScore": 97,
+      "picks": 1
+    },
+    {
       "home": "Gaziantep FK",
       "away": "Kasimpasa",
       "league": "TSL",
@@ -424,18 +442,6 @@
       "patternText": "222.266/325.772",
       "aiScore": 69,
       "picks": 3
-    },
-    {
-      "home": "FK Neftchi Baku",
-      "away": "FK Kapaz",
-      "league": "AZERPL",
-      "date": "06.11.2026 16:00",
-      "matchCode": "4523908",
-      "odds": 1.27,
-      "patternScore": 68.41,
-      "patternText": "140.365/205.191",
-      "aiScore": 66,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
