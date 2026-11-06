@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 00:47",
+  "updatedAt": "06.11.2026 00:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 300,
       "rate": 54.3
     },
-    "totalAnalyses": 450450,
+    "totalAnalyses": 450454,
     "leagues": 503,
     "pro": {
       "won": 1069,
@@ -48,7 +48,7 @@
       "rate": 63.3
     },
     "analyses24h": 2702,
-    "analyses30d": 21722
+    "analyses30d": 21717
   },
   "recentWins": [
     {
@@ -349,18 +349,6 @@
     },
     {
       "type": "updated",
-      "at": "05.11.2026 18:52",
-      "home": "AZ Alkmaar",
-      "away": "Juventus"
-    },
-    {
-      "type": "updated",
-      "at": "05.11.2026 18:52",
-      "home": "Sint-Truidense VV",
-      "away": "SK Brann"
-    },
-    {
-      "type": "updated",
       "at": "05.11.2026 23:41",
       "home": "Cruzeiro EC",
       "away": "EC Bahia"
@@ -376,6 +364,16 @@
       "at": "05.11.2026 22:23",
       "home": "Indep. Jose Te",
       "away": "Delfin SC"
+    },
+    {
+      "type": "kickoff",
+      "home": "Club Sport Herediano",
+      "away": "Deportivo Saprissa",
+      "at": "06.11.2026 02:00"
+    },
+    {
+      "type": "analysis",
+      "count": 2702
     }
   ],
   "today": {
@@ -436,7 +434,7 @@
       "odds": 1.67,
       "patternScore": 66.71,
       "patternText": "236.523/354.554",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 8
     },
     {
