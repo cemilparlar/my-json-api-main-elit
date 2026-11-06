@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 19:33",
+  "updatedAt": "06.11.2026 19:40",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 322,
       "rate": 64.6
     },
-    "totalAnalyses": 452324,
+    "totalAnalyses": 452325,
     "leagues": 492,
     "pro": {
       "won": 1098,
@@ -47,8 +47,8 @@
       "total": 78,
       "rate": 59.0
     },
-    "analyses24h": 3059,
-    "analyses30d": 21838
+    "analyses24h": 3058,
+    "analyses30d": 21837
   },
   "recentWins": [
     {
@@ -361,6 +361,12 @@
     },
     {
       "type": "updated",
+      "at": "06.11.2026 15:48",
+      "home": "UFC Amstetten",
+      "away": "Wacker Innsbruc"
+    },
+    {
+      "type": "updated",
       "at": "06.11.2026 15:47",
       "home": "Lokomotiv Moscow",
       "away": "Rubin Kazan"
@@ -370,12 +376,6 @@
       "at": "06.11.2026 16:29",
       "home": "Resovia Rzeszow",
       "away": "Gornik Leczna"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 15:48",
-      "home": "Vejle BK",
-      "away": "FC Fredericia"
     }
   ],
   "today": {
@@ -386,7 +386,7 @@
     "matchCode": "4483797",
     "odds": 1.4,
     "patternScore": 67.85,
-    "patternText": "265.457/391.248",
+    "patternText": "265.473/391.274",
     "aiScore": 57,
     "picks": 3
   },
@@ -399,7 +399,7 @@
       "matchCode": "4483797",
       "odds": 1.4,
       "patternScore": 67.85,
-      "patternText": "265.457/391.248",
+      "patternText": "265.473/391.274",
       "aiScore": 57,
       "picks": 3
     },
@@ -411,7 +411,7 @@
       "matchCode": "4454055",
       "odds": 1.33,
       "patternScore": 68.47,
-      "patternText": "258.743/377.912",
+      "patternText": "258.767/377.942",
       "aiScore": 60,
       "picks": 3
     },
@@ -423,7 +423,7 @@
       "matchCode": "4423367",
       "odds": 1.27,
       "patternScore": 68.71,
-      "patternText": "282.850/411.643",
+      "patternText": "282.890/411.695",
       "aiScore": 68,
       "picks": 5
     },
@@ -435,7 +435,7 @@
       "matchCode": "4508203",
       "odds": 1.23,
       "patternScore": 68.48,
-      "patternText": "251.795/367.700",
+      "patternText": "251.819/367.730",
       "aiScore": 71,
       "picks": 1
     },
@@ -447,12 +447,19 @@
       "matchCode": "4517048",
       "odds": 1.21,
       "patternScore": 69.59,
-      "patternText": "271.065/389.530",
+      "patternText": "271.133/389.634",
       "aiScore": 78,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Vitoria Bahia",
+      "away": "Fluminense FC",
+      "league": "BR1",
+      "at": "06.11.2026 19:39",
+      "count": 5
+    },
     {
       "home": "Sevilla FC",
       "away": "Deportivo Alaves",
@@ -514,13 +521,6 @@
       "away": "Borussia Monchengladbach",
       "league": "AL1",
       "at": "06.11.2026 18:28",
-      "count": 6
-    },
-    {
-      "home": "Willem",
-      "away": "Zwolle",
-      "league": "HOL",
-      "at": "06.11.2026 18:27",
       "count": 6
     }
   ],
