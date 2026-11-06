@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 15:48",
+  "updatedAt": "06.11.2026 15:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 346,
       "rate": 56.9
     },
-    "totalAnalyses": 451918,
+    "totalAnalyses": 451963,
     "leagues": 500,
     "pro": {
       "won": 1079,
@@ -47,8 +47,8 @@
       "total": 78,
       "rate": 61.5
     },
-    "analyses24h": 3099,
-    "analyses30d": 22064
+    "analyses24h": 3104,
+    "analyses30d": 22069
   },
   "recentWins": [
     {
@@ -367,15 +367,15 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 13:32",
+      "at": "06.11.2026 15:48",
       "home": "FK Austria Wien",
       "away": "First Vienna FC"
     },
     {
       "type": "updated",
-      "at": "06.11.2026 14:26",
-      "home": "UFC Amstetten",
-      "away": "Wacker Innsbruc"
+      "at": "06.11.2026 15:29",
+      "home": "FC Admira Wacker Modling",
+      "away": "St Polten"
     }
   ],
   "today": {
@@ -404,18 +404,6 @@
       "picks": 5
     },
     {
-      "home": "Everton",
-      "away": "Coventry City",
-      "league": "İNP",
-      "date": "06.11.2026 20:00",
-      "matchCode": "4481104",
-      "odds": 1.8,
-      "patternScore": 67.96,
-      "patternText": "186.398/274.275",
-      "aiScore": 54,
-      "picks": 5
-    },
-    {
       "home": "Eintracht Braunschweig",
       "away": "Energie Cottbus",
       "league": "AL2",
@@ -424,6 +412,18 @@
       "odds": 1.52,
       "patternScore": 66.88,
       "patternText": "253.471/378.989",
+      "aiScore": 55,
+      "picks": 8
+    },
+    {
+      "home": "Toulouse FC",
+      "away": "RC Strasbourg",
+      "league": "FR1",
+      "date": "06.11.2026 19:45",
+      "matchCode": "4476592",
+      "odds": 1.43,
+      "patternScore": 67.62,
+      "patternText": "222.228/328.626",
       "aiScore": 55,
       "picks": 8
     },
@@ -454,25 +454,32 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Lokomotiv Moscow",
-      "away": "Rubin Kazan",
-      "league": "RUS",
-      "at": "06.11.2026 15:47",
-      "count": 5
-    },
-    {
-      "home": "Everton",
-      "away": "Coventry City",
-      "league": "İNP",
-      "at": "06.11.2026 15:30",
-      "count": 5
+      "home": "Toulouse FC",
+      "away": "RC Strasbourg",
+      "league": "FR1",
+      "at": "06.11.2026 15:50",
+      "count": 10
     },
     {
       "home": "Sevilla FC",
       "away": "Deportivo Alaves",
       "league": "İS1",
-      "at": "06.11.2026 15:11",
-      "count": 8
+      "at": "06.11.2026 15:50",
+      "count": 7
+    },
+    {
+      "home": "Everton",
+      "away": "Coventry City",
+      "league": "İNP",
+      "at": "06.11.2026 15:50",
+      "count": 3
+    },
+    {
+      "home": "Lokomotiv Moscow",
+      "away": "Rubin Kazan",
+      "league": "RUS",
+      "at": "06.11.2026 15:47",
+      "count": 5
     },
     {
       "home": "Unione V.",
@@ -508,13 +515,6 @@
       "league": "POR",
       "at": "06.11.2026 14:52",
       "count": 6
-    },
-    {
-      "home": "Toulouse FC",
-      "away": "RC Strasbourg",
-      "league": "FR1",
-      "at": "06.11.2026 14:50",
-      "count": 9
     },
     {
       "home": "Grenoble Foot",
