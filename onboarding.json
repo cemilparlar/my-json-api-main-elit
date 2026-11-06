@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 13:50",
+  "updatedAt": "06.11.2026 13:59",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 173,
+      "won": 175,
       "lost": 133,
-      "total": 306,
-      "rate": 56.5
+      "total": 308,
+      "rate": 56.8
     },
-    "totalAnalyses": 451585,
+    "totalAnalyses": 451639,
     "leagues": 502,
     "pro": {
       "won": 1070,
@@ -36,9 +36,9 @@
       "rate": 70.8
     },
     "insights": {
-      "won": 1849,
+      "won": 1851,
       "lost": 799,
-      "total": 2648,
+      "total": 2650,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 78,
       "rate": 62.8
     },
-    "analyses24h": 3045,
-    "analyses30d": 22022
+    "analyses24h": 3064,
+    "analyses30d": 22041
   },
   "recentWins": [
     {
@@ -361,7 +361,7 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 13:31",
+      "at": "06.11.2026 13:52",
       "home": "UFC Amstetten",
       "away": "Wacker Innsbruc"
     },
@@ -454,18 +454,39 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Ascoli Calcio",
-      "away": "Palermo FC",
-      "league": "İTB",
-      "at": "06.11.2026 13:44",
-      "count": 5
+      "home": "Unione V.",
+      "away": "Udinese",
+      "league": "İTA",
+      "at": "06.11.2026 13:57",
+      "count": 4
+    },
+    {
+      "home": "Standard Liege",
+      "away": "Waasland-Beveren",
+      "league": "BEL",
+      "at": "06.11.2026 13:55",
+      "count": 6
+    },
+    {
+      "home": "Toulouse FC",
+      "away": "RC Strasbourg",
+      "league": "FR1",
+      "at": "06.11.2026 13:54",
+      "count": 8
     },
     {
       "home": "Hamburger SV",
       "away": "Borussia Monchengladbach",
       "league": "AL1",
-      "at": "06.11.2026 13:36",
-      "count": 7
+      "at": "06.11.2026 13:53",
+      "count": 5
+    },
+    {
+      "home": "Ascoli Calcio",
+      "away": "Palermo FC",
+      "league": "İTB",
+      "at": "06.11.2026 13:44",
+      "count": 5
     },
     {
       "home": "Boulogne",
@@ -501,27 +522,6 @@
       "league": "İTA",
       "at": "06.11.2026 12:59",
       "count": 17
-    },
-    {
-      "home": "Carrarese Calcio",
-      "away": "UC Sampdoria",
-      "league": "İTB",
-      "at": "06.11.2026 12:58",
-      "count": 8
-    },
-    {
-      "home": "Dynamo Dresden",
-      "away": "SpVgg Greuther Furth",
-      "league": "AL2",
-      "at": "06.11.2026 12:13",
-      "count": 8
-    },
-    {
-      "home": "Gaziantep FK",
-      "away": "Kasimpasa",
-      "league": "TSL",
-      "at": "06.11.2026 12:12",
-      "count": 6
     }
   ],
   "paywall": {
