@@ -10257,7 +10257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "07.11.2026 15:00",
@@ -11907,7 +11907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "07.11.2026 15:00",
@@ -17307,7 +17307,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "08.11.2026 14:30",
@@ -19107,7 +19107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "08.11.2026 16:15",
@@ -23697,7 +23697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "07.11.2026 19:30",
@@ -31947,7 +31947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "08.11.2026 00:00",
@@ -35577,7 +35577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "07.11.2026 12:30",
@@ -35817,7 +35817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "07.11.2026 16:30",
@@ -36027,7 +36027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "07.11.2026 17:30",
@@ -43260,66 +43260,6 @@
         "aiScore": 77
     },
     {
-        "date": "07.11.2026 01:00",
-        "league": "MEKKA",
-        "matchCode": "4560803",
-        "home": "Cruz Azul Women",
-        "away": "León Women",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "78.41",
-        "odds": "1.09",
-        "matchCount": "88",
-        "matchLink": "4560803",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "20/192",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "06.11.2026 20:41",
-        "patternScore": 70.85,
-        "patternText": "347.078/489.850",
-        "patternInfo": {
-            "m": 51,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 86
-    },
-    {
-        "date": "07.11.2026 01:00",
-        "league": "MEKKA",
-        "matchCode": "4560803",
-        "home": "Cruz Azul Women",
-        "away": "León Women",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "78.41",
-        "odds": "1.15",
-        "matchCount": "88",
-        "matchLink": "4560803",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "20/192",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "06.11.2026 20:41",
-        "patternScore": 69.68,
-        "patternText": "279.850/401.644",
-        "patternInfo": {
-            "m": 47,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 77
-    },
-    {
         "date": "06.11.2026 20:00",
         "league": "İNCL",
         "matchCode": "4488854",
@@ -44158,5 +44098,35 @@
             "b": 100.0
         },
         "aiScore": 83
+    },
+    {
+        "date": "07.11.2026 01:00",
+        "league": "MEKKA",
+        "matchCode": "4560803",
+        "home": "Cruz Azul Women",
+        "away": "León Women",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.08",
+        "odds": "1.10",
+        "matchCount": "192",
+        "matchLink": "4560803",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "20/192",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "06.11.2026 20:41",
+        "patternScore": 70.42,
+        "patternText": "321.484/456.532",
+        "patternInfo": {
+            "m": 45,
+            "s": 2,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 81
     }
 ]
