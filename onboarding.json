@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 13:34",
+  "updatedAt": "06.11.2026 13:42",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 306,
       "rate": 56.5
     },
-    "totalAnalyses": 451495,
+    "totalAnalyses": 451502,
     "leagues": 502,
     "pro": {
       "won": 1070,
@@ -361,6 +361,12 @@
     },
     {
       "type": "updated",
+      "at": "06.11.2026 13:31",
+      "home": "UFC Amstetten",
+      "away": "Wacker Innsbruc"
+    },
+    {
+      "type": "updated",
       "at": "06.11.2026 10:49",
       "home": "Lokomotiv Moscow",
       "away": "Rubin Kazan"
@@ -370,12 +376,6 @@
       "at": "06.11.2026 11:10",
       "home": "Vejle BK",
       "away": "FC Fredericia"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 11:11",
-      "home": "Puszcza Niepolomice",
-      "away": "Miedz Legnica"
     }
   ],
   "today": {
@@ -416,18 +416,6 @@
       "picks": 5
     },
     {
-      "home": "Hammarby IF",
-      "away": "IF Elfsborg",
-      "league": "İSÇ",
-      "date": "06.11.2026 18:00",
-      "matchCode": "4426809",
-      "odds": 1.54,
-      "patternScore": 66.74,
-      "patternText": "168.097/251.885",
-      "aiScore": 57,
-      "picks": 3
-    },
-    {
       "home": "Eintracht Braunschweig",
       "away": "Energie Cottbus",
       "league": "AL2",
@@ -436,7 +424,7 @@
       "odds": 1.52,
       "patternScore": 66.88,
       "patternText": "253.361/378.833",
-      "aiScore": 56,
+      "aiScore": 55,
       "picks": 8
     },
     {
@@ -450,9 +438,28 @@
       "patternText": "263.026/389.683",
       "aiScore": 56,
       "picks": 6
+    },
+    {
+      "home": "Brentford U21",
+      "away": "Wolverhampton Wanderers U21",
+      "league": "INGPL2",
+      "date": "06.11.2026 19:00",
+      "matchCode": "4544158",
+      "odds": 1.36,
+      "patternScore": 66.98,
+      "patternText": "167.478/250.029",
+      "aiScore": 61,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Hamburger SV",
+      "away": "Borussia Monchengladbach",
+      "league": "AL1",
+      "at": "06.11.2026 13:36",
+      "count": 7
+    },
     {
       "home": "Boulogne",
       "away": "Annecy",
@@ -515,13 +522,6 @@
       "league": "AL2",
       "at": "06.11.2026 11:51",
       "count": 9
-    },
-    {
-      "home": "Antalyaspor",
-      "away": "Bursaspor",
-      "league": "T1L",
-      "at": "06.11.2026 11:11",
-      "count": 3
     }
   ],
   "paywall": {
