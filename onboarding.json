@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 06:38",
+  "updatedAt": "06.11.2026 06:45",
   "config": {
     "pages": [
       "engine",
@@ -337,12 +337,6 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 00:43",
-      "home": "Club Deportivo Maraton",
-      "away": "Club Deportivo Platense"
-    },
-    {
-      "type": "updated",
       "at": "06.11.2026 06:01",
       "home": "Canberra",
       "away": "Sydney United 58 FC"
@@ -376,6 +370,12 @@
       "at": "06.11.2026 06:02",
       "home": "Sepahan",
       "away": "Malavan Fc"
+    },
+    {
+      "type": "kickoff",
+      "home": "Canberra",
+      "away": "Sydney United 58 FC",
+      "at": "06.11.2026 08:30"
     }
   ],
   "today": {
@@ -404,6 +404,18 @@
       "picks": 3
     },
     {
+      "home": "Hong Linh Ha Tinh",
+      "away": "Nam Dinh FC",
+      "league": "VİET",
+      "date": "06.11.2026 11:00",
+      "matchCode": "4551350",
+      "odds": 1.21,
+      "patternScore": 69.25,
+      "patternText": "227.426/328.422",
+      "aiScore": 69,
+      "picks": 2
+    },
+    {
       "home": "Madura United",
       "away": "Arema FC",
       "league": "ENDL1",
@@ -424,18 +436,6 @@
       "odds": 1.1,
       "patternScore": 68.78,
       "patternText": "150.476/218.765",
-      "aiScore": 98,
-      "picks": 1
-    },
-    {
-      "home": "Hong Linh Ha Tinh",
-      "away": "Nam Dinh FC",
-      "league": "VİET",
-      "date": "06.11.2026 11:00",
-      "matchCode": "4551350",
-      "odds": 1.06,
-      "patternScore": 69.85,
-      "patternText": "222.356/318.320",
       "aiScore": 98,
       "picks": 1
     },
