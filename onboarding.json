@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 22:23",
+  "updatedAt": "06.11.2026 22:31",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 51.6
     },
-    "analyses24h": 2924,
-    "analyses30d": 21847
+    "analyses24h": 2923,
+    "analyses30d": 21842
   },
   "recentWins": [
     {
@@ -349,60 +349,48 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 16:29",
-      "home": "Gaziantep FK",
-      "away": "Kasimpasa"
-    },
-    {
-      "type": "updated",
       "at": "06.11.2026 22:21",
       "home": "Shimizu S-Pulse",
       "away": "Tokyo Verdy"
     },
     {
       "type": "updated",
-      "at": "06.11.2026 16:29",
-      "home": "Resovia Rzeszow",
-      "away": "Gornik Leczna"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 16:29",
-      "home": "Eintracht Braunschweig",
-      "away": "Energie Cottbus"
+      "at": "06.11.2026 17:24",
+      "home": "FC Roskilde",
+      "away": "Hellerup Ik"
     },
     {
       "type": "updated",
       "at": "06.11.2026 17:24",
-      "home": "FC Roskilde",
-      "away": "Hellerup Ik"
+      "home": "Silkeborg IF",
+      "away": "Lyngby BK"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 18:26",
+      "home": "Heracles Almelo",
+      "away": "Roda JC Kerkrade"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 18:26",
+      "home": "AS Nancy",
+      "away": "FC Sochaux"
     }
   ],
   "today": {
-    "home": "Shimizu S-Pulse",
-    "away": "Tokyo Verdy",
-    "league": "JAP",
-    "date": "07.11.2026 04:00",
-    "matchCode": "4487262",
-    "odds": 1.57,
-    "patternScore": 67.21,
-    "patternText": "103.287/153.671",
-    "aiScore": 56,
+    "home": "NK Radomlje",
+    "away": "NK Celje",
+    "league": "SLVN",
+    "date": "07.11.2026 00:00",
+    "matchCode": "4483797",
+    "odds": 1.4,
+    "patternScore": 67.85,
+    "patternText": "265.719/391.644",
+    "aiScore": 57,
     "picks": 3
   },
   "todayList": [
-    {
-      "home": "Shimizu S-Pulse",
-      "away": "Tokyo Verdy",
-      "league": "JAP",
-      "date": "07.11.2026 04:00",
-      "matchCode": "4487262",
-      "odds": 1.57,
-      "patternScore": 67.21,
-      "patternText": "103.287/153.671",
-      "aiScore": 56,
-      "picks": 3
-    },
     {
       "home": "NK Radomlje",
       "away": "NK Celje",
@@ -411,21 +399,9 @@
       "matchCode": "4483797",
       "odds": 1.4,
       "patternScore": 67.85,
-      "patternText": "265.703/391.616",
+      "patternText": "265.719/391.644",
       "aiScore": 57,
       "picks": 3
-    },
-    {
-      "home": "Vitoria Bahia",
-      "away": "Fluminense FC",
-      "league": "BR1",
-      "date": "06.11.2026 23:00",
-      "matchCode": "4423367",
-      "odds": 1.34,
-      "patternScore": 67.42,
-      "patternText": "200.219/296.976",
-      "aiScore": 61,
-      "picks": 5
     },
     {
       "home": "Shakhtar Donetsk",
@@ -435,7 +411,7 @@
       "matchCode": "4508203",
       "odds": 1.23,
       "patternScore": 68.48,
-      "patternText": "252.043/368.070",
+      "patternText": "252.055/368.090",
       "aiScore": 71,
       "picks": 1
     },
@@ -447,9 +423,33 @@
       "matchCode": "4536419",
       "odds": 1.23,
       "patternScore": 68.24,
-      "patternText": "256.418/375.752",
+      "patternText": "256.434/375.780",
       "aiScore": 72,
       "picks": 2
+    },
+    {
+      "home": "Cuiaba",
+      "away": "Juventude",
+      "league": "BR2",
+      "date": "07.11.2026 00:30",
+      "matchCode": "4454055",
+      "odds": 1.22,
+      "patternScore": 69.18,
+      "patternText": "276.799/400.112",
+      "aiScore": 67,
+      "picks": 2
+    },
+    {
+      "home": "Auckland",
+      "away": "Wellington Phoenix",
+      "league": "AVUS",
+      "date": "07.11.2026 04:00",
+      "matchCode": "4546753",
+      "odds": 1.21,
+      "patternScore": 68.63,
+      "patternText": "272.862/397.556",
+      "aiScore": 66,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
