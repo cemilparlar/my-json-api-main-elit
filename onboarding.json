@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 16:03",
+  "updatedAt": "06.11.2026 16:10",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 350,
       "rate": 57.4
     },
-    "totalAnalyses": 451963,
+    "totalAnalyses": 452007,
     "leagues": 500,
     "pro": {
       "won": 1079,
@@ -47,8 +47,8 @@
       "total": 78,
       "rate": 61.5
     },
-    "analyses24h": 3098,
-    "analyses30d": 22048
+    "analyses24h": 3135,
+    "analyses30d": 22085
   },
   "recentWins": [
     {
@@ -349,7 +349,7 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 11:11",
+      "at": "06.11.2026 16:06",
       "home": "Antalyaspor",
       "away": "Bursaspor"
     },
@@ -386,7 +386,7 @@
     "matchCode": "4495835",
     "odds": 1.52,
     "patternScore": 66.88,
-    "patternText": "253.471/378.989",
+    "patternText": "253.513/379.031",
     "aiScore": 55,
     "picks": 8
   },
@@ -399,7 +399,7 @@
       "matchCode": "4495835",
       "odds": 1.52,
       "patternScore": 66.88,
-      "patternText": "253.471/378.989",
+      "patternText": "253.513/379.031",
       "aiScore": 55,
       "picks": 8
     },
@@ -411,7 +411,7 @@
       "matchCode": "4476592",
       "odds": 1.43,
       "patternScore": 66.82,
-      "patternText": "238.139/356.384",
+      "patternText": "238.165/356.410",
       "aiScore": 56,
       "picks": 6
     },
@@ -423,7 +423,7 @@
       "matchCode": "4481104",
       "odds": 1.38,
       "patternScore": 66.78,
-      "patternText": "138.915/208.013",
+      "patternText": "138.929/208.027",
       "aiScore": 57,
       "picks": 3
     },
@@ -435,7 +435,7 @@
       "matchCode": "4544158",
       "odds": 1.36,
       "patternScore": 66.98,
-      "patternText": "167.594/250.205",
+      "patternText": "167.608/250.219",
       "aiScore": 61,
       "picks": 1
     },
@@ -447,12 +447,33 @@
       "matchCode": "4508935",
       "odds": 1.36,
       "patternScore": 68.2,
-      "patternText": "210.090/308.063",
+      "patternText": "210.116/308.089",
       "aiScore": 56,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Hamburger SV",
+      "away": "Borussia Monchengladbach",
+      "league": "AL1",
+      "at": "06.11.2026 16:09",
+      "count": 9
+    },
+    {
+      "home": "Everton",
+      "away": "Coventry City",
+      "league": "İNP",
+      "at": "06.11.2026 16:09",
+      "count": 5
+    },
+    {
+      "home": "Antalyaspor",
+      "away": "Bursaspor",
+      "league": "T1L",
+      "at": "06.11.2026 16:06",
+      "count": 3
+    },
     {
       "home": "Toulouse FC",
       "away": "RC Strasbourg",
@@ -466,13 +487,6 @@
       "league": "İS1",
       "at": "06.11.2026 15:50",
       "count": 7
-    },
-    {
-      "home": "Everton",
-      "away": "Coventry City",
-      "league": "İNP",
-      "at": "06.11.2026 15:50",
-      "count": 3
     },
     {
       "home": "Lokomotiv Moscow",
@@ -496,13 +510,6 @@
       "count": 8
     },
     {
-      "home": "Hamburger SV",
-      "away": "Borussia Monchengladbach",
-      "league": "AL1",
-      "at": "06.11.2026 15:08",
-      "count": 7
-    },
-    {
       "home": "AS Nancy",
       "away": "FC Sochaux",
       "league": "FR2",
@@ -515,13 +522,6 @@
       "league": "POR",
       "at": "06.11.2026 14:52",
       "count": 6
-    },
-    {
-      "home": "Grenoble Foot",
-      "away": "Stade de Reims",
-      "league": "FR2",
-      "at": "06.11.2026 14:49",
-      "count": 14
     }
   ],
   "paywall": {
