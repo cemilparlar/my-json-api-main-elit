@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 00:55",
+  "updatedAt": "06.11.2026 01:02",
   "config": {
     "pages": [
       "engine",
@@ -47,7 +47,7 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2702,
+    "analyses24h": 2700,
     "analyses30d": 21717
   },
   "recentWins": [
@@ -373,7 +373,7 @@
     },
     {
       "type": "analysis",
-      "count": 2702
+      "count": 2700
     }
   ],
   "today": {
@@ -426,6 +426,18 @@
       "picks": 1
     },
     {
+      "home": "Birmingham City",
+      "away": "West Ham United U21",
+      "league": "INGPL2",
+      "date": "06.11.2026 13:00",
+      "matchCode": "4544157",
+      "odds": 1.08,
+      "patternScore": 68.5,
+      "patternText": "107.617/157.109",
+      "aiScore": 92,
+      "picks": 1
+    },
+    {
       "home": "Gaziantep FK",
       "away": "Kasimpasa",
       "league": "TSL",
@@ -436,18 +448,6 @@
       "patternText": "236.523/354.554",
       "aiScore": 53,
       "picks": 8
-    },
-    {
-      "home": "Hammarby IF",
-      "away": "IF Elfsborg",
-      "league": "İSÇ",
-      "date": "06.11.2026 18:00",
-      "matchCode": "4426809",
-      "odds": 1.6,
-      "patternScore": 67.23,
-      "patternText": "245.775/365.550",
-      "aiScore": 54,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
