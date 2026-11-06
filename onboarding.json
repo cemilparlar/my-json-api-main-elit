@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 07:28",
+  "updatedAt": "06.11.2026 07:36",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": 63.3
     },
     "analyses24h": 2731,
-    "analyses30d": 21744
+    "analyses30d": 21732
   },
   "recentWins": [
     {
@@ -428,18 +428,6 @@
       "picks": 2
     },
     {
-      "home": "Adelaide United",
-      "away": "Wellington Phoenix",
-      "league": "AVUSTW",
-      "date": "06.11.2026 08:00",
-      "matchCode": "4551569",
-      "odds": 1.12,
-      "patternScore": 70.42,
-      "patternText": "253.711/360.267",
-      "aiScore": 79,
-      "picks": 2
-    },
-    {
       "home": "Canberra",
       "away": "Sydney United 58 FC",
       "league": "AVC",
@@ -449,6 +437,18 @@
       "patternScore": 68.78,
       "patternText": "150.476/218.765",
       "aiScore": 98,
+      "picks": 1
+    },
+    {
+      "home": "Millwall U21",
+      "away": "Cardiff City U21",
+      "league": "INGPDL",
+      "date": "06.11.2026 13:30",
+      "matchCode": "4540669",
+      "odds": 1.07,
+      "patternScore": 70.83,
+      "patternText": "211.876/299.135",
+      "aiScore": 96,
       "picks": 1
     }
   ],
