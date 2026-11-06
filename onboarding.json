@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 02:32",
+  "updatedAt": "06.11.2026 02:39",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 169,
-      "lost": 139,
-      "total": 308,
-      "rate": 54.9
+      "won": 174,
+      "lost": 140,
+      "total": 314,
+      "rate": 55.4
     },
     "totalAnalyses": 450528,
     "leagues": 503,
     "pro": {
-      "won": 1069,
-      "lost": 440,
-      "total": 1509,
-      "rate": 70.8
+      "won": 1073,
+      "lost": 441,
+      "total": 1514,
+      "rate": 70.9
     },
     "insights": {
-      "won": 1850,
-      "lost": 798,
-      "total": 2648,
+      "won": 1855,
+      "lost": 799,
+      "total": 2654,
       "rate": 69.9
     },
     "coupons": {
@@ -366,7 +366,7 @@
     "matchCode": "4573630",
     "odds": 1.25,
     "patternScore": 67.57,
-    "patternText": "200.629/296.935",
+    "patternText": "200.655/296.967",
     "aiScore": 61,
     "picks": 2
   },
@@ -379,7 +379,7 @@
       "matchCode": "4573630",
       "odds": 1.25,
       "patternScore": 67.57,
-      "patternText": "200.629/296.935",
+      "patternText": "200.655/296.967",
       "aiScore": 61,
       "picks": 2
     },
@@ -391,8 +391,20 @@
       "matchCode": "4571547",
       "odds": 1.19,
       "patternScore": 69.27,
-      "patternText": "242.756/350.452",
+      "patternText": "242.790/350.492",
       "aiScore": 75,
+      "picks": 2
+    },
+    {
+      "home": "Al Adalah",
+      "away": "Al Orubah Club",
+      "league": "SUUD1",
+      "date": "06.11.2026 14:35",
+      "matchCode": "4538724",
+      "odds": 1.14,
+      "patternScore": 70.09,
+      "patternText": "289.891/413.581",
+      "aiScore": 95,
       "picks": 2
     },
     {
@@ -402,8 +414,8 @@
       "date": "06.11.2026 14:00",
       "matchCode": "4572344",
       "odds": 1.12,
-      "patternScore": 69.1,
-      "patternText": "243.902/352.949",
+      "patternScore": 69.11,
+      "patternText": "243.928/352.981",
       "aiScore": 83,
       "picks": 1
     },
@@ -415,20 +427,8 @@
       "matchCode": "4539101",
       "odds": 1.09,
       "patternScore": 70.88,
-      "patternText": "297.259/419.412",
+      "patternText": "297.285/419.444",
       "aiScore": 91,
-      "picks": 1
-    },
-    {
-      "home": "Birmingham City",
-      "away": "West Ham United U21",
-      "league": "INGPL2",
-      "date": "06.11.2026 13:00",
-      "matchCode": "4544157",
-      "odds": 1.08,
-      "patternScore": 68.5,
-      "patternText": "107.631/157.127",
-      "aiScore": 92,
       "picks": 1
     }
   ],
