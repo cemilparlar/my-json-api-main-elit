@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 01:27",
+  "updatedAt": "06.11.2026 01:34",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 167,
+      "won": 166,
       "lost": 138,
-      "total": 305,
-      "rate": 54.8
+      "total": 304,
+      "rate": 54.6
     },
-    "totalAnalyses": 450472,
+    "totalAnalyses": 450487,
     "leagues": 503,
     "pro": {
       "won": 1069,
@@ -36,9 +36,9 @@
       "rate": 70.9
     },
     "insights": {
-      "won": 1851,
+      "won": 1850,
       "lost": 798,
-      "total": 2649,
+      "total": 2648,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2700,
-    "analyses30d": 21717
+    "analyses24h": 2714,
+    "analyses30d": 21732
   },
   "recentWins": [
     {
@@ -373,34 +373,22 @@
     },
     {
       "type": "analysis",
-      "count": 2700
+      "count": 2714
     }
   ],
   "today": {
-    "home": "Club Sport Herediano",
-    "away": "Deportivo Saprissa",
-    "league": "KOSTA",
-    "date": "06.11.2026 02:00",
-    "matchCode": "4487107",
-    "odds": 1.09,
-    "patternScore": 70.02,
-    "patternText": "211.328/301.826",
-    "aiScore": 92,
-    "picks": 1
+    "home": "Canberra",
+    "away": "Sydney United 58 FC",
+    "league": "AVC",
+    "date": "06.11.2026 08:30",
+    "matchCode": "4573630",
+    "odds": 1.25,
+    "patternScore": 67.57,
+    "patternText": "200.611/296.915",
+    "aiScore": 61,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Club Sport Herediano",
-      "away": "Deportivo Saprissa",
-      "league": "KOSTA",
-      "date": "06.11.2026 02:00",
-      "matchCode": "4487107",
-      "odds": 1.09,
-      "patternScore": 70.02,
-      "patternText": "211.328/301.826",
-      "aiScore": 92,
-      "picks": 1
-    },
     {
       "home": "Canberra",
       "away": "Sydney United 58 FC",
@@ -438,6 +426,18 @@
       "picks": 1
     },
     {
+      "home": "Millwall U21",
+      "away": "Cardiff City U21",
+      "league": "INGPDL",
+      "date": "06.11.2026 13:30",
+      "matchCode": "4540669",
+      "odds": 1.07,
+      "patternScore": 70.83,
+      "patternText": "211.842/299.097",
+      "aiScore": 96,
+      "picks": 1
+    },
+    {
       "home": "Gaziantep FK",
       "away": "Kasimpasa",
       "league": "TSL",
@@ -446,11 +446,18 @@
       "odds": 1.67,
       "patternScore": 66.71,
       "patternText": "236.543/354.580",
-      "aiScore": 53,
+      "aiScore": 54,
       "picks": 8
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "VfB Stuttgart",
+      "away": "Werder Bremen",
+      "league": "AL1",
+      "at": "06.11.2026 01:27",
+      "count": 17
+    },
     {
       "home": "Cruzeiro EC",
       "away": "EC Bahia",
@@ -513,13 +520,6 @@
       "league": "AVKL",
       "at": "05.11.2026 17:02",
       "count": 4
-    },
-    {
-      "home": "FC Midtjylland",
-      "away": "Ajax",
-      "league": "AVKL",
-      "at": "05.11.2026 17:02",
-      "count": 9
     }
   ],
   "paywall": {
