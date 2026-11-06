@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 22:55",
+  "updatedAt": "06.11.2026 23:03",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 278,
-      "lost": 139,
-      "total": 417,
-      "rate": 66.7
+      "won": 274,
+      "lost": 138,
+      "total": 412,
+      "rate": 66.5
     },
-    "totalAnalyses": 452499,
+    "totalAnalyses": 452516,
     "leagues": 492,
     "pro": {
-      "won": 1161,
-      "lost": 467,
-      "total": 1628,
+      "won": 1156,
+      "lost": 465,
+      "total": 1621,
       "rate": 71.3
     },
     "insights": {
-      "won": 1996,
-      "lost": 848,
-      "total": 2844,
+      "won": 1991,
+      "lost": 846,
+      "total": 2837,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 92,
       "rate": 52.2
     },
-    "analyses24h": 2919,
-    "analyses30d": 21838
+    "analyses24h": 2928,
+    "analyses30d": 21849
   },
   "recentWins": [
     {
@@ -332,6 +332,12 @@
     {
       "type": "coupon",
       "size": 5,
+      "odds": 1.61,
+      "at": "06.11.2026 23:03"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
       "odds": 1.51,
       "at": "06.11.2026 22:01"
     },
@@ -339,12 +345,6 @@
       "type": "coupon",
       "size": 5,
       "odds": 1.51,
-      "at": "06.11.2026 21:01"
-    },
-    {
-      "type": "coupon",
-      "size": 4,
-      "odds": 1.52,
       "at": "06.11.2026 21:01"
     },
     {
@@ -379,18 +379,30 @@
     }
   ],
   "today": {
-    "home": "NK Radomlje",
-    "away": "NK Celje",
-    "league": "SLVN",
-    "date": "07.11.2026 00:00",
-    "matchCode": "4483797",
-    "odds": 1.4,
-    "patternScore": 67.85,
-    "patternText": "265.725/391.652",
-    "aiScore": 57,
+    "home": "Mynavi Sendai",
+    "away": "Urawa Red Women",
+    "league": "JWEL",
+    "date": "07.11.2026 05:00",
+    "matchCode": "4488308",
+    "odds": 1.74,
+    "patternScore": 66.92,
+    "patternText": "272.166/406.728",
+    "aiScore": 54,
     "picks": 3
   },
   "todayList": [
+    {
+      "home": "Mynavi Sendai",
+      "away": "Urawa Red Women",
+      "league": "JWEL",
+      "date": "07.11.2026 05:00",
+      "matchCode": "4488308",
+      "odds": 1.74,
+      "patternScore": 66.92,
+      "patternText": "272.166/406.728",
+      "aiScore": 54,
+      "picks": 3
+    },
     {
       "home": "NK Radomlje",
       "away": "NK Celje",
@@ -399,9 +411,21 @@
       "matchCode": "4483797",
       "odds": 1.4,
       "patternScore": 67.85,
-      "patternText": "265.725/391.652",
+      "patternText": "265.731/391.658",
       "aiScore": 57,
       "picks": 3
+    },
+    {
+      "home": "Albirex Niigata",
+      "away": "FC Imabari",
+      "league": "JAP2",
+      "date": "07.11.2026 05:00",
+      "matchCode": "4487663",
+      "odds": 1.23,
+      "patternScore": 68.66,
+      "patternText": "265.245/386.321",
+      "aiScore": 82,
+      "picks": 4
     },
     {
       "home": "Shakhtar Donetsk",
@@ -411,7 +435,7 @@
       "matchCode": "4508203",
       "odds": 1.23,
       "patternScore": 68.48,
-      "patternText": "252.061/368.098",
+      "patternText": "252.067/368.104",
       "aiScore": 71,
       "picks": 1
     },
@@ -423,33 +447,9 @@
       "matchCode": "4536419",
       "odds": 1.23,
       "patternScore": 68.24,
-      "patternText": "256.440/375.788",
+      "patternText": "256.446/375.794",
       "aiScore": 72,
       "picks": 2
-    },
-    {
-      "home": "Cuiaba",
-      "away": "Juventude",
-      "league": "BR2",
-      "date": "07.11.2026 00:30",
-      "matchCode": "4454055",
-      "odds": 1.22,
-      "patternScore": 69.18,
-      "patternText": "276.809/400.124",
-      "aiScore": 67,
-      "picks": 2
-    },
-    {
-      "home": "Auckland",
-      "away": "Wellington Phoenix",
-      "league": "AVUS",
-      "date": "07.11.2026 04:00",
-      "matchCode": "4546753",
-      "odds": 1.21,
-      "patternScore": 68.63,
-      "patternText": "272.868/397.564",
-      "aiScore": 66,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
