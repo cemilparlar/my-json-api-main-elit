@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 06:01",
+  "updatedAt": "06.11.2026 06:08",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 319,
       "rate": 56.1
     },
-    "totalAnalyses": 450633,
+    "totalAnalyses": 450636,
     "leagues": 503,
     "pro": {
       "won": 1074,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2723,
-    "analyses30d": 21738
+    "analyses24h": 2726,
+    "analyses30d": 21741
   },
   "recentWins": [
     {
@@ -343,7 +343,13 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 05:42",
+      "at": "06.11.2026 06:01",
+      "home": "Adelaide United",
+      "away": "Wellington Phoenix"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 06:01",
       "home": "Canberra",
       "away": "Sydney United 58 FC"
     },
@@ -355,25 +361,21 @@
     },
     {
       "type": "updated",
+      "at": "06.11.2026 06:03",
+      "home": "Lamphun Warrior",
+      "away": "Sukhothai FC"
+    },
+    {
+      "type": "updated",
       "at": "06.11.2026 05:42",
       "home": "Hong Linh Ha Tinh",
       "away": "Nam Dinh FC"
     },
     {
       "type": "kickoff",
-      "home": "Canberra",
-      "away": "Sydney United 58 FC",
-      "at": "06.11.2026 08:30"
-    },
-    {
-      "type": "kickoff",
-      "home": "Sydney FC",
-      "away": "Central Coast Mariners",
-      "at": "06.11.2026 08:40"
-    },
-    {
-      "type": "analysis",
-      "count": 2723
+      "home": "Adelaide United",
+      "away": "Wellington Phoenix",
+      "at": "06.11.2026 08:00"
     }
   ],
   "today": {
@@ -408,10 +410,10 @@
       "date": "06.11.2026 08:30",
       "matchCode": "4573630",
       "odds": 1.1,
-      "patternScore": 68.53,
-      "patternText": "221.513/323.243",
-      "aiScore": 89,
-      "picks": 2
+      "patternScore": 68.78,
+      "patternText": "150.476/218.765",
+      "aiScore": 98,
+      "picks": 1
     },
     {
       "home": "Lamphun Warrior",
@@ -426,6 +428,18 @@
       "picks": 1
     },
     {
+      "home": "Adelaide United",
+      "away": "Wellington Phoenix",
+      "league": "AVUSTW",
+      "date": "06.11.2026 08:00",
+      "matchCode": "4551569",
+      "odds": 1.09,
+      "patternScore": 71.02,
+      "patternText": "279.587/393.661",
+      "aiScore": 95,
+      "picks": 1
+    },
+    {
       "home": "Hong Linh Ha Tinh",
       "away": "Nam Dinh FC",
       "league": "VİET",
@@ -436,18 +450,6 @@
       "patternText": "222.356/318.320",
       "aiScore": 98,
       "picks": 1
-    },
-    {
-      "home": "Gaziantep FK",
-      "away": "Kasimpasa",
-      "league": "TSL",
-      "date": "06.11.2026 17:00",
-      "matchCode": "4542743",
-      "odds": 1.67,
-      "patternScore": 66.72,
-      "patternText": "236.693/354.750",
-      "aiScore": 54,
-      "picks": 8
     }
   ],
   "recentAnalyzed": [
