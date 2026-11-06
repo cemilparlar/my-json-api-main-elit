@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 10:37",
+  "updatedAt": "06.11.2026 10:45",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 175,
-      "lost": 139,
-      "total": 314,
-      "rate": 55.7
+      "won": 181,
+      "lost": 142,
+      "total": 323,
+      "rate": 56.0
     },
-    "totalAnalyses": 450877,
+    "totalAnalyses": 450893,
     "leagues": 504,
     "pro": {
-      "won": 1075,
-      "lost": 441,
-      "total": 1516,
+      "won": 1077,
+      "lost": 442,
+      "total": 1519,
       "rate": 70.9
     },
     "insights": {
-      "won": 1858,
-      "lost": 799,
-      "total": 2657,
+      "won": 1862,
+      "lost": 801,
+      "total": 2663,
       "rate": 69.9
     },
     "coupons": {
@@ -416,6 +416,18 @@
       "picks": 3
     },
     {
+      "home": "Al Shabab",
+      "away": "Al Tadhamon",
+      "league": "KUV",
+      "date": "06.11.2026 16:40",
+      "matchCode": "4545740",
+      "odds": 1.25,
+      "patternScore": 68.46,
+      "patternText": "223.255/326.127",
+      "aiScore": 65,
+      "picks": 4
+    },
+    {
       "home": "Chadormalu",
       "away": "Foolad Khuzesta",
       "league": "IRAN",
@@ -437,18 +449,6 @@
       "patternScore": 69.38,
       "patternText": "237.774/342.703",
       "aiScore": 77,
-      "picks": 2
-    },
-    {
-      "home": "Al Adalah",
-      "away": "Al Orubah Club",
-      "league": "SUUD1",
-      "date": "06.11.2026 14:35",
-      "matchCode": "4538724",
-      "odds": 1.14,
-      "patternScore": 70.1,
-      "patternText": "289.957/413.647",
-      "aiScore": 95,
       "picks": 2
     }
   ],
