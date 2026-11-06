@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 11:10",
+  "updatedAt": "06.11.2026 11:18",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 327,
       "rate": 56.0
     },
-    "totalAnalyses": 451003,
+    "totalAnalyses": 451034,
     "leagues": 502,
     "pro": {
       "won": 1077,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2833,
-    "analyses30d": 21825
+    "analyses24h": 2856,
+    "analyses30d": 21848
   },
   "recentWins": [
     {
@@ -331,9 +331,21 @@
     },
     {
       "type": "updated",
+      "at": "06.11.2026 11:11",
+      "home": "Antalyaspor",
+      "away": "Bursaspor"
+    },
+    {
+      "type": "updated",
       "at": "06.11.2026 11:09",
       "home": "Gaziantep FK",
       "away": "Kasimpasa"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 11:10",
+      "home": "Sariyer",
+      "away": "Igdir FK"
     },
     {
       "type": "updated",
@@ -344,53 +356,53 @@
     {
       "type": "updated",
       "at": "06.11.2026 11:10",
-      "home": "Resovia Rzeszow",
-      "away": "Gornik Leczna"
+      "home": "Vejle BK",
+      "away": "FC Fredericia"
     },
     {
       "type": "updated",
-      "at": "06.11.2026 11:10",
-      "home": "FC Vysocina Jihlava",
-      "away": "Karvina"
+      "at": "06.11.2026 11:11",
+      "home": "Puszcza Niepolomice",
+      "away": "Miedz Legnica"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 11:11",
+      "home": "NK Lokomotiva Zagreb",
+      "away": "Rudes"
     },
     {
       "type": "updated",
       "at": "06.11.2026 07:15",
       "home": "Adelaide United",
       "away": "Wellington Phoenix"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 06:01",
-      "home": "Canberra",
-      "away": "Sydney United 58 FC"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 07:15",
-      "home": "Sydney FC",
-      "away": "Central Coast Mariners"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 08:15",
-      "home": "Al Jazeera Club",
-      "away": "Al Ramtha"
     }
   ],
   "today": {
-    "home": "Birmingham City",
-    "away": "West Ham United U21",
-    "league": "INGPL2",
-    "date": "06.11.2026 13:00",
-    "matchCode": "4544157",
-    "odds": 1.77,
-    "patternScore": 67.94,
-    "patternText": "176.752/260.171",
-    "aiScore": 55,
-    "picks": 1
+    "home": "Gaziantep FK",
+    "away": "Kasimpasa",
+    "league": "TSL",
+    "date": "06.11.2026 17:00",
+    "matchCode": "4542743",
+    "odds": 3.07,
+    "patternScore": 67.47,
+    "patternText": "221.007/327.557",
+    "aiScore": 51,
+    "picks": 6
   },
   "todayList": [
+    {
+      "home": "Gaziantep FK",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "date": "06.11.2026 17:00",
+      "matchCode": "4542743",
+      "odds": 3.07,
+      "patternScore": 67.47,
+      "patternText": "221.007/327.557",
+      "aiScore": 51,
+      "picks": 6
+    },
     {
       "home": "Birmingham City",
       "away": "West Ham United U21",
@@ -404,16 +416,16 @@
       "picks": 1
     },
     {
-      "home": "Gaziantep FK",
-      "away": "Kasimpasa",
-      "league": "TSL",
-      "date": "06.11.2026 17:00",
-      "matchCode": "4542743",
-      "odds": 1.67,
-      "patternScore": 66.72,
-      "patternText": "236.737/354.840",
-      "aiScore": 54,
-      "picks": 8
+      "home": "Lamphun Warrior",
+      "away": "Sukhothai FC",
+      "league": "TAY",
+      "date": "06.11.2026 12:00",
+      "matchCode": "4539101",
+      "odds": 1.34,
+      "patternScore": 68.08,
+      "patternText": "216.821/318.492",
+      "aiScore": 60,
+      "picks": 1
     },
     {
       "home": "Al Zulfi",
@@ -428,31 +440,26 @@
       "picks": 3
     },
     {
-      "home": "Vejle BK",
-      "away": "FC Fredericia",
-      "league": "DAN1",
-      "date": "06.11.2026 17:00",
-      "matchCode": "4476299",
-      "odds": 1.28,
-      "patternScore": 68.22,
-      "patternText": "222.298/325.834",
-      "aiScore": 70,
-      "picks": 3
-    },
-    {
-      "home": "Puszcza Niepolomice",
-      "away": "Miedz Legnica",
-      "league": "POL1",
-      "date": "06.11.2026 17:00",
-      "matchCode": "4486246",
+      "home": "Chadormalu",
+      "away": "Foolad Khuzesta",
+      "league": "IRAN",
+      "date": "06.11.2026 14:00",
+      "matchCode": "4571547",
       "odds": 1.19,
-      "patternScore": 69.06,
-      "patternText": "233.772/338.492",
-      "aiScore": 81,
-      "picks": 3
+      "patternScore": 69.4,
+      "patternText": "404.159/582.344",
+      "aiScore": 80,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Antalyaspor",
+      "away": "Bursaspor",
+      "league": "T1L",
+      "at": "06.11.2026 11:11",
+      "count": 3
+    },
     {
       "home": "Sariyer",
       "away": "Igdir FK",
@@ -515,13 +522,6 @@
       "league": "AVKL",
       "at": "05.11.2026 18:19",
       "count": 4
-    },
-    {
-      "home": "SK Sturm Graz",
-      "away": "NK Celje",
-      "league": "AVL",
-      "at": "05.11.2026 17:21",
-      "count": 8
     }
   ],
   "paywall": {
