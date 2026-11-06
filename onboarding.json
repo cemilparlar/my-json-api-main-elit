@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 15:24",
+  "updatedAt": "06.11.2026 15:33",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 194,
+      "won": 197,
       "lost": 149,
-      "total": 343,
-      "rate": 56.6
+      "total": 346,
+      "rate": 56.9
     },
-    "totalAnalyses": 451883,
+    "totalAnalyses": 451893,
     "leagues": 500,
     "pro": {
       "won": 1079,
@@ -36,19 +36,19 @@
       "rate": 70.8
     },
     "insights": {
-      "won": 1860,
+      "won": 1861,
       "lost": 808,
-      "total": 2668,
+      "total": 2669,
       "rate": 69.7
     },
     "coupons": {
-      "won": 49,
+      "won": 48,
       "lost": 30,
-      "total": 79,
-      "rate": 62.0
+      "total": 78,
+      "rate": 61.5
     },
-    "analyses24h": 3103,
-    "analyses30d": 22068
+    "analyses24h": 3105,
+    "analyses30d": 22070
   },
   "recentWins": [
     {
@@ -454,6 +454,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Everton",
+      "away": "Coventry City",
+      "league": "İNP",
+      "at": "06.11.2026 15:30",
+      "count": 5
+    },
+    {
+      "home": "Lokomotiv Moscow",
+      "away": "Rubin Kazan",
+      "league": "RUS",
+      "at": "06.11.2026 15:26",
+      "count": 5
+    },
+    {
       "home": "Sevilla FC",
       "away": "Deportivo Alaves",
       "league": "İS1",
@@ -496,13 +510,6 @@
       "count": 6
     },
     {
-      "home": "Everton",
-      "away": "Coventry City",
-      "league": "İNP",
-      "at": "06.11.2026 14:51",
-      "count": 6
-    },
-    {
       "home": "Toulouse FC",
       "away": "RC Strasbourg",
       "league": "FR1",
@@ -515,13 +522,6 @@
       "league": "FR2",
       "at": "06.11.2026 14:49",
       "count": 14
-    },
-    {
-      "home": "Gaziantep FK",
-      "away": "Kasimpasa",
-      "league": "TSL",
-      "at": "06.11.2026 14:26",
-      "count": 4
     }
   ],
   "paywall": {
