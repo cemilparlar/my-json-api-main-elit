@@ -3,7 +3,7 @@
   "stats7": {
     "multi": {
       "won": 46,
-      "lost": 30
+      "lost": 31
     },
     "c70_3": {
       "won": 5,
@@ -23,7 +23,7 @@
     },
     "cyz_5": {
       "won": 10,
-      "lost": 9
+      "lost": 10
     },
     "cyz_6": {
       "won": 1,
@@ -69,7 +69,7 @@
     },
     "multi": {
       "won": 50,
-      "lost": 31
+      "lost": 32
     },
     "c70_1": {
       "won": 20,
@@ -89,15 +89,15 @@
     },
     "cyz_5": {
       "won": 10,
-      "lost": 9
+      "lost": 10
     },
     "cyz_6": {
       "won": 1,
       "lost": 2
     }
   },
-  "updatedAt": "06.11.2026 18:22",
-  "updatedAtUtc": "2026-11-06T18:22:00Z",
+  "updatedAt": "06.11.2026 18:31",
+  "updatedAtUtc": "2026-11-06T18:31:00Z",
   "upcoming": [
     {
       "id": "20261106-18-3",
@@ -270,9 +270,9 @@
           "patternScore": 69.6,
           "patternText": "110.194/158.330",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 1",
+          "status": "won",
           "aiScore": 97
         },
         {
@@ -366,141 +366,6 @@
           "finalScore": null,
           "status": "live",
           "aiScore": 84
-        }
-      ]
-    },
-    {
-      "id": "20261106-18-1",
-      "createdAt": "06.11.2026 15:01",
-      "createdAtUtc": "2026-11-06T15:01:00Z",
-      "size": 5,
-      "mbs": 1,
-      "totalOdds": 1.51,
-      "winChance": 40.55,
-      "firstKickoff": "06.11.2026 16:30",
-      "lastKickoff": "06.11.2026 18:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "cyz_5",
-      "group": "multi",
-      "formula": "5",
-      "multiScore": 83,
-      "effectiveOdds": 1.51,
-      "legs": [
-        {
-          "matchCode": "4485915",
-          "nesine": null,
-          "date": "06.11.2026 16:30",
-          "kickoffUtc": "2026-11-06T16:30:00Z",
-          "league": "RUS",
-          "home": "Lokomotiv Moscow",
-          "away": "Rubin Kazan",
-          "league_tr": "RUS",
-          "home_tr": "L.Moskova",
-          "away_tr": "Rubin Kazan",
-          "prediction": "Handicap (1:0) 1",
-          "prediction_tr": "Handikaplı Maç Sonucu (1:0) 1",
-          "odds": 1.16,
-          "probability": 100.0,
-          "patternScore": 62.13,
-          "patternText": "142.312/229.054",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 81
-        },
-        {
-          "matchCode": "4495832",
-          "nesine": null,
-          "date": "06.11.2026 17:30",
-          "kickoffUtc": "2026-11-06T17:30:00Z",
-          "league": "AL2",
-          "home": "Dynamo Dresden",
-          "away": "SpVgg Greuther Furth",
-          "league_tr": "AL2",
-          "home_tr": "Dynamo Dresden",
-          "away_tr": "Greuther Furth",
-          "prediction": "Over 1.5 Goals",
-          "prediction_tr": "1,5 Alt/Üst Üst",
-          "odds": 1.06,
-          "probability": 88.24,
-          "patternScore": 70.55,
-          "patternText": "181.033/256.593",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 99
-        },
-        {
-          "matchCode": "4495835",
-          "nesine": null,
-          "date": "06.11.2026 17:30",
-          "kickoffUtc": "2026-11-06T17:30:00Z",
-          "league": "AL2",
-          "home": "Eintracht Braunschweig",
-          "away": "Energie Cottbus",
-          "league_tr": "AL2",
-          "home_tr": "Braunschweig",
-          "away_tr": "E.Cottbus",
-          "prediction": "1st Half Under 2.5",
-          "prediction_tr": "1. Yarı 2,5 Alt/Üst Alt",
-          "odds": 1.06,
-          "probability": 100.0,
-          "patternScore": 62.95,
-          "patternText": "165.401/262.762",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 99
-        },
-        {
-          "matchCode": "4496711",
-          "nesine": null,
-          "date": "06.11.2026 17:30",
-          "kickoffUtc": "2026-11-06T17:30:00Z",
-          "league": "AU2",
-          "home": "FC Liefering",
-          "away": "FC Austria Salzburg",
-          "league_tr": "AU2",
-          "home_tr": "Liefering",
-          "away_tr": "Austria Salzbur",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.09,
-          "probability": 96.88,
-          "patternScore": 71.25,
-          "patternText": "149.621/209.993",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 98
-        },
-        {
-          "matchCode": "4474522",
-          "nesine": null,
-          "date": "06.11.2026 18:00",
-          "kickoffUtc": "2026-11-06T18:00:00Z",
-          "league": "DAN",
-          "home": "Silkeborg IF",
-          "away": "Lyngby BK",
-          "league_tr": "DAN",
-          "home_tr": "Silkeborg",
-          "away_tr": "Lyngby",
-          "prediction": "Under 4.5 Goals",
-          "prediction_tr": "4,5 Alt/Üst Alt",
-          "odds": 1.06,
-          "probability": 91.67,
-          "patternScore": 69.32,
-          "patternText": "121.002/174.552",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 99
         }
       ]
     },
@@ -723,7 +588,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 99
         },
         {
@@ -904,7 +769,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 97
         },
         {
@@ -1016,7 +881,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 97
         },
         {
@@ -1444,7 +1309,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 83
         },
         {
@@ -1505,7 +1370,7 @@
       "winChance": 40.54,
       "firstKickoff": "06.11.2026 18:30",
       "lastKickoff": "06.11.2026 19:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_4",
       "group": "multi",
@@ -1533,7 +1398,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 83
         },
         {
@@ -2551,6 +2416,141 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261106-18-1",
+      "createdAt": "06.11.2026 15:01",
+      "createdAtUtc": "2026-11-06T15:01:00Z",
+      "size": 5,
+      "mbs": 1,
+      "totalOdds": 1.51,
+      "winChance": 40.55,
+      "firstKickoff": "06.11.2026 16:30",
+      "lastKickoff": "06.11.2026 18:00",
+      "status": "lost",
+      "completedAt": "06.11.2026 18:31",
+      "kind": "cyz_5",
+      "group": "multi",
+      "formula": "5",
+      "multiScore": 83,
+      "effectiveOdds": 1.51,
+      "legs": [
+        {
+          "matchCode": "4485915",
+          "nesine": null,
+          "date": "06.11.2026 16:30",
+          "kickoffUtc": "2026-11-06T16:30:00Z",
+          "league": "RUS",
+          "home": "Lokomotiv Moscow",
+          "away": "Rubin Kazan",
+          "league_tr": "RUS",
+          "home_tr": "L.Moskova",
+          "away_tr": "Rubin Kazan",
+          "prediction": "Handicap (1:0) 1",
+          "prediction_tr": "Handikaplı Maç Sonucu (1:0) 1",
+          "odds": 1.16,
+          "probability": 100.0,
+          "patternScore": 62.13,
+          "patternText": "142.312/229.054",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 1",
+          "status": "lost",
+          "aiScore": 81
+        },
+        {
+          "matchCode": "4495832",
+          "nesine": null,
+          "date": "06.11.2026 17:30",
+          "kickoffUtc": "2026-11-06T17:30:00Z",
+          "league": "AL2",
+          "home": "Dynamo Dresden",
+          "away": "SpVgg Greuther Furth",
+          "league_tr": "AL2",
+          "home_tr": "Dynamo Dresden",
+          "away_tr": "Greuther Furth",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.06,
+          "probability": 88.24,
+          "patternScore": 70.55,
+          "patternText": "181.033/256.593",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 99
+        },
+        {
+          "matchCode": "4495835",
+          "nesine": null,
+          "date": "06.11.2026 17:30",
+          "kickoffUtc": "2026-11-06T17:30:00Z",
+          "league": "AL2",
+          "home": "Eintracht Braunschweig",
+          "away": "Energie Cottbus",
+          "league_tr": "AL2",
+          "home_tr": "Braunschweig",
+          "away_tr": "E.Cottbus",
+          "prediction": "1st Half Under 2.5",
+          "prediction_tr": "1. Yarı 2,5 Alt/Üst Alt",
+          "odds": 1.06,
+          "probability": 100.0,
+          "patternScore": 62.95,
+          "patternText": "165.401/262.762",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 99
+        },
+        {
+          "matchCode": "4496711",
+          "nesine": null,
+          "date": "06.11.2026 17:30",
+          "kickoffUtc": "2026-11-06T17:30:00Z",
+          "league": "AU2",
+          "home": "FC Liefering",
+          "away": "FC Austria Salzburg",
+          "league_tr": "AU2",
+          "home_tr": "Liefering",
+          "away_tr": "Austria Salzbur",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.09,
+          "probability": 96.88,
+          "patternScore": 71.25,
+          "patternText": "149.621/209.993",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 98
+        },
+        {
+          "matchCode": "4474522",
+          "nesine": null,
+          "date": "06.11.2026 18:00",
+          "kickoffUtc": "2026-11-06T18:00:00Z",
+          "league": "DAN",
+          "home": "Silkeborg IF",
+          "away": "Lyngby BK",
+          "league_tr": "DAN",
+          "home_tr": "Silkeborg",
+          "away_tr": "Lyngby",
+          "prediction": "Under 4.5 Goals",
+          "prediction_tr": "4,5 Alt/Üst Alt",
+          "odds": 1.06,
+          "probability": 91.67,
+          "patternScore": 69.32,
+          "patternText": "121.002/174.552",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 99
+        }
+      ]
+    },
     {
       "id": "20261106-15-1",
       "createdAt": "06.11.2026 12:03",

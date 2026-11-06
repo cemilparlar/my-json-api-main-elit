@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 18:22",
+  "updatedAt": "06.11.2026 18:31",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 160,
-      "lost": 93,
-      "total": 253,
-      "rate": 63.2
+      "won": 168,
+      "lost": 96,
+      "total": 264,
+      "rate": 63.6
     },
-    "totalAnalyses": 452208,
+    "totalAnalyses": 452247,
     "leagues": 497,
     "pro": {
-      "won": 1085,
-      "lost": 444,
-      "total": 1529,
+      "won": 1091,
+      "lost": 445,
+      "total": 1536,
       "rate": 71.0
     },
     "insights": {
-      "won": 1868,
-      "lost": 797,
-      "total": 2665,
+      "won": 1874,
+      "lost": 799,
+      "total": 2673,
       "rate": 70.1
     },
     "coupons": {
       "won": 46,
-      "lost": 30,
-      "total": 76,
-      "rate": 60.5
+      "lost": 31,
+      "total": 77,
+      "rate": 59.7
     },
-    "analyses24h": 3038,
-    "analyses30d": 21962
+    "analyses24h": 3064,
+    "analyses30d": 21988
   },
   "recentWins": [
     {
@@ -428,18 +428,6 @@
       "picks": 1
     },
     {
-      "home": "Brentford U21",
-      "away": "Wolverhampton Wanderers U21",
-      "league": "INGPL2",
-      "date": "06.11.2026 19:00",
-      "matchCode": "4544158",
-      "odds": 1.36,
-      "patternScore": 66.99,
-      "patternText": "167.638/250.261",
-      "aiScore": 61,
-      "picks": 1
-    },
-    {
       "home": "Ascoli Calcio",
       "away": "Palermo FC",
       "league": "İTB",
@@ -450,22 +438,76 @@
       "patternText": "233.851/344.330",
       "aiScore": 59,
       "picks": 1
+    },
+    {
+      "home": "Cuiaba",
+      "away": "Juventude",
+      "league": "BR2",
+      "date": "07.11.2026 00:30",
+      "matchCode": "4454055",
+      "odds": 1.34,
+      "patternScore": 68.52,
+      "patternText": "261.057/380.980",
+      "aiScore": 60,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Sevilla FC",
-      "away": "Deportivo Alaves",
+      "home": "Atletico Madrid",
+      "away": "FC Barcelona",
       "league": "İS1",
-      "at": "06.11.2026 18:07",
-      "count": 9
+      "at": "06.11.2026 18:30",
+      "count": 17
     },
     {
       "home": "Unione V.",
       "away": "Udinese",
       "league": "İTA",
-      "at": "06.11.2026 18:06",
-      "count": 5
+      "at": "06.11.2026 18:29",
+      "count": 7
+    },
+    {
+      "home": "Sevilla FC",
+      "away": "Deportivo Alaves",
+      "league": "İS1",
+      "at": "06.11.2026 18:29",
+      "count": 6
+    },
+    {
+      "home": "Everton",
+      "away": "Coventry City",
+      "league": "İNP",
+      "at": "06.11.2026 18:29",
+      "count": 6
+    },
+    {
+      "home": "Hamburger SV",
+      "away": "Borussia Monchengladbach",
+      "league": "AL1",
+      "at": "06.11.2026 18:28",
+      "count": 6
+    },
+    {
+      "home": "Willem",
+      "away": "Zwolle",
+      "league": "HOL",
+      "at": "06.11.2026 18:27",
+      "count": 6
+    },
+    {
+      "home": "AS Nancy",
+      "away": "FC Sochaux",
+      "league": "FR2",
+      "at": "06.11.2026 18:26",
+      "count": 4
+    },
+    {
+      "home": "Grenoble Foot",
+      "away": "Stade de Reims",
+      "league": "FR2",
+      "at": "06.11.2026 18:26",
+      "count": 9
     },
     {
       "home": "Toulouse FC",
@@ -475,53 +517,11 @@
       "count": 6
     },
     {
-      "home": "Everton",
-      "away": "Coventry City",
-      "league": "İNP",
-      "at": "06.11.2026 18:06",
-      "count": 6
-    },
-    {
-      "home": "Hamburger SV",
-      "away": "Borussia Monchengladbach",
-      "league": "AL1",
-      "at": "06.11.2026 18:05",
-      "count": 6
-    },
-    {
       "home": "Vitoria Bahia",
       "away": "Fluminense FC",
       "league": "BR1",
       "at": "06.11.2026 17:48",
       "count": 8
-    },
-    {
-      "home": "Standard Liege",
-      "away": "Waasland-Beveren",
-      "league": "BEL",
-      "at": "06.11.2026 17:47",
-      "count": 8
-    },
-    {
-      "home": "AS Nancy",
-      "away": "FC Sochaux",
-      "league": "FR2",
-      "at": "06.11.2026 17:44",
-      "count": 4
-    },
-    {
-      "home": "FC Famalicao",
-      "away": "FC Arouca",
-      "league": "POR",
-      "at": "06.11.2026 16:52",
-      "count": 7
-    },
-    {
-      "home": "Gaziantep FK",
-      "away": "Kasimpasa",
-      "league": "TSL",
-      "at": "06.11.2026 16:29",
-      "count": 6
     }
   ],
   "paywall": {
