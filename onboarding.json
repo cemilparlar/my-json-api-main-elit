@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 09:15",
+  "updatedAt": "06.11.2026 09:22",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2747,
-    "analyses30d": 21749
+    "analyses24h": 2745,
+    "analyses30d": 21747
   },
   "recentWins": [
     {
@@ -349,6 +349,12 @@
     },
     {
       "type": "updated",
+      "at": "06.11.2026 09:13",
+      "home": "Madura United",
+      "away": "Arema FC"
+    },
+    {
+      "type": "updated",
       "at": "06.11.2026 08:15",
       "home": "Al Jazeera Club",
       "away": "Al Ramtha"
@@ -367,15 +373,9 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 06:03",
-      "home": "Lamphun Warrior",
-      "away": "Sukhothai FC"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 07:15",
-      "home": "Birmingham City",
-      "away": "West Ham United U21"
+      "at": "06.11.2026 09:14",
+      "home": "FC Septemvri Sofia",
+      "away": "Lokomotiv Sofia"
     }
   ],
   "today": {
@@ -402,6 +402,18 @@
       "patternText": "176.716/260.117",
       "aiScore": 55,
       "picks": 1
+    },
+    {
+      "home": "Al Zulfi",
+      "away": "Jeddah Club",
+      "league": "SUUD1",
+      "date": "06.11.2026 14:55",
+      "matchCode": "4538725",
+      "odds": 1.32,
+      "patternScore": 68.46,
+      "patternText": "219.505/320.654",
+      "aiScore": 61,
+      "picks": 3
     },
     {
       "home": "Chadormalu",
@@ -438,18 +450,6 @@
       "patternText": "225.699/327.800",
       "aiScore": 70,
       "picks": 4
-    },
-    {
-      "home": "Al Adalah",
-      "away": "Al Orubah Club",
-      "league": "SUUD1",
-      "date": "06.11.2026 14:35",
-      "matchCode": "4538724",
-      "odds": 1.14,
-      "patternScore": 70.1,
-      "patternText": "289.937/413.627",
-      "aiScore": 95,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
