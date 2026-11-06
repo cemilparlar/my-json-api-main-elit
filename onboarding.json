@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 02:03",
+  "updatedAt": "06.11.2026 02:10",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 308,
       "rate": 54.9
     },
-    "totalAnalyses": 450496,
+    "totalAnalyses": 450497,
     "leagues": 503,
     "pro": {
       "won": 1069,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2714,
-    "analyses30d": 21729
+    "analyses24h": 2715,
+    "analyses30d": 21730
   },
   "recentWins": [
     {
@@ -360,8 +360,14 @@
       "away": "Deportivo Saprissa"
     },
     {
+      "type": "updated",
+      "at": "06.11.2026 02:10",
+      "home": "Adelaide United",
+      "away": "Wellington Phoenix"
+    },
+    {
       "type": "analysis",
-      "count": 2714
+      "count": 2715
     }
   ],
   "today": {
