@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 14:15",
+  "updatedAt": "06.11.2026 14:23",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 174,
+      "won": 173,
       "lost": 132,
-      "total": 306,
-      "rate": 56.9
+      "total": 305,
+      "rate": 56.7
     },
-    "totalAnalyses": 451694,
+    "totalAnalyses": 451770,
     "leagues": 502,
     "pro": {
       "won": 1070,
@@ -47,8 +47,8 @@
       "total": 78,
       "rate": 62.8
     },
-    "analyses24h": 3080,
-    "analyses30d": 22050
+    "analyses24h": 3118,
+    "analyses30d": 22088
   },
   "recentWins": [
     {
@@ -404,6 +404,30 @@
       "picks": 7
     },
     {
+      "home": "Sevilla FC",
+      "away": "Deportivo Alaves",
+      "league": "İS1",
+      "date": "06.11.2026 20:00",
+      "matchCode": "4492376",
+      "odds": 2.35,
+      "patternScore": 66.96,
+      "patternText": "200.828/299.936",
+      "aiScore": 51,
+      "picks": 5
+    },
+    {
+      "home": "Everton",
+      "away": "Coventry City",
+      "league": "İNP",
+      "date": "06.11.2026 20:00",
+      "matchCode": "4481104",
+      "odds": 2.14,
+      "patternScore": 66.7,
+      "patternText": "202.535/303.641",
+      "aiScore": 52,
+      "picks": 8
+    },
+    {
       "home": "AS Nancy",
       "away": "FC Sochaux",
       "league": "FR2",
@@ -416,18 +440,6 @@
       "picks": 5
     },
     {
-      "home": "Everton",
-      "away": "Coventry City",
-      "league": "İNP",
-      "date": "06.11.2026 20:00",
-      "matchCode": "4481104",
-      "odds": 1.52,
-      "patternScore": 67.73,
-      "patternText": "195.642/288.853",
-      "aiScore": 55,
-      "picks": 4
-    },
-    {
       "home": "Eintracht Braunschweig",
       "away": "Energie Cottbus",
       "league": "AL2",
@@ -438,21 +450,23 @@
       "patternText": "253.373/378.845",
       "aiScore": 56,
       "picks": 8
-    },
-    {
-      "home": "Hammarby IF",
-      "away": "IF Elfsborg",
-      "league": "İSÇ",
-      "date": "06.11.2026 18:00",
-      "matchCode": "4426809",
-      "odds": 1.45,
-      "patternScore": 67.4,
-      "patternText": "190.961/283.312",
-      "aiScore": 59,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Vitoria Guimaraes",
+      "away": "FC Porto",
+      "league": "POR",
+      "at": "06.11.2026 14:21",
+      "count": 9
+    },
+    {
+      "home": "FC Alverca",
+      "away": "Casa Pia AC",
+      "league": "POR",
+      "at": "06.11.2026 14:19",
+      "count": 6
+    },
     {
       "home": "Derby County",
       "away": "Bolton Wanderers",
@@ -508,20 +522,6 @@
       "league": "İTB",
       "at": "06.11.2026 13:44",
       "count": 5
-    },
-    {
-      "home": "Boulogne",
-      "away": "Annecy",
-      "league": "FR2",
-      "at": "06.11.2026 13:22",
-      "count": 5
-    },
-    {
-      "home": "Grenoble Foot",
-      "away": "Stade de Reims",
-      "league": "FR2",
-      "at": "06.11.2026 13:19",
-      "count": 13
     }
   ],
   "paywall": {
