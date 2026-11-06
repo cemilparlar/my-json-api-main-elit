@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 13:09",
+  "updatedAt": "06.11.2026 13:17",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 306,
       "rate": 56.5
     },
-    "totalAnalyses": 451415,
+    "totalAnalyses": 451423,
     "leagues": 502,
     "pro": {
-      "won": 1071,
+      "won": 1070,
       "lost": 442,
-      "total": 1513,
+      "total": 1512,
       "rate": 70.8
     },
     "insights": {
-      "won": 1851,
+      "won": 1850,
       "lost": 801,
-      "total": 2652,
+      "total": 2651,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2981,
-    "analyses30d": 21958
+    "analyses24h": 2982,
+    "analyses30d": 21959
   },
   "recentWins": [
     {
@@ -379,18 +379,30 @@
     }
   ],
   "today": {
-    "home": "Eintracht Braunschweig",
-    "away": "Energie Cottbus",
-    "league": "AL2",
-    "date": "06.11.2026 17:30",
-    "matchCode": "4495835",
-    "odds": 1.52,
-    "patternScore": 66.88,
-    "patternText": "253.353/378.813",
-    "aiScore": 55,
-    "picks": 8
+    "home": "Hammarby IF",
+    "away": "IF Elfsborg",
+    "league": "İSÇ",
+    "date": "06.11.2026 18:00",
+    "matchCode": "4426809",
+    "odds": 1.54,
+    "patternScore": 66.74,
+    "patternText": "168.097/251.885",
+    "aiScore": 57,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Hammarby IF",
+      "away": "IF Elfsborg",
+      "league": "İSÇ",
+      "date": "06.11.2026 18:00",
+      "matchCode": "4426809",
+      "odds": 1.54,
+      "patternScore": 66.74,
+      "patternText": "168.097/251.885",
+      "aiScore": 57,
+      "picks": 3
+    },
     {
       "home": "Eintracht Braunschweig",
       "away": "Energie Cottbus",
@@ -399,7 +411,7 @@
       "matchCode": "4495835",
       "odds": 1.52,
       "patternScore": 66.88,
-      "patternText": "253.353/378.813",
+      "patternText": "253.361/378.833",
       "aiScore": 55,
       "picks": 8
     },
@@ -410,8 +422,8 @@
       "date": "06.11.2026 19:00",
       "matchCode": "4481919",
       "odds": 1.41,
-      "patternScore": 67.85,
-      "patternText": "218.906/322.651",
+      "patternScore": 67.84,
+      "patternText": "218.914/322.671",
       "aiScore": 56,
       "picks": 3
     },
@@ -423,7 +435,7 @@
       "matchCode": "4474522",
       "odds": 1.39,
       "patternScore": 67.5,
-      "patternText": "263.018/389.663",
+      "patternText": "263.026/389.683",
       "aiScore": 56,
       "picks": 6
     },
@@ -435,21 +447,9 @@
       "matchCode": "4538725",
       "odds": 1.33,
       "patternScore": 68.5,
-      "patternText": "217.017/316.820",
+      "patternText": "217.025/316.840",
       "aiScore": 61,
       "picks": 3
-    },
-    {
-      "home": "Illertissen",
-      "away": "TSV Ansbach",
-      "league": "ALMBÖL",
-      "date": "06.11.2026 18:00",
-      "matchCode": "4506401",
-      "odds": 1.3,
-      "patternScore": 67.99,
-      "patternText": "227.531/334.644",
-      "aiScore": 62,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
