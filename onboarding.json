@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 16:57",
+  "updatedAt": "06.11.2026 17:04",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 352,
       "rate": 57.4
     },
-    "totalAnalyses": 452057,
-    "leagues": 500,
+    "totalAnalyses": 452140,
+    "leagues": 498,
     "pro": {
       "won": 1083,
       "lost": 447,
@@ -47,8 +47,8 @@
       "total": 77,
       "rate": 61.0
     },
-    "analyses24h": 3128,
-    "analyses30d": 22067
+    "analyses24h": 3124,
+    "analyses30d": 22020
   },
   "recentWins": [
     {
@@ -331,21 +331,21 @@
     },
     {
       "type": "coupon",
+      "size": 4,
+      "odds": 1.59,
+      "at": "06.11.2026 17:04"
+    },
+    {
+      "type": "coupon",
+      "size": 4,
+      "odds": 1.53,
+      "at": "06.11.2026 17:04"
+    },
+    {
+      "type": "coupon",
       "size": 5,
       "odds": 1.52,
-      "at": "06.11.2026 16:03"
-    },
-    {
-      "type": "coupon",
-      "size": 6,
-      "odds": 1.5,
-      "at": "06.11.2026 16:03"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.51,
-      "at": "06.11.2026 16:03"
+      "at": "06.11.2026 17:04"
     },
     {
       "type": "updated",
@@ -386,7 +386,7 @@
     "matchCode": "4481104",
     "odds": 1.79,
     "patternScore": 67.81,
-    "patternText": "194.585/286.958",
+    "patternText": "194.597/286.970",
     "aiScore": 54,
     "picks": 5
   },
@@ -399,9 +399,21 @@
       "matchCode": "4481104",
       "odds": 1.79,
       "patternScore": 67.81,
-      "patternText": "194.585/286.958",
+      "patternText": "194.597/286.970",
       "aiScore": 54,
       "picks": 5
+    },
+    {
+      "home": "Connah's Quay Nomads",
+      "away": "Flint Town",
+      "league": "GAL",
+      "date": "06.11.2026 20:00",
+      "matchCode": "4508474",
+      "odds": 1.4,
+      "patternScore": 67.81,
+      "patternText": "186.805/275.484",
+      "aiScore": 56,
+      "picks": 1
     },
     {
       "home": "Brentford U21",
@@ -411,7 +423,7 @@
       "matchCode": "4544158",
       "odds": 1.36,
       "patternScore": 66.98,
-      "patternText": "167.618/250.237",
+      "patternText": "167.622/250.241",
       "aiScore": 61,
       "picks": 1
     },
@@ -423,7 +435,7 @@
       "matchCode": "4534777",
       "odds": 1.36,
       "patternScore": 67.91,
-      "patternText": "233.795/344.262",
+      "patternText": "233.807/344.274",
       "aiScore": 59,
       "picks": 1
     },
@@ -435,21 +447,9 @@
       "matchCode": "4474522",
       "odds": 1.34,
       "patternScore": 67.37,
-      "patternText": "192.470/285.705",
+      "patternText": "192.474/285.709",
       "aiScore": 60,
       "picks": 5
-    },
-    {
-      "home": "Hammarby IF",
-      "away": "IF Elfsborg",
-      "league": "İSÇ",
-      "date": "06.11.2026 18:00",
-      "matchCode": "4426809",
-      "odds": 1.34,
-      "patternScore": 66.71,
-      "patternText": "176.273/264.253",
-      "aiScore": 61,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
