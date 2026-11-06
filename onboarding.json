@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 08:10",
+  "updatedAt": "06.11.2026 08:18",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 319,
       "rate": 56.1
     },
-    "totalAnalyses": 450741,
+    "totalAnalyses": 450759,
     "leagues": 503,
     "pro": {
       "won": 1074,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2731,
-    "analyses30d": 21732
+    "analyses24h": 2750,
+    "analyses30d": 21751
   },
   "recentWins": [
     {
@@ -355,27 +355,27 @@
     },
     {
       "type": "updated",
+      "at": "06.11.2026 08:14",
+      "home": "FC Goa",
+      "away": "Bengaluru FC"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 08:14",
+      "home": "Chadormalu",
+      "away": "Foolad Khuzesta"
+    },
+    {
+      "type": "updated",
       "at": "06.11.2026 06:03",
       "home": "Lamphun Warrior",
       "away": "Sukhothai FC"
     },
     {
       "type": "updated",
-      "at": "06.11.2026 06:37",
+      "at": "06.11.2026 08:13",
       "home": "Hong Linh Ha Tinh",
       "away": "Nam Dinh FC"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 07:15",
-      "home": "Birmingham City",
-      "away": "West Ham United U21"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 06:02",
-      "home": "Sepahan",
-      "away": "Malavan Fc"
     }
   ],
   "today": {
@@ -454,6 +454,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "RB Leipzig",
+      "away": "FC Augsburg",
+      "league": "AL1",
+      "at": "06.11.2026 08:15",
+      "count": 15
+    },
+    {
       "home": "VfB Stuttgart",
       "away": "Werder Bremen",
       "league": "AL1",
@@ -515,13 +522,6 @@
       "league": "AVL",
       "at": "05.11.2026 17:03",
       "count": 7
-    },
-    {
-      "home": "Trabzonspor",
-      "away": "SC Freiburg",
-      "league": "AVKL",
-      "at": "05.11.2026 17:02",
-      "count": 4
     }
   ],
   "paywall": {
