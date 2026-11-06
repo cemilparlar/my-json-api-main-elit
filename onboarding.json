@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 23:03",
+  "updatedAt": "06.11.2026 23:12",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 412,
       "rate": 66.5
     },
-    "totalAnalyses": 452516,
+    "totalAnalyses": 452534,
     "leagues": 492,
     "pro": {
       "won": 1156,
@@ -47,8 +47,8 @@
       "total": 92,
       "rate": 52.2
     },
-    "analyses24h": 2928,
-    "analyses30d": 21849
+    "analyses24h": 2941,
+    "analyses30d": 21862
   },
   "recentWins": [
     {
@@ -251,49 +251,6 @@
           "finalScore": "3 - 2"
         }
       ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.54,
-      "winChance": 37.2,
-      "completedAt": "04.11.2026 23:03",
-      "legs": [
-        {
-          "home": "Slavia Prague U1",
-          "away": "Arsenal Fc U19",
-          "prediction": "Double Chance 12",
-          "odds": 1.07,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Lens U19",
-          "away": "Como U19",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Etincelles",
-          "away": "Kiyovu",
-          "prediction": "Double Chance X2",
-          "odds": 1.12,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "FK Arkadag",
-          "away": "Gol Gohar Sirja",
-          "prediction": "Double Chance 1X",
-          "odds": 1.08,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "B. Dortmund U1",
-          "away": "Real Betis U19",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
-          "finalScore": null
-        }
-      ]
     }
   ],
   "ticker": [
@@ -355,27 +312,27 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 17:24",
-      "home": "FC Roskilde",
-      "away": "Hellerup Ik"
+      "at": "06.11.2026 23:05",
+      "home": "Tokushima Vortis",
+      "away": "Tegevajaro Miyazaki"
     },
     {
       "type": "updated",
-      "at": "06.11.2026 17:24",
-      "home": "Silkeborg IF",
-      "away": "Lyngby BK"
+      "at": "06.11.2026 23:07",
+      "home": "Blaublitz Akit",
+      "away": "Oita Trinita"
     },
     {
       "type": "updated",
-      "at": "06.11.2026 18:26",
-      "home": "Heracles Almelo",
-      "away": "Roda JC Kerkrade"
+      "at": "06.11.2026 23:05",
+      "home": "Yokohama FC",
+      "away": "Fujieda MYFC"
     },
     {
       "type": "updated",
-      "at": "06.11.2026 18:26",
-      "home": "AS Nancy",
-      "away": "FC Sochaux"
+      "at": "06.11.2026 23:06",
+      "home": "Sagan Tosu",
+      "away": "Kataller Toyama"
     }
   ],
   "today": {
@@ -387,7 +344,7 @@
     "odds": 1.74,
     "patternScore": 66.92,
     "patternText": "272.166/406.728",
-    "aiScore": 54,
+    "aiScore": 53,
     "picks": 3
   },
   "todayList": [
@@ -400,7 +357,7 @@
       "odds": 1.74,
       "patternScore": 66.92,
       "patternText": "272.166/406.728",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 3
     },
     {
@@ -413,6 +370,18 @@
       "patternScore": 67.85,
       "patternText": "265.731/391.658",
       "aiScore": 57,
+      "picks": 3
+    },
+    {
+      "home": "Seongnam",
+      "away": "Daegu FC",
+      "league": "GKOR2",
+      "date": "07.11.2026 05:00",
+      "matchCode": "4442875",
+      "odds": 1.33,
+      "patternScore": 68.18,
+      "patternText": "267.467/392.309",
+      "aiScore": 58,
       "picks": 3
     },
     {
@@ -438,18 +407,6 @@
       "patternText": "252.067/368.104",
       "aiScore": 71,
       "picks": 1
-    },
-    {
-      "home": "Maruyasu Indus",
-      "away": "Veertien Kuwana",
-      "league": "JAPF",
-      "date": "07.11.2026 04:00",
-      "matchCode": "4536419",
-      "odds": 1.23,
-      "patternScore": 68.24,
-      "patternText": "256.446/375.794",
-      "aiScore": 72,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
