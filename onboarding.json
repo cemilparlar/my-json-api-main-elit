@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 13:17",
+  "updatedAt": "06.11.2026 13:26",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 306,
       "rate": 56.5
     },
-    "totalAnalyses": 451423,
+    "totalAnalyses": 451466,
     "leagues": 502,
     "pro": {
       "won": 1070,
@@ -42,13 +42,13 @@
       "rate": 69.8
     },
     "coupons": {
-      "won": 50,
+      "won": 49,
       "lost": 29,
-      "total": 79,
-      "rate": 63.3
+      "total": 78,
+      "rate": 62.8
     },
-    "analyses24h": 2982,
-    "analyses30d": 21959
+    "analyses24h": 3006,
+    "analyses30d": 21983
   },
   "recentWins": [
     {
@@ -379,18 +379,30 @@
     }
   ],
   "today": {
-    "home": "Hammarby IF",
-    "away": "IF Elfsborg",
-    "league": "İSÇ",
-    "date": "06.11.2026 18:00",
-    "matchCode": "4426809",
-    "odds": 1.54,
-    "patternScore": 66.74,
-    "patternText": "168.097/251.885",
-    "aiScore": 57,
-    "picks": 3
+    "home": "AS Nancy",
+    "away": "FC Sochaux",
+    "league": "FR2",
+    "date": "06.11.2026 19:00",
+    "matchCode": "4476917",
+    "odds": 1.72,
+    "patternScore": 66.88,
+    "patternText": "236.984/354.363",
+    "aiScore": 54,
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "AS Nancy",
+      "away": "FC Sochaux",
+      "league": "FR2",
+      "date": "06.11.2026 19:00",
+      "matchCode": "4476917",
+      "odds": 1.72,
+      "patternScore": 66.88,
+      "patternText": "236.984/354.363",
+      "aiScore": 54,
+      "picks": 5
+    },
     {
       "home": "Hammarby IF",
       "away": "IF Elfsborg",
@@ -412,20 +424,8 @@
       "odds": 1.52,
       "patternScore": 66.88,
       "patternText": "253.361/378.833",
-      "aiScore": 55,
-      "picks": 8
-    },
-    {
-      "home": "FC Dordrecht",
-      "away": "NAC Breda",
-      "league": "HOL2",
-      "date": "06.11.2026 19:00",
-      "matchCode": "4481919",
-      "odds": 1.41,
-      "patternScore": 67.84,
-      "patternText": "218.914/322.671",
       "aiScore": 56,
-      "picks": 3
+      "picks": 8
     },
     {
       "home": "Silkeborg IF",
@@ -453,6 +453,34 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Boulogne",
+      "away": "Annecy",
+      "league": "FR2",
+      "at": "06.11.2026 13:22",
+      "count": 5
+    },
+    {
+      "home": "Grenoble Foot",
+      "away": "Stade de Reims",
+      "league": "FR2",
+      "at": "06.11.2026 13:19",
+      "count": 13
+    },
+    {
+      "home": "AS Nancy",
+      "away": "FC Sochaux",
+      "league": "FR2",
+      "at": "06.11.2026 13:18",
+      "count": 5
+    },
+    {
+      "home": "Willem",
+      "away": "Zwolle",
+      "league": "HOL",
+      "at": "06.11.2026 13:17",
+      "count": 7
+    },
     {
       "home": "Inter",
       "away": "Como 1907",
@@ -494,34 +522,6 @@
       "league": "T1L",
       "at": "06.11.2026 11:11",
       "count": 3
-    },
-    {
-      "home": "Sariyer",
-      "away": "Igdir FK",
-      "league": "T1L",
-      "at": "06.11.2026 11:10",
-      "count": 5
-    },
-    {
-      "home": "Lokomotiv Moscow",
-      "away": "Rubin Kazan",
-      "league": "RUS",
-      "at": "06.11.2026 10:49",
-      "count": 5
-    },
-    {
-      "home": "RB Leipzig",
-      "away": "FC Augsburg",
-      "league": "AL1",
-      "at": "06.11.2026 08:15",
-      "count": 15
-    },
-    {
-      "home": "VfB Stuttgart",
-      "away": "Werder Bremen",
-      "league": "AL1",
-      "at": "06.11.2026 01:27",
-      "count": 17
     }
   ],
   "paywall": {
