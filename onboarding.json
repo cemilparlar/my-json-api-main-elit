@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 11:48",
+  "updatedAt": "06.11.2026 11:56",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 327,
       "rate": 56.0
     },
-    "totalAnalyses": 451093,
+    "totalAnalyses": 451113,
     "leagues": 502,
     "pro": {
       "won": 1077,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2875,
-    "analyses30d": 21850
+    "analyses24h": 2896,
+    "analyses30d": 21871
   },
   "recentWins": [
     {
@@ -337,7 +337,7 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 11:29",
+      "at": "06.11.2026 11:50",
       "home": "Gaziantep FK",
       "away": "Kasimpasa"
     },
@@ -346,6 +346,12 @@
       "at": "06.11.2026 11:10",
       "home": "Sariyer",
       "away": "Igdir FK"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 11:52",
+      "home": "FK Austria Wien",
+      "away": "First Vienna FC"
     },
     {
       "type": "updated",
@@ -367,15 +373,9 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 07:15",
-      "home": "Adelaide United",
-      "away": "Wellington Phoenix"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 06:01",
-      "home": "Canberra",
-      "away": "Sydney United 58 FC"
+      "at": "06.11.2026 11:52",
+      "home": "Dynamo Dresden",
+      "away": "SpVgg Greuther Furth"
     }
   ],
   "today": {
@@ -454,11 +454,25 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Dynamo Dresden",
+      "away": "SpVgg Greuther Furth",
+      "league": "AL2",
+      "at": "06.11.2026 11:52",
+      "count": 8
+    },
+    {
+      "home": "Eintracht Braunschweig",
+      "away": "Energie Cottbus",
+      "league": "AL2",
+      "at": "06.11.2026 11:51",
+      "count": 9
+    },
+    {
       "home": "Gaziantep FK",
       "away": "Kasimpasa",
       "league": "TSL",
-      "at": "06.11.2026 11:29",
-      "count": 6
+      "at": "06.11.2026 11:50",
+      "count": 10
     },
     {
       "home": "Antalyaspor",
@@ -508,20 +522,6 @@
       "league": "AVL",
       "at": "05.11.2026 18:52",
       "count": 7
-    },
-    {
-      "home": "Sint-Truidense VV",
-      "away": "SK Brann",
-      "league": "AVKL",
-      "at": "05.11.2026 18:52",
-      "count": 8
-    },
-    {
-      "home": "Panathinaikos",
-      "away": "CSKA Sofia",
-      "league": "AVKL",
-      "at": "05.11.2026 18:19",
-      "count": 4
     }
   ],
   "paywall": {
