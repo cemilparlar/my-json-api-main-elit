@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 22:09",
+  "updatedAt": "06.11.2026 22:16",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 254,
-      "lost": 122,
-      "total": 376,
+      "won": 263,
+      "lost": 126,
+      "total": 389,
       "rate": 67.6
     },
     "totalAnalyses": 452473,
     "leagues": 492,
     "pro": {
-      "won": 1147,
-      "lost": 461,
-      "total": 1608,
+      "won": 1155,
+      "lost": 465,
+      "total": 1620,
       "rate": 71.3
     },
     "insights": {
-      "won": 1975,
-      "lost": 839,
-      "total": 2814,
+      "won": 1984,
+      "lost": 843,
+      "total": 2827,
       "rate": 70.2
     },
     "coupons": {
-      "won": 47,
-      "lost": 44,
-      "total": 91,
+      "won": 48,
+      "lost": 45,
+      "total": 93,
       "rate": 51.6
     },
-    "analyses24h": 2912,
-    "analyses30d": 21835
+    "analyses24h": 2908,
+    "analyses30d": 21831
   },
   "recentWins": [
     {
@@ -123,6 +123,49 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.51,
+      "winChance": 33.31,
+      "completedAt": "06.11.2026 22:16",
+      "legs": [
+        {
+          "home": "Heracles Almelo",
+          "away": "Roda JC Kerkrade",
+          "prediction": "1st Half Over 0.5",
+          "odds": 1.09,
+          "finalScore": "5 - 1"
+        },
+        {
+          "home": "Union Brescia",
+          "away": "Union Arzignano",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "3 - 2"
+        },
+        {
+          "home": "Odra Opole",
+          "away": "Unia Skierniewice",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.08,
+          "finalScore": "3 - 5"
+        },
+        {
+          "home": "Quorn",
+          "away": "Alfreton",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "4 - 0"
+        },
+        {
+          "home": "Sevilla FC",
+          "away": "Deportivo Alaves",
+          "prediction": "Double Chance 1X",
+          "odds": 1.08,
+          "finalScore": "0 - 0"
+        }
+      ]
+    },
     {
       "size": 4,
       "totalOdds": 1.53,
@@ -251,49 +294,6 @@
           "finalScore": null
         }
       ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.58,
-      "winChance": 35.8,
-      "completedAt": "04.11.2026 22:14",
-      "legs": [
-        {
-          "home": "Fenerbahce",
-          "away": "Liverpool",
-          "prediction": "1st Half Under 2.5",
-          "odds": 1.07,
-          "finalScore": "3 - 2"
-        },
-        {
-          "home": "Wrexham AFC",
-          "away": "Middlesbrough",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.07,
-          "finalScore": "2 - 0"
-        },
-        {
-          "home": "PSV Eindhoven",
-          "away": "Club Brugge",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "Borussia Dortmund",
-          "away": "Real Betis",
-          "prediction": "Double Chance 1X",
-          "odds": 1.07,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Bristol City",
-          "away": "Wolverhampton Wanderers",
-          "prediction": "Double Chance 12",
-          "odds": 1.17,
-          "finalScore": "1 - 2"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -379,29 +379,29 @@
     }
   ],
   "today": {
-    "home": "Apia",
-    "away": "Broadmeadow Magic",
-    "league": "AVC",
+    "home": "Shimizu S-Pulse",
+    "away": "Tokyo Verdy",
+    "league": "JAP",
     "date": "07.11.2026 04:00",
-    "matchCode": "4573642",
-    "odds": 1.51,
-    "patternScore": 67.87,
-    "patternText": "240.403/354.192",
-    "aiScore": 54,
-    "picks": 5
+    "matchCode": "4487262",
+    "odds": 1.57,
+    "patternScore": 67.21,
+    "patternText": "103.287/153.669",
+    "aiScore": 56,
+    "picks": 3
   },
   "todayList": [
     {
-      "home": "Apia",
-      "away": "Broadmeadow Magic",
-      "league": "AVC",
+      "home": "Shimizu S-Pulse",
+      "away": "Tokyo Verdy",
+      "league": "JAP",
       "date": "07.11.2026 04:00",
-      "matchCode": "4573642",
-      "odds": 1.51,
-      "patternScore": 67.87,
-      "patternText": "240.403/354.192",
-      "aiScore": 54,
-      "picks": 5
+      "matchCode": "4487262",
+      "odds": 1.57,
+      "patternScore": 67.21,
+      "patternText": "103.287/153.669",
+      "aiScore": 56,
+      "picks": 3
     },
     {
       "home": "NK Radomlje",
@@ -428,18 +428,6 @@
       "picks": 5
     },
     {
-      "home": "Cuiaba",
-      "away": "Juventude",
-      "league": "BR2",
-      "date": "07.11.2026 00:30",
-      "matchCode": "4454055",
-      "odds": 1.33,
-      "patternScore": 68.47,
-      "patternText": "259.001/378.276",
-      "aiScore": 60,
-      "picks": 3
-    },
-    {
       "home": "Shakhtar Donetsk",
       "away": "Dynamo Kyiv",
       "league": "UKR",
@@ -450,6 +438,18 @@
       "patternText": "252.033/368.048",
       "aiScore": 71,
       "picks": 1
+    },
+    {
+      "home": "Maruyasu Indus",
+      "away": "Veertien Kuwana",
+      "league": "JAPF",
+      "date": "07.11.2026 04:00",
+      "matchCode": "4536419",
+      "odds": 1.23,
+      "patternScore": 68.24,
+      "patternText": "256.404/375.730",
+      "aiScore": 72,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
