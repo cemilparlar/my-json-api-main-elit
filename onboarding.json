@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 07:21",
+  "updatedAt": "06.11.2026 07:28",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2732,
-    "analyses30d": 21745
+    "analyses24h": 2731,
+    "analyses30d": 21744
   },
   "recentWins": [
     {
@@ -331,6 +331,12 @@
     },
     {
       "type": "updated",
+      "at": "06.11.2026 07:15",
+      "home": "Adelaide United",
+      "away": "Wellington Phoenix"
+    },
+    {
+      "type": "updated",
       "at": "06.11.2026 06:01",
       "home": "Canberra",
       "away": "Sydney United 58 FC"
@@ -370,38 +376,32 @@
       "at": "06.11.2026 06:02",
       "home": "Sepahan",
       "away": "Malavan Fc"
-    },
-    {
-      "type": "kickoff",
-      "home": "Canberra",
-      "away": "Sydney United 58 FC",
-      "at": "06.11.2026 08:30"
     }
   ],
   "today": {
-    "home": "Sydney FC",
-    "away": "Central Coast Mariners",
-    "league": "AVUS",
-    "date": "06.11.2026 08:40",
-    "matchCode": "4546752",
-    "odds": 1.35,
-    "patternScore": 68.22,
-    "patternText": "122.242/179.179",
-    "aiScore": 60,
-    "picks": 3
+    "home": "Birmingham City",
+    "away": "West Ham United U21",
+    "league": "INGPL2",
+    "date": "06.11.2026 13:00",
+    "matchCode": "4544157",
+    "odds": 1.77,
+    "patternScore": 67.94,
+    "patternText": "176.716/260.117",
+    "aiScore": 54,
+    "picks": 1
   },
   "todayList": [
     {
-      "home": "Sydney FC",
-      "away": "Central Coast Mariners",
-      "league": "AVUS",
-      "date": "06.11.2026 08:40",
-      "matchCode": "4546752",
-      "odds": 1.35,
-      "patternScore": 68.22,
-      "patternText": "122.242/179.179",
-      "aiScore": 60,
-      "picks": 3
+      "home": "Birmingham City",
+      "away": "West Ham United U21",
+      "league": "INGPL2",
+      "date": "06.11.2026 13:00",
+      "matchCode": "4544157",
+      "odds": 1.77,
+      "patternScore": 67.94,
+      "patternText": "176.716/260.117",
+      "aiScore": 54,
+      "picks": 1
     },
     {
       "home": "Hong Linh Ha Tinh",
@@ -424,7 +424,19 @@
       "odds": 1.12,
       "patternScore": 71.19,
       "patternText": "177.614/249.488",
-      "aiScore": 89,
+      "aiScore": 90,
+      "picks": 2
+    },
+    {
+      "home": "Adelaide United",
+      "away": "Wellington Phoenix",
+      "league": "AVUSTW",
+      "date": "06.11.2026 08:00",
+      "matchCode": "4551569",
+      "odds": 1.12,
+      "patternScore": 70.42,
+      "patternText": "253.711/360.267",
+      "aiScore": 79,
       "picks": 2
     },
     {
@@ -437,18 +449,6 @@
       "patternScore": 68.78,
       "patternText": "150.476/218.765",
       "aiScore": 98,
-      "picks": 1
-    },
-    {
-      "home": "Birmingham City",
-      "away": "West Ham United U21",
-      "league": "INGPL2",
-      "date": "06.11.2026 13:00",
-      "matchCode": "4544157",
-      "odds": 1.08,
-      "patternScore": 68.5,
-      "patternText": "107.659/157.161",
-      "aiScore": 92,
       "picks": 1
     }
   ],
