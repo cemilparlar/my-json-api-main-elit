@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 02:46",
+  "updatedAt": "06.11.2026 02:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 314,
       "rate": 55.4
     },
-    "totalAnalyses": 450531,
+    "totalAnalyses": 450535,
     "leagues": 503,
     "pro": {
       "won": 1073,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2713,
-    "analyses30d": 21728
+    "analyses24h": 2712,
+    "analyses30d": 21727
   },
   "recentWins": [
     {
@@ -354,8 +354,14 @@
       "away": "EC Bahia"
     },
     {
+      "type": "updated",
+      "at": "06.11.2026 02:47",
+      "home": "Canberra",
+      "away": "Sydney United 58 FC"
+    },
+    {
       "type": "analysis",
-      "count": 2713
+      "count": 2712
     }
   ],
   "today": {
