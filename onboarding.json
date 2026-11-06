@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 21:38",
+  "updatedAt": "06.11.2026 21:46",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 227,
-      "lost": 116,
-      "total": 343,
-      "rate": 66.2
+      "won": 247,
+      "lost": 119,
+      "total": 366,
+      "rate": 67.5
     },
     "totalAnalyses": 452423,
     "leagues": 492,
     "pro": {
-      "won": 1140,
+      "won": 1152,
       "lost": 463,
-      "total": 1603,
-      "rate": 71.1
+      "total": 1615,
+      "rate": 71.3
     },
     "insights": {
-      "won": 1960,
-      "lost": 837,
-      "total": 2797,
-      "rate": 70.1
+      "won": 1979,
+      "lost": 839,
+      "total": 2818,
+      "rate": 70.2
     },
     "coupons": {
-      "won": 46,
-      "lost": 42,
-      "total": 88,
-      "rate": 52.3
+      "won": 47,
+      "lost": 44,
+      "total": 91,
+      "rate": 51.6
     },
     "analyses24h": 2911,
     "analyses30d": 21834
@@ -123,6 +123,42 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 4,
+      "totalOdds": 1.53,
+      "winChance": 44.54,
+      "completedAt": "06.11.2026 21:46",
+      "legs": [
+        {
+          "home": "Helmond Sport",
+          "away": "FC Volendam",
+          "prediction": "Double Chance 12",
+          "odds": 1.09,
+          "finalScore": "2 - 3"
+        },
+        {
+          "home": "Hamburger SV",
+          "away": "Borussia Monchengladbach",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.16,
+          "finalScore": "3 - 1"
+        },
+        {
+          "home": "Wisla Krakow",
+          "away": "KS Cracovia",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.06,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Union Brescia",
+          "away": "Union Arzignano",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.14,
+          "finalScore": "3 - 2"
+        }
+      ]
+    },
     {
       "size": 6,
       "totalOdds": 1.57,
@@ -258,42 +294,6 @@
           "finalScore": "1 - 2"
         }
       ]
-    },
-    {
-      "size": 4,
-      "totalOdds": 1.52,
-      "winChance": 40.74,
-      "completedAt": "04.11.2026 22:14",
-      "legs": [
-        {
-          "home": "MC Alger",
-          "away": "MC Oran",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
-          "finalScore": "2 - 0"
-        },
-        {
-          "home": "FC Porto",
-          "away": "SSC Napoli",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.11,
-          "finalScore": "4 - 1"
-        },
-        {
-          "home": "FAR Rabat",
-          "away": "Raja Club Athletic",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.08,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "RB Leipzig",
-          "away": "Manchester City",
-          "prediction": "1st Half Under 2.5",
-          "odds": 1.15,
-          "finalScore": "2 - 3"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -385,8 +385,8 @@
     "date": "07.11.2026 00:00",
     "matchCode": "4483797",
     "odds": 1.4,
-    "patternScore": 67.84,
-    "patternText": "265.603/391.490",
+    "patternScore": 67.85,
+    "patternText": "265.635/391.532",
     "aiScore": 57,
     "picks": 3
   },
@@ -398,8 +398,8 @@
       "date": "07.11.2026 00:00",
       "matchCode": "4483797",
       "odds": 1.4,
-      "patternScore": 67.84,
-      "patternText": "265.603/391.490",
+      "patternScore": 67.85,
+      "patternText": "265.635/391.532",
       "aiScore": 57,
       "picks": 3
     },
@@ -411,7 +411,7 @@
       "matchCode": "4423367",
       "odds": 1.34,
       "patternScore": 67.42,
-      "patternText": "200.155/296.894",
+      "patternText": "200.173/296.916",
       "aiScore": 61,
       "picks": 5
     },
@@ -423,7 +423,7 @@
       "matchCode": "4454055",
       "odds": 1.33,
       "patternScore": 68.47,
-      "patternText": "258.929/378.182",
+      "patternText": "258.957/378.224",
       "aiScore": 60,
       "picks": 3
     },
@@ -435,7 +435,7 @@
       "matchCode": "4508203",
       "odds": 1.23,
       "patternScore": 68.48,
-      "patternText": "251.961/367.958",
+      "patternText": "251.989/367.996",
       "aiScore": 71,
       "picks": 1
     },
@@ -447,7 +447,7 @@
       "matchCode": "4454056",
       "odds": 1.16,
       "patternScore": 69.84,
-      "patternText": "315.694/452.055",
+      "patternText": "315.732/452.111",
       "aiScore": 75,
       "picks": 3
     }
