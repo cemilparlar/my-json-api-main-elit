@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 04:56",
+  "updatedAt": "06.11.2026 05:03",
   "config": {
     "pages": [
       "engine",
@@ -336,18 +336,6 @@
       "at": "05.11.2026 19:00"
     },
     {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.51,
-      "at": "05.11.2026 17:02"
-    },
-    {
-      "type": "coupon",
-      "size": 4,
-      "odds": 1.52,
-      "at": "05.11.2026 17:02"
-    },
-    {
       "type": "updated",
       "at": "05.11.2026 23:41",
       "home": "Cruzeiro EC",
@@ -414,6 +402,30 @@
       "picks": 1
     },
     {
+      "home": "Gaziantep FK",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "date": "06.11.2026 17:00",
+      "matchCode": "4542743",
+      "odds": 1.67,
+      "patternScore": 66.72,
+      "patternText": "236.693/354.750",
+      "aiScore": 54,
+      "picks": 8
+    },
+    {
+      "home": "Vejle BK",
+      "away": "FC Fredericia",
+      "league": "DAN1",
+      "date": "06.11.2026 17:00",
+      "matchCode": "4476299",
+      "odds": 1.28,
+      "patternScore": 68.23,
+      "patternText": "222.266/325.772",
+      "aiScore": 69,
+      "picks": 3
+    },
+    {
       "home": "FK Neftchi Baku",
       "away": "FK Kapaz",
       "league": "AZERPL",
@@ -424,30 +436,6 @@
       "patternText": "140.365/205.191",
       "aiScore": 65,
       "picks": 1
-    },
-    {
-      "home": "Al Shabab",
-      "away": "Al Tadhamon",
-      "league": "KUV",
-      "date": "06.11.2026 16:40",
-      "matchCode": "4545740",
-      "odds": 1.25,
-      "patternScore": 68.46,
-      "patternText": "223.243/326.115",
-      "aiScore": 65,
-      "picks": 4
-    },
-    {
-      "home": "Chadormalu",
-      "away": "Foolad Khuzesta",
-      "league": "IRAN",
-      "date": "06.11.2026 14:00",
-      "matchCode": "4571547",
-      "odds": 1.19,
-      "patternScore": 69.27,
-      "patternText": "242.820/350.522",
-      "aiScore": 75,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
