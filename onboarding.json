@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 05:03",
+  "updatedAt": "06.11.2026 05:11",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 319,
       "rate": 56.1
     },
-    "totalAnalyses": 450566,
+    "totalAnalyses": 450586,
     "leagues": 503,
     "pro": {
       "won": 1074,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2712,
-    "analyses30d": 21727
+    "analyses24h": 2725,
+    "analyses30d": 21740
   },
   "recentWins": [
     {
@@ -355,28 +355,40 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 03:42",
+      "at": "06.11.2026 05:03",
       "home": "Sydney FC",
       "away": "Central Coast Mariners"
     },
     {
       "type": "analysis",
-      "count": 2712
+      "count": 2725
     }
   ],
   "today": {
-    "home": "Canberra",
-    "away": "Sydney United 58 FC",
-    "league": "AVC",
-    "date": "06.11.2026 08:30",
-    "matchCode": "4573630",
-    "odds": 1.25,
-    "patternScore": 67.57,
-    "patternText": "200.685/296.997",
-    "aiScore": 62,
-    "picks": 1
+    "home": "Sydney FC",
+    "away": "Central Coast Mariners",
+    "league": "AVUS",
+    "date": "06.11.2026 08:40",
+    "matchCode": "4546752",
+    "odds": 1.35,
+    "patternScore": 68.22,
+    "patternText": "122.242/179.179",
+    "aiScore": 60,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Sydney FC",
+      "away": "Central Coast Mariners",
+      "league": "AVUS",
+      "date": "06.11.2026 08:40",
+      "matchCode": "4546752",
+      "odds": 1.35,
+      "patternScore": 68.22,
+      "patternText": "122.242/179.179",
+      "aiScore": 60,
+      "picks": 3
+    },
     {
       "home": "Canberra",
       "away": "Sydney United 58 FC",
@@ -387,18 +399,6 @@
       "patternScore": 67.57,
       "patternText": "200.685/296.997",
       "aiScore": 62,
-      "picks": 1
-    },
-    {
-      "home": "Sydney FC",
-      "away": "Central Coast Mariners",
-      "league": "AVUS",
-      "date": "06.11.2026 08:40",
-      "matchCode": "4546752",
-      "odds": 1.06,
-      "patternScore": 68.82,
-      "patternText": "224.171/325.722",
-      "aiScore": 95,
       "picks": 1
     },
     {
@@ -434,7 +434,7 @@
       "odds": 1.27,
       "patternScore": 68.41,
       "patternText": "140.365/205.191",
-      "aiScore": 65,
+      "aiScore": 66,
       "picks": 1
     }
   ],
