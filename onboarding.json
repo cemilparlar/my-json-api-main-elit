@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 06:08",
+  "updatedAt": "06.11.2026 06:15",
   "config": {
     "pages": [
       "engine",
@@ -372,10 +372,10 @@
       "away": "Nam Dinh FC"
     },
     {
-      "type": "kickoff",
-      "home": "Adelaide United",
-      "away": "Wellington Phoenix",
-      "at": "06.11.2026 08:00"
+      "type": "updated",
+      "at": "06.11.2026 06:02",
+      "home": "Sepahan",
+      "away": "Malavan Fc"
     }
   ],
   "today": {
@@ -416,18 +416,6 @@
       "picks": 1
     },
     {
-      "home": "Lamphun Warrior",
-      "away": "Sukhothai FC",
-      "league": "TAY",
-      "date": "06.11.2026 12:00",
-      "matchCode": "4539101",
-      "odds": 1.09,
-      "patternScore": 70.88,
-      "patternText": "297.331/419.490",
-      "aiScore": 91,
-      "picks": 1
-    },
-    {
       "home": "Adelaide United",
       "away": "Wellington Phoenix",
       "league": "AVUSTW",
@@ -449,6 +437,18 @@
       "patternScore": 69.85,
       "patternText": "222.356/318.320",
       "aiScore": 98,
+      "picks": 1
+    },
+    {
+      "home": "Lamphun Warrior",
+      "away": "Sukhothai FC",
+      "league": "TAY",
+      "date": "06.11.2026 12:00",
+      "matchCode": "4539101",
+      "odds": 1.06,
+      "patternScore": 70.81,
+      "patternText": "286.963/405.278",
+      "aiScore": 99,
       "picks": 1
     }
   ],
