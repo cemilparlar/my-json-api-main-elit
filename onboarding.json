@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 19:54",
+  "updatedAt": "06.11.2026 20:02",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 207,
-      "lost": 110,
-      "total": 317,
-      "rate": 65.3
+      "won": 138,
+      "lost": 59,
+      "total": 197,
+      "rate": 70.1
     },
-    "totalAnalyses": 452325,
+    "totalAnalyses": 452360,
     "leagues": 492,
     "pro": {
-      "won": 1096,
-      "lost": 442,
-      "total": 1538,
-      "rate": 71.3
+      "won": 1100,
+      "lost": 441,
+      "total": 1541,
+      "rate": 71.4
     },
     "insights": {
-      "won": 1878,
-      "lost": 797,
-      "total": 2675,
+      "won": 1884,
+      "lost": 800,
+      "total": 2684,
       "rate": 70.2
     },
     "coupons": {
       "won": 46,
-      "lost": 32,
-      "total": 78,
-      "rate": 59.0
+      "lost": 33,
+      "total": 79,
+      "rate": 58.2
     },
-    "analyses24h": 3053,
-    "analyses30d": 21837
+    "analyses24h": 2907,
+    "analyses30d": 21832
   },
   "recentWins": [
     {
@@ -454,6 +454,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "FC Famalicao",
+      "away": "FC Arouca",
+      "league": "POR",
+      "at": "06.11.2026 20:00",
+      "count": 5
+    },
+    {
       "home": "Vitoria Bahia",
       "away": "Fluminense FC",
       "league": "BR1",
@@ -515,13 +522,6 @@
       "league": "İS1",
       "at": "06.11.2026 18:30",
       "count": 17
-    },
-    {
-      "home": "Hamburger SV",
-      "away": "Borussia Monchengladbach",
-      "league": "AL1",
-      "at": "06.11.2026 18:28",
-      "count": 6
     }
   ],
   "paywall": {

@@ -3,7 +3,7 @@
   "stats7": {
     "multi": {
       "won": 46,
-      "lost": 32
+      "lost": 33
     },
     "c70_2": {
       "won": 10,
@@ -27,7 +27,7 @@
     },
     "cyz_6": {
       "won": 1,
-      "lost": 2
+      "lost": 3
     }
   },
   "stats30": {
@@ -69,7 +69,7 @@
     },
     "multi": {
       "won": 50,
-      "lost": 34
+      "lost": 35
     },
     "c70_1": {
       "won": 20,
@@ -93,11 +93,11 @@
     },
     "cyz_6": {
       "won": 1,
-      "lost": 2
+      "lost": 3
     }
   },
-  "updatedAt": "06.11.2026 19:54",
-  "updatedAtUtc": "2026-11-06T19:54:00Z",
+  "updatedAt": "06.11.2026 20:02",
+  "updatedAtUtc": "2026-11-06T20:02:00Z",
   "upcoming": [
     {
       "id": "20261106-18-3",
@@ -339,9 +339,9 @@
           "patternScore": 70.18,
           "patternText": "329.849/469.971",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 0",
+          "status": "won",
           "aiScore": 95
         },
         {
@@ -362,9 +362,9 @@
           "patternScore": 62.77,
           "patternText": "182.749/291.123",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "2 - 0",
+          "finalScore": "5 - 0",
+          "status": "won",
           "aiScore": 94
         },
         {
@@ -528,164 +528,6 @@
       ]
     },
     {
-      "id": "20261106-19-2",
-      "createdAt": "06.11.2026 16:03",
-      "createdAtUtc": "2026-11-06T16:03:00Z",
-      "size": 6,
-      "mbs": 1,
-      "totalOdds": 1.5,
-      "winChance": 32.78,
-      "firstKickoff": "06.11.2026 18:00",
-      "lastKickoff": "06.11.2026 19:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "cyz_6",
-      "group": "multi",
-      "formula": "6",
-      "multiScore": 80,
-      "effectiveOdds": 1.5,
-      "legs": [
-        {
-          "matchCode": "4506734",
-          "nesine": null,
-          "date": "06.11.2026 18:00",
-          "kickoffUtc": "2026-11-06T18:00:00Z",
-          "league": "ALMBÖL",
-          "home": "Kickers Emden",
-          "away": "Lubeck",
-          "league_tr": "ALMBÖL",
-          "home_tr": "Kickers Emden",
-          "away_tr": "Lübeck",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.07,
-          "probability": 83.58,
-          "patternScore": 70.71,
-          "patternText": "175.209/247.778",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 98
-        },
-        {
-          "matchCode": "4474522",
-          "nesine": null,
-          "date": "06.11.2026 18:00",
-          "kickoffUtc": "2026-11-06T18:00:00Z",
-          "league": "DAN",
-          "home": "Silkeborg IF",
-          "away": "Lyngby BK",
-          "league_tr": "DAN",
-          "home_tr": "Silkeborg",
-          "away_tr": "Lyngby",
-          "prediction": "Over 1.5 Goals",
-          "prediction_tr": "1,5 Alt/Üst Üst",
-          "odds": 1.06,
-          "probability": 80.0,
-          "patternScore": 69.23,
-          "patternText": "214.014/309.129",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 97
-        },
-        {
-          "matchCode": "4496524",
-          "nesine": null,
-          "date": "06.11.2026 18:30",
-          "kickoffUtc": "2026-11-06T18:30:00Z",
-          "league": "AVU",
-          "home": "SK Rapid Wien",
-          "away": "Wolfsberger AC",
-          "league_tr": "AVU",
-          "home_tr": "Rapid Wien",
-          "away_tr": "Wolfsberger",
-          "prediction": "Match Result 1",
-          "prediction_tr": "Maç Sonucu 1",
-          "odds": 1.06,
-          "probability": 100.0,
-          "patternScore": 58.95,
-          "patternText": "266.253/451.625",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 97
-        },
-        {
-          "matchCode": "4481921",
-          "nesine": null,
-          "date": "06.11.2026 19:00",
-          "kickoffUtc": "2026-11-06T19:00:00Z",
-          "league": "HOL2",
-          "home": "Helmond Sport",
-          "away": "FC Volendam",
-          "league_tr": "HOL2",
-          "home_tr": "Helmond Sport",
-          "away_tr": "Volendam",
-          "prediction": "1st Half Under 2.5",
-          "prediction_tr": "1. Yarı 2,5 Alt/Üst Alt",
-          "odds": 1.08,
-          "probability": 89.8,
-          "patternScore": 69.91,
-          "patternText": "141.627/202.599",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 98
-        },
-        {
-          "matchCode": "4481924",
-          "nesine": null,
-          "date": "06.11.2026 19:00",
-          "kickoffUtc": "2026-11-06T19:00:00Z",
-          "league": "HOL2",
-          "home": "TOP Oss",
-          "away": "RKC Waalwijk",
-          "league_tr": "HOL2",
-          "home_tr": "Oss",
-          "away_tr": "Waalwijk",
-          "prediction": "Under 4.5 Goals",
-          "prediction_tr": "4,5 Alt/Üst Alt",
-          "odds": 1.06,
-          "probability": 85.19,
-          "patternScore": 70.38,
-          "patternText": "147.098/208.992",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 97
-        },
-        {
-          "matchCode": "4540670",
-          "nesine": null,
-          "date": "06.11.2026 19:00",
-          "kickoffUtc": "2026-11-06T19:00:00Z",
-          "league": "INGPDL",
-          "home": "Swansea City U21",
-          "away": "Bristol City U21",
-          "league_tr": "INGPDL",
-          "home_tr": "Swansea (B)",
-          "away_tr": "Bristol City U2",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.09,
-          "probability": 100.0,
-          "patternScore": 64.39,
-          "patternText": "179.855/279.343",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 97
-        }
-      ]
-    },
-    {
       "id": "20261106-19-4",
       "createdAt": "06.11.2026 16:03",
       "createdAtUtc": "2026-11-06T16:03:00Z",
@@ -721,9 +563,9 @@
           "patternScore": 71.38,
           "patternText": "218.165/305.649",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 0",
+          "status": "won",
           "aiScore": 94
         },
         {
@@ -1309,7 +1151,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 80
         }
       ]
@@ -1533,7 +1375,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 80
         }
       ]
@@ -1645,7 +1487,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 94
         }
       ]
@@ -1892,7 +1734,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 90
         }
       ]
@@ -2251,7 +2093,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 94
         },
         {
@@ -2274,13 +2116,171 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 92
         }
       ]
     }
   ],
   "completed": [
+    {
+      "id": "20261106-19-2",
+      "createdAt": "06.11.2026 16:03",
+      "createdAtUtc": "2026-11-06T16:03:00Z",
+      "size": 6,
+      "mbs": 1,
+      "totalOdds": 1.5,
+      "winChance": 32.78,
+      "firstKickoff": "06.11.2026 18:00",
+      "lastKickoff": "06.11.2026 19:00",
+      "status": "lost",
+      "completedAt": "06.11.2026 20:02",
+      "kind": "cyz_6",
+      "group": "multi",
+      "formula": "6",
+      "multiScore": 80,
+      "effectiveOdds": 1.5,
+      "legs": [
+        {
+          "matchCode": "4506734",
+          "nesine": null,
+          "date": "06.11.2026 18:00",
+          "kickoffUtc": "2026-11-06T18:00:00Z",
+          "league": "ALMBÖL",
+          "home": "Kickers Emden",
+          "away": "Lubeck",
+          "league_tr": "ALMBÖL",
+          "home_tr": "Kickers Emden",
+          "away_tr": "Lübeck",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.07,
+          "probability": 83.58,
+          "patternScore": 70.71,
+          "patternText": "175.209/247.778",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 98
+        },
+        {
+          "matchCode": "4474522",
+          "nesine": null,
+          "date": "06.11.2026 18:00",
+          "kickoffUtc": "2026-11-06T18:00:00Z",
+          "league": "DAN",
+          "home": "Silkeborg IF",
+          "away": "Lyngby BK",
+          "league_tr": "DAN",
+          "home_tr": "Silkeborg",
+          "away_tr": "Lyngby",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.06,
+          "probability": 80.0,
+          "patternScore": 69.23,
+          "patternText": "214.014/309.129",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 0",
+          "status": "lost",
+          "aiScore": 97
+        },
+        {
+          "matchCode": "4496524",
+          "nesine": null,
+          "date": "06.11.2026 18:30",
+          "kickoffUtc": "2026-11-06T18:30:00Z",
+          "league": "AVU",
+          "home": "SK Rapid Wien",
+          "away": "Wolfsberger AC",
+          "league_tr": "AVU",
+          "home_tr": "Rapid Wien",
+          "away_tr": "Wolfsberger",
+          "prediction": "Match Result 1",
+          "prediction_tr": "Maç Sonucu 1",
+          "odds": 1.06,
+          "probability": 100.0,
+          "patternScore": 58.95,
+          "patternText": "266.253/451.625",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 97
+        },
+        {
+          "matchCode": "4481921",
+          "nesine": null,
+          "date": "06.11.2026 19:00",
+          "kickoffUtc": "2026-11-06T19:00:00Z",
+          "league": "HOL2",
+          "home": "Helmond Sport",
+          "away": "FC Volendam",
+          "league_tr": "HOL2",
+          "home_tr": "Helmond Sport",
+          "away_tr": "Volendam",
+          "prediction": "1st Half Under 2.5",
+          "prediction_tr": "1. Yarı 2,5 Alt/Üst Alt",
+          "odds": 1.08,
+          "probability": 89.8,
+          "patternScore": 69.91,
+          "patternText": "141.627/202.599",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 98
+        },
+        {
+          "matchCode": "4481924",
+          "nesine": null,
+          "date": "06.11.2026 19:00",
+          "kickoffUtc": "2026-11-06T19:00:00Z",
+          "league": "HOL2",
+          "home": "TOP Oss",
+          "away": "RKC Waalwijk",
+          "league_tr": "HOL2",
+          "home_tr": "Oss",
+          "away_tr": "Waalwijk",
+          "prediction": "Under 4.5 Goals",
+          "prediction_tr": "4,5 Alt/Üst Alt",
+          "odds": 1.06,
+          "probability": 85.19,
+          "patternScore": 70.38,
+          "patternText": "147.098/208.992",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 97
+        },
+        {
+          "matchCode": "4540670",
+          "nesine": null,
+          "date": "06.11.2026 19:00",
+          "kickoffUtc": "2026-11-06T19:00:00Z",
+          "league": "INGPDL",
+          "home": "Swansea City U21",
+          "away": "Bristol City U21",
+          "league_tr": "INGPDL",
+          "home_tr": "Swansea (B)",
+          "away_tr": "Bristol City U2",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.09,
+          "probability": 100.0,
+          "patternScore": 64.39,
+          "patternText": "179.855/279.343",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 97
+        }
+      ]
+    },
     {
       "id": "20261106-19-3",
       "createdAt": "06.11.2026 16:03",
@@ -2679,9 +2679,9 @@
           "patternScore": 69.32,
           "patternText": "121.002/174.552",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 0",
+          "status": "won",
           "aiScore": 99
         }
       ]
