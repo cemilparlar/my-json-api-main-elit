@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 23:12",
+  "updatedAt": "06.11.2026 23:19",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 412,
       "rate": 66.5
     },
-    "totalAnalyses": 452534,
+    "totalAnalyses": 452540,
     "leagues": 492,
     "pro": {
       "won": 1156,
@@ -47,8 +47,8 @@
       "total": 92,
       "rate": 52.2
     },
-    "analyses24h": 2941,
-    "analyses30d": 21862
+    "analyses24h": 2936,
+    "analyses30d": 21857
   },
   "recentWins": [
     {
@@ -373,6 +373,18 @@
       "picks": 3
     },
     {
+      "home": "Nagoya Grampus",
+      "away": "Kyoto Sanga FC",
+      "league": "JAP",
+      "date": "07.11.2026 05:00",
+      "matchCode": "4487263",
+      "odds": 1.34,
+      "patternScore": 67.92,
+      "patternText": "277.859/409.075",
+      "aiScore": 58,
+      "picks": 7
+    },
+    {
       "home": "Seongnam",
       "away": "Daegu FC",
       "league": "GKOR2",
@@ -385,27 +397,15 @@
       "picks": 3
     },
     {
-      "home": "Albirex Niigata",
-      "away": "FC Imabari",
+      "home": "Yokohama FC",
+      "away": "Fujieda MYFC",
       "league": "JAP2",
       "date": "07.11.2026 05:00",
-      "matchCode": "4487663",
-      "odds": 1.23,
-      "patternScore": 68.66,
-      "patternText": "265.245/386.321",
-      "aiScore": 82,
-      "picks": 4
-    },
-    {
-      "home": "Shakhtar Donetsk",
-      "away": "Dynamo Kyiv",
-      "league": "UKR",
-      "date": "07.11.2026 00:00",
-      "matchCode": "4508203",
-      "odds": 1.23,
-      "patternScore": 68.48,
-      "patternText": "252.067/368.104",
-      "aiScore": 71,
+      "matchCode": "4487662",
+      "odds": 1.25,
+      "patternScore": 68.91,
+      "patternText": "432.272/627.289",
+      "aiScore": 76,
       "picks": 1
     }
   ],
