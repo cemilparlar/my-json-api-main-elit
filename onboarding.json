@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 08:18",
+  "updatedAt": "06.11.2026 08:25",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 319,
       "rate": 56.1
     },
-    "totalAnalyses": 450759,
+    "totalAnalyses": 450772,
     "leagues": 503,
     "pro": {
       "won": 1074,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2750,
-    "analyses30d": 21751
+    "analyses24h": 2746,
+    "analyses30d": 21747
   },
   "recentWins": [
     {
@@ -355,6 +355,12 @@
     },
     {
       "type": "updated",
+      "at": "06.11.2026 08:15",
+      "home": "Al Jazeera Club",
+      "away": "Al Ramtha"
+    },
+    {
+      "type": "updated",
       "at": "06.11.2026 08:14",
       "home": "FC Goa",
       "away": "Bengaluru FC"
@@ -370,12 +376,6 @@
       "at": "06.11.2026 06:03",
       "home": "Lamphun Warrior",
       "away": "Sukhothai FC"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 08:13",
-      "home": "Hong Linh Ha Tinh",
-      "away": "Nam Dinh FC"
     }
   ],
   "today": {
@@ -387,7 +387,7 @@
     "odds": 1.77,
     "patternScore": 67.94,
     "patternText": "176.716/260.117",
-    "aiScore": 54,
+    "aiScore": 55,
     "picks": 1
   },
   "todayList": [
@@ -400,20 +400,8 @@
       "odds": 1.77,
       "patternScore": 67.94,
       "patternText": "176.716/260.117",
-      "aiScore": 54,
+      "aiScore": 55,
       "picks": 1
-    },
-    {
-      "home": "Hong Linh Ha Tinh",
-      "away": "Nam Dinh FC",
-      "league": "VİET",
-      "date": "06.11.2026 11:00",
-      "matchCode": "4551350",
-      "odds": 1.21,
-      "patternScore": 69.25,
-      "patternText": "227.426/328.422",
-      "aiScore": 69,
-      "picks": 2
     },
     {
       "home": "Chadormalu",
@@ -422,9 +410,21 @@
       "date": "06.11.2026 14:00",
       "matchCode": "4571547",
       "odds": 1.19,
-      "patternScore": 69.27,
-      "patternText": "242.820/350.522",
-      "aiScore": 75,
+      "patternScore": 70.15,
+      "patternText": "287.408/409.718",
+      "aiScore": 74,
+      "picks": 2
+    },
+    {
+      "home": "Al Jazeera Club",
+      "away": "Al Ramtha",
+      "league": "ÜRD",
+      "date": "06.11.2026 14:00",
+      "matchCode": "4571287",
+      "odds": 1.18,
+      "patternScore": 69.38,
+      "patternText": "237.762/342.691",
+      "aiScore": 77,
       "picks": 2
     },
     {
@@ -433,10 +433,10 @@
       "league": "HİNSL",
       "date": "06.11.2026 14:00",
       "matchCode": "4572344",
-      "odds": 1.12,
-      "patternScore": 69.11,
-      "patternText": "243.958/353.011",
-      "aiScore": 83,
+      "odds": 1.14,
+      "patternScore": 68.9,
+      "patternText": "240.124/348.517",
+      "aiScore": 76,
       "picks": 1
     },
     {
