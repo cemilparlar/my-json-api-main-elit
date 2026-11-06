@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 21:01",
+  "updatedAt": "06.11.2026 21:09",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 158,
-      "lost": 84,
-      "total": 242,
-      "rate": 65.3
+      "won": 209,
+      "lost": 106,
+      "total": 315,
+      "rate": 66.3
     },
     "totalAnalyses": 452393,
     "leagues": 492,
     "pro": {
-      "won": 1110,
-      "lost": 447,
-      "total": 1557,
-      "rate": 71.3
+      "won": 1130,
+      "lost": 457,
+      "total": 1587,
+      "rate": 71.2
     },
     "insights": {
-      "won": 1899,
-      "lost": 812,
-      "total": 2711,
-      "rate": 70.0
+      "won": 1943,
+      "lost": 830,
+      "total": 2773,
+      "rate": 70.1
     },
     "coupons": {
       "won": 46,
-      "lost": 37,
-      "total": 83,
-      "rate": 55.4
+      "lost": 41,
+      "total": 87,
+      "rate": 52.9
     },
-    "analyses24h": 2911,
-    "analyses30d": 21834
+    "analyses24h": 2910,
+    "analyses30d": 21833
   },
   "recentWins": [
     {
@@ -80,6 +80,20 @@
       "pro": true
     },
     {
+      "home": "Willem",
+      "away": "Zwolle",
+      "league": "HOL",
+      "date": "06.11.2026 19:00",
+      "prediction": "1st Half Over 1.5",
+      "odds": 2.17,
+      "probability": 70.0,
+      "patternScore": 67.33,
+      "aiScore": 51,
+      "firstHalf": "1 - 1",
+      "finalScore": "1 - 1",
+      "pro": false
+    },
+    {
       "home": "RSC Anderlecht",
       "away": "Red Bull Salzburg",
       "league": "AVL",
@@ -105,20 +119,6 @@
       "aiScore": 53,
       "firstHalf": "0 - 1",
       "finalScore": "1 - 2",
-      "pro": true
-    },
-    {
-      "home": "Sydney FC",
-      "away": "Central Coast Mariners",
-      "league": "AVUS",
-      "date": "06.11.2026 08:40",
-      "prediction": "HT/FT 1/1",
-      "odds": 1.89,
-      "probability": 100.0,
-      "patternScore": 56.12,
-      "aiScore": 52,
-      "firstHalf": "2 - 0",
-      "finalScore": "4 - 1",
       "pro": true
     }
   ],
@@ -315,19 +315,19 @@
     },
     {
       "type": "won",
+      "home": "Willem",
+      "away": "Zwolle",
+      "prediction": "1st Half Over 1.5",
+      "odds": 2.17,
+      "at": "06.11.2026 19:00"
+    },
+    {
+      "type": "won",
       "home": "RSC Anderlecht",
       "away": "Red Bull Salzburg",
       "prediction": "Total Goals 2-3",
       "odds": 1.97,
       "at": "05.11.2026 17:45"
-    },
-    {
-      "type": "won",
-      "home": "Persepolis",
-      "away": "Fajr Sepasi",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.9,
-      "at": "06.11.2026 13:00"
     },
     {
       "type": "coupon",
@@ -386,7 +386,7 @@
     "matchCode": "4483797",
     "odds": 1.4,
     "patternScore": 67.84,
-    "patternText": "265.521/391.366",
+    "patternText": "265.521/391.368",
     "aiScore": 57,
     "picks": 3
   },
@@ -399,7 +399,7 @@
       "matchCode": "4483797",
       "odds": 1.4,
       "patternScore": 67.84,
-      "patternText": "265.521/391.366",
+      "patternText": "265.521/391.368",
       "aiScore": 57,
       "picks": 3
     },
@@ -423,7 +423,7 @@
       "matchCode": "4454055",
       "odds": 1.33,
       "patternScore": 68.47,
-      "patternText": "258.837/378.052",
+      "patternText": "258.837/378.054",
       "aiScore": 60,
       "picks": 3
     },
@@ -434,8 +434,8 @@
       "date": "07.11.2026 00:00",
       "matchCode": "4508203",
       "odds": 1.23,
-      "patternScore": 68.48,
-      "patternText": "251.873/367.832",
+      "patternScore": 68.47,
+      "patternText": "251.873/367.834",
       "aiScore": 71,
       "picks": 1
     },
@@ -447,7 +447,7 @@
       "matchCode": "4454056",
       "odds": 1.16,
       "patternScore": 69.83,
-      "patternText": "315.574/451.889",
+      "patternText": "315.574/451.895",
       "aiScore": 75,
       "picks": 3
     }
