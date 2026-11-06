@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 11:02",
+  "updatedAt": "06.11.2026 11:10",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 327,
       "rate": 56.0
     },
-    "totalAnalyses": 450975,
+    "totalAnalyses": 451003,
     "leagues": 502,
     "pro": {
       "won": 1077,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2827,
-    "analyses30d": 21819
+    "analyses24h": 2833,
+    "analyses30d": 21825
   },
   "recentWins": [
     {
@@ -331,9 +331,27 @@
     },
     {
       "type": "updated",
+      "at": "06.11.2026 11:09",
+      "home": "Gaziantep FK",
+      "away": "Kasimpasa"
+    },
+    {
+      "type": "updated",
       "at": "06.11.2026 10:49",
       "home": "Lokomotiv Moscow",
       "away": "Rubin Kazan"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 11:10",
+      "home": "Resovia Rzeszow",
+      "away": "Gornik Leczna"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 11:10",
+      "home": "FC Vysocina Jihlava",
+      "away": "Karvina"
     },
     {
       "type": "updated",
@@ -358,24 +376,6 @@
       "at": "06.11.2026 08:15",
       "home": "Al Jazeera Club",
       "away": "Al Ramtha"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 09:54",
-      "home": "FC Goa",
-      "away": "Bengaluru FC"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 10:11",
-      "home": "Chadormalu",
-      "away": "Foolad Khuzesta"
-    },
-    {
-      "type": "updated",
-      "at": "06.11.2026 10:29",
-      "home": "Lamphun Warrior",
-      "away": "Sukhothai FC"
     }
   ],
   "today": {
@@ -386,7 +386,7 @@
     "matchCode": "4544157",
     "odds": 1.77,
     "patternScore": 67.94,
-    "patternText": "176.732/260.139",
+    "patternText": "176.752/260.171",
     "aiScore": 55,
     "picks": 1
   },
@@ -399,7 +399,7 @@
       "matchCode": "4544157",
       "odds": 1.77,
       "patternScore": 67.94,
-      "patternText": "176.732/260.139",
+      "patternText": "176.752/260.171",
       "aiScore": 55,
       "picks": 1
     },
@@ -411,7 +411,7 @@
       "matchCode": "4542743",
       "odds": 1.67,
       "patternScore": 66.72,
-      "patternText": "236.717/354.792",
+      "patternText": "236.737/354.840",
       "aiScore": 54,
       "picks": 8
     },
@@ -423,7 +423,7 @@
       "matchCode": "4538725",
       "odds": 1.32,
       "patternScore": 68.45,
-      "patternText": "219.533/320.700",
+      "patternText": "219.541/320.720",
       "aiScore": 61,
       "picks": 3
     },
@@ -434,8 +434,8 @@
       "date": "06.11.2026 17:00",
       "matchCode": "4476299",
       "odds": 1.28,
-      "patternScore": 68.23,
-      "patternText": "222.290/325.814",
+      "patternScore": 68.22,
+      "patternText": "222.298/325.834",
       "aiScore": 70,
       "picks": 3
     },
@@ -447,12 +447,26 @@
       "matchCode": "4486246",
       "odds": 1.19,
       "patternScore": 69.06,
-      "patternText": "233.764/338.472",
-      "aiScore": 80,
+      "patternText": "233.772/338.492",
+      "aiScore": 81,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sariyer",
+      "away": "Igdir FK",
+      "league": "T1L",
+      "at": "06.11.2026 11:10",
+      "count": 5
+    },
+    {
+      "home": "Gaziantep FK",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "at": "06.11.2026 11:09",
+      "count": 10
+    },
     {
       "home": "Lokomotiv Moscow",
       "away": "Rubin Kazan",
@@ -508,20 +522,6 @@
       "league": "AVL",
       "at": "05.11.2026 17:21",
       "count": 8
-    },
-    {
-      "home": "Celtic",
-      "away": "Besiktas",
-      "league": "AVL",
-      "at": "05.11.2026 17:20",
-      "count": 8
-    },
-    {
-      "home": "Real Sociedad",
-      "away": "Olympique Lyonnais",
-      "league": "AVL",
-      "at": "05.11.2026 17:03",
-      "count": 4
     }
   ],
   "paywall": {
