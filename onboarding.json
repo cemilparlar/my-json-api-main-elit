@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 16:10",
+  "updatedAt": "06.11.2026 16:18",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 201,
-      "lost": 149,
-      "total": 350,
-      "rate": 57.4
+      "won": 203,
+      "lost": 150,
+      "total": 353,
+      "rate": 57.5
     },
     "totalAnalyses": 452007,
     "leagues": 500,
     "pro": {
-      "won": 1079,
-      "lost": 445,
-      "total": 1524,
+      "won": 1081,
+      "lost": 446,
+      "total": 1527,
       "rate": 70.8
     },
     "insights": {
-      "won": 1865,
-      "lost": 807,
-      "total": 2672,
+      "won": 1867,
+      "lost": 808,
+      "total": 2675,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 78,
       "rate": 61.5
     },
-    "analyses24h": 3135,
-    "analyses30d": 22085
+    "analyses24h": 3133,
+    "analyses30d": 22083
   },
   "recentWins": [
     {
@@ -349,12 +349,6 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 16:06",
-      "home": "Antalyaspor",
-      "away": "Bursaspor"
-    },
-    {
-      "type": "updated",
       "at": "06.11.2026 14:26",
       "home": "Gaziantep FK",
       "away": "Kasimpasa"
@@ -376,21 +370,39 @@
       "at": "06.11.2026 15:29",
       "home": "FC Admira Wacker Modling",
       "away": "St Polten"
+    },
+    {
+      "type": "updated",
+      "at": "06.11.2026 15:47",
+      "home": "Lokomotiv Moscow",
+      "away": "Rubin Kazan"
     }
   ],
   "today": {
-    "home": "Eintracht Braunschweig",
-    "away": "Energie Cottbus",
-    "league": "AL2",
-    "date": "06.11.2026 17:30",
-    "matchCode": "4495835",
-    "odds": 1.52,
-    "patternScore": 66.88,
-    "patternText": "253.513/379.031",
-    "aiScore": 55,
-    "picks": 8
+    "home": "Everton",
+    "away": "Coventry City",
+    "league": "İNP",
+    "date": "06.11.2026 20:00",
+    "matchCode": "4481104",
+    "odds": 1.79,
+    "patternScore": 67.81,
+    "patternText": "194.571/286.936",
+    "aiScore": 54,
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "Everton",
+      "away": "Coventry City",
+      "league": "İNP",
+      "date": "06.11.2026 20:00",
+      "matchCode": "4481104",
+      "odds": 1.79,
+      "patternScore": 67.81,
+      "patternText": "194.571/286.936",
+      "aiScore": 54,
+      "picks": 5
+    },
     {
       "home": "Eintracht Braunschweig",
       "away": "Energie Cottbus",
@@ -414,18 +426,6 @@
       "patternText": "238.165/356.410",
       "aiScore": 56,
       "picks": 6
-    },
-    {
-      "home": "Everton",
-      "away": "Coventry City",
-      "league": "İNP",
-      "date": "06.11.2026 20:00",
-      "matchCode": "4481104",
-      "odds": 1.38,
-      "patternScore": 66.78,
-      "patternText": "138.929/208.027",
-      "aiScore": 57,
-      "picks": 3
     },
     {
       "home": "Brentford U21",
