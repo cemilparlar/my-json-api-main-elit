@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 14:46",
+  "updatedAt": "06.11.2026 14:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 306,
       "rate": 56.9
     },
-    "totalAnalyses": 451798,
+    "totalAnalyses": 451817,
     "leagues": 502,
     "pro": {
       "won": 1069,
@@ -47,8 +47,8 @@
       "total": 78,
       "rate": 62.8
     },
-    "analyses24h": 3091,
-    "analyses30d": 22061
+    "analyses24h": 3096,
+    "analyses30d": 22066
   },
   "recentWins": [
     {
@@ -373,7 +373,7 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 14:28",
+      "at": "06.11.2026 14:49",
       "home": "FC Admira Wacker Modling",
       "away": "St Polten"
     }
@@ -454,18 +454,46 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Sevilla FC",
-      "away": "Deportivo Alaves",
-      "league": "İS1",
-      "at": "06.11.2026 14:30",
-      "count": 7
+      "home": "FC Famalicao",
+      "away": "FC Arouca",
+      "league": "POR",
+      "at": "06.11.2026 14:52",
+      "count": 6
+    },
+    {
+      "home": "Unione V.",
+      "away": "Udinese",
+      "league": "İTA",
+      "at": "06.11.2026 14:51",
+      "count": 4
     },
     {
       "home": "Everton",
       "away": "Coventry City",
       "league": "İNP",
-      "at": "06.11.2026 14:29",
-      "count": 2
+      "at": "06.11.2026 14:51",
+      "count": 6
+    },
+    {
+      "home": "Toulouse FC",
+      "away": "RC Strasbourg",
+      "league": "FR1",
+      "at": "06.11.2026 14:50",
+      "count": 9
+    },
+    {
+      "home": "Grenoble Foot",
+      "away": "Stade de Reims",
+      "league": "FR2",
+      "at": "06.11.2026 14:49",
+      "count": 14
+    },
+    {
+      "home": "Sevilla FC",
+      "away": "Deportivo Alaves",
+      "league": "İS1",
+      "at": "06.11.2026 14:30",
+      "count": 7
     },
     {
       "home": "Gaziantep FK",
@@ -494,34 +522,6 @@
       "league": "İNCL",
       "at": "06.11.2026 14:13",
       "count": 5
-    },
-    {
-      "home": "Hamburger SV",
-      "away": "Borussia Monchengladbach",
-      "league": "AL1",
-      "at": "06.11.2026 14:11",
-      "count": 6
-    },
-    {
-      "home": "Unione V.",
-      "away": "Udinese",
-      "league": "İTA",
-      "at": "06.11.2026 13:57",
-      "count": 4
-    },
-    {
-      "home": "Standard Liege",
-      "away": "Waasland-Beveren",
-      "league": "BEL",
-      "at": "06.11.2026 13:55",
-      "count": 6
-    },
-    {
-      "home": "Toulouse FC",
-      "away": "RC Strasbourg",
-      "league": "FR1",
-      "at": "06.11.2026 13:54",
-      "count": 8
     }
   ],
   "paywall": {
