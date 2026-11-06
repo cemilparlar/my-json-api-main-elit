@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 17:52",
+  "updatedAt": "06.11.2026 18:00",
   "config": {
     "pages": [
       "engine",
@@ -28,7 +28,7 @@
       "rate": 63.1
     },
     "totalAnalyses": 452199,
-    "leagues": 498,
+    "leagues": 497,
     "pro": {
       "won": 1084,
       "lost": 446,
@@ -47,8 +47,8 @@
       "total": 77,
       "rate": 61.0
     },
-    "analyses24h": 3049,
-    "analyses30d": 22050
+    "analyses24h": 3037,
+    "analyses30d": 21961
   },
   "recentWins": [
     {
@@ -332,20 +332,20 @@
     {
       "type": "coupon",
       "size": 4,
-      "odds": 1.59,
-      "at": "06.11.2026 17:04"
+      "odds": 1.51,
+      "at": "06.11.2026 18:00"
     },
     {
       "type": "coupon",
       "size": 4,
-      "odds": 1.53,
-      "at": "06.11.2026 17:04"
+      "odds": 1.54,
+      "at": "06.11.2026 18:00"
     },
     {
       "type": "coupon",
       "size": 5,
-      "odds": 1.52,
-      "at": "06.11.2026 17:04"
+      "odds": 1.51,
+      "at": "06.11.2026 18:00"
     },
     {
       "type": "updated",
@@ -379,54 +379,18 @@
     }
   ],
   "today": {
-    "home": "Everton",
-    "away": "Coventry City",
-    "league": "İNP",
+    "home": "Connah's Quay Nomads",
+    "away": "Flint Town",
+    "league": "GAL",
     "date": "06.11.2026 20:00",
-    "matchCode": "4481104",
-    "odds": 1.79,
+    "matchCode": "4508474",
+    "odds": 1.4,
     "patternScore": 67.81,
-    "patternText": "194.609/286.988",
-    "aiScore": 54,
-    "picks": 5
+    "patternText": "186.823/275.508",
+    "aiScore": 55,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Everton",
-      "away": "Coventry City",
-      "league": "İNP",
-      "date": "06.11.2026 20:00",
-      "matchCode": "4481104",
-      "odds": 1.79,
-      "patternScore": 67.81,
-      "patternText": "194.609/286.988",
-      "aiScore": 54,
-      "picks": 5
-    },
-    {
-      "home": "AS Nancy",
-      "away": "FC Sochaux",
-      "league": "FR2",
-      "date": "06.11.2026 19:00",
-      "matchCode": "4476917",
-      "odds": 1.76,
-      "patternScore": 66.77,
-      "patternText": "239.402/358.571",
-      "aiScore": 54,
-      "picks": 6
-    },
-    {
-      "home": "Sevilla FC",
-      "away": "Deportivo Alaves",
-      "league": "İS1",
-      "date": "06.11.2026 20:00",
-      "matchCode": "4492376",
-      "odds": 1.41,
-      "patternScore": 66.77,
-      "patternText": "207.560/310.856",
-      "aiScore": 56,
-      "picks": 3
-    },
     {
       "home": "Connah's Quay Nomads",
       "away": "Flint Town",
@@ -435,9 +399,21 @@
       "matchCode": "4508474",
       "odds": 1.4,
       "patternScore": 67.81,
-      "patternText": "186.817/275.502",
+      "patternText": "186.823/275.508",
       "aiScore": 55,
       "picks": 1
+    },
+    {
+      "home": "Toulouse FC",
+      "away": "RC Strasbourg",
+      "league": "FR1",
+      "date": "06.11.2026 19:45",
+      "matchCode": "4476592",
+      "odds": 1.39,
+      "patternScore": 68.09,
+      "patternText": "164.613/241.765",
+      "aiScore": 59,
+      "picks": 3
     },
     {
       "home": "Brentford U21",
@@ -447,9 +423,33 @@
       "matchCode": "4544158",
       "odds": 1.36,
       "patternScore": 66.98,
-      "patternText": "167.626/250.247",
+      "patternText": "167.628/250.249",
       "aiScore": 61,
       "picks": 1
+    },
+    {
+      "home": "Ascoli Calcio",
+      "away": "Palermo FC",
+      "league": "İTB",
+      "date": "06.11.2026 19:30",
+      "matchCode": "4534777",
+      "odds": 1.36,
+      "patternScore": 67.91,
+      "patternText": "233.825/344.298",
+      "aiScore": 59,
+      "picks": 1
+    },
+    {
+      "home": "Union Brescia",
+      "away": "Union Arzignano",
+      "league": "İTC",
+      "date": "06.11.2026 19:30",
+      "matchCode": "4535186",
+      "odds": 1.33,
+      "patternScore": 68.05,
+      "patternText": "210.644/309.542",
+      "aiScore": 56,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
