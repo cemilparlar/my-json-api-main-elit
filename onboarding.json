@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 12:28",
+  "updatedAt": "06.11.2026 12:36",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 321,
       "rate": 55.8
     },
-    "totalAnalyses": 451182,
+    "totalAnalyses": 451205,
     "leagues": 502,
     "pro": {
       "won": 1073,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 63.3
     },
-    "analyses24h": 2907,
-    "analyses30d": 21868
+    "analyses24h": 2916,
+    "analyses30d": 21877
   },
   "recentWins": [
     {
@@ -379,30 +379,18 @@
     }
   ],
   "today": {
-    "home": "Birmingham City",
-    "away": "West Ham United U21",
-    "league": "INGPL2",
-    "date": "06.11.2026 13:00",
-    "matchCode": "4544157",
-    "odds": 1.77,
-    "patternScore": 67.94,
-    "patternText": "176.752/260.171",
-    "aiScore": 54,
-    "picks": 1
+    "home": "Eintracht Braunschweig",
+    "away": "Energie Cottbus",
+    "league": "AL2",
+    "date": "06.11.2026 17:30",
+    "matchCode": "4495835",
+    "odds": 1.52,
+    "patternScore": 66.88,
+    "patternText": "253.353/378.813",
+    "aiScore": 55,
+    "picks": 8
   },
   "todayList": [
-    {
-      "home": "Birmingham City",
-      "away": "West Ham United U21",
-      "league": "INGPL2",
-      "date": "06.11.2026 13:00",
-      "matchCode": "4544157",
-      "odds": 1.77,
-      "patternScore": 67.94,
-      "patternText": "176.752/260.171",
-      "aiScore": 54,
-      "picks": 1
-    },
     {
       "home": "Eintracht Braunschweig",
       "away": "Energie Cottbus",
@@ -448,6 +436,18 @@
       "odds": 1.33,
       "patternScore": 68.5,
       "patternText": "217.017/316.820",
+      "aiScore": 61,
+      "picks": 3
+    },
+    {
+      "home": "Gaziantep FK",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "date": "06.11.2026 17:00",
+      "matchCode": "4542743",
+      "odds": 1.28,
+      "patternScore": 67.64,
+      "patternText": "237.453/351.041",
       "aiScore": 61,
       "picks": 3
     }
