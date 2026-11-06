@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 06:59",
+  "updatedAt": "06.11.2026 07:06",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 319,
       "rate": 56.1
     },
-    "totalAnalyses": 450649,
+    "totalAnalyses": 450671,
     "leagues": 503,
     "pro": {
       "won": 1074,
@@ -48,7 +48,7 @@
       "rate": 63.3
     },
     "analyses24h": 2726,
-    "analyses30d": 21741
+    "analyses30d": 21739
   },
   "recentWins": [
     {
@@ -330,12 +330,6 @@
       "at": "05.11.2026 17:45"
     },
     {
-      "type": "coupon",
-      "size": 6,
-      "odds": 1.57,
-      "at": "05.11.2026 19:00"
-    },
-    {
       "type": "updated",
       "at": "06.11.2026 06:01",
       "home": "Canberra",
@@ -376,6 +370,12 @@
       "home": "Canberra",
       "away": "Sydney United 58 FC",
       "at": "06.11.2026 08:30"
+    },
+    {
+      "type": "kickoff",
+      "home": "Sydney FC",
+      "away": "Central Coast Mariners",
+      "at": "06.11.2026 08:40"
     }
   ],
   "today": {
@@ -440,15 +440,15 @@
       "picks": 1
     },
     {
-      "home": "Lamphun Warrior",
-      "away": "Sukhothai FC",
-      "league": "TAY",
-      "date": "06.11.2026 12:00",
-      "matchCode": "4539101",
-      "odds": 1.06,
-      "patternScore": 70.81,
-      "patternText": "286.963/405.278",
-      "aiScore": 99,
+      "home": "Birmingham City",
+      "away": "West Ham United U21",
+      "league": "INGPL2",
+      "date": "06.11.2026 13:00",
+      "matchCode": "4544157",
+      "odds": 1.08,
+      "patternScore": 68.5,
+      "patternText": "107.659/157.161",
+      "aiScore": 92,
       "picks": 1
     }
   ],
