@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 01:56",
+  "updatedAt": "06.11.2026 02:03",
   "config": {
     "pages": [
       "engine",
@@ -36,9 +36,9 @@
       "rate": 70.8
     },
     "insights": {
-      "won": 1851,
+      "won": 1850,
       "lost": 799,
-      "total": 2650,
+      "total": 2649,
       "rate": 69.8
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 63.3
     },
     "analyses24h": 2714,
-    "analyses30d": 21732
+    "analyses30d": 21729
   },
   "recentWins": [
     {
@@ -360,18 +360,6 @@
       "away": "Deportivo Saprissa"
     },
     {
-      "type": "updated",
-      "at": "05.11.2026 22:23",
-      "home": "Indep. Jose Te",
-      "away": "Delfin SC"
-    },
-    {
-      "type": "kickoff",
-      "home": "Club Sport Herediano",
-      "away": "Deportivo Saprissa",
-      "at": "06.11.2026 02:00"
-    },
-    {
       "type": "analysis",
       "count": 2714
     }
@@ -384,7 +372,7 @@
     "matchCode": "4573630",
     "odds": 1.25,
     "patternScore": 67.57,
-    "patternText": "200.611/296.915",
+    "patternText": "200.629/296.935",
     "aiScore": 61,
     "picks": 2
   },
@@ -397,9 +385,33 @@
       "matchCode": "4573630",
       "odds": 1.25,
       "patternScore": 67.57,
-      "patternText": "200.611/296.915",
+      "patternText": "200.629/296.935",
       "aiScore": 61,
       "picks": 2
+    },
+    {
+      "home": "Chadormalu",
+      "away": "Foolad Khuzesta",
+      "league": "IRAN",
+      "date": "06.11.2026 14:00",
+      "matchCode": "4571547",
+      "odds": 1.19,
+      "patternScore": 69.27,
+      "patternText": "242.756/350.452",
+      "aiScore": 75,
+      "picks": 2
+    },
+    {
+      "home": "FC Goa",
+      "away": "Bengaluru FC",
+      "league": "HİNSL",
+      "date": "06.11.2026 14:00",
+      "matchCode": "4572344",
+      "odds": 1.12,
+      "patternScore": 69.1,
+      "patternText": "243.902/352.949",
+      "aiScore": 83,
+      "picks": 1
     },
     {
       "home": "Lamphun Warrior",
@@ -408,8 +420,8 @@
       "date": "06.11.2026 12:00",
       "matchCode": "4539101",
       "odds": 1.09,
-      "patternScore": 70.87,
-      "patternText": "297.241/419.392",
+      "patternScore": 70.88,
+      "patternText": "297.259/419.412",
       "aiScore": 91,
       "picks": 1
     },
@@ -421,33 +433,9 @@
       "matchCode": "4544157",
       "odds": 1.08,
       "patternScore": 68.5,
-      "patternText": "107.625/157.119",
+      "patternText": "107.631/157.127",
       "aiScore": 92,
       "picks": 1
-    },
-    {
-      "home": "Millwall U21",
-      "away": "Cardiff City U21",
-      "league": "INGPDL",
-      "date": "06.11.2026 13:30",
-      "matchCode": "4540669",
-      "odds": 1.07,
-      "patternScore": 70.83,
-      "patternText": "211.842/299.097",
-      "aiScore": 96,
-      "picks": 1
-    },
-    {
-      "home": "Gaziantep FK",
-      "away": "Kasimpasa",
-      "league": "TSL",
-      "date": "06.11.2026 17:00",
-      "matchCode": "4542743",
-      "odds": 1.67,
-      "patternScore": 66.71,
-      "patternText": "236.543/354.580",
-      "aiScore": 54,
-      "picks": 8
     }
   ],
   "recentAnalyzed": [
