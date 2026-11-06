@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 15:01",
+  "updatedAt": "06.11.2026 15:09",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 184,
-      "lost": 143,
-      "total": 327,
-      "rate": 56.3
+      "won": 185,
+      "lost": 144,
+      "total": 329,
+      "rate": 56.2
     },
-    "totalAnalyses": 451842,
+    "totalAnalyses": 451849,
     "leagues": 500,
     "pro": {
       "won": 1075,
-      "lost": 444,
-      "total": 1519,
-      "rate": 70.8
+      "lost": 445,
+      "total": 1520,
+      "rate": 70.7
     },
     "insights": {
-      "won": 1854,
-      "lost": 804,
-      "total": 2658,
-      "rate": 69.8
+      "won": 1855,
+      "lost": 805,
+      "total": 2660,
+      "rate": 69.7
     },
     "coupons": {
       "won": 49,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 62.0
     },
-    "analyses24h": 3091,
-    "analyses30d": 22055
+    "analyses24h": 3098,
+    "analyses30d": 22062
   },
   "recentWins": [
     {
@@ -108,17 +108,17 @@
       "pro": true
     },
     {
-      "home": "SK Slavia Prague",
-      "away": "Arsenal",
-      "league": "ŞMP",
-      "date": "04.11.2026 20:00",
-      "prediction": "Handicap (2:0) 1",
-      "odds": 1.78,
-      "probability": 100.0,
-      "patternScore": 55.83,
-      "aiScore": 53,
-      "firstHalf": "0 - 2",
-      "finalScore": "1 - 2",
+      "home": "Sepahan",
+      "away": "Malavan Fc",
+      "league": "IRAN",
+      "date": "06.11.2026 12:00",
+      "prediction": "Over 2.5 Goals",
+      "odds": 1.87,
+      "probability": 75.0,
+      "patternScore": 63.97,
+      "aiScore": 52,
+      "firstHalf": "2 - 0",
+      "finalScore": "4 - 0",
       "pro": false
     }
   ],
@@ -386,7 +386,7 @@
     "matchCode": "4481104",
     "odds": 1.8,
     "patternScore": 67.79,
-    "patternText": "194.461/286.844",
+    "patternText": "194.499/286.902",
     "aiScore": 53,
     "picks": 6
   },
@@ -399,7 +399,7 @@
       "matchCode": "4481104",
       "odds": 1.8,
       "patternScore": 67.79,
-      "patternText": "194.461/286.844",
+      "patternText": "194.499/286.902",
       "aiScore": 53,
       "picks": 6
     },
@@ -411,7 +411,7 @@
       "matchCode": "4476917",
       "odds": 1.72,
       "patternScore": 66.88,
-      "patternText": "236.998/354.377",
+      "patternText": "237.046/354.459",
       "aiScore": 54,
       "picks": 5
     },
@@ -423,7 +423,7 @@
       "matchCode": "4495835",
       "odds": 1.52,
       "patternScore": 66.88,
-      "patternText": "253.375/378.847",
+      "patternText": "253.415/378.917",
       "aiScore": 55,
       "picks": 8
     },
@@ -435,7 +435,7 @@
       "matchCode": "4495509",
       "odds": 1.41,
       "patternScore": 68.37,
-      "patternText": "232.920/340.685",
+      "patternText": "232.958/340.745",
       "aiScore": 59,
       "picks": 4
     },
@@ -447,12 +447,33 @@
       "matchCode": "4474522",
       "odds": 1.39,
       "patternScore": 67.5,
-      "patternText": "263.040/389.697",
+      "patternText": "263.078/389.755",
       "aiScore": 56,
       "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Standard Liege",
+      "away": "Waasland-Beveren",
+      "league": "BEL",
+      "at": "06.11.2026 15:10",
+      "count": 8
+    },
+    {
+      "home": "Hamburger SV",
+      "away": "Borussia Monchengladbach",
+      "league": "AL1",
+      "at": "06.11.2026 15:08",
+      "count": 7
+    },
+    {
+      "home": "AS Nancy",
+      "away": "FC Sochaux",
+      "league": "FR2",
+      "at": "06.11.2026 15:07",
+      "count": 4
+    },
     {
       "home": "FC Famalicao",
       "away": "FC Arouca",
@@ -501,27 +522,6 @@
       "league": "TSL",
       "at": "06.11.2026 14:26",
       "count": 4
-    },
-    {
-      "home": "Vitoria Guimaraes",
-      "away": "FC Porto",
-      "league": "POR",
-      "at": "06.11.2026 14:21",
-      "count": 9
-    },
-    {
-      "home": "FC Alverca",
-      "away": "Casa Pia AC",
-      "league": "POR",
-      "at": "06.11.2026 14:19",
-      "count": 6
-    },
-    {
-      "home": "Derby County",
-      "away": "Bolton Wanderers",
-      "league": "İNCL",
-      "at": "06.11.2026 14:13",
-      "count": 5
     }
   ],
   "paywall": {
