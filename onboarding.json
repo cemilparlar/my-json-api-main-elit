@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 23:27",
+  "updatedAt": "06.11.2026 23:43",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 412,
       "rate": 66.5
     },
-    "totalAnalyses": 452540,
+    "totalAnalyses": 452548,
     "leagues": 492,
     "pro": {
       "won": 1156,
@@ -47,8 +47,8 @@
       "total": 92,
       "rate": 52.2
     },
-    "analyses24h": 2936,
-    "analyses30d": 21857
+    "analyses24h": 2939,
+    "analyses30d": 21858
   },
   "recentWins": [
     {
@@ -361,18 +361,6 @@
       "picks": 3
     },
     {
-      "home": "NK Radomlje",
-      "away": "NK Celje",
-      "league": "SLVN",
-      "date": "07.11.2026 00:00",
-      "matchCode": "4483797",
-      "odds": 1.4,
-      "patternScore": 67.85,
-      "patternText": "265.731/391.658",
-      "aiScore": 57,
-      "picks": 3
-    },
-    {
       "home": "Nagoya Grampus",
       "away": "Kyoto Sanga FC",
       "league": "JAP",
@@ -407,6 +395,18 @@
       "patternText": "432.272/627.289",
       "aiScore": 76,
       "picks": 1
+    },
+    {
+      "home": "Albirex Niigata",
+      "away": "FC Imabari",
+      "league": "JAP2",
+      "date": "07.11.2026 05:00",
+      "matchCode": "4487663",
+      "odds": 1.23,
+      "patternScore": 68.66,
+      "patternText": "265.245/386.321",
+      "aiScore": 82,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
