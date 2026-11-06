@@ -96,8 +96,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "06.11.2026 16:25",
-  "updatedAtUtc": "2026-11-06T16:25:00Z",
+  "updatedAt": "06.11.2026 16:34",
+  "updatedAtUtc": "2026-11-06T16:34:00Z",
   "upcoming": [
     {
       "id": "20261106-18-3",
@@ -244,7 +244,7 @@
       "winChance": 35.41,
       "firstKickoff": "06.11.2026 16:30",
       "lastKickoff": "06.11.2026 17:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_5",
       "group": "multi",
@@ -272,7 +272,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 97
         },
         {
@@ -379,7 +379,7 @@
       "winChance": 40.55,
       "firstKickoff": "06.11.2026 16:30",
       "lastKickoff": "06.11.2026 18:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_5",
       "group": "multi",
@@ -407,7 +407,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 81
         },
         {
@@ -1602,9 +1602,9 @@
           "patternScore": 69.99,
           "patternText": "255.396/364.894",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 2",
+          "status": "won",
           "aiScore": 92
         },
         {

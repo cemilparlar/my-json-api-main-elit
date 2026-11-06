@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "06.11.2026 16:25",
+  "updatedAt": "06.11.2026 16:34",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 203,
+      "won": 200,
       "lost": 150,
-      "total": 353,
-      "rate": 57.5
+      "total": 350,
+      "rate": 57.1
     },
-    "totalAnalyses": 452007,
+    "totalAnalyses": 452032,
     "leagues": 500,
     "pro": {
-      "won": 1081,
-      "lost": 446,
-      "total": 1527,
+      "won": 1082,
+      "lost": 447,
+      "total": 1529,
       "rate": 70.8
     },
     "insights": {
-      "won": 1867,
-      "lost": 808,
-      "total": 2675,
+      "won": 1868,
+      "lost": 809,
+      "total": 2677,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 78,
       "rate": 61.5
     },
-    "analyses24h": 3133,
-    "analyses30d": 22083
+    "analyses24h": 3130,
+    "analyses30d": 22069
   },
   "recentWins": [
     {
@@ -349,7 +349,7 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 14:26",
+      "at": "06.11.2026 16:29",
       "home": "Gaziantep FK",
       "away": "Kasimpasa"
     },
@@ -454,6 +454,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Toulouse FC",
+      "away": "RC Strasbourg",
+      "league": "FR1",
+      "at": "06.11.2026 16:33",
+      "count": 8
+    },
+    {
+      "home": "Sevilla FC",
+      "away": "Deportivo Alaves",
+      "league": "İS1",
+      "at": "06.11.2026 16:33",
+      "count": 5
+    },
+    {
+      "home": "Standard Liege",
+      "away": "Waasland-Beveren",
+      "league": "BEL",
+      "at": "06.11.2026 16:32",
+      "count": 8
+    },
+    {
+      "home": "Gaziantep FK",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "at": "06.11.2026 16:29",
+      "count": 6
+    },
+    {
+      "home": "Eintracht Braunschweig",
+      "away": "Energie Cottbus",
+      "league": "AL2",
+      "at": "06.11.2026 16:29",
+      "count": 5
+    },
+    {
       "home": "Hamburger SV",
       "away": "Borussia Monchengladbach",
       "league": "AL1",
@@ -475,20 +510,6 @@
       "count": 3
     },
     {
-      "home": "Toulouse FC",
-      "away": "RC Strasbourg",
-      "league": "FR1",
-      "at": "06.11.2026 15:50",
-      "count": 10
-    },
-    {
-      "home": "Sevilla FC",
-      "away": "Deportivo Alaves",
-      "league": "İS1",
-      "at": "06.11.2026 15:50",
-      "count": 7
-    },
-    {
       "home": "Lokomotiv Moscow",
       "away": "Rubin Kazan",
       "league": "RUS",
@@ -501,27 +522,6 @@
       "league": "İTA",
       "at": "06.11.2026 15:10",
       "count": 8
-    },
-    {
-      "home": "Standard Liege",
-      "away": "Waasland-Beveren",
-      "league": "BEL",
-      "at": "06.11.2026 15:10",
-      "count": 8
-    },
-    {
-      "home": "AS Nancy",
-      "away": "FC Sochaux",
-      "league": "FR2",
-      "at": "06.11.2026 15:07",
-      "count": 4
-    },
-    {
-      "home": "FC Famalicao",
-      "away": "FC Arouca",
-      "league": "POR",
-      "at": "06.11.2026 14:52",
-      "count": 6
     }
   ],
   "paywall": {
