@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 13:59",
+  "updatedAt": "07.11.2026 14:07",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 377,
-      "lost": 178,
-      "total": 555,
-      "rate": 67.9
+      "won": 390,
+      "lost": 193,
+      "total": 583,
+      "rate": 66.9
     },
-    "totalAnalyses": 454075,
+    "totalAnalyses": 454125,
     "leagues": 487,
     "pro": {
-      "won": 1125,
-      "lost": 454,
-      "total": 1579,
-      "rate": 71.2
+      "won": 1127,
+      "lost": 461,
+      "total": 1588,
+      "rate": 71.0
     },
     "insights": {
-      "won": 1931,
-      "lost": 827,
-      "total": 2758,
-      "rate": 70.0
+      "won": 1923,
+      "lost": 831,
+      "total": 2754,
+      "rate": 69.8
     },
     "coupons": {
-      "won": 50,
-      "lost": 46,
-      "total": 96,
-      "rate": 52.1
+      "won": 51,
+      "lost": 47,
+      "total": 98,
+      "rate": 52.0
     },
-    "analyses24h": 3008,
-    "analyses30d": 21901
+    "analyses24h": 2992,
+    "analyses30d": 21888
   },
   "recentWins": [
     {
@@ -123,6 +123,42 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 4,
+      "totalOdds": 1.5,
+      "winChance": 43.05,
+      "completedAt": "07.11.2026 14:07",
+      "legs": [
+        {
+          "home": "A. Keciorengucu",
+          "away": "Manisa FK",
+          "prediction": "Under 4.5 Goals",
+          "odds": 1.08,
+          "finalScore": "1 - 0"
+        },
+        {
+          "home": "Babrungas",
+          "away": "Fa Siauliai Ii",
+          "prediction": "Match Result 1",
+          "odds": 1.12,
+          "finalScore": "3 - 1"
+        },
+        {
+          "home": "Budafoki Mte",
+          "away": "Kaposvar",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.08,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "Osnabruck",
+          "away": "Kaiserslautern",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.15,
+          "finalScore": "0 - 1"
+        }
+      ]
+    },
     {
       "size": 6,
       "totalOdds": 1.53,
@@ -258,42 +294,6 @@
           "finalScore": "1 - 3"
         }
       ]
-    },
-    {
-      "size": 4,
-      "totalOdds": 1.54,
-      "winChance": 42.09,
-      "completedAt": "07.11.2026 07:20",
-      "legs": [
-        {
-          "home": "FC Dordrecht",
-          "away": "NAC Breda",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.09,
-          "finalScore": "0 - 0"
-        },
-        {
-          "home": "Castellon",
-          "away": "Eibar",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": null
-        },
-        {
-          "home": "Wisla Krakow",
-          "away": "KS Cracovia",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Holywell Town",
-          "away": "Airbus Uk",
-          "prediction": "Match Result 2",
-          "odds": 1.19,
-          "finalScore": "2 - 3"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -331,21 +331,21 @@
     },
     {
       "type": "coupon",
-      "size": 3,
-      "odds": 1.59,
-      "at": "07.11.2026 13:01"
+      "size": 5,
+      "odds": 1.51,
+      "at": "07.11.2026 14:07"
     },
     {
       "type": "coupon",
       "size": 4,
-      "odds": 1.54,
-      "at": "07.11.2026 13:01"
+      "odds": 1.5,
+      "at": "07.11.2026 14:07"
     },
     {
       "type": "coupon",
-      "size": 3,
-      "odds": 1.52,
-      "at": "07.11.2026 13:01"
+      "size": 5,
+      "odds": 1.59,
+      "at": "07.11.2026 14:07"
     },
     {
       "type": "updated",
