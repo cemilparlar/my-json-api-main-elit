@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 11:43",
+  "updatedAt": "07.11.2026 11:54",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 528,
       "rate": 67.6
     },
-    "totalAnalyses": 453495,
+    "totalAnalyses": 453578,
     "leagues": 487,
     "pro": {
-      "won": 1183,
+      "won": 1182,
       "lost": 477,
-      "total": 1660,
-      "rate": 71.3
+      "total": 1659,
+      "rate": 71.2
     },
     "insights": {
-      "won": 2018,
+      "won": 2017,
       "lost": 855,
-      "total": 2873,
+      "total": 2872,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 3025,
-    "analyses30d": 21907
+    "analyses24h": 3026,
+    "analyses30d": 21908
   },
   "recentWins": [
     {
@@ -409,6 +409,18 @@
       "picks": 9
     },
     {
+      "home": "FC Ingolstadt",
+      "away": "Fortuna Dusseldorf",
+      "league": "AL3",
+      "date": "07.11.2026 13:00",
+      "matchCode": "4517716",
+      "odds": 1.85,
+      "patternScore": 67.63,
+      "patternText": "283.307/418.929",
+      "aiScore": 53,
+      "picks": 4
+    },
+    {
       "home": "Rot-Weiss Essen",
       "away": "Alemannia Aachen",
       "league": "AL3",
@@ -421,31 +433,40 @@
       "picks": 6
     },
     {
-      "home": "Luton Town",
-      "away": "Forest Green Rovers",
-      "league": "FAK",
-      "date": "07.11.2026 15:00",
-      "matchCode": "4576661",
-      "odds": 1.56,
-      "patternScore": 67.77,
-      "patternText": "318.757/470.347",
+      "home": "Torino FC",
+      "away": "US Lecce",
+      "league": "İTA",
+      "date": "07.11.2026 14:00",
+      "matchCode": "4475150",
+      "odds": 1.59,
+      "patternScore": 68.15,
+      "patternText": "308.238/452.293",
       "aiScore": 54,
-      "picks": 2
-    },
-    {
-      "home": "Juventus Women",
-      "away": "Sassuolo Women",
-      "league": "İTKSA",
-      "date": "07.11.2026 17:00",
-      "matchCode": "4534576",
-      "odds": 1.54,
-      "patternScore": 66.89,
-      "patternText": "313.622/468.863",
-      "aiScore": 54,
-      "picks": 1
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Queens Park Rangers",
+      "away": "Lincoln City",
+      "league": "İNCL",
+      "at": "07.11.2026 11:49",
+      "count": 6
+    },
+    {
+      "home": "Preston North End",
+      "away": "Southam",
+      "league": "İNCL",
+      "at": "07.11.2026 11:47",
+      "count": 16
+    },
+    {
+      "home": "Charlton Athletic",
+      "away": "Sheffield United",
+      "league": "İNCL",
+      "at": "07.11.2026 11:45",
+      "count": 11
+    },
     {
       "home": "SC Paderborn",
       "away": "Eintracht Frankfurt",
@@ -494,27 +515,6 @@
       "league": "İNCL",
       "at": "07.11.2026 11:34",
       "count": 6
-    },
-    {
-      "home": "Wrexham AFC",
-      "away": "Wolverhampton Wanderers",
-      "league": "İNCL",
-      "at": "07.11.2026 11:34",
-      "count": 8
-    },
-    {
-      "home": "Portsmouth",
-      "away": "Stoke City",
-      "league": "İNCL",
-      "at": "07.11.2026 11:34",
-      "count": 9
-    },
-    {
-      "home": "Leeds United",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "07.11.2026 11:34",
-      "count": 7
     }
   ],
   "paywall": {
