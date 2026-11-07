@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 10:18",
+  "updatedAt": "07.11.2026 10:27",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 520,
       "rate": 67.1
     },
-    "totalAnalyses": 453241,
+    "totalAnalyses": 453256,
     "leagues": 488,
     "pro": {
       "won": 1177,
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 2990,
-    "analyses30d": 21894
+    "analyses24h": 2996,
+    "analyses30d": 21900
   },
   "recentWins": [
     {
@@ -447,6 +447,48 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "SC Paderborn",
+      "away": "Eintracht Frankfurt",
+      "league": "AL1",
+      "at": "07.11.2026 10:27",
+      "count": 12
+    },
+    {
+      "home": "Calcio Padova",
+      "away": "Empoli",
+      "league": "İTB",
+      "at": "07.11.2026 10:26",
+      "count": 6
+    },
+    {
+      "home": "Torino FC",
+      "away": "US Lecce",
+      "league": "İTA",
+      "at": "07.11.2026 10:26",
+      "count": 6
+    },
+    {
+      "home": "Cagliari Calcio",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "at": "07.11.2026 10:25",
+      "count": 6
+    },
+    {
+      "home": "Malaga CF",
+      "away": "Racing Santander",
+      "league": "İS1",
+      "at": "07.11.2026 10:22",
+      "count": 4
+    },
+    {
+      "home": "Leeds United",
+      "away": "Tottenham Hotspur",
+      "league": "İNP",
+      "at": "07.11.2026 10:21",
+      "count": 7
+    },
+    {
       "home": "FK Fakel Voronezh",
       "away": "Dinamo Moscow",
       "league": "RUS",
@@ -468,53 +510,11 @@
       "count": 14
     },
     {
-      "home": "SC Paderborn",
-      "away": "Eintracht Frankfurt",
-      "league": "AL1",
-      "at": "07.11.2026 09:50",
-      "count": 11
-    },
-    {
       "home": "RB Leipzig",
       "away": "FC Augsburg",
       "league": "AL1",
       "at": "07.11.2026 09:42",
       "count": 13
-    },
-    {
-      "home": "Cagliari Calcio",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "07.11.2026 09:33",
-      "count": 10
-    },
-    {
-      "home": "Torino FC",
-      "away": "US Lecce",
-      "league": "İTA",
-      "at": "07.11.2026 09:33",
-      "count": 6
-    },
-    {
-      "home": "Leeds United",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "07.11.2026 09:30",
-      "count": 4
-    },
-    {
-      "home": "Malaga CF",
-      "away": "Racing Santander",
-      "league": "İS1",
-      "at": "07.11.2026 09:30",
-      "count": 8
-    },
-    {
-      "home": "Cesena FC",
-      "away": "US Catanzaro",
-      "league": "İTB",
-      "at": "07.11.2026 09:17",
-      "count": 8
     }
   ],
   "paywall": {
