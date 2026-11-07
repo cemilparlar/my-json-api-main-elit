@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 19:17",
+  "updatedAt": "07.11.2026 19:25",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 939,
       "rate": 69.1
     },
-    "totalAnalyses": 455141,
+    "totalAnalyses": 455168,
     "leagues": 487,
     "pro": {
       "won": 1182,
@@ -42,13 +42,13 @@
       "rate": 70.1
     },
     "coupons": {
-      "won": 54,
-      "lost": 68,
-      "total": 122,
-      "rate": 44.3
+      "won": 53,
+      "lost": 66,
+      "total": 119,
+      "rate": 44.5
     },
-    "analyses24h": 2840,
-    "analyses30d": 21959
+    "analyses24h": 2843,
+    "analyses30d": 21962
   },
   "recentWins": [
     {
@@ -347,12 +347,6 @@
     },
     {
       "type": "updated",
-      "at": "07.11.2026 13:24",
-      "home": "FK Slovan Liberec",
-      "away": "Bohemians 1905"
-    },
-    {
-      "type": "updated",
       "at": "07.11.2026 13:26",
       "home": "IF Varnamo",
       "away": "IFK Norrkoping"
@@ -362,6 +356,12 @@
       "at": "07.11.2026 13:26",
       "home": "Cesena FC",
       "away": "US Catanzaro"
+    },
+    {
+      "type": "updated",
+      "at": "07.11.2026 13:25",
+      "home": "Sandvikens IF",
+      "away": "United Nordic"
     }
   ],
   "today": {
@@ -372,7 +372,7 @@
     "matchCode": "4475942",
     "odds": 1.8,
     "patternScore": 66.49,
-    "patternText": "160.245/241.021",
+    "patternText": "160.249/241.027",
     "aiScore": 53,
     "picks": 8
   },
@@ -385,7 +385,7 @@
       "matchCode": "4475942",
       "odds": 1.8,
       "patternScore": 66.49,
-      "patternText": "160.245/241.021",
+      "patternText": "160.249/241.027",
       "aiScore": 53,
       "picks": 8
     },
@@ -397,8 +397,8 @@
       "matchCode": "4475939",
       "odds": 1.74,
       "patternScore": 66.73,
-      "patternText": "235.040/352.239",
-      "aiScore": 52,
+      "patternText": "235.054/352.257",
+      "aiScore": 53,
       "picks": 8
     },
     {
@@ -409,7 +409,7 @@
       "matchCode": "4475945",
       "odds": 1.54,
       "patternScore": 67.66,
-      "patternText": "222.219/328.447",
+      "patternText": "222.233/328.467",
       "aiScore": 54,
       "picks": 1
     },
@@ -421,7 +421,7 @@
       "matchCode": "4454054",
       "odds": 1.44,
       "patternScore": 67.4,
-      "patternText": "243.759/361.660",
+      "patternText": "243.777/361.682",
       "aiScore": 55,
       "picks": 3
     },
@@ -433,12 +433,26 @@
       "matchCode": "4481586",
       "odds": 1.43,
       "patternScore": 67.51,
-      "patternText": "283.841/420.445",
+      "patternText": "283.895/420.515",
       "aiScore": 55,
       "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Atletico Mineiro",
+      "away": "Gremio FBPA",
+      "league": "BRK",
+      "at": "07.11.2026 19:25",
+      "count": 6
+    },
+    {
+      "home": "Valencia CF",
+      "away": "Real Madrid",
+      "league": "İS1",
+      "at": "07.11.2026 19:24",
+      "count": 16
+    },
     {
       "home": "Excelsior Rotterdam",
       "away": "Go Ahead Eagles",
@@ -494,20 +508,6 @@
       "league": "ABD",
       "at": "07.11.2026 18:07",
       "count": 6
-    },
-    {
-      "home": "Chicago Fire",
-      "away": "Columbus Crew",
-      "league": "ABD",
-      "at": "07.11.2026 17:30",
-      "count": 18
-    },
-    {
-      "home": "AJ Auxerre",
-      "away": "Paris FC",
-      "league": "FR1",
-      "at": "07.11.2026 17:26",
-      "count": 3
     }
   ],
   "paywall": {
