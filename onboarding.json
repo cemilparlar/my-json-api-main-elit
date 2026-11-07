@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 20:48",
+  "updatedAt": "07.11.2026 20:56",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 636,
-      "lost": 289,
-      "total": 925,
-      "rate": 68.8
+      "won": 648,
+      "lost": 299,
+      "total": 947,
+      "rate": 68.4
     },
-    "totalAnalyses": 455553,
+    "totalAnalyses": 455555,
     "leagues": 488,
     "pro": {
-      "won": 1180,
+      "won": 1184,
       "lost": 472,
-      "total": 1652,
-      "rate": 71.4
+      "total": 1656,
+      "rate": 71.5
     },
     "insights": {
-      "won": 1946,
-      "lost": 839,
-      "total": 2785,
+      "won": 1954,
+      "lost": 840,
+      "total": 2794,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 122,
       "rate": 42.6
     },
-    "analyses24h": 2887,
-    "analyses30d": 22127
+    "analyses24h": 2881,
+    "analyses30d": 22121
   },
   "recentWins": [
     {
@@ -390,18 +390,6 @@
       "picks": 8
     },
     {
-      "home": "Boca Juniors",
-      "away": "Defensa y Justicia",
-      "league": "ARJ",
-      "date": "08.11.2026 00:00",
-      "matchCode": "4475939",
-      "odds": 1.74,
-      "patternScore": 66.73,
-      "patternText": "235.150/352.405",
-      "aiScore": 52,
-      "picks": 8
-    },
-    {
       "home": "Barracas Central",
       "away": "Racing Club",
       "league": "ARJ",
@@ -414,16 +402,16 @@
       "picks": 1
     },
     {
-      "home": "Houston Dynamo",
-      "away": "St. Louis City SC",
-      "league": "ABD",
+      "home": "Argentinos Juniors",
+      "away": "Club Atletico Huracan",
+      "league": "ARJ",
       "date": "08.11.2026 00:00",
-      "matchCode": "4445807",
-      "odds": 1.34,
-      "patternScore": 67.8,
-      "patternText": "156.178/230.352",
-      "aiScore": 60,
-      "picks": 4
+      "matchCode": "4475941",
+      "odds": 1.5,
+      "patternScore": 67.22,
+      "patternText": "168.329/250.405",
+      "aiScore": 56,
+      "picks": 5
     },
     {
       "home": "UPNFM",
@@ -436,6 +424,18 @@
       "patternText": "284.674/415.746",
       "aiScore": 58,
       "picks": 1
+    },
+    {
+      "home": "Talleres de Cordoba",
+      "away": "Estudiantes de La Plata",
+      "league": "ARJ",
+      "date": "08.11.2026 00:00",
+      "matchCode": "4475937",
+      "odds": 1.24,
+      "patternScore": 68.44,
+      "patternText": "251.749/367.850",
+      "aiScore": 64,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
