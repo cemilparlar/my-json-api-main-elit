@@ -327,7 +327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "07.11.2026 07:00",
@@ -1707,7 +1707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "08.11.2026 08:00",
@@ -4082,36 +4082,6 @@
     {
         "date": "07.11.2026 13:00",
         "league": "AL3",
-        "matchCode": "4517713",
-        "home": "SV Wehen Wiesbaden",
-        "away": "Havelse",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "100.0",
-        "odds": "1.07",
-        "matchCount": "3",
-        "matchLink": "4517713",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "07.11.2026 08:20",
-        "patternScore": 60.09,
-        "patternText": "313.082/521.064",
-        "patternInfo": {
-            "m": 105,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 93
-    },
-    {
-        "date": "07.11.2026 13:00",
-        "league": "AL3",
         "matchCode": "4517716",
         "home": "FC Ingolstadt",
         "away": "Fortuna Dusseldorf",
@@ -4947,7 +4917,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "07.11.2026 13:45",
@@ -11157,7 +11127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "08.11.2026 11:00",
@@ -15897,7 +15867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 15:30",
@@ -19167,7 +19137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "07.11.2026 16:30",
@@ -23157,7 +23127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 53
     },
     {
         "date": "08.11.2026 00:00",
@@ -26412,7 +26382,7 @@
         "odds": "1.13",
         "matchCount": "301",
         "matchLink": "4508200",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "1-0",
         "predictedScoreText": "37/301",
         "mbs": 3,
@@ -28257,7 +28227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "07.11.2026 06:30",
@@ -31227,7 +31197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "07.11.2026 23:00",
@@ -41248,5 +41218,35 @@
             "b": 100.0
         },
         "aiScore": 61
+    },
+    {
+        "date": "07.11.2026 13:00",
+        "league": "AL3",
+        "matchCode": "4517713",
+        "home": "SV Wehen Wiesbaden",
+        "away": "Havelse",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.17",
+        "matchCount": "3",
+        "matchLink": "4517713",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "07.11.2026 08:20",
+        "patternScore": 59.19,
+        "patternText": "290.559/490.900",
+        "patternInfo": {
+            "m": 96,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 69
     }
 ]

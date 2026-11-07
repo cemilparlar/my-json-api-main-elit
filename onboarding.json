@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 08:24",
+  "updatedAt": "07.11.2026 08:32",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 342,
-      "lost": 167,
-      "total": 509,
-      "rate": 67.2
+      "won": 340,
+      "lost": 165,
+      "total": 505,
+      "rate": 67.3
     },
     "totalAnalyses": 453037,
     "leagues": 489,
@@ -47,7 +47,7 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 2944,
+    "analyses24h": 2940,
     "analyses30d": 21861
   },
   "recentWins": [
@@ -372,18 +372,30 @@
     }
   ],
   "today": {
-    "home": "Rot-Weiss Essen",
-    "away": "Alemannia Aachen",
-    "league": "AL3",
-    "date": "07.11.2026 13:00",
-    "matchCode": "4517711",
-    "odds": 1.66,
-    "patternScore": 67.75,
-    "patternText": "291.421/430.173",
-    "aiScore": 54,
-    "picks": 6
+    "home": "SC Paderborn",
+    "away": "Eintracht Frankfurt",
+    "league": "AL1",
+    "date": "07.11.2026 14:30",
+    "matchCode": "4495511",
+    "odds": 3.38,
+    "patternScore": 67.38,
+    "patternText": "307.947/457.045",
+    "aiScore": 51,
+    "picks": 10
   },
   "todayList": [
+    {
+      "home": "SC Paderborn",
+      "away": "Eintracht Frankfurt",
+      "league": "AL1",
+      "date": "07.11.2026 14:30",
+      "matchCode": "4495511",
+      "odds": 3.38,
+      "patternScore": 67.38,
+      "patternText": "307.947/457.045",
+      "aiScore": 51,
+      "picks": 10
+    },
     {
       "home": "Rot-Weiss Essen",
       "away": "Alemannia Aachen",
@@ -431,18 +443,6 @@
       "patternText": "339.508/497.543",
       "aiScore": 58,
       "picks": 5
-    },
-    {
-      "home": "Burgos CF",
-      "away": "Celta Vigo B",
-      "league": "İS2",
-      "date": "07.11.2026 13:00",
-      "matchCode": "4492812",
-      "odds": 1.41,
-      "patternScore": 68.53,
-      "patternText": "208.885/304.823",
-      "aiScore": 63,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
