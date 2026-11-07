@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 17:00",
+  "updatedAt": "07.11.2026 17:09",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 576,
-      "lost": 282,
-      "total": 858,
-      "rate": 67.1
+      "won": 633,
+      "lost": 309,
+      "total": 942,
+      "rate": 67.2
     },
-    "totalAnalyses": 454893,
+    "totalAnalyses": 454912,
     "leagues": 487,
     "pro": {
-      "won": 1113,
-      "lost": 439,
-      "total": 1552,
+      "won": 1141,
+      "lost": 451,
+      "total": 1592,
       "rate": 71.7
     },
     "insights": {
-      "won": 1854,
-      "lost": 804,
-      "total": 2658,
+      "won": 1895,
+      "lost": 819,
+      "total": 2714,
       "rate": 69.8
     },
     "coupons": {
       "won": 54,
-      "lost": 55,
-      "total": 109,
-      "rate": 49.5
+      "lost": 61,
+      "total": 115,
+      "rate": 47.0
     },
-    "analyses24h": 2958,
-    "analyses30d": 21888
+    "analyses24h": 2978,
+    "analyses30d": 21908
   },
   "recentWins": [
     {
@@ -440,6 +440,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "AS Roma",
+      "away": "US Sassuolo",
+      "league": "İTA",
+      "at": "07.11.2026 17:07",
+      "count": 9
+    },
+    {
+      "home": "DC United",
+      "away": "New York City FC",
+      "league": "ABD",
+      "at": "07.11.2026 17:07",
+      "count": 7
+    },
+    {
+      "home": "AS Saint-Etienne",
+      "away": "Stade Lavalois",
+      "league": "FR2",
+      "at": "07.11.2026 17:06",
+      "count": 16
+    },
+    {
+      "home": "AJ Auxerre",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "07.11.2026 17:06",
+      "count": 3
+    },
+    {
       "home": "CF Montreal",
       "away": "Vancouver Whitecaps",
       "league": "ABD",
@@ -468,13 +496,6 @@
       "count": 7
     },
     {
-      "home": "AJ Auxerre",
-      "away": "Paris FC",
-      "league": "FR1",
-      "at": "07.11.2026 16:50",
-      "count": 2
-    },
-    {
       "home": "CA Osasuna",
       "away": "Athletic Bilbao",
       "league": "İS1",
@@ -487,27 +508,6 @@
       "league": "FR2",
       "at": "07.11.2026 16:33",
       "count": 9
-    },
-    {
-      "home": "AS Roma",
-      "away": "US Sassuolo",
-      "league": "İTA",
-      "at": "07.11.2026 16:33",
-      "count": 1
-    },
-    {
-      "home": "OH Leuven",
-      "away": "KV Mechelen",
-      "league": "BEL",
-      "at": "07.11.2026 16:31",
-      "count": 7
-    },
-    {
-      "home": "VfB Stuttgart",
-      "away": "Werder Bremen",
-      "league": "AL1",
-      "at": "07.11.2026 16:31",
-      "count": 5
     }
   ],
   "paywall": {
