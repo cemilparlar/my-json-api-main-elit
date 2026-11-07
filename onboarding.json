@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 09:03",
+  "updatedAt": "07.11.2026 09:13",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 334,
-      "lost": 162,
-      "total": 496,
-      "rate": 67.3
+      "won": 343,
+      "lost": 166,
+      "total": 509,
+      "rate": 67.4
     },
-    "totalAnalyses": 453085,
+    "totalAnalyses": 453143,
     "leagues": 489,
     "pro": {
-      "won": 1166,
-      "lost": 468,
-      "total": 1634,
-      "rate": 71.4
+      "won": 1174,
+      "lost": 472,
+      "total": 1646,
+      "rate": 71.3
     },
     "insights": {
-      "won": 1998,
-      "lost": 846,
-      "total": 2844,
-      "rate": 70.3
+      "won": 2006,
+      "lost": 850,
+      "total": 2856,
+      "rate": 70.2
     },
     "coupons": {
       "won": 49,
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 2940,
-    "analyses30d": 21868
+    "analyses24h": 2976,
+    "analyses30d": 21904
   },
   "recentWins": [
     {
@@ -63,6 +63,20 @@
       "aiScore": 52,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 0",
+      "pro": true
+    },
+    {
+      "home": "Kashiwa Reysol",
+      "away": "Kawasaki Frontale",
+      "league": "JAP",
+      "date": "07.11.2026 07:00",
+      "prediction": "Match Result 1",
+      "odds": 1.94,
+      "probability": 80.0,
+      "patternScore": 67.11,
+      "aiScore": 53,
+      "firstHalf": "1 - 1",
+      "finalScore": "2 - 1",
       "pro": true
     },
     {
@@ -105,20 +119,6 @@
       "aiScore": 53,
       "firstHalf": "2 - 0",
       "finalScore": "4 - 0",
-      "pro": false
-    },
-    {
-      "home": "FC Roskilde",
-      "away": "Hellerup Ik",
-      "league": "DAN2",
-      "date": "06.11.2026 18:00",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.81,
-      "probability": 80.0,
-      "patternScore": 66.76,
-      "aiScore": 53,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 1",
       "pro": false
     }
   ],
@@ -300,6 +300,14 @@
     },
     {
       "type": "won",
+      "home": "Kashiwa Reysol",
+      "away": "Kawasaki Frontale",
+      "prediction": "Match Result 1",
+      "odds": 1.94,
+      "at": "07.11.2026 07:00"
+    },
+    {
+      "type": "won",
       "home": "Persepolis",
       "away": "Fajr Sepasi",
       "prediction": "Over 2.5 Goals",
@@ -313,14 +321,6 @@
       "prediction": "HT/FT 1/1",
       "odds": 1.89,
       "at": "06.11.2026 08:40"
-    },
-    {
-      "type": "won",
-      "home": "Sepahan",
-      "away": "Malavan Fc",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.87,
-      "at": "06.11.2026 12:00"
     },
     {
       "type": "coupon",
@@ -447,6 +447,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Calcio Padova",
+      "away": "Empoli",
+      "league": "İTB",
+      "at": "07.11.2026 09:09",
+      "count": 5
+    },
+    {
+      "home": "Cagliari Calcio",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "at": "07.11.2026 09:08",
+      "count": 11
+    },
+    {
+      "home": "Akhmat Grozny",
+      "away": "Fk Rodina Moskv",
+      "league": "RUS",
+      "at": "07.11.2026 09:05",
+      "count": 9
+    },
+    {
       "home": "Samsunspor",
       "away": "Konyaspor",
       "league": "TSL",
@@ -494,27 +515,6 @@
       "league": "T1L",
       "at": "07.11.2026 08:12",
       "count": 4
-    },
-    {
-      "home": "Malaga CF",
-      "away": "Racing Santander",
-      "league": "İS1",
-      "at": "07.11.2026 08:01",
-      "count": 5
-    },
-    {
-      "home": "Burgos CF",
-      "away": "Celta Vigo B",
-      "league": "İS2",
-      "at": "07.11.2026 08:01",
-      "count": 5
-    },
-    {
-      "home": "Portsmouth",
-      "away": "Stoke City",
-      "league": "İNCL",
-      "at": "07.11.2026 07:58",
-      "count": 7
     }
   ],
   "paywall": {
