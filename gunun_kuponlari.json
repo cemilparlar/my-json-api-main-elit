@@ -104,8 +104,8 @@
       "lost": 1
     }
   },
-  "updatedAt": "07.11.2026 19:05",
-  "updatedAtUtc": "2026-11-07T19:05:00Z",
+  "updatedAt": "07.11.2026 19:17",
+  "updatedAtUtc": "2026-11-07T19:17:00Z",
   "upcoming": [
     {
       "id": "20261107-13-2",
@@ -3020,7 +3020,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 94
         },
         {
@@ -3216,7 +3216,7 @@
       "winChance": 41.58,
       "firstKickoff": "07.11.2026 19:10",
       "lastKickoff": "07.11.2026 21:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_4",
       "group": "multi",
@@ -3244,7 +3244,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 89
         },
         {
@@ -3328,7 +3328,7 @@
       "winChance": 39.54,
       "firstKickoff": "07.11.2026 19:15",
       "lastKickoff": "07.11.2026 21:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_4",
       "group": "multi",
@@ -3356,7 +3356,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 84
         },
         {
@@ -3784,9 +3784,9 @@
           "patternScore": 67.69,
           "patternText": "245.217/362.288",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 2",
+          "status": "won",
           "aiScore": 90
         }
       ]

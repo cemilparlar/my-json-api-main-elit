@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 19:05",
+  "updatedAt": "07.11.2026 19:17",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 642,
-      "lost": 287,
-      "total": 929,
+      "won": 649,
+      "lost": 290,
+      "total": 939,
       "rate": 69.1
     },
-    "totalAnalyses": 455061,
+    "totalAnalyses": 455141,
     "leagues": 487,
     "pro": {
       "won": 1182,
-      "lost": 458,
-      "total": 1640,
-      "rate": 72.1
+      "lost": 461,
+      "total": 1643,
+      "rate": 71.9
     },
     "insights": {
-      "won": 1936,
-      "lost": 825,
-      "total": 2761,
+      "won": 1941,
+      "lost": 828,
+      "total": 2769,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 122,
       "rate": 44.3
     },
-    "analyses24h": 2783,
-    "analyses30d": 21899
+    "analyses24h": 2840,
+    "analyses30d": 21959
   },
   "recentWins": [
     {
@@ -80,6 +80,20 @@
       "pro": true
     },
     {
+      "home": "OB Odense",
+      "away": "Viborg FF",
+      "league": "DAN",
+      "date": "07.11.2026 17:00",
+      "prediction": "Total Goals 2-3",
+      "odds": 1.97,
+      "probability": 100.0,
+      "patternScore": 57.57,
+      "aiScore": 52,
+      "firstHalf": "0 - 2",
+      "finalScore": "1 - 2",
+      "pro": false
+    },
+    {
       "home": "RSC Anderlecht",
       "away": "Red Bull Salzburg",
       "league": "AVL",
@@ -105,20 +119,6 @@
       "aiScore": 53,
       "firstHalf": "1 - 1",
       "finalScore": "2 - 1",
-      "pro": true
-    },
-    {
-      "home": "Persepolis",
-      "away": "Fajr Sepasi",
-      "league": "IRAN",
-      "date": "06.11.2026 13:00",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.9,
-      "probability": 100.0,
-      "patternScore": 56.92,
-      "aiScore": 52,
-      "firstHalf": "0 - 1",
-      "finalScore": "1 - 2",
       "pro": true
     }
   ],
@@ -301,19 +301,19 @@
     },
     {
       "type": "won",
+      "home": "OB Odense",
+      "away": "Viborg FF",
+      "prediction": "Total Goals 2-3",
+      "odds": 1.97,
+      "at": "07.11.2026 17:00"
+    },
+    {
+      "type": "won",
       "home": "RSC Anderlecht",
       "away": "Red Bull Salzburg",
       "prediction": "Total Goals 2-3",
       "odds": 1.97,
       "at": "05.11.2026 17:45"
-    },
-    {
-      "type": "won",
-      "home": "Kashiwa Reysol",
-      "away": "Kawasaki Frontale",
-      "prediction": "Match Result 1",
-      "odds": 1.94,
-      "at": "07.11.2026 07:00"
     },
     {
       "type": "coupon",
@@ -365,30 +365,18 @@
     }
   ],
   "today": {
-    "home": "Paris Saint-Germain",
-    "away": "ESTAC Troyes",
-    "league": "FR1",
-    "date": "07.11.2026 19:45",
-    "matchCode": "4476590",
-    "odds": 2.12,
-    "patternScore": 67.07,
-    "patternText": "209.401/312.221",
-    "aiScore": 52,
-    "picks": 3
+    "home": "Club Atletico Tigre",
+    "away": "CA Sarmiento",
+    "league": "ARJ",
+    "date": "08.11.2026 00:00",
+    "matchCode": "4475942",
+    "odds": 1.8,
+    "patternScore": 66.49,
+    "patternText": "160.245/241.021",
+    "aiScore": 53,
+    "picks": 8
   },
   "todayList": [
-    {
-      "home": "Paris Saint-Germain",
-      "away": "ESTAC Troyes",
-      "league": "FR1",
-      "date": "07.11.2026 19:45",
-      "matchCode": "4476590",
-      "odds": 2.12,
-      "patternScore": 67.07,
-      "patternText": "209.401/312.221",
-      "aiScore": 52,
-      "picks": 3
-    },
     {
       "home": "Club Atletico Tigre",
       "away": "CA Sarmiento",
@@ -397,7 +385,7 @@
       "matchCode": "4475942",
       "odds": 1.8,
       "patternScore": 66.49,
-      "patternText": "160.227/240.993",
+      "patternText": "160.245/241.021",
       "aiScore": 53,
       "picks": 8
     },
@@ -409,7 +397,7 @@
       "matchCode": "4475939",
       "odds": 1.74,
       "patternScore": 66.73,
-      "patternText": "235.008/352.189",
+      "patternText": "235.040/352.239",
       "aiScore": 52,
       "picks": 8
     },
@@ -421,7 +409,7 @@
       "matchCode": "4475945",
       "odds": 1.54,
       "patternScore": 67.66,
-      "patternText": "222.175/328.387",
+      "patternText": "222.219/328.447",
       "aiScore": 54,
       "picks": 1
     },
@@ -433,12 +421,38 @@
       "matchCode": "4454054",
       "odds": 1.44,
       "patternScore": 67.4,
-      "patternText": "243.725/361.608",
+      "patternText": "243.759/361.660",
       "aiScore": 55,
       "picks": 3
+    },
+    {
+      "home": "Excelsior Rotterdam",
+      "away": "Go Ahead Eagles",
+      "league": "HOL",
+      "date": "07.11.2026 20:00",
+      "matchCode": "4481586",
+      "odds": 1.43,
+      "patternScore": 67.51,
+      "patternText": "283.841/420.445",
+      "aiScore": 55,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Excelsior Rotterdam",
+      "away": "Go Ahead Eagles",
+      "league": "HOL",
+      "at": "07.11.2026 19:06",
+      "count": 5
+    },
+    {
+      "home": "Houston Dynamo",
+      "away": "St. Louis City SC",
+      "league": "ABD",
+      "at": "07.11.2026 19:06",
+      "count": 10
+    },
     {
       "home": "AS Roma",
       "away": "US Sassuolo",
@@ -489,25 +503,11 @@
       "count": 18
     },
     {
-      "home": "Excelsior Rotterdam",
-      "away": "Go Ahead Eagles",
-      "league": "HOL",
-      "at": "07.11.2026 17:29",
-      "count": 4
-    },
-    {
       "home": "AJ Auxerre",
       "away": "Paris FC",
       "league": "FR1",
       "at": "07.11.2026 17:26",
       "count": 3
-    },
-    {
-      "home": "FC Alverca",
-      "away": "Casa Pia AC",
-      "league": "POR",
-      "at": "07.11.2026 17:26",
-      "count": 6
     }
   ],
   "paywall": {
