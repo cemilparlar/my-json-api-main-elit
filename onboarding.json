@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 13:42",
+  "updatedAt": "07.11.2026 13:51",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 374,
-      "lost": 176,
-      "total": 550,
-      "rate": 68.0
+      "won": 377,
+      "lost": 178,
+      "total": 555,
+      "rate": 67.9
     },
-    "totalAnalyses": 453951,
+    "totalAnalyses": 454056,
     "leagues": 487,
     "pro": {
-      "won": 1136,
+      "won": 1125,
       "lost": 454,
-      "total": 1590,
-      "rate": 71.4
+      "total": 1579,
+      "rate": 71.2
     },
     "insights": {
-      "won": 1950,
+      "won": 1931,
       "lost": 827,
-      "total": 2777,
-      "rate": 70.2
+      "total": 2758,
+      "rate": 70.0
     },
     "coupons": {
       "won": 50,
-      "lost": 45,
-      "total": 95,
-      "rate": 52.6
+      "lost": 46,
+      "total": 96,
+      "rate": 52.1
     },
-    "analyses24h": 3008,
-    "analyses30d": 21901
+    "analyses24h": 3011,
+    "analyses30d": 21904
   },
   "recentWins": [
     {
@@ -404,6 +404,18 @@
       "picks": 1
     },
     {
+      "home": "Blau-Weiss Lin",
+      "away": "Floridsdorfer AC",
+      "league": "AU2",
+      "date": "07.11.2026 16:30",
+      "matchCode": "4496709",
+      "odds": 1.53,
+      "patternScore": 68.57,
+      "patternText": "286.706/418.114",
+      "aiScore": 55,
+      "picks": 1
+    },
+    {
       "home": "Pau FC",
       "away": "FC Nantes",
       "league": "FR2",
@@ -436,23 +448,18 @@
       "odds": 1.44,
       "patternScore": 67.49,
       "patternText": "307.890/456.223",
-      "aiScore": 58,
+      "aiScore": 59,
       "picks": 5
-    },
-    {
-      "home": "Goztepe",
-      "away": "Istanbul Basaksehir",
-      "league": "TSL",
-      "date": "07.11.2026 16:00",
-      "matchCode": "4542747",
-      "odds": 1.43,
-      "patternScore": 67.26,
-      "patternText": "192.437/286.099",
-      "aiScore": 58,
-      "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Parma Calcio",
+      "away": "Bologna FC",
+      "league": "İTA",
+      "at": "07.11.2026 13:51",
+      "count": 6
+    },
     {
       "home": "Pendikspor",
       "away": "Istanbulspor",
@@ -514,13 +521,6 @@
       "away": "US Lecce",
       "league": "İTA",
       "at": "07.11.2026 13:25",
-      "count": 4
-    },
-    {
-      "home": "Cagliari Calcio",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "07.11.2026 13:24",
       "count": 4
     }
   ],

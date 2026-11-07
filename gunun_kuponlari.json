@@ -3,7 +3,7 @@
   "stats7": {
     "multi": {
       "won": 50,
-      "lost": 45
+      "lost": 46
     },
     "c70_2": {
       "won": 9,
@@ -19,7 +19,7 @@
     },
     "cyz_4": {
       "won": 5,
-      "lost": 9
+      "lost": 10
     },
     "cyz_5": {
       "won": 13,
@@ -69,7 +69,7 @@
     },
     "multi": {
       "won": 56,
-      "lost": 50
+      "lost": 51
     },
     "c70_1": {
       "won": 20,
@@ -85,7 +85,7 @@
     },
     "cyz_4": {
       "won": 5,
-      "lost": 9
+      "lost": 10
     },
     "cyz_5": {
       "won": 13,
@@ -96,8 +96,8 @@
       "lost": 4
     }
   },
-  "updatedAt": "07.11.2026 13:42",
-  "updatedAtUtc": "2026-11-07T13:42:00Z",
+  "updatedAt": "07.11.2026 13:51",
+  "updatedAtUtc": "2026-11-07T13:51:00Z",
   "upcoming": [
     {
       "id": "20261107-12-2",
@@ -382,9 +382,9 @@
           "patternScore": 60.2,
           "patternText": "298.295/495.514",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 3",
+          "status": "won",
           "aiScore": 98
         },
         {
@@ -478,118 +478,6 @@
           "finalScore": null,
           "status": "live",
           "aiScore": 89
-        }
-      ]
-    },
-    {
-      "id": "20261107-12-1",
-      "createdAt": "07.11.2026 09:03",
-      "createdAtUtc": "2026-11-07T09:03:00Z",
-      "size": 4,
-      "mbs": 1,
-      "totalOdds": 1.55,
-      "winChance": 43.85,
-      "firstKickoff": "07.11.2026 12:00",
-      "lastKickoff": "07.11.2026 12:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "cyz_4",
-      "group": "multi",
-      "formula": "4",
-      "multiScore": 82,
-      "effectiveOdds": 1.55,
-      "legs": [
-        {
-          "matchCode": "4485509",
-          "nesine": null,
-          "date": "07.11.2026 12:00",
-          "kickoffUtc": "2026-11-07T12:00:00Z",
-          "league": "SLVK2",
-          "home": "Lokomotiva Zvo",
-          "away": "Galanta",
-          "league_tr": "SLVK2",
-          "home_tr": "Lokomotiva Zvo",
-          "away_tr": "Galanta",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.06,
-          "probability": 75.0,
-          "patternScore": 70.06,
-          "patternText": "312.833/446.538",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 96
-        },
-        {
-          "matchCode": "4571549",
-          "nesine": null,
-          "date": "07.11.2026 12:00",
-          "kickoffUtc": "2026-11-07T12:00:00Z",
-          "league": "IRAN",
-          "home": "Tractor Fc",
-          "away": "Kheybar Khorram",
-          "league_tr": "IRAN",
-          "home_tr": "Tractor Fc",
-          "away_tr": "Kheybar Khorram",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.08,
-          "probability": 100.0,
-          "patternScore": 61.7,
-          "patternText": "347.824/563.723",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 96
-        },
-        {
-          "matchCode": "4495830",
-          "nesine": null,
-          "date": "07.11.2026 12:00",
-          "kickoffUtc": "2026-11-07T12:00:00Z",
-          "league": "AL2",
-          "home": "Nuremberg",
-          "away": "SV Darmstadt 98",
-          "league_tr": "AL2",
-          "home_tr": "Nürnberg",
-          "away_tr": "Darmstadt",
-          "prediction": "Under 4.5 Goals",
-          "prediction_tr": "4,5 Alt/Üst Alt",
-          "odds": 1.12,
-          "probability": 80.0,
-          "patternScore": 68.15,
-          "patternText": "228.820/335.751",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 96
-        },
-        {
-          "matchCode": "4495833",
-          "nesine": null,
-          "date": "07.11.2026 12:00",
-          "kickoffUtc": "2026-11-07T12:00:00Z",
-          "league": "AL2",
-          "home": "Holstein Kiel",
-          "away": "Arminia Bielefe",
-          "league_tr": "AL2",
-          "home_tr": "Holstein Kiel",
-          "away_tr": "Arminia Bielefe",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.21,
-          "probability": 91.67,
-          "patternScore": 68.21,
-          "patternText": "148.380/217.538",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 80
         }
       ]
     },
@@ -764,9 +652,9 @@
           "patternScore": 70.72,
           "patternText": "382.587/541.002",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 3",
+          "finalScore": "1 - 5",
+          "status": "won",
           "aiScore": 86
         },
         {
@@ -1283,7 +1171,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 95
         },
         {
@@ -1530,7 +1418,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 88
         },
         {
@@ -1777,7 +1665,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 90
         },
         {
@@ -1800,7 +1688,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 89
         },
         {
@@ -2452,7 +2340,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 83
         },
         {
@@ -2475,7 +2363,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 81
         },
         {
@@ -2587,7 +2475,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 92
         },
         {
@@ -2783,7 +2671,7 @@
       "winChance": 30.1,
       "firstKickoff": "07.11.2026 13:45",
       "lastKickoff": "07.11.2026 15:30",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_5",
       "group": "multi",
@@ -2811,7 +2699,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 80
         },
         {
@@ -5133,6 +5021,118 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261107-12-1",
+      "createdAt": "07.11.2026 09:03",
+      "createdAtUtc": "2026-11-07T09:03:00Z",
+      "size": 4,
+      "mbs": 1,
+      "totalOdds": 1.55,
+      "winChance": 43.85,
+      "firstKickoff": "07.11.2026 12:00",
+      "lastKickoff": "07.11.2026 12:00",
+      "status": "lost",
+      "completedAt": "07.11.2026 13:51",
+      "kind": "cyz_4",
+      "group": "multi",
+      "formula": "4",
+      "multiScore": 82,
+      "effectiveOdds": 1.55,
+      "legs": [
+        {
+          "matchCode": "4485509",
+          "nesine": null,
+          "date": "07.11.2026 12:00",
+          "kickoffUtc": "2026-11-07T12:00:00Z",
+          "league": "SLVK2",
+          "home": "Lokomotiva Zvo",
+          "away": "Galanta",
+          "league_tr": "SLVK2",
+          "home_tr": "Lokomotiva Zvo",
+          "away_tr": "Galanta",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.06,
+          "probability": 75.0,
+          "patternScore": 70.06,
+          "patternText": "312.833/446.538",
+          "mbs": 1,
+          "firstHalf": "0 - 3",
+          "finalScore": "1 - 5",
+          "status": "lost",
+          "aiScore": 96
+        },
+        {
+          "matchCode": "4571549",
+          "nesine": null,
+          "date": "07.11.2026 12:00",
+          "kickoffUtc": "2026-11-07T12:00:00Z",
+          "league": "IRAN",
+          "home": "Tractor Fc",
+          "away": "Kheybar Khorram",
+          "league_tr": "IRAN",
+          "home_tr": "Tractor Fc",
+          "away_tr": "Kheybar Khorram",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 100.0,
+          "patternScore": 61.7,
+          "patternText": "347.824/563.723",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 96
+        },
+        {
+          "matchCode": "4495830",
+          "nesine": null,
+          "date": "07.11.2026 12:00",
+          "kickoffUtc": "2026-11-07T12:00:00Z",
+          "league": "AL2",
+          "home": "Nuremberg",
+          "away": "SV Darmstadt 98",
+          "league_tr": "AL2",
+          "home_tr": "Nürnberg",
+          "away_tr": "Darmstadt",
+          "prediction": "Under 4.5 Goals",
+          "prediction_tr": "4,5 Alt/Üst Alt",
+          "odds": 1.12,
+          "probability": 80.0,
+          "patternScore": 68.15,
+          "patternText": "228.820/335.751",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 96
+        },
+        {
+          "matchCode": "4495833",
+          "nesine": null,
+          "date": "07.11.2026 12:00",
+          "kickoffUtc": "2026-11-07T12:00:00Z",
+          "league": "AL2",
+          "home": "Holstein Kiel",
+          "away": "Arminia Bielefe",
+          "league_tr": "AL2",
+          "home_tr": "Holstein Kiel",
+          "away_tr": "Arminia Bielefe",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.21,
+          "probability": 91.67,
+          "patternScore": 68.21,
+          "patternText": "148.380/217.538",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 80
+        }
+      ]
+    },
     {
       "id": "20261107-11-1",
       "createdAt": "07.11.2026 08:06",
