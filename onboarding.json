@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 08:55",
+  "updatedAt": "07.11.2026 09:03",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 496,
       "rate": 67.3
     },
-    "totalAnalyses": 453078,
+    "totalAnalyses": 453085,
     "leagues": 489,
     "pro": {
       "won": 1166,
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 2948,
-    "analyses30d": 21878
+    "analyses24h": 2940,
+    "analyses30d": 21868
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 1.97,
       "probability": 75.0,
       "patternScore": 66.6,
-      "aiScore": 53,
+      "aiScore": 52,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 0",
       "pro": true
@@ -324,21 +324,21 @@
     },
     {
       "type": "coupon",
-      "size": 6,
-      "odds": 1.53,
-      "at": "07.11.2026 08:06"
+      "size": 4,
+      "odds": 1.55,
+      "at": "07.11.2026 09:03"
     },
     {
       "type": "coupon",
-      "size": 5,
-      "odds": 1.61,
-      "at": "06.11.2026 23:03"
+      "size": 4,
+      "odds": 1.5,
+      "at": "07.11.2026 09:03"
     },
     {
       "type": "coupon",
       "size": 5,
       "odds": 1.51,
-      "at": "06.11.2026 22:01"
+      "at": "07.11.2026 09:03"
     },
     {
       "type": "updated",
@@ -409,6 +409,18 @@
       "picks": 6
     },
     {
+      "home": "Luton Town",
+      "away": "Forest Green Rovers",
+      "league": "FAK",
+      "date": "07.11.2026 15:00",
+      "matchCode": "4576661",
+      "odds": 1.56,
+      "patternScore": 67.77,
+      "patternText": "318.631/470.167",
+      "aiScore": 55,
+      "picks": 2
+    },
+    {
       "home": "Torpedo Moscow",
       "away": "Neftekhimik",
       "league": "RUS1",
@@ -421,28 +433,16 @@
       "picks": 2
     },
     {
-      "home": "RKAV Volendam",
-      "away": "De Treffers",
-      "league": "HOLTW",
-      "date": "07.11.2026 13:30",
-      "matchCode": "4541283",
-      "odds": 1.47,
-      "patternScore": 67.98,
-      "patternText": "274.391/403.618",
+      "home": "Osnabruck",
+      "away": "Kaiserslautern",
+      "league": "AL2",
+      "date": "07.11.2026 12:00",
+      "matchCode": "4495836",
+      "odds": 1.5,
+      "patternScore": 67.83,
+      "patternText": "278.869/411.155",
       "aiScore": 55,
-      "picks": 2
-    },
-    {
-      "home": "Cagliari Calcio",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "date": "07.11.2026 14:00",
-      "matchCode": "4475142",
-      "odds": 1.41,
-      "patternScore": 68.24,
-      "patternText": "339.508/497.543",
-      "aiScore": 58,
-      "picks": 5
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
