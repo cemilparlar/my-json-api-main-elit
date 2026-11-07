@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 16:28",
+  "updatedAt": "07.11.2026 16:36",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 554,
-      "lost": 269,
-      "total": 823,
-      "rate": 67.3
+      "won": 579,
+      "lost": 283,
+      "total": 862,
+      "rate": 67.2
     },
-    "totalAnalyses": 454753,
+    "totalAnalyses": 454766,
     "leagues": 487,
     "pro": {
-      "won": 1104,
+      "won": 1114,
       "lost": 439,
-      "total": 1543,
-      "rate": 71.5
+      "total": 1553,
+      "rate": 71.7
     },
     "insights": {
-      "won": 1840,
-      "lost": 804,
-      "total": 2644,
-      "rate": 69.6
+      "won": 1856,
+      "lost": 805,
+      "total": 2661,
+      "rate": 69.7
     },
     "coupons": {
       "won": 54,
@@ -47,8 +47,8 @@
       "total": 109,
       "rate": 49.5
     },
-    "analyses24h": 3033,
-    "analyses30d": 21923
+    "analyses24h": 3013,
+    "analyses30d": 21908
   },
   "recentWins": [
     {
@@ -372,7 +372,7 @@
     "matchCode": "4476590",
     "odds": 2.12,
     "patternScore": 67.06,
-    "patternText": "208.635/311.109",
+    "patternText": "208.645/311.129",
     "aiScore": 53,
     "picks": 3
   },
@@ -385,7 +385,7 @@
       "matchCode": "4476590",
       "odds": 2.12,
       "patternScore": 67.06,
-      "patternText": "208.635/311.109",
+      "patternText": "208.645/311.129",
       "aiScore": 53,
       "picks": 3
     },
@@ -397,20 +397,8 @@
       "matchCode": "4476916",
       "odds": 1.67,
       "patternScore": 67.05,
-      "patternText": "285.521/425.852",
+      "patternText": "285.551/425.892",
       "aiScore": 52,
-      "picks": 3
-    },
-    {
-      "home": "Juventus Women",
-      "away": "Sassuolo Women",
-      "league": "İTKSA",
-      "date": "07.11.2026 17:00",
-      "matchCode": "4534576",
-      "odds": 1.66,
-      "patternScore": 66.64,
-      "patternText": "291.768/437.799",
-      "aiScore": 53,
       "picks": 3
     },
     {
@@ -421,7 +409,7 @@
       "matchCode": "4419840",
       "odds": 1.6,
       "patternScore": 67.84,
-      "patternText": "219.070/322.929",
+      "patternText": "219.080/322.941",
       "aiScore": 53,
       "picks": 5
     },
@@ -433,12 +421,66 @@
       "matchCode": "4480764",
       "odds": 1.42,
       "patternScore": 67.93,
-      "patternText": "269.876/397.295",
+      "patternText": "269.906/397.335",
       "aiScore": 55,
       "picks": 3
+    },
+    {
+      "home": "Excelsior Rotterdam",
+      "away": "Go Ahead Eagles",
+      "league": "HOL",
+      "date": "07.11.2026 20:00",
+      "matchCode": "4481586",
+      "odds": 1.37,
+      "patternScore": 67.97,
+      "patternText": "290.949/428.071",
+      "aiScore": 56,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Pau FC",
+      "away": "FC Nantes",
+      "league": "FR2",
+      "at": "07.11.2026 16:33",
+      "count": 9
+    },
+    {
+      "home": "AS Roma",
+      "away": "US Sassuolo",
+      "league": "İTA",
+      "at": "07.11.2026 16:33",
+      "count": 1
+    },
+    {
+      "home": "AJ Auxerre",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "07.11.2026 16:32",
+      "count": 4
+    },
+    {
+      "home": "CA Osasuna",
+      "away": "Athletic Bilbao",
+      "league": "İS1",
+      "at": "07.11.2026 16:31",
+      "count": 11
+    },
+    {
+      "home": "OH Leuven",
+      "away": "KV Mechelen",
+      "league": "BEL",
+      "at": "07.11.2026 16:31",
+      "count": 7
+    },
+    {
+      "home": "VfB Stuttgart",
+      "away": "Werder Bremen",
+      "league": "AL1",
+      "at": "07.11.2026 16:31",
+      "count": 5
+    },
     {
       "home": "CF Estrela da Amadora",
       "away": "SL Benfica",
@@ -465,48 +507,6 @@
       "away": "New York City FC",
       "league": "ABD",
       "at": "07.11.2026 16:19",
-      "count": 6
-    },
-    {
-      "home": "Chicago Fire",
-      "away": "Columbus Crew",
-      "league": "ABD",
-      "at": "07.11.2026 16:19",
-      "count": 11
-    },
-    {
-      "home": "AS Roma",
-      "away": "US Sassuolo",
-      "league": "İTA",
-      "at": "07.11.2026 16:18",
-      "count": 6
-    },
-    {
-      "home": "Philadelphia Union",
-      "away": "Toronto FC",
-      "league": "ABD",
-      "at": "07.11.2026 16:18",
-      "count": 6
-    },
-    {
-      "home": "La Louviere",
-      "away": "Cercle Brugge",
-      "league": "BEL",
-      "at": "07.11.2026 16:17",
-      "count": 3
-    },
-    {
-      "home": "CA Osasuna",
-      "away": "Athletic Bilbao",
-      "league": "İS1",
-      "at": "07.11.2026 16:16",
-      "count": 10
-    },
-    {
-      "home": "Nottingham Forest",
-      "away": "Manchester City",
-      "league": "İNP",
-      "at": "07.11.2026 16:16",
       "count": 6
     }
   ],
