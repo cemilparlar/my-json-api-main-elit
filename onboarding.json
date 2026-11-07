@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 08:06",
+  "updatedAt": "07.11.2026 08:14",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 509,
       "rate": 67.2
     },
-    "totalAnalyses": 453027,
+    "totalAnalyses": 453032,
     "leagues": 489,
     "pro": {
       "won": 1166,
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 2957,
-    "analyses30d": 21874
+    "analyses24h": 2950,
+    "analyses30d": 21867
   },
   "recentWins": [
     {
@@ -360,15 +360,15 @@
     },
     {
       "type": "updated",
-      "at": "07.11.2026 07:51",
-      "home": "FC Unirea Slobozia",
-      "away": "Csm Satu Mare"
+      "at": "07.11.2026 08:12",
+      "home": "Muglaspor",
+      "away": "Esenler Erokspor"
     },
     {
       "type": "updated",
-      "at": "07.11.2026 07:49",
-      "home": "Borneo FC",
-      "away": "PSM Makassar"
+      "at": "07.11.2026 08:10",
+      "home": "Samsunspor",
+      "away": "Konyaspor"
     }
   ],
   "today": {
@@ -379,7 +379,7 @@
     "matchCode": "4517711",
     "odds": 1.66,
     "patternScore": 67.75,
-    "patternText": "291.393/430.129",
+    "patternText": "291.421/430.173",
     "aiScore": 54,
     "picks": 6
   },
@@ -392,7 +392,7 @@
       "matchCode": "4517711",
       "odds": 1.66,
       "patternScore": 67.75,
-      "patternText": "291.393/430.129",
+      "patternText": "291.421/430.173",
       "aiScore": 54,
       "picks": 6
     },
@@ -404,7 +404,7 @@
       "matchCode": "4523500",
       "odds": 1.65,
       "patternScore": 68.23,
-      "patternText": "306.281/448.896",
+      "patternText": "306.309/448.940",
       "aiScore": 56,
       "picks": 1
     },
@@ -416,7 +416,7 @@
       "matchCode": "4498118",
       "odds": 1.53,
       "patternScore": 67.9,
-      "patternText": "334.014/491.945",
+      "patternText": "334.042/491.989",
       "aiScore": 56,
       "picks": 2
     },
@@ -428,7 +428,7 @@
       "matchCode": "4541283",
       "odds": 1.47,
       "patternScore": 67.98,
-      "patternText": "274.363/403.574",
+      "patternText": "274.391/403.618",
       "aiScore": 55,
       "picks": 2
     },
@@ -440,12 +440,26 @@
       "matchCode": "4475142",
       "odds": 1.41,
       "patternScore": 68.24,
-      "patternText": "339.472/497.491",
+      "patternText": "339.508/497.543",
       "aiScore": 58,
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Muglaspor",
+      "away": "Esenler Erokspor",
+      "league": "T1L",
+      "at": "07.11.2026 08:12",
+      "count": 4
+    },
+    {
+      "home": "Samsunspor",
+      "away": "Konyaspor",
+      "league": "TSL",
+      "at": "07.11.2026 08:10",
+      "count": 3
+    },
     {
       "home": "Malaga CF",
       "away": "Racing Santander",
@@ -501,20 +515,6 @@
       "league": "RUS",
       "at": "07.11.2026 07:19",
       "count": 14
-    },
-    {
-      "home": "Eyupspor",
-      "away": "Kocaelispor",
-      "league": "TSL",
-      "at": "07.11.2026 07:18",
-      "count": 3
-    },
-    {
-      "home": "A. Keciorengucu",
-      "away": "Manisa FK",
-      "league": "T1L",
-      "at": "07.11.2026 07:16",
-      "count": 3
     }
   ],
   "paywall": {
