@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 13:01",
+  "updatedAt": "07.11.2026 13:10",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 365,
-      "lost": 168,
-      "total": 533,
-      "rate": 68.5
+      "won": 375,
+      "lost": 174,
+      "total": 549,
+      "rate": 68.3
     },
-    "totalAnalyses": 453809,
+    "totalAnalyses": 453877,
     "leagues": 487,
     "pro": {
-      "won": 1137,
+      "won": 1141,
       "lost": 460,
-      "total": 1597,
-      "rate": 71.2
+      "total": 1601,
+      "rate": 71.3
     },
     "insights": {
-      "won": 1948,
-      "lost": 830,
-      "total": 2778,
+      "won": 1956,
+      "lost": 833,
+      "total": 2789,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 95,
       "rate": 52.6
     },
-    "analyses24h": 3019,
-    "analyses30d": 21909
+    "analyses24h": 2999,
+    "analyses30d": 21889
   },
   "recentWins": [
     {
@@ -379,30 +379,18 @@
     }
   ],
   "today": {
-    "home": "Galatasaray",
-    "away": "Amed SK",
-    "league": "TSL",
-    "date": "07.11.2026 16:00",
-    "matchCode": "4542749",
-    "odds": 2.0,
-    "patternScore": 66.27,
-    "patternText": "204.153/308.077",
-    "aiScore": 52,
-    "picks": 6
+    "home": "Torino FC",
+    "away": "US Lecce",
+    "league": "İTA",
+    "date": "07.11.2026 14:00",
+    "matchCode": "4475150",
+    "odds": 1.59,
+    "patternScore": 68.15,
+    "patternText": "308.336/452.429",
+    "aiScore": 54,
+    "picks": 5
   },
   "todayList": [
-    {
-      "home": "Galatasaray",
-      "away": "Amed SK",
-      "league": "TSL",
-      "date": "07.11.2026 16:00",
-      "matchCode": "4542749",
-      "odds": 2.0,
-      "patternScore": 66.27,
-      "patternText": "204.153/308.077",
-      "aiScore": 52,
-      "picks": 6
-    },
     {
       "home": "Torino FC",
       "away": "US Lecce",
@@ -448,11 +436,30 @@
       "odds": 1.45,
       "patternScore": 65.35,
       "patternText": "352.583/539.556",
-      "aiScore": 56,
+      "aiScore": 55,
       "picks": 9
+    },
+    {
+      "home": "KVC Westerlo",
+      "away": "Sporting Charleroi",
+      "league": "BEL",
+      "date": "07.11.2026 15:00",
+      "matchCode": "4480766",
+      "odds": 1.45,
+      "patternScore": 67.62,
+      "patternText": "333.221/492.798",
+      "aiScore": 55,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Mantova 1911",
+      "away": "Verona",
+      "league": "İTB",
+      "at": "07.11.2026 13:01",
+      "count": 8
+    },
     {
       "home": "AJ Auxerre",
       "away": "Paris FC",
@@ -515,13 +522,6 @@
       "league": "İNCL",
       "at": "07.11.2026 12:44",
       "count": 6
-    },
-    {
-      "home": "Borussia Dortmund",
-      "away": "SV Elversberg",
-      "league": "AL1",
-      "at": "07.11.2026 12:43",
-      "count": 15
     }
   ],
   "paywall": {
