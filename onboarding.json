@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 23:10",
+  "updatedAt": "07.11.2026 23:17",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 1020,
       "rate": 68.0
     },
-    "totalAnalyses": 455770,
+    "totalAnalyses": 455773,
     "leagues": 486,
     "pro": {
       "won": 1214,
@@ -47,8 +47,8 @@
       "total": 137,
       "rate": 49.6
     },
-    "analyses24h": 2890,
-    "analyses30d": 22094
+    "analyses24h": 2886,
+    "analyses30d": 22090
   },
   "recentWins": [
     {
@@ -421,6 +421,18 @@
       "picks": 1
     },
     {
+      "home": "Daejeon Citizen",
+      "away": "Incheon United",
+      "league": "GKOR",
+      "date": "08.11.2026 05:00",
+      "matchCode": "4578074",
+      "odds": 1.54,
+      "patternScore": 68.14,
+      "patternText": "225.852/331.468",
+      "aiScore": 54,
+      "picks": 5
+    },
+    {
       "home": "Argentinos Juniors",
       "away": "Club Atletico Huracan",
       "league": "ARJ",
@@ -431,18 +443,6 @@
       "patternText": "168.379/250.473",
       "aiScore": 56,
       "picks": 5
-    },
-    {
-      "home": "Nautico",
-      "away": "Regatas",
-      "league": "BR2",
-      "date": "08.11.2026 00:30",
-      "matchCode": "4454054",
-      "odds": 1.44,
-      "patternScore": 67.41,
-      "patternText": "244.031/362.014",
-      "aiScore": 55,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
