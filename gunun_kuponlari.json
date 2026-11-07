@@ -104,8 +104,8 @@
       "lost": 2
     }
   },
-  "updatedAt": "07.11.2026 22:21",
-  "updatedAtUtc": "2026-11-07T22:21:00Z",
+  "updatedAt": "07.11.2026 22:30",
+  "updatedAtUtc": "2026-11-07T22:30:00Z",
   "upcoming": [
     {
       "id": "20261107-15-2",
@@ -505,7 +505,7 @@
       "group": "multi",
       "formula": "5",
       "multiScore": 67,
-      "effectiveOdds": 1.67,
+      "effectiveOdds": 1.54,
       "legs": [
         {
           "matchCode": "4496242",
@@ -550,7 +550,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 80
         },
         {
@@ -5806,7 +5806,7 @@
       "group": "multi",
       "formula": "5",
       "multiScore": 70,
-      "effectiveOdds": 1.51,
+      "effectiveOdds": 1.4,
       "legs": [
         {
           "matchCode": "4496715",
@@ -5828,7 +5828,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 87
         },
         {
