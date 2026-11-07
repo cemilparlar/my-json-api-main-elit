@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 13:51",
+  "updatedAt": "07.11.2026 13:59",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 555,
       "rate": 67.9
     },
-    "totalAnalyses": 454056,
+    "totalAnalyses": 454075,
     "leagues": 487,
     "pro": {
       "won": 1125,
@@ -47,8 +47,8 @@
       "total": 96,
       "rate": 52.1
     },
-    "analyses24h": 3011,
-    "analyses30d": 21904
+    "analyses24h": 3008,
+    "analyses30d": 21901
   },
   "recentWins": [
     {
@@ -384,11 +384,11 @@
     "league": "İTKSA",
     "date": "07.11.2026 17:00",
     "matchCode": "4534576",
-    "odds": 1.54,
-    "patternScore": 66.89,
-    "patternText": "313.764/469.071",
-    "aiScore": 54,
-    "picks": 1
+    "odds": 1.66,
+    "patternScore": 66.65,
+    "patternText": "290.848/436.379",
+    "aiScore": 53,
+    "picks": 3
   },
   "todayList": [
     {
@@ -397,11 +397,11 @@
       "league": "İTKSA",
       "date": "07.11.2026 17:00",
       "matchCode": "4534576",
-      "odds": 1.54,
-      "patternScore": 66.89,
-      "patternText": "313.764/469.071",
-      "aiScore": 54,
-      "picks": 1
+      "odds": 1.66,
+      "patternScore": 66.65,
+      "patternText": "290.848/436.379",
+      "aiScore": 53,
+      "picks": 3
     },
     {
       "home": "Blau-Weiss Lin",
@@ -411,7 +411,7 @@
       "matchCode": "4496709",
       "odds": 1.53,
       "patternScore": 68.57,
-      "patternText": "286.706/418.114",
+      "patternText": "286.720/418.136",
       "aiScore": 55,
       "picks": 1
     },
@@ -423,21 +423,9 @@
       "matchCode": "4476915",
       "odds": 1.48,
       "patternScore": 66.78,
-      "patternText": "206.651/309.470",
+      "patternText": "206.661/309.484",
       "aiScore": 56,
       "picks": 3
-    },
-    {
-      "home": "Nottingham Forest",
-      "away": "Manchester City",
-      "league": "İNP",
-      "date": "07.11.2026 17:30",
-      "matchCode": "4481109",
-      "odds": 1.45,
-      "patternScore": 65.35,
-      "patternText": "352.675/539.700",
-      "aiScore": 55,
-      "picks": 9
     },
     {
       "home": "FC Den Bosch",
@@ -447,12 +435,52 @@
       "matchCode": "4481926",
       "odds": 1.44,
       "patternScore": 67.49,
-      "patternText": "307.890/456.223",
-      "aiScore": 59,
+      "patternText": "307.904/456.245",
+      "aiScore": 58,
       "picks": 5
+    },
+    {
+      "home": "Goztepe",
+      "away": "Istanbul Basaksehir",
+      "league": "TSL",
+      "date": "07.11.2026 16:00",
+      "matchCode": "4542747",
+      "odds": 1.43,
+      "patternScore": 67.26,
+      "patternText": "192.459/286.129",
+      "aiScore": 58,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "ADO Den Haag",
+      "away": "Sparta Rotterdam",
+      "league": "HOL",
+      "at": "07.11.2026 13:54",
+      "count": 5
+    },
+    {
+      "home": "CA Osasuna",
+      "away": "Athletic Bilbao",
+      "league": "İS1",
+      "at": "07.11.2026 13:53",
+      "count": 9
+    },
+    {
+      "home": "Nottingham Forest",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "07.11.2026 13:52",
+      "count": 5
+    },
+    {
+      "home": "VfB Stuttgart",
+      "away": "Werder Bremen",
+      "league": "AL1",
+      "at": "07.11.2026 13:52",
+      "count": 18
+    },
     {
       "home": "Parma Calcio",
       "away": "Bologna FC",
@@ -494,34 +522,6 @@
       "league": "BEL",
       "at": "07.11.2026 13:33",
       "count": 5
-    },
-    {
-      "home": "SC Paderborn",
-      "away": "Eintracht Frankfurt",
-      "league": "AL1",
-      "at": "07.11.2026 13:30",
-      "count": 9
-    },
-    {
-      "home": "Borussia Dortmund",
-      "away": "SV Elversberg",
-      "league": "AL1",
-      "at": "07.11.2026 13:29",
-      "count": 15
-    },
-    {
-      "home": "Cesena FC",
-      "away": "US Catanzaro",
-      "league": "İTB",
-      "at": "07.11.2026 13:26",
-      "count": 6
-    },
-    {
-      "home": "Torino FC",
-      "away": "US Lecce",
-      "league": "İTA",
-      "at": "07.11.2026 13:25",
-      "count": 4
     }
   ],
   "paywall": {
