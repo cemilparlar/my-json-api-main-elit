@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 08:47",
+  "updatedAt": "07.11.2026 08:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 496,
       "rate": 67.3
     },
-    "totalAnalyses": 453037,
+    "totalAnalyses": 453078,
     "leagues": 489,
     "pro": {
       "won": 1166,
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 2931,
-    "analyses30d": 21861
+    "analyses24h": 2948,
+    "analyses30d": 21878
   },
   "recentWins": [
     {
@@ -342,7 +342,7 @@
     },
     {
       "type": "updated",
-      "at": "07.11.2026 07:18",
+      "at": "07.11.2026 08:49",
       "home": "Eyupspor",
       "away": "Kocaelispor"
     },
@@ -366,7 +366,7 @@
     },
     {
       "type": "updated",
-      "at": "07.11.2026 08:10",
+      "at": "07.11.2026 08:54",
       "home": "Samsunspor",
       "away": "Konyaspor"
     }
@@ -447,18 +447,53 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Samsunspor",
+      "away": "Konyaspor",
+      "league": "TSL",
+      "at": "07.11.2026 08:54",
+      "count": 2
+    },
+    {
+      "home": "Bristol City",
+      "away": "Norwich City",
+      "league": "İNCL",
+      "at": "07.11.2026 08:54",
+      "count": 9
+    },
+    {
+      "home": "Wrexham AFC",
+      "away": "Wolverhampton Wanderers",
+      "league": "İNCL",
+      "at": "07.11.2026 08:53",
+      "count": 5
+    },
+    {
+      "home": "Leeds United",
+      "away": "Tottenham Hotspur",
+      "league": "İNP",
+      "at": "07.11.2026 08:53",
+      "count": 7
+    },
+    {
+      "home": "Osnabruck",
+      "away": "Kaiserslautern",
+      "league": "AL2",
+      "at": "07.11.2026 08:51",
+      "count": 7
+    },
+    {
+      "home": "Eyupspor",
+      "away": "Kocaelispor",
+      "league": "TSL",
+      "at": "07.11.2026 08:49",
+      "count": 5
+    },
+    {
       "home": "Muglaspor",
       "away": "Esenler Erokspor",
       "league": "T1L",
       "at": "07.11.2026 08:12",
       "count": 4
-    },
-    {
-      "home": "Samsunspor",
-      "away": "Konyaspor",
-      "league": "TSL",
-      "at": "07.11.2026 08:10",
-      "count": 3
     },
     {
       "home": "Malaga CF",
@@ -475,46 +510,11 @@
       "count": 5
     },
     {
-      "home": "Wrexham AFC",
-      "away": "Wolverhampton Wanderers",
-      "league": "İNCL",
-      "at": "07.11.2026 07:59",
-      "count": 10
-    },
-    {
       "home": "Portsmouth",
       "away": "Stoke City",
       "league": "İNCL",
       "at": "07.11.2026 07:58",
       "count": 7
-    },
-    {
-      "home": "Leeds United",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "07.11.2026 07:57",
-      "count": 9
-    },
-    {
-      "home": "Osnabruck",
-      "away": "Kaiserslautern",
-      "league": "AL2",
-      "at": "07.11.2026 07:56",
-      "count": 4
-    },
-    {
-      "home": "Holstein Kiel",
-      "away": "Arminia Bielefe",
-      "league": "AL2",
-      "at": "07.11.2026 07:34",
-      "count": 3
-    },
-    {
-      "home": "FK Fakel Voronezh",
-      "away": "Dinamo Moscow",
-      "league": "RUS",
-      "at": "07.11.2026 07:19",
-      "count": 14
     }
   ],
   "paywall": {
