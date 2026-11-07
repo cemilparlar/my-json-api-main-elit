@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 07:57",
+  "updatedAt": "07.11.2026 08:06",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 338,
-      "lost": 163,
-      "total": 501,
-      "rate": 67.5
+      "won": 342,
+      "lost": 167,
+      "total": 509,
+      "rate": 67.2
     },
-    "totalAnalyses": 453003,
+    "totalAnalyses": 453027,
     "leagues": 489,
     "pro": {
-      "won": 1161,
-      "lost": 464,
-      "total": 1625,
+      "won": 1166,
+      "lost": 468,
+      "total": 1634,
       "rate": 71.4
     },
     "insights": {
-      "won": 1993,
-      "lost": 842,
-      "total": 2835,
+      "won": 1998,
+      "lost": 846,
+      "total": 2844,
       "rate": 70.3
     },
     "coupons": {
-      "won": 48,
+      "won": 49,
       "lost": 44,
-      "total": 92,
-      "rate": 52.2
+      "total": 93,
+      "rate": 52.7
     },
-    "analyses24h": 2949,
-    "analyses30d": 21871
+    "analyses24h": 2957,
+    "analyses30d": 21874
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 1.97,
       "probability": 75.0,
       "patternScore": 66.6,
-      "aiScore": 52,
+      "aiScore": 53,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 0",
       "pro": true
@@ -123,6 +123,49 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.51,
+      "winChance": 35.3,
+      "completedAt": "07.11.2026 08:06",
+      "legs": [
+        {
+          "home": "Vitoria Bahia",
+          "away": "Fluminense FC",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.07,
+          "finalScore": "0 - 3"
+        },
+        {
+          "home": "Vila Nova",
+          "away": "Criciuma",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.06,
+          "finalScore": null
+        },
+        {
+          "home": "NK Radomlje",
+          "away": "NK Celje",
+          "prediction": "Under 4.5 Goals",
+          "odds": 1.07,
+          "finalScore": null
+        },
+        {
+          "home": "ASK Bravo",
+          "away": "NK Maribor",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.08,
+          "finalScore": null
+        },
+        {
+          "home": "Zoria Luhansk",
+          "away": "LNZ Cherkasy",
+          "prediction": "Double Chance 12",
+          "odds": 1.15,
+          "finalScore": null
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.52,
@@ -244,42 +287,6 @@
           "finalScore": "0 - 0"
         }
       ]
-    },
-    {
-      "size": 4,
-      "totalOdds": 1.53,
-      "winChance": 44.54,
-      "completedAt": "06.11.2026 21:46",
-      "legs": [
-        {
-          "home": "Helmond Sport",
-          "away": "FC Volendam",
-          "prediction": "Double Chance 12",
-          "odds": 1.09,
-          "finalScore": "2 - 3"
-        },
-        {
-          "home": "Hamburger SV",
-          "away": "Borussia Monchengladbach",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.16,
-          "finalScore": "3 - 1"
-        },
-        {
-          "home": "Wisla Krakow",
-          "away": "KS Cracovia",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.06,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Union Brescia",
-          "away": "Union Arzignano",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.14,
-          "finalScore": "3 - 2"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -317,6 +324,12 @@
     },
     {
       "type": "coupon",
+      "size": 6,
+      "odds": 1.53,
+      "at": "07.11.2026 08:06"
+    },
+    {
+      "type": "coupon",
       "size": 5,
       "odds": 1.61,
       "at": "06.11.2026 23:03"
@@ -326,12 +339,6 @@
       "size": 5,
       "odds": 1.51,
       "at": "06.11.2026 22:01"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.51,
-      "at": "06.11.2026 21:01"
     },
     {
       "type": "updated",
@@ -353,15 +360,15 @@
     },
     {
       "type": "updated",
-      "at": "07.11.2026 07:49",
-      "home": "Borneo FC",
-      "away": "PSM Makassar"
+      "at": "07.11.2026 07:51",
+      "home": "FC Unirea Slobozia",
+      "away": "Csm Satu Mare"
     },
     {
       "type": "updated",
-      "at": "07.11.2026 07:51",
-      "home": "Perth Glory",
-      "away": "Newcastle Jets"
+      "at": "07.11.2026 07:49",
+      "home": "Borneo FC",
+      "away": "PSM Makassar"
     }
   ],
   "today": {
@@ -402,6 +409,18 @@
       "picks": 1
     },
     {
+      "home": "Torpedo Moscow",
+      "away": "Neftekhimik",
+      "league": "RUS1",
+      "date": "07.11.2026 14:00",
+      "matchCode": "4498118",
+      "odds": 1.53,
+      "patternScore": 67.9,
+      "patternText": "334.014/491.945",
+      "aiScore": 56,
+      "picks": 2
+    },
+    {
       "home": "RKAV Volendam",
       "away": "De Treffers",
       "league": "HOLTW",
@@ -414,31 +433,54 @@
       "picks": 2
     },
     {
-      "home": "Babrungas",
-      "away": "Fa Siauliai Ii",
-      "league": "LIT1",
-      "date": "07.11.2026 12:00",
-      "matchCode": "4484916",
-      "odds": 1.4,
-      "patternScore": 66.68,
-      "patternText": "202.603/303.837",
-      "aiScore": 55,
-      "picks": 3
+      "home": "Cagliari Calcio",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "date": "07.11.2026 14:00",
+      "matchCode": "4475142",
+      "odds": 1.41,
+      "patternScore": 68.24,
+      "patternText": "339.472/497.491",
+      "aiScore": 58,
+      "picks": 5
+    }
+  ],
+  "recentAnalyzed": [
+    {
+      "home": "Malaga CF",
+      "away": "Racing Santander",
+      "league": "İS1",
+      "at": "07.11.2026 08:01",
+      "count": 5
     },
     {
       "home": "Burgos CF",
       "away": "Celta Vigo B",
       "league": "İS2",
-      "date": "07.11.2026 13:00",
-      "matchCode": "4492812",
-      "odds": 1.4,
-      "patternScore": 68.1,
-      "patternText": "188.368/276.588",
-      "aiScore": 59,
-      "picks": 5
-    }
-  ],
-  "recentAnalyzed": [
+      "at": "07.11.2026 08:01",
+      "count": 5
+    },
+    {
+      "home": "Wrexham AFC",
+      "away": "Wolverhampton Wanderers",
+      "league": "İNCL",
+      "at": "07.11.2026 07:59",
+      "count": 10
+    },
+    {
+      "home": "Portsmouth",
+      "away": "Stoke City",
+      "league": "İNCL",
+      "at": "07.11.2026 07:58",
+      "count": 7
+    },
+    {
+      "home": "Leeds United",
+      "away": "Tottenham Hotspur",
+      "league": "İNP",
+      "at": "07.11.2026 07:57",
+      "count": 9
+    },
     {
       "home": "Osnabruck",
       "away": "Kaiserslautern",
@@ -473,41 +515,6 @@
       "league": "T1L",
       "at": "07.11.2026 07:16",
       "count": 3
-    },
-    {
-      "home": "Van Spor FK",
-      "away": "Sivasspor",
-      "league": "T1L",
-      "at": "07.11.2026 07:16",
-      "count": 4
-    },
-    {
-      "home": "FC Famalicao",
-      "away": "FC Arouca",
-      "league": "POR",
-      "at": "06.11.2026 20:00",
-      "count": 5
-    },
-    {
-      "home": "Vitoria Bahia",
-      "away": "Fluminense FC",
-      "league": "BR1",
-      "at": "06.11.2026 19:39",
-      "count": 5
-    },
-    {
-      "home": "Sevilla FC",
-      "away": "Deportivo Alaves",
-      "league": "İS1",
-      "at": "06.11.2026 19:23",
-      "count": 10
-    },
-    {
-      "home": "Everton",
-      "away": "Coventry City",
-      "league": "İNP",
-      "at": "06.11.2026 19:23",
-      "count": 5
     }
   ],
   "paywall": {

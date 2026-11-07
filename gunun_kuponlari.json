@@ -2,7 +2,7 @@
   "version": 1,
   "stats7": {
     "multi": {
-      "won": 48,
+      "won": 49,
       "lost": 44
     },
     "c70_2": {
@@ -22,7 +22,7 @@
       "lost": 9
     },
     "cyz_5": {
-      "won": 12,
+      "won": 13,
       "lost": 20
     },
     "cyz_6": {
@@ -68,7 +68,7 @@
       "lost": 9
     },
     "multi": {
-      "won": 54,
+      "won": 55,
       "lost": 49
     },
     "c70_1": {
@@ -88,7 +88,7 @@
       "lost": 9
     },
     "cyz_5": {
-      "won": 12,
+      "won": 13,
       "lost": 20
     },
     "cyz_6": {
@@ -96,9 +96,169 @@
       "lost": 4
     }
   },
-  "updatedAt": "07.11.2026 07:57",
-  "updatedAtUtc": "2026-11-07T07:57:00Z",
+  "updatedAt": "07.11.2026 08:06",
+  "updatedAtUtc": "2026-11-07T08:06:00Z",
   "upcoming": [
+    {
+      "id": "20261107-11-1",
+      "createdAt": "07.11.2026 08:06",
+      "createdAtUtc": "2026-11-07T08:06:00Z",
+      "size": 6,
+      "mbs": 1,
+      "totalOdds": 1.53,
+      "winChance": 29.85,
+      "firstKickoff": "07.11.2026 08:40",
+      "lastKickoff": "07.11.2026 10:45",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "cyz_6",
+      "group": "multi",
+      "formula": "6",
+      "multiScore": 76,
+      "effectiveOdds": 1.53,
+      "legs": [
+        {
+          "matchCode": "4546754",
+          "nesine": null,
+          "date": "07.11.2026 08:40",
+          "kickoffUtc": "2026-11-07T08:40:00Z",
+          "league": "AVUS",
+          "home": "Melbourne City FC",
+          "away": "Western Sydney Wanderers",
+          "league_tr": "AVUS",
+          "home_tr": "Melbourne City",
+          "away_tr": "Western Sydney",
+          "prediction": "Handicap (0:2) 2",
+          "prediction_tr": "Handikaplı Maç Sonucu (0:2) 2",
+          "odds": 1.08,
+          "probability": 82.35294117647058,
+          "patternScore": 69.6,
+          "patternText": "179.975/258.600",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 95
+        },
+        {
+          "matchCode": "4551354",
+          "nesine": null,
+          "date": "07.11.2026 10:00",
+          "kickoffUtc": "2026-11-07T10:00:00Z",
+          "league": "VİET",
+          "home": "Lg Hn Acb",
+          "away": "Ha Noi FC",
+          "league_tr": "VİET",
+          "home_tr": "Lg Hn Acb",
+          "away_tr": "Ha Noi T&T",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.08,
+          "probability": 85.71,
+          "patternScore": 71.08,
+          "patternText": "238.108/334.992",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 95
+        },
+        {
+          "matchCode": "4498876",
+          "nesine": null,
+          "date": "07.11.2026 10:30",
+          "kickoffUtc": "2026-11-07T10:30:00Z",
+          "league": "T1L",
+          "home": "Van Spor FK",
+          "away": "Sivasspor",
+          "league_tr": "T1L",
+          "home_tr": "Van Spor Fk",
+          "away_tr": "Sivasspor",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.07,
+          "probability": 81.25,
+          "patternScore": 70.28,
+          "patternText": "186.939/265.991",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 96
+        },
+        {
+          "matchCode": "4498869",
+          "nesine": null,
+          "date": "07.11.2026 10:30",
+          "kickoffUtc": "2026-11-07T10:30:00Z",
+          "league": "T1L",
+          "home": "A. Keciorengucu",
+          "away": "Manisa FK",
+          "league_tr": "T1L",
+          "home_tr": "A. Keçiörengüc",
+          "away_tr": "Manisa Futbol K",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.06,
+          "probability": 78.87,
+          "patternScore": 69.65,
+          "patternText": "469.864/674.578",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 95
+        },
+        {
+          "matchCode": "4542744",
+          "nesine": null,
+          "date": "07.11.2026 10:30",
+          "kickoffUtc": "2026-11-07T10:30:00Z",
+          "league": "TSL",
+          "home": "Eyupspor",
+          "away": "Kocaelispor",
+          "league_tr": "TSL",
+          "home_tr": "Eyüpspor",
+          "away_tr": "Kocaelispor",
+          "prediction": "Handicap (0:1) 2",
+          "prediction_tr": "Handikaplı Maç Sonucu (0:1) 2",
+          "odds": 1.08,
+          "probability": 83.33333333333334,
+          "patternScore": 67.7,
+          "patternText": "208.714/308.277",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 92
+        },
+        {
+          "matchCode": "4546755",
+          "nesine": null,
+          "date": "07.11.2026 10:45",
+          "kickoffUtc": "2026-11-07T10:45:00Z",
+          "league": "AVUS",
+          "home": "Perth Glory",
+          "away": "Newcastle Jets",
+          "league_tr": "AVUS",
+          "home_tr": "Perth Glory",
+          "away_tr": "Newcastle Jet",
+          "prediction": "Handicap (0:2) 2",
+          "prediction_tr": "Handikaplı Maç Sonucu (0:2) 2",
+          "odds": 1.07,
+          "probability": 100.0,
+          "patternScore": 59.11,
+          "patternText": "268.685/454.570",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 95
+        }
+      ]
+    }
+  ],
+  "completed": [
     {
       "id": "20261107-00-1",
       "createdAt": "06.11.2026 21:01",
@@ -109,13 +269,13 @@
       "winChance": 35.3,
       "firstKickoff": "06.11.2026 23:00",
       "lastKickoff": "07.11.2026 00:00",
-      "status": "live",
-      "completedAt": null,
+      "status": "won",
+      "completedAt": "07.11.2026 08:06",
       "kind": "cyz_5",
       "group": "multi",
       "formula": "5",
       "multiScore": 77,
-      "effectiveOdds": 1.42,
+      "effectiveOdds": 1.07,
       "legs": [
         {
           "matchCode": "4423367",
@@ -183,7 +343,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 97
         },
         {
@@ -206,7 +366,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 92
         },
         {
@@ -229,7 +389,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 81
         }
       ]
@@ -244,13 +404,13 @@
       "winChance": 40.4,
       "firstKickoff": "07.11.2026 00:00",
       "lastKickoff": "07.11.2026 00:00",
-      "status": "live",
-      "completedAt": null,
+      "status": "void",
+      "completedAt": "07.11.2026 08:06",
       "kind": "cyz_4",
       "group": "multi",
       "formula": "4",
       "multiScore": 75,
-      "effectiveOdds": 1.52,
+      "effectiveOdds": 1.0,
       "legs": [
         {
           "matchCode": "4508200",
@@ -272,7 +432,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 90
         },
         {
@@ -295,7 +455,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 86
         },
         {
@@ -318,7 +478,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 85
         },
         {
@@ -341,13 +501,11 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 84
         }
       ]
-    }
-  ],
-  "completed": [
+    },
     {
       "id": "20261106-19-1",
       "createdAt": "06.11.2026 16:03",
@@ -611,7 +769,7 @@
       "group": "multi",
       "formula": "5",
       "multiScore": 79,
-      "effectiveOdds": 1.51,
+      "effectiveOdds": 1.37,
       "legs": [
         {
           "matchCode": "4423367",
@@ -656,7 +814,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 92
         },
         {
@@ -746,7 +904,7 @@
       "group": "multi",
       "formula": "5",
       "multiScore": 71,
-      "effectiveOdds": 1.61,
+      "effectiveOdds": 1.34,
       "legs": [
         {
           "matchCode": "4508204",
@@ -768,7 +926,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 83
         },
         {
@@ -791,7 +949,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 80
         },
         {
