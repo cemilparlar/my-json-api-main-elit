@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 22:30",
+  "updatedAt": "07.11.2026 22:39",
   "config": {
     "pages": [
       "engine",
@@ -22,9 +22,9 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 702,
-      "lost": 326,
-      "total": 1028,
+      "won": 699,
+      "lost": 324,
+      "total": 1023,
       "rate": 68.3
     },
     "totalAnalyses": 455729,
@@ -47,8 +47,8 @@
       "total": 128,
       "rate": 46.1
     },
-    "analyses24h": 2884,
-    "analyses30d": 22092
+    "analyses24h": 2882,
+    "analyses30d": 22090
   },
   "recentWins": [
     {
@@ -414,6 +414,18 @@
       "picks": 5
     },
     {
+      "home": "Nautico",
+      "away": "Regatas",
+      "league": "BR2",
+      "date": "08.11.2026 00:30",
+      "matchCode": "4454054",
+      "odds": 1.44,
+      "patternScore": 67.41,
+      "patternText": "244.029/362.010",
+      "aiScore": 55,
+      "picks": 3
+    },
+    {
       "home": "UPNFM",
       "away": "Club Deportivo Motagua",
       "league": "HON",
@@ -422,20 +434,8 @@
       "odds": 1.28,
       "patternScore": 68.48,
       "patternText": "284.756/415.848",
-      "aiScore": 58,
+      "aiScore": 57,
       "picks": 1
-    },
-    {
-      "home": "Macarthur FC",
-      "away": "Brisbane Roar",
-      "league": "AVUS",
-      "date": "08.11.2026 04:00",
-      "matchCode": "4546756",
-      "odds": 1.24,
-      "patternScore": 67.94,
-      "patternText": "230.181/338.823",
-      "aiScore": 66,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
