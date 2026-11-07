@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 07:39",
+  "updatedAt": "07.11.2026 07:47",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 92,
       "rate": 52.2
     },
-    "analyses24h": 2926,
-    "analyses30d": 21848
+    "analyses24h": 2923,
+    "analyses30d": 21845
   },
   "recentWins": [
     {
@@ -360,35 +360,23 @@
     {
       "type": "updated",
       "at": "07.11.2026 07:34",
-      "home": "Kazincbarcika",
-      "away": "Soroksar"
+      "home": "Holstein Kiel",
+      "away": "Arminia Bielefe"
     }
   ],
   "today": {
-    "home": "Holstein Kiel",
-    "away": "Arminia Bielefe",
-    "league": "AL2",
-    "date": "07.11.2026 12:00",
-    "matchCode": "4495833",
-    "odds": 1.8,
-    "patternScore": 67.11,
-    "patternText": "286.670/427.141",
-    "aiScore": 53,
-    "picks": 9
+    "home": "Rot-Weiss Essen",
+    "away": "Alemannia Aachen",
+    "league": "AL3",
+    "date": "07.11.2026 13:00",
+    "matchCode": "4517711",
+    "odds": 1.66,
+    "patternScore": 67.75,
+    "patternText": "291.393/430.129",
+    "aiScore": 54,
+    "picks": 6
   },
   "todayList": [
-    {
-      "home": "Holstein Kiel",
-      "away": "Arminia Bielefe",
-      "league": "AL2",
-      "date": "07.11.2026 12:00",
-      "matchCode": "4495833",
-      "odds": 1.8,
-      "patternScore": 67.11,
-      "patternText": "286.670/427.141",
-      "aiScore": 53,
-      "picks": 9
-    },
     {
       "home": "Rot-Weiss Essen",
       "away": "Alemannia Aachen",
@@ -397,7 +385,7 @@
       "matchCode": "4517711",
       "odds": 1.66,
       "patternScore": 67.75,
-      "patternText": "291.387/430.111",
+      "patternText": "291.393/430.129",
       "aiScore": 54,
       "picks": 6
     },
@@ -409,7 +397,7 @@
       "matchCode": "4523500",
       "odds": 1.65,
       "patternScore": 68.23,
-      "patternText": "306.275/448.878",
+      "patternText": "306.281/448.896",
       "aiScore": 56,
       "picks": 1
     },
@@ -421,7 +409,7 @@
       "matchCode": "4541283",
       "odds": 1.47,
       "patternScore": 67.98,
-      "patternText": "274.357/403.556",
+      "patternText": "274.363/403.574",
       "aiScore": 55,
       "picks": 2
     },
@@ -433,9 +421,21 @@
       "matchCode": "4484916",
       "odds": 1.4,
       "patternScore": 66.68,
-      "patternText": "202.601/303.827",
+      "patternText": "202.603/303.837",
       "aiScore": 55,
       "picks": 3
+    },
+    {
+      "home": "Burgos CF",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "date": "07.11.2026 13:00",
+      "matchCode": "4492812",
+      "odds": 1.4,
+      "patternScore": 68.1,
+      "patternText": "188.368/276.588",
+      "aiScore": 59,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
