@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 15:31",
+  "updatedAt": "07.11.2026 15:39",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 448,
-      "lost": 226,
-      "total": 674,
-      "rate": 66.5
+      "won": 468,
+      "lost": 235,
+      "total": 703,
+      "rate": 66.6
     },
-    "totalAnalyses": 454574,
+    "totalAnalyses": 454609,
     "leagues": 487,
     "pro": {
-      "won": 1058,
-      "lost": 428,
-      "total": 1486,
-      "rate": 71.2
+      "won": 1066,
+      "lost": 434,
+      "total": 1500,
+      "rate": 71.1
     },
     "insights": {
-      "won": 1758,
-      "lost": 780,
-      "total": 2538,
+      "won": 1777,
+      "lost": 789,
+      "total": 2566,
       "rate": 69.3
     },
     "coupons": {
       "won": 52,
-      "lost": 49,
-      "total": 101,
-      "rate": 51.5
+      "lost": 50,
+      "total": 102,
+      "rate": 51.0
     },
-    "analyses24h": 3018,
-    "analyses30d": 21924
+    "analyses24h": 3015,
+    "analyses30d": 21921
   },
   "recentWins": [
     {
@@ -416,18 +416,6 @@
       "picks": 3
     },
     {
-      "home": "Blau-Weiss Lin",
-      "away": "Floridsdorfer AC",
-      "league": "AU2",
-      "date": "07.11.2026 16:30",
-      "matchCode": "4496709",
-      "odds": 1.53,
-      "patternScore": 68.56,
-      "patternText": "287.130/418.812",
-      "aiScore": 55,
-      "picks": 1
-    },
-    {
       "home": "DC United",
       "away": "New York City FC",
       "league": "ABD",
@@ -450,6 +438,18 @@
       "patternText": "269.358/396.531",
       "aiScore": 55,
       "picks": 3
+    },
+    {
+      "home": "Excelsior Rotterdam",
+      "away": "Go Ahead Eagles",
+      "league": "HOL",
+      "date": "07.11.2026 20:00",
+      "matchCode": "4481586",
+      "odds": 1.37,
+      "patternScore": 67.97,
+      "patternText": "290.317/427.119",
+      "aiScore": 56,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
