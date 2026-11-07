@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 12:14",
+  "updatedAt": "07.11.2026 12:33",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 522,
       "rate": 67.6
     },
-    "totalAnalyses": 453642,
+    "totalAnalyses": 453647,
     "leagues": 487,
     "pro": {
-      "won": 1176,
-      "lost": 478,
-      "total": 1654,
-      "rate": 71.1
+      "won": 1153,
+      "lost": 470,
+      "total": 1623,
+      "rate": 71.0
     },
     "insights": {
-      "won": 2006,
-      "lost": 854,
-      "total": 2860,
-      "rate": 70.1
+      "won": 1970,
+      "lost": 844,
+      "total": 2814,
+      "rate": 70.0
     },
     "coupons": {
       "won": 49,
@@ -47,7 +47,7 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 3009,
+    "analyses24h": 3007,
     "analyses30d": 21897
   },
   "recentWins": [
@@ -360,13 +360,13 @@
     },
     {
       "type": "updated",
-      "at": "07.11.2026 11:38",
+      "at": "07.11.2026 12:21",
       "home": "Muglaspor",
       "away": "Esenler Erokspor"
     },
     {
       "type": "updated",
-      "at": "07.11.2026 08:54",
+      "at": "07.11.2026 12:21",
       "home": "Samsunspor",
       "away": "Konyaspor"
     }
@@ -409,30 +409,6 @@
       "picks": 9
     },
     {
-      "home": "FC Ingolstadt",
-      "away": "Fortuna Dusseldorf",
-      "league": "AL3",
-      "date": "07.11.2026 13:00",
-      "matchCode": "4517716",
-      "odds": 1.85,
-      "patternScore": 67.62,
-      "patternText": "283.317/418.957",
-      "aiScore": 52,
-      "picks": 4
-    },
-    {
-      "home": "Rot-Weiss Essen",
-      "away": "Alemannia Aachen",
-      "league": "AL3",
-      "date": "07.11.2026 13:00",
-      "matchCode": "4517711",
-      "odds": 1.66,
-      "patternScore": 67.74,
-      "patternText": "291.541/430.361",
-      "aiScore": 54,
-      "picks": 6
-    },
-    {
       "home": "Torino FC",
       "away": "US Lecce",
       "league": "İTA",
@@ -443,9 +419,54 @@
       "patternText": "308.248/452.321",
       "aiScore": 54,
       "picks": 4
+    },
+    {
+      "home": "Juventus Women",
+      "away": "Sassuolo Women",
+      "league": "İTKSA",
+      "date": "07.11.2026 17:00",
+      "matchCode": "4534576",
+      "odds": 1.54,
+      "patternScore": 66.89,
+      "patternText": "313.632/468.891",
+      "aiScore": 54,
+      "picks": 1
+    },
+    {
+      "home": "Nottingham Forest",
+      "away": "Manchester City",
+      "league": "İNP",
+      "date": "07.11.2026 17:30",
+      "matchCode": "4481109",
+      "odds": 1.45,
+      "patternScore": 65.34,
+      "patternText": "352.427/539.368",
+      "aiScore": 56,
+      "picks": 9
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Muglaspor",
+      "away": "Esenler Erokspor",
+      "league": "T1L",
+      "at": "07.11.2026 12:21",
+      "count": 5
+    },
+    {
+      "home": "Samsunspor",
+      "away": "Konyaspor",
+      "league": "TSL",
+      "at": "07.11.2026 12:21",
+      "count": 5
+    },
+    {
+      "home": "Malaga CF",
+      "away": "Racing Santander",
+      "league": "İS1",
+      "at": "07.11.2026 12:21",
+      "count": 5
+    },
     {
       "home": "Cadiz CF",
       "away": "Real Oviedo",
@@ -494,27 +515,6 @@
       "league": "İTA",
       "at": "07.11.2026 11:39",
       "count": 5
-    },
-    {
-      "home": "Borussia Dortmund",
-      "away": "SV Elversberg",
-      "league": "AL1",
-      "at": "07.11.2026 11:39",
-      "count": 15
-    },
-    {
-      "home": "Muglaspor",
-      "away": "Esenler Erokspor",
-      "league": "T1L",
-      "at": "07.11.2026 11:38",
-      "count": 5
-    },
-    {
-      "home": "Malaga CF",
-      "away": "Racing Santander",
-      "league": "İS1",
-      "at": "07.11.2026 11:38",
-      "count": 8
     }
   ],
   "paywall": {
