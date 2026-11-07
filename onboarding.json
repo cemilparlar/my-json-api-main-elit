@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 19:35",
+  "updatedAt": "07.11.2026 19:43",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 642,
-      "lost": 281,
-      "total": 923,
-      "rate": 69.6
+      "won": 648,
+      "lost": 284,
+      "total": 932,
+      "rate": 69.5
     },
-    "totalAnalyses": 455208,
+    "totalAnalyses": 455220,
     "leagues": 487,
     "pro": {
-      "won": 1187,
-      "lost": 465,
-      "total": 1652,
-      "rate": 71.9
+      "won": 1191,
+      "lost": 468,
+      "total": 1659,
+      "rate": 71.8
     },
     "insights": {
-      "won": 1944,
-      "lost": 828,
-      "total": 2772,
+      "won": 1948,
+      "lost": 831,
+      "total": 2779,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 120,
       "rate": 44.2
     },
-    "analyses24h": 2805,
-    "analyses30d": 21975
+    "analyses24h": 2815,
+    "analyses30d": 21985
   },
   "recentWins": [
     {
@@ -335,12 +335,6 @@
     },
     {
       "type": "updated",
-      "at": "07.11.2026 13:36",
-      "home": "Pendikspor",
-      "away": "Istanbulspor"
-    },
-    {
-      "type": "updated",
       "at": "07.11.2026 14:10",
       "home": "Scarborough At",
       "away": "Buxton"
@@ -362,6 +356,12 @@
       "at": "07.11.2026 14:10",
       "home": "Alloa Athletic",
       "away": "Airdrieonians"
+    },
+    {
+      "type": "updated",
+      "at": "07.11.2026 14:11",
+      "home": "Arbroath",
+      "away": "Ayr United"
     }
   ],
   "today": {
@@ -371,8 +371,8 @@
     "date": "08.11.2026 00:00",
     "matchCode": "4475942",
     "odds": 1.8,
-    "patternScore": 66.49,
-    "patternText": "160.249/241.027",
+    "patternScore": 66.48,
+    "patternText": "160.261/241.053",
     "aiScore": 53,
     "picks": 8
   },
@@ -384,8 +384,8 @@
       "date": "08.11.2026 00:00",
       "matchCode": "4475942",
       "odds": 1.8,
-      "patternScore": 66.49,
-      "patternText": "160.249/241.027",
+      "patternScore": 66.48,
+      "patternText": "160.261/241.053",
       "aiScore": 53,
       "picks": 8
     },
@@ -397,7 +397,7 @@
       "matchCode": "4475939",
       "odds": 1.74,
       "patternScore": 66.73,
-      "patternText": "235.054/352.257",
+      "patternText": "235.092/352.307",
       "aiScore": 53,
       "picks": 8
     },
@@ -409,7 +409,7 @@
       "matchCode": "4475945",
       "odds": 1.54,
       "patternScore": 67.66,
-      "patternText": "222.233/328.467",
+      "patternText": "222.257/328.497",
       "aiScore": 54,
       "picks": 1
     },
@@ -421,7 +421,7 @@
       "matchCode": "4454054",
       "odds": 1.44,
       "patternScore": 67.4,
-      "patternText": "243.777/361.682",
+      "patternText": "243.805/361.718",
       "aiScore": 55,
       "picks": 3
     },
@@ -433,8 +433,8 @@
       "matchCode": "4419838",
       "odds": 1.34,
       "patternScore": 68.36,
-      "patternText": "148.245/216.849",
-      "aiScore": 62,
+      "patternText": "148.249/216.857",
+      "aiScore": 61,
       "picks": 4
     }
   ],
