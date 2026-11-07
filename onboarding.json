@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 15:04",
+  "updatedAt": "07.11.2026 15:15",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 420,
-      "lost": 205,
-      "total": 625,
-      "rate": 67.2
+      "won": 448,
+      "lost": 225,
+      "total": 673,
+      "rate": 66.6
     },
     "totalAnalyses": 454467,
     "leagues": 487,
     "pro": {
-      "won": 1055,
-      "lost": 417,
-      "total": 1472,
-      "rate": 71.7
+      "won": 1068,
+      "lost": 427,
+      "total": 1495,
+      "rate": 71.4
     },
     "insights": {
-      "won": 1757,
-      "lost": 766,
-      "total": 2523,
-      "rate": 69.6
+      "won": 1781,
+      "lost": 784,
+      "total": 2565,
+      "rate": 69.4
     },
     "coupons": {
-      "won": 51,
+      "won": 52,
       "lost": 49,
-      "total": 100,
-      "rate": 51.0
+      "total": 101,
+      "rate": 51.5
     },
-    "analyses24h": 3029,
-    "analyses30d": 21932
+    "analyses24h": 3023,
+    "analyses30d": 21926
   },
   "recentWins": [
     {
@@ -123,6 +123,49 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.52,
+      "winChance": 37.81,
+      "completedAt": "07.11.2026 15:15",
+      "legs": [
+        {
+          "home": "Belshina Bobru",
+          "away": "Isloch",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.07,
+          "finalScore": "2 - 3"
+        },
+        {
+          "home": "Paksi",
+          "away": "Zalaegerszeg",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Wrexham AFC",
+          "away": "Wolverhampton Wanderers",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.09,
+          "finalScore": "1 - 1"
+        },
+        {
+          "home": "FC Ingolstadt",
+          "away": "Fortuna Dusseldorf",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.06,
+          "finalScore": "3 - 2"
+        },
+        {
+          "home": "Waldhof Mannheim",
+          "away": "Fortuna Koln",
+          "prediction": "Double Chance 12",
+          "odds": 1.14,
+          "finalScore": "2 - 1"
+        }
+      ]
+    },
     {
       "size": 4,
       "totalOdds": 1.5,
@@ -249,49 +292,6 @@
           "prediction": "Double Chance 12",
           "odds": 1.15,
           "finalScore": null
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.52,
-      "winChance": 40.42,
-      "completedAt": "07.11.2026 07:20",
-      "legs": [
-        {
-          "home": "Eintracht Braunschweig",
-          "away": "Energie Cottbus",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.14,
-          "finalScore": "0 - 0"
-        },
-        {
-          "home": "Waasland-Bever",
-          "away": "Seraing U21",
-          "prediction": "Double Chance 1X",
-          "odds": 1.07,
-          "finalScore": "6 - 0"
-        },
-        {
-          "home": "USL Dunkerque",
-          "away": "En Avant Guingamp",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.07,
-          "finalScore": "3 - 0"
-        },
-        {
-          "home": "Fc Eindhoven",
-          "away": "Jong Ajax",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "0 - 3"
-        },
-        {
-          "home": "Jong AZ",
-          "away": "Almere City FC",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "1 - 3"
         }
       ]
     }
