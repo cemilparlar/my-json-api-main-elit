@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 20:56",
+  "updatedAt": "07.11.2026 21:04",
   "config": {
     "pages": [
       "engine",
@@ -27,28 +27,28 @@
       "total": 947,
       "rate": 68.4
     },
-    "totalAnalyses": 455555,
+    "totalAnalyses": 455607,
     "leagues": 488,
     "pro": {
-      "won": 1184,
-      "lost": 472,
-      "total": 1656,
+      "won": 1182,
+      "lost": 471,
+      "total": 1653,
       "rate": 71.5
     },
     "insights": {
-      "won": 1954,
-      "lost": 840,
-      "total": 2794,
-      "rate": 69.9
+      "won": 1948,
+      "lost": 836,
+      "total": 2784,
+      "rate": 70.0
     },
     "coupons": {
-      "won": 52,
+      "won": 54,
       "lost": 70,
-      "total": 122,
-      "rate": 42.6
+      "total": 124,
+      "rate": 43.5
     },
     "analyses24h": 2881,
-    "analyses30d": 22121
+    "analyses30d": 22119
   },
   "recentWins": [
     {
@@ -123,6 +123,85 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.57,
+      "winChance": 36.45,
+      "completedAt": "07.11.2026 21:04",
+      "legs": [
+        {
+          "home": "Nuremberg",
+          "away": "SV Darmstadt 98",
+          "prediction": "Handicap (1:0) 1",
+          "odds": 1.07,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "Portsmouth",
+          "away": "Stoke City",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.1,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "Chemnitzer FC",
+          "away": "Greifswalder FC",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": null
+        },
+        {
+          "home": "Bonner Sc",
+          "away": "FC Gutersloh",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": null
+        },
+        {
+          "home": "Rot-Weiss Essen",
+          "away": "Alemannia Aachen",
+          "prediction": "1st Half Over 0.5",
+          "odds": 1.12,
+          "finalScore": "1 - 0"
+        }
+      ]
+    },
+    {
+      "size": 4,
+      "totalOdds": 1.52,
+      "winChance": 40.51,
+      "completedAt": "07.11.2026 21:04",
+      "legs": [
+        {
+          "home": "Lokomotiva Zvo",
+          "away": "Galanta",
+          "prediction": "Double Chance 12",
+          "odds": 1.09,
+          "finalScore": "1 - 5"
+        },
+        {
+          "home": "Fsv Frankfurt",
+          "away": "Sgv Freiberg",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": null
+        },
+        {
+          "home": "Burgos CF",
+          "away": "Celta Vigo B",
+          "prediction": "Double Chance 12",
+          "odds": 1.15,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Fa 2000",
+          "away": "VSK Arhus",
+          "prediction": "Double Chance 12",
+          "odds": 1.12,
+          "finalScore": "1 - 0"
+        }
+      ]
+    },
     {
       "size": 4,
       "totalOdds": 1.5,
@@ -201,85 +280,6 @@
           "finalScore": "3 - 1"
         }
       ]
-    },
-    {
-      "size": 4,
-      "totalOdds": 1.51,
-      "winChance": 41.2,
-      "completedAt": "07.11.2026 16:03",
-      "legs": [
-        {
-          "home": "FC Ingolstadt",
-          "away": "Fortuna Dusseldorf",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.17,
-          "finalScore": "3 - 2"
-        },
-        {
-          "home": "Paris 13 Atletico",
-          "away": "La Roche Sur Yo",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.11,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "US Concarneau",
-          "away": "Fc Fleury 91",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.08,
-          "finalScore": "2 - 0"
-        },
-        {
-          "home": "Orebro SK",
-          "away": "Oster",
-          "prediction": "1st Half Under 2.5",
-          "odds": 1.08,
-          "finalScore": "1 - 1"
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.51,
-      "winChance": 32.44,
-      "completedAt": "07.11.2026 16:03",
-      "legs": [
-        {
-          "home": "Portsmouth",
-          "away": "Stoke City",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.1,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "Ostia Mare Lid",
-          "away": "Spezia Calcio",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "0 - 4"
-        },
-        {
-          "home": "Slask Wroclaw",
-          "away": "Piast Gliwice",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.07,
-          "finalScore": "0 - 0"
-        },
-        {
-          "home": "Ljungskile",
-          "away": "Landskrona BoIS",
-          "prediction": "1st Half Over 0.5",
-          "odds": 1.1,
-          "finalScore": "1 - 1"
-        },
-        {
-          "home": "Shinnik Yaroslavl",
-          "away": "FC Ufa",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.08,
-          "finalScore": "2 - 1"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -317,21 +317,21 @@
     },
     {
       "type": "coupon",
-      "size": 3,
-      "odds": 1.55,
-      "at": "07.11.2026 20:01"
+      "size": 5,
+      "odds": 1.52,
+      "at": "07.11.2026 21:04"
     },
     {
       "type": "coupon",
-      "size": 4,
-      "odds": 1.5,
-      "at": "07.11.2026 18:05"
+      "size": 5,
+      "odds": 1.52,
+      "at": "07.11.2026 21:04"
     },
     {
       "type": "coupon",
-      "size": 4,
-      "odds": 1.54,
-      "at": "07.11.2026 18:05"
+      "size": 5,
+      "odds": 1.51,
+      "at": "07.11.2026 21:04"
     },
     {
       "type": "updated",
@@ -371,8 +371,8 @@
     "date": "08.11.2026 00:00",
     "matchCode": "4475942",
     "odds": 1.8,
-    "patternScore": 66.48,
-    "patternText": "160.285/241.087",
+    "patternScore": 66.49,
+    "patternText": "160.291/241.093",
     "aiScore": 53,
     "picks": 8
   },
@@ -384,8 +384,8 @@
       "date": "08.11.2026 00:00",
       "matchCode": "4475942",
       "odds": 1.8,
-      "patternScore": 66.48,
-      "patternText": "160.285/241.087",
+      "patternScore": 66.49,
+      "patternText": "160.291/241.093",
       "aiScore": 53,
       "picks": 8
     },
@@ -397,7 +397,7 @@
       "matchCode": "4475945",
       "odds": 1.54,
       "patternScore": 67.66,
-      "patternText": "222.351/328.633",
+      "patternText": "222.359/328.643",
       "aiScore": 54,
       "picks": 1
     },
@@ -409,7 +409,7 @@
       "matchCode": "4475941",
       "odds": 1.5,
       "patternScore": 67.22,
-      "patternText": "168.329/250.405",
+      "patternText": "168.335/250.413",
       "aiScore": 56,
       "picks": 5
     },
@@ -421,7 +421,7 @@
       "matchCode": "4574407",
       "odds": 1.28,
       "patternScore": 68.47,
-      "patternText": "284.674/415.746",
+      "patternText": "284.694/415.766",
       "aiScore": 58,
       "picks": 1
     },
@@ -433,7 +433,7 @@
       "matchCode": "4475937",
       "odds": 1.24,
       "patternScore": 68.44,
-      "patternText": "251.749/367.850",
+      "patternText": "251.757/367.858",
       "aiScore": 64,
       "picks": 3
     }
