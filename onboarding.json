@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 21:59",
+  "updatedAt": "07.11.2026 22:06",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 688,
-      "lost": 315,
-      "total": 1003,
-      "rate": 68.6
+      "won": 702,
+      "lost": 326,
+      "total": 1028,
+      "rate": 68.3
     },
     "totalAnalyses": 455723,
-    "leagues": 488,
+    "leagues": 487,
     "pro": {
-      "won": 1204,
-      "lost": 479,
-      "total": 1683,
-      "rate": 71.5
+      "won": 1216,
+      "lost": 482,
+      "total": 1698,
+      "rate": 71.6
     },
     "insights": {
-      "won": 1980,
-      "lost": 847,
-      "total": 2827,
-      "rate": 70.0
+      "won": 1993,
+      "lost": 851,
+      "total": 2844,
+      "rate": 70.1
     },
     "coupons": {
-      "won": 54,
+      "won": 60,
       "lost": 69,
-      "total": 123,
-      "rate": 43.9
+      "total": 129,
+      "rate": 46.5
     },
     "analyses24h": 2886,
-    "analyses30d": 22124
+    "analyses30d": 22111
   },
   "recentWins": [
     {
@@ -124,160 +124,160 @@
   ],
   "recentCoupons": [
     {
-      "size": 5,
-      "totalOdds": 1.57,
-      "winChance": 36.45,
-      "completedAt": "07.11.2026 21:04",
+      "size": 4,
+      "totalOdds": 1.5,
+      "winChance": 43.8,
+      "completedAt": "07.11.2026 22:06",
       "legs": [
         {
           "home": "Nuremberg",
           "away": "SV Darmstadt 98",
-          "prediction": "Handicap (1:0) 1",
-          "odds": 1.07,
+          "prediction": "Double Chance 1X",
+          "odds": 1.09,
           "finalScore": "2 - 0"
         },
         {
-          "home": "Portsmouth",
-          "away": "Stoke City",
+          "home": "FC Slavia Sofia",
+          "away": "Cherno More",
           "prediction": "1st Half Double Chance 1X",
-          "odds": 1.1,
-          "finalScore": "1 - 2"
+          "odds": 1.11,
+          "finalScore": "0 - 0"
         },
         {
-          "home": "Chemnitzer FC",
-          "away": "Greifswalder FC",
+          "home": "FC Hradec Kralove",
+          "away": "FK Sigma Olomouc",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.09,
+          "finalScore": "5 - 0"
+        },
+        {
+          "home": "Jong Almere City",
+          "away": "Kozakken Boys",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.14,
+          "finalScore": null
+        }
+      ]
+    },
+    {
+      "size": 5,
+      "totalOdds": 1.58,
+      "winChance": 31.53,
+      "completedAt": "07.11.2026 22:06",
+      "legs": [
+        {
+          "home": "Al Dhafra",
+          "away": "Al Ittihad Kalb",
           "prediction": "Double Chance 12",
+          "odds": 1.11,
+          "finalScore": "1 - 3"
+        },
+        {
+          "home": "Arsenal Tula",
+          "away": "FC Chelyabinsk",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.09,
+          "finalScore": null
+        },
+        {
+          "home": "Hhc",
+          "away": "Rijnsburgse Boys",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.12,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "IK Brage",
+          "away": "Norrby",
+          "prediction": "Over 1.5 Goals",
           "odds": 1.08,
           "finalScore": null
         },
         {
-          "home": "Bonner Sc",
-          "away": "FC Gutersloh",
+          "home": "Ostersunds FK",
+          "away": "IF Oddevold",
+          "prediction": "Handicap (1:0) 1",
+          "odds": 1.08,
+          "finalScore": null
+        }
+      ]
+    },
+    {
+      "size": 5,
+      "totalOdds": 1.54,
+      "winChance": 30.72,
+      "completedAt": "07.11.2026 22:06",
+      "legs": [
+        {
+          "home": "Atalanta U23",
+          "away": "Reggiana",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.07,
+          "finalScore": "4 - 3"
+        },
+        {
+          "home": "Rouen",
+          "away": "SC Bastia",
           "prediction": "Double Chance 12",
-          "odds": 1.1,
+          "odds": 1.09,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "Villefranche",
+          "away": "Quevilly-Rouen Metropolitains",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.08,
+          "finalScore": "0 - 2"
+        },
+        {
+          "home": "Bokelj Kotor",
+          "away": "Mornar Bar",
+          "prediction": "Double Chance X2",
+          "odds": 1.12,
           "finalScore": null
         },
         {
-          "home": "Rot-Weiss Essen",
-          "away": "Alemannia Aachen",
-          "prediction": "1st Half Over 0.5",
-          "odds": 1.12,
-          "finalScore": "1 - 0"
+          "home": "GD Chaves",
+          "away": "FC Penafiel",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.09,
+          "finalScore": "2 - 3"
         }
       ]
     },
     {
       "size": 4,
       "totalOdds": 1.52,
-      "winChance": 40.51,
-      "completedAt": "07.11.2026 21:04",
+      "winChance": 39.0,
+      "completedAt": "07.11.2026 22:06",
       "legs": [
         {
-          "home": "Lokomotiva Zvo",
-          "away": "Galanta",
-          "prediction": "Double Chance 12",
-          "odds": 1.09,
-          "finalScore": "1 - 5"
-        },
-        {
-          "home": "Fsv Frankfurt",
-          "away": "Sgv Freiberg",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
+          "home": "IK Brage",
+          "away": "Norrby",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.1,
           "finalScore": null
         },
         {
-          "home": "Burgos CF",
-          "away": "Celta Vigo B",
+          "home": "York",
+          "away": "Northampton Town",
           "prediction": "Double Chance 12",
-          "odds": 1.15,
+          "odds": 1.11,
+          "finalScore": "4 - 0"
+        },
+        {
+          "home": "Queens Park Rangers",
+          "away": "Lincoln City",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.13,
           "finalScore": "2 - 1"
         },
         {
-          "home": "Fa 2000",
-          "away": "VSK Arhus",
+          "home": "St Albans",
+          "away": "Welling Utd",
           "prediction": "Double Chance 12",
-          "odds": 1.12,
-          "finalScore": "1 - 0"
-        }
-      ]
-    },
-    {
-      "size": 4,
-      "totalOdds": 1.5,
-      "winChance": 43.75,
-      "completedAt": "07.11.2026 19:05",
-      "legs": [
-        {
-          "home": "Fortuna Sittar",
-          "away": "SC Telstar",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.12,
-          "finalScore": "2 - 2"
-        },
-        {
-          "home": "FC Den Bosch",
-          "away": "Jong Utrecht",
-          "prediction": "1st Half Under 2.5",
-          "odds": 1.16,
-          "finalScore": "1 - 1"
-        },
-        {
-          "home": "FC Winterthur",
-          "away": "Etoile Carouge",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.07,
-          "finalScore": "2 - 2"
-        },
-        {
-          "home": "OB Odense",
-          "away": "Viborg FF",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.08,
-          "finalScore": "1 - 2"
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.53,
-      "winChance": 35.05,
-      "completedAt": "07.11.2026 17:17",
-      "legs": [
-        {
-          "home": "Malaga CF",
-          "away": "Racing Santander",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.06,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "FC Ingolstadt",
-          "away": "Fortuna Dusseldorf",
-          "prediction": "1st Half Over 0.5",
-          "odds": 1.16,
-          "finalScore": "3 - 2"
-        },
-        {
-          "home": "Preston North End",
-          "away": "Southam",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Weston-S-Mare",
-          "away": "Braintree",
-          "prediction": "Double Chance 12",
-          "odds": 1.07,
-          "finalScore": "4 - 1"
-        },
-        {
-          "home": "Slough Town",
-          "away": "Walton And Hers",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "3 - 1"
+          "odds": 1.1,
+          "finalScore": "1 - 3"
         }
       ]
     }
@@ -318,19 +318,19 @@
     {
       "type": "coupon",
       "size": 5,
-      "odds": 1.52,
-      "at": "07.11.2026 21:04"
+      "odds": 1.61,
+      "at": "07.11.2026 22:06"
+    },
+    {
+      "type": "coupon",
+      "size": 4,
+      "odds": 1.57,
+      "at": "07.11.2026 22:06"
     },
     {
       "type": "coupon",
       "size": 5,
       "odds": 1.52,
-      "at": "07.11.2026 21:04"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.51,
       "at": "07.11.2026 21:04"
     },
     {
@@ -426,16 +426,16 @@
       "picks": 1
     },
     {
-      "home": "Talleres de Cordoba",
-      "away": "Estudiantes de La Plata",
-      "league": "ARJ",
-      "date": "08.11.2026 00:00",
-      "matchCode": "4475937",
+      "home": "Macarthur FC",
+      "away": "Brisbane Roar",
+      "league": "AVUS",
+      "date": "08.11.2026 04:00",
+      "matchCode": "4546756",
       "odds": 1.24,
-      "patternScore": 68.44,
-      "patternText": "251.805/367.918",
-      "aiScore": 64,
-      "picks": 3
+      "patternScore": 67.93,
+      "patternText": "230.165/338.803",
+      "aiScore": 66,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
