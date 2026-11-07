@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 20:28",
+  "updatedAt": "07.11.2026 20:37",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 627,
-      "lost": 280,
-      "total": 907,
-      "rate": 69.1
+      "won": 640,
+      "lost": 289,
+      "total": 929,
+      "rate": 68.9
     },
-    "totalAnalyses": 455433,
+    "totalAnalyses": 455524,
     "leagues": 488,
     "pro": {
-      "won": 1175,
-      "lost": 469,
-      "total": 1644,
-      "rate": 71.5
+      "won": 1180,
+      "lost": 472,
+      "total": 1652,
+      "rate": 71.4
     },
     "insights": {
-      "won": 1935,
-      "lost": 830,
-      "total": 2765,
-      "rate": 70.0
+      "won": 1946,
+      "lost": 839,
+      "total": 2785,
+      "rate": 69.9
     },
     "coupons": {
       "won": 52,
-      "lost": 69,
-      "total": 121,
-      "rate": 43.0
+      "lost": 70,
+      "total": 122,
+      "rate": 42.6
     },
-    "analyses24h": 2836,
-    "analyses30d": 22076
+    "analyses24h": 2878,
+    "analyses30d": 22114
   },
   "recentWins": [
     {
@@ -64,6 +64,20 @@
       "firstHalf": "1 - 0",
       "finalScore": "2 - 1",
       "pro": true
+    },
+    {
+      "home": "SV Ried",
+      "away": "LASK Linz",
+      "league": "AVU",
+      "date": "07.11.2026 18:30",
+      "prediction": "1st Half Result X",
+      "odds": 2.47,
+      "probability": 75.0,
+      "patternScore": 64.18,
+      "aiScore": 51,
+      "firstHalf": "2 - 2",
+      "finalScore": "2 - 4",
+      "pro": false
     },
     {
       "home": "Torino FC",
@@ -106,20 +120,6 @@
       "firstHalf": "1 - 1",
       "finalScore": "2 - 1",
       "pro": true
-    },
-    {
-      "home": "Nottingham Forest",
-      "away": "Manchester City",
-      "league": "İNP",
-      "date": "07.11.2026 17:30",
-      "prediction": "Double Chance 1X",
-      "odds": 1.9,
-      "probability": 77.78,
-      "patternScore": 67.71,
-      "aiScore": 53,
-      "firstHalf": "2 - 0",
-      "finalScore": "3 - 1",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -293,6 +293,14 @@
     },
     {
       "type": "won",
+      "home": "SV Ried",
+      "away": "LASK Linz",
+      "prediction": "1st Half Result X",
+      "odds": 2.47,
+      "at": "07.11.2026 18:30"
+    },
+    {
+      "type": "won",
       "home": "Torino FC",
       "away": "US Lecce",
       "prediction": "1st Half Result X",
@@ -306,14 +314,6 @@
       "prediction": "Total Goals 2-3",
       "odds": 1.97,
       "at": "07.11.2026 17:00"
-    },
-    {
-      "type": "won",
-      "home": "Kashiwa Reysol",
-      "away": "Kawasaki Frontale",
-      "prediction": "Match Result 1",
-      "odds": 1.94,
-      "at": "07.11.2026 07:00"
     },
     {
       "type": "coupon",
@@ -365,30 +365,18 @@
     }
   ],
   "today": {
-    "home": "Nautico",
-    "away": "Regatas",
-    "league": "BR2",
-    "date": "08.11.2026 00:30",
-    "matchCode": "4454054",
-    "odds": 1.86,
-    "patternScore": 66.91,
-    "patternText": "225.115/336.426",
-    "aiScore": 52,
-    "picks": 7
+    "home": "Club Atletico Tigre",
+    "away": "CA Sarmiento",
+    "league": "ARJ",
+    "date": "08.11.2026 00:00",
+    "matchCode": "4475942",
+    "odds": 1.8,
+    "patternScore": 66.49,
+    "patternText": "160.279/241.075",
+    "aiScore": 53,
+    "picks": 8
   },
   "todayList": [
-    {
-      "home": "Nautico",
-      "away": "Regatas",
-      "league": "BR2",
-      "date": "08.11.2026 00:30",
-      "matchCode": "4454054",
-      "odds": 1.86,
-      "patternScore": 66.91,
-      "patternText": "225.115/336.426",
-      "aiScore": 52,
-      "picks": 7
-    },
     {
       "home": "Club Atletico Tigre",
       "away": "CA Sarmiento",
@@ -397,7 +385,7 @@
       "matchCode": "4475942",
       "odds": 1.8,
       "patternScore": 66.49,
-      "patternText": "160.279/241.073",
+      "patternText": "160.279/241.075",
       "aiScore": 53,
       "picks": 8
     },
@@ -409,8 +397,8 @@
       "matchCode": "4475939",
       "odds": 1.74,
       "patternScore": 66.73,
-      "patternText": "235.126/352.365",
-      "aiScore": 53,
+      "patternText": "235.132/352.371",
+      "aiScore": 52,
       "picks": 8
     },
     {
@@ -421,21 +409,33 @@
       "matchCode": "4475945",
       "odds": 1.54,
       "patternScore": 67.66,
-      "patternText": "222.311/328.575",
+      "patternText": "222.317/328.581",
       "aiScore": 54,
       "picks": 1
     },
     {
-      "home": "FC Cincinnati",
-      "away": "Nashville SC",
+      "home": "Houston Dynamo",
+      "away": "St. Louis City SC",
       "league": "ABD",
-      "date": "07.11.2026 21:00",
-      "matchCode": "4419838",
+      "date": "08.11.2026 00:00",
+      "matchCode": "4445807",
       "odds": 1.34,
-      "patternScore": 68.37,
-      "patternText": "148.293/216.905",
-      "aiScore": 62,
+      "patternScore": 67.8,
+      "patternText": "156.150/230.316",
+      "aiScore": 61,
       "picks": 4
+    },
+    {
+      "home": "UPNFM",
+      "away": "Club Deportivo Motagua",
+      "league": "HON",
+      "date": "07.11.2026 23:15",
+      "matchCode": "4574407",
+      "odds": 1.28,
+      "patternScore": 68.47,
+      "patternText": "284.644/415.694",
+      "aiScore": 58,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
