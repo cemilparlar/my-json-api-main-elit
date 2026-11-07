@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 07:30",
+  "updatedAt": "07.11.2026 07:39",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 336,
-      "lost": 160,
-      "total": 496,
-      "rate": 67.7
+      "won": 338,
+      "lost": 163,
+      "total": 501,
+      "rate": 67.5
     },
-    "totalAnalyses": 452966,
+    "totalAnalyses": 452975,
     "leagues": 489,
     "pro": {
       "won": 1161,
-      "lost": 462,
-      "total": 1623,
-      "rate": 71.5
+      "lost": 464,
+      "total": 1625,
+      "rate": 71.4
     },
     "insights": {
-      "won": 1991,
-      "lost": 839,
-      "total": 2830,
-      "rate": 70.4
+      "won": 1993,
+      "lost": 842,
+      "total": 2835,
+      "rate": 70.3
     },
     "coupons": {
       "won": 48,
@@ -359,9 +359,9 @@
     },
     {
       "type": "updated",
-      "at": "07.11.2026 07:20",
-      "home": "Ayutthaya United",
-      "away": "Pattani"
+      "at": "07.11.2026 07:34",
+      "home": "Kazincbarcika",
+      "away": "Soroksar"
     }
   ],
   "today": {
@@ -372,7 +372,7 @@
     "matchCode": "4495833",
     "odds": 1.8,
     "patternScore": 67.11,
-    "patternText": "286.654/427.111",
+    "patternText": "286.670/427.141",
     "aiScore": 53,
     "picks": 9
   },
@@ -385,7 +385,7 @@
       "matchCode": "4495833",
       "odds": 1.8,
       "patternScore": 67.11,
-      "patternText": "286.654/427.111",
+      "patternText": "286.670/427.141",
       "aiScore": 53,
       "picks": 9
     },
@@ -397,7 +397,7 @@
       "matchCode": "4517711",
       "odds": 1.66,
       "patternScore": 67.75,
-      "patternText": "291.371/430.081",
+      "patternText": "291.387/430.111",
       "aiScore": 54,
       "picks": 6
     },
@@ -409,9 +409,21 @@
       "matchCode": "4523500",
       "odds": 1.65,
       "patternScore": 68.23,
-      "patternText": "306.259/448.848",
+      "patternText": "306.275/448.878",
       "aiScore": 56,
       "picks": 1
+    },
+    {
+      "home": "RKAV Volendam",
+      "away": "De Treffers",
+      "league": "HOLTW",
+      "date": "07.11.2026 13:30",
+      "matchCode": "4541283",
+      "odds": 1.47,
+      "patternScore": 67.98,
+      "patternText": "274.357/403.556",
+      "aiScore": 55,
+      "picks": 2
     },
     {
       "home": "Babrungas",
@@ -421,24 +433,19 @@
       "matchCode": "4484916",
       "odds": 1.4,
       "patternScore": 66.68,
-      "patternText": "202.585/303.801",
+      "patternText": "202.601/303.827",
       "aiScore": 55,
       "picks": 3
-    },
-    {
-      "home": "Burgos CF",
-      "away": "Celta Vigo B",
-      "league": "İS2",
-      "date": "07.11.2026 13:00",
-      "matchCode": "4492812",
-      "odds": 1.4,
-      "patternScore": 68.11,
-      "patternText": "188.350/276.552",
-      "aiScore": 59,
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Holstein Kiel",
+      "away": "Arminia Bielefe",
+      "league": "AL2",
+      "at": "07.11.2026 07:34",
+      "count": 3
+    },
     {
       "home": "FK Fakel Voronezh",
       "away": "Dinamo Moscow",
@@ -500,13 +507,6 @@
       "away": "Bolton Wanderers",
       "league": "İNCL",
       "at": "06.11.2026 19:22",
-      "count": 5
-    },
-    {
-      "home": "Unione V.",
-      "away": "Udinese",
-      "league": "İTA",
-      "at": "06.11.2026 19:02",
       "count": 5
     }
   ],
