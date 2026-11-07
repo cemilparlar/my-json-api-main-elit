@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 16:51",
+  "updatedAt": "07.11.2026 17:00",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 858,
       "rate": 67.1
     },
-    "totalAnalyses": 454868,
+    "totalAnalyses": 454893,
     "leagues": 487,
     "pro": {
       "won": 1113,
@@ -47,8 +47,8 @@
       "total": 109,
       "rate": 49.5
     },
-    "analyses24h": 3011,
-    "analyses30d": 21910
+    "analyses24h": 2958,
+    "analyses30d": 21888
   },
   "recentWins": [
     {
@@ -318,20 +318,20 @@
     {
       "type": "coupon",
       "size": 5,
+      "odds": 1.59,
+      "at": "07.11.2026 17:00"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
+      "odds": 1.51,
+      "at": "07.11.2026 17:00"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
       "odds": 1.55,
       "at": "07.11.2026 16:03"
-    },
-    {
-      "type": "coupon",
-      "size": 4,
-      "odds": 1.52,
-      "at": "07.11.2026 15:04"
-    },
-    {
-      "type": "coupon",
-      "size": 4,
-      "odds": 1.51,
-      "at": "07.11.2026 15:04"
     },
     {
       "type": "updated",
@@ -390,6 +390,18 @@
       "picks": 3
     },
     {
+      "home": "Benevento",
+      "away": "US Avellino",
+      "league": "İTB",
+      "date": "07.11.2026 18:30",
+      "matchCode": "4534778",
+      "odds": 1.8,
+      "patternScore": 67.34,
+      "patternText": "194.892/289.436",
+      "aiScore": 53,
+      "picks": 3
+    },
+    {
       "home": "AS Saint-Etienne",
       "away": "Stade Lavalois",
       "league": "FR2",
@@ -414,18 +426,6 @@
       "picks": 5
     },
     {
-      "home": "CA Osasuna",
-      "away": "Athletic Bilbao",
-      "league": "İS1",
-      "date": "07.11.2026 17:30",
-      "matchCode": "4492374",
-      "odds": 1.56,
-      "patternScore": 68.16,
-      "patternText": "323.035/473.905",
-      "aiScore": 55,
-      "picks": 7
-    },
-    {
       "home": "Excelsior Rotterdam",
       "away": "Go Ahead Eagles",
       "league": "HOL",
@@ -439,6 +439,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "CF Montreal",
+      "away": "Vancouver Whitecaps",
+      "league": "ABD",
+      "at": "07.11.2026 16:52",
+      "count": 4
+    },
     {
       "home": "Nottingham Forest",
       "away": "Manchester City",
@@ -501,13 +508,6 @@
       "league": "AL1",
       "at": "07.11.2026 16:31",
       "count": 5
-    },
-    {
-      "home": "CF Estrela da Amadora",
-      "away": "SL Benfica",
-      "league": "POR",
-      "at": "07.11.2026 16:23",
-      "count": 14
     }
   ],
   "paywall": {
