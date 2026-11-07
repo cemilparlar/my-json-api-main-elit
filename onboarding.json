@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 09:21",
+  "updatedAt": "07.11.2026 09:30",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 343,
-      "lost": 166,
-      "total": 509,
-      "rate": 67.4
+      "won": 346,
+      "lost": 171,
+      "total": 517,
+      "rate": 66.9
     },
-    "totalAnalyses": 453182,
+    "totalAnalyses": 453187,
     "leagues": 489,
     "pro": {
-      "won": 1174,
-      "lost": 472,
-      "total": 1646,
-      "rate": 71.3
+      "won": 1177,
+      "lost": 477,
+      "total": 1654,
+      "rate": 71.2
     },
     "insights": {
-      "won": 2006,
-      "lost": 850,
-      "total": 2856,
-      "rate": 70.2
+      "won": 2009,
+      "lost": 855,
+      "total": 2864,
+      "rate": 70.1
     },
     "coupons": {
       "won": 49,
@@ -48,7 +48,7 @@
       "rate": 52.7
     },
     "analyses24h": 2988,
-    "analyses30d": 21916
+    "analyses30d": 21910
   },
   "recentWins": [
     {
@@ -409,6 +409,18 @@
       "picks": 9
     },
     {
+      "home": "Torino FC",
+      "away": "US Lecce",
+      "league": "İTA",
+      "date": "07.11.2026 14:00",
+      "matchCode": "4475150",
+      "odds": 1.73,
+      "patternScore": 68.11,
+      "patternText": "206.971/303.884",
+      "aiScore": 55,
+      "picks": 7
+    },
+    {
       "home": "Rot-Weiss Essen",
       "away": "Alemannia Aachen",
       "league": "AL3",
@@ -431,21 +443,23 @@
       "patternText": "318.661/470.209",
       "aiScore": 55,
       "picks": 2
-    },
-    {
-      "home": "Torpedo Moscow",
-      "away": "Neftekhimik",
-      "league": "RUS1",
-      "date": "07.11.2026 14:00",
-      "matchCode": "4498118",
-      "odds": 1.53,
-      "patternScore": 67.9,
-      "patternText": "334.092/492.063",
-      "aiScore": 56,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Leeds United",
+      "away": "Tottenham Hotspur",
+      "league": "İNP",
+      "at": "07.11.2026 09:30",
+      "count": 4
+    },
+    {
+      "home": "Malaga CF",
+      "away": "Racing Santander",
+      "league": "İS1",
+      "at": "07.11.2026 09:30",
+      "count": 8
+    },
     {
       "home": "Cesena FC",
       "away": "US Catanzaro",
@@ -501,20 +515,6 @@
       "league": "TSL",
       "at": "07.11.2026 08:54",
       "count": 2
-    },
-    {
-      "home": "Bristol City",
-      "away": "Norwich City",
-      "league": "İNCL",
-      "at": "07.11.2026 08:54",
-      "count": 9
-    },
-    {
-      "home": "Wrexham AFC",
-      "away": "Wolverhampton Wanderers",
-      "league": "İNCL",
-      "at": "07.11.2026 08:53",
-      "count": 5
     }
   ],
   "paywall": {
