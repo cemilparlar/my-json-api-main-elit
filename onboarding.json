@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 14:15",
+  "updatedAt": "07.11.2026 14:24",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 390,
+      "won": 391,
       "lost": 193,
-      "total": 583,
-      "rate": 66.9
+      "total": 584,
+      "rate": 67.0
     },
-    "totalAnalyses": 454142,
+    "totalAnalyses": 454207,
     "leagues": 487,
     "pro": {
-      "won": 1127,
-      "lost": 461,
-      "total": 1588,
-      "rate": 71.0
+      "won": 1128,
+      "lost": 462,
+      "total": 1590,
+      "rate": 70.9
     },
     "insights": {
-      "won": 1923,
-      "lost": 831,
-      "total": 2754,
+      "won": 1925,
+      "lost": 832,
+      "total": 2757,
       "rate": 69.8
     },
     "coupons": {
       "won": 51,
-      "lost": 47,
-      "total": 98,
-      "rate": 52.0
+      "lost": 48,
+      "total": 99,
+      "rate": 51.5
     },
-    "analyses24h": 2992,
-    "analyses30d": 21891
+    "analyses24h": 2994,
+    "analyses30d": 21893
   },
   "recentWins": [
     {
@@ -454,6 +454,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "CD Leganes",
+      "away": "Albacete Balompie",
+      "league": "İS2",
+      "at": "07.11.2026 14:17",
+      "count": 6
+    },
+    {
+      "home": "Nottingham Forest",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "07.11.2026 14:17",
+      "count": 5
+    },
+    {
       "home": "AJ Auxerre",
       "away": "Paris FC",
       "league": "FR1",
@@ -503,25 +517,11 @@
       "count": 9
     },
     {
-      "home": "Nottingham Forest",
-      "away": "Manchester City",
-      "league": "İNP",
-      "at": "07.11.2026 13:52",
-      "count": 5
-    },
-    {
       "home": "VfB Stuttgart",
       "away": "Werder Bremen",
       "league": "AL1",
       "at": "07.11.2026 13:52",
       "count": 18
-    },
-    {
-      "home": "Parma Calcio",
-      "away": "Bologna FC",
-      "league": "İTA",
-      "at": "07.11.2026 13:51",
-      "count": 6
     }
   ],
   "paywall": {
