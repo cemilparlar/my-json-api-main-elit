@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 08:14",
+  "updatedAt": "07.11.2026 08:24",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 509,
       "rate": 67.2
     },
-    "totalAnalyses": 453032,
+    "totalAnalyses": 453037,
     "leagues": 489,
     "pro": {
       "won": 1166,
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 2950,
-    "analyses30d": 21867
+    "analyses24h": 2944,
+    "analyses30d": 21861
   },
   "recentWins": [
     {
@@ -397,18 +397,6 @@
       "picks": 6
     },
     {
-      "home": "Bayer Leverkusen",
-      "away": "Hamburger SV Women",
-      "league": "ALKB",
-      "date": "07.11.2026 13:00",
-      "matchCode": "4523500",
-      "odds": 1.65,
-      "patternScore": 68.23,
-      "patternText": "306.309/448.940",
-      "aiScore": 56,
-      "picks": 1
-    },
-    {
       "home": "Torpedo Moscow",
       "away": "Neftekhimik",
       "league": "RUS1",
@@ -443,6 +431,18 @@
       "patternText": "339.508/497.543",
       "aiScore": 58,
       "picks": 5
+    },
+    {
+      "home": "Burgos CF",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "date": "07.11.2026 13:00",
+      "matchCode": "4492812",
+      "odds": 1.41,
+      "patternScore": 68.53,
+      "patternText": "208.885/304.823",
+      "aiScore": 63,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
