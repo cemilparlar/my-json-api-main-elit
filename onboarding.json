@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 09:13",
+  "updatedAt": "07.11.2026 09:21",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 509,
       "rate": 67.4
     },
-    "totalAnalyses": 453143,
+    "totalAnalyses": 453182,
     "leagues": 489,
     "pro": {
       "won": 1174,
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 2976,
-    "analyses30d": 21904
+    "analyses24h": 2988,
+    "analyses30d": 21916
   },
   "recentWins": [
     {
@@ -379,7 +379,7 @@
     "matchCode": "4495511",
     "odds": 3.38,
     "patternScore": 67.38,
-    "patternText": "307.947/457.045",
+    "patternText": "307.997/457.119",
     "aiScore": 51,
     "picks": 10
   },
@@ -392,9 +392,21 @@
       "matchCode": "4495511",
       "odds": 3.38,
       "patternScore": 67.38,
-      "patternText": "307.947/457.045",
+      "patternText": "307.997/457.119",
       "aiScore": 51,
       "picks": 10
+    },
+    {
+      "home": "Cagliari Calcio",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "date": "07.11.2026 14:00",
+      "matchCode": "4475142",
+      "odds": 1.96,
+      "patternScore": 67.29,
+      "patternText": "313.495/465.920",
+      "aiScore": 53,
+      "picks": 9
     },
     {
       "home": "Rot-Weiss Essen",
@@ -404,7 +416,7 @@
       "matchCode": "4517711",
       "odds": 1.66,
       "patternScore": 67.75,
-      "patternText": "291.421/430.173",
+      "patternText": "291.451/430.211",
       "aiScore": 54,
       "picks": 6
     },
@@ -416,7 +428,7 @@
       "matchCode": "4576661",
       "odds": 1.56,
       "patternScore": 67.77,
-      "patternText": "318.631/470.167",
+      "patternText": "318.661/470.209",
       "aiScore": 55,
       "picks": 2
     },
@@ -428,24 +440,40 @@
       "matchCode": "4498118",
       "odds": 1.53,
       "patternScore": 67.9,
-      "patternText": "334.042/491.989",
+      "patternText": "334.092/492.063",
       "aiScore": 56,
       "picks": 2
-    },
-    {
-      "home": "Osnabruck",
-      "away": "Kaiserslautern",
-      "league": "AL2",
-      "date": "07.11.2026 12:00",
-      "matchCode": "4495836",
-      "odds": 1.5,
-      "patternScore": 67.83,
-      "patternText": "278.869/411.155",
-      "aiScore": 55,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Cesena FC",
+      "away": "US Catanzaro",
+      "league": "İTB",
+      "at": "07.11.2026 09:17",
+      "count": 8
+    },
+    {
+      "home": "Torino FC",
+      "away": "US Lecce",
+      "league": "İTA",
+      "at": "07.11.2026 09:17",
+      "count": 8
+    },
+    {
+      "home": "AC Pisa",
+      "away": "FC Sudtirol",
+      "league": "İTB",
+      "at": "07.11.2026 09:16",
+      "count": 8
+    },
+    {
+      "home": "SS Juve Stabia",
+      "away": "SS Arezzo",
+      "league": "İTB",
+      "at": "07.11.2026 09:13",
+      "count": 6
+    },
     {
       "home": "Calcio Padova",
       "away": "Empoli",
@@ -487,34 +515,6 @@
       "league": "İNCL",
       "at": "07.11.2026 08:53",
       "count": 5
-    },
-    {
-      "home": "Leeds United",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "07.11.2026 08:53",
-      "count": 7
-    },
-    {
-      "home": "Osnabruck",
-      "away": "Kaiserslautern",
-      "league": "AL2",
-      "at": "07.11.2026 08:51",
-      "count": 7
-    },
-    {
-      "home": "Eyupspor",
-      "away": "Kocaelispor",
-      "league": "TSL",
-      "at": "07.11.2026 08:49",
-      "count": 5
-    },
-    {
-      "home": "Muglaspor",
-      "away": "Esenler Erokspor",
-      "league": "T1L",
-      "at": "07.11.2026 08:12",
-      "count": 4
     }
   ],
   "paywall": {
