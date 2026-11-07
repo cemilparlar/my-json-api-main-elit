@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 12:51",
+  "updatedAt": "07.11.2026 13:01",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 374,
-      "lost": 172,
-      "total": 546,
+      "won": 365,
+      "lost": 168,
+      "total": 533,
       "rate": 68.5
     },
-    "totalAnalyses": 453761,
+    "totalAnalyses": 453809,
     "leagues": 487,
     "pro": {
-      "won": 1161,
-      "lost": 472,
-      "total": 1633,
-      "rate": 71.1
+      "won": 1137,
+      "lost": 460,
+      "total": 1597,
+      "rate": 71.2
     },
     "insights": {
-      "won": 1991,
-      "lost": 847,
-      "total": 2838,
-      "rate": 70.2
+      "won": 1948,
+      "lost": 830,
+      "total": 2778,
+      "rate": 70.1
     },
     "coupons": {
       "won": 50,
@@ -47,10 +47,24 @@
       "total": 95,
       "rate": 52.6
     },
-    "analyses24h": 2999,
-    "analyses30d": 21892
+    "analyses24h": 3019,
+    "analyses30d": 21909
   },
   "recentWins": [
+    {
+      "home": "Perth Glory",
+      "away": "Newcastle Jets",
+      "league": "AVUS",
+      "date": "07.11.2026 10:45",
+      "prediction": "Handicap (0:1) X",
+      "odds": 4.0,
+      "probability": 100.0,
+      "patternScore": 57.4,
+      "aiScore": 51,
+      "firstHalf": "1 - 0",
+      "finalScore": "2 - 1",
+      "pro": true
+    },
     {
       "home": "RSC Anderlecht",
       "away": "Red Bull Salzburg",
@@ -106,20 +120,6 @@
       "firstHalf": "2 - 0",
       "finalScore": "4 - 1",
       "pro": true
-    },
-    {
-      "home": "Sepahan",
-      "away": "Malavan Fc",
-      "league": "IRAN",
-      "date": "06.11.2026 12:00",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.87,
-      "probability": 75.0,
-      "patternScore": 63.97,
-      "aiScore": 52,
-      "firstHalf": "2 - 0",
-      "finalScore": "4 - 0",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -299,6 +299,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Perth Glory",
+      "away": "Newcastle Jets",
+      "prediction": "Handicap (0:1) X",
+      "odds": 4.0,
+      "at": "07.11.2026 10:45"
+    },
+    {
+      "type": "won",
       "home": "RSC Anderlecht",
       "away": "Red Bull Salzburg",
       "prediction": "Total Goals 2-3",
@@ -322,30 +330,22 @@
       "at": "06.11.2026 13:00"
     },
     {
-      "type": "won",
-      "home": "Sydney FC",
-      "away": "Central Coast Mariners",
-      "prediction": "HT/FT 1/1",
-      "odds": 1.89,
-      "at": "06.11.2026 08:40"
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.59,
+      "at": "07.11.2026 13:01"
     },
     {
       "type": "coupon",
-      "size": 5,
-      "odds": 1.52,
-      "at": "07.11.2026 12:06"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.56,
-      "at": "07.11.2026 12:06"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
+      "size": 4,
       "odds": 1.54,
-      "at": "07.11.2026 12:06"
+      "at": "07.11.2026 13:01"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.52,
+      "at": "07.11.2026 13:01"
     },
     {
       "type": "updated",
@@ -385,8 +385,8 @@
     "date": "07.11.2026 16:00",
     "matchCode": "4542749",
     "odds": 2.0,
-    "patternScore": 66.26,
-    "patternText": "204.123/308.047",
+    "patternScore": 66.27,
+    "patternText": "204.153/308.077",
     "aiScore": 52,
     "picks": 6
   },
@@ -398,8 +398,8 @@
       "date": "07.11.2026 16:00",
       "matchCode": "4542749",
       "odds": 2.0,
-      "patternScore": 66.26,
-      "patternText": "204.123/308.047",
+      "patternScore": 66.27,
+      "patternText": "204.153/308.077",
       "aiScore": 52,
       "picks": 6
     },
@@ -411,7 +411,7 @@
       "matchCode": "4475150",
       "odds": 1.59,
       "patternScore": 68.15,
-      "patternText": "308.302/452.395",
+      "patternText": "308.336/452.429",
       "aiScore": 54,
       "picks": 5
     },
@@ -423,9 +423,21 @@
       "matchCode": "4534576",
       "odds": 1.54,
       "patternScore": 66.89,
-      "patternText": "313.678/468.953",
+      "patternText": "313.712/468.987",
       "aiScore": 54,
       "picks": 1
+    },
+    {
+      "home": "Pau FC",
+      "away": "FC Nantes",
+      "league": "FR2",
+      "date": "07.11.2026 19:00",
+      "matchCode": "4476915",
+      "odds": 1.48,
+      "patternScore": 66.78,
+      "patternText": "206.623/309.418",
+      "aiScore": 56,
+      "picks": 3
     },
     {
       "home": "Nottingham Forest",
@@ -434,25 +446,55 @@
       "date": "07.11.2026 17:30",
       "matchCode": "4481109",
       "odds": 1.45,
-      "patternScore": 65.34,
-      "patternText": "352.485/539.458",
+      "patternScore": 65.35,
+      "patternText": "352.583/539.556",
       "aiScore": 56,
       "picks": 9
-    },
-    {
-      "home": "KVC Westerlo",
-      "away": "Sporting Charleroi",
-      "league": "BEL",
-      "date": "07.11.2026 15:00",
-      "matchCode": "4480766",
-      "odds": 1.45,
-      "patternScore": 67.62,
-      "patternText": "333.187/492.764",
-      "aiScore": 55,
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "AJ Auxerre",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "07.11.2026 13:01",
+      "count": 9
+    },
+    {
+      "home": "Goztepe",
+      "away": "Istanbul Basaksehir",
+      "league": "TSL",
+      "at": "07.11.2026 13:00",
+      "count": 8
+    },
+    {
+      "home": "Pendikspor",
+      "away": "Istanbulspor",
+      "league": "T1L",
+      "at": "07.11.2026 12:59",
+      "count": 5
+    },
+    {
+      "home": "Galatasaray",
+      "away": "Amed SK",
+      "league": "TSL",
+      "at": "07.11.2026 12:59",
+      "count": 1
+    },
+    {
+      "home": "Fortuna Sittar",
+      "away": "SC Telstar",
+      "league": "HOL",
+      "at": "07.11.2026 12:55",
+      "count": 6
+    },
+    {
+      "home": "CD Nacional",
+      "away": "Academico FC Viseu",
+      "league": "POR",
+      "at": "07.11.2026 12:54",
+      "count": 9
+    },
     {
       "home": "RCD Espanyol",
       "away": "Deportivo La Coruna",
@@ -480,48 +522,6 @@
       "league": "AL1",
       "at": "07.11.2026 12:43",
       "count": 15
-    },
-    {
-      "home": "SC Paderborn",
-      "away": "Eintracht Frankfurt",
-      "league": "AL1",
-      "at": "07.11.2026 12:43",
-      "count": 5
-    },
-    {
-      "home": "SS Juve Stabia",
-      "away": "SS Arezzo",
-      "league": "İTB",
-      "at": "07.11.2026 12:41",
-      "count": 6
-    },
-    {
-      "home": "Torino FC",
-      "away": "US Lecce",
-      "league": "İTA",
-      "at": "07.11.2026 12:41",
-      "count": 6
-    },
-    {
-      "home": "Cagliari Calcio",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "07.11.2026 12:40",
-      "count": 7
-    },
-    {
-      "home": "Akhmat Grozny",
-      "away": "Fk Rodina Moskv",
-      "league": "RUS",
-      "at": "07.11.2026 12:39",
-      "count": 7
-    },
-    {
-      "home": "Muglaspor",
-      "away": "Esenler Erokspor",
-      "league": "T1L",
-      "at": "07.11.2026 12:21",
-      "count": 5
     }
   ],
   "paywall": {
