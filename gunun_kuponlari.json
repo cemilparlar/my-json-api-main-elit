@@ -2,16 +2,16 @@
   "version": 1,
   "stats7": {
     "multi": {
-      "won": 53,
-      "lost": 67
-    },
-    "c70_1": {
-      "won": 15,
-      "lost": 1
+      "won": 52,
+      "lost": 68
     },
     "c70_2": {
       "won": 8,
       "lost": 3
+    },
+    "c70_1": {
+      "won": 14,
+      "lost": 1
     },
     "c70_3": {
       "won": 4,
@@ -31,7 +31,7 @@
     },
     "cyz_3": {
       "won": 0,
-      "lost": 1
+      "lost": 2
     }
   },
   "stats30": {
@@ -73,7 +73,7 @@
     },
     "multi": {
       "won": 62,
-      "lost": 74
+      "lost": 75
     },
     "c70_1": {
       "won": 20,
@@ -101,11 +101,11 @@
     },
     "cyz_3": {
       "won": 0,
-      "lost": 1
+      "lost": 2
     }
   },
-  "updatedAt": "07.11.2026 19:53",
-  "updatedAtUtc": "2026-11-07T19:53:00Z",
+  "updatedAt": "07.11.2026 20:01",
+  "updatedAtUtc": "2026-11-07T20:01:00Z",
   "upcoming": [
     {
       "id": "20261107-13-2",
@@ -2512,95 +2512,6 @@
       ]
     },
     {
-      "id": "20261107-18-4",
-      "createdAt": "07.11.2026 15:04",
-      "createdAtUtc": "2026-11-07T15:04:00Z",
-      "size": 3,
-      "mbs": 1,
-      "totalOdds": 1.52,
-      "winChance": 49.19,
-      "firstKickoff": "07.11.2026 17:00",
-      "lastKickoff": "07.11.2026 18:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "cyz_3",
-      "group": "multi",
-      "formula": "3",
-      "multiScore": 80,
-      "effectiveOdds": 1.52,
-      "legs": [
-        {
-          "matchCode": "4474517",
-          "nesine": null,
-          "date": "07.11.2026 17:00",
-          "kickoffUtc": "2026-11-07T17:00:00Z",
-          "league": "DAN",
-          "home": "OB Odense",
-          "away": "Viborg FF",
-          "league_tr": "DAN",
-          "home_tr": "Odense",
-          "away_tr": "Viborg",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.19,
-          "probability": 87.5,
-          "patternScore": 67.59,
-          "patternText": "229.538/339.579",
-          "mbs": 1,
-          "firstHalf": "0 - 2",
-          "finalScore": "1 - 2",
-          "status": "won",
-          "aiScore": 82
-        },
-        {
-          "matchCode": "4484674",
-          "nesine": null,
-          "date": "07.11.2026 17:45",
-          "kickoffUtc": "2026-11-07T17:45:00Z",
-          "league": "MAC",
-          "home": "Kisvarda",
-          "away": "Puskas Academy",
-          "league_tr": "MAC",
-          "home_tr": "Kisvarda",
-          "away_tr": "Puskas Academy",
-          "prediction": "Over 1.5 Goals",
-          "prediction_tr": "1,5 Alt/Üst Üst",
-          "odds": 1.08,
-          "probability": 78.23,
-          "patternScore": 69.21,
-          "patternText": "303.942/439.145",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 82
-        },
-        {
-          "matchCode": "4517045",
-          "nesine": null,
-          "date": "07.11.2026 18:00",
-          "kickoffUtc": "2026-11-07T18:00:00Z",
-          "league": "POR",
-          "home": "FC Alverca",
-          "away": "Casa Pia AC",
-          "league_tr": "POR",
-          "home_tr": "Alverca",
-          "away_tr": "Casa Pia",
-          "prediction": "Handicap (0:2) 2",
-          "prediction_tr": "Handikaplı Maç Sonucu (0:2) 2",
-          "odds": 1.18,
-          "probability": 89.47368421052632,
-          "patternScore": 68.48,
-          "patternText": "199.350/291.112",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 81
-        }
-      ]
-    },
-    {
       "id": "20261107-18-3",
       "createdAt": "07.11.2026 15:04",
       "createdAtUtc": "2026-11-07T15:04:00Z",
@@ -2682,9 +2593,9 @@
           "patternScore": 69.03,
           "patternText": "305.603/442.707",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 1",
+          "finalScore": "2 - 2",
+          "status": "won",
           "aiScore": 82
         }
       ]
@@ -2954,7 +2865,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 91
         }
       ]
@@ -3089,7 +3000,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 95
         }
       ]
@@ -3328,7 +3239,7 @@
       "winChance": 43.39,
       "firstKickoff": "07.11.2026 20:00",
       "lastKickoff": "07.11.2026 21:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_4",
       "group": "multi",
@@ -3356,7 +3267,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 96
         },
         {
@@ -3429,9 +3340,187 @@
           "aiScore": 85
         }
       ]
+    },
+    {
+      "id": "20261107-23-1",
+      "createdAt": "07.11.2026 20:01",
+      "createdAtUtc": "2026-11-07T20:01:00Z",
+      "size": 3,
+      "mbs": 1,
+      "totalOdds": 1.55,
+      "winChance": 49.45,
+      "firstKickoff": "07.11.2026 21:00",
+      "lastKickoff": "07.11.2026 23:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "cyz_3",
+      "group": "multi",
+      "formula": "3",
+      "multiScore": 80,
+      "effectiveOdds": 1.55,
+      "legs": [
+        {
+          "matchCode": "4419844",
+          "nesine": null,
+          "date": "07.11.2026 21:00",
+          "kickoffUtc": "2026-11-07T21:00:00Z",
+          "league": "ABD",
+          "home": "Orlando City SC",
+          "away": "New England Revolution",
+          "league_tr": "ABD",
+          "home_tr": "Orlando City",
+          "away_tr": "New England",
+          "prediction": "1st Half Under 2.5",
+          "prediction_tr": "1. Yarı 2,5 Alt/Üst Alt",
+          "odds": 1.13,
+          "probability": 100.0,
+          "patternScore": 58.11,
+          "patternText": "231.876/399.017",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 83
+        },
+        {
+          "matchCode": "4564201",
+          "nesine": null,
+          "date": "07.11.2026 21:00",
+          "kickoffUtc": "2026-11-07T21:00:00Z",
+          "league": "BRK",
+          "home": "Atletico Mineiro",
+          "away": "Gremio FBPA",
+          "league_tr": "BRK",
+          "home_tr": "Atletico Mg",
+          "away_tr": "Gremio",
+          "prediction": "Under 3.5 Goals",
+          "prediction_tr": "3,5 Alt/Üst Alt",
+          "odds": 1.19,
+          "probability": 83.33,
+          "patternScore": 67.93,
+          "patternText": "182.075/268.024",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 81
+        },
+        {
+          "matchCode": "4476489",
+          "nesine": null,
+          "date": "07.11.2026 23:00",
+          "kickoffUtc": "2026-11-07T23:00:00Z",
+          "league": "MEK",
+          "home": "Atlas FC",
+          "away": "CF Pachuca",
+          "league_tr": "MEK",
+          "home_tr": "Atlas",
+          "away_tr": "Pachuca",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.15,
+          "probability": 81.33,
+          "patternScore": 70.22,
+          "patternText": "154.798/220.460",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 82
+        }
+      ]
     }
   ],
   "completed": [
+    {
+      "id": "20261107-18-4",
+      "createdAt": "07.11.2026 15:04",
+      "createdAtUtc": "2026-11-07T15:04:00Z",
+      "size": 3,
+      "mbs": 1,
+      "totalOdds": 1.52,
+      "winChance": 49.19,
+      "firstKickoff": "07.11.2026 17:00",
+      "lastKickoff": "07.11.2026 18:00",
+      "status": "lost",
+      "completedAt": "07.11.2026 20:01",
+      "kind": "cyz_3",
+      "group": "multi",
+      "formula": "3",
+      "multiScore": 80,
+      "effectiveOdds": 1.52,
+      "legs": [
+        {
+          "matchCode": "4474517",
+          "nesine": null,
+          "date": "07.11.2026 17:00",
+          "kickoffUtc": "2026-11-07T17:00:00Z",
+          "league": "DAN",
+          "home": "OB Odense",
+          "away": "Viborg FF",
+          "league_tr": "DAN",
+          "home_tr": "Odense",
+          "away_tr": "Viborg",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.19,
+          "probability": 87.5,
+          "patternScore": 67.59,
+          "patternText": "229.538/339.579",
+          "mbs": 1,
+          "firstHalf": "0 - 2",
+          "finalScore": "1 - 2",
+          "status": "won",
+          "aiScore": 82
+        },
+        {
+          "matchCode": "4484674",
+          "nesine": null,
+          "date": "07.11.2026 17:45",
+          "kickoffUtc": "2026-11-07T17:45:00Z",
+          "league": "MAC",
+          "home": "Kisvarda",
+          "away": "Puskas Academy",
+          "league_tr": "MAC",
+          "home_tr": "Kisvarda",
+          "away_tr": "Puskas Academy",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.08,
+          "probability": 78.23,
+          "patternScore": 69.21,
+          "patternText": "303.942/439.145",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 1",
+          "status": "lost",
+          "aiScore": 82
+        },
+        {
+          "matchCode": "4517045",
+          "nesine": null,
+          "date": "07.11.2026 18:00",
+          "kickoffUtc": "2026-11-07T18:00:00Z",
+          "league": "POR",
+          "home": "FC Alverca",
+          "away": "Casa Pia AC",
+          "league_tr": "POR",
+          "home_tr": "Alverca",
+          "away_tr": "Casa Pia",
+          "prediction": "Handicap (0:2) 2",
+          "prediction_tr": "Handikaplı Maç Sonucu (0:2) 2",
+          "odds": 1.18,
+          "probability": 89.47368421052632,
+          "patternScore": 68.48,
+          "patternText": "199.350/291.112",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 81
+        }
+      ]
+    },
     {
       "id": "20261107-18-2",
       "createdAt": "07.11.2026 15:04",
@@ -6929,7 +7018,7 @@
       "group": "multi",
       "formula": "5",
       "multiScore": 70,
-      "effectiveOdds": 1.34,
+      "effectiveOdds": 1.19,
       "legs": [
         {
           "matchCode": "4508201",
@@ -7020,7 +7109,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 82
         },
         {
@@ -7064,7 +7153,7 @@
       "group": "multi",
       "formula": "4",
       "multiScore": 82,
-      "effectiveOdds": 1.55,
+      "effectiveOdds": 1.44,
       "legs": [
         {
           "matchCode": "4485509",
@@ -7109,7 +7198,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 96
         },
         {
@@ -7334,7 +7423,7 @@
       "group": "multi",
       "formula": "5",
       "multiScore": 75,
-      "effectiveOdds": 1.4,
+      "effectiveOdds": 1.28,
       "legs": [
         {
           "matchCode": "4542744",
@@ -7448,7 +7537,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 88
         }
       ]
