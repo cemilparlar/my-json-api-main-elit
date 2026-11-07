@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 16:10",
+  "updatedAt": "07.11.2026 16:19",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 542,
+      "won": 549,
       "lost": 266,
-      "total": 808,
-      "rate": 67.1
+      "total": 815,
+      "rate": 67.4
     },
-    "totalAnalyses": 454672,
+    "totalAnalyses": 454721,
     "leagues": 487,
     "pro": {
-      "won": 1098,
-      "lost": 440,
-      "total": 1538,
-      "rate": 71.4
+      "won": 1102,
+      "lost": 439,
+      "total": 1541,
+      "rate": 71.5
     },
     "insights": {
-      "won": 1831,
-      "lost": 803,
-      "total": 2634,
-      "rate": 69.5
+      "won": 1835,
+      "lost": 801,
+      "total": 2636,
+      "rate": 69.6
     },
     "coupons": {
       "won": 54,
-      "lost": 54,
-      "total": 108,
-      "rate": 50.0
+      "lost": 55,
+      "total": 109,
+      "rate": 49.5
     },
-    "analyses24h": 3013,
-    "analyses30d": 21904
+    "analyses24h": 3016,
+    "analyses30d": 21907
   },
   "recentWins": [
     {
@@ -440,6 +440,62 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Orlando City SC",
+      "away": "New England Revolution",
+      "league": "ABD",
+      "at": "07.11.2026 16:19",
+      "count": 17
+    },
+    {
+      "home": "DC United",
+      "away": "New York City FC",
+      "league": "ABD",
+      "at": "07.11.2026 16:19",
+      "count": 6
+    },
+    {
+      "home": "AS Roma",
+      "away": "US Sassuolo",
+      "league": "İTA",
+      "at": "07.11.2026 16:18",
+      "count": 6
+    },
+    {
+      "home": "Philadelphia Union",
+      "away": "Toronto FC",
+      "league": "ABD",
+      "at": "07.11.2026 16:18",
+      "count": 6
+    },
+    {
+      "home": "La Louviere",
+      "away": "Cercle Brugge",
+      "league": "BEL",
+      "at": "07.11.2026 16:17",
+      "count": 3
+    },
+    {
+      "home": "CA Osasuna",
+      "away": "Athletic Bilbao",
+      "league": "İS1",
+      "at": "07.11.2026 16:16",
+      "count": 10
+    },
+    {
+      "home": "Nottingham Forest",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "07.11.2026 16:16",
+      "count": 6
+    },
+    {
+      "home": "AS Saint-Etienne",
+      "away": "Stade Lavalois",
+      "league": "FR2",
+      "at": "07.11.2026 16:16",
+      "count": 8
+    },
+    {
       "home": "FC Alverca",
       "away": "Casa Pia AC",
       "league": "POR",
@@ -447,67 +503,11 @@
       "count": 5
     },
     {
-      "home": "CA Osasuna",
-      "away": "Athletic Bilbao",
-      "league": "İS1",
-      "at": "07.11.2026 15:53",
-      "count": 8
-    },
-    {
       "home": "Parma Calcio",
       "away": "Bologna FC",
       "league": "İTA",
       "at": "07.11.2026 15:53",
       "count": 7
-    },
-    {
-      "home": "AJ Auxerre",
-      "away": "Paris FC",
-      "league": "FR1",
-      "at": "07.11.2026 15:26",
-      "count": 9
-    },
-    {
-      "home": "Nottingham Forest",
-      "away": "Manchester City",
-      "league": "İNP",
-      "at": "07.11.2026 15:03",
-      "count": 7
-    },
-    {
-      "home": "VfB Stuttgart",
-      "away": "Werder Bremen",
-      "league": "AL1",
-      "at": "07.11.2026 15:03",
-      "count": 18
-    },
-    {
-      "home": "FC Cincinnati",
-      "away": "Nashville SC",
-      "league": "ABD",
-      "at": "07.11.2026 14:33",
-      "count": 5
-    },
-    {
-      "home": "CF Montreal",
-      "away": "Vancouver Whitecaps",
-      "league": "ABD",
-      "at": "07.11.2026 14:33",
-      "count": 12
-    },
-    {
-      "home": "Paris Saint-Germain",
-      "away": "ESTAC Troyes",
-      "league": "FR1",
-      "at": "07.11.2026 14:32",
-      "count": 3
-    },
-    {
-      "home": "Excelsior Rotterdam",
-      "away": "Go Ahead Eagles",
-      "league": "HOL",
-      "at": "07.11.2026 14:31",
-      "count": 6
     }
   ],
   "paywall": {
