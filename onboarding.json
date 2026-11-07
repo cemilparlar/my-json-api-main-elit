@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 20:19",
+  "updatedAt": "07.11.2026 20:28",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 624,
-      "lost": 279,
-      "total": 903,
+      "won": 627,
+      "lost": 280,
+      "total": 907,
       "rate": 69.1
     },
-    "totalAnalyses": 455396,
+    "totalAnalyses": 455433,
     "leagues": 488,
     "pro": {
-      "won": 1173,
-      "lost": 468,
-      "total": 1641,
+      "won": 1175,
+      "lost": 469,
+      "total": 1644,
       "rate": 71.5
     },
     "insights": {
-      "won": 1932,
-      "lost": 829,
-      "total": 2761,
+      "won": 1935,
+      "lost": 830,
+      "total": 2765,
       "rate": 70.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 121,
       "rate": 43.0
     },
-    "analyses24h": 2807,
-    "analyses30d": 22047
+    "analyses24h": 2836,
+    "analyses30d": 22076
   },
   "recentWins": [
     {
@@ -440,6 +440,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Minnesota United",
+      "away": "San Jose Earthquakes",
+      "league": "ABD",
+      "at": "07.11.2026 20:25",
+      "count": 10
+    },
+    {
+      "home": "DC United",
+      "away": "New York City FC",
+      "league": "ABD",
+      "at": "07.11.2026 20:24",
+      "count": 9
+    },
+    {
+      "home": "Chicago Fire",
+      "away": "Columbus Crew",
+      "league": "ABD",
+      "at": "07.11.2026 20:24",
+      "count": 6
+    },
+    {
+      "home": "CF Montreal",
+      "away": "Vancouver Whitecaps",
+      "league": "ABD",
+      "at": "07.11.2026 20:24",
+      "count": 17
+    },
+    {
+      "home": "FC Cincinnati",
+      "away": "Nashville SC",
+      "league": "ABD",
+      "at": "07.11.2026 20:23",
+      "count": 6
+    },
+    {
       "home": "Atletico Mineiro",
       "away": "Gremio FBPA",
       "league": "BRK",
@@ -473,41 +508,6 @@
       "league": "İTA",
       "at": "07.11.2026 19:05",
       "count": 14
-    },
-    {
-      "home": "Royal Antwerp",
-      "away": "Lommel United",
-      "league": "BEL",
-      "at": "07.11.2026 18:52",
-      "count": 3
-    },
-    {
-      "home": "Seattle Sounders",
-      "away": "Los Angeles FC",
-      "league": "ABD",
-      "at": "07.11.2026 18:11",
-      "count": 5
-    },
-    {
-      "home": "Salt Lake",
-      "away": "LA Galaxy",
-      "league": "ABD",
-      "at": "07.11.2026 18:09",
-      "count": 5
-    },
-    {
-      "home": "FC Dallas",
-      "away": "Colorado Rapids",
-      "league": "ABD",
-      "at": "07.11.2026 18:07",
-      "count": 8
-    },
-    {
-      "home": "Minnesota United",
-      "away": "San Jose Earthquakes",
-      "league": "ABD",
-      "at": "07.11.2026 18:07",
-      "count": 6
     }
   ],
   "paywall": {
