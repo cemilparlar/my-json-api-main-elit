@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 15:55",
+  "updatedAt": "07.11.2026 16:03",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 490,
-      "lost": 243,
-      "total": 733,
-      "rate": 66.8
+      "won": 542,
+      "lost": 266,
+      "total": 808,
+      "rate": 67.1
     },
-    "totalAnalyses": 454611,
+    "totalAnalyses": 454672,
     "leagues": 487,
     "pro": {
-      "won": 1074,
-      "lost": 434,
-      "total": 1508,
-      "rate": 71.2
+      "won": 1098,
+      "lost": 440,
+      "total": 1538,
+      "rate": 71.4
     },
     "insights": {
-      "won": 1798,
-      "lost": 795,
-      "total": 2593,
-      "rate": 69.3
+      "won": 1831,
+      "lost": 803,
+      "total": 2634,
+      "rate": 69.5
     },
     "coupons": {
-      "won": 52,
-      "lost": 51,
-      "total": 103,
-      "rate": 50.5
+      "won": 54,
+      "lost": 54,
+      "total": 108,
+      "rate": 50.0
     },
-    "analyses24h": 3018,
-    "analyses30d": 21924
+    "analyses24h": 3015,
+    "analyses30d": 21906
   },
   "recentWins": [
     {
@@ -123,6 +123,85 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 4,
+      "totalOdds": 1.51,
+      "winChance": 41.2,
+      "completedAt": "07.11.2026 16:03",
+      "legs": [
+        {
+          "home": "FC Ingolstadt",
+          "away": "Fortuna Dusseldorf",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.17,
+          "finalScore": "3 - 2"
+        },
+        {
+          "home": "Paris 13 Atletico",
+          "away": "La Roche Sur Yo",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.11,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "US Concarneau",
+          "away": "Fc Fleury 91",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.08,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "Orebro SK",
+          "away": "Oster",
+          "prediction": "1st Half Under 2.5",
+          "odds": 1.08,
+          "finalScore": "1 - 1"
+        }
+      ]
+    },
+    {
+      "size": 5,
+      "totalOdds": 1.51,
+      "winChance": 32.44,
+      "completedAt": "07.11.2026 16:03",
+      "legs": [
+        {
+          "home": "Portsmouth",
+          "away": "Stoke City",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.1,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "Ostia Mare Lid",
+          "away": "Spezia Calcio",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "0 - 4"
+        },
+        {
+          "home": "Slask Wroclaw",
+          "away": "Piast Gliwice",
+          "prediction": "Under 4.5 Goals",
+          "odds": 1.07,
+          "finalScore": "0 - 0"
+        },
+        {
+          "home": "Ljungskile",
+          "away": "Landskrona BoIS",
+          "prediction": "1st Half Over 0.5",
+          "odds": 1.1,
+          "finalScore": "1 - 1"
+        },
+        {
+          "home": "Shinnik Yaroslavl",
+          "away": "FC Ufa",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.08,
+          "finalScore": "2 - 1"
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.52,
@@ -201,99 +280,6 @@
           "finalScore": "0 - 1"
         }
       ]
-    },
-    {
-      "size": 6,
-      "totalOdds": 1.53,
-      "winChance": 29.85,
-      "completedAt": "07.11.2026 12:51",
-      "legs": [
-        {
-          "home": "Melbourne City FC",
-          "away": "Western Sydney Wanderers",
-          "prediction": "Handicap (0:2) 2",
-          "odds": 1.08,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Lg Hn Acb",
-          "away": "Ha Noi FC",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Van Spor FK",
-          "away": "Sivasspor",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.07,
-          "finalScore": "3 - 1"
-        },
-        {
-          "home": "A. Keciorengucu",
-          "away": "Manisa FK",
-          "prediction": "Double Chance 1X",
-          "odds": 1.06,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Eyupspor",
-          "away": "Kocaelispor",
-          "prediction": "Handicap (0:1) 2",
-          "odds": 1.08,
-          "finalScore": "0 - 2"
-        },
-        {
-          "home": "Perth Glory",
-          "away": "Newcastle Jets",
-          "prediction": "Handicap (0:2) 2",
-          "odds": 1.07,
-          "finalScore": "2 - 1"
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.51,
-      "winChance": 35.3,
-      "completedAt": "07.11.2026 08:06",
-      "legs": [
-        {
-          "home": "Vitoria Bahia",
-          "away": "Fluminense FC",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.07,
-          "finalScore": "0 - 3"
-        },
-        {
-          "home": "Vila Nova",
-          "away": "Criciuma",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.06,
-          "finalScore": null
-        },
-        {
-          "home": "NK Radomlje",
-          "away": "NK Celje",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.07,
-          "finalScore": null
-        },
-        {
-          "home": "ASK Bravo",
-          "away": "NK Maribor",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.08,
-          "finalScore": null
-        },
-        {
-          "home": "Zoria Luhansk",
-          "away": "LNZ Cherkasy",
-          "prediction": "Double Chance 12",
-          "odds": 1.15,
-          "finalScore": null
-        }
-      ]
     }
   ],
   "ticker": [
@@ -331,6 +317,12 @@
     },
     {
       "type": "coupon",
+      "size": 5,
+      "odds": 1.55,
+      "at": "07.11.2026 16:03"
+    },
+    {
+      "type": "coupon",
       "size": 4,
       "odds": 1.52,
       "at": "07.11.2026 15:04"
@@ -338,12 +330,6 @@
     {
       "type": "coupon",
       "size": 4,
-      "odds": 1.51,
-      "at": "07.11.2026 15:04"
-    },
-    {
-      "type": "coupon",
-      "size": 3,
       "odds": 1.51,
       "at": "07.11.2026 15:04"
     },
@@ -385,8 +371,8 @@
     "date": "07.11.2026 19:45",
     "matchCode": "4476590",
     "odds": 2.12,
-    "patternScore": 67.04,
-    "patternText": "208.325/310.731",
+    "patternScore": 67.05,
+    "patternText": "208.385/310.811",
     "aiScore": 53,
     "picks": 3
   },
@@ -398,8 +384,8 @@
       "date": "07.11.2026 19:45",
       "matchCode": "4476590",
       "odds": 2.12,
-      "patternScore": 67.04,
-      "patternText": "208.325/310.731",
+      "patternScore": 67.05,
+      "patternText": "208.385/310.811",
       "aiScore": 53,
       "picks": 3
     },
@@ -411,7 +397,7 @@
       "matchCode": "4534576",
       "odds": 1.66,
       "patternScore": 66.64,
-      "patternText": "291.330/437.165",
+      "patternText": "291.454/437.337",
       "aiScore": 53,
       "picks": 3
     },
@@ -423,7 +409,7 @@
       "matchCode": "4419840",
       "odds": 1.47,
       "patternScore": 67.81,
-      "patternText": "223.058/328.929",
+      "patternText": "223.098/328.985",
       "aiScore": 55,
       "picks": 4
     },
@@ -435,7 +421,7 @@
       "matchCode": "4480764",
       "odds": 1.42,
       "patternScore": 67.93,
-      "patternText": "269.466/396.689",
+      "patternText": "269.590/396.861",
       "aiScore": 55,
       "picks": 3
     },
@@ -447,12 +433,19 @@
       "matchCode": "4481586",
       "odds": 1.37,
       "patternScore": 67.97,
-      "patternText": "290.457/427.333",
+      "patternText": "290.613/427.537",
       "aiScore": 56,
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Alverca",
+      "away": "Casa Pia AC",
+      "league": "POR",
+      "at": "07.11.2026 15:56",
+      "count": 5
+    },
     {
       "home": "CA Osasuna",
       "away": "Athletic Bilbao",
@@ -515,13 +508,6 @@
       "league": "HOL",
       "at": "07.11.2026 14:31",
       "count": 6
-    },
-    {
-      "home": "La Louviere",
-      "away": "Cercle Brugge",
-      "league": "BEL",
-      "at": "07.11.2026 14:30",
-      "count": 4
     }
   ],
   "paywall": {
