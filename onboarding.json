@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 09:55",
+  "updatedAt": "07.11.2026 10:03",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 346,
+      "won": 349,
       "lost": 171,
-      "total": 517,
-      "rate": 66.9
+      "total": 520,
+      "rate": 67.1
     },
-    "totalAnalyses": 453224,
-    "leagues": 489,
+    "totalAnalyses": 453230,
+    "leagues": 488,
     "pro": {
       "won": 1177,
       "lost": 477,
@@ -36,10 +36,10 @@
       "rate": 71.2
     },
     "insights": {
-      "won": 2009,
+      "won": 2010,
       "lost": 855,
-      "total": 2864,
-      "rate": 70.1
+      "total": 2865,
+      "rate": 70.2
     },
     "coupons": {
       "won": 49,
@@ -48,7 +48,7 @@
       "rate": 52.7
     },
     "analyses24h": 2996,
-    "analyses30d": 21918
+    "analyses30d": 21900
   },
   "recentWins": [
     {
@@ -324,21 +324,21 @@
     },
     {
       "type": "coupon",
-      "size": 4,
-      "odds": 1.55,
-      "at": "07.11.2026 09:03"
-    },
-    {
-      "type": "coupon",
-      "size": 4,
-      "odds": 1.5,
-      "at": "07.11.2026 09:03"
+      "size": 5,
+      "odds": 1.52,
+      "at": "07.11.2026 10:03"
     },
     {
       "type": "coupon",
       "size": 5,
-      "odds": 1.51,
-      "at": "07.11.2026 09:03"
+      "odds": 1.57,
+      "at": "07.11.2026 10:03"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
+      "odds": 1.63,
+      "at": "07.11.2026 10:03"
     },
     {
       "type": "updated",
@@ -372,29 +372,29 @@
     }
   ],
   "today": {
-    "home": "SC Paderborn",
-    "away": "Eintracht Frankfurt",
-    "league": "AL1",
-    "date": "07.11.2026 14:30",
-    "matchCode": "4495511",
-    "odds": 3.38,
-    "patternScore": 67.38,
-    "patternText": "308.019/457.171",
-    "aiScore": 51,
-    "picks": 10
+    "home": "Galatasaray",
+    "away": "Amed SK",
+    "league": "TSL",
+    "date": "07.11.2026 16:00",
+    "matchCode": "4542749",
+    "odds": 2.0,
+    "patternScore": 66.26,
+    "patternText": "204.029/307.923",
+    "aiScore": 52,
+    "picks": 6
   },
   "todayList": [
     {
-      "home": "SC Paderborn",
-      "away": "Eintracht Frankfurt",
-      "league": "AL1",
-      "date": "07.11.2026 14:30",
-      "matchCode": "4495511",
-      "odds": 3.38,
-      "patternScore": 67.38,
-      "patternText": "308.019/457.171",
-      "aiScore": 51,
-      "picks": 10
+      "home": "Galatasaray",
+      "away": "Amed SK",
+      "league": "TSL",
+      "date": "07.11.2026 16:00",
+      "matchCode": "4542749",
+      "odds": 2.0,
+      "patternScore": 66.26,
+      "patternText": "204.029/307.923",
+      "aiScore": 52,
+      "picks": 6
     },
     {
       "home": "Rot-Weiss Essen",
@@ -429,7 +429,7 @@
       "odds": 1.56,
       "patternScore": 67.77,
       "patternText": "318.683/470.261",
-      "aiScore": 55,
+      "aiScore": 54,
       "picks": 2
     },
     {
@@ -446,6 +446,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Preston North End",
+      "away": "Southam",
+      "league": "İNCL",
+      "at": "07.11.2026 09:56",
+      "count": 6
+    },
     {
       "home": "Borussia Dortmund",
       "away": "SV Elversberg",
@@ -508,13 +515,6 @@
       "league": "İTB",
       "at": "07.11.2026 09:16",
       "count": 8
-    },
-    {
-      "home": "SS Juve Stabia",
-      "away": "SS Arezzo",
-      "league": "İTB",
-      "at": "07.11.2026 09:13",
-      "count": 6
     }
   ],
   "paywall": {
