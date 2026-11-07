@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 18:15",
+  "updatedAt": "07.11.2026 18:23",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 663,
-      "lost": 303,
-      "total": 966,
-      "rate": 68.6
+      "won": 665,
+      "lost": 306,
+      "total": 971,
+      "rate": 68.5
     },
     "totalAnalyses": 455058,
     "leagues": 487,
     "pro": {
-      "won": 1164,
-      "lost": 457,
-      "total": 1621,
+      "won": 1166,
+      "lost": 459,
+      "total": 1625,
       "rate": 71.8
     },
     "insights": {
-      "won": 1911,
-      "lost": 824,
-      "total": 2735,
-      "rate": 69.9
+      "won": 1913,
+      "lost": 826,
+      "total": 2739,
+      "rate": 69.8
     },
     "coupons": {
       "won": 55,
-      "lost": 65,
-      "total": 120,
-      "rate": 45.8
+      "lost": 66,
+      "total": 121,
+      "rate": 45.5
     },
-    "analyses24h": 2906,
-    "analyses30d": 21915
+    "analyses24h": 2898,
+    "analyses30d": 21907
   },
   "recentWins": [
     {
@@ -342,18 +342,6 @@
     },
     {
       "type": "updated",
-      "at": "07.11.2026 12:21",
-      "home": "Muglaspor",
-      "away": "Esenler Erokspor"
-    },
-    {
-      "type": "updated",
-      "at": "07.11.2026 12:21",
-      "home": "Samsunspor",
-      "away": "Konyaspor"
-    },
-    {
-      "type": "updated",
       "at": "07.11.2026 13:00",
       "home": "Austria Lust",
       "away": "Grazer AK"
@@ -369,33 +357,33 @@
       "at": "07.11.2026 13:00",
       "home": "Goztepe",
       "away": "Istanbul Basaksehir"
+    },
+    {
+      "type": "updated",
+      "at": "07.11.2026 12:59",
+      "home": "Galatasaray",
+      "away": "Amed SK"
+    },
+    {
+      "type": "updated",
+      "at": "07.11.2026 12:39",
+      "home": "Akhmat Grozny",
+      "away": "Fk Rodina Moskv"
     }
   ],
   "today": {
-    "home": "Argentinos Juniors",
-    "away": "Club Atletico Huracan",
-    "league": "ARJ",
-    "date": "08.11.2026 00:00",
-    "matchCode": "4475941",
-    "odds": 2.31,
-    "patternScore": 66.83,
-    "patternText": "158.357/236.965",
+    "home": "Paris Saint-Germain",
+    "away": "ESTAC Troyes",
+    "league": "FR1",
+    "date": "07.11.2026 19:45",
+    "matchCode": "4476590",
+    "odds": 2.12,
+    "patternScore": 67.07,
+    "patternText": "209.319/312.091",
     "aiScore": 52,
-    "picks": 9
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Argentinos Juniors",
-      "away": "Club Atletico Huracan",
-      "league": "ARJ",
-      "date": "08.11.2026 00:00",
-      "matchCode": "4475941",
-      "odds": 2.31,
-      "patternScore": 66.83,
-      "patternText": "158.357/236.965",
-      "aiScore": 52,
-      "picks": 9
-    },
     {
       "home": "Paris Saint-Germain",
       "away": "ESTAC Troyes",
@@ -409,28 +397,40 @@
       "picks": 3
     },
     {
-      "home": "Club Atletico Aldosivi",
-      "away": "River Plate",
+      "home": "Club Atletico Tigre",
+      "away": "CA Sarmiento",
       "league": "ARJ",
       "date": "08.11.2026 00:00",
-      "matchCode": "4475946",
-      "odds": 1.72,
-      "patternScore": 66.81,
-      "patternText": "155.244/232.380",
+      "matchCode": "4475942",
+      "odds": 1.8,
+      "patternScore": 66.49,
+      "patternText": "160.213/240.969",
       "aiScore": 53,
-      "picks": 2
+      "picks": 8
     },
     {
-      "home": "Seattle Sounders",
-      "away": "Los Angeles FC",
-      "league": "ABD",
+      "home": "Boca Juniors",
+      "away": "Defensa y Justicia",
+      "league": "ARJ",
       "date": "08.11.2026 00:00",
-      "matchCode": "4419849",
-      "odds": 1.43,
-      "patternScore": 67.76,
-      "patternText": "238.342/351.741",
-      "aiScore": 56,
-      "picks": 4
+      "matchCode": "4475939",
+      "odds": 1.74,
+      "patternScore": 66.73,
+      "patternText": "234.966/352.123",
+      "aiScore": 52,
+      "picks": 8
+    },
+    {
+      "home": "Barracas Central",
+      "away": "Racing Club",
+      "league": "ARJ",
+      "date": "08.11.2026 00:00",
+      "matchCode": "4475945",
+      "odds": 1.54,
+      "patternScore": 67.66,
+      "patternText": "222.127/328.315",
+      "aiScore": 54,
+      "picks": 1
     },
     {
       "home": "Royal Antwerp",
