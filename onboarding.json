@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 15:23",
+  "updatedAt": "07.11.2026 15:31",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 450,
-      "lost": 227,
-      "total": 677,
+      "won": 448,
+      "lost": 226,
+      "total": 674,
       "rate": 66.5
     },
-    "totalAnalyses": 454573,
+    "totalAnalyses": 454574,
     "leagues": 487,
     "pro": {
-      "won": 1065,
-      "lost": 429,
-      "total": 1494,
-      "rate": 71.3
+      "won": 1058,
+      "lost": 428,
+      "total": 1486,
+      "rate": 71.2
     },
     "insights": {
-      "won": 1773,
-      "lost": 785,
-      "total": 2558,
+      "won": 1758,
+      "lost": 780,
+      "total": 2538,
       "rate": 69.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 101,
       "rate": 51.5
     },
-    "analyses24h": 3023,
-    "analyses30d": 21926
+    "analyses24h": 3018,
+    "analyses30d": 21924
   },
   "recentWins": [
     {
@@ -386,7 +386,7 @@
     "matchCode": "4476590",
     "odds": 2.12,
     "patternScore": 67.04,
-    "patternText": "208.265/310.645",
+    "patternText": "208.273/310.657",
     "aiScore": 53,
     "picks": 3
   },
@@ -399,7 +399,7 @@
       "matchCode": "4476590",
       "odds": 2.12,
       "patternScore": 67.04,
-      "patternText": "208.265/310.645",
+      "patternText": "208.273/310.657",
       "aiScore": 53,
       "picks": 3
     },
@@ -411,7 +411,7 @@
       "matchCode": "4534576",
       "odds": 1.66,
       "patternScore": 66.64,
-      "patternText": "291.214/436.987",
+      "patternText": "291.222/437.007",
       "aiScore": 53,
       "picks": 3
     },
@@ -423,7 +423,7 @@
       "matchCode": "4496709",
       "odds": 1.53,
       "patternScore": 68.56,
-      "patternText": "287.122/418.792",
+      "patternText": "287.130/418.812",
       "aiScore": 55,
       "picks": 1
     },
@@ -435,24 +435,31 @@
       "matchCode": "4419840",
       "odds": 1.47,
       "patternScore": 67.81,
-      "patternText": "223.014/328.861",
+      "patternText": "223.020/328.871",
       "aiScore": 55,
       "picks": 4
     },
     {
-      "home": "Goztepe",
-      "away": "Istanbul Basaksehir",
-      "league": "TSL",
-      "date": "07.11.2026 16:00",
-      "matchCode": "4542747",
-      "odds": 1.43,
-      "patternScore": 67.25,
-      "patternText": "192.945/286.909",
-      "aiScore": 58,
-      "picks": 6
+      "home": "OH Leuven",
+      "away": "KV Mechelen",
+      "league": "BEL",
+      "date": "07.11.2026 17:15",
+      "matchCode": "4480764",
+      "odds": 1.42,
+      "patternScore": 67.93,
+      "patternText": "269.358/396.531",
+      "aiScore": 55,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "AJ Auxerre",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "07.11.2026 15:26",
+      "count": 9
+    },
     {
       "home": "CA Osasuna",
       "away": "Athletic Bilbao",
@@ -473,13 +480,6 @@
       "league": "AL1",
       "at": "07.11.2026 15:03",
       "count": 18
-    },
-    {
-      "home": "AJ Auxerre",
-      "away": "Paris FC",
-      "league": "FR1",
-      "at": "07.11.2026 14:59",
-      "count": 9
     },
     {
       "home": "FC Cincinnati",
