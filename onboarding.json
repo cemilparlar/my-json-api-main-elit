@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 11:09",
+  "updatedAt": "07.11.2026 11:17",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 528,
       "rate": 67.6
     },
-    "totalAnalyses": 453324,
+    "totalAnalyses": 453336,
     "leagues": 487,
     "pro": {
       "won": 1183,
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 2998,
-    "analyses30d": 21899
+    "analyses24h": 2995,
+    "analyses30d": 21896
   },
   "recentWins": [
     {
@@ -379,7 +379,7 @@
     "matchCode": "4542749",
     "odds": 2.0,
     "patternScore": 66.26,
-    "patternText": "204.059/307.953",
+    "patternText": "204.075/307.973",
     "aiScore": 52,
     "picks": 6
   },
@@ -392,7 +392,7 @@
       "matchCode": "4542749",
       "odds": 2.0,
       "patternScore": 66.26,
-      "patternText": "204.059/307.953",
+      "patternText": "204.075/307.973",
       "aiScore": 52,
       "picks": 6
     },
@@ -403,8 +403,8 @@
       "date": "07.11.2026 14:00",
       "matchCode": "4475142",
       "odds": 1.96,
-      "patternScore": 67.29,
-      "patternText": "313.559/466.014",
+      "patternScore": 67.28,
+      "patternText": "313.575/466.042",
       "aiScore": 52,
       "picks": 9
     },
@@ -416,7 +416,7 @@
       "matchCode": "4517711",
       "odds": 1.66,
       "patternScore": 67.75,
-      "patternText": "291.515/430.305",
+      "patternText": "291.531/430.333",
       "aiScore": 54,
       "picks": 6
     },
@@ -428,7 +428,7 @@
       "matchCode": "4576661",
       "odds": 1.56,
       "patternScore": 67.77,
-      "patternText": "318.733/470.311",
+      "patternText": "318.757/470.347",
       "aiScore": 54,
       "picks": 2
     },
@@ -440,12 +440,19 @@
       "matchCode": "4534576",
       "odds": 1.54,
       "patternScore": 66.89,
-      "patternText": "313.598/468.827",
+      "patternText": "313.622/468.863",
       "aiScore": 54,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Cardiff City",
+      "away": "Burnley",
+      "league": "İNCL",
+      "at": "07.11.2026 11:11",
+      "count": 5
+    },
     {
       "home": "Fulham",
       "away": "Newcastle United",
@@ -508,13 +515,6 @@
       "league": "İNP",
       "at": "07.11.2026 10:56",
       "count": 5
-    },
-    {
-      "home": "Osnabruck",
-      "away": "Kaiserslautern",
-      "league": "AL2",
-      "at": "07.11.2026 10:54",
-      "count": 6
     }
   ],
   "paywall": {
