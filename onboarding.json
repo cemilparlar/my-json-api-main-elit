@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 14:33",
+  "updatedAt": "07.11.2026 14:41",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 611,
       "rate": 67.1
     },
-    "totalAnalyses": 454276,
+    "totalAnalyses": 454349,
     "leagues": 487,
     "pro": {
       "won": 1137,
@@ -47,8 +47,8 @@
       "total": 100,
       "rate": 51.0
     },
-    "analyses24h": 3014,
-    "analyses30d": 21915
+    "analyses24h": 3034,
+    "analyses30d": 21937
   },
   "recentWins": [
     {
@@ -379,18 +379,30 @@
     }
   ],
   "today": {
-    "home": "Juventus Women",
-    "away": "Sassuolo Women",
-    "league": "İTKSA",
-    "date": "07.11.2026 17:00",
-    "matchCode": "4534576",
-    "odds": 1.66,
-    "patternScore": 66.65,
-    "patternText": "290.982/436.597",
+    "home": "Paris Saint-Germain",
+    "away": "ESTAC Troyes",
+    "league": "FR1",
+    "date": "07.11.2026 19:45",
+    "matchCode": "4476590",
+    "odds": 2.12,
+    "patternScore": 67.05,
+    "patternText": "208.081/310.341",
     "aiScore": 53,
     "picks": 3
   },
   "todayList": [
+    {
+      "home": "Paris Saint-Germain",
+      "away": "ESTAC Troyes",
+      "league": "FR1",
+      "date": "07.11.2026 19:45",
+      "matchCode": "4476590",
+      "odds": 2.12,
+      "patternScore": 67.05,
+      "patternText": "208.081/310.341",
+      "aiScore": 53,
+      "picks": 3
+    },
     {
       "home": "Juventus Women",
       "away": "Sassuolo Women",
@@ -399,7 +411,7 @@
       "matchCode": "4534576",
       "odds": 1.66,
       "patternScore": 66.65,
-      "patternText": "290.982/436.597",
+      "patternText": "291.062/436.715",
       "aiScore": 53,
       "picks": 3
     },
@@ -411,21 +423,9 @@
       "matchCode": "4496709",
       "odds": 1.53,
       "patternScore": 68.57,
-      "patternText": "286.874/418.382",
+      "patternText": "286.970/418.516",
       "aiScore": 55,
       "picks": 1
-    },
-    {
-      "home": "Pau FC",
-      "away": "FC Nantes",
-      "league": "FR2",
-      "date": "07.11.2026 19:00",
-      "matchCode": "4476915",
-      "odds": 1.48,
-      "patternScore": 66.77,
-      "patternText": "206.815/309.726",
-      "aiScore": 56,
-      "picks": 3
     },
     {
       "home": "FC Den Bosch",
@@ -435,7 +435,7 @@
       "matchCode": "4481926",
       "odds": 1.44,
       "patternScore": 67.48,
-      "patternText": "308.046/456.479",
+      "patternText": "308.126/456.597",
       "aiScore": 58,
       "picks": 5
     },
@@ -447,7 +447,7 @@
       "matchCode": "4542747",
       "odds": 1.43,
       "patternScore": 67.26,
-      "patternText": "192.545/286.279",
+      "patternText": "192.693/286.489",
       "aiScore": 58,
       "picks": 6
     }
