@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 09:46",
+  "updatedAt": "07.11.2026 09:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 517,
       "rate": 66.9
     },
-    "totalAnalyses": 453212,
+    "totalAnalyses": 453224,
     "leagues": 489,
     "pro": {
       "won": 1177,
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 2991,
-    "analyses30d": 21913
+    "analyses24h": 2996,
+    "analyses30d": 21918
   },
   "recentWins": [
     {
@@ -447,6 +447,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Borussia Dortmund",
+      "away": "SV Elversberg",
+      "league": "AL1",
+      "at": "07.11.2026 09:51",
+      "count": 14
+    },
+    {
+      "home": "SC Paderborn",
+      "away": "Eintracht Frankfurt",
+      "league": "AL1",
+      "at": "07.11.2026 09:50",
+      "count": 11
+    },
+    {
       "home": "RB Leipzig",
       "away": "FC Augsburg",
       "league": "AL1",
@@ -501,20 +515,6 @@
       "league": "İTB",
       "at": "07.11.2026 09:13",
       "count": 6
-    },
-    {
-      "home": "Calcio Padova",
-      "away": "Empoli",
-      "league": "İTB",
-      "at": "07.11.2026 09:09",
-      "count": 5
-    },
-    {
-      "home": "Akhmat Grozny",
-      "away": "Fk Rodina Moskv",
-      "league": "RUS",
-      "at": "07.11.2026 09:05",
-      "count": 9
     }
   ],
   "paywall": {
