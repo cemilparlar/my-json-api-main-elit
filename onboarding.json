@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 00:59",
+  "updatedAt": "07.11.2026 07:20",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 269,
-      "lost": 138,
-      "total": 407,
-      "rate": 66.1
+      "won": 333,
+      "lost": 158,
+      "total": 491,
+      "rate": 67.8
     },
-    "totalAnalyses": 452627,
-    "leagues": 491,
+    "totalAnalyses": 452660,
+    "leagues": 489,
     "pro": {
-      "won": 1153,
-      "lost": 464,
-      "total": 1617,
-      "rate": 71.3
+      "won": 1161,
+      "lost": 460,
+      "total": 1621,
+      "rate": 71.6
     },
     "insights": {
-      "won": 1987,
-      "lost": 844,
-      "total": 2831,
-      "rate": 70.2
+      "won": 1988,
+      "lost": 837,
+      "total": 2825,
+      "rate": 70.4
     },
     "coupons": {
       "won": 48,
@@ -47,8 +47,8 @@
       "total": 92,
       "rate": 52.2
     },
-    "analyses24h": 2921,
-    "analyses30d": 21843
+    "analyses24h": 2930,
+    "analyses30d": 21852
   },
   "recentWins": [
     {
@@ -123,6 +123,85 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.52,
+      "winChance": 40.42,
+      "completedAt": "07.11.2026 07:20",
+      "legs": [
+        {
+          "home": "Eintracht Braunschweig",
+          "away": "Energie Cottbus",
+          "prediction": "Under 4.5 Goals",
+          "odds": 1.14,
+          "finalScore": "0 - 0"
+        },
+        {
+          "home": "Waasland-Bever",
+          "away": "Seraing U21",
+          "prediction": "Double Chance 1X",
+          "odds": 1.07,
+          "finalScore": "6 - 0"
+        },
+        {
+          "home": "USL Dunkerque",
+          "away": "En Avant Guingamp",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.07,
+          "finalScore": "3 - 0"
+        },
+        {
+          "home": "Fc Eindhoven",
+          "away": "Jong Ajax",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "0 - 3"
+        },
+        {
+          "home": "Jong AZ",
+          "away": "Almere City FC",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "1 - 3"
+        }
+      ]
+    },
+    {
+      "size": 4,
+      "totalOdds": 1.54,
+      "winChance": 42.09,
+      "completedAt": "07.11.2026 07:20",
+      "legs": [
+        {
+          "home": "FC Dordrecht",
+          "away": "NAC Breda",
+          "prediction": "Under 4.5 Goals",
+          "odds": 1.09,
+          "finalScore": "0 - 0"
+        },
+        {
+          "home": "Castellon",
+          "away": "Eibar",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": null
+        },
+        {
+          "home": "Wisla Krakow",
+          "away": "KS Cracovia",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Holywell Town",
+          "away": "Airbus Uk",
+          "prediction": "Match Result 2",
+          "odds": 1.19,
+          "finalScore": "2 - 3"
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.51,
@@ -201,56 +280,6 @@
           "finalScore": "3 - 2"
         }
       ]
-    },
-    {
-      "size": 6,
-      "totalOdds": 1.57,
-      "winChance": 27.48,
-      "completedAt": "05.11.2026 22:05",
-      "legs": [
-        {
-          "home": "SK Sturm Graz",
-          "away": "NK Celje",
-          "prediction": "Double Chance 12",
-          "odds": 1.07,
-          "finalScore": "2 - 3"
-        },
-        {
-          "home": "Hapoel Beer Sh",
-          "away": "Ofi",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.09,
-          "finalScore": "0 - 2"
-        },
-        {
-          "home": "FC Lugano",
-          "away": "Kauno Zalgiris",
-          "prediction": "Match Result 1",
-          "odds": 1.06,
-          "finalScore": "3 - 0"
-        },
-        {
-          "home": "Panathinaikos",
-          "away": "CSKA Sofia",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.09,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "AZ Alkmaar",
-          "away": "Juventus",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.08,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "Celtic",
-          "away": "Besiktas",
-          "prediction": "Handicap (2:0) 1",
-          "odds": 1.08,
-          "finalScore": "3 - 2"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -306,110 +335,138 @@
     },
     {
       "type": "updated",
-      "at": "06.11.2026 22:21",
-      "home": "Shimizu S-Pulse",
-      "away": "Tokyo Verdy"
+      "at": "07.11.2026 07:18",
+      "home": "Eyupspor",
+      "away": "Kocaelispor"
     },
     {
       "type": "updated",
-      "at": "07.11.2026 00:18",
-      "home": "Tokushima Vortis",
-      "away": "Tegevajaro Miyazaki"
+      "at": "07.11.2026 07:16",
+      "home": "A. Keciorengucu",
+      "away": "Manisa FK"
     },
     {
       "type": "updated",
-      "at": "06.11.2026 23:07",
-      "home": "Blaublitz Akit",
-      "away": "Oita Trinita"
+      "at": "07.11.2026 07:16",
+      "home": "Van Spor FK",
+      "away": "Sivasspor"
     },
     {
       "type": "updated",
-      "at": "06.11.2026 23:05",
-      "home": "Yokohama FC",
-      "away": "Fujieda MYFC"
+      "at": "07.11.2026 07:19",
+      "home": "Felgueiras 1932",
+      "away": "Leixoes SC"
     },
     {
       "type": "updated",
-      "at": "06.11.2026 23:06",
-      "home": "Sagan Tosu",
-      "away": "Kataller Toyama"
+      "at": "07.11.2026 07:20",
+      "home": "Ayutthaya United",
+      "away": "Pattani"
     }
   ],
   "today": {
-    "home": "Mynavi Sendai",
-    "away": "Urawa Red Women",
-    "league": "JWEL",
-    "date": "07.11.2026 05:00",
-    "matchCode": "4488308",
-    "odds": 1.74,
-    "patternScore": 66.92,
-    "patternText": "272.184/406.758",
-    "aiScore": 54,
-    "picks": 3
+    "home": "Holstein Kiel",
+    "away": "Arminia Bielefe",
+    "league": "AL2",
+    "date": "07.11.2026 12:00",
+    "matchCode": "4495833",
+    "odds": 1.8,
+    "patternScore": 67.1,
+    "patternText": "286.274/426.611",
+    "aiScore": 53,
+    "picks": 9
   },
   "todayList": [
     {
-      "home": "Mynavi Sendai",
-      "away": "Urawa Red Women",
-      "league": "JWEL",
-      "date": "07.11.2026 05:00",
-      "matchCode": "4488308",
-      "odds": 1.74,
-      "patternScore": 66.92,
-      "patternText": "272.184/406.758",
+      "home": "Holstein Kiel",
+      "away": "Arminia Bielefe",
+      "league": "AL2",
+      "date": "07.11.2026 12:00",
+      "matchCode": "4495833",
+      "odds": 1.8,
+      "patternScore": 67.1,
+      "patternText": "286.274/426.611",
+      "aiScore": 53,
+      "picks": 9
+    },
+    {
+      "home": "Rot-Weiss Essen",
+      "away": "Alemannia Aachen",
+      "league": "AL3",
+      "date": "07.11.2026 13:00",
+      "matchCode": "4517711",
+      "odds": 1.66,
+      "patternScore": 67.74,
+      "patternText": "291.023/429.625",
       "aiScore": 54,
-      "picks": 3
+      "picks": 6
     },
     {
-      "home": "Nagoya Grampus",
-      "away": "Kyoto Sanga FC",
-      "league": "JAP",
-      "date": "07.11.2026 05:00",
-      "matchCode": "4487263",
-      "odds": 1.34,
-      "patternScore": 67.92,
-      "patternText": "277.877/409.113",
-      "aiScore": 58,
-      "picks": 7
-    },
-    {
-      "home": "Seongnam",
-      "away": "Daegu FC",
-      "league": "GKOR2",
-      "date": "07.11.2026 05:00",
-      "matchCode": "4442875",
-      "odds": 1.33,
-      "patternScore": 68.18,
-      "patternText": "267.485/392.347",
-      "aiScore": 58,
-      "picks": 3
-    },
-    {
-      "home": "Avispa Fukuoka",
-      "away": "V-Varen Nagasaki",
-      "league": "JAP",
-      "date": "07.11.2026 06:00",
-      "matchCode": "4487265",
-      "odds": 1.28,
-      "patternScore": 68.34,
-      "patternText": "267.722/391.726",
-      "aiScore": 62,
-      "picks": 5
-    },
-    {
-      "home": "Yokohama FC",
-      "away": "Fujieda MYFC",
-      "league": "JAP2",
-      "date": "07.11.2026 05:00",
-      "matchCode": "4487662",
-      "odds": 1.25,
-      "patternScore": 68.91,
-      "patternText": "432.302/627.351",
-      "aiScore": 77,
+      "home": "Bayer Leverkusen",
+      "away": "Hamburger SV Women",
+      "league": "ALKB",
+      "date": "07.11.2026 13:00",
+      "matchCode": "4523500",
+      "odds": 1.65,
+      "patternScore": 68.22,
+      "patternText": "305.875/448.344",
+      "aiScore": 56,
       "picks": 1
+    },
+    {
+      "home": "Babrungas",
+      "away": "Fa Siauliai Ii",
+      "league": "LIT1",
+      "date": "07.11.2026 12:00",
+      "matchCode": "4484916",
+      "odds": 1.4,
+      "patternScore": 66.67,
+      "patternText": "202.339/303.483",
+      "aiScore": 55,
+      "picks": 3
+    },
+    {
+      "home": "Burgos CF",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "date": "07.11.2026 13:00",
+      "matchCode": "4492812",
+      "odds": 1.4,
+      "patternScore": 68.1,
+      "patternText": "188.096/276.222",
+      "aiScore": 59,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FK Fakel Voronezh",
+      "away": "Dinamo Moscow",
+      "league": "RUS",
+      "at": "07.11.2026 07:19",
+      "count": 14
+    },
+    {
+      "home": "Eyupspor",
+      "away": "Kocaelispor",
+      "league": "TSL",
+      "at": "07.11.2026 07:18",
+      "count": 3
+    },
+    {
+      "home": "A. Keciorengucu",
+      "away": "Manisa FK",
+      "league": "T1L",
+      "at": "07.11.2026 07:16",
+      "count": 3
+    },
+    {
+      "home": "Van Spor FK",
+      "away": "Sivasspor",
+      "league": "T1L",
+      "at": "07.11.2026 07:16",
+      "count": 4
+    },
     {
       "home": "FC Famalicao",
       "away": "FC Arouca",
@@ -451,34 +508,6 @@
       "league": "İTA",
       "at": "06.11.2026 19:02",
       "count": 5
-    },
-    {
-      "home": "Standard Liege",
-      "away": "Waasland-Beveren",
-      "league": "BEL",
-      "at": "06.11.2026 19:02",
-      "count": 6
-    },
-    {
-      "home": "Toulouse FC",
-      "away": "RC Strasbourg",
-      "league": "FR1",
-      "at": "06.11.2026 19:02",
-      "count": 5
-    },
-    {
-      "home": "Ascoli Calcio",
-      "away": "Palermo FC",
-      "league": "İTB",
-      "at": "06.11.2026 18:44",
-      "count": 7
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "FC Barcelona",
-      "league": "İS1",
-      "at": "06.11.2026 18:30",
-      "count": 17
     }
   ],
   "paywall": {
