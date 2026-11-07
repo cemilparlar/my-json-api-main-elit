@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 14:56",
+  "updatedAt": "07.11.2026 15:04",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 422,
+      "won": 420,
       "lost": 205,
-      "total": 627,
-      "rate": 67.3
+      "total": 625,
+      "rate": 67.2
     },
-    "totalAnalyses": 454349,
+    "totalAnalyses": 454467,
     "leagues": 487,
     "pro": {
-      "won": 1145,
-      "lost": 465,
-      "total": 1610,
-      "rate": 71.1
+      "won": 1055,
+      "lost": 417,
+      "total": 1472,
+      "rate": 71.7
     },
     "insights": {
-      "won": 1925,
-      "lost": 836,
-      "total": 2761,
-      "rate": 69.7
+      "won": 1757,
+      "lost": 766,
+      "total": 2523,
+      "rate": 69.6
     },
     "coupons": {
       "won": 51,
@@ -47,8 +47,8 @@
       "total": 100,
       "rate": 51.0
     },
-    "analyses24h": 3028,
-    "analyses30d": 21934
+    "analyses24h": 3029,
+    "analyses30d": 21932
   },
   "recentWins": [
     {
@@ -331,21 +331,21 @@
     },
     {
       "type": "coupon",
-      "size": 5,
-      "odds": 1.51,
-      "at": "07.11.2026 14:07"
+      "size": 4,
+      "odds": 1.52,
+      "at": "07.11.2026 15:04"
     },
     {
       "type": "coupon",
       "size": 4,
-      "odds": 1.5,
-      "at": "07.11.2026 14:07"
+      "odds": 1.51,
+      "at": "07.11.2026 15:04"
     },
     {
       "type": "coupon",
-      "size": 5,
-      "odds": 1.59,
-      "at": "07.11.2026 14:07"
+      "size": 3,
+      "odds": 1.51,
+      "at": "07.11.2026 15:04"
     },
     {
       "type": "updated",
@@ -386,7 +386,7 @@
     "matchCode": "4476590",
     "odds": 2.12,
     "patternScore": 67.05,
-    "patternText": "208.091/310.359",
+    "patternText": "208.125/310.405",
     "aiScore": 53,
     "picks": 3
   },
@@ -399,7 +399,7 @@
       "matchCode": "4476590",
       "odds": 2.12,
       "patternScore": 67.05,
-      "patternText": "208.091/310.359",
+      "patternText": "208.125/310.405",
       "aiScore": 53,
       "picks": 3
     },
@@ -411,7 +411,7 @@
       "matchCode": "4534576",
       "odds": 1.66,
       "patternScore": 66.65,
-      "patternText": "291.076/436.733",
+      "patternText": "291.102/436.775",
       "aiScore": 53,
       "picks": 3
     },
@@ -423,21 +423,21 @@
       "matchCode": "4496709",
       "odds": 1.53,
       "patternScore": 68.57,
-      "patternText": "286.984/418.534",
+      "patternText": "287.002/418.560",
       "aiScore": 55,
       "picks": 1
     },
     {
-      "home": "FC Den Bosch",
-      "away": "Jong Utrecht",
-      "league": "HOL2",
-      "date": "07.11.2026 15:30",
-      "matchCode": "4481926",
-      "odds": 1.44,
-      "patternScore": 67.48,
-      "patternText": "308.140/456.615",
-      "aiScore": 58,
-      "picks": 5
+      "home": "DC United",
+      "away": "New York City FC",
+      "league": "ABD",
+      "date": "07.11.2026 21:00",
+      "matchCode": "4419840",
+      "odds": 1.47,
+      "patternScore": 67.82,
+      "patternText": "222.970/328.785",
+      "aiScore": 55,
+      "picks": 4
     },
     {
       "home": "Goztepe",
@@ -447,12 +447,40 @@
       "matchCode": "4542747",
       "odds": 1.43,
       "patternScore": 67.26,
-      "patternText": "192.703/286.507",
+      "patternText": "192.725/286.533",
       "aiScore": 58,
       "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "CA Osasuna",
+      "away": "Athletic Bilbao",
+      "league": "İS1",
+      "at": "07.11.2026 15:04",
+      "count": 4
+    },
+    {
+      "home": "Nottingham Forest",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "07.11.2026 15:03",
+      "count": 7
+    },
+    {
+      "home": "VfB Stuttgart",
+      "away": "Werder Bremen",
+      "league": "AL1",
+      "at": "07.11.2026 15:03",
+      "count": 18
+    },
+    {
+      "home": "AJ Auxerre",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "07.11.2026 14:59",
+      "count": 9
+    },
     {
       "home": "FC Cincinnati",
       "away": "Nashville SC",
@@ -494,34 +522,6 @@
       "league": "BEL",
       "at": "07.11.2026 14:30",
       "count": 7
-    },
-    {
-      "home": "AS Roma",
-      "away": "US Sassuolo",
-      "league": "İTA",
-      "at": "07.11.2026 14:30",
-      "count": 6
-    },
-    {
-      "home": "AS Saint-Etienne",
-      "away": "Stade Lavalois",
-      "league": "FR2",
-      "at": "07.11.2026 14:28",
-      "count": 3
-    },
-    {
-      "home": "Pau FC",
-      "away": "FC Nantes",
-      "league": "FR2",
-      "at": "07.11.2026 14:28",
-      "count": 7
-    },
-    {
-      "home": "CD Leganes",
-      "away": "Albacete Balompie",
-      "league": "İS2",
-      "at": "07.11.2026 14:17",
-      "count": 6
     }
   ],
   "paywall": {
