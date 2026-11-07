@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 11:54",
+  "updatedAt": "07.11.2026 12:06",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 357,
-      "lost": 171,
-      "total": 528,
+      "won": 353,
+      "lost": 169,
+      "total": 522,
       "rate": 67.6
     },
-    "totalAnalyses": 453578,
+    "totalAnalyses": 453585,
     "leagues": 487,
     "pro": {
-      "won": 1182,
-      "lost": 477,
-      "total": 1659,
-      "rate": 71.2
+      "won": 1176,
+      "lost": 478,
+      "total": 1654,
+      "rate": 71.1
     },
     "insights": {
-      "won": 2017,
-      "lost": 855,
-      "total": 2872,
-      "rate": 70.2
+      "won": 2006,
+      "lost": 854,
+      "total": 2860,
+      "rate": 70.1
     },
     "coupons": {
       "won": 49,
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 3026,
-    "analyses30d": 21908
+    "analyses24h": 3012,
+    "analyses30d": 21900
   },
   "recentWins": [
     {
@@ -88,7 +88,7 @@
       "odds": 1.9,
       "probability": 100.0,
       "patternScore": 56.92,
-      "aiScore": 53,
+      "aiScore": 52,
       "firstHalf": "0 - 1",
       "finalScore": "1 - 2",
       "pro": true
@@ -324,21 +324,21 @@
     },
     {
       "type": "coupon",
-      "size": 6,
-      "odds": 1.53,
-      "at": "07.11.2026 11:00"
+      "size": 5,
+      "odds": 1.52,
+      "at": "07.11.2026 12:06"
     },
     {
       "type": "coupon",
       "size": 5,
-      "odds": 1.51,
-      "at": "07.11.2026 11:00"
+      "odds": 1.56,
+      "at": "07.11.2026 12:06"
     },
     {
       "type": "coupon",
-      "size": 4,
-      "odds": 1.5,
-      "at": "07.11.2026 11:00"
+      "size": 5,
+      "odds": 1.54,
+      "at": "07.11.2026 12:06"
     },
     {
       "type": "updated",
@@ -417,7 +417,7 @@
       "odds": 1.85,
       "patternScore": 67.63,
       "patternText": "283.307/418.929",
-      "aiScore": 53,
+      "aiScore": 52,
       "picks": 4
     },
     {
@@ -446,6 +446,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Cadiz CF",
+      "away": "Real Oviedo",
+      "league": "İS2",
+      "at": "07.11.2026 11:59",
+      "count": 7
+    },
     {
       "home": "Queens Park Rangers",
       "away": "Lincoln City",
@@ -508,13 +515,6 @@
       "league": "İS1",
       "at": "07.11.2026 11:38",
       "count": 8
-    },
-    {
-      "home": "Bristol City",
-      "away": "Norwich City",
-      "league": "İNCL",
-      "at": "07.11.2026 11:34",
-      "count": 6
     }
   ],
   "paywall": {
