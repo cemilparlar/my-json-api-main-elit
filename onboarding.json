@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 10:27",
+  "updatedAt": "07.11.2026 10:36",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 520,
       "rate": 67.1
     },
-    "totalAnalyses": 453256,
+    "totalAnalyses": 453289,
     "leagues": 488,
     "pro": {
       "won": 1177,
-      "lost": 477,
-      "total": 1654,
+      "lost": 476,
+      "total": 1653,
       "rate": 71.2
     },
     "insights": {
-      "won": 2010,
-      "lost": 855,
-      "total": 2865,
+      "won": 2008,
+      "lost": 853,
+      "total": 2861,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 2996,
-    "analyses30d": 21900
+    "analyses24h": 3009,
+    "analyses30d": 21913
   },
   "recentWins": [
     {
@@ -409,18 +409,6 @@
       "picks": 6
     },
     {
-      "home": "FK Slovan Liberec",
-      "away": "Bohemians 1905",
-      "league": "ÇEK",
-      "date": "07.11.2026 14:00",
-      "matchCode": "4503890",
-      "odds": 1.62,
-      "patternScore": 68.02,
-      "patternText": "297.753/437.720",
-      "aiScore": 54,
-      "picks": 4
-    },
-    {
       "home": "Luton Town",
       "away": "Forest Green Rovers",
       "league": "FAK",
@@ -443,9 +431,35 @@
       "patternText": "278.943/411.271",
       "aiScore": 55,
       "picks": 4
+    },
+    {
+      "home": "Peterborough United",
+      "away": "Stamford",
+      "league": "İNGNLP",
+      "date": "07.11.2026 15:00",
+      "matchCode": "4519207",
+      "odds": 1.46,
+      "patternScore": 65.29,
+      "patternText": "361.813/554.195",
+      "aiScore": 56,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Blackburn",
+      "away": "West Ham United",
+      "league": "İNCL",
+      "at": "07.11.2026 10:36",
+      "count": 6
+    },
+    {
+      "home": "Borussia Dortmund",
+      "away": "SV Elversberg",
+      "league": "AL1",
+      "at": "07.11.2026 10:28",
+      "count": 14
+    },
     {
       "home": "SC Paderborn",
       "away": "Eintracht Frankfurt",
@@ -501,20 +515,6 @@
       "league": "İNCL",
       "at": "07.11.2026 09:56",
       "count": 6
-    },
-    {
-      "home": "Borussia Dortmund",
-      "away": "SV Elversberg",
-      "league": "AL1",
-      "at": "07.11.2026 09:51",
-      "count": 14
-    },
-    {
-      "home": "RB Leipzig",
-      "away": "FC Augsburg",
-      "league": "AL1",
-      "at": "07.11.2026 09:42",
-      "count": 13
     }
   ],
   "paywall": {
