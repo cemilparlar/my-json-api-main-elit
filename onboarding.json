@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 11:00",
+  "updatedAt": "07.11.2026 11:09",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 355,
+      "won": 357,
       "lost": 171,
-      "total": 526,
-      "rate": 67.5
+      "total": 528,
+      "rate": 67.6
     },
-    "totalAnalyses": 453297,
+    "totalAnalyses": 453324,
     "leagues": 487,
     "pro": {
-      "won": 1181,
-      "lost": 476,
-      "total": 1657,
+      "won": 1183,
+      "lost": 477,
+      "total": 1660,
       "rate": 71.3
     },
     "insights": {
-      "won": 2014,
-      "lost": 853,
-      "total": 2867,
+      "won": 2018,
+      "lost": 855,
+      "total": 2873,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 3001,
-    "analyses30d": 21902
+    "analyses24h": 2998,
+    "analyses30d": 21899
   },
   "recentWins": [
     {
@@ -397,6 +397,18 @@
       "picks": 6
     },
     {
+      "home": "Cagliari Calcio",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "date": "07.11.2026 14:00",
+      "matchCode": "4475142",
+      "odds": 1.96,
+      "patternScore": 67.29,
+      "patternText": "313.559/466.014",
+      "aiScore": 52,
+      "picks": 9
+    },
+    {
       "home": "Rot-Weiss Essen",
       "away": "Alemannia Aachen",
       "league": "AL3",
@@ -421,37 +433,46 @@
       "picks": 2
     },
     {
-      "home": "Osnabruck",
-      "away": "Kaiserslautern",
-      "league": "AL2",
-      "date": "07.11.2026 12:00",
-      "matchCode": "4495836",
-      "odds": 1.5,
-      "patternScore": 67.83,
-      "patternText": "278.967/411.295",
-      "aiScore": 55,
-      "picks": 4
-    },
-    {
-      "home": "Austria Lust",
-      "away": "Grazer AK",
-      "league": "AVU",
-      "date": "07.11.2026 16:00",
-      "matchCode": "4496528",
-      "odds": 1.42,
-      "patternScore": 67.57,
-      "patternText": "187.914/278.089",
-      "aiScore": 58,
-      "picks": 2
+      "home": "Juventus Women",
+      "away": "Sassuolo Women",
+      "league": "İTKSA",
+      "date": "07.11.2026 17:00",
+      "matchCode": "4534576",
+      "odds": 1.54,
+      "patternScore": 66.89,
+      "patternText": "313.598/468.827",
+      "aiScore": 54,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Fulham",
+      "away": "Newcastle United",
+      "league": "İNP",
+      "at": "07.11.2026 11:09",
+      "count": 8
+    },
+    {
+      "home": "KVC Westerlo",
+      "away": "Sporting Charleroi",
+      "league": "BEL",
+      "at": "07.11.2026 11:09",
+      "count": 12
+    },
     {
       "home": "Torino FC",
       "away": "US Lecce",
       "league": "İTA",
       "at": "07.11.2026 11:00",
       "count": 6
+    },
+    {
+      "home": "SC Paderborn",
+      "away": "Eintracht Frankfurt",
+      "league": "AL1",
+      "at": "07.11.2026 11:00",
+      "count": 3
     },
     {
       "home": "AC Pisa",
@@ -494,27 +515,6 @@
       "league": "AL2",
       "at": "07.11.2026 10:54",
       "count": 6
-    },
-    {
-      "home": "Holstein Kiel",
-      "away": "Arminia Bielefe",
-      "league": "AL2",
-      "at": "07.11.2026 10:54",
-      "count": 7
-    },
-    {
-      "home": "Blackburn",
-      "away": "West Ham United",
-      "league": "İNCL",
-      "at": "07.11.2026 10:36",
-      "count": 6
-    },
-    {
-      "home": "Borussia Dortmund",
-      "away": "SV Elversberg",
-      "league": "AL1",
-      "at": "07.11.2026 10:28",
-      "count": 14
     }
   ],
   "paywall": {
