@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 16:43",
+  "updatedAt": "07.11.2026 16:51",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 858,
       "rate": 67.1
     },
-    "totalAnalyses": 454856,
+    "totalAnalyses": 454868,
     "leagues": 487,
     "pro": {
-      "won": 1114,
+      "won": 1113,
       "lost": 439,
-      "total": 1553,
+      "total": 1552,
       "rate": 71.7
     },
     "insights": {
-      "won": 1856,
-      "lost": 805,
-      "total": 2661,
-      "rate": 69.7
+      "won": 1854,
+      "lost": 804,
+      "total": 2658,
+      "rate": 69.8
     },
     "coupons": {
       "won": 54,
@@ -47,8 +47,8 @@
       "total": 109,
       "rate": 49.5
     },
-    "analyses24h": 3004,
-    "analyses30d": 21903
+    "analyses24h": 3011,
+    "analyses30d": 21910
   },
   "recentWins": [
     {
@@ -414,18 +414,6 @@
       "picks": 5
     },
     {
-      "home": "OH Leuven",
-      "away": "KV Mechelen",
-      "league": "BEL",
-      "date": "07.11.2026 17:15",
-      "matchCode": "4480764",
-      "odds": 1.57,
-      "patternScore": 67.74,
-      "patternText": "276.476/408.155",
-      "aiScore": 54,
-      "picks": 5
-    },
-    {
       "home": "CA Osasuna",
       "away": "Athletic Bilbao",
       "league": "İS1",
@@ -436,9 +424,56 @@
       "patternText": "323.035/473.905",
       "aiScore": 55,
       "picks": 7
+    },
+    {
+      "home": "Excelsior Rotterdam",
+      "away": "Go Ahead Eagles",
+      "league": "HOL",
+      "date": "07.11.2026 20:00",
+      "matchCode": "4481586",
+      "odds": 1.37,
+      "patternScore": 67.97,
+      "patternText": "291.047/428.223",
+      "aiScore": 56,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Nottingham Forest",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "07.11.2026 16:50",
+      "count": 6
+    },
+    {
+      "home": "ADO Den Haag",
+      "away": "Sparta Rotterdam",
+      "league": "HOL",
+      "at": "07.11.2026 16:50",
+      "count": 6
+    },
+    {
+      "home": "Benevento",
+      "away": "US Avellino",
+      "league": "İTB",
+      "at": "07.11.2026 16:50",
+      "count": 7
+    },
+    {
+      "home": "AJ Auxerre",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "07.11.2026 16:50",
+      "count": 2
+    },
+    {
+      "home": "CA Osasuna",
+      "away": "Athletic Bilbao",
+      "league": "İS1",
+      "at": "07.11.2026 16:49",
+      "count": 11
+    },
     {
       "home": "Pau FC",
       "away": "FC Nantes",
@@ -452,20 +487,6 @@
       "league": "İTA",
       "at": "07.11.2026 16:33",
       "count": 1
-    },
-    {
-      "home": "AJ Auxerre",
-      "away": "Paris FC",
-      "league": "FR1",
-      "at": "07.11.2026 16:32",
-      "count": 4
-    },
-    {
-      "home": "CA Osasuna",
-      "away": "Athletic Bilbao",
-      "league": "İS1",
-      "at": "07.11.2026 16:31",
-      "count": 11
     },
     {
       "home": "OH Leuven",
@@ -487,27 +508,6 @@
       "league": "POR",
       "at": "07.11.2026 16:23",
       "count": 14
-    },
-    {
-      "home": "New York Red Bulls",
-      "away": "Atlanta United",
-      "league": "ABD",
-      "at": "07.11.2026 16:21",
-      "count": 8
-    },
-    {
-      "home": "Orlando City SC",
-      "away": "New England Revolution",
-      "league": "ABD",
-      "at": "07.11.2026 16:19",
-      "count": 17
-    },
-    {
-      "home": "DC United",
-      "away": "New York City FC",
-      "league": "ABD",
-      "at": "07.11.2026 16:19",
-      "count": 6
     }
   ],
   "paywall": {
