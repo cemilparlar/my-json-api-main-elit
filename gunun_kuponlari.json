@@ -3,7 +3,7 @@
   "stats7": {
     "multi": {
       "won": 51,
-      "lost": 48
+      "lost": 49
     },
     "c70_2": {
       "won": 9,
@@ -23,7 +23,7 @@
     },
     "cyz_5": {
       "won": 13,
-      "lost": 22
+      "lost": 23
     },
     "cyz_6": {
       "won": 2,
@@ -69,7 +69,7 @@
     },
     "multi": {
       "won": 57,
-      "lost": 53
+      "lost": 54
     },
     "c70_1": {
       "won": 20,
@@ -89,15 +89,15 @@
     },
     "cyz_5": {
       "won": 13,
-      "lost": 22
+      "lost": 23
     },
     "cyz_6": {
       "won": 2,
       "lost": 4
     }
   },
-  "updatedAt": "07.11.2026 14:24",
-  "updatedAtUtc": "2026-11-07T14:24:00Z",
+  "updatedAt": "07.11.2026 14:33",
+  "updatedAtUtc": "2026-11-07T14:33:00Z",
   "upcoming": [
     {
       "id": "20261107-13-1",
@@ -158,9 +158,9 @@
           "patternScore": 71.29,
           "patternText": "331.714/465.317",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 1",
+          "status": "won",
           "aiScore": 96
         },
         {
@@ -181,9 +181,9 @@
           "patternScore": 68.8,
           "patternText": "255.775/371.747",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 1",
+          "finalScore": "1 - 1",
+          "status": "won",
           "aiScore": 96
         },
         {
@@ -293,9 +293,9 @@
           "patternScore": 69.57,
           "patternText": "331.836/477.014",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 2",
+          "status": "won",
           "aiScore": 93
         },
         {
@@ -594,141 +594,6 @@
       ]
     },
     {
-      "id": "20261107-13-3",
-      "createdAt": "07.11.2026 10:03",
-      "createdAtUtc": "2026-11-07T10:03:00Z",
-      "size": 5,
-      "mbs": 1,
-      "totalOdds": 1.63,
-      "winChance": 33.92,
-      "firstKickoff": "07.11.2026 12:30",
-      "lastKickoff": "07.11.2026 13:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "cyz_5",
-      "group": "multi",
-      "formula": "5",
-      "multiScore": 75,
-      "effectiveOdds": 1.63,
-      "legs": [
-        {
-          "matchCode": "4523678",
-          "nesine": null,
-          "date": "07.11.2026 12:30",
-          "kickoffUtc": "2026-11-07T12:30:00Z",
-          "league": "ARNV",
-          "home": "Kf Laci",
-          "away": "Partizan Tirana",
-          "league_tr": "ARNV",
-          "home_tr": "Kf Laci",
-          "away_tr": "Partizan Tirana",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.06,
-          "probability": 78.2,
-          "patternScore": 69.99,
-          "patternText": "307.396/439.200",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 93
-        },
-        {
-          "matchCode": "4488851",
-          "nesine": null,
-          "date": "07.11.2026 12:30",
-          "kickoffUtc": "2026-11-07T12:30:00Z",
-          "league": "İNCL",
-          "home": "Bristol City",
-          "away": "Norwich City",
-          "league_tr": "İNCL",
-          "home_tr": "Bristol City",
-          "away_tr": "Norwich",
-          "prediction": "Over 1.5 Goals",
-          "prediction_tr": "1,5 Alt/Üst Üst",
-          "odds": 1.1,
-          "probability": 80.0,
-          "patternScore": 69.51,
-          "patternText": "227.391/327.134",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 89
-        },
-        {
-          "matchCode": "4498878",
-          "nesine": null,
-          "date": "07.11.2026 13:00",
-          "kickoffUtc": "2026-11-07T13:00:00Z",
-          "league": "T1L",
-          "home": "Muglaspor",
-          "away": "Esenler Erokspor",
-          "league_tr": "T1L",
-          "home_tr": "Muğlaspor",
-          "away_tr": "Esenler Erokspo",
-          "prediction": "1st Half Double Chance X2",
-          "prediction_tr": "1. Yarı Çifte Şans X-2",
-          "odds": 1.07,
-          "probability": 77.33,
-          "patternScore": 69.23,
-          "patternText": "302.785/437.336",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 89
-        },
-        {
-          "matchCode": "4506396",
-          "nesine": null,
-          "date": "07.11.2026 13:00",
-          "kickoffUtc": "2026-11-07T13:00:00Z",
-          "league": "ALMBÖL",
-          "home": "SpVgg Greuther Furth II",
-          "away": "TSV Aubstadt",
-          "league_tr": "ALMBÖL",
-          "home_tr": "Fürth Ii",
-          "away_tr": "Aubstadt",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.12,
-          "probability": 81.12,
-          "patternScore": 70.49,
-          "patternText": "246.098/349.117",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 89
-        },
-        {
-          "matchCode": "4476910",
-          "nesine": null,
-          "date": "07.11.2026 13:00",
-          "kickoffUtc": "2026-11-07T13:00:00Z",
-          "league": "FR2",
-          "home": "Clermont Foot",
-          "away": "Rodez AF",
-          "league_tr": "FR2",
-          "home_tr": "Clermont",
-          "away_tr": "Rodez Aveyron",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.17,
-          "probability": 87.5,
-          "patternScore": 68.96,
-          "patternText": "284.683/412.832",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 89
-        }
-      ]
-    },
-    {
       "id": "20261107-14-2",
       "createdAt": "07.11.2026 11:00",
       "createdAtUtc": "2026-11-07T11:00:00Z",
@@ -764,9 +629,9 @@
           "patternScore": 69.06,
           "patternText": "205.233/297.194",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 1",
+          "finalScore": "1 - 1",
+          "status": "won",
           "aiScore": 94
         },
         {
@@ -899,9 +764,9 @@
           "patternScore": 69.62,
           "patternText": "387.141/556.063",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 5",
+          "status": "won",
           "aiScore": 80
         },
         {
@@ -1011,9 +876,9 @@
           "patternScore": 68.96,
           "patternText": "326.573/473.602",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 2",
+          "status": "won",
           "aiScore": 86
         },
         {
@@ -1711,7 +1576,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 91
         },
         {
@@ -2363,7 +2228,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 80
         },
         {
@@ -3262,7 +3127,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 94
         },
         {
@@ -3547,7 +3412,7 @@
       "winChance": 33.15,
       "firstKickoff": "07.11.2026 14:25",
       "lastKickoff": "07.11.2026 15:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_5",
       "group": "multi",
@@ -3575,7 +3440,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 88
         },
         {
@@ -3682,7 +3547,7 @@
       "winChance": 27.39,
       "firstKickoff": "07.11.2026 14:30",
       "lastKickoff": "07.11.2026 15:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_6",
       "group": "multi",
@@ -3710,7 +3575,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 91
         },
         {
@@ -3840,7 +3705,7 @@
       "winChance": 32.18,
       "firstKickoff": "07.11.2026 14:30",
       "lastKickoff": "07.11.2026 15:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_5",
       "group": "multi",
@@ -3868,7 +3733,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 87
         },
         {
@@ -3975,7 +3840,7 @@
       "winChance": 31.73,
       "firstKickoff": "07.11.2026 14:30",
       "lastKickoff": "07.11.2026 16:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_5",
       "group": "multi",
@@ -4003,7 +3868,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 86
         },
         {
@@ -5539,6 +5404,141 @@
   ],
   "completed": [
     {
+      "id": "20261107-13-3",
+      "createdAt": "07.11.2026 10:03",
+      "createdAtUtc": "2026-11-07T10:03:00Z",
+      "size": 5,
+      "mbs": 1,
+      "totalOdds": 1.63,
+      "winChance": 33.92,
+      "firstKickoff": "07.11.2026 12:30",
+      "lastKickoff": "07.11.2026 13:00",
+      "status": "lost",
+      "completedAt": "07.11.2026 14:33",
+      "kind": "cyz_5",
+      "group": "multi",
+      "formula": "5",
+      "multiScore": 75,
+      "effectiveOdds": 1.63,
+      "legs": [
+        {
+          "matchCode": "4523678",
+          "nesine": null,
+          "date": "07.11.2026 12:30",
+          "kickoffUtc": "2026-11-07T12:30:00Z",
+          "league": "ARNV",
+          "home": "Kf Laci",
+          "away": "Partizan Tirana",
+          "league_tr": "ARNV",
+          "home_tr": "Kf Laci",
+          "away_tr": "Partizan Tirana",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.06,
+          "probability": 78.2,
+          "patternScore": 69.99,
+          "patternText": "307.396/439.200",
+          "mbs": 1,
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 1",
+          "status": "lost",
+          "aiScore": 93
+        },
+        {
+          "matchCode": "4488851",
+          "nesine": null,
+          "date": "07.11.2026 12:30",
+          "kickoffUtc": "2026-11-07T12:30:00Z",
+          "league": "İNCL",
+          "home": "Bristol City",
+          "away": "Norwich City",
+          "league_tr": "İNCL",
+          "home_tr": "Bristol City",
+          "away_tr": "Norwich",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.1,
+          "probability": 80.0,
+          "patternScore": 69.51,
+          "patternText": "227.391/327.134",
+          "mbs": 1,
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 5",
+          "status": "won",
+          "aiScore": 89
+        },
+        {
+          "matchCode": "4498878",
+          "nesine": null,
+          "date": "07.11.2026 13:00",
+          "kickoffUtc": "2026-11-07T13:00:00Z",
+          "league": "T1L",
+          "home": "Muglaspor",
+          "away": "Esenler Erokspor",
+          "league_tr": "T1L",
+          "home_tr": "Muğlaspor",
+          "away_tr": "Esenler Erokspo",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.07,
+          "probability": 77.33,
+          "patternScore": 69.23,
+          "patternText": "302.785/437.336",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 89
+        },
+        {
+          "matchCode": "4506396",
+          "nesine": null,
+          "date": "07.11.2026 13:00",
+          "kickoffUtc": "2026-11-07T13:00:00Z",
+          "league": "ALMBÖL",
+          "home": "SpVgg Greuther Furth II",
+          "away": "TSV Aubstadt",
+          "league_tr": "ALMBÖL",
+          "home_tr": "Fürth Ii",
+          "away_tr": "Aubstadt",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.12,
+          "probability": 81.12,
+          "patternScore": 70.49,
+          "patternText": "246.098/349.117",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 89
+        },
+        {
+          "matchCode": "4476910",
+          "nesine": null,
+          "date": "07.11.2026 13:00",
+          "kickoffUtc": "2026-11-07T13:00:00Z",
+          "league": "FR2",
+          "home": "Clermont Foot",
+          "away": "Rodez AF",
+          "league_tr": "FR2",
+          "home_tr": "Clermont",
+          "away_tr": "Rodez Aveyron",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.17,
+          "probability": 87.5,
+          "patternScore": 68.96,
+          "patternText": "284.683/412.832",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 89
+        }
+      ]
+    },
+    {
       "id": "20261107-14-8",
       "createdAt": "07.11.2026 11:00",
       "createdAtUtc": "2026-11-07T11:00:00Z",
@@ -5597,9 +5597,9 @@
           "patternScore": 69.56,
           "patternText": "354.033/508.987",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 1",
+          "status": "won",
           "aiScore": 85
         },
         {
