@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 00:28",
+  "updatedAt": "07.11.2026 00:35",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 271,
-      "lost": 137,
-      "total": 408,
-      "rate": 66.4
+      "won": 266,
+      "lost": 136,
+      "total": 402,
+      "rate": 66.2
     },
-    "totalAnalyses": 452572,
+    "totalAnalyses": 452585,
     "leagues": 491,
     "pro": {
       "won": 1151,
@@ -47,8 +47,8 @@
       "total": 92,
       "rate": 52.2
     },
-    "analyses24h": 2914,
-    "analyses30d": 21836
+    "analyses24h": 2908,
+    "analyses30d": 21830
   },
   "recentWins": [
     {
@@ -385,6 +385,18 @@
       "picks": 3
     },
     {
+      "home": "Shaanxi Union",
+      "away": "Guangxi Hengche",
+      "league": "ÇİN2",
+      "date": "07.11.2026 06:30",
+      "matchCode": "4452134",
+      "odds": 1.29,
+      "patternScore": 68.48,
+      "patternText": "248.828/363.338",
+      "aiScore": 60,
+      "picks": 2
+    },
+    {
       "home": "Avispa Fukuoka",
       "away": "V-Varen Nagasaki",
       "league": "JAP",
@@ -395,18 +407,6 @@
       "patternText": "267.704/391.696",
       "aiScore": 62,
       "picks": 5
-    },
-    {
-      "home": "Yokohama FC",
-      "away": "Fujieda MYFC",
-      "league": "JAP2",
-      "date": "07.11.2026 05:00",
-      "matchCode": "4487662",
-      "odds": 1.25,
-      "patternScore": 68.91,
-      "patternText": "432.272/627.289",
-      "aiScore": 77,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
