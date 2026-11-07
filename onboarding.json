@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 09:38",
+  "updatedAt": "07.11.2026 09:46",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 517,
       "rate": 66.9
     },
-    "totalAnalyses": 453199,
+    "totalAnalyses": 453212,
     "leagues": 489,
     "pro": {
       "won": 1177,
@@ -47,8 +47,8 @@
       "total": 93,
       "rate": 52.7
     },
-    "analyses24h": 2995,
-    "analyses30d": 21917
+    "analyses24h": 2991,
+    "analyses30d": 21913
   },
   "recentWins": [
     {
@@ -409,6 +409,18 @@
       "picks": 6
     },
     {
+      "home": "FK Slovan Liberec",
+      "away": "Bohemians 1905",
+      "league": "ÇEK",
+      "date": "07.11.2026 14:00",
+      "matchCode": "4503890",
+      "odds": 1.62,
+      "patternScore": 68.02,
+      "patternText": "297.735/437.702",
+      "aiScore": 54,
+      "picks": 4
+    },
+    {
       "home": "Luton Town",
       "away": "Forest Green Rovers",
       "league": "FAK",
@@ -431,21 +443,16 @@
       "patternText": "278.925/411.253",
       "aiScore": 55,
       "picks": 4
-    },
-    {
-      "home": "Peterborough United",
-      "away": "Stamford",
-      "league": "İNGNLP",
-      "date": "07.11.2026 15:00",
-      "matchCode": "4519207",
-      "odds": 1.46,
-      "patternScore": 65.29,
-      "patternText": "361.795/554.177",
-      "aiScore": 56,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "RB Leipzig",
+      "away": "FC Augsburg",
+      "league": "AL1",
+      "at": "07.11.2026 09:42",
+      "count": 13
+    },
     {
       "home": "Cagliari Calcio",
       "away": "Frosinone Calcio",
@@ -508,13 +515,6 @@
       "league": "RUS",
       "at": "07.11.2026 09:05",
       "count": 9
-    },
-    {
-      "home": "Samsunspor",
-      "away": "Konyaspor",
-      "league": "TSL",
-      "at": "07.11.2026 08:54",
-      "count": 2
     }
   ],
   "paywall": {
