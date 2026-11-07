@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 18:05",
+  "updatedAt": "07.11.2026 18:15",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 966,
       "rate": 68.6
     },
-    "totalAnalyses": 454994,
+    "totalAnalyses": 455058,
     "leagues": 487,
     "pro": {
       "won": 1164,
@@ -47,8 +47,8 @@
       "total": 120,
       "rate": 45.8
     },
-    "analyses24h": 2895,
-    "analyses30d": 21906
+    "analyses24h": 2906,
+    "analyses30d": 21915
   },
   "recentWins": [
     {
@@ -379,7 +379,7 @@
     "matchCode": "4475941",
     "odds": 2.31,
     "patternScore": 66.83,
-    "patternText": "158.347/236.953",
+    "patternText": "158.357/236.965",
     "aiScore": 52,
     "picks": 9
   },
@@ -392,7 +392,7 @@
       "matchCode": "4475941",
       "odds": 2.31,
       "patternScore": 66.83,
-      "patternText": "158.347/236.953",
+      "patternText": "158.357/236.965",
       "aiScore": 52,
       "picks": 9
     },
@@ -404,7 +404,7 @@
       "matchCode": "4476590",
       "odds": 2.12,
       "patternScore": 67.07,
-      "patternText": "209.277/312.043",
+      "patternText": "209.319/312.091",
       "aiScore": 52,
       "picks": 3
     },
@@ -416,7 +416,7 @@
       "matchCode": "4475946",
       "odds": 1.72,
       "patternScore": 66.81,
-      "patternText": "155.234/232.368",
+      "patternText": "155.244/232.380",
       "aiScore": 53,
       "picks": 2
     },
@@ -428,30 +428,65 @@
       "matchCode": "4419849",
       "odds": 1.43,
       "patternScore": 67.76,
-      "patternText": "238.330/351.729",
+      "patternText": "238.342/351.741",
       "aiScore": 56,
       "picks": 4
     },
     {
-      "home": "Barracas Central",
-      "away": "Racing Club",
-      "league": "ARJ",
-      "date": "08.11.2026 00:00",
-      "matchCode": "4475945",
+      "home": "Royal Antwerp",
+      "away": "Lommel United",
+      "league": "BEL",
+      "date": "07.11.2026 19:45",
+      "matchCode": "4480763",
       "odds": 1.41,
-      "patternScore": 67.64,
-      "patternText": "227.083/335.711",
-      "aiScore": 55,
-      "picks": 4
+      "patternScore": 68.09,
+      "patternText": "309.564/454.620",
+      "aiScore": 57,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Seattle Sounders",
+      "away": "Los Angeles FC",
+      "league": "ABD",
+      "at": "07.11.2026 18:11",
+      "count": 5
+    },
+    {
+      "home": "Salt Lake",
+      "away": "LA Galaxy",
+      "league": "ABD",
+      "at": "07.11.2026 18:09",
+      "count": 5
+    },
+    {
+      "home": "FC Dallas",
+      "away": "Colorado Rapids",
+      "league": "ABD",
+      "at": "07.11.2026 18:07",
+      "count": 8
+    },
+    {
+      "home": "Minnesota United",
+      "away": "San Jose Earthquakes",
+      "league": "ABD",
+      "at": "07.11.2026 18:07",
+      "count": 6
+    },
     {
       "home": "Royal Antwerp",
       "away": "Lommel United",
       "league": "BEL",
       "at": "07.11.2026 18:05",
       "count": 5
+    },
+    {
+      "home": "AS Roma",
+      "away": "US Sassuolo",
+      "league": "İTA",
+      "at": "07.11.2026 18:05",
+      "count": 7
     },
     {
       "home": "Chicago Fire",
@@ -468,13 +503,6 @@
       "count": 4
     },
     {
-      "home": "AS Roma",
-      "away": "US Sassuolo",
-      "league": "İTA",
-      "at": "07.11.2026 17:28",
-      "count": 6
-    },
-    {
       "home": "AJ Auxerre",
       "away": "Paris FC",
       "league": "FR1",
@@ -486,34 +514,6 @@
       "away": "Casa Pia AC",
       "league": "POR",
       "at": "07.11.2026 17:26",
-      "count": 6
-    },
-    {
-      "home": "DC United",
-      "away": "New York City FC",
-      "league": "ABD",
-      "at": "07.11.2026 17:07",
-      "count": 7
-    },
-    {
-      "home": "AS Saint-Etienne",
-      "away": "Stade Lavalois",
-      "league": "FR2",
-      "at": "07.11.2026 17:06",
-      "count": 16
-    },
-    {
-      "home": "CF Montreal",
-      "away": "Vancouver Whitecaps",
-      "league": "ABD",
-      "at": "07.11.2026 16:52",
-      "count": 4
-    },
-    {
-      "home": "Nottingham Forest",
-      "away": "Manchester City",
-      "league": "İNP",
-      "at": "07.11.2026 16:50",
       "count": 6
     }
   ],
