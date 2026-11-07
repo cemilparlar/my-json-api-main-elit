@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "07.11.2026 13:24",
+  "updatedAt": "07.11.2026 13:33",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 377,
-      "lost": 175,
-      "total": 552,
-      "rate": 68.3
+      "won": 374,
+      "lost": 176,
+      "total": 550,
+      "rate": 68.0
     },
-    "totalAnalyses": 453877,
+    "totalAnalyses": 453927,
     "leagues": 487,
     "pro": {
-      "won": 1142,
-      "lost": 461,
-      "total": 1603,
-      "rate": 71.2
+      "won": 1136,
+      "lost": 454,
+      "total": 1590,
+      "rate": 71.4
     },
     "insights": {
-      "won": 1958,
-      "lost": 834,
-      "total": 2792,
-      "rate": 70.1
+      "won": 1950,
+      "lost": 827,
+      "total": 2777,
+      "rate": 70.2
     },
     "coupons": {
       "won": 50,
@@ -47,8 +47,8 @@
       "total": 95,
       "rate": 52.6
     },
-    "analyses24h": 2995,
-    "analyses30d": 21885
+    "analyses24h": 3006,
+    "analyses30d": 21899
   },
   "recentWins": [
     {
@@ -379,30 +379,18 @@
     }
   ],
   "today": {
-    "home": "Torino FC",
-    "away": "US Lecce",
-    "league": "İTA",
-    "date": "07.11.2026 14:00",
-    "matchCode": "4475150",
-    "odds": 1.59,
-    "patternScore": 68.15,
-    "patternText": "308.388/452.511",
+    "home": "Juventus Women",
+    "away": "Sassuolo Women",
+    "league": "İTKSA",
+    "date": "07.11.2026 17:00",
+    "matchCode": "4534576",
+    "odds": 1.54,
+    "patternScore": 66.89,
+    "patternText": "313.764/469.069",
     "aiScore": 54,
-    "picks": 5
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Torino FC",
-      "away": "US Lecce",
-      "league": "İTA",
-      "date": "07.11.2026 14:00",
-      "matchCode": "4475150",
-      "odds": 1.59,
-      "patternScore": 68.15,
-      "patternText": "308.388/452.511",
-      "aiScore": 54,
-      "picks": 5
-    },
     {
       "home": "Juventus Women",
       "away": "Sassuolo Women",
@@ -436,7 +424,7 @@
       "odds": 1.45,
       "patternScore": 65.35,
       "patternText": "352.675/539.698",
-      "aiScore": 55,
+      "aiScore": 56,
       "picks": 9
     },
     {
@@ -450,9 +438,56 @@
       "patternText": "333.273/492.888",
       "aiScore": 55,
       "picks": 5
+    },
+    {
+      "home": "FC Den Bosch",
+      "away": "Jong Utrecht",
+      "league": "HOL2",
+      "date": "07.11.2026 15:30",
+      "matchCode": "4481926",
+      "odds": 1.44,
+      "patternScore": 67.49,
+      "patternText": "307.890/456.221",
+      "aiScore": 59,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "KVC Westerlo",
+      "away": "Sporting Charleroi",
+      "league": "BEL",
+      "at": "07.11.2026 13:33",
+      "count": 5
+    },
+    {
+      "home": "SC Paderborn",
+      "away": "Eintracht Frankfurt",
+      "league": "AL1",
+      "at": "07.11.2026 13:30",
+      "count": 9
+    },
+    {
+      "home": "Borussia Dortmund",
+      "away": "SV Elversberg",
+      "league": "AL1",
+      "at": "07.11.2026 13:29",
+      "count": 15
+    },
+    {
+      "home": "Cesena FC",
+      "away": "US Catanzaro",
+      "league": "İTB",
+      "at": "07.11.2026 13:26",
+      "count": 6
+    },
+    {
+      "home": "Torino FC",
+      "away": "US Lecce",
+      "league": "İTA",
+      "at": "07.11.2026 13:25",
+      "count": 4
+    },
     {
       "home": "Cagliari Calcio",
       "away": "Frosinone Calcio",
@@ -487,41 +522,6 @@
       "league": "T1L",
       "at": "07.11.2026 12:59",
       "count": 5
-    },
-    {
-      "home": "Galatasaray",
-      "away": "Amed SK",
-      "league": "TSL",
-      "at": "07.11.2026 12:59",
-      "count": 1
-    },
-    {
-      "home": "Fortuna Sittar",
-      "away": "SC Telstar",
-      "league": "HOL",
-      "at": "07.11.2026 12:55",
-      "count": 6
-    },
-    {
-      "home": "CD Nacional",
-      "away": "Academico FC Viseu",
-      "league": "POR",
-      "at": "07.11.2026 12:54",
-      "count": 9
-    },
-    {
-      "home": "RCD Espanyol",
-      "away": "Deportivo La Coruna",
-      "league": "İS1",
-      "at": "07.11.2026 12:47",
-      "count": 3
-    },
-    {
-      "home": "Preston North End",
-      "away": "Southam",
-      "league": "İNCL",
-      "at": "07.11.2026 12:44",
-      "count": 6
     }
   ],
   "paywall": {
