@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 04:40",
+  "updatedAt": "08.11.2026 04:48",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 675,
+      "won": 677,
       "lost": 319,
-      "total": 994,
-      "rate": 67.9
+      "total": 996,
+      "rate": 68.0
     },
     "totalAnalyses": 456017,
     "leagues": 486,
     "pro": {
-      "won": 1205,
+      "won": 1206,
       "lost": 481,
-      "total": 1686,
+      "total": 1687,
       "rate": 71.5
     },
     "insights": {
-      "won": 1976,
+      "won": 1978,
       "lost": 849,
-      "total": 2825,
-      "rate": 69.9
+      "total": 2827,
+      "rate": 70.0
     },
     "coupons": {
       "won": 69,
@@ -47,8 +47,8 @@
       "total": 139,
       "rate": 49.6
     },
-    "analyses24h": 2852,
-    "analyses30d": 22099
+    "analyses24h": 2846,
+    "analyses30d": 22093
   },
   "recentWins": [
     {
@@ -390,6 +390,42 @@
       "picks": 2
     },
     {
+      "home": "Beijing Guoan",
+      "away": "Chongqing Tongliang Liangjiang",
+      "league": "ÇİNSL",
+      "date": "08.11.2026 07:30",
+      "matchCode": "4447048",
+      "odds": 1.47,
+      "patternScore": 68.47,
+      "patternText": "242.789/354.581",
+      "aiScore": 55,
+      "picks": 2
+    },
+    {
+      "home": "Adelaide United",
+      "away": "Melbourne Victory",
+      "league": "AVUS",
+      "date": "08.11.2026 06:00",
+      "matchCode": "4546757",
+      "odds": 1.43,
+      "patternScore": 67.84,
+      "patternText": "226.293/333.555",
+      "aiScore": 56,
+      "picks": 4
+    },
+    {
+      "home": "Gangwon FC",
+      "away": "Jeonbuk Hm",
+      "league": "GKOR",
+      "date": "08.11.2026 07:30",
+      "matchCode": "4578076",
+      "odds": 1.31,
+      "patternScore": 68.36,
+      "patternText": "240.608/351.969",
+      "aiScore": 61,
+      "picks": 3
+    },
+    {
       "home": "Pss Sleman",
       "away": "Bhayangkara Presisi Indonesia FC",
       "league": "ENDL1",
@@ -400,42 +436,6 @@
       "patternText": "213.730/314.798",
       "aiScore": 62,
       "picks": 2
-    },
-    {
-      "home": "Vegalta Sendai",
-      "away": "Kofu",
-      "league": "JAP2",
-      "date": "08.11.2026 06:00",
-      "matchCode": "4487658",
-      "odds": 1.27,
-      "patternScore": 69.1,
-      "patternText": "157.458/227.865",
-      "aiScore": 84,
-      "picks": 1
-    },
-    {
-      "home": "FK Petrzalka",
-      "away": "Zilina Ii",
-      "league": "SLVK2",
-      "date": "08.11.2026 09:30",
-      "matchCode": "4485512",
-      "odds": 1.26,
-      "patternScore": 68.22,
-      "patternText": "221.264/324.357",
-      "aiScore": 64,
-      "picks": 1
-    },
-    {
-      "home": "Beijing Guoan",
-      "away": "Chongqing Tongliang Liangjiang",
-      "league": "ÇİNSL",
-      "date": "08.11.2026 07:30",
-      "matchCode": "4447048",
-      "odds": 1.26,
-      "patternScore": 66.87,
-      "patternText": "160.898/240.631",
-      "aiScore": 65,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
