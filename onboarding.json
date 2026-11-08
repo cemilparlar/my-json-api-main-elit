@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 22:29",
+  "updatedAt": "08.11.2026 22:37",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 724,
-      "lost": 339,
-      "total": 1063,
+      "won": 737,
+      "lost": 346,
+      "total": 1083,
       "rate": 68.1
     },
     "totalAnalyses": 457804,
-    "leagues": 482,
+    "leagues": 481,
     "pro": {
-      "won": 1228,
-      "lost": 516,
-      "total": 1744,
+      "won": 1233,
+      "lost": 519,
+      "total": 1752,
       "rate": 70.4
     },
     "insights": {
-      "won": 2036,
-      "lost": 858,
-      "total": 2894,
-      "rate": 70.4
+      "won": 2044,
+      "lost": 862,
+      "total": 2906,
+      "rate": 70.3
     },
     "coupons": {
       "won": 77,
@@ -48,7 +48,7 @@
       "rate": 50.3
     },
     "analyses24h": 1641,
-    "analyses30d": 22120
+    "analyses30d": 22101
   },
   "recentWins": [
     {
@@ -315,18 +315,6 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 16:34",
-      "home": "Mirandes",
-      "away": "Cd Coria"
-    },
-    {
-      "type": "updated",
-      "at": "08.11.2026 16:35",
-      "home": "Sporting Gijon",
-      "away": "Real Valladolid"
-    },
-    {
-      "type": "updated",
       "at": "08.11.2026 16:53",
       "home": "Celta de Vigo",
       "away": "Levante UD"
@@ -348,33 +336,33 @@
       "at": "08.11.2026 16:52",
       "home": "Union St.G",
       "away": "KRC Genk"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 17:50",
+      "home": "Wurzburger Kic",
+      "away": "TSG Hoffenheim II"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 17:49",
+      "home": "LR Vicenza",
+      "away": "US Cremonese"
     }
   ],
   "today": {
-    "home": "Deportivo Garc",
-    "away": "Comerciantes Un",
-    "league": "PER",
-    "date": "08.11.2026 23:00",
-    "matchCode": "4501923",
-    "odds": 1.41,
-    "patternScore": 68.66,
-    "patternText": "172.707/251.547",
-    "aiScore": 59,
+    "home": "Club Leon",
+    "away": "Club Deportivo Guadalajara",
+    "league": "MEK",
+    "date": "09.11.2026 02:00",
+    "matchCode": "4476494",
+    "odds": 1.27,
+    "patternScore": 68.69,
+    "patternText": "174.857/254.566",
+    "aiScore": 62,
     "picks": 1
   },
   "todayList": [
-    {
-      "home": "Deportivo Garc",
-      "away": "Comerciantes Un",
-      "league": "PER",
-      "date": "08.11.2026 23:00",
-      "matchCode": "4501923",
-      "odds": 1.41,
-      "patternScore": 68.66,
-      "patternText": "172.707/251.547",
-      "aiScore": 59,
-      "picks": 1
-    },
     {
       "home": "Club Leon",
       "away": "Club Deportivo Guadalajara",
@@ -422,6 +410,18 @@
       "patternText": "184.648/267.474",
       "aiScore": 83,
       "picks": 2
+    },
+    {
+      "home": "Blooming",
+      "away": "Oriente Petrole",
+      "league": "BOLİ",
+      "date": "08.11.2026 23:30",
+      "matchCode": "4577016",
+      "odds": 1.12,
+      "patternScore": 71.74,
+      "patternText": "145.916/203.404",
+      "aiScore": 96,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
