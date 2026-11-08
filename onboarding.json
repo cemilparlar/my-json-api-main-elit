@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 15:23",
+  "updatedAt": "08.11.2026 15:32",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 524,
-      "lost": 253,
-      "total": 777,
-      "rate": 67.4
+      "won": 532,
+      "lost": 251,
+      "total": 783,
+      "rate": 67.9
     },
     "totalAnalyses": 457543,
     "leagues": 485,
     "pro": {
-      "won": 1165,
-      "lost": 458,
-      "total": 1623,
+      "won": 1156,
+      "lost": 453,
+      "total": 1609,
       "rate": 71.8
     },
     "insights": {
-      "won": 1949,
-      "lost": 797,
-      "total": 2746,
-      "rate": 71.0
+      "won": 1947,
+      "lost": 792,
+      "total": 2739,
+      "rate": 71.1
     },
     "coupons": {
       "won": 79,
@@ -47,8 +47,8 @@
       "total": 157,
       "rate": 50.3
     },
-    "analyses24h": 2050,
-    "analyses30d": 22188
+    "analyses24h": 2013,
+    "analyses30d": 22186
   },
   "recentWins": [
     {
@@ -123,6 +123,49 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.52,
+      "winChance": 36.3,
+      "completedAt": "08.11.2026 15:32",
+      "legs": [
+        {
+          "home": "Bucheon FC",
+          "away": "Pohang Steelers",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.1,
+          "finalScore": null
+        },
+        {
+          "home": "Zhejiang FC",
+          "away": "Henan FC",
+          "prediction": "Over 2.5 Goals",
+          "odds": 1.08,
+          "finalScore": "4 - 0"
+        },
+        {
+          "home": "Beijing Guoan",
+          "away": "Chongqing Tongliang Liangjiang",
+          "prediction": "1st Half Under 2.5",
+          "odds": 1.06,
+          "finalScore": "1 - 0"
+        },
+        {
+          "home": "Qingdao Zhongn",
+          "away": "Shenzhen Pengcheng",
+          "prediction": "1st Half Under 2.5",
+          "odds": 1.09,
+          "finalScore": "2 - 2"
+        },
+        {
+          "home": "JEF United Chiba",
+          "away": "Mito HollyHock",
+          "prediction": "Handicap (1:0) 1",
+          "odds": 1.11,
+          "finalScore": "1 - 0"
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.58,
@@ -235,49 +278,6 @@
           "prediction": "Double Chance 12",
           "odds": 1.11,
           "finalScore": "1 - 0"
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.51,
-      "winChance": 37.69,
-      "completedAt": "08.11.2026 12:00",
-      "legs": [
-        {
-          "home": "Pumas UNAM",
-          "away": "Club America",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.07,
-          "finalScore": "2 - 2"
-        },
-        {
-          "home": "Vanraure Hachinohe",
-          "away": "Consadole Sapporo",
-          "prediction": "Double Chance 12",
-          "odds": 1.15,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "Macarthur FC",
-          "away": "Brisbane Roar",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.08,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "Avondale Heigh",
-          "away": "Adelaide City FC",
-          "prediction": "1st Half Over 0.5",
-          "odds": 1.07,
-          "finalScore": null
-        },
-        {
-          "home": "Vissel Kobe",
-          "away": "Urawa Red Diamonds",
-          "prediction": "Handicap (0:2) 2",
-          "odds": 1.06,
-          "finalScore": "2 - 2"
         }
       ]
     }
