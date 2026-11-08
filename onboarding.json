@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 14:46",
+  "updatedAt": "08.11.2026 14:57",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 578,
+      "won": 580,
       "lost": 269,
-      "total": 847,
-      "rate": 68.2
+      "total": 849,
+      "rate": 68.3
     },
-    "totalAnalyses": 457472,
+    "totalAnalyses": 457490,
     "leagues": 485,
     "pro": {
       "won": 1154,
@@ -36,9 +36,9 @@
       "rate": 71.6
     },
     "insights": {
-      "won": 1939,
+      "won": 1940,
       "lost": 803,
-      "total": 2742,
+      "total": 2743,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 156,
       "rate": 50.6
     },
-    "analyses24h": 2361,
-    "analyses30d": 22228
+    "analyses24h": 2359,
+    "analyses30d": 22226
   },
   "recentWins": [
     {
@@ -102,7 +102,7 @@
       "odds": 2.1,
       "probability": 100.0,
       "patternScore": 58.09,
-      "aiScore": 52,
+      "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "1 - 1",
       "pro": true
@@ -372,7 +372,7 @@
     "matchCode": "4485918",
     "odds": 1.91,
     "patternScore": 67.19,
-    "patternText": "183.424/272.986",
+    "patternText": "183.442/273.020",
     "aiScore": 52,
     "picks": 5
   },
@@ -385,7 +385,7 @@
       "matchCode": "4485918",
       "odds": 1.91,
       "patternScore": 67.19,
-      "patternText": "183.424/272.986",
+      "patternText": "183.442/273.020",
       "aiScore": 52,
       "picks": 5
     },
@@ -396,8 +396,8 @@
       "date": "08.11.2026 16:15",
       "matchCode": "4476587",
       "odds": 1.82,
-      "patternScore": 66.27,
-      "patternText": "103.815/156.663",
+      "patternScore": 66.26,
+      "patternText": "103.833/156.697",
       "aiScore": 52,
       "picks": 8
     },
@@ -409,7 +409,7 @@
       "matchCode": "4492378",
       "odds": 1.76,
       "patternScore": 66.82,
-      "patternText": "260.465/389.773",
+      "patternText": "260.483/389.807",
       "aiScore": 52,
       "picks": 3
     },
@@ -421,8 +421,8 @@
       "matchCode": "4495506",
       "odds": 1.54,
       "patternScore": 68.02,
-      "patternText": "278.169/408.927",
-      "aiScore": 55,
+      "patternText": "278.187/408.961",
+      "aiScore": 54,
       "picks": 5
     },
     {
@@ -432,13 +432,20 @@
       "date": "08.11.2026 15:30",
       "matchCode": "4517047",
       "odds": 1.49,
-      "patternScore": 67.01,
-      "patternText": "114.336/170.634",
+      "patternScore": 67.0,
+      "patternText": "114.354/170.668",
       "aiScore": 59,
       "picks": 7
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "CD Santa Clara",
+      "away": "Gil Vicente FC",
+      "league": "POR",
+      "at": "08.11.2026 14:48",
+      "count": 6
+    },
     {
       "home": "Villarreal CF",
       "away": "Getafe CF",
@@ -501,13 +508,6 @@
       "league": "BRK",
       "at": "08.11.2026 14:23",
       "count": 6
-    },
-    {
-      "home": "ACF Fiorentina",
-      "away": "Juventus",
-      "league": "İTA",
-      "at": "08.11.2026 14:22",
-      "count": 9
     }
   ],
   "paywall": {
