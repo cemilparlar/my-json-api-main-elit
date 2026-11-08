@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 09:32",
+  "updatedAt": "08.11.2026 09:43",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 965,
       "rate": 67.8
     },
-    "totalAnalyses": 456576,
+    "totalAnalyses": 456589,
     "leagues": 486,
     "pro": {
       "won": 1226,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 50.7
     },
-    "analyses24h": 2826,
-    "analyses30d": 22228
+    "analyses24h": 2817,
+    "analyses30d": 22219
   },
   "recentWins": [
     {
@@ -360,15 +360,15 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 03:36",
-      "home": "FC Machida Zelvia",
-      "away": "Sanfrecce Hiroshima"
-    },
-    {
-      "type": "updated",
       "at": "08.11.2026 04:53",
       "home": "Gamba Osaka",
       "away": "Cerezo Osaka"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 06:45",
+      "home": "JEF United Chiba",
+      "away": "Mito HollyHock"
     }
   ],
   "today": {
@@ -378,8 +378,8 @@
     "date": "08.11.2026 15:30",
     "matchCode": "4517051",
     "odds": 3.09,
-    "patternScore": 67.18,
-    "patternText": "186.387/277.464",
+    "patternScore": 67.17,
+    "patternText": "186.393/277.484",
     "aiScore": 51,
     "picks": 3
   },
@@ -391,8 +391,8 @@
       "date": "08.11.2026 15:30",
       "matchCode": "4517051",
       "odds": 3.09,
-      "patternScore": 67.18,
-      "patternText": "186.387/277.464",
+      "patternScore": 67.17,
+      "patternText": "186.393/277.484",
       "aiScore": 51,
       "picks": 3
     },
@@ -403,8 +403,8 @@
       "date": "08.11.2026 15:30",
       "matchCode": "4426808",
       "odds": 1.77,
-      "patternScore": 65.26,
-      "patternText": "332.557/509.619",
+      "patternScore": 65.25,
+      "patternText": "332.559/509.635",
       "aiScore": 53,
       "picks": 8
     },
@@ -416,7 +416,7 @@
       "matchCode": "4450314",
       "odds": 1.56,
       "patternScore": 68.0,
-      "patternText": "147.389/216.755",
+      "patternText": "147.395/216.771",
       "aiScore": 55,
       "picks": 3
     },
@@ -428,7 +428,7 @@
       "matchCode": "4540167",
       "odds": 1.55,
       "patternScore": 66.81,
-      "patternText": "268.406/401.750",
+      "patternText": "268.408/401.774",
       "aiScore": 55,
       "picks": 1
     },
@@ -440,12 +440,26 @@
       "matchCode": "4475146",
       "odds": 1.5,
       "patternScore": 67.47,
-      "patternText": "299.925/444.509",
+      "patternText": "299.927/444.533",
       "aiScore": 55,
       "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Umraniyespor",
+      "away": "Kayserispor",
+      "league": "T1L",
+      "at": "08.11.2026 09:34",
+      "count": 3
+    },
+    {
+      "home": "Elche CF",
+      "away": "Real Betis",
+      "league": "İS1",
+      "at": "08.11.2026 09:34",
+      "count": 6
+    },
     {
       "home": "Club Brugge",
       "away": "RSC Anderlecht",
@@ -501,20 +515,6 @@
       "league": "İTA",
       "at": "08.11.2026 08:39",
       "count": 8
-    },
-    {
-      "home": "Sunderland",
-      "away": "Chelsea",
-      "league": "İNP",
-      "at": "08.11.2026 08:38",
-      "count": 3
-    },
-    {
-      "home": "Stade Rennais",
-      "away": "LOSC Lille",
-      "league": "FR1",
-      "at": "08.11.2026 08:38",
-      "count": 6
     }
   ],
   "paywall": {
