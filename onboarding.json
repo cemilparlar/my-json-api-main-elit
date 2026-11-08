@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 07:59",
+  "updatedAt": "08.11.2026 08:06",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 653,
+      "won": 650,
       "lost": 304,
-      "total": 957,
-      "rate": 68.2
+      "total": 954,
+      "rate": 68.1
     },
-    "totalAnalyses": 456394,
+    "totalAnalyses": 456415,
     "leagues": 486,
     "pro": {
-      "won": 1223,
-      "lost": 486,
-      "total": 1709,
+      "won": 1222,
+      "lost": 485,
+      "total": 1707,
       "rate": 71.6
     },
     "insights": {
-      "won": 2000,
-      "lost": 854,
-      "total": 2854,
-      "rate": 70.1
+      "won": 1998,
+      "lost": 850,
+      "total": 2848,
+      "rate": 70.2
     },
     "coupons": {
-      "won": 69,
+      "won": 74,
       "lost": 71,
-      "total": 140,
-      "rate": 49.3
+      "total": 145,
+      "rate": 51.0
     },
-    "analyses24h": 2815,
-    "analyses30d": 22196
+    "analyses24h": 2807,
+    "analyses30d": 22191
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 2.12,
       "probability": 80.0,
       "patternScore": 67.07,
-      "aiScore": 52,
+      "aiScore": 53,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 0",
       "pro": true
@@ -102,7 +102,7 @@
       "odds": 1.97,
       "probability": 100.0,
       "patternScore": 57.57,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
       "pro": false
@@ -124,145 +124,166 @@
   ],
   "recentCoupons": [
     {
-      "size": 4,
-      "totalOdds": 1.54,
-      "winChance": 41.58,
-      "completedAt": "08.11.2026 05:04",
-      "legs": [
-        {
-          "home": "Novorizontino",
-          "away": "Fortaleza Ce",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.09,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "AS Roma",
-          "away": "US Sassuolo",
-          "prediction": "1st Half Under 2.5",
-          "odds": 1.08,
-          "finalScore": "3 - 0"
-        },
-        {
-          "home": "Atletico Mineiro",
-          "away": "Gremio FBPA",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.15,
-          "finalScore": "1 - 1"
-        },
-        {
-          "home": "FC Cincinnati",
-          "away": "Nashville SC",
-          "prediction": "1st Half Over 0.5",
-          "odds": 1.14,
-          "finalScore": null
-        }
-      ]
-    },
-    {
-      "size": 4,
+      "size": 5,
       "totalOdds": 1.51,
-      "winChance": 39.54,
-      "completedAt": "08.11.2026 05:04",
+      "winChance": 34.21,
+      "completedAt": "08.11.2026 08:06",
       "legs": [
         {
-          "home": "Widzew Lodz",
-          "away": "Pogon Szczecin",
+          "home": "Guabira",
+          "away": "San Antonio Bulldogs",
           "prediction": "Double Chance 12",
-          "odds": 1.11,
-          "finalScore": "3 - 0"
+          "odds": 1.08,
+          "finalScore": "5 - 1"
         },
         {
-          "home": "Hertha BSC",
-          "away": "VfL Wolfsburg",
-          "prediction": "1st Half Under 2.5",
-          "odds": 1.09,
-          "finalScore": "2 - 1"
+          "home": "Gimnasia y Esgrima Mendoza",
+          "away": "Rivadavia",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.08,
+          "finalScore": null
         },
         {
-          "home": "Grasshopper Club Zurich",
-          "away": "FC Lausanne-Sport",
-          "prediction": "1st Half Over 0.5",
-          "odds": 1.17,
-          "finalScore": "1 - 1"
-        },
-        {
-          "home": "CF Montreal",
-          "away": "Vancouver Whitecaps",
-          "prediction": "Double Chance X2",
+          "home": "San Diego FC",
+          "away": "Sporting Kansas City",
+          "prediction": "1st Half Double Chance 1X",
           "odds": 1.07,
           "finalScore": null
-        }
-      ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.51,
-      "winChance": 49.4,
-      "completedAt": "08.11.2026 01:45",
-      "legs": [
-        {
-          "home": "VfB Stuttgart",
-          "away": "Werder Bremen",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.13,
-          "finalScore": "1 - 0"
         },
         {
-          "home": "Aberdeen",
-          "away": "Hibernian",
-          "prediction": "Double Chance 12",
-          "odds": 1.18,
+          "home": "FC Dallas",
+          "away": "Colorado Rapids",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.09,
           "finalScore": null
         },
         {
-          "home": "FC Cartagena",
-          "away": "Sant Andreu",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.13,
-          "finalScore": "2 - 2"
+          "home": "Argentinos Juniors",
+          "away": "Club Atletico Huracan",
+          "prediction": "1st Half Under 1.5",
+          "odds": 1.11,
+          "finalScore": null
         }
       ]
     },
     {
       "size": 5,
       "totalOdds": 1.58,
-      "winChance": 31.66,
-      "completedAt": "08.11.2026 00:35",
+      "winChance": 31.8,
+      "completedAt": "08.11.2026 08:06",
       "legs": [
         {
-          "home": "Portadown Fc",
-          "away": "Ballymena",
-          "prediction": "Double Chance 12",
+          "home": "Corboda Santia",
+          "away": "Club Atletico Lanus",
+          "prediction": "Under 3.5 Goals",
           "odds": 1.1,
           "finalScore": null
         },
         {
-          "home": "Al Sharjah",
-          "away": "Al Ahli Dubai",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.08,
-          "finalScore": "2 - 0"
-        },
-        {
-          "home": "FC Forli",
-          "away": "AS Gubbio",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.1,
+          "home": "Tabor Sezana",
+          "away": "ND Primorje",
+          "prediction": "Double Chance 12",
+          "odds": 1.07,
           "finalScore": "1 - 0"
         },
         {
-          "home": "F.C. Vado",
-          "away": "Ravenna FC",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "1 - 3"
+          "home": "Dep. Guadalaja",
+          "away": "CD Navalcarnero",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.07,
+          "finalScore": null
         },
         {
-          "home": "Degerfors IF",
-          "away": "GAIS",
+          "home": "Boca Juniors",
+          "away": "Defensa y Justicia",
           "prediction": "Over 1.5 Goals",
+          "odds": 1.09,
+          "finalScore": null
+        },
+        {
+          "home": "Gimnasia La Plata",
+          "away": "Club Atletico Belgrano",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.15,
+          "finalScore": null
+        }
+      ]
+    },
+    {
+      "size": 5,
+      "totalOdds": 1.61,
+      "winChance": 34.91,
+      "completedAt": "08.11.2026 08:06",
+      "legs": [
+        {
+          "home": "Minnesota United",
+          "away": "San Jose Earthquakes",
+          "prediction": "1st Half Under 2.5",
+          "odds": 1.08,
+          "finalScore": null
+        },
+        {
+          "home": "Salt Lake",
+          "away": "LA Galaxy",
+          "prediction": "1st Half Under 2.5",
+          "odds": 1.08,
+          "finalScore": null
+        },
+        {
+          "home": "Seattle Sounders",
+          "away": "Los Angeles FC",
+          "prediction": "1st Half Over 0.5",
+          "odds": 1.13,
+          "finalScore": null
+        },
+        {
+          "home": "FC Dallas",
+          "away": "Colorado Rapids",
+          "prediction": "Double Chance 1X",
+          "odds": 1.13,
+          "finalScore": null
+        },
+        {
+          "home": "Deportivo Toluca",
+          "away": "CF Monterrey",
+          "prediction": "1st Half Over 0.5",
+          "odds": 1.08,
+          "finalScore": "4 - 0"
+        }
+      ]
+    },
+    {
+      "size": 4,
+      "totalOdds": 1.57,
+      "winChance": 40.11,
+      "completedAt": "08.11.2026 08:06",
+      "legs": [
+        {
+          "home": "Guabira",
+          "away": "San Antonio Bulldogs",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.08,
+          "finalScore": "5 - 1"
+        },
+        {
+          "home": "San Lorenzo",
+          "away": "Club Deportivo Platense",
+          "prediction": "1st Half Under 1.5",
           "odds": 1.12,
+          "finalScore": null
+        },
+        {
+          "home": "Club Atletico Banfield",
+          "away": "Atletico Tucuman",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.13,
+          "finalScore": null
+        },
+        {
+          "home": "San Diego FC",
+          "away": "Sporting Kansas City",
+          "prediction": "1st Half Under 2.5",
+          "odds": 1.15,
           "finalScore": null
         }
       ]
@@ -304,20 +325,20 @@
     {
       "type": "coupon",
       "size": 5,
-      "odds": 1.52,
-      "at": "08.11.2026 06:00"
+      "odds": 1.51,
+      "at": "08.11.2026 08:06"
     },
     {
       "type": "coupon",
       "size": 5,
       "odds": 1.51,
-      "at": "08.11.2026 05:04"
+      "at": "08.11.2026 08:06"
     },
     {
       "type": "coupon",
       "size": 5,
-      "odds": 1.58,
-      "at": "08.11.2026 04:00"
+      "odds": 1.54,
+      "at": "08.11.2026 08:06"
     },
     {
       "type": "updated",
@@ -351,18 +372,30 @@
     }
   ],
   "today": {
-    "home": "Fk Tukums 2000",
-    "away": "Auda",
-    "league": "LET",
-    "date": "08.11.2026 11:00",
-    "matchCode": "4446809",
-    "odds": 1.49,
-    "patternScore": 66.82,
-    "patternText": "187.393/280.429",
-    "aiScore": 56,
-    "picks": 2
+    "home": "Virtus Entella",
+    "away": "Modena FC",
+    "league": "İTB",
+    "date": "08.11.2026 14:00",
+    "matchCode": "4534786",
+    "odds": 1.73,
+    "patternScore": 67.58,
+    "patternText": "258.000/381.754",
+    "aiScore": 52,
+    "picks": 6
   },
   "todayList": [
+    {
+      "home": "Virtus Entella",
+      "away": "Modena FC",
+      "league": "İTB",
+      "date": "08.11.2026 14:00",
+      "matchCode": "4534786",
+      "odds": 1.73,
+      "patternScore": 67.58,
+      "patternText": "258.000/381.754",
+      "aiScore": 52,
+      "picks": 6
+    },
     {
       "home": "Fk Tukums 2000",
       "away": "Auda",
@@ -400,28 +433,16 @@
       "picks": 5
     },
     {
-      "home": "Vasas Ii",
-      "away": "",
-      "league": "MAC3",
-      "date": "08.11.2026 10:00",
-      "matchCode": "4505073",
-      "odds": 1.35,
-      "patternScore": 68.13,
-      "patternText": "226.454/332.361",
-      "aiScore": 59,
+      "home": "FC Banik Ostrava",
+      "away": "SK Prostejov",
+      "league": "ÇEK2",
+      "date": "08.11.2026 13:30",
+      "matchCode": "4504136",
+      "odds": 1.37,
+      "patternScore": 68.48,
+      "patternText": "258.470/377.441",
+      "aiScore": 61,
       "picks": 1
-    },
-    {
-      "home": "CD Numancia",
-      "away": "Calvo Sotelo",
-      "league": "İS4",
-      "date": "08.11.2026 11:00",
-      "matchCode": "4495213",
-      "odds": 1.34,
-      "patternScore": 68.3,
-      "patternText": "242.375/354.845",
-      "aiScore": 57,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
