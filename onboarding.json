@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 13:35",
+  "updatedAt": "08.11.2026 13:42",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 939,
       "rate": 68.6
     },
-    "totalAnalyses": 457307,
+    "totalAnalyses": 457310,
     "leagues": 485,
     "pro": {
       "won": 1161,
@@ -47,8 +47,8 @@
       "total": 156,
       "rate": 50.6
     },
-    "analyses24h": 2568,
-    "analyses30d": 22217
+    "analyses24h": 2571,
+    "analyses30d": 22220
   },
   "recentWins": [
     {
@@ -88,7 +88,7 @@
       "odds": 2.12,
       "probability": 80.0,
       "patternScore": 67.07,
-      "aiScore": 53,
+      "aiScore": 52,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 0",
       "pro": true
@@ -365,30 +365,18 @@
     }
   ],
   "today": {
-    "home": "Zenit St. Petersburg",
-    "away": "FC Rostov",
-    "league": "RUS",
-    "date": "08.11.2026 15:30",
-    "matchCode": "4485918",
-    "odds": 3.7,
-    "patternScore": 67.37,
-    "patternText": "181.928/270.038",
-    "aiScore": 51,
-    "picks": 6
+    "home": "TSG Hoffenheim",
+    "away": "FC Schalke 04",
+    "league": "AL1",
+    "date": "08.11.2026 18:30",
+    "matchCode": "4495506",
+    "odds": 1.99,
+    "patternScore": 66.67,
+    "patternText": "183.676/275.482",
+    "aiScore": 52,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Zenit St. Petersburg",
-      "away": "FC Rostov",
-      "league": "RUS",
-      "date": "08.11.2026 15:30",
-      "matchCode": "4485918",
-      "odds": 3.7,
-      "patternScore": 67.37,
-      "patternText": "181.928/270.038",
-      "aiScore": 51,
-      "picks": 6
-    },
     {
       "home": "TSG Hoffenheim",
       "away": "FC Schalke 04",
@@ -397,9 +385,21 @@
       "matchCode": "4495506",
       "odds": 1.99,
       "patternScore": 66.67,
-      "patternText": "183.650/275.448",
+      "patternText": "183.676/275.482",
       "aiScore": 52,
       "picks": 4
+    },
+    {
+      "home": "Zenit St. Petersburg",
+      "away": "FC Rostov",
+      "league": "RUS",
+      "date": "08.11.2026 15:30",
+      "matchCode": "4485918",
+      "odds": 1.91,
+      "patternScore": 67.2,
+      "patternText": "183.312/272.780",
+      "aiScore": 52,
+      "picks": 5
     },
     {
       "home": "Stade Brest",
@@ -408,9 +408,9 @@
       "date": "08.11.2026 16:15",
       "matchCode": "4476587",
       "odds": 1.82,
-      "patternScore": 66.26,
-      "patternText": "103.705/156.503",
-      "aiScore": 53,
+      "patternScore": 66.27,
+      "patternText": "103.735/156.541",
+      "aiScore": 52,
       "picks": 8
     },
     {
@@ -420,8 +420,8 @@
       "date": "08.11.2026 15:30",
       "matchCode": "4517047",
       "odds": 1.49,
-      "patternScore": 67.0,
-      "patternText": "114.226/170.478",
+      "patternScore": 67.01,
+      "patternText": "114.256/170.516",
       "aiScore": 59,
       "picks": 7
     },
@@ -433,12 +433,19 @@
       "matchCode": "4538731",
       "odds": 1.49,
       "patternScore": 68.19,
-      "patternText": "247.993/363.706",
+      "patternText": "248.067/363.804",
       "aiScore": 54,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Villarreal CF",
+      "away": "Getafe CF",
+      "league": "İS1",
+      "at": "08.11.2026 13:35",
+      "count": 8
+    },
     {
       "home": "Zenit St. Petersburg",
       "away": "FC Rostov",
@@ -480,13 +487,6 @@
       "league": "POR",
       "at": "08.11.2026 13:24",
       "count": 4
-    },
-    {
-      "home": "Villarreal CF",
-      "away": "Getafe CF",
-      "league": "İS1",
-      "at": "08.11.2026 13:23",
-      "count": 3
     },
     {
       "home": "Manchester United",
