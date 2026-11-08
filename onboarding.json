@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 13:15",
+  "updatedAt": "08.11.2026 13:26",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 637,
-      "lost": 288,
-      "total": 925,
-      "rate": 68.9
+      "won": 653,
+      "lost": 302,
+      "total": 955,
+      "rate": 68.4
     },
-    "totalAnalyses": 457258,
+    "totalAnalyses": 457282,
     "leagues": 485,
     "pro": {
-      "won": 1169,
-      "lost": 470,
-      "total": 1639,
+      "won": 1177,
+      "lost": 473,
+      "total": 1650,
       "rate": 71.3
     },
     "insights": {
-      "won": 1942,
-      "lost": 813,
-      "total": 2755,
-      "rate": 70.5
+      "won": 1954,
+      "lost": 821,
+      "total": 2775,
+      "rate": 70.4
     },
     "coupons": {
-      "won": 77,
+      "won": 79,
       "lost": 77,
-      "total": 154,
-      "rate": 50.0
+      "total": 156,
+      "rate": 50.6
     },
-    "analyses24h": 2608,
-    "analyses30d": 22226
+    "analyses24h": 2610,
+    "analyses30d": 22228
   },
   "recentWins": [
     {
@@ -123,6 +123,85 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.58,
+      "winChance": 37.86,
+      "completedAt": "08.11.2026 13:26",
+      "legs": [
+        {
+          "home": "Vissel Kobe",
+          "away": "Urawa Red Diamonds",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.11,
+          "finalScore": "2 - 2"
+        },
+        {
+          "home": "Jubilo Iwata",
+          "away": "Shonan Bellmare",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.07,
+          "finalScore": "1 - 1"
+        },
+        {
+          "home": "Daejeon Citizen",
+          "away": "Incheon United",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.08,
+          "finalScore": null
+        },
+        {
+          "home": "FC Machida Zelvia",
+          "away": "Sanfrecce Hiroshima",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.14,
+          "finalScore": "0 - 0"
+        },
+        {
+          "home": "Jiangx Beidame",
+          "away": "Xian Ronghai",
+          "prediction": "Double Chance 12",
+          "odds": 1.08,
+          "finalScore": "3 - 1"
+        }
+      ]
+    },
+    {
+      "size": 4,
+      "totalOdds": 1.59,
+      "winChance": 40.04,
+      "completedAt": "08.11.2026 13:26",
+      "legs": [
+        {
+          "home": "SC Sagamihara",
+          "away": "Kagoshima United",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.1,
+          "finalScore": "1 - 0"
+        },
+        {
+          "home": "Gamba Osaka",
+          "away": "Cerezo Osaka",
+          "prediction": "Double Chance 12",
+          "odds": 1.16,
+          "finalScore": "2 - 3"
+        },
+        {
+          "home": "Guizhou Zhuche",
+          "away": "Shandong Taisha",
+          "prediction": "Double Chance 1X",
+          "odds": 1.12,
+          "finalScore": "1 - 1"
+        },
+        {
+          "home": "Yenisey Krasnoyarsk",
+          "away": "Pfc Sochi",
+          "prediction": "Double Chance 12",
+          "odds": 1.11,
+          "finalScore": "3 - 0"
+        }
+      ]
+    },
     {
       "size": 4,
       "totalOdds": 1.5,
@@ -199,85 +278,6 @@
           "prediction": "Handicap (0:2) 2",
           "odds": 1.06,
           "finalScore": "2 - 2"
-        }
-      ]
-    },
-    {
-      "size": 4,
-      "totalOdds": 1.5,
-      "winChance": 42.01,
-      "completedAt": "08.11.2026 08:30",
-      "legs": [
-        {
-          "home": "Seattle Sounders",
-          "away": "Los Angeles FC",
-          "prediction": "Double Chance 12",
-          "odds": 1.13,
-          "finalScore": null
-        },
-        {
-          "home": "FC Dallas",
-          "away": "Colorado Rapids",
-          "prediction": "Handicap (1:0) 1",
-          "odds": 1.11,
-          "finalScore": null
-        },
-        {
-          "home": "Nautico",
-          "away": "Regatas",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.08,
-          "finalScore": null
-        },
-        {
-          "home": "Cienciano",
-          "away": "Sport Huancayo",
-          "prediction": "Double Chance 12",
-          "odds": 1.11,
-          "finalScore": "1 - 2"
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.51,
-      "winChance": 34.21,
-      "completedAt": "08.11.2026 08:06",
-      "legs": [
-        {
-          "home": "Guabira",
-          "away": "San Antonio Bulldogs",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "5 - 1"
-        },
-        {
-          "home": "Gimnasia y Esgrima Mendoza",
-          "away": "Rivadavia",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.08,
-          "finalScore": null
-        },
-        {
-          "home": "San Diego FC",
-          "away": "Sporting Kansas City",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.07,
-          "finalScore": null
-        },
-        {
-          "home": "FC Dallas",
-          "away": "Colorado Rapids",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.09,
-          "finalScore": null
-        },
-        {
-          "home": "Argentinos Juniors",
-          "away": "Club Atletico Huracan",
-          "prediction": "1st Half Under 1.5",
-          "odds": 1.11,
-          "finalScore": null
         }
       ]
     }
@@ -390,6 +390,18 @@
       "picks": 6
     },
     {
+      "home": "TSG Hoffenheim",
+      "away": "FC Schalke 04",
+      "league": "AL1",
+      "date": "08.11.2026 18:30",
+      "matchCode": "4495506",
+      "odds": 1.99,
+      "patternScore": 66.68,
+      "patternText": "183.610/275.376",
+      "aiScore": 52,
+      "picks": 4
+    },
+    {
       "home": "Vitoria Guimaraes",
       "away": "FC Porto",
       "league": "POR",
@@ -410,7 +422,7 @@
       "odds": 1.91,
       "patternScore": 67.15,
       "patternText": "266.583/397.013",
-      "aiScore": 52,
+      "aiScore": 53,
       "picks": 4
     },
     {
@@ -424,90 +436,78 @@
       "patternText": "103.673/156.443",
       "aiScore": 52,
       "picks": 8
-    },
-    {
-      "home": "AC Monza",
-      "away": "Atalanta",
-      "league": "İTA",
-      "date": "08.11.2026 14:00",
-      "matchCode": "4475146",
-      "odds": 1.52,
-      "patternScore": 66.99,
-      "patternText": "205.660/307.001",
-      "aiScore": 55,
-      "picks": 7
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "LR Vicenza",
-      "away": "US Cremonese",
-      "league": "İTB",
-      "at": "08.11.2026 13:11",
-      "count": 6
+      "home": "FC Utrecht",
+      "away": "NEC Nijmegen",
+      "league": "HOL",
+      "at": "08.11.2026 13:24",
+      "count": 11
     },
     {
-      "home": "TSG Hoffenheim",
-      "away": "FC Schalke 04",
-      "league": "AL1",
-      "at": "08.11.2026 13:10",
+      "home": "Vitoria Guimaraes",
+      "away": "FC Porto",
+      "league": "POR",
+      "at": "08.11.2026 13:24",
       "count": 4
-    },
-    {
-      "home": "Sint-Truidense VV",
-      "away": "Zulte Waregem",
-      "league": "BEL",
-      "at": "08.11.2026 13:09",
-      "count": 6
     },
     {
       "home": "Villarreal CF",
       "away": "Getafe CF",
       "league": "İS1",
-      "at": "08.11.2026 13:09",
-      "count": 8
+      "at": "08.11.2026 13:23",
+      "count": 3
     },
     {
-      "home": "Union St.G",
-      "away": "KRC Genk",
-      "league": "BEL",
-      "at": "08.11.2026 13:08",
-      "count": 6
-    },
-    {
-      "home": "Inter",
-      "away": "Como 1907",
-      "league": "İTA",
-      "at": "08.11.2026 13:07",
-      "count": 2
-    },
-    {
-      "home": "Le Mans FC",
-      "away": "AS Monaco",
-      "league": "FR1",
-      "at": "08.11.2026 13:05",
-      "count": 8
-    },
-    {
-      "home": "Le Havre AC",
-      "away": "FC Lorient",
-      "league": "FR1",
-      "at": "08.11.2026 13:05",
-      "count": 6
-    },
-    {
-      "home": "AZ Alkmaar",
-      "away": "FC Groningen",
-      "league": "HOL",
-      "at": "08.11.2026 13:03",
-      "count": 2
+      "home": "Manchester United",
+      "away": "Aston Villa",
+      "league": "İNP",
+      "at": "08.11.2026 13:21",
+      "count": 15
     },
     {
       "home": "Real Sociedad",
       "away": "Rayo Vallecano",
       "league": "İS1",
-      "at": "08.11.2026 13:02",
-      "count": 6
+      "at": "08.11.2026 13:20",
+      "count": 4
+    },
+    {
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "league": "İNP",
+      "at": "08.11.2026 13:18",
+      "count": 8
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Brentford",
+      "league": "İNP",
+      "at": "08.11.2026 13:17",
+      "count": 4
+    },
+    {
+      "home": "AC Monza",
+      "away": "Atalanta",
+      "league": "İTA",
+      "at": "08.11.2026 13:17",
+      "count": 7
+    },
+    {
+      "home": "Genoa CFC",
+      "away": "AC Milan",
+      "league": "İTA",
+      "at": "08.11.2026 13:17",
+      "count": 8
+    },
+    {
+      "home": "Ipswich Town",
+      "away": "AFC Bournemouth",
+      "league": "İNP",
+      "at": "08.11.2026 13:16",
+      "count": 7
     }
   ],
   "paywall": {
