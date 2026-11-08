@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 16:00",
+  "updatedAt": "08.11.2026 16:07",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 562,
-      "lost": 265,
-      "total": 827,
-      "rate": 68.0
+      "won": 575,
+      "lost": 276,
+      "total": 851,
+      "rate": 67.6
     },
-    "totalAnalyses": 457598,
+    "totalAnalyses": 457612,
     "leagues": 485,
     "pro": {
-      "won": 1162,
+      "won": 1153,
       "lost": 461,
-      "total": 1623,
-      "rate": 71.6
+      "total": 1614,
+      "rate": 71.4
     },
     "insights": {
-      "won": 1966,
-      "lost": 803,
-      "total": 2769,
-      "rate": 71.0
+      "won": 1945,
+      "lost": 801,
+      "total": 2746,
+      "rate": 70.8
     },
     "coupons": {
       "won": 77,
@@ -47,8 +47,8 @@
       "total": 155,
       "rate": 49.7
     },
-    "analyses24h": 1980,
-    "analyses30d": 22149
+    "analyses24h": 1977,
+    "analyses30d": 22146
   },
   "recentWins": [
     {
@@ -359,9 +359,9 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 10:06",
-      "home": "FC Copenhagen",
-      "away": "Brondby IF"
+      "at": "08.11.2026 10:46",
+      "home": "SSC Napoli",
+      "away": "SS Lazio"
     }
   ],
   "today": {
@@ -371,8 +371,8 @@
     "date": "08.11.2026 19:15",
     "matchCode": "4484412",
     "odds": 1.41,
-    "patternScore": 67.64,
-    "patternText": "265.745/392.900",
+    "patternScore": 67.63,
+    "patternText": "265.853/393.074",
     "aiScore": 57,
     "picks": 2
   },
@@ -384,8 +384,8 @@
       "date": "08.11.2026 19:15",
       "matchCode": "4484412",
       "odds": 1.41,
-      "patternScore": 67.64,
-      "patternText": "265.745/392.900",
+      "patternScore": 67.63,
+      "patternText": "265.853/393.074",
       "aiScore": 57,
       "picks": 2
     },
@@ -397,7 +397,7 @@
       "matchCode": "4517050",
       "odds": 1.37,
       "patternScore": 66.85,
-      "patternText": "165.004/246.835",
+      "patternText": "165.064/246.921",
       "aiScore": 56,
       "picks": 5
     },
@@ -409,21 +409,9 @@
       "matchCode": "4485914",
       "odds": 1.37,
       "patternScore": 67.36,
-      "patternText": "201.347/298.893",
+      "patternText": "201.415/298.995",
       "aiScore": 60,
       "picks": 4
-    },
-    {
-      "home": "Al Wahda",
-      "away": "Al Jeel",
-      "league": "SUUD1",
-      "date": "08.11.2026 16:35",
-      "matchCode": "4538732",
-      "odds": 1.35,
-      "patternScore": 67.83,
-      "patternText": "264.034/389.232",
-      "aiScore": 58,
-      "picks": 1
     },
     {
       "home": "Vasas",
@@ -433,9 +421,21 @@
       "matchCode": "4484677",
       "odds": 1.35,
       "patternScore": 68.39,
-      "patternText": "159.714/233.537",
+      "patternText": "159.754/233.595",
       "aiScore": 57,
       "picks": 3
+    },
+    {
+      "home": "Union St.G",
+      "away": "KRC Genk",
+      "league": "BEL",
+      "date": "08.11.2026 17:30",
+      "matchCode": "4480770",
+      "odds": 1.32,
+      "patternScore": 67.15,
+      "patternText": "186.278/277.425",
+      "aiScore": 63,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
