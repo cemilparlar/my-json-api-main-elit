@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 10:44",
+  "updatedAt": "08.11.2026 10:53",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 683,
+      "won": 668,
       "lost": 324,
-      "total": 1007,
-      "rate": 67.8
+      "total": 992,
+      "rate": 67.3
     },
-    "totalAnalyses": 456686,
+    "totalAnalyses": 456722,
     "leagues": 486,
     "pro": {
       "won": 1230,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 50.7
     },
-    "analyses24h": 2811,
-    "analyses30d": 22229
+    "analyses24h": 2815,
+    "analyses30d": 22248
   },
   "recentWins": [
     {
@@ -366,9 +366,9 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 09:34",
-      "home": "Umraniyespor",
-      "away": "Kayserispor"
+      "at": "08.11.2026 10:50",
+      "home": "Corum FK",
+      "away": "Fenerbahce"
     }
   ],
   "today": {
@@ -447,6 +447,48 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Genoa CFC",
+      "away": "AC Milan",
+      "league": "İTA",
+      "at": "08.11.2026 10:53",
+      "count": 8
+    },
+    {
+      "home": "FC Twente",
+      "away": "Ajax",
+      "league": "HOL",
+      "at": "08.11.2026 10:52",
+      "count": 18
+    },
+    {
+      "home": "Elche CF",
+      "away": "Real Betis",
+      "league": "İS1",
+      "at": "08.11.2026 10:51",
+      "count": 6
+    },
+    {
+      "home": "Corum FK",
+      "away": "Fenerbahce",
+      "league": "TSL",
+      "at": "08.11.2026 10:50",
+      "count": 6
+    },
+    {
+      "home": "Club Brugge",
+      "away": "RSC Anderlecht",
+      "league": "BEL",
+      "at": "08.11.2026 10:49",
+      "count": 16
+    },
+    {
+      "home": "SSC Napoli",
+      "away": "SS Lazio",
+      "league": "İTA",
+      "at": "08.11.2026 10:46",
+      "count": 5
+    },
+    {
       "home": "FC Koln",
       "away": "Bayer Leverkusen",
       "league": "AL1",
@@ -468,53 +510,11 @@
       "count": 4
     },
     {
-      "home": "Genoa CFC",
-      "away": "AC Milan",
-      "league": "İTA",
-      "at": "08.11.2026 10:31",
-      "count": 5
-    },
-    {
       "home": "Stade Rennais",
       "away": "LOSC Lille",
       "league": "FR1",
       "at": "08.11.2026 10:30",
       "count": 6
-    },
-    {
-      "home": "Brighton & Hove Albion",
-      "away": "Brentford",
-      "league": "İNP",
-      "at": "08.11.2026 10:30",
-      "count": 7
-    },
-    {
-      "home": "Sunderland",
-      "away": "Chelsea",
-      "league": "İNP",
-      "at": "08.11.2026 10:29",
-      "count": 5
-    },
-    {
-      "home": "Elche CF",
-      "away": "Real Betis",
-      "league": "İS1",
-      "at": "08.11.2026 10:14",
-      "count": 8
-    },
-    {
-      "home": "FC Heidenheim",
-      "away": "Hannover 96",
-      "league": "AL2",
-      "at": "08.11.2026 10:13",
-      "count": 14
-    },
-    {
-      "home": "SSC Napoli",
-      "away": "SS Lazio",
-      "league": "İTA",
-      "at": "08.11.2026 10:07",
-      "count": 5
     }
   ],
   "paywall": {
