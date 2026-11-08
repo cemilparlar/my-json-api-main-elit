@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 09:14",
+  "updatedAt": "08.11.2026 09:23",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 961,
       "rate": 68.0
     },
-    "totalAnalyses": 456555,
+    "totalAnalyses": 456557,
     "leagues": 486,
     "pro": {
       "won": 1226,
@@ -348,12 +348,6 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 03:15",
-      "home": "Vanraure Hachinohe",
-      "away": "Consadole Sapporo"
-    },
-    {
-      "type": "updated",
       "at": "08.11.2026 03:56",
       "home": "Jubilo Iwata",
       "away": "Shonan Bellmare"
@@ -369,6 +363,12 @@
       "at": "08.11.2026 03:36",
       "home": "FC Machida Zelvia",
       "away": "Sanfrecce Hiroshima"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 04:53",
+      "home": "Gamba Osaka",
+      "away": "Cerezo Osaka"
     }
   ],
   "today": {
@@ -409,6 +409,18 @@
       "picks": 6
     },
     {
+      "home": "Al Akhdoud",
+      "away": "Al Jabalain",
+      "league": "SUUD1",
+      "date": "08.11.2026 15:20",
+      "matchCode": "4538731",
+      "odds": 1.49,
+      "patternScore": 68.19,
+      "patternText": "247.485/362.938",
+      "aiScore": 54,
+      "picks": 2
+    },
+    {
       "home": "Bochum",
       "away": "Karlsruher SC",
       "league": "AL2",
@@ -421,28 +433,16 @@
       "picks": 5
     },
     {
-      "home": "FC Banik Ostrava",
-      "away": "SK Prostejov",
-      "league": "ÇEK2",
-      "date": "08.11.2026 13:30",
-      "matchCode": "4504136",
-      "odds": 1.37,
-      "patternScore": 68.47,
-      "patternText": "258.524/377.547",
-      "aiScore": 61,
-      "picks": 1
-    },
-    {
-      "home": "KAA Gent",
-      "away": "KV Kortrijk",
-      "league": "BEL",
-      "date": "08.11.2026 15:00",
-      "matchCode": "4480768",
-      "odds": 1.36,
-      "patternScore": 66.94,
-      "patternText": "204.715/305.813",
-      "aiScore": 60,
-      "picks": 3
+      "home": "Real Sociedad",
+      "away": "Rayo Vallecano",
+      "league": "İS1",
+      "date": "08.11.2026 15:15",
+      "matchCode": "4492375",
+      "odds": 1.44,
+      "patternScore": 67.43,
+      "patternText": "285.006/422.643",
+      "aiScore": 56,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
