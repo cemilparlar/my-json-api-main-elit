@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 19:06",
+  "updatedAt": "08.11.2026 19:14",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 636,
-      "lost": 306,
-      "total": 942,
-      "rate": 67.5
+      "won": 646,
+      "lost": 318,
+      "total": 964,
+      "rate": 67.0
     },
     "totalAnalyses": 457738,
     "leagues": 483,
     "pro": {
-      "won": 1190,
-      "lost": 490,
-      "total": 1680,
-      "rate": 70.8
+      "won": 1197,
+      "lost": 501,
+      "total": 1698,
+      "rate": 70.5
     },
     "insights": {
-      "won": 1993,
-      "lost": 836,
-      "total": 2829,
-      "rate": 70.4
+      "won": 2003,
+      "lost": 847,
+      "total": 2850,
+      "rate": 70.3
     },
     "coupons": {
       "won": 78,
@@ -47,8 +47,8 @@
       "total": 154,
       "rate": 50.6
     },
-    "analyses24h": 1803,
-    "analyses30d": 22133
+    "analyses24h": 1800,
+    "analyses30d": 22132
   },
   "recentWins": [
     {
@@ -378,8 +378,8 @@
     "date": "08.11.2026 20:30",
     "matchCode": "4517050",
     "odds": 1.37,
-    "patternScore": 66.87,
-    "patternText": "166.032/248.309",
+    "patternScore": 66.84,
+    "patternText": "166.064/248.439",
     "aiScore": 56,
     "picks": 5
   },
@@ -391,8 +391,8 @@
       "date": "08.11.2026 20:30",
       "matchCode": "4517050",
       "odds": 1.37,
-      "patternScore": 66.87,
-      "patternText": "166.032/248.309",
+      "patternScore": 66.84,
+      "patternText": "166.064/248.439",
       "aiScore": 56,
       "picks": 5
     },
@@ -403,22 +403,10 @@
       "date": "08.11.2026 19:45",
       "matchCode": "4476593",
       "odds": 1.34,
-      "patternScore": 67.87,
-      "patternText": "283.393/417.571",
+      "patternScore": 68.16,
+      "patternText": "278.057/407.919",
       "aiScore": 62,
-      "picks": 4
-    },
-    {
-      "home": "ACF Fiorentina",
-      "away": "Juventus",
-      "league": "İTA",
-      "date": "08.11.2026 19:45",
-      "matchCode": "4475143",
-      "odds": 1.22,
-      "patternScore": 67.62,
-      "patternText": "116.753/172.648",
-      "aiScore": 76,
-      "picks": 3
+      "picks": 2
     },
     {
       "home": "Ceara SC",
@@ -428,7 +416,19 @@
       "matchCode": "4454051",
       "odds": 1.21,
       "patternScore": 68.21,
-      "patternText": "185.265/271.610",
+      "patternText": "185.273/271.626",
+      "aiScore": 71,
+      "picks": 2
+    },
+    {
+      "home": "ACF Fiorentina",
+      "away": "Juventus",
+      "league": "İTA",
+      "date": "08.11.2026 19:45",
+      "matchCode": "4475143",
+      "odds": 1.17,
+      "patternScore": 67.87,
+      "patternText": "175.222/258.173",
       "aiScore": 72,
       "picks": 2
     },
@@ -440,7 +440,7 @@
       "matchCode": "4476493",
       "odds": 1.15,
       "patternScore": 69.03,
-      "patternText": "184.480/267.246",
+      "patternText": "184.492/267.270",
       "aiScore": 83,
       "picks": 2
     }
