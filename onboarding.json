@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 06:58",
+  "updatedAt": "08.11.2026 07:08",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 643,
-      "lost": 306,
-      "total": 949,
-      "rate": 67.8
+      "won": 634,
+      "lost": 302,
+      "total": 936,
+      "rate": 67.7
     },
-    "totalAnalyses": 456237,
+    "totalAnalyses": 456268,
     "leagues": 486,
     "pro": {
-      "won": 1209,
-      "lost": 483,
-      "total": 1692,
-      "rate": 71.5
+      "won": 1203,
+      "lost": 482,
+      "total": 1685,
+      "rate": 71.4
     },
     "insights": {
-      "won": 1981,
-      "lost": 851,
-      "total": 2832,
-      "rate": 70.0
+      "won": 1975,
+      "lost": 850,
+      "total": 2825,
+      "rate": 69.9
     },
     "coupons": {
       "won": 69,
@@ -47,8 +47,8 @@
       "total": 139,
       "rate": 49.6
     },
-    "analyses24h": 2801,
-    "analyses30d": 22154
+    "analyses24h": 2796,
+    "analyses30d": 22162
   },
   "recentWins": [
     {
@@ -351,41 +351,41 @@
     }
   ],
   "today": {
-    "home": "Gangwon FC",
-    "away": "Jeonbuk Hm",
-    "league": "GKOR",
-    "date": "08.11.2026 07:30",
-    "matchCode": "4578076",
-    "odds": 1.8,
-    "patternScore": 67.79,
-    "patternText": "214.192/315.945",
+    "home": "AGF Aarhus",
+    "away": "AC Horsens",
+    "league": "DAN",
+    "date": "08.11.2026 13:00",
+    "matchCode": "4474521",
+    "odds": 1.89,
+    "patternScore": 66.98,
+    "patternText": "255.606/381.608",
     "aiScore": 52,
-    "picks": 4
+    "picks": 8
   },
   "todayList": [
     {
-      "home": "Gangwon FC",
-      "away": "Jeonbuk Hm",
-      "league": "GKOR",
-      "date": "08.11.2026 07:30",
-      "matchCode": "4578076",
-      "odds": 1.8,
-      "patternScore": 67.79,
-      "patternText": "214.192/315.945",
+      "home": "AGF Aarhus",
+      "away": "AC Horsens",
+      "league": "DAN",
+      "date": "08.11.2026 13:00",
+      "matchCode": "4474521",
+      "odds": 1.89,
+      "patternScore": 66.98,
+      "patternText": "255.606/381.608",
       "aiScore": 52,
-      "picks": 4
+      "picks": 8
     },
     {
-      "home": "Bucheon FC",
-      "away": "Pohang Steelers",
-      "league": "GKOR",
-      "date": "08.11.2026 07:30",
-      "matchCode": "4578082",
-      "odds": 1.6,
-      "patternScore": 66.65,
-      "patternText": "155.577/233.423",
-      "aiScore": 55,
-      "picks": 3
+      "home": "FC Norderstedt",
+      "away": "Drochtersen Ass",
+      "league": "ALMBÖL",
+      "date": "08.11.2026 13:00",
+      "matchCode": "4506730",
+      "odds": 1.54,
+      "patternScore": 67.48,
+      "patternText": "248.395/368.089",
+      "aiScore": 54,
+      "picks": 1
     },
     {
       "home": "Fk Tukums 2000",
@@ -400,6 +400,18 @@
       "picks": 1
     },
     {
+      "home": "Elche CF",
+      "away": "Real Betis",
+      "league": "İS1",
+      "date": "08.11.2026 13:00",
+      "matchCode": "4492371",
+      "odds": 1.47,
+      "patternScore": 67.11,
+      "patternText": "187.600/279.537",
+      "aiScore": 58,
+      "picks": 5
+    },
+    {
       "home": "Bochum",
       "away": "Karlsruher SC",
       "league": "AL2",
@@ -410,21 +422,16 @@
       "patternText": "192.574/287.923",
       "aiScore": 56,
       "picks": 5
-    },
-    {
-      "home": "Vasas Ii",
-      "away": "",
-      "league": "MAC3",
-      "date": "08.11.2026 10:00",
-      "matchCode": "4505073",
-      "odds": 1.35,
-      "patternScore": 68.13,
-      "patternText": "226.322/332.197",
-      "aiScore": 59,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Heidenheim",
+      "away": "Hannover 96",
+      "league": "AL2",
+      "at": "08.11.2026 07:07",
+      "count": 8
+    },
     {
       "home": "SSC Napoli",
       "away": "SS Lazio",
@@ -487,13 +494,6 @@
       "league": "ABD",
       "at": "07.11.2026 23:26",
       "count": 17
-    },
-    {
-      "home": "Seattle Sounders",
-      "away": "Los Angeles FC",
-      "league": "ABD",
-      "at": "07.11.2026 22:24",
-      "count": 11
     }
   ],
   "paywall": {
