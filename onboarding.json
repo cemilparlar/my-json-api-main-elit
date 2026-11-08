@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 12:56",
+  "updatedAt": "08.11.2026 13:06",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 627,
-      "lost": 300,
-      "total": 927,
-      "rate": 67.6
+      "won": 637,
+      "lost": 288,
+      "total": 925,
+      "rate": 68.9
     },
-    "totalAnalyses": 457179,
+    "totalAnalyses": 457208,
     "leagues": 485,
     "pro": {
-      "won": 1195,
-      "lost": 485,
-      "total": 1680,
-      "rate": 71.1
+      "won": 1169,
+      "lost": 470,
+      "total": 1639,
+      "rate": 71.3
     },
     "insights": {
-      "won": 1964,
-      "lost": 835,
-      "total": 2799,
-      "rate": 70.2
+      "won": 1942,
+      "lost": 813,
+      "total": 2755,
+      "rate": 70.5
     },
     "coupons": {
-      "won": 76,
-      "lost": 74,
-      "total": 150,
-      "rate": 50.7
+      "won": 77,
+      "lost": 77,
+      "total": 154,
+      "rate": 50.0
     },
-    "analyses24h": 2677,
-    "analyses30d": 22220
+    "analyses24h": 2593,
+    "analyses30d": 22217
   },
   "recentWins": [
     {
@@ -123,6 +123,42 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 4,
+      "totalOdds": 1.5,
+      "winChance": 39.29,
+      "completedAt": "08.11.2026 13:06",
+      "legs": [
+        {
+          "home": "Macarthur FC",
+          "away": "Brisbane Roar",
+          "prediction": "Double Chance 12",
+          "odds": 1.15,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "Daejeon Citizen",
+          "away": "Incheon United",
+          "prediction": "Handicap (0:2) 2",
+          "odds": 1.08,
+          "finalScore": null
+        },
+        {
+          "home": "Vissel Kobe",
+          "away": "Urawa Red Diamonds",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.09,
+          "finalScore": "2 - 2"
+        },
+        {
+          "home": "Cheonan City F",
+          "away": "Busan Ipark",
+          "prediction": "Double Chance 12",
+          "odds": 1.11,
+          "finalScore": "1 - 0"
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.51,
@@ -241,49 +277,6 @@
           "away": "Club Atletico Huracan",
           "prediction": "1st Half Under 1.5",
           "odds": 1.11,
-          "finalScore": null
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.58,
-      "winChance": 31.8,
-      "completedAt": "08.11.2026 08:06",
-      "legs": [
-        {
-          "home": "Corboda Santia",
-          "away": "Club Atletico Lanus",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.1,
-          "finalScore": null
-        },
-        {
-          "home": "Tabor Sezana",
-          "away": "ND Primorje",
-          "prediction": "Double Chance 12",
-          "odds": 1.07,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Dep. Guadalaja",
-          "away": "CD Navalcarnero",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.07,
-          "finalScore": null
-        },
-        {
-          "home": "Boca Juniors",
-          "away": "Defensa y Justicia",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.09,
-          "finalScore": null
-        },
-        {
-          "home": "Gimnasia La Plata",
-          "away": "Club Atletico Belgrano",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.15,
           "finalScore": null
         }
       ]
@@ -447,74 +440,74 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Vitoria Guimaraes",
-      "away": "FC Porto",
-      "league": "POR",
-      "at": "08.11.2026 12:35",
-      "count": 7
-    },
-    {
-      "home": "Baltika Kalini",
-      "away": "FC Makhachkala",
-      "league": "RUS",
-      "at": "08.11.2026 12:33",
-      "count": 4
-    },
-    {
-      "home": "Union St.G",
-      "away": "KRC Genk",
-      "league": "BEL",
-      "at": "08.11.2026 12:33",
-      "count": 5
-    },
-    {
-      "home": "UD Las Palmas",
-      "away": "CD Eldense",
-      "league": "İS2",
-      "at": "08.11.2026 12:32",
-      "count": 6
-    },
-    {
-      "home": "Celta de Vigo",
-      "away": "Levante UD",
-      "league": "İS1",
-      "at": "08.11.2026 12:31",
-      "count": 6
-    },
-    {
-      "home": "Sporting Gijon",
-      "away": "Real Valladolid",
-      "league": "İS2",
-      "at": "08.11.2026 12:29",
-      "count": 4
-    },
-    {
-      "home": "Villarreal CF",
-      "away": "Getafe CF",
-      "league": "İS1",
-      "at": "08.11.2026 12:29",
-      "count": 3
-    },
-    {
-      "home": "Stade Brest",
-      "away": "Olympique Lyonnais",
-      "league": "FR1",
-      "at": "08.11.2026 12:27",
-      "count": 8
-    },
-    {
       "home": "Le Mans FC",
       "away": "AS Monaco",
       "league": "FR1",
-      "at": "08.11.2026 12:26",
-      "count": 2
+      "at": "08.11.2026 13:05",
+      "count": 8
     },
     {
       "home": "Le Havre AC",
       "away": "FC Lorient",
       "league": "FR1",
-      "at": "08.11.2026 12:26",
+      "at": "08.11.2026 13:05",
+      "count": 6
+    },
+    {
+      "home": "AZ Alkmaar",
+      "away": "FC Groningen",
+      "league": "HOL",
+      "at": "08.11.2026 13:03",
+      "count": 2
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Rayo Vallecano",
+      "league": "İS1",
+      "at": "08.11.2026 13:02",
+      "count": 6
+    },
+    {
+      "home": "FC Koln",
+      "away": "Bayer Leverkusen",
+      "league": "AL1",
+      "at": "08.11.2026 13:01",
+      "count": 7
+    },
+    {
+      "home": "AC Monza",
+      "away": "Atalanta",
+      "league": "İTA",
+      "at": "08.11.2026 13:00",
+      "count": 10
+    },
+    {
+      "home": "Ipswich Town",
+      "away": "AFC Bournemouth",
+      "league": "İNP",
+      "at": "08.11.2026 12:59",
       "count": 8
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Brentford",
+      "league": "İNP",
+      "at": "08.11.2026 12:59",
+      "count": 5
+    },
+    {
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "league": "İNP",
+      "at": "08.11.2026 12:58",
+      "count": 9
+    },
+    {
+      "home": "Stade Rennais",
+      "away": "LOSC Lille",
+      "league": "FR1",
+      "at": "08.11.2026 12:58",
+      "count": 3
     }
   ],
   "paywall": {
