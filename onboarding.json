@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 23:29",
+  "updatedAt": "08.11.2026 23:36",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 735,
+      "won": 733,
       "lost": 343,
-      "total": 1078,
-      "rate": 68.2
+      "total": 1076,
+      "rate": 68.1
     },
     "totalAnalyses": 457804,
     "leagues": 481,
     "pro": {
-      "won": 1231,
+      "won": 1230,
       "lost": 518,
-      "total": 1749,
+      "total": 1748,
       "rate": 70.4
     },
     "insights": {
-      "won": 2042,
-      "lost": 859,
-      "total": 2901,
+      "won": 2039,
+      "lost": 858,
+      "total": 2897,
       "rate": 70.4
     },
     "coupons": {
@@ -47,7 +47,7 @@
       "total": 153,
       "rate": 50.3
     },
-    "analyses24h": 1633,
+    "analyses24h": 1631,
     "analyses30d": 22085
   },
   "recentWins": [
@@ -351,30 +351,18 @@
     }
   ],
   "today": {
-    "home": "Antigua Guatem",
-    "away": "CSD Malacateco",
-    "league": "GUAT",
-    "date": "09.11.2026 00:00",
-    "matchCode": "4490451",
-    "odds": 1.26,
-    "patternScore": 68.3,
-    "patternText": "163.907/239.977",
-    "aiScore": 66,
-    "picks": 1
+    "home": "Alianza Petroleum",
+    "away": "Llaneros",
+    "league": "KOL",
+    "date": "09.11.2026 01:15",
+    "matchCode": "4513994",
+    "odds": 1.16,
+    "patternScore": 70.17,
+    "patternText": "219.767/313.188",
+    "aiScore": 77,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Antigua Guatem",
-      "away": "CSD Malacateco",
-      "league": "GUAT",
-      "date": "09.11.2026 00:00",
-      "matchCode": "4490451",
-      "odds": 1.26,
-      "patternScore": 68.3,
-      "patternText": "163.907/239.977",
-      "aiScore": 66,
-      "picks": 1
-    },
     {
       "home": "Alianza Petroleum",
       "away": "Llaneros",
@@ -385,18 +373,6 @@
       "patternScore": 70.17,
       "patternText": "219.767/313.188",
       "aiScore": 77,
-      "picks": 2
-    },
-    {
-      "home": "FC Queretaro",
-      "away": "Club Puebla",
-      "league": "MEK",
-      "date": "09.11.2026 00:00",
-      "matchCode": "4476493",
-      "odds": 1.15,
-      "patternScore": 69.03,
-      "patternText": "184.658/267.492",
-      "aiScore": 83,
       "picks": 2
     },
     {
@@ -421,6 +397,30 @@
       "patternScore": 68.16,
       "patternText": "213.158/312.734",
       "aiScore": 59,
+      "picks": 2
+    },
+    {
+      "home": "Veles",
+      "away": "KAMAZ Naberezhnye Chelny",
+      "league": "RUS1",
+      "date": "09.11.2026 16:30",
+      "matchCode": "4498117",
+      "odds": 1.31,
+      "patternScore": 68.24,
+      "patternText": "192.400/281.936",
+      "aiScore": 59,
+      "picks": 3
+    },
+    {
+      "home": "Chelmsford",
+      "away": "Ebbsfleet",
+      "league": "İCON",
+      "date": "09.11.2026 19:45",
+      "matchCode": "4515961",
+      "odds": 1.28,
+      "patternScore": 68.92,
+      "patternText": "264.633/383.998",
+      "aiScore": 67,
       "picks": 2
     }
   ],
