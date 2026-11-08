@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 11:12",
+  "updatedAt": "08.11.2026 11:22",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 456825,
     "leagues": 486,
     "pro": {
-      "won": 1217,
+      "won": 1215,
       "lost": 489,
-      "total": 1706,
+      "total": 1704,
       "rate": 71.3
     },
     "insights": {
-      "won": 1998,
-      "lost": 851,
-      "total": 2849,
+      "won": 1997,
+      "lost": 850,
+      "total": 2847,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 50.7
     },
-    "analyses24h": 2775,
-    "analyses30d": 22236
+    "analyses24h": 2765,
+    "analyses30d": 22229
   },
   "recentWins": [
     {
@@ -421,6 +421,18 @@
       "picks": 3
     },
     {
+      "home": "Stade Brest",
+      "away": "Olympique Lyonnais",
+      "league": "FR1",
+      "date": "08.11.2026 16:15",
+      "matchCode": "4476587",
+      "odds": 1.8,
+      "patternScore": 66.85,
+      "patternText": "255.166/381.694",
+      "aiScore": 53,
+      "picks": 8
+    },
+    {
       "home": "Al Faisaly Amman",
       "away": "Shabab Al Ordon",
       "league": "ÜRD",
@@ -431,18 +443,6 @@
       "patternText": "186.260/278.104",
       "aiScore": 54,
       "picks": 5
-    },
-    {
-      "home": "Zenit St. Petersburg",
-      "away": "FC Rostov",
-      "league": "RUS",
-      "date": "08.11.2026 15:30",
-      "matchCode": "4485918",
-      "odds": 1.66,
-      "patternScore": 67.56,
-      "patternText": "264.993/392.227",
-      "aiScore": 54,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
