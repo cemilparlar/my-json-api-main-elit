@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 20:22",
+  "updatedAt": "08.11.2026 20:29",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 662,
-      "lost": 322,
-      "total": 984,
+      "won": 670,
+      "lost": 326,
+      "total": 996,
       "rate": 67.3
     },
-    "totalAnalyses": 457767,
+    "totalAnalyses": 457778,
     "leagues": 483,
     "pro": {
-      "won": 1219,
-      "lost": 512,
-      "total": 1731,
+      "won": 1222,
+      "lost": 514,
+      "total": 1736,
       "rate": 70.4
     },
     "insights": {
-      "won": 2034,
-      "lost": 865,
-      "total": 2899,
-      "rate": 70.2
+      "won": 2038,
+      "lost": 868,
+      "total": 2906,
+      "rate": 70.1
     },
     "coupons": {
-      "won": 79,
+      "won": 80,
       "lost": 76,
-      "total": 155,
-      "rate": 51.0
+      "total": 156,
+      "rate": 51.3
     },
     "analyses24h": 1709,
     "analyses30d": 22127
@@ -123,6 +123,35 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 3,
+      "totalOdds": 1.52,
+      "winChance": 51.51,
+      "completedAt": "08.11.2026 20:29",
+      "legs": [
+        {
+          "home": "AD Merida",
+          "away": "Athletic Bilbao B",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.11,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "Sporting Gijon",
+          "away": "Real Valladolid",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.2,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "LR Vicenza",
+          "away": "US Cremonese",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.14,
+          "finalScore": "1 - 4"
+        }
+      ]
+    },
     {
       "size": 3,
       "totalOdds": 1.54,
@@ -237,49 +266,6 @@
           "finalScore": "1 - 0"
         }
       ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.58,
-      "winChance": 37.86,
-      "completedAt": "08.11.2026 13:26",
-      "legs": [
-        {
-          "home": "Vissel Kobe",
-          "away": "Urawa Red Diamonds",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.11,
-          "finalScore": "2 - 2"
-        },
-        {
-          "home": "Jubilo Iwata",
-          "away": "Shonan Bellmare",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.07,
-          "finalScore": "1 - 1"
-        },
-        {
-          "home": "Daejeon Citizen",
-          "away": "Incheon United",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.08,
-          "finalScore": null
-        },
-        {
-          "home": "FC Machida Zelvia",
-          "away": "Sanfrecce Hiroshima",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.14,
-          "finalScore": "0 - 0"
-        },
-        {
-          "home": "Jiangx Beidame",
-          "away": "Xian Ronghai",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "3 - 1"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -335,33 +321,33 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 14:25",
-      "home": "Real Madrid Castilla",
-      "away": "Hercules CF"
-    },
-    {
-      "type": "updated",
-      "at": "08.11.2026 14:26",
-      "home": "Randers FC",
-      "away": "FC Nordsjaelland"
-    },
-    {
-      "type": "updated",
-      "at": "08.11.2026 14:27",
-      "home": "Real Sociedad",
-      "away": "Rayo Vallecano"
-    },
-    {
-      "type": "updated",
-      "at": "08.11.2026 14:26",
-      "home": "Girona FC",
-      "away": "UD Almeria"
-    },
-    {
-      "type": "updated",
       "at": "08.11.2026 14:48",
       "home": "CD Santa Clara",
       "away": "Gil Vicente FC"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 14:55",
+      "home": "FC Thun",
+      "away": "FC Basel"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 14:57",
+      "home": "Viking",
+      "away": "Kfum Oslo"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 15:39",
+      "home": "Le Mans FC",
+      "away": "AS Monaco"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 15:38",
+      "home": "Le Havre AC",
+      "away": "FC Lorient"
     }
   ],
   "today": {
@@ -370,11 +356,11 @@
     "league": "MEK",
     "date": "09.11.2026 02:00",
     "matchCode": "4476494",
-    "odds": 1.26,
-    "patternScore": 68.66,
-    "patternText": "170.359/248.102",
-    "aiScore": 64,
-    "picks": 3
+    "odds": 1.27,
+    "patternScore": 68.68,
+    "patternText": "174.795/254.488",
+    "aiScore": 61,
+    "picks": 1
   },
   "todayList": [
     {
@@ -383,11 +369,11 @@
       "league": "MEK",
       "date": "09.11.2026 02:00",
       "matchCode": "4476494",
-      "odds": 1.26,
-      "patternScore": 68.66,
-      "patternText": "170.359/248.102",
-      "aiScore": 64,
-      "picks": 3
+      "odds": 1.27,
+      "patternScore": 68.68,
+      "patternText": "174.795/254.488",
+      "aiScore": 61,
+      "picks": 1
     },
     {
       "home": "Ceara SC",
