@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 07:26",
+  "updatedAt": "08.11.2026 07:33",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 656,
-      "lost": 309,
-      "total": 965,
-      "rate": 68.0
+      "won": 653,
+      "lost": 304,
+      "total": 957,
+      "rate": 68.2
     },
-    "totalAnalyses": 456322,
+    "totalAnalyses": 456353,
     "leagues": 486,
     "pro": {
       "won": 1223,
-      "lost": 487,
-      "total": 1710,
-      "rate": 71.5
+      "lost": 486,
+      "total": 1709,
+      "rate": 71.6
     },
     "insights": {
       "won": 2000,
-      "lost": 858,
-      "total": 2858,
-      "rate": 70.0
+      "lost": 854,
+      "total": 2854,
+      "rate": 70.1
     },
     "coupons": {
       "won": 69,
@@ -47,8 +47,8 @@
       "total": 140,
       "rate": 49.3
     },
-    "analyses24h": 2815,
-    "analyses30d": 22181
+    "analyses24h": 2793,
+    "analyses30d": 22174
   },
   "recentWins": [
     {
@@ -108,18 +108,18 @@
       "pro": false
     },
     {
-      "home": "Kashiwa Reysol",
-      "away": "Kawasaki Frontale",
-      "league": "JAP",
-      "date": "07.11.2026 07:00",
-      "prediction": "Match Result 1",
+      "home": "Metro Gallery",
+      "away": "Yuen Long FC",
+      "league": "HK2",
+      "date": "08.11.2026 05:30",
+      "prediction": "Both Teams to Score - No",
       "odds": 1.94,
-      "probability": 80.0,
-      "patternScore": 67.11,
-      "aiScore": 53,
-      "firstHalf": "1 - 1",
-      "finalScore": "2 - 1",
-      "pro": true
+      "probability": 71.43,
+      "patternScore": 66.9,
+      "aiScore": 52,
+      "firstHalf": "0 - 2",
+      "finalScore": "0 - 3",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -358,7 +358,7 @@
     "matchCode": "4446809",
     "odds": 1.49,
     "patternScore": 66.82,
-    "patternText": "187.381/280.417",
+    "patternText": "187.393/280.429",
     "aiScore": 56,
     "picks": 2
   },
@@ -371,7 +371,7 @@
       "matchCode": "4446809",
       "odds": 1.49,
       "patternScore": 66.82,
-      "patternText": "187.381/280.417",
+      "patternText": "187.393/280.429",
       "aiScore": 56,
       "picks": 2
     },
@@ -383,7 +383,7 @@
       "matchCode": "4492371",
       "odds": 1.46,
       "patternScore": 67.65,
-      "patternText": "251.404/371.643",
+      "patternText": "251.416/371.655",
       "aiScore": 55,
       "picks": 4
     },
@@ -395,7 +395,7 @@
       "matchCode": "4495831",
       "odds": 1.45,
       "patternScore": 66.88,
-      "patternText": "192.630/288.017",
+      "patternText": "192.642/288.029",
       "aiScore": 56,
       "picks": 5
     },
@@ -407,21 +407,21 @@
       "matchCode": "4505073",
       "odds": 1.35,
       "patternScore": 68.13,
-      "patternText": "226.442/332.349",
+      "patternText": "226.454/332.361",
       "aiScore": 59,
       "picks": 1
     },
     {
-      "home": "FK Banga",
-      "away": "Zalgiris Vilniu",
-      "league": "LITA",
-      "date": "08.11.2026 12:15",
-      "matchCode": "4477545",
-      "odds": 1.32,
-      "patternScore": 68.18,
-      "patternText": "231.741/339.873",
-      "aiScore": 59,
-      "picks": 1
+      "home": "CD Numancia",
+      "away": "Calvo Sotelo",
+      "league": "İS4",
+      "date": "08.11.2026 11:00",
+      "matchCode": "4495213",
+      "odds": 1.34,
+      "patternScore": 68.3,
+      "patternText": "242.375/354.845",
+      "aiScore": 57,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
