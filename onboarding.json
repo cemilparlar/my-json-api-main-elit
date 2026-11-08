@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 10:10",
+  "updatedAt": "08.11.2026 10:20",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 684,
-      "lost": 324,
-      "total": 1008,
+      "won": 689,
+      "lost": 326,
+      "total": 1015,
       "rate": 67.9
     },
-    "totalAnalyses": 456652,
+    "totalAnalyses": 456668,
     "leagues": 486,
     "pro": {
-      "won": 1229,
-      "lost": 489,
-      "total": 1718,
+      "won": 1232,
+      "lost": 491,
+      "total": 1723,
       "rate": 71.5
     },
     "insights": {
-      "won": 2021,
-      "lost": 858,
-      "total": 2879,
+      "won": 2026,
+      "lost": 860,
+      "total": 2886,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 50.7
     },
-    "analyses24h": 2826,
-    "analyses30d": 22232
+    "analyses24h": 2833,
+    "analyses30d": 22239
   },
   "recentWins": [
     {
@@ -348,12 +348,6 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 04:12",
-      "home": "Vissel Kobe",
-      "away": "Urawa Red Diamonds"
-    },
-    {
-      "type": "updated",
       "at": "08.11.2026 04:53",
       "home": "Gamba Osaka",
       "away": "Cerezo Osaka"
@@ -369,6 +363,12 @@
       "at": "08.11.2026 09:00",
       "home": "Rizespor",
       "away": "Erzurumspor FK"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 09:34",
+      "home": "Umraniyespor",
+      "away": "Kayserispor"
     }
   ],
   "today": {
@@ -379,7 +379,7 @@
     "matchCode": "4517051",
     "odds": 3.09,
     "patternScore": 67.17,
-    "patternText": "186.467/277.598",
+    "patternText": "186.485/277.620",
     "aiScore": 52,
     "picks": 3
   },
@@ -392,7 +392,7 @@
       "matchCode": "4517051",
       "odds": 3.09,
       "patternScore": 67.17,
-      "patternText": "186.467/277.598",
+      "patternText": "186.485/277.620",
       "aiScore": 52,
       "picks": 3
     },
@@ -404,7 +404,7 @@
       "matchCode": "4426808",
       "odds": 1.77,
       "patternScore": 65.25,
-      "patternText": "332.745/509.921",
+      "patternText": "332.763/509.951",
       "aiScore": 53,
       "picks": 8
     },
@@ -416,7 +416,7 @@
       "matchCode": "4481110",
       "odds": 1.58,
       "patternScore": 67.51,
-      "patternText": "268.990/398.441",
+      "patternText": "269.008/398.471",
       "aiScore": 54,
       "picks": 5
     },
@@ -428,7 +428,7 @@
       "matchCode": "4540167",
       "odds": 1.55,
       "patternScore": 66.81,
-      "patternText": "268.506/401.912",
+      "patternText": "268.524/401.942",
       "aiScore": 55,
       "picks": 1
     },
@@ -440,12 +440,26 @@
       "matchCode": "4475146",
       "odds": 1.51,
       "patternScore": 67.56,
-      "patternText": "299.791/443.749",
+      "patternText": "299.813/443.783",
       "aiScore": 55,
       "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Elche CF",
+      "away": "Real Betis",
+      "league": "İS1",
+      "at": "08.11.2026 10:14",
+      "count": 8
+    },
+    {
+      "home": "FC Heidenheim",
+      "away": "Hannover 96",
+      "league": "AL2",
+      "at": "08.11.2026 10:13",
+      "count": 14
+    },
     {
       "home": "SSC Napoli",
       "away": "SS Lazio",
@@ -501,20 +515,6 @@
       "league": "İTA",
       "at": "08.11.2026 09:45",
       "count": 8
-    },
-    {
-      "home": "Sunderland",
-      "away": "Chelsea",
-      "league": "İNP",
-      "at": "08.11.2026 09:44",
-      "count": 8
-    },
-    {
-      "home": "Stade Rennais",
-      "away": "LOSC Lille",
-      "league": "FR1",
-      "at": "08.11.2026 09:44",
-      "count": 6
     }
   ],
   "paywall": {
