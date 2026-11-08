@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 09:43",
+  "updatedAt": "08.11.2026 09:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 965,
       "rate": 67.8
     },
-    "totalAnalyses": 456589,
+    "totalAnalyses": 456628,
     "leagues": 486,
     "pro": {
       "won": 1226,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 50.7
     },
-    "analyses24h": 2817,
-    "analyses30d": 22219
+    "analyses24h": 2833,
+    "analyses30d": 22235
   },
   "recentWins": [
     {
@@ -409,6 +409,18 @@
       "picks": 8
     },
     {
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "league": "İNP",
+      "date": "08.11.2026 14:00",
+      "matchCode": "4481110",
+      "odds": 1.58,
+      "patternScore": 67.51,
+      "patternText": "268.860/398.267",
+      "aiScore": 54,
+      "picks": 5
+    },
+    {
       "home": "Fc Tallinn",
       "away": "Tallinna Kalev",
       "league": "EST2",
@@ -431,90 +443,78 @@
       "patternText": "268.408/401.774",
       "aiScore": 55,
       "picks": 1
-    },
-    {
-      "home": "AC Monza",
-      "away": "Atalanta",
-      "league": "İTA",
-      "date": "08.11.2026 14:00",
-      "matchCode": "4475146",
-      "odds": 1.5,
-      "patternScore": 67.47,
-      "patternText": "299.927/444.533",
-      "aiScore": 55,
-      "picks": 6
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Umraniyespor",
-      "away": "Kayserispor",
-      "league": "T1L",
-      "at": "08.11.2026 09:34",
-      "count": 3
-    },
-    {
-      "home": "Elche CF",
-      "away": "Real Betis",
-      "league": "İS1",
-      "at": "08.11.2026 09:34",
-      "count": 6
-    },
-    {
-      "home": "Club Brugge",
-      "away": "RSC Anderlecht",
+      "home": "KAA Gent",
+      "away": "KV Kortrijk",
       "league": "BEL",
-      "at": "08.11.2026 09:30",
-      "count": 15
+      "at": "08.11.2026 09:51",
+      "count": 5
     },
     {
-      "home": "Krylya Sovetov",
-      "away": "FC Orenburg",
-      "league": "RUS",
-      "at": "08.11.2026 09:02",
-      "count": 6
-    },
-    {
-      "home": "Rizespor",
-      "away": "Erzurumspor FK",
-      "league": "TSL",
-      "at": "08.11.2026 09:00",
-      "count": 11
+      "home": "FC Koln",
+      "away": "Bayer Leverkusen",
+      "league": "AL1",
+      "at": "08.11.2026 09:48",
+      "count": 10
     },
     {
       "home": "Crystal Palace",
       "away": "Liverpool",
       "league": "İNP",
-      "at": "08.11.2026 08:43",
-      "count": 14
-    },
-    {
-      "home": "Brighton & Hove Albion",
-      "away": "Brentford",
-      "league": "İNP",
-      "at": "08.11.2026 08:41",
-      "count": 5
+      "at": "08.11.2026 09:47",
+      "count": 4
     },
     {
       "home": "Ipswich Town",
       "away": "AFC Bournemouth",
       "league": "İNP",
-      "at": "08.11.2026 08:40",
-      "count": 4
+      "at": "08.11.2026 09:46",
+      "count": 6
     },
     {
-      "home": "Virtus Entella",
-      "away": "Modena FC",
-      "league": "İTB",
-      "at": "08.11.2026 08:40",
-      "count": 3
+      "home": "Brighton & Hove Albion",
+      "away": "Brentford",
+      "league": "İNP",
+      "at": "08.11.2026 09:46",
+      "count": 8
+    },
+    {
+      "home": "AC Monza",
+      "away": "Atalanta",
+      "league": "İTA",
+      "at": "08.11.2026 09:45",
+      "count": 8
     },
     {
       "home": "Genoa CFC",
       "away": "AC Milan",
       "league": "İTA",
-      "at": "08.11.2026 08:39",
+      "at": "08.11.2026 09:45",
       "count": 8
+    },
+    {
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "league": "İNP",
+      "at": "08.11.2026 09:44",
+      "count": 8
+    },
+    {
+      "home": "Stade Rennais",
+      "away": "LOSC Lille",
+      "league": "FR1",
+      "at": "08.11.2026 09:44",
+      "count": 6
+    },
+    {
+      "home": "Virtus Entella",
+      "away": "Modena FC",
+      "league": "İTB",
+      "at": "08.11.2026 09:43",
+      "count": 9
     }
   ],
   "paywall": {
