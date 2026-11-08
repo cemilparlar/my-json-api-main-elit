@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 15:41",
+  "updatedAt": "08.11.2026 15:50",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 532,
-      "lost": 251,
-      "total": 783,
-      "rate": 67.9
+      "won": 548,
+      "lost": 258,
+      "total": 806,
+      "rate": 68.0
     },
     "totalAnalyses": 457559,
     "leagues": 485,
     "pro": {
-      "won": 1156,
-      "lost": 453,
+      "won": 1154,
+      "lost": 455,
       "total": 1609,
-      "rate": 71.8
+      "rate": 71.7
     },
     "insights": {
-      "won": 1947,
-      "lost": 792,
-      "total": 2739,
-      "rate": 71.1
+      "won": 1955,
+      "lost": 797,
+      "total": 2752,
+      "rate": 71.0
     },
     "coupons": {
       "won": 77,
@@ -47,8 +47,8 @@
       "total": 155,
       "rate": 49.7
     },
-    "analyses24h": 2004,
-    "analyses30d": 22177
+    "analyses24h": 2000,
+    "analyses30d": 22165
   },
   "recentWins": [
     {
@@ -365,42 +365,18 @@
     }
   ],
   "today": {
-    "home": "Stade Brest",
-    "away": "Olympique Lyonnais",
-    "league": "FR1",
-    "date": "08.11.2026 16:15",
-    "matchCode": "4476587",
-    "odds": 1.82,
-    "patternScore": 66.28,
-    "patternText": "104.067/157.007",
-    "aiScore": 52,
-    "picks": 8
+    "home": "Lech Poznan",
+    "away": "Zaglebie Lubin",
+    "league": "POL",
+    "date": "08.11.2026 19:15",
+    "matchCode": "4484412",
+    "odds": 1.41,
+    "patternScore": 67.64,
+    "patternText": "265.739/392.894",
+    "aiScore": 57,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Stade Brest",
-      "away": "Olympique Lyonnais",
-      "league": "FR1",
-      "date": "08.11.2026 16:15",
-      "matchCode": "4476587",
-      "odds": 1.82,
-      "patternScore": 66.28,
-      "patternText": "104.067/157.007",
-      "aiScore": 52,
-      "picks": 8
-    },
-    {
-      "home": "Manchester United",
-      "away": "Aston Villa",
-      "league": "İNP",
-      "date": "08.11.2026 16:30",
-      "matchCode": "4481108",
-      "odds": 1.42,
-      "patternScore": 67.31,
-      "patternText": "202.826/301.324",
-      "aiScore": 58,
-      "picks": 3
-    },
     {
       "home": "Lech Poznan",
       "away": "Zaglebie Lubin",
@@ -409,7 +385,7 @@
       "matchCode": "4484412",
       "odds": 1.41,
       "patternScore": 67.64,
-      "patternText": "265.689/392.790",
+      "patternText": "265.739/392.894",
       "aiScore": 57,
       "picks": 2
     },
@@ -421,8 +397,8 @@
       "matchCode": "4517050",
       "odds": 1.37,
       "patternScore": 66.85,
-      "patternText": "164.972/246.785",
-      "aiScore": 57,
+      "patternText": "165.002/246.833",
+      "aiScore": 56,
       "picks": 5
     },
     {
@@ -432,10 +408,34 @@
       "date": "08.11.2026 17:45",
       "matchCode": "4485914",
       "odds": 1.37,
-      "patternScore": 67.37,
-      "patternText": "201.311/298.835",
-      "aiScore": 61,
+      "patternScore": 67.36,
+      "patternText": "201.345/298.891",
+      "aiScore": 60,
       "picks": 4
+    },
+    {
+      "home": "Al Wahda",
+      "away": "Al Jeel",
+      "league": "SUUD1",
+      "date": "08.11.2026 16:35",
+      "matchCode": "4538732",
+      "odds": 1.35,
+      "patternScore": 67.83,
+      "patternText": "264.028/389.226",
+      "aiScore": 58,
+      "picks": 1
+    },
+    {
+      "home": "Vasas",
+      "away": "Ferencvaros",
+      "league": "MAC",
+      "date": "08.11.2026 18:00",
+      "matchCode": "4484677",
+      "odds": 1.35,
+      "patternScore": 68.39,
+      "patternText": "159.712/233.535",
+      "aiScore": 57,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
