@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 12:08",
+  "updatedAt": "08.11.2026 12:17",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 640,
+      "won": 638,
       "lost": 303,
-      "total": 943,
-      "rate": 67.9
+      "total": 941,
+      "rate": 67.8
     },
-    "totalAnalyses": 456892,
+    "totalAnalyses": 456954,
     "leagues": 485,
     "pro": {
       "won": 1203,
-      "lost": 484,
-      "total": 1687,
-      "rate": 71.3
+      "lost": 483,
+      "total": 1686,
+      "rate": 71.4
     },
     "insights": {
       "won": 1978,
-      "lost": 836,
-      "total": 2814,
+      "lost": 835,
+      "total": 2813,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 149,
       "rate": 51.0
     },
-    "analyses24h": 2696,
-    "analyses30d": 22210
+    "analyses24h": 2711,
+    "analyses30d": 22223
   },
   "recentWins": [
     {
@@ -360,7 +360,7 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 11:30",
+      "at": "08.11.2026 12:17",
       "home": "Corum FK",
       "away": "Fenerbahce"
     },
@@ -379,7 +379,7 @@
     "matchCode": "4485918",
     "odds": 3.7,
     "patternScore": 67.35,
-    "patternText": "181.576/269.586",
+    "patternText": "181.594/269.612",
     "aiScore": 51,
     "picks": 6
   },
@@ -392,7 +392,7 @@
       "matchCode": "4485918",
       "odds": 3.7,
       "patternScore": 67.35,
-      "patternText": "181.576/269.586",
+      "patternText": "181.594/269.612",
       "aiScore": 51,
       "picks": 6
     },
@@ -404,7 +404,7 @@
       "matchCode": "4517051",
       "odds": 2.25,
       "patternScore": 67.54,
-      "patternText": "264.195/391.141",
+      "patternText": "264.217/391.175",
       "aiScore": 52,
       "picks": 4
     },
@@ -416,7 +416,7 @@
       "matchCode": "4495510",
       "odds": 2.24,
       "patternScore": 66.79,
-      "patternText": "185.945/278.401",
+      "patternText": "185.963/278.427",
       "aiScore": 51,
       "picks": 5
     },
@@ -428,7 +428,7 @@
       "matchCode": "4481108",
       "odds": 1.91,
       "patternScore": 67.14,
-      "patternText": "266.219/396.521",
+      "patternText": "266.241/396.571",
       "aiScore": 53,
       "picks": 4
     },
@@ -440,12 +440,26 @@
       "matchCode": "4476587",
       "odds": 1.8,
       "patternScore": 66.85,
-      "patternText": "255.196/381.746",
+      "patternText": "255.218/381.788",
       "aiScore": 53,
       "picks": 8
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Corum FK",
+      "away": "Fenerbahce",
+      "league": "TSL",
+      "at": "08.11.2026 12:17",
+      "count": 11
+    },
+    {
+      "home": "Elche CF",
+      "away": "Real Betis",
+      "league": "İS1",
+      "at": "08.11.2026 12:17",
+      "count": 6
+    },
     {
       "home": "Inter",
       "away": "Como 1907",
@@ -501,20 +515,6 @@
       "league": "AL1",
       "at": "08.11.2026 11:35",
       "count": 7
-    },
-    {
-      "home": "Brighton & Hove Albion",
-      "away": "Brentford",
-      "league": "İNP",
-      "at": "08.11.2026 11:34",
-      "count": 8
-    },
-    {
-      "home": "AC Monza",
-      "away": "Atalanta",
-      "league": "İTA",
-      "at": "08.11.2026 11:34",
-      "count": 6
     }
   ],
   "paywall": {
