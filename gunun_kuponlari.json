@@ -104,8 +104,8 @@
       "lost": 4
     }
   },
-  "updatedAt": "08.11.2026 09:53",
-  "updatedAtUtc": "2026-11-08T09:53:00Z",
+  "updatedAt": "08.11.2026 10:00",
+  "updatedAtUtc": "2026-11-08T10:00:00Z",
   "upcoming": [
     {
       "id": "20261108-05-1",
@@ -660,9 +660,9 @@
           "patternScore": 68.56,
           "patternText": "239.098/348.765",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "2 - 0",
+          "finalScore": "4 - 0",
+          "status": "won",
           "aiScore": 96
         },
         {
@@ -683,9 +683,9 @@
           "patternScore": 65.4,
           "patternText": "273.661/418.472",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 0",
+          "status": "won",
           "aiScore": 95
         },
         {
@@ -706,9 +706,9 @@
           "patternScore": 58.96,
           "patternText": "238.664/404.779",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 2",
+          "status": "won",
           "aiScore": 90
         },
         {
@@ -881,7 +881,7 @@
       "winChance": 36.91,
       "firstKickoff": "08.11.2026 10:00",
       "lastKickoff": "08.11.2026 11:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_5",
       "group": "multi",
@@ -909,7 +909,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 96
         },
         {
@@ -932,7 +932,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 96
         },
         {
@@ -1588,6 +1588,95 @@
           "aiScore": 84
         }
       ]
+    },
+    {
+      "id": "20261108-13-1",
+      "createdAt": "08.11.2026 10:00",
+      "createdAtUtc": "2026-11-08T10:00:00Z",
+      "size": 3,
+      "mbs": 1,
+      "totalOdds": 1.51,
+      "winChance": 51.7,
+      "firstKickoff": "08.11.2026 11:00",
+      "lastKickoff": "08.11.2026 13:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "cyz_3",
+      "group": "multi",
+      "formula": "3",
+      "multiScore": 86,
+      "effectiveOdds": 1.51,
+      "legs": [
+        {
+          "matchCode": "4485913",
+          "nesine": null,
+          "date": "08.11.2026 11:00",
+          "kickoffUtc": "2026-11-08T11:00:00Z",
+          "league": "RUS",
+          "home": "Krylya Sovetov",
+          "away": "FC Orenburg",
+          "league_tr": "RUS",
+          "home_tr": "Krylya Sovieto",
+          "away_tr": "Orenburg",
+          "prediction": "Over 1.5 Goals",
+          "prediction_tr": "1,5 Alt/Üst Üst",
+          "odds": 1.15,
+          "probability": 81.82,
+          "patternScore": 69.79,
+          "patternText": "183.437/262.824",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 86
+        },
+        {
+          "matchCode": "4551931",
+          "nesine": null,
+          "date": "08.11.2026 11:00",
+          "kickoffUtc": "2026-11-08T11:00:00Z",
+          "league": "İS4",
+          "home": "Mallorca B",
+          "away": "Yeclano",
+          "league_tr": "İS4",
+          "home_tr": "Mallorca B",
+          "away_tr": "Yeclano",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.16,
+          "probability": 77.46,
+          "patternScore": 69.75,
+          "patternText": "308.138/441.744",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 81
+        },
+        {
+          "matchCode": "4474521",
+          "nesine": null,
+          "date": "08.11.2026 13:00",
+          "kickoffUtc": "2026-11-08T13:00:00Z",
+          "league": "DAN",
+          "home": "AGF Aarhus",
+          "away": "AC Horsens",
+          "league_tr": "DAN",
+          "home_tr": "Aarhus",
+          "away_tr": "Horsens",
+          "prediction": "1st Half Over 0.5",
+          "prediction_tr": "1. Yarı 0,5 Alt/Üst Üst",
+          "odds": 1.13,
+          "probability": 91.67,
+          "patternScore": 68.22,
+          "patternText": "134.266/196.812",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 97
+        }
+      ]
     }
   ],
   "completed": [
@@ -1696,9 +1785,9 @@
           "patternScore": 69.36,
           "patternText": "220.548/317.992",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "2 - 1",
+          "finalScore": "3 - 2",
+          "status": "lost",
           "aiScore": 89
         },
         {

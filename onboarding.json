@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 09:53",
+  "updatedAt": "08.11.2026 10:00",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 654,
-      "lost": 311,
-      "total": 965,
-      "rate": 67.8
+      "won": 685,
+      "lost": 327,
+      "total": 1012,
+      "rate": 67.7
     },
-    "totalAnalyses": 456628,
+    "totalAnalyses": 456644,
     "leagues": 486,
     "pro": {
-      "won": 1226,
-      "lost": 489,
-      "total": 1715,
-      "rate": 71.5
+      "won": 1233,
+      "lost": 494,
+      "total": 1727,
+      "rate": 71.4
     },
     "insights": {
-      "won": 2010,
-      "lost": 857,
-      "total": 2867,
+      "won": 2026,
+      "lost": 863,
+      "total": 2889,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 50.7
     },
-    "analyses24h": 2833,
-    "analyses30d": 22235
+    "analyses24h": 2815,
+    "analyses30d": 22221
   },
   "recentWins": [
     {
@@ -325,6 +325,12 @@
     {
       "type": "coupon",
       "size": 3,
+      "odds": 1.51,
+      "at": "08.11.2026 10:00"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
       "odds": 1.54,
       "at": "08.11.2026 09:03"
     },
@@ -335,22 +341,10 @@
       "at": "08.11.2026 09:03"
     },
     {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.51,
-      "at": "08.11.2026 08:06"
-    },
-    {
       "type": "updated",
       "at": "08.11.2026 08:41",
       "home": "Hibernian Women",
       "away": ""
-    },
-    {
-      "type": "updated",
-      "at": "08.11.2026 03:56",
-      "home": "Jubilo Iwata",
-      "away": "Shonan Bellmare"
     },
     {
       "type": "updated",
@@ -369,6 +363,12 @@
       "at": "08.11.2026 06:45",
       "home": "JEF United Chiba",
       "away": "Mito HollyHock"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 09:00",
+      "home": "Rizespor",
+      "away": "Erzurumspor FK"
     }
   ],
   "today": {
@@ -380,7 +380,7 @@
     "odds": 3.09,
     "patternScore": 67.17,
     "patternText": "186.393/277.484",
-    "aiScore": 51,
+    "aiScore": 52,
     "picks": 3
   },
   "todayList": [
@@ -393,7 +393,7 @@
       "odds": 3.09,
       "patternScore": 67.17,
       "patternText": "186.393/277.484",
-      "aiScore": 51,
+      "aiScore": 52,
       "picks": 3
     },
     {
@@ -421,18 +421,6 @@
       "picks": 5
     },
     {
-      "home": "Fc Tallinn",
-      "away": "Tallinna Kalev",
-      "league": "EST2",
-      "date": "08.11.2026 10:30",
-      "matchCode": "4450314",
-      "odds": 1.56,
-      "patternScore": 68.0,
-      "patternText": "147.395/216.771",
-      "aiScore": 55,
-      "picks": 3
-    },
-    {
       "home": "Iraklis 1908",
       "away": "Panathinaikos",
       "league": "YUN",
@@ -443,6 +431,18 @@
       "patternText": "268.408/401.774",
       "aiScore": 55,
       "picks": 1
+    },
+    {
+      "home": "AC Monza",
+      "away": "Atalanta",
+      "league": "İTA",
+      "date": "08.11.2026 14:00",
+      "matchCode": "4475146",
+      "odds": 1.51,
+      "patternScore": 67.56,
+      "patternText": "299.693/443.611",
+      "aiScore": 55,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
