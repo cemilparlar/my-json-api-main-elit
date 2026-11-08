@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 04:17",
+  "updatedAt": "08.11.2026 04:24",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 994,
       "rate": 67.9
     },
-    "totalAnalyses": 455969,
+    "totalAnalyses": 455981,
     "leagues": 486,
     "pro": {
       "won": 1205,
@@ -47,8 +47,8 @@
       "total": 139,
       "rate": 49.6
     },
-    "analyses24h": 2853,
-    "analyses30d": 22100
+    "analyses24h": 2844,
+    "analyses30d": 22091
   },
   "recentWins": [
     {
@@ -116,7 +116,7 @@
       "odds": 1.94,
       "probability": 80.0,
       "patternScore": 67.11,
-      "aiScore": 53,
+      "aiScore": 52,
       "firstHalf": "1 - 1",
       "finalScore": "2 - 1",
       "pro": true
@@ -365,18 +365,30 @@
     }
   ],
   "today": {
-    "home": "Not FC Seoul - check data",
-    "away": "Ulsan Hyundai",
-    "league": "GKOR",
-    "date": "08.11.2026 05:00",
-    "matchCode": "4578075",
-    "odds": 1.41,
-    "patternScore": 67.95,
-    "patternText": "224.062/329.760",
-    "aiScore": 58,
-    "picks": 4
+    "home": "Paksi Fc Ii",
+    "away": "Pecs",
+    "league": "MAC3",
+    "date": "08.11.2026 10:00",
+    "matchCode": "4505313",
+    "odds": 1.54,
+    "patternScore": 68.06,
+    "patternText": "258.445/379.724",
+    "aiScore": 55,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Paksi Fc Ii",
+      "away": "Pecs",
+      "league": "MAC3",
+      "date": "08.11.2026 10:00",
+      "matchCode": "4505313",
+      "odds": 1.54,
+      "patternScore": 68.06,
+      "patternText": "258.445/379.724",
+      "aiScore": 55,
+      "picks": 2
+    },
     {
       "home": "Not FC Seoul - check data",
       "away": "Ulsan Hyundai",
@@ -384,10 +396,10 @@
       "date": "08.11.2026 05:00",
       "matchCode": "4578075",
       "odds": 1.41,
-      "patternScore": 67.95,
-      "patternText": "224.062/329.760",
-      "aiScore": 58,
-      "picks": 4
+      "patternScore": 68.18,
+      "patternText": "238.215/349.379",
+      "aiScore": 56,
+      "picks": 3
     },
     {
       "home": "FC Machida Zelvia",
@@ -424,18 +436,6 @@
       "patternText": "157.458/227.865",
       "aiScore": 84,
       "picks": 1
-    },
-    {
-      "home": "Vissel Kobe",
-      "away": "Urawa Red Diamonds",
-      "league": "JAP",
-      "date": "08.11.2026 05:00",
-      "matchCode": "4487266",
-      "odds": 1.27,
-      "patternScore": 68.55,
-      "patternText": "256.520/374.198",
-      "aiScore": 65,
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
