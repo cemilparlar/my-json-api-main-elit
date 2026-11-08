@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 08:55",
+  "updatedAt": "08.11.2026 09:03",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 655,
-      "lost": 309,
-      "total": 964,
-      "rate": 67.9
+      "won": 653,
+      "lost": 308,
+      "total": 961,
+      "rate": 68.0
     },
-    "totalAnalyses": 456526,
+    "totalAnalyses": 456553,
     "leagues": 486,
     "pro": {
       "won": 1226,
@@ -36,9 +36,9 @@
       "rate": 71.5
     },
     "insights": {
-      "won": 2008,
+      "won": 2009,
       "lost": 854,
-      "total": 2862,
+      "total": 2863,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 50.7
     },
-    "analyses24h": 2822,
-    "analyses30d": 22215
+    "analyses24h": 2832,
+    "analyses30d": 22234
   },
   "recentWins": [
     {
@@ -324,20 +324,20 @@
     },
     {
       "type": "coupon",
-      "size": 5,
-      "odds": 1.51,
-      "at": "08.11.2026 08:06"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
-      "odds": 1.51,
-      "at": "08.11.2026 08:06"
-    },
-    {
-      "type": "coupon",
-      "size": 5,
+      "size": 3,
       "odds": 1.54,
+      "at": "08.11.2026 09:03"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.51,
+      "at": "08.11.2026 09:03"
+    },
+    {
+      "type": "coupon",
+      "size": 5,
+      "odds": 1.51,
       "at": "08.11.2026 08:06"
     },
     {
@@ -421,31 +421,45 @@
       "picks": 1
     },
     {
-      "home": "Vasas Ii",
-      "away": "",
-      "league": "MAC3",
-      "date": "08.11.2026 10:00",
-      "matchCode": "4505073",
-      "odds": 1.35,
-      "patternScore": 68.13,
-      "patternText": "226.500/332.437",
-      "aiScore": 59,
-      "picks": 1
+      "home": "KAA Gent",
+      "away": "KV Kortrijk",
+      "league": "BEL",
+      "date": "08.11.2026 15:00",
+      "matchCode": "4480768",
+      "odds": 1.36,
+      "patternScore": 66.94,
+      "patternText": "204.707/305.803",
+      "aiScore": 60,
+      "picks": 3
     },
     {
-      "home": "CD Numancia",
-      "away": "Calvo Sotelo",
-      "league": "İS4",
-      "date": "08.11.2026 11:00",
-      "matchCode": "4495213",
-      "odds": 1.34,
-      "patternScore": 68.3,
-      "patternText": "242.421/354.921",
-      "aiScore": 57,
-      "picks": 2
+      "home": "Wimborne Town",
+      "away": "Crawley Town",
+      "league": "FAK",
+      "date": "08.11.2026 15:00",
+      "matchCode": "4576652",
+      "odds": 1.36,
+      "patternScore": 67.98,
+      "patternText": "255.867/376.380",
+      "aiScore": 55,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Krylya Sovetov",
+      "away": "FC Orenburg",
+      "league": "RUS",
+      "at": "08.11.2026 09:02",
+      "count": 6
+    },
+    {
+      "home": "Rizespor",
+      "away": "Erzurumspor FK",
+      "league": "TSL",
+      "at": "08.11.2026 09:00",
+      "count": 11
+    },
     {
       "home": "Crystal Palace",
       "away": "Liverpool",
@@ -501,20 +515,6 @@
       "league": "İTA",
       "at": "08.11.2026 08:37",
       "count": 8
-    },
-    {
-      "home": "Elche CF",
-      "away": "Real Betis",
-      "league": "İS1",
-      "at": "08.11.2026 08:30",
-      "count": 7
-    },
-    {
-      "home": "FC Twente",
-      "away": "Ajax",
-      "league": "HOL",
-      "at": "08.11.2026 07:56",
-      "count": 18
     }
   ],
   "paywall": {
