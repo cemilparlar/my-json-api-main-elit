@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 08:30",
+  "updatedAt": "08.11.2026 08:38",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 970,
       "rate": 68.1
     },
-    "totalAnalyses": 456431,
+    "totalAnalyses": 456471,
     "leagues": 486,
     "pro": {
       "won": 1226,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 50.7
     },
-    "analyses24h": 2798,
-    "analyses30d": 22185
+    "analyses24h": 2809,
+    "analyses30d": 22196
   },
   "recentWins": [
     {
@@ -379,7 +379,7 @@
     "matchCode": "4534786",
     "odds": 1.73,
     "patternScore": 67.58,
-    "patternText": "258.054/381.872",
+    "patternText": "258.078/381.902",
     "aiScore": 52,
     "picks": 6
   },
@@ -392,21 +392,9 @@
       "matchCode": "4534786",
       "odds": 1.73,
       "patternScore": 67.58,
-      "patternText": "258.054/381.872",
+      "patternText": "258.078/381.902",
       "aiScore": 52,
       "picks": 6
-    },
-    {
-      "home": "Elche CF",
-      "away": "Real Betis",
-      "league": "İS1",
-      "date": "08.11.2026 13:00",
-      "matchCode": "4492371",
-      "odds": 1.46,
-      "patternScore": 67.64,
-      "patternText": "251.470/371.757",
-      "aiScore": 55,
-      "picks": 4
     },
     {
       "home": "Bochum",
@@ -415,8 +403,8 @@
       "date": "08.11.2026 12:30",
       "matchCode": "4495831",
       "odds": 1.45,
-      "patternScore": 66.88,
-      "patternText": "192.672/288.067",
+      "patternScore": 66.89,
+      "patternText": "192.688/288.085",
       "aiScore": 56,
       "picks": 5
     },
@@ -427,8 +415,8 @@
       "date": "08.11.2026 13:30",
       "matchCode": "4504136",
       "odds": 1.37,
-      "patternScore": 68.47,
-      "patternText": "258.492/377.503",
+      "patternScore": 68.48,
+      "patternText": "258.516/377.533",
       "aiScore": 61,
       "picks": 1
     },
@@ -440,12 +428,45 @@
       "matchCode": "4481106",
       "odds": 1.36,
       "patternScore": 67.07,
-      "patternText": "295.321/440.333",
+      "patternText": "295.345/440.363",
       "aiScore": 57,
+      "picks": 3
+    },
+    {
+      "home": "Vaxjo Women",
+      "away": "Norrkoping Women",
+      "league": "İSÇKA",
+      "date": "08.11.2026 14:00",
+      "matchCode": "4427246",
+      "odds": 1.36,
+      "patternScore": 68.02,
+      "patternText": "259.772/381.894",
+      "aiScore": 63,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "league": "İNP",
+      "at": "08.11.2026 08:38",
+      "count": 3
+    },
+    {
+      "home": "Stade Rennais",
+      "away": "LOSC Lille",
+      "league": "FR1",
+      "at": "08.11.2026 08:38",
+      "count": 6
+    },
+    {
+      "home": "AC Monza",
+      "away": "Atalanta",
+      "league": "İTA",
+      "at": "08.11.2026 08:37",
+      "count": 8
+    },
     {
       "home": "Elche CF",
       "away": "Real Betis",
@@ -494,27 +515,6 @@
       "league": "HOL",
       "at": "08.11.2026 05:38",
       "count": 18
-    },
-    {
-      "home": "Krylya Sovetov",
-      "away": "FC Orenburg",
-      "league": "RUS",
-      "at": "08.11.2026 05:30",
-      "count": 7
-    },
-    {
-      "home": "Rizespor",
-      "away": "Erzurumspor FK",
-      "league": "TSL",
-      "at": "08.11.2026 04:36",
-      "count": 6
-    },
-    {
-      "home": "FC Dallas",
-      "away": "Colorado Rapids",
-      "league": "ABD",
-      "at": "07.11.2026 23:27",
-      "count": 6
     }
   ],
   "paywall": {
