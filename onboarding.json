@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 17:22",
+  "updatedAt": "08.11.2026 17:30",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 582,
-      "lost": 278,
-      "total": 860,
-      "rate": 67.7
+      "won": 606,
+      "lost": 294,
+      "total": 900,
+      "rate": 67.3
     },
-    "totalAnalyses": 457672,
+    "totalAnalyses": 457679,
     "leagues": 483,
     "pro": {
-      "won": 1154,
-      "lost": 464,
-      "total": 1618,
-      "rate": 71.3
+      "won": 1168,
+      "lost": 473,
+      "total": 1641,
+      "rate": 71.2
     },
     "insights": {
-      "won": 1943,
-      "lost": 806,
-      "total": 2749,
-      "rate": 70.7
+      "won": 1967,
+      "lost": 822,
+      "total": 2789,
+      "rate": 70.5
     },
     "coupons": {
       "won": 77,
@@ -47,8 +47,8 @@
       "total": 154,
       "rate": 50.0
     },
-    "analyses24h": 1903,
-    "analyses30d": 22150
+    "analyses24h": 1880,
+    "analyses30d": 22147
   },
   "recentWins": [
     {
@@ -341,54 +341,42 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 11:28",
-      "home": "Umraniyespor",
-      "away": "Kayserispor"
-    },
-    {
-      "type": "updated",
       "at": "08.11.2026 12:17",
       "home": "Boluspor",
       "away": "Bodrum FK"
     },
     {
       "type": "updated",
-      "at": "08.11.2026 11:27",
-      "home": "Moss",
-      "away": "Ranheim"
+      "at": "08.11.2026 12:14",
+      "home": "Al Nasr Dubai",
+      "away": "Dubai United"
     },
     {
       "type": "updated",
-      "at": "08.11.2026 11:23",
-      "home": "Raufoss",
-      "away": "Egersund IK"
+      "at": "08.11.2026 12:17",
+      "home": "Elche CF",
+      "away": "Real Betis"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 12:14",
+      "home": "FC St Gallen",
+      "away": "FC Lugano"
     }
   ],
   "today": {
-    "home": "FAR Rabat",
-    "away": "Difaa",
-    "league": "FAS",
-    "date": "08.11.2026 18:00",
-    "matchCode": "4576943",
-    "odds": 1.72,
-    "patternScore": 67.58,
-    "patternText": "169.875/251.380",
-    "aiScore": 53,
+    "home": "Lech Poznan",
+    "away": "Zaglebie Lubin",
+    "league": "POL",
+    "date": "08.11.2026 19:15",
+    "matchCode": "4484412",
+    "odds": 1.41,
+    "patternScore": 67.64,
+    "patternText": "266.281/393.702",
+    "aiScore": 57,
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "FAR Rabat",
-      "away": "Difaa",
-      "league": "FAS",
-      "date": "08.11.2026 18:00",
-      "matchCode": "4576943",
-      "odds": 1.72,
-      "patternScore": 67.58,
-      "patternText": "169.875/251.380",
-      "aiScore": 53,
-      "picks": 2
-    },
     {
       "home": "Lech Poznan",
       "away": "Zaglebie Lubin",
@@ -426,25 +414,44 @@
       "picks": 4
     },
     {
-      "home": "Vasas",
-      "away": "Ferencvaros",
-      "league": "MAC",
-      "date": "08.11.2026 18:00",
-      "matchCode": "4484677",
-      "odds": 1.35,
-      "patternScore": 68.39,
-      "patternText": "160.050/234.023",
-      "aiScore": 57,
-      "picks": 3
+      "home": "LR Vicenza",
+      "away": "US Cremonese",
+      "league": "İTB",
+      "date": "08.11.2026 18:30",
+      "matchCode": "4534782",
+      "odds": 1.26,
+      "patternScore": 67.81,
+      "patternText": "288.704/425.744",
+      "aiScore": 61,
+      "picks": 2
+    },
+    {
+      "home": "Sociedad Deportiva Aucas",
+      "away": "Indep. Jose Ter",
+      "league": "EKV1",
+      "date": "08.11.2026 18:45",
+      "matchCode": "4563406",
+      "odds": 1.22,
+      "patternScore": 67.92,
+      "patternText": "276.251/406.734",
+      "aiScore": 66,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "RC Lens",
+      "away": "Marseille",
+      "league": "FR1",
+      "at": "08.11.2026 17:28",
+      "count": 6
+    },
+    {
       "home": "Vitoria Guimaraes",
       "away": "FC Porto",
       "league": "POR",
-      "at": "08.11.2026 17:10",
-      "count": 14
+      "at": "08.11.2026 17:28",
+      "count": 17
     },
     {
       "home": "ACF Fiorentina",
@@ -459,13 +466,6 @@
       "league": "İS1",
       "at": "08.11.2026 16:58",
       "count": 18
-    },
-    {
-      "home": "RC Lens",
-      "away": "Marseille",
-      "league": "FR1",
-      "at": "08.11.2026 16:57",
-      "count": 8
     },
     {
       "home": "TSG Hoffenheim",
