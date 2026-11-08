@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 16:39",
+  "updatedAt": "08.11.2026 16:47",
   "config": {
     "pages": [
       "engine",
@@ -30,16 +30,16 @@
     "totalAnalyses": 457633,
     "leagues": 485,
     "pro": {
-      "won": 1146,
-      "lost": 462,
-      "total": 1608,
+      "won": 1144,
+      "lost": 461,
+      "total": 1605,
       "rate": 71.3
     },
     "insights": {
-      "won": 1937,
-      "lost": 801,
-      "total": 2738,
-      "rate": 70.7
+      "won": 1935,
+      "lost": 799,
+      "total": 2734,
+      "rate": 70.8
     },
     "coupons": {
       "won": 77,
@@ -47,8 +47,8 @@
       "total": 155,
       "rate": 49.7
     },
-    "analyses24h": 1959,
-    "analyses30d": 22174
+    "analyses24h": 1947,
+    "analyses30d": 22162
   },
   "recentWins": [
     {
@@ -80,6 +80,20 @@
       "pro": true
     },
     {
+      "home": "London City Women",
+      "away": "Birmingham City",
+      "league": "İNKPL",
+      "date": "08.11.2026 14:30",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 2.19,
+      "probability": 83.33333333333334,
+      "patternScore": 67.28,
+      "aiScore": 51,
+      "firstHalf": "2 - 0",
+      "finalScore": "4 - 1",
+      "pro": true
+    },
+    {
       "home": "Paris Saint-Germain",
       "away": "ESTAC Troyes",
       "league": "FR1",
@@ -106,20 +120,6 @@
       "firstHalf": "0 - 0",
       "finalScore": "1 - 1",
       "pro": true
-    },
-    {
-      "home": "OB Odense",
-      "away": "Viborg FF",
-      "league": "DAN",
-      "date": "07.11.2026 17:00",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.97,
-      "probability": 100.0,
-      "patternScore": 57.57,
-      "aiScore": 51,
-      "firstHalf": "0 - 2",
-      "finalScore": "1 - 2",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -301,19 +301,19 @@
     },
     {
       "type": "won",
+      "home": "London City Women",
+      "away": "Birmingham City",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 2.19,
+      "at": "08.11.2026 14:30"
+    },
+    {
+      "type": "won",
       "home": "Paris Saint-Germain",
       "away": "ESTAC Troyes",
       "prediction": "Handicap (0:2) 2",
       "odds": 2.12,
       "at": "07.11.2026 19:45"
-    },
-    {
-      "type": "won",
-      "home": "Torino FC",
-      "away": "US Lecce",
-      "prediction": "1st Half Result X",
-      "odds": 2.1,
-      "at": "07.11.2026 14:00"
     },
     {
       "type": "coupon",
@@ -359,24 +359,48 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 10:46",
-      "home": "SSC Napoli",
-      "away": "SS Lazio"
+      "at": "08.11.2026 10:47",
+      "home": "Neman Grodno",
+      "away": "Dnepr Mogilev"
     }
   ],
   "today": {
-    "home": "Lech Poznan",
-    "away": "Zaglebie Lubin",
-    "league": "POL",
-    "date": "08.11.2026 19:15",
-    "matchCode": "4484412",
-    "odds": 1.41,
-    "patternScore": 67.63,
-    "patternText": "265.997/393.294",
-    "aiScore": 57,
-    "picks": 2
+    "home": "Villarreal CF",
+    "away": "Getafe CF",
+    "league": "İS1",
+    "date": "08.11.2026 17:30",
+    "matchCode": "4492378",
+    "odds": 1.76,
+    "patternScore": 66.83,
+    "patternText": "261.293/390.955",
+    "aiScore": 52,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Villarreal CF",
+      "away": "Getafe CF",
+      "league": "İS1",
+      "date": "08.11.2026 17:30",
+      "matchCode": "4492378",
+      "odds": 1.76,
+      "patternScore": 66.83,
+      "patternText": "261.293/390.955",
+      "aiScore": 52,
+      "picks": 3
+    },
+    {
+      "home": "TSG Hoffenheim",
+      "away": "FC Schalke 04",
+      "league": "AL1",
+      "date": "08.11.2026 18:30",
+      "matchCode": "4495506",
+      "odds": 1.54,
+      "patternScore": 68.03,
+      "patternText": "279.019/410.167",
+      "aiScore": 54,
+      "picks": 5
+    },
     {
       "home": "Lech Poznan",
       "away": "Zaglebie Lubin",
@@ -385,7 +409,7 @@
       "matchCode": "4484412",
       "odds": 1.41,
       "patternScore": 67.63,
-      "patternText": "265.997/393.294",
+      "patternText": "266.057/393.392",
       "aiScore": 57,
       "picks": 2
     },
@@ -396,9 +420,9 @@
       "date": "08.11.2026 20:30",
       "matchCode": "4517050",
       "odds": 1.37,
-      "patternScore": 66.86,
-      "patternText": "165.200/247.089",
-      "aiScore": 57,
+      "patternScore": 66.87,
+      "patternText": "165.312/247.227",
+      "aiScore": 56,
       "picks": 5
     },
     {
@@ -408,34 +432,10 @@
       "date": "08.11.2026 17:45",
       "matchCode": "4485914",
       "odds": 1.37,
-      "patternScore": 67.37,
-      "patternText": "201.555/299.171",
+      "patternScore": 67.38,
+      "patternText": "201.663/299.305",
       "aiScore": 61,
       "picks": 4
-    },
-    {
-      "home": "Vasas",
-      "away": "Ferencvaros",
-      "league": "MAC",
-      "date": "08.11.2026 18:00",
-      "matchCode": "4484677",
-      "odds": 1.35,
-      "patternScore": 68.39,
-      "patternText": "159.854/233.727",
-      "aiScore": 57,
-      "picks": 3
-    },
-    {
-      "home": "Union St.G",
-      "away": "KRC Genk",
-      "league": "BEL",
-      "date": "08.11.2026 17:30",
-      "matchCode": "4480770",
-      "odds": 1.32,
-      "patternScore": 67.15,
-      "patternText": "186.406/277.585",
-      "aiScore": 64,
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
