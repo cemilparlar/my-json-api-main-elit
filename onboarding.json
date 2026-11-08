@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 05:20",
+  "updatedAt": "08.11.2026 05:28",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 942,
       "rate": 67.5
     },
-    "totalAnalyses": 456062,
+    "totalAnalyses": 456070,
     "leagues": 486,
     "pro": {
       "won": 1202,
@@ -47,8 +47,8 @@
       "total": 141,
       "rate": 50.4
     },
-    "analyses24h": 2812,
-    "analyses30d": 22119
+    "analyses24h": 2801,
+    "analyses30d": 22108
   },
   "recentWins": [
     {
@@ -102,7 +102,7 @@
       "odds": 1.97,
       "probability": 100.0,
       "patternScore": 57.57,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
       "pro": false
@@ -358,7 +358,7 @@
     "matchCode": "4487264",
     "odds": 2.09,
     "patternScore": 67.63,
-    "patternText": "214.046/316.481",
+    "patternText": "214.058/316.505",
     "aiScore": 52,
     "picks": 6
   },
@@ -371,7 +371,7 @@
       "matchCode": "4487264",
       "odds": 2.09,
       "patternScore": 67.63,
-      "patternText": "214.046/316.481",
+      "patternText": "214.058/316.505",
       "aiScore": 52,
       "picks": 6
     },
@@ -383,21 +383,9 @@
       "matchCode": "4546757",
       "odds": 1.43,
       "patternScore": 67.84,
-      "patternText": "226.305/333.567",
+      "patternText": "226.317/333.591",
       "aiScore": 56,
       "picks": 4
-    },
-    {
-      "home": "Gangwon FC",
-      "away": "Jeonbuk Hm",
-      "league": "GKOR",
-      "date": "08.11.2026 07:30",
-      "matchCode": "4578076",
-      "odds": 1.31,
-      "patternScore": 68.36,
-      "patternText": "240.620/351.981",
-      "aiScore": 61,
-      "picks": 3
     },
     {
       "home": "Pss Sleman",
@@ -406,8 +394,8 @@
       "date": "08.11.2026 08:30",
       "matchCode": "4550396",
       "odds": 1.29,
-      "patternScore": 67.9,
-      "patternText": "213.742/314.810",
+      "patternScore": 67.89,
+      "patternText": "213.754/314.834",
       "aiScore": 62,
       "picks": 2
     },
@@ -419,8 +407,20 @@
       "matchCode": "4487658",
       "odds": 1.28,
       "patternScore": 68.73,
-      "patternText": "231.477/336.797",
+      "patternText": "231.489/336.821",
       "aiScore": 75,
+      "picks": 1
+    },
+    {
+      "home": "Bali United",
+      "away": "Persik Kediri",
+      "league": "ENDL1",
+      "date": "08.11.2026 08:30",
+      "matchCode": "4550397",
+      "odds": 1.28,
+      "patternScore": 68.48,
+      "patternText": "213.664/312.032",
+      "aiScore": 60,
       "picks": 1
     }
   ],
