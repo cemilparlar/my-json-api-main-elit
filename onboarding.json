@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 17:14",
+  "updatedAt": "08.11.2026 17:22",
   "config": {
     "pages": [
       "engine",
@@ -22,32 +22,32 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 586,
-      "lost": 280,
-      "total": 866,
+      "won": 582,
+      "lost": 278,
+      "total": 860,
       "rate": 67.7
     },
     "totalAnalyses": 457672,
     "leagues": 483,
     "pro": {
-      "won": 1158,
-      "lost": 465,
-      "total": 1623,
+      "won": 1154,
+      "lost": 464,
+      "total": 1618,
       "rate": 71.3
     },
     "insights": {
-      "won": 1947,
-      "lost": 807,
-      "total": 2754,
+      "won": 1943,
+      "lost": 806,
+      "total": 2749,
       "rate": 70.7
     },
     "coupons": {
       "won": 77,
-      "lost": 78,
-      "total": 155,
-      "rate": 49.7
+      "lost": 77,
+      "total": 154,
+      "rate": 50.0
     },
-    "analyses24h": 1909,
+    "analyses24h": 1903,
     "analyses30d": 22150
   },
   "recentWins": [
@@ -365,18 +365,30 @@
     }
   ],
   "today": {
-    "home": "Lech Poznan",
-    "away": "Zaglebie Lubin",
-    "league": "POL",
-    "date": "08.11.2026 19:15",
-    "matchCode": "4484412",
-    "odds": 1.41,
-    "patternScore": 67.63,
-    "patternText": "266.221/393.640",
-    "aiScore": 57,
+    "home": "FAR Rabat",
+    "away": "Difaa",
+    "league": "FAS",
+    "date": "08.11.2026 18:00",
+    "matchCode": "4576943",
+    "odds": 1.72,
+    "patternScore": 67.58,
+    "patternText": "169.875/251.380",
+    "aiScore": 53,
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "FAR Rabat",
+      "away": "Difaa",
+      "league": "FAS",
+      "date": "08.11.2026 18:00",
+      "matchCode": "4576943",
+      "odds": 1.72,
+      "patternScore": 67.58,
+      "patternText": "169.875/251.380",
+      "aiScore": 53,
+      "picks": 2
+    },
     {
       "home": "Lech Poznan",
       "away": "Zaglebie Lubin",
@@ -384,8 +396,8 @@
       "date": "08.11.2026 19:15",
       "matchCode": "4484412",
       "odds": 1.41,
-      "patternScore": 67.63,
-      "patternText": "266.221/393.640",
+      "patternScore": 67.64,
+      "patternText": "266.281/393.702",
       "aiScore": 57,
       "picks": 2
     },
@@ -397,21 +409,9 @@
       "matchCode": "4517050",
       "odds": 1.37,
       "patternScore": 66.86,
-      "patternText": "165.448/247.459",
+      "patternText": "165.476/247.489",
       "aiScore": 56,
       "picks": 5
-    },
-    {
-      "home": "Baltika Kalini",
-      "away": "FC Makhachkala",
-      "league": "RUS",
-      "date": "08.11.2026 17:45",
-      "matchCode": "4485914",
-      "odds": 1.37,
-      "patternScore": 67.37,
-      "patternText": "201.811/299.545",
-      "aiScore": 60,
-      "picks": 4
     },
     {
       "home": "TSG Hoffenheim",
@@ -420,8 +420,8 @@
       "date": "08.11.2026 18:30",
       "matchCode": "4495506",
       "odds": 1.37,
-      "patternScore": 66.65,
-      "patternText": "194.813/292.276",
+      "patternScore": 66.66,
+      "patternText": "194.841/292.306",
       "aiScore": 55,
       "picks": 4
     },
@@ -433,7 +433,7 @@
       "matchCode": "4484677",
       "odds": 1.35,
       "patternScore": 68.39,
-      "patternText": "160.022/233.993",
+      "patternText": "160.050/234.023",
       "aiScore": 57,
       "picks": 3
     }
