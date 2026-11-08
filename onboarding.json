@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 15:50",
+  "updatedAt": "08.11.2026 16:00",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 548,
-      "lost": 258,
-      "total": 806,
+      "won": 562,
+      "lost": 265,
+      "total": 827,
       "rate": 68.0
     },
-    "totalAnalyses": 457559,
+    "totalAnalyses": 457598,
     "leagues": 485,
     "pro": {
-      "won": 1154,
-      "lost": 455,
-      "total": 1609,
-      "rate": 71.7
+      "won": 1162,
+      "lost": 461,
+      "total": 1623,
+      "rate": 71.6
     },
     "insights": {
-      "won": 1955,
-      "lost": 797,
-      "total": 2752,
+      "won": 1966,
+      "lost": 803,
+      "total": 2769,
       "rate": 71.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 155,
       "rate": 49.7
     },
-    "analyses24h": 2000,
-    "analyses30d": 22165
+    "analyses24h": 1980,
+    "analyses30d": 22149
   },
   "recentWins": [
     {
@@ -318,6 +318,12 @@
     {
       "type": "coupon",
       "size": 3,
+      "odds": 1.52,
+      "at": "08.11.2026 16:00"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
       "odds": 1.51,
       "at": "08.11.2026 15:05"
     },
@@ -326,12 +332,6 @@
       "size": 3,
       "odds": 1.51,
       "at": "08.11.2026 10:00"
-    },
-    {
-      "type": "coupon",
-      "size": 3,
-      "odds": 1.54,
-      "at": "08.11.2026 09:03"
     },
     {
       "type": "updated",
@@ -372,7 +372,7 @@
     "matchCode": "4484412",
     "odds": 1.41,
     "patternScore": 67.64,
-    "patternText": "265.739/392.894",
+    "patternText": "265.745/392.900",
     "aiScore": 57,
     "picks": 2
   },
@@ -385,7 +385,7 @@
       "matchCode": "4484412",
       "odds": 1.41,
       "patternScore": 67.64,
-      "patternText": "265.739/392.894",
+      "patternText": "265.745/392.900",
       "aiScore": 57,
       "picks": 2
     },
@@ -397,7 +397,7 @@
       "matchCode": "4517050",
       "odds": 1.37,
       "patternScore": 66.85,
-      "patternText": "165.002/246.833",
+      "patternText": "165.004/246.835",
       "aiScore": 56,
       "picks": 5
     },
@@ -409,7 +409,7 @@
       "matchCode": "4485914",
       "odds": 1.37,
       "patternScore": 67.36,
-      "patternText": "201.345/298.891",
+      "patternText": "201.347/298.893",
       "aiScore": 60,
       "picks": 4
     },
@@ -421,7 +421,7 @@
       "matchCode": "4538732",
       "odds": 1.35,
       "patternScore": 67.83,
-      "patternText": "264.028/389.226",
+      "patternText": "264.034/389.232",
       "aiScore": 58,
       "picks": 1
     },
@@ -433,12 +433,47 @@
       "matchCode": "4484677",
       "odds": 1.35,
       "patternScore": 68.39,
-      "patternText": "159.712/233.535",
+      "patternText": "159.714/233.537",
       "aiScore": 57,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Celta de Vigo",
+      "away": "Levante UD",
+      "league": "İS1",
+      "at": "08.11.2026 15:56",
+      "count": 8
+    },
+    {
+      "home": "Union St.G",
+      "away": "KRC Genk",
+      "league": "BEL",
+      "at": "08.11.2026 15:56",
+      "count": 8
+    },
+    {
+      "home": "Inter",
+      "away": "Como 1907",
+      "league": "İTA",
+      "at": "08.11.2026 15:55",
+      "count": 2
+    },
+    {
+      "home": "Manchester United",
+      "away": "Aston Villa",
+      "league": "İNP",
+      "at": "08.11.2026 15:54",
+      "count": 10
+    },
+    {
+      "home": "SC Freiburg",
+      "away": "Union Berlin",
+      "league": "AL1",
+      "at": "08.11.2026 15:54",
+      "count": 5
+    },
     {
       "home": "Villarreal CF",
       "away": "Getafe CF",
@@ -447,32 +482,11 @@
       "count": 3
     },
     {
-      "home": "Inter",
-      "away": "Como 1907",
-      "league": "İTA",
-      "at": "08.11.2026 15:40",
-      "count": 5
-    },
-    {
       "home": "Le Mans FC",
       "away": "AS Monaco",
       "league": "FR1",
       "at": "08.11.2026 15:39",
       "count": 6
-    },
-    {
-      "home": "Manchester United",
-      "away": "Aston Villa",
-      "league": "İNP",
-      "at": "08.11.2026 15:39",
-      "count": 6
-    },
-    {
-      "home": "SC Freiburg",
-      "away": "Union Berlin",
-      "league": "AL1",
-      "at": "08.11.2026 15:39",
-      "count": 5
     },
     {
       "home": "Le Havre AC",
@@ -494,20 +508,6 @@
       "league": "AL1",
       "at": "08.11.2026 15:13",
       "count": 2
-    },
-    {
-      "home": "Sporting Gijon",
-      "away": "Real Valladolid",
-      "league": "İS2",
-      "at": "08.11.2026 15:11",
-      "count": 2
-    },
-    {
-      "home": "CD Santa Clara",
-      "away": "Gil Vicente FC",
-      "league": "POR",
-      "at": "08.11.2026 14:48",
-      "count": 6
     }
   ],
   "paywall": {
