@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 07:17",
+  "updatedAt": "08.11.2026 07:26",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 654,
+      "won": 656,
       "lost": 309,
-      "total": 963,
-      "rate": 67.9
+      "total": 965,
+      "rate": 68.0
     },
-    "totalAnalyses": 456315,
+    "totalAnalyses": 456322,
     "leagues": 486,
     "pro": {
       "won": 1223,
@@ -36,19 +36,19 @@
       "rate": 71.5
     },
     "insights": {
-      "won": 1999,
+      "won": 2000,
       "lost": 858,
-      "total": 2857,
+      "total": 2858,
       "rate": 70.0
     },
     "coupons": {
       "won": 69,
-      "lost": 72,
-      "total": 141,
-      "rate": 48.9
+      "lost": 71,
+      "total": 140,
+      "rate": 49.3
     },
-    "analyses24h": 2820,
-    "analyses30d": 22186
+    "analyses24h": 2815,
+    "analyses30d": 22181
   },
   "recentWins": [
     {
@@ -351,30 +351,18 @@
     }
   ],
   "today": {
-    "home": "FC Norderstedt",
-    "away": "Drochtersen Ass",
-    "league": "ALMBÖL",
-    "date": "08.11.2026 13:00",
-    "matchCode": "4506730",
-    "odds": 1.54,
-    "patternScore": 67.48,
-    "patternText": "248.395/368.089",
-    "aiScore": 54,
-    "picks": 1
+    "home": "Fk Tukums 2000",
+    "away": "Auda",
+    "league": "LET",
+    "date": "08.11.2026 11:00",
+    "matchCode": "4446809",
+    "odds": 1.49,
+    "patternScore": 66.82,
+    "patternText": "187.381/280.417",
+    "aiScore": 56,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "FC Norderstedt",
-      "away": "Drochtersen Ass",
-      "league": "ALMBÖL",
-      "date": "08.11.2026 13:00",
-      "matchCode": "4506730",
-      "odds": 1.54,
-      "patternScore": 67.48,
-      "patternText": "248.395/368.089",
-      "aiScore": 54,
-      "picks": 1
-    },
     {
       "home": "Fk Tukums 2000",
       "away": "Auda",
@@ -383,7 +371,7 @@
       "matchCode": "4446809",
       "odds": 1.49,
       "patternScore": 66.82,
-      "patternText": "187.325/280.323",
+      "patternText": "187.381/280.417",
       "aiScore": 56,
       "picks": 2
     },
@@ -393,11 +381,11 @@
       "league": "İS1",
       "date": "08.11.2026 13:00",
       "matchCode": "4492371",
-      "odds": 1.47,
-      "patternScore": 67.11,
-      "patternText": "187.600/279.537",
-      "aiScore": 58,
-      "picks": 5
+      "odds": 1.46,
+      "patternScore": 67.65,
+      "patternText": "251.404/371.643",
+      "aiScore": 55,
+      "picks": 4
     },
     {
       "home": "Bochum",
@@ -407,7 +395,7 @@
       "matchCode": "4495831",
       "odds": 1.45,
       "patternScore": 66.88,
-      "patternText": "192.574/287.923",
+      "patternText": "192.630/288.017",
       "aiScore": 56,
       "picks": 5
     },
@@ -419,12 +407,31 @@
       "matchCode": "4505073",
       "odds": 1.35,
       "patternScore": 68.13,
-      "patternText": "226.322/332.197",
+      "patternText": "226.442/332.349",
+      "aiScore": 59,
+      "picks": 1
+    },
+    {
+      "home": "FK Banga",
+      "away": "Zalgiris Vilniu",
+      "league": "LITA",
+      "date": "08.11.2026 12:15",
+      "matchCode": "4477545",
+      "odds": 1.32,
+      "patternScore": 68.18,
+      "patternText": "231.741/339.873",
       "aiScore": 59,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SSC Napoli",
+      "away": "SS Lazio",
+      "league": "İTA",
+      "at": "08.11.2026 07:21",
+      "count": 5
+    },
     {
       "home": "Umraniyespor",
       "away": "Kayserispor",
@@ -452,13 +459,6 @@
       "league": "AL2",
       "at": "08.11.2026 07:07",
       "count": 8
-    },
-    {
-      "home": "SSC Napoli",
-      "away": "SS Lazio",
-      "league": "İTA",
-      "at": "08.11.2026 06:47",
-      "count": 4
     },
     {
       "home": "SC Heerenveen",
