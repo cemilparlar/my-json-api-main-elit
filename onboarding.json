@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 03:29",
+  "updatedAt": "08.11.2026 03:36",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 686,
+      "won": 688,
       "lost": 325,
-      "total": 1011,
+      "total": 1013,
       "rate": 67.9
     },
-    "totalAnalyses": 455934,
+    "totalAnalyses": 455939,
     "leagues": 486,
     "pro": {
-      "won": 1208,
+      "won": 1209,
       "lost": 484,
-      "total": 1692,
+      "total": 1693,
       "rate": 71.4
     },
     "insights": {
-      "won": 1982,
+      "won": 1983,
       "lost": 855,
-      "total": 2837,
+      "total": 2838,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 139,
       "rate": 49.6
     },
-    "analyses24h": 2878,
-    "analyses30d": 22098
+    "analyses24h": 2877,
+    "analyses30d": 22097
   },
   "recentWins": [
     {
@@ -347,21 +347,21 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 02:58",
+      "at": "08.11.2026 03:36",
       "home": "Vissel Kobe",
       "away": "Urawa Red Diamonds"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 03:36",
+      "home": "FC Machida Zelvia",
+      "away": "Sanfrecce Hiroshima"
     },
     {
       "type": "updated",
       "at": "08.11.2026 01:45",
       "home": "Vegalta Sendai",
       "away": "Kofu"
-    },
-    {
-      "type": "updated",
-      "at": "08.11.2026 01:23",
-      "home": "Gamba Osaka",
-      "away": "Cerezo Osaka"
     }
   ],
   "today": {
@@ -414,28 +414,28 @@
       "picks": 2
     },
     {
-      "home": "Avondale Heigh",
-      "away": "Adelaide City FC",
-      "league": "AVC",
-      "date": "08.11.2026 04:00",
-      "matchCode": "4573643",
-      "odds": 1.28,
-      "patternScore": 68.35,
-      "patternText": "216.895/317.353",
-      "aiScore": 61,
-      "picks": 3
+      "home": "Vegalta Sendai",
+      "away": "Kofu",
+      "league": "JAP2",
+      "date": "08.11.2026 06:00",
+      "matchCode": "4487658",
+      "odds": 1.27,
+      "patternScore": 69.1,
+      "patternText": "157.454/227.861",
+      "aiScore": 84,
+      "picks": 1
     },
     {
-      "home": "Macarthur FC",
-      "away": "Brisbane Roar",
-      "league": "AVUS",
-      "date": "08.11.2026 04:00",
-      "matchCode": "4546756",
-      "odds": 1.28,
-      "patternScore": 67.93,
-      "patternText": "228.731/336.731",
-      "aiScore": 62,
-      "picks": 3
+      "home": "Vissel Kobe",
+      "away": "Urawa Red Diamonds",
+      "league": "JAP",
+      "date": "08.11.2026 05:00",
+      "matchCode": "4487266",
+      "odds": 1.25,
+      "patternScore": 68.85,
+      "patternText": "248.710/361.238",
+      "aiScore": 66,
+      "picks": 7
     }
   ],
   "recentAnalyzed": [
