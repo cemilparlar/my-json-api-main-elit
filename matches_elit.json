@@ -627,7 +627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "08.11.2026 16:30",
@@ -1977,7 +1977,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "07.11.2026 17:00",
@@ -2217,7 +2217,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "07.11.2026 17:45",
@@ -11487,7 +11487,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 07:30",
@@ -13587,7 +13587,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "08.11.2026 11:00",
@@ -13692,7 +13692,7 @@
         "odds": "1.15",
         "matchCount": "105",
         "matchLink": "4495211",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "0-1",
         "predictedScoreText": "18/105",
         "mbs": 3,
@@ -14817,7 +14817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "08.11.2026 11:00",
@@ -15507,7 +15507,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 62
+        "aiScore": 61
     },
     {
         "date": "08.11.2026 12:15",
@@ -16557,7 +16557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "08.11.2026 16:00",
@@ -24870,36 +24870,6 @@
         "aiScore": 53
     },
     {
-        "date": "09.11.2026 02:00",
-        "league": "MEK",
-        "matchCode": "4476494",
-        "home": "Club Leon",
-        "away": "Club Deportivo Guadalajara",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "72.5",
-        "odds": "1.27",
-        "matchCount": "120",
-        "matchLink": "4476494",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/120",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "08.11.2026 20:17",
-        "patternScore": 68.69,
-        "patternText": "174.857/254.570",
-        "patternInfo": {
-            "m": 46,
-            "s": 1,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 61
-    },
-    {
         "date": "08.11.2026 23:00",
         "league": "PER",
         "matchCode": "4501923",
@@ -24958,5 +24928,65 @@
             "b": 100.0
         },
         "aiScore": 65
+    },
+    {
+        "date": "09.11.2026 02:00",
+        "league": "MEK",
+        "matchCode": "4476494",
+        "home": "Club Leon",
+        "away": "Club Deportivo Guadalajara",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.93",
+        "odds": "1.11",
+        "matchCount": "108",
+        "matchLink": "4476494",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "12/108",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "08.11.2026 22:45",
+        "patternScore": 70.63,
+        "patternText": "231.360/327.582",
+        "patternInfo": {
+            "m": 60,
+            "s": 5,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 84
+    },
+    {
+        "date": "09.11.2026 02:00",
+        "league": "MEK",
+        "matchCode": "4476494",
+        "home": "Club Leon",
+        "away": "Club Deportivo Guadalajara",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "71.3",
+        "odds": "1.14",
+        "matchCount": "108",
+        "matchLink": "4476494",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "12/108",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "08.11.2026 22:45",
+        "patternScore": 68.99,
+        "patternText": "178.834/259.200",
+        "patternInfo": {
+            "m": 57,
+            "s": 7,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 70
     }
 ]
