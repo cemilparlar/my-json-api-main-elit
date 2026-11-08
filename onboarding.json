@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 14:37",
+  "updatedAt": "08.11.2026 14:46",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 569,
-      "lost": 261,
-      "total": 830,
-      "rate": 68.6
+      "won": 578,
+      "lost": 269,
+      "total": 847,
+      "rate": 68.2
     },
-    "totalAnalyses": 457468,
+    "totalAnalyses": 457472,
     "leagues": 485,
     "pro": {
-      "won": 1150,
-      "lost": 457,
-      "total": 1607,
+      "won": 1154,
+      "lost": 458,
+      "total": 1612,
       "rate": 71.6
     },
     "insights": {
-      "won": 1930,
-      "lost": 795,
-      "total": 2725,
-      "rate": 70.8
+      "won": 1939,
+      "lost": 803,
+      "total": 2742,
+      "rate": 70.7
     },
     "coupons": {
       "won": 79,
@@ -47,8 +47,8 @@
       "total": 156,
       "rate": 50.6
     },
-    "analyses24h": 2364,
-    "analyses30d": 22234
+    "analyses24h": 2361,
+    "analyses30d": 22228
   },
   "recentWins": [
     {
@@ -335,12 +335,6 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 08:41",
-      "home": "Hibernian Women",
-      "away": ""
-    },
-    {
-      "type": "updated",
       "at": "08.11.2026 09:00",
       "home": "Rizespor",
       "away": "Erzurumspor FK"
@@ -362,6 +356,12 @@
       "at": "08.11.2026 12:17",
       "home": "Boluspor",
       "away": "Bodrum FK"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 11:02",
+      "home": "Alanyaspor",
+      "away": "Trabzonspor"
     }
   ],
   "today": {
@@ -402,6 +402,18 @@
       "picks": 8
     },
     {
+      "home": "Villarreal CF",
+      "away": "Getafe CF",
+      "league": "İS1",
+      "date": "08.11.2026 17:30",
+      "matchCode": "4492378",
+      "odds": 1.76,
+      "patternScore": 66.82,
+      "patternText": "260.465/389.773",
+      "aiScore": 52,
+      "picks": 3
+    },
+    {
       "home": "TSG Hoffenheim",
       "away": "FC Schalke 04",
       "league": "AL1",
@@ -424,18 +436,6 @@
       "patternText": "114.336/170.634",
       "aiScore": 59,
       "picks": 7
-    },
-    {
-      "home": "Al Akhdoud",
-      "away": "Al Jabalain",
-      "league": "SUUD1",
-      "date": "08.11.2026 15:20",
-      "matchCode": "4538731",
-      "odds": 1.49,
-      "patternScore": 68.19,
-      "patternText": "248.283/364.106",
-      "aiScore": 54,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
