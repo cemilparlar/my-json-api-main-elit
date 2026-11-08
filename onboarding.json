@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 06:15",
+  "updatedAt": "08.11.2026 06:23",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 938,
       "rate": 67.6
     },
-    "totalAnalyses": 456166,
+    "totalAnalyses": 456169,
     "leagues": 486,
     "pro": {
       "won": 1207,
@@ -42,13 +42,13 @@
       "rate": 69.9
     },
     "coupons": {
-      "won": 71,
+      "won": 70,
       "lost": 70,
-      "total": 141,
-      "rate": 50.4
+      "total": 140,
+      "rate": 50.0
     },
-    "analyses24h": 2825,
-    "analyses30d": 22144
+    "analyses24h": 2823,
+    "analyses30d": 22142
   },
   "recentWins": [
     {
@@ -358,7 +358,7 @@
     "matchCode": "4578082",
     "odds": 2.04,
     "patternScore": 67.57,
-    "patternText": "225.799/334.170",
+    "patternText": "225.819/334.224",
     "aiScore": 52,
     "picks": 3
   },
@@ -371,7 +371,7 @@
       "matchCode": "4578082",
       "odds": 2.04,
       "patternScore": 67.57,
-      "patternText": "225.799/334.170",
+      "patternText": "225.819/334.224",
       "aiScore": 52,
       "picks": 3
     },
@@ -383,21 +383,9 @@
       "matchCode": "4446809",
       "odds": 1.5,
       "patternScore": 67.51,
-      "patternText": "277.512/411.080",
+      "patternText": "277.520/411.102",
       "aiScore": 56,
       "picks": 1
-    },
-    {
-      "home": "SSC Napoli",
-      "away": "SS Lazio",
-      "league": "İTA",
-      "date": "08.11.2026 11:30",
-      "matchCode": "4475147",
-      "odds": 1.4,
-      "patternScore": 68.65,
-      "patternText": "161.654/235.481",
-      "aiScore": 62,
-      "picks": 4
     },
     {
       "home": "Vasas Ii",
@@ -407,9 +395,21 @@
       "matchCode": "4505073",
       "odds": 1.35,
       "patternScore": 68.13,
-      "patternText": "226.264/332.113",
+      "patternText": "226.272/332.135",
       "aiScore": 59,
       "picks": 1
+    },
+    {
+      "home": "SSC Napoli",
+      "away": "SS Lazio",
+      "league": "İTA",
+      "date": "08.11.2026 11:30",
+      "matchCode": "4475147",
+      "odds": 1.35,
+      "patternScore": 68.38,
+      "patternText": "178.470/261.006",
+      "aiScore": 63,
+      "picks": 2
     },
     {
       "home": "Haugesund",
@@ -419,7 +419,7 @@
       "matchCode": "4428755",
       "odds": 1.34,
       "patternScore": 68.2,
-      "patternText": "256.010/375.366",
+      "patternText": "256.030/375.420",
       "aiScore": 60,
       "picks": 1
     }
