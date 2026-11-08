@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 16:56",
+  "updatedAt": "08.11.2026 17:05",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 568,
-      "lost": 269,
-      "total": 837,
-      "rate": 67.9
+      "won": 578,
+      "lost": 279,
+      "total": 857,
+      "rate": 67.4
     },
-    "totalAnalyses": 457641,
-    "leagues": 485,
+    "totalAnalyses": 457643,
+    "leagues": 483,
     "pro": {
-      "won": 1145,
-      "lost": 461,
-      "total": 1606,
+      "won": 1153,
+      "lost": 464,
+      "total": 1617,
       "rate": 71.3
     },
     "insights": {
-      "won": 1936,
-      "lost": 799,
-      "total": 2735,
-      "rate": 70.8
+      "won": 1940,
+      "lost": 806,
+      "total": 2746,
+      "rate": 70.6
     },
     "coupons": {
       "won": 77,
@@ -47,8 +47,8 @@
       "total": 155,
       "rate": 49.7
     },
-    "analyses24h": 1960,
-    "analyses30d": 22175
+    "analyses24h": 1912,
+    "analyses30d": 22153
   },
   "recentWins": [
     {
@@ -353,54 +353,30 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 11:02",
-      "home": "Alanyaspor",
-      "away": "Trabzonspor"
-    },
-    {
-      "type": "updated",
       "at": "08.11.2026 11:27",
       "home": "Moss",
       "away": "Ranheim"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 11:23",
+      "home": "Raufoss",
+      "away": "Egersund IK"
     }
   ],
   "today": {
-    "home": "Villarreal CF",
-    "away": "Getafe CF",
-    "league": "İS1",
-    "date": "08.11.2026 17:30",
-    "matchCode": "4492378",
-    "odds": 1.76,
-    "patternScore": 66.83,
-    "patternText": "261.293/390.955",
-    "aiScore": 52,
-    "picks": 3
+    "home": "Lech Poznan",
+    "away": "Zaglebie Lubin",
+    "league": "POL",
+    "date": "08.11.2026 19:15",
+    "matchCode": "4484412",
+    "odds": 1.41,
+    "patternScore": 67.63,
+    "patternText": "266.063/393.398",
+    "aiScore": 57,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Villarreal CF",
-      "away": "Getafe CF",
-      "league": "İS1",
-      "date": "08.11.2026 17:30",
-      "matchCode": "4492378",
-      "odds": 1.76,
-      "patternScore": 66.83,
-      "patternText": "261.293/390.955",
-      "aiScore": 52,
-      "picks": 3
-    },
-    {
-      "home": "TSG Hoffenheim",
-      "away": "FC Schalke 04",
-      "league": "AL1",
-      "date": "08.11.2026 18:30",
-      "matchCode": "4495506",
-      "odds": 1.54,
-      "patternScore": 68.03,
-      "patternText": "279.019/410.167",
-      "aiScore": 54,
-      "picks": 5
-    },
     {
       "home": "Lech Poznan",
       "away": "Zaglebie Lubin",
@@ -409,7 +385,7 @@
       "matchCode": "4484412",
       "odds": 1.41,
       "patternScore": 67.63,
-      "patternText": "266.057/393.392",
+      "patternText": "266.063/393.398",
       "aiScore": 57,
       "picks": 2
     },
@@ -421,7 +397,7 @@
       "matchCode": "4517050",
       "odds": 1.37,
       "patternScore": 66.87,
-      "patternText": "165.312/247.227",
+      "patternText": "165.314/247.229",
       "aiScore": 56,
       "picks": 5
     },
@@ -433,12 +409,57 @@
       "matchCode": "4485914",
       "odds": 1.37,
       "patternScore": 67.38,
-      "patternText": "201.663/299.305",
-      "aiScore": 61,
+      "patternText": "201.665/299.307",
+      "aiScore": 60,
       "picks": 4
+    },
+    {
+      "home": "TSG Hoffenheim",
+      "away": "FC Schalke 04",
+      "league": "AL1",
+      "date": "08.11.2026 18:30",
+      "matchCode": "4495506",
+      "odds": 1.37,
+      "patternScore": 66.66,
+      "patternText": "194.687/292.050",
+      "aiScore": 55,
+      "picks": 4
+    },
+    {
+      "home": "Vasas",
+      "away": "Ferencvaros",
+      "league": "MAC",
+      "date": "08.11.2026 18:00",
+      "matchCode": "4484677",
+      "odds": 1.35,
+      "patternScore": 68.4,
+      "patternText": "159.924/233.823",
+      "aiScore": 57,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "ACF Fiorentina",
+      "away": "Juventus",
+      "league": "İTA",
+      "at": "08.11.2026 16:58",
+      "count": 7
+    },
+    {
+      "home": "Atletico Madrid",
+      "away": "FC Barcelona",
+      "league": "İS1",
+      "at": "08.11.2026 16:58",
+      "count": 18
+    },
+    {
+      "home": "RC Lens",
+      "away": "Marseille",
+      "league": "FR1",
+      "at": "08.11.2026 16:57",
+      "count": 8
+    },
     {
       "home": "TSG Hoffenheim",
       "away": "FC Schalke 04",
@@ -480,27 +501,6 @@
       "league": "BEL",
       "at": "08.11.2026 16:52",
       "count": 8
-    },
-    {
-      "home": "ACF Fiorentina",
-      "away": "Juventus",
-      "league": "İTA",
-      "at": "08.11.2026 16:38",
-      "count": 9
-    },
-    {
-      "home": "RC Lens",
-      "away": "Marseille",
-      "league": "FR1",
-      "at": "08.11.2026 16:38",
-      "count": 9
-    },
-    {
-      "home": "Atletico Madrid",
-      "away": "FC Barcelona",
-      "league": "İS1",
-      "at": "08.11.2026 16:38",
-      "count": 19
     },
     {
       "home": "Baltika Kalini",
