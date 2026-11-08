@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 09:23",
+  "updatedAt": "08.11.2026 09:32",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 653,
-      "lost": 308,
-      "total": 961,
-      "rate": 68.0
+      "won": 654,
+      "lost": 311,
+      "total": 965,
+      "rate": 67.8
     },
-    "totalAnalyses": 456557,
+    "totalAnalyses": 456576,
     "leagues": 486,
     "pro": {
       "won": 1226,
-      "lost": 488,
-      "total": 1714,
+      "lost": 489,
+      "total": 1715,
       "rate": 71.5
     },
     "insights": {
-      "won": 2009,
-      "lost": 854,
-      "total": 2863,
-      "rate": 70.2
+      "won": 2010,
+      "lost": 857,
+      "total": 2867,
+      "rate": 70.1
     },
     "coupons": {
       "won": 75,
-      "lost": 72,
-      "total": 147,
-      "rate": 51.0
+      "lost": 73,
+      "total": 148,
+      "rate": 50.7
     },
-    "analyses24h": 2822,
-    "analyses30d": 22224
+    "analyses24h": 2826,
+    "analyses30d": 22228
   },
   "recentWins": [
     {
@@ -372,18 +372,42 @@
     }
   ],
   "today": {
-    "home": "Fc Tallinn",
-    "away": "Tallinna Kalev",
-    "league": "EST2",
-    "date": "08.11.2026 10:30",
-    "matchCode": "4450314",
-    "odds": 1.56,
-    "patternScore": 68.0,
-    "patternText": "147.389/216.755",
-    "aiScore": 55,
+    "home": "CD Santa Clara",
+    "away": "Gil Vicente FC",
+    "league": "POR",
+    "date": "08.11.2026 15:30",
+    "matchCode": "4517051",
+    "odds": 3.09,
+    "patternScore": 67.18,
+    "patternText": "186.387/277.464",
+    "aiScore": 51,
     "picks": 3
   },
   "todayList": [
+    {
+      "home": "CD Santa Clara",
+      "away": "Gil Vicente FC",
+      "league": "POR",
+      "date": "08.11.2026 15:30",
+      "matchCode": "4517051",
+      "odds": 3.09,
+      "patternScore": 67.18,
+      "patternText": "186.387/277.464",
+      "aiScore": 51,
+      "picks": 3
+    },
+    {
+      "home": "Aik Stockholm",
+      "away": "BK Hacken",
+      "league": "İSÇ",
+      "date": "08.11.2026 15:30",
+      "matchCode": "4426808",
+      "odds": 1.77,
+      "patternScore": 65.26,
+      "patternText": "332.557/509.619",
+      "aiScore": 53,
+      "picks": 8
+    },
     {
       "home": "Fc Tallinn",
       "away": "Tallinna Kalev",
@@ -397,6 +421,18 @@
       "picks": 3
     },
     {
+      "home": "Iraklis 1908",
+      "away": "Panathinaikos",
+      "league": "YUN",
+      "date": "08.11.2026 15:30",
+      "matchCode": "4540167",
+      "odds": 1.55,
+      "patternScore": 66.81,
+      "patternText": "268.406/401.750",
+      "aiScore": 55,
+      "picks": 1
+    },
+    {
       "home": "AC Monza",
       "away": "Atalanta",
       "league": "İTA",
@@ -407,45 +443,16 @@
       "patternText": "299.925/444.509",
       "aiScore": 55,
       "picks": 6
-    },
-    {
-      "home": "Al Akhdoud",
-      "away": "Al Jabalain",
-      "league": "SUUD1",
-      "date": "08.11.2026 15:20",
-      "matchCode": "4538731",
-      "odds": 1.49,
-      "patternScore": 68.19,
-      "patternText": "247.485/362.938",
-      "aiScore": 54,
-      "picks": 2
-    },
-    {
-      "home": "Bochum",
-      "away": "Karlsruher SC",
-      "league": "AL2",
-      "date": "08.11.2026 12:30",
-      "matchCode": "4495831",
-      "odds": 1.45,
-      "patternScore": 66.89,
-      "patternText": "192.696/288.095",
-      "aiScore": 56,
-      "picks": 5
-    },
-    {
-      "home": "Real Sociedad",
-      "away": "Rayo Vallecano",
-      "league": "İS1",
-      "date": "08.11.2026 15:15",
-      "matchCode": "4492375",
-      "odds": 1.44,
-      "patternScore": 67.43,
-      "patternText": "285.006/422.643",
-      "aiScore": 56,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Club Brugge",
+      "away": "RSC Anderlecht",
+      "league": "BEL",
+      "at": "08.11.2026 09:30",
+      "count": 15
+    },
     {
       "home": "Krylya Sovetov",
       "away": "FC Orenburg",
@@ -508,13 +515,6 @@
       "league": "FR1",
       "at": "08.11.2026 08:38",
       "count": 6
-    },
-    {
-      "home": "AC Monza",
-      "away": "Atalanta",
-      "league": "İTA",
-      "at": "08.11.2026 08:37",
-      "count": 8
     }
   ],
   "paywall": {
