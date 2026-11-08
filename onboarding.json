@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 13:42",
+  "updatedAt": "08.11.2026 13:50",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 644,
-      "lost": 295,
-      "total": 939,
-      "rate": 68.6
+      "won": 622,
+      "lost": 287,
+      "total": 909,
+      "rate": 68.4
     },
-    "totalAnalyses": 457310,
+    "totalAnalyses": 457351,
     "leagues": 485,
     "pro": {
       "won": 1161,
@@ -47,8 +47,8 @@
       "total": 156,
       "rate": 50.6
     },
-    "analyses24h": 2571,
-    "analyses30d": 22220
+    "analyses24h": 2543,
+    "analyses30d": 22225
   },
   "recentWins": [
     {
@@ -414,6 +414,18 @@
       "picks": 8
     },
     {
+      "home": "RC Lens",
+      "away": "Marseille",
+      "league": "FR1",
+      "date": "08.11.2026 19:45",
+      "matchCode": "4476593",
+      "odds": 1.5,
+      "patternScore": 66.6,
+      "patternText": "197.645/296.778",
+      "aiScore": 55,
+      "picks": 2
+    },
+    {
       "home": "Estoril Praia",
       "away": "CS Maritimo",
       "league": "POR",
@@ -424,21 +436,16 @@
       "patternText": "114.256/170.516",
       "aiScore": 59,
       "picks": 7
-    },
-    {
-      "home": "Al Akhdoud",
-      "away": "Al Jabalain",
-      "league": "SUUD1",
-      "date": "08.11.2026 15:20",
-      "matchCode": "4538731",
-      "odds": 1.49,
-      "patternScore": 68.19,
-      "patternText": "248.067/363.804",
-      "aiScore": 54,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Koln",
+      "away": "Bayer Leverkusen",
+      "league": "AL1",
+      "at": "08.11.2026 13:49",
+      "count": 9
+    },
     {
       "home": "Villarreal CF",
       "away": "Getafe CF",
@@ -466,13 +473,6 @@
       "league": "AL1",
       "at": "08.11.2026 13:34",
       "count": 4
-    },
-    {
-      "home": "FC Koln",
-      "away": "Bayer Leverkusen",
-      "league": "AL1",
-      "at": "08.11.2026 13:31",
-      "count": 7
     },
     {
       "home": "FC Utrecht",
