@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 10:28",
+  "updatedAt": "08.11.2026 10:36",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 689,
-      "lost": 326,
-      "total": 1015,
+      "won": 681,
+      "lost": 322,
+      "total": 1003,
       "rate": 67.9
     },
-    "totalAnalyses": 456668,
+    "totalAnalyses": 456686,
     "leagues": 486,
     "pro": {
-      "won": 1232,
+      "won": 1229,
       "lost": 491,
-      "total": 1723,
+      "total": 1720,
       "rate": 71.5
     },
     "insights": {
-      "won": 2026,
-      "lost": 860,
-      "total": 2886,
+      "won": 2020,
+      "lost": 858,
+      "total": 2878,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 50.7
     },
-    "analyses24h": 2829,
-    "analyses30d": 22235
+    "analyses24h": 2820,
+    "analyses30d": 22238
   },
   "recentWins": [
     {
@@ -397,6 +397,18 @@
       "picks": 3
     },
     {
+      "home": "SC Freiburg",
+      "away": "Union Berlin",
+      "league": "AL1",
+      "date": "08.11.2026 16:30",
+      "matchCode": "4495507",
+      "odds": 2.91,
+      "patternScore": 66.88,
+      "patternText": "174.984/261.635",
+      "aiScore": 51,
+      "picks": 11
+    },
+    {
       "home": "Aik Stockholm",
       "away": "BK Hacken",
       "league": "İSÇ",
@@ -431,21 +443,58 @@
       "patternText": "268.524/401.942",
       "aiScore": 55,
       "picks": 1
+    }
+  ],
+  "recentAnalyzed": [
+    {
+      "home": "FC Koln",
+      "away": "Bayer Leverkusen",
+      "league": "AL1",
+      "at": "08.11.2026 10:32",
+      "count": 13
+    },
+    {
+      "home": "Ipswich Town",
+      "away": "AFC Bournemouth",
+      "league": "İNP",
+      "at": "08.11.2026 10:31",
+      "count": 6
     },
     {
       "home": "AC Monza",
       "away": "Atalanta",
       "league": "İTA",
-      "date": "08.11.2026 14:00",
-      "matchCode": "4475146",
-      "odds": 1.51,
-      "patternScore": 67.56,
-      "patternText": "299.813/443.783",
-      "aiScore": 55,
-      "picks": 6
-    }
-  ],
-  "recentAnalyzed": [
+      "at": "08.11.2026 10:31",
+      "count": 4
+    },
+    {
+      "home": "Genoa CFC",
+      "away": "AC Milan",
+      "league": "İTA",
+      "at": "08.11.2026 10:31",
+      "count": 5
+    },
+    {
+      "home": "Stade Rennais",
+      "away": "LOSC Lille",
+      "league": "FR1",
+      "at": "08.11.2026 10:30",
+      "count": 6
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Brentford",
+      "league": "İNP",
+      "at": "08.11.2026 10:30",
+      "count": 7
+    },
+    {
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "league": "İNP",
+      "at": "08.11.2026 10:29",
+      "count": 5
+    },
     {
       "home": "Elche CF",
       "away": "Real Betis",
@@ -466,55 +515,6 @@
       "league": "İTA",
       "at": "08.11.2026 10:07",
       "count": 5
-    },
-    {
-      "home": "KAA Gent",
-      "away": "KV Kortrijk",
-      "league": "BEL",
-      "at": "08.11.2026 09:51",
-      "count": 5
-    },
-    {
-      "home": "FC Koln",
-      "away": "Bayer Leverkusen",
-      "league": "AL1",
-      "at": "08.11.2026 09:48",
-      "count": 10
-    },
-    {
-      "home": "Crystal Palace",
-      "away": "Liverpool",
-      "league": "İNP",
-      "at": "08.11.2026 09:47",
-      "count": 4
-    },
-    {
-      "home": "Ipswich Town",
-      "away": "AFC Bournemouth",
-      "league": "İNP",
-      "at": "08.11.2026 09:46",
-      "count": 6
-    },
-    {
-      "home": "Brighton & Hove Albion",
-      "away": "Brentford",
-      "league": "İNP",
-      "at": "08.11.2026 09:46",
-      "count": 8
-    },
-    {
-      "home": "AC Monza",
-      "away": "Atalanta",
-      "league": "İTA",
-      "at": "08.11.2026 09:45",
-      "count": 8
-    },
-    {
-      "home": "Genoa CFC",
-      "away": "AC Milan",
-      "league": "İTA",
-      "at": "08.11.2026 09:45",
-      "count": 8
     }
   ],
   "paywall": {
