@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 12:39",
+  "updatedAt": "08.11.2026 12:48",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 928,
       "rate": 67.7
     },
-    "totalAnalyses": 457117,
+    "totalAnalyses": 457146,
     "leagues": 485,
     "pro": {
       "won": 1194,
@@ -47,8 +47,8 @@
       "total": 150,
       "rate": 50.7
     },
-    "analyses24h": 2685,
-    "analyses30d": 22225
+    "analyses24h": 2680,
+    "analyses30d": 22220
   },
   "recentWins": [
     {
@@ -348,12 +348,6 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 06:45",
-      "home": "JEF United Chiba",
-      "away": "Mito HollyHock"
-    },
-    {
-      "type": "updated",
       "at": "08.11.2026 09:00",
       "home": "Rizespor",
       "away": "Erzurumspor FK"
@@ -369,6 +363,12 @@
       "at": "08.11.2026 11:28",
       "home": "Umraniyespor",
       "away": "Kayserispor"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 12:17",
+      "home": "Boluspor",
+      "away": "Bodrum FK"
     }
   ],
   "today": {
@@ -378,8 +378,8 @@
     "date": "08.11.2026 15:30",
     "matchCode": "4485918",
     "odds": 3.7,
-    "patternScore": 67.35,
-    "patternText": "181.600/269.636",
+    "patternScore": 67.36,
+    "patternText": "181.680/269.730",
     "aiScore": 51,
     "picks": 6
   },
@@ -391,8 +391,8 @@
       "date": "08.11.2026 15:30",
       "matchCode": "4485918",
       "odds": 3.7,
-      "patternScore": 67.35,
-      "patternText": "181.600/269.636",
+      "patternScore": 67.36,
+      "patternText": "181.680/269.730",
       "aiScore": 51,
       "picks": 6
     },
@@ -404,9 +404,21 @@
       "matchCode": "4495510",
       "odds": 2.1,
       "patternScore": 67.04,
-      "patternText": "270.445/403.434",
+      "patternText": "270.533/403.556",
       "aiScore": 52,
       "picks": 8
+    },
+    {
+      "home": "Vitoria Guimaraes",
+      "away": "FC Porto",
+      "league": "POR",
+      "date": "08.11.2026 18:00",
+      "matchCode": "4517053",
+      "odds": 1.95,
+      "patternScore": 67.03,
+      "patternText": "181.443/270.683",
+      "aiScore": 52,
+      "picks": 7
     },
     {
       "home": "Manchester United",
@@ -416,7 +428,7 @@
       "matchCode": "4481108",
       "odds": 1.91,
       "patternScore": 67.14,
-      "patternText": "266.247/396.583",
+      "patternText": "266.335/396.705",
       "aiScore": 53,
       "picks": 4
     },
@@ -428,21 +440,9 @@
       "matchCode": "4476587",
       "odds": 1.82,
       "patternScore": 66.26,
-      "patternText": "103.525/156.241",
-      "aiScore": 52,
+      "patternText": "103.561/156.303",
+      "aiScore": 53,
       "picks": 8
-    },
-    {
-      "home": "AC Monza",
-      "away": "Atalanta",
-      "league": "İTA",
-      "date": "08.11.2026 14:00",
-      "matchCode": "4475146",
-      "odds": 1.52,
-      "patternScore": 66.97,
-      "patternText": "205.380/306.675",
-      "aiScore": 55,
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
