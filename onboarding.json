@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 01:45",
+  "updatedAt": "08.11.2026 01:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 1009,
       "rate": 67.9
     },
-    "totalAnalyses": 455868,
+    "totalAnalyses": 455884,
     "leagues": 486,
     "pro": {
       "won": 1206,
@@ -47,8 +47,8 @@
       "total": 141,
       "rate": 50.4
     },
-    "analyses24h": 2856,
-    "analyses30d": 22071
+    "analyses24h": 2859,
+    "analyses30d": 22074
   },
   "recentWins": [
     {
@@ -395,23 +395,11 @@
       "league": "GKOR",
       "date": "08.11.2026 05:00",
       "matchCode": "4578074",
-      "odds": 1.54,
-      "patternScore": 68.14,
-      "patternText": "225.882/331.510",
+      "odds": 1.51,
+      "patternScore": 68.12,
+      "patternText": "226.174/332.038",
       "aiScore": 54,
       "picks": 5
-    },
-    {
-      "home": "Qingdao Zhongn",
-      "away": "Shenzhen Pengcheng",
-      "league": "ÇİNSL",
-      "date": "08.11.2026 07:30",
-      "matchCode": "4447052",
-      "odds": 1.43,
-      "patternScore": 68.11,
-      "patternText": "247.973/364.070",
-      "aiScore": 56,
-      "picks": 3
     },
     {
       "home": "Vissel Kobe",
@@ -426,16 +414,28 @@
       "picks": 6
     },
     {
-      "home": "Shanghai Shenhua",
-      "away": "Qingdao West Co",
-      "league": "ÇİNSL",
-      "date": "08.11.2026 07:30",
-      "matchCode": "4447046",
-      "odds": 1.3,
-      "patternScore": 67.62,
-      "patternText": "145.969/215.855",
-      "aiScore": 58,
-      "picks": 2
+      "home": "Avondale Heigh",
+      "away": "Adelaide City FC",
+      "league": "AVC",
+      "date": "08.11.2026 04:00",
+      "matchCode": "4573643",
+      "odds": 1.28,
+      "patternScore": 68.35,
+      "patternText": "216.861/317.299",
+      "aiScore": 61,
+      "picks": 3
+    },
+    {
+      "home": "Macarthur FC",
+      "away": "Brisbane Roar",
+      "league": "AVUS",
+      "date": "08.11.2026 04:00",
+      "matchCode": "4546756",
+      "odds": 1.28,
+      "patternScore": 67.93,
+      "patternText": "228.697/336.677",
+      "aiScore": 62,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
