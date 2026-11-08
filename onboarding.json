@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 20:00",
+  "updatedAt": "08.11.2026 20:07",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 635,
-      "lost": 314,
-      "total": 949,
-      "rate": 66.9
+      "won": 649,
+      "lost": 319,
+      "total": 968,
+      "rate": 67.0
     },
     "totalAnalyses": 457762,
     "leagues": 483,
     "pro": {
-      "won": 1203,
-      "lost": 505,
-      "total": 1708,
+      "won": 1214,
+      "lost": 511,
+      "total": 1725,
       "rate": 70.4
     },
     "insights": {
-      "won": 2017,
-      "lost": 853,
-      "total": 2870,
-      "rate": 70.3
+      "won": 2023,
+      "lost": 862,
+      "total": 2885,
+      "rate": 70.1
     },
     "coupons": {
       "won": 79,
@@ -74,7 +74,7 @@
       "odds": 2.68,
       "probability": 100.0,
       "patternScore": 56.55,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 1",
       "pro": true
@@ -365,18 +365,30 @@
     }
   ],
   "today": {
-    "home": "Ceara SC",
-    "away": "America Mineiro",
-    "league": "BR2",
-    "date": "08.11.2026 22:15",
-    "matchCode": "4454051",
-    "odds": 1.21,
-    "patternScore": 68.21,
-    "patternText": "185.309/271.672",
-    "aiScore": 72,
-    "picks": 2
+    "home": "Club Leon",
+    "away": "Club Deportivo Guadalajara",
+    "league": "MEK",
+    "date": "09.11.2026 02:00",
+    "matchCode": "4476494",
+    "odds": 1.26,
+    "patternScore": 68.66,
+    "patternText": "170.327/248.060",
+    "aiScore": 64,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Club Leon",
+      "away": "Club Deportivo Guadalajara",
+      "league": "MEK",
+      "date": "09.11.2026 02:00",
+      "matchCode": "4476494",
+      "odds": 1.26,
+      "patternScore": 68.66,
+      "patternText": "170.327/248.060",
+      "aiScore": 64,
+      "picks": 3
+    },
     {
       "home": "Ceara SC",
       "away": "America Mineiro",
@@ -398,7 +410,7 @@
       "odds": 1.16,
       "patternScore": 70.17,
       "patternText": "219.643/313.022",
-      "aiScore": 76,
+      "aiScore": 77,
       "picks": 2
     },
     {
@@ -423,18 +435,6 @@
       "patternScore": 71.73,
       "patternText": "145.812/203.270",
       "aiScore": 96,
-      "picks": 1
-    },
-    {
-      "home": "Deportivo Garc",
-      "away": "Comerciantes Un",
-      "league": "PER",
-      "date": "08.11.2026 23:00",
-      "matchCode": "4501923",
-      "odds": 1.08,
-      "patternScore": 70.72,
-      "patternText": "242.885/343.423",
-      "aiScore": 97,
       "picks": 1
     }
   ],
