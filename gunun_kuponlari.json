@@ -2,20 +2,20 @@
   "version": 1,
   "stats7": {
     "multi": {
-      "won": 79,
+      "won": 77,
       "lost": 78
     },
-    "c70_2": {
-      "won": 7,
-      "lost": 1
-    },
     "c70_3": {
-      "won": 4,
+      "won": 3,
       "lost": 4
     },
     "c70_1": {
       "won": 9,
       "lost": 0
+    },
+    "c70_2": {
+      "won": 6,
+      "lost": 1
     },
     "cyz_4": {
       "won": 19,
@@ -104,8 +104,8 @@
       "lost": 6
     }
   },
-  "updatedAt": "08.11.2026 15:32",
-  "updatedAtUtc": "2026-11-08T15:32:00Z",
+  "updatedAt": "08.11.2026 15:41",
+  "updatedAtUtc": "2026-11-08T15:41:00Z",
   "upcoming": [
     {
       "id": "20261108-11-2",
@@ -9601,118 +9601,6 @@
           "finalScore": "1 - 0",
           "status": "won",
           "aiScore": 87
-        }
-      ]
-    },
-    {
-      "id": "20261107-14-6",
-      "createdAt": "07.11.2026 11:00",
-      "createdAtUtc": "2026-11-07T11:00:00Z",
-      "size": 4,
-      "mbs": 1,
-      "totalOdds": 1.5,
-      "winChance": 40.72,
-      "firstKickoff": "07.11.2026 12:30",
-      "lastKickoff": "07.11.2026 14:00",
-      "status": "lost",
-      "completedAt": "07.11.2026 15:39",
-      "kind": "cyz_4",
-      "group": "multi",
-      "formula": "4",
-      "multiScore": 77,
-      "effectiveOdds": 1.4,
-      "legs": [
-        {
-          "matchCode": "4488851",
-          "nesine": null,
-          "date": "07.11.2026 12:30",
-          "kickoffUtc": "2026-11-07T12:30:00Z",
-          "league": "İNCL",
-          "home": "Bristol City",
-          "away": "Norwich City",
-          "league_tr": "İNCL",
-          "home_tr": "Bristol City",
-          "away_tr": "Norwich",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.16,
-          "probability": 70.0,
-          "patternScore": 69.62,
-          "patternText": "387.141/556.063",
-          "mbs": 1,
-          "firstHalf": "0 - 1",
-          "finalScore": "0 - 5",
-          "status": "won",
-          "aiScore": 80
-        },
-        {
-          "matchCode": "4535183",
-          "nesine": null,
-          "date": "07.11.2026 13:30",
-          "kickoffUtc": "2026-11-07T13:30:00Z",
-          "league": "İTC",
-          "home": "Pro Vercelli",
-          "away": "Dolomiti Belluno",
-          "league_tr": "İTC",
-          "home_tr": "Pro Vercelli",
-          "away_tr": "Dolomiti Bellun",
-          "prediction": "Under 3.5 Goals",
-          "prediction_tr": "3,5 Alt/Üst Alt",
-          "odds": 1.11,
-          "probability": 79.03,
-          "patternScore": 68.91,
-          "patternText": "310.634/450.780",
-          "mbs": 1,
-          "firstHalf": "3 - 1",
-          "finalScore": "4 - 2",
-          "status": "lost",
-          "aiScore": 88
-        },
-        {
-          "matchCode": "4427065",
-          "nesine": null,
-          "date": "07.11.2026 14:00",
-          "kickoffUtc": "2026-11-07T14:00:00Z",
-          "league": "İSÇ2",
-          "home": "IF Varnamo",
-          "away": "IFK Norrkoping",
-          "league_tr": "İSÇ2",
-          "home_tr": "Varnamo",
-          "away_tr": "Norrkoping",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.07,
-          "probability": 75.0,
-          "patternScore": 70.41,
-          "patternText": "405.147/575.440",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void",
-          "aiScore": 89
-        },
-        {
-          "matchCode": "4534785",
-          "nesine": null,
-          "date": "07.11.2026 14:00",
-          "kickoffUtc": "2026-11-07T14:00:00Z",
-          "league": "İTB",
-          "home": "AC Pisa",
-          "away": "FC Sudtirol",
-          "league_tr": "İTB",
-          "home_tr": "Pisa",
-          "away_tr": "Sudtirol",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.09,
-          "probability": 75.0,
-          "patternScore": 66.4,
-          "patternText": "302.161/455.029",
-          "mbs": 1,
-          "firstHalf": "1 - 1",
-          "finalScore": "2 - 2",
-          "status": "lost",
-          "aiScore": 89
         }
       ]
     }
