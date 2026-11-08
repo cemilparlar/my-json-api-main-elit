@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 14:57",
+  "updatedAt": "08.11.2026 15:05",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 580,
-      "lost": 269,
-      "total": 849,
-      "rate": 68.3
+      "won": 531,
+      "lost": 256,
+      "total": 787,
+      "rate": 67.5
     },
-    "totalAnalyses": 457490,
+    "totalAnalyses": 457502,
     "leagues": 485,
     "pro": {
-      "won": 1154,
-      "lost": 458,
-      "total": 1612,
+      "won": 1165,
+      "lost": 461,
+      "total": 1626,
       "rate": 71.6
     },
     "insights": {
-      "won": 1940,
-      "lost": 803,
-      "total": 2743,
-      "rate": 70.7
+      "won": 1957,
+      "lost": 804,
+      "total": 2761,
+      "rate": 70.9
     },
     "coupons": {
       "won": 79,
-      "lost": 77,
-      "total": 156,
-      "rate": 50.6
+      "lost": 78,
+      "total": 157,
+      "rate": 50.3
     },
-    "analyses24h": 2359,
-    "analyses30d": 22226
+    "analyses24h": 2076,
+    "analyses30d": 22203
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 4.0,
       "probability": 100.0,
       "patternScore": 57.4,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 1",
       "pro": true
@@ -116,7 +116,7 @@
       "odds": 1.97,
       "probability": 100.0,
       "patternScore": 57.57,
-      "aiScore": 52,
+      "aiScore": 51,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
       "pro": false
@@ -319,6 +319,12 @@
       "type": "coupon",
       "size": 3,
       "odds": 1.51,
+      "at": "08.11.2026 15:05"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.51,
       "at": "08.11.2026 10:00"
     },
     {
@@ -326,18 +332,6 @@
       "size": 3,
       "odds": 1.54,
       "at": "08.11.2026 09:03"
-    },
-    {
-      "type": "coupon",
-      "size": 3,
-      "odds": 1.51,
-      "at": "08.11.2026 09:03"
-    },
-    {
-      "type": "updated",
-      "at": "08.11.2026 09:00",
-      "home": "Rizespor",
-      "away": "Erzurumspor FK"
     },
     {
       "type": "updated",
@@ -362,33 +356,27 @@
       "at": "08.11.2026 11:02",
       "home": "Alanyaspor",
       "away": "Trabzonspor"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 10:06",
+      "home": "FC Copenhagen",
+      "away": "Brondby IF"
     }
   ],
   "today": {
-    "home": "Zenit St. Petersburg",
-    "away": "FC Rostov",
-    "league": "RUS",
-    "date": "08.11.2026 15:30",
-    "matchCode": "4485918",
-    "odds": 1.91,
-    "patternScore": 67.19,
-    "patternText": "183.442/273.020",
+    "home": "Stade Brest",
+    "away": "Olympique Lyonnais",
+    "league": "FR1",
+    "date": "08.11.2026 16:15",
+    "matchCode": "4476587",
+    "odds": 1.82,
+    "patternScore": 66.26,
+    "patternText": "103.837/156.701",
     "aiScore": 52,
-    "picks": 5
+    "picks": 8
   },
   "todayList": [
-    {
-      "home": "Zenit St. Petersburg",
-      "away": "FC Rostov",
-      "league": "RUS",
-      "date": "08.11.2026 15:30",
-      "matchCode": "4485918",
-      "odds": 1.91,
-      "patternScore": 67.19,
-      "patternText": "183.442/273.020",
-      "aiScore": 52,
-      "picks": 5
-    },
     {
       "home": "Stade Brest",
       "away": "Olympique Lyonnais",
@@ -397,7 +385,7 @@
       "matchCode": "4476587",
       "odds": 1.82,
       "patternScore": 66.26,
-      "patternText": "103.833/156.697",
+      "patternText": "103.837/156.701",
       "aiScore": 52,
       "picks": 8
     },
@@ -409,7 +397,7 @@
       "matchCode": "4492378",
       "odds": 1.76,
       "patternScore": 66.82,
-      "patternText": "260.483/389.807",
+      "patternText": "260.495/389.819",
       "aiScore": 52,
       "picks": 3
     },
@@ -421,24 +409,57 @@
       "matchCode": "4495506",
       "odds": 1.54,
       "patternScore": 68.02,
-      "patternText": "278.187/408.961",
+      "patternText": "278.199/408.973",
       "aiScore": 54,
       "picks": 5
     },
     {
-      "home": "Estoril Praia",
-      "away": "CS Maritimo",
-      "league": "POR",
-      "date": "08.11.2026 15:30",
-      "matchCode": "4517047",
-      "odds": 1.49,
-      "patternScore": 67.0,
-      "patternText": "114.354/170.668",
-      "aiScore": 59,
-      "picks": 7
+      "home": "Manchester United",
+      "away": "Aston Villa",
+      "league": "İNP",
+      "date": "08.11.2026 16:30",
+      "matchCode": "4481108",
+      "odds": 1.45,
+      "patternScore": 67.32,
+      "patternText": "202.334/300.572",
+      "aiScore": 58,
+      "picks": 4
+    },
+    {
+      "home": "Lech Poznan",
+      "away": "Zaglebie Lubin",
+      "league": "POL",
+      "date": "08.11.2026 19:15",
+      "matchCode": "4484412",
+      "odds": 1.41,
+      "patternScore": 67.64,
+      "patternText": "265.311/392.236",
+      "aiScore": 57,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Manchester United",
+      "away": "Aston Villa",
+      "league": "İNP",
+      "at": "08.11.2026 15:03",
+      "count": 5
+    },
+    {
+      "home": "SC Freiburg",
+      "away": "Union Berlin",
+      "league": "AL1",
+      "at": "08.11.2026 15:02",
+      "count": 5
+    },
+    {
+      "home": "Le Mans FC",
+      "away": "AS Monaco",
+      "league": "FR1",
+      "at": "08.11.2026 14:58",
+      "count": 8
+    },
     {
       "home": "CD Santa Clara",
       "away": "Gil Vicente FC",
@@ -454,24 +475,10 @@
       "count": 11
     },
     {
-      "home": "SC Freiburg",
-      "away": "Union Berlin",
-      "league": "AL1",
-      "at": "08.11.2026 14:30",
-      "count": 4
-    },
-    {
       "home": "Inter",
       "away": "Como 1907",
       "league": "İTA",
       "at": "08.11.2026 14:30",
-      "count": 7
-    },
-    {
-      "home": "Le Mans FC",
-      "away": "AS Monaco",
-      "league": "FR1",
-      "at": "08.11.2026 14:29",
       "count": 7
     },
     {
@@ -501,13 +508,6 @@
       "league": "İS1",
       "at": "08.11.2026 14:24",
       "count": 19
-    },
-    {
-      "home": "Club de Regatas Vasco da Gama",
-      "away": "SE Palmeiras",
-      "league": "BRK",
-      "at": "08.11.2026 14:23",
-      "count": 6
     }
   ],
   "paywall": {
