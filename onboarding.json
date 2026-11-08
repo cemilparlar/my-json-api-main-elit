@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 11:03",
+  "updatedAt": "08.11.2026 11:12",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 973,
       "rate": 67.4
     },
-    "totalAnalyses": 456775,
+    "totalAnalyses": 456825,
     "leagues": 486,
     "pro": {
       "won": 1217,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 50.7
     },
-    "analyses24h": 2780,
-    "analyses30d": 22241
+    "analyses24h": 2775,
+    "analyses30d": 22236
   },
   "recentWins": [
     {
@@ -102,7 +102,7 @@
       "odds": 2.1,
       "probability": 100.0,
       "patternScore": 58.09,
-      "aiScore": 52,
+      "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "1 - 1",
       "pro": true
@@ -372,30 +372,18 @@
     }
   ],
   "today": {
-    "home": "CD Santa Clara",
-    "away": "Gil Vicente FC",
-    "league": "POR",
-    "date": "08.11.2026 15:30",
-    "matchCode": "4517051",
-    "odds": 3.09,
-    "patternScore": 67.17,
-    "patternText": "186.489/277.656",
-    "aiScore": 52,
-    "picks": 3
+    "home": "SC Freiburg",
+    "away": "Union Berlin",
+    "league": "AL1",
+    "date": "08.11.2026 16:30",
+    "matchCode": "4495507",
+    "odds": 2.91,
+    "patternScore": 66.88,
+    "patternText": "174.988/261.655",
+    "aiScore": 51,
+    "picks": 11
   },
   "todayList": [
-    {
-      "home": "CD Santa Clara",
-      "away": "Gil Vicente FC",
-      "league": "POR",
-      "date": "08.11.2026 15:30",
-      "matchCode": "4517051",
-      "odds": 3.09,
-      "patternScore": 67.17,
-      "patternText": "186.489/277.656",
-      "aiScore": 52,
-      "picks": 3
-    },
     {
       "home": "SC Freiburg",
       "away": "Union Berlin",
@@ -409,16 +397,28 @@
       "picks": 11
     },
     {
-      "home": "Aik Stockholm",
-      "away": "BK Hacken",
-      "league": "İSÇ",
+      "home": "CD Santa Clara",
+      "away": "Gil Vicente FC",
+      "league": "POR",
       "date": "08.11.2026 15:30",
-      "matchCode": "4426808",
-      "odds": 1.77,
-      "patternScore": 65.25,
-      "patternText": "332.775/509.971",
-      "aiScore": 53,
-      "picks": 8
+      "matchCode": "4517051",
+      "odds": 2.25,
+      "patternScore": 67.55,
+      "patternText": "264.165/391.089",
+      "aiScore": 52,
+      "picks": 4
+    },
+    {
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "league": "İNP",
+      "date": "08.11.2026 14:00",
+      "matchCode": "4481110",
+      "odds": 1.87,
+      "patternScore": 66.68,
+      "patternText": "189.912/284.816",
+      "aiScore": 54,
+      "picks": 3
     },
     {
       "home": "Al Faisaly Amman",
@@ -433,19 +433,68 @@
       "picks": 5
     },
     {
-      "home": "Iraklis 1908",
-      "away": "Panathinaikos",
-      "league": "YUN",
+      "home": "Zenit St. Petersburg",
+      "away": "FC Rostov",
+      "league": "RUS",
       "date": "08.11.2026 15:30",
-      "matchCode": "4540167",
-      "odds": 1.55,
-      "patternScore": 66.81,
-      "patternText": "268.536/401.966",
-      "aiScore": 55,
-      "picks": 1
+      "matchCode": "4485918",
+      "odds": 1.66,
+      "patternScore": 67.56,
+      "patternText": "264.993/392.227",
+      "aiScore": 54,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Stade Brest",
+      "away": "Olympique Lyonnais",
+      "league": "FR1",
+      "at": "08.11.2026 11:10",
+      "count": 8
+    },
+    {
+      "home": "Angers SCO",
+      "away": "OGC Nice",
+      "league": "FR1",
+      "at": "08.11.2026 11:10",
+      "count": 9
+    },
+    {
+      "home": "Le Mans FC",
+      "away": "AS Monaco",
+      "league": "FR1",
+      "at": "08.11.2026 11:09",
+      "count": 2
+    },
+    {
+      "home": "Le Havre AC",
+      "away": "FC Lorient",
+      "league": "FR1",
+      "at": "08.11.2026 11:09",
+      "count": 3
+    },
+    {
+      "home": "Carrarese Calcio",
+      "away": "UC Sampdoria",
+      "league": "İTB",
+      "at": "08.11.2026 11:08",
+      "count": 7
+    },
+    {
+      "home": "Mardin 1969",
+      "away": "Batman Petrolspor",
+      "league": "T1L",
+      "at": "08.11.2026 11:05",
+      "count": 6
+    },
+    {
+      "home": "AZ Alkmaar",
+      "away": "FC Groningen",
+      "league": "HOL",
+      "at": "08.11.2026 11:04",
+      "count": 6
+    },
     {
       "home": "Zenit St. Petersburg",
       "away": "FC Rostov",
@@ -466,55 +515,6 @@
       "league": "POR",
       "at": "08.11.2026 11:02",
       "count": 9
-    },
-    {
-      "home": "Real Sociedad",
-      "away": "Rayo Vallecano",
-      "league": "İS1",
-      "at": "08.11.2026 10:59",
-      "count": 6
-    },
-    {
-      "home": "Girona FC",
-      "away": "UD Almeria",
-      "league": "İS2",
-      "at": "08.11.2026 10:59",
-      "count": 6
-    },
-    {
-      "home": "FC Koln",
-      "away": "Bayer Leverkusen",
-      "league": "AL1",
-      "at": "08.11.2026 10:55",
-      "count": 8
-    },
-    {
-      "home": "Sunderland",
-      "away": "Chelsea",
-      "league": "İNP",
-      "at": "08.11.2026 10:54",
-      "count": 4
-    },
-    {
-      "home": "Brighton & Hove Albion",
-      "away": "Brentford",
-      "league": "İNP",
-      "at": "08.11.2026 10:54",
-      "count": 7
-    },
-    {
-      "home": "AC Monza",
-      "away": "Atalanta",
-      "league": "İTA",
-      "at": "08.11.2026 10:53",
-      "count": 5
-    },
-    {
-      "home": "Genoa CFC",
-      "away": "AC Milan",
-      "league": "İTA",
-      "at": "08.11.2026 10:53",
-      "count": 8
     }
   ],
   "paywall": {
