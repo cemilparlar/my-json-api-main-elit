@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 21:43",
+  "updatedAt": "08.11.2026 21:50",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 696,
+      "won": 706,
       "lost": 332,
-      "total": 1028,
-      "rate": 67.7
+      "total": 1038,
+      "rate": 68.0
     },
     "totalAnalyses": 457802,
     "leagues": 482,
     "pro": {
-      "won": 1210,
+      "won": 1215,
       "lost": 509,
-      "total": 1719,
-      "rate": 70.4
+      "total": 1724,
+      "rate": 70.5
     },
     "insights": {
-      "won": 2013,
+      "won": 2023,
       "lost": 851,
-      "total": 2864,
-      "rate": 70.3
+      "total": 2874,
+      "rate": 70.4
     },
     "coupons": {
       "won": 77,
@@ -376,18 +376,6 @@
       "picks": 1
     },
     {
-      "home": "Ceara SC",
-      "away": "America Mineiro",
-      "league": "BR2",
-      "date": "08.11.2026 22:15",
-      "matchCode": "4454051",
-      "odds": 1.21,
-      "patternScore": 68.21,
-      "patternText": "185.385/271.780",
-      "aiScore": 73,
-      "picks": 2
-    },
-    {
       "home": "Alianza Petroleum",
       "away": "Llaneros",
       "league": "KOL",
@@ -421,6 +409,18 @@
       "patternScore": 71.73,
       "patternText": "145.882/203.370",
       "aiScore": 96,
+      "picks": 1
+    },
+    {
+      "home": "Deportivo Garc",
+      "away": "Comerciantes Un",
+      "league": "PER",
+      "date": "08.11.2026 23:00",
+      "matchCode": "4501923",
+      "odds": 1.08,
+      "patternScore": 70.73,
+      "patternText": "243.009/343.587",
+      "aiScore": 97,
       "picks": 1
     }
   ],
