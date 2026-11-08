@@ -3,11 +3,7 @@
   "stats7": {
     "multi": {
       "won": 77,
-      "lost": 77
-    },
-    "c70_3": {
-      "won": 3,
-      "lost": 3
+      "lost": 76
     },
     "c70_1": {
       "won": 9,
@@ -16,6 +12,10 @@
     "c70_2": {
       "won": 6,
       "lost": 1
+    },
+    "c70_3": {
+      "won": 3,
+      "lost": 2
     },
     "cyz_4": {
       "won": 19,
@@ -104,8 +104,8 @@
       "lost": 6
     }
   },
-  "updatedAt": "08.11.2026 18:10",
-  "updatedAtUtc": "2026-11-08T18:10:00Z",
+  "updatedAt": "08.11.2026 18:19",
+  "updatedAtUtc": "2026-11-08T18:19:00Z",
   "upcoming": [
     {
       "id": "20261108-11-2",
@@ -390,9 +390,9 @@
           "patternScore": 68.85,
           "patternText": "188.105/273.202",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 1",
+          "status": "won",
           "aiScore": 85
         },
         {

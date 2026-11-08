@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 18:10",
+  "updatedAt": "08.11.2026 18:19",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 608,
-      "lost": 300,
-      "total": 908,
-      "rate": 67.0
+      "won": 629,
+      "lost": 308,
+      "total": 937,
+      "rate": 67.1
     },
     "totalAnalyses": 457710,
     "leagues": 483,
     "pro": {
-      "won": 1168,
-      "lost": 478,
-      "total": 1646,
-      "rate": 71.0
+      "won": 1180,
+      "lost": 484,
+      "total": 1664,
+      "rate": 70.9
     },
     "insights": {
-      "won": 1970,
-      "lost": 826,
-      "total": 2796,
+      "won": 1980,
+      "lost": 830,
+      "total": 2810,
       "rate": 70.5
     },
     "coupons": {
       "won": 77,
-      "lost": 77,
-      "total": 154,
-      "rate": 50.0
+      "lost": 76,
+      "total": 153,
+      "rate": 50.3
     },
-    "analyses24h": 1856,
-    "analyses30d": 22148
+    "analyses24h": 1852,
+    "analyses30d": 22144
   },
   "recentWins": [
     {
@@ -335,48 +335,60 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 12:17",
-      "home": "Corum FK",
-      "away": "Fenerbahce"
+      "at": "08.11.2026 12:58",
+      "home": "Tromso IL",
+      "away": "FK Bodo/Glimt"
     },
     {
       "type": "updated",
-      "at": "08.11.2026 12:17",
-      "home": "Boluspor",
-      "away": "Bodrum FK"
+      "at": "08.11.2026 13:16",
+      "home": "Ipswich Town",
+      "away": "AFC Bournemouth"
     },
     {
       "type": "updated",
-      "at": "08.11.2026 12:14",
-      "home": "Al Nasr Dubai",
-      "away": "Dubai United"
+      "at": "08.11.2026 13:16",
+      "home": "Crystal Palace",
+      "away": "Liverpool"
     },
     {
       "type": "updated",
-      "at": "08.11.2026 12:17",
-      "home": "Elche CF",
-      "away": "Real Betis"
+      "at": "08.11.2026 13:18",
+      "home": "Sunderland",
+      "away": "Chelsea"
     },
     {
       "type": "updated",
-      "at": "08.11.2026 12:14",
-      "home": "FC St Gallen",
-      "away": "FC Lugano"
+      "at": "08.11.2026 12:58",
+      "home": "Stade Rennais",
+      "away": "LOSC Lille"
     }
   ],
   "today": {
-    "home": "Lech Poznan",
-    "away": "Zaglebie Lubin",
-    "league": "POL",
-    "date": "08.11.2026 19:15",
-    "matchCode": "4484412",
-    "odds": 1.41,
-    "patternScore": 67.63,
-    "patternText": "266.511/394.066",
-    "aiScore": 57,
-    "picks": 2
+    "home": "ACF Fiorentina",
+    "away": "Juventus",
+    "league": "İTA",
+    "date": "08.11.2026 19:45",
+    "matchCode": "4475143",
+    "odds": 1.45,
+    "patternScore": 68.23,
+    "patternText": "162.270/237.821",
+    "aiScore": 58,
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "ACF Fiorentina",
+      "away": "Juventus",
+      "league": "İTA",
+      "date": "08.11.2026 19:45",
+      "matchCode": "4475143",
+      "odds": 1.45,
+      "patternScore": 68.23,
+      "patternText": "162.270/237.821",
+      "aiScore": 58,
+      "picks": 5
+    },
     {
       "home": "Lech Poznan",
       "away": "Zaglebie Lubin",
@@ -402,16 +414,16 @@
       "picks": 5
     },
     {
-      "home": "Sociedad Deportiva Aucas",
-      "away": "Indep. Jose Ter",
-      "league": "EKV1",
-      "date": "08.11.2026 18:45",
-      "matchCode": "4563406",
-      "odds": 1.22,
-      "patternScore": 67.92,
-      "patternText": "276.517/407.150",
-      "aiScore": 66,
-      "picks": 2
+      "home": "RC Lens",
+      "away": "Marseille",
+      "league": "FR1",
+      "date": "08.11.2026 19:45",
+      "matchCode": "4476593",
+      "odds": 1.24,
+      "patternScore": 69.11,
+      "patternText": "187.073/270.703",
+      "aiScore": 71,
+      "picks": 5
     },
     {
       "home": "Ceara SC",
@@ -423,18 +435,6 @@
       "patternScore": 68.21,
       "patternText": "185.211/271.536",
       "aiScore": 72,
-      "picks": 2
-    },
-    {
-      "home": "Olympiakos",
-      "away": "Paok",
-      "league": "YUN",
-      "date": "08.11.2026 19:00",
-      "matchCode": "4540165",
-      "odds": 1.21,
-      "patternScore": 68.61,
-      "patternText": "428.502/624.527",
-      "aiScore": 73,
       "picks": 2
     }
   ],
