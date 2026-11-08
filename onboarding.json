@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 16:47",
+  "updatedAt": "08.11.2026 16:56",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 567,
+      "won": 568,
       "lost": 269,
-      "total": 836,
-      "rate": 67.8
+      "total": 837,
+      "rate": 67.9
     },
-    "totalAnalyses": 457633,
+    "totalAnalyses": 457641,
     "leagues": 485,
     "pro": {
-      "won": 1144,
+      "won": 1145,
       "lost": 461,
-      "total": 1605,
+      "total": 1606,
       "rate": 71.3
     },
     "insights": {
-      "won": 1935,
+      "won": 1936,
       "lost": 799,
-      "total": 2734,
+      "total": 2735,
       "rate": 70.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 155,
       "rate": 49.7
     },
-    "analyses24h": 1947,
-    "analyses30d": 22162
+    "analyses24h": 1960,
+    "analyses30d": 22175
   },
   "recentWins": [
     {
@@ -359,9 +359,9 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 10:47",
-      "home": "Neman Grodno",
-      "away": "Dnepr Mogilev"
+      "at": "08.11.2026 11:27",
+      "home": "Moss",
+      "away": "Ranheim"
     }
   ],
   "today": {
@@ -443,8 +443,43 @@
       "home": "TSG Hoffenheim",
       "away": "FC Schalke 04",
       "league": "AL1",
-      "at": "08.11.2026 16:38",
-      "count": 7
+      "at": "08.11.2026 16:56",
+      "count": 4
+    },
+    {
+      "home": "Vitoria Guimaraes",
+      "away": "FC Porto",
+      "league": "POR",
+      "at": "08.11.2026 16:55",
+      "count": 14
+    },
+    {
+      "home": "Villarreal CF",
+      "away": "Getafe CF",
+      "league": "İS1",
+      "at": "08.11.2026 16:54",
+      "count": 4
+    },
+    {
+      "home": "Celta de Vigo",
+      "away": "Levante UD",
+      "league": "İS1",
+      "at": "08.11.2026 16:53",
+      "count": 8
+    },
+    {
+      "home": "UD Las Palmas",
+      "away": "CD Eldense",
+      "league": "İS2",
+      "at": "08.11.2026 16:53",
+      "count": 10
+    },
+    {
+      "home": "Union St.G",
+      "away": "KRC Genk",
+      "league": "BEL",
+      "at": "08.11.2026 16:52",
+      "count": 8
     },
     {
       "home": "ACF Fiorentina",
@@ -473,41 +508,6 @@
       "league": "RUS",
       "at": "08.11.2026 16:36",
       "count": 4
-    },
-    {
-      "home": "Vitoria Guimaraes",
-      "away": "FC Porto",
-      "league": "POR",
-      "at": "08.11.2026 16:36",
-      "count": 4
-    },
-    {
-      "home": "Sporting Gijon",
-      "away": "Real Valladolid",
-      "league": "İS2",
-      "at": "08.11.2026 16:35",
-      "count": 4
-    },
-    {
-      "home": "Union St.G",
-      "away": "KRC Genk",
-      "league": "BEL",
-      "at": "08.11.2026 16:35",
-      "count": 6
-    },
-    {
-      "home": "Celta de Vigo",
-      "away": "Levante UD",
-      "league": "İS1",
-      "at": "08.11.2026 16:34",
-      "count": 6
-    },
-    {
-      "home": "Villarreal CF",
-      "away": "Getafe CF",
-      "league": "İS1",
-      "at": "08.11.2026 16:34",
-      "count": 11
     }
   ],
   "paywall": {
