@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 19:52",
+  "updatedAt": "08.11.2026 20:00",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 949,
       "rate": 66.9
     },
-    "totalAnalyses": 457749,
+    "totalAnalyses": 457762,
     "leagues": 483,
     "pro": {
       "won": 1203,
@@ -42,13 +42,13 @@
       "rate": 70.3
     },
     "coupons": {
-      "won": 78,
+      "won": 79,
       "lost": 76,
-      "total": 154,
-      "rate": 50.6
+      "total": 155,
+      "rate": 51.0
     },
-    "analyses24h": 1749,
-    "analyses30d": 22130
+    "analyses24h": 1710,
+    "analyses30d": 22128
   },
   "recentWins": [
     {
@@ -123,6 +123,35 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 3,
+      "totalOdds": 1.54,
+      "winChance": 54.45,
+      "completedAt": "08.11.2026 20:00",
+      "legs": [
+        {
+          "home": "Flora Tallinn",
+          "away": "Levadia Tallinn",
+          "prediction": "1st Half Double Chance 12",
+          "odds": 1.2,
+          "finalScore": "0 - 2"
+        },
+        {
+          "home": "Aston Villa Women",
+          "away": "Manchester United",
+          "prediction": "Double Chance 12",
+          "odds": 1.06,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "Stafford Range",
+          "away": "Grimsby Town",
+          "prediction": "1st Half Double Chance 12",
+          "odds": 1.21,
+          "finalScore": null
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.51,
@@ -251,42 +280,6 @@
           "finalScore": "3 - 1"
         }
       ]
-    },
-    {
-      "size": 4,
-      "totalOdds": 1.59,
-      "winChance": 40.04,
-      "completedAt": "08.11.2026 13:26",
-      "legs": [
-        {
-          "home": "SC Sagamihara",
-          "away": "Kagoshima United",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.1,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Gamba Osaka",
-          "away": "Cerezo Osaka",
-          "prediction": "Double Chance 12",
-          "odds": 1.16,
-          "finalScore": "2 - 3"
-        },
-        {
-          "home": "Guizhou Zhuche",
-          "away": "Shandong Taisha",
-          "prediction": "Double Chance 1X",
-          "odds": 1.12,
-          "finalScore": "1 - 1"
-        },
-        {
-          "home": "Yenisey Krasnoyarsk",
-          "away": "Pfc Sochi",
-          "prediction": "Double Chance 12",
-          "odds": 1.11,
-          "finalScore": "3 - 0"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -379,7 +372,7 @@
     "matchCode": "4454051",
     "odds": 1.21,
     "patternScore": 68.21,
-    "patternText": "185.303/271.666",
+    "patternText": "185.309/271.672",
     "aiScore": 72,
     "picks": 2
   },
@@ -392,7 +385,7 @@
       "matchCode": "4454051",
       "odds": 1.21,
       "patternScore": 68.21,
-      "patternText": "185.303/271.666",
+      "patternText": "185.309/271.672",
       "aiScore": 72,
       "picks": 2
     },
@@ -404,7 +397,7 @@
       "matchCode": "4513994",
       "odds": 1.16,
       "patternScore": 70.17,
-      "patternText": "219.639/313.018",
+      "patternText": "219.643/313.022",
       "aiScore": 76,
       "picks": 2
     },
@@ -416,7 +409,7 @@
       "matchCode": "4476493",
       "odds": 1.15,
       "patternScore": 69.03,
-      "patternText": "184.520/267.316",
+      "patternText": "184.528/267.324",
       "aiScore": 83,
       "picks": 2
     },
@@ -428,20 +421,20 @@
       "matchCode": "4577016",
       "odds": 1.12,
       "patternScore": 71.73,
-      "patternText": "145.806/203.264",
+      "patternText": "145.812/203.270",
       "aiScore": 96,
       "picks": 1
     },
     {
-      "home": "T.Universitari",
-      "away": "Manta",
-      "league": "EKV1",
-      "date": "08.11.2026 20:30",
-      "matchCode": "4563366",
-      "odds": 1.11,
-      "patternScore": 70.11,
-      "patternText": "303.912/433.500",
-      "aiScore": 86,
+      "home": "Deportivo Garc",
+      "away": "Comerciantes Un",
+      "league": "PER",
+      "date": "08.11.2026 23:00",
+      "matchCode": "4501923",
+      "odds": 1.08,
+      "patternScore": 70.72,
+      "patternText": "242.885/343.423",
+      "aiScore": 97,
       "picks": 1
     }
   ],
