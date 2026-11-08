@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 07:08",
+  "updatedAt": "08.11.2026 07:17",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 634,
-      "lost": 302,
-      "total": 936,
-      "rate": 67.7
+      "won": 654,
+      "lost": 309,
+      "total": 963,
+      "rate": 67.9
     },
-    "totalAnalyses": 456268,
+    "totalAnalyses": 456315,
     "leagues": 486,
     "pro": {
-      "won": 1203,
-      "lost": 482,
-      "total": 1685,
-      "rate": 71.4
+      "won": 1223,
+      "lost": 487,
+      "total": 1710,
+      "rate": 71.5
     },
     "insights": {
-      "won": 1975,
-      "lost": 850,
-      "total": 2825,
-      "rate": 69.9
+      "won": 1999,
+      "lost": 858,
+      "total": 2857,
+      "rate": 70.0
     },
     "coupons": {
       "won": 69,
-      "lost": 70,
-      "total": 139,
-      "rate": 49.6
+      "lost": 72,
+      "total": 141,
+      "rate": 48.9
     },
-    "analyses24h": 2796,
-    "analyses30d": 22162
+    "analyses24h": 2820,
+    "analyses30d": 22186
   },
   "recentWins": [
     {
@@ -351,30 +351,18 @@
     }
   ],
   "today": {
-    "home": "AGF Aarhus",
-    "away": "AC Horsens",
-    "league": "DAN",
+    "home": "FC Norderstedt",
+    "away": "Drochtersen Ass",
+    "league": "ALMBÖL",
     "date": "08.11.2026 13:00",
-    "matchCode": "4474521",
-    "odds": 1.89,
-    "patternScore": 66.98,
-    "patternText": "255.606/381.608",
-    "aiScore": 52,
-    "picks": 8
+    "matchCode": "4506730",
+    "odds": 1.54,
+    "patternScore": 67.48,
+    "patternText": "248.395/368.089",
+    "aiScore": 54,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "AGF Aarhus",
-      "away": "AC Horsens",
-      "league": "DAN",
-      "date": "08.11.2026 13:00",
-      "matchCode": "4474521",
-      "odds": 1.89,
-      "patternScore": 66.98,
-      "patternText": "255.606/381.608",
-      "aiScore": 52,
-      "picks": 8
-    },
     {
       "home": "FC Norderstedt",
       "away": "Drochtersen Ass",
@@ -393,11 +381,11 @@
       "league": "LET",
       "date": "08.11.2026 11:00",
       "matchCode": "4446809",
-      "odds": 1.5,
-      "patternScore": 67.51,
-      "patternText": "277.578/411.172",
+      "odds": 1.49,
+      "patternScore": 66.82,
+      "patternText": "187.325/280.323",
       "aiScore": 56,
-      "picks": 1
+      "picks": 2
     },
     {
       "home": "Elche CF",
@@ -422,9 +410,42 @@
       "patternText": "192.574/287.923",
       "aiScore": 56,
       "picks": 5
+    },
+    {
+      "home": "Vasas Ii",
+      "away": "",
+      "league": "MAC3",
+      "date": "08.11.2026 10:00",
+      "matchCode": "4505073",
+      "odds": 1.35,
+      "patternScore": 68.13,
+      "patternText": "226.322/332.197",
+      "aiScore": 59,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Umraniyespor",
+      "away": "Kayserispor",
+      "league": "T1L",
+      "at": "08.11.2026 07:11",
+      "count": 4
+    },
+    {
+      "home": "Boluspor",
+      "away": "Bodrum FK",
+      "league": "T1L",
+      "at": "08.11.2026 07:11",
+      "count": 2
+    },
+    {
+      "home": "Elche CF",
+      "away": "Real Betis",
+      "league": "İS1",
+      "at": "08.11.2026 07:11",
+      "count": 8
+    },
     {
       "home": "FC Heidenheim",
       "away": "Hannover 96",
@@ -473,27 +494,6 @@
       "league": "ABD",
       "at": "07.11.2026 23:27",
       "count": 18
-    },
-    {
-      "home": "Houston Dynamo",
-      "away": "St. Louis City SC",
-      "league": "ABD",
-      "at": "07.11.2026 23:27",
-      "count": 5
-    },
-    {
-      "home": "Salt Lake",
-      "away": "LA Galaxy",
-      "league": "ABD",
-      "at": "07.11.2026 23:26",
-      "count": 9
-    },
-    {
-      "home": "San Diego FC",
-      "away": "Sporting Kansas City",
-      "league": "ABD",
-      "at": "07.11.2026 23:26",
-      "count": 17
     }
   ],
   "paywall": {
