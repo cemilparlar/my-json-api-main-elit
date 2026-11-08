@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 19:45",
+  "updatedAt": "08.11.2026 19:52",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 650,
-      "lost": 318,
-      "total": 968,
-      "rate": 67.1
+      "won": 635,
+      "lost": 314,
+      "total": 949,
+      "rate": 66.9
     },
     "totalAnalyses": 457749,
     "leagues": 483,
     "pro": {
-      "won": 1208,
-      "lost": 506,
-      "total": 1714,
-      "rate": 70.5
+      "won": 1203,
+      "lost": 505,
+      "total": 1708,
+      "rate": 70.4
     },
     "insights": {
-      "won": 2021,
-      "lost": 855,
-      "total": 2876,
+      "won": 2017,
+      "lost": 853,
+      "total": 2870,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 154,
       "rate": 50.6
     },
-    "analyses24h": 1750,
-    "analyses30d": 22131
+    "analyses24h": 1749,
+    "analyses30d": 22130
   },
   "recentWins": [
     {
@@ -342,12 +342,6 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 13:49",
-      "home": "FC Koln",
-      "away": "Bayer Leverkusen"
-    },
-    {
-      "type": "updated",
       "at": "08.11.2026 14:25",
       "home": "Real Madrid Castilla",
       "away": "Hercules CF"
@@ -360,42 +354,36 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 13:49",
-      "home": "FC Dila Gori",
-      "away": "FC Dinamo Tbilisi"
-    },
-    {
-      "type": "updated",
       "at": "08.11.2026 14:27",
       "home": "Real Sociedad",
       "away": "Rayo Vallecano"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 14:26",
+      "home": "Girona FC",
+      "away": "UD Almeria"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 14:48",
+      "home": "CD Santa Clara",
+      "away": "Gil Vicente FC"
     }
   ],
   "today": {
-    "home": "Rio Ave FC",
-    "away": "SC Braga",
-    "league": "POR",
-    "date": "08.11.2026 20:30",
-    "matchCode": "4517050",
-    "odds": 1.37,
-    "patternScore": 66.84,
-    "patternText": "166.238/248.715",
-    "aiScore": 56,
-    "picks": 5
+    "home": "Ceara SC",
+    "away": "America Mineiro",
+    "league": "BR2",
+    "date": "08.11.2026 22:15",
+    "matchCode": "4454051",
+    "odds": 1.21,
+    "patternScore": 68.21,
+    "patternText": "185.303/271.666",
+    "aiScore": 72,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Rio Ave FC",
-      "away": "SC Braga",
-      "league": "POR",
-      "date": "08.11.2026 20:30",
-      "matchCode": "4517050",
-      "odds": 1.37,
-      "patternScore": 66.84,
-      "patternText": "166.238/248.715",
-      "aiScore": 56,
-      "picks": 5
-    },
     {
       "home": "Ceara SC",
       "away": "America Mineiro",
@@ -442,6 +430,18 @@
       "patternScore": 71.73,
       "patternText": "145.806/203.264",
       "aiScore": 96,
+      "picks": 1
+    },
+    {
+      "home": "T.Universitari",
+      "away": "Manta",
+      "league": "EKV1",
+      "date": "08.11.2026 20:30",
+      "matchCode": "4563366",
+      "odds": 1.11,
+      "patternScore": 70.11,
+      "patternText": "303.912/433.500",
+      "aiScore": 86,
       "picks": 1
     }
   ],
