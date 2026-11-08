@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 10:53",
+  "updatedAt": "08.11.2026 11:03",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 668,
-      "lost": 324,
-      "total": 992,
-      "rate": 67.3
+      "won": 656,
+      "lost": 317,
+      "total": 973,
+      "rate": 67.4
     },
-    "totalAnalyses": 456722,
+    "totalAnalyses": 456775,
     "leagues": 486,
     "pro": {
-      "won": 1230,
-      "lost": 492,
-      "total": 1722,
-      "rate": 71.4
+      "won": 1217,
+      "lost": 489,
+      "total": 1706,
+      "rate": 71.3
     },
     "insights": {
-      "won": 2021,
-      "lost": 859,
-      "total": 2880,
-      "rate": 70.2
+      "won": 1998,
+      "lost": 851,
+      "total": 2849,
+      "rate": 70.1
     },
     "coupons": {
       "won": 75,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 50.7
     },
-    "analyses24h": 2815,
-    "analyses30d": 22248
+    "analyses24h": 2780,
+    "analyses30d": 22241
   },
   "recentWins": [
     {
@@ -102,7 +102,7 @@
       "odds": 2.1,
       "probability": 100.0,
       "patternScore": 58.09,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "0 - 0",
       "finalScore": "1 - 1",
       "pro": true
@@ -348,12 +348,6 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 04:53",
-      "home": "Gamba Osaka",
-      "away": "Cerezo Osaka"
-    },
-    {
-      "type": "updated",
       "at": "08.11.2026 06:45",
       "home": "JEF United Chiba",
       "away": "Mito HollyHock"
@@ -369,6 +363,12 @@
       "at": "08.11.2026 10:50",
       "home": "Corum FK",
       "away": "Fenerbahce"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 09:34",
+      "home": "Umraniyespor",
+      "away": "Kayserispor"
     }
   ],
   "today": {
@@ -433,88 +433,88 @@
       "picks": 5
     },
     {
-      "home": "Genoa CFC",
-      "away": "AC Milan",
-      "league": "İTA",
-      "date": "08.11.2026 14:00",
-      "matchCode": "4475144",
-      "odds": 1.6,
-      "patternScore": 68.08,
-      "patternText": "217.478/319.431",
-      "aiScore": 56,
-      "picks": 3
+      "home": "Iraklis 1908",
+      "away": "Panathinaikos",
+      "league": "YUN",
+      "date": "08.11.2026 15:30",
+      "matchCode": "4540167",
+      "odds": 1.55,
+      "patternScore": 66.81,
+      "patternText": "268.536/401.966",
+      "aiScore": 55,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Zenit St. Petersburg",
+      "away": "FC Rostov",
+      "league": "RUS",
+      "at": "08.11.2026 11:03",
+      "count": 6
+    },
+    {
+      "home": "Alanyaspor",
+      "away": "Trabzonspor",
+      "league": "TSL",
+      "at": "08.11.2026 11:02",
+      "count": 4
+    },
+    {
+      "home": "CD Santa Clara",
+      "away": "Gil Vicente FC",
+      "league": "POR",
+      "at": "08.11.2026 11:02",
+      "count": 9
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Rayo Vallecano",
+      "league": "İS1",
+      "at": "08.11.2026 10:59",
+      "count": 6
+    },
+    {
+      "home": "Girona FC",
+      "away": "UD Almeria",
+      "league": "İS2",
+      "at": "08.11.2026 10:59",
+      "count": 6
+    },
+    {
+      "home": "FC Koln",
+      "away": "Bayer Leverkusen",
+      "league": "AL1",
+      "at": "08.11.2026 10:55",
+      "count": 8
+    },
+    {
+      "home": "Sunderland",
+      "away": "Chelsea",
+      "league": "İNP",
+      "at": "08.11.2026 10:54",
+      "count": 4
+    },
+    {
+      "home": "Brighton & Hove Albion",
+      "away": "Brentford",
+      "league": "İNP",
+      "at": "08.11.2026 10:54",
+      "count": 7
+    },
+    {
+      "home": "AC Monza",
+      "away": "Atalanta",
+      "league": "İTA",
+      "at": "08.11.2026 10:53",
+      "count": 5
+    },
     {
       "home": "Genoa CFC",
       "away": "AC Milan",
       "league": "İTA",
       "at": "08.11.2026 10:53",
       "count": 8
-    },
-    {
-      "home": "FC Twente",
-      "away": "Ajax",
-      "league": "HOL",
-      "at": "08.11.2026 10:52",
-      "count": 18
-    },
-    {
-      "home": "Elche CF",
-      "away": "Real Betis",
-      "league": "İS1",
-      "at": "08.11.2026 10:51",
-      "count": 6
-    },
-    {
-      "home": "Corum FK",
-      "away": "Fenerbahce",
-      "league": "TSL",
-      "at": "08.11.2026 10:50",
-      "count": 6
-    },
-    {
-      "home": "Club Brugge",
-      "away": "RSC Anderlecht",
-      "league": "BEL",
-      "at": "08.11.2026 10:49",
-      "count": 16
-    },
-    {
-      "home": "SSC Napoli",
-      "away": "SS Lazio",
-      "league": "İTA",
-      "at": "08.11.2026 10:46",
-      "count": 5
-    },
-    {
-      "home": "FC Koln",
-      "away": "Bayer Leverkusen",
-      "league": "AL1",
-      "at": "08.11.2026 10:32",
-      "count": 13
-    },
-    {
-      "home": "Ipswich Town",
-      "away": "AFC Bournemouth",
-      "league": "İNP",
-      "at": "08.11.2026 10:31",
-      "count": 6
-    },
-    {
-      "home": "AC Monza",
-      "away": "Atalanta",
-      "league": "İTA",
-      "at": "08.11.2026 10:31",
-      "count": 4
-    },
-    {
-      "home": "Stade Rennais",
-      "away": "LOSC Lille",
-      "league": "FR1",
-      "at": "08.11.2026 10:30",
-      "count": 6
     }
   ],
   "paywall": {
