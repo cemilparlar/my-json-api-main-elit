@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 18:27",
+  "updatedAt": "08.11.2026 18:35",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 631,
-      "lost": 308,
-      "total": 939,
-      "rate": 67.2
+      "won": 634,
+      "lost": 304,
+      "total": 938,
+      "rate": 67.6
     },
-    "totalAnalyses": 457726,
+    "totalAnalyses": 457730,
     "leagues": 483,
     "pro": {
-      "won": 1181,
-      "lost": 484,
-      "total": 1665,
+      "won": 1184,
+      "lost": 486,
+      "total": 1670,
       "rate": 70.9
     },
     "insights": {
-      "won": 1982,
-      "lost": 830,
-      "total": 2812,
+      "won": 1987,
+      "lost": 832,
+      "total": 2819,
       "rate": 70.5
     },
     "coupons": {
-      "won": 77,
+      "won": 78,
       "lost": 76,
-      "total": 153,
-      "rate": 50.3
+      "total": 154,
+      "rate": 50.6
     },
-    "analyses24h": 1854,
-    "analyses30d": 22146
+    "analyses24h": 1829,
+    "analyses30d": 22143
   },
   "recentWins": [
     {
@@ -123,6 +123,49 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 5,
+      "totalOdds": 1.51,
+      "winChance": 36.91,
+      "completedAt": "08.11.2026 18:35",
+      "legs": [
+        {
+          "home": "Disgyor Ii",
+          "away": "Tarpa",
+          "prediction": "Double Chance 12",
+          "odds": 1.06,
+          "finalScore": "7 - 1"
+        },
+        {
+          "home": "Paris U19",
+          "away": "Annecy U19",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Real Oviedo B",
+          "away": "Coruxo",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.06,
+          "finalScore": null
+        },
+        {
+          "home": "Villarreal B",
+          "away": "Juventud Torrem",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.06,
+          "finalScore": "1 - 1"
+        },
+        {
+          "home": "Krylya Sovetov",
+          "away": "FC Orenburg",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.15,
+          "finalScore": "2 - 0"
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.52,
@@ -244,42 +287,6 @@
           "finalScore": "3 - 0"
         }
       ]
-    },
-    {
-      "size": 4,
-      "totalOdds": 1.5,
-      "winChance": 39.29,
-      "completedAt": "08.11.2026 13:06",
-      "legs": [
-        {
-          "home": "Macarthur FC",
-          "away": "Brisbane Roar",
-          "prediction": "Double Chance 12",
-          "odds": 1.15,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "Daejeon Citizen",
-          "away": "Incheon United",
-          "prediction": "Handicap (0:2) 2",
-          "odds": 1.08,
-          "finalScore": null
-        },
-        {
-          "home": "Vissel Kobe",
-          "away": "Urawa Red Diamonds",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.09,
-          "finalScore": "2 - 2"
-        },
-        {
-          "home": "Cheonan City F",
-          "away": "Busan Ipark",
-          "prediction": "Double Chance 12",
-          "odds": 1.11,
-          "finalScore": "1 - 0"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -390,18 +397,6 @@
       "picks": 5
     },
     {
-      "home": "Lech Poznan",
-      "away": "Zaglebie Lubin",
-      "league": "POL",
-      "date": "08.11.2026 19:15",
-      "matchCode": "4484412",
-      "odds": 1.41,
-      "patternScore": 67.63,
-      "patternText": "266.593/394.180",
-      "aiScore": 57,
-      "picks": 2
-    },
-    {
       "home": "Rio Ave FC",
       "away": "SC Braga",
       "league": "POR",
@@ -435,6 +430,18 @@
       "patternScore": 68.21,
       "patternText": "185.229/271.560",
       "aiScore": 72,
+      "picks": 2
+    },
+    {
+      "home": "Murcia",
+      "away": "Algeciras CF",
+      "league": "İS3",
+      "date": "08.11.2026 19:30",
+      "matchCode": "4493626",
+      "odds": 1.18,
+      "patternScore": 69.18,
+      "patternText": "328.858/475.350",
+      "aiScore": 71,
       "picks": 2
     }
   ],
