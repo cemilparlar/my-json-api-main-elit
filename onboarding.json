@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 01:21",
+  "updatedAt": "08.11.2026 01:29",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 683,
+      "won": 685,
       "lost": 324,
-      "total": 1007,
-      "rate": 67.8
+      "total": 1009,
+      "rate": 67.9
     },
-    "totalAnalyses": 455848,
+    "totalAnalyses": 455853,
     "leagues": 486,
     "pro": {
-      "won": 1207,
+      "won": 1209,
       "lost": 485,
-      "total": 1692,
-      "rate": 71.3
+      "total": 1694,
+      "rate": 71.4
     },
     "insights": {
-      "won": 1980,
+      "won": 1982,
       "lost": 856,
-      "total": 2836,
+      "total": 2838,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 140,
       "rate": 50.0
     },
-    "analyses24h": 2848,
-    "analyses30d": 22063
+    "analyses24h": 2847,
+    "analyses30d": 22062
   },
   "recentWins": [
     {
@@ -355,15 +355,9 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 00:04",
+      "at": "08.11.2026 01:23",
       "home": "Gamba Osaka",
       "away": "Cerezo Osaka"
-    },
-    {
-      "type": "updated",
-      "at": "07.11.2026 19:24",
-      "home": "Real Zaragoza",
-      "away": "SD Huesca"
     },
     {
       "type": "updated",
@@ -376,6 +370,12 @@
       "at": "07.11.2026 22:24",
       "home": "Seattle Sounders",
       "away": "Los Angeles FC"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 01:22",
+      "home": "Not FC Seoul - check data",
+      "away": "Ulsan Hyundai"
     }
   ],
   "today": {
@@ -416,18 +416,6 @@
       "picks": 5
     },
     {
-      "home": "Gamba Osaka",
-      "away": "Cerezo Osaka",
-      "league": "JAP",
-      "date": "08.11.2026 06:00",
-      "matchCode": "4487264",
-      "odds": 1.54,
-      "patternScore": 68.06,
-      "patternText": "212.334/312.000",
-      "aiScore": 54,
-      "picks": 5
-    },
-    {
       "home": "Vissel Kobe",
       "away": "Urawa Red Diamonds",
       "league": "JAP",
@@ -440,16 +428,28 @@
       "picks": 6
     },
     {
-      "home": "Shenzhen 2028",
-      "away": "Shanghai Port I",
-      "league": "ÇİN2",
-      "date": "08.11.2026 06:30",
-      "matchCode": "4561405",
-      "odds": 1.29,
-      "patternScore": 67.94,
-      "patternText": "215.322/316.938",
-      "aiScore": 58,
-      "picks": 3
+      "home": "Vegalta Sendai",
+      "away": "Kofu",
+      "league": "JAP2",
+      "date": "08.11.2026 06:00",
+      "matchCode": "4487658",
+      "odds": 1.27,
+      "patternScore": 68.46,
+      "patternText": "246.540/360.126",
+      "aiScore": 75,
+      "picks": 1
+    },
+    {
+      "home": "Yenisey Krasnoyarsk",
+      "away": "Pfc Sochi",
+      "league": "RUS1",
+      "date": "08.11.2026 06:45",
+      "matchCode": "4498110",
+      "odds": 1.27,
+      "patternScore": 69.19,
+      "patternText": "228.305/329.951",
+      "aiScore": 64,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
