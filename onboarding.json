@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 10:00",
+  "updatedAt": "08.11.2026 10:10",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 685,
-      "lost": 327,
-      "total": 1012,
-      "rate": 67.7
+      "won": 684,
+      "lost": 324,
+      "total": 1008,
+      "rate": 67.9
     },
-    "totalAnalyses": 456644,
+    "totalAnalyses": 456652,
     "leagues": 486,
     "pro": {
-      "won": 1233,
-      "lost": 494,
-      "total": 1727,
-      "rate": 71.4
+      "won": 1229,
+      "lost": 489,
+      "total": 1718,
+      "rate": 71.5
     },
     "insights": {
-      "won": 2026,
-      "lost": 863,
-      "total": 2889,
-      "rate": 70.1
+      "won": 2021,
+      "lost": 858,
+      "total": 2879,
+      "rate": 70.2
     },
     "coupons": {
       "won": 75,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 50.7
     },
-    "analyses24h": 2815,
-    "analyses30d": 22221
+    "analyses24h": 2826,
+    "analyses30d": 22232
   },
   "recentWins": [
     {
@@ -60,6 +60,20 @@
       "odds": 4.0,
       "probability": 100.0,
       "patternScore": 57.4,
+      "aiScore": 51,
+      "firstHalf": "1 - 0",
+      "finalScore": "2 - 1",
+      "pro": true
+    },
+    {
+      "home": "Yunnan Yukun",
+      "away": "Wuhan Three Tow",
+      "league": "ÇİNSL",
+      "date": "08.11.2026 07:30",
+      "prediction": "Total Goals 2-3",
+      "odds": 2.68,
+      "probability": 100.0,
+      "patternScore": 56.55,
       "aiScore": 51,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 1",
@@ -88,7 +102,7 @@
       "odds": 2.1,
       "probability": 100.0,
       "patternScore": 58.09,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "0 - 0",
       "finalScore": "1 - 1",
       "pro": true
@@ -105,20 +119,6 @@
       "aiScore": 52,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
-      "pro": false
-    },
-    {
-      "home": "Metro Gallery",
-      "away": "Yuen Long FC",
-      "league": "HK2",
-      "date": "08.11.2026 05:30",
-      "prediction": "Both Teams to Score - No",
-      "odds": 1.94,
-      "probability": 71.43,
-      "patternScore": 66.9,
-      "aiScore": 52,
-      "firstHalf": "0 - 2",
-      "finalScore": "0 - 3",
       "pro": false
     }
   ],
@@ -300,6 +300,14 @@
     },
     {
       "type": "won",
+      "home": "Yunnan Yukun",
+      "away": "Wuhan Three Tow",
+      "prediction": "Total Goals 2-3",
+      "odds": 2.68,
+      "at": "08.11.2026 07:30"
+    },
+    {
+      "type": "won",
       "home": "Paris Saint-Germain",
       "away": "ESTAC Troyes",
       "prediction": "Handicap (0:2) 2",
@@ -313,14 +321,6 @@
       "prediction": "1st Half Result X",
       "odds": 2.1,
       "at": "07.11.2026 14:00"
-    },
-    {
-      "type": "won",
-      "home": "OB Odense",
-      "away": "Viborg FF",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.97,
-      "at": "07.11.2026 17:00"
     },
     {
       "type": "coupon",
@@ -379,7 +379,7 @@
     "matchCode": "4517051",
     "odds": 3.09,
     "patternScore": 67.17,
-    "patternText": "186.393/277.484",
+    "patternText": "186.467/277.598",
     "aiScore": 52,
     "picks": 3
   },
@@ -392,7 +392,7 @@
       "matchCode": "4517051",
       "odds": 3.09,
       "patternScore": 67.17,
-      "patternText": "186.393/277.484",
+      "patternText": "186.467/277.598",
       "aiScore": 52,
       "picks": 3
     },
@@ -404,7 +404,7 @@
       "matchCode": "4426808",
       "odds": 1.77,
       "patternScore": 65.25,
-      "patternText": "332.559/509.635",
+      "patternText": "332.745/509.921",
       "aiScore": 53,
       "picks": 8
     },
@@ -416,7 +416,7 @@
       "matchCode": "4481110",
       "odds": 1.58,
       "patternScore": 67.51,
-      "patternText": "268.860/398.267",
+      "patternText": "268.990/398.441",
       "aiScore": 54,
       "picks": 5
     },
@@ -428,7 +428,7 @@
       "matchCode": "4540167",
       "odds": 1.55,
       "patternScore": 66.81,
-      "patternText": "268.408/401.774",
+      "patternText": "268.506/401.912",
       "aiScore": 55,
       "picks": 1
     },
@@ -440,12 +440,19 @@
       "matchCode": "4475146",
       "odds": 1.51,
       "patternScore": 67.56,
-      "patternText": "299.693/443.611",
+      "patternText": "299.791/443.749",
       "aiScore": 55,
       "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SSC Napoli",
+      "away": "SS Lazio",
+      "league": "İTA",
+      "at": "08.11.2026 10:07",
+      "count": 5
+    },
     {
       "home": "KAA Gent",
       "away": "KV Kortrijk",
@@ -508,13 +515,6 @@
       "league": "FR1",
       "at": "08.11.2026 09:44",
       "count": 6
-    },
-    {
-      "home": "Virtus Entella",
-      "away": "Modena FC",
-      "league": "İTB",
-      "at": "08.11.2026 09:43",
-      "count": 9
     }
   ],
   "paywall": {
