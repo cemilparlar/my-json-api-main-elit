@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 01:37",
+  "updatedAt": "08.11.2026 01:45",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 1009,
       "rate": 67.9
     },
-    "totalAnalyses": 455853,
+    "totalAnalyses": 455868,
     "leagues": 486,
     "pro": {
       "won": 1206,
@@ -42,13 +42,13 @@
       "rate": 69.9
     },
     "coupons": {
-      "won": 70,
+      "won": 71,
       "lost": 70,
-      "total": 140,
-      "rate": 50.0
+      "total": 141,
+      "rate": 50.4
     },
-    "analyses24h": 2845,
-    "analyses30d": 22060
+    "analyses24h": 2856,
+    "analyses30d": 22071
   },
   "recentWins": [
     {
@@ -116,13 +116,42 @@
       "odds": 1.94,
       "probability": 80.0,
       "patternScore": 67.11,
-      "aiScore": 52,
+      "aiScore": 53,
       "firstHalf": "1 - 1",
       "finalScore": "2 - 1",
       "pro": true
     }
   ],
   "recentCoupons": [
+    {
+      "size": 3,
+      "totalOdds": 1.51,
+      "winChance": 49.4,
+      "completedAt": "08.11.2026 01:45",
+      "legs": [
+        {
+          "home": "VfB Stuttgart",
+          "away": "Werder Bremen",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.13,
+          "finalScore": "1 - 0"
+        },
+        {
+          "home": "Aberdeen",
+          "away": "Hibernian",
+          "prediction": "Double Chance 12",
+          "odds": 1.18,
+          "finalScore": null
+        },
+        {
+          "home": "FC Cartagena",
+          "away": "Sant Andreu",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.13,
+          "finalScore": "2 - 2"
+        }
+      ]
+    },
     {
       "size": 5,
       "totalOdds": 1.58,
@@ -251,49 +280,6 @@
           "finalScore": "2 - 1"
         }
       ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.54,
-      "winChance": 37.36,
-      "completedAt": "07.11.2026 23:01",
-      "legs": [
-        {
-          "home": "Glenavon",
-          "away": "Institute Fc",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.09,
-          "finalScore": null
-        },
-        {
-          "home": "Chorley",
-          "away": "Hereford Fc",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.06,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "Dungannon",
-          "away": "Limavady United",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.07,
-          "finalScore": null
-        },
-        {
-          "home": "Blackburn",
-          "away": "West Ham United",
-          "prediction": "Double Chance 12",
-          "odds": 1.08,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Cardiff City",
-          "away": "Burnley",
-          "prediction": "Handicap (0:2) 2",
-          "odds": 1.15,
-          "finalScore": "5 - 4"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -355,6 +341,12 @@
     },
     {
       "type": "updated",
+      "at": "08.11.2026 01:45",
+      "home": "Vegalta Sendai",
+      "away": "Kofu"
+    },
+    {
+      "type": "updated",
       "at": "08.11.2026 01:23",
       "home": "Gamba Osaka",
       "away": "Cerezo Osaka"
@@ -370,12 +362,6 @@
       "at": "07.11.2026 22:24",
       "home": "Seattle Sounders",
       "away": "Los Angeles FC"
-    },
-    {
-      "type": "updated",
-      "at": "08.11.2026 01:22",
-      "home": "Not FC Seoul - check data",
-      "away": "Ulsan Hyundai"
     }
   ],
   "today": {
