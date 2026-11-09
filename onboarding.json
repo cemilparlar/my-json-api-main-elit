@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 19:24",
+  "updatedAt": "09.11.2026 19:32",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 70,
+      "won": 68,
       "lost": 24,
-      "total": 94,
-      "rate": 74.5
+      "total": 92,
+      "rate": 73.9
     },
     "totalAnalyses": 458865,
     "leagues": 455,
     "pro": {
-      "won": 1190,
-      "lost": 508,
-      "total": 1698,
+      "won": 1182,
+      "lost": 503,
+      "total": 1685,
       "rate": 70.1
     },
     "insights": {
-      "won": 1967,
-      "lost": 827,
-      "total": 2794,
-      "rate": 70.4
+      "won": 1955,
+      "lost": 819,
+      "total": 2774,
+      "rate": 70.5
     },
     "coupons": {
       "won": 69,
@@ -47,8 +47,8 @@
       "total": 142,
       "rate": 48.6
     },
-    "analyses24h": 424,
-    "analyses30d": 21412
+    "analyses24h": 421,
+    "analyses30d": 21411
   },
   "recentWins": [
     {
@@ -102,7 +102,7 @@
       "odds": 2.18,
       "probability": 100.0,
       "patternScore": 57.23,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "2 - 0",
       "finalScore": "3 - 0",
       "pro": false
@@ -344,7 +344,7 @@
     "matchCode": "4517350",
     "odds": 1.25,
     "patternScore": 68.47,
-    "patternText": "178.882/261.261",
+    "patternText": "178.890/261.269",
     "aiScore": 70,
     "picks": 1
   },
@@ -357,7 +357,7 @@
       "matchCode": "4517350",
       "odds": 1.25,
       "patternScore": 68.47,
-      "patternText": "178.882/261.261",
+      "patternText": "178.890/261.269",
       "aiScore": 70,
       "picks": 1
     },
@@ -369,7 +369,7 @@
       "matchCode": "4562929",
       "odds": 1.13,
       "patternScore": 70.61,
-      "patternText": "230.370/326.270",
+      "patternText": "230.376/326.276",
       "aiScore": 88,
       "picks": 1
     },
@@ -379,22 +379,10 @@
       "league": "BOLİ",
       "date": "10.11.2026 00:30",
       "matchCode": "4577017",
-      "odds": 1.08,
-      "patternScore": 70.9,
-      "patternText": "236.351/333.365",
-      "aiScore": 98,
-      "picks": 1
-    },
-    {
-      "home": "Deportivo La Coruna",
-      "away": "Valencia Women",
-      "league": "İSKPR",
-      "date": "09.11.2026 20:00",
-      "matchCode": "4528010",
-      "odds": 1.08,
-      "patternScore": 71.83,
-      "patternText": "156.347/217.656",
-      "aiScore": 97,
+      "odds": 1.07,
+      "patternScore": 66.6,
+      "patternText": "244.245/366.731",
+      "aiScore": 89,
       "picks": 1
     },
     {
@@ -405,9 +393,21 @@
       "matchCode": "4562928",
       "odds": 1.06,
       "patternScore": 70.05,
-      "patternText": "266.314/380.156",
+      "patternText": "266.320/380.162",
       "aiScore": 96,
       "picks": 1
+    },
+    {
+      "home": "Leicester City",
+      "away": "Walsall",
+      "league": "İNTK",
+      "date": "10.11.2026 19:00",
+      "matchCode": "4527854",
+      "odds": 1.39,
+      "patternScore": 66.3,
+      "patternText": "148.857/224.525",
+      "aiScore": 57,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
