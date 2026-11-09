@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 14:03",
+  "updatedAt": "09.11.2026 14:10",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 520,
       "rate": 67.1
     },
-    "totalAnalyses": 458491,
+    "totalAnalyses": 458494,
     "leagues": 476,
     "pro": {
       "won": 1231,
@@ -47,8 +47,8 @@
       "total": 146,
       "rate": 49.3
     },
-    "analyses24h": 912,
-    "analyses30d": 22074
+    "analyses24h": 909,
+    "analyses30d": 22071
   },
   "recentWins": [
     {
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Chelmsford",
-    "away": "Ebbsfleet",
-    "league": "İCON",
-    "date": "09.11.2026 19:45",
-    "matchCode": "4515961",
+    "home": "Mushuc Runa SC",
+    "away": "Delfin SC",
+    "league": "EKV1",
+    "date": "09.11.2026 18:00",
+    "matchCode": "4563365",
     "odds": 1.28,
-    "patternScore": 68.91,
-    "patternText": "264.771/384.208",
-    "aiScore": 65,
+    "patternScore": 68.35,
+    "patternText": "208.481/305.003",
+    "aiScore": 62,
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "Chelmsford",
-      "away": "Ebbsfleet",
-      "league": "İCON",
-      "date": "09.11.2026 19:45",
-      "matchCode": "4515961",
-      "odds": 1.28,
-      "patternScore": 68.91,
-      "patternText": "264.771/384.208",
-      "aiScore": 65,
-      "picks": 2
-    },
     {
       "home": "Mushuc Runa SC",
       "away": "Delfin SC",
@@ -407,6 +395,18 @@
       "patternScore": 68.87,
       "patternText": "128.992/187.310",
       "aiScore": 80,
+      "picks": 3
+    },
+    {
+      "home": "Hvidovre IF",
+      "away": "Aarhus Fremad",
+      "league": "DAN1",
+      "date": "09.11.2026 18:00",
+      "matchCode": "4476298",
+      "odds": 1.15,
+      "patternScore": 68.73,
+      "patternText": "221.831/322.736",
+      "aiScore": 71,
       "picks": 3
     }
   ],
