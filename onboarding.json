@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 03:59",
+  "updatedAt": "09.11.2026 04:06",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 736,
-      "lost": 349,
-      "total": 1085,
-      "rate": 67.8
+      "won": 720,
+      "lost": 343,
+      "total": 1063,
+      "rate": 67.7
     },
     "totalAnalyses": 457821,
     "leagues": 480,
@@ -42,12 +42,12 @@
       "rate": 70.3
     },
     "coupons": {
-      "won": 75,
+      "won": 74,
       "lost": 75,
-      "total": 150,
-      "rate": 50.0
+      "total": 149,
+      "rate": 49.7
     },
-    "analyses24h": 1450,
+    "analyses24h": 1428,
     "analyses30d": 22074
   },
   "recentWins": [
@@ -288,12 +288,6 @@
       "at": "08.11.2026 14:30"
     },
     {
-      "type": "coupon",
-      "size": 3,
-      "odds": 1.52,
-      "at": "08.11.2026 16:00"
-    },
-    {
       "type": "updated",
       "at": "09.11.2026 00:33",
       "home": "Alianza Petroleum",
@@ -313,7 +307,7 @@
     },
     {
       "type": "analysis",
-      "count": 1450
+      "count": 1428
     }
   ],
   "today": {
