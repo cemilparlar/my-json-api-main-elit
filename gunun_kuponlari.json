@@ -2,7 +2,7 @@
   "version": 1,
   "stats7": {
     "multi": {
-      "won": 77,
+      "won": 76,
       "lost": 75
     },
     "c70_2": {
@@ -10,7 +10,7 @@
       "lost": 1
     },
     "c70_1": {
-      "won": 7,
+      "won": 6,
       "lost": 0
     },
     "c70_3": {
@@ -104,8 +104,8 @@
       "lost": 6
     }
   },
-  "updatedAt": "09.11.2026 01:06",
-  "updatedAtUtc": "2026-11-09T01:06:00Z",
+  "updatedAt": "09.11.2026 01:14",
+  "updatedAtUtc": "2026-11-09T01:14:00Z",
   "upcoming": [],
   "completed": [
     {
@@ -3826,95 +3826,6 @@
           "firstHalf": "1 - 1",
           "finalScore": "2 - 2",
           "status": "won",
-          "aiScore": 82
-        }
-      ]
-    },
-    {
-      "id": "20261107-23-1",
-      "createdAt": "07.11.2026 20:01",
-      "createdAtUtc": "2026-11-07T20:01:00Z",
-      "size": 3,
-      "mbs": 1,
-      "totalOdds": 1.55,
-      "winChance": 49.45,
-      "firstKickoff": "07.11.2026 21:00",
-      "lastKickoff": "07.11.2026 23:00",
-      "status": "lost",
-      "completedAt": "08.11.2026 01:07",
-      "kind": "cyz_3",
-      "group": "multi",
-      "formula": "3",
-      "multiScore": 80,
-      "effectiveOdds": 1.37,
-      "legs": [
-        {
-          "matchCode": "4419844",
-          "nesine": null,
-          "date": "07.11.2026 21:00",
-          "kickoffUtc": "2026-11-07T21:00:00Z",
-          "league": "ABD",
-          "home": "Orlando City SC",
-          "away": "New England Revolution",
-          "league_tr": "ABD",
-          "home_tr": "Orlando City",
-          "away_tr": "New England",
-          "prediction": "1st Half Under 2.5",
-          "prediction_tr": "1. Yarı 2,5 Alt/Üst Alt",
-          "odds": 1.13,
-          "probability": 100.0,
-          "patternScore": 58.11,
-          "patternText": "231.876/399.017",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "void",
-          "aiScore": 83
-        },
-        {
-          "matchCode": "4564201",
-          "nesine": null,
-          "date": "07.11.2026 21:00",
-          "kickoffUtc": "2026-11-07T21:00:00Z",
-          "league": "BRK",
-          "home": "Atletico Mineiro",
-          "away": "Gremio FBPA",
-          "league_tr": "BRK",
-          "home_tr": "Atletico Mg",
-          "away_tr": "Gremio",
-          "prediction": "Under 3.5 Goals",
-          "prediction_tr": "3,5 Alt/Üst Alt",
-          "odds": 1.19,
-          "probability": 83.33,
-          "patternScore": 67.93,
-          "patternText": "182.075/268.024",
-          "mbs": 1,
-          "firstHalf": "1 - 1",
-          "finalScore": "1 - 1",
-          "status": "won",
-          "aiScore": 81
-        },
-        {
-          "matchCode": "4476489",
-          "nesine": null,
-          "date": "07.11.2026 23:00",
-          "kickoffUtc": "2026-11-07T23:00:00Z",
-          "league": "MEK",
-          "home": "Atlas FC",
-          "away": "CF Pachuca",
-          "league_tr": "MEK",
-          "home_tr": "Atlas",
-          "away_tr": "Pachuca",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.15,
-          "probability": 81.33,
-          "patternScore": 70.22,
-          "patternText": "154.798/220.460",
-          "mbs": 1,
-          "firstHalf": "0 - 2",
-          "finalScore": "1 - 4",
-          "status": "lost",
           "aiScore": 82
         }
       ]
