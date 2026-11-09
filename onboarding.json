@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 12:07",
+  "updatedAt": "09.11.2026 12:16",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 538,
-      "lost": 265,
-      "total": 803,
-      "rate": 67.0
+      "won": 530,
+      "lost": 260,
+      "total": 790,
+      "rate": 67.1
     },
-    "totalAnalyses": 458373,
+    "totalAnalyses": 458385,
     "leagues": 478,
     "pro": {
       "won": 1233,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 49.3
     },
-    "analyses24h": 1240,
-    "analyses30d": 22160
+    "analyses24h": 1229,
+    "analyses30d": 22166
   },
   "recentWins": [
     {
@@ -289,9 +289,27 @@
     },
     {
       "type": "updated",
+      "at": "09.11.2026 12:11",
+      "home": "Kristiansund",
+      "away": "Valerenga"
+    },
+    {
+      "type": "updated",
+      "at": "09.11.2026 12:11",
+      "home": "Hvidovre IF",
+      "away": "Aarhus Fremad"
+    },
+    {
+      "type": "updated",
       "at": "09.11.2026 11:09",
       "home": "Veles",
       "away": "KAMAZ Naberezhnye Chelny"
+    },
+    {
+      "type": "updated",
+      "at": "09.11.2026 12:12",
+      "home": "FC Botosani",
+      "away": "Otelul Galati"
     },
     {
       "type": "updated",
@@ -313,7 +331,7 @@
     },
     {
       "type": "analysis",
-      "count": 1240
+      "count": 1229
     }
   ],
   "today": {
@@ -406,20 +424,6 @@
       "count": 5
     },
     {
-      "home": "Barcelona Women",
-      "away": "Arsenal Women",
-      "league": "ŞMP-K",
-      "at": "09.11.2026 06:57",
-      "count": 5
-    },
-    {
-      "home": "Real Madrid Women",
-      "away": "Paris Women",
-      "league": "ŞMP-K",
-      "at": "09.11.2026 06:47",
-      "count": 4
-    },
-    {
       "home": "Austria",
       "away": "Ireland",
       "league": "AVUL",
@@ -460,6 +464,20 @@
       "league": "AVUL",
       "at": "09.11.2026 06:31",
       "count": 5
+    },
+    {
+      "home": "Netherlands",
+      "away": "Greece",
+      "league": "AVUL",
+      "at": "09.11.2026 06:31",
+      "count": 4
+    },
+    {
+      "home": "Andorra",
+      "away": "Gibraltar",
+      "league": "AVUL",
+      "at": "09.11.2026 06:30",
+      "count": 11
     }
   ],
   "paywall": {
