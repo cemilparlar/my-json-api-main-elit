@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 06:40",
+  "updatedAt": "09.11.2026 06:47",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 690,
-      "lost": 336,
-      "total": 1026,
-      "rate": 67.3
+      "won": 689,
+      "lost": 334,
+      "total": 1023,
+      "rate": 67.4
     },
-    "totalAnalyses": 458080,
+    "totalAnalyses": 458120,
     "leagues": 481,
     "pro": {
       "won": 1233,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 49.3
     },
-    "analyses24h": 1463,
-    "analyses30d": 22164
+    "analyses24h": 1464,
+    "analyses30d": 22168
   },
   "recentWins": [
     {
@@ -289,7 +289,7 @@
     },
     {
       "type": "analysis",
-      "count": 1463
+      "count": 1464
     }
   ],
   "today": {
@@ -368,6 +368,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Real Madrid Women",
+      "away": "Paris Women",
+      "league": "ŞMP-K",
+      "at": "09.11.2026 06:47",
+      "count": 4
+    },
+    {
       "home": "Austria",
       "away": "Ireland",
       "league": "AVUL",
@@ -429,13 +436,6 @@
       "league": "AVUL",
       "at": "09.11.2026 06:29",
       "count": 14
-    },
-    {
-      "home": "Moldova",
-      "away": "Kazakhstan",
-      "league": "AVUL",
-      "at": "09.11.2026 06:29",
-      "count": 6
     }
   ],
   "paywall": {
