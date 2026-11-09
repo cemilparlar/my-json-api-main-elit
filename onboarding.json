@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 11:53",
+  "updatedAt": "09.11.2026 12:00",
   "config": {
     "pages": [
       "engine",
@@ -28,7 +28,7 @@
       "rate": 67.1
     },
     "totalAnalyses": 458373,
-    "leagues": 479,
+    "leagues": 478,
     "pro": {
       "won": 1234,
       "lost": 524,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 49.3
     },
-    "analyses24h": 1303,
-    "analyses30d": 22181
+    "analyses24h": 1240,
+    "analyses30d": 22160
   },
   "recentWins": [
     {
@@ -313,34 +313,22 @@
     },
     {
       "type": "analysis",
-      "count": 1303
+      "count": 1240
     }
   ],
   "today": {
-    "home": "Cska Sofia Ii",
-    "away": "Rilski Sportist",
-    "league": "BULB",
-    "date": "09.11.2026 12:30",
-    "matchCode": "4505894",
-    "odds": 1.21,
-    "patternScore": 68.67,
-    "patternText": "199.798/290.964",
-    "aiScore": 67,
+    "home": "Veles",
+    "away": "KAMAZ Naberezhnye Chelny",
+    "league": "RUS1",
+    "date": "09.11.2026 16:30",
+    "matchCode": "4498117",
+    "odds": 1.15,
+    "patternScore": 70.06,
+    "patternText": "260.394/371.674",
+    "aiScore": 85,
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "Cska Sofia Ii",
-      "away": "Rilski Sportist",
-      "league": "BULB",
-      "date": "09.11.2026 12:30",
-      "matchCode": "4505894",
-      "odds": 1.21,
-      "patternScore": 68.67,
-      "patternText": "199.798/290.964",
-      "aiScore": 67,
-      "picks": 2
-    },
     {
       "home": "Veles",
       "away": "KAMAZ Naberezhnye Chelny",
@@ -388,6 +376,18 @@
       "patternText": "284.020/407.369",
       "aiScore": 74,
       "picks": 1
+    },
+    {
+      "home": "FC Botosani",
+      "away": "Otelul Galati",
+      "league": "ROM",
+      "date": "09.11.2026 18:00",
+      "matchCode": "4501652",
+      "odds": 1.13,
+      "patternScore": 69.92,
+      "patternText": "268.906/384.590",
+      "aiScore": 81,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
