@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 17:53",
+  "updatedAt": "09.11.2026 18:00",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 194,
       "rate": 71.6
     },
-    "totalAnalyses": 458780,
-    "leagues": 466,
+    "totalAnalyses": 458783,
+    "leagues": 463,
     "pro": {
       "won": 1213,
       "lost": 515,
@@ -47,8 +47,8 @@
       "total": 145,
       "rate": 49.0
     },
-    "analyses24h": 519,
-    "analyses30d": 21798
+    "analyses24h": 478,
+    "analyses30d": 21612
   },
   "recentWins": [
     {
@@ -344,8 +344,8 @@
     "matchCode": "4517350",
     "odds": 1.25,
     "patternScore": 68.47,
-    "patternText": "178.848/261.225",
-    "aiScore": 71,
+    "patternText": "178.854/261.231",
+    "aiScore": 70,
     "picks": 1
   },
   "todayList": [
@@ -357,21 +357,9 @@
       "matchCode": "4517350",
       "odds": 1.25,
       "patternScore": 68.47,
-      "patternText": "178.848/261.225",
-      "aiScore": 71,
+      "patternText": "178.854/261.231",
+      "aiScore": 70,
       "picks": 1
-    },
-    {
-      "home": "Deportivo La Coruna",
-      "away": "Valencia Women",
-      "league": "İSKPR",
-      "date": "09.11.2026 20:00",
-      "matchCode": "4528010",
-      "odds": 1.23,
-      "patternScore": 68.54,
-      "patternText": "182.633/266.447",
-      "aiScore": 71,
-      "picks": 2
     },
     {
       "home": "T.Universitari",
@@ -381,7 +369,7 @@
       "matchCode": "4563366",
       "odds": 1.22,
       "patternScore": 67.97,
-      "patternText": "183.948/270.627",
+      "patternText": "183.954/270.633",
       "aiScore": 72,
       "picks": 1
     },
@@ -393,8 +381,8 @@
       "matchCode": "4492820",
       "odds": 1.19,
       "patternScore": 68.87,
-      "patternText": "129.008/187.332",
-      "aiScore": 79,
+      "patternText": "129.010/187.334",
+      "aiScore": 80,
       "picks": 3
     },
     {
@@ -405,9 +393,21 @@
       "matchCode": "4535944",
       "odds": 1.19,
       "patternScore": 69.02,
-      "patternText": "211.132/305.900",
+      "patternText": "211.140/305.908",
       "aiScore": 74,
       "picks": 4
+    },
+    {
+      "home": "US Foggia",
+      "away": "Barletta",
+      "league": "İTC",
+      "date": "09.11.2026 19:30",
+      "matchCode": "4535941",
+      "odds": 1.15,
+      "patternScore": 69.95,
+      "patternText": "263.962/377.334",
+      "aiScore": 76,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
