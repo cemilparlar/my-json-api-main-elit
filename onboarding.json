@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 18:30",
+  "updatedAt": "09.11.2026 18:38",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 104,
-      "lost": 37,
-      "total": 141,
-      "rate": 73.8
+      "won": 86,
+      "lost": 33,
+      "total": 119,
+      "rate": 72.3
     },
     "totalAnalyses": 458821,
     "leagues": 460,
     "pro": {
       "won": 1205,
-      "lost": 513,
-      "total": 1718,
-      "rate": 70.1
+      "lost": 512,
+      "total": 1717,
+      "rate": 70.2
     },
     "insights": {
       "won": 1982,
-      "lost": 836,
-      "total": 2818,
-      "rate": 70.3
+      "lost": 835,
+      "total": 2817,
+      "rate": 70.4
     },
     "coupons": {
       "won": 69,
@@ -47,8 +47,8 @@
       "total": 142,
       "rate": 48.6
     },
-    "analyses24h": 446,
-    "analyses30d": 21544
+    "analyses24h": 445,
+    "analyses30d": 21543
   },
   "recentWins": [
     {
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Torreense",
-    "away": "Leiria",
-    "league": "POR2",
-    "date": "09.11.2026 20:15",
-    "matchCode": "4517350",
-    "odds": 1.25,
-    "patternScore": 68.47,
-    "patternText": "178.876/261.255",
-    "aiScore": 70,
+    "home": "T.Universitari",
+    "away": "Manta",
+    "league": "EKV1",
+    "date": "09.11.2026 20:30",
+    "matchCode": "4563366",
+    "odds": 1.27,
+    "patternScore": 67.58,
+    "patternText": "184.366/272.819",
+    "aiScore": 62,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "T.Universitari",
+      "away": "Manta",
+      "league": "EKV1",
+      "date": "09.11.2026 20:30",
+      "matchCode": "4563366",
+      "odds": 1.27,
+      "patternScore": 67.58,
+      "patternText": "184.366/272.819",
+      "aiScore": 62,
+      "picks": 1
+    },
     {
       "home": "Torreense",
       "away": "Leiria",
@@ -359,18 +371,6 @@
       "patternScore": 68.47,
       "patternText": "178.876/261.255",
       "aiScore": 70,
-      "picks": 1
-    },
-    {
-      "home": "T.Universitari",
-      "away": "Manta",
-      "league": "EKV1",
-      "date": "09.11.2026 20:30",
-      "matchCode": "4563366",
-      "odds": 1.22,
-      "patternScore": 67.97,
-      "patternText": "183.976/270.657",
-      "aiScore": 72,
       "picks": 1
     },
     {
@@ -386,18 +386,6 @@
       "picks": 2
     },
     {
-      "home": "CE Sabadell",
-      "away": "Real Sociedad B",
-      "league": "İS2",
-      "date": "09.11.2026 19:30",
-      "matchCode": "4492820",
-      "odds": 1.19,
-      "patternScore": 68.87,
-      "patternText": "129.014/187.338",
-      "aiScore": 80,
-      "picks": 3
-    },
-    {
       "home": "AZ Picerno",
       "away": "SSC Bari",
       "league": "İTC",
@@ -408,6 +396,18 @@
       "patternText": "211.154/305.924",
       "aiScore": 74,
       "picks": 4
+    },
+    {
+      "home": "US Foggia",
+      "away": "Barletta",
+      "league": "İTC",
+      "date": "09.11.2026 19:30",
+      "matchCode": "4535941",
+      "odds": 1.15,
+      "patternScore": 69.96,
+      "patternText": "263.976/377.350",
+      "aiScore": 76,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
