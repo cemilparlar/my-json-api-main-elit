@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 13:39",
+  "updatedAt": "09.11.2026 13:48",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 399,
-      "lost": 192,
-      "total": 591,
-      "rate": 67.5
+      "won": 395,
+      "lost": 191,
+      "total": 586,
+      "rate": 67.4
     },
-    "totalAnalyses": 458460,
+    "totalAnalyses": 458469,
     "leagues": 476,
     "pro": {
       "won": 1231,
@@ -47,8 +47,8 @@
       "total": 147,
       "rate": 49.0
     },
-    "analyses24h": 990,
-    "analyses30d": 22109
+    "analyses24h": 991,
+    "analyses30d": 22115
   },
   "recentWins": [
     {
@@ -295,13 +295,31 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 12:11",
+      "at": "09.11.2026 13:44",
+      "home": "US Foggia",
+      "away": "Barletta"
+    },
+    {
+      "type": "updated",
+      "at": "09.11.2026 13:43",
+      "home": "SS Altamura",
+      "away": "Cavese 1919"
+    },
+    {
+      "type": "updated",
+      "at": "09.11.2026 13:42",
+      "home": "CE Sabadell",
+      "away": "Real Sociedad B"
+    },
+    {
+      "type": "updated",
+      "at": "09.11.2026 13:41",
       "home": "Hvidovre IF",
       "away": "Aarhus Fremad"
     },
     {
       "type": "updated",
-      "at": "09.11.2026 11:09",
+      "at": "09.11.2026 13:41",
       "home": "Veles",
       "away": "KAMAZ Naberezhnye Chelny"
     },
@@ -313,42 +331,48 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 11:49",
-      "home": "Cska Sofia Ii",
-      "away": "Rilski Sportist"
-    },
-    {
-      "type": "updated",
-      "at": "09.11.2026 13:04",
-      "home": "Fratria",
-      "away": "Sportist Svoge"
-    },
-    {
-      "type": "kickoff",
-      "home": "Fratria",
-      "away": "Sportist Svoge",
-      "at": "09.11.2026 15:30"
-    },
-    {
-      "type": "kickoff",
-      "home": "Veles",
-      "away": "KAMAZ Naberezhnye Chelny",
-      "at": "09.11.2026 16:30"
+      "at": "09.11.2026 13:43",
+      "home": "Plymouth Parkway",
+      "away": "Berkhamsted"
     }
   ],
   "today": {
-    "home": "Fratria",
-    "away": "Sportist Svoge",
-    "league": "BULB",
-    "date": "09.11.2026 15:30",
-    "matchCode": "4505898",
-    "odds": 1.26,
-    "patternScore": 68.0,
-    "patternText": "202.224/297.410",
-    "aiScore": 63,
+    "home": "Chelmsford",
+    "away": "Ebbsfleet",
+    "league": "İCON",
+    "date": "09.11.2026 19:45",
+    "matchCode": "4515961",
+    "odds": 1.28,
+    "patternScore": 68.91,
+    "patternText": "264.771/384.208",
+    "aiScore": 65,
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "Chelmsford",
+      "away": "Ebbsfleet",
+      "league": "İCON",
+      "date": "09.11.2026 19:45",
+      "matchCode": "4515961",
+      "odds": 1.28,
+      "patternScore": 68.91,
+      "patternText": "264.771/384.208",
+      "aiScore": 65,
+      "picks": 2
+    },
+    {
+      "home": "Mushuc Runa SC",
+      "away": "Delfin SC",
+      "league": "EKV1",
+      "date": "09.11.2026 18:00",
+      "matchCode": "4563365",
+      "odds": 1.28,
+      "patternScore": 68.46,
+      "patternText": "215.137/314.267",
+      "aiScore": 60,
+      "picks": 2
+    },
     {
       "home": "Fratria",
       "away": "Sportist Svoge",
@@ -362,16 +386,16 @@
       "picks": 2
     },
     {
-      "home": "Veles",
-      "away": "KAMAZ Naberezhnye Chelny",
-      "league": "RUS1",
-      "date": "09.11.2026 16:30",
-      "matchCode": "4498117",
+      "home": "Hvidovre IF",
+      "away": "Aarhus Fremad",
+      "league": "DAN1",
+      "date": "09.11.2026 18:00",
+      "matchCode": "4476298",
       "odds": 1.15,
-      "patternScore": 70.06,
-      "patternText": "260.394/371.674",
-      "aiScore": 85,
-      "picks": 2
+      "patternScore": 68.67,
+      "patternText": "219.693/319.936",
+      "aiScore": 68,
+      "picks": 3
     },
     {
       "home": "CE Sabadell",
@@ -382,35 +406,18 @@
       "odds": 1.14,
       "patternScore": 69.72,
       "patternText": "284.020/407.369",
-      "aiScore": 74,
-      "picks": 1
-    },
-    {
-      "home": "Hvidovre IF",
-      "away": "Aarhus Fremad",
-      "league": "DAN1",
-      "date": "09.11.2026 18:00",
-      "matchCode": "4476298",
-      "odds": 1.14,
-      "patternScore": 68.48,
-      "patternText": "197.329/288.138",
-      "aiScore": 87,
-      "picks": 2
-    },
-    {
-      "home": "FC Botosani",
-      "away": "Otelul Galati",
-      "league": "ROM",
-      "date": "09.11.2026 18:00",
-      "matchCode": "4501652",
-      "odds": 1.13,
-      "patternScore": 69.94,
-      "patternText": "269.206/384.928",
       "aiScore": 81,
-      "picks": 2
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "CE Sabadell",
+      "away": "Real Sociedad B",
+      "league": "İS2",
+      "at": "09.11.2026 13:42",
+      "count": 4
+    },
     {
       "home": "Serbia",
       "away": "Germany",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "09.11.2026 06:31",
       "count": 4
-    },
-    {
-      "home": "Andorra",
-      "away": "Gibraltar",
-      "league": "AVUL",
-      "at": "09.11.2026 06:30",
-      "count": 11
     }
   ],
   "paywall": {
