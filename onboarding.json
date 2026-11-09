@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 22:02",
+  "updatedAt": "09.11.2026 22:09",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 39,
-      "lost": 19,
-      "total": 58,
-      "rate": 67.2
+      "won": 42,
+      "lost": 20,
+      "total": 62,
+      "rate": 67.7
     },
-    "totalAnalyses": 458906,
+    "totalAnalyses": 458909,
     "leagues": 454,
     "pro": {
-      "won": 1173,
-      "lost": 498,
-      "total": 1671,
+      "won": 1174,
+      "lost": 499,
+      "total": 1673,
       "rate": 70.2
     },
     "insights": {
-      "won": 1938,
-      "lost": 817,
-      "total": 2755,
-      "rate": 70.3
+      "won": 1941,
+      "lost": 818,
+      "total": 2759,
+      "rate": 70.4
     },
     "coupons": {
       "won": 65,
@@ -47,8 +47,8 @@
       "total": 138,
       "rate": 47.1
     },
-    "analyses24h": 387,
-    "analyses30d": 21408
+    "analyses24h": 386,
+    "analyses30d": 21407
   },
   "recentWins": [
     {
@@ -319,12 +319,6 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 16:03",
-      "home": "Atletico Madrid Women",
-      "away": "Badalona Women"
-    },
-    {
-      "type": "updated",
       "at": "09.11.2026 16:56",
       "home": "AZ Picerno",
       "away": "SSC Bari"
@@ -334,33 +328,27 @@
       "at": "09.11.2026 16:22",
       "home": "FC Botosani",
       "away": "Otelul Galati"
+    },
+    {
+      "type": "updated",
+      "at": "09.11.2026 18:28",
+      "home": "Plymouth Parkway",
+      "away": "Berkhamsted"
     }
   ],
   "today": {
-    "home": "CSD Aurora",
-    "away": "Universitario D",
-    "league": "BOLİ",
-    "date": "10.11.2026 00:30",
-    "matchCode": "4577017",
-    "odds": 1.11,
-    "patternScore": 70.63,
-    "patternText": "231.445/327.679",
-    "aiScore": 90,
-    "picks": 1
+    "home": "Arnett Gardens",
+    "away": "Waterhouse",
+    "league": "JAM",
+    "date": "10.11.2026 01:00",
+    "matchCode": "4562929",
+    "odds": 1.1,
+    "patternScore": 71.16,
+    "patternText": "242.016/340.114",
+    "aiScore": 97,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "CSD Aurora",
-      "away": "Universitario D",
-      "league": "BOLİ",
-      "date": "10.11.2026 00:30",
-      "matchCode": "4577017",
-      "odds": 1.11,
-      "patternScore": 70.63,
-      "patternText": "231.445/327.679",
-      "aiScore": 90,
-      "picks": 1
-    },
     {
       "home": "Arnett Gardens",
       "away": "Waterhouse",
@@ -371,6 +359,18 @@
       "patternScore": 71.16,
       "patternText": "242.016/340.114",
       "aiScore": 97,
+      "picks": 2
+    },
+    {
+      "home": "CSD Aurora",
+      "away": "Universitario D",
+      "league": "BOLİ",
+      "date": "10.11.2026 00:30",
+      "matchCode": "4577017",
+      "odds": 1.09,
+      "patternScore": 72.6,
+      "patternText": "156.147/215.077",
+      "aiScore": 98,
       "picks": 2
     },
     {
