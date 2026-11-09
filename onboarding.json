@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 17:13",
+  "updatedAt": "09.11.2026 17:21",
   "config": {
     "pages": [
       "engine",
@@ -22,17 +22,17 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 162,
-      "lost": 64,
-      "total": 226,
-      "rate": 71.7
+      "won": 157,
+      "lost": 65,
+      "total": 222,
+      "rate": 70.7
     },
-    "totalAnalyses": 458711,
+    "totalAnalyses": 458739,
     "leagues": 466,
     "pro": {
-      "won": 1215,
-      "lost": 517,
-      "total": 1732,
+      "won": 1214,
+      "lost": 516,
+      "total": 1730,
       "rate": 70.2
     },
     "insights": {
@@ -47,8 +47,8 @@
       "total": 145,
       "rate": 49.0
     },
-    "analyses24h": 533,
-    "analyses30d": 21801
+    "analyses24h": 551,
+    "analyses30d": 21826
   },
   "recentWins": [
     {
@@ -325,7 +325,7 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 16:39",
+      "at": "09.11.2026 17:15",
       "home": "Hvidovre IF",
       "away": "Aarhus Fremad"
     },
@@ -374,18 +374,6 @@
       "picks": 2
     },
     {
-      "home": "Hvidovre IF",
-      "away": "Aarhus Fremad",
-      "league": "DAN1",
-      "date": "09.11.2026 18:00",
-      "matchCode": "4476298",
-      "odds": 1.21,
-      "patternScore": 68.93,
-      "patternText": "119.596/173.512",
-      "aiScore": 77,
-      "picks": 1
-    },
-    {
       "home": "CE Sabadell",
       "away": "Real Sociedad B",
       "league": "İS2",
@@ -408,6 +396,18 @@
       "patternText": "211.124/305.886",
       "aiScore": 74,
       "picks": 4
+    },
+    {
+      "home": "US Foggia",
+      "away": "Barletta",
+      "league": "İTC",
+      "date": "09.11.2026 19:30",
+      "matchCode": "4535941",
+      "odds": 1.15,
+      "patternScore": 69.95,
+      "patternText": "263.940/377.306",
+      "aiScore": 76,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
