@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 16:04",
+  "updatedAt": "09.11.2026 16:11",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 222,
+      "won": 221,
       "lost": 97,
-      "total": 319,
-      "rate": 69.6
+      "total": 318,
+      "rate": 69.5
     },
-    "totalAnalyses": 458602,
+    "totalAnalyses": 458631,
     "leagues": 470,
     "pro": {
       "won": 1225,
@@ -47,8 +47,8 @@
       "total": 146,
       "rate": 49.3
     },
-    "analyses24h": 633,
-    "analyses30d": 21940
+    "analyses24h": 649,
+    "analyses30d": 21957
   },
   "recentWins": [
     {
@@ -342,11 +342,11 @@
     "league": "POR2",
     "date": "09.11.2026 20:15",
     "matchCode": "4517350",
-    "odds": 1.32,
-    "patternScore": 67.62,
-    "patternText": "171.774/254.012",
-    "aiScore": 57,
-    "picks": 4
+    "odds": 1.25,
+    "patternScore": 68.45,
+    "patternText": "179.126/261.679",
+    "aiScore": 72,
+    "picks": 1
   },
   "todayList": [
     {
@@ -355,22 +355,10 @@
       "league": "POR2",
       "date": "09.11.2026 20:15",
       "matchCode": "4517350",
-      "odds": 1.32,
-      "patternScore": 67.62,
-      "patternText": "171.774/254.012",
-      "aiScore": 57,
-      "picks": 4
-    },
-    {
-      "home": "West Bromwich Albion U21",
-      "away": "Bromley U21",
-      "league": "İNPLK",
-      "date": "09.11.2026 19:00",
-      "matchCode": "4540493",
-      "odds": 1.28,
-      "patternScore": 65.71,
-      "patternText": "79.013/120.254",
-      "aiScore": 63,
+      "odds": 1.25,
+      "patternScore": 68.45,
+      "patternText": "179.126/261.679",
+      "aiScore": 72,
       "picks": 1
     },
     {
@@ -382,20 +370,8 @@
       "odds": 1.19,
       "patternScore": 68.87,
       "patternText": "129.004/187.326",
-      "aiScore": 80,
+      "aiScore": 79,
       "picks": 3
-    },
-    {
-      "home": "Hvidovre IF",
-      "away": "Aarhus Fremad",
-      "league": "DAN1",
-      "date": "09.11.2026 18:00",
-      "matchCode": "4476298",
-      "odds": 1.17,
-      "patternScore": 68.49,
-      "patternText": "197.331/288.122",
-      "aiScore": 76,
-      "picks": 2
     },
     {
       "home": "US Foggia",
@@ -408,9 +384,47 @@
       "patternText": "263.940/377.306",
       "aiScore": 76,
       "picks": 2
+    },
+    {
+      "home": "Pineto Calcio",
+      "away": "Vis Pesaro",
+      "league": "İTC",
+      "date": "09.11.2026 19:30",
+      "matchCode": "4535563",
+      "odds": 1.15,
+      "patternScore": 69.22,
+      "patternText": "134.114/193.759",
+      "aiScore": 84,
+      "picks": 2
+    },
+    {
+      "home": "AZ Picerno",
+      "away": "SSC Bari",
+      "league": "İTC",
+      "date": "09.11.2026 19:30",
+      "matchCode": "4535944",
+      "odds": 1.15,
+      "patternScore": 70.04,
+      "patternText": "271.593/387.760",
+      "aiScore": 77,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Scotland",
+      "away": "North Macedonia",
+      "league": "AVUL",
+      "at": "09.11.2026 16:04",
+      "count": 14
+    },
+    {
+      "home": "Bulgaria",
+      "away": "Iceland",
+      "league": "AVUL",
+      "at": "09.11.2026 16:04",
+      "count": 6
+    },
     {
       "home": "Albania",
       "away": "Finland",
@@ -466,20 +480,6 @@
       "league": "AVUL",
       "at": "09.11.2026 06:31",
       "count": 11
-    },
-    {
-      "home": "Portugal",
-      "away": "Denmark",
-      "league": "AVUL",
-      "at": "09.11.2026 06:31",
-      "count": 5
-    },
-    {
-      "home": "Georgia",
-      "away": "Hungary",
-      "league": "AVUL",
-      "at": "09.11.2026 06:31",
-      "count": 5
     }
   ],
   "paywall": {
