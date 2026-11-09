@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 21:32",
+  "updatedAt": "09.11.2026 21:40",
   "config": {
     "pages": [
       "engine",
@@ -23,23 +23,23 @@
     "days": 7,
     "last24h": {
       "won": 34,
-      "lost": 18,
-      "total": 52,
-      "rate": 65.4
+      "lost": 19,
+      "total": 53,
+      "rate": 64.2
     },
-    "totalAnalyses": 458891,
+    "totalAnalyses": 458905,
     "leagues": 454,
     "pro": {
-      "won": 1167,
-      "lost": 497,
-      "total": 1664,
-      "rate": 70.1
+      "won": 1171,
+      "lost": 498,
+      "total": 1669,
+      "rate": 70.2
     },
     "insights": {
-      "won": 1934,
-      "lost": 815,
-      "total": 2749,
-      "rate": 70.4
+      "won": 1940,
+      "lost": 818,
+      "total": 2758,
+      "rate": 70.3
     },
     "coupons": {
       "won": 66,
@@ -47,8 +47,8 @@
       "total": 139,
       "rate": 47.5
     },
-    "analyses24h": 374,
-    "analyses30d": 21395
+    "analyses24h": 387,
+    "analyses30d": 21408
   },
   "recentWins": [
     {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 17:52",
-      "home": "Pineto Calcio",
-      "away": "Vis Pesaro"
-    },
-    {
-      "type": "updated",
       "at": "09.11.2026 18:47",
       "home": "SS Altamura",
       "away": "Cavese 1919"
@@ -313,7 +307,7 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 19:22",
+      "at": "09.11.2026 21:38",
       "home": "CSD Aurora",
       "away": "Universitario D"
     },
@@ -334,6 +328,12 @@
       "at": "09.11.2026 16:03",
       "home": "Atletico Madrid Women",
       "away": "Badalona Women"
+    },
+    {
+      "type": "updated",
+      "at": "09.11.2026 16:56",
+      "home": "AZ Picerno",
+      "away": "SSC Bari"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4562929",
     "odds": 1.1,
     "patternScore": 71.16,
-    "patternText": "241.968/340.036",
+    "patternText": "241.988/340.076",
     "aiScore": 97,
     "picks": 2
   },
@@ -357,7 +357,7 @@
       "matchCode": "4562929",
       "odds": 1.1,
       "patternScore": 71.16,
-      "patternText": "241.968/340.036",
+      "patternText": "241.988/340.076",
       "aiScore": 97,
       "picks": 2
     },
@@ -369,7 +369,7 @@
       "matchCode": "4577017",
       "odds": 1.07,
       "patternScore": 66.6,
-      "patternText": "244.251/366.741",
+      "patternText": "244.269/366.775",
       "aiScore": 89,
       "picks": 1
     },
@@ -380,8 +380,8 @@
       "date": "10.11.2026 14:00",
       "matchCode": "4540674",
       "odds": 1.08,
-      "patternScore": 67.65,
-      "patternText": "163.295/241.365",
+      "patternScore": 67.66,
+      "patternText": "163.299/241.369",
       "aiScore": 77,
       "picks": 1
     },
@@ -392,8 +392,8 @@
       "date": "10.11.2026 19:45",
       "matchCode": "4518264",
       "odds": 1.78,
-      "patternScore": 67.22,
-      "patternText": "204.364/304.032",
+      "patternScore": 67.21,
+      "patternText": "204.418/304.130",
       "aiScore": 52,
       "picks": 1
     },
@@ -405,12 +405,19 @@
       "matchCode": "4519217",
       "odds": 1.7,
       "patternScore": 67.2,
-      "patternText": "204.568/304.414",
+      "patternText": "204.622/304.512",
       "aiScore": 52,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Norway",
+      "away": "Wales",
+      "league": "AVUL",
+      "at": "09.11.2026 21:39",
+      "count": 14
+    },
     {
       "home": "CE Sabadell",
       "away": "Real Sociedad B",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "09.11.2026 06:32",
       "count": 7
-    },
-    {
-      "home": "Romania",
-      "away": "Poland",
-      "league": "AVUL",
-      "at": "09.11.2026 06:31",
-      "count": 11
     }
   ],
   "paywall": {
