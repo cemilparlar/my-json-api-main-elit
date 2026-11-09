@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 20:02",
+  "updatedAt": "09.11.2026 20:11",
   "config": {
     "pages": [
       "engine",
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 14:02",
-      "home": "US Foggia",
-      "away": "Barletta"
-    },
-    {
-      "type": "updated",
       "at": "09.11.2026 17:52",
       "home": "Pineto Calcio",
       "away": "Vis Pesaro"
@@ -334,6 +328,12 @@
       "at": "09.11.2026 15:45",
       "home": "Veles",
       "away": "KAMAZ Naberezhnye Chelny"
+    },
+    {
+      "type": "updated",
+      "at": "09.11.2026 16:03",
+      "home": "Atletico Madrid Women",
+      "away": "Badalona Women"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4562929",
     "odds": 1.11,
     "patternScore": 72.11,
-    "patternText": "141.664/196.442",
+    "patternText": "141.668/196.450",
     "aiScore": 96,
     "picks": 1
   },
@@ -357,7 +357,7 @@
       "matchCode": "4562929",
       "odds": 1.11,
       "patternScore": 72.11,
-      "patternText": "141.664/196.442",
+      "patternText": "141.668/196.450",
       "aiScore": 96,
       "picks": 1
     },
@@ -369,20 +369,8 @@
       "matchCode": "4577017",
       "odds": 1.07,
       "patternScore": 66.6,
-      "patternText": "244.245/366.731",
+      "patternText": "244.251/366.741",
       "aiScore": 89,
-      "picks": 1
-    },
-    {
-      "home": "Chapelton",
-      "away": "Racing United",
-      "league": "JAM",
-      "date": "09.11.2026 22:30",
-      "matchCode": "4562928",
-      "odds": 1.06,
-      "patternScore": 70.05,
-      "patternText": "266.320/380.162",
-      "aiScore": 96,
       "picks": 1
     },
     {
@@ -392,8 +380,8 @@
       "date": "10.11.2026 14:00",
       "matchCode": "4540674",
       "odds": 1.08,
-      "patternScore": 67.66,
-      "patternText": "163.291/241.353",
+      "patternScore": 67.65,
+      "patternText": "163.295/241.365",
       "aiScore": 77,
       "picks": 1
     },
@@ -405,9 +393,21 @@
       "matchCode": "4518264",
       "odds": 1.78,
       "patternScore": 67.22,
-      "patternText": "204.362/304.028",
+      "patternText": "204.364/304.032",
       "aiScore": 52,
       "picks": 1
+    },
+    {
+      "home": "Stamford",
+      "away": "Needham Market",
+      "league": "İNGNLP",
+      "date": "10.11.2026 19:45",
+      "matchCode": "4519217",
+      "odds": 1.7,
+      "patternScore": 67.2,
+      "patternText": "204.568/304.414",
+      "aiScore": 52,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
