@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 13:48",
+  "updatedAt": "09.11.2026 13:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 586,
       "rate": 67.4
     },
-    "totalAnalyses": 458469,
+    "totalAnalyses": 458484,
     "leagues": 476,
     "pro": {
       "won": 1231,
@@ -43,12 +43,12 @@
     },
     "coupons": {
       "won": 72,
-      "lost": 75,
-      "total": 147,
-      "rate": 49.0
+      "lost": 74,
+      "total": 146,
+      "rate": 49.3
     },
-    "analyses24h": 991,
-    "analyses30d": 22115
+    "analyses24h": 985,
+    "analyses30d": 22105
   },
   "recentWins": [
     {
@@ -301,6 +301,12 @@
     },
     {
       "type": "updated",
+      "at": "09.11.2026 13:42",
+      "home": "Pineto Calcio",
+      "away": "Vis Pesaro"
+    },
+    {
+      "type": "updated",
       "at": "09.11.2026 13:43",
       "home": "SS Altamura",
       "away": "Cavese 1919"
@@ -328,12 +334,6 @@
       "at": "09.11.2026 13:24",
       "home": "FC Botosani",
       "away": "Otelul Galati"
-    },
-    {
-      "type": "updated",
-      "at": "09.11.2026 13:43",
-      "home": "Plymouth Parkway",
-      "away": "Berkhamsted"
     }
   ],
   "today": {
@@ -368,10 +368,22 @@
       "date": "09.11.2026 18:00",
       "matchCode": "4563365",
       "odds": 1.28,
-      "patternScore": 68.46,
-      "patternText": "215.137/314.267",
-      "aiScore": 60,
+      "patternScore": 68.35,
+      "patternText": "208.481/305.003",
+      "aiScore": 61,
       "picks": 2
+    },
+    {
+      "home": "Pineto Calcio",
+      "away": "Vis Pesaro",
+      "league": "İTC",
+      "date": "09.11.2026 19:30",
+      "matchCode": "4535563",
+      "odds": 1.28,
+      "patternScore": 68.49,
+      "patternText": "197.385/288.195",
+      "aiScore": 63,
+      "picks": 4
     },
     {
       "home": "Fratria",
@@ -386,27 +398,15 @@
       "picks": 2
     },
     {
-      "home": "Hvidovre IF",
-      "away": "Aarhus Fremad",
-      "league": "DAN1",
-      "date": "09.11.2026 18:00",
-      "matchCode": "4476298",
-      "odds": 1.15,
-      "patternScore": 68.67,
-      "patternText": "219.693/319.936",
-      "aiScore": 68,
-      "picks": 3
-    },
-    {
       "home": "CE Sabadell",
       "away": "Real Sociedad B",
       "league": "İS2",
       "date": "09.11.2026 19:30",
       "matchCode": "4492820",
-      "odds": 1.14,
-      "patternScore": 69.72,
-      "patternText": "284.020/407.369",
-      "aiScore": 81,
+      "odds": 1.19,
+      "patternScore": 68.87,
+      "patternText": "128.992/187.310",
+      "aiScore": 80,
       "picks": 3
     }
   ],
