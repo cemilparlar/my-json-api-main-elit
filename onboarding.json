@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 19:09",
+  "updatedAt": "09.11.2026 19:17",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 73,
+      "won": 70,
       "lost": 24,
-      "total": 97,
-      "rate": 75.3
+      "total": 94,
+      "rate": 74.5
     },
-    "totalAnalyses": 458846,
+    "totalAnalyses": 458860,
     "leagues": 455,
     "pro": {
       "won": 1189,
@@ -47,8 +47,8 @@
       "total": 142,
       "rate": 48.6
     },
-    "analyses24h": 424,
-    "analyses30d": 21424
+    "analyses24h": 421,
+    "analyses30d": 21409
   },
   "recentWins": [
     {
@@ -362,18 +362,6 @@
       "picks": 1
     },
     {
-      "home": "Chapelton",
-      "away": "Racing United",
-      "league": "JAM",
-      "date": "09.11.2026 22:30",
-      "matchCode": "4562928",
-      "odds": 1.21,
-      "patternScore": 68.61,
-      "patternText": "199.436/290.690",
-      "aiScore": 71,
-      "picks": 1
-    },
-    {
       "home": "Arnett Gardens",
       "away": "Waterhouse",
       "league": "JAM",
@@ -382,32 +370,44 @@
       "odds": 1.13,
       "patternScore": 70.61,
       "patternText": "230.370/326.270",
-      "aiScore": 89,
+      "aiScore": 88,
       "picks": 1
     },
     {
-      "home": "Redditch Unite",
-      "away": "Peterborough United",
-      "league": "İNGNLP",
-      "date": "09.11.2026 19:45",
-      "matchCode": "4519210",
-      "odds": 1.09,
-      "patternScore": 71.68,
-      "patternText": "185.954/259.437",
+      "home": "CSD Aurora",
+      "away": "Universitario D",
+      "league": "BOLİ",
+      "date": "10.11.2026 00:30",
+      "matchCode": "4577017",
+      "odds": 1.08,
+      "patternScore": 70.9,
+      "patternText": "236.351/333.365",
+      "aiScore": 98,
+      "picks": 1
+    },
+    {
+      "home": "Deportivo La Coruna",
+      "away": "Valencia Women",
+      "league": "İSKPR",
+      "date": "09.11.2026 20:00",
+      "matchCode": "4528010",
+      "odds": 1.08,
+      "patternScore": 71.83,
+      "patternText": "156.347/217.656",
+      "aiScore": 97,
+      "picks": 1
+    },
+    {
+      "home": "Chapelton",
+      "away": "Racing United",
+      "league": "JAM",
+      "date": "09.11.2026 22:30",
+      "matchCode": "4562928",
+      "odds": 1.06,
+      "patternScore": 70.05,
+      "patternText": "266.314/380.156",
       "aiScore": 96,
       "picks": 1
-    },
-    {
-      "home": "Chelmsford",
-      "away": "Ebbsfleet",
-      "league": "İCON",
-      "date": "09.11.2026 19:45",
-      "matchCode": "4515961",
-      "odds": 1.08,
-      "patternScore": 67.29,
-      "patternText": "327.285/486.413",
-      "aiScore": 93,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
