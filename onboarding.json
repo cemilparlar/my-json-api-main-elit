@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 12:32",
+  "updatedAt": "09.11.2026 12:39",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 749,
       "rate": 67.6
     },
-    "totalAnalyses": 458400,
+    "totalAnalyses": 458419,
     "leagues": 477,
     "pro": {
       "won": 1233,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 49.3
     },
-    "analyses24h": 1187,
-    "analyses30d": 22152
+    "analyses24h": 1185,
+    "analyses30d": 22150
   },
   "recentWins": [
     {
@@ -343,9 +343,9 @@
     "date": "09.11.2026 15:00",
     "matchCode": "4435470",
     "odds": 1.29,
-    "patternScore": 68.14,
-    "patternText": "216.571/317.827",
-    "aiScore": 62,
+    "patternScore": 68.09,
+    "patternText": "213.221/313.151",
+    "aiScore": 63,
     "picks": 1
   },
   "todayList": [
@@ -356,9 +356,9 @@
       "date": "09.11.2026 15:00",
       "matchCode": "4435470",
       "odds": 1.29,
-      "patternScore": 68.14,
-      "patternText": "216.571/317.827",
-      "aiScore": 62,
+      "patternScore": 68.09,
+      "patternText": "213.221/313.151",
+      "aiScore": 63,
       "picks": 1
     },
     {
@@ -374,18 +374,6 @@
       "picks": 2
     },
     {
-      "home": "FC Botosani",
-      "away": "Otelul Galati",
-      "league": "ROM",
-      "date": "09.11.2026 18:00",
-      "matchCode": "4501652",
-      "odds": 1.15,
-      "patternScore": 69.98,
-      "patternText": "271.804/388.408",
-      "aiScore": 82,
-      "picks": 1
-    },
-    {
       "home": "Hvidovre IF",
       "away": "Aarhus Fremad",
       "league": "DAN1",
@@ -394,8 +382,20 @@
       "odds": 1.14,
       "patternScore": 68.48,
       "patternText": "197.329/288.138",
-      "aiScore": 87,
+      "aiScore": 88,
       "picks": 2
+    },
+    {
+      "home": "FC Botosani",
+      "away": "Otelul Galati",
+      "league": "ROM",
+      "date": "09.11.2026 18:00",
+      "matchCode": "4501652",
+      "odds": 1.14,
+      "patternScore": 69.83,
+      "patternText": "264.966/379.468",
+      "aiScore": 81,
+      "picks": 1
     },
     {
       "home": "Mushuc Runa SC",
