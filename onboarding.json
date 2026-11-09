@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 19:39",
+  "updatedAt": "09.11.2026 19:46",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 68,
+      "won": 58,
       "lost": 24,
-      "total": 92,
-      "rate": 73.9
+      "total": 82,
+      "rate": 70.7
     },
-    "totalAnalyses": 458865,
+    "totalAnalyses": 458867,
     "leagues": 455,
     "pro": {
-      "won": 1182,
-      "lost": 503,
-      "total": 1685,
+      "won": 1174,
+      "lost": 500,
+      "total": 1674,
       "rate": 70.1
     },
     "insights": {
-      "won": 1955,
-      "lost": 819,
-      "total": 2774,
-      "rate": 70.5
+      "won": 1942,
+      "lost": 815,
+      "total": 2757,
+      "rate": 70.4
     },
     "coupons": {
       "won": 69,
@@ -47,8 +47,8 @@
       "total": 142,
       "rate": 48.6
     },
-    "analyses24h": 421,
-    "analyses30d": 21411
+    "analyses24h": 414,
+    "analyses30d": 21414
   },
   "recentWins": [
     {
@@ -337,41 +337,29 @@
     }
   ],
   "today": {
-    "home": "Torreense",
-    "away": "Leiria",
-    "league": "POR2",
-    "date": "09.11.2026 20:15",
-    "matchCode": "4517350",
-    "odds": 1.25,
-    "patternScore": 68.47,
-    "patternText": "178.890/261.269",
-    "aiScore": 70,
-    "picks": 1
+    "home": "Arnett Gardens",
+    "away": "Waterhouse",
+    "league": "JAM",
+    "date": "10.11.2026 01:00",
+    "matchCode": "4562929",
+    "odds": 1.11,
+    "patternScore": 70.61,
+    "patternText": "230.376/326.276",
+    "aiScore": 94,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Torreense",
-      "away": "Leiria",
-      "league": "POR2",
-      "date": "09.11.2026 20:15",
-      "matchCode": "4517350",
-      "odds": 1.25,
-      "patternScore": 68.47,
-      "patternText": "178.890/261.269",
-      "aiScore": 70,
-      "picks": 1
-    },
     {
       "home": "Arnett Gardens",
       "away": "Waterhouse",
       "league": "JAM",
       "date": "10.11.2026 01:00",
       "matchCode": "4562929",
-      "odds": 1.13,
+      "odds": 1.11,
       "patternScore": 70.61,
       "patternText": "230.376/326.276",
-      "aiScore": 88,
-      "picks": 1
+      "aiScore": 94,
+      "picks": 2
     },
     {
       "home": "CSD Aurora",
@@ -398,15 +386,27 @@
       "picks": 1
     },
     {
-      "home": "Leicester City",
-      "away": "Walsall",
-      "league": "İNTK",
-      "date": "10.11.2026 19:00",
-      "matchCode": "4527854",
-      "odds": 1.39,
-      "patternScore": 66.3,
-      "patternText": "148.857/224.525",
-      "aiScore": 57,
+      "home": "Whitehawk",
+      "away": "Welling Utd",
+      "league": "İNGNLP",
+      "date": "10.11.2026 19:45",
+      "matchCode": "4518264",
+      "odds": 1.78,
+      "patternScore": 67.22,
+      "patternText": "204.362/304.028",
+      "aiScore": 51,
+      "picks": 1
+    },
+    {
+      "home": "Stamford",
+      "away": "Needham Market",
+      "league": "İNGNLP",
+      "date": "10.11.2026 19:45",
+      "matchCode": "4519217",
+      "odds": 1.7,
+      "patternScore": 67.2,
+      "patternText": "204.566/304.410",
+      "aiScore": 52,
       "picks": 3
     }
   ],
