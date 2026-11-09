@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 10:45",
+  "updatedAt": "09.11.2026 10:53",
   "config": {
     "pages": [
       "engine",
@@ -23,11 +23,11 @@
     "days": 7,
     "last24h": {
       "won": 625,
-      "lost": 297,
-      "total": 922,
-      "rate": 67.8
+      "lost": 296,
+      "total": 921,
+      "rate": 67.9
     },
-    "totalAnalyses": 458337,
+    "totalAnalyses": 458338,
     "leagues": 479,
     "pro": {
       "won": 1234,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 49.3
     },
-    "analyses24h": 1419,
-    "analyses30d": 22187
+    "analyses24h": 1418,
+    "analyses30d": 22186
   },
   "recentWins": [
     {
@@ -288,8 +288,14 @@
       "at": "08.11.2026 14:30"
     },
     {
+      "type": "updated",
+      "at": "09.11.2026 10:50",
+      "home": "Veles",
+      "away": "KAMAZ Naberezhnye Chelny"
+    },
+    {
       "type": "analysis",
-      "count": 1419
+      "count": 1418
     }
   ],
   "today": {
