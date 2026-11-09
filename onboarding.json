@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 00:57",
+  "updatedAt": "09.11.2026 01:06",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 733,
+      "won": 731,
       "lost": 344,
-      "total": 1077,
-      "rate": 68.1
+      "total": 1075,
+      "rate": 68.0
     },
     "totalAnalyses": 457814,
-    "leagues": 481,
+    "leagues": 480,
     "pro": {
       "won": 1232,
       "lost": 518,
@@ -47,8 +47,8 @@
       "total": 152,
       "rate": 50.7
     },
-    "analyses24h": 1453,
-    "analyses30d": 22077
+    "analyses24h": 1451,
+    "analyses30d": 22071
   },
   "recentWins": [
     {
@@ -301,18 +301,6 @@
     },
     {
       "type": "updated",
-      "at": "08.11.2026 19:01",
-      "home": "ACF Fiorentina",
-      "away": "Juventus"
-    },
-    {
-      "type": "updated",
-      "at": "08.11.2026 19:01",
-      "home": "RC Lens",
-      "away": "Marseille"
-    },
-    {
-      "type": "updated",
       "at": "08.11.2026 19:21",
       "home": "Club de Regatas Vasco da Gama",
       "away": "SE Palmeiras"
@@ -334,6 +322,18 @@
       "at": "09.11.2026 00:33",
       "home": "Alianza Petroleum",
       "away": "Llaneros"
+    },
+    {
+      "type": "updated",
+      "at": "08.11.2026 22:07",
+      "home": "Deportivo Garc",
+      "away": "Comerciantes Un"
+    },
+    {
+      "type": "updated",
+      "at": "09.11.2026 00:17",
+      "home": "Club Leon",
+      "away": "Club Deportivo Guadalajara"
     }
   ],
   "today": {
@@ -386,6 +386,18 @@
       "picks": 3
     },
     {
+      "home": "Middlesbrough",
+      "away": "Derby County U21",
+      "league": "INGPL2",
+      "date": "09.11.2026 19:00",
+      "matchCode": "4544171",
+      "odds": 1.19,
+      "patternScore": 67.37,
+      "patternText": "133.671/198.403",
+      "aiScore": 67,
+      "picks": 2
+    },
+    {
       "home": "FC Botosani",
       "away": "Otelul Galati",
       "league": "ROM",
@@ -396,18 +408,6 @@
       "patternText": "268.800/384.434",
       "aiScore": 82,
       "picks": 2
-    },
-    {
-      "home": "Hvidovre IF",
-      "away": "Aarhus Fremad",
-      "league": "DAN1",
-      "date": "09.11.2026 18:00",
-      "matchCode": "4476298",
-      "odds": 1.11,
-      "patternScore": 70.05,
-      "patternText": "270.791/386.544",
-      "aiScore": 93,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
