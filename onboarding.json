@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "08.11.2026 23:59",
+  "updatedAt": "09.11.2026 00:07",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 734,
+      "won": 730,
       "lost": 344,
-      "total": 1078,
-      "rate": 68.1
+      "total": 1074,
+      "rate": 68.0
     },
-    "totalAnalyses": 457804,
+    "totalAnalyses": 457805,
     "leagues": 481,
     "pro": {
       "won": 1230,
@@ -36,16 +36,16 @@
       "rate": 70.4
     },
     "insights": {
-      "won": 2040,
-      "lost": 859,
-      "total": 2899,
+      "won": 2037,
+      "lost": 858,
+      "total": 2895,
       "rate": 70.4
     },
     "coupons": {
-      "won": 76,
+      "won": 77,
       "lost": 76,
-      "total": 152,
-      "rate": 50.0
+      "total": 153,
+      "rate": 50.3
     },
     "analyses24h": 1455,
     "analyses30d": 22085
@@ -123,6 +123,35 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 3,
+      "totalOdds": 1.51,
+      "winChance": 52.04,
+      "completedAt": "09.11.2026 00:07",
+      "legs": [
+        {
+          "home": "Ham-Kam",
+          "away": "Sarpsborg 08",
+          "prediction": "Under 4.5 Goals",
+          "odds": 1.1,
+          "finalScore": null
+        },
+        {
+          "home": "Carrarese Calcio",
+          "away": "UC Sampdoria",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.17,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "Baltika Kalini",
+          "away": "FC Makhachkala",
+          "prediction": "Handicap (0:2) 2",
+          "odds": 1.17,
+          "finalScore": "0 - 1"
+        }
+      ]
+    },
     {
       "size": 3,
       "totalOdds": 1.52,
@@ -221,49 +250,6 @@
           "prediction": "1st Half Double Chance 1X",
           "odds": 1.15,
           "finalScore": "2 - 0"
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.52,
-      "winChance": 36.3,
-      "completedAt": "08.11.2026 15:32",
-      "legs": [
-        {
-          "home": "Bucheon FC",
-          "away": "Pohang Steelers",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.1,
-          "finalScore": null
-        },
-        {
-          "home": "Zhejiang FC",
-          "away": "Henan FC",
-          "prediction": "Over 2.5 Goals",
-          "odds": 1.08,
-          "finalScore": "4 - 0"
-        },
-        {
-          "home": "Beijing Guoan",
-          "away": "Chongqing Tongliang Liangjiang",
-          "prediction": "1st Half Under 2.5",
-          "odds": 1.06,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Qingdao Zhongn",
-          "away": "Shenzhen Pengcheng",
-          "prediction": "1st Half Under 2.5",
-          "odds": 1.09,
-          "finalScore": "2 - 2"
-        },
-        {
-          "home": "JEF United Chiba",
-          "away": "Mito HollyHock",
-          "prediction": "Handicap (1:0) 1",
-          "odds": 1.11,
-          "finalScore": "1 - 0"
         }
       ]
     }
@@ -412,15 +398,15 @@
       "picks": 3
     },
     {
-      "home": "Chelmsford",
-      "away": "Ebbsfleet",
-      "league": "İCON",
-      "date": "09.11.2026 19:45",
-      "matchCode": "4515961",
-      "odds": 1.28,
-      "patternScore": 68.91,
-      "patternText": "264.639/384.010",
-      "aiScore": 67,
+      "home": "FC Botosani",
+      "away": "Otelul Galati",
+      "league": "ROM",
+      "date": "09.11.2026 18:00",
+      "matchCode": "4501652",
+      "odds": 1.13,
+      "patternScore": 69.92,
+      "patternText": "268.782/384.416",
+      "aiScore": 82,
       "picks": 2
     }
   ],

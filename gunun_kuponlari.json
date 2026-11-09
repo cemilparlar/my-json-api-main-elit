@@ -2,7 +2,7 @@
   "version": 1,
   "stats7": {
     "multi": {
-      "won": 76,
+      "won": 77,
       "lost": 76
     },
     "c70_2": {
@@ -30,7 +30,7 @@
       "lost": 5
     },
     "cyz_3": {
-      "won": 5,
+      "won": 6,
       "lost": 6
     }
   },
@@ -72,7 +72,7 @@
       "lost": 9
     },
     "multi": {
-      "won": 98,
+      "won": 99,
       "lost": 89
     },
     "c70_1": {
@@ -100,13 +100,14 @@
       "lost": 5
     },
     "cyz_3": {
-      "won": 5,
+      "won": 6,
       "lost": 6
     }
   },
-  "updatedAt": "08.11.2026 23:59",
-  "updatedAtUtc": "2026-11-08T23:59:00Z",
-  "upcoming": [
+  "updatedAt": "09.11.2026 00:07",
+  "updatedAtUtc": "2026-11-09T00:07:00Z",
+  "upcoming": [],
+  "completed": [
     {
       "id": "20261108-18-1",
       "createdAt": "08.11.2026 15:05",
@@ -117,13 +118,13 @@
       "winChance": 52.04,
       "firstKickoff": "08.11.2026 16:00",
       "lastKickoff": "08.11.2026 17:45",
-      "status": "live",
-      "completedAt": null,
+      "status": "won",
+      "completedAt": "09.11.2026 00:07",
       "kind": "cyz_3",
       "group": "multi",
       "formula": "3",
       "multiScore": 86,
-      "effectiveOdds": 1.51,
+      "effectiveOdds": 1.37,
       "legs": [
         {
           "matchCode": "4428351",
@@ -145,7 +146,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 98
         },
         {
@@ -195,9 +196,7 @@
           "aiScore": 81
         }
       ]
-    }
-  ],
-  "completed": [
+    },
     {
       "id": "20261108-19-1",
       "createdAt": "08.11.2026 16:00",
