@@ -11517,7 +11517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "08.11.2026 10:30",
@@ -23040,66 +23040,6 @@
         "aiScore": 99
     },
     {
-        "date": "09.11.2026 01:15",
-        "league": "KOL",
-        "matchCode": "4513994",
-        "home": "Alianza Petroleum",
-        "away": "Llaneros",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "70.17",
-        "odds": "1.16",
-        "matchCount": "238",
-        "matchLink": "4513994",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "27/184",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 00:33",
-        "patternScore": 70.17,
-        "patternText": "219.791/313.226",
-        "patternInfo": {
-            "m": 47,
-            "s": 5,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 69
-    },
-    {
-        "date": "09.11.2026 01:15",
-        "league": "KOL",
-        "matchCode": "4513994",
-        "home": "Alianza Petroleum",
-        "away": "Llaneros",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "76.89",
-        "odds": "1.08",
-        "matchCount": "238",
-        "matchLink": "4513994",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "27/184",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "09.11.2026 00:33",
-        "patternScore": 70.19,
-        "patternText": "187.941/267.756",
-        "patternInfo": {
-            "m": 45,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 92
-    },
-    {
         "date": "08.11.2026 20:30",
         "league": "POR",
         "matchCode": "4517050",
@@ -23248,5 +23188,65 @@
             "b": 100.0
         },
         "aiScore": 82
+    },
+    {
+        "date": "09.11.2026 01:15",
+        "league": "KOL",
+        "matchCode": "4513994",
+        "home": "Alianza Petroleum",
+        "away": "Llaneros",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "70.65",
+        "odds": "1.17",
+        "matchCount": "184",
+        "matchLink": "4513994",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "27/184",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "09.11.2026 00:33",
+        "patternScore": 70.19,
+        "patternText": "216.007/307.734",
+        "patternInfo": {
+            "m": 49,
+            "s": 5,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 69
+    },
+    {
+        "date": "09.11.2026 01:15",
+        "league": "KOL",
+        "matchCode": "4513994",
+        "home": "Alianza Petroleum",
+        "away": "Llaneros",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "79.89",
+        "odds": "1.08",
+        "matchCount": "184",
+        "matchLink": "4513994",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "27/184",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "09.11.2026 00:33",
+        "patternScore": 70.18,
+        "patternText": "189.183/269.552",
+        "patternInfo": {
+            "m": 48,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 89
     }
 ]
