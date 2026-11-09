@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 12:47",
+  "updatedAt": "09.11.2026 12:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 747,
       "rate": 67.5
     },
-    "totalAnalyses": 458420,
+    "totalAnalyses": 458440,
     "leagues": 477,
     "pro": {
       "won": 1233,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 49.3
     },
-    "analyses24h": 1184,
-    "analyses30d": 22152
+    "analyses24h": 1183,
+    "analyses30d": 22151
   },
   "recentWins": [
     {
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Fc Iberia",
-    "away": "FC Gagra",
-    "league": "GUR",
-    "date": "09.11.2026 15:00",
-    "matchCode": "4435470",
-    "odds": 1.29,
-    "patternScore": 68.09,
-    "patternText": "213.221/313.151",
-    "aiScore": 63,
-    "picks": 1
+    "home": "Veles",
+    "away": "KAMAZ Naberezhnye Chelny",
+    "league": "RUS1",
+    "date": "09.11.2026 16:30",
+    "matchCode": "4498117",
+    "odds": 1.15,
+    "patternScore": 70.06,
+    "patternText": "260.394/371.674",
+    "aiScore": 85,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Fc Iberia",
-      "away": "FC Gagra",
-      "league": "GUR",
-      "date": "09.11.2026 15:00",
-      "matchCode": "4435470",
-      "odds": 1.29,
-      "patternScore": 68.09,
-      "patternText": "213.221/313.151",
-      "aiScore": 63,
-      "picks": 1
-    },
     {
       "home": "Veles",
       "away": "KAMAZ Naberezhnye Chelny",
@@ -382,7 +370,7 @@
       "odds": 1.14,
       "patternScore": 68.48,
       "patternText": "197.329/288.138",
-      "aiScore": 88,
+      "aiScore": 87,
       "picks": 2
     },
     {
@@ -392,10 +380,10 @@
       "date": "09.11.2026 18:00",
       "matchCode": "4501652",
       "odds": 1.14,
-      "patternScore": 69.83,
-      "patternText": "264.966/379.468",
-      "aiScore": 81,
-      "picks": 1
+      "patternScore": 69.87,
+      "patternText": "266.504/381.422",
+      "aiScore": 89,
+      "picks": 3
     },
     {
       "home": "Mushuc Runa SC",
@@ -407,6 +395,18 @@
       "patternScore": 70.66,
       "patternText": "295.743/418.559",
       "aiScore": 96,
+      "picks": 1
+    },
+    {
+      "home": "Fc Iberia",
+      "away": "FC Gagra",
+      "league": "GUR",
+      "date": "09.11.2026 15:00",
+      "matchCode": "4435470",
+      "odds": 1.06,
+      "patternScore": 72.08,
+      "patternText": "180.590/250.558",
+      "aiScore": 99,
       "picks": 1
     }
   ],
