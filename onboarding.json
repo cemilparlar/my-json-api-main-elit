@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 18:45",
+  "updatedAt": "09.11.2026 18:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 119,
       "rate": 72.3
     },
-    "totalAnalyses": 458834,
+    "totalAnalyses": 458843,
     "leagues": 456,
     "pro": {
       "won": 1205,
@@ -47,8 +47,8 @@
       "total": 142,
       "rate": 48.6
     },
-    "analyses24h": 443,
-    "analyses30d": 21448
+    "analyses24h": 448,
+    "analyses30d": 21453
   },
   "recentWins": [
     {
@@ -301,13 +301,13 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 15:08",
+      "at": "09.11.2026 18:47",
       "home": "SS Altamura",
       "away": "Cavese 1919"
     },
     {
       "type": "updated",
-      "at": "09.11.2026 18:28",
+      "at": "09.11.2026 18:47",
       "home": "CE Sabadell",
       "away": "Real Sociedad B"
     },
@@ -316,6 +316,12 @@
       "at": "09.11.2026 17:33",
       "home": "Torreense",
       "away": "Leiria"
+    },
+    {
+      "type": "updated",
+      "at": "09.11.2026 18:48",
+      "home": "CSD Aurora",
+      "away": "Universitario D"
     },
     {
       "type": "updated",
@@ -328,12 +334,6 @@
       "at": "09.11.2026 15:45",
       "home": "Veles",
       "away": "KAMAZ Naberezhnye Chelny"
-    },
-    {
-      "type": "updated",
-      "at": "09.11.2026 16:03",
-      "home": "Atletico Madrid Women",
-      "away": "Badalona Women"
     }
   ],
   "today": {
@@ -382,8 +382,8 @@
       "odds": 1.21,
       "patternScore": 68.9,
       "patternText": "188.896/274.146",
-      "aiScore": 74,
-      "picks": 2
+      "aiScore": 72,
+      "picks": 1
     },
     {
       "home": "AZ Picerno",
@@ -398,16 +398,16 @@
       "picks": 4
     },
     {
-      "home": "US Foggia",
-      "away": "Barletta",
-      "league": "İTC",
+      "home": "CE Sabadell",
+      "away": "Real Sociedad B",
+      "league": "İS2",
       "date": "09.11.2026 19:30",
-      "matchCode": "4535941",
-      "odds": 1.15,
-      "patternScore": 69.96,
-      "patternText": "263.976/377.350",
-      "aiScore": 76,
-      "picks": 2
+      "matchCode": "4492820",
+      "odds": 1.16,
+      "patternScore": 67.89,
+      "patternText": "172.749/254.472",
+      "aiScore": 87,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
@@ -415,8 +415,8 @@
       "home": "CE Sabadell",
       "away": "Real Sociedad B",
       "league": "İS2",
-      "at": "09.11.2026 18:28",
-      "count": 6
+      "at": "09.11.2026 18:47",
+      "count": 5
     },
     {
       "home": "Scotland",
