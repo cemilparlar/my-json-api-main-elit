@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 18:15",
+  "updatedAt": "09.11.2026 18:23",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 115,
-      "lost": 39,
-      "total": 154,
-      "rate": 74.7
+      "won": 104,
+      "lost": 37,
+      "total": 141,
+      "rate": 73.8
     },
-    "totalAnalyses": 458791,
+    "totalAnalyses": 458810,
     "leagues": 461,
     "pro": {
-      "won": 1209,
-      "lost": 514,
-      "total": 1723,
-      "rate": 70.2
+      "won": 1205,
+      "lost": 513,
+      "total": 1718,
+      "rate": 70.1
     },
     "insights": {
-      "won": 1992,
-      "lost": 845,
-      "total": 2837,
-      "rate": 70.2
+      "won": 1982,
+      "lost": 836,
+      "total": 2818,
+      "rate": 70.3
     },
     "coupons": {
       "won": 69,
@@ -374,6 +374,18 @@
       "picks": 1
     },
     {
+      "home": "Chapelton",
+      "away": "Racing United",
+      "league": "JAM",
+      "date": "09.11.2026 22:30",
+      "matchCode": "4562928",
+      "odds": 1.21,
+      "patternScore": 68.9,
+      "patternText": "188.896/274.146",
+      "aiScore": 74,
+      "picks": 2
+    },
+    {
       "home": "CE Sabadell",
       "away": "Real Sociedad B",
       "league": "İS2",
@@ -382,7 +394,7 @@
       "odds": 1.19,
       "patternScore": 68.87,
       "patternText": "129.014/187.338",
-      "aiScore": 79,
+      "aiScore": 80,
       "picks": 3
     },
     {
@@ -396,18 +408,6 @@
       "patternText": "211.154/305.924",
       "aiScore": 74,
       "picks": 4
-    },
-    {
-      "home": "US Foggia",
-      "away": "Barletta",
-      "league": "İTC",
-      "date": "09.11.2026 19:30",
-      "matchCode": "4535941",
-      "odds": 1.15,
-      "patternScore": 69.96,
-      "patternText": "263.976/377.350",
-      "aiScore": 76,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
