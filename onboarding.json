@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 13:10",
+  "updatedAt": "09.11.2026 13:17",
   "config": {
     "pages": [
       "engine",
@@ -28,27 +28,27 @@
       "rate": 67.9
     },
     "totalAnalyses": 458451,
-    "leagues": 476,
+    "leagues": 475,
     "pro": {
-      "won": 1233,
+      "won": 1231,
       "lost": 524,
-      "total": 1757,
-      "rate": 70.2
+      "total": 1755,
+      "rate": 70.1
     },
     "insights": {
-      "won": 2047,
+      "won": 2044,
       "lost": 867,
-      "total": 2914,
+      "total": 2911,
       "rate": 70.2
     },
     "coupons": {
-      "won": 73,
+      "won": 72,
       "lost": 75,
-      "total": 148,
-      "rate": 49.3
+      "total": 147,
+      "rate": 49.0
     },
-    "analyses24h": 1059,
-    "analyses30d": 22134
+    "analyses24h": 1056,
+    "analyses30d": 22127
   },
   "recentWins": [
     {
@@ -313,12 +313,6 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 13:05",
-      "home": "Middlesbrough",
-      "away": "Derby County U21"
-    },
-    {
-      "type": "updated",
       "at": "09.11.2026 11:49",
       "home": "Cska Sofia Ii",
       "away": "Rilski Sportist"
@@ -330,35 +324,41 @@
       "away": "FC Gagra"
     },
     {
+      "type": "updated",
+      "at": "09.11.2026 13:04",
+      "home": "Fratria",
+      "away": "Sportist Svoge"
+    },
+    {
       "type": "kickoff",
-      "home": "Pars Jam Bushe",
-      "away": "Nb Abbas",
-      "at": "09.11.2026 13:15"
+      "home": "Fc Iberia",
+      "away": "FC Gagra",
+      "at": "09.11.2026 15:00"
     }
   ],
   "today": {
-    "home": "Middlesbrough",
-    "away": "Derby County U21",
-    "league": "INGPL2",
-    "date": "09.11.2026 19:00",
-    "matchCode": "4544171",
-    "odds": 1.19,
-    "patternScore": 67.37,
-    "patternText": "133.723/198.499",
-    "aiScore": 67,
+    "home": "Fratria",
+    "away": "Sportist Svoge",
+    "league": "BULB",
+    "date": "09.11.2026 15:30",
+    "matchCode": "4505898",
+    "odds": 1.26,
+    "patternScore": 68.0,
+    "patternText": "202.224/297.410",
+    "aiScore": 64,
     "picks": 2
   },
   "todayList": [
     {
-      "home": "Middlesbrough",
-      "away": "Derby County U21",
-      "league": "INGPL2",
-      "date": "09.11.2026 19:00",
-      "matchCode": "4544171",
-      "odds": 1.19,
-      "patternScore": 67.37,
-      "patternText": "133.723/198.499",
-      "aiScore": 67,
+      "home": "Fratria",
+      "away": "Sportist Svoge",
+      "league": "BULB",
+      "date": "09.11.2026 15:30",
+      "matchCode": "4505898",
+      "odds": 1.26,
+      "patternScore": 68.0,
+      "patternText": "202.224/297.410",
+      "aiScore": 64,
       "picks": 2
     },
     {
@@ -374,6 +374,18 @@
       "picks": 2
     },
     {
+      "home": "FC Botosani",
+      "away": "Otelul Galati",
+      "league": "ROM",
+      "date": "09.11.2026 18:00",
+      "matchCode": "4501652",
+      "odds": 1.15,
+      "patternScore": 69.12,
+      "patternText": "135.232/195.636",
+      "aiScore": 81,
+      "picks": 2
+    },
+    {
       "home": "Hvidovre IF",
       "away": "Aarhus Fremad",
       "league": "DAN1",
@@ -382,20 +394,8 @@
       "odds": 1.14,
       "patternScore": 68.48,
       "patternText": "197.329/288.138",
-      "aiScore": 87,
+      "aiScore": 88,
       "picks": 2
-    },
-    {
-      "home": "FC Botosani",
-      "away": "Otelul Galati",
-      "league": "ROM",
-      "date": "09.11.2026 18:00",
-      "matchCode": "4501652",
-      "odds": 1.14,
-      "patternScore": 69.87,
-      "patternText": "266.504/381.422",
-      "aiScore": 89,
-      "picks": 3
     },
     {
       "home": "Mushuc Runa SC",
