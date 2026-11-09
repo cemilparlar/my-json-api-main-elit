@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 07:41",
+  "updatedAt": "09.11.2026 07:48",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 969,
       "rate": 67.6
     },
-    "totalAnalyses": 458285,
+    "totalAnalyses": 458288,
     "leagues": 481,
     "pro": {
       "won": 1233,
@@ -336,6 +336,18 @@
       "picks": 3
     },
     {
+      "home": "Chelmsford",
+      "away": "Ebbsfleet",
+      "league": "İCON",
+      "date": "09.11.2026 19:45",
+      "matchCode": "4515961",
+      "odds": 1.28,
+      "patternScore": 68.91,
+      "patternText": "264.761/384.186",
+      "aiScore": 66,
+      "picks": 2
+    },
+    {
       "home": "Middlesbrough",
       "away": "Derby County U21",
       "league": "INGPL2",
@@ -358,18 +370,6 @@
       "patternText": "284.012/407.355",
       "aiScore": 74,
       "picks": 1
-    },
-    {
-      "home": "FC Botosani",
-      "away": "Otelul Galati",
-      "league": "ROM",
-      "date": "09.11.2026 18:00",
-      "matchCode": "4501652",
-      "odds": 1.13,
-      "patternScore": 69.92,
-      "patternText": "268.894/384.572",
-      "aiScore": 81,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
