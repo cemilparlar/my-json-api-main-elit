@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 09:09",
+  "updatedAt": "09.11.2026 09:17",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 648,
-      "lost": 310,
-      "total": 958,
+      "won": 646,
+      "lost": 309,
+      "total": 955,
       "rate": 67.6
     },
-    "totalAnalyses": 458288,
+    "totalAnalyses": 458311,
     "leagues": 480,
     "pro": {
       "won": 1233,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 49.3
     },
-    "analyses24h": 1449,
-    "analyses30d": 22195
+    "analyses24h": 1460,
+    "analyses30d": 22209
   },
   "recentWins": [
     {
@@ -289,7 +289,7 @@
     },
     {
       "type": "analysis",
-      "count": 1449
+      "count": 1460
     }
   ],
   "today": {
@@ -368,6 +368,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Serbia",
+      "away": "Germany",
+      "league": "AVUL",
+      "at": "09.11.2026 09:16",
+      "count": 14
+    },
+    {
       "home": "Slovakia",
       "away": "Faroe Islands",
       "league": "AVUL",
@@ -429,13 +436,6 @@
       "league": "AVUL",
       "at": "09.11.2026 06:31",
       "count": 5
-    },
-    {
-      "home": "Netherlands",
-      "away": "Greece",
-      "league": "AVUL",
-      "at": "09.11.2026 06:31",
-      "count": 4
     }
   ],
   "paywall": {
