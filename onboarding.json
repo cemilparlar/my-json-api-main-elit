@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 12:39",
+  "updatedAt": "09.11.2026 12:47",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 506,
+      "won": 504,
       "lost": 243,
-      "total": 749,
-      "rate": 67.6
+      "total": 747,
+      "rate": 67.5
     },
-    "totalAnalyses": 458419,
+    "totalAnalyses": 458420,
     "leagues": 477,
     "pro": {
       "won": 1233,
@@ -47,24 +47,10 @@
       "total": 148,
       "rate": 49.3
     },
-    "analyses24h": 1185,
-    "analyses30d": 22150
+    "analyses24h": 1184,
+    "analyses30d": 22152
   },
   "recentWins": [
-    {
-      "home": "Perth Glory",
-      "away": "Newcastle Jets",
-      "league": "AVUS",
-      "date": "07.11.2026 10:45",
-      "prediction": "Handicap (0:1) X",
-      "odds": 4.0,
-      "probability": 100.0,
-      "patternScore": 57.4,
-      "aiScore": 50,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 1",
-      "pro": true
-    },
     {
       "home": "Yunnan Yukun",
       "away": "Wuhan Three Tow",
@@ -120,6 +106,20 @@
       "firstHalf": "2 - 0",
       "finalScore": "3 - 0",
       "pro": false
+    },
+    {
+      "home": "Paris Saint-Germain",
+      "away": "ESTAC Troyes",
+      "league": "FR1",
+      "date": "07.11.2026 19:45",
+      "prediction": "Handicap (0:2) 2",
+      "odds": 2.12,
+      "probability": 80.0,
+      "patternScore": 67.07,
+      "aiScore": 52,
+      "firstHalf": "1 - 0",
+      "finalScore": "1 - 0",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -257,14 +257,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Perth Glory",
-      "away": "Newcastle Jets",
-      "prediction": "Handicap (0:1) X",
-      "odds": 4.0,
-      "at": "07.11.2026 10:45"
-    },
-    {
-      "type": "won",
       "home": "Yunnan Yukun",
       "away": "Wuhan Three Tow",
       "prediction": "Total Goals 2-3",
@@ -288,6 +280,14 @@
       "at": "08.11.2026 14:30"
     },
     {
+      "type": "won",
+      "home": "Besiktas",
+      "away": "Genclerbirligi",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 2.18,
+      "at": "08.11.2026 18:00"
+    },
+    {
       "type": "updated",
       "at": "09.11.2026 12:11",
       "home": "Kristiansund",
@@ -307,7 +307,7 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 12:27",
+      "at": "09.11.2026 12:42",
       "home": "FC Botosani",
       "away": "Otelul Galati"
     },
@@ -319,7 +319,7 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 12:26",
+      "at": "09.11.2026 12:42",
       "home": "Fc Iberia",
       "away": "FC Gagra"
     },
