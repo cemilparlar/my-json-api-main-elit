@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 07:26",
+  "updatedAt": "09.11.2026 07:33",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 687,
-      "lost": 333,
-      "total": 1020,
-      "rate": 67.4
+      "won": 655,
+      "lost": 314,
+      "total": 969,
+      "rate": 67.6
     },
     "totalAnalyses": 458285,
     "leagues": 481,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 49.3
     },
-    "analyses24h": 1532,
-    "analyses30d": 22239
+    "analyses24h": 1465,
+    "analyses30d": 22204
   },
   "recentWins": [
     {
@@ -295,7 +295,7 @@
     },
     {
       "type": "analysis",
-      "count": 1532
+      "count": 1465
     }
   ],
   "today": {
@@ -348,6 +348,18 @@
       "picks": 2
     },
     {
+      "home": "CE Sabadell",
+      "away": "Real Sociedad B",
+      "league": "İS2",
+      "date": "09.11.2026 19:30",
+      "matchCode": "4492820",
+      "odds": 1.14,
+      "patternScore": 69.72,
+      "patternText": "284.012/407.355",
+      "aiScore": 74,
+      "picks": 1
+    },
+    {
       "home": "FC Botosani",
       "away": "Otelul Galati",
       "league": "ROM",
@@ -358,18 +370,6 @@
       "patternText": "268.894/384.572",
       "aiScore": 81,
       "picks": 2
-    },
-    {
-      "home": "Hvidovre IF",
-      "away": "Aarhus Fremad",
-      "league": "DAN1",
-      "date": "09.11.2026 18:00",
-      "matchCode": "4476298",
-      "odds": 1.11,
-      "patternScore": 70.05,
-      "patternText": "270.885/386.682",
-      "aiScore": 92,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
