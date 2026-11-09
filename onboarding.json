@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 08:32",
+  "updatedAt": "09.11.2026 08:40",
   "config": {
     "pages": [
       "engine",
@@ -288,41 +288,23 @@
       "at": "08.11.2026 14:30"
     },
     {
-      "type": "updated",
-      "at": "09.11.2026 08:32",
-      "home": "Coventry City",
-      "away": "Queens Park Rangers"
-    },
-    {
       "type": "analysis",
       "count": 1449
     }
   ],
   "today": {
-    "home": "Coventry City",
-    "away": "Queens Park Rangers",
-    "league": "INGPDL",
-    "date": "09.11.2026 13:00",
-    "matchCode": "4540671",
-    "odds": 1.13,
-    "patternScore": 66.84,
-    "patternText": "152.277/227.833",
-    "aiScore": 82,
-    "picks": 1
+    "home": "Veles",
+    "away": "KAMAZ Naberezhnye Chelny",
+    "league": "RUS1",
+    "date": "09.11.2026 16:30",
+    "matchCode": "4498117",
+    "odds": 1.31,
+    "patternScore": 68.24,
+    "patternText": "192.502/282.098",
+    "aiScore": 59,
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Coventry City",
-      "away": "Queens Park Rangers",
-      "league": "INGPDL",
-      "date": "09.11.2026 13:00",
-      "matchCode": "4540671",
-      "odds": 1.13,
-      "patternScore": 66.84,
-      "patternText": "152.277/227.833",
-      "aiScore": 82,
-      "picks": 1
-    },
     {
       "home": "Veles",
       "away": "KAMAZ Naberezhnye Chelny",
@@ -370,6 +352,18 @@
       "patternText": "284.012/407.355",
       "aiScore": 74,
       "picks": 1
+    },
+    {
+      "home": "FC Botosani",
+      "away": "Otelul Galati",
+      "league": "ROM",
+      "date": "09.11.2026 18:00",
+      "matchCode": "4501652",
+      "odds": 1.13,
+      "patternScore": 69.92,
+      "patternText": "268.894/384.572",
+      "aiScore": 81,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
