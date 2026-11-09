@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 12:24",
+  "updatedAt": "09.11.2026 12:32",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 530,
-      "lost": 260,
-      "total": 790,
-      "rate": 67.1
+      "won": 506,
+      "lost": 243,
+      "total": 749,
+      "rate": 67.6
     },
-    "totalAnalyses": 458385,
-    "leagues": 478,
+    "totalAnalyses": 458400,
+    "leagues": 477,
     "pro": {
       "won": 1233,
       "lost": 524,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 49.3
     },
-    "analyses24h": 1226,
-    "analyses30d": 22163
+    "analyses24h": 1187,
+    "analyses30d": 22152
   },
   "recentWins": [
     {
@@ -307,7 +307,7 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 12:12",
+      "at": "09.11.2026 12:27",
       "home": "FC Botosani",
       "away": "Otelul Galati"
     },
@@ -318,10 +318,10 @@
       "away": "Rilski Sportist"
     },
     {
-      "type": "kickoff",
-      "home": "Cska Sofia Ii",
-      "away": "Rilski Sportist",
-      "at": "09.11.2026 12:30"
+      "type": "updated",
+      "at": "09.11.2026 12:26",
+      "home": "Fc Iberia",
+      "away": "FC Gagra"
     },
     {
       "type": "kickoff",
@@ -330,23 +330,37 @@
       "at": "09.11.2026 13:15"
     },
     {
-      "type": "analysis",
-      "count": 1226
+      "type": "kickoff",
+      "home": "Fc Iberia",
+      "away": "FC Gagra",
+      "at": "09.11.2026 15:00"
     }
   ],
   "today": {
-    "home": "Veles",
-    "away": "KAMAZ Naberezhnye Chelny",
-    "league": "RUS1",
-    "date": "09.11.2026 16:30",
-    "matchCode": "4498117",
-    "odds": 1.15,
-    "patternScore": 70.06,
-    "patternText": "260.394/371.674",
-    "aiScore": 85,
-    "picks": 2
+    "home": "Fc Iberia",
+    "away": "FC Gagra",
+    "league": "GUR",
+    "date": "09.11.2026 15:00",
+    "matchCode": "4435470",
+    "odds": 1.29,
+    "patternScore": 68.14,
+    "patternText": "216.571/317.827",
+    "aiScore": 62,
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Fc Iberia",
+      "away": "FC Gagra",
+      "league": "GUR",
+      "date": "09.11.2026 15:00",
+      "matchCode": "4435470",
+      "odds": 1.29,
+      "patternScore": 68.14,
+      "patternText": "216.571/317.827",
+      "aiScore": 62,
+      "picks": 1
+    },
     {
       "home": "Veles",
       "away": "KAMAZ Naberezhnye Chelny",
@@ -394,18 +408,6 @@
       "patternText": "295.743/418.559",
       "aiScore": 96,
       "picks": 1
-    },
-    {
-      "home": "Chelmsford",
-      "away": "Ebbsfleet",
-      "league": "İCON",
-      "date": "09.11.2026 19:45",
-      "matchCode": "4515961",
-      "odds": 1.28,
-      "patternScore": 68.91,
-      "patternText": "264.771/384.208",
-      "aiScore": 66,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
