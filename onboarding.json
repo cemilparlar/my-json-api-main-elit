@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 15:56",
+  "updatedAt": "09.11.2026 16:04",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 244,
-      "lost": 107,
-      "total": 351,
-      "rate": 69.5
+      "won": 222,
+      "lost": 97,
+      "total": 319,
+      "rate": 69.6
     },
-    "totalAnalyses": 458582,
-    "leagues": 474,
+    "totalAnalyses": 458602,
+    "leagues": 470,
     "pro": {
-      "won": 1230,
-      "lost": 523,
-      "total": 1753,
+      "won": 1225,
+      "lost": 519,
+      "total": 1744,
       "rate": 70.2
     },
     "insights": {
-      "won": 2036,
-      "lost": 868,
-      "total": 2904,
-      "rate": 70.1
+      "won": 2020,
+      "lost": 855,
+      "total": 2875,
+      "rate": 70.3
     },
     "coupons": {
       "won": 72,
@@ -47,8 +47,8 @@
       "total": 146,
       "rate": 49.3
     },
-    "analyses24h": 689,
-    "analyses30d": 22013
+    "analyses24h": 633,
+    "analyses30d": 21940
   },
   "recentWins": [
     {
@@ -319,13 +319,13 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 14:47",
+      "at": "09.11.2026 16:03",
       "home": "Torreense",
       "away": "Leiria"
     },
     {
       "type": "updated",
-      "at": "09.11.2026 14:45",
+      "at": "09.11.2026 16:02",
       "home": "Hvidovre IF",
       "away": "Aarhus Fremad"
     },
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Albania",
+      "away": "Finland",
+      "league": "AVUL",
+      "at": "09.11.2026 16:04",
+      "count": 5
+    },
+    {
       "home": "CE Sabadell",
       "away": "Real Sociedad B",
       "league": "İS2",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "09.11.2026 06:31",
       "count": 5
-    },
-    {
-      "home": "Netherlands",
-      "away": "Greece",
-      "league": "AVUL",
-      "at": "09.11.2026 06:31",
-      "count": 4
     }
   ],
   "paywall": {
