@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 07:04",
+  "updatedAt": "09.11.2026 07:12",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 1020,
       "rate": 67.4
     },
-    "totalAnalyses": 458245,
+    "totalAnalyses": 458255,
     "leagues": 481,
     "pro": {
       "won": 1233,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 49.3
     },
-    "analyses24h": 1530,
-    "analyses30d": 22237
+    "analyses24h": 1532,
+    "analyses30d": 22239
   },
   "recentWins": [
     {
@@ -288,8 +288,14 @@
       "at": "08.11.2026 14:30"
     },
     {
+      "type": "updated",
+      "at": "09.11.2026 07:05",
+      "home": "Coventry City",
+      "away": "Queens Park Rangers"
+    },
+    {
       "type": "analysis",
-      "count": 1530
+      "count": 1532
     }
   ],
   "today": {
@@ -298,11 +304,11 @@
     "league": "INGPDL",
     "date": "09.11.2026 13:00",
     "matchCode": "4540671",
-    "odds": 1.43,
-    "patternScore": 68.16,
-    "patternText": "213.270/312.904",
-    "aiScore": 58,
-    "picks": 2
+    "odds": 1.13,
+    "patternScore": 66.84,
+    "patternText": "152.277/227.833",
+    "aiScore": 82,
+    "picks": 1
   },
   "todayList": [
     {
@@ -311,11 +317,11 @@
       "league": "INGPDL",
       "date": "09.11.2026 13:00",
       "matchCode": "4540671",
-      "odds": 1.43,
-      "patternScore": 68.16,
-      "patternText": "213.270/312.904",
-      "aiScore": 58,
-      "picks": 2
+      "odds": 1.13,
+      "patternScore": 66.84,
+      "patternText": "152.277/227.833",
+      "aiScore": 82,
+      "picks": 1
     },
     {
       "home": "Veles",
