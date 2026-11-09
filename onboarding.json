@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 01:22",
+  "updatedAt": "09.11.2026 01:30",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 151,
       "rate": 50.3
     },
-    "analyses24h": 1458,
-    "analyses30d": 22077
+    "analyses24h": 1455,
+    "analyses30d": 22074
   },
   "recentWins": [
     {
@@ -331,36 +331,24 @@
     },
     {
       "type": "kickoff",
-      "home": "Universitario de Deportes",
-      "away": "Deportivo Moquegua",
-      "at": "09.11.2026 01:30"
+      "home": "Club Leon",
+      "away": "Club Deportivo Guadalajara",
+      "at": "09.11.2026 02:00"
     }
   ],
   "today": {
-    "home": "Club Leon",
-    "away": "Club Deportivo Guadalajara",
-    "league": "MEK",
-    "date": "09.11.2026 02:00",
-    "matchCode": "4476494",
-    "odds": 1.07,
-    "patternScore": 69.75,
-    "patternText": "180.761/259.169",
-    "aiScore": 93,
-    "picks": 1
+    "home": "Coventry City",
+    "away": "Queens Park Rangers",
+    "league": "INGPDL",
+    "date": "09.11.2026 13:00",
+    "matchCode": "4540671",
+    "odds": 1.43,
+    "patternScore": 68.16,
+    "patternText": "213.200/312.782",
+    "aiScore": 59,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Club Leon",
-      "away": "Club Deportivo Guadalajara",
-      "league": "MEK",
-      "date": "09.11.2026 02:00",
-      "matchCode": "4476494",
-      "odds": 1.07,
-      "patternScore": 69.75,
-      "patternText": "180.761/259.169",
-      "aiScore": 93,
-      "picks": 1
-    },
     {
       "home": "Coventry City",
       "away": "Queens Park Rangers",
@@ -408,6 +396,18 @@
       "patternText": "268.822/384.456",
       "aiScore": 82,
       "picks": 2
+    },
+    {
+      "home": "Hvidovre IF",
+      "away": "Aarhus Fremad",
+      "league": "DAN1",
+      "date": "09.11.2026 18:00",
+      "matchCode": "4476298",
+      "odds": 1.11,
+      "patternScore": 70.06,
+      "patternText": "270.813/386.566",
+      "aiScore": 93,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
