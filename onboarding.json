@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 01:30",
+  "updatedAt": "09.11.2026 01:37",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 734,
+      "won": 735,
       "lost": 344,
-      "total": 1078,
+      "total": 1079,
       "rate": 68.1
     },
     "totalAnalyses": 457821,
     "leagues": 480,
     "pro": {
-      "won": 1233,
-      "lost": 518,
-      "total": 1751,
-      "rate": 70.4
+      "won": 1232,
+      "lost": 516,
+      "total": 1748,
+      "rate": 70.5
     },
     "insights": {
-      "won": 2043,
-      "lost": 858,
-      "total": 2901,
-      "rate": 70.4
+      "won": 2042,
+      "lost": 855,
+      "total": 2897,
+      "rate": 70.5
     },
     "coupons": {
-      "won": 76,
+      "won": 75,
       "lost": 75,
-      "total": 151,
-      "rate": 50.3
+      "total": 150,
+      "rate": 50.0
     },
     "analyses24h": 1455,
     "analyses30d": 22074
@@ -386,6 +386,18 @@
       "picks": 2
     },
     {
+      "home": "CE Sabadell",
+      "away": "Real Sociedad B",
+      "league": "İS2",
+      "date": "09.11.2026 19:30",
+      "matchCode": "4492820",
+      "odds": 1.14,
+      "patternScore": 69.72,
+      "patternText": "283.940/407.231",
+      "aiScore": 75,
+      "picks": 1
+    },
+    {
       "home": "FC Botosani",
       "away": "Otelul Galati",
       "league": "ROM",
@@ -396,18 +408,6 @@
       "patternText": "268.822/384.456",
       "aiScore": 82,
       "picks": 2
-    },
-    {
-      "home": "Hvidovre IF",
-      "away": "Aarhus Fremad",
-      "league": "DAN1",
-      "date": "09.11.2026 18:00",
-      "matchCode": "4476298",
-      "odds": 1.11,
-      "patternScore": 70.06,
-      "patternText": "270.813/386.566",
-      "aiScore": 93,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
