@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 16:58",
+  "updatedAt": "09.11.2026 17:05",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 179,
-      "lost": 82,
-      "total": 261,
-      "rate": 68.6
+      "won": 162,
+      "lost": 64,
+      "total": 226,
+      "rate": 71.7
     },
-    "totalAnalyses": 458652,
-    "leagues": 469,
+    "totalAnalyses": 458711,
+    "leagues": 466,
     "pro": {
-      "won": 1225,
-      "lost": 519,
-      "total": 1744,
+      "won": 1215,
+      "lost": 517,
+      "total": 1732,
       "rate": 70.2
     },
     "insights": {
-      "won": 2020,
-      "lost": 854,
-      "total": 2874,
-      "rate": 70.3
+      "won": 2005,
+      "lost": 851,
+      "total": 2856,
+      "rate": 70.2
     },
     "coupons": {
-      "won": 72,
+      "won": 71,
       "lost": 74,
-      "total": 146,
-      "rate": 49.3
+      "total": 145,
+      "rate": 49.0
     },
-    "analyses24h": 576,
-    "analyses30d": 21907
+    "analyses24h": 533,
+    "analyses30d": 21801
   },
   "recentWins": [
     {
@@ -362,6 +362,18 @@
       "picks": 1
     },
     {
+      "home": "Deportivo La Coruna",
+      "away": "Valencia Women",
+      "league": "İSKPR",
+      "date": "09.11.2026 20:00",
+      "matchCode": "4528010",
+      "odds": 1.23,
+      "patternScore": 68.54,
+      "patternText": "182.625/266.433",
+      "aiScore": 70,
+      "picks": 2
+    },
+    {
       "home": "Hvidovre IF",
       "away": "Aarhus Fremad",
       "league": "DAN1",
@@ -382,32 +394,20 @@
       "odds": 1.19,
       "patternScore": 68.87,
       "patternText": "129.004/187.326",
-      "aiScore": 80,
+      "aiScore": 79,
       "picks": 3
     },
     {
-      "home": "US Foggia",
-      "away": "Barletta",
+      "home": "AZ Picerno",
+      "away": "SSC Bari",
       "league": "İTC",
       "date": "09.11.2026 19:30",
-      "matchCode": "4535941",
-      "odds": 1.15,
-      "patternScore": 69.95,
-      "patternText": "263.940/377.306",
-      "aiScore": 76,
-      "picks": 2
-    },
-    {
-      "home": "Pineto Calcio",
-      "away": "Vis Pesaro",
-      "league": "İTC",
-      "date": "09.11.2026 19:30",
-      "matchCode": "4535563",
-      "odds": 1.15,
-      "patternScore": 69.22,
-      "patternText": "134.114/193.759",
-      "aiScore": 85,
-      "picks": 2
+      "matchCode": "4535944",
+      "odds": 1.19,
+      "patternScore": 69.02,
+      "patternText": "211.124/305.886",
+      "aiScore": 74,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
