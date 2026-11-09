@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 21:25",
+  "updatedAt": "09.11.2026 21:32",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 26,
-      "lost": 13,
-      "total": 39,
-      "rate": 66.7
+      "won": 34,
+      "lost": 18,
+      "total": 52,
+      "rate": 65.4
     },
-    "totalAnalyses": 458888,
+    "totalAnalyses": 458891,
     "leagues": 454,
     "pro": {
-      "won": 1162,
-      "lost": 494,
-      "total": 1656,
-      "rate": 70.2
+      "won": 1167,
+      "lost": 497,
+      "total": 1664,
+      "rate": 70.1
     },
     "insights": {
-      "won": 1925,
-      "lost": 809,
-      "total": 2734,
+      "won": 1934,
+      "lost": 815,
+      "total": 2749,
       "rate": 70.4
     },
     "coupons": {
@@ -47,7 +47,7 @@
       "total": 139,
       "rate": 47.5
     },
-    "analyses24h": 376,
+    "analyses24h": 374,
     "analyses30d": 21395
   },
   "recentWins": [
@@ -116,7 +116,7 @@
       "odds": 2.12,
       "probability": 80.0,
       "patternScore": 67.07,
-      "aiScore": 52,
+      "aiScore": 53,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 0",
       "pro": true
