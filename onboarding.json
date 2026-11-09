@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 12:54",
+  "updatedAt": "09.11.2026 13:02",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 504,
-      "lost": 243,
-      "total": 747,
-      "rate": 67.5
+      "won": 445,
+      "lost": 210,
+      "total": 655,
+      "rate": 67.9
     },
     "totalAnalyses": 458440,
-    "leagues": 477,
+    "leagues": 476,
     "pro": {
       "won": 1233,
       "lost": 524,
@@ -47,8 +47,8 @@
       "total": 148,
       "rate": 49.3
     },
-    "analyses24h": 1183,
-    "analyses30d": 22151
+    "analyses24h": 1054,
+    "analyses30d": 22142
   },
   "recentWins": [
     {
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Veles",
-    "away": "KAMAZ Naberezhnye Chelny",
-    "league": "RUS1",
-    "date": "09.11.2026 16:30",
-    "matchCode": "4498117",
-    "odds": 1.15,
-    "patternScore": 70.06,
-    "patternText": "260.394/371.674",
-    "aiScore": 85,
+    "home": "Middlesbrough",
+    "away": "Derby County U21",
+    "league": "INGPL2",
+    "date": "09.11.2026 19:00",
+    "matchCode": "4544171",
+    "odds": 1.19,
+    "patternScore": 67.37,
+    "patternText": "133.723/198.499",
+    "aiScore": 67,
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "Middlesbrough",
+      "away": "Derby County U21",
+      "league": "INGPL2",
+      "date": "09.11.2026 19:00",
+      "matchCode": "4544171",
+      "odds": 1.19,
+      "patternScore": 67.37,
+      "patternText": "133.723/198.499",
+      "aiScore": 67,
+      "picks": 2
+    },
     {
       "home": "Veles",
       "away": "KAMAZ Naberezhnye Chelny",
@@ -395,18 +407,6 @@
       "patternScore": 70.66,
       "patternText": "295.743/418.559",
       "aiScore": 96,
-      "picks": 1
-    },
-    {
-      "home": "Fc Iberia",
-      "away": "FC Gagra",
-      "league": "GUR",
-      "date": "09.11.2026 15:00",
-      "matchCode": "4435470",
-      "odds": 1.06,
-      "patternScore": 72.08,
-      "patternText": "180.590/250.558",
-      "aiScore": 99,
       "picks": 1
     }
   ],
