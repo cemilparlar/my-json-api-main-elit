@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 09:55",
+  "updatedAt": "10.11.2026 10:02",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 50,
       "rate": 72.0
     },
-    "totalAnalyses": 459006,
-    "leagues": 449,
+    "totalAnalyses": 459010,
+    "leagues": 447,
     "pro": {
-      "won": 1132,
-      "lost": 490,
-      "total": 1622,
+      "won": 1131,
+      "lost": 489,
+      "total": 1620,
       "rate": 69.8
     },
     "insights": {
-      "won": 1896,
-      "lost": 804,
-      "total": 2700,
+      "won": 1891,
+      "lost": 802,
+      "total": 2693,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 131,
       "rate": 45.0
     },
-    "analyses24h": 370,
-    "analyses30d": 21163
+    "analyses24h": 368,
+    "analyses30d": 21094
   },
   "recentWins": [
     {
@@ -295,13 +295,25 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 09:53",
-      "home": "Colchester United",
-      "away": "Charlton Athletic"
+      "at": "10.11.2026 09:52",
+      "home": "CD Santa Clara U23",
+      "away": "Torreense U23"
+    },
+    {
+      "type": "kickoff",
+      "home": "CD Santa Clara U23",
+      "away": "Torreense U23",
+      "at": "10.11.2026 12:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Hull City U21",
+      "away": "Fleetwood Town",
+      "at": "10.11.2026 13:00"
     },
     {
       "type": "analysis",
-      "count": 370
+      "count": 368
     }
   ],
   "today": {
@@ -313,7 +325,7 @@
     "odds": 1.2,
     "patternScore": 68.05,
     "patternText": "198.568/291.810",
-    "aiScore": 67,
+    "aiScore": 68,
     "picks": 1
   },
   "todayList": [
@@ -326,19 +338,19 @@
       "odds": 1.2,
       "patternScore": 68.05,
       "patternText": "198.568/291.810",
-      "aiScore": 67,
+      "aiScore": 68,
       "picks": 1
     },
     {
-      "home": "Colchester United",
-      "away": "Charlton Athletic",
-      "league": "INGPDL",
-      "date": "10.11.2026 14:00",
-      "matchCode": "4540674",
-      "odds": 1.1,
-      "patternScore": 65.33,
-      "patternText": "274.022/419.452",
-      "aiScore": 83,
+      "home": "CD Santa Clara U23",
+      "away": "Torreense U23",
+      "league": "PORU23",
+      "date": "10.11.2026 12:00",
+      "matchCode": "4523091",
+      "odds": 1.08,
+      "patternScore": 70.8,
+      "patternText": "262.838/371.230",
+      "aiScore": 95,
       "picks": 1
     },
     {
