@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 21:59",
+  "updatedAt": "10.11.2026 22:07",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 36,
-      "lost": 22,
-      "total": 58,
-      "rate": 62.1
+      "won": 52,
+      "lost": 34,
+      "total": 86,
+      "rate": 60.5
     },
-    "totalAnalyses": 459405,
-    "leagues": 361,
+    "totalAnalyses": 459406,
+    "leagues": 360,
     "pro": {
-      "won": 1184,
-      "lost": 517,
-      "total": 1701,
-      "rate": 69.6
+      "won": 1190,
+      "lost": 518,
+      "total": 1708,
+      "rate": 69.7
     },
     "insights": {
-      "won": 1985,
-      "lost": 840,
-      "total": 2825,
-      "rate": 70.3
+      "won": 1996,
+      "lost": 841,
+      "total": 2837,
+      "rate": 70.4
     },
     "coupons": {
       "won": 57,
@@ -48,23 +48,9 @@
       "rate": 45.6
     },
     "analyses24h": 336,
-    "analyses30d": 20012
+    "analyses30d": 20006
   },
   "recentWins": [
-    {
-      "home": "Atletico Madrid",
-      "away": "FC Barcelona",
-      "league": "İS1",
-      "date": "08.11.2026 20:00",
-      "prediction": "Under 3.5 Goals",
-      "odds": 1.72,
-      "probability": 100.0,
-      "patternScore": 57.88,
-      "aiScore": 53,
-      "firstHalf": "1 - 1",
-      "finalScore": "1 - 2",
-      "pro": true
-    },
     {
       "home": "CF Estrela da Amadora",
       "away": "SL Benfica",
@@ -120,6 +106,20 @@
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
       "pro": false
+    },
+    {
+      "home": "Pamplona",
+      "away": "Eibar",
+      "league": "İSPK",
+      "date": "10.11.2026 18:00",
+      "prediction": "Over 2.5 Goals",
+      "odds": 1.38,
+      "probability": 85.71,
+      "patternScore": 66.57,
+      "aiScore": 56,
+      "firstHalf": "0 - 2",
+      "finalScore": "0 - 3",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -156,14 +156,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Atletico Madrid",
-      "away": "FC Barcelona",
-      "prediction": "Under 3.5 Goals",
-      "odds": 1.72,
-      "at": "08.11.2026 20:00"
-    },
-    {
-      "type": "won",
       "home": "CF Estrela da Amadora",
       "away": "SL Benfica",
       "prediction": "1st Half Under 1.5",
@@ -185,6 +177,14 @@
       "prediction": "Both Teams to Score - Yes",
       "odds": 1.55,
       "at": "09.11.2026 20:30"
+    },
+    {
+      "type": "won",
+      "home": "Deportivo Garc",
+      "away": "Comerciantes Un",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.41,
+      "at": "08.11.2026 23:00"
     },
     {
       "type": "coupon",
