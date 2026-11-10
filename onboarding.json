@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 01:29",
+  "updatedAt": "10.11.2026 01:36",
   "config": {
     "pages": [
       "engine",
@@ -23,9 +23,9 @@
     "days": 7,
     "last24h": {
       "won": 36,
-      "lost": 21,
-      "total": 57,
-      "rate": 63.2
+      "lost": 14,
+      "total": 50,
+      "rate": 72.0
     },
     "totalAnalyses": 458930,
     "leagues": 452,
@@ -47,8 +47,8 @@
       "total": 136,
       "rate": 46.3
     },
-    "analyses24h": 373,
-    "analyses30d": 21350
+    "analyses24h": 366,
+    "analyses30d": 21344
   },
   "recentWins": [
     {
@@ -313,7 +313,7 @@
     },
     {
       "type": "analysis",
-      "count": 373
+      "count": 366
     }
   ],
   "today": {
@@ -366,6 +366,18 @@
       "picks": 3
     },
     {
+      "home": "Crawley Town",
+      "away": "Brentford U21",
+      "league": "İNTK",
+      "date": "10.11.2026 19:30",
+      "matchCode": "4527891",
+      "odds": 1.25,
+      "patternScore": 68.57,
+      "patternText": "207.276/302.298",
+      "aiScore": 75,
+      "picks": 1
+    },
+    {
       "home": "Metalul Buzau",
       "away": "Csa Steaua Bucu",
       "league": "ROM2",
@@ -374,20 +386,8 @@
       "odds": 1.25,
       "patternScore": 67.81,
       "patternText": "197.387/291.076",
-      "aiScore": 62,
+      "aiScore": 63,
       "picks": 2
-    },
-    {
-      "home": "Grimsby Town",
-      "away": "Nottingham Forest",
-      "league": "İNTK",
-      "date": "10.11.2026 19:00",
-      "matchCode": "4527836",
-      "odds": 1.16,
-      "patternScore": 67.4,
-      "patternText": "157.668/233.917",
-      "aiScore": 72,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
