@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 00:28",
+  "updatedAt": "10.11.2026 00:36",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 136,
       "rate": 46.3
     },
-    "analyses24h": 376,
-    "analyses30d": 21374
+    "analyses24h": 375,
+    "analyses30d": 21373
   },
   "recentWins": [
     {
@@ -307,21 +307,9 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 18:28",
-      "home": "Plymouth Parkway",
-      "away": "Berkhamsted"
-    },
-    {
-      "type": "updated",
       "at": "09.11.2026 19:40",
       "home": "T.Universitari",
       "away": "Manta"
-    },
-    {
-      "type": "updated",
-      "at": "09.11.2026 18:28",
-      "home": "West Bromwich Albion U21",
-      "away": "Bromley U21"
     },
     {
       "type": "updated",
@@ -334,33 +322,33 @@
       "at": "09.11.2026 21:59",
       "home": "Chapelton",
       "away": "Racing United"
+    },
+    {
+      "type": "updated",
+      "at": "10.11.2026 00:22",
+      "home": "Arnett Gardens",
+      "away": "Waterhouse"
+    },
+    {
+      "type": "kickoff",
+      "home": "Arnett Gardens",
+      "away": "Waterhouse",
+      "at": "10.11.2026 01:00"
     }
   ],
   "today": {
-    "home": "Arnett Gardens",
-    "away": "Waterhouse",
-    "league": "JAM",
-    "date": "10.11.2026 01:00",
-    "matchCode": "4562929",
-    "odds": 1.11,
-    "patternScore": 70.86,
-    "patternText": "235.908/332.932",
-    "aiScore": 95,
-    "picks": 3
+    "home": "Metalul Buzau",
+    "away": "Csa Steaua Bucu",
+    "league": "ROM2",
+    "date": "10.11.2026 17:30",
+    "matchCode": "4513330",
+    "odds": 1.25,
+    "patternScore": 67.81,
+    "patternText": "197.381/291.068",
+    "aiScore": 62,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Arnett Gardens",
-      "away": "Waterhouse",
-      "league": "JAM",
-      "date": "10.11.2026 01:00",
-      "matchCode": "4562929",
-      "odds": 1.11,
-      "patternScore": 70.86,
-      "patternText": "235.908/332.932",
-      "aiScore": 95,
-      "picks": 3
-    },
     {
       "home": "Metalul Buzau",
       "away": "Csa Steaua Bucu",
@@ -370,7 +358,7 @@
       "odds": 1.25,
       "patternScore": 67.81,
       "patternText": "197.381/291.068",
-      "aiScore": 63,
+      "aiScore": 62,
       "picks": 2
     },
     {
@@ -408,6 +396,18 @@
       "patternText": "204.488/304.226",
       "aiScore": 52,
       "picks": 1
+    },
+    {
+      "home": "Stamford",
+      "away": "Needham Market",
+      "league": "İNGNLP",
+      "date": "10.11.2026 19:45",
+      "matchCode": "4519217",
+      "odds": 1.7,
+      "patternScore": 67.2,
+      "patternText": "204.692/304.608",
+      "aiScore": 53,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
