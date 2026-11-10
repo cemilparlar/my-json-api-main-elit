@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 17:11",
+  "updatedAt": "10.11.2026 17:19",
   "config": {
     "pages": [
       "engine",
@@ -94,20 +94,6 @@
       "pro": true
     },
     {
-      "home": "Girona FC",
-      "away": "UD Almeria",
-      "league": "İS2",
-      "date": "08.11.2026 15:15",
-      "prediction": "Both Teams to Score - No",
-      "odds": 1.93,
-      "probability": 76.92,
-      "patternScore": 67.34,
-      "aiScore": 52,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 1",
-      "pro": false
-    },
-    {
       "home": "TSG Hoffenheim",
       "away": "FC Schalke 04",
       "league": "AL1",
@@ -120,6 +106,20 @@
       "firstHalf": "2 - 0",
       "finalScore": "2 - 1",
       "pro": true
+    },
+    {
+      "home": "Le Mans FC",
+      "away": "AS Monaco",
+      "league": "FR1",
+      "date": "08.11.2026 16:15",
+      "prediction": "Total Goals 2-3",
+      "odds": 1.79,
+      "probability": 83.33333333333334,
+      "patternScore": 66.65,
+      "aiScore": 52,
+      "firstHalf": "0 - 1",
+      "finalScore": "1 - 1",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -281,11 +281,11 @@
     },
     {
       "type": "won",
-      "home": "Girona FC",
-      "away": "UD Almeria",
-      "prediction": "Both Teams to Score - No",
-      "odds": 1.93,
-      "at": "08.11.2026 15:15"
+      "home": "TSG Hoffenheim",
+      "away": "FC Schalke 04",
+      "prediction": "HT/FT 1/1",
+      "odds": 1.91,
+      "at": "08.11.2026 18:30"
     },
     {
       "type": "coupon",
