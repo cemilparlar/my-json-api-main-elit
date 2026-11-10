@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 00:43",
+  "updatedAt": "10.11.2026 00:50",
   "config": {
     "pages": [
       "engine",
@@ -28,17 +28,17 @@
       "rate": 63.2
     },
     "totalAnalyses": 458930,
-    "leagues": 453,
+    "leagues": 452,
     "pro": {
-      "won": 1166,
+      "won": 1167,
       "lost": 496,
-      "total": 1662,
+      "total": 1663,
       "rate": 70.2
     },
     "insights": {
-      "won": 1934,
+      "won": 1935,
       "lost": 812,
-      "total": 2746,
+      "total": 2747,
       "rate": 70.4
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 46.3
     },
     "analyses24h": 375,
-    "analyses30d": 21373
+    "analyses30d": 21358
   },
   "recentWins": [
     {
@@ -289,18 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "09.11.2026 18:47",
-      "home": "SS Altamura",
-      "away": "Cavese 1919"
-    },
-    {
-      "type": "updated",
-      "at": "09.11.2026 18:47",
-      "home": "CE Sabadell",
-      "away": "Real Sociedad B"
-    },
-    {
-      "type": "updated",
       "at": "09.11.2026 22:42",
       "home": "CSD Aurora",
       "away": "Universitario D"
@@ -334,6 +322,10 @@
       "home": "Arnett Gardens",
       "away": "Waterhouse",
       "at": "10.11.2026 01:00"
+    },
+    {
+      "type": "analysis",
+      "count": 375
     }
   ],
   "today": {
@@ -345,7 +337,7 @@
     "odds": 1.25,
     "patternScore": 67.81,
     "patternText": "197.381/291.068",
-    "aiScore": 62,
+    "aiScore": 63,
     "picks": 2
   },
   "todayList": [
@@ -358,7 +350,7 @@
       "odds": 1.25,
       "patternScore": 67.81,
       "patternText": "197.381/291.068",
-      "aiScore": 62,
+      "aiScore": 63,
       "picks": 2
     },
     {
