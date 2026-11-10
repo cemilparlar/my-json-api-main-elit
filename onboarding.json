@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 15:37",
+  "updatedAt": "10.11.2026 15:44",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 48,
       "rate": 70.8
     },
-    "totalAnalyses": 459267,
+    "totalAnalyses": 459273,
     "leagues": 397,
     "pro": {
-      "won": 1134,
+      "won": 1138,
       "lost": 489,
-      "total": 1623,
+      "total": 1627,
       "rate": 69.9
     },
     "insights": {
-      "won": 1907,
-      "lost": 803,
-      "total": 2710,
+      "won": 1912,
+      "lost": 805,
+      "total": 2717,
       "rate": 70.4
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 130,
       "rate": 45.4
     },
-    "analyses24h": 392,
-    "analyses30d": 20317
+    "analyses24h": 390,
+    "analyses30d": 20315
   },
   "recentWins": [
     {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 15:32",
-      "home": "Mijas Las Lagu",
-      "away": "Real Jaen"
-    },
-    {
-      "type": "updated",
       "at": "10.11.2026 14:02",
       "home": "Chatham Town",
       "away": "Leatherhead"
@@ -325,15 +319,21 @@
     },
     {
       "type": "updated",
+      "at": "10.11.2026 15:33",
+      "home": "Oxford United",
+      "away": "Cheltenham Town"
+    },
+    {
+      "type": "updated",
       "at": "10.11.2026 15:32",
       "home": "Burton Albion",
       "away": "Notts County"
     },
     {
       "type": "updated",
-      "at": "10.11.2026 15:33",
-      "home": "Grimsby Town",
-      "away": "Nottingham Forest"
+      "at": "10.11.2026 13:15",
+      "home": "Barnet",
+      "away": "Leyton Orient"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4519215",
     "odds": 1.74,
     "patternScore": 67.4,
-    "patternText": "160.708/238.452",
+    "patternText": "160.710/238.454",
     "aiScore": 54,
     "picks": 3
   },
@@ -357,7 +357,7 @@
       "matchCode": "4519215",
       "odds": 1.74,
       "patternScore": 67.4,
-      "patternText": "160.708/238.452",
+      "patternText": "160.710/238.454",
       "aiScore": 54,
       "picks": 3
     },
@@ -369,9 +369,21 @@
       "matchCode": "4519217",
       "odds": 1.7,
       "patternScore": 67.2,
-      "patternText": "204.798/304.756",
+      "patternText": "204.800/304.758",
       "aiScore": 53,
       "picks": 3
+    },
+    {
+      "home": "Oxford United",
+      "away": "Cheltenham Town",
+      "league": "İNTK",
+      "date": "10.11.2026 19:00",
+      "matchCode": "4527848",
+      "odds": 1.66,
+      "patternScore": 66.59,
+      "patternText": "138.927/208.641",
+      "aiScore": 54,
+      "picks": 2
     },
     {
       "home": "Sheffield Wednesday",
@@ -381,33 +393,21 @@
       "matchCode": "4527809",
       "odds": 1.58,
       "patternScore": 68.63,
-      "patternText": "214.064/311.893",
+      "patternText": "214.066/311.895",
       "aiScore": 57,
       "picks": 1
     },
     {
-      "home": "Curzon Ashton",
-      "away": "Ilkeston Town",
-      "league": "İNGNLP",
-      "date": "10.11.2026 19:45",
-      "matchCode": "4519653",
-      "odds": 1.36,
-      "patternScore": 68.42,
-      "patternText": "224.483/328.078",
-      "aiScore": 57,
-      "picks": 1
-    },
-    {
-      "home": "Bristol Rovers",
-      "away": "Reading",
+      "home": "Bromley",
+      "away": "MK Dons",
       "league": "İNTK",
-      "date": "10.11.2026 19:00",
-      "matchCode": "4527861",
-      "odds": 1.33,
-      "patternScore": 67.79,
-      "patternText": "201.478/297.229",
-      "aiScore": 58,
-      "picks": 3
+      "date": "10.11.2026 19:30",
+      "matchCode": "4527890",
+      "odds": 1.41,
+      "patternScore": 68.45,
+      "patternText": "223.799/326.964",
+      "aiScore": 57,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
