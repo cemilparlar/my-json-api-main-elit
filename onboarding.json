@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 12:21",
+  "updatedAt": "10.11.2026 12:29",
   "config": {
     "pages": [
       "engine",
@@ -289,6 +289,12 @@
     },
     {
       "type": "updated",
+      "at": "10.11.2026 12:16",
+      "home": "Real Madrid Women",
+      "away": "Paris Women"
+    },
+    {
+      "type": "updated",
       "at": "10.11.2026 09:17",
       "home": "Hull City U21",
       "away": "Fleetwood Town"
@@ -312,7 +318,7 @@
     "matchCode": "4540673",
     "odds": 1.2,
     "patternScore": 68.05,
-    "patternText": "198.570/291.814",
+    "patternText": "198.574/291.818",
     "aiScore": 67,
     "picks": 1
   },
@@ -325,8 +331,20 @@
       "matchCode": "4540673",
       "odds": 1.2,
       "patternScore": 68.05,
-      "patternText": "198.570/291.814",
+      "patternText": "198.574/291.818",
       "aiScore": 67,
+      "picks": 1
+    },
+    {
+      "home": "Real Madrid Women",
+      "away": "Paris Women",
+      "league": "ŞMP-K",
+      "date": "10.11.2026 17:45",
+      "matchCode": "4560855",
+      "odds": 1.07,
+      "patternScore": 68.65,
+      "patternText": "237.541/346.019",
+      "aiScore": 85,
       "picks": 1
     },
     {
@@ -337,7 +355,7 @@
       "matchCode": "4560856",
       "odds": 1.06,
       "patternScore": 65.34,
-      "patternText": "275.862/422.225",
+      "patternText": "275.866/422.229",
       "aiScore": 85,
       "picks": 4
     },
@@ -349,7 +367,7 @@
       "matchCode": "4518264",
       "odds": 1.78,
       "patternScore": 67.22,
-      "patternText": "204.506/304.254",
+      "patternText": "204.510/304.258",
       "aiScore": 52,
       "picks": 1
     },
@@ -361,21 +379,9 @@
       "matchCode": "4519217",
       "odds": 1.7,
       "patternScore": 67.2,
-      "patternText": "204.710/304.636",
+      "patternText": "204.714/304.640",
       "aiScore": 53,
       "picks": 3
-    },
-    {
-      "home": "Sheffield Wednesday",
-      "away": "Accrington Stanley",
-      "league": "İNTK",
-      "date": "10.11.2026 19:00",
-      "matchCode": "4527809",
-      "odds": 1.58,
-      "patternScore": 68.63,
-      "patternText": "213.958/311.743",
-      "aiScore": 57,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
