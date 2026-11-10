@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 19:59",
+  "updatedAt": "10.11.2026 20:06",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 23,
-      "lost": 15,
-      "total": 38,
-      "rate": 60.5
+      "won": 25,
+      "lost": 16,
+      "total": 41,
+      "rate": 61.0
     },
     "totalAnalyses": 459397,
-    "leagues": 368,
+    "leagues": 366,
     "pro": {
-      "won": 1180,
-      "lost": 516,
-      "total": 1696,
-      "rate": 69.6
+      "won": 1169,
+      "lost": 509,
+      "total": 1678,
+      "rate": 69.7
     },
     "insights": {
-      "won": 1997,
-      "lost": 844,
-      "total": 2841,
-      "rate": 70.3
+      "won": 1968,
+      "lost": 828,
+      "total": 2796,
+      "rate": 70.4
     },
     "coupons": {
       "won": 57,
@@ -47,24 +47,10 @@
       "total": 127,
       "rate": 44.9
     },
-    "analyses24h": 343,
-    "analyses30d": 20042
+    "analyses24h": 342,
+    "analyses30d": 20033
   },
   "recentWins": [
-    {
-      "home": "Besiktas",
-      "away": "Genclerbirligi",
-      "league": "TSL",
-      "date": "08.11.2026 18:00",
-      "prediction": "Handicap (0:2) 1",
-      "odds": 2.18,
-      "probability": 100.0,
-      "patternScore": 57.23,
-      "aiScore": 51,
-      "firstHalf": "2 - 0",
-      "finalScore": "3 - 0",
-      "pro": false
-    },
     {
       "home": "TSG Hoffenheim",
       "away": "FC Schalke 04",
@@ -119,6 +105,20 @@
       "aiScore": 55,
       "firstHalf": "0 - 1",
       "finalScore": "2 - 3",
+      "pro": true
+    },
+    {
+      "home": "Rio Ave FC",
+      "away": "SC Braga",
+      "league": "POR",
+      "date": "08.11.2026 20:30",
+      "prediction": "1st Half Double Chance 1X",
+      "odds": 1.59,
+      "probability": 100.0,
+      "patternScore": 58.2,
+      "aiScore": 54,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 1",
       "pro": true
     }
   ],
@@ -180,46 +180,9 @@
           "finalScore": "1 - 4"
         }
       ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.54,
-      "winChance": 54.45,
-      "completedAt": "08.11.2026 20:00",
-      "legs": [
-        {
-          "home": "Flora Tallinn",
-          "away": "Levadia Tallinn",
-          "prediction": "1st Half Double Chance 12",
-          "odds": 1.2,
-          "finalScore": "0 - 2"
-        },
-        {
-          "home": "Aston Villa Women",
-          "away": "Manchester United",
-          "prediction": "Double Chance 12",
-          "odds": 1.06,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "Stafford Range",
-          "away": "Grimsby Town",
-          "prediction": "1st Half Double Chance 12",
-          "odds": 1.21,
-          "finalScore": null
-        }
-      ]
     }
   ],
   "ticker": [
-    {
-      "type": "won",
-      "home": "Besiktas",
-      "away": "Genclerbirligi",
-      "prediction": "Handicap (0:2) 1",
-      "odds": 2.18,
-      "at": "08.11.2026 18:00"
-    },
     {
       "type": "won",
       "home": "TSG Hoffenheim",
@@ -243,6 +206,14 @@
       "prediction": "Match Result 1",
       "odds": 1.61,
       "at": "08.11.2026 18:15"
+    },
+    {
+      "type": "won",
+      "home": "CF Estrela da Amadora",
+      "away": "SL Benfica",
+      "prediction": "1st Half Under 1.5",
+      "odds": 1.59,
+      "at": "08.11.2026 20:30"
     },
     {
       "type": "coupon",
