@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 12:29",
+  "updatedAt": "10.11.2026 12:36",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 36,
+      "won": 35,
       "lost": 14,
-      "total": 50,
-      "rate": 72.0
+      "total": 49,
+      "rate": 71.4
     },
-    "totalAnalyses": 459058,
-    "leagues": 435,
+    "totalAnalyses": 459065,
+    "leagues": 434,
     "pro": {
-      "won": 1126,
+      "won": 1125,
       "lost": 485,
-      "total": 1611,
+      "total": 1610,
       "rate": 69.9
     },
     "insights": {
-      "won": 1884,
-      "lost": 796,
-      "total": 2680,
+      "won": 1883,
+      "lost": 795,
+      "total": 2678,
       "rate": 70.3
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 45.0
     },
     "analyses24h": 364,
-    "analyses30d": 20640
+    "analyses30d": 20607
   },
   "recentWins": [
     {
@@ -289,7 +289,7 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 12:16",
+      "at": "10.11.2026 12:35",
       "home": "Real Madrid Women",
       "away": "Paris Women"
     },
@@ -311,30 +311,18 @@
     }
   ],
   "today": {
-    "home": "Hull City U21",
-    "away": "Fleetwood Town",
-    "league": "INGPDL",
-    "date": "10.11.2026 13:00",
-    "matchCode": "4540673",
-    "odds": 1.2,
-    "patternScore": 68.05,
-    "patternText": "198.574/291.818",
-    "aiScore": 67,
+    "home": "Real Madrid Women",
+    "away": "Paris Women",
+    "league": "ŞMP-K",
+    "date": "10.11.2026 17:45",
+    "matchCode": "4560855",
+    "odds": 1.07,
+    "patternScore": 68.65,
+    "patternText": "237.541/346.019",
+    "aiScore": 85,
     "picks": 1
   },
   "todayList": [
-    {
-      "home": "Hull City U21",
-      "away": "Fleetwood Town",
-      "league": "INGPDL",
-      "date": "10.11.2026 13:00",
-      "matchCode": "4540673",
-      "odds": 1.2,
-      "patternScore": 68.05,
-      "patternText": "198.574/291.818",
-      "aiScore": 67,
-      "picks": 1
-    },
     {
       "home": "Real Madrid Women",
       "away": "Paris Women",
@@ -382,6 +370,18 @@
       "patternText": "204.714/304.640",
       "aiScore": 53,
       "picks": 3
+    },
+    {
+      "home": "Sheffield Wednesday",
+      "away": "Accrington Stanley",
+      "league": "İNTK",
+      "date": "10.11.2026 19:00",
+      "matchCode": "4527809",
+      "odds": 1.58,
+      "patternScore": 68.63,
+      "patternText": "213.962/311.747",
+      "aiScore": 57,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
