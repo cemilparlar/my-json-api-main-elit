@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 13:13",
+  "updatedAt": "10.11.2026 13:23",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 34,
+      "won": 32,
       "lost": 14,
-      "total": 48,
-      "rate": 70.8
+      "total": 46,
+      "rate": 69.6
     },
-    "totalAnalyses": 459088,
-    "leagues": 416,
+    "totalAnalyses": 459115,
+    "leagues": 415,
     "pro": {
-      "won": 1123,
+      "won": 1126,
       "lost": 485,
-      "total": 1608,
-      "rate": 69.8
+      "total": 1611,
+      "rate": 69.9
     },
     "insights": {
-      "won": 1880,
+      "won": 1885,
       "lost": 795,
-      "total": 2675,
+      "total": 2680,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 131,
       "rate": 45.0
     },
-    "analyses24h": 360,
-    "analyses30d": 20410
+    "analyses24h": 369,
+    "analyses30d": 20419
   },
   "recentWins": [
     {
@@ -289,19 +289,51 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 12:57",
+      "at": "10.11.2026 13:14",
       "home": "Real Madrid Women",
       "away": "Paris Women"
     },
     {
       "type": "updated",
-      "at": "10.11.2026 09:17",
-      "home": "Hull City U21",
-      "away": "Fleetwood Town"
+      "at": "10.11.2026 13:16",
+      "home": "Stevenage",
+      "away": "Fulham U21"
     },
     {
-      "type": "analysis",
-      "count": 360
+      "type": "updated",
+      "at": "10.11.2026 13:16",
+      "home": "Northampton Town",
+      "away": "Gillingham"
+    },
+    {
+      "type": "updated",
+      "at": "10.11.2026 13:17",
+      "home": "Burton Albion",
+      "away": "Notts County"
+    },
+    {
+      "type": "updated",
+      "at": "10.11.2026 13:18",
+      "home": "Grimsby Town",
+      "away": "Nottingham Forest"
+    },
+    {
+      "type": "updated",
+      "at": "10.11.2026 13:20",
+      "home": "Stockport County",
+      "away": "Tranmere Rovers"
+    },
+    {
+      "type": "updated",
+      "at": "10.11.2026 13:15",
+      "home": "Barnet",
+      "away": "Leyton Orient"
+    },
+    {
+      "type": "updated",
+      "at": "10.11.2026 13:18",
+      "home": "Bristol Rovers",
+      "away": "Reading"
     }
   ],
   "today": {
@@ -350,7 +382,7 @@
       "odds": 1.3,
       "patternScore": 68.79,
       "patternText": "352.456/512.364",
-      "aiScore": 64,
+      "aiScore": 63,
       "picks": 3
     },
     {
@@ -362,20 +394,20 @@
       "odds": 1.16,
       "patternScore": 67.4,
       "patternText": "157.680/233.931",
-      "aiScore": 72,
+      "aiScore": 71,
       "picks": 1
     },
     {
-      "home": "Stockport County",
-      "away": "Tranmere Rovers",
+      "home": "Barnet",
+      "away": "Leyton Orient",
       "league": "İNTK",
       "date": "10.11.2026 19:00",
-      "matchCode": "4527829",
-      "odds": 1.15,
-      "patternScore": 68.73,
-      "patternText": "220.884/321.385",
-      "aiScore": 80,
-      "picks": 2
+      "matchCode": "4527879",
+      "odds": 1.16,
+      "patternScore": 69.69,
+      "patternText": "236.196/338.909",
+      "aiScore": 86,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
