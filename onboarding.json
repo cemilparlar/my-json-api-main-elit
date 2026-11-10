@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 22:23",
+  "updatedAt": "10.11.2026 22:31",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 52,
-      "lost": 34,
-      "total": 86,
-      "rate": 60.5
+      "won": 51,
+      "lost": 33,
+      "total": 84,
+      "rate": 60.7
     },
     "totalAnalyses": 459406,
     "leagues": 360,
     "pro": {
-      "won": 1190,
+      "won": 1188,
       "lost": 518,
-      "total": 1708,
-      "rate": 69.7
+      "total": 1706,
+      "rate": 69.6
     },
     "insights": {
-      "won": 1996,
+      "won": 1990,
       "lost": 841,
-      "total": 2837,
-      "rate": 70.4
+      "total": 2831,
+      "rate": 70.3
     },
     "coupons": {
       "won": 57,
@@ -47,38 +47,10 @@
       "total": 123,
       "rate": 46.3
     },
-    "analyses24h": 336,
+    "analyses24h": 334,
     "analyses30d": 20006
   },
   "recentWins": [
-    {
-      "home": "CF Estrela da Amadora",
-      "away": "SL Benfica",
-      "league": "POR",
-      "date": "08.11.2026 20:30",
-      "prediction": "1st Half Under 1.5",
-      "odds": 1.59,
-      "probability": 100.0,
-      "patternScore": 57.52,
-      "aiScore": 55,
-      "firstHalf": "0 - 1",
-      "finalScore": "2 - 3",
-      "pro": true
-    },
-    {
-      "home": "Rio Ave FC",
-      "away": "SC Braga",
-      "league": "POR",
-      "date": "08.11.2026 20:30",
-      "prediction": "1st Half Double Chance 1X",
-      "odds": 1.59,
-      "probability": 100.0,
-      "patternScore": 58.2,
-      "aiScore": 54,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 1",
-      "pro": true
-    },
     {
       "home": "T.Universitari",
       "away": "Manta",
@@ -120,6 +92,34 @@
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
       "pro": false
+    },
+    {
+      "home": "Pamplona",
+      "away": "Eibar",
+      "league": "İSPK",
+      "date": "10.11.2026 18:00",
+      "prediction": "Over 2.5 Goals",
+      "odds": 1.38,
+      "probability": 85.71,
+      "patternScore": 66.57,
+      "aiScore": 56,
+      "firstHalf": "0 - 2",
+      "finalScore": "0 - 3",
+      "pro": true
+    },
+    {
+      "home": "CE Sabadell",
+      "away": "Real Sociedad B",
+      "league": "İS2",
+      "date": "09.11.2026 19:30",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.38,
+      "probability": 92.31,
+      "patternScore": 67.32,
+      "aiScore": 67,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 0",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -156,22 +156,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "CF Estrela da Amadora",
-      "away": "SL Benfica",
-      "prediction": "1st Half Under 1.5",
-      "odds": 1.59,
-      "at": "08.11.2026 20:30"
-    },
-    {
-      "type": "won",
-      "home": "Rio Ave FC",
-      "away": "SC Braga",
-      "prediction": "1st Half Double Chance 1X",
-      "odds": 1.59,
-      "at": "08.11.2026 20:30"
-    },
-    {
-      "type": "won",
       "home": "T.Universitari",
       "away": "Manta",
       "prediction": "Both Teams to Score - Yes",
@@ -185,6 +169,22 @@
       "prediction": "Under 3.5 Goals",
       "odds": 1.49,
       "at": "10.11.2026 20:00"
+    },
+    {
+      "type": "won",
+      "home": "Deportivo Garc",
+      "away": "Comerciantes Un",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.41,
+      "at": "08.11.2026 23:00"
+    },
+    {
+      "type": "won",
+      "home": "Pamplona",
+      "away": "Eibar",
+      "prediction": "Over 2.5 Goals",
+      "odds": 1.38,
+      "at": "10.11.2026 18:00"
     },
     {
       "type": "coupon",
