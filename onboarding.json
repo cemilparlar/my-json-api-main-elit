@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 13:55",
+  "updatedAt": "10.11.2026 14:04",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 32,
+      "won": 35,
       "lost": 14,
-      "total": 46,
-      "rate": 69.6
+      "total": 49,
+      "rate": 71.4
     },
-    "totalAnalyses": 459145,
-    "leagues": 404,
+    "totalAnalyses": 459165,
+    "leagues": 397,
     "pro": {
-      "won": 1125,
-      "lost": 485,
-      "total": 1610,
+      "won": 1126,
+      "lost": 486,
+      "total": 1612,
       "rate": 69.9
     },
     "insights": {
-      "won": 1885,
-      "lost": 796,
-      "total": 2681,
+      "won": 1890,
+      "lost": 797,
+      "total": 2687,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 131,
       "rate": 45.0
     },
-    "analyses24h": 382,
-    "analyses30d": 20351
+    "analyses24h": 390,
+    "analyses30d": 20317
   },
   "recentWins": [
     {
@@ -289,6 +289,12 @@
     },
     {
       "type": "updated",
+      "at": "10.11.2026 14:02",
+      "home": "Chatham Town",
+      "away": "Leatherhead"
+    },
+    {
+      "type": "updated",
       "at": "10.11.2026 13:14",
       "home": "Real Madrid Women",
       "away": "Paris Women"
@@ -307,7 +313,13 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 13:20",
+      "at": "10.11.2026 13:54",
+      "home": "Grimsby Town",
+      "away": "Nottingham Forest"
+    },
+    {
+      "type": "updated",
+      "at": "10.11.2026 13:55",
       "home": "Stockport County",
       "away": "Tranmere Rovers"
     },
@@ -322,18 +334,6 @@
       "at": "10.11.2026 13:55",
       "home": "Bristol Rovers",
       "away": "Reading"
-    },
-    {
-      "type": "updated",
-      "at": "10.11.2026 13:33",
-      "home": "Mansfield Town",
-      "away": "Chesterfield"
-    },
-    {
-      "type": "updated",
-      "at": "10.11.2026 13:33",
-      "home": "Crawley Town",
-      "away": "Brentford U21"
     }
   ],
   "today": {
