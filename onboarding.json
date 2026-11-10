@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 11:44",
+  "updatedAt": "10.11.2026 11:51",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 50,
       "rate": 72.0
     },
-    "totalAnalyses": 459035,
+    "totalAnalyses": 459039,
     "leagues": 442,
     "pro": {
       "won": 1132,
@@ -356,8 +356,20 @@
       "odds": 1.1,
       "patternScore": 65.33,
       "patternText": "274.024/419.456",
-      "aiScore": 83,
+      "aiScore": 84,
       "picks": 1
+    },
+    {
+      "home": "Hacken Women",
+      "away": "Chelsea Women",
+      "league": "ŞMP-K",
+      "date": "10.11.2026 17:45",
+      "matchCode": "4560856",
+      "odds": 1.06,
+      "patternScore": 65.34,
+      "patternText": "275.862/422.225",
+      "aiScore": 85,
+      "picks": 4
     },
     {
       "home": "Whitehawk",
@@ -382,18 +394,6 @@
       "patternText": "204.710/304.636",
       "aiScore": 53,
       "picks": 3
-    },
-    {
-      "home": "Sheffield Wednesday",
-      "away": "Accrington Stanley",
-      "league": "İNTK",
-      "date": "10.11.2026 19:00",
-      "matchCode": "4527809",
-      "odds": 1.58,
-      "patternScore": 68.63,
-      "patternText": "213.958/311.743",
-      "aiScore": 57,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
