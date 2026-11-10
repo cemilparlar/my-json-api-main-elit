@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 07:06",
+  "updatedAt": "10.11.2026 07:18",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 50,
       "rate": 72.0
     },
-    "totalAnalyses": 458951,
+    "totalAnalyses": 458952,
     "leagues": 451,
     "pro": {
       "won": 1136,
@@ -42,13 +42,13 @@
       "rate": 70.3
     },
     "coupons": {
-      "won": 62,
-      "lost": 73,
-      "total": 135,
-      "rate": 45.9
+      "won": 60,
+      "lost": 72,
+      "total": 132,
+      "rate": 45.5
     },
-    "analyses24h": 362,
-    "analyses30d": 21236
+    "analyses24h": 363,
+    "analyses30d": 21237
   },
   "recentWins": [
     {
@@ -289,13 +289,19 @@
     },
     {
       "type": "updated",
+      "at": "10.11.2026 07:11",
+      "home": "Hull City U21",
+      "away": "Fleetwood Town"
+    },
+    {
+      "type": "updated",
       "at": "10.11.2026 06:12",
       "home": "CD Santa Clara U23",
       "away": "Torreense U23"
     },
     {
       "type": "analysis",
-      "count": 362
+      "count": 363
     }
   ],
   "today": {
@@ -322,6 +328,18 @@
       "patternText": "257.048/363.086",
       "aiScore": 92,
       "picks": 1
+    },
+    {
+      "home": "Hull City U21",
+      "away": "Fleetwood Town",
+      "league": "INGPDL",
+      "date": "10.11.2026 13:00",
+      "matchCode": "4540673",
+      "odds": 1.06,
+      "patternScore": 71.73,
+      "patternText": "175.910/245.222",
+      "aiScore": 97,
+      "picks": 2
     },
     {
       "home": "Sheffield Wednesday",
@@ -358,18 +376,6 @@
       "patternText": "352.432/512.336",
       "aiScore": 64,
       "picks": 3
-    },
-    {
-      "home": "Metalul Buzau",
-      "away": "Csa Steaua Bucu",
-      "league": "ROM2",
-      "date": "10.11.2026 17:30",
-      "matchCode": "4513330",
-      "odds": 1.25,
-      "patternScore": 67.81,
-      "patternText": "197.401/291.096",
-      "aiScore": 62,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
