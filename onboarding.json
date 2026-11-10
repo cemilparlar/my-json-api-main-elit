@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 12:36",
+  "updatedAt": "10.11.2026 12:44",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 49,
       "rate": 71.4
     },
-    "totalAnalyses": 459065,
+    "totalAnalyses": 459078,
     "leagues": 434,
     "pro": {
-      "won": 1125,
+      "won": 1127,
       "lost": 485,
-      "total": 1610,
+      "total": 1612,
       "rate": 69.9
     },
     "insights": {
-      "won": 1883,
+      "won": 1885,
       "lost": 795,
-      "total": 2678,
+      "total": 2680,
       "rate": 70.3
     },
     "coupons": {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 12:35",
-      "home": "Real Madrid Women",
-      "away": "Paris Women"
-    },
-    {
-      "type": "updated",
       "at": "10.11.2026 09:17",
       "home": "Hull City U21",
       "away": "Fleetwood Town"
@@ -311,30 +305,18 @@
     }
   ],
   "today": {
-    "home": "Real Madrid Women",
-    "away": "Paris Women",
+    "home": "Hacken Women",
+    "away": "Chelsea Women",
     "league": "ŞMP-K",
     "date": "10.11.2026 17:45",
-    "matchCode": "4560855",
-    "odds": 1.07,
-    "patternScore": 68.65,
-    "patternText": "237.541/346.019",
+    "matchCode": "4560856",
+    "odds": 1.06,
+    "patternScore": 65.34,
+    "patternText": "275.866/422.229",
     "aiScore": 85,
-    "picks": 1
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Real Madrid Women",
-      "away": "Paris Women",
-      "league": "ŞMP-K",
-      "date": "10.11.2026 17:45",
-      "matchCode": "4560855",
-      "odds": 1.07,
-      "patternScore": 68.65,
-      "patternText": "237.541/346.019",
-      "aiScore": 85,
-      "picks": 1
-    },
     {
       "home": "Hacken Women",
       "away": "Chelsea Women",
@@ -382,6 +364,18 @@
       "patternText": "213.962/311.747",
       "aiScore": 57,
       "picks": 1
+    },
+    {
+      "home": "Leiston",
+      "away": "Real Bedford",
+      "league": "İNGNLP",
+      "date": "10.11.2026 19:45",
+      "matchCode": "4519215",
+      "odds": 1.4,
+      "patternScore": 68.38,
+      "patternText": "211.165/308.793",
+      "aiScore": 57,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
