@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 07:55",
+  "updatedAt": "10.11.2026 08:03",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": 45.5
     },
     "analyses24h": 363,
-    "analyses30d": 21221
+    "analyses30d": 21198
   },
   "recentWins": [
     {
@@ -330,6 +330,18 @@
       "picks": 1
     },
     {
+      "home": "Colchester United",
+      "away": "Charlton Athletic",
+      "league": "INGPDL",
+      "date": "10.11.2026 14:00",
+      "matchCode": "4540674",
+      "odds": 1.08,
+      "patternScore": 67.66,
+      "patternText": "163.335/241.417",
+      "aiScore": 75,
+      "picks": 1
+    },
+    {
       "home": "Hull City U21",
       "away": "Fleetwood Town",
       "league": "INGPDL",
@@ -364,18 +376,6 @@
       "patternText": "204.708/304.632",
       "aiScore": 53,
       "picks": 3
-    },
-    {
-      "home": "Sheffield Wednesday",
-      "away": "Accrington Stanley",
-      "league": "İNTK",
-      "date": "10.11.2026 19:00",
-      "matchCode": "4527809",
-      "odds": 1.58,
-      "patternScore": 68.63,
-      "patternText": "213.956/311.739",
-      "aiScore": 57,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
