@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 14:50",
+  "updatedAt": "10.11.2026 14:59",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 49,
       "rate": 71.4
     },
-    "totalAnalyses": 459220,
+    "totalAnalyses": 459234,
     "leagues": 397,
     "pro": {
       "won": 1136,
@@ -47,8 +47,8 @@
       "total": 130,
       "rate": 45.4
     },
-    "analyses24h": 372,
-    "analyses30d": 20299
+    "analyses24h": 385,
+    "analyses30d": 20312
   },
   "recentWins": [
     {
@@ -307,7 +307,7 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 13:16",
+      "at": "10.11.2026 14:51",
       "home": "Stevenage",
       "away": "Fulham U21"
     },
@@ -319,7 +319,13 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 14:16",
+      "at": "10.11.2026 14:52",
+      "home": "Leicester City",
+      "away": "Walsall"
+    },
+    {
+      "type": "updated",
+      "at": "10.11.2026 14:52",
       "home": "Burton Albion",
       "away": "Notts County"
     },
@@ -328,12 +334,6 @@
       "at": "10.11.2026 13:54",
       "home": "Grimsby Town",
       "away": "Nottingham Forest"
-    },
-    {
-      "type": "updated",
-      "at": "10.11.2026 13:55",
-      "home": "Stockport County",
-      "away": "Tranmere Rovers"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4519215",
     "odds": 1.74,
     "patternScore": 68.08,
-    "patternText": "229.605/337.257",
+    "patternText": "229.615/337.269",
     "aiScore": 54,
     "picks": 2
   },
@@ -357,7 +357,7 @@
       "matchCode": "4519215",
       "odds": 1.74,
       "patternScore": 68.08,
-      "patternText": "229.605/337.257",
+      "patternText": "229.615/337.269",
       "aiScore": 54,
       "picks": 2
     },
@@ -369,8 +369,8 @@
       "matchCode": "4519217",
       "odds": 1.7,
       "patternScore": 67.2,
-      "patternText": "204.782/304.730",
-      "aiScore": 53,
+      "patternText": "204.788/304.738",
+      "aiScore": 52,
       "picks": 3
     },
     {
@@ -381,21 +381,9 @@
       "matchCode": "4527809",
       "odds": 1.58,
       "patternScore": 68.63,
-      "patternText": "214.044/311.863",
+      "patternText": "214.054/311.875",
       "aiScore": 56,
       "picks": 1
-    },
-    {
-      "home": "Leicester City",
-      "away": "Walsall",
-      "league": "İNTK",
-      "date": "10.11.2026 19:00",
-      "matchCode": "4527854",
-      "odds": 1.39,
-      "patternScore": 66.3,
-      "patternText": "148.961/224.681",
-      "aiScore": 57,
-      "picks": 3
     },
     {
       "home": "Curzon Ashton",
@@ -405,9 +393,21 @@
       "matchCode": "4519653",
       "odds": 1.36,
       "patternScore": 68.42,
-      "patternText": "224.463/328.048",
+      "patternText": "224.473/328.060",
       "aiScore": 57,
       "picks": 1
+    },
+    {
+      "home": "Bristol Rovers",
+      "away": "Reading",
+      "league": "İNTK",
+      "date": "10.11.2026 19:00",
+      "matchCode": "4527861",
+      "odds": 1.33,
+      "patternScore": 67.79,
+      "patternText": "201.468/297.203",
+      "aiScore": 57,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
