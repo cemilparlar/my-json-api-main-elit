@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 11:07",
+  "updatedAt": "10.11.2026 11:14",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 131,
       "rate": 45.0
     },
-    "analyses24h": 369,
-    "analyses30d": 20965
+    "analyses24h": 367,
+    "analyses30d": 20963
   },
   "recentWins": [
     {
@@ -296,13 +296,13 @@
     {
       "type": "updated",
       "at": "10.11.2026 11:03",
-      "home": "CD Santa Clara U23",
-      "away": "Torreense U23"
+      "home": "Colchester United",
+      "away": "Charlton Athletic"
     },
     {
       "type": "kickoff",
-      "home": "CD Santa Clara U23",
-      "away": "Torreense U23",
+      "home": "Vietnam U23",
+      "away": "Thailand U23",
       "at": "10.11.2026 12:00"
     },
     {
@@ -312,8 +312,14 @@
       "at": "10.11.2026 13:00"
     },
     {
+      "type": "kickoff",
+      "home": "Colchester United",
+      "away": "Charlton Athletic",
+      "at": "10.11.2026 14:00"
+    },
+    {
       "type": "analysis",
-      "count": 369
+      "count": 367
     }
   ],
   "today": {
@@ -325,7 +331,7 @@
     "odds": 1.2,
     "patternScore": 68.05,
     "patternText": "198.568/291.810",
-    "aiScore": 68,
+    "aiScore": 67,
     "picks": 1
   },
   "todayList": [
@@ -338,19 +344,31 @@
       "odds": 1.2,
       "patternScore": 68.05,
       "patternText": "198.568/291.810",
-      "aiScore": 68,
+      "aiScore": 67,
       "picks": 1
     },
     {
-      "home": "CD Santa Clara U23",
-      "away": "Torreense U23",
-      "league": "PORU23",
+      "home": "Vietnam U23",
+      "away": "Thailand U23",
+      "league": "HU23",
       "date": "10.11.2026 12:00",
-      "matchCode": "4523091",
+      "matchCode": "4578900",
+      "odds": 1.12,
+      "patternScore": 69.2,
+      "patternText": "205.849/297.464",
+      "aiScore": 83,
+      "picks": 1
+    },
+    {
+      "home": "Colchester United",
+      "away": "Charlton Athletic",
+      "league": "INGPDL",
+      "date": "10.11.2026 14:00",
+      "matchCode": "4540674",
       "odds": 1.1,
-      "patternScore": 72.17,
-      "patternText": "171.543/237.690",
-      "aiScore": 99,
+      "patternScore": 65.33,
+      "patternText": "274.022/419.452",
+      "aiScore": 83,
       "picks": 1
     },
     {
@@ -376,18 +394,6 @@
       "patternText": "204.708/304.632",
       "aiScore": 53,
       "picks": 3
-    },
-    {
-      "home": "Sheffield Wednesday",
-      "away": "Accrington Stanley",
-      "league": "İNTK",
-      "date": "10.11.2026 19:00",
-      "matchCode": "4527809",
-      "odds": 1.58,
-      "patternScore": 68.63,
-      "patternText": "213.956/311.739",
-      "aiScore": 57,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
