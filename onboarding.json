@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 09:25",
+  "updatedAt": "10.11.2026 09:32",
   "config": {
     "pages": [
       "engine",
@@ -48,23 +48,9 @@
       "rate": 45.0
     },
     "analyses24h": 365,
-    "analyses30d": 21173
+    "analyses30d": 21158
   },
   "recentWins": [
-    {
-      "home": "Yunnan Yukun",
-      "away": "Wuhan Three Tow",
-      "league": "ÇİNSL",
-      "date": "08.11.2026 07:30",
-      "prediction": "Total Goals 2-3",
-      "odds": 2.68,
-      "probability": 100.0,
-      "patternScore": 56.55,
-      "aiScore": 51,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 1",
-      "pro": true
-    },
     {
       "home": "VfB Stuttgart Amat.",
       "away": "Verl 1924",
@@ -120,6 +106,20 @@
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0",
       "pro": true
+    },
+    {
+      "home": "Girona FC",
+      "away": "UD Almeria",
+      "league": "İS2",
+      "date": "08.11.2026 15:15",
+      "prediction": "Both Teams to Score - No",
+      "odds": 1.93,
+      "probability": 76.92,
+      "patternScore": 67.34,
+      "aiScore": 52,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 1",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -257,14 +257,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Yunnan Yukun",
-      "away": "Wuhan Three Tow",
-      "prediction": "Total Goals 2-3",
-      "odds": 2.68,
-      "at": "08.11.2026 07:30"
-    },
-    {
-      "type": "won",
       "home": "VfB Stuttgart Amat.",
       "away": "Verl 1924",
       "prediction": "Match Result 1",
@@ -286,6 +278,14 @@
       "prediction": "Handicap (0:2) 1",
       "odds": 2.18,
       "at": "08.11.2026 18:00"
+    },
+    {
+      "type": "won",
+      "home": "SC Freiburg",
+      "away": "Union Berlin",
+      "prediction": "Under 2.5 Goals",
+      "odds": 1.94,
+      "at": "08.11.2026 16:30"
     },
     {
       "type": "updated",
