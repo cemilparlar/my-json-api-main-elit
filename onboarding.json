@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 06:14",
+  "updatedAt": "10.11.2026 06:22",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 50,
       "rate": 72.0
     },
-    "totalAnalyses": 458947,
+    "totalAnalyses": 458948,
     "leagues": 451,
     "pro": {
       "won": 1137,
@@ -294,23 +294,41 @@
       "away": "Waterhouse"
     },
     {
+      "type": "updated",
+      "at": "10.11.2026 06:12",
+      "home": "CD Santa Clara U23",
+      "away": "Torreense U23"
+    },
+    {
       "type": "analysis",
       "count": 362
     }
   ],
   "today": {
-    "home": "Metalul Buzau",
-    "away": "Csa Steaua Bucu",
-    "league": "ROM2",
-    "date": "10.11.2026 17:30",
-    "matchCode": "4513330",
-    "odds": 1.25,
-    "patternScore": 67.81,
-    "patternText": "197.401/291.096",
-    "aiScore": 62,
-    "picks": 2
+    "home": "CD Santa Clara U23",
+    "away": "Torreense U23",
+    "league": "PORU23",
+    "date": "10.11.2026 12:00",
+    "matchCode": "4523091",
+    "odds": 1.1,
+    "patternScore": 70.8,
+    "patternText": "257.048/363.086",
+    "aiScore": 92,
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "CD Santa Clara U23",
+      "away": "Torreense U23",
+      "league": "PORU23",
+      "date": "10.11.2026 12:00",
+      "matchCode": "4523091",
+      "odds": 1.1,
+      "patternScore": 70.8,
+      "patternText": "257.048/363.086",
+      "aiScore": 92,
+      "picks": 1
+    },
     {
       "home": "Metalul Buzau",
       "away": "Csa Steaua Bucu",
@@ -358,18 +376,6 @@
       "patternText": "204.504/304.250",
       "aiScore": 52,
       "picks": 1
-    },
-    {
-      "home": "Stamford",
-      "away": "Needham Market",
-      "league": "İNGNLP",
-      "date": "10.11.2026 19:45",
-      "matchCode": "4519217",
-      "odds": 1.7,
-      "patternScore": 67.2,
-      "patternText": "204.708/304.632",
-      "aiScore": 53,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
