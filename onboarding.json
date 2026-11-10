@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 20:29",
+  "updatedAt": "10.11.2026 20:36",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 23,
+      "won": 19,
       "lost": 15,
-      "total": 38,
-      "rate": 60.5
+      "total": 34,
+      "rate": 55.9
     },
     "totalAnalyses": 459397,
-    "leagues": 366,
+    "leagues": 365,
     "pro": {
       "won": 1169,
       "lost": 509,
@@ -47,24 +47,10 @@
       "total": 127,
       "rate": 44.9
     },
-    "analyses24h": 338,
-    "analyses30d": 20032
+    "analyses24h": 333,
+    "analyses30d": 20026
   },
   "recentWins": [
-    {
-      "home": "TSG Hoffenheim",
-      "away": "FC Schalke 04",
-      "league": "AL1",
-      "date": "08.11.2026 18:30",
-      "prediction": "HT/FT 1/1",
-      "odds": 1.91,
-      "probability": 71.42857142857143,
-      "patternScore": 67.01,
-      "aiScore": 51,
-      "firstHalf": "2 - 0",
-      "finalScore": "2 - 1",
-      "pro": true
-    },
     {
       "home": "Atletico Madrid",
       "away": "FC Barcelona",
@@ -120,6 +106,20 @@
       "firstHalf": "1 - 0",
       "finalScore": "1 - 2",
       "pro": false
+    },
+    {
+      "home": "ACF Fiorentina",
+      "away": "Juventus",
+      "league": "İTA",
+      "date": "08.11.2026 19:45",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 1.51,
+      "probability": 84.62,
+      "patternScore": 67.21,
+      "aiScore": 55,
+      "firstHalf": "1 - 1",
+      "finalScore": "2 - 2",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -151,46 +151,9 @@
           "finalScore": "0 - 1"
         }
       ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.52,
-      "winChance": 51.51,
-      "completedAt": "08.11.2026 20:29",
-      "legs": [
-        {
-          "home": "AD Merida",
-          "away": "Athletic Bilbao B",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.11,
-          "finalScore": "2 - 0"
-        },
-        {
-          "home": "Sporting Gijon",
-          "away": "Real Valladolid",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.2,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "LR Vicenza",
-          "away": "US Cremonese",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.14,
-          "finalScore": "1 - 4"
-        }
-      ]
     }
   ],
   "ticker": [
-    {
-      "type": "won",
-      "home": "TSG Hoffenheim",
-      "away": "FC Schalke 04",
-      "prediction": "HT/FT 1/1",
-      "odds": 1.91,
-      "at": "08.11.2026 18:30"
-    },
     {
       "type": "won",
       "home": "Atletico Madrid",
@@ -214,6 +177,14 @@
       "prediction": "1st Half Double Chance 1X",
       "odds": 1.59,
       "at": "08.11.2026 20:30"
+    },
+    {
+      "type": "won",
+      "home": "T.Universitari",
+      "away": "Manta",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 1.55,
+      "at": "09.11.2026 20:30"
     },
     {
       "type": "coupon",
