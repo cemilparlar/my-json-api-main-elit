@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 18:19",
+  "updatedAt": "10.11.2026 18:30",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 44,
       "rate": 70.5
     },
-    "totalAnalyses": 459359,
-    "leagues": 378,
+    "totalAnalyses": 459368,
+    "leagues": 376,
     "pro": {
       "won": 1192,
       "lost": 518,
@@ -36,9 +36,9 @@
       "rate": 69.7
     },
     "insights": {
-      "won": 2004,
-      "lost": 853,
-      "total": 2857,
+      "won": 2005,
+      "lost": 854,
+      "total": 2859,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 129,
       "rate": 45.0
     },
-    "analyses24h": 382,
-    "analyses30d": 20148
+    "analyses24h": 375,
+    "analyses30d": 20135
   },
   "recentWins": [
     {
@@ -102,7 +102,7 @@
       "odds": 1.72,
       "probability": 100.0,
       "patternScore": 57.88,
-      "aiScore": 53,
+      "aiScore": 54,
       "firstHalf": "1 - 1",
       "finalScore": "1 - 2",
       "pro": true
@@ -295,7 +295,7 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 14:02",
+      "at": "10.11.2026 18:19",
       "home": "Chatham Town",
       "away": "Leatherhead"
     },
@@ -325,42 +325,30 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 17:32",
+      "at": "10.11.2026 18:29",
       "home": "Plymouth Argyle",
       "away": "Swindon Town"
     },
     {
       "type": "updated",
-      "at": "10.11.2026 18:10",
-      "home": "Oxford United",
-      "away": "Cheltenham Town"
+      "at": "10.11.2026 18:13",
+      "home": "Stockport County",
+      "away": "Tranmere Rovers"
     }
   ],
   "today": {
-    "home": "Leiston",
-    "away": "Real Bedford",
+    "home": "Stamford",
+    "away": "Needham Market",
     "league": "İNGNLP",
     "date": "10.11.2026 19:45",
-    "matchCode": "4519215",
-    "odds": 1.74,
-    "patternScore": 67.4,
-    "patternText": "160.878/238.702",
-    "aiScore": 54,
+    "matchCode": "4519217",
+    "odds": 1.7,
+    "patternScore": 67.21,
+    "patternText": "204.984/305.012",
+    "aiScore": 53,
     "picks": 3
   },
   "todayList": [
-    {
-      "home": "Leiston",
-      "away": "Real Bedford",
-      "league": "İNGNLP",
-      "date": "10.11.2026 19:45",
-      "matchCode": "4519215",
-      "odds": 1.74,
-      "patternScore": 67.4,
-      "patternText": "160.878/238.702",
-      "aiScore": 54,
-      "picks": 3
-    },
     {
       "home": "Stamford",
       "away": "Needham Market",
@@ -369,44 +357,56 @@
       "matchCode": "4519217",
       "odds": 1.7,
       "patternScore": 67.21,
-      "patternText": "204.982/305.010",
-      "aiScore": 52,
+      "patternText": "204.984/305.012",
+      "aiScore": 53,
       "picks": 3
     },
     {
-      "home": "Plymouth Argyle",
-      "away": "Swindon Town",
-      "league": "İNTK",
-      "date": "10.11.2026 19:00",
-      "matchCode": "4527873",
-      "odds": 1.6,
-      "patternScore": 67.28,
-      "patternText": "144.526/214.827",
+      "home": "Bath City",
+      "away": "Taunton Town",
+      "league": "İNGNLP",
+      "date": "10.11.2026 19:45",
+      "matchCode": "4518750",
+      "odds": 1.43,
+      "patternScore": 68.23,
+      "patternText": "192.939/282.795",
       "aiScore": 56,
       "picks": 2
     },
     {
-      "home": "Sheffield Wednesday",
-      "away": "Accrington Stanley",
-      "league": "İNTK",
-      "date": "10.11.2026 19:00",
-      "matchCode": "4527809",
-      "odds": 1.58,
-      "patternScore": 68.64,
-      "patternText": "214.284/312.195",
-      "aiScore": 57,
-      "picks": 1
+      "home": "Bury Town",
+      "away": "Bishops Stortfo",
+      "league": "İNGNLP",
+      "date": "10.11.2026 19:45",
+      "matchCode": "4519212",
+      "odds": 1.36,
+      "patternScore": 68.52,
+      "patternText": "209.993/306.449",
+      "aiScore": 59,
+      "picks": 2
     },
     {
-      "home": "Stevenage",
-      "away": "Fulham U21",
-      "league": "İNTK",
-      "date": "10.11.2026 19:00",
-      "matchCode": "4527855",
-      "odds": 1.52,
-      "patternScore": 66.86,
-      "patternText": "209.111/312.762",
-      "aiScore": 53,
+      "home": "Cray Wanderers",
+      "away": "Three Bridges",
+      "league": "İNGNLP",
+      "date": "10.11.2026 19:45",
+      "matchCode": "4518202",
+      "odds": 1.32,
+      "patternScore": 67.71,
+      "patternText": "194.322/286.996",
+      "aiScore": 57,
+      "picks": 2
+    },
+    {
+      "home": "Whitehawk",
+      "away": "Welling Utd",
+      "league": "İNGNLP",
+      "date": "10.11.2026 19:45",
+      "matchCode": "4518264",
+      "odds": 1.32,
+      "patternScore": 68.07,
+      "patternText": "196.900/289.254",
+      "aiScore": 57,
       "picks": 1
     }
   ],
