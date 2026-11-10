@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 05:29",
+  "updatedAt": "10.11.2026 05:36",
   "config": {
     "pages": [
       "engine",
@@ -299,18 +299,30 @@
     }
   ],
   "today": {
-    "home": "Colchester United",
-    "away": "Charlton Athletic",
-    "league": "INGPDL",
-    "date": "10.11.2026 14:00",
-    "matchCode": "4540674",
-    "odds": 1.08,
-    "patternScore": 67.66,
-    "patternText": "163.335/241.417",
-    "aiScore": 75,
-    "picks": 1
+    "home": "Metalul Buzau",
+    "away": "Csa Steaua Bucu",
+    "league": "ROM2",
+    "date": "10.11.2026 17:30",
+    "matchCode": "4513330",
+    "odds": 1.25,
+    "patternScore": 67.81,
+    "patternText": "197.401/291.096",
+    "aiScore": 62,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Metalul Buzau",
+      "away": "Csa Steaua Bucu",
+      "league": "ROM2",
+      "date": "10.11.2026 17:30",
+      "matchCode": "4513330",
+      "odds": 1.25,
+      "patternScore": 67.81,
+      "patternText": "197.401/291.096",
+      "aiScore": 62,
+      "picks": 2
+    },
     {
       "home": "Colchester United",
       "away": "Charlton Athletic",
@@ -358,18 +370,6 @@
       "patternText": "213.956/311.739",
       "aiScore": 56,
       "picks": 1
-    },
-    {
-      "home": "Leiston",
-      "away": "Real Bedford",
-      "league": "İNGNLP",
-      "date": "10.11.2026 19:45",
-      "matchCode": "4519215",
-      "odds": 1.4,
-      "patternScore": 68.38,
-      "patternText": "211.159/308.785",
-      "aiScore": 56,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
