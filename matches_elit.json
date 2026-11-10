@@ -3720,36 +3720,6 @@
         "aiScore": 77
     },
     {
-        "date": "11.11.2026 01:00",
-        "league": "ELSAL",
-        "matchCode": "4504420",
-        "home": "Isidro Metapan",
-        "away": "Club Deportivo Platense",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "83.16",
-        "odds": "1.10",
-        "matchCount": "95",
-        "matchLink": "4504420",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "14/93",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "10.11.2026 23:19",
-        "patternScore": 72.31,
-        "patternText": "140.424/194.198",
-        "patternInfo": {
-            "m": 46,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
         "date": "11.11.2026 15:00",
         "league": "SLOVK",
         "matchCode": "4578337",
@@ -3808,5 +3778,35 @@
             "b": 100.0
         },
         "aiScore": 54
+    },
+    {
+        "date": "11.11.2026 01:00",
+        "league": "ELSAL",
+        "matchCode": "4504420",
+        "home": "Isidro Metapan",
+        "away": "Club Deportivo Platense",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "80.65",
+        "odds": "1.08",
+        "matchCount": "93",
+        "matchLink": "4504420",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "14/93",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "10.11.2026 23:19",
+        "patternScore": 71.52,
+        "patternText": "120.418/168.362",
+        "patternInfo": {
+            "m": 49,
+            "s": 6,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 95
     }
 ]
