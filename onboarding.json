@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "09.11.2026 23:59",
+  "updatedAt": "10.11.2026 00:06",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 39,
+      "won": 35,
       "lost": 20,
-      "total": 59,
-      "rate": 66.1
+      "total": 55,
+      "rate": 63.6
     },
     "totalAnalyses": 458926,
     "leagues": 453,
@@ -47,8 +47,8 @@
       "total": 136,
       "rate": 46.3
     },
-    "analyses24h": 380,
-    "analyses30d": 21377
+    "analyses24h": 376,
+    "analyses30d": 21374
   },
   "recentWins": [
     {
@@ -88,7 +88,7 @@
       "odds": 2.19,
       "probability": 83.33333333333334,
       "patternScore": 67.28,
-      "aiScore": 52,
+      "aiScore": 51,
       "firstHalf": "2 - 0",
       "finalScore": "4 - 1",
       "pro": true
@@ -116,7 +116,7 @@
       "odds": 1.94,
       "probability": 80.0,
       "patternScore": 66.68,
-      "aiScore": 53,
+      "aiScore": 52,
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0",
       "pro": true
@@ -342,11 +342,11 @@
     "league": "JAM",
     "date": "10.11.2026 01:00",
     "matchCode": "4562929",
-    "odds": 1.1,
+    "odds": 1.11,
     "patternScore": 70.62,
     "patternText": "386.950/547.952",
     "aiScore": 92,
-    "picks": 2
+    "picks": 3
   },
   "todayList": [
     {
@@ -355,23 +355,11 @@
       "league": "JAM",
       "date": "10.11.2026 01:00",
       "matchCode": "4562929",
-      "odds": 1.1,
+      "odds": 1.11,
       "patternScore": 70.62,
       "patternText": "386.950/547.952",
       "aiScore": 92,
-      "picks": 2
-    },
-    {
-      "home": "CSD Aurora",
-      "away": "Universitario D",
-      "league": "BOLİ",
-      "date": "10.11.2026 00:30",
-      "matchCode": "4577017",
-      "odds": 1.08,
-      "patternScore": 70.85,
-      "patternText": "235.005/331.705",
-      "aiScore": 96,
-      "picks": 2
+      "picks": 3
     },
     {
       "home": "Metalul Buzau",
@@ -382,7 +370,7 @@
       "odds": 1.25,
       "patternScore": 67.81,
       "patternText": "197.367/291.048",
-      "aiScore": 64,
+      "aiScore": 63,
       "picks": 2
     },
     {
@@ -394,7 +382,7 @@
       "odds": 1.08,
       "patternScore": 67.66,
       "patternText": "163.319/241.389",
-      "aiScore": 77,
+      "aiScore": 76,
       "picks": 1
     },
     {
@@ -408,6 +396,18 @@
       "patternText": "275.828/422.175",
       "aiScore": 85,
       "picks": 4
+    },
+    {
+      "home": "Whitehawk",
+      "away": "Welling Utd",
+      "league": "İNGNLP",
+      "date": "10.11.2026 19:45",
+      "matchCode": "4518264",
+      "odds": 1.78,
+      "patternScore": 67.22,
+      "patternText": "204.474/304.198",
+      "aiScore": 52,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
