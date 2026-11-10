@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 08:17",
+  "updatedAt": "10.11.2026 08:25",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 132,
       "rate": 45.5
     },
-    "analyses24h": 364,
-    "analyses30d": 21199
+    "analyses24h": 362,
+    "analyses30d": 21197
   },
   "recentWins": [
     {
@@ -289,25 +289,13 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 08:16",
-      "home": "Hull City U21",
-      "away": "Fleetwood Town"
-    },
-    {
-      "type": "updated",
       "at": "10.11.2026 08:15",
       "home": "CD Santa Clara U23",
       "away": "Torreense U23"
     },
     {
-      "type": "updated",
-      "at": "10.11.2026 08:16",
-      "home": "Colchester United",
-      "away": "Charlton Athletic"
-    },
-    {
       "type": "analysis",
-      "count": 364
+      "count": 362
     }
   ],
   "today": {
@@ -316,10 +304,10 @@
     "league": "PORU23",
     "date": "10.11.2026 12:00",
     "matchCode": "4523091",
-    "odds": 1.1,
-    "patternScore": 70.8,
-    "patternText": "257.048/363.086",
-    "aiScore": 92,
+    "odds": 1.09,
+    "patternScore": 72.4,
+    "patternText": "177.955/245.784",
+    "aiScore": 96,
     "picks": 1
   },
   "todayList": [
@@ -329,34 +317,10 @@
       "league": "PORU23",
       "date": "10.11.2026 12:00",
       "matchCode": "4523091",
-      "odds": 1.1,
-      "patternScore": 70.8,
-      "patternText": "257.048/363.086",
-      "aiScore": 92,
-      "picks": 1
-    },
-    {
-      "home": "Colchester United",
-      "away": "Charlton Athletic",
-      "league": "INGPDL",
-      "date": "10.11.2026 14:00",
-      "matchCode": "4540674",
-      "odds": 1.08,
-      "patternScore": 67.66,
-      "patternText": "163.335/241.417",
-      "aiScore": 75,
-      "picks": 1
-    },
-    {
-      "home": "Hull City U21",
-      "away": "Fleetwood Town",
-      "league": "INGPDL",
-      "date": "10.11.2026 13:00",
-      "matchCode": "4540673",
-      "odds": 1.06,
-      "patternScore": 72.12,
-      "patternText": "184.882/256.342",
-      "aiScore": 99,
+      "odds": 1.09,
+      "patternScore": 72.4,
+      "patternText": "177.955/245.784",
+      "aiScore": 96,
       "picks": 1
     },
     {
@@ -382,6 +346,30 @@
       "patternText": "204.708/304.632",
       "aiScore": 53,
       "picks": 3
+    },
+    {
+      "home": "Sheffield Wednesday",
+      "away": "Accrington Stanley",
+      "league": "İNTK",
+      "date": "10.11.2026 19:00",
+      "matchCode": "4527809",
+      "odds": 1.58,
+      "patternScore": 68.63,
+      "patternText": "213.956/311.739",
+      "aiScore": 57,
+      "picks": 1
+    },
+    {
+      "home": "Leiston",
+      "away": "Real Bedford",
+      "league": "İNGNLP",
+      "date": "10.11.2026 19:45",
+      "matchCode": "4519215",
+      "odds": 1.4,
+      "patternScore": 68.38,
+      "patternText": "211.159/308.785",
+      "aiScore": 57,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
