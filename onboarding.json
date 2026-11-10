@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 16:25",
+  "updatedAt": "10.11.2026 16:32",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 51,
       "rate": 68.6
     },
-    "totalAnalyses": 459302,
-    "leagues": 396,
+    "totalAnalyses": 459303,
+    "leagues": 389,
     "pro": {
       "won": 1138,
       "lost": 488,
@@ -47,8 +47,8 @@
       "total": 130,
       "rate": 45.4
     },
-    "analyses24h": 404,
-    "analyses30d": 20321
+    "analyses24h": 401,
+    "analyses30d": 20260
   },
   "recentWins": [
     {
@@ -64,20 +64,6 @@
       "firstHalf": "0 - 0",
       "finalScore": "1 - 0",
       "pro": false
-    },
-    {
-      "home": "London City Women",
-      "away": "Birmingham City",
-      "league": "İNKPL",
-      "date": "08.11.2026 14:30",
-      "prediction": "Handicap (0:2) 1",
-      "odds": 2.19,
-      "probability": 83.33333333333334,
-      "patternScore": 67.28,
-      "aiScore": 51,
-      "firstHalf": "2 - 0",
-      "finalScore": "4 - 1",
-      "pro": true
     },
     {
       "home": "Besiktas",
@@ -120,6 +106,20 @@
       "firstHalf": "0 - 0",
       "finalScore": "0 - 1",
       "pro": false
+    },
+    {
+      "home": "TSG Hoffenheim",
+      "away": "FC Schalke 04",
+      "league": "AL1",
+      "date": "08.11.2026 18:30",
+      "prediction": "HT/FT 1/1",
+      "odds": 1.91,
+      "probability": 71.42857142857143,
+      "patternScore": 67.01,
+      "aiScore": 51,
+      "firstHalf": "2 - 0",
+      "finalScore": "2 - 1",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -265,14 +265,6 @@
     },
     {
       "type": "won",
-      "home": "London City Women",
-      "away": "Birmingham City",
-      "prediction": "Handicap (0:2) 1",
-      "odds": 2.19,
-      "at": "08.11.2026 14:30"
-    },
-    {
-      "type": "won",
       "home": "Besiktas",
       "away": "Genclerbirligi",
       "prediction": "Handicap (0:2) 1",
@@ -286,6 +278,14 @@
       "prediction": "Under 2.5 Goals",
       "odds": 1.94,
       "at": "08.11.2026 16:30"
+    },
+    {
+      "type": "won",
+      "home": "Girona FC",
+      "away": "UD Almeria",
+      "prediction": "Both Teams to Score - No",
+      "odds": 1.93,
+      "at": "08.11.2026 15:15"
     },
     {
       "type": "coupon",
@@ -344,7 +344,7 @@
     "matchCode": "4519215",
     "odds": 1.74,
     "patternScore": 67.4,
-    "patternText": "160.718/238.470",
+    "patternText": "160.720/238.472",
     "aiScore": 54,
     "picks": 3
   },
@@ -357,7 +357,7 @@
       "matchCode": "4519215",
       "odds": 1.74,
       "patternScore": 67.4,
-      "patternText": "160.718/238.470",
+      "patternText": "160.720/238.472",
       "aiScore": 54,
       "picks": 3
     },
@@ -369,7 +369,7 @@
       "matchCode": "4519217",
       "odds": 1.7,
       "patternScore": 67.2,
-      "patternText": "204.812/304.782",
+      "patternText": "204.822/304.792",
       "aiScore": 52,
       "picks": 3
     },
@@ -381,7 +381,7 @@
       "matchCode": "4527848",
       "odds": 1.66,
       "patternScore": 66.59,
-      "patternText": "138.935/208.653",
+      "patternText": "138.937/208.655",
       "aiScore": 54,
       "picks": 2
     },
@@ -393,21 +393,21 @@
       "matchCode": "4527809",
       "odds": 1.58,
       "patternScore": 68.63,
-      "patternText": "214.094/311.947",
+      "patternText": "214.114/311.967",
       "aiScore": 57,
       "picks": 1
     },
     {
-      "home": "Bromley",
-      "away": "MK Dons",
-      "league": "İNTK",
-      "date": "10.11.2026 19:30",
-      "matchCode": "4527890",
-      "odds": 1.41,
-      "patternScore": 68.45,
-      "patternText": "223.811/326.992",
-      "aiScore": 57,
-      "picks": 1
+      "home": "Bath City",
+      "away": "Taunton Town",
+      "league": "İNGNLP",
+      "date": "10.11.2026 19:45",
+      "matchCode": "4518750",
+      "odds": 1.43,
+      "patternScore": 68.22,
+      "patternText": "192.797/282.603",
+      "aiScore": 56,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
