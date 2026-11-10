@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 18:07",
+  "updatedAt": "10.11.2026 18:19",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 44,
       "rate": 70.5
     },
-    "totalAnalyses": 459338,
-    "leagues": 380,
+    "totalAnalyses": 459359,
+    "leagues": 378,
     "pro": {
       "won": 1192,
       "lost": 518,
@@ -36,9 +36,9 @@
       "rate": 69.7
     },
     "insights": {
-      "won": 2003,
+      "won": 2004,
       "lost": 853,
-      "total": 2856,
+      "total": 2857,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 129,
       "rate": 45.0
     },
-    "analyses24h": 370,
-    "analyses30d": 20144
+    "analyses24h": 382,
+    "analyses30d": 20148
   },
   "recentWins": [
     {
@@ -94,20 +94,6 @@
       "pro": true
     },
     {
-      "home": "Le Mans FC",
-      "away": "AS Monaco",
-      "league": "FR1",
-      "date": "08.11.2026 16:15",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.79,
-      "probability": 83.33333333333334,
-      "patternScore": 66.65,
-      "aiScore": 52,
-      "firstHalf": "0 - 1",
-      "finalScore": "1 - 1",
-      "pro": false
-    },
-    {
       "home": "Atletico Madrid",
       "away": "FC Barcelona",
       "league": "İS1",
@@ -120,6 +106,20 @@
       "firstHalf": "1 - 1",
       "finalScore": "1 - 2",
       "pro": true
+    },
+    {
+      "home": "Sint-Truidense VV",
+      "away": "Zulte Waregem",
+      "league": "BEL",
+      "date": "08.11.2026 18:15",
+      "prediction": "Match Result 1",
+      "odds": 1.61,
+      "probability": 75.0,
+      "patternScore": 67.53,
+      "aiScore": 55,
+      "firstHalf": "2 - 1",
+      "finalScore": "4 - 1",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -281,11 +281,11 @@
     },
     {
       "type": "won",
-      "home": "Le Mans FC",
-      "away": "AS Monaco",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.79,
-      "at": "08.11.2026 16:15"
+      "home": "Atletico Madrid",
+      "away": "FC Barcelona",
+      "prediction": "Under 3.5 Goals",
+      "odds": 1.72,
+      "at": "08.11.2026 20:00"
     },
     {
       "type": "coupon",
@@ -307,19 +307,19 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 17:33",
+      "at": "10.11.2026 18:08",
       "home": "Stevenage",
       "away": "Fulham U21"
     },
     {
       "type": "updated",
-      "at": "10.11.2026 17:33",
+      "at": "10.11.2026 18:09",
       "home": "Northampton Town",
       "away": "Gillingham"
     },
     {
       "type": "updated",
-      "at": "10.11.2026 16:37",
+      "at": "10.11.2026 18:12",
       "home": "Leicester City",
       "away": "Walsall"
     },
@@ -331,7 +331,7 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 17:34",
+      "at": "10.11.2026 18:10",
       "home": "Oxford United",
       "away": "Cheltenham Town"
     }
