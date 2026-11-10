@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 11:29",
+  "updatedAt": "10.11.2026 11:36",
   "config": {
     "pages": [
       "engine",
@@ -28,7 +28,7 @@
       "rate": 72.0
     },
     "totalAnalyses": 459035,
-    "leagues": 446,
+    "leagues": 442,
     "pro": {
       "won": 1132,
       "lost": 489,
@@ -48,7 +48,7 @@
       "rate": 45.0
     },
     "analyses24h": 367,
-    "analyses30d": 20961
+    "analyses30d": 20850
   },
   "recentWins": [
     {
@@ -323,18 +323,30 @@
     }
   ],
   "today": {
-    "home": "Hull City U21",
-    "away": "Fleetwood Town",
-    "league": "INGPDL",
-    "date": "10.11.2026 13:00",
-    "matchCode": "4540673",
-    "odds": 1.2,
-    "patternScore": 68.05,
-    "patternText": "198.570/291.814",
-    "aiScore": 67,
-    "picks": 1
+    "home": "Metalul Buzau",
+    "away": "Csa Steaua Bucu",
+    "league": "ROM2",
+    "date": "10.11.2026 17:30",
+    "matchCode": "4513330",
+    "odds": 1.25,
+    "patternScore": 67.81,
+    "patternText": "197.403/291.100",
+    "aiScore": 62,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Metalul Buzau",
+      "away": "Csa Steaua Bucu",
+      "league": "ROM2",
+      "date": "10.11.2026 17:30",
+      "matchCode": "4513330",
+      "odds": 1.25,
+      "patternScore": 67.81,
+      "patternText": "197.403/291.100",
+      "aiScore": 62,
+      "picks": 2
+    },
     {
       "home": "Hull City U21",
       "away": "Fleetwood Town",
@@ -345,18 +357,6 @@
       "patternScore": 68.05,
       "patternText": "198.570/291.814",
       "aiScore": 67,
-      "picks": 1
-    },
-    {
-      "home": "Vietnam U23",
-      "away": "Thailand U23",
-      "league": "HU23",
-      "date": "10.11.2026 12:00",
-      "matchCode": "4578900",
-      "odds": 1.12,
-      "patternScore": 69.2,
-      "patternText": "205.851/297.468",
-      "aiScore": 83,
       "picks": 1
     },
     {
