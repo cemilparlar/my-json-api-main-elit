@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "10.11.2026 14:35",
+  "updatedAt": "10.11.2026 14:43",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 459218,
     "leagues": 397,
     "pro": {
-      "won": 1129,
-      "lost": 489,
-      "total": 1618,
+      "won": 1132,
+      "lost": 490,
+      "total": 1622,
       "rate": 69.8
     },
     "insights": {
-      "won": 1900,
-      "lost": 803,
-      "total": 2703,
+      "won": 1904,
+      "lost": 805,
+      "total": 2709,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 130,
       "rate": 45.4
     },
-    "analyses24h": 373,
-    "analyses30d": 20300
+    "analyses24h": 372,
+    "analyses30d": 20299
   },
   "recentWins": [
     {
@@ -289,6 +289,12 @@
     },
     {
       "type": "updated",
+      "at": "10.11.2026 14:31",
+      "home": "Mijas Las Lagu",
+      "away": "Real Jaen"
+    },
+    {
+      "type": "updated",
       "at": "10.11.2026 14:02",
       "home": "Chatham Town",
       "away": "Leatherhead"
@@ -328,12 +334,6 @@
       "at": "10.11.2026 13:55",
       "home": "Stockport County",
       "away": "Tranmere Rovers"
-    },
-    {
-      "type": "updated",
-      "at": "10.11.2026 13:15",
-      "home": "Barnet",
-      "away": "Leyton Orient"
     }
   ],
   "today": {
