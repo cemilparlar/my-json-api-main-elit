@@ -387,7 +387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "14.11.2026 19:45",
@@ -447,7 +447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "14.11.2026 19:45",
@@ -837,7 +837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "12.11.2026 19:45",
@@ -1077,7 +1077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "10.11.2026 20:00",
@@ -3300,66 +3300,6 @@
         "aiScore": 73
     },
     {
-        "date": "11.11.2026 19:00",
-        "league": "AVŞU19",
-        "matchCode": "4579235",
-        "home": "Wales U19",
-        "away": "Finland U19",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "72.18",
-        "odds": "1.11",
-        "matchCount": "133",
-        "matchLink": "4579235",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "19/159",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "11.11.2026 17:17",
-        "patternScore": 70.25,
-        "patternText": "261.756/372.580",
-        "patternInfo": {
-            "m": 49,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 84
-    },
-    {
-        "date": "11.11.2026 19:00",
-        "league": "AVŞU19",
-        "matchCode": "4579235",
-        "home": "Wales U19",
-        "away": "Finland U19",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance X2",
-        "ihtimal": "72.18",
-        "odds": "1.13",
-        "matchCount": "133",
-        "matchLink": "4579235",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "19/159",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "11.11.2026 17:17",
-        "patternScore": 69.0,
-        "patternText": "206.776/299.656",
-        "patternInfo": {
-            "m": 47,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 70
-    },
-    {
         "date": "11.11.2026 21:30",
         "league": "ELSAL",
         "matchCode": "4504421",
@@ -3508,5 +3448,35 @@
             "b": 100.0
         },
         "aiScore": 94
+    },
+    {
+        "date": "11.11.2026 19:00",
+        "league": "AVŞU19",
+        "matchCode": "4579235",
+        "home": "Wales U19",
+        "away": "Finland U19",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "71.7",
+        "odds": "1.11",
+        "matchCount": "159",
+        "matchLink": "4579235",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "19/159",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 17:17",
+        "patternScore": 70.19,
+        "patternText": "259.754/370.072",
+        "patternInfo": {
+            "m": 47,
+            "s": 5,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 84
     }
 ]

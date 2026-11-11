@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 17:21",
+  "updatedAt": "11.11.2026 17:29",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 95,
       "rate": 62.1
     },
-    "totalAnalyses": 600999,
+    "totalAnalyses": 601049,
     "leagues": 358,
     "pro": {
       "won": 1185,
@@ -48,7 +48,7 @@
       "rate": 45.0
     },
     "analyses24h": 370,
-    "analyses30d": 18358
+    "analyses30d": 18354
   },
   "recentWins": [
     {
@@ -325,8 +325,8 @@
     },
     {
       "type": "kickoff",
-      "home": "Wales U19",
-      "away": "Finland U19",
+      "home": "Sheffield Wednesday",
+      "away": "Accrington Stanley",
       "at": "11.11.2026 19:00"
     },
     {
@@ -384,18 +384,6 @@
       "picks": 2
     },
     {
-      "home": "Wales U19",
-      "away": "Finland U19",
-      "league": "AVŞU19",
-      "date": "11.11.2026 19:00",
-      "matchCode": "4579235",
-      "odds": 1.13,
-      "patternScore": 69.0,
-      "patternText": "206.776/299.656",
-      "aiScore": 80,
-      "picks": 2
-    },
-    {
       "home": "Sheffield Wednesday",
       "away": "Accrington Stanley",
       "league": "İNTK",
@@ -404,6 +392,18 @@
       "odds": 1.11,
       "patternScore": 70.19,
       "patternText": "138.047/196.663",
+      "aiScore": 94,
+      "picks": 1
+    },
+    {
+      "home": "Wales U19",
+      "away": "Finland U19",
+      "league": "AVŞU19",
+      "date": "11.11.2026 19:00",
+      "matchCode": "4579235",
+      "odds": 1.11,
+      "patternScore": 70.19,
+      "patternText": "259.754/370.072",
       "aiScore": 94,
       "picks": 1
     }
