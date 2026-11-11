@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 15:48",
+  "updatedAt": "11.11.2026 15:56",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 120,
       "rate": 45.0
     },
-    "analyses24h": 372,
-    "analyses30d": 18604
+    "analyses24h": 371,
+    "analyses30d": 18600
   },
   "recentWins": [
     {
@@ -367,11 +367,23 @@
       "league": "ELSAL",
       "date": "11.11.2026 21:30",
       "matchCode": "4504421",
-      "odds": 1.24,
-      "patternScore": 68.18,
-      "patternText": "173.874/255.030",
+      "odds": 1.28,
+      "patternScore": 69.51,
+      "patternText": "178.498/256.780",
       "aiScore": 64,
-      "picks": 1
+      "picks": 2
+    },
+    {
+      "home": "Sheffield Wednesday",
+      "away": "Accrington Stanley",
+      "league": "İNTK",
+      "date": "11.11.2026 19:00",
+      "matchCode": "4527809",
+      "odds": 1.19,
+      "patternScore": 69.05,
+      "patternText": "216.523/313.592",
+      "aiScore": 84,
+      "picks": 3
     },
     {
       "home": "Castellon Ii",
@@ -386,27 +398,15 @@
       "picks": 2
     },
     {
-      "home": "Sheffield Wednesday",
-      "away": "Accrington Stanley",
-      "league": "İNTK",
-      "date": "11.11.2026 19:00",
-      "matchCode": "4527809",
-      "odds": 1.13,
-      "patternScore": 69.58,
-      "patternText": "365.319/525.000",
-      "aiScore": 84,
-      "picks": 3
-    },
-    {
       "home": "Wales U19",
       "away": "Finland U19",
       "league": "AVŞU19",
       "date": "11.11.2026 19:00",
       "matchCode": "4579235",
-      "odds": 1.11,
-      "patternScore": 70.22,
-      "patternText": "263.672/375.514",
-      "aiScore": 84,
+      "odds": 1.13,
+      "patternScore": 69.0,
+      "patternText": "206.774/299.652",
+      "aiScore": 81,
       "picks": 2
     }
   ],
