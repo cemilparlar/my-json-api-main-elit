@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 17:53",
+  "updatedAt": "11.11.2026 18:00",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 80,
       "rate": 66.2
     },
-    "totalAnalyses": 601071,
+    "totalAnalyses": 601073,
     "leagues": 358,
     "pro": {
       "won": 1183,
@@ -47,8 +47,8 @@
       "total": 120,
       "rate": 45.0
     },
-    "analyses24h": 356,
-    "analyses30d": 18309
+    "analyses24h": 354,
+    "analyses30d": 18291
   },
   "recentWins": [
     {
@@ -116,7 +116,7 @@
       "odds": 1.38,
       "probability": 92.31,
       "patternScore": 67.32,
-      "aiScore": 67,
+      "aiScore": 68,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
       "pro": true
@@ -289,7 +289,7 @@
     },
     {
       "type": "updated",
-      "at": "11.11.2026 17:00",
+      "at": "11.11.2026 17:55",
       "home": "Sheffield Wednesday",
       "away": "Accrington Stanley"
     },
@@ -307,15 +307,15 @@
     },
     {
       "type": "updated",
+      "at": "11.11.2026 17:55",
+      "home": "CD Alcoyano",
+      "away": "Elche B"
+    },
+    {
+      "type": "updated",
       "at": "11.11.2026 17:17",
       "home": "Wales U19",
       "away": "Finland U19"
-    },
-    {
-      "type": "kickoff",
-      "home": "Castellon Ii",
-      "away": "Deportiva Minero",
-      "at": "11.11.2026 18:00"
     },
     {
       "type": "kickoff",
@@ -325,13 +325,15 @@
     },
     {
       "type": "kickoff",
-      "home": "Sheffield Wednesday",
-      "away": "Accrington Stanley",
+      "home": "Wales U19",
+      "away": "Finland U19",
       "at": "11.11.2026 19:00"
     },
     {
-      "type": "analysis",
-      "count": 356
+      "type": "kickoff",
+      "home": "Sheffield Wednesday",
+      "away": "Accrington Stanley",
+      "at": "11.11.2026 19:00"
     }
   ],
   "today": {
@@ -372,27 +374,15 @@
       "picks": 1
     },
     {
-      "home": "CD Alcoyano",
-      "away": "Elche B",
-      "league": "İS4",
-      "date": "11.11.2026 18:30",
-      "matchCode": "4551901",
-      "odds": 1.21,
-      "patternScore": 68.83,
-      "patternText": "124.455/180.826",
-      "aiScore": 82,
-      "picks": 1
-    },
-    {
       "home": "Sheffield Wednesday",
       "away": "Accrington Stanley",
       "league": "İNTK",
       "date": "11.11.2026 19:00",
       "matchCode": "4527809",
-      "odds": 1.11,
-      "patternScore": 70.19,
-      "patternText": "138.047/196.663",
-      "aiScore": 94,
+      "odds": 1.14,
+      "patternScore": 69.58,
+      "patternText": "122.901/176.630",
+      "aiScore": 81,
       "picks": 1
     },
     {
@@ -405,6 +395,18 @@
       "patternScore": 70.19,
       "patternText": "259.754/370.072",
       "aiScore": 94,
+      "picks": 1
+    },
+    {
+      "home": "Iceland (U21)",
+      "away": "Greece (U21",
+      "league": "U21",
+      "date": "12.11.2026 00:00",
+      "matchCode": "4573276",
+      "odds": 1.16,
+      "patternScore": 69.48,
+      "patternText": "179.243/257.975",
+      "aiScore": 84,
       "picks": 1
     }
   ],
