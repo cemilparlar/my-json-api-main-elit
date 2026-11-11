@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 00:57",
+  "updatedAt": "11.11.2026 01:05",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 51,
+      "won": 49,
       "lost": 32,
-      "total": 83,
-      "rate": 61.4
+      "total": 81,
+      "rate": 60.5
     },
     "totalAnalyses": 459421,
     "leagues": 356,
@@ -36,10 +36,10 @@
       "rate": 69.6
     },
     "insights": {
-      "won": 1982,
+      "won": 1981,
       "lost": 839,
-      "total": 2821,
-      "rate": 70.3
+      "total": 2820,
+      "rate": 70.2
     },
     "coupons": {
       "won": 57,
@@ -47,7 +47,7 @@
       "total": 123,
       "rate": 46.3
     },
-    "analyses24h": 333,
+    "analyses24h": 331,
     "analyses30d": 19979
   },
   "recentWins": [
@@ -80,20 +80,6 @@
       "pro": true
     },
     {
-      "home": "Deportivo Garc",
-      "away": "Comerciantes Un",
-      "league": "PER",
-      "date": "08.11.2026 23:00",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.41,
-      "probability": 74.07,
-      "patternScore": 68.66,
-      "aiScore": 59,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 0",
-      "pro": false
-    },
-    {
       "home": "Pamplona",
       "away": "Eibar",
       "league": "İSPK",
@@ -102,7 +88,7 @@
       "odds": 1.38,
       "probability": 85.71,
       "patternScore": 66.57,
-      "aiScore": 56,
+      "aiScore": 57,
       "firstHalf": "0 - 2",
       "finalScore": "0 - 3",
       "pro": true
@@ -116,10 +102,24 @@
       "odds": 1.38,
       "probability": 92.31,
       "patternScore": 67.32,
-      "aiScore": 67,
+      "aiScore": 68,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
       "pro": true
+    },
+    {
+      "home": "Coventry City",
+      "away": "Queens Park Rangers",
+      "league": "INGPDL",
+      "date": "09.11.2026 13:00",
+      "prediction": "Under 4.5 Goals",
+      "odds": 1.38,
+      "probability": 75.0,
+      "patternScore": 67.35,
+      "aiScore": 62,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 2",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -273,14 +273,6 @@
     },
     {
       "type": "won",
-      "home": "Deportivo Garc",
-      "away": "Comerciantes Un",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.41,
-      "at": "08.11.2026 23:00"
-    },
-    {
-      "type": "won",
       "home": "Pamplona",
       "away": "Eibar",
       "prediction": "Over 2.5 Goals",
@@ -288,16 +280,18 @@
       "at": "10.11.2026 18:00"
     },
     {
+      "type": "won",
+      "home": "CE Sabadell",
+      "away": "Real Sociedad B",
+      "prediction": "1st Half Double Chance X2",
+      "odds": 1.38,
+      "at": "09.11.2026 19:30"
+    },
+    {
       "type": "coupon",
       "size": 3,
       "odds": 1.5,
       "at": "10.11.2026 16:00"
-    },
-    {
-      "type": "updated",
-      "at": "10.11.2026 19:03",
-      "home": "Colchester United",
-      "away": "Ipswich Town U21"
     },
     {
       "type": "updated",
@@ -312,14 +306,8 @@
       "away": "Club Deportivo Platense"
     },
     {
-      "type": "kickoff",
-      "home": "Isidro Metapan",
-      "away": "Club Deportivo Platense",
-      "at": "11.11.2026 01:00"
-    },
-    {
       "type": "analysis",
-      "count": 333
+      "count": 331
     }
   ],
   "today": {
