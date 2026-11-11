@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 18:23",
+  "updatedAt": "11.11.2026 18:31",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 76,
       "rate": 65.8
     },
-    "totalAnalyses": 601091,
+    "totalAnalyses": 601106,
     "leagues": 358,
     "pro": {
-      "won": 1180,
+      "won": 1181,
       "lost": 514,
-      "total": 1694,
+      "total": 1695,
       "rate": 69.7
     },
     "insights": {
-      "won": 1983,
+      "won": 1986,
       "lost": 840,
-      "total": 2823,
-      "rate": 70.2
+      "total": 2826,
+      "rate": 70.3
     },
     "coupons": {
       "won": 54,
@@ -48,7 +48,7 @@
       "rate": 45.0
     },
     "analyses24h": 355,
-    "analyses30d": 18272
+    "analyses30d": 18266
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     },
     {
       "type": "updated",
-      "at": "11.11.2026 18:13",
+      "at": "11.11.2026 18:30",
       "home": "Fuerte San Fra",
       "away": "Alianza FC"
     },
@@ -325,14 +325,14 @@
     },
     {
       "type": "kickoff",
-      "home": "CD Alcoyano",
-      "away": "Elche B",
-      "at": "11.11.2026 18:30"
+      "home": "Wales U19",
+      "away": "Finland U19",
+      "at": "11.11.2026 19:00"
     },
     {
       "type": "kickoff",
-      "home": "Wales U19",
-      "away": "Finland U19",
+      "home": "Sheffield Wednesday",
+      "away": "Accrington Stanley",
       "at": "11.11.2026 19:00"
     }
   ],
@@ -362,18 +362,6 @@
       "picks": 1
     },
     {
-      "home": "Sheffield Wednesday",
-      "away": "Accrington Stanley",
-      "league": "İNTK",
-      "date": "11.11.2026 19:00",
-      "matchCode": "4527809",
-      "odds": 1.17,
-      "patternScore": 68.73,
-      "patternText": "205.205/298.564",
-      "aiScore": 70,
-      "picks": 2
-    },
-    {
       "home": "Los Millionarios",
       "away": "Alianza Petroleum",
       "league": "KOL",
@@ -383,18 +371,6 @@
       "patternScore": 68.68,
       "patternText": "110.337/160.662",
       "aiScore": 87,
-      "picks": 1
-    },
-    {
-      "home": "Wales U19",
-      "away": "Finland U19",
-      "league": "AVŞU19",
-      "date": "11.11.2026 19:00",
-      "matchCode": "4579235",
-      "odds": 1.11,
-      "patternScore": 70.19,
-      "patternText": "259.754/370.072",
-      "aiScore": 94,
       "picks": 1
     },
     {
@@ -408,6 +384,30 @@
       "patternText": "174.850/251.296",
       "aiScore": 91,
       "picks": 1
+    },
+    {
+      "home": "Llaneros",
+      "away": "Chico",
+      "league": "KOL",
+      "date": "12.11.2026 00:00",
+      "matchCode": "4514006",
+      "odds": 1.09,
+      "patternScore": 71.15,
+      "patternText": "247.220/347.467",
+      "aiScore": 95,
+      "picks": 1
+    },
+    {
+      "home": "Apia",
+      "away": "Adelaide City FC",
+      "league": "AVC",
+      "date": "12.11.2026 08:30",
+      "matchCode": "4573644",
+      "odds": 1.14,
+      "patternScore": 69.23,
+      "patternText": "173.821/251.088",
+      "aiScore": 83,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
