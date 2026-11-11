@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 16:42",
+  "updatedAt": "11.11.2026 16:52",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 93,
       "rate": 62.4
     },
-    "totalAnalyses": 600992,
+    "totalAnalyses": 600995,
     "leagues": 358,
     "pro": {
       "won": 1185,
@@ -47,8 +47,8 @@
       "total": 120,
       "rate": 45.0
     },
-    "analyses24h": 371,
-    "analyses30d": 18423
+    "analyses24h": 372,
+    "analyses30d": 18421
   },
   "recentWins": [
     {
@@ -88,7 +88,7 @@
       "odds": 1.41,
       "probability": 71.43,
       "patternScore": 67.01,
-      "aiScore": 57,
+      "aiScore": 56,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
       "pro": true
@@ -295,12 +295,6 @@
     },
     {
       "type": "updated",
-      "at": "11.11.2026 12:22",
-      "home": "Oh Leuven Women",
-      "away": "Koge Women"
-    },
-    {
-      "type": "updated",
       "at": "11.11.2026 11:19",
       "home": "Nove Zamky",
       "away": "Zemplin"
@@ -331,36 +325,30 @@
     },
     {
       "type": "kickoff",
-      "home": "Oh Leuven Women",
-      "away": "Koge Women",
-      "at": "11.11.2026 17:45"
+      "home": "France (U19)",
+      "away": "Norway (U19)",
+      "at": "11.11.2026 17:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Castellon Ii",
+      "away": "Deportiva Minero",
+      "at": "11.11.2026 18:00"
     }
   ],
   "today": {
-    "home": "Oh Leuven Women",
-    "away": "Koge Women",
-    "league": "ŞMP-K",
-    "date": "11.11.2026 17:45",
-    "matchCode": "4560860",
-    "odds": 1.31,
-    "patternScore": 68.19,
-    "patternText": "120.192/176.269",
-    "aiScore": 62,
+    "home": "Fuerte San Fra",
+    "away": "Alianza FC",
+    "league": "ELSAL",
+    "date": "11.11.2026 21:30",
+    "matchCode": "4504421",
+    "odds": 1.28,
+    "patternScore": 69.51,
+    "patternText": "178.498/256.780",
+    "aiScore": 63,
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "Oh Leuven Women",
-      "away": "Koge Women",
-      "league": "ŞMP-K",
-      "date": "11.11.2026 17:45",
-      "matchCode": "4560860",
-      "odds": 1.31,
-      "patternScore": 68.19,
-      "patternText": "120.192/176.269",
-      "aiScore": 62,
-      "picks": 2
-    },
     {
       "home": "Fuerte San Fra",
       "away": "Alianza FC",
@@ -370,7 +358,7 @@
       "odds": 1.28,
       "patternScore": 69.51,
       "patternText": "178.498/256.780",
-      "aiScore": 64,
+      "aiScore": 63,
       "picks": 2
     },
     {
@@ -408,6 +396,18 @@
       "patternText": "206.774/299.652",
       "aiScore": 81,
       "picks": 2
+    },
+    {
+      "home": "Iceland (U21)",
+      "away": "Greece (U21",
+      "league": "U21",
+      "date": "12.11.2026 00:00",
+      "matchCode": "4573276",
+      "odds": 1.16,
+      "patternScore": 69.48,
+      "patternText": "179.243/257.975",
+      "aiScore": 83,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
