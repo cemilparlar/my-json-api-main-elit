@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 20:58",
+  "updatedAt": "11.11.2026 21:06",
   "config": {
     "pages": [
       "engine",
@@ -23,23 +23,23 @@
     "days": 7,
     "last24h": {
       "won": 23,
-      "lost": 12,
-      "total": 35,
-      "rate": 65.7
+      "lost": 13,
+      "total": 36,
+      "rate": 63.9
     },
-    "totalAnalyses": 601178,
+    "totalAnalyses": 601179,
     "leagues": 359,
     "pro": {
       "won": 1165,
-      "lost": 511,
-      "total": 1676,
+      "lost": 512,
+      "total": 1677,
       "rate": 69.5
     },
     "insights": {
       "won": 1957,
-      "lost": 828,
-      "total": 2785,
-      "rate": 70.3
+      "lost": 829,
+      "total": 2786,
+      "rate": 70.2
     },
     "coupons": {
       "won": 54,
@@ -48,7 +48,7 @@
       "rate": 45.0
     },
     "analyses24h": 230,
-    "analyses30d": 18070
+    "analyses30d": 18051
   },
   "recentWins": [
     {
@@ -313,12 +313,6 @@
     },
     {
       "type": "updated",
-      "at": "11.11.2026 17:17",
-      "home": "Wales U19",
-      "away": "Finland U19"
-    },
-    {
-      "type": "updated",
       "at": "11.11.2026 20:08",
       "home": "Londrina",
       "away": "Nautico"
@@ -334,6 +328,12 @@
       "home": "Londrina",
       "away": "Nautico",
       "at": "11.11.2026 22:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Llaneros",
+      "away": "Chico",
+      "at": "12.11.2026 00:00"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4454060",
     "odds": 1.18,
     "patternScore": 65.14,
-    "patternText": "231.666/355.633",
+    "patternText": "231.666/355.635",
     "aiScore": 72,
     "picks": 2
   },
@@ -357,21 +357,9 @@
       "matchCode": "4454060",
       "odds": 1.18,
       "patternScore": 65.14,
-      "patternText": "231.666/355.633",
+      "patternText": "231.666/355.635",
       "aiScore": 72,
       "picks": 2
-    },
-    {
-      "home": "Fuerte San Fra",
-      "away": "Alianza FC",
-      "league": "ELSAL",
-      "date": "11.11.2026 21:30",
-      "matchCode": "4504421",
-      "odds": 1.15,
-      "patternScore": 69.78,
-      "patternText": "187.048/268.062",
-      "aiScore": 78,
-      "picks": 1
     },
     {
       "home": "Los Millionarios",
@@ -393,7 +381,7 @@
       "matchCode": "4514006",
       "odds": 1.09,
       "patternScore": 71.15,
-      "patternText": "247.288/347.571",
+      "patternText": "247.288/347.577",
       "aiScore": 95,
       "picks": 1
     },
@@ -405,8 +393,20 @@
       "matchCode": "4573644",
       "odds": 1.14,
       "patternScore": 69.22,
-      "patternText": "173.851/251.146",
+      "patternText": "173.851/251.148",
       "aiScore": 83,
+      "picks": 2
+    },
+    {
+      "home": "Armenia",
+      "away": "Cyprus",
+      "league": "AVUL",
+      "date": "12.11.2026 17:00",
+      "matchCode": "4445220",
+      "odds": 1.18,
+      "patternScore": 69.55,
+      "patternText": "132.617/190.679",
+      "aiScore": 85,
       "picks": 2
     }
   ],
