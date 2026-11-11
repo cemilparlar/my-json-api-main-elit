@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 23:23",
+  "updatedAt": "11.11.2026 23:31",
   "config": {
     "pages": [
       "engine",
@@ -31,15 +31,15 @@
     "leagues": 359,
     "pro": {
       "won": 1165,
-      "lost": 515,
-      "total": 1680,
-      "rate": 69.3
+      "lost": 514,
+      "total": 1679,
+      "rate": 69.4
     },
     "insights": {
       "won": 1959,
-      "lost": 834,
-      "total": 2793,
-      "rate": 70.1
+      "lost": 832,
+      "total": 2791,
+      "rate": 70.2
     },
     "coupons": {
       "won": 50,
@@ -48,7 +48,7 @@
       "rate": 43.1
     },
     "analyses24h": 232,
-    "analyses30d": 17935
+    "analyses30d": 17929
   },
   "recentWins": [
     {
@@ -335,42 +335,18 @@
     }
   ],
   "today": {
-    "home": "Los Millionarios",
-    "away": "Alianza Petroleum",
-    "league": "KOL",
-    "date": "12.11.2026 00:00",
-    "matchCode": "4514004",
+    "home": "Apia",
+    "away": "Adelaide City FC",
+    "league": "AVC",
+    "date": "12.11.2026 08:30",
+    "matchCode": "4573644",
     "odds": 1.14,
-    "patternScore": 68.67,
-    "patternText": "110.387/160.748",
-    "aiScore": 87,
-    "picks": 1
+    "patternScore": 69.22,
+    "patternText": "173.857/251.160",
+    "aiScore": 83,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Los Millionarios",
-      "away": "Alianza Petroleum",
-      "league": "KOL",
-      "date": "12.11.2026 00:00",
-      "matchCode": "4514004",
-      "odds": 1.14,
-      "patternScore": 68.67,
-      "patternText": "110.387/160.748",
-      "aiScore": 87,
-      "picks": 1
-    },
-    {
-      "home": "Llaneros",
-      "away": "Chico",
-      "league": "KOL",
-      "date": "12.11.2026 00:00",
-      "matchCode": "4514006",
-      "odds": 1.09,
-      "patternScore": 71.15,
-      "patternText": "247.296/347.591",
-      "aiScore": 95,
-      "picks": 1
-    },
     {
       "home": "Apia",
       "away": "Adelaide City FC",
@@ -404,6 +380,30 @@
       "odds": 1.08,
       "patternScore": 69.2,
       "patternText": "199.588/288.424",
+      "aiScore": 91,
+      "picks": 1
+    },
+    {
+      "home": "Barcelona Women",
+      "away": "Arsenal Women",
+      "league": "ŞMP-K",
+      "date": "12.11.2026 17:45",
+      "matchCode": "4560861",
+      "odds": 1.12,
+      "patternScore": 67.58,
+      "patternText": "144.892/214.403",
+      "aiScore": 93,
+      "picks": 2
+    },
+    {
+      "home": "Albania",
+      "away": "Finland",
+      "league": "AVUL",
+      "date": "12.11.2026 19:45",
+      "matchCode": "4445212",
+      "odds": 1.07,
+      "patternScore": 69.11,
+      "patternText": "152.272/220.340",
       "aiScore": 91,
       "picks": 1
     }
