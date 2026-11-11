@@ -507,7 +507,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "14.11.2026 19:45",
@@ -897,7 +897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "13.11.2026 19:45",
@@ -1917,7 +1917,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "10.11.2026 18:00",
@@ -2607,7 +2607,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "10.11.2026 19:30",
@@ -2787,7 +2787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "11.11.2026 01:00",
@@ -2967,7 +2967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "12.11.2026 00:00",
@@ -3147,7 +3147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "11.11.2026 10:00",
@@ -3178,66 +3178,6 @@
             "b": 100.0
         },
         "aiScore": 69
-    },
-    {
-        "date": "11.11.2026 10:30",
-        "league": "JLK",
-        "matchCode": "4579291",
-        "home": "Urawa Red Diamonds",
-        "away": "Cerezo Osaka",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "84.21",
-        "odds": "1.10",
-        "matchCount": "133",
-        "matchLink": "4579291",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "19/123",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "11.11.2026 09:31",
-        "patternScore": 71.91,
-        "patternText": "148.163/206.032",
-        "patternInfo": {
-            "m": 61,
-            "s": 8,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
-        "date": "11.11.2026 10:30",
-        "league": "JLK",
-        "matchCode": "4579291",
-        "home": "Urawa Red Diamonds",
-        "away": "Cerezo Osaka",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "76.69",
-        "odds": "1.07",
-        "matchCount": "133",
-        "matchLink": "4579291",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "19/123",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "11.11.2026 09:31",
-        "patternScore": 70.1,
-        "patternText": "197.194/281.294",
-        "patternInfo": {
-            "m": 61,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 90
     },
     {
         "date": "11.11.2026 10:00",
@@ -3448,5 +3388,35 @@
             "b": 100.0
         },
         "aiScore": 65
+    },
+    {
+        "date": "11.11.2026 10:30",
+        "league": "JLK",
+        "matchCode": "4579291",
+        "home": "Urawa Red Diamonds",
+        "away": "Cerezo Osaka",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "78.05",
+        "odds": "1.07",
+        "matchCount": "123",
+        "matchLink": "4579291",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "19/123",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 09:31",
+        "patternScore": 70.11,
+        "patternText": "197.652/281.922",
+        "patternInfo": {
+            "m": 59,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 89
     }
 ]
