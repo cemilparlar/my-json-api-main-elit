@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 13:54",
+  "updatedAt": "11.11.2026 14:03",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 93,
       "rate": 62.4
     },
-    "totalAnalyses": 600829,
+    "totalAnalyses": 600833,
     "leagues": 358,
     "pro": {
-      "won": 1185,
-      "lost": 520,
-      "total": 1705,
+      "won": 1187,
+      "lost": 521,
+      "total": 1708,
       "rate": 69.5
     },
     "insights": {
-      "won": 1993,
-      "lost": 850,
-      "total": 2843,
+      "won": 1996,
+      "lost": 851,
+      "total": 2847,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 121,
       "rate": 45.5
     },
-    "analyses24h": 371,
-    "analyses30d": 19069
+    "analyses24h": 372,
+    "analyses30d": 18985
   },
   "recentWins": [
     {
@@ -80,6 +80,20 @@
       "pro": true
     },
     {
+      "home": "Nove Zamky",
+      "away": "Zemplin",
+      "league": "SLOVK",
+      "date": "11.11.2026 12:00",
+      "prediction": "1st Half Under 1.5",
+      "odds": 1.41,
+      "probability": 71.43,
+      "patternScore": 67.01,
+      "aiScore": 57,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 2",
+      "pro": true
+    },
+    {
       "home": "Pamplona",
       "away": "Eibar",
       "league": "İSPK",
@@ -106,20 +120,6 @@
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
       "pro": true
-    },
-    {
-      "home": "Coventry City",
-      "away": "Queens Park Rangers",
-      "league": "INGPDL",
-      "date": "09.11.2026 13:00",
-      "prediction": "Under 4.5 Goals",
-      "odds": 1.38,
-      "probability": 75.0,
-      "patternScore": 67.35,
-      "aiScore": 62,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 2",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -273,6 +273,14 @@
     },
     {
       "type": "won",
+      "home": "Nove Zamky",
+      "away": "Zemplin",
+      "prediction": "1st Half Under 1.5",
+      "odds": 1.41,
+      "at": "11.11.2026 12:00"
+    },
+    {
+      "type": "won",
       "home": "Pamplona",
       "away": "Eibar",
       "prediction": "Over 2.5 Goals",
@@ -280,16 +288,8 @@
       "at": "10.11.2026 18:00"
     },
     {
-      "type": "won",
-      "home": "CE Sabadell",
-      "away": "Real Sociedad B",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.38,
-      "at": "09.11.2026 19:30"
-    },
-    {
       "type": "updated",
-      "at": "11.11.2026 13:38",
+      "at": "11.11.2026 14:00",
       "home": "Sheffield Wednesday",
       "away": "Accrington Stanley"
     },
@@ -307,7 +307,7 @@
     },
     {
       "type": "updated",
-      "at": "11.11.2026 12:00",
+      "at": "11.11.2026 14:00",
       "home": "SK Artis Brno",
       "away": "FK Jablonec"
     },
@@ -330,8 +330,10 @@
       "away": "Cerezo Osaka"
     },
     {
-      "type": "analysis",
-      "count": 371
+      "type": "kickoff",
+      "home": "SK Artis Brno",
+      "away": "FK Jablonec",
+      "at": "11.11.2026 17:00"
     }
   ],
   "today": {
