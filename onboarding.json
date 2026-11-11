@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 13:40",
+  "updatedAt": "11.11.2026 13:47",
   "config": {
     "pages": [
       "engine",
@@ -31,14 +31,14 @@
     "leagues": 358,
     "pro": {
       "won": 1185,
-      "lost": 521,
-      "total": 1706,
+      "lost": 520,
+      "total": 1705,
       "rate": 69.5
     },
     "insights": {
-      "won": 1994,
-      "lost": 851,
-      "total": 2845,
+      "won": 1993,
+      "lost": 850,
+      "total": 2843,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 121,
       "rate": 45.5
     },
-    "analyses24h": 372,
-    "analyses30d": 19080
+    "analyses24h": 371,
+    "analyses30d": 19069
   },
   "recentWins": [
     {
@@ -331,7 +331,7 @@
     },
     {
       "type": "analysis",
-      "count": 372
+      "count": 371
     }
   ],
   "today": {
@@ -372,6 +372,18 @@
       "picks": 1
     },
     {
+      "home": "Sheffield Wednesday",
+      "away": "Accrington Stanley",
+      "league": "İNTK",
+      "date": "11.11.2026 19:00",
+      "matchCode": "4527809",
+      "odds": 1.06,
+      "patternScore": 71.1,
+      "patternText": "143.307/201.543",
+      "aiScore": 98,
+      "picks": 1
+    },
+    {
       "home": "Fuerte San Fra",
       "away": "Alianza FC",
       "league": "ELSAL",
@@ -391,20 +403,8 @@
       "matchCode": "4573276",
       "odds": 1.16,
       "patternScore": 69.48,
-      "patternText": "179.213/257.939",
-      "aiScore": 84,
-      "picks": 1
-    },
-    {
-      "home": "Llaneros",
-      "away": "Chico",
-      "league": "KOL",
-      "date": "12.11.2026 00:00",
-      "matchCode": "4514006",
-      "odds": 1.09,
-      "patternScore": 71.15,
-      "patternText": "247.190/347.431",
-      "aiScore": 95,
+      "patternText": "179.215/257.941",
+      "aiScore": 83,
       "picks": 1
     }
   ],
