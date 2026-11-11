@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 08:32",
+  "updatedAt": "11.11.2026 08:39",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 83,
       "rate": 61.4
     },
-    "totalAnalyses": 459487,
+    "totalAnalyses": 459491,
     "leagues": 358,
     "pro": {
       "won": 1188,
@@ -47,8 +47,8 @@
       "total": 121,
       "rate": 45.5
     },
-    "analyses24h": 367,
-    "analyses30d": 20011
+    "analyses24h": 366,
+    "analyses30d": 20010
   },
   "recentWins": [
     {
@@ -88,7 +88,7 @@
       "odds": 1.38,
       "probability": 85.71,
       "patternScore": 66.57,
-      "aiScore": 57,
+      "aiScore": 56,
       "firstHalf": "0 - 2",
       "finalScore": "0 - 3",
       "pro": true
@@ -288,23 +288,77 @@
       "at": "09.11.2026 19:30"
     },
     {
+      "type": "kickoff",
+      "home": "Kawasaki Frontale",
+      "away": "Kashiwa Reysol",
+      "at": "11.11.2026 10:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Vissel Kobe",
+      "away": "FC Machida Zelvia",
+      "at": "11.11.2026 10:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Urawa Red Diamonds",
+      "away": "Cerezo Osaka",
+      "at": "11.11.2026 10:30"
+    },
+    {
       "type": "analysis",
-      "count": 367
+      "count": 366
     }
   ],
   "today": {
-    "home": "FK ZP Sport Podbrezova",
-    "away": "Zlate Moravce",
-    "league": "SLOVK",
-    "date": "11.11.2026 15:00",
-    "matchCode": "4578337",
-    "odds": 1.6,
-    "patternScore": 66.48,
-    "patternText": "138.535/208.388",
-    "aiScore": 56,
-    "picks": 2
+    "home": "Kawasaki Frontale",
+    "away": "Kashiwa Reysol",
+    "league": "JLK",
+    "date": "11.11.2026 10:00",
+    "matchCode": "4579288",
+    "odds": 1.22,
+    "patternScore": 69.81,
+    "patternText": "243.687/349.087",
+    "aiScore": 70,
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Kawasaki Frontale",
+      "away": "Kashiwa Reysol",
+      "league": "JLK",
+      "date": "11.11.2026 10:00",
+      "matchCode": "4579288",
+      "odds": 1.22,
+      "patternScore": 69.81,
+      "patternText": "243.687/349.087",
+      "aiScore": 70,
+      "picks": 4
+    },
+    {
+      "home": "Vissel Kobe",
+      "away": "FC Machida Zelvia",
+      "league": "JLK",
+      "date": "11.11.2026 10:00",
+      "matchCode": "4579289",
+      "odds": 1.15,
+      "patternScore": 69.48,
+      "patternText": "193.130/277.979",
+      "aiScore": 72,
+      "picks": 1
+    },
+    {
+      "home": "Urawa Red Diamonds",
+      "away": "Cerezo Osaka",
+      "league": "JLK",
+      "date": "11.11.2026 10:30",
+      "matchCode": "4579291",
+      "odds": 1.1,
+      "patternScore": 71.91,
+      "patternText": "148.161/206.030",
+      "aiScore": 96,
+      "picks": 2
+    },
     {
       "home": "FK ZP Sport Podbrezova",
       "away": "Zlate Moravce",
@@ -314,7 +368,7 @@
       "odds": 1.6,
       "patternScore": 66.48,
       "patternText": "138.535/208.388",
-      "aiScore": 56,
+      "aiScore": 55,
       "picks": 2
     },
     {
@@ -328,42 +382,6 @@
       "patternText": "270.364/384.530",
       "aiScore": 94,
       "picks": 2
-    },
-    {
-      "home": "Oh Leuven Women",
-      "away": "Koge Women",
-      "league": "ŞMP-K",
-      "date": "11.11.2026 17:45",
-      "matchCode": "4560860",
-      "odds": 1.08,
-      "patternScore": 70.35,
-      "patternText": "274.078/389.617",
-      "aiScore": 94,
-      "picks": 1
-    },
-    {
-      "home": "Fuerte San Fra",
-      "away": "Alianza FC",
-      "league": "ELSAL",
-      "date": "11.11.2026 21:30",
-      "matchCode": "4504421",
-      "odds": 1.24,
-      "patternScore": 68.18,
-      "patternText": "173.798/254.926",
-      "aiScore": 65,
-      "picks": 1
-    },
-    {
-      "home": "Iceland (U21)",
-      "away": "Greece (U21",
-      "league": "U21",
-      "date": "12.11.2026 00:00",
-      "matchCode": "4573276",
-      "odds": 1.16,
-      "patternScore": 69.47,
-      "patternText": "179.143/257.853",
-      "aiScore": 84,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
