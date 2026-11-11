@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 00:29",
+  "updatedAt": "11.11.2026 00:42",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 52,
-      "lost": 33,
-      "total": 85,
-      "rate": 61.2
+      "won": 51,
+      "lost": 32,
+      "total": 83,
+      "rate": 61.4
     },
     "totalAnalyses": 459421,
     "leagues": 356,
     "pro": {
-      "won": 1188,
-      "lost": 518,
-      "total": 1706,
+      "won": 1181,
+      "lost": 516,
+      "total": 1697,
       "rate": 69.6
     },
     "insights": {
-      "won": 1989,
-      "lost": 841,
-      "total": 2830,
+      "won": 1982,
+      "lost": 839,
+      "total": 2821,
       "rate": 70.3
     },
     "coupons": {
@@ -47,7 +47,7 @@
       "total": 123,
       "rate": 46.3
     },
-    "analyses24h": 335,
+    "analyses24h": 333,
     "analyses30d": 19979
   },
   "recentWins": [
@@ -295,33 +295,9 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 18:30",
-      "home": "Bristol Rovers",
-      "away": "Reading"
-    },
-    {
-      "type": "updated",
-      "at": "10.11.2026 18:30",
-      "home": "Crawley Town",
-      "away": "Brentford U21"
-    },
-    {
-      "type": "updated",
-      "at": "10.11.2026 18:30",
-      "home": "Bradford City",
-      "away": "York"
-    },
-    {
-      "type": "updated",
       "at": "10.11.2026 19:03",
       "home": "Colchester United",
       "away": "Ipswich Town U21"
-    },
-    {
-      "type": "updated",
-      "at": "10.11.2026 18:31",
-      "home": "Scarborough At",
-      "away": "Marine"
     },
     {
       "type": "updated",
@@ -334,33 +310,31 @@
       "at": "10.11.2026 23:35",
       "home": "Isidro Metapan",
       "away": "Club Deportivo Platense"
+    },
+    {
+      "type": "kickoff",
+      "home": "Isidro Metapan",
+      "away": "Club Deportivo Platense",
+      "at": "11.11.2026 01:00"
+    },
+    {
+      "type": "analysis",
+      "count": 333
     }
   ],
   "today": {
-    "home": "Isidro Metapan",
-    "away": "Club Deportivo Platense",
-    "league": "ELSAL",
-    "date": "11.11.2026 01:00",
-    "matchCode": "4504420",
-    "odds": 1.28,
-    "patternScore": 68.23,
-    "patternText": "167.119/244.942",
-    "aiScore": 62,
+    "home": "FK ZP Sport Podbrezova",
+    "away": "Zlate Moravce",
+    "league": "SLOVK",
+    "date": "11.11.2026 15:00",
+    "matchCode": "4578337",
+    "odds": 1.6,
+    "patternScore": 66.49,
+    "patternText": "138.515/208.328",
+    "aiScore": 55,
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "Isidro Metapan",
-      "away": "Club Deportivo Platense",
-      "league": "ELSAL",
-      "date": "11.11.2026 01:00",
-      "matchCode": "4504420",
-      "odds": 1.28,
-      "patternScore": 68.23,
-      "patternText": "167.119/244.942",
-      "aiScore": 62,
-      "picks": 2
-    },
     {
       "home": "FK ZP Sport Podbrezova",
       "away": "Zlate Moravce",
