@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 12:24",
+  "updatedAt": "11.11.2026 12:32",
   "config": {
     "pages": [
       "engine",
@@ -30,16 +30,16 @@
     "totalAnalyses": 600806,
     "leagues": 358,
     "pro": {
-      "won": 1192,
+      "won": 1193,
       "lost": 524,
-      "total": 1716,
+      "total": 1717,
       "rate": 69.5
     },
     "insights": {
-      "won": 1997,
+      "won": 2000,
       "lost": 855,
-      "total": 2852,
-      "rate": 70.0
+      "total": 2855,
+      "rate": 70.1
     },
     "coupons": {
       "won": 55,
@@ -48,7 +48,7 @@
       "rate": 45.5
     },
     "analyses24h": 373,
-    "analyses30d": 19428
+    "analyses30d": 19339
   },
   "recentWins": [
     {
@@ -88,7 +88,7 @@
       "odds": 1.38,
       "probability": 85.71,
       "patternScore": 66.57,
-      "aiScore": 56,
+      "aiScore": 57,
       "firstHalf": "0 - 2",
       "finalScore": "0 - 3",
       "pro": true
@@ -102,7 +102,7 @@
       "odds": 1.38,
       "probability": 92.31,
       "patternScore": 67.32,
-      "aiScore": 68,
+      "aiScore": 69,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
       "pro": true
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "FK ZP Sport Podbrezova",
-    "away": "Zlate Moravce",
-    "league": "SLOVK",
-    "date": "11.11.2026 15:00",
-    "matchCode": "4578337",
-    "odds": 1.17,
-    "patternScore": 67.32,
-    "patternText": "144.739/214.990",
-    "aiScore": 85,
+    "home": "Oh Leuven Women",
+    "away": "Koge Women",
+    "league": "ŞMP-K",
+    "date": "11.11.2026 17:45",
+    "matchCode": "4560860",
+    "odds": 1.31,
+    "patternScore": 68.19,
+    "patternText": "120.170/176.233",
+    "aiScore": 63,
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "Oh Leuven Women",
+      "away": "Koge Women",
+      "league": "ŞMP-K",
+      "date": "11.11.2026 17:45",
+      "matchCode": "4560860",
+      "odds": 1.31,
+      "patternScore": 68.19,
+      "patternText": "120.170/176.233",
+      "aiScore": 63,
+      "picks": 2
+    },
     {
       "home": "FK ZP Sport Podbrezova",
       "away": "Zlate Moravce",
@@ -359,18 +371,6 @@
       "patternScore": 67.32,
       "patternText": "144.739/214.990",
       "aiScore": 85,
-      "picks": 2
-    },
-    {
-      "home": "Oh Leuven Women",
-      "away": "Koge Women",
-      "league": "ŞMP-K",
-      "date": "11.11.2026 17:45",
-      "matchCode": "4560860",
-      "odds": 1.15,
-      "patternScore": 68.51,
-      "patternText": "231.866/338.439",
-      "aiScore": 82,
       "picks": 2
     },
     {
