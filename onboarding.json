@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 15:26",
+  "updatedAt": "11.11.2026 15:34",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 93,
       "rate": 62.4
     },
-    "totalAnalyses": 600955,
+    "totalAnalyses": 600965,
     "leagues": 358,
     "pro": {
       "won": 1190,
@@ -42,13 +42,13 @@
       "rate": 70.1
     },
     "coupons": {
-      "won": 55,
+      "won": 54,
       "lost": 66,
-      "total": 121,
-      "rate": 45.5
+      "total": 120,
+      "rate": 45.0
     },
     "analyses24h": 372,
-    "analyses30d": 18658
+    "analyses30d": 18604
   },
   "recentWins": [
     {
@@ -312,12 +312,6 @@
       "away": "FK Jablonec"
     },
     {
-      "type": "updated",
-      "at": "11.11.2026 09:31",
-      "home": "Urawa Red Diamonds",
-      "away": "Cerezo Osaka"
-    },
-    {
       "type": "kickoff",
       "home": "SK Artis Brno",
       "away": "FK Jablonec",
@@ -334,6 +328,10 @@
       "home": "Castellon Ii",
       "away": "Deportiva Minero",
       "at": "11.11.2026 18:00"
+    },
+    {
+      "type": "analysis",
+      "count": 372
     }
   ],
   "today": {
@@ -345,7 +343,7 @@
     "odds": 1.31,
     "patternScore": 68.19,
     "patternText": "120.192/176.269",
-    "aiScore": 62,
+    "aiScore": 63,
     "picks": 2
   },
   "todayList": [
@@ -358,8 +356,20 @@
       "odds": 1.31,
       "patternScore": 68.19,
       "patternText": "120.192/176.269",
-      "aiScore": 62,
+      "aiScore": 63,
       "picks": 2
+    },
+    {
+      "home": "Fuerte San Fra",
+      "away": "Alianza FC",
+      "league": "ELSAL",
+      "date": "11.11.2026 21:30",
+      "matchCode": "4504421",
+      "odds": 1.24,
+      "patternScore": 68.18,
+      "patternText": "173.874/255.030",
+      "aiScore": 64,
+      "picks": 1
     },
     {
       "home": "Castellon Ii",
@@ -370,19 +380,7 @@
       "odds": 1.17,
       "patternScore": 69.26,
       "patternText": "217.017/313.343",
-      "aiScore": 82,
-      "picks": 2
-    },
-    {
-      "home": "Sheffield Wednesday",
-      "away": "Accrington Stanley",
-      "league": "İNTK",
-      "date": "11.11.2026 19:00",
-      "matchCode": "4527809",
-      "odds": 1.13,
-      "patternScore": 68.87,
-      "patternText": "200.777/291.514",
-      "aiScore": 79,
+      "aiScore": 81,
       "picks": 2
     },
     {
@@ -398,15 +396,15 @@
       "picks": 1
     },
     {
-      "home": "Fuerte San Fra",
-      "away": "Alianza FC",
-      "league": "ELSAL",
-      "date": "11.11.2026 21:30",
-      "matchCode": "4504421",
-      "odds": 1.24,
-      "patternScore": 68.18,
-      "patternText": "173.874/255.030",
-      "aiScore": 64,
+      "home": "Iceland (U21)",
+      "away": "Greece (U21",
+      "league": "U21",
+      "date": "12.11.2026 00:00",
+      "matchCode": "4573276",
+      "odds": 1.16,
+      "patternScore": 69.48,
+      "patternText": "179.243/257.975",
+      "aiScore": 84,
       "picks": 1
     }
   ],
