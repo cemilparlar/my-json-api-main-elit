@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 09:55",
+  "updatedAt": "11.11.2026 10:02",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 83,
       "rate": 61.4
     },
-    "totalAnalyses": 600702,
+    "totalAnalyses": 600714,
     "leagues": 358,
     "pro": {
-      "won": 1191,
+      "won": 1187,
       "lost": 519,
-      "total": 1710,
+      "total": 1706,
       "rate": 69.6
     },
     "insights": {
-      "won": 1993,
-      "lost": 844,
-      "total": 2837,
-      "rate": 70.3
+      "won": 1983,
+      "lost": 840,
+      "total": 2823,
+      "rate": 70.2
     },
     "coupons": {
       "won": 55,
@@ -48,7 +48,7 @@
       "rate": 45.5
     },
     "analyses24h": 369,
-    "analyses30d": 19919
+    "analyses30d": 19849
   },
   "recentWins": [
     {
@@ -307,18 +307,6 @@
     },
     {
       "type": "kickoff",
-      "home": "Kawasaki Frontale",
-      "away": "Kashiwa Reysol",
-      "at": "11.11.2026 10:00"
-    },
-    {
-      "type": "kickoff",
-      "home": "Vissel Kobe",
-      "away": "FC Machida Zelvia",
-      "at": "11.11.2026 10:00"
-    },
-    {
-      "type": "kickoff",
       "home": "Urawa Red Diamonds",
       "away": "Cerezo Osaka",
       "at": "11.11.2026 10:30"
@@ -354,18 +342,6 @@
       "picks": 2
     },
     {
-      "home": "Urawa Red Diamonds",
-      "away": "Cerezo Osaka",
-      "league": "JLK",
-      "date": "11.11.2026 10:30",
-      "matchCode": "4579291",
-      "odds": 1.07,
-      "patternScore": 70.11,
-      "patternText": "197.652/281.924",
-      "aiScore": 95,
-      "picks": 1
-    },
-    {
       "home": "Fuerte San Fra",
       "away": "Alianza FC",
       "league": "ELSAL",
@@ -399,6 +375,18 @@
       "patternScore": 70.35,
       "patternText": "274.090/389.631",
       "aiScore": 94,
+      "picks": 1
+    },
+    {
+      "home": "Iceland (U21)",
+      "away": "Greece (U21",
+      "league": "U21",
+      "date": "12.11.2026 00:00",
+      "matchCode": "4573276",
+      "odds": 1.16,
+      "patternScore": 69.48,
+      "patternText": "179.151/257.863",
+      "aiScore": 84,
       "picks": 1
     }
   ],
