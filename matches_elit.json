@@ -177,7 +177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "13.11.2026 19:45",
@@ -327,7 +327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "14.11.2026 17:00",
@@ -477,7 +477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "14.11.2026 19:45",
@@ -717,7 +717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "12.11.2026 17:45",
@@ -807,7 +807,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "10.11.2026 19:45",
@@ -987,7 +987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 93
     },
     {
         "date": "10.11.2026 17:45",
@@ -1407,7 +1407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 70
     },
     {
         "date": "14.11.2026 17:00",
@@ -1947,7 +1947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "10.11.2026 19:00",
@@ -2097,7 +2097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "10.11.2026 19:00",
@@ -2517,7 +2517,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "10.11.2026 19:00",
@@ -3330,36 +3330,6 @@
         "aiScore": 96
     },
     {
-        "date": "11.11.2026 19:00",
-        "league": "İNTK",
-        "matchCode": "4527809",
-        "home": "Sheffield Wednesday",
-        "away": "Accrington Stanley",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "74.16",
-        "odds": "1.06",
-        "matchCount": "89",
-        "matchLink": "4527809",
-        "status": "Pending",
-        "predictedScore": "3-0",
-        "predictedScoreText": "5/42",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "11.11.2026 14:19",
-        "patternScore": 70.66,
-        "patternText": "264.536/374.385",
-        "patternInfo": {
-            "m": 59,
-            "s": 10,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
         "date": "11.11.2026 18:00",
         "league": "İS4",
         "matchCode": "4551908",
@@ -3418,5 +3388,35 @@
             "b": 100.0
         },
         "aiScore": 73
+    },
+    {
+        "date": "11.11.2026 19:00",
+        "league": "İNTK",
+        "matchCode": "4527809",
+        "home": "Sheffield Wednesday",
+        "away": "Accrington Stanley",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "76.19",
+        "odds": "1.13",
+        "matchCount": "42",
+        "matchLink": "4527809",
+        "status": "Pending",
+        "predictedScore": "3-0",
+        "predictedScoreText": "5/42",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 14:19",
+        "patternScore": 69.02,
+        "patternText": "203.385/294.696",
+        "patternInfo": {
+            "m": 54,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 76
     }
 ]

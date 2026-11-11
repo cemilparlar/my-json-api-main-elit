@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 14:25",
+  "updatedAt": "11.11.2026 14:33",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 93,
       "rate": 62.4
     },
-    "totalAnalyses": 600845,
+    "totalAnalyses": 600871,
     "leagues": 358,
     "pro": {
       "won": 1187,
@@ -36,9 +36,9 @@
       "rate": 69.5
     },
     "insights": {
-      "won": 1996,
+      "won": 1994,
       "lost": 850,
-      "total": 2846,
+      "total": 2844,
       "rate": 70.1
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 45.5
     },
     "analyses24h": 370,
-    "analyses30d": 18951
+    "analyses30d": 18898
   },
   "recentWins": [
     {
@@ -374,6 +374,18 @@
       "picks": 2
     },
     {
+      "home": "Sheffield Wednesday",
+      "away": "Accrington Stanley",
+      "league": "İNTK",
+      "date": "11.11.2026 19:00",
+      "matchCode": "4527809",
+      "odds": 1.13,
+      "patternScore": 69.02,
+      "patternText": "203.385/294.696",
+      "aiScore": 82,
+      "picks": 1
+    },
+    {
       "home": "SK Artis Brno",
       "away": "FK Jablonec",
       "league": "ÇEKK",
@@ -382,18 +394,6 @@
       "odds": 1.06,
       "patternScore": 69.59,
       "patternText": "213.198/306.375",
-      "aiScore": 99,
-      "picks": 1
-    },
-    {
-      "home": "Sheffield Wednesday",
-      "away": "Accrington Stanley",
-      "league": "İNTK",
-      "date": "11.11.2026 19:00",
-      "matchCode": "4527809",
-      "odds": 1.06,
-      "patternScore": 70.66,
-      "patternText": "264.536/374.385",
       "aiScore": 99,
       "picks": 1
     },
