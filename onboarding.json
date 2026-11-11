@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 18:31",
+  "updatedAt": "11.11.2026 18:39",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 601106,
     "leagues": 358,
     "pro": {
-      "won": 1181,
-      "lost": 514,
-      "total": 1695,
+      "won": 1183,
+      "lost": 515,
+      "total": 1698,
       "rate": 69.7
     },
     "insights": {
-      "won": 1986,
-      "lost": 840,
-      "total": 2826,
+      "won": 1990,
+      "lost": 841,
+      "total": 2831,
       "rate": 70.3
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 45.0
     },
     "analyses24h": 355,
-    "analyses30d": 18266
+    "analyses30d": 18262
   },
   "recentWins": [
     {
@@ -301,12 +301,6 @@
     },
     {
       "type": "updated",
-      "at": "11.11.2026 18:30",
-      "home": "Fuerte San Fra",
-      "away": "Alianza FC"
-    },
-    {
-      "type": "updated",
       "at": "11.11.2026 18:14",
       "home": "Los Millionarios",
       "away": "Alianza Petroleum"
@@ -334,6 +328,12 @@
       "home": "Sheffield Wednesday",
       "away": "Accrington Stanley",
       "at": "11.11.2026 19:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Avro",
+      "away": "Whitby Town",
+      "at": "11.11.2026 19:45"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4519651",
     "odds": 1.25,
     "patternScore": 68.22,
-    "patternText": "199.394/292.274",
+    "patternText": "199.400/292.280",
     "aiScore": 66,
     "picks": 1
   },
@@ -357,7 +357,7 @@
       "matchCode": "4519651",
       "odds": 1.25,
       "patternScore": 68.22,
-      "patternText": "199.394/292.274",
+      "patternText": "199.400/292.280",
       "aiScore": 66,
       "picks": 1
     },
@@ -369,20 +369,8 @@
       "matchCode": "4514004",
       "odds": 1.14,
       "patternScore": 68.68,
-      "patternText": "110.337/160.662",
+      "patternText": "110.357/160.694",
       "aiScore": 87,
-      "picks": 1
-    },
-    {
-      "home": "Fuerte San Fra",
-      "away": "Alianza FC",
-      "league": "ELSAL",
-      "date": "11.11.2026 21:30",
-      "matchCode": "4504421",
-      "odds": 1.1,
-      "patternScore": 69.58,
-      "patternText": "174.850/251.296",
-      "aiScore": 91,
       "picks": 1
     },
     {
@@ -393,7 +381,7 @@
       "matchCode": "4514006",
       "odds": 1.09,
       "patternScore": 71.15,
-      "patternText": "247.220/347.467",
+      "patternText": "247.252/347.503",
       "aiScore": 95,
       "picks": 1
     },
@@ -405,8 +393,20 @@
       "matchCode": "4573644",
       "odds": 1.14,
       "patternScore": 69.23,
-      "patternText": "173.821/251.088",
+      "patternText": "173.829/251.096",
       "aiScore": 83,
+      "picks": 2
+    },
+    {
+      "home": "Armenia",
+      "away": "Cyprus",
+      "league": "AVUL",
+      "date": "12.11.2026 17:00",
+      "matchCode": "4445220",
+      "odds": 1.18,
+      "patternScore": 69.55,
+      "patternText": "132.561/190.589",
+      "aiScore": 85,
       "picks": 2
     }
   ],
