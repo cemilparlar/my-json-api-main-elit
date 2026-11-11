@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 15:41",
+  "updatedAt": "11.11.2026 15:48",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 93,
       "rate": 62.4
     },
-    "totalAnalyses": 600965,
+    "totalAnalyses": 600987,
     "leagues": 358,
     "pro": {
       "won": 1190,
@@ -116,7 +116,7 @@
       "odds": 1.38,
       "probability": 92.31,
       "patternScore": 67.32,
-      "aiScore": 68,
+      "aiScore": 67,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
       "pro": true
@@ -289,7 +289,7 @@
     },
     {
       "type": "updated",
-      "at": "11.11.2026 15:20",
+      "at": "11.11.2026 15:43",
       "home": "Sheffield Wednesday",
       "away": "Accrington Stanley"
     },
@@ -312,6 +312,18 @@
       "away": "FK Jablonec"
     },
     {
+      "type": "updated",
+      "at": "11.11.2026 15:44",
+      "home": "Fuerte San Fra",
+      "away": "Alianza FC"
+    },
+    {
+      "type": "updated",
+      "at": "11.11.2026 15:43",
+      "home": "Wales U19",
+      "away": "Finland U19"
+    },
+    {
       "type": "kickoff",
       "home": "SK Artis Brno",
       "away": "FK Jablonec",
@@ -322,16 +334,6 @@
       "home": "Oh Leuven Women",
       "away": "Koge Women",
       "at": "11.11.2026 17:45"
-    },
-    {
-      "type": "kickoff",
-      "home": "Castellon Ii",
-      "away": "Deportiva Minero",
-      "at": "11.11.2026 18:00"
-    },
-    {
-      "type": "analysis",
-      "count": 372
     }
   ],
   "today": {
@@ -343,7 +345,7 @@
     "odds": 1.31,
     "patternScore": 68.19,
     "patternText": "120.192/176.269",
-    "aiScore": 63,
+    "aiScore": 62,
     "picks": 2
   },
   "todayList": [
@@ -356,7 +358,7 @@
       "odds": 1.31,
       "patternScore": 68.19,
       "patternText": "120.192/176.269",
-      "aiScore": 63,
+      "aiScore": 62,
       "picks": 2
     },
     {
@@ -384,28 +386,28 @@
       "picks": 2
     },
     {
-      "home": "SK Artis Brno",
-      "away": "FK Jablonec",
-      "league": "ÇEKK",
-      "date": "11.11.2026 17:00",
-      "matchCode": "4574103",
-      "odds": 1.06,
-      "patternScore": 69.59,
-      "patternText": "213.214/306.393",
-      "aiScore": 99,
-      "picks": 1
+      "home": "Sheffield Wednesday",
+      "away": "Accrington Stanley",
+      "league": "İNTK",
+      "date": "11.11.2026 19:00",
+      "matchCode": "4527809",
+      "odds": 1.13,
+      "patternScore": 69.58,
+      "patternText": "365.319/525.000",
+      "aiScore": 84,
+      "picks": 3
     },
     {
-      "home": "Iceland (U21)",
-      "away": "Greece (U21",
-      "league": "U21",
-      "date": "12.11.2026 00:00",
-      "matchCode": "4573276",
-      "odds": 1.16,
-      "patternScore": 69.48,
-      "patternText": "179.243/257.975",
+      "home": "Wales U19",
+      "away": "Finland U19",
+      "league": "AVŞU19",
+      "date": "11.11.2026 19:00",
+      "matchCode": "4579235",
+      "odds": 1.11,
+      "patternScore": 70.22,
+      "patternText": "263.672/375.514",
       "aiScore": 84,
-      "picks": 1
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
