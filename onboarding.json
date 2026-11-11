@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 21:28",
+  "updatedAt": "11.11.2026 21:35",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 23,
+      "won": 22,
       "lost": 13,
-      "total": 36,
-      "rate": 63.9
+      "total": 35,
+      "rate": 62.9
     },
-    "totalAnalyses": 601184,
+    "totalAnalyses": 601198,
     "leagues": 359,
     "pro": {
       "won": 1167,
@@ -47,8 +47,8 @@
       "total": 120,
       "rate": 45.0
     },
-    "analyses24h": 230,
-    "analyses30d": 18038
+    "analyses24h": 229,
+    "analyses30d": 18023
   },
   "recentWins": [
     {
@@ -108,18 +108,18 @@
       "pro": true
     },
     {
-      "home": "CE Sabadell",
-      "away": "Real Sociedad B",
-      "league": "İS2",
-      "date": "09.11.2026 19:30",
-      "prediction": "1st Half Double Chance X2",
-      "odds": 1.38,
-      "probability": 92.31,
-      "patternScore": 67.32,
-      "aiScore": 68,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 0",
-      "pro": true
+      "home": "France (U19)",
+      "away": "Norway (U19)",
+      "league": "AVŞU19",
+      "date": "11.11.2026 17:00",
+      "prediction": "Match Result 1",
+      "odds": 1.31,
+      "probability": 70.27,
+      "patternScore": 68.05,
+      "aiScore": 59,
+      "firstHalf": "3 - 0",
+      "finalScore": "6 - 0",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -319,12 +319,6 @@
     },
     {
       "type": "kickoff",
-      "home": "Fuerte San Fra",
-      "away": "Alianza FC",
-      "at": "11.11.2026 21:30"
-    },
-    {
-      "type": "kickoff",
       "home": "Londrina",
       "away": "Nautico",
       "at": "11.11.2026 22:00"
@@ -334,33 +328,27 @@
       "home": "Llaneros",
       "away": "Chico",
       "at": "12.11.2026 00:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Los Millionarios",
+      "away": "Alianza Petroleum",
+      "at": "12.11.2026 00:00"
     }
   ],
   "today": {
-    "home": "Londrina",
-    "away": "Nautico",
-    "league": "BR2",
-    "date": "11.11.2026 22:00",
-    "matchCode": "4454060",
-    "odds": 1.18,
-    "patternScore": 65.14,
-    "patternText": "231.692/355.669",
-    "aiScore": 72,
-    "picks": 2
+    "home": "Los Millionarios",
+    "away": "Alianza Petroleum",
+    "league": "KOL",
+    "date": "12.11.2026 00:00",
+    "matchCode": "4514004",
+    "odds": 1.14,
+    "patternScore": 68.67,
+    "patternText": "110.373/160.734",
+    "aiScore": 87,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Londrina",
-      "away": "Nautico",
-      "league": "BR2",
-      "date": "11.11.2026 22:00",
-      "matchCode": "4454060",
-      "odds": 1.18,
-      "patternScore": 65.14,
-      "patternText": "231.692/355.669",
-      "aiScore": 72,
-      "picks": 2
-    },
     {
       "home": "Los Millionarios",
       "away": "Alianza Petroleum",
@@ -407,6 +395,18 @@
       "patternScore": 69.55,
       "patternText": "132.617/190.679",
       "aiScore": 85,
+      "picks": 2
+    },
+    {
+      "home": "Barcelona Women",
+      "away": "Arsenal Women",
+      "league": "ŞMP-K",
+      "date": "12.11.2026 17:45",
+      "matchCode": "4560861",
+      "odds": 1.12,
+      "patternScore": 67.58,
+      "patternText": "144.890/214.401",
+      "aiScore": 93,
       "picks": 2
     }
   ],
