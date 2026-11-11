@@ -177,7 +177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "13.11.2026 19:45",
@@ -1077,7 +1077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "10.11.2026 20:00",
@@ -1137,7 +1137,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 66
+        "aiScore": 65
     },
     {
         "date": "10.11.2026 19:00",
@@ -1887,7 +1887,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "10.11.2026 19:00",
@@ -3177,7 +3177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "11.11.2026 17:00",
@@ -3238,36 +3238,6 @@
             "b": 100.0
         },
         "aiScore": 85
-    },
-    {
-        "date": "11.11.2026 19:45",
-        "league": "İNGNLP",
-        "matchCode": "4519651",
-        "home": "Avro",
-        "away": "Whitby Town",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Match Result 1",
-        "ihtimal": "75.0",
-        "odds": "1.25",
-        "matchCount": "28",
-        "matchLink": "4519651",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "11.11.2026 19:13",
-        "patternScore": 68.23,
-        "patternText": "199.432/292.312",
-        "patternInfo": {
-            "m": 56,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 65
     },
     {
         "date": "11.11.2026 18:30",
@@ -3388,5 +3358,95 @@
             "b": 100.0
         },
         "aiScore": 87
+    },
+    {
+        "date": "11.11.2026 19:45",
+        "league": "İNGNLP",
+        "matchCode": "4519651",
+        "home": "Avro",
+        "away": "Whitby Town",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "85.71",
+        "odds": "1.23",
+        "matchCount": "14",
+        "matchLink": "4519651",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 19:13",
+        "patternScore": 68.07,
+        "patternText": "132.168/194.152",
+        "patternInfo": {
+            "m": 54,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 68
+    },
+    {
+        "date": "11.11.2026 21:30",
+        "league": "ELSAL",
+        "matchCode": "4504421",
+        "home": "Fuerte San Fra",
+        "away": "Alianza FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "78.7",
+        "odds": "1.10",
+        "matchCount": "169",
+        "matchLink": "4504421",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "26/169",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 19:14",
+        "patternScore": 69.6,
+        "patternText": "175.388/251.986",
+        "patternInfo": {
+            "m": 49,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 87
+    },
+    {
+        "date": "11.11.2026 21:30",
+        "league": "ELSAL",
+        "matchCode": "4504421",
+        "home": "Fuerte San Fra",
+        "away": "Alianza FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "73.37",
+        "odds": "1.23",
+        "matchCount": "169",
+        "matchLink": "4504421",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "26/169",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 19:14",
+        "patternScore": 68.09,
+        "patternText": "168.016/246.750",
+        "patternInfo": {
+            "m": 49,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 63
     }
 ]
