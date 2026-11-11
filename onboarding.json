@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 06:59",
+  "updatedAt": "11.11.2026 07:08",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 81,
       "rate": 60.5
     },
-    "totalAnalyses": 459423,
-    "leagues": 356,
+    "totalAnalyses": 459449,
+    "leagues": 358,
     "pro": {
       "won": 1188,
       "lost": 518,
@@ -47,8 +47,8 @@
       "total": 121,
       "rate": 45.5
     },
-    "analyses24h": 331,
-    "analyses30d": 19975
+    "analyses24h": 357,
+    "analyses30d": 20001
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 1.49,
       "probability": 78.57,
       "patternScore": 68.1,
-      "aiScore": 57,
+      "aiScore": 56,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
       "pro": true
@@ -102,7 +102,7 @@
       "odds": 1.38,
       "probability": 92.31,
       "patternScore": 67.32,
-      "aiScore": 69,
+      "aiScore": 68,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
       "pro": true
@@ -289,7 +289,7 @@
     },
     {
       "type": "analysis",
-      "count": 331
+      "count": 357
     }
   ],
   "today": {
@@ -318,6 +318,18 @@
       "picks": 2
     },
     {
+      "home": "SK Artis Brno",
+      "away": "FK Jablonec",
+      "league": "ÇEKK",
+      "date": "11.11.2026 17:00",
+      "matchCode": "4574103",
+      "odds": 1.11,
+      "patternScore": 70.31,
+      "patternText": "270.328/384.494",
+      "aiScore": 93,
+      "picks": 2
+    },
+    {
       "home": "Oh Leuven Women",
       "away": "Koge Women",
       "league": "ŞMP-K",
@@ -326,7 +338,7 @@
       "odds": 1.08,
       "patternScore": 70.34,
       "patternText": "274.058/389.597",
-      "aiScore": 94,
+      "aiScore": 93,
       "picks": 1
     }
   ],
