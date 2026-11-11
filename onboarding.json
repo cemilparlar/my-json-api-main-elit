@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 09:25",
+  "updatedAt": "11.11.2026 09:33",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 83,
       "rate": 61.4
     },
-    "totalAnalyses": 600691,
+    "totalAnalyses": 600693,
     "leagues": 358,
     "pro": {
       "won": 1190,
@@ -47,8 +47,8 @@
       "total": 121,
       "rate": 45.5
     },
-    "analyses24h": 368,
-    "analyses30d": 19968
+    "analyses24h": 369,
+    "analyses30d": 19935
   },
   "recentWins": [
     {
@@ -300,6 +300,12 @@
       "away": "FC Machida Zelvia"
     },
     {
+      "type": "updated",
+      "at": "11.11.2026 09:31",
+      "home": "Urawa Red Diamonds",
+      "away": "Cerezo Osaka"
+    },
+    {
       "type": "kickoff",
       "home": "Kawasaki Frontale",
       "away": "Kashiwa Reysol",
@@ -319,46 +325,22 @@
     },
     {
       "type": "analysis",
-      "count": 368
+      "count": 369
     }
   ],
   "today": {
-    "home": "Vissel Kobe",
-    "away": "FC Machida Zelvia",
-    "league": "JLK",
-    "date": "11.11.2026 10:00",
-    "matchCode": "4579289",
-    "odds": 1.28,
-    "patternScore": 68.53,
-    "patternText": "174.841/255.149",
-    "aiScore": 67,
-    "picks": 6
+    "home": "FK ZP Sport Podbrezova",
+    "away": "Zlate Moravce",
+    "league": "SLOVK",
+    "date": "11.11.2026 15:00",
+    "matchCode": "4578337",
+    "odds": 1.18,
+    "patternScore": 67.96,
+    "patternText": "209.126/307.720",
+    "aiScore": 66,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Vissel Kobe",
-      "away": "FC Machida Zelvia",
-      "league": "JLK",
-      "date": "11.11.2026 10:00",
-      "matchCode": "4579289",
-      "odds": 1.28,
-      "patternScore": 68.53,
-      "patternText": "174.841/255.149",
-      "aiScore": 67,
-      "picks": 6
-    },
-    {
-      "home": "Kawasaki Frontale",
-      "away": "Kashiwa Reysol",
-      "league": "JLK",
-      "date": "11.11.2026 10:00",
-      "matchCode": "4579288",
-      "odds": 1.22,
-      "patternScore": 69.81,
-      "patternText": "243.695/349.095",
-      "aiScore": 70,
-      "picks": 4
-    },
     {
       "home": "FK ZP Sport Podbrezova",
       "away": "Zlate Moravce",
@@ -384,6 +366,18 @@
       "picks": 2
     },
     {
+      "home": "Fuerte San Fra",
+      "away": "Alianza FC",
+      "league": "ELSAL",
+      "date": "11.11.2026 21:30",
+      "matchCode": "4504421",
+      "odds": 1.24,
+      "patternScore": 68.18,
+      "patternText": "173.802/254.930",
+      "aiScore": 64,
+      "picks": 1
+    },
+    {
       "home": "SK Artis Brno",
       "away": "FK Jablonec",
       "league": "ÇEKK",
@@ -394,6 +388,18 @@
       "patternText": "270.372/384.538",
       "aiScore": 94,
       "picks": 2
+    },
+    {
+      "home": "Oh Leuven Women",
+      "away": "Koge Women",
+      "league": "ŞMP-K",
+      "date": "11.11.2026 17:45",
+      "matchCode": "4560860",
+      "odds": 1.08,
+      "patternScore": 70.35,
+      "patternText": "274.090/389.629",
+      "aiScore": 94,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
