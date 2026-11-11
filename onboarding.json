@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 09:11",
+  "updatedAt": "11.11.2026 09:18",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 83,
       "rate": 61.4
     },
-    "totalAnalyses": 600690,
+    "totalAnalyses": 600691,
     "leagues": 358,
     "pro": {
       "won": 1190,
@@ -48,7 +48,7 @@
       "rate": 45.5
     },
     "analyses24h": 368,
-    "analyses30d": 19970
+    "analyses30d": 19968
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 1.49,
       "probability": 78.57,
       "patternScore": 68.1,
-      "aiScore": 56,
+      "aiScore": 55,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
       "pro": true
@@ -116,7 +116,7 @@
       "odds": 1.38,
       "probability": 75.0,
       "patternScore": 67.35,
-      "aiScore": 62,
+      "aiScore": 61,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
       "pro": false
@@ -323,30 +323,18 @@
     }
   ],
   "today": {
-    "home": "FK ZP Sport Podbrezova",
-    "away": "Zlate Moravce",
-    "league": "SLOVK",
-    "date": "11.11.2026 15:00",
-    "matchCode": "4578337",
-    "odds": 1.6,
-    "patternScore": 66.48,
-    "patternText": "138.535/208.388",
-    "aiScore": 55,
-    "picks": 2
+    "home": "Vissel Kobe",
+    "away": "FC Machida Zelvia",
+    "league": "JLK",
+    "date": "11.11.2026 10:00",
+    "matchCode": "4579289",
+    "odds": 1.28,
+    "patternScore": 68.53,
+    "patternText": "174.841/255.149",
+    "aiScore": 67,
+    "picks": 6
   },
   "todayList": [
-    {
-      "home": "FK ZP Sport Podbrezova",
-      "away": "Zlate Moravce",
-      "league": "SLOVK",
-      "date": "11.11.2026 15:00",
-      "matchCode": "4578337",
-      "odds": 1.6,
-      "patternScore": 66.48,
-      "patternText": "138.535/208.388",
-      "aiScore": 55,
-      "picks": 2
-    },
     {
       "home": "Vissel Kobe",
       "away": "FC Machida Zelvia",
@@ -372,6 +360,18 @@
       "picks": 4
     },
     {
+      "home": "FK ZP Sport Podbrezova",
+      "away": "Zlate Moravce",
+      "league": "SLOVK",
+      "date": "11.11.2026 15:00",
+      "matchCode": "4578337",
+      "odds": 1.18,
+      "patternScore": 67.96,
+      "patternText": "209.126/307.720",
+      "aiScore": 66,
+      "picks": 1
+    },
+    {
       "home": "Urawa Red Diamonds",
       "away": "Cerezo Osaka",
       "league": "JLK",
@@ -380,7 +380,7 @@
       "odds": 1.1,
       "patternScore": 71.91,
       "patternText": "148.163/206.032",
-      "aiScore": 96,
+      "aiScore": 97,
       "picks": 2
     },
     {
