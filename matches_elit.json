@@ -1077,7 +1077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "10.11.2026 20:00",
@@ -1677,7 +1677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "10.11.2026 20:00",
@@ -1977,7 +1977,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "10.11.2026 19:00",
@@ -2667,7 +2667,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "11.11.2026 01:00",
@@ -2877,7 +2877,7 @@
             "e": 85,
             "b": 95.65
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "11.11.2026 10:00",
@@ -2967,7 +2967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "11.11.2026 10:00",
@@ -3147,7 +3147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "11.11.2026 17:00",
@@ -3267,7 +3267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 80
     },
     {
         "date": "11.11.2026 19:00",
@@ -3390,36 +3390,6 @@
         "aiScore": 79
     },
     {
-        "date": "11.11.2026 21:30",
-        "league": "ELSAL",
-        "matchCode": "4504421",
-        "home": "Fuerte San Fra",
-        "away": "Alianza FC",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "74.9",
-        "odds": "1.13",
-        "matchCount": "259",
-        "matchLink": "4504421",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "11.11.2026 20:26",
-        "patternScore": 70.42,
-        "patternText": "224.312/318.554",
-        "patternInfo": {
-            "m": 55,
-            "s": 5,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 76
-    },
-    {
         "date": "11.11.2026 22:00",
         "league": "BR2",
         "matchCode": "4454060",
@@ -3447,7 +3417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "11.11.2026 22:00",
@@ -3478,5 +3448,35 @@
             "b": 100.0
         },
         "aiScore": 67
+    },
+    {
+        "date": "11.11.2026 21:30",
+        "league": "ELSAL",
+        "matchCode": "4504421",
+        "home": "Fuerte San Fra",
+        "away": "Alianza FC",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "72.67",
+        "odds": "1.17",
+        "matchCount": "172",
+        "matchLink": "4504421",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 20:26",
+        "patternScore": 69.5,
+        "patternText": "175.112/251.954",
+        "patternInfo": {
+            "m": 46,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 70
     }
 ]
