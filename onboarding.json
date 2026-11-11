@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 00:06",
+  "updatedAt": "11.11.2026 00:14",
   "config": {
     "pages": [
       "engine",
@@ -151,6 +151,107 @@
           "finalScore": "0 - 1"
         }
       ]
+    },
+    {
+      "size": 3,
+      "totalOdds": 1.52,
+      "winChance": 51.51,
+      "completedAt": "08.11.2026 20:29",
+      "legs": [
+        {
+          "home": "AD Merida",
+          "away": "Athletic Bilbao B",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.11,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "Sporting Gijon",
+          "away": "Real Valladolid",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.2,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "LR Vicenza",
+          "away": "US Cremonese",
+          "prediction": "1st Half Double Chance X2",
+          "odds": 1.14,
+          "finalScore": "1 - 4"
+        }
+      ]
+    },
+    {
+      "size": 3,
+      "totalOdds": 1.54,
+      "winChance": 54.45,
+      "completedAt": "08.11.2026 20:00",
+      "legs": [
+        {
+          "home": "Flora Tallinn",
+          "away": "Levadia Tallinn",
+          "prediction": "1st Half Double Chance 12",
+          "odds": 1.2,
+          "finalScore": "0 - 2"
+        },
+        {
+          "home": "Aston Villa Women",
+          "away": "Manchester United",
+          "prediction": "Double Chance 12",
+          "odds": 1.06,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "Stafford Range",
+          "away": "Grimsby Town",
+          "prediction": "1st Half Double Chance 12",
+          "odds": 1.21,
+          "finalScore": null
+        }
+      ]
+    },
+    {
+      "size": 5,
+      "totalOdds": 1.51,
+      "winChance": 36.91,
+      "completedAt": "08.11.2026 18:35",
+      "legs": [
+        {
+          "home": "Disgyor Ii",
+          "away": "Tarpa",
+          "prediction": "Double Chance 12",
+          "odds": 1.06,
+          "finalScore": "7 - 1"
+        },
+        {
+          "home": "Paris U19",
+          "away": "Annecy U19",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Real Oviedo B",
+          "away": "Coruxo",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.06,
+          "finalScore": null
+        },
+        {
+          "home": "Villarreal B",
+          "away": "Juventud Torrem",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.06,
+          "finalScore": "1 - 1"
+        },
+        {
+          "home": "Krylya Sovetov",
+          "away": "FC Orenburg",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.15,
+          "finalScore": "2 - 0"
+        }
+      ]
     }
   ],
   "ticker": [
@@ -194,36 +295,6 @@
     },
     {
       "type": "updated",
-      "at": "10.11.2026 18:08",
-      "home": "Stevenage",
-      "away": "Fulham U21"
-    },
-    {
-      "type": "updated",
-      "at": "10.11.2026 18:09",
-      "home": "Northampton Town",
-      "away": "Gillingham"
-    },
-    {
-      "type": "updated",
-      "at": "10.11.2026 18:12",
-      "home": "Leicester City",
-      "away": "Walsall"
-    },
-    {
-      "type": "updated",
-      "at": "10.11.2026 18:13",
-      "home": "Stockport County",
-      "away": "Tranmere Rovers"
-    },
-    {
-      "type": "updated",
-      "at": "10.11.2026 18:11",
-      "home": "Crewe",
-      "away": "Wigan Athletic"
-    },
-    {
-      "type": "updated",
       "at": "10.11.2026 18:28",
       "home": "Barnet",
       "away": "Leyton Orient"
@@ -233,6 +304,36 @@
       "at": "10.11.2026 18:30",
       "home": "Bristol Rovers",
       "away": "Reading"
+    },
+    {
+      "type": "updated",
+      "at": "10.11.2026 18:30",
+      "home": "Crawley Town",
+      "away": "Brentford U21"
+    },
+    {
+      "type": "updated",
+      "at": "10.11.2026 18:30",
+      "home": "Bradford City",
+      "away": "York"
+    },
+    {
+      "type": "updated",
+      "at": "10.11.2026 19:03",
+      "home": "Colchester United",
+      "away": "Ipswich Town U21"
+    },
+    {
+      "type": "updated",
+      "at": "10.11.2026 18:17",
+      "home": "Leiston",
+      "away": "Real Bedford"
+    },
+    {
+      "type": "updated",
+      "at": "10.11.2026 18:31",
+      "home": "Scarborough At",
+      "away": "Marine"
     }
   ],
   "today": {
