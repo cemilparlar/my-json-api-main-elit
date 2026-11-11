@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 12:46",
+  "updatedAt": "11.11.2026 12:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 95,
       "rate": 62.1
     },
-    "totalAnalyses": 600819,
+    "totalAnalyses": 600820,
     "leagues": 358,
     "pro": {
       "won": 1196,
@@ -48,7 +48,7 @@
       "rate": 45.5
     },
     "analyses24h": 370,
-    "analyses30d": 19322
+    "analyses30d": 19320
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 1.49,
       "probability": 78.57,
       "patternScore": 68.1,
-      "aiScore": 56,
+      "aiScore": 55,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
       "pro": true
@@ -88,7 +88,7 @@
       "odds": 1.38,
       "probability": 85.71,
       "patternScore": 66.57,
-      "aiScore": 57,
+      "aiScore": 56,
       "firstHalf": "0 - 2",
       "finalScore": "0 - 3",
       "pro": true
@@ -102,7 +102,7 @@
       "odds": 1.38,
       "probability": 92.31,
       "patternScore": 67.32,
-      "aiScore": 69,
+      "aiScore": 68,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
       "pro": true
@@ -295,12 +295,6 @@
     },
     {
       "type": "updated",
-      "at": "11.11.2026 12:42",
-      "home": "FK ZP Sport Podbrezova",
-      "away": "Zlate Moravce"
-    },
-    {
-      "type": "updated",
       "at": "11.11.2026 11:19",
       "home": "Nove Zamky",
       "away": "Zemplin"
@@ -330,10 +324,8 @@
       "away": "Cerezo Osaka"
     },
     {
-      "type": "kickoff",
-      "home": "FK ZP Sport Podbrezova",
-      "away": "Zlate Moravce",
-      "at": "11.11.2026 15:00"
+      "type": "analysis",
+      "count": 370
     }
   ],
   "today": {
@@ -344,7 +336,7 @@
     "matchCode": "4560860",
     "odds": 1.31,
     "patternScore": 68.19,
-    "patternText": "120.174/176.239",
+    "patternText": "120.176/176.241",
     "aiScore": 63,
     "picks": 2
   },
@@ -357,20 +349,8 @@
       "matchCode": "4560860",
       "odds": 1.31,
       "patternScore": 68.19,
-      "patternText": "120.174/176.239",
+      "patternText": "120.176/176.241",
       "aiScore": 63,
-      "picks": 2
-    },
-    {
-      "home": "FK ZP Sport Podbrezova",
-      "away": "Zlate Moravce",
-      "league": "SLOVK",
-      "date": "11.11.2026 15:00",
-      "matchCode": "4578337",
-      "odds": 1.17,
-      "patternScore": 67.32,
-      "patternText": "144.743/214.996",
-      "aiScore": 85,
       "picks": 2
     },
     {
@@ -407,6 +387,18 @@
       "patternScore": 69.48,
       "patternText": "179.213/257.939",
       "aiScore": 84,
+      "picks": 1
+    },
+    {
+      "home": "Llaneros",
+      "away": "Chico",
+      "league": "KOL",
+      "date": "12.11.2026 00:00",
+      "matchCode": "4514006",
+      "odds": 1.09,
+      "patternScore": 71.15,
+      "patternText": "247.190/347.431",
+      "aiScore": 95,
       "picks": 1
     }
   ],
