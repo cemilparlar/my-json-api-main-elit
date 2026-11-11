@@ -92,9 +92,10 @@
       "lost": 6
     }
   },
-  "updatedAt": "11.11.2026 02:54",
-  "updatedAtUtc": "2026-11-11T02:54:00Z",
-  "upcoming": [
+  "updatedAt": "11.11.2026 03:01",
+  "updatedAtUtc": "2026-11-11T03:01:00Z",
+  "upcoming": [],
+  "completed": [
     {
       "id": "20261110-19-1",
       "createdAt": "10.11.2026 16:00",
@@ -105,13 +106,13 @@
       "winChance": 52.38,
       "firstKickoff": "10.11.2026 19:00",
       "lastKickoff": "10.11.2026 19:00",
-      "status": "live",
-      "completedAt": null,
+      "status": "void",
+      "completedAt": "11.11.2026 03:01",
       "kind": "cyz_3",
       "group": "multi",
       "formula": "3",
       "multiScore": 84,
-      "effectiveOdds": 1.5,
+      "effectiveOdds": 1.0,
       "legs": [
         {
           "matchCode": "4527861",
@@ -133,7 +134,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 98
         },
         {
@@ -156,7 +157,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 89
         },
         {
@@ -179,11 +180,10 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "live",
+          "status": "void",
           "aiScore": 80
         }
       ]
     }
-  ],
-  "completed": []
+  ]
 }
