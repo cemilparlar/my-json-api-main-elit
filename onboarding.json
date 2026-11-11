@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 22:27",
+  "updatedAt": "11.11.2026 22:34",
   "config": {
     "pages": [
       "engine",
@@ -30,16 +30,16 @@
     "totalAnalyses": 601203,
     "leagues": 359,
     "pro": {
-      "won": 1169,
+      "won": 1165,
       "lost": 515,
-      "total": 1684,
-      "rate": 69.4
+      "total": 1680,
+      "rate": 69.3
     },
     "insights": {
-      "won": 1963,
+      "won": 1959,
       "lost": 834,
-      "total": 2797,
-      "rate": 70.2
+      "total": 2793,
+      "rate": 70.1
     },
     "coupons": {
       "won": 51,
@@ -48,23 +48,9 @@
       "rate": 43.6
     },
     "analyses24h": 232,
-    "analyses30d": 17998
+    "analyses30d": 17988
   },
   "recentWins": [
-    {
-      "home": "T.Universitari",
-      "away": "Manta",
-      "league": "EKV1",
-      "date": "09.11.2026 20:30",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.55,
-      "probability": 73.68,
-      "patternScore": 67.42,
-      "aiScore": 54,
-      "firstHalf": "1 - 0",
-      "finalScore": "1 - 2",
-      "pro": false
-    },
     {
       "home": "PSG Women",
       "away": "Bayern Munich",
@@ -120,6 +106,20 @@
       "firstHalf": "3 - 0",
       "finalScore": "6 - 0",
       "pro": false
+    },
+    {
+      "home": "Isidro Metapan",
+      "away": "Club Deportivo Platense",
+      "league": "ELSAL",
+      "date": "11.11.2026 01:00",
+      "prediction": "1st Half Under 1.5",
+      "odds": 1.28,
+      "probability": 74.77,
+      "patternScore": 68.23,
+      "aiScore": 62,
+      "firstHalf": "0 - 1",
+      "finalScore": "2 - 1",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -257,14 +257,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "T.Universitari",
-      "away": "Manta",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.55,
-      "at": "09.11.2026 20:30"
-    },
-    {
-      "type": "won",
       "home": "PSG Women",
       "away": "Bayern Munich",
       "prediction": "Under 3.5 Goals",
@@ -286,6 +278,14 @@
       "prediction": "Over 2.5 Goals",
       "odds": 1.38,
       "at": "10.11.2026 18:00"
+    },
+    {
+      "type": "won",
+      "home": "France (U19)",
+      "away": "Norway (U19)",
+      "prediction": "Match Result 1",
+      "odds": 1.31,
+      "at": "11.11.2026 17:00"
     },
     {
       "type": "updated",
@@ -392,7 +392,7 @@
       "odds": 1.08,
       "patternScore": 69.2,
       "patternText": "199.588/288.424",
-      "aiScore": 92,
+      "aiScore": 91,
       "picks": 1
     },
     {
