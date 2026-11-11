@@ -327,7 +327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "14.11.2026 17:00",
@@ -357,7 +357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "14.11.2026 19:45",
@@ -687,7 +687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "12.11.2026 17:45",
@@ -1407,7 +1407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 71
     },
     {
         "date": "14.11.2026 17:00",
@@ -1767,7 +1767,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "10.11.2026 18:00",
@@ -1917,7 +1917,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "10.11.2026 19:00",
@@ -1947,7 +1947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "10.11.2026 19:00",
@@ -2397,7 +2397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 82
     },
     {
         "date": "10.11.2026 19:00",
@@ -2457,7 +2457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "10.11.2026 19:30",
@@ -2637,7 +2637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "11.11.2026 01:00",
@@ -3207,7 +3207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "11.11.2026 18:30",
@@ -3360,36 +3360,6 @@
         "aiScore": 68
     },
     {
-        "date": "11.11.2026 22:00",
-        "league": "BR2",
-        "matchCode": "4454060",
-        "home": "Londrina",
-        "away": "Nautico",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "73.04",
-        "odds": "1.10",
-        "matchCount": "115",
-        "matchLink": "4454060",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "15/101",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "11.11.2026 20:08",
-        "patternScore": 70.71,
-        "patternText": "230.443/325.881",
-        "patternInfo": {
-            "m": 61,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 83
-    },
-    {
         "date": "12.11.2026 16:00",
         "league": "AFUK",
         "matchCode": "4579380",
@@ -3448,5 +3418,65 @@
             "b": 100.0
         },
         "aiScore": 76
+    },
+    {
+        "date": "11.11.2026 22:00",
+        "league": "BR2",
+        "matchCode": "4454060",
+        "home": "Londrina",
+        "away": "Nautico",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "71.29",
+        "odds": "1.09",
+        "matchCount": "101",
+        "matchLink": "4454060",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "15/101",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 20:08",
+        "patternScore": 66.69,
+        "patternText": "254.225/381.177",
+        "patternInfo": {
+            "m": 65,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 70
+    },
+    {
+        "date": "11.11.2026 22:00",
+        "league": "BR2",
+        "matchCode": "4454060",
+        "home": "Londrina",
+        "away": "Nautico",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 3.5 Goals",
+        "ihtimal": "74.26",
+        "odds": "1.18",
+        "matchCount": "101",
+        "matchLink": "4454060",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "15/101",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 20:08",
+        "patternScore": 65.14,
+        "patternText": "231.666/355.631",
+        "patternInfo": {
+            "m": 63,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 67
     }
 ]
