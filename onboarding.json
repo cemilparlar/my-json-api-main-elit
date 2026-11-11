@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 17:29",
+  "updatedAt": "11.11.2026 17:38",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 59,
+      "won": 57,
       "lost": 36,
-      "total": 95,
-      "rate": 62.1
+      "total": 93,
+      "rate": 61.3
     },
-    "totalAnalyses": 601049,
+    "totalAnalyses": 601063,
     "leagues": 358,
     "pro": {
       "won": 1185,
@@ -47,8 +47,8 @@
       "total": 120,
       "rate": 45.0
     },
-    "analyses24h": 370,
-    "analyses30d": 18354
+    "analyses24h": 369,
+    "analyses30d": 18321
   },
   "recentWins": [
     {
@@ -331,7 +331,7 @@
     },
     {
       "type": "analysis",
-      "count": 370
+      "count": 369
     }
   ],
   "today": {
@@ -372,18 +372,6 @@
       "picks": 1
     },
     {
-      "home": "Castellon Ii",
-      "away": "Deportiva Minero",
-      "league": "İS4",
-      "date": "11.11.2026 18:00",
-      "matchCode": "4551908",
-      "odds": 1.17,
-      "patternScore": 69.26,
-      "patternText": "217.019/313.347",
-      "aiScore": 81,
-      "picks": 2
-    },
-    {
       "home": "Sheffield Wednesday",
       "away": "Accrington Stanley",
       "league": "İNTK",
@@ -405,6 +393,18 @@
       "patternScore": 70.19,
       "patternText": "259.754/370.072",
       "aiScore": 94,
+      "picks": 1
+    },
+    {
+      "home": "Iceland (U21)",
+      "away": "Greece (U21",
+      "league": "U21",
+      "date": "12.11.2026 00:00",
+      "matchCode": "4573276",
+      "odds": 1.16,
+      "patternScore": 69.48,
+      "patternText": "179.243/257.975",
+      "aiScore": 83,
       "picks": 1
     }
   ],
