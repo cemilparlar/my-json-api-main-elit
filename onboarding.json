@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 16:59",
+  "updatedAt": "11.11.2026 17:06",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 58,
-      "lost": 35,
-      "total": 93,
-      "rate": 62.4
+      "won": 59,
+      "lost": 36,
+      "total": 95,
+      "rate": 62.1
     },
     "totalAnalyses": 600998,
     "leagues": 358,
     "pro": {
       "won": 1185,
-      "lost": 517,
-      "total": 1702,
-      "rate": 69.6
+      "lost": 515,
+      "total": 1700,
+      "rate": 69.7
     },
     "insights": {
       "won": 1991,
-      "lost": 845,
-      "total": 2836,
-      "rate": 70.2
+      "lost": 843,
+      "total": 2834,
+      "rate": 70.3
     },
     "coupons": {
       "won": 54,
@@ -48,7 +48,7 @@
       "rate": 45.0
     },
     "analyses24h": 372,
-    "analyses30d": 18421
+    "analyses30d": 18387
   },
   "recentWins": [
     {
@@ -289,7 +289,7 @@
     },
     {
       "type": "updated",
-      "at": "11.11.2026 15:43",
+      "at": "11.11.2026 17:00",
       "home": "Sheffield Wednesday",
       "away": "Accrington Stanley"
     },
@@ -319,21 +319,21 @@
     },
     {
       "type": "kickoff",
-      "home": "SK Artis Brno",
-      "away": "FK Jablonec",
-      "at": "11.11.2026 17:00"
-    },
-    {
-      "type": "kickoff",
-      "home": "France (U19)",
-      "away": "Norway (U19)",
-      "at": "11.11.2026 17:00"
-    },
-    {
-      "type": "kickoff",
       "home": "Castellon Ii",
       "away": "Deportiva Minero",
       "at": "11.11.2026 18:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "CD Alcoyano",
+      "away": "Elche B",
+      "at": "11.11.2026 18:30"
+    },
+    {
+      "type": "kickoff",
+      "home": "Wales U19",
+      "away": "Finland U19",
+      "at": "11.11.2026 19:00"
     }
   ],
   "today": {
@@ -374,18 +374,6 @@
       "picks": 1
     },
     {
-      "home": "Sheffield Wednesday",
-      "away": "Accrington Stanley",
-      "league": "İNTK",
-      "date": "11.11.2026 19:00",
-      "matchCode": "4527809",
-      "odds": 1.19,
-      "patternScore": 69.05,
-      "patternText": "216.523/313.592",
-      "aiScore": 84,
-      "picks": 3
-    },
-    {
       "home": "Castellon Ii",
       "away": "Deportiva Minero",
       "league": "İS4",
@@ -406,8 +394,20 @@
       "odds": 1.13,
       "patternScore": 69.0,
       "patternText": "206.774/299.652",
-      "aiScore": 81,
+      "aiScore": 80,
       "picks": 2
+    },
+    {
+      "home": "Sheffield Wednesday",
+      "away": "Accrington Stanley",
+      "league": "İNTK",
+      "date": "11.11.2026 19:00",
+      "matchCode": "4527809",
+      "odds": 1.11,
+      "patternScore": 69.56,
+      "patternText": "223.031/320.648",
+      "aiScore": 94,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
