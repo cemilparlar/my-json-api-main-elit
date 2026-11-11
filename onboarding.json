@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 18:00",
+  "updatedAt": "11.11.2026 18:07",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 53,
-      "lost": 27,
-      "total": 80,
-      "rate": 66.2
+      "won": 50,
+      "lost": 26,
+      "total": 76,
+      "rate": 65.8
     },
     "totalAnalyses": 601073,
     "leagues": 358,
@@ -48,7 +48,7 @@
       "rate": 45.0
     },
     "analyses24h": 354,
-    "analyses30d": 18291
+    "analyses30d": 18284
   },
   "recentWins": [
     {
@@ -370,31 +370,7 @@
       "odds": 1.25,
       "patternScore": 68.22,
       "patternText": "199.394/292.274",
-      "aiScore": 65,
-      "picks": 1
-    },
-    {
-      "home": "Sheffield Wednesday",
-      "away": "Accrington Stanley",
-      "league": "İNTK",
-      "date": "11.11.2026 19:00",
-      "matchCode": "4527809",
-      "odds": 1.14,
-      "patternScore": 69.58,
-      "patternText": "122.901/176.630",
-      "aiScore": 81,
-      "picks": 1
-    },
-    {
-      "home": "Wales U19",
-      "away": "Finland U19",
-      "league": "AVŞU19",
-      "date": "11.11.2026 19:00",
-      "matchCode": "4579235",
-      "odds": 1.11,
-      "patternScore": 70.19,
-      "patternText": "259.754/370.072",
-      "aiScore": 94,
+      "aiScore": 66,
       "picks": 1
     },
     {
@@ -407,6 +383,30 @@
       "patternScore": 69.48,
       "patternText": "179.243/257.975",
       "aiScore": 84,
+      "picks": 1
+    },
+    {
+      "home": "Sheffield Wednesday",
+      "away": "Accrington Stanley",
+      "league": "İNTK",
+      "date": "11.11.2026 19:00",
+      "matchCode": "4527809",
+      "odds": 1.14,
+      "patternScore": 69.32,
+      "patternText": "251.993/363.531",
+      "aiScore": 82,
+      "picks": 1
+    },
+    {
+      "home": "Wales U19",
+      "away": "Finland U19",
+      "league": "AVŞU19",
+      "date": "11.11.2026 19:00",
+      "matchCode": "4579235",
+      "odds": 1.11,
+      "patternScore": 70.19,
+      "patternText": "259.754/370.072",
+      "aiScore": 94,
       "picks": 1
     }
   ],
