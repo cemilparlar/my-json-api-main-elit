@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 18:54",
+  "updatedAt": "11.11.2026 19:01",
   "config": {
     "pages": [
       "engine",
@@ -22,22 +22,22 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 50,
+      "won": 53,
       "lost": 26,
-      "total": 76,
-      "rate": 65.8
+      "total": 79,
+      "rate": 67.1
     },
-    "totalAnalyses": 601117,
+    "totalAnalyses": 601118,
     "leagues": 358,
     "pro": {
       "won": 1184,
-      "lost": 515,
-      "total": 1699,
+      "lost": 514,
+      "total": 1698,
       "rate": 69.7
     },
     "insights": {
-      "won": 1992,
-      "lost": 841,
+      "won": 1993,
+      "lost": 840,
       "total": 2833,
       "rate": 70.3
     },
@@ -47,8 +47,8 @@
       "total": 120,
       "rate": 45.0
     },
-    "analyses24h": 355,
-    "analyses30d": 18236
+    "analyses24h": 290,
+    "analyses30d": 18182
   },
   "recentWins": [
     {
@@ -319,21 +319,13 @@
     },
     {
       "type": "kickoff",
-      "home": "Wales U19",
-      "away": "Finland U19",
-      "at": "11.11.2026 19:00"
-    },
-    {
-      "type": "kickoff",
-      "home": "Sheffield Wednesday",
-      "away": "Accrington Stanley",
-      "at": "11.11.2026 19:00"
-    },
-    {
-      "type": "kickoff",
       "home": "Avro",
       "away": "Whitby Town",
       "at": "11.11.2026 19:45"
+    },
+    {
+      "type": "analysis",
+      "count": 290
     }
   ],
   "today": {
