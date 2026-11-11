@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 21:57",
+  "updatedAt": "11.11.2026 22:05",
   "config": {
     "pages": [
       "engine",
@@ -36,9 +36,9 @@
       "rate": 69.4
     },
     "insights": {
-      "won": 1963,
+      "won": 1962,
       "lost": 833,
-      "total": 2796,
+      "total": 2795,
       "rate": 70.2
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 45.0
     },
     "analyses24h": 229,
-    "analyses30d": 18016
+    "analyses30d": 18005
   },
   "recentWins": [
     {
@@ -319,12 +319,6 @@
     },
     {
       "type": "kickoff",
-      "home": "Londrina",
-      "away": "Nautico",
-      "at": "11.11.2026 22:00"
-    },
-    {
-      "type": "kickoff",
       "home": "Llaneros",
       "away": "Chico",
       "at": "12.11.2026 00:00"
@@ -334,6 +328,10 @@
       "home": "Los Millionarios",
       "away": "Alianza Petroleum",
       "at": "12.11.2026 00:00"
+    },
+    {
+      "type": "analysis",
+      "count": 229
     }
   ],
   "today": {
@@ -386,6 +384,18 @@
       "picks": 2
     },
     {
+      "home": "Madagascar",
+      "away": "Guinea Bissau",
+      "league": "AFUK",
+      "date": "12.11.2026 16:00",
+      "matchCode": "4579380",
+      "odds": 1.08,
+      "patternScore": 69.2,
+      "patternText": "199.586/288.416",
+      "aiScore": 92,
+      "picks": 1
+    },
+    {
       "home": "Armenia",
       "away": "Cyprus",
       "league": "AVUL",
@@ -395,18 +405,6 @@
       "patternScore": 69.55,
       "patternText": "132.619/190.681",
       "aiScore": 85,
-      "picks": 2
-    },
-    {
-      "home": "Barcelona Women",
-      "away": "Arsenal Women",
-      "league": "ŞMP-K",
-      "date": "12.11.2026 17:45",
-      "matchCode": "4560861",
-      "odds": 1.12,
-      "patternScore": 67.58,
-      "patternText": "144.892/214.403",
-      "aiScore": 93,
       "picks": 2
     }
   ],
