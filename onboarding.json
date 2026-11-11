@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 19:08",
+  "updatedAt": "11.11.2026 19:16",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 79,
       "rate": 67.1
     },
-    "totalAnalyses": 601119,
+    "totalAnalyses": 601122,
     "leagues": 358,
     "pro": {
       "won": 1184,
@@ -47,8 +47,8 @@
       "total": 120,
       "rate": 45.0
     },
-    "analyses24h": 290,
-    "analyses30d": 18182
+    "analyses24h": 291,
+    "analyses30d": 18170
   },
   "recentWins": [
     {
@@ -295,6 +295,12 @@
     },
     {
       "type": "updated",
+      "at": "11.11.2026 19:13",
+      "home": "Avro",
+      "away": "Whitby Town"
+    },
+    {
+      "type": "updated",
       "at": "11.11.2026 14:00",
       "home": "SK Artis Brno",
       "away": "FK Jablonec"
@@ -325,34 +331,22 @@
     },
     {
       "type": "analysis",
-      "count": 290
+      "count": 291
     }
   ],
   "today": {
-    "home": "Avro",
-    "away": "Whitby Town",
-    "league": "İNGNLP",
-    "date": "11.11.2026 19:45",
-    "matchCode": "4519651",
-    "odds": 1.25,
-    "patternScore": 68.23,
-    "patternText": "199.432/292.312",
-    "aiScore": 66,
+    "home": "Los Millionarios",
+    "away": "Alianza Petroleum",
+    "league": "KOL",
+    "date": "12.11.2026 00:00",
+    "matchCode": "4514004",
+    "odds": 1.14,
+    "patternScore": 68.67,
+    "patternText": "110.371/160.724",
+    "aiScore": 87,
     "picks": 1
   },
   "todayList": [
-    {
-      "home": "Avro",
-      "away": "Whitby Town",
-      "league": "İNGNLP",
-      "date": "11.11.2026 19:45",
-      "matchCode": "4519651",
-      "odds": 1.25,
-      "patternScore": 68.23,
-      "patternText": "199.432/292.312",
-      "aiScore": 66,
-      "picks": 1
-    },
     {
       "home": "Los Millionarios",
       "away": "Alianza Petroleum",
@@ -399,6 +393,18 @@
       "patternScore": 69.55,
       "patternText": "132.571/190.599",
       "aiScore": 85,
+      "picks": 2
+    },
+    {
+      "home": "Barcelona Women",
+      "away": "Arsenal Women",
+      "league": "ŞMP-K",
+      "date": "12.11.2026 17:45",
+      "matchCode": "4560861",
+      "odds": 1.12,
+      "patternScore": 67.59,
+      "patternText": "144.876/214.353",
+      "aiScore": 93,
       "picks": 2
     }
   ],
