@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 16:52",
+  "updatedAt": "11.11.2026 16:59",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 93,
       "rate": 62.4
     },
-    "totalAnalyses": 600995,
+    "totalAnalyses": 600998,
     "leagues": 358,
     "pro": {
       "won": 1185,
@@ -345,7 +345,7 @@
     "odds": 1.28,
     "patternScore": 69.51,
     "patternText": "178.498/256.780",
-    "aiScore": 63,
+    "aiScore": 64,
     "picks": 2
   },
   "todayList": [
@@ -358,8 +358,20 @@
       "odds": 1.28,
       "patternScore": 69.51,
       "patternText": "178.498/256.780",
-      "aiScore": 63,
+      "aiScore": 64,
       "picks": 2
+    },
+    {
+      "home": "CD Alcoyano",
+      "away": "Elche B",
+      "league": "İS4",
+      "date": "11.11.2026 18:30",
+      "matchCode": "4551901",
+      "odds": 1.21,
+      "patternScore": 68.83,
+      "patternText": "124.449/180.818",
+      "aiScore": 82,
+      "picks": 1
     },
     {
       "home": "Sheffield Wednesday",
@@ -396,18 +408,6 @@
       "patternText": "206.774/299.652",
       "aiScore": 81,
       "picks": 2
-    },
-    {
-      "home": "Iceland (U21)",
-      "away": "Greece (U21",
-      "league": "U21",
-      "date": "12.11.2026 00:00",
-      "matchCode": "4573276",
-      "odds": 1.16,
-      "patternScore": 69.48,
-      "patternText": "179.243/257.975",
-      "aiScore": 83,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
