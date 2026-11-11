@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 11:25",
+  "updatedAt": "11.11.2026 11:33",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 83,
       "rate": 61.4
     },
-    "totalAnalyses": 600731,
+    "totalAnalyses": 600733,
     "leagues": 358,
     "pro": {
       "won": 1190,
@@ -48,7 +48,7 @@
       "rate": 45.5
     },
     "analyses24h": 372,
-    "analyses30d": 19624
+    "analyses30d": 19545
   },
   "recentWins": [
     {
@@ -88,7 +88,7 @@
       "odds": 1.38,
       "probability": 85.71,
       "patternScore": 66.57,
-      "aiScore": 57,
+      "aiScore": 56,
       "firstHalf": "0 - 2",
       "finalScore": "0 - 3",
       "pro": true
@@ -329,30 +329,18 @@
     }
   ],
   "today": {
-    "home": "Nove Zamky",
-    "away": "Zemplin",
+    "home": "FK ZP Sport Podbrezova",
+    "away": "Zlate Moravce",
     "league": "SLOVK",
-    "date": "11.11.2026 12:00",
-    "matchCode": "4578336",
-    "odds": 1.37,
-    "patternScore": 69.12,
-    "patternText": "128.336/185.676",
-    "aiScore": 64,
-    "picks": 1
+    "date": "11.11.2026 15:00",
+    "matchCode": "4578337",
+    "odds": 1.17,
+    "patternScore": 67.33,
+    "patternText": "144.651/214.830",
+    "aiScore": 85,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Nove Zamky",
-      "away": "Zemplin",
-      "league": "SLOVK",
-      "date": "11.11.2026 12:00",
-      "matchCode": "4578336",
-      "odds": 1.37,
-      "patternScore": 69.12,
-      "patternText": "128.336/185.676",
-      "aiScore": 64,
-      "picks": 1
-    },
     {
       "home": "FK ZP Sport Podbrezova",
       "away": "Zlate Moravce",
@@ -386,7 +374,7 @@
       "odds": 1.24,
       "patternScore": 68.18,
       "patternText": "173.804/254.936",
-      "aiScore": 64,
+      "aiScore": 65,
       "picks": 1
     },
     {
@@ -399,6 +387,18 @@
       "patternScore": 70.35,
       "patternText": "274.092/389.633",
       "aiScore": 94,
+      "picks": 1
+    },
+    {
+      "home": "Iceland (U21)",
+      "away": "Greece (U21",
+      "league": "U21",
+      "date": "12.11.2026 00:00",
+      "matchCode": "4573276",
+      "odds": 1.16,
+      "patternScore": 69.48,
+      "patternText": "179.151/257.863",
+      "aiScore": 84,
       "picks": 1
     }
   ],

@@ -57,7 +57,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "12.11.2026 17:00",
@@ -477,7 +477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "14.11.2026 19:45",
@@ -777,7 +777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "13.11.2026 19:45",
@@ -1137,7 +1137,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "10.11.2026 19:00",
@@ -1707,7 +1707,7 @@
             "e": 85,
             "b": 88.64
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "10.11.2026 12:00",
@@ -2127,7 +2127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "10.11.2026 19:00",
@@ -2247,7 +2247,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "10.11.2026 19:00",
@@ -3390,36 +3390,6 @@
         "aiScore": 86
     },
     {
-        "date": "11.11.2026 12:00",
-        "league": "SLOVK",
-        "matchCode": "4578336",
-        "home": "Nove Zamky",
-        "away": "Zemplin",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 3.5 Goals",
-        "ihtimal": "84.21",
-        "odds": "1.37",
-        "matchCount": "19",
-        "matchLink": "4578336",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "2/7",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "11.11.2026 11:19",
-        "patternScore": 69.12,
-        "patternText": "128.336/185.676",
-        "patternInfo": {
-            "m": 47,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 66
-    },
-    {
         "date": "11.11.2026 17:00",
         "league": "ÇEKK",
         "matchCode": "4574103",
@@ -3448,5 +3418,65 @@
             "b": 100.0
         },
         "aiScore": 93
+    },
+    {
+        "date": "11.11.2026 12:00",
+        "league": "SLOVK",
+        "matchCode": "4578336",
+        "home": "Nove Zamky",
+        "away": "Zemplin",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 12",
+        "ihtimal": "71.43",
+        "odds": "1.24",
+        "matchCount": "7",
+        "matchLink": "4578336",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "2/7",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 11:19",
+        "patternScore": 67.27,
+        "patternText": "201.214/299.132",
+        "patternInfo": {
+            "m": 49,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 62
+    },
+    {
+        "date": "11.11.2026 12:00",
+        "league": "SLOVK",
+        "matchCode": "4578336",
+        "home": "Nove Zamky",
+        "away": "Zemplin",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 1.5",
+        "ihtimal": "71.43",
+        "odds": "1.41",
+        "matchCount": "7",
+        "matchLink": "4578336",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "2/7",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "11.11.2026 11:19",
+        "patternScore": 67.01,
+        "patternText": "215.712/321.932",
+        "patternInfo": {
+            "m": 50,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 57
     }
 ]
