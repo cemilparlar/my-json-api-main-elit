@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "11.11.2026 08:47",
+  "updatedAt": "11.11.2026 08:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 83,
       "rate": 61.4
     },
-    "totalAnalyses": 459491,
+    "totalAnalyses": 600614,
     "leagues": 358,
     "pro": {
       "won": 1190,
@@ -47,8 +47,8 @@
       "total": 121,
       "rate": 45.5
     },
-    "analyses24h": 366,
-    "analyses30d": 20008
+    "analyses24h": 367,
+    "analyses30d": 20007
   },
   "recentWins": [
     {
@@ -288,6 +288,12 @@
       "at": "09.11.2026 19:30"
     },
     {
+      "type": "updated",
+      "at": "11.11.2026 08:51",
+      "home": "Vissel Kobe",
+      "away": "FC Machida Zelvia"
+    },
+    {
       "type": "kickoff",
       "home": "Kawasaki Frontale",
       "away": "Kashiwa Reysol",
@@ -307,7 +313,7 @@
     },
     {
       "type": "analysis",
-      "count": 366
+      "count": 367
     }
   ],
   "today": {
@@ -318,7 +324,7 @@
     "matchCode": "4579288",
     "odds": 1.22,
     "patternScore": 69.81,
-    "patternText": "243.687/349.087",
+    "patternText": "243.695/349.095",
     "aiScore": 70,
     "picks": 4
   },
@@ -331,7 +337,7 @@
       "matchCode": "4579288",
       "odds": 1.22,
       "patternScore": 69.81,
-      "patternText": "243.687/349.087",
+      "patternText": "243.695/349.095",
       "aiScore": 70,
       "picks": 4
     },
@@ -343,7 +349,7 @@
       "matchCode": "4579289",
       "odds": 1.15,
       "patternScore": 69.48,
-      "patternText": "193.130/277.979",
+      "patternText": "193.138/277.987",
       "aiScore": 72,
       "picks": 1
     },
@@ -355,7 +361,7 @@
       "matchCode": "4579291",
       "odds": 1.1,
       "patternScore": 71.91,
-      "patternText": "148.161/206.030",
+      "patternText": "148.163/206.032",
       "aiScore": 96,
       "picks": 2
     },
@@ -379,7 +385,7 @@
       "matchCode": "4574103",
       "odds": 1.11,
       "patternScore": 70.31,
-      "patternText": "270.364/384.530",
+      "patternText": "270.372/384.538",
       "aiScore": 94,
       "picks": 2
     }
