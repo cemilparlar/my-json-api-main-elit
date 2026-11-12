@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 05:40",
+  "updatedAt": "12.11.2026 05:48",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 38,
       "rate": 65.8
     },
-    "totalAnalyses": 601362,
+    "totalAnalyses": 601363,
     "leagues": 358,
     "pro": {
       "won": 1167,
@@ -294,22 +294,10 @@
       "away": "India"
     },
     {
-      "type": "updated",
-      "at": "12.11.2026 05:36",
-      "home": "Apia",
-      "away": "Adelaide City FC"
-    },
-    {
       "type": "kickoff",
       "home": "New Zealand",
       "away": "India",
       "at": "12.11.2026 06:00"
-    },
-    {
-      "type": "kickoff",
-      "home": "Apia",
-      "away": "Adelaide City FC",
-      "at": "12.11.2026 08:30"
     },
     {
       "type": "analysis",
@@ -317,30 +305,18 @@
     }
   ],
   "today": {
-    "home": "Apia",
-    "away": "Adelaide City FC",
-    "league": "AVC",
-    "date": "12.11.2026 08:30",
-    "matchCode": "4573644",
-    "odds": 1.14,
-    "patternScore": 70.16,
-    "patternText": "105.413/150.242",
-    "aiScore": 97,
+    "home": "Armenia",
+    "away": "Cyprus",
+    "league": "AVUL",
+    "date": "12.11.2026 17:00",
+    "matchCode": "4445220",
+    "odds": 1.18,
+    "patternScore": 69.55,
+    "patternText": "132.641/190.705",
+    "aiScore": 85,
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "Apia",
-      "away": "Adelaide City FC",
-      "league": "AVC",
-      "date": "12.11.2026 08:30",
-      "matchCode": "4573644",
-      "odds": 1.14,
-      "patternScore": 70.16,
-      "patternText": "105.413/150.242",
-      "aiScore": 97,
-      "picks": 2
-    },
     {
       "home": "Armenia",
       "away": "Cyprus",
@@ -350,7 +326,19 @@
       "odds": 1.18,
       "patternScore": 69.55,
       "patternText": "132.641/190.705",
-      "aiScore": 84,
+      "aiScore": 85,
+      "picks": 2
+    },
+    {
+      "home": "Barcelona Women",
+      "away": "Arsenal Women",
+      "league": "ŞMP-K",
+      "date": "12.11.2026 17:45",
+      "matchCode": "4560861",
+      "odds": 1.12,
+      "patternScore": 67.58,
+      "patternText": "144.906/214.421",
+      "aiScore": 94,
       "picks": 2
     },
     {
@@ -366,18 +354,6 @@
       "picks": 1
     },
     {
-      "home": "Barcelona Women",
-      "away": "Arsenal Women",
-      "league": "ŞMP-K",
-      "date": "12.11.2026 17:45",
-      "matchCode": "4560861",
-      "odds": 1.12,
-      "patternScore": 67.58,
-      "patternText": "144.906/214.421",
-      "aiScore": 93,
-      "picks": 2
-    },
-    {
       "home": "Albania",
       "away": "Finland",
       "league": "AVUL",
@@ -386,7 +362,7 @@
       "odds": 1.07,
       "patternScore": 69.11,
       "patternText": "152.300/220.374",
-      "aiScore": 91,
+      "aiScore": 92,
       "picks": 1
     }
   ],
