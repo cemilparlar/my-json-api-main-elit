@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 10:41",
+  "updatedAt": "12.11.2026 10:49",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 29,
       "rate": 69.0
     },
-    "totalAnalyses": 603648,
+    "totalAnalyses": 603749,
     "leagues": 359,
     "pro": {
       "won": 1168,
@@ -47,10 +47,24 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 815,
-    "analyses30d": 18382
+    "analyses24h": 820,
+    "analyses30d": 18387
   },
   "recentWins": [
+    {
+      "home": "Apia",
+      "away": "Adelaide City FC",
+      "league": "AVC",
+      "date": "12.11.2026 08:30",
+      "prediction": "1st Half Over 1.5",
+      "odds": 1.73,
+      "probability": 72.73,
+      "patternScore": 67.42,
+      "aiScore": 51,
+      "firstHalf": "2 - 0",
+      "finalScore": "3 - 0",
+      "pro": true
+    },
     {
       "home": "PSG Women",
       "away": "Bayern Munich",
@@ -106,20 +120,6 @@
       "firstHalf": "3 - 0",
       "finalScore": "6 - 0",
       "pro": false
-    },
-    {
-      "home": "Isidro Metapan",
-      "away": "Club Deportivo Platense",
-      "league": "ELSAL",
-      "date": "11.11.2026 01:00",
-      "prediction": "1st Half Under 1.5",
-      "odds": 1.28,
-      "probability": 74.77,
-      "patternScore": 68.23,
-      "aiScore": 56,
-      "firstHalf": "0 - 1",
-      "finalScore": "2 - 1",
-      "pro": true
     }
   ],
   "recentCoupons": [
@@ -257,6 +257,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Apia",
+      "away": "Adelaide City FC",
+      "prediction": "1st Half Over 1.5",
+      "odds": 1.73,
+      "at": "12.11.2026 08:30"
+    },
+    {
+      "type": "won",
       "home": "PSG Women",
       "away": "Bayern Munich",
       "prediction": "Under 3.5 Goals",
@@ -278,14 +286,6 @@
       "prediction": "Over 2.5 Goals",
       "odds": 1.38,
       "at": "10.11.2026 18:00"
-    },
-    {
-      "type": "won",
-      "home": "France (U19)",
-      "away": "Norway (U19)",
-      "prediction": "Match Result 1",
-      "odds": 1.31,
-      "at": "11.11.2026 17:00"
     },
     {
       "type": "updated",
@@ -313,7 +313,7 @@
     },
     {
       "type": "analysis",
-      "count": 815
+      "count": 820
     }
   ],
   "today": {
@@ -324,7 +324,7 @@
     "matchCode": "4579380",
     "odds": 1.17,
     "patternScore": 69.98,
-    "patternText": "253.650/362.460",
+    "patternText": "253.672/362.482",
     "aiScore": 76,
     "picks": 2
   },
@@ -337,7 +337,7 @@
       "matchCode": "4579380",
       "odds": 1.17,
       "patternScore": 69.98,
-      "patternText": "253.650/362.460",
+      "patternText": "253.672/362.482",
       "aiScore": 76,
       "picks": 2
     },
@@ -348,8 +348,8 @@
       "date": "12.11.2026 15:00",
       "matchCode": "4579388",
       "odds": 1.14,
-      "patternScore": 71.25,
-      "patternText": "169.352/237.676",
+      "patternScore": 71.26,
+      "patternText": "169.370/237.694",
       "aiScore": 88,
       "picks": 1
     },
@@ -360,8 +360,8 @@
       "date": "12.11.2026 17:00",
       "matchCode": "4445220",
       "odds": 1.18,
-      "patternScore": 69.55,
-      "patternText": "132.643/190.707",
+      "patternScore": 69.56,
+      "patternText": "132.657/190.721",
       "aiScore": 83,
       "picks": 2
     },
@@ -373,7 +373,7 @@
       "matchCode": "4560861",
       "odds": 1.12,
       "patternScore": 67.58,
-      "patternText": "144.908/214.423",
+      "patternText": "144.926/214.441",
       "aiScore": 93,
       "picks": 2
     },
@@ -384,8 +384,8 @@
       "date": "12.11.2026 19:45",
       "matchCode": "4445212",
       "odds": 1.07,
-      "patternScore": 69.11,
-      "patternText": "152.318/220.392",
+      "patternScore": 69.12,
+      "patternText": "152.356/220.430",
       "aiScore": 90,
       "picks": 1
     }
