@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 10:26",
+  "updatedAt": "12.11.2026 10:34",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 17,
-      "lost": 10,
-      "total": 27,
-      "rate": 63.0
+      "won": 15,
+      "lost": 9,
+      "total": 24,
+      "rate": 62.5
     },
     "totalAnalyses": 603634,
     "leagues": 359,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 819,
-    "analyses30d": 18383
+    "analyses24h": 815,
+    "analyses30d": 18382
   },
   "recentWins": [
     {
@@ -313,34 +313,22 @@
     },
     {
       "type": "analysis",
-      "count": 819
+      "count": 815
     }
   ],
   "today": {
-    "home": "Uzbekistan",
-    "away": "Russia",
-    "league": "HAZ",
-    "date": "12.11.2026 15:00",
-    "matchCode": "4579388",
-    "odds": 1.24,
-    "patternScore": 69.49,
-    "patternText": "213.497/307.213",
-    "aiScore": 64,
-    "picks": 1
+    "home": "Madagascar",
+    "away": "Guinea Bissau",
+    "league": "AFUK",
+    "date": "12.11.2026 16:00",
+    "matchCode": "4579380",
+    "odds": 1.17,
+    "patternScore": 69.98,
+    "patternText": "253.650/362.460",
+    "aiScore": 76,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Uzbekistan",
-      "away": "Russia",
-      "league": "HAZ",
-      "date": "12.11.2026 15:00",
-      "matchCode": "4579388",
-      "odds": 1.24,
-      "patternScore": 69.49,
-      "patternText": "213.497/307.213",
-      "aiScore": 64,
-      "picks": 1
-    },
     {
       "home": "Madagascar",
       "away": "Guinea Bissau",
@@ -352,6 +340,18 @@
       "patternText": "253.650/362.460",
       "aiScore": 76,
       "picks": 2
+    },
+    {
+      "home": "Uzbekistan",
+      "away": "Russia",
+      "league": "HAZ",
+      "date": "12.11.2026 15:00",
+      "matchCode": "4579388",
+      "odds": 1.14,
+      "patternScore": 71.25,
+      "patternText": "169.352/237.676",
+      "aiScore": 88,
+      "picks": 1
     },
     {
       "home": "Armenia",
