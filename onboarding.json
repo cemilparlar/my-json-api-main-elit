@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 10:19",
+  "updatedAt": "12.11.2026 10:26",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 27,
       "rate": 63.0
     },
-    "totalAnalyses": 603512,
+    "totalAnalyses": 603634,
     "leagues": 359,
     "pro": {
       "won": 1166,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 818,
-    "analyses30d": 18382
+    "analyses24h": 819,
+    "analyses30d": 18383
   },
   "recentWins": [
     {
@@ -306,8 +306,14 @@
       "away": "Eritrea"
     },
     {
+      "type": "updated",
+      "at": "12.11.2026 10:26",
+      "home": "Uzbekistan",
+      "away": "Russia"
+    },
+    {
       "type": "analysis",
-      "count": 818
+      "count": 819
     }
   ],
   "today": {
