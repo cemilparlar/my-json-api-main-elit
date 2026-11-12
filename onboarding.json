@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 07:51",
+  "updatedAt": "12.11.2026 08:00",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 38,
       "rate": 65.8
     },
-    "totalAnalyses": 601614,
+    "totalAnalyses": 601869,
     "leagues": 359,
     "pro": {
       "won": 1168,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 366,
-    "analyses30d": 17951
+    "analyses24h": 457,
+    "analyses30d": 18030
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 1.49,
       "probability": 78.57,
       "patternScore": 68.1,
-      "aiScore": 56,
+      "aiScore": 55,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
       "pro": true
@@ -74,7 +74,7 @@
       "odds": 1.41,
       "probability": 71.43,
       "patternScore": 67.01,
-      "aiScore": 57,
+      "aiScore": 56,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
       "pro": true
@@ -88,7 +88,7 @@
       "odds": 1.38,
       "probability": 85.71,
       "patternScore": 66.57,
-      "aiScore": 56,
+      "aiScore": 55,
       "firstHalf": "0 - 2",
       "finalScore": "0 - 3",
       "pro": true
@@ -102,7 +102,7 @@
       "odds": 1.31,
       "probability": 70.27,
       "patternScore": 68.05,
-      "aiScore": 60,
+      "aiScore": 57,
       "firstHalf": "3 - 0",
       "finalScore": "6 - 0",
       "pro": false
@@ -116,7 +116,7 @@
       "odds": 1.28,
       "probability": 74.77,
       "patternScore": 68.23,
-      "aiScore": 62,
+      "aiScore": 59,
       "firstHalf": "0 - 1",
       "finalScore": "2 - 1",
       "pro": true
@@ -307,34 +307,22 @@
     },
     {
       "type": "analysis",
-      "count": 366
+      "count": 457
     }
   ],
   "today": {
-    "home": "Apia",
-    "away": "Adelaide City FC",
-    "league": "AVC",
-    "date": "12.11.2026 08:30",
-    "matchCode": "4573644",
-    "odds": 1.14,
-    "patternScore": 68.64,
-    "patternText": "183.745/267.680",
-    "aiScore": 84,
-    "picks": 2
+    "home": "Uzbekistan",
+    "away": "Russia",
+    "league": "HAZ",
+    "date": "12.11.2026 15:00",
+    "matchCode": "4579388",
+    "odds": 1.24,
+    "patternScore": 69.49,
+    "patternText": "213.479/307.195",
+    "aiScore": 65,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Apia",
-      "away": "Adelaide City FC",
-      "league": "AVC",
-      "date": "12.11.2026 08:30",
-      "matchCode": "4573644",
-      "odds": 1.14,
-      "patternScore": 68.64,
-      "patternText": "183.745/267.680",
-      "aiScore": 84,
-      "picks": 2
-    },
     {
       "home": "Uzbekistan",
       "away": "Russia",
@@ -343,8 +331,8 @@
       "matchCode": "4579388",
       "odds": 1.24,
       "patternScore": 69.49,
-      "patternText": "213.477/307.191",
-      "aiScore": 69,
+      "patternText": "213.479/307.195",
+      "aiScore": 65,
       "picks": 1
     },
     {
@@ -356,7 +344,7 @@
       "odds": 1.18,
       "patternScore": 69.55,
       "patternText": "132.641/190.705",
-      "aiScore": 85,
+      "aiScore": 80,
       "picks": 2
     },
     {
@@ -368,7 +356,7 @@
       "odds": 1.12,
       "patternScore": 67.58,
       "patternText": "144.906/214.421",
-      "aiScore": 94,
+      "aiScore": 90,
       "picks": 2
     },
     {
@@ -379,12 +367,31 @@
       "matchCode": "4561286",
       "odds": 1.12,
       "patternScore": 70.24,
-      "patternText": "264.786/376.990",
-      "aiScore": 85,
+      "patternText": "264.792/376.998",
+      "aiScore": 80,
+      "picks": 1
+    },
+    {
+      "home": "Madagascar",
+      "away": "Guinea Bissau",
+      "league": "AFUK",
+      "date": "12.11.2026 16:00",
+      "matchCode": "4579380",
+      "odds": 1.08,
+      "patternScore": 69.2,
+      "patternText": "199.634/288.480",
+      "aiScore": 87,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Real Valladolid",
+      "away": "Castellon",
+      "league": "İS2",
+      "at": "12.11.2026 07:53",
+      "count": 5
+    },
     {
       "home": "CD Leganes",
       "away": "Burgos CF",
@@ -447,13 +454,6 @@
       "league": "AVUL",
       "at": "09.11.2026 06:32",
       "count": 2
-    },
-    {
-      "home": "Northern Ireland",
-      "away": "Ukraine",
-      "league": "AVUL",
-      "at": "09.11.2026 06:32",
-      "count": 8
     }
   ],
   "paywall": {
