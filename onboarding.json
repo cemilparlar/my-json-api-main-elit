@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 22:26",
+  "updatedAt": "12.11.2026 22:34",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 117,
       "rate": 65.0
     },
-    "totalAnalyses": 606512,
+    "totalAnalyses": 606524,
     "leagues": 360,
     "pro": {
       "won": 1169,
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1107,
-    "analyses30d": 18218
+    "analyses24h": 1111,
+    "analyses30d": 18206
   },
   "recentWins": [
     {
@@ -307,6 +307,12 @@
     },
     {
       "type": "updated",
+      "at": "12.11.2026 22:29",
+      "home": "Estudiantes de La Plata",
+      "away": "Rivadavia"
+    },
+    {
+      "type": "updated",
       "at": "12.11.2026 19:34",
       "home": "Club Deportivo Aguila",
       "away": "Municipal Limen"
@@ -328,12 +334,6 @@
       "at": "12.11.2026 16:59",
       "home": "Benin",
       "away": "Central African Republic"
-    },
-    {
-      "type": "updated",
-      "at": "12.11.2026 21:30",
-      "home": "Sao Bernardo",
-      "away": "Athletic Bilbao"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4514006",
     "odds": 1.64,
     "patternScore": 67.93,
-    "patternText": "189.971/279.644",
+    "patternText": "189.973/279.646",
     "aiScore": 52,
     "picks": 4
   },
@@ -357,21 +357,9 @@
       "matchCode": "4514006",
       "odds": 1.64,
       "patternScore": 67.93,
-      "patternText": "189.971/279.644",
+      "patternText": "189.973/279.646",
       "aiScore": 52,
       "picks": 4
-    },
-    {
-      "home": "Sao Bernardo",
-      "away": "Athletic Bilbao",
-      "league": "BR2",
-      "date": "12.11.2026 23:00",
-      "matchCode": "4454058",
-      "odds": 1.11,
-      "patternScore": 69.2,
-      "patternText": "214.061/309.341",
-      "aiScore": 85,
-      "picks": 1
     },
     {
       "home": "Peru",
@@ -381,7 +369,7 @@
       "matchCode": "4579413",
       "odds": 1.07,
       "patternScore": 70.62,
-      "patternText": "270.030/382.377",
+      "patternText": "270.034/382.381",
       "aiScore": 95,
       "picks": 1
     },
@@ -393,7 +381,7 @@
       "matchCode": "4573668",
       "odds": 1.28,
       "patternScore": 69.2,
-      "patternText": "208.459/301.245",
+      "patternText": "208.461/301.247",
       "aiScore": 64,
       "picks": 1
     },
@@ -405,9 +393,21 @@
       "matchCode": "4573656",
       "odds": 1.07,
       "patternScore": 70.61,
-      "patternText": "257.296/364.396",
+      "patternText": "257.300/364.400",
       "aiScore": 94,
       "picks": 1
+    },
+    {
+      "home": "Tunisia",
+      "away": "Libya",
+      "league": "AFUK",
+      "date": "13.11.2026 16:00",
+      "matchCode": "4579348",
+      "odds": 1.64,
+      "patternScore": 66.81,
+      "patternText": "153.332/229.514",
+      "aiScore": 53,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
@@ -415,14 +415,14 @@
       "home": "Curacao",
       "away": "Panama",
       "league": "CON",
-      "at": "12.11.2026 21:47",
-      "count": 5
+      "at": "12.11.2026 22:30",
+      "count": 4
     },
     {
       "home": "Estudiantes de La Plata",
       "away": "Rivadavia",
       "league": "ARJSK",
-      "at": "12.11.2026 21:13",
+      "at": "12.11.2026 22:29",
       "count": 16
     },
     {
