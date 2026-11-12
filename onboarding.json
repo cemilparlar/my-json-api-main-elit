@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 21:04",
+  "updatedAt": "12.11.2026 21:11",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 72,
       "rate": 77.8
     },
-    "totalAnalyses": 606465,
+    "totalAnalyses": 606467,
     "leagues": 359,
     "pro": {
       "won": 1138,
@@ -51,6 +51,20 @@
     "analyses30d": 18208
   },
   "recentWins": [
+    {
+      "home": "Cameroon",
+      "away": "Namibia",
+      "league": "AFUK",
+      "date": "12.11.2026 19:00",
+      "prediction": "Handicap (0:2) X",
+      "odds": 3.13,
+      "probability": 100.0,
+      "patternScore": 55.81,
+      "aiScore": 51,
+      "firstHalf": "2 - 0",
+      "finalScore": "2 - 0",
+      "pro": false
+    },
     {
       "home": "Apia",
       "away": "Adelaide City FC",
@@ -105,20 +119,6 @@
       "aiScore": 57,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
-      "pro": true
-    },
-    {
-      "home": "Armenia",
-      "away": "Cyprus",
-      "league": "AVUL",
-      "date": "12.11.2026 17:00",
-      "prediction": "1st Half Over 0.5",
-      "odds": 1.34,
-      "probability": 71.43,
-      "patternScore": 67.63,
-      "aiScore": 59,
-      "firstHalf": "0 - 1",
-      "finalScore": "1 - 1",
       "pro": true
     }
   ],
@@ -257,6 +257,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Cameroon",
+      "away": "Namibia",
+      "prediction": "Handicap (0:2) X",
+      "odds": 3.13,
+      "at": "12.11.2026 19:00"
+    },
+    {
+      "type": "won",
       "home": "Apia",
       "away": "Adelaide City FC",
       "prediction": "1st Half Over 1.5",
@@ -278,20 +286,6 @@
       "prediction": "Under 3.5 Goals",
       "odds": 1.49,
       "at": "10.11.2026 20:00"
-    },
-    {
-      "type": "won",
-      "home": "Nove Zamky",
-      "away": "Zemplin",
-      "prediction": "1st Half Under 1.5",
-      "odds": 1.41,
-      "at": "11.11.2026 12:00"
-    },
-    {
-      "type": "updated",
-      "at": "12.11.2026 15:07",
-      "home": "Turkiye",
-      "away": "Belgium"
     },
     {
       "type": "updated",
@@ -319,12 +313,6 @@
     },
     {
       "type": "updated",
-      "at": "12.11.2026 15:07",
-      "home": "Barcelona Women",
-      "away": "Arsenal Women"
-    },
-    {
-      "type": "updated",
       "at": "12.11.2026 19:11",
       "home": "Albania",
       "away": "Finland"
@@ -334,6 +322,18 @@
       "at": "12.11.2026 19:34",
       "home": "Club Deportivo Aguila",
       "away": "Municipal Limen"
+    },
+    {
+      "type": "updated",
+      "at": "12.11.2026 19:34",
+      "home": "Llaneros",
+      "away": "Chico"
+    },
+    {
+      "type": "updated",
+      "at": "12.11.2026 18:10",
+      "home": "Cameroon",
+      "away": "Namibia"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4514006",
     "odds": 1.4,
     "patternScore": 67.59,
-    "patternText": "120.662/178.528",
+    "patternText": "120.664/178.532",
     "aiScore": 60,
     "picks": 2
   },
@@ -357,7 +357,7 @@
       "matchCode": "4514006",
       "odds": 1.4,
       "patternScore": 67.59,
-      "patternText": "120.662/178.528",
+      "patternText": "120.664/178.532",
       "aiScore": 60,
       "picks": 2
     },
@@ -369,7 +369,7 @@
       "matchCode": "4454058",
       "odds": 1.11,
       "patternScore": 69.2,
-      "patternText": "213.189/308.091",
+      "patternText": "213.201/308.109",
       "aiScore": 88,
       "picks": 1
     },
@@ -381,7 +381,7 @@
       "matchCode": "4579413",
       "odds": 1.07,
       "patternScore": 70.62,
-      "patternText": "269.982/382.293",
+      "patternText": "269.998/382.315",
       "aiScore": 95,
       "picks": 1
     },
@@ -393,7 +393,7 @@
       "matchCode": "4454057",
       "odds": 1.07,
       "patternScore": 71.93,
-      "patternText": "175.750/244.349",
+      "patternText": "175.756/244.357",
       "aiScore": 96,
       "picks": 2
     },
@@ -405,7 +405,7 @@
       "matchCode": "4573668",
       "odds": 1.28,
       "patternScore": 69.2,
-      "patternText": "208.435/301.199",
+      "patternText": "208.443/301.209",
       "aiScore": 67,
       "picks": 1
     }
