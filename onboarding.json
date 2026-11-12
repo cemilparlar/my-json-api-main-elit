@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 21:41",
+  "updatedAt": "12.11.2026 21:48",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 55,
-      "lost": 16,
-      "total": 71,
-      "rate": 77.5
+      "won": 79,
+      "lost": 41,
+      "total": 120,
+      "rate": 65.8
     },
-    "totalAnalyses": 606498,
+    "totalAnalyses": 606499,
     "leagues": 360,
     "pro": {
-      "won": 1138,
-      "lost": 485,
-      "total": 1623,
-      "rate": 70.1
+      "won": 1162,
+      "lost": 510,
+      "total": 1672,
+      "rate": 69.5
     },
     "insights": {
-      "won": 1909,
-      "lost": 790,
-      "total": 2699,
-      "rate": 70.7
+      "won": 1933,
+      "lost": 815,
+      "total": 2748,
+      "rate": 70.3
     },
     "coupons": {
       "won": 50,
@@ -47,8 +47,8 @@
       "total": 111,
       "rate": 45.0
     },
-    "analyses24h": 1106,
-    "analyses30d": 18220
+    "analyses24h": 1108,
+    "analyses30d": 18222
   },
   "recentWins": [
     {
@@ -325,7 +325,7 @@
     },
     {
       "type": "updated",
-      "at": "12.11.2026 21:13",
+      "at": "12.11.2026 21:47",
       "home": "Llaneros",
       "away": "Chico"
     },
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Curacao",
+      "away": "Panama",
+      "league": "CON",
+      "at": "12.11.2026 21:47",
+      "count": 5
+    },
+    {
       "home": "Estudiantes de La Plata",
       "away": "Rivadavia",
       "league": "ARJSK",
@@ -431,13 +438,6 @@
       "league": "AVUL",
       "at": "12.11.2026 18:54",
       "count": 7
-    },
-    {
-      "home": "Curacao",
-      "away": "Panama",
-      "league": "CON",
-      "at": "12.11.2026 18:10",
-      "count": 4
     },
     {
       "home": "England",
