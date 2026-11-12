@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 11:57",
+  "updatedAt": "12.11.2026 12:04",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 20,
-      "lost": 9,
-      "total": 29,
-      "rate": 69.0
+      "won": 18,
+      "lost": 7,
+      "total": 25,
+      "rate": 72.0
     },
-    "totalAnalyses": 604072,
+    "totalAnalyses": 604088,
     "leagues": 358,
     "pro": {
       "won": 1170,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 824,
-    "analyses30d": 18377
+    "analyses24h": 818,
+    "analyses30d": 18358
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 1.49,
       "probability": 78.57,
       "patternScore": 68.1,
-      "aiScore": 53,
+      "aiScore": 52,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
       "pro": true
@@ -301,6 +301,12 @@
     },
     {
       "type": "updated",
+      "at": "12.11.2026 11:57",
+      "home": "Iceland (U21)",
+      "away": "Greece (U21"
+    },
+    {
+      "type": "updated",
       "at": "12.11.2026 07:22",
       "home": "Apia",
       "away": "Adelaide City FC"
@@ -324,8 +330,10 @@
       "away": "Russia"
     },
     {
-      "type": "analysis",
-      "count": 824
+      "type": "kickoff",
+      "home": "Iceland (U21)",
+      "away": "Greece (U21",
+      "at": "12.11.2026 13:00"
     }
   ],
   "today": {
@@ -374,7 +382,7 @@
       "odds": 1.17,
       "patternScore": 69.58,
       "patternText": "143.011/205.529",
-      "aiScore": 81,
+      "aiScore": 82,
       "picks": 2
     },
     {
