@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 10:56",
+  "updatedAt": "12.11.2026 11:05",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 29,
       "rate": 69.0
     },
-    "totalAnalyses": 603785,
+    "totalAnalyses": 603894,
     "leagues": 359,
     "pro": {
       "won": 1168,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 820,
-    "analyses30d": 18387
+    "analyses24h": 818,
+    "analyses30d": 18385
   },
   "recentWins": [
     {
@@ -289,6 +289,18 @@
     },
     {
       "type": "updated",
+      "at": "12.11.2026 11:03",
+      "home": "Turkiye",
+      "away": "Belgium"
+    },
+    {
+      "type": "updated",
+      "at": "12.11.2026 11:03",
+      "home": "Armenia",
+      "away": "Cyprus"
+    },
+    {
+      "type": "updated",
       "at": "12.11.2026 07:22",
       "home": "Apia",
       "away": "Adelaide City FC"
@@ -301,7 +313,7 @@
     },
     {
       "type": "updated",
-      "at": "12.11.2026 10:06",
+      "at": "12.11.2026 11:02",
       "home": "Guinea",
       "away": "Eritrea"
     },
@@ -313,22 +325,34 @@
     },
     {
       "type": "analysis",
-      "count": 820
+      "count": 818
     }
   ],
   "today": {
-    "home": "Madagascar",
-    "away": "Guinea Bissau",
-    "league": "AFUK",
-    "date": "12.11.2026 16:00",
-    "matchCode": "4579380",
-    "odds": 1.17,
-    "patternScore": 69.98,
-    "patternText": "253.672/362.482",
-    "aiScore": 76,
+    "home": "Armenia",
+    "away": "Cyprus",
+    "league": "AVUL",
+    "date": "12.11.2026 17:00",
+    "matchCode": "4445220",
+    "odds": 1.18,
+    "patternScore": 69.56,
+    "patternText": "132.657/190.721",
+    "aiScore": 83,
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "Armenia",
+      "away": "Cyprus",
+      "league": "AVUL",
+      "date": "12.11.2026 17:00",
+      "matchCode": "4445220",
+      "odds": 1.18,
+      "patternScore": 69.56,
+      "patternText": "132.657/190.721",
+      "aiScore": 83,
+      "picks": 2
+    },
     {
       "home": "Madagascar",
       "away": "Guinea Bissau",
@@ -352,18 +376,6 @@
       "patternText": "169.370/237.694",
       "aiScore": 88,
       "picks": 1
-    },
-    {
-      "home": "Armenia",
-      "away": "Cyprus",
-      "league": "AVUL",
-      "date": "12.11.2026 17:00",
-      "matchCode": "4445220",
-      "odds": 1.18,
-      "patternScore": 69.56,
-      "patternText": "132.657/190.721",
-      "aiScore": 83,
-      "picks": 2
     },
     {
       "home": "Barcelona Women",
@@ -391,6 +403,20 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Turkiye",
+      "away": "Belgium",
+      "league": "AVUL",
+      "at": "12.11.2026 11:03",
+      "count": 5
+    },
+    {
+      "home": "Armenia",
+      "away": "Cyprus",
+      "league": "AVUL",
+      "at": "12.11.2026 11:03",
+      "count": 5
+    },
     {
       "home": "Switzerland",
       "away": "Scotland",
@@ -446,20 +472,6 @@
       "league": "İS2",
       "at": "12.11.2026 08:54",
       "count": 8
-    },
-    {
-      "home": "CD Tenerife",
-      "away": "AD Ceuta",
-      "league": "İS2",
-      "at": "12.11.2026 08:50",
-      "count": 1
-    },
-    {
-      "home": "Real Oviedo",
-      "away": "Girona FC",
-      "league": "İS2",
-      "at": "12.11.2026 08:43",
-      "count": 3
     }
   ],
   "paywall": {
