@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 13:19",
+  "updatedAt": "12.11.2026 13:27",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 25,
       "rate": 72.0
     },
-    "totalAnalyses": 604730,
+    "totalAnalyses": 604879,
     "leagues": 358,
     "pro": {
       "won": 1163,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 836,
-    "analyses30d": 18370
+    "analyses24h": 873,
+    "analyses30d": 18407
   },
   "recentWins": [
     {
@@ -313,12 +313,6 @@
     },
     {
       "type": "updated",
-      "at": "12.11.2026 07:22",
-      "home": "Apia",
-      "away": "Adelaide City FC"
-    },
-    {
-      "type": "updated",
       "at": "12.11.2026 10:07",
       "home": "Madagascar",
       "away": "Guinea Bissau"
@@ -334,6 +328,12 @@
       "at": "12.11.2026 12:32",
       "home": "Uzbekistan",
       "away": "Russia"
+    },
+    {
+      "type": "kickoff",
+      "home": "Uzbekistan",
+      "away": "Russia",
+      "at": "12.11.2026 15:00"
     }
   ],
   "today": {
@@ -370,7 +370,7 @@
       "odds": 1.34,
       "patternScore": 67.84,
       "patternText": "130.706/192.660",
-      "aiScore": 56,
+      "aiScore": 55,
       "picks": 1
     },
     {
@@ -382,7 +382,7 @@
       "odds": 1.27,
       "patternScore": 69.1,
       "patternText": "210.587/304.757",
-      "aiScore": 72,
+      "aiScore": 71,
       "picks": 2
     },
     {
@@ -403,14 +403,28 @@
       "league": "AVUL",
       "date": "12.11.2026 17:00",
       "matchCode": "4445220",
-      "odds": 1.17,
-      "patternScore": 69.58,
-      "patternText": "143.011/205.529",
-      "aiScore": 82,
-      "picks": 2
+      "odds": 1.16,
+      "patternScore": 66.62,
+      "patternText": "156.521/234.957",
+      "aiScore": 76,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Chapecoense AF",
+      "away": "Club de Regatas Vasco da Gama",
+      "league": "BR1",
+      "at": "12.11.2026 13:22",
+      "count": 7
+    },
+    {
+      "home": "Mirassol FC",
+      "away": "Atletico Mineiro",
+      "league": "BR1",
+      "at": "12.11.2026 13:21",
+      "count": 7
+    },
     {
       "home": "Armenia",
       "away": "Cyprus",
@@ -466,20 +480,6 @@
       "league": "İS2",
       "at": "12.11.2026 09:09",
       "count": 3
-    },
-    {
-      "home": "CD Eldense",
-      "away": "CE Sabadell",
-      "league": "İS2",
-      "at": "12.11.2026 09:09",
-      "count": 5
-    },
-    {
-      "home": "Granada CF",
-      "away": "UD Las Palmas",
-      "league": "İS2",
-      "at": "12.11.2026 08:54",
-      "count": 8
     }
   ],
   "paywall": {
