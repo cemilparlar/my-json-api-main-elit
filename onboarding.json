@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 13:50",
+  "updatedAt": "12.11.2026 13:58",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 25,
       "rate": 72.0
     },
-    "totalAnalyses": 605139,
-    "leagues": 358,
+    "totalAnalyses": 605197,
+    "leagues": 359,
     "pro": {
       "won": 1163,
       "lost": 504,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 911,
-    "analyses30d": 18445
+    "analyses24h": 944,
+    "analyses30d": 18478
   },
   "recentWins": [
     {
@@ -289,6 +289,12 @@
     },
     {
       "type": "updated",
+      "at": "12.11.2026 13:51",
+      "home": "Calvo Sotelo",
+      "away": "Albacete Balompie"
+    },
+    {
+      "type": "updated",
       "at": "12.11.2026 11:03",
       "home": "Turkiye",
       "away": "Belgium"
@@ -301,9 +307,21 @@
     },
     {
       "type": "updated",
+      "at": "12.11.2026 13:52",
+      "home": "Italy",
+      "away": "France"
+    },
+    {
+      "type": "updated",
       "at": "12.11.2026 13:33",
       "home": "Barcelona Women",
       "away": "Arsenal Women"
+    },
+    {
+      "type": "updated",
+      "at": "12.11.2026 13:56",
+      "home": "Albania",
+      "away": "Finland"
     },
     {
       "type": "updated",
@@ -316,24 +334,6 @@
       "at": "12.11.2026 13:32",
       "home": "Equatorial Guinea",
       "away": "Zimbabwe"
-    },
-    {
-      "type": "updated",
-      "at": "12.11.2026 10:07",
-      "home": "Madagascar",
-      "away": "Guinea Bissau"
-    },
-    {
-      "type": "updated",
-      "at": "12.11.2026 12:32",
-      "home": "Guinea",
-      "away": "Eritrea"
-    },
-    {
-      "type": "updated",
-      "at": "12.11.2026 12:32",
-      "home": "Uzbekistan",
-      "away": "Russia"
     }
   ],
   "today": {
@@ -412,6 +412,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Curacao",
+      "away": "Panama",
+      "league": "CON",
+      "at": "12.11.2026 13:56",
+      "count": 3
+    },
+    {
+      "home": "Albania",
+      "away": "Finland",
+      "league": "AVUL",
+      "at": "12.11.2026 13:56",
+      "count": 16
+    },
+    {
+      "home": "Italy",
+      "away": "France",
+      "league": "AVUL",
+      "at": "12.11.2026 13:52",
+      "count": 6
+    },
+    {
       "home": "Chapecoense AF",
       "away": "Club de Regatas Vasco da Gama",
       "league": "BR1",
@@ -459,27 +480,6 @@
       "league": "AVUL",
       "at": "12.11.2026 09:11",
       "count": 13
-    },
-    {
-      "home": "Spain",
-      "away": "England",
-      "league": "AVUL",
-      "at": "12.11.2026 09:11",
-      "count": 6
-    },
-    {
-      "home": "Belgium",
-      "away": "Italy",
-      "league": "AVUL",
-      "at": "12.11.2026 09:10",
-      "count": 10
-    },
-    {
-      "home": "Eibar",
-      "away": "Cadiz CF",
-      "league": "İS2",
-      "at": "12.11.2026 09:09",
-      "count": 3
     }
   ],
   "paywall": {
