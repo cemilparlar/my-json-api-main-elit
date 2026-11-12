@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 16:03",
+  "updatedAt": "12.11.2026 16:11",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 24,
       "rate": 75.0
     },
-    "totalAnalyses": 605974,
+    "totalAnalyses": 606039,
     "leagues": 359,
     "pro": {
       "won": 1167,
@@ -37,8 +37,8 @@
     },
     "insights": {
       "won": 1960,
-      "lost": 824,
-      "total": 2784,
+      "lost": 825,
+      "total": 2785,
       "rate": 70.4
     },
     "coupons": {
@@ -47,10 +47,38 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 1091,
-    "analyses30d": 18477
+    "analyses24h": 1090,
+    "analyses30d": 18476
   },
   "recentWins": [
+    {
+      "home": "Stevenage",
+      "away": "Fulham U21",
+      "league": "İNTK",
+      "date": "10.11.2026 19:00",
+      "prediction": "Handicap (0:1) X",
+      "odds": 3.72,
+      "probability": 100.0,
+      "patternScore": 56.07,
+      "aiScore": 50,
+      "firstHalf": "0 - 0",
+      "finalScore": "4 - 3",
+      "pro": false
+    },
+    {
+      "home": "Huddersfield Town",
+      "away": "Liverpool U21",
+      "league": "İNTK",
+      "date": "10.11.2026 19:00",
+      "prediction": "1st Half Result X",
+      "odds": 2.91,
+      "probability": 100.0,
+      "patternScore": 55.97,
+      "aiScore": 50,
+      "firstHalf": "0 - 0",
+      "finalScore": "4 - 0",
+      "pro": false
+    },
     {
       "home": "Apia",
       "away": "Adelaide City FC",
@@ -92,34 +120,6 @@
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
       "pro": true
-    },
-    {
-      "home": "Pamplona",
-      "away": "Eibar",
-      "league": "İSPK",
-      "date": "10.11.2026 18:00",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.38,
-      "probability": 85.71,
-      "patternScore": 66.57,
-      "aiScore": 53,
-      "firstHalf": "0 - 2",
-      "finalScore": "0 - 3",
-      "pro": true
-    },
-    {
-      "home": "France (U19)",
-      "away": "Norway (U19)",
-      "league": "AVŞU19",
-      "date": "11.11.2026 17:00",
-      "prediction": "Match Result 1",
-      "odds": 1.31,
-      "probability": 70.27,
-      "patternScore": 68.05,
-      "aiScore": 55,
-      "firstHalf": "3 - 0",
-      "finalScore": "6 - 0",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -257,6 +257,22 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Stevenage",
+      "away": "Fulham U21",
+      "prediction": "Handicap (0:1) X",
+      "odds": 3.72,
+      "at": "10.11.2026 19:00"
+    },
+    {
+      "type": "won",
+      "home": "Huddersfield Town",
+      "away": "Liverpool U21",
+      "prediction": "1st Half Result X",
+      "odds": 2.91,
+      "at": "10.11.2026 19:00"
+    },
+    {
+      "type": "won",
       "home": "Apia",
       "away": "Adelaide City FC",
       "prediction": "1st Half Over 1.5",
@@ -270,22 +286,6 @@
       "prediction": "Under 3.5 Goals",
       "odds": 1.49,
       "at": "10.11.2026 20:00"
-    },
-    {
-      "type": "won",
-      "home": "Nove Zamky",
-      "away": "Zemplin",
-      "prediction": "1st Half Under 1.5",
-      "odds": 1.41,
-      "at": "11.11.2026 12:00"
-    },
-    {
-      "type": "won",
-      "home": "Pamplona",
-      "away": "Eibar",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.38,
-      "at": "10.11.2026 18:00"
     },
     {
       "type": "updated",
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Ponte Preta",
-    "away": "Operario",
-    "league": "BR2",
-    "date": "12.11.2026 22:00",
-    "matchCode": "4454057",
-    "odds": 1.3,
-    "patternScore": 68.18,
-    "patternText": "207.036/303.668",
-    "aiScore": 57,
+    "home": "Armenia",
+    "away": "Cyprus",
+    "league": "AVUL",
+    "date": "12.11.2026 17:00",
+    "matchCode": "4445220",
+    "odds": 1.34,
+    "patternScore": 67.63,
+    "patternText": "218.401/322.947",
+    "aiScore": 56,
     "picks": 4
   },
   "todayList": [
+    {
+      "home": "Armenia",
+      "away": "Cyprus",
+      "league": "AVUL",
+      "date": "12.11.2026 17:00",
+      "matchCode": "4445220",
+      "odds": 1.34,
+      "patternScore": 67.63,
+      "patternText": "218.401/322.947",
+      "aiScore": 56,
+      "picks": 4
+    },
     {
       "home": "Ponte Preta",
       "away": "Operario",
@@ -357,21 +369,9 @@
       "matchCode": "4454057",
       "odds": 1.3,
       "patternScore": 68.18,
-      "patternText": "207.036/303.668",
+      "patternText": "207.042/303.674",
       "aiScore": 57,
       "picks": 4
-    },
-    {
-      "home": "Armenia",
-      "away": "Cyprus",
-      "league": "AVUL",
-      "date": "12.11.2026 17:00",
-      "matchCode": "4445220",
-      "odds": 1.21,
-      "patternScore": 69.14,
-      "patternText": "275.499/398.441",
-      "aiScore": 73,
-      "picks": 1
     },
     {
       "home": "Barcelona Women",
@@ -382,8 +382,20 @@
       "odds": 1.17,
       "patternScore": 67.04,
       "patternText": "137.692/205.373",
-      "aiScore": 77,
+      "aiScore": 76,
       "picks": 2
+    },
+    {
+      "home": "England (U20",
+      "away": "Czech Republic",
+      "league": "U20EL",
+      "date": "12.11.2026 19:30",
+      "matchCode": "4566554",
+      "odds": 1.15,
+      "patternScore": 68.7,
+      "patternText": "129.480/188.462",
+      "aiScore": 85,
+      "picks": 1
     },
     {
       "home": "Barbados",
@@ -392,21 +404,9 @@
       "date": "12.11.2026 19:00",
       "matchCode": "4579428",
       "odds": 1.12,
-      "patternScore": 70.02,
-      "patternText": "256.557/366.398",
+      "patternScore": 70.03,
+      "patternText": "256.605/366.446",
       "aiScore": 91,
-      "picks": 1
-    },
-    {
-      "home": "Benin",
-      "away": "Central African Republic",
-      "league": "AFUK",
-      "date": "12.11.2026 19:00",
-      "matchCode": "4579324",
-      "odds": 1.07,
-      "patternScore": 69.62,
-      "patternText": "144.470/207.522",
-      "aiScore": 97,
       "picks": 1
     }
   ],
