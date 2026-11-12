@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 17:58",
+  "updatedAt": "12.11.2026 18:05",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 22,
+      "won": 20,
       "lost": 7,
-      "total": 29,
-      "rate": 75.9
+      "total": 27,
+      "rate": 74.1
     },
-    "totalAnalyses": 606269,
+    "totalAnalyses": 606272,
     "leagues": 359,
     "pro": {
-      "won": 1153,
+      "won": 1154,
       "lost": 491,
-      "total": 1644,
-      "rate": 70.1
+      "total": 1645,
+      "rate": 70.2
     },
     "insights": {
-      "won": 1936,
+      "won": 1939,
       "lost": 804,
-      "total": 2740,
+      "total": 2743,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 1091,
-    "analyses30d": 18381
+    "analyses24h": 1088,
+    "analyses30d": 18326
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4566554",
     "odds": 1.15,
     "patternScore": 68.7,
-    "patternText": "129.546/188.568",
+    "patternText": "129.552/188.586",
     "aiScore": 85,
     "picks": 1
   },
@@ -357,7 +357,7 @@
       "matchCode": "4566554",
       "odds": 1.15,
       "patternScore": 68.7,
-      "patternText": "129.546/188.568",
+      "patternText": "129.552/188.586",
       "aiScore": 85,
       "picks": 1
     },
@@ -369,8 +369,20 @@
       "matchCode": "4454058",
       "odds": 1.11,
       "patternScore": 66.07,
-      "patternText": "274.315/415.206",
+      "patternText": "274.325/415.228",
       "aiScore": 84,
+      "picks": 1
+    },
+    {
+      "home": "Peru",
+      "away": "Bolivia",
+      "league": "HAZ",
+      "date": "13.11.2026 00:00",
+      "matchCode": "4579413",
+      "odds": 1.07,
+      "patternScore": 70.62,
+      "patternText": "269.928/382.211",
+      "aiScore": 95,
       "picks": 1
     },
     {
@@ -386,18 +398,6 @@
       "picks": 2
     },
     {
-      "home": "Peru",
-      "away": "Bolivia",
-      "league": "HAZ",
-      "date": "13.11.2026 00:00",
-      "matchCode": "4579413",
-      "odds": 1.07,
-      "patternScore": 70.62,
-      "patternText": "269.924/382.207",
-      "aiScore": 95,
-      "picks": 1
-    },
-    {
       "home": "Preston Lions",
       "away": "Queensland Lions",
       "league": "AVC",
@@ -405,7 +405,7 @@
       "matchCode": "4573668",
       "odds": 1.28,
       "patternScore": 69.2,
-      "patternText": "208.389/301.147",
+      "patternText": "208.397/301.155",
       "aiScore": 64,
       "picks": 1
     }
