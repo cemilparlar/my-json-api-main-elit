@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 23:22",
+  "updatedAt": "12.11.2026 23:30",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 606527,
     "leagues": 360,
     "pro": {
-      "won": 1169,
+      "won": 1171,
       "lost": 513,
-      "total": 1682,
+      "total": 1684,
       "rate": 69.5
     },
     "insights": {
-      "won": 1940,
+      "won": 1944,
       "lost": 820,
-      "total": 2760,
+      "total": 2764,
       "rate": 70.3
     },
     "coupons": {
@@ -337,42 +337,18 @@
     }
   ],
   "today": {
-    "home": "Curacao",
-    "away": "Panama",
-    "league": "CON",
-    "date": "13.11.2026 00:00",
-    "matchCode": "4579448",
-    "odds": 1.18,
-    "patternScore": 68.59,
-    "patternText": "116.034/169.167",
-    "aiScore": 73,
-    "picks": 3
+    "home": "Preston Lions",
+    "away": "Queensland Lions",
+    "league": "AVC",
+    "date": "13.11.2026 08:30",
+    "matchCode": "4573668",
+    "odds": 1.28,
+    "patternScore": 69.2,
+    "patternText": "208.461/301.257",
+    "aiScore": 64,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Curacao",
-      "away": "Panama",
-      "league": "CON",
-      "date": "13.11.2026 00:00",
-      "matchCode": "4579448",
-      "odds": 1.18,
-      "patternScore": 68.59,
-      "patternText": "116.034/169.167",
-      "aiScore": 73,
-      "picks": 3
-    },
-    {
-      "home": "Peru",
-      "away": "Bolivia",
-      "league": "HAZ",
-      "date": "13.11.2026 00:00",
-      "matchCode": "4579413",
-      "odds": 1.07,
-      "patternScore": 70.62,
-      "patternText": "270.034/382.381",
-      "aiScore": 95,
-      "picks": 1
-    },
     {
       "home": "Preston Lions",
       "away": "Queensland Lions",
@@ -381,7 +357,7 @@
       "matchCode": "4573668",
       "odds": 1.28,
       "patternScore": 69.2,
-      "patternText": "208.461/301.247",
+      "patternText": "208.461/301.257",
       "aiScore": 64,
       "picks": 1
     },
@@ -393,7 +369,7 @@
       "matchCode": "4573656",
       "odds": 1.07,
       "patternScore": 70.61,
-      "patternText": "257.300/364.400",
+      "patternText": "257.300/364.406",
       "aiScore": 93,
       "picks": 1
     },
@@ -408,6 +384,30 @@
       "patternText": "153.332/229.514",
       "aiScore": 53,
       "picks": 2
+    },
+    {
+      "home": "Moldova",
+      "away": "Kazakhstan",
+      "league": "AVUL",
+      "date": "13.11.2026 17:00",
+      "matchCode": "4445230",
+      "odds": 1.53,
+      "patternScore": 65.77,
+      "patternText": "91.497/139.112",
+      "aiScore": 52,
+      "picks": 5
+    },
+    {
+      "home": "JS Saoura",
+      "away": "Usm Khenchela",
+      "league": "CZYR",
+      "date": "13.11.2026 17:00",
+      "matchCode": "4546121",
+      "odds": 1.23,
+      "patternScore": 68.66,
+      "patternText": "234.933/342.164",
+      "aiScore": 60,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
