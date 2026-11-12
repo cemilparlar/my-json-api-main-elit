@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 21:48",
+  "updatedAt": "12.11.2026 21:56",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 111,
       "rate": 45.0
     },
-    "analyses24h": 1108,
-    "analyses30d": 18222
+    "analyses24h": 1107,
+    "analyses30d": 18221
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 3.13,
       "probability": 100.0,
       "patternScore": 55.81,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "2 - 0",
       "finalScore": "2 - 0",
       "pro": false
@@ -74,7 +74,7 @@
       "odds": 1.73,
       "probability": 72.73,
       "patternScore": 67.42,
-      "aiScore": 54,
+      "aiScore": 51,
       "firstHalf": "2 - 0",
       "finalScore": "3 - 0",
       "pro": true
@@ -88,7 +88,7 @@
       "odds": 1.52,
       "probability": 71.88,
       "patternScore": 67.95,
-      "aiScore": 56,
+      "aiScore": 52,
       "firstHalf": "0 - 1",
       "finalScore": "0 - 4",
       "pro": true
@@ -102,7 +102,7 @@
       "odds": 1.49,
       "probability": 78.57,
       "patternScore": 68.1,
-      "aiScore": 56,
+      "aiScore": 53,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
       "pro": true
@@ -116,7 +116,7 @@
       "odds": 1.41,
       "probability": 71.43,
       "patternScore": 67.01,
-      "aiScore": 57,
+      "aiScore": 54,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
       "pro": true
@@ -313,12 +313,6 @@
     },
     {
       "type": "updated",
-      "at": "12.11.2026 19:11",
-      "home": "Albania",
-      "away": "Finland"
-    },
-    {
-      "type": "updated",
       "at": "12.11.2026 19:34",
       "home": "Club Deportivo Aguila",
       "away": "Municipal Limen"
@@ -334,6 +328,12 @@
       "at": "12.11.2026 18:10",
       "home": "Cameroon",
       "away": "Namibia"
+    },
+    {
+      "type": "updated",
+      "at": "12.11.2026 16:59",
+      "home": "Benin",
+      "away": "Central African Republic"
     }
   ],
   "today": {
@@ -344,8 +344,8 @@
     "matchCode": "4514006",
     "odds": 1.29,
     "patternScore": 67.8,
-    "patternText": "201.285/296.870",
-    "aiScore": 60,
+    "patternText": "201.295/296.892",
+    "aiScore": 56,
     "picks": 1
   },
   "todayList": [
@@ -357,8 +357,8 @@
       "matchCode": "4514006",
       "odds": 1.29,
       "patternScore": 67.8,
-      "patternText": "201.285/296.870",
-      "aiScore": 60,
+      "patternText": "201.295/296.892",
+      "aiScore": 56,
       "picks": 1
     },
     {
@@ -369,8 +369,8 @@
       "matchCode": "4454058",
       "odds": 1.11,
       "patternScore": 69.2,
-      "patternText": "214.047/309.299",
-      "aiScore": 86,
+      "patternText": "214.051/309.321",
+      "aiScore": 85,
       "picks": 1
     },
     {
@@ -381,7 +381,7 @@
       "matchCode": "4579413",
       "odds": 1.07,
       "patternScore": 70.62,
-      "patternText": "269.998/382.315",
+      "patternText": "270.004/382.333",
       "aiScore": 95,
       "picks": 1
     },
@@ -393,8 +393,8 @@
       "matchCode": "4573668",
       "odds": 1.28,
       "patternScore": 69.2,
-      "patternText": "208.443/301.209",
-      "aiScore": 67,
+      "patternText": "208.449/301.229",
+      "aiScore": 64,
       "picks": 1
     },
     {
@@ -405,8 +405,8 @@
       "matchCode": "4573656",
       "odds": 1.07,
       "patternScore": 70.61,
-      "patternText": "257.270/364.352",
-      "aiScore": 94,
+      "patternText": "257.276/364.370",
+      "aiScore": 93,
       "picks": 1
     }
   ],
