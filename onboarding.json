@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 01:12",
+  "updatedAt": "12.11.2026 01:19",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 38,
       "rate": 65.8
     },
-    "totalAnalyses": 601284,
+    "totalAnalyses": 601289,
     "leagues": 359,
     "pro": {
       "won": 1167,
@@ -48,7 +48,7 @@
       "rate": 43.1
     },
     "analyses24h": 238,
-    "analyses30d": 17884
+    "analyses30d": 17871
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 1.41,
       "probability": 71.43,
       "patternScore": 67.01,
-      "aiScore": 56,
+      "aiScore": 57,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
       "pro": true
@@ -88,7 +88,7 @@
       "odds": 1.38,
       "probability": 85.71,
       "patternScore": 66.57,
-      "aiScore": 55,
+      "aiScore": 56,
       "firstHalf": "0 - 2",
       "finalScore": "0 - 3",
       "pro": true
@@ -295,12 +295,6 @@
     },
     {
       "type": "updated",
-      "at": "11.11.2026 19:13",
-      "home": "Avro",
-      "away": "Whitby Town"
-    },
-    {
-      "type": "updated",
       "at": "11.11.2026 20:46",
       "home": "Fuerte San Fra",
       "away": "Alianza FC"
@@ -317,30 +311,18 @@
     }
   ],
   "today": {
-    "home": "New Zealand",
-    "away": "India",
-    "league": "HAZ",
-    "date": "12.11.2026 06:00",
-    "matchCode": "4565379",
-    "odds": 1.07,
-    "patternScore": 68.24,
-    "patternText": "126.591/185.502",
-    "aiScore": 99,
-    "picks": 1
+    "home": "Apia",
+    "away": "Adelaide City FC",
+    "league": "AVC",
+    "date": "12.11.2026 08:30",
+    "matchCode": "4573644",
+    "odds": 1.14,
+    "patternScore": 69.22,
+    "patternText": "173.885/251.192",
+    "aiScore": 82,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "New Zealand",
-      "away": "India",
-      "league": "HAZ",
-      "date": "12.11.2026 06:00",
-      "matchCode": "4565379",
-      "odds": 1.07,
-      "patternScore": 68.24,
-      "patternText": "126.591/185.502",
-      "aiScore": 99,
-      "picks": 1
-    },
     {
       "home": "Apia",
       "away": "Adelaide City FC",
@@ -387,6 +369,18 @@
       "patternScore": 69.2,
       "patternText": "199.626/288.466",
       "aiScore": 91,
+      "picks": 1
+    },
+    {
+      "home": "Albania",
+      "away": "Finland",
+      "league": "AVUL",
+      "date": "12.11.2026 19:45",
+      "matchCode": "4445212",
+      "odds": 1.07,
+      "patternScore": 69.11,
+      "patternText": "152.298/220.368",
+      "aiScore": 90,
       "picks": 1
     }
   ],
