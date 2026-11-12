@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 09:03",
+  "updatedAt": "12.11.2026 09:12",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 39,
       "rate": 66.7
     },
-    "totalAnalyses": 602890,
+    "totalAnalyses": 603002,
     "leagues": 359,
     "pro": {
       "won": 1168,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 742,
-    "analyses30d": 18300
+    "analyses24h": 826,
+    "analyses30d": 18384
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     },
     {
       "type": "analysis",
-      "count": 742
+      "count": 826
     }
   ],
   "today": {
@@ -380,6 +380,55 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Switzerland",
+      "away": "Scotland",
+      "league": "AVUL",
+      "at": "12.11.2026 09:12",
+      "count": 9
+    },
+    {
+      "home": "Albacete Balompie",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "at": "12.11.2026 09:11",
+      "count": 7
+    },
+    {
+      "home": "Croatia",
+      "away": "Czechia",
+      "league": "AVUL",
+      "at": "12.11.2026 09:11",
+      "count": 13
+    },
+    {
+      "home": "Spain",
+      "away": "England",
+      "league": "AVUL",
+      "at": "12.11.2026 09:11",
+      "count": 6
+    },
+    {
+      "home": "Belgium",
+      "away": "Italy",
+      "league": "AVUL",
+      "at": "12.11.2026 09:10",
+      "count": 10
+    },
+    {
+      "home": "Eibar",
+      "away": "Cadiz CF",
+      "league": "İS2",
+      "at": "12.11.2026 09:09",
+      "count": 3
+    },
+    {
+      "home": "CD Eldense",
+      "away": "CE Sabadell",
+      "league": "İS2",
+      "at": "12.11.2026 09:09",
+      "count": 5
+    },
+    {
       "home": "Granada CF",
       "away": "UD Las Palmas",
       "league": "İS2",
@@ -399,55 +448,6 @@
       "league": "İS2",
       "at": "12.11.2026 08:43",
       "count": 3
-    },
-    {
-      "home": "RCD Mallorca",
-      "away": "Cordoba CF",
-      "league": "İS2",
-      "at": "12.11.2026 08:31",
-      "count": 12
-    },
-    {
-      "home": "UD Almeria",
-      "away": "FC Andorra",
-      "league": "İS2",
-      "at": "12.11.2026 08:30",
-      "count": 4
-    },
-    {
-      "home": "Real Sociedad",
-      "away": "Sporting Gijon",
-      "league": "İS2",
-      "at": "12.11.2026 08:26",
-      "count": 2
-    },
-    {
-      "home": "Czechia",
-      "away": "Spain",
-      "league": "AVUL",
-      "at": "12.11.2026 08:25",
-      "count": 14
-    },
-    {
-      "home": "Real Valladolid",
-      "away": "Castellon",
-      "league": "İS2",
-      "at": "12.11.2026 07:53",
-      "count": 5
-    },
-    {
-      "home": "CD Leganes",
-      "away": "Burgos CF",
-      "league": "İS2",
-      "at": "12.11.2026 07:44",
-      "count": 7
-    },
-    {
-      "home": "Norway",
-      "away": "Wales",
-      "league": "AVUL",
-      "at": "09.11.2026 21:39",
-      "count": 14
     }
   ],
   "paywall": {
