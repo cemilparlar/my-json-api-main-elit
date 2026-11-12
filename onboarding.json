@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 08:00",
+  "updatedAt": "12.11.2026 08:10",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 25,
+      "won": 26,
       "lost": 13,
-      "total": 38,
-      "rate": 65.8
+      "total": 39,
+      "rate": 66.7
     },
-    "totalAnalyses": 601869,
+    "totalAnalyses": 601988,
     "leagues": 359,
     "pro": {
-      "won": 1168,
+      "won": 1169,
       "lost": 513,
-      "total": 1681,
+      "total": 1682,
       "rate": 69.5
     },
     "insights": {
-      "won": 1961,
+      "won": 1962,
       "lost": 832,
-      "total": 2793,
+      "total": 2794,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 457,
-    "analyses30d": 18030
+    "analyses24h": 532,
+    "analyses30d": 18101
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 1.49,
       "probability": 78.57,
       "patternScore": 68.1,
-      "aiScore": 55,
+      "aiScore": 54,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
       "pro": true
@@ -74,7 +74,7 @@
       "odds": 1.41,
       "probability": 71.43,
       "patternScore": 67.01,
-      "aiScore": 56,
+      "aiScore": 54,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
       "pro": true
@@ -88,7 +88,7 @@
       "odds": 1.38,
       "probability": 85.71,
       "patternScore": 66.57,
-      "aiScore": 55,
+      "aiScore": 54,
       "firstHalf": "0 - 2",
       "finalScore": "0 - 3",
       "pro": true
@@ -102,7 +102,7 @@
       "odds": 1.31,
       "probability": 70.27,
       "patternScore": 68.05,
-      "aiScore": 57,
+      "aiScore": 56,
       "firstHalf": "3 - 0",
       "finalScore": "6 - 0",
       "pro": false
@@ -116,7 +116,7 @@
       "odds": 1.28,
       "probability": 74.77,
       "patternScore": 68.23,
-      "aiScore": 59,
+      "aiScore": 57,
       "firstHalf": "0 - 1",
       "finalScore": "2 - 1",
       "pro": true
@@ -307,7 +307,7 @@
     },
     {
       "type": "analysis",
-      "count": 457
+      "count": 532
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
       "odds": 1.18,
       "patternScore": 69.55,
       "patternText": "132.641/190.705",
-      "aiScore": 80,
+      "aiScore": 82,
       "picks": 2
     },
     {
@@ -356,7 +356,7 @@
       "odds": 1.12,
       "patternScore": 67.58,
       "patternText": "144.906/214.421",
-      "aiScore": 90,
+      "aiScore": 92,
       "picks": 2
     },
     {
@@ -368,7 +368,7 @@
       "odds": 1.12,
       "patternScore": 70.24,
       "patternText": "264.792/376.998",
-      "aiScore": 80,
+      "aiScore": 82,
       "picks": 1
     },
     {
@@ -380,7 +380,7 @@
       "odds": 1.08,
       "patternScore": 69.2,
       "patternText": "199.634/288.480",
-      "aiScore": 87,
+      "aiScore": 90,
       "picks": 1
     }
   ],
