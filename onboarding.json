@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 20:55",
+  "updatedAt": "12.11.2026 21:04",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 41,
-      "lost": 12,
-      "total": 53,
-      "rate": 77.4
+      "won": 56,
+      "lost": 16,
+      "total": 72,
+      "rate": 77.8
     },
     "totalAnalyses": 606465,
     "leagues": 359,
     "pro": {
-      "won": 1137,
-      "lost": 484,
-      "total": 1621,
+      "won": 1138,
+      "lost": 485,
+      "total": 1623,
       "rate": 70.1
     },
     "insights": {
-      "won": 1900,
-      "lost": 788,
-      "total": 2688,
+      "won": 1909,
+      "lost": 790,
+      "total": 2699,
       "rate": 70.7
     },
     "coupons": {
@@ -51,34 +51,6 @@
     "analyses30d": 18208
   },
   "recentWins": [
-    {
-      "home": "Huddersfield Town",
-      "away": "Liverpool U21",
-      "league": "İNTK",
-      "date": "10.11.2026 19:00",
-      "prediction": "1st Half Under 1.5",
-      "odds": 1.91,
-      "probability": 100.0,
-      "patternScore": 57.09,
-      "aiScore": 54,
-      "firstHalf": "0 - 0",
-      "finalScore": "4 - 0",
-      "pro": false
-    },
-    {
-      "home": "Stevenage",
-      "away": "Fulham U21",
-      "league": "İNTK",
-      "date": "10.11.2026 19:00",
-      "prediction": "Handicap (0:2) 2",
-      "odds": 1.8,
-      "probability": 100.0,
-      "patternScore": 56.83,
-      "aiScore": 55,
-      "firstHalf": "0 - 0",
-      "finalScore": "4 - 3",
-      "pro": false
-    },
     {
       "home": "Apia",
       "away": "Adelaide City FC",
@@ -119,6 +91,34 @@
       "aiScore": 56,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
+      "pro": true
+    },
+    {
+      "home": "Nove Zamky",
+      "away": "Zemplin",
+      "league": "SLOVK",
+      "date": "11.11.2026 12:00",
+      "prediction": "1st Half Under 1.5",
+      "odds": 1.41,
+      "probability": 71.43,
+      "patternScore": 67.01,
+      "aiScore": 57,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 2",
+      "pro": true
+    },
+    {
+      "home": "Armenia",
+      "away": "Cyprus",
+      "league": "AVUL",
+      "date": "12.11.2026 17:00",
+      "prediction": "1st Half Over 0.5",
+      "odds": 1.34,
+      "probability": 71.43,
+      "patternScore": 67.63,
+      "aiScore": 59,
+      "firstHalf": "0 - 1",
+      "finalScore": "1 - 1",
       "pro": true
     }
   ],
@@ -257,22 +257,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Huddersfield Town",
-      "away": "Liverpool U21",
-      "prediction": "1st Half Under 1.5",
-      "odds": 1.91,
-      "at": "10.11.2026 19:00"
-    },
-    {
-      "type": "won",
-      "home": "Stevenage",
-      "away": "Fulham U21",
-      "prediction": "Handicap (0:2) 2",
-      "odds": 1.8,
-      "at": "10.11.2026 19:00"
-    },
-    {
-      "type": "won",
       "home": "Apia",
       "away": "Adelaide City FC",
       "prediction": "1st Half Over 1.5",
@@ -286,6 +270,22 @@
       "prediction": "Match Result 2",
       "odds": 1.52,
       "at": "12.11.2026 16:00"
+    },
+    {
+      "type": "won",
+      "home": "PSG Women",
+      "away": "Bayern Munich",
+      "prediction": "Under 3.5 Goals",
+      "odds": 1.49,
+      "at": "10.11.2026 20:00"
+    },
+    {
+      "type": "won",
+      "home": "Nove Zamky",
+      "away": "Zemplin",
+      "prediction": "1st Half Under 1.5",
+      "odds": 1.41,
+      "at": "11.11.2026 12:00"
     },
     {
       "type": "updated",
@@ -362,18 +362,6 @@
       "picks": 2
     },
     {
-      "home": "Club Deportivo Aguila",
-      "away": "Municipal Limen",
-      "league": "ELSAL",
-      "date": "12.11.2026 21:30",
-      "matchCode": "4504424",
-      "odds": 1.21,
-      "patternScore": 68.75,
-      "patternText": "203.863/296.541",
-      "aiScore": 72,
-      "picks": 2
-    },
-    {
       "home": "Sao Bernardo",
       "away": "Athletic Bilbao",
       "league": "BR2",
@@ -408,6 +396,18 @@
       "patternText": "175.750/244.349",
       "aiScore": 96,
       "picks": 2
+    },
+    {
+      "home": "Preston Lions",
+      "away": "Queensland Lions",
+      "league": "AVC",
+      "date": "13.11.2026 08:30",
+      "matchCode": "4573668",
+      "odds": 1.28,
+      "patternScore": 69.2,
+      "patternText": "208.435/301.199",
+      "aiScore": 67,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
