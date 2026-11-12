@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 15:54",
+  "updatedAt": "12.11.2026 16:03",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 24,
       "rate": 75.0
     },
-    "totalAnalyses": 605947,
+    "totalAnalyses": 605974,
     "leagues": 359,
     "pro": {
-      "won": 1165,
+      "won": 1167,
       "lost": 506,
-      "total": 1671,
-      "rate": 69.7
+      "total": 1673,
+      "rate": 69.8
     },
     "insights": {
-      "won": 1956,
+      "won": 1960,
       "lost": 824,
-      "total": 2780,
+      "total": 2784,
       "rate": 70.4
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 1092,
-    "analyses30d": 18541
+    "analyses24h": 1091,
+    "analyses30d": 18477
   },
   "recentWins": [
     {
@@ -295,7 +295,7 @@
     },
     {
       "type": "updated",
-      "at": "12.11.2026 15:07",
+      "at": "12.11.2026 15:59",
       "home": "Armenia",
       "away": "Cyprus"
     },
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Armenia",
-    "away": "Cyprus",
-    "league": "AVUL",
-    "date": "12.11.2026 17:00",
-    "matchCode": "4445220",
-    "odds": 1.21,
-    "patternScore": 69.14,
-    "patternText": "275.499/398.441",
-    "aiScore": 73,
-    "picks": 1
+    "home": "Ponte Preta",
+    "away": "Operario",
+    "league": "BR2",
+    "date": "12.11.2026 22:00",
+    "matchCode": "4454057",
+    "odds": 1.3,
+    "patternScore": 68.18,
+    "patternText": "207.036/303.668",
+    "aiScore": 57,
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Ponte Preta",
+      "away": "Operario",
+      "league": "BR2",
+      "date": "12.11.2026 22:00",
+      "matchCode": "4454057",
+      "odds": 1.3,
+      "patternScore": 68.18,
+      "patternText": "207.036/303.668",
+      "aiScore": 57,
+      "picks": 4
+    },
     {
       "home": "Armenia",
       "away": "Cyprus",
@@ -396,21 +408,16 @@
       "patternText": "144.470/207.522",
       "aiScore": 97,
       "picks": 1
-    },
-    {
-      "home": "Ponte Preta",
-      "away": "Operario",
-      "league": "BR2",
-      "date": "12.11.2026 22:00",
-      "matchCode": "4454057",
-      "odds": 1.3,
-      "patternScore": 68.18,
-      "patternText": "207.036/303.668",
-      "aiScore": 57,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Armenia",
+      "away": "Cyprus",
+      "league": "AVUL",
+      "at": "12.11.2026 15:59",
+      "count": 5
+    },
     {
       "home": "Montenegro",
       "away": "Latvia",
@@ -424,13 +431,6 @@
       "league": "AVUL",
       "at": "12.11.2026 15:07",
       "count": 4
-    },
-    {
-      "home": "Armenia",
-      "away": "Cyprus",
-      "league": "AVUL",
-      "at": "12.11.2026 15:07",
-      "count": 7
     },
     {
       "home": "Albania",
