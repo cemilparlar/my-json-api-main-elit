@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 13:58",
+  "updatedAt": "12.11.2026 14:06",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 25,
       "rate": 72.0
     },
-    "totalAnalyses": 605197,
+    "totalAnalyses": 605325,
     "leagues": 359,
     "pro": {
       "won": 1163,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 944,
-    "analyses30d": 18478
+    "analyses24h": 947,
+    "analyses30d": 18458
   },
   "recentWins": [
     {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "12.11.2026 13:51",
-      "home": "Calvo Sotelo",
-      "away": "Albacete Balompie"
-    },
-    {
-      "type": "updated",
       "at": "12.11.2026 11:03",
       "home": "Turkiye",
       "away": "Belgium"
@@ -334,6 +328,12 @@
       "at": "12.11.2026 13:32",
       "home": "Equatorial Guinea",
       "away": "Zimbabwe"
+    },
+    {
+      "type": "updated",
+      "at": "12.11.2026 10:07",
+      "home": "Madagascar",
+      "away": "Guinea Bissau"
     }
   ],
   "today": {
@@ -360,18 +360,6 @@
       "patternText": "130.629/197.421",
       "aiScore": 51,
       "picks": 4
-    },
-    {
-      "home": "Calvo Sotelo",
-      "away": "Albacete Balompie",
-      "league": "İSPK",
-      "date": "12.11.2026 17:30",
-      "matchCode": "4574149",
-      "odds": 1.34,
-      "patternScore": 67.84,
-      "patternText": "130.706/192.660",
-      "aiScore": 55,
-      "picks": 1
     },
     {
       "home": "Uzbekistan",
@@ -407,6 +395,18 @@
       "patternScore": 66.62,
       "patternText": "156.521/234.957",
       "aiScore": 76,
+      "picks": 1
+    },
+    {
+      "home": "Barbados",
+      "away": "Guadeloupe",
+      "league": "CON",
+      "date": "12.11.2026 19:00",
+      "matchCode": "4579428",
+      "odds": 1.12,
+      "patternScore": 70.02,
+      "patternText": "256.503/366.324",
+      "aiScore": 92,
       "picks": 1
     }
   ],
