@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 10:11",
+  "updatedAt": "12.11.2026 10:19",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 27,
       "rate": 63.0
     },
-    "totalAnalyses": 603462,
+    "totalAnalyses": 603512,
     "leagues": 359,
     "pro": {
       "won": 1166,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 821,
-    "analyses30d": 18385
+    "analyses24h": 818,
+    "analyses30d": 18382
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 1.49,
       "probability": 78.57,
       "patternScore": 68.1,
-      "aiScore": 52,
+      "aiScore": 53,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
       "pro": true
@@ -306,14 +306,8 @@
       "away": "Eritrea"
     },
     {
-      "type": "updated",
-      "at": "12.11.2026 10:08",
-      "home": "Maan",
-      "away": "Al Yarmouk"
-    },
-    {
       "type": "analysis",
-      "count": 821
+      "count": 818
     }
   ],
   "today": {
@@ -342,28 +336,16 @@
       "picks": 1
     },
     {
-      "home": "Maan",
-      "away": "Al Yarmouk",
-      "league": "ÜRD1",
-      "date": "12.11.2026 16:00",
-      "matchCode": "4561286",
-      "odds": 1.12,
-      "patternScore": 70.24,
-      "patternText": "264.810/377.016",
-      "aiScore": 83,
-      "picks": 1
-    },
-    {
       "home": "Madagascar",
       "away": "Guinea Bissau",
       "league": "AFUK",
       "date": "12.11.2026 16:00",
       "matchCode": "4579380",
-      "odds": 1.08,
-      "patternScore": 69.2,
-      "patternText": "199.648/288.494",
-      "aiScore": 91,
-      "picks": 1
+      "odds": 1.17,
+      "patternScore": 69.98,
+      "patternText": "253.650/362.460",
+      "aiScore": 76,
+      "picks": 2
     },
     {
       "home": "Armenia",
@@ -388,6 +370,18 @@
       "patternText": "144.908/214.423",
       "aiScore": 93,
       "picks": 2
+    },
+    {
+      "home": "Albania",
+      "away": "Finland",
+      "league": "AVUL",
+      "date": "12.11.2026 19:45",
+      "matchCode": "4445212",
+      "odds": 1.07,
+      "patternScore": 69.11,
+      "patternText": "152.318/220.392",
+      "aiScore": 90,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
