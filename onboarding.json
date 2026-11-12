@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 21:11",
+  "updatedAt": "12.11.2026 21:19",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 72,
       "rate": 77.8
     },
-    "totalAnalyses": 606467,
-    "leagues": 359,
+    "totalAnalyses": 606498,
+    "leagues": 360,
     "pro": {
       "won": 1138,
       "lost": 485,
@@ -47,8 +47,8 @@
       "total": 111,
       "rate": 45.0
     },
-    "analyses24h": 1095,
-    "analyses30d": 18208
+    "analyses24h": 1110,
+    "analyses30d": 18223
   },
   "recentWins": [
     {
@@ -325,7 +325,7 @@
     },
     {
       "type": "updated",
-      "at": "12.11.2026 19:34",
+      "at": "12.11.2026 21:13",
       "home": "Llaneros",
       "away": "Chico"
     },
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Estudiantes de La Plata",
+      "away": "Rivadavia",
+      "league": "ARJSK",
+      "at": "12.11.2026 21:13",
+      "count": 16
+    },
+    {
       "home": "Albania",
       "away": "Finland",
       "league": "AVUL",
@@ -472,13 +479,6 @@
       "away": "Club de Regatas Vasco da Gama",
       "league": "BR1",
       "at": "12.11.2026 13:22",
-      "count": 7
-    },
-    {
-      "home": "Mirassol FC",
-      "away": "Atletico Mineiro",
-      "league": "BR1",
-      "at": "12.11.2026 13:21",
       "count": 7
     }
   ],
