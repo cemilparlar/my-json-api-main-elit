@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 08:42",
+  "updatedAt": "12.11.2026 08:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 39,
       "rate": 66.7
     },
-    "totalAnalyses": 602621,
+    "totalAnalyses": 602733,
     "leagues": 359,
     "pro": {
       "won": 1168,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 661,
-    "analyses30d": 18227
+    "analyses24h": 751,
+    "analyses30d": 18309
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 1.41,
       "probability": 71.43,
       "patternScore": 67.01,
-      "aiScore": 54,
+      "aiScore": 53,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
       "pro": true
@@ -301,7 +301,7 @@
     },
     {
       "type": "analysis",
-      "count": 661
+      "count": 751
     }
   ],
   "today": {
@@ -338,7 +338,7 @@
       "odds": 1.18,
       "patternScore": 69.55,
       "patternText": "132.643/190.707",
-      "aiScore": 83,
+      "aiScore": 82,
       "picks": 2
     },
     {
@@ -350,7 +350,7 @@
       "odds": 1.12,
       "patternScore": 67.58,
       "patternText": "144.908/214.423",
-      "aiScore": 92,
+      "aiScore": 91,
       "picks": 2
     },
     {
@@ -362,7 +362,7 @@
       "odds": 1.12,
       "patternScore": 70.24,
       "patternText": "264.798/377.004",
-      "aiScore": 83,
+      "aiScore": 82,
       "picks": 1
     },
     {
@@ -374,11 +374,32 @@
       "odds": 1.08,
       "patternScore": 69.2,
       "patternText": "199.640/288.486",
-      "aiScore": 90,
+      "aiScore": 89,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Granada CF",
+      "away": "UD Las Palmas",
+      "league": "İS2",
+      "at": "12.11.2026 08:54",
+      "count": 8
+    },
+    {
+      "home": "CD Tenerife",
+      "away": "AD Ceuta",
+      "league": "İS2",
+      "at": "12.11.2026 08:50",
+      "count": 1
+    },
+    {
+      "home": "Real Oviedo",
+      "away": "Girona FC",
+      "league": "İS2",
+      "at": "12.11.2026 08:43",
+      "count": 3
+    },
     {
       "home": "RCD Mallorca",
       "away": "Cordoba CF",
@@ -427,27 +448,6 @@
       "league": "AVUL",
       "at": "09.11.2026 21:39",
       "count": 14
-    },
-    {
-      "home": "CE Sabadell",
-      "away": "Real Sociedad B",
-      "league": "İS2",
-      "at": "09.11.2026 18:47",
-      "count": 5
-    },
-    {
-      "home": "Scotland",
-      "away": "North Macedonia",
-      "league": "AVUL",
-      "at": "09.11.2026 16:04",
-      "count": 14
-    },
-    {
-      "home": "Bulgaria",
-      "away": "Iceland",
-      "league": "AVUL",
-      "at": "09.11.2026 16:04",
-      "count": 6
     }
   ],
   "paywall": {
