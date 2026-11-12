@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 08:25",
+  "updatedAt": "12.11.2026 08:34",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 39,
       "rate": 66.7
     },
-    "totalAnalyses": 602501,
+    "totalAnalyses": 602604,
     "leagues": 359,
     "pro": {
-      "won": 1169,
+      "won": 1168,
       "lost": 513,
-      "total": 1682,
+      "total": 1681,
       "rate": 69.5
     },
     "insights": {
-      "won": 1962,
-      "lost": 832,
-      "total": 2794,
+      "won": 1959,
+      "lost": 831,
+      "total": 2790,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 556,
-    "analyses30d": 18125
+    "analyses24h": 657,
+    "analyses30d": 18226
   },
   "recentWins": [
     {
@@ -300,14 +300,8 @@
       "away": "Adelaide City FC"
     },
     {
-      "type": "kickoff",
-      "home": "Apia",
-      "away": "Adelaide City FC",
-      "at": "12.11.2026 08:30"
-    },
-    {
       "type": "analysis",
-      "count": 556
+      "count": 657
     }
   ],
   "today": {
@@ -319,7 +313,7 @@
     "odds": 1.24,
     "patternScore": 69.49,
     "patternText": "213.485/307.201",
-    "aiScore": 65,
+    "aiScore": 64,
     "picks": 1
   },
   "todayList": [
@@ -332,7 +326,7 @@
       "odds": 1.24,
       "patternScore": 69.49,
       "patternText": "213.485/307.201",
-      "aiScore": 65,
+      "aiScore": 64,
       "picks": 1
     },
     {
@@ -344,7 +338,7 @@
       "odds": 1.18,
       "patternScore": 69.55,
       "patternText": "132.643/190.707",
-      "aiScore": 83,
+      "aiScore": 82,
       "picks": 2
     },
     {
@@ -356,7 +350,7 @@
       "odds": 1.12,
       "patternScore": 67.58,
       "patternText": "144.908/214.423",
-      "aiScore": 92,
+      "aiScore": 91,
       "picks": 2
     },
     {
@@ -380,11 +374,39 @@
       "odds": 1.08,
       "patternScore": 69.2,
       "patternText": "199.640/288.486",
-      "aiScore": 90,
+      "aiScore": 89,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "RCD Mallorca",
+      "away": "Cordoba CF",
+      "league": "İS2",
+      "at": "12.11.2026 08:31",
+      "count": 12
+    },
+    {
+      "home": "UD Almeria",
+      "away": "FC Andorra",
+      "league": "İS2",
+      "at": "12.11.2026 08:30",
+      "count": 4
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Sporting Gijon",
+      "league": "İS2",
+      "at": "12.11.2026 08:26",
+      "count": 2
+    },
+    {
+      "home": "Czechia",
+      "away": "Spain",
+      "league": "AVUL",
+      "at": "12.11.2026 08:25",
+      "count": 14
+    },
     {
       "home": "Real Valladolid",
       "away": "Castellon",
@@ -426,34 +448,6 @@
       "league": "AVUL",
       "at": "09.11.2026 16:04",
       "count": 6
-    },
-    {
-      "home": "Albania",
-      "away": "Finland",
-      "league": "AVUL",
-      "at": "09.11.2026 16:04",
-      "count": 5
-    },
-    {
-      "home": "Serbia",
-      "away": "Germany",
-      "league": "AVUL",
-      "at": "09.11.2026 09:16",
-      "count": 14
-    },
-    {
-      "home": "Slovakia",
-      "away": "Faroe Islands",
-      "league": "AVUL",
-      "at": "09.11.2026 06:59",
-      "count": 5
-    },
-    {
-      "home": "Austria",
-      "away": "Ireland",
-      "league": "AVUL",
-      "at": "09.11.2026 06:32",
-      "count": 2
     }
   ],
   "paywall": {
