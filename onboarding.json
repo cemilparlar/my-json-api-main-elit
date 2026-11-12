@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 14:31",
+  "updatedAt": "12.11.2026 14:38",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 25,
       "rate": 72.0
     },
-    "totalAnalyses": 605409,
+    "totalAnalyses": 605438,
     "leagues": 359,
     "pro": {
       "won": 1163,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 970,
-    "analyses30d": 18467
+    "analyses24h": 969,
+    "analyses30d": 18466
   },
   "recentWins": [
     {
@@ -362,18 +362,6 @@
       "picks": 3
     },
     {
-      "home": "Madagascar",
-      "away": "Guinea Bissau",
-      "league": "AFUK",
-      "date": "12.11.2026 16:00",
-      "matchCode": "4579380",
-      "odds": 1.17,
-      "patternScore": 69.98,
-      "patternText": "253.680/362.490",
-      "aiScore": 75,
-      "picks": 2
-    },
-    {
       "home": "Armenia",
       "away": "Cyprus",
       "league": "AVUL",
@@ -395,6 +383,18 @@
       "patternScore": 70.02,
       "patternText": "256.503/366.324",
       "aiScore": 91,
+      "picks": 1
+    },
+    {
+      "home": "Madagascar",
+      "away": "Guinea Bissau",
+      "league": "AFUK",
+      "date": "12.11.2026 16:00",
+      "matchCode": "4579380",
+      "odds": 1.06,
+      "patternScore": 65.37,
+      "patternText": "184.148/281.706",
+      "aiScore": 94,
       "picks": 1
     },
     {
