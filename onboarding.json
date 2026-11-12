@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 05:26",
+  "updatedAt": "12.11.2026 05:33",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 38,
       "rate": 65.8
     },
-    "totalAnalyses": 601339,
+    "totalAnalyses": 601360,
     "leagues": 358,
     "pro": {
       "won": 1167,
@@ -306,6 +306,12 @@
       "at": "12.11.2026 06:00"
     },
     {
+      "type": "kickoff",
+      "home": "Apia",
+      "away": "Adelaide City FC",
+      "at": "12.11.2026 08:30"
+    },
+    {
       "type": "analysis",
       "count": 229
     }
@@ -334,18 +340,6 @@
       "patternText": "105.413/150.242",
       "aiScore": 97,
       "picks": 2
-    },
-    {
-      "home": "New Zealand",
-      "away": "India",
-      "league": "HAZ",
-      "date": "12.11.2026 06:00",
-      "matchCode": "4565379",
-      "odds": 1.06,
-      "patternScore": 68.88,
-      "patternText": "187.780/272.631",
-      "aiScore": 95,
-      "picks": 1
     },
     {
       "home": "Armenia",
@@ -382,6 +376,18 @@
       "patternText": "144.906/214.421",
       "aiScore": 93,
       "picks": 2
+    },
+    {
+      "home": "Albania",
+      "away": "Finland",
+      "league": "AVUL",
+      "date": "12.11.2026 19:45",
+      "matchCode": "4445212",
+      "odds": 1.07,
+      "patternScore": 69.11,
+      "patternText": "152.300/220.374",
+      "aiScore": 91,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
