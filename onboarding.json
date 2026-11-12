@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 04:56",
+  "updatedAt": "12.11.2026 05:04",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 38,
       "rate": 65.8
     },
-    "totalAnalyses": 601338,
-    "leagues": 359,
+    "totalAnalyses": 601339,
+    "leagues": 358,
     "pro": {
       "won": 1167,
       "lost": 512,
@@ -48,7 +48,7 @@
       "rate": 43.5
     },
     "analyses24h": 229,
-    "analyses30d": 17824
+    "analyses30d": 17822
   },
   "recentWins": [
     {
@@ -348,18 +348,6 @@
       "picks": 1
     },
     {
-      "home": "Madagascar",
-      "away": "Guinea Bissau",
-      "league": "AFUK",
-      "date": "12.11.2026 16:00",
-      "matchCode": "4579380",
-      "odds": 1.08,
-      "patternScore": 69.2,
-      "patternText": "199.628/288.472",
-      "aiScore": 92,
-      "picks": 1
-    },
-    {
       "home": "Armenia",
       "away": "Cyprus",
       "league": "AVUL",
@@ -370,6 +358,18 @@
       "patternText": "132.641/190.705",
       "aiScore": 84,
       "picks": 2
+    },
+    {
+      "home": "Madagascar",
+      "away": "Guinea Bissau",
+      "league": "AFUK",
+      "date": "12.11.2026 16:00",
+      "matchCode": "4579380",
+      "odds": 1.08,
+      "patternScore": 69.2,
+      "patternText": "199.628/288.472",
+      "aiScore": 92,
+      "picks": 1
     },
     {
       "home": "Barcelona Women",
