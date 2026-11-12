@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 14:06",
+  "updatedAt": "12.11.2026 14:15",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 25,
       "rate": 72.0
     },
-    "totalAnalyses": 605325,
+    "totalAnalyses": 605363,
     "leagues": 359,
     "pro": {
       "won": 1163,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 947,
-    "analyses30d": 18458
+    "analyses24h": 972,
+    "analyses30d": 18469
   },
   "recentWins": [
     {
@@ -313,7 +313,7 @@
     },
     {
       "type": "updated",
-      "at": "12.11.2026 13:56",
+      "at": "12.11.2026 14:12",
       "home": "Albania",
       "away": "Finland"
     },
@@ -325,7 +325,7 @@
     },
     {
       "type": "updated",
-      "at": "12.11.2026 13:32",
+      "at": "12.11.2026 14:11",
       "home": "Equatorial Guinea",
       "away": "Zimbabwe"
     },
@@ -406,24 +406,31 @@
       "odds": 1.12,
       "patternScore": 70.02,
       "patternText": "256.503/366.324",
-      "aiScore": 92,
+      "aiScore": 91,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Albania",
+      "away": "Finland",
+      "league": "AVUL",
+      "at": "12.11.2026 14:12",
+      "count": 2
+    },
+    {
+      "home": "Haiti",
+      "away": "USA",
+      "league": "CON",
+      "at": "12.11.2026 14:08",
+      "count": 8
+    },
     {
       "home": "Curacao",
       "away": "Panama",
       "league": "CON",
       "at": "12.11.2026 13:56",
       "count": 3
-    },
-    {
-      "home": "Albania",
-      "away": "Finland",
-      "league": "AVUL",
-      "at": "12.11.2026 13:56",
-      "count": 16
     },
     {
       "home": "Italy",
@@ -473,13 +480,6 @@
       "league": "İS2",
       "at": "12.11.2026 09:11",
       "count": 7
-    },
-    {
-      "home": "Croatia",
-      "away": "Czechia",
-      "league": "AVUL",
-      "at": "12.11.2026 09:11",
-      "count": 13
     }
   ],
   "paywall": {
