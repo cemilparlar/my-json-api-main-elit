@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 05:55",
+  "updatedAt": "12.11.2026 06:02",
   "config": {
     "pages": [
       "engine",
@@ -294,10 +294,16 @@
       "away": "India"
     },
     {
+      "type": "updated",
+      "at": "12.11.2026 05:53",
+      "home": "Apia",
+      "away": "Adelaide City FC"
+    },
+    {
       "type": "kickoff",
-      "home": "New Zealand",
-      "away": "India",
-      "at": "12.11.2026 06:00"
+      "home": "Apia",
+      "away": "Adelaide City FC",
+      "at": "12.11.2026 08:30"
     },
     {
       "type": "analysis",
@@ -305,18 +311,30 @@
     }
   ],
   "today": {
-    "home": "Armenia",
-    "away": "Cyprus",
-    "league": "AVUL",
-    "date": "12.11.2026 17:00",
-    "matchCode": "4445220",
-    "odds": 1.18,
-    "patternScore": 69.55,
-    "patternText": "132.641/190.705",
-    "aiScore": 85,
-    "picks": 2
+    "home": "Apia",
+    "away": "Adelaide City FC",
+    "league": "AVC",
+    "date": "12.11.2026 08:30",
+    "matchCode": "4573644",
+    "odds": 1.14,
+    "patternScore": 68.76,
+    "patternText": "108.394/157.636",
+    "aiScore": 88,
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Apia",
+      "away": "Adelaide City FC",
+      "league": "AVC",
+      "date": "12.11.2026 08:30",
+      "matchCode": "4573644",
+      "odds": 1.14,
+      "patternScore": 68.76,
+      "patternText": "108.394/157.636",
+      "aiScore": 88,
+      "picks": 1
+    },
     {
       "home": "Armenia",
       "away": "Cyprus",
