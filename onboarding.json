@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 21:26",
+  "updatedAt": "12.11.2026 21:34",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 56,
+      "won": 55,
       "lost": 16,
-      "total": 72,
-      "rate": 77.8
+      "total": 71,
+      "rate": 77.5
     },
     "totalAnalyses": 606498,
     "leagues": 360,
@@ -47,7 +47,7 @@
       "total": 111,
       "rate": 45.0
     },
-    "analyses24h": 1108,
+    "analyses24h": 1107,
     "analyses30d": 18221
   },
   "recentWins": [
@@ -386,18 +386,6 @@
       "picks": 1
     },
     {
-      "home": "Ponte Preta",
-      "away": "Operario",
-      "league": "BR2",
-      "date": "12.11.2026 22:00",
-      "matchCode": "4454057",
-      "odds": 1.07,
-      "patternScore": 71.93,
-      "patternText": "175.756/244.357",
-      "aiScore": 96,
-      "picks": 2
-    },
-    {
       "home": "Preston Lions",
       "away": "Queensland Lions",
       "league": "AVC",
@@ -407,6 +395,18 @@
       "patternScore": 69.2,
       "patternText": "208.443/301.209",
       "aiScore": 67,
+      "picks": 1
+    },
+    {
+      "home": "Oakleigh Cannons",
+      "away": "Marconi Stallions",
+      "league": "AVC",
+      "date": "13.11.2026 08:30",
+      "matchCode": "4573656",
+      "odds": 1.07,
+      "patternScore": 70.61,
+      "patternText": "257.270/364.352",
+      "aiScore": 94,
       "picks": 1
     }
   ],
