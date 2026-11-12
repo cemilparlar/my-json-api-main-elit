@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 07:41",
+  "updatedAt": "12.11.2026 07:51",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 38,
       "rate": 65.8
     },
-    "totalAnalyses": 601456,
+    "totalAnalyses": 601614,
     "leagues": 359,
     "pro": {
-      "won": 1167,
-      "lost": 512,
-      "total": 1679,
+      "won": 1168,
+      "lost": 513,
+      "total": 1681,
       "rate": 69.5
     },
     "insights": {
-      "won": 1960,
-      "lost": 831,
-      "total": 2791,
+      "won": 1961,
+      "lost": 832,
+      "total": 2793,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 288,
-    "analyses30d": 17877
+    "analyses24h": 366,
+    "analyses30d": 17951
   },
   "recentWins": [
     {
@@ -307,7 +307,7 @@
     },
     {
       "type": "analysis",
-      "count": 288
+      "count": 366
     }
   ],
   "today": {
@@ -386,6 +386,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "CD Leganes",
+      "away": "Burgos CF",
+      "league": "İS2",
+      "at": "12.11.2026 07:44",
+      "count": 7
+    },
+    {
       "home": "Norway",
       "away": "Wales",
       "league": "AVUL",
@@ -447,13 +454,6 @@
       "league": "AVUL",
       "at": "09.11.2026 06:32",
       "count": 8
-    },
-    {
-      "home": "Sweden",
-      "away": "Bosnia and Herzegovina",
-      "league": "AVUL",
-      "at": "09.11.2026 06:32",
-      "count": 7
     }
   ],
   "paywall": {
