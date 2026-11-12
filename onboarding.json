@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 22:34",
+  "updatedAt": "12.11.2026 22:41",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 117,
       "rate": 65.0
     },
-    "totalAnalyses": 606524,
+    "totalAnalyses": 606527,
     "leagues": 360,
     "pro": {
       "won": 1169,
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1111,
-    "analyses30d": 18206
+    "analyses24h": 1108,
+    "analyses30d": 18203
   },
   "recentWins": [
     {
@@ -362,6 +362,18 @@
       "picks": 4
     },
     {
+      "home": "Curacao",
+      "away": "Panama",
+      "league": "CON",
+      "date": "13.11.2026 00:00",
+      "matchCode": "4579448",
+      "odds": 1.18,
+      "patternScore": 68.59,
+      "patternText": "116.034/169.167",
+      "aiScore": 73,
+      "picks": 3
+    },
+    {
       "home": "Peru",
       "away": "Bolivia",
       "league": "HAZ",
@@ -394,20 +406,8 @@
       "odds": 1.07,
       "patternScore": 70.61,
       "patternText": "257.300/364.400",
-      "aiScore": 94,
+      "aiScore": 93,
       "picks": 1
-    },
-    {
-      "home": "Tunisia",
-      "away": "Libya",
-      "league": "AFUK",
-      "date": "13.11.2026 16:00",
-      "matchCode": "4579348",
-      "odds": 1.64,
-      "patternScore": 66.81,
-      "patternText": "153.332/229.514",
-      "aiScore": 53,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
