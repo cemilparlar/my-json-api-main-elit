@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 17:42",
+  "updatedAt": "12.11.2026 17:50",
   "config": {
     "pages": [
       "engine",
@@ -23,23 +23,23 @@
     "days": 7,
     "last24h": {
       "won": 19,
-      "lost": 7,
-      "total": 26,
-      "rate": 73.1
+      "lost": 3,
+      "total": 22,
+      "rate": 86.4
     },
     "totalAnalyses": 606261,
     "leagues": 359,
     "pro": {
-      "won": 1175,
-      "lost": 511,
-      "total": 1686,
-      "rate": 69.7
+      "won": 1152,
+      "lost": 491,
+      "total": 1643,
+      "rate": 70.1
     },
     "insights": {
-      "won": 1973,
-      "lost": 830,
-      "total": 2803,
-      "rate": 70.4
+      "won": 1933,
+      "lost": 803,
+      "total": 2736,
+      "rate": 70.7
     },
     "coupons": {
       "won": 50,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 1094,
-    "analyses30d": 18383
+    "analyses24h": 1088,
+    "analyses30d": 18378
   },
   "recentWins": [
     {
@@ -367,22 +367,10 @@
       "league": "BR2",
       "date": "12.11.2026 23:00",
       "matchCode": "4454058",
-      "odds": 1.12,
-      "patternScore": 69.63,
-      "patternText": "279.338/401.203",
-      "aiScore": 83,
-      "picks": 2
-    },
-    {
-      "home": "Barbados",
-      "away": "Guadeloupe",
-      "league": "CON",
-      "date": "12.11.2026 19:00",
-      "matchCode": "4579428",
-      "odds": 1.12,
-      "patternScore": 70.03,
-      "patternText": "256.731/366.616",
-      "aiScore": 91,
+      "odds": 1.11,
+      "patternScore": 66.07,
+      "patternText": "274.315/415.206",
+      "aiScore": 84,
       "picks": 1
     },
     {
@@ -407,6 +395,18 @@
       "patternScore": 70.62,
       "patternText": "269.924/382.207",
       "aiScore": 95,
+      "picks": 1
+    },
+    {
+      "home": "Preston Lions",
+      "away": "Queensland Lions",
+      "league": "AVC",
+      "date": "13.11.2026 08:30",
+      "matchCode": "4573668",
+      "odds": 1.28,
+      "patternScore": 69.2,
+      "patternText": "208.389/301.147",
+      "aiScore": 64,
       "picks": 1
     }
   ],
