@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 07:26",
+  "updatedAt": "12.11.2026 07:34",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 38,
       "rate": 65.8
     },
-    "totalAnalyses": 601407,
+    "totalAnalyses": 601440,
     "leagues": 359,
     "pro": {
       "won": 1167,
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 259,
-    "analyses30d": 17851
+    "analyses24h": 290,
+    "analyses30d": 17881
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 1.49,
       "probability": 78.57,
       "patternScore": 68.1,
-      "aiScore": 57,
+      "aiScore": 56,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 2",
       "pro": true
@@ -74,7 +74,7 @@
       "odds": 1.41,
       "probability": 71.43,
       "patternScore": 67.01,
-      "aiScore": 58,
+      "aiScore": 57,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
       "pro": true
@@ -116,7 +116,7 @@
       "odds": 1.28,
       "probability": 74.77,
       "patternScore": 68.23,
-      "aiScore": 63,
+      "aiScore": 62,
       "firstHalf": "0 - 1",
       "finalScore": "2 - 1",
       "pro": true
@@ -307,7 +307,7 @@
     },
     {
       "type": "analysis",
-      "count": 259
+      "count": 290
     }
   ],
   "today": {
@@ -316,11 +316,11 @@
     "league": "AVC",
     "date": "12.11.2026 08:30",
     "matchCode": "4573644",
-    "odds": 1.12,
-    "patternScore": 68.39,
-    "patternText": "188.023/274.932",
-    "aiScore": 77,
-    "picks": 1
+    "odds": 1.14,
+    "patternScore": 68.64,
+    "patternText": "183.745/267.680",
+    "aiScore": 82,
+    "picks": 2
   },
   "todayList": [
     {
@@ -329,10 +329,22 @@
       "league": "AVC",
       "date": "12.11.2026 08:30",
       "matchCode": "4573644",
-      "odds": 1.12,
-      "patternScore": 68.39,
-      "patternText": "188.023/274.932",
-      "aiScore": 77,
+      "odds": 1.14,
+      "patternScore": 68.64,
+      "patternText": "183.745/267.680",
+      "aiScore": 82,
+      "picks": 2
+    },
+    {
+      "home": "Uzbekistan",
+      "away": "Russia",
+      "league": "HAZ",
+      "date": "12.11.2026 15:00",
+      "matchCode": "4579388",
+      "odds": 1.24,
+      "patternScore": 69.49,
+      "patternText": "213.477/307.191",
+      "aiScore": 68,
       "picks": 1
     },
     {
@@ -344,7 +356,7 @@
       "odds": 1.18,
       "patternScore": 69.55,
       "patternText": "132.641/190.705",
-      "aiScore": 85,
+      "aiScore": 83,
       "picks": 2
     },
     {
@@ -356,31 +368,19 @@
       "odds": 1.12,
       "patternScore": 67.58,
       "patternText": "144.906/214.421",
-      "aiScore": 93,
+      "aiScore": 91,
       "picks": 2
     },
     {
-      "home": "Madagascar",
-      "away": "Guinea Bissau",
-      "league": "AFUK",
+      "home": "Maan",
+      "away": "Al Yarmouk",
+      "league": "ÜRD1",
       "date": "12.11.2026 16:00",
-      "matchCode": "4579380",
-      "odds": 1.08,
-      "patternScore": 69.2,
-      "patternText": "199.628/288.472",
-      "aiScore": 92,
-      "picks": 1
-    },
-    {
-      "home": "Albania",
-      "away": "Finland",
-      "league": "AVUL",
-      "date": "12.11.2026 19:45",
-      "matchCode": "4445212",
-      "odds": 1.07,
-      "patternScore": 69.11,
-      "patternText": "152.300/220.374",
-      "aiScore": 92,
+      "matchCode": "4561286",
+      "odds": 1.12,
+      "patternScore": 70.24,
+      "patternText": "264.786/376.990",
+      "aiScore": 83,
       "picks": 1
     }
   ],
