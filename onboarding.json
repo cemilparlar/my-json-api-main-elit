@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 19:35",
+  "updatedAt": "12.11.2026 19:42",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 115,
       "rate": 43.5
     },
-    "analyses24h": 1092,
-    "analyses30d": 18221
+    "analyses24h": 1091,
+    "analyses30d": 18220
   },
   "recentWins": [
     {
@@ -332,8 +332,8 @@
     {
       "type": "updated",
       "at": "12.11.2026 19:34",
-      "home": "Llaneros",
-      "away": "Chico"
+      "home": "Club Deportivo Aguila",
+      "away": "Municipal Limen"
     }
   ],
   "today": {
@@ -342,11 +342,11 @@
     "league": "KOL",
     "date": "13.11.2026 00:00",
     "matchCode": "4514006",
-    "odds": 1.52,
-    "patternScore": 69.04,
-    "patternText": "132.560/192.012",
-    "aiScore": 57,
-    "picks": 1
+    "odds": 1.4,
+    "patternScore": 67.59,
+    "patternText": "120.658/178.520",
+    "aiScore": 60,
+    "picks": 2
   },
   "todayList": [
     {
@@ -355,11 +355,23 @@
       "league": "KOL",
       "date": "13.11.2026 00:00",
       "matchCode": "4514006",
-      "odds": 1.52,
-      "patternScore": 69.04,
-      "patternText": "132.560/192.012",
-      "aiScore": 57,
-      "picks": 1
+      "odds": 1.4,
+      "patternScore": 67.59,
+      "patternText": "120.658/178.520",
+      "aiScore": 60,
+      "picks": 2
+    },
+    {
+      "home": "Club Deportivo Aguila",
+      "away": "Municipal Limen",
+      "league": "ELSAL",
+      "date": "12.11.2026 21:30",
+      "matchCode": "4504424",
+      "odds": 1.21,
+      "patternScore": 68.75,
+      "patternText": "203.863/296.541",
+      "aiScore": 72,
+      "picks": 2
     },
     {
       "home": "Sao Bernardo",
@@ -369,7 +381,7 @@
       "matchCode": "4454058",
       "odds": 1.11,
       "patternScore": 66.07,
-      "patternText": "274.403/415.318",
+      "patternText": "274.405/415.320",
       "aiScore": 85,
       "picks": 1
     },
@@ -381,7 +393,7 @@
       "matchCode": "4579413",
       "odds": 1.07,
       "patternScore": 70.62,
-      "patternText": "269.980/382.289",
+      "patternText": "269.982/382.291",
       "aiScore": 95,
       "picks": 1
     },
@@ -396,18 +408,6 @@
       "patternText": "175.746/244.337",
       "aiScore": 96,
       "picks": 2
-    },
-    {
-      "home": "Preston Lions",
-      "away": "Queensland Lions",
-      "league": "AVC",
-      "date": "13.11.2026 08:30",
-      "matchCode": "4573668",
-      "odds": 1.28,
-      "patternScore": 69.2,
-      "patternText": "208.433/301.197",
-      "aiScore": 67,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
