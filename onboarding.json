@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 21:56",
+  "updatedAt": "12.11.2026 22:03",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 79,
+      "won": 76,
       "lost": 41,
-      "total": 120,
-      "rate": 65.8
+      "total": 117,
+      "rate": 65.0
     },
-    "totalAnalyses": 606499,
+    "totalAnalyses": 606501,
     "leagues": 360,
     "pro": {
       "won": 1162,
@@ -47,8 +47,8 @@
       "total": 111,
       "rate": 45.0
     },
-    "analyses24h": 1107,
-    "analyses30d": 18221
+    "analyses24h": 1104,
+    "analyses30d": 18218
   },
   "recentWins": [
     {
@@ -94,20 +94,6 @@
       "pro": true
     },
     {
-      "home": "PSG Women",
-      "away": "Bayern Munich",
-      "league": "ŞMP-K",
-      "date": "10.11.2026 20:00",
-      "prediction": "Under 3.5 Goals",
-      "odds": 1.49,
-      "probability": 78.57,
-      "patternScore": 68.1,
-      "aiScore": 53,
-      "firstHalf": "0 - 2",
-      "finalScore": "1 - 2",
-      "pro": true
-    },
-    {
       "home": "Nove Zamky",
       "away": "Zemplin",
       "league": "SLOVK",
@@ -119,6 +105,20 @@
       "aiScore": 54,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
+      "pro": true
+    },
+    {
+      "home": "Armenia",
+      "away": "Cyprus",
+      "league": "AVUL",
+      "date": "12.11.2026 17:00",
+      "prediction": "1st Half Over 0.5",
+      "odds": 1.34,
+      "probability": 71.43,
+      "patternScore": 67.63,
+      "aiScore": 56,
+      "firstHalf": "0 - 1",
+      "finalScore": "1 - 1",
       "pro": true
     }
   ],
@@ -281,11 +281,11 @@
     },
     {
       "type": "won",
-      "home": "PSG Women",
-      "away": "Bayern Munich",
-      "prediction": "Under 3.5 Goals",
-      "odds": 1.49,
-      "at": "10.11.2026 20:00"
+      "home": "Nove Zamky",
+      "away": "Zemplin",
+      "prediction": "1st Half Under 1.5",
+      "odds": 1.41,
+      "at": "11.11.2026 12:00"
     },
     {
       "type": "updated",
