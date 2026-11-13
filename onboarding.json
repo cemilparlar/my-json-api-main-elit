@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 08:39",
+  "updatedAt": "13.11.2026 08:46",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 606908,
     "leagues": 360,
     "pro": {
-      "won": 1171,
-      "lost": 517,
-      "total": 1688,
+      "won": 1169,
+      "lost": 516,
+      "total": 1685,
       "rate": 69.4
     },
     "insights": {
-      "won": 1942,
-      "lost": 823,
-      "total": 2765,
+      "won": 1938,
+      "lost": 821,
+      "total": 2759,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1128,
-    "analyses30d": 18211
+    "analyses24h": 1127,
+    "analyses30d": 18210
   },
   "recentWins": [
     {
@@ -300,14 +300,8 @@
       "away": "Burundi"
     },
     {
-      "type": "updated",
-      "at": "13.11.2026 08:18",
-      "home": "Mozambique",
-      "away": "Ethiopia"
-    },
-    {
       "type": "analysis",
-      "count": 1128
+      "count": 1127
     }
   ],
   "today": {
@@ -336,6 +330,18 @@
       "picks": 1
     },
     {
+      "home": "Qatar",
+      "away": "Australia",
+      "league": "HAZ",
+      "date": "13.11.2026 14:45",
+      "matchCode": "4565370",
+      "odds": 1.08,
+      "patternScore": 69.4,
+      "patternText": "254.081/366.133",
+      "aiScore": 97,
+      "picks": 2
+    },
+    {
       "home": "Zambia",
       "away": "Burundi",
       "league": "AFUK",
@@ -345,18 +351,6 @@
       "patternScore": 71.51,
       "patternText": "199.780/279.370",
       "aiScore": 97,
-      "picks": 1
-    },
-    {
-      "home": "Mozambique",
-      "away": "Ethiopia",
-      "league": "AFUK",
-      "date": "13.11.2026 13:00",
-      "matchCode": "4579365",
-      "odds": 1.07,
-      "patternScore": 69.17,
-      "patternText": "251.090/362.992",
-      "aiScore": 90,
       "picks": 1
     },
     {
