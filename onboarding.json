@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 10:00",
+  "updatedAt": "13.11.2026 10:12",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 129,
       "rate": 62.8
     },
-    "totalAnalyses": 606985,
+    "totalAnalyses": 607000,
     "leagues": 360,
     "pro": {
       "won": 1169,
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1145,
-    "analyses30d": 18213
+    "analyses24h": 1149,
+    "analyses30d": 18217
   },
   "recentWins": [
     {
@@ -295,6 +295,12 @@
     },
     {
       "type": "updated",
+      "at": "13.11.2026 10:05",
+      "home": "Comoros",
+      "away": "Congo"
+    },
+    {
+      "type": "updated",
       "at": "13.11.2026 09:21",
       "home": "Zambia",
       "away": "Burundi"
@@ -306,41 +312,55 @@
       "away": "Australia"
     },
     {
-      "type": "kickoff",
-      "home": "Chinese Taipei",
-      "away": "Kyrgyzstan",
-      "at": "13.11.2026 12:00"
+      "type": "updated",
+      "at": "13.11.2026 10:06",
+      "home": "Cape Verde",
+      "away": "Liberia"
     },
     {
-      "type": "kickoff",
-      "home": "Comoros",
-      "away": "Congo",
-      "at": "13.11.2026 13:00"
+      "type": "updated",
+      "at": "13.11.2026 10:07",
+      "home": "Tunisia",
+      "away": "Libya"
     },
     {
-      "type": "kickoff",
-      "home": "Zambia",
-      "away": "Burundi",
-      "at": "13.11.2026 13:00"
+      "type": "updated",
+      "at": "13.11.2026 10:05",
+      "home": "Al Sahl Horan",
+      "away": "Al Sareeh"
     },
     {
-      "type": "analysis",
-      "count": 1145
+      "type": "updated",
+      "at": "13.11.2026 10:06",
+      "home": "Jerash",
+      "away": "Ethad Ar"
     }
   ],
   "today": {
-    "home": "Qatar",
-    "away": "Australia",
-    "league": "HAZ",
-    "date": "13.11.2026 14:45",
-    "matchCode": "4565370",
-    "odds": 1.18,
-    "patternScore": 69.59,
-    "patternText": "306.673/440.673",
-    "aiScore": 67,
-    "picks": 1
+    "home": "Tunisia",
+    "away": "Libya",
+    "league": "AFUK",
+    "date": "13.11.2026 16:00",
+    "matchCode": "4579348",
+    "odds": 1.64,
+    "patternScore": 66.81,
+    "patternText": "153.372/229.576",
+    "aiScore": 53,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Tunisia",
+      "away": "Libya",
+      "league": "AFUK",
+      "date": "13.11.2026 16:00",
+      "matchCode": "4579348",
+      "odds": 1.64,
+      "patternScore": 66.81,
+      "patternText": "153.372/229.576",
+      "aiScore": 53,
+      "picks": 2
+    },
     {
       "home": "Qatar",
       "away": "Australia",
@@ -366,40 +386,28 @@
       "picks": 1
     },
     {
-      "home": "Zambia",
-      "away": "Burundi",
-      "league": "AFUK",
-      "date": "13.11.2026 13:00",
-      "matchCode": "4579356",
-      "odds": 1.09,
-      "patternScore": 70.55,
-      "patternText": "328.568/465.694",
-      "aiScore": 96,
+      "home": "Al Sahl Horan",
+      "away": "Al Sareeh",
+      "league": "ÜRD1",
+      "date": "13.11.2026 16:00",
+      "matchCode": "4561289",
+      "odds": 1.15,
+      "patternScore": 69.19,
+      "patternText": "249.780/361.008",
+      "aiScore": 72,
       "picks": 1
     },
     {
-      "home": "Tunisia",
-      "away": "Libya",
-      "league": "AFUK",
+      "home": "Al Hashemeya",
+      "away": "Sama Al Sarhan",
+      "league": "ÜRD1",
       "date": "13.11.2026 16:00",
-      "matchCode": "4579348",
-      "odds": 1.64,
-      "patternScore": 66.81,
-      "patternText": "153.372/229.576",
-      "aiScore": 53,
-      "picks": 2
-    },
-    {
-      "home": "Moldova",
-      "away": "Kazakhstan",
-      "league": "AVUL",
-      "date": "13.11.2026 17:00",
-      "matchCode": "4445230",
-      "odds": 1.53,
-      "patternScore": 65.77,
-      "patternText": "91.535/139.164",
-      "aiScore": 52,
-      "picks": 5
+      "matchCode": "4561290",
+      "odds": 1.15,
+      "patternScore": 70.01,
+      "patternText": "293.440/419.130",
+      "aiScore": 78,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
