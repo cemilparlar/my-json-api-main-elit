@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 15:26",
+  "updatedAt": "13.11.2026 15:34",
   "config": {
     "pages": [
       "engine",
@@ -36,9 +36,9 @@
       "rate": 69.3
     },
     "insights": {
-      "won": 1917,
-      "lost": 815,
-      "total": 2732,
+      "won": 1915,
+      "lost": 814,
+      "total": 2729,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 107,
       "rate": 45.8
     },
-    "analyses24h": 1223,
-    "analyses30d": 18187
+    "analyses24h": 1220,
+    "analyses30d": 18180
   },
   "recentWins": [
     {
@@ -301,6 +301,12 @@
     },
     {
       "type": "updated",
+      "at": "13.11.2026 15:24",
+      "home": "Slovakia",
+      "away": "Faroe Islands"
+    },
+    {
+      "type": "updated",
       "at": "13.11.2026 15:03",
       "home": "Luxembourg",
       "away": "Estonia"
@@ -319,48 +325,30 @@
     },
     {
       "type": "updated",
+      "at": "13.11.2026 15:22",
+      "home": "Tunisia",
+      "away": "Libya"
+    },
+    {
+      "type": "updated",
       "at": "13.11.2026 14:02",
       "home": "Gabon",
       "away": "Lesotho"
-    },
-    {
-      "type": "updated",
-      "at": "13.11.2026 14:39",
-      "home": "Finland (U2",
-      "away": "Republic of Ireland"
-    },
-    {
-      "type": "updated",
-      "at": "13.11.2026 13:46",
-      "home": "Hellerup Ik",
-      "away": "B93"
     }
   ],
   "today": {
-    "home": "Moldova",
-    "away": "Kazakhstan",
-    "league": "AVUL",
-    "date": "13.11.2026 17:00",
-    "matchCode": "4445230",
-    "odds": 2.25,
-    "patternScore": 66.75,
-    "patternText": "156.737/234.814",
-    "aiScore": 51,
-    "picks": 9
+    "home": "Ballymena",
+    "away": "Linfield",
+    "league": "KİRL",
+    "date": "13.11.2026 19:45",
+    "matchCode": "4486926",
+    "odds": 1.59,
+    "patternScore": 67.8,
+    "patternText": "138.669/204.520",
+    "aiScore": 53,
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Moldova",
-      "away": "Kazakhstan",
-      "league": "AVUL",
-      "date": "13.11.2026 17:00",
-      "matchCode": "4445230",
-      "odds": 2.25,
-      "patternScore": 66.75,
-      "patternText": "156.737/234.814",
-      "aiScore": 51,
-      "picks": 9
-    },
     {
       "home": "Ballymena",
       "away": "Linfield",
@@ -370,20 +358,32 @@
       "odds": 1.59,
       "patternScore": 67.8,
       "patternText": "138.669/204.520",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 3
     },
     {
-      "home": "Al Hashemeya",
-      "away": "Sama Al Sarhan",
-      "league": "ÜRD1",
-      "date": "13.11.2026 16:00",
-      "matchCode": "4561290",
-      "odds": 1.4,
-      "patternScore": 67.91,
-      "patternText": "209.148/308.000",
-      "aiScore": 53,
-      "picks": 1
+      "home": "Znicz Pruszkow",
+      "away": "Sokol Kleczew",
+      "league": "POL2",
+      "date": "13.11.2026 17:00",
+      "matchCode": "4486565",
+      "odds": 1.48,
+      "patternScore": 67.9,
+      "patternText": "237.505/349.770",
+      "aiScore": 56,
+      "picks": 2
+    },
+    {
+      "home": "Limavady Unite",
+      "away": "Cliftonville",
+      "league": "KİRL",
+      "date": "13.11.2026 19:45",
+      "matchCode": "4486931",
+      "odds": 1.41,
+      "patternScore": 68.2,
+      "patternText": "139.104/203.965",
+      "aiScore": 54,
+      "picks": 2
     },
     {
       "home": "SpVgg Bayreuth",
