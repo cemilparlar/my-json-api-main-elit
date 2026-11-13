@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 16:46",
+  "updatedAt": "13.11.2026 16:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 112,
       "rate": 62.5
     },
-    "totalAnalyses": 608038,
+    "totalAnalyses": 608045,
     "leagues": 361,
     "pro": {
       "won": 1149,
@@ -47,8 +47,8 @@
       "total": 107,
       "rate": 45.8
     },
-    "analyses24h": 1219,
-    "analyses30d": 18145
+    "analyses24h": 1226,
+    "analyses30d": 18152
   },
   "recentWins": [
     {
@@ -386,6 +386,18 @@
       "picks": 2
     },
     {
+      "home": "Glentoran",
+      "away": "Bangor Fc",
+      "league": "KİRL",
+      "date": "13.11.2026 19:45",
+      "matchCode": "4486929",
+      "odds": 1.38,
+      "patternScore": 68.25,
+      "patternText": "140.818/206.335",
+      "aiScore": 56,
+      "picks": 1
+    },
+    {
       "home": "Netherlands",
       "away": "Greece",
       "league": "AVUL",
@@ -396,21 +408,16 @@
       "patternText": "171.469/255.944",
       "aiScore": 58,
       "picks": 1
-    },
-    {
-      "home": "Luxembourg",
-      "away": "Estonia",
-      "league": "AVUL",
-      "date": "13.11.2026 19:45",
-      "matchCode": "4457630",
-      "odds": 1.35,
-      "patternScore": 67.34,
-      "patternText": "233.519/346.789",
-      "aiScore": 54,
-      "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Cyprus",
+      "away": "Montenegro",
+      "league": "AVUL",
+      "at": "13.11.2026 16:54",
+      "count": 3
+    },
     {
       "home": "Serbia",
       "away": "Germany",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "13.11.2026 11:23",
       "count": 3
-    },
-    {
-      "home": "France",
-      "away": "Turkiye",
-      "league": "AVUL",
-      "at": "13.11.2026 07:59",
-      "count": 12
     }
   ],
   "paywall": {
