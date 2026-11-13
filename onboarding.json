@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 14:23",
+  "updatedAt": "13.11.2026 14:31",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 128,
       "rate": 63.3
     },
-    "totalAnalyses": 607727,
+    "totalAnalyses": 607732,
     "leagues": 361,
     "pro": {
-      "won": 1157,
-      "lost": 510,
-      "total": 1667,
+      "won": 1156,
+      "lost": 509,
+      "total": 1665,
       "rate": 69.4
     },
     "insights": {
-      "won": 1918,
-      "lost": 814,
-      "total": 2732,
+      "won": 1917,
+      "lost": 813,
+      "total": 2730,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1247,
-    "analyses30d": 18221
+    "analyses24h": 1242,
+    "analyses30d": 18216
   },
   "recentWins": [
     {
@@ -370,7 +370,7 @@
       "odds": 1.59,
       "patternScore": 67.8,
       "patternText": "138.665/204.506",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 3
     },
     {
@@ -382,6 +382,18 @@
       "odds": 1.38,
       "patternScore": 67.63,
       "patternText": "228.622/338.031",
+      "aiScore": 55,
+      "picks": 2
+    },
+    {
+      "home": "Al Hashemeya",
+      "away": "Sama Al Sarhan",
+      "league": "ÜRD1",
+      "date": "13.11.2026 16:00",
+      "matchCode": "4561290",
+      "odds": 1.38,
+      "patternScore": 67.91,
+      "patternText": "209.264/308.146",
       "aiScore": 56,
       "picks": 2
     },
@@ -396,18 +408,6 @@
       "patternText": "240.822/352.457",
       "aiScore": 56,
       "picks": 1
-    },
-    {
-      "home": "Crusaders",
-      "away": "Carrick Rangers",
-      "league": "KİRL",
-      "date": "13.11.2026 19:45",
-      "matchCode": "4486928",
-      "odds": 1.34,
-      "patternScore": 67.77,
-      "patternText": "227.612/335.844",
-      "aiScore": 54,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
