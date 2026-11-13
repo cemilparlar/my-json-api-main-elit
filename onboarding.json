@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 18:04",
+  "updatedAt": "13.11.2026 18:12",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 59,
-      "lost": 40,
-      "total": 99,
-      "rate": 59.6
+      "won": 77,
+      "lost": 45,
+      "total": 122,
+      "rate": 63.1
     },
-    "totalAnalyses": 608200,
+    "totalAnalyses": 608211,
     "leagues": 361,
     "pro": {
-      "won": 1124,
-      "lost": 501,
-      "total": 1625,
-      "rate": 69.2
+      "won": 1132,
+      "lost": 502,
+      "total": 1634,
+      "rate": 69.3
     },
     "insights": {
-      "won": 1856,
-      "lost": 782,
-      "total": 2638,
+      "won": 1869,
+      "lost": 784,
+      "total": 2653,
       "rate": 70.4
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 107,
       "rate": 45.8
     },
-    "analyses24h": 1216,
-    "analyses30d": 18035
+    "analyses24h": 1225,
+    "analyses30d": 18044
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 15:24",
+      "at": "13.11.2026 18:10",
       "home": "Slovakia",
       "away": "Faroe Islands"
     },
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Slovakia",
+      "away": "Faroe Islands",
+      "league": "AVUL",
+      "at": "13.11.2026 18:10",
+      "count": 16
+    },
+    {
       "home": "Netherlands",
       "away": "Greece",
       "league": "AVUL",
@@ -459,13 +466,6 @@
       "league": "İS2",
       "at": "13.11.2026 15:40",
       "count": 5
-    },
-    {
-      "home": "Slovakia",
-      "away": "Faroe Islands",
-      "league": "AVUL",
-      "at": "13.11.2026 15:24",
-      "count": 9
     },
     {
       "home": "Luxembourg",
