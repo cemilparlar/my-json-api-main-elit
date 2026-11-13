@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 06:00",
+  "updatedAt": "13.11.2026 06:07",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 87,
+      "won": 86,
       "lost": 48,
-      "total": 135,
-      "rate": 64.4
+      "total": 134,
+      "rate": 64.2
     },
-    "totalAnalyses": 606752,
+    "totalAnalyses": 606757,
     "leagues": 360,
     "pro": {
       "won": 1174,
@@ -354,6 +354,18 @@
       "picks": 5
     },
     {
+      "home": "Hellerup Ik",
+      "away": "B93",
+      "league": "DAN2",
+      "date": "13.11.2026 18:00",
+      "matchCode": "4510863",
+      "odds": 1.36,
+      "patternScore": 67.81,
+      "patternText": "243.989/359.829",
+      "aiScore": 53,
+      "picks": 3
+    },
+    {
       "home": "JS Saoura",
       "away": "Usm Khenchela",
       "league": "CZYR",
@@ -364,18 +376,6 @@
       "patternText": "234.993/342.264",
       "aiScore": 60,
       "picks": 1
-    },
-    {
-      "home": "Mozambique",
-      "away": "Ethiopia",
-      "league": "AFUK",
-      "date": "13.11.2026 13:00",
-      "matchCode": "4579365",
-      "odds": 1.22,
-      "patternScore": 68.78,
-      "patternText": "243.336/353.784",
-      "aiScore": 62,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
