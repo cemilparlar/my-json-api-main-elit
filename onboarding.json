@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 12:07",
+  "updatedAt": "13.11.2026 12:14",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1206,
-    "analyses30d": 18261
+    "analyses24h": 1203,
+    "analyses30d": 18258
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 3.13,
       "probability": 100.0,
       "patternScore": 55.81,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "2 - 0",
       "finalScore": "2 - 0",
       "pro": false
@@ -116,7 +116,7 @@
       "odds": 1.41,
       "probability": 71.43,
       "patternScore": 67.01,
-      "aiScore": 54,
+      "aiScore": 55,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
       "pro": true
@@ -319,12 +319,6 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 12:03",
-      "home": "Cape Verde",
-      "away": "Liberia"
-    },
-    {
-      "type": "updated",
       "at": "13.11.2026 11:42",
       "home": "Finland (U2",
       "away": "Republic of Ireland"
@@ -334,33 +328,27 @@
       "at": "13.11.2026 11:43",
       "home": "Denmark (U21",
       "away": "Netherlands (U21)"
+    },
+    {
+      "type": "updated",
+      "at": "13.11.2026 12:06",
+      "home": "Hellerup Ik",
+      "away": "B93"
     }
   ],
   "today": {
-    "home": "Hellerup Ik",
-    "away": "B93",
-    "league": "DAN2",
-    "date": "13.11.2026 18:00",
-    "matchCode": "4510863",
-    "odds": 1.36,
-    "patternScore": 67.81,
-    "patternText": "244.009/359.849",
-    "aiScore": 54,
-    "picks": 3
+    "home": "Qatar",
+    "away": "Australia",
+    "league": "HAZ",
+    "date": "13.11.2026 14:45",
+    "matchCode": "4565370",
+    "odds": 1.18,
+    "patternScore": 69.59,
+    "patternText": "306.697/440.697",
+    "aiScore": 67,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Hellerup Ik",
-      "away": "B93",
-      "league": "DAN2",
-      "date": "13.11.2026 18:00",
-      "matchCode": "4510863",
-      "odds": 1.36,
-      "patternScore": 67.81,
-      "patternText": "244.009/359.849",
-      "aiScore": 54,
-      "picks": 3
-    },
     {
       "home": "Qatar",
       "away": "Australia",
@@ -379,9 +367,21 @@
       "league": "ÜRD1",
       "date": "13.11.2026 16:00",
       "matchCode": "4561290",
-      "odds": 1.15,
-      "patternScore": 70.01,
-      "patternText": "293.476/419.166",
+      "odds": 1.18,
+      "patternScore": 65.31,
+      "patternText": "283.348/433.840",
+      "aiScore": 67,
+      "picks": 1
+    },
+    {
+      "home": "FC Roskilde",
+      "away": "Nykobing",
+      "league": "DAN2",
+      "date": "13.11.2026 18:00",
+      "matchCode": "4510862",
+      "odds": 1.16,
+      "patternScore": 69.17,
+      "patternText": "256.474/370.767",
       "aiScore": 79,
       "picks": 1
     },
@@ -394,7 +394,7 @@
       "odds": 1.15,
       "patternScore": 70.05,
       "patternText": "302.486/431.840",
-      "aiScore": 75,
+      "aiScore": 76,
       "picks": 1
     },
     {
@@ -403,10 +403,10 @@
       "league": "ÜRD1",
       "date": "13.11.2026 16:00",
       "matchCode": "4561289",
-      "odds": 1.14,
-      "patternScore": 69.9,
-      "patternText": "285.656/408.638",
-      "aiScore": 76,
+      "odds": 1.15,
+      "patternScore": 70.02,
+      "patternText": "292.604/417.914",
+      "aiScore": 81,
       "picks": 1
     }
   ],
