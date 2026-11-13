@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 10:57",
+  "updatedAt": "13.11.2026 11:04",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 133,
       "rate": 63.9
     },
-    "totalAnalyses": 607054,
+    "totalAnalyses": 607094,
     "leagues": 360,
     "pro": {
-      "won": 1170,
-      "lost": 516,
-      "total": 1686,
+      "won": 1169,
+      "lost": 515,
+      "total": 1684,
       "rate": 69.4
     },
     "insights": {
-      "won": 1941,
-      "lost": 821,
-      "total": 2762,
+      "won": 1939,
+      "lost": 820,
+      "total": 2759,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1151,
-    "analyses30d": 18219
+    "analyses24h": 1167,
+    "analyses30d": 18233
   },
   "recentWins": [
     {
@@ -289,6 +289,12 @@
     },
     {
       "type": "updated",
+      "at": "13.11.2026 11:02",
+      "home": "Moldova",
+      "away": "Kazakhstan"
+    },
+    {
+      "type": "updated",
       "at": "13.11.2026 07:01",
       "home": "Oakleigh Cannons",
       "away": "Marconi Stallions"
@@ -313,42 +319,48 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 10:06",
+      "at": "13.11.2026 11:02",
       "home": "Cape Verde",
       "away": "Liberia"
     },
     {
       "type": "updated",
-      "at": "13.11.2026 10:25",
-      "home": "Al Sahl Horan",
-      "away": "Al Sareeh"
+      "at": "13.11.2026 11:02",
+      "home": "Finland (U2",
+      "away": "Republic of Ireland"
     },
     {
       "type": "updated",
-      "at": "13.11.2026 10:06",
-      "home": "Jerash",
-      "away": "Ethad Ar"
-    },
-    {
-      "type": "kickoff",
-      "home": "Chinese Taipei",
-      "away": "Kyrgyzstan",
-      "at": "13.11.2026 12:00"
+      "at": "13.11.2026 11:02",
+      "home": "JS Saoura",
+      "away": "Usm Khenchela"
     }
   ],
   "today": {
-    "home": "Zambia",
-    "away": "Burundi",
-    "league": "AFUK",
-    "date": "13.11.2026 13:00",
-    "matchCode": "4579356",
-    "odds": 1.28,
-    "patternScore": 68.99,
-    "patternText": "229.436/332.574",
-    "aiScore": 59,
-    "picks": 2
+    "home": "Moldova",
+    "away": "Kazakhstan",
+    "league": "AVUL",
+    "date": "13.11.2026 17:00",
+    "matchCode": "4445230",
+    "odds": 1.53,
+    "patternScore": 65.78,
+    "patternText": "91.543/139.172",
+    "aiScore": 52,
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "Moldova",
+      "away": "Kazakhstan",
+      "league": "AVUL",
+      "date": "13.11.2026 17:00",
+      "matchCode": "4445230",
+      "odds": 1.53,
+      "patternScore": 65.78,
+      "patternText": "91.543/139.172",
+      "aiScore": 52,
+      "picks": 5
+    },
     {
       "home": "Zambia",
       "away": "Burundi",
@@ -360,6 +372,18 @@
       "patternText": "229.436/332.574",
       "aiScore": 59,
       "picks": 2
+    },
+    {
+      "home": "JS Saoura",
+      "away": "Usm Khenchela",
+      "league": "CZYR",
+      "date": "13.11.2026 17:00",
+      "matchCode": "4546121",
+      "odds": 1.23,
+      "patternScore": 68.66,
+      "patternText": "235.025/342.296",
+      "aiScore": 60,
+      "picks": 1
     },
     {
       "home": "Qatar",
@@ -384,33 +408,16 @@
       "patternText": "293.476/419.166",
       "aiScore": 78,
       "picks": 1
-    },
-    {
-      "home": "Comoros",
-      "away": "Congo",
-      "league": "AFUK",
-      "date": "13.11.2026 13:00",
-      "matchCode": "4579341",
-      "odds": 1.15,
-      "patternScore": 70.05,
-      "patternText": "302.486/431.840",
-      "aiScore": 75,
-      "picks": 1
-    },
-    {
-      "home": "Finland (U2",
-      "away": "Republic of Ireland",
-      "league": "U21",
-      "date": "13.11.2026 16:15",
-      "matchCode": "4573277",
-      "odds": 1.15,
-      "patternScore": 69.3,
-      "patternText": "244.662/353.030",
-      "aiScore": 89,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Moldova",
+      "away": "Kazakhstan",
+      "league": "AVUL",
+      "at": "13.11.2026 11:02",
+      "count": 12
+    },
     {
       "home": "France",
       "away": "Turkiye",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "12.11.2026 15:07",
       "count": 4
-    },
-    {
-      "home": "Haiti",
-      "away": "USA",
-      "league": "CON",
-      "at": "12.11.2026 14:08",
-      "count": 8
     }
   ],
   "paywall": {
