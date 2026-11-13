@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 21:52",
+  "updatedAt": "13.11.2026 22:00",
   "config": {
     "pages": [
       "engine",
@@ -47,10 +47,24 @@
       "total": 91,
       "rate": 52.7
     },
-    "analyses24h": 1162,
+    "analyses24h": 1159,
     "analyses30d": 17849
   },
   "recentWins": [
+    {
+      "home": "Andorra",
+      "away": "Gibraltar",
+      "league": "AVUL",
+      "date": "13.11.2026 19:45",
+      "prediction": "Handicap (0:1) 1",
+      "odds": 3.38,
+      "probability": 100.0,
+      "patternScore": 56.72,
+      "aiScore": 51,
+      "firstHalf": "2 - 0",
+      "finalScore": "2 - 0",
+      "pro": false
+    },
     {
       "home": "Cameroon",
       "away": "Namibia",
@@ -64,6 +78,20 @@
       "firstHalf": "2 - 0",
       "finalScore": "2 - 0",
       "pro": false
+    },
+    {
+      "home": "Slovenia",
+      "away": "Switzerland",
+      "league": "AVUL",
+      "date": "13.11.2026 19:45",
+      "prediction": "Under 1.5 Goals",
+      "odds": 2.9,
+      "probability": 100.0,
+      "patternScore": 56.59,
+      "aiScore": 51,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 0",
+      "pro": true
     },
     {
       "home": "Apia",
@@ -92,34 +120,6 @@
       "firstHalf": "0 - 1",
       "finalScore": "0 - 2",
       "pro": true
-    },
-    {
-      "home": "Slovakia",
-      "away": "Faroe Islands",
-      "league": "AVUL",
-      "date": "13.11.2026 19:45",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.63,
-      "probability": 100.0,
-      "patternScore": 57.17,
-      "aiScore": 52,
-      "firstHalf": "1 - 1",
-      "finalScore": "2 - 2",
-      "pro": false
-    },
-    {
-      "home": "Uzbekistan",
-      "away": "Russia",
-      "league": "HAZ",
-      "date": "12.11.2026 15:00",
-      "prediction": "Match Result 2",
-      "odds": 1.54,
-      "probability": 71.88,
-      "patternScore": 68.12,
-      "aiScore": 53,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 3",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -257,6 +257,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Andorra",
+      "away": "Gibraltar",
+      "prediction": "Handicap (0:1) 1",
+      "odds": 3.38,
+      "at": "13.11.2026 19:45"
+    },
+    {
+      "type": "won",
       "home": "Cameroon",
       "away": "Namibia",
       "prediction": "Handicap (0:2) X",
@@ -265,27 +273,19 @@
     },
     {
       "type": "won",
+      "home": "Slovenia",
+      "away": "Switzerland",
+      "prediction": "Under 1.5 Goals",
+      "odds": 2.9,
+      "at": "13.11.2026 19:45"
+    },
+    {
+      "type": "won",
       "home": "Apia",
       "away": "Adelaide City FC",
       "prediction": "1st Half Over 1.5",
       "odds": 1.73,
       "at": "12.11.2026 08:30"
-    },
-    {
-      "type": "won",
-      "home": "Tunisia",
-      "away": "Libya",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.71,
-      "at": "13.11.2026 16:00"
-    },
-    {
-      "type": "won",
-      "home": "Slovakia",
-      "away": "Faroe Islands",
-      "prediction": "Over 2.5 Goals",
-      "odds": 1.63,
-      "at": "13.11.2026 19:45"
     },
     {
       "type": "updated",
@@ -344,8 +344,8 @@
     "matchCode": "4579409",
     "odds": 1.21,
     "patternScore": 68.58,
-    "patternText": "273.822/399.258",
-    "aiScore": 72,
+    "patternText": "273.842/399.288",
+    "aiScore": 73,
     "picks": 2
   },
   "todayList": [
@@ -357,8 +357,8 @@
       "matchCode": "4579409",
       "odds": 1.21,
       "patternScore": 68.58,
-      "patternText": "273.822/399.258",
-      "aiScore": 72,
+      "patternText": "273.842/399.288",
+      "aiScore": 73,
       "picks": 2
     },
     {
@@ -369,8 +369,8 @@
       "matchCode": "4565372",
       "odds": 1.21,
       "patternScore": 67.39,
-      "patternText": "286.019/424.424",
-      "aiScore": 69,
+      "patternText": "286.043/424.458",
+      "aiScore": 70,
       "picks": 1
     },
     {
@@ -380,9 +380,9 @@
       "date": "14.11.2026 02:00",
       "matchCode": "4579449",
       "odds": 1.21,
-      "patternScore": 68.61,
-      "patternText": "193.516/282.069",
-      "aiScore": 70,
+      "patternScore": 68.6,
+      "patternText": "193.530/282.099",
+      "aiScore": 71,
       "picks": 1
     },
     {
@@ -393,7 +393,7 @@
       "matchCode": "4490456",
       "odds": 1.06,
       "patternScore": 70.87,
-      "patternText": "185.244/261.371",
+      "patternText": "185.260/261.393",
       "aiScore": 98,
       "picks": 1
     },
@@ -405,8 +405,8 @@
       "matchCode": "4573669",
       "odds": 1.22,
       "patternScore": 67.79,
-      "patternText": "258.013/380.591",
-      "aiScore": 59,
+      "patternText": "258.027/380.615",
+      "aiScore": 60,
       "picks": 5
     }
   ],
