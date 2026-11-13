@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 20:29",
+  "updatedAt": "13.11.2026 20:37",
   "config": {
     "pages": [
       "engine",
@@ -374,6 +374,18 @@
       "picks": 1
     },
     {
+      "home": "Guatemala",
+      "away": "Canada",
+      "league": "CON",
+      "date": "14.11.2026 02:00",
+      "matchCode": "4579449",
+      "odds": 1.21,
+      "patternScore": 68.61,
+      "patternText": "193.488/282.015",
+      "aiScore": 70,
+      "picks": 1
+    },
+    {
       "home": "CSD Aurora",
       "away": "Mixco",
       "league": "GUAT",
@@ -396,18 +408,6 @@
       "patternText": "257.955/380.495",
       "aiScore": 59,
       "picks": 5
-    },
-    {
-      "home": "Albirex Niigata",
-      "away": "Tegevajaro Miyazaki",
-      "league": "JAP2",
-      "date": "14.11.2026 05:00",
-      "matchCode": "4487672",
-      "odds": 1.19,
-      "patternScore": 69.27,
-      "patternText": "274.997/396.982",
-      "aiScore": 70,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
