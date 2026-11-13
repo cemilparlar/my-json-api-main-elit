@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 12:22",
+  "updatedAt": "13.11.2026 12:29",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 133,
       "rate": 63.9
     },
-    "totalAnalyses": 607272,
+    "totalAnalyses": 607287,
     "leagues": 360,
     "pro": {
       "won": 1167,
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1200,
-    "analyses30d": 18246
+    "analyses24h": 1198,
+    "analyses30d": 18244
   },
   "recentWins": [
     {
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Qatar",
-    "away": "Australia",
-    "league": "HAZ",
-    "date": "13.11.2026 14:45",
-    "matchCode": "4565370",
-    "odds": 1.18,
-    "patternScore": 69.59,
-    "patternText": "306.697/440.697",
-    "aiScore": 67,
-    "picks": 1
+    "home": "Moldova",
+    "away": "Kazakhstan",
+    "league": "AVUL",
+    "date": "13.11.2026 17:00",
+    "matchCode": "4445230",
+    "odds": 1.78,
+    "patternScore": 66.64,
+    "patternText": "234.023/351.156",
+    "aiScore": 52,
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "Moldova",
+      "away": "Kazakhstan",
+      "league": "AVUL",
+      "date": "13.11.2026 17:00",
+      "matchCode": "4445230",
+      "odds": 1.78,
+      "patternScore": 66.64,
+      "patternText": "234.023/351.156",
+      "aiScore": 52,
+      "picks": 5
+    },
     {
       "home": "Qatar",
       "away": "Australia",
@@ -358,18 +370,6 @@
       "odds": 1.18,
       "patternScore": 69.59,
       "patternText": "306.697/440.697",
-      "aiScore": 67,
-      "picks": 1
-    },
-    {
-      "home": "Al Hashemeya",
-      "away": "Sama Al Sarhan",
-      "league": "ÜRD1",
-      "date": "13.11.2026 16:00",
-      "matchCode": "4561290",
-      "odds": 1.18,
-      "patternScore": 65.31,
-      "patternText": "283.348/433.840",
       "aiScore": 67,
       "picks": 1
     },
@@ -386,6 +386,18 @@
       "picks": 1
     },
     {
+      "home": "Al Hashemeya",
+      "away": "Sama Al Sarhan",
+      "league": "ÜRD1",
+      "date": "13.11.2026 16:00",
+      "matchCode": "4561290",
+      "odds": 1.16,
+      "patternScore": 68.64,
+      "patternText": "235.348/342.852",
+      "aiScore": 81,
+      "picks": 1
+    },
+    {
       "home": "Comoros",
       "away": "Congo",
       "league": "AFUK",
@@ -394,19 +406,7 @@
       "odds": 1.15,
       "patternScore": 70.05,
       "patternText": "302.486/431.840",
-      "aiScore": 76,
-      "picks": 1
-    },
-    {
-      "home": "Al Sahl Horan",
-      "away": "Al Sareeh",
-      "league": "ÜRD1",
-      "date": "13.11.2026 16:00",
-      "matchCode": "4561289",
-      "odds": 1.15,
-      "patternScore": 70.02,
-      "patternText": "292.604/417.914",
-      "aiScore": 81,
+      "aiScore": 75,
       "picks": 1
     }
   ],
