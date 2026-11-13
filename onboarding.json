@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 12:44",
+  "updatedAt": "13.11.2026 12:52",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 607312,
     "leagues": 360,
     "pro": {
-      "won": 1166,
-      "lost": 513,
-      "total": 1679,
-      "rate": 69.4
+      "won": 1165,
+      "lost": 512,
+      "total": 1677,
+      "rate": 69.5
     },
     "insights": {
-      "won": 1934,
-      "lost": 818,
-      "total": 2752,
+      "won": 1932,
+      "lost": 817,
+      "total": 2749,
       "rate": 70.3
     },
     "coupons": {
@@ -362,6 +362,30 @@
       "picks": 5
     },
     {
+      "home": "SpVgg Bayreuth",
+      "away": "Vilzing",
+      "league": "ALMBÖL",
+      "date": "13.11.2026 18:00",
+      "matchCode": "4506402",
+      "odds": 1.36,
+      "patternScore": 68.33,
+      "patternText": "240.822/352.457",
+      "aiScore": 56,
+      "picks": 1
+    },
+    {
+      "home": "Finland (U2",
+      "away": "Republic of Ireland",
+      "league": "U21",
+      "date": "13.11.2026 16:15",
+      "matchCode": "4573277",
+      "odds": 1.22,
+      "patternScore": 68.45,
+      "patternText": "223.526/326.546",
+      "aiScore": 65,
+      "picks": 4
+    },
+    {
       "home": "Qatar",
       "away": "Australia",
       "league": "HAZ",
@@ -382,30 +406,6 @@
       "odds": 1.16,
       "patternScore": 69.17,
       "patternText": "256.474/370.767",
-      "aiScore": 79,
-      "picks": 1
-    },
-    {
-      "home": "Al Hashemeya",
-      "away": "Sama Al Sarhan",
-      "league": "ÜRD1",
-      "date": "13.11.2026 16:00",
-      "matchCode": "4561290",
-      "odds": 1.16,
-      "patternScore": 68.64,
-      "patternText": "235.348/342.852",
-      "aiScore": 81,
-      "picks": 1
-    },
-    {
-      "home": "Al Sahl Horan",
-      "away": "Al Sareeh",
-      "league": "ÜRD1",
-      "date": "13.11.2026 16:00",
-      "matchCode": "4561289",
-      "odds": 1.15,
-      "patternScore": 70.0,
-      "patternText": "292.230/417.458",
       "aiScore": 79,
       "picks": 1
     }
