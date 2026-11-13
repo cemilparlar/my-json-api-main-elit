@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 23:25",
+  "updatedAt": "13.11.2026 23:33",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 213,
       "rate": 63.4
     },
-    "totalAnalyses": 608529,
-    "leagues": 359,
+    "totalAnalyses": 608535,
+    "leagues": 358,
     "pro": {
-      "won": 1088,
+      "won": 1085,
       "lost": 492,
-      "total": 1580,
-      "rate": 68.9
+      "total": 1577,
+      "rate": 68.8
     },
     "insights": {
-      "won": 1791,
+      "won": 1788,
       "lost": 763,
-      "total": 2554,
+      "total": 2551,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1137,
-    "analyses30d": 17839
+    "analyses24h": 1135,
+    "analyses30d": 17833
   },
   "recentWins": [
     {
@@ -319,12 +319,6 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 17:31",
-      "home": "Ballymena",
-      "away": "Linfield"
-    },
-    {
-      "type": "updated",
       "at": "13.11.2026 22:23",
       "home": "Sydney United 58 FC",
       "away": "South Melbourne"
@@ -334,33 +328,27 @@
       "at": "13.11.2026 23:03",
       "home": "Albirex Niigata",
       "away": "Tegevajaro Miyazaki"
+    },
+    {
+      "type": "updated",
+      "at": "13.11.2026 23:25",
+      "home": "Shonan Bellmare",
+      "away": "Yokohama FC"
     }
   ],
   "today": {
-    "home": "Guatemala",
-    "away": "Canada",
-    "league": "CON",
-    "date": "14.11.2026 02:00",
-    "matchCode": "4579449",
-    "odds": 1.24,
-    "patternScore": 68.44,
-    "patternText": "157.982/230.833",
-    "aiScore": 61,
-    "picks": 2
+    "home": "Sydney United 58 FC",
+    "away": "South Melbourne",
+    "league": "AVC",
+    "date": "14.11.2026 04:00",
+    "matchCode": "4573632",
+    "odds": 1.21,
+    "patternScore": 68.49,
+    "patternText": "259.988/379.602",
+    "aiScore": 67,
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Guatemala",
-      "away": "Canada",
-      "league": "CON",
-      "date": "14.11.2026 02:00",
-      "matchCode": "4579449",
-      "odds": 1.24,
-      "patternScore": 68.44,
-      "patternText": "157.982/230.833",
-      "aiScore": 61,
-      "picks": 2
-    },
     {
       "home": "Sydney United 58 FC",
       "away": "South Melbourne",
@@ -372,18 +360,6 @@
       "patternText": "259.988/379.602",
       "aiScore": 67,
       "picks": 3
-    },
-    {
-      "home": "South Hobart",
-      "away": "Wollongong Wolves",
-      "league": "AVC",
-      "date": "14.11.2026 04:00",
-      "matchCode": "4573669",
-      "odds": 1.21,
-      "patternScore": 68.2,
-      "patternText": "258.699/379.333",
-      "aiScore": 64,
-      "picks": 2
     },
     {
       "home": "Fukushima Unit",
@@ -398,16 +374,40 @@
       "picks": 1
     },
     {
+      "home": "South Hobart",
+      "away": "Wollongong Wolves",
+      "league": "AVC",
+      "date": "14.11.2026 04:00",
+      "matchCode": "4573669",
+      "odds": 1.19,
+      "patternScore": 69.0,
+      "patternText": "175.941/254.983",
+      "aiScore": 79,
+      "picks": 2
+    },
+    {
+      "home": "FC Gifu",
+      "away": "Matsumoto Yamag",
+      "league": "JAP3",
+      "date": "14.11.2026 05:00",
+      "matchCode": "4488051",
+      "odds": 1.13,
+      "patternScore": 70.34,
+      "patternText": "341.003/484.825",
+      "aiScore": 97,
+      "picks": 1
+    },
+    {
       "home": "Shonan Bellmare",
       "away": "Yokohama FC",
       "league": "JAP2",
       "date": "14.11.2026 05:00",
       "matchCode": "4487671",
       "odds": 1.12,
-      "patternScore": 70.32,
-      "patternText": "343.693/488.762",
-      "aiScore": 84,
-      "picks": 2
+      "patternScore": 70.35,
+      "patternText": "349.127/496.250",
+      "aiScore": 86,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
