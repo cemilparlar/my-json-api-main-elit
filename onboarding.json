@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 19:27",
+  "updatedAt": "13.11.2026 19:35",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 71,
-      "lost": 42,
-      "total": 113,
-      "rate": 62.8
+      "won": 79,
+      "lost": 44,
+      "total": 123,
+      "rate": 64.2
     },
-    "totalAnalyses": 608306,
+    "totalAnalyses": 608315,
     "leagues": 359,
     "pro": {
-      "won": 1108,
-      "lost": 489,
-      "total": 1597,
+      "won": 1098,
+      "lost": 485,
+      "total": 1583,
       "rate": 69.4
     },
     "insights": {
-      "won": 1816,
-      "lost": 759,
-      "total": 2575,
+      "won": 1794,
+      "lost": 752,
+      "total": 2546,
       "rate": 70.5
     },
     "coupons": {
       "won": 49,
-      "lost": 56,
-      "total": 105,
-      "rate": 46.7
+      "lost": 55,
+      "total": 104,
+      "rate": 47.1
     },
-    "analyses24h": 1206,
-    "analyses30d": 17845
+    "analyses24h": 1207,
+    "analyses30d": 17847
   },
   "recentWins": [
     {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 19:27",
-      "home": "Salamanca CF",
-      "away": "Celta de Vigo"
-    },
-    {
-      "type": "updated",
       "at": "13.11.2026 16:14",
       "home": "Moldova",
       "away": "Kazakhstan"
@@ -334,21 +328,39 @@
       "at": "13.11.2026 15:21",
       "home": "Burkina Faso",
       "away": "Mauritania"
+    },
+    {
+      "type": "updated",
+      "at": "13.11.2026 13:44",
+      "home": "Cape Verde",
+      "away": "Liberia"
     }
   ],
   "today": {
-    "home": "Peru",
-    "away": "Bolivia",
+    "home": "Colombia",
+    "away": "Chile",
     "league": "HAZ",
-    "date": "14.11.2026 01:00",
-    "matchCode": "4579413",
-    "odds": 1.26,
-    "patternScore": 68.68,
-    "patternText": "264.716/385.461",
-    "aiScore": 60,
-    "picks": 2
+    "date": "14.11.2026 00:00",
+    "matchCode": "4565372",
+    "odds": 1.85,
+    "patternScore": 66.86,
+    "patternText": "271.669/406.310",
+    "aiScore": 52,
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Colombia",
+      "away": "Chile",
+      "league": "HAZ",
+      "date": "14.11.2026 00:00",
+      "matchCode": "4565372",
+      "odds": 1.85,
+      "patternScore": 66.86,
+      "patternText": "271.669/406.310",
+      "aiScore": 52,
+      "picks": 4
+    },
     {
       "home": "Peru",
       "away": "Bolivia",
@@ -359,18 +371,6 @@
       "patternScore": 68.68,
       "patternText": "264.716/385.461",
       "aiScore": 60,
-      "picks": 2
-    },
-    {
-      "home": "Colombia",
-      "away": "Chile",
-      "league": "HAZ",
-      "date": "14.11.2026 00:00",
-      "matchCode": "4565372",
-      "odds": 1.22,
-      "patternScore": 68.06,
-      "patternText": "265.535/390.144",
-      "aiScore": 62,
       "picks": 2
     },
     {
