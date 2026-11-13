@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 07:00",
+  "updatedAt": "13.11.2026 07:07",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 134,
       "rate": 64.2
     },
-    "totalAnalyses": 606772,
+    "totalAnalyses": 606774,
     "leagues": 360,
     "pro": {
       "won": 1174,
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1110,
-    "analyses30d": 18195
+    "analyses24h": 1109,
+    "analyses30d": 18194
   },
   "recentWins": [
     {
@@ -289,9 +289,15 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 03:55",
+      "at": "13.11.2026 07:01",
       "home": "Oakleigh Cannons",
       "away": "Marconi Stallions"
+    },
+    {
+      "type": "updated",
+      "at": "13.11.2026 07:01",
+      "home": "Mozambique",
+      "away": "Ethiopia"
     },
     {
       "type": "kickoff",
@@ -301,22 +307,46 @@
     },
     {
       "type": "analysis",
-      "count": 1110
+      "count": 1109
     }
   ],
   "today": {
-    "home": "Oakleigh Cannons",
-    "away": "Marconi Stallions",
-    "league": "AVC",
-    "date": "13.11.2026 08:30",
-    "matchCode": "4573656",
-    "odds": 1.12,
-    "patternScore": 66.0,
-    "patternText": "265.828/402.786",
-    "aiScore": 83,
+    "home": "Mozambique",
+    "away": "Ethiopia",
+    "league": "AFUK",
+    "date": "13.11.2026 13:00",
+    "matchCode": "4579365",
+    "odds": 1.22,
+    "patternScore": 68.78,
+    "patternText": "243.336/353.784",
+    "aiScore": 62,
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "Mozambique",
+      "away": "Ethiopia",
+      "league": "AFUK",
+      "date": "13.11.2026 13:00",
+      "matchCode": "4579365",
+      "odds": 1.22,
+      "patternScore": 68.78,
+      "patternText": "243.336/353.784",
+      "aiScore": 62,
+      "picks": 2
+    },
+    {
+      "home": "Comoros",
+      "away": "Congo",
+      "league": "AFUK",
+      "date": "13.11.2026 13:00",
+      "matchCode": "4579341",
+      "odds": 1.15,
+      "patternScore": 70.04,
+      "patternText": "302.450/431.804",
+      "aiScore": 75,
+      "picks": 1
+    },
     {
       "home": "Oakleigh Cannons",
       "away": "Marconi Stallions",
@@ -352,30 +382,6 @@
       "patternText": "91.535/139.164",
       "aiScore": 52,
       "picks": 5
-    },
-    {
-      "home": "Hellerup Ik",
-      "away": "B93",
-      "league": "DAN2",
-      "date": "13.11.2026 18:00",
-      "matchCode": "4510863",
-      "odds": 1.36,
-      "patternScore": 67.81,
-      "patternText": "243.989/359.829",
-      "aiScore": 53,
-      "picks": 3
-    },
-    {
-      "home": "JS Saoura",
-      "away": "Usm Khenchela",
-      "league": "CZYR",
-      "date": "13.11.2026 17:00",
-      "matchCode": "4546121",
-      "odds": 1.23,
-      "patternScore": 68.66,
-      "patternText": "234.993/342.264",
-      "aiScore": 60,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
