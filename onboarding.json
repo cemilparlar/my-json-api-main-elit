@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 07:53",
+  "updatedAt": "13.11.2026 08:01",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 134,
       "rate": 64.2
     },
-    "totalAnalyses": 606841,
+    "totalAnalyses": 606853,
     "leagues": 360,
     "pro": {
-      "won": 1174,
+      "won": 1172,
       "lost": 517,
-      "total": 1691,
+      "total": 1689,
       "rate": 69.4
     },
     "insights": {
-      "won": 1946,
+      "won": 1944,
       "lost": 825,
-      "total": 2771,
+      "total": 2769,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1109,
-    "analyses30d": 18187
+    "analyses24h": 1121,
+    "analyses30d": 18199
   },
   "recentWins": [
     {
@@ -307,34 +307,22 @@
     },
     {
       "type": "analysis",
-      "count": 1109
+      "count": 1121
     }
   ],
   "today": {
-    "home": "Oakleigh Cannons",
-    "away": "Marconi Stallions",
-    "league": "AVC",
-    "date": "13.11.2026 08:30",
-    "matchCode": "4573656",
-    "odds": 1.28,
-    "patternScore": 68.47,
-    "patternText": "181.794/265.494",
-    "aiScore": 59,
+    "home": "Comoros",
+    "away": "Congo",
+    "league": "AFUK",
+    "date": "13.11.2026 13:00",
+    "matchCode": "4579341",
+    "odds": 1.15,
+    "patternScore": 70.04,
+    "patternText": "302.450/431.804",
+    "aiScore": 75,
     "picks": 1
   },
   "todayList": [
-    {
-      "home": "Oakleigh Cannons",
-      "away": "Marconi Stallions",
-      "league": "AVC",
-      "date": "13.11.2026 08:30",
-      "matchCode": "4573656",
-      "odds": 1.28,
-      "patternScore": 68.47,
-      "patternText": "181.794/265.494",
-      "aiScore": 59,
-      "picks": 1
-    },
     {
       "home": "Comoros",
       "away": "Congo",
@@ -382,9 +370,28 @@
       "patternText": "91.535/139.164",
       "aiScore": 52,
       "picks": 5
+    },
+    {
+      "home": "Netherlands",
+      "away": "Greece",
+      "league": "AVUL",
+      "date": "13.11.2026 19:45",
+      "matchCode": "4445128",
+      "odds": 1.38,
+      "patternScore": 67.84,
+      "patternText": "146.939/216.589",
+      "aiScore": 55,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "France",
+      "away": "Turkiye",
+      "league": "AVUL",
+      "at": "13.11.2026 07:59",
+      "count": 12
+    },
     {
       "home": "Curacao",
       "away": "Panama",
@@ -447,13 +454,6 @@
       "league": "CON",
       "at": "12.11.2026 14:08",
       "count": 8
-    },
-    {
-      "home": "Chapecoense AF",
-      "away": "Club de Regatas Vasco da Gama",
-      "league": "BR1",
-      "at": "12.11.2026 13:22",
-      "count": 7
     }
   ],
   "paywall": {
