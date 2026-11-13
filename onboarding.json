@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 15:42",
+  "updatedAt": "13.11.2026 15:49",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 130,
       "rate": 61.5
     },
-    "totalAnalyses": 607902,
+    "totalAnalyses": 607927,
     "leagues": 361,
     "pro": {
       "won": 1155,
@@ -47,8 +47,8 @@
       "total": 107,
       "rate": 45.8
     },
-    "analyses24h": 1224,
-    "analyses30d": 18184
+    "analyses24h": 1223,
+    "analyses30d": 18183
   },
   "recentWins": [
     {
@@ -362,18 +362,6 @@
       "picks": 3
     },
     {
-      "home": "Znicz Pruszkow",
-      "away": "Sokol Kleczew",
-      "league": "POL2",
-      "date": "13.11.2026 17:00",
-      "matchCode": "4486565",
-      "odds": 1.48,
-      "patternScore": 67.9,
-      "patternText": "237.505/349.770",
-      "aiScore": 56,
-      "picks": 2
-    },
-    {
       "home": "Limavady Unite",
       "away": "Cliftonville",
       "league": "KİRL",
@@ -408,6 +396,18 @@
       "patternText": "171.463/255.938",
       "aiScore": 58,
       "picks": 1
+    },
+    {
+      "home": "Luxembourg",
+      "away": "Estonia",
+      "league": "AVUL",
+      "date": "13.11.2026 19:45",
+      "matchCode": "4457630",
+      "odds": 1.35,
+      "patternScore": 67.34,
+      "patternText": "233.513/346.783",
+      "aiScore": 54,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
