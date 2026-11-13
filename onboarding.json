@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 22:00",
+  "updatedAt": "13.11.2026 22:07",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 137,
-      "lost": 75,
-      "total": 212,
-      "rate": 64.6
+      "won": 134,
+      "lost": 79,
+      "total": 213,
+      "rate": 62.9
     },
     "totalAnalyses": 608421,
     "leagues": 359,
@@ -74,7 +74,7 @@
       "odds": 3.13,
       "probability": 100.0,
       "patternScore": 55.81,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "2 - 0",
       "finalScore": "2 - 0",
       "pro": false
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Argentina",
-    "away": "Uruguay",
-    "league": "HAZ",
-    "date": "13.11.2026 23:00",
-    "matchCode": "4579409",
-    "odds": 1.21,
-    "patternScore": 68.58,
-    "patternText": "273.842/399.288",
-    "aiScore": 73,
-    "picks": 2
+    "home": "South Hobart",
+    "away": "Wollongong Wolves",
+    "league": "AVC",
+    "date": "14.11.2026 04:00",
+    "matchCode": "4573669",
+    "odds": 1.22,
+    "patternScore": 67.79,
+    "patternText": "258.027/380.615",
+    "aiScore": 60,
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "South Hobart",
+      "away": "Wollongong Wolves",
+      "league": "AVC",
+      "date": "14.11.2026 04:00",
+      "matchCode": "4573669",
+      "odds": 1.22,
+      "patternScore": 67.79,
+      "patternText": "258.027/380.615",
+      "aiScore": 60,
+      "picks": 5
+    },
     {
       "home": "Argentina",
       "away": "Uruguay",
@@ -386,28 +398,16 @@
       "picks": 1
     },
     {
-      "home": "CSD Aurora",
-      "away": "Mixco",
-      "league": "GUAT",
-      "date": "14.11.2026 02:00",
-      "matchCode": "4490456",
-      "odds": 1.06,
-      "patternScore": 70.87,
-      "patternText": "185.260/261.393",
-      "aiScore": 98,
-      "picks": 1
-    },
-    {
-      "home": "South Hobart",
-      "away": "Wollongong Wolves",
+      "home": "Sydney United 58 FC",
+      "away": "South Melbourne",
       "league": "AVC",
       "date": "14.11.2026 04:00",
-      "matchCode": "4573669",
-      "odds": 1.22,
-      "patternScore": 67.79,
-      "patternText": "258.027/380.615",
-      "aiScore": 60,
-      "picks": 5
+      "matchCode": "4573632",
+      "odds": 1.17,
+      "patternScore": 68.91,
+      "patternText": "256.284/371.934",
+      "aiScore": 67,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
