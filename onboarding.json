@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 22:30",
+  "updatedAt": "13.11.2026 22:37",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 216,
       "rate": 63.0
     },
-    "totalAnalyses": 608466,
+    "totalAnalyses": 608484,
     "leagues": 359,
     "pro": {
-      "won": 1095,
-      "lost": 493,
-      "total": 1588,
+      "won": 1093,
+      "lost": 492,
+      "total": 1585,
       "rate": 69.0
     },
     "insights": {
-      "won": 1799,
-      "lost": 765,
-      "total": 2564,
+      "won": 1796,
+      "lost": 763,
+      "total": 2559,
       "rate": 70.2
     },
     "coupons": {
@@ -307,12 +307,6 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 16:36",
-      "home": "Skive IK",
-      "away": "Thisted FC"
-    },
-    {
-      "type": "updated",
       "at": "13.11.2026 16:37",
       "home": "US Ospitaletto",
       "away": "Dolomiti Belluno"
@@ -334,6 +328,12 @@
       "at": "13.11.2026 18:10",
       "home": "Crusaders",
       "away": "Carrick Rangers"
+    },
+    {
+      "type": "updated",
+      "at": "13.11.2026 17:31",
+      "home": "Ballymena",
+      "away": "Linfield"
     }
   ],
   "today": {
@@ -362,18 +362,6 @@
       "picks": 2
     },
     {
-      "home": "South Hobart",
-      "away": "Wollongong Wolves",
-      "league": "AVC",
-      "date": "14.11.2026 04:00",
-      "matchCode": "4573669",
-      "odds": 1.22,
-      "patternScore": 67.79,
-      "patternText": "258.031/380.623",
-      "aiScore": 60,
-      "picks": 5
-    },
-    {
       "home": "Sydney United 58 FC",
       "away": "South Melbourne",
       "league": "AVC",
@@ -384,6 +372,18 @@
       "patternText": "259.988/379.602",
       "aiScore": 67,
       "picks": 3
+    },
+    {
+      "home": "South Hobart",
+      "away": "Wollongong Wolves",
+      "league": "AVC",
+      "date": "14.11.2026 04:00",
+      "matchCode": "4573669",
+      "odds": 1.21,
+      "patternScore": 68.2,
+      "patternText": "258.699/379.333",
+      "aiScore": 64,
+      "picks": 2
     },
     {
       "home": "Colombia",
