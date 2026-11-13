@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 18:12",
+  "updatedAt": "13.11.2026 18:19",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 122,
       "rate": 63.1
     },
-    "totalAnalyses": 608211,
-    "leagues": 361,
+    "totalAnalyses": 608212,
+    "leagues": 360,
     "pro": {
       "won": 1132,
       "lost": 502,
@@ -47,8 +47,8 @@
       "total": 107,
       "rate": 45.8
     },
-    "analyses24h": 1225,
-    "analyses30d": 18044
+    "analyses24h": 1224,
+    "analyses30d": 18034
   },
   "recentWins": [
     {
@@ -80,6 +80,20 @@
       "pro": true
     },
     {
+      "home": "Tunisia",
+      "away": "Libya",
+      "league": "AFUK",
+      "date": "13.11.2026 16:00",
+      "prediction": "Total Goals 2-3",
+      "odds": 1.71,
+      "probability": 75.0,
+      "patternScore": 63.81,
+      "aiScore": 52,
+      "firstHalf": "0 - 1",
+      "finalScore": "0 - 2",
+      "pro": true
+    },
+    {
       "home": "Uzbekistan",
       "away": "Russia",
       "league": "HAZ",
@@ -106,20 +120,6 @@
       "firstHalf": "0 - 1",
       "finalScore": "0 - 4",
       "pro": true
-    },
-    {
-      "home": "Ponte Preta",
-      "away": "Operario",
-      "league": "BR2",
-      "date": "12.11.2026 22:00",
-      "prediction": "Match Result 2",
-      "odds": 1.45,
-      "probability": 70.73,
-      "patternScore": 68.22,
-      "aiScore": 53,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 2",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -273,19 +273,19 @@
     },
     {
       "type": "won",
+      "home": "Tunisia",
+      "away": "Libya",
+      "prediction": "Total Goals 2-3",
+      "odds": 1.71,
+      "at": "13.11.2026 16:00"
+    },
+    {
+      "type": "won",
       "home": "Uzbekistan",
       "away": "Russia",
       "prediction": "Match Result 2",
       "odds": 1.54,
       "at": "12.11.2026 15:00"
-    },
-    {
-      "type": "won",
-      "home": "Aqaba",
-      "away": "Hay Al-Amir Has",
-      "prediction": "Match Result 2",
-      "odds": 1.52,
-      "at": "12.11.2026 16:00"
     },
     {
       "type": "updated",
@@ -331,9 +331,9 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 13:44",
-      "home": "Cape Verde",
-      "away": "Liberia"
+      "at": "13.11.2026 15:21",
+      "home": "Burkina Faso",
+      "away": "Mauritania"
     }
   ],
   "today": {
@@ -344,8 +344,8 @@
     "matchCode": "4486931",
     "odds": 1.41,
     "patternScore": 68.2,
-    "patternText": "139.118/203.981",
-    "aiScore": 55,
+    "patternText": "139.154/204.027",
+    "aiScore": 54,
     "picks": 2
   },
   "todayList": [
@@ -357,8 +357,8 @@
       "matchCode": "4486931",
       "odds": 1.41,
       "patternScore": 68.2,
-      "patternText": "139.118/203.981",
-      "aiScore": 55,
+      "patternText": "139.154/204.027",
+      "aiScore": 54,
       "picks": 2
     },
     {
@@ -369,7 +369,7 @@
       "matchCode": "4486929",
       "odds": 1.38,
       "patternScore": 68.25,
-      "patternText": "140.826/206.345",
+      "patternText": "140.862/206.395",
       "aiScore": 56,
       "picks": 1
     },
@@ -381,21 +381,9 @@
       "matchCode": "4457630",
       "odds": 1.35,
       "patternScore": 67.34,
-      "patternText": "233.527/346.811",
+      "patternText": "233.579/346.877",
       "aiScore": 54,
       "picks": 6
-    },
-    {
-      "home": "Crusaders",
-      "away": "Carrick Rangers",
-      "league": "KİRL",
-      "date": "13.11.2026 19:45",
-      "matchCode": "4486928",
-      "odds": 1.34,
-      "patternScore": 67.77,
-      "patternText": "227.638/335.890",
-      "aiScore": 54,
-      "picks": 2
     },
     {
       "home": "CD Leganes",
@@ -405,8 +393,20 @@
       "matchCode": "4492827",
       "odds": 1.33,
       "patternScore": 68.23,
-      "patternText": "249.507/365.704",
+      "patternText": "249.567/365.774",
       "aiScore": 61,
+      "picks": 2
+    },
+    {
+      "home": "Grenada",
+      "away": "St. Kitts And N",
+      "league": "CON",
+      "date": "13.11.2026 20:00",
+      "matchCode": "4579433",
+      "odds": 1.3,
+      "patternScore": 68.73,
+      "patternText": "132.672/193.034",
+      "aiScore": 65,
       "picks": 2
     }
   ],
