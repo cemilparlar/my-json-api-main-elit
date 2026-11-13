@@ -9223,8 +9223,8 @@
         "matchCount": "31",
         "matchLink": "4579409",
         "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/31",
+        "predictedScore": "2-0",
+        "predictedScoreText": "11/64",
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -9253,8 +9253,8 @@
         "matchCount": "31",
         "matchLink": "4579409",
         "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/31",
+        "predictedScore": "2-0",
+        "predictedScoreText": "11/64",
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -9283,8 +9283,8 @@
         "matchCount": "31",
         "matchLink": "4579409",
         "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/31",
+        "predictedScore": "2-0",
+        "predictedScoreText": "11/64",
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -9313,8 +9313,8 @@
         "matchCount": "31",
         "matchLink": "4579409",
         "status": "HATA",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/31",
+        "predictedScore": "2-0",
+        "predictedScoreText": "11/64",
         "mbs": 2,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -10827,7 +10827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "14.11.2026 15:00",
@@ -14910,36 +14910,6 @@
         "aiScore": 96
     },
     {
-        "date": "13.11.2026 20:00",
-        "league": "CON",
-        "matchCode": "4579433",
-        "home": "Grenada",
-        "away": "St. Kitts And N",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "81.82",
-        "odds": "1.16",
-        "matchCount": "11",
-        "matchLink": "4579433",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "13.11.2026 14:07",
-        "patternScore": 69.01,
-        "patternText": "139.136/201.626",
-        "patternInfo": {
-            "m": 45,
-            "s": 5,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 84
-    },
-    {
         "date": "13.11.2026 15:00",
         "league": "U20EL",
         "matchCode": "4566556",
@@ -14967,7 +14937,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "13.11.2026 19:45",
@@ -16411,36 +16381,6 @@
     },
     {
         "date": "13.11.2026 19:45",
-        "league": "AVUL",
-        "matchCode": "4445129",
-        "home": "Serbia",
-        "away": "Germany",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 2.5",
-        "ihtimal": "100.0",
-        "odds": "1.08",
-        "matchCount": "1",
-        "matchLink": "4445129",
-        "status": "Pending",
-        "predictedScore": "0-3",
-        "predictedScoreText": "1/1",
-        "mbs": 1,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "13.11.2026 16:38",
-        "patternScore": 58.5,
-        "patternText": "248.115/424.116",
-        "patternInfo": {
-            "m": 72,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 86
-    },
-    {
-        "date": "13.11.2026 19:45",
         "league": "KİRL",
         "matchCode": "4486929",
         "home": "Glentoran",
@@ -16558,5 +16498,65 @@
             "b": 100.0
         },
         "aiScore": 92
+    },
+    {
+        "date": "13.11.2026 19:45",
+        "league": "AVUL",
+        "matchCode": "4445129",
+        "home": "Serbia",
+        "away": "Germany",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 2.5",
+        "ihtimal": "100.0",
+        "odds": "1.08",
+        "matchCount": "1",
+        "matchLink": "4445129",
+        "status": "Pending",
+        "predictedScore": "0-2",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "13.11.2026 17:11",
+        "patternScore": 58.5,
+        "patternText": "248.115/424.116",
+        "patternInfo": {
+            "m": 72,
+            "s": 7,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 86
+    },
+    {
+        "date": "13.11.2026 20:00",
+        "league": "CON",
+        "matchCode": "4579433",
+        "home": "Grenada",
+        "away": "St. Kitts And N",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "81.82",
+        "odds": "1.16",
+        "matchCount": "11",
+        "matchLink": "4579433",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "13.11.2026 17:11",
+        "patternScore": 69.01,
+        "patternText": "139.136/201.626",
+        "patternInfo": {
+            "m": 45,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 84
     }
 ]
