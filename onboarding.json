@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 19:35",
+  "updatedAt": "13.11.2026 19:42",
   "config": {
     "pages": [
       "engine",
@@ -105,7 +105,7 @@
       "aiScore": 53,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 3",
-      "pro": true
+      "pro": false
     },
     {
       "home": "Aqaba",
@@ -319,12 +319,6 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 14:01",
-      "home": "Qatar",
-      "away": "Australia"
-    },
-    {
-      "type": "updated",
       "at": "13.11.2026 15:21",
       "home": "Burkina Faso",
       "away": "Mauritania"
@@ -334,45 +328,27 @@
       "at": "13.11.2026 13:44",
       "home": "Cape Verde",
       "away": "Liberia"
+    },
+    {
+      "type": "updated",
+      "at": "13.11.2026 15:22",
+      "home": "Tunisia",
+      "away": "Libya"
     }
   ],
   "today": {
-    "home": "Colombia",
-    "away": "Chile",
+    "home": "Argentina",
+    "away": "Uruguay",
     "league": "HAZ",
-    "date": "14.11.2026 00:00",
-    "matchCode": "4565372",
-    "odds": 1.85,
-    "patternScore": 66.86,
-    "patternText": "271.669/406.310",
-    "aiScore": 52,
-    "picks": 4
+    "date": "13.11.2026 23:00",
+    "matchCode": "4579409",
+    "odds": 1.21,
+    "patternScore": 68.58,
+    "patternText": "273.748/399.154",
+    "aiScore": 74,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Colombia",
-      "away": "Chile",
-      "league": "HAZ",
-      "date": "14.11.2026 00:00",
-      "matchCode": "4565372",
-      "odds": 1.85,
-      "patternScore": 66.86,
-      "patternText": "271.669/406.310",
-      "aiScore": 52,
-      "picks": 4
-    },
-    {
-      "home": "Peru",
-      "away": "Bolivia",
-      "league": "HAZ",
-      "date": "14.11.2026 01:00",
-      "matchCode": "4579413",
-      "odds": 1.26,
-      "patternScore": 68.68,
-      "patternText": "264.716/385.461",
-      "aiScore": 60,
-      "picks": 2
-    },
     {
       "home": "Argentina",
       "away": "Uruguay",
@@ -381,9 +357,21 @@
       "matchCode": "4579409",
       "odds": 1.21,
       "patternScore": 68.58,
-      "patternText": "273.714/399.108",
-      "aiScore": 73,
-      "picks": 3
+      "patternText": "273.748/399.154",
+      "aiScore": 74,
+      "picks": 2
+    },
+    {
+      "home": "Colombia",
+      "away": "Chile",
+      "league": "HAZ",
+      "date": "14.11.2026 00:00",
+      "matchCode": "4565372",
+      "odds": 1.21,
+      "patternScore": 67.39,
+      "patternText": "285.949/424.316",
+      "aiScore": 71,
+      "picks": 1
     },
     {
       "home": "Tarragona",
@@ -393,20 +381,32 @@
       "matchCode": "4493640",
       "odds": 1.15,
       "patternScore": 68.95,
-      "patternText": "222.473/322.654",
+      "patternText": "222.521/322.714",
       "aiScore": 79,
       "picks": 2
     },
     {
-      "home": "Ecuador",
-      "away": "Costa Rica",
-      "league": "HAZ",
-      "date": "14.11.2026 00:00",
-      "matchCode": "4579411",
-      "odds": 1.06,
-      "patternScore": 65.48,
-      "patternText": "324.802/496.004",
-      "aiScore": 89,
+      "home": "South Hobart",
+      "away": "Wollongong Wolves",
+      "league": "AVC",
+      "date": "14.11.2026 04:00",
+      "matchCode": "4573669",
+      "odds": 1.22,
+      "patternScore": 67.8,
+      "patternText": "257.945/380.475",
+      "aiScore": 60,
+      "picks": 5
+    },
+    {
+      "home": "Albirex Niigata",
+      "away": "Tegevajaro Miyazaki",
+      "league": "JAP2",
+      "date": "14.11.2026 05:00",
+      "matchCode": "4487672",
+      "odds": 1.19,
+      "patternScore": 69.27,
+      "patternText": "274.987/396.966",
+      "aiScore": 70,
       "picks": 4
     }
   ],
