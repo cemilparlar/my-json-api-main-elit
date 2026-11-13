@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 11:20",
+  "updatedAt": "13.11.2026 11:29",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 133,
       "rate": 63.9
     },
-    "totalAnalyses": 607157,
+    "totalAnalyses": 607193,
     "leagues": 360,
     "pro": {
       "won": 1169,
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1178,
-    "analyses30d": 18244
+    "analyses24h": 1191,
+    "analyses30d": 18257
   },
   "recentWins": [
     {
@@ -325,15 +325,15 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 10:25",
-      "home": "Al Sahl Horan",
-      "away": "Al Sareeh"
+      "at": "13.11.2026 11:19",
+      "home": "Finland (U2",
+      "away": "Republic of Ireland"
     },
     {
       "type": "updated",
-      "at": "13.11.2026 10:06",
-      "home": "Jerash",
-      "away": "Ethad Ar"
+      "at": "13.11.2026 10:25",
+      "home": "Al Sahl Horan",
+      "away": "Al Sareeh"
     }
   ],
   "today": {
@@ -382,7 +382,7 @@
       "odds": 1.15,
       "patternScore": 70.01,
       "patternText": "293.476/419.166",
-      "aiScore": 79,
+      "aiScore": 78,
       "picks": 1
     },
     {
@@ -411,6 +411,20 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Greece",
+      "away": "Serbia",
+      "league": "AVUL",
+      "at": "13.11.2026 11:23",
+      "count": 1
+    },
+    {
+      "home": "Germany",
+      "away": "Netherlands",
+      "league": "AVUL",
+      "at": "13.11.2026 11:23",
+      "count": 3
+    },
     {
       "home": "Moldova",
       "away": "Kazakhstan",
@@ -466,20 +480,6 @@
       "league": "AVUL",
       "at": "12.11.2026 17:38",
       "count": 7
-    },
-    {
-      "home": "Armenia",
-      "away": "Cyprus",
-      "league": "AVUL",
-      "at": "12.11.2026 16:21",
-      "count": 7
-    },
-    {
-      "home": "Turkiye",
-      "away": "Belgium",
-      "league": "AVUL",
-      "at": "12.11.2026 15:07",
-      "count": 4
     }
   ],
   "paywall": {
