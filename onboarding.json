@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 22:59",
+  "updatedAt": "13.11.2026 23:08",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 136,
-      "lost": 80,
-      "total": 216,
-      "rate": 63.0
+      "won": 135,
+      "lost": 78,
+      "total": 213,
+      "rate": 63.4
     },
-    "totalAnalyses": 608488,
+    "totalAnalyses": 608500,
     "leagues": 359,
     "pro": {
-      "won": 1093,
+      "won": 1088,
       "lost": 492,
-      "total": 1585,
-      "rate": 69.0
+      "total": 1580,
+      "rate": 68.9
     },
     "insights": {
-      "won": 1796,
+      "won": 1791,
       "lost": 763,
-      "total": 2559,
-      "rate": 70.2
+      "total": 2554,
+      "rate": 70.1
     },
     "coupons": {
       "won": 47,
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1136,
-    "analyses30d": 17838
+    "analyses24h": 1140,
+    "analyses30d": 17842
   },
   "recentWins": [
     {
@@ -331,9 +331,9 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 19:08",
-      "home": "Loughgall Fc",
-      "away": "Glenavon"
+      "at": "13.11.2026 23:03",
+      "home": "Albirex Niigata",
+      "away": "Tegevajaro Miyazaki"
     }
   ],
   "today": {
@@ -386,28 +386,28 @@
       "picks": 2
     },
     {
-      "home": "Colombia",
-      "away": "Chile",
-      "league": "HAZ",
-      "date": "14.11.2026 00:00",
-      "matchCode": "4565372",
-      "odds": 1.09,
-      "patternScore": 70.36,
-      "patternText": "214.853/305.379",
-      "aiScore": 98,
-      "picks": 1
+      "home": "Albirex Niigata",
+      "away": "Tegevajaro Miyazaki",
+      "league": "JAP2",
+      "date": "14.11.2026 05:00",
+      "matchCode": "4487672",
+      "odds": 1.19,
+      "patternScore": 69.27,
+      "patternText": "275.071/397.104",
+      "aiScore": 71,
+      "picks": 4
     },
     {
-      "home": "CSD Aurora",
-      "away": "Mixco",
-      "league": "GUAT",
-      "date": "14.11.2026 02:00",
-      "matchCode": "4490456",
-      "odds": 1.06,
-      "patternScore": 70.87,
-      "patternText": "185.260/261.393",
-      "aiScore": 98,
-      "picks": 1
+      "home": "Shonan Bellmare",
+      "away": "Yokohama FC",
+      "league": "JAP2",
+      "date": "14.11.2026 05:00",
+      "matchCode": "4487671",
+      "odds": 1.12,
+      "patternScore": 70.32,
+      "patternText": "343.693/488.762",
+      "aiScore": 84,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
