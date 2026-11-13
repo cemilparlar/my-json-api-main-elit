@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 02:26",
+  "updatedAt": "13.11.2026 02:34",
   "config": {
     "pages": [
       "engine",
@@ -302,12 +302,6 @@
     {
       "type": "updated",
       "at": "12.11.2026 22:30",
-      "home": "Sao Bernardo",
-      "away": "Athletic Bilbao"
-    },
-    {
-      "type": "updated",
-      "at": "12.11.2026 22:30",
       "home": "Curacao",
       "away": "Panama"
     },
@@ -323,8 +317,8 @@
     "date": "13.11.2026 08:30",
     "matchCode": "4573668",
     "odds": 1.28,
-    "patternScore": 69.2,
-    "patternText": "208.477/301.273",
+    "patternScore": 69.19,
+    "patternText": "208.507/301.337",
     "aiScore": 64,
     "picks": 1
   },
@@ -336,9 +330,21 @@
       "date": "13.11.2026 08:30",
       "matchCode": "4573668",
       "odds": 1.28,
-      "patternScore": 69.2,
-      "patternText": "208.477/301.273",
+      "patternScore": 69.19,
+      "patternText": "208.507/301.337",
       "aiScore": 64,
+      "picks": 1
+    },
+    {
+      "home": "Oakleigh Cannons",
+      "away": "Marconi Stallions",
+      "league": "AVC",
+      "date": "13.11.2026 08:30",
+      "matchCode": "4573656",
+      "odds": 1.07,
+      "patternScore": 70.6,
+      "patternText": "257.386/364.546",
+      "aiScore": 93,
       "picks": 1
     },
     {
@@ -348,8 +354,8 @@
       "date": "13.11.2026 13:00",
       "matchCode": "4579365",
       "odds": 1.22,
-      "patternScore": 68.79,
-      "patternText": "243.296/353.696",
+      "patternScore": 68.78,
+      "patternText": "243.326/353.760",
       "aiScore": 62,
       "picks": 2
     },
@@ -360,21 +366,9 @@
       "date": "13.11.2026 13:00",
       "matchCode": "4579341",
       "odds": 1.15,
-      "patternScore": 70.05,
-      "patternText": "302.402/431.680",
+      "patternScore": 70.04,
+      "patternText": "302.440/431.788",
       "aiScore": 75,
-      "picks": 1
-    },
-    {
-      "home": "Oakleigh Cannons",
-      "away": "Marconi Stallions",
-      "league": "AVC",
-      "date": "13.11.2026 08:30",
-      "matchCode": "4573656",
-      "odds": 1.07,
-      "patternScore": 70.61,
-      "patternText": "257.332/364.438",
-      "aiScore": 93,
       "picks": 1
     },
     {
@@ -385,7 +379,7 @@
       "matchCode": "4579348",
       "odds": 1.64,
       "patternScore": 66.81,
-      "patternText": "153.348/229.530",
+      "patternText": "153.358/229.560",
       "aiScore": 53,
       "picks": 2
     }
