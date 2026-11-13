@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 19:10",
+  "updatedAt": "13.11.2026 19:20",
   "config": {
     "pages": [
       "engine",
@@ -30,25 +30,25 @@
     "totalAnalyses": 608283,
     "leagues": 359,
     "pro": {
-      "won": 1109,
+      "won": 1108,
       "lost": 489,
-      "total": 1598,
+      "total": 1597,
       "rate": 69.4
     },
     "insights": {
-      "won": 1818,
-      "lost": 760,
-      "total": 2578,
+      "won": 1816,
+      "lost": 759,
+      "total": 2575,
       "rate": 70.5
     },
     "coupons": {
       "won": 49,
-      "lost": 57,
-      "total": 106,
-      "rate": 46.2
+      "lost": 56,
+      "total": 105,
+      "rate": 46.7
     },
     "analyses24h": 1206,
-    "analyses30d": 17848
+    "analyses30d": 17845
   },
   "recentWins": [
     {
@@ -301,12 +301,6 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 19:08",
-      "home": "Netherlands",
-      "away": "Greece"
-    },
-    {
-      "type": "updated",
       "at": "13.11.2026 18:52",
       "home": "Slovakia",
       "away": "Faroe Islands"
@@ -325,6 +319,12 @@
     },
     {
       "type": "updated",
+      "at": "13.11.2026 19:08",
+      "home": "Bulgaria",
+      "away": "Iceland"
+    },
+    {
+      "type": "updated",
       "at": "13.11.2026 14:01",
       "home": "Qatar",
       "away": "Australia"
@@ -337,64 +337,28 @@
     }
   ],
   "today": {
-    "home": "Limavady Unite",
-    "away": "Cliftonville",
-    "league": "KİRL",
-    "date": "13.11.2026 19:45",
-    "matchCode": "4486931",
-    "odds": 1.41,
-    "patternScore": 68.21,
-    "patternText": "139.184/204.059",
-    "aiScore": 55,
+    "home": "Peru",
+    "away": "Bolivia",
+    "league": "HAZ",
+    "date": "14.11.2026 01:00",
+    "matchCode": "4579413",
+    "odds": 1.26,
+    "patternScore": 68.68,
+    "patternText": "264.716/385.461",
+    "aiScore": 60,
     "picks": 2
   },
   "todayList": [
     {
-      "home": "Limavady Unite",
-      "away": "Cliftonville",
-      "league": "KİRL",
-      "date": "13.11.2026 19:45",
-      "matchCode": "4486931",
-      "odds": 1.41,
-      "patternScore": 68.21,
-      "patternText": "139.184/204.059",
-      "aiScore": 55,
-      "picks": 2
-    },
-    {
-      "home": "Glentoran",
-      "away": "Bangor Fc",
-      "league": "KİRL",
-      "date": "13.11.2026 19:45",
-      "matchCode": "4486929",
-      "odds": 1.38,
-      "patternScore": 68.25,
-      "patternText": "140.892/206.431",
-      "aiScore": 56,
-      "picks": 1
-    },
-    {
-      "home": "Luxembourg",
-      "away": "Estonia",
-      "league": "AVUL",
-      "date": "13.11.2026 19:45",
-      "matchCode": "4457630",
-      "odds": 1.35,
-      "patternScore": 67.34,
-      "patternText": "233.647/346.957",
-      "aiScore": 54,
-      "picks": 6
-    },
-    {
-      "home": "Crusaders",
-      "away": "Carrick Rangers",
-      "league": "KİRL",
-      "date": "13.11.2026 19:45",
-      "matchCode": "4486928",
-      "odds": 1.29,
-      "patternScore": 68.19,
-      "patternText": "140.748/206.413",
-      "aiScore": 58,
+      "home": "Peru",
+      "away": "Bolivia",
+      "league": "HAZ",
+      "date": "14.11.2026 01:00",
+      "matchCode": "4579413",
+      "odds": 1.26,
+      "patternScore": 68.68,
+      "patternText": "264.716/385.461",
+      "aiScore": 60,
       "picks": 2
     },
     {
@@ -408,6 +372,42 @@
       "patternText": "265.535/390.144",
       "aiScore": 62,
       "picks": 2
+    },
+    {
+      "home": "Argentina",
+      "away": "Uruguay",
+      "league": "HAZ",
+      "date": "13.11.2026 23:00",
+      "matchCode": "4579409",
+      "odds": 1.21,
+      "patternScore": 68.58,
+      "patternText": "273.714/399.108",
+      "aiScore": 73,
+      "picks": 3
+    },
+    {
+      "home": "Tarragona",
+      "away": "Real Madrid Castilla",
+      "league": "İS3",
+      "date": "13.11.2026 20:15",
+      "matchCode": "4493640",
+      "odds": 1.15,
+      "patternScore": 68.95,
+      "patternText": "222.473/322.654",
+      "aiScore": 79,
+      "picks": 2
+    },
+    {
+      "home": "Ecuador",
+      "away": "Costa Rica",
+      "league": "HAZ",
+      "date": "14.11.2026 00:00",
+      "matchCode": "4579411",
+      "odds": 1.06,
+      "patternScore": 65.48,
+      "patternText": "324.802/496.004",
+      "aiScore": 89,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
