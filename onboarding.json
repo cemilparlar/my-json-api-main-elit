@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 16:29",
+  "updatedAt": "13.11.2026 16:38",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 69,
+      "won": 70,
       "lost": 42,
-      "total": 111,
-      "rate": 62.2
+      "total": 112,
+      "rate": 62.5
     },
-    "totalAnalyses": 608013,
+    "totalAnalyses": 608022,
     "leagues": 361,
     "pro": {
-      "won": 1153,
-      "lost": 511,
-      "total": 1664,
+      "won": 1152,
+      "lost": 510,
+      "total": 1662,
       "rate": 69.3
     },
     "insights": {
-      "won": 1911,
-      "lost": 813,
-      "total": 2724,
+      "won": 1910,
+      "lost": 810,
+      "total": 2720,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 107,
       "rate": 45.8
     },
-    "analyses24h": 1207,
-    "analyses30d": 18162
+    "analyses24h": 1222,
+    "analyses30d": 18174
   },
   "recentWins": [
     {
@@ -307,6 +307,12 @@
     },
     {
       "type": "updated",
+      "at": "13.11.2026 16:38",
+      "home": "Serbia",
+      "away": "Germany"
+    },
+    {
+      "type": "updated",
       "at": "13.11.2026 15:03",
       "home": "Luxembourg",
       "away": "Estonia"
@@ -328,12 +334,6 @@
       "at": "13.11.2026 15:22",
       "home": "Tunisia",
       "away": "Libya"
-    },
-    {
-      "type": "updated",
-      "at": "13.11.2026 14:02",
-      "home": "Gabon",
-      "away": "Lesotho"
     }
   ],
   "today": {
@@ -374,18 +374,6 @@
       "picks": 2
     },
     {
-      "home": "Moldova",
-      "away": "Kazakhstan",
-      "league": "AVUL",
-      "date": "13.11.2026 17:00",
-      "matchCode": "4445230",
-      "odds": 1.38,
-      "patternScore": 67.73,
-      "patternText": "231.033/341.112",
-      "aiScore": 54,
-      "picks": 6
-    },
-    {
       "home": "SpVgg Bayreuth",
       "away": "Vilzing",
       "league": "ALMBÖL",
@@ -408,9 +396,28 @@
       "patternText": "171.463/255.938",
       "aiScore": 58,
       "picks": 1
+    },
+    {
+      "home": "Luxembourg",
+      "away": "Estonia",
+      "league": "AVUL",
+      "date": "13.11.2026 19:45",
+      "matchCode": "4457630",
+      "odds": 1.35,
+      "patternScore": 67.34,
+      "patternText": "233.513/346.783",
+      "aiScore": 54,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Serbia",
+      "away": "Germany",
+      "league": "AVUL",
+      "at": "13.11.2026 16:38",
+      "count": 14
+    },
     {
       "home": "Moldova",
       "away": "Kazakhstan",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "13.11.2026 07:59",
       "count": 12
-    },
-    {
-      "home": "Curacao",
-      "away": "Panama",
-      "league": "CON",
-      "at": "12.11.2026 22:30",
-      "count": 4
     }
   ],
   "paywall": {
