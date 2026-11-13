@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 00:48",
+  "updatedAt": "13.11.2026 01:09",
   "config": {
     "pages": [
       "engine",
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "12.11.2026 18:54",
-      "home": "Italy",
-      "away": "France"
-    },
-    {
-      "type": "updated",
       "at": "12.11.2026 22:29",
       "home": "Estudiantes de La Plata",
       "away": "Rivadavia"
@@ -354,6 +348,30 @@
       "picks": 1
     },
     {
+      "home": "Mozambique",
+      "away": "Ethiopia",
+      "league": "AFUK",
+      "date": "13.11.2026 13:00",
+      "matchCode": "4579365",
+      "odds": 1.22,
+      "patternScore": 68.79,
+      "patternText": "243.296/353.696",
+      "aiScore": 62,
+      "picks": 2
+    },
+    {
+      "home": "Comoros",
+      "away": "Congo",
+      "league": "AFUK",
+      "date": "13.11.2026 13:00",
+      "matchCode": "4579341",
+      "odds": 1.15,
+      "patternScore": 70.05,
+      "patternText": "302.402/431.680",
+      "aiScore": 75,
+      "picks": 1
+    },
+    {
       "home": "Oakleigh Cannons",
       "away": "Marconi Stallions",
       "league": "AVC",
@@ -376,30 +394,6 @@
       "patternText": "153.348/229.530",
       "aiScore": 53,
       "picks": 2
-    },
-    {
-      "home": "Moldova",
-      "away": "Kazakhstan",
-      "league": "AVUL",
-      "date": "13.11.2026 17:00",
-      "matchCode": "4445230",
-      "odds": 1.53,
-      "patternScore": 65.78,
-      "patternText": "91.511/139.126",
-      "aiScore": 52,
-      "picks": 5
-    },
-    {
-      "home": "Hellerup Ik",
-      "away": "B93",
-      "league": "DAN2",
-      "date": "13.11.2026 18:00",
-      "matchCode": "4510863",
-      "odds": 1.36,
-      "patternScore": 67.81,
-      "patternText": "243.945/359.745",
-      "aiScore": 53,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
