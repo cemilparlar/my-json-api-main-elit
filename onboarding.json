@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "12.11.2026 23:59",
+  "updatedAt": "13.11.2026 00:08",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 76,
+      "won": 79,
       "lost": 41,
-      "total": 117,
-      "rate": 65.0
+      "total": 120,
+      "rate": 65.8
     },
     "totalAnalyses": 606528,
     "leagues": 360,
     "pro": {
-      "won": 1171,
-      "lost": 513,
-      "total": 1684,
-      "rate": 69.5
+      "won": 1173,
+      "lost": 512,
+      "total": 1685,
+      "rate": 69.6
     },
     "insights": {
-      "won": 1944,
-      "lost": 820,
+      "won": 1945,
+      "lost": 819,
       "total": 2764,
-      "rate": 70.3
+      "rate": 70.4
     },
     "coupons": {
       "won": 49,
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1108,
-    "analyses30d": 18203
+    "analyses24h": 1099,
+    "analyses30d": 18183
   },
   "recentWins": [
     {
@@ -330,10 +330,8 @@
       "away": "Panama"
     },
     {
-      "type": "kickoff",
-      "home": "Ecuador",
-      "away": "Costa Rica",
-      "at": "13.11.2026 00:00"
+      "type": "analysis",
+      "count": 1099
     }
   ],
   "today": {
@@ -398,16 +396,16 @@
       "picks": 5
     },
     {
-      "home": "JS Saoura",
-      "away": "Usm Khenchela",
-      "league": "CZYR",
-      "date": "13.11.2026 17:00",
-      "matchCode": "4546121",
-      "odds": 1.23,
-      "patternScore": 68.66,
-      "patternText": "234.943/342.174",
-      "aiScore": 60,
-      "picks": 1
+      "home": "Hellerup Ik",
+      "away": "B93",
+      "league": "DAN2",
+      "date": "13.11.2026 18:00",
+      "matchCode": "4510863",
+      "odds": 1.36,
+      "patternScore": 67.81,
+      "patternText": "243.935/359.735",
+      "aiScore": 53,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
