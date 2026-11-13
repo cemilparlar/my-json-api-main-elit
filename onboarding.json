@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 08:24",
+  "updatedAt": "13.11.2026 08:31",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 86,
+      "won": 81,
       "lost": 48,
-      "total": 134,
-      "rate": 64.2
+      "total": 129,
+      "rate": 62.8
     },
-    "totalAnalyses": 606891,
+    "totalAnalyses": 606895,
     "leagues": 360,
     "pro": {
-      "won": 1172,
+      "won": 1171,
       "lost": 517,
-      "total": 1689,
+      "total": 1688,
       "rate": 69.4
     },
     "insights": {
-      "won": 1944,
-      "lost": 825,
-      "total": 2769,
+      "won": 1942,
+      "lost": 823,
+      "total": 2765,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1135,
-    "analyses30d": 18213
+    "analyses24h": 1128,
+    "analyses30d": 18211
   },
   "recentWins": [
     {
@@ -296,18 +296,18 @@
     {
       "type": "updated",
       "at": "13.11.2026 08:18",
+      "home": "Zambia",
+      "away": "Burundi"
+    },
+    {
+      "type": "updated",
+      "at": "13.11.2026 08:18",
       "home": "Mozambique",
       "away": "Ethiopia"
     },
     {
-      "type": "kickoff",
-      "home": "Oakleigh Cannons",
-      "away": "Marconi Stallions",
-      "at": "13.11.2026 08:30"
-    },
-    {
       "type": "analysis",
-      "count": 1135
+      "count": 1128
     }
   ],
   "today": {
@@ -336,15 +336,27 @@
       "picks": 1
     },
     {
+      "home": "Zambia",
+      "away": "Burundi",
+      "league": "AFUK",
+      "date": "13.11.2026 13:00",
+      "matchCode": "4579356",
+      "odds": 1.08,
+      "patternScore": 71.51,
+      "patternText": "199.780/279.370",
+      "aiScore": 97,
+      "picks": 1
+    },
+    {
       "home": "Mozambique",
       "away": "Ethiopia",
       "league": "AFUK",
       "date": "13.11.2026 13:00",
       "matchCode": "4579365",
-      "odds": 1.08,
-      "patternScore": 70.27,
-      "patternText": "297.872/423.912",
-      "aiScore": 88,
+      "odds": 1.07,
+      "patternScore": 69.17,
+      "patternText": "251.090/362.992",
+      "aiScore": 90,
       "picks": 1
     },
     {
@@ -370,18 +382,6 @@
       "patternText": "91.535/139.164",
       "aiScore": 52,
       "picks": 5
-    },
-    {
-      "home": "Netherlands",
-      "away": "Greece",
-      "league": "AVUL",
-      "date": "13.11.2026 19:45",
-      "matchCode": "4445128",
-      "odds": 1.38,
-      "patternScore": 67.84,
-      "patternText": "146.939/216.589",
-      "aiScore": 55,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
