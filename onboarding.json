@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 12:59",
+  "updatedAt": "13.11.2026 13:06",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 85,
-      "lost": 48,
-      "total": 133,
-      "rate": 63.9
+      "won": 81,
+      "lost": 47,
+      "total": 128,
+      "rate": 63.3
     },
-    "totalAnalyses": 607312,
+    "totalAnalyses": 607337,
     "leagues": 360,
     "pro": {
-      "won": 1165,
-      "lost": 512,
-      "total": 1677,
+      "won": 1162,
+      "lost": 511,
+      "total": 1673,
       "rate": 69.5
     },
     "insights": {
-      "won": 1932,
-      "lost": 817,
-      "total": 2749,
+      "won": 1928,
+      "lost": 815,
+      "total": 2743,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1200,
-    "analyses30d": 18243
+    "analyses24h": 1187,
+    "analyses30d": 18221
   },
   "recentWins": [
     {
@@ -295,12 +295,6 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 07:01",
-      "home": "Oakleigh Cannons",
-      "away": "Marconi Stallions"
-    },
-    {
-      "type": "updated",
       "at": "13.11.2026 10:05",
       "home": "Comoros",
       "away": "Congo"
@@ -319,7 +313,7 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 12:40",
+      "at": "13.11.2026 13:01",
       "home": "Finland (U2",
       "away": "Republic of Ireland"
     },
@@ -334,6 +328,12 @@
       "at": "13.11.2026 12:06",
       "home": "Hellerup Ik",
       "away": "B93"
+    },
+    {
+      "type": "updated",
+      "at": "13.11.2026 12:06",
+      "home": "Skive IK",
+      "away": "Thisted FC"
     }
   ],
   "today": {
@@ -386,6 +386,18 @@
       "picks": 4
     },
     {
+      "home": "Mali",
+      "away": "Rwanda",
+      "league": "AFUK",
+      "date": "13.11.2026 19:00",
+      "matchCode": "4579373",
+      "odds": 1.19,
+      "patternScore": 68.19,
+      "patternText": "190.188/278.898",
+      "aiScore": 88,
+      "picks": 1
+    },
+    {
       "home": "Qatar",
       "away": "Australia",
       "league": "HAZ",
@@ -395,18 +407,6 @@
       "patternScore": 69.59,
       "patternText": "306.697/440.697",
       "aiScore": 67,
-      "picks": 1
-    },
-    {
-      "home": "FC Roskilde",
-      "away": "Nykobing",
-      "league": "DAN2",
-      "date": "13.11.2026 18:00",
-      "matchCode": "4510862",
-      "odds": 1.16,
-      "patternScore": 69.17,
-      "patternText": "256.474/370.767",
-      "aiScore": 79,
       "picks": 1
     }
   ],
