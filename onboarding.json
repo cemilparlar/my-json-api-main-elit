@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 17:26",
+  "updatedAt": "13.11.2026 17:34",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 62,
+      "won": 61,
       "lost": 43,
-      "total": 105,
-      "rate": 59.0
+      "total": 104,
+      "rate": 58.7
     },
-    "totalAnalyses": 608149,
+    "totalAnalyses": 608159,
     "leagues": 361,
     "pro": {
-      "won": 1138,
-      "lost": 509,
-      "total": 1647,
+      "won": 1131,
+      "lost": 506,
+      "total": 1637,
       "rate": 69.1
     },
     "insights": {
-      "won": 1887,
-      "lost": 802,
-      "total": 2689,
-      "rate": 70.2
+      "won": 1873,
+      "lost": 797,
+      "total": 2670,
+      "rate": 70.1
     },
     "coupons": {
       "won": 49,
@@ -47,8 +47,8 @@
       "total": 107,
       "rate": 45.8
     },
-    "analyses24h": 1216,
-    "analyses30d": 18108
+    "analyses24h": 1218,
+    "analyses30d": 18088
   },
   "recentWins": [
     {
@@ -295,7 +295,7 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 15:04",
+      "at": "13.11.2026 17:31",
       "home": "Netherlands",
       "away": "Greece"
     },
@@ -319,7 +319,7 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 14:40",
+      "at": "13.11.2026 17:31",
       "home": "Bulgaria",
       "away": "Iceland"
     },
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Spain (U21)",
-    "away": "Japan U21",
-    "league": "HAZ",
-    "date": "13.11.2026 18:00",
-    "matchCode": "4579500",
-    "odds": 1.72,
-    "patternScore": 67.72,
-    "patternText": "187.060/276.216",
-    "aiScore": 53,
-    "picks": 4
+    "home": "Ballymena",
+    "away": "Linfield",
+    "league": "KİRL",
+    "date": "13.11.2026 19:45",
+    "matchCode": "4486926",
+    "odds": 1.59,
+    "patternScore": 67.8,
+    "patternText": "138.683/204.536",
+    "aiScore": 54,
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Spain (U21)",
-      "away": "Japan U21",
-      "league": "HAZ",
-      "date": "13.11.2026 18:00",
-      "matchCode": "4579500",
-      "odds": 1.72,
-      "patternScore": 67.72,
-      "patternText": "187.060/276.216",
-      "aiScore": 53,
-      "picks": 4
-    },
     {
       "home": "Ballymena",
       "away": "Linfield",
@@ -408,9 +396,35 @@
       "patternText": "171.477/255.954",
       "aiScore": 58,
       "picks": 1
+    },
+    {
+      "home": "Luxembourg",
+      "away": "Estonia",
+      "league": "AVUL",
+      "date": "13.11.2026 19:45",
+      "matchCode": "4457630",
+      "odds": 1.35,
+      "patternScore": 67.34,
+      "patternText": "233.527/346.811",
+      "aiScore": 54,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Netherlands",
+      "away": "Greece",
+      "league": "AVUL",
+      "at": "13.11.2026 17:31",
+      "count": 8
+    },
+    {
+      "home": "Bulgaria",
+      "away": "Iceland",
+      "league": "AVUL",
+      "at": "13.11.2026 17:31",
+      "count": 8
+    },
     {
       "home": "Serbia",
       "away": "Germany",
@@ -454,25 +468,11 @@
       "count": 9
     },
     {
-      "home": "Netherlands",
-      "away": "Greece",
-      "league": "AVUL",
-      "at": "13.11.2026 15:04",
-      "count": 5
-    },
-    {
       "home": "Luxembourg",
       "away": "Estonia",
       "league": "AVUL",
       "at": "13.11.2026 15:03",
       "count": 7
-    },
-    {
-      "home": "Bulgaria",
-      "away": "Iceland",
-      "league": "AVUL",
-      "at": "13.11.2026 14:40",
-      "count": 4
     },
     {
       "home": "Greece",
