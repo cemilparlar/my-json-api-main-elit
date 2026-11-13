@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 18:51",
+  "updatedAt": "13.11.2026 19:02",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 77,
-      "lost": 45,
-      "total": 122,
-      "rate": 63.1
+      "won": 71,
+      "lost": 42,
+      "total": 113,
+      "rate": 62.8
     },
-    "totalAnalyses": 608234,
+    "totalAnalyses": 608274,
     "leagues": 359,
     "pro": {
-      "won": 1123,
-      "lost": 500,
-      "total": 1623,
-      "rate": 69.2
+      "won": 1109,
+      "lost": 489,
+      "total": 1598,
+      "rate": 69.4
     },
     "insights": {
-      "won": 1854,
-      "lost": 779,
-      "total": 2633,
-      "rate": 70.4
+      "won": 1818,
+      "lost": 760,
+      "total": 2578,
+      "rate": 70.5
     },
     "coupons": {
       "won": 49,
@@ -47,8 +47,8 @@
       "total": 106,
       "rate": 46.2
     },
-    "analyses24h": 1211,
-    "analyses30d": 17880
+    "analyses24h": 1199,
+    "analyses30d": 17841
   },
   "recentWins": [
     {
@@ -289,6 +289,12 @@
     },
     {
       "type": "updated",
+      "at": "13.11.2026 18:53",
+      "home": "Salamanca CF",
+      "away": "Celta de Vigo"
+    },
+    {
+      "type": "updated",
       "at": "13.11.2026 16:14",
       "home": "Moldova",
       "away": "Kazakhstan"
@@ -301,7 +307,13 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 17:11",
+      "at": "13.11.2026 18:52",
+      "home": "Slovakia",
+      "away": "Faroe Islands"
+    },
+    {
+      "type": "updated",
+      "at": "13.11.2026 18:52",
       "home": "Serbia",
       "away": "Germany"
     },
@@ -310,12 +322,6 @@
       "at": "13.11.2026 15:03",
       "home": "Luxembourg",
       "away": "Estonia"
-    },
-    {
-      "type": "updated",
-      "at": "13.11.2026 18:52",
-      "home": "Bulgaria",
-      "away": "Iceland"
     },
     {
       "type": "updated",
@@ -328,12 +334,6 @@
       "at": "13.11.2026 15:21",
       "home": "Burkina Faso",
       "away": "Mauritania"
-    },
-    {
-      "type": "updated",
-      "at": "13.11.2026 13:44",
-      "home": "Cape Verde",
-      "away": "Liberia"
     }
   ],
   "today": {
@@ -386,18 +386,6 @@
       "picks": 6
     },
     {
-      "home": "CD Leganes",
-      "away": "Burgos CF",
-      "league": "İS2",
-      "date": "13.11.2026 19:30",
-      "matchCode": "4492827",
-      "odds": 1.33,
-      "patternScore": 68.23,
-      "patternText": "249.567/365.774",
-      "aiScore": 61,
-      "picks": 2
-    },
-    {
       "home": "Crusaders",
       "away": "Carrick Rangers",
       "league": "KİRL",
@@ -408,9 +396,35 @@
       "patternText": "140.718/206.381",
       "aiScore": 58,
       "picks": 2
+    },
+    {
+      "home": "Colombia",
+      "away": "Chile",
+      "league": "HAZ",
+      "date": "14.11.2026 00:00",
+      "matchCode": "4565372",
+      "odds": 1.22,
+      "patternScore": 68.06,
+      "patternText": "265.507/390.110",
+      "aiScore": 61,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Slovakia",
+      "away": "Faroe Islands",
+      "league": "AVUL",
+      "at": "13.11.2026 18:52",
+      "count": 9
+    },
+    {
+      "home": "Serbia",
+      "away": "Germany",
+      "league": "AVUL",
+      "at": "13.11.2026 18:52",
+      "count": 14
+    },
     {
       "home": "Bulgaria",
       "away": "Iceland",
@@ -431,20 +445,6 @@
       "league": "AVUL",
       "at": "13.11.2026 18:31",
       "count": 10
-    },
-    {
-      "home": "Slovakia",
-      "away": "Faroe Islands",
-      "league": "AVUL",
-      "at": "13.11.2026 18:31",
-      "count": 1
-    },
-    {
-      "home": "Serbia",
-      "away": "Germany",
-      "league": "AVUL",
-      "at": "13.11.2026 17:11",
-      "count": 14
     },
     {
       "home": "Latvia",
