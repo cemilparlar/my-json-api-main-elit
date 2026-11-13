@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 13:59",
+  "updatedAt": "13.11.2026 14:07",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 128,
       "rate": 63.3
     },
-    "totalAnalyses": 607590,
+    "totalAnalyses": 607645,
     "leagues": 360,
     "pro": {
-      "won": 1162,
+      "won": 1159,
       "lost": 511,
-      "total": 1673,
-      "rate": 69.5
+      "total": 1670,
+      "rate": 69.4
     },
     "insights": {
-      "won": 1927,
+      "won": 1920,
       "lost": 815,
-      "total": 2742,
-      "rate": 70.3
+      "total": 2735,
+      "rate": 70.2
     },
     "coupons": {
       "won": 49,
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1191,
-    "analyses30d": 18215
+    "analyses24h": 1215,
+    "analyses30d": 18189
   },
   "recentWins": [
     {
@@ -108,17 +108,17 @@
       "pro": false
     },
     {
-      "home": "Nove Zamky",
-      "away": "Zemplin",
-      "league": "SLOVK",
-      "date": "11.11.2026 12:00",
-      "prediction": "1st Half Under 1.5",
-      "odds": 1.41,
-      "probability": 71.43,
-      "patternScore": 67.01,
-      "aiScore": 54,
+      "home": "Llaneros",
+      "away": "Chico",
+      "league": "KOL",
+      "date": "13.11.2026 00:00",
+      "prediction": "Both Teams to Score - No",
+      "odds": 1.38,
+      "probability": 70.59,
+      "patternScore": 67.62,
+      "aiScore": 56,
       "firstHalf": "0 - 0",
-      "finalScore": "0 - 2",
+      "finalScore": "0 - 0",
       "pro": true
     }
   ],
@@ -295,6 +295,18 @@
     },
     {
       "type": "updated",
+      "at": "13.11.2026 14:03",
+      "home": "Netherlands",
+      "away": "Greece"
+    },
+    {
+      "type": "updated",
+      "at": "13.11.2026 14:06",
+      "home": "Bulgaria",
+      "away": "Iceland"
+    },
+    {
+      "type": "updated",
       "at": "13.11.2026 10:05",
       "home": "Comoros",
       "away": "Congo"
@@ -307,7 +319,7 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 09:01",
+      "at": "13.11.2026 14:01",
       "home": "Qatar",
       "away": "Australia"
     },
@@ -319,21 +331,9 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 13:01",
-      "home": "Finland (U2",
-      "away": "Republic of Ireland"
-    },
-    {
-      "type": "updated",
-      "at": "13.11.2026 11:43",
-      "home": "Denmark (U21",
-      "away": "Netherlands (U21)"
-    },
-    {
-      "type": "updated",
-      "at": "13.11.2026 13:46",
-      "home": "Hellerup Ik",
-      "away": "B93"
+      "at": "13.11.2026 14:02",
+      "home": "Gabon",
+      "away": "Lesotho"
     }
   ],
   "today": {
@@ -412,6 +412,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Luxembourg",
+      "away": "Estonia",
+      "league": "AVUL",
+      "at": "13.11.2026 14:06",
+      "count": 6
+    },
+    {
+      "home": "Bulgaria",
+      "away": "Iceland",
+      "league": "AVUL",
+      "at": "13.11.2026 14:06",
+      "count": 9
+    },
+    {
+      "home": "Netherlands",
+      "away": "Greece",
+      "league": "AVUL",
+      "at": "13.11.2026 14:03",
+      "count": 4
+    },
+    {
+      "home": "Slovakia",
+      "away": "Faroe Islands",
+      "league": "AVUL",
+      "at": "13.11.2026 14:02",
+      "count": 15
+    },
+    {
       "home": "CD Leganes",
       "away": "Burgos CF",
       "league": "İS2",
@@ -452,34 +480,6 @@
       "league": "CON",
       "at": "12.11.2026 22:30",
       "count": 4
-    },
-    {
-      "home": "Estudiantes de La Plata",
-      "away": "Rivadavia",
-      "league": "ARJSK",
-      "at": "12.11.2026 22:29",
-      "count": 16
-    },
-    {
-      "home": "Albania",
-      "away": "Finland",
-      "league": "AVUL",
-      "at": "12.11.2026 19:11",
-      "count": 8
-    },
-    {
-      "home": "Italy",
-      "away": "France",
-      "league": "AVUL",
-      "at": "12.11.2026 18:54",
-      "count": 7
-    },
-    {
-      "home": "England",
-      "away": "Croatia",
-      "league": "AVUL",
-      "at": "12.11.2026 17:53",
-      "count": 14
     }
   ],
   "paywall": {
