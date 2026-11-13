@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 19:57",
+  "updatedAt": "13.11.2026 20:05",
   "config": {
     "pages": [
       "engine",
@@ -22,32 +22,32 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 55,
-      "lost": 19,
-      "total": 74,
-      "rate": 74.3
+      "won": 63,
+      "lost": 24,
+      "total": 87,
+      "rate": 72.4
     },
-    "totalAnalyses": 608318,
+    "totalAnalyses": 608324,
     "leagues": 359,
     "pro": {
-      "won": 1084,
-      "lost": 483,
-      "total": 1567,
+      "won": 1077,
+      "lost": 480,
+      "total": 1557,
       "rate": 69.2
     },
     "insights": {
-      "won": 1768,
-      "lost": 745,
-      "total": 2513,
-      "rate": 70.4
+      "won": 1760,
+      "lost": 743,
+      "total": 2503,
+      "rate": 70.3
     },
     "coupons": {
       "won": 49,
-      "lost": 55,
-      "total": 104,
-      "rate": 47.1
+      "lost": 54,
+      "total": 103,
+      "rate": 47.6
     },
-    "analyses24h": 1161,
+    "analyses24h": 1167,
     "analyses30d": 17850
   },
   "recentWins": [
@@ -331,9 +331,9 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 14:02",
-      "home": "Gabon",
-      "away": "Lesotho"
+      "at": "13.11.2026 15:39",
+      "home": "Finland (U2",
+      "away": "Republic of Ireland"
     }
   ],
   "today": {
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Guatemala",
+      "away": "Canada",
+      "league": "CON",
+      "at": "13.11.2026 20:04",
+      "count": 4
+    },
+    {
       "home": "Netherlands",
       "away": "Greece",
       "league": "AVUL",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "13.11.2026 15:03",
       "count": 7
-    },
-    {
-      "home": "Greece",
-      "away": "Serbia",
-      "league": "AVUL",
-      "at": "13.11.2026 11:23",
-      "count": 1
     }
   ],
   "paywall": {
