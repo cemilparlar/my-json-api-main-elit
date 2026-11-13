@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 16:38",
+  "updatedAt": "13.11.2026 16:46",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 112,
       "rate": 62.5
     },
-    "totalAnalyses": 608022,
+    "totalAnalyses": 608038,
     "leagues": 361,
     "pro": {
-      "won": 1152,
-      "lost": 510,
-      "total": 1662,
+      "won": 1149,
+      "lost": 509,
+      "total": 1658,
       "rate": 69.3
     },
     "insights": {
-      "won": 1910,
-      "lost": 810,
-      "total": 2720,
+      "won": 1907,
+      "lost": 809,
+      "total": 2716,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 107,
       "rate": 45.8
     },
-    "analyses24h": 1222,
-    "analyses30d": 18174
+    "analyses24h": 1219,
+    "analyses30d": 18145
   },
   "recentWins": [
     {
@@ -80,6 +80,20 @@
       "pro": true
     },
     {
+      "home": "Uzbekistan",
+      "away": "Russia",
+      "league": "HAZ",
+      "date": "12.11.2026 15:00",
+      "prediction": "Match Result 2",
+      "odds": 1.54,
+      "probability": 71.88,
+      "patternScore": 68.12,
+      "aiScore": 53,
+      "firstHalf": "1 - 0",
+      "finalScore": "2 - 3",
+      "pro": true
+    },
+    {
       "home": "Aqaba",
       "away": "Hay Al-Amir Has",
       "league": "ÜRD1",
@@ -106,20 +120,6 @@
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
       "pro": false
-    },
-    {
-      "home": "Llaneros",
-      "away": "Chico",
-      "league": "KOL",
-      "date": "13.11.2026 00:00",
-      "prediction": "Both Teams to Score - No",
-      "odds": 1.38,
-      "probability": 70.59,
-      "patternScore": 67.62,
-      "aiScore": 56,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 0",
-      "pro": true
     }
   ],
   "recentCoupons": [
@@ -273,19 +273,19 @@
     },
     {
       "type": "won",
+      "home": "Uzbekistan",
+      "away": "Russia",
+      "prediction": "Match Result 2",
+      "odds": 1.54,
+      "at": "12.11.2026 15:00"
+    },
+    {
+      "type": "won",
       "home": "Aqaba",
       "away": "Hay Al-Amir Has",
       "prediction": "Match Result 2",
       "odds": 1.52,
       "at": "12.11.2026 16:00"
-    },
-    {
-      "type": "won",
-      "home": "Ponte Preta",
-      "away": "Operario",
-      "prediction": "Match Result 2",
-      "odds": 1.45,
-      "at": "12.11.2026 22:00"
     },
     {
       "type": "updated",
@@ -325,30 +325,42 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 13:44",
-      "home": "Cape Verde",
-      "away": "Liberia"
+      "at": "13.11.2026 14:01",
+      "home": "Qatar",
+      "away": "Australia"
     },
     {
       "type": "updated",
-      "at": "13.11.2026 15:22",
-      "home": "Tunisia",
-      "away": "Libya"
+      "at": "13.11.2026 13:44",
+      "home": "Cape Verde",
+      "away": "Liberia"
     }
   ],
   "today": {
-    "home": "Ballymena",
-    "away": "Linfield",
-    "league": "KİRL",
-    "date": "13.11.2026 19:45",
-    "matchCode": "4486926",
-    "odds": 1.59,
-    "patternScore": 67.8,
-    "patternText": "138.669/204.520",
+    "home": "Spain (U21)",
+    "away": "Japan U21",
+    "league": "HAZ",
+    "date": "13.11.2026 18:00",
+    "matchCode": "4579500",
+    "odds": 1.72,
+    "patternScore": 67.72,
+    "patternText": "187.052/276.206",
     "aiScore": 53,
-    "picks": 3
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Spain (U21)",
+      "away": "Japan U21",
+      "league": "HAZ",
+      "date": "13.11.2026 18:00",
+      "matchCode": "4579500",
+      "odds": 1.72,
+      "patternScore": 67.72,
+      "patternText": "187.052/276.206",
+      "aiScore": 53,
+      "picks": 4
+    },
     {
       "home": "Ballymena",
       "away": "Linfield",
@@ -357,8 +369,8 @@
       "matchCode": "4486926",
       "odds": 1.59,
       "patternScore": 67.8,
-      "patternText": "138.669/204.520",
-      "aiScore": 53,
+      "patternText": "138.675/204.526",
+      "aiScore": 54,
       "picks": 3
     },
     {
@@ -369,21 +381,9 @@
       "matchCode": "4486931",
       "odds": 1.41,
       "patternScore": 68.2,
-      "patternText": "139.104/203.965",
-      "aiScore": 54,
+      "patternText": "139.110/203.971",
+      "aiScore": 55,
       "picks": 2
-    },
-    {
-      "home": "SpVgg Bayreuth",
-      "away": "Vilzing",
-      "league": "ALMBÖL",
-      "date": "13.11.2026 18:00",
-      "matchCode": "4506402",
-      "odds": 1.36,
-      "patternScore": 68.33,
-      "patternText": "240.842/352.491",
-      "aiScore": 56,
-      "picks": 1
     },
     {
       "home": "Netherlands",
@@ -393,7 +393,7 @@
       "matchCode": "4445128",
       "odds": 1.36,
       "patternScore": 66.99,
-      "patternText": "171.463/255.938",
+      "patternText": "171.469/255.944",
       "aiScore": 58,
       "picks": 1
     },
@@ -405,7 +405,7 @@
       "matchCode": "4457630",
       "odds": 1.35,
       "patternScore": 67.34,
-      "patternText": "233.513/346.783",
+      "patternText": "233.519/346.789",
       "aiScore": 54,
       "picks": 6
     }
