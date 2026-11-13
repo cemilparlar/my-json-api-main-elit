@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 23:48",
+  "updatedAt": "13.11.2026 23:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 213,
       "rate": 63.4
     },
-    "totalAnalyses": 608537,
+    "totalAnalyses": 608544,
     "leagues": 358,
     "pro": {
       "won": 1085,
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1136,
-    "analyses30d": 17834
+    "analyses24h": 1134,
+    "analyses30d": 17832
   },
   "recentWins": [
     {
@@ -307,6 +307,12 @@
     },
     {
       "type": "updated",
+      "at": "13.11.2026 23:44",
+      "home": "Inter Bogota",
+      "away": "Independiente Santa Fe"
+    },
+    {
+      "type": "updated",
       "at": "13.11.2026 18:51",
       "home": "CD Leganes",
       "away": "Burgos CF"
@@ -328,12 +334,6 @@
       "at": "13.11.2026 23:03",
       "home": "Albirex Niigata",
       "away": "Tegevajaro Miyazaki"
-    },
-    {
-      "type": "updated",
-      "at": "13.11.2026 23:25",
-      "home": "Shonan Bellmare",
-      "away": "Yokohama FC"
     }
   ],
   "today": {
@@ -392,8 +392,8 @@
       "date": "14.11.2026 05:00",
       "matchCode": "4488051",
       "odds": 1.13,
-      "patternScore": 70.34,
-      "patternText": "341.003/484.825",
+      "patternScore": 70.33,
+      "patternText": "341.981/486.275",
       "aiScore": 97,
       "picks": 1
     },
