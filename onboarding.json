@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 13:43",
+  "updatedAt": "13.11.2026 13:51",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 128,
       "rate": 63.3
     },
-    "totalAnalyses": 607507,
+    "totalAnalyses": 607527,
     "leagues": 360,
     "pro": {
       "won": 1162,
@@ -47,8 +47,8 @@
       "total": 108,
       "rate": 45.4
     },
-    "analyses24h": 1187,
-    "analyses30d": 18215
+    "analyses24h": 1195,
+    "analyses30d": 18219
   },
   "recentWins": [
     {
@@ -313,7 +313,7 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 13:01",
+      "at": "13.11.2026 13:44",
       "home": "Cape Verde",
       "away": "Liberia"
     },
@@ -331,7 +331,7 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 12:06",
+      "at": "13.11.2026 13:46",
       "home": "Hellerup Ik",
       "away": "B93"
     }
@@ -362,6 +362,18 @@
       "picks": 5
     },
     {
+      "home": "Netherlands",
+      "away": "Greece",
+      "league": "AVUL",
+      "date": "13.11.2026 19:45",
+      "matchCode": "4445128",
+      "odds": 1.38,
+      "patternScore": 67.84,
+      "patternText": "146.951/216.601",
+      "aiScore": 56,
+      "picks": 2
+    },
+    {
       "home": "SpVgg Bayreuth",
       "away": "Vilzing",
       "league": "ALMBÖL",
@@ -386,31 +398,26 @@
       "picks": 3
     },
     {
-      "home": "Qatar",
-      "away": "Australia",
-      "league": "HAZ",
-      "date": "13.11.2026 14:45",
-      "matchCode": "4565370",
+      "home": "Ballymena",
+      "away": "Linfield",
+      "league": "KİRL",
+      "date": "13.11.2026 19:45",
+      "matchCode": "4486926",
       "odds": 1.18,
-      "patternScore": 69.59,
-      "patternText": "306.697/440.697",
-      "aiScore": 67,
-      "picks": 1
-    },
-    {
-      "home": "Al Hashemeya",
-      "away": "Sama Al Sarhan",
-      "league": "ÜRD1",
-      "date": "13.11.2026 16:00",
-      "matchCode": "4561290",
-      "odds": 1.17,
-      "patternScore": 70.18,
-      "patternText": "354.292/504.862",
-      "aiScore": 73,
-      "picks": 1
+      "patternScore": 68.8,
+      "patternText": "133.429/193.924",
+      "aiScore": 70,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "CD Leganes",
+      "away": "Burgos CF",
+      "league": "İS2",
+      "at": "13.11.2026 13:46",
+      "count": 6
+    },
     {
       "home": "Moldova",
       "away": "Kazakhstan",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "12.11.2026 17:53",
       "count": 14
-    },
-    {
-      "home": "Montenegro",
-      "away": "Latvia",
-      "league": "AVUL",
-      "at": "12.11.2026 17:38",
-      "count": 7
     }
   ],
   "paywall": {
