@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 16:13",
+  "updatedAt": "13.11.2026 16:21",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 111,
       "rate": 62.2
     },
-    "totalAnalyses": 607979,
+    "totalAnalyses": 608013,
     "leagues": 361,
     "pro": {
       "won": 1153,
@@ -47,8 +47,8 @@
       "total": 107,
       "rate": 45.8
     },
-    "analyses24h": 1207,
-    "analyses30d": 18162
+    "analyses24h": 1210,
+    "analyses30d": 18165
   },
   "recentWins": [
     {
@@ -289,7 +289,7 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 15:22",
+      "at": "13.11.2026 16:14",
       "home": "Moldova",
       "away": "Kazakhstan"
     },
@@ -374,18 +374,6 @@
       "picks": 2
     },
     {
-      "home": "Znicz Pruszkow",
-      "away": "Sokol Kleczew",
-      "league": "POL2",
-      "date": "13.11.2026 17:00",
-      "matchCode": "4486565",
-      "odds": 1.39,
-      "patternScore": 68.21,
-      "patternText": "358.602/525.711",
-      "aiScore": 56,
-      "picks": 3
-    },
-    {
       "home": "SpVgg Bayreuth",
       "away": "Vilzing",
       "league": "ALMBÖL",
@@ -408,9 +396,28 @@
       "patternText": "171.463/255.938",
       "aiScore": 58,
       "picks": 1
+    },
+    {
+      "home": "Luxembourg",
+      "away": "Estonia",
+      "league": "AVUL",
+      "date": "13.11.2026 19:45",
+      "matchCode": "4457630",
+      "odds": 1.35,
+      "patternScore": 67.34,
+      "patternText": "233.513/346.783",
+      "aiScore": 54,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Moldova",
+      "away": "Kazakhstan",
+      "league": "AVUL",
+      "at": "13.11.2026 16:14",
+      "count": 8
+    },
     {
       "home": "CD Leganes",
       "away": "Burgos CF",
@@ -424,13 +431,6 @@
       "league": "AVUL",
       "at": "13.11.2026 15:24",
       "count": 9
-    },
-    {
-      "home": "Moldova",
-      "away": "Kazakhstan",
-      "league": "AVUL",
-      "at": "13.11.2026 15:22",
-      "count": 6
     },
     {
       "home": "Netherlands",
