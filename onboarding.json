@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "13.11.2026 19:42",
+  "updatedAt": "13.11.2026 19:50",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 79,
-      "lost": 44,
-      "total": 123,
-      "rate": 64.2
+      "won": 55,
+      "lost": 19,
+      "total": 74,
+      "rate": 74.3
     },
-    "totalAnalyses": 608315,
+    "totalAnalyses": 608318,
     "leagues": 359,
     "pro": {
-      "won": 1098,
-      "lost": 485,
-      "total": 1583,
-      "rate": 69.4
+      "won": 1084,
+      "lost": 483,
+      "total": 1567,
+      "rate": 69.2
     },
     "insights": {
-      "won": 1794,
-      "lost": 752,
-      "total": 2546,
-      "rate": 70.5
+      "won": 1768,
+      "lost": 745,
+      "total": 2513,
+      "rate": 70.4
     },
     "coupons": {
       "won": 49,
@@ -47,8 +47,8 @@
       "total": 104,
       "rate": 47.1
     },
-    "analyses24h": 1207,
-    "analyses30d": 17847
+    "analyses24h": 1161,
+    "analyses30d": 17850
   },
   "recentWins": [
     {
@@ -325,15 +325,15 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 13:44",
-      "home": "Cape Verde",
-      "away": "Liberia"
-    },
-    {
-      "type": "updated",
       "at": "13.11.2026 15:22",
       "home": "Tunisia",
       "away": "Libya"
+    },
+    {
+      "type": "updated",
+      "at": "13.11.2026 14:02",
+      "home": "Gabon",
+      "away": "Lesotho"
     }
   ],
   "today": {
@@ -374,18 +374,6 @@
       "picks": 1
     },
     {
-      "home": "Tarragona",
-      "away": "Real Madrid Castilla",
-      "league": "İS3",
-      "date": "13.11.2026 20:15",
-      "matchCode": "4493640",
-      "odds": 1.15,
-      "patternScore": 68.95,
-      "patternText": "222.521/322.714",
-      "aiScore": 79,
-      "picks": 2
-    },
-    {
       "home": "South Hobart",
       "away": "Wollongong Wolves",
       "league": "AVC",
@@ -407,6 +395,18 @@
       "patternScore": 69.27,
       "patternText": "274.987/396.966",
       "aiScore": 70,
+      "picks": 4
+    },
+    {
+      "home": "Sydney United 58 FC",
+      "away": "South Melbourne",
+      "league": "AVC",
+      "date": "14.11.2026 04:00",
+      "matchCode": "4573632",
+      "odds": 1.17,
+      "patternScore": 68.91,
+      "patternText": "256.218/371.824",
+      "aiScore": 67,
       "picks": 4
     }
   ],
