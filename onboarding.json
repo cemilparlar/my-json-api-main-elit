@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 06:06",
+  "updatedAt": "14.11.2026 06:14",
   "config": {
     "pages": [
       "engine",
@@ -23,23 +23,23 @@
     "days": 7,
     "last24h": {
       "won": 141,
-      "lost": 79,
-      "total": 220,
-      "rate": 64.1
+      "lost": 81,
+      "total": 222,
+      "rate": 63.5
     },
     "totalAnalyses": 608662,
     "leagues": 358,
     "pro": {
       "won": 1032,
-      "lost": 467,
-      "total": 1499,
+      "lost": 468,
+      "total": 1500,
       "rate": 68.8
     },
     "insights": {
       "won": 1716,
-      "lost": 733,
-      "total": 2449,
-      "rate": 70.1
+      "lost": 734,
+      "total": 2450,
+      "rate": 70.0
     },
     "coupons": {
       "won": 47,
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1115,
-    "analyses30d": 17811
+    "analyses24h": 1114,
+    "analyses30d": 17810
   },
   "recentWins": [
     {
@@ -374,18 +374,6 @@
       "picks": 4
     },
     {
-      "home": "Ishoj IF",
-      "away": "Sundby",
-      "league": "DAN3",
-      "date": "14.11.2026 12:00",
-      "matchCode": "4510995",
-      "odds": 1.25,
-      "patternScore": 68.72,
-      "patternText": "285.893/416.035",
-      "aiScore": 62,
-      "picks": 2
-    },
-    {
       "home": "Japan",
       "away": "Brazil",
       "league": "HAZ",
@@ -408,6 +396,18 @@
       "patternText": "304.034/449.078",
       "aiScore": 82,
       "picks": 1
+    },
+    {
+      "home": "Athletic Bilbao B",
+      "away": "Racing Ferrol",
+      "league": "İS3",
+      "date": "14.11.2026 12:00",
+      "matchCode": "4493251",
+      "odds": 1.13,
+      "patternScore": 70.16,
+      "patternText": "366.799/522.771",
+      "aiScore": 88,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
