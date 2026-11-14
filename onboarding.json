@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 06:29",
+  "updatedAt": "14.11.2026 06:36",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 222,
       "rate": 63.5
     },
-    "totalAnalyses": 608664,
+    "totalAnalyses": 608667,
     "leagues": 358,
     "pro": {
-      "won": 1032,
-      "lost": 468,
-      "total": 1500,
-      "rate": 68.8
+      "won": 1021,
+      "lost": 466,
+      "total": 1487,
+      "rate": 68.7
     },
     "insights": {
-      "won": 1716,
-      "lost": 734,
-      "total": 2450,
-      "rate": 70.0
+      "won": 1694,
+      "lost": 731,
+      "total": 2425,
+      "rate": 69.9
     },
     "coupons": {
       "won": 47,
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1113,
-    "analyses30d": 17809
+    "analyses24h": 1114,
+    "analyses30d": 17810
   },
   "recentWins": [
     {
@@ -374,6 +374,18 @@
       "picks": 4
     },
     {
+      "home": "Exeter City",
+      "away": "Cheltenham Town",
+      "league": "İN2",
+      "date": "14.11.2026 12:30",
+      "matchCode": "4489956",
+      "odds": 1.21,
+      "patternScore": 68.05,
+      "patternText": "292.148/429.311",
+      "aiScore": 65,
+      "picks": 4
+    },
+    {
       "home": "Montenegro U19",
       "away": "Faroe Islands U",
       "league": "AVŞU19",
@@ -396,18 +408,6 @@
       "patternText": "366.799/522.791",
       "aiScore": 87,
       "picks": 3
-    },
-    {
-      "home": "Japan",
-      "away": "Brazil",
-      "league": "HAZ",
-      "date": "14.11.2026 10:15",
-      "matchCode": "4565359",
-      "odds": 1.13,
-      "patternScore": 70.23,
-      "patternText": "185.671/264.388",
-      "aiScore": 96,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
