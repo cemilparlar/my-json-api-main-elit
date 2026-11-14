@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 11:30",
+  "updatedAt": "14.11.2026 11:37",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 237,
       "rate": 63.7
     },
-    "totalAnalyses": 609427,
+    "totalAnalyses": 609435,
     "leagues": 358,
     "pro": {
       "won": 994,
-      "lost": 457,
-      "total": 1451,
-      "rate": 68.5
+      "lost": 456,
+      "total": 1450,
+      "rate": 68.6
     },
     "insights": {
-      "won": 1647,
-      "lost": 713,
-      "total": 2360,
+      "won": 1646,
+      "lost": 712,
+      "total": 2358,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 84,
       "rate": 52.4
     },
-    "analyses24h": 1180,
-    "analyses30d": 17831
+    "analyses24h": 1177,
+    "analyses30d": 17828
   },
   "recentWins": [
     {
@@ -295,6 +295,12 @@
     },
     {
       "type": "updated",
+      "at": "14.11.2026 11:37",
+      "home": "Norway",
+      "away": "Wales"
+    },
+    {
+      "type": "updated",
       "at": "14.11.2026 07:38",
       "home": "Bayswater City FC",
       "away": "Sydney Olympic FC"
@@ -319,21 +325,15 @@
     },
     {
       "type": "updated",
+      "at": "14.11.2026 11:35",
+      "home": "Bronshoj",
+      "away": "Vanlose IF"
+    },
+    {
+      "type": "updated",
       "at": "14.11.2026 07:20",
       "home": "Real Valladolid",
       "away": "Castellon"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 07:39",
-      "home": "AlbinoLeffe",
-      "away": "Union Brescia"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 07:41",
-      "home": "AC Renate",
-      "away": "Calvina"
     }
   ],
   "today": {
@@ -360,6 +360,18 @@
       "patternText": "218.014/326.898",
       "aiScore": 53,
       "picks": 1
+    },
+    {
+      "home": "RCD Mallorca",
+      "away": "Cordoba CF",
+      "league": "İS2",
+      "date": "14.11.2026 17:30",
+      "matchCode": "4492828",
+      "odds": 1.67,
+      "patternScore": 66.91,
+      "patternText": "135.630/202.699",
+      "aiScore": 53,
+      "picks": 5
     },
     {
       "home": "Real Valladolid",
@@ -396,21 +408,23 @@
       "patternText": "315.656/456.758",
       "aiScore": 61,
       "picks": 3
-    },
-    {
-      "home": "Austria U19",
-      "away": "Slovenia U19",
-      "league": "AVŞU19",
-      "date": "14.11.2026 17:00",
-      "matchCode": "4579231",
-      "odds": 1.34,
-      "patternScore": 67.97,
-      "patternText": "275.480/405.304",
-      "aiScore": 56,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Norway",
+      "away": "Wales",
+      "league": "AVUL",
+      "at": "14.11.2026 11:37",
+      "count": 11
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Sporting Gijon",
+      "league": "İS2",
+      "at": "14.11.2026 11:36",
+      "count": 5
+    },
     {
       "home": "Georgia",
       "away": "Hungary",
@@ -431,13 +445,6 @@
       "league": "AVUL",
       "at": "14.11.2026 10:17",
       "count": 5
-    },
-    {
-      "home": "Real Sociedad",
-      "away": "Sporting Gijon",
-      "league": "İS2",
-      "at": "14.11.2026 10:13",
-      "count": 8
     },
     {
       "home": "Real Valladolid",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "13.11.2026 18:52",
       "count": 9
-    },
-    {
-      "home": "Serbia",
-      "away": "Germany",
-      "league": "AVUL",
-      "at": "13.11.2026 18:52",
-      "count": 14
     }
   ],
   "paywall": {
