@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 05:13",
+  "updatedAt": "14.11.2026 05:20",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1117,
-    "analyses30d": 17813
+    "analyses24h": 1113,
+    "analyses30d": 17809
   },
   "recentWins": [
     {
@@ -362,16 +362,28 @@
       "picks": 7
     },
     {
+      "home": "Gornik Leczna",
+      "away": "Hutnik Krakow",
+      "league": "POL2",
+      "date": "14.11.2026 11:00",
+      "matchCode": "4486566",
+      "odds": 1.34,
+      "patternScore": 67.95,
+      "patternText": "276.676/407.194",
+      "aiScore": 56,
+      "picks": 4
+    },
+    {
       "home": "Japan",
       "away": "Brazil",
       "league": "HAZ",
       "date": "14.11.2026 10:15",
       "matchCode": "4565359",
-      "odds": 1.12,
-      "patternScore": 67.06,
-      "patternText": "416.055/620.387",
-      "aiScore": 83,
-      "picks": 3
+      "odds": 1.13,
+      "patternScore": 69.29,
+      "patternText": "386.641/558.015",
+      "aiScore": 88,
+      "picks": 1
     },
     {
       "home": "Central Coast Mariners",
@@ -392,22 +404,10 @@
       "date": "14.11.2026 11:00",
       "matchCode": "4523505",
       "odds": 1.07,
-      "patternScore": 70.46,
-      "patternText": "210.595/298.897",
-      "aiScore": 96,
+      "patternScore": 69.71,
+      "patternText": "315.228/452.225",
+      "aiScore": 94,
       "picks": 1
-    },
-    {
-      "home": "AlbinoLeffe",
-      "away": "Union Brescia",
-      "league": "İTC",
-      "date": "14.11.2026 13:30",
-      "matchCode": "4535187",
-      "odds": 1.72,
-      "patternScore": 67.8,
-      "patternText": "284.748/419.984",
-      "aiScore": 53,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
