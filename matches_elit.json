@@ -2757,7 +2757,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "14.11.2026 15:00",
@@ -14551,66 +14551,6 @@
     },
     {
         "date": "14.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487670",
-        "home": "Omiya Ardija",
-        "away": "Montedio Yamagata",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "82.76",
-        "odds": "1.07",
-        "matchCount": "58",
-        "matchLink": "4487670",
-        "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "15/114",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 02:49",
-        "patternScore": 71.46,
-        "patternText": "234.241/327.816",
-        "patternInfo": {
-            "m": 81,
-            "s": 10,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 96
-    },
-    {
-        "date": "14.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487670",
-        "home": "Omiya Ardija",
-        "away": "Montedio Yamagata",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "81.03",
-        "odds": "1.07",
-        "matchCount": "58",
-        "matchLink": "4487670",
-        "status": "Pending",
-        "predictedScore": "2-0",
-        "predictedScoreText": "15/114",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 02:49",
-        "patternScore": 70.34,
-        "patternText": "175.578/249.621",
-        "patternInfo": {
-            "m": 64,
-            "s": 8,
-            "f": 6,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
-    },
-    {
-        "date": "14.11.2026 05:00",
         "league": "JAP3",
         "matchCode": "4488054",
         "home": "Giravanz Kitakyushu",
@@ -14908,5 +14848,65 @@
             "b": 100.0
         },
         "aiScore": 99
+    },
+    {
+        "date": "14.11.2026 05:00",
+        "league": "JAP2",
+        "matchCode": "4487670",
+        "home": "Omiya Ardija",
+        "away": "Montedio Yamagata",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "80.7",
+        "odds": "1.06",
+        "matchCount": "114",
+        "matchLink": "4487670",
+        "status": "Pending",
+        "predictedScore": "2-0",
+        "predictedScoreText": "15/114",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 02:49",
+        "patternScore": 71.61,
+        "patternText": "232.381/324.528",
+        "patternInfo": {
+            "m": 73,
+            "s": 7,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 95
+    },
+    {
+        "date": "14.11.2026 05:00",
+        "league": "JAP2",
+        "matchCode": "4487670",
+        "home": "Omiya Ardija",
+        "away": "Montedio Yamagata",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "81.58",
+        "odds": "1.07",
+        "matchCount": "114",
+        "matchLink": "4487670",
+        "status": "Pending",
+        "predictedScore": "2-0",
+        "predictedScoreText": "15/114",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 02:49",
+        "patternScore": 70.29,
+        "patternText": "171.270/243.675",
+        "patternInfo": {
+            "m": 59,
+            "s": 11,
+            "f": 6,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 96
     }
 ]
