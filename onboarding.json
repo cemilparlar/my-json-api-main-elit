@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 09:38",
+  "updatedAt": "14.11.2026 09:46",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 233,
       "rate": 63.5
     },
-    "totalAnalyses": 609212,
+    "totalAnalyses": 609229,
     "leagues": 358,
     "pro": {
       "won": 1009,
@@ -47,8 +47,8 @@
       "total": 84,
       "rate": 52.4
     },
-    "analyses24h": 1141,
-    "analyses30d": 17835
+    "analyses24h": 1137,
+    "analyses30d": 17831
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 3.13,
       "probability": 100.0,
       "patternScore": 55.81,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "2 - 0",
       "finalScore": "2 - 0",
       "pro": false
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Real Valladolid",
-    "away": "Castellon",
-    "league": "İS2",
-    "date": "14.11.2026 13:00",
-    "matchCode": "4492832",
-    "odds": 1.5,
-    "patternScore": 67.56,
-    "patternText": "200.027/296.088",
+    "home": "Newmarket Town",
+    "away": "Oxford City",
+    "league": "İNFAT",
+    "date": "14.11.2026 15:00",
+    "matchCode": "4579482",
+    "odds": 1.91,
+    "patternScore": 66.69,
+    "patternText": "218.004/326.886",
     "aiScore": 53,
-    "picks": 5
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Newmarket Town",
+      "away": "Oxford City",
+      "league": "İNFAT",
+      "date": "14.11.2026 15:00",
+      "matchCode": "4579482",
+      "odds": 1.91,
+      "patternScore": 66.69,
+      "patternText": "218.004/326.886",
+      "aiScore": 53,
+      "picks": 1
+    },
     {
       "home": "Real Valladolid",
       "away": "Castellon",
@@ -382,7 +394,7 @@
       "odds": 1.32,
       "patternScore": 68.05,
       "patternText": "296.865/436.231",
-      "aiScore": 59,
+      "aiScore": 58,
       "picks": 3
     },
     {
@@ -396,18 +408,6 @@
       "patternText": "285.874/415.948",
       "aiScore": 59,
       "picks": 5
-    },
-    {
-      "home": "Ud Ourense",
-      "away": "AD Merida",
-      "league": "İS3",
-      "date": "14.11.2026 15:30",
-      "matchCode": "4493256",
-      "odds": 1.27,
-      "patternScore": 69.18,
-      "patternText": "315.473/456.011",
-      "aiScore": 63,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
