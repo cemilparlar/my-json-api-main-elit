@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 01:27",
+  "updatedAt": "14.11.2026 01:36",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1111,
-    "analyses30d": 17816
+    "analyses24h": 1110,
+    "analyses30d": 17815
   },
   "recentWins": [
     {
@@ -374,6 +374,18 @@
       "picks": 1
     },
     {
+      "home": "FC Gifu",
+      "away": "Matsumoto Yamag",
+      "league": "JAP3",
+      "date": "14.11.2026 05:00",
+      "matchCode": "4488051",
+      "odds": 1.15,
+      "patternScore": 69.64,
+      "patternText": "290.822/417.603",
+      "aiScore": 80,
+      "picks": 2
+    },
+    {
       "home": "Sydney United 58 FC",
       "away": "South Melbourne",
       "league": "AVC",
@@ -396,18 +408,6 @@
       "patternText": "349.159/496.288",
       "aiScore": 86,
       "picks": 3
-    },
-    {
-      "home": "Fujieda MYFC",
-      "away": "Kofu",
-      "league": "JAP2",
-      "date": "14.11.2026 05:00",
-      "matchCode": "4487674",
-      "odds": 1.1,
-      "patternScore": 70.09,
-      "patternText": "187.326/267.279",
-      "aiScore": 95,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
