@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 16:49",
+  "updatedAt": "14.11.2026 16:57",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 193,
-      "lost": 115,
-      "total": 308,
-      "rate": 62.7
+      "won": 218,
+      "lost": 122,
+      "total": 340,
+      "rate": 64.1
     },
-    "totalAnalyses": 610876,
+    "totalAnalyses": 610966,
     "leagues": 357,
     "pro": {
-      "won": 767,
-      "lost": 365,
-      "total": 1132,
-      "rate": 67.8
+      "won": 776,
+      "lost": 366,
+      "total": 1142,
+      "rate": 68.0
     },
     "insights": {
-      "won": 1252,
-      "lost": 549,
-      "total": 1801,
-      "rate": 69.5
+      "won": 1274,
+      "lost": 555,
+      "total": 1829,
+      "rate": 69.7
     },
     "coupons": {
       "won": 39,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 57.4
     },
-    "analyses24h": 1166,
-    "analyses30d": 17713
+    "analyses24h": 1161,
+    "analyses30d": 17708
   },
   "recentWins": [
     {
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "De Graafschap",
-    "away": "TOP Oss",
-    "league": "HOL2",
-    "date": "14.11.2026 19:00",
-    "matchCode": "4481931",
-    "odds": 1.41,
-    "patternScore": 68.06,
-    "patternText": "282.017/414.347",
-    "aiScore": 54,
-    "picks": 3
+    "home": "RCD Mallorca",
+    "away": "Cordoba CF",
+    "league": "İS2",
+    "date": "14.11.2026 17:30",
+    "matchCode": "4492828",
+    "odds": 1.52,
+    "patternScore": 67.67,
+    "patternText": "298.955/441.768",
+    "aiScore": 53,
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "RCD Mallorca",
+      "away": "Cordoba CF",
+      "league": "İS2",
+      "date": "14.11.2026 17:30",
+      "matchCode": "4492828",
+      "odds": 1.52,
+      "patternScore": 67.67,
+      "patternText": "298.955/441.768",
+      "aiScore": 53,
+      "picks": 5
+    },
     {
       "home": "De Graafschap",
       "away": "TOP Oss",
@@ -358,20 +370,8 @@
       "odds": 1.41,
       "patternScore": 68.06,
       "patternText": "282.017/414.347",
-      "aiScore": 54,
-      "picks": 3
-    },
-    {
-      "home": "Almere City FC",
-      "away": "Helmond Sport",
-      "league": "HOL2",
-      "date": "14.11.2026 19:00",
-      "matchCode": "4481930",
-      "odds": 1.35,
-      "patternScore": 66.72,
-      "patternText": "307.371/460.686",
       "aiScore": 55,
-      "picks": 4
+      "picks": 3
     },
     {
       "home": "Atletico Bucaramanga",
@@ -394,7 +394,7 @@
       "odds": 1.34,
       "patternScore": 67.9,
       "patternText": "302.356/445.317",
-      "aiScore": 56,
+      "aiScore": 57,
       "picks": 2
     },
     {
