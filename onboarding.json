@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 00:26",
+  "updatedAt": "14.11.2026 00:33",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 205,
       "rate": 63.9
     },
-    "totalAnalyses": 608571,
+    "totalAnalyses": 608572,
     "leagues": 358,
     "pro": {
-      "won": 1070,
-      "lost": 489,
-      "total": 1559,
-      "rate": 68.6
+      "won": 1069,
+      "lost": 488,
+      "total": 1557,
+      "rate": 68.7
     },
     "insights": {
-      "won": 1773,
-      "lost": 756,
-      "total": 2529,
+      "won": 1772,
+      "lost": 755,
+      "total": 2527,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1112,
-    "analyses30d": 17830
+    "analyses24h": 1111,
+    "analyses30d": 17816
   },
   "recentWins": [
     {
@@ -362,18 +362,6 @@
       "picks": 1
     },
     {
-      "home": "South Hobart",
-      "away": "Wollongong Wolves",
-      "league": "AVC",
-      "date": "14.11.2026 04:00",
-      "matchCode": "4573669",
-      "odds": 1.43,
-      "patternScore": 67.97,
-      "patternText": "249.507/367.107",
-      "aiScore": 54,
-      "picks": 3
-    },
-    {
       "home": "Sydney United 58 FC",
       "away": "South Melbourne",
       "league": "AVC",
@@ -396,6 +384,18 @@
       "patternText": "343.767/516.701",
       "aiScore": 64,
       "picks": 1
+    },
+    {
+      "home": "Inter Bogota",
+      "away": "Independiente Santa Fe",
+      "league": "KOL",
+      "date": "14.11.2026 01:30",
+      "matchCode": "4514002",
+      "odds": 1.14,
+      "patternScore": 70.1,
+      "patternText": "330.527/471.528",
+      "aiScore": 74,
+      "picks": 2
     },
     {
       "home": "Shonan Bellmare",
