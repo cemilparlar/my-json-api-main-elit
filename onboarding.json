@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 20:53",
+  "updatedAt": "14.11.2026 21:01",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 363,
       "rate": 69.7
     },
-    "totalAnalyses": 611481,
+    "totalAnalyses": 611494,
     "leagues": 355,
     "pro": {
-      "won": 778,
-      "lost": 370,
-      "total": 1148,
-      "rate": 67.8
+      "won": 761,
+      "lost": 357,
+      "total": 1118,
+      "rate": 68.1
     },
     "insights": {
-      "won": 1271,
-      "lost": 550,
-      "total": 1821,
-      "rate": 69.8
+      "won": 1247,
+      "lost": 530,
+      "total": 1777,
+      "rate": 70.2
     },
     "coupons": {
       "won": 37,
@@ -61,20 +61,6 @@
       "probability": 100.0,
       "patternScore": 56.72,
       "aiScore": 51,
-      "firstHalf": "2 - 0",
-      "finalScore": "2 - 0",
-      "pro": false
-    },
-    {
-      "home": "Cameroon",
-      "away": "Namibia",
-      "league": "AFUK",
-      "date": "12.11.2026 19:00",
-      "prediction": "Handicap (0:2) X",
-      "odds": 3.13,
-      "probability": 100.0,
-      "patternScore": 55.81,
-      "aiScore": 50,
       "firstHalf": "2 - 0",
       "finalScore": "2 - 0",
       "pro": false
@@ -120,6 +106,20 @@
       "firstHalf": "1 - 0",
       "finalScore": "1 - 1",
       "pro": true
+    },
+    {
+      "home": "Georgia",
+      "away": "Hungary",
+      "league": "AVUL",
+      "date": "14.11.2026 17:00",
+      "prediction": "Total Goals 2-3",
+      "odds": 1.75,
+      "probability": 83.33333333333334,
+      "patternScore": 66.6,
+      "aiScore": 52,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 2",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -265,14 +265,6 @@
     },
     {
       "type": "won",
-      "home": "Cameroon",
-      "away": "Namibia",
-      "prediction": "Handicap (0:2) X",
-      "odds": 3.13,
-      "at": "12.11.2026 19:00"
-    },
-    {
-      "type": "won",
       "home": "Slovenia",
       "away": "Switzerland",
       "prediction": "Under 1.5 Goals",
@@ -286,6 +278,14 @@
       "prediction": "Both Teams to Score - Yes",
       "odds": 1.85,
       "at": "14.11.2026 14:00"
+    },
+    {
+      "type": "won",
+      "home": "Melbourne City FC",
+      "away": "Newcastle Jets",
+      "prediction": "Handicap (0:2) 2",
+      "odds": 1.8,
+      "at": "14.11.2026 04:00"
     },
     {
       "type": "updated",
@@ -344,7 +344,7 @@
     "matchCode": "4423238",
     "odds": 1.47,
     "patternScore": 66.81,
-    "patternText": "166.905/249.830",
+    "patternText": "166.911/249.836",
     "aiScore": 53,
     "picks": 3
   },
@@ -357,21 +357,9 @@
       "matchCode": "4423238",
       "odds": 1.47,
       "patternScore": 66.81,
-      "patternText": "166.905/249.830",
+      "patternText": "166.911/249.836",
       "aiScore": 53,
       "picks": 3
-    },
-    {
-      "home": "Mirassol FC",
-      "away": "Atletico Mineiro",
-      "league": "BR1",
-      "date": "14.11.2026 21:30",
-      "matchCode": "4423373",
-      "odds": 1.21,
-      "patternScore": 69.31,
-      "patternText": "158.759/229.066",
-      "aiScore": 74,
-      "picks": 5
     },
     {
       "home": "CSD Malacateco",
@@ -381,7 +369,7 @@
       "matchCode": "4490457",
       "odds": 1.13,
       "patternScore": 70.23,
-      "patternText": "293.504/417.919",
+      "patternText": "293.510/417.927",
       "aiScore": 90,
       "picks": 2
     },
@@ -393,7 +381,7 @@
       "matchCode": "4490458",
       "odds": 1.09,
       "patternScore": 71.72,
-      "patternText": "210.579/293.606",
+      "patternText": "210.595/293.622",
       "aiScore": 97,
       "picks": 1
     },
@@ -405,9 +393,21 @@
       "matchCode": "4476408",
       "odds": 1.08,
       "patternScore": 69.77,
-      "patternText": "260.498/373.382",
+      "patternText": "260.502/373.388",
       "aiScore": 93,
       "picks": 2
+    },
+    {
+      "home": "AC Parceiro Nagano",
+      "away": "Ehime FC",
+      "league": "JAP3",
+      "date": "15.11.2026 05:00",
+      "matchCode": "4488049",
+      "odds": 1.28,
+      "patternScore": 68.26,
+      "patternText": "234.720/343.857",
+      "aiScore": 63,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
