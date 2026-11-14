@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 00:55",
+  "updatedAt": "14.11.2026 01:03",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 608601,
     "leagues": 358,
     "pro": {
-      "won": 1069,
-      "lost": 488,
-      "total": 1557,
+      "won": 1067,
+      "lost": 486,
+      "total": 1553,
       "rate": 68.7
     },
     "insights": {
-      "won": 1772,
-      "lost": 755,
-      "total": 2527,
+      "won": 1766,
+      "lost": 753,
+      "total": 2519,
       "rate": 70.1
     },
     "coupons": {
@@ -74,7 +74,7 @@
       "odds": 3.13,
       "probability": 100.0,
       "patternScore": 55.81,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "2 - 0",
       "finalScore": "2 - 0",
       "pro": false
@@ -345,7 +345,7 @@
     "odds": 1.69,
     "patternScore": 68.18,
     "patternText": "257.552/377.742",
-    "aiScore": 54,
+    "aiScore": 53,
     "picks": 1
   },
   "todayList": [
@@ -358,7 +358,7 @@
       "odds": 1.69,
       "patternScore": 68.18,
       "patternText": "257.552/377.742",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 1
     },
     {
@@ -372,18 +372,6 @@
       "patternText": "343.767/516.701",
       "aiScore": 64,
       "picks": 1
-    },
-    {
-      "home": "Inter Bogota",
-      "away": "Independiente Santa Fe",
-      "league": "KOL",
-      "date": "14.11.2026 01:30",
-      "matchCode": "4514002",
-      "odds": 1.14,
-      "patternScore": 70.1,
-      "patternText": "330.527/471.528",
-      "aiScore": 74,
-      "picks": 2
     },
     {
       "home": "Sydney United 58 FC",
@@ -408,6 +396,18 @@
       "patternText": "349.127/496.250",
       "aiScore": 86,
       "picks": 3
+    },
+    {
+      "home": "Fujieda MYFC",
+      "away": "Kofu",
+      "league": "JAP2",
+      "date": "14.11.2026 05:00",
+      "matchCode": "4487674",
+      "odds": 1.1,
+      "patternScore": 70.09,
+      "patternText": "187.316/267.265",
+      "aiScore": 95,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
