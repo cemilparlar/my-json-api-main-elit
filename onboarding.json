@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 16:57",
+  "updatedAt": "14.11.2026 17:06",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 218,
-      "lost": 122,
-      "total": 340,
-      "rate": 64.1
+      "won": 211,
+      "lost": 121,
+      "total": 332,
+      "rate": 63.6
     },
-    "totalAnalyses": 610966,
-    "leagues": 357,
+    "totalAnalyses": 610980,
+    "leagues": 356,
     "pro": {
-      "won": 776,
-      "lost": 366,
-      "total": 1142,
-      "rate": 68.0
+      "won": 761,
+      "lost": 361,
+      "total": 1122,
+      "rate": 67.8
     },
     "insights": {
-      "won": 1274,
-      "lost": 555,
-      "total": 1829,
-      "rate": 69.7
+      "won": 1251,
+      "lost": 546,
+      "total": 1797,
+      "rate": 69.6
     },
     "coupons": {
       "won": 39,
@@ -47,8 +47,8 @@
       "total": 68,
       "rate": 57.4
     },
-    "analyses24h": 1161,
-    "analyses30d": 17708
+    "analyses24h": 1149,
+    "analyses30d": 17609
   },
   "recentWins": [
     {
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "RCD Mallorca",
-    "away": "Cordoba CF",
-    "league": "İS2",
-    "date": "14.11.2026 17:30",
-    "matchCode": "4492828",
-    "odds": 1.52,
-    "patternScore": 67.67,
-    "patternText": "298.955/441.768",
-    "aiScore": 53,
-    "picks": 5
+    "home": "De Graafschap",
+    "away": "TOP Oss",
+    "league": "HOL2",
+    "date": "14.11.2026 19:00",
+    "matchCode": "4481931",
+    "odds": 1.41,
+    "patternScore": 68.07,
+    "patternText": "282.183/414.543",
+    "aiScore": 55,
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "RCD Mallorca",
-      "away": "Cordoba CF",
-      "league": "İS2",
-      "date": "14.11.2026 17:30",
-      "matchCode": "4492828",
-      "odds": 1.52,
-      "patternScore": 67.67,
-      "patternText": "298.955/441.768",
-      "aiScore": 53,
-      "picks": 5
-    },
     {
       "home": "De Graafschap",
       "away": "TOP Oss",
@@ -368,8 +356,8 @@
       "date": "14.11.2026 19:00",
       "matchCode": "4481931",
       "odds": 1.41,
-      "patternScore": 68.06,
-      "patternText": "282.017/414.347",
+      "patternScore": 68.07,
+      "patternText": "282.183/414.543",
       "aiScore": 55,
       "picks": 3
     },
@@ -380,9 +368,9 @@
       "date": "14.11.2026 20:30",
       "matchCode": "4514007",
       "odds": 1.34,
-      "patternScore": 68.11,
-      "patternText": "252.764/371.112",
-      "aiScore": 56,
+      "patternScore": 68.12,
+      "patternText": "252.902/371.280",
+      "aiScore": 57,
       "picks": 2
     },
     {
@@ -393,7 +381,7 @@
       "matchCode": "4454065",
       "odds": 1.34,
       "patternScore": 67.9,
-      "patternText": "302.356/445.317",
+      "patternText": "302.494/445.493",
       "aiScore": 57,
       "picks": 2
     },
@@ -404,9 +392,21 @@
       "date": "14.11.2026 20:00",
       "matchCode": "4492829",
       "odds": 1.27,
-      "patternScore": 68.15,
-      "patternText": "287.708/422.165",
+      "patternScore": 68.16,
+      "patternText": "287.862/422.361",
       "aiScore": 59,
+      "picks": 3
+    },
+    {
+      "home": "Northern Ireland",
+      "away": "Ukraine",
+      "league": "AVUL",
+      "date": "14.11.2026 19:45",
+      "matchCode": "4445177",
+      "odds": 1.25,
+      "patternScore": 68.76,
+      "patternText": "387.173/563.116",
+      "aiScore": 61,
       "picks": 3
     }
   ],
