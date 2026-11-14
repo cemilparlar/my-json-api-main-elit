@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 11:37",
+  "updatedAt": "14.11.2026 11:45",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 237,
       "rate": 63.7
     },
-    "totalAnalyses": 609435,
+    "totalAnalyses": 609573,
     "leagues": 358,
     "pro": {
       "won": 994,
@@ -47,8 +47,8 @@
       "total": 84,
       "rate": 52.4
     },
-    "analyses24h": 1177,
-    "analyses30d": 17828
+    "analyses24h": 1169,
+    "analyses30d": 17820
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 3.38,
       "probability": 100.0,
       "patternScore": 56.72,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "2 - 0",
       "finalScore": "2 - 0",
       "pro": false
@@ -88,7 +88,7 @@
       "odds": 2.9,
       "probability": 100.0,
       "patternScore": 56.59,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
       "pro": true
@@ -362,18 +362,6 @@
       "picks": 1
     },
     {
-      "home": "RCD Mallorca",
-      "away": "Cordoba CF",
-      "league": "İS2",
-      "date": "14.11.2026 17:30",
-      "matchCode": "4492828",
-      "odds": 1.67,
-      "patternScore": 66.91,
-      "patternText": "135.630/202.699",
-      "aiScore": 53,
-      "picks": 5
-    },
-    {
       "home": "Real Valladolid",
       "away": "Castellon",
       "league": "İS2",
@@ -382,7 +370,7 @@
       "odds": 1.5,
       "patternScore": 67.56,
       "patternText": "200.053/296.120",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 5
     },
     {
@@ -394,7 +382,7 @@
       "odds": 1.48,
       "patternScore": 68.19,
       "patternText": "310.508/455.354",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 5
     },
     {
@@ -408,9 +396,35 @@
       "patternText": "315.656/456.758",
       "aiScore": 61,
       "picks": 3
+    },
+    {
+      "home": "Austria U19",
+      "away": "Slovenia U19",
+      "league": "AVŞU19",
+      "date": "14.11.2026 17:00",
+      "matchCode": "4579231",
+      "odds": 1.34,
+      "patternScore": 67.97,
+      "patternText": "275.480/405.304",
+      "aiScore": 55,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "UD Almeria",
+      "away": "FC Andorra",
+      "league": "İS2",
+      "at": "14.11.2026 11:39",
+      "count": 5
+    },
+    {
+      "home": "RCD Mallorca",
+      "away": "Cordoba CF",
+      "league": "İS2",
+      "at": "14.11.2026 11:38",
+      "count": 4
+    },
     {
       "home": "Norway",
       "away": "Wales",
@@ -465,20 +479,6 @@
       "away": "Greece",
       "league": "AVUL",
       "at": "13.11.2026 19:08",
-      "count": 9
-    },
-    {
-      "home": "Bulgaria",
-      "away": "Iceland",
-      "league": "AVUL",
-      "at": "13.11.2026 19:08",
-      "count": 4
-    },
-    {
-      "home": "Slovakia",
-      "away": "Faroe Islands",
-      "league": "AVUL",
-      "at": "13.11.2026 18:52",
       "count": 9
     }
   ],
