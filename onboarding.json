@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 09:46",
+  "updatedAt": "14.11.2026 09:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 233,
       "rate": 63.5
     },
-    "totalAnalyses": 609229,
+    "totalAnalyses": 609230,
     "leagues": 358,
     "pro": {
       "won": 1009,
@@ -47,8 +47,8 @@
       "total": 84,
       "rate": 52.4
     },
-    "analyses24h": 1137,
-    "analyses30d": 17831
+    "analyses24h": 1133,
+    "analyses30d": 17827
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 3.13,
       "probability": 100.0,
       "patternScore": 55.81,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "2 - 0",
       "finalScore": "2 - 0",
       "pro": false
@@ -374,6 +374,30 @@
       "picks": 5
     },
     {
+      "home": "Stockport County",
+      "away": "Reading",
+      "league": "İN1",
+      "date": "14.11.2026 15:00",
+      "matchCode": "4489410",
+      "odds": 1.41,
+      "patternScore": 65.51,
+      "patternText": "363.711/555.226",
+      "aiScore": 54,
+      "picks": 3
+    },
+    {
+      "home": "MK Dons",
+      "away": "Burton Albion",
+      "league": "İN1",
+      "date": "14.11.2026 15:00",
+      "matchCode": "4489406",
+      "odds": 1.36,
+      "patternScore": 68.37,
+      "patternText": "287.798/420.920",
+      "aiScore": 56,
+      "picks": 3
+    },
+    {
       "home": "Gornik Leczna",
       "away": "Hutnik Krakow",
       "league": "POL2",
@@ -384,30 +408,6 @@
       "patternText": "276.754/407.328",
       "aiScore": 56,
       "picks": 4
-    },
-    {
-      "home": "Wycombe Wanderers",
-      "away": "Huddersfield Town",
-      "league": "İN1",
-      "date": "14.11.2026 15:00",
-      "matchCode": "4489412",
-      "odds": 1.32,
-      "patternScore": 68.05,
-      "patternText": "296.865/436.231",
-      "aiScore": 58,
-      "picks": 3
-    },
-    {
-      "home": "Exeter City",
-      "away": "Cheltenham Town",
-      "league": "İN2",
-      "date": "14.11.2026 12:30",
-      "matchCode": "4489956",
-      "odds": 1.28,
-      "patternScore": 68.73,
-      "patternText": "285.874/415.948",
-      "aiScore": 59,
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
