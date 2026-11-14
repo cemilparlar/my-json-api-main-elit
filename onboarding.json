@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 14:27",
+  "updatedAt": "14.11.2026 14:36",
   "config": {
     "pages": [
       "engine",
@@ -23,32 +23,32 @@
     "days": 7,
     "last24h": {
       "won": 172,
-      "lost": 94,
-      "total": 266,
-      "rate": 64.7
+      "lost": 97,
+      "total": 269,
+      "rate": 63.9
     },
-    "totalAnalyses": 610263,
+    "totalAnalyses": 610329,
     "leagues": 357,
     "pro": {
-      "won": 884,
-      "lost": 409,
-      "total": 1293,
-      "rate": 68.4
+      "won": 865,
+      "lost": 403,
+      "total": 1268,
+      "rate": 68.2
     },
     "insights": {
-      "won": 1462,
-      "lost": 627,
-      "total": 2089,
-      "rate": 70.0
+      "won": 1425,
+      "lost": 614,
+      "total": 2039,
+      "rate": 69.9
     },
     "coupons": {
       "won": 42,
-      "lost": 36,
-      "total": 78,
-      "rate": 53.8
+      "lost": 35,
+      "total": 77,
+      "rate": 54.5
     },
-    "analyses24h": 1201,
-    "analyses30d": 17795
+    "analyses24h": 1199,
+    "analyses30d": 17792
   },
   "recentWins": [
     {
@@ -362,18 +362,6 @@
       "picks": 8
     },
     {
-      "home": "Newmarket Town",
-      "away": "Oxford City",
-      "league": "İNFAT",
-      "date": "14.11.2026 15:00",
-      "matchCode": "4579482",
-      "odds": 1.91,
-      "patternScore": 66.69,
-      "patternText": "218.120/327.062",
-      "aiScore": 53,
-      "picks": 1
-    },
-    {
       "home": "Austria",
       "away": "Ireland",
       "league": "AVUL",
@@ -408,9 +396,28 @@
       "patternText": "300.059/445.620",
       "aiScore": 53,
       "picks": 5
+    },
+    {
+      "home": "De Graafschap",
+      "away": "TOP Oss",
+      "league": "HOL2",
+      "date": "14.11.2026 19:00",
+      "matchCode": "4481931",
+      "odds": 1.41,
+      "patternScore": 68.06,
+      "patternText": "281.783/413.999",
+      "aiScore": 55,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Real Sociedad",
+      "away": "Sporting Gijon",
+      "league": "İS2",
+      "at": "14.11.2026 14:30",
+      "count": 6
+    },
     {
       "home": "Portugal",
       "away": "Denmark",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "14.11.2026 11:52",
       "count": 9
-    },
-    {
-      "home": "RCD Mallorca",
-      "away": "Cordoba CF",
-      "league": "İS2",
-      "at": "14.11.2026 11:38",
-      "count": 4
     }
   ],
   "paywall": {
