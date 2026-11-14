@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 17:21",
+  "updatedAt": "14.11.2026 17:29",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 369,
       "rate": 64.2
     },
-    "totalAnalyses": 611022,
+    "totalAnalyses": 611079,
     "leagues": 356,
     "pro": {
       "won": 775,
@@ -47,8 +47,8 @@
       "total": 60,
       "rate": 63.3
     },
-    "analyses24h": 1147,
-    "analyses30d": 17607
+    "analyses24h": 1141,
+    "analyses30d": 17601
   },
   "recentWins": [
     {
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "De Graafschap",
-    "away": "TOP Oss",
-    "league": "HOL2",
-    "date": "14.11.2026 19:00",
-    "matchCode": "4481931",
-    "odds": 1.41,
-    "patternScore": 68.08,
-    "patternText": "282.317/414.713",
-    "aiScore": 55,
-    "picks": 3
+    "home": "Atletico Bucaramanga",
+    "away": "Fortaleza EC",
+    "league": "KOL",
+    "date": "14.11.2026 20:30",
+    "matchCode": "4514007",
+    "odds": 1.34,
+    "patternScore": 68.12,
+    "patternText": "253.046/371.478",
+    "aiScore": 56,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "De Graafschap",
-      "away": "TOP Oss",
-      "league": "HOL2",
-      "date": "14.11.2026 19:00",
-      "matchCode": "4481931",
-      "odds": 1.41,
-      "patternScore": 68.08,
-      "patternText": "282.317/414.713",
-      "aiScore": 55,
-      "picks": 3
-    },
     {
       "home": "Atletico Bucaramanga",
       "away": "Fortaleza EC",
@@ -369,8 +357,8 @@
       "matchCode": "4514007",
       "odds": 1.34,
       "patternScore": 68.12,
-      "patternText": "253.036/371.450",
-      "aiScore": 57,
+      "patternText": "253.046/371.478",
+      "aiScore": 56,
       "picks": 2
     },
     {
@@ -380,8 +368,8 @@
       "date": "14.11.2026 19:30",
       "matchCode": "4454065",
       "odds": 1.34,
-      "patternScore": 67.91,
-      "patternText": "302.628/445.663",
+      "patternScore": 67.9,
+      "patternText": "302.638/445.691",
       "aiScore": 57,
       "picks": 2
     },
@@ -392,8 +380,8 @@
       "date": "14.11.2026 20:00",
       "matchCode": "4492829",
       "odds": 1.27,
-      "patternScore": 68.16,
-      "patternText": "287.988/422.531",
+      "patternScore": 68.15,
+      "patternText": "288.014/422.599",
       "aiScore": 59,
       "picks": 3
     },
@@ -405,12 +393,31 @@
       "matchCode": "4445177",
       "odds": 1.25,
       "patternScore": 68.76,
-      "patternText": "387.403/563.422",
+      "patternText": "387.413/563.458",
       "aiScore": 61,
       "picks": 3
+    },
+    {
+      "home": "De Graafschap",
+      "away": "TOP Oss",
+      "league": "HOL2",
+      "date": "14.11.2026 19:00",
+      "matchCode": "4481931",
+      "odds": 1.24,
+      "patternScore": 68.32,
+      "patternText": "431.215/631.177",
+      "aiScore": 57,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Haiti",
+      "away": "USA",
+      "league": "CON",
+      "at": "14.11.2026 17:21",
+      "count": 4
+    },
     {
       "home": "UD Almeria",
       "away": "FC Andorra",
@@ -431,13 +438,6 @@
       "league": "BR1",
       "at": "14.11.2026 16:30",
       "count": 8
-    },
-    {
-      "home": "Haiti",
-      "away": "USA",
-      "league": "CON",
-      "at": "14.11.2026 16:30",
-      "count": 10
     },
     {
       "home": "Sweden",
