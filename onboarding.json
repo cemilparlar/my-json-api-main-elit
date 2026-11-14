@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 07:54",
+  "updatedAt": "14.11.2026 08:02",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 235,
       "rate": 63.8
     },
-    "totalAnalyses": 609014,
+    "totalAnalyses": 609017,
     "leagues": 358,
     "pro": {
       "won": 1014,
@@ -36,9 +36,9 @@
       "rate": 68.7
     },
     "insights": {
-      "won": 1692,
+      "won": 1691,
       "lost": 726,
-      "total": 2418,
+      "total": 2417,
       "rate": 70.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 85,
       "rate": 52.9
     },
-    "analyses24h": 1112,
-    "analyses30d": 17805
+    "analyses24h": 1119,
+    "analyses30d": 17812
   },
   "recentWins": [
     {
@@ -362,6 +362,18 @@
       "picks": 5
     },
     {
+      "home": "Asa Aarhus",
+      "away": "Holbæk",
+      "league": "DAN3",
+      "date": "14.11.2026 14:00",
+      "matchCode": "4510999",
+      "odds": 1.39,
+      "patternScore": 69.62,
+      "patternText": "222.264/319.263",
+      "aiScore": 63,
+      "picks": 1
+    },
+    {
       "home": "Gornik Leczna",
       "away": "Hutnik Krakow",
       "league": "POL2",
@@ -396,18 +408,6 @@
       "patternText": "289.465/426.548",
       "aiScore": 61,
       "picks": 3
-    },
-    {
-      "home": "US Casarano",
-      "away": "AZ Picerno",
-      "league": "İTC",
-      "date": "14.11.2026 13:30",
-      "matchCode": "4535950",
-      "odds": 1.21,
-      "patternScore": 68.37,
-      "patternText": "305.304/446.557",
-      "aiScore": 62,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
