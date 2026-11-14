@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 03:24",
+  "updatedAt": "14.11.2026 03:31",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 137,
+      "won": 138,
       "lost": 76,
-      "total": 213,
-      "rate": 64.3
+      "total": 214,
+      "rate": 64.5
     },
-    "totalAnalyses": 608634,
+    "totalAnalyses": 608639,
     "leagues": 358,
     "pro": {
-      "won": 1067,
+      "won": 1068,
       "lost": 488,
-      "total": 1555,
+      "total": 1556,
       "rate": 68.6
     },
     "insights": {
-      "won": 1770,
+      "won": 1771,
       "lost": 755,
-      "total": 2525,
+      "total": 2526,
       "rate": 70.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1114,
-    "analyses30d": 17810
+    "analyses24h": 1120,
+    "analyses30d": 17816
   },
   "recentWins": [
     {
@@ -319,7 +319,7 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 23:25",
+      "at": "14.11.2026 03:29",
       "home": "Shonan Bellmare",
       "away": "Yokohama FC"
     },
@@ -386,18 +386,6 @@
       "picks": 2
     },
     {
-      "home": "Sydney United 58 FC",
-      "away": "South Melbourne",
-      "league": "AVC",
-      "date": "14.11.2026 04:00",
-      "matchCode": "4573632",
-      "odds": 1.14,
-      "patternScore": 70.04,
-      "patternText": "325.496/464.715",
-      "aiScore": 87,
-      "picks": 3
-    },
-    {
       "home": "Shonan Bellmare",
       "away": "Yokohama FC",
       "league": "JAP2",
@@ -408,6 +396,18 @@
       "patternText": "349.193/496.324",
       "aiScore": 86,
       "picks": 3
+    },
+    {
+      "home": "Fujieda MYFC",
+      "away": "Kofu",
+      "league": "JAP2",
+      "date": "14.11.2026 05:00",
+      "matchCode": "4487674",
+      "odds": 1.1,
+      "patternScore": 70.09,
+      "patternText": "187.334/267.293",
+      "aiScore": 95,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
