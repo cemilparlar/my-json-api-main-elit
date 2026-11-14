@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 07:30",
+  "updatedAt": "14.11.2026 07:37",
   "config": {
     "pages": [
       "engine",
@@ -30,16 +30,16 @@
     "totalAnalyses": 608700,
     "leagues": 358,
     "pro": {
-      "won": 1017,
-      "lost": 466,
-      "total": 1483,
-      "rate": 68.6
+      "won": 1014,
+      "lost": 461,
+      "total": 1475,
+      "rate": 68.7
     },
     "insights": {
-      "won": 1695,
-      "lost": 731,
-      "total": 2426,
-      "rate": 69.9
+      "won": 1692,
+      "lost": 726,
+      "total": 2418,
+      "rate": 70.0
     },
     "coupons": {
       "won": 45,
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Real Valladolid",
-    "away": "Castellon",
-    "league": "İS2",
-    "date": "14.11.2026 13:00",
-    "matchCode": "4492832",
-    "odds": 1.5,
-    "patternScore": 67.56,
-    "patternText": "200.023/296.084",
-    "aiScore": 54,
-    "picks": 5
+    "home": "AlbinoLeffe",
+    "away": "Union Brescia",
+    "league": "İTC",
+    "date": "14.11.2026 13:30",
+    "matchCode": "4535187",
+    "odds": 1.72,
+    "patternScore": 67.8,
+    "patternText": "284.806/420.090",
+    "aiScore": 53,
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "AlbinoLeffe",
+      "away": "Union Brescia",
+      "league": "İTC",
+      "date": "14.11.2026 13:30",
+      "matchCode": "4535187",
+      "odds": 1.72,
+      "patternScore": 67.8,
+      "patternText": "284.806/420.090",
+      "aiScore": 53,
+      "picks": 4
+    },
     {
       "home": "Real Valladolid",
       "away": "Castellon",
@@ -396,18 +408,6 @@
       "patternText": "258.373/380.131",
       "aiScore": 59,
       "picks": 5
-    },
-    {
-      "home": "Montenegro U19",
-      "away": "Faroe Islands U",
-      "league": "AVŞU19",
-      "date": "14.11.2026 10:00",
-      "matchCode": "4579254",
-      "odds": 1.13,
-      "patternScore": 67.7,
-      "patternText": "304.080/449.184",
-      "aiScore": 82,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
