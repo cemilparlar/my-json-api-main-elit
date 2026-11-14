@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 10:03",
+  "updatedAt": "14.11.2026 10:12",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 233,
       "rate": 63.5
     },
-    "totalAnalyses": 609255,
+    "totalAnalyses": 609279,
     "leagues": 358,
     "pro": {
       "won": 1008,
@@ -47,8 +47,8 @@
       "total": 84,
       "rate": 52.4
     },
-    "analyses24h": 1141,
-    "analyses30d": 17800
+    "analyses24h": 1144,
+    "analyses30d": 17803
   },
   "recentWins": [
     {
@@ -289,24 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 04:10",
-      "home": "Albirex Niigata",
-      "away": "Tegevajaro Miyazaki"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 04:09",
-      "home": "Fujieda MYFC",
-      "away": "Kofu"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 04:08",
-      "home": "Shonan Bellmare",
-      "away": "Yokohama FC"
-    },
-    {
-      "type": "updated",
       "at": "14.11.2026 07:38",
       "home": "Bayswater City FC",
       "away": "Sydney Olympic FC"
@@ -326,6 +308,12 @@
     {
       "type": "updated",
       "at": "14.11.2026 09:58",
+      "home": "Ishoj IF",
+      "away": "Sundby"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 09:58",
       "home": "Exeter City",
       "away": "Cheltenham Town"
     },
@@ -334,6 +322,18 @@
       "at": "14.11.2026 06:35",
       "home": "VSK Arhus",
       "away": "Middelfart"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 09:15",
+      "home": "Manchester United",
+      "away": "Crystal Palace"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 07:20",
+      "home": "Real Valladolid",
+      "away": "Castellon"
     }
   ],
   "today": {
@@ -386,18 +386,6 @@
       "picks": 3
     },
     {
-      "home": "MK Dons",
-      "away": "Burton Albion",
-      "league": "İN1",
-      "date": "14.11.2026 15:00",
-      "matchCode": "4489406",
-      "odds": 1.36,
-      "patternScore": 68.37,
-      "patternText": "287.798/420.920",
-      "aiScore": 56,
-      "picks": 3
-    },
-    {
       "home": "Gornik Leczna",
       "away": "Hutnik Krakow",
       "league": "POL2",
@@ -408,6 +396,18 @@
       "patternText": "276.754/407.328",
       "aiScore": 56,
       "picks": 4
+    },
+    {
+      "home": "Wycombe Wanderers",
+      "away": "Huddersfield Town",
+      "league": "İN1",
+      "date": "14.11.2026 15:00",
+      "matchCode": "4489412",
+      "odds": 1.32,
+      "patternScore": 68.05,
+      "patternText": "296.865/436.231",
+      "aiScore": 59,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
