@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 07:47",
+  "updatedAt": "14.11.2026 07:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 235,
       "rate": 63.8
     },
-    "totalAnalyses": 609013,
+    "totalAnalyses": 609014,
     "leagues": 358,
     "pro": {
       "won": 1014,
@@ -47,8 +47,8 @@
       "total": 85,
       "rate": 52.9
     },
-    "analyses24h": 1117,
-    "analyses30d": 17810
+    "analyses24h": 1112,
+    "analyses30d": 17805
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 3.13,
       "probability": 100.0,
       "patternScore": 55.81,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "2 - 0",
       "finalScore": "2 - 0",
       "pro": false
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "AlbinoLeffe",
-    "away": "Union Brescia",
-    "league": "İTC",
-    "date": "14.11.2026 13:30",
-    "matchCode": "4535187",
-    "odds": 1.72,
-    "patternScore": 67.8,
-    "patternText": "284.806/420.090",
+    "home": "Real Valladolid",
+    "away": "Castellon",
+    "league": "İS2",
+    "date": "14.11.2026 13:00",
+    "matchCode": "4492832",
+    "odds": 1.5,
+    "patternScore": 67.56,
+    "patternText": "200.023/296.084",
     "aiScore": 53,
-    "picks": 4
+    "picks": 5
   },
   "todayList": [
-    {
-      "home": "AlbinoLeffe",
-      "away": "Union Brescia",
-      "league": "İTC",
-      "date": "14.11.2026 13:30",
-      "matchCode": "4535187",
-      "odds": 1.72,
-      "patternScore": 67.8,
-      "patternText": "284.806/420.090",
-      "aiScore": 53,
-      "picks": 4
-    },
     {
       "home": "Real Valladolid",
       "away": "Castellon",
@@ -370,7 +358,7 @@
       "odds": 1.5,
       "patternScore": 67.56,
       "patternText": "200.023/296.084",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 5
     },
     {
@@ -398,16 +386,28 @@
       "picks": 5
     },
     {
-      "home": "Bayswater City FC",
-      "away": "Sydney Olympic FC",
-      "league": "AVC",
-      "date": "14.11.2026 08:30",
-      "matchCode": "4573657",
+      "home": "Reggiana",
+      "away": "AS Livorno",
+      "league": "İTC",
+      "date": "14.11.2026 13:30",
+      "matchCode": "4535574",
       "odds": 1.25,
-      "patternScore": 67.97,
-      "patternText": "258.373/380.131",
-      "aiScore": 59,
-      "picks": 5
+      "patternScore": 67.86,
+      "patternText": "289.465/426.548",
+      "aiScore": 61,
+      "picks": 3
+    },
+    {
+      "home": "US Casarano",
+      "away": "AZ Picerno",
+      "league": "İTC",
+      "date": "14.11.2026 13:30",
+      "matchCode": "4535950",
+      "odds": 1.21,
+      "patternScore": 68.37,
+      "patternText": "305.304/446.557",
+      "aiScore": 62,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
