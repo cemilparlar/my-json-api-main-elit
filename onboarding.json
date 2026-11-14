@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 15:22",
+  "updatedAt": "14.11.2026 15:31",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 179,
-      "lost": 101,
-      "total": 280,
+      "won": 193,
+      "lost": 109,
+      "total": 302,
       "rate": 63.9
     },
-    "totalAnalyses": 610541,
+    "totalAnalyses": 610568,
     "leagues": 357,
     "pro": {
-      "won": 790,
-      "lost": 376,
-      "total": 1166,
-      "rate": 67.8
+      "won": 784,
+      "lost": 377,
+      "total": 1161,
+      "rate": 67.5
     },
     "insights": {
-      "won": 1284,
-      "lost": 566,
-      "total": 1850,
-      "rate": 69.4
+      "won": 1276,
+      "lost": 565,
+      "total": 1841,
+      "rate": 69.3
     },
     "coupons": {
       "won": 41,
@@ -47,7 +47,7 @@
       "total": 76,
       "rate": 53.9
     },
-    "analyses24h": 1185,
+    "analyses24h": 1197,
     "analyses30d": 17768
   },
   "recentWins": [
@@ -295,19 +295,19 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 14:02",
+      "at": "14.11.2026 15:27",
       "home": "Portugal",
       "away": "Denmark"
     },
     {
       "type": "updated",
-      "at": "14.11.2026 14:00",
+      "at": "14.11.2026 15:25",
       "home": "Romania",
       "away": "Poland"
     },
     {
       "type": "updated",
-      "at": "14.11.2026 14:01",
+      "at": "14.11.2026 15:26",
       "home": "Sweden",
       "away": "Bosnia and Herzegovina"
     },
@@ -362,38 +362,14 @@
       "picks": 4
     },
     {
-      "home": "FC Dordrecht",
-      "away": "Heracles Almelo",
-      "league": "HOL2",
-      "date": "14.11.2026 19:00",
-      "matchCode": "4481932",
-      "odds": 1.73,
-      "patternScore": 66.55,
-      "patternText": "206.664/310.520",
-      "aiScore": 52,
-      "picks": 5
-    },
-    {
       "home": "RCD Mallorca",
       "away": "Cordoba CF",
       "league": "İS2",
       "date": "14.11.2026 17:30",
       "matchCode": "4492828",
       "odds": 1.72,
-      "patternScore": 67.59,
-      "patternText": "295.139/436.632",
-      "aiScore": 53,
-      "picks": 6
-    },
-    {
-      "home": "Almere City FC",
-      "away": "Helmond Sport",
-      "league": "HOL2",
-      "date": "14.11.2026 19:00",
-      "matchCode": "4481930",
-      "odds": 1.69,
-      "patternScore": 67.33,
-      "patternText": "300.097/445.688",
+      "patternScore": 67.62,
+      "patternText": "295.169/436.542",
       "aiScore": 53,
       "picks": 5
     },
@@ -408,9 +384,54 @@
       "patternText": "281.821/414.067",
       "aiScore": 55,
       "picks": 3
+    },
+    {
+      "home": "Haiti",
+      "away": "USA",
+      "league": "CON",
+      "date": "14.11.2026 21:30",
+      "matchCode": "4579450",
+      "odds": 1.36,
+      "patternScore": 66.99,
+      "patternText": "176.699/263.750",
+      "aiScore": 58,
+      "picks": 3
+    },
+    {
+      "home": "Georgia",
+      "away": "Hungary",
+      "league": "AVUL",
+      "date": "14.11.2026 17:00",
+      "matchCode": "4445176",
+      "odds": 1.36,
+      "patternScore": 67.12,
+      "patternText": "230.237/343.032",
+      "aiScore": 59,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Portugal",
+      "away": "Denmark",
+      "league": "AVUL",
+      "at": "14.11.2026 15:27",
+      "count": 7
+    },
+    {
+      "home": "Sweden",
+      "away": "Bosnia and Herzegovina",
+      "league": "AVUL",
+      "at": "14.11.2026 15:26",
+      "count": 7
+    },
+    {
+      "home": "Romania",
+      "away": "Poland",
+      "league": "AVUL",
+      "at": "14.11.2026 15:25",
+      "count": 3
+    },
     {
       "home": "UD Almeria",
       "away": "FC Andorra",
@@ -437,27 +458,6 @@
       "away": "Sporting Gijon",
       "league": "İS2",
       "at": "14.11.2026 14:30",
-      "count": 6
-    },
-    {
-      "home": "Portugal",
-      "away": "Denmark",
-      "league": "AVUL",
-      "at": "14.11.2026 14:02",
-      "count": 6
-    },
-    {
-      "home": "Sweden",
-      "away": "Bosnia and Herzegovina",
-      "league": "AVUL",
-      "at": "14.11.2026 14:01",
-      "count": 8
-    },
-    {
-      "home": "Romania",
-      "away": "Poland",
-      "league": "AVUL",
-      "at": "14.11.2026 14:00",
       "count": 6
     },
     {
