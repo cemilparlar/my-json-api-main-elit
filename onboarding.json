@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 07:23",
+  "updatedAt": "14.11.2026 07:30",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 235,
       "rate": 63.8
     },
-    "totalAnalyses": 608686,
+    "totalAnalyses": 608700,
     "leagues": 358,
     "pro": {
       "won": 1017,
@@ -47,8 +47,8 @@
       "total": 85,
       "rate": 52.9
     },
-    "analyses24h": 1122,
-    "analyses30d": 17818
+    "analyses24h": 1120,
+    "analyses30d": 17816
   },
   "recentWins": [
     {
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Gornik Leczna",
-    "away": "Hutnik Krakow",
-    "league": "POL2",
-    "date": "14.11.2026 11:00",
-    "matchCode": "4486566",
-    "odds": 1.34,
-    "patternScore": 67.94,
-    "patternText": "276.734/407.308",
-    "aiScore": 56,
-    "picks": 4
+    "home": "Real Valladolid",
+    "away": "Castellon",
+    "league": "İS2",
+    "date": "14.11.2026 13:00",
+    "matchCode": "4492832",
+    "odds": 1.5,
+    "patternScore": 67.56,
+    "patternText": "200.023/296.084",
+    "aiScore": 54,
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "Real Valladolid",
+      "away": "Castellon",
+      "league": "İS2",
+      "date": "14.11.2026 13:00",
+      "matchCode": "4492832",
+      "odds": 1.5,
+      "patternScore": 67.56,
+      "patternText": "200.023/296.084",
+      "aiScore": 54,
+      "picks": 5
+    },
     {
       "home": "Gornik Leczna",
       "away": "Hutnik Krakow",
@@ -374,16 +386,16 @@
       "picks": 5
     },
     {
-      "home": "Real Valladolid",
-      "away": "Castellon",
-      "league": "İS2",
-      "date": "14.11.2026 13:00",
-      "matchCode": "4492832",
-      "odds": 1.26,
-      "patternScore": 68.27,
-      "patternText": "305.211/447.059",
-      "aiScore": 64,
-      "picks": 2
+      "home": "Bayswater City FC",
+      "away": "Sydney Olympic FC",
+      "league": "AVC",
+      "date": "14.11.2026 08:30",
+      "matchCode": "4573657",
+      "odds": 1.25,
+      "patternScore": 67.97,
+      "patternText": "258.373/380.131",
+      "aiScore": 59,
+      "picks": 5
     },
     {
       "home": "Montenegro U19",
@@ -396,18 +408,6 @@
       "patternText": "304.080/449.184",
       "aiScore": 82,
       "picks": 1
-    },
-    {
-      "home": "Athletic Bilbao B",
-      "away": "Racing Ferrol",
-      "league": "İS3",
-      "date": "14.11.2026 12:00",
-      "matchCode": "4493251",
-      "odds": 1.13,
-      "patternScore": 70.16,
-      "patternText": "366.865/522.921",
-      "aiScore": 87,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
