@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 13:13",
+  "updatedAt": "14.11.2026 13:21",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 253,
       "rate": 64.8
     },
-    "totalAnalyses": 609930,
+    "totalAnalyses": 609994,
     "leagues": 357,
     "pro": {
       "won": 946,
@@ -47,8 +47,8 @@
       "total": 82,
       "rate": 52.4
     },
-    "analyses24h": 1192,
-    "analyses30d": 17813
+    "analyses24h": 1188,
+    "analyses30d": 17806
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4445176",
     "odds": 2.21,
     "patternScore": 67.59,
-    "patternText": "284.037/420.252",
+    "patternText": "284.049/420.264",
     "aiScore": 51,
     "picks": 8
   },
@@ -357,7 +357,7 @@
       "matchCode": "4445176",
       "odds": 2.21,
       "patternScore": 67.59,
-      "patternText": "284.037/420.252",
+      "patternText": "284.049/420.264",
       "aiScore": 51,
       "picks": 8
     },
@@ -369,9 +369,33 @@
       "matchCode": "4579482",
       "odds": 1.91,
       "patternScore": 66.69,
-      "patternText": "218.092/327.020",
+      "patternText": "218.096/327.024",
       "aiScore": 53,
       "picks": 1
+    },
+    {
+      "home": "FC Dordrecht",
+      "away": "Heracles Almelo",
+      "league": "HOL2",
+      "date": "14.11.2026 19:00",
+      "matchCode": "4481932",
+      "odds": 1.73,
+      "patternScore": 66.56,
+      "patternText": "206.610/310.422",
+      "aiScore": 52,
+      "picks": 5
+    },
+    {
+      "home": "Almere City FC",
+      "away": "Helmond Sport",
+      "league": "HOL2",
+      "date": "14.11.2026 19:00",
+      "matchCode": "4481930",
+      "odds": 1.61,
+      "patternScore": 66.52,
+      "patternText": "206.933/311.107",
+      "aiScore": 53,
+      "picks": 3
     },
     {
       "home": "NAC Breda",
@@ -381,33 +405,9 @@
       "matchCode": "4481929",
       "odds": 1.48,
       "patternScore": 68.19,
-      "patternText": "310.558/455.416",
-      "aiScore": 53,
+      "patternText": "310.570/455.428",
+      "aiScore": 54,
       "picks": 5
-    },
-    {
-      "home": "Rochdale",
-      "away": "York",
-      "league": "İN2",
-      "date": "14.11.2026 15:00",
-      "matchCode": "4489959",
-      "odds": 1.37,
-      "patternScore": 68.2,
-      "patternText": "307.059/450.257",
-      "aiScore": 57,
-      "picks": 2
-    },
-    {
-      "home": "SSC Bari",
-      "away": "US Foggia",
-      "league": "İTC",
-      "date": "14.11.2026 16:30",
-      "matchCode": "4535948",
-      "odds": 1.36,
-      "patternScore": 68.53,
-      "patternText": "291.561/425.440",
-      "aiScore": 59,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
