@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 02:39",
+  "updatedAt": "14.11.2026 02:46",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1117,
-    "analyses30d": 17813
+    "analyses24h": 1115,
+    "analyses30d": 17811
   },
   "recentWins": [
     {
@@ -313,12 +313,6 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 02:32",
-      "home": "Albirex Niigata",
-      "away": "Tegevajaro Miyazaki"
-    },
-    {
-      "type": "updated",
       "at": "14.11.2026 02:14",
       "home": "Omiya Ardija",
       "away": "Montedio Yamagata"
@@ -334,21 +328,39 @@
       "at": "14.11.2026 02:32",
       "home": "Bayswater City FC",
       "away": "Sydney Olympic FC"
+    },
+    {
+      "type": "updated",
+      "at": "13.11.2026 23:02",
+      "home": "Ecuador",
+      "away": "Costa Rica"
     }
   ],
   "today": {
-    "home": "Fukushima Unit",
-    "away": "SC Sagamihara",
-    "league": "JAP3",
-    "date": "14.11.2026 05:00",
-    "matchCode": "4488047",
-    "odds": 1.21,
-    "patternScore": 66.53,
-    "patternText": "343.821/516.777",
-    "aiScore": 64,
-    "picks": 1
+    "home": "Bayswater City FC",
+    "away": "Sydney Olympic FC",
+    "league": "AVC",
+    "date": "14.11.2026 08:30",
+    "matchCode": "4573657",
+    "odds": 1.59,
+    "patternScore": 68.35,
+    "patternText": "249.523/365.060",
+    "aiScore": 53,
+    "picks": 7
   },
   "todayList": [
+    {
+      "home": "Bayswater City FC",
+      "away": "Sydney Olympic FC",
+      "league": "AVC",
+      "date": "14.11.2026 08:30",
+      "matchCode": "4573657",
+      "odds": 1.59,
+      "patternScore": 68.35,
+      "patternText": "249.523/365.060",
+      "aiScore": 53,
+      "picks": 7
+    },
     {
       "home": "Fukushima Unit",
       "away": "SC Sagamihara",
@@ -395,18 +407,6 @@
       "patternScore": 70.35,
       "patternText": "349.167/496.298",
       "aiScore": 86,
-      "picks": 3
-    },
-    {
-      "home": "Bayswater City FC",
-      "away": "Sydney Olympic FC",
-      "league": "AVC",
-      "date": "14.11.2026 08:30",
-      "matchCode": "4573657",
-      "odds": 1.11,
-      "patternScore": 69.75,
-      "patternText": "285.695/409.602",
-      "aiScore": 95,
       "picks": 3
     }
   ],
