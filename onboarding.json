@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 04:26",
+  "updatedAt": "14.11.2026 04:34",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 216,
       "rate": 64.4
     },
-    "totalAnalyses": 608646,
+    "totalAnalyses": 608654,
     "leagues": 358,
     "pro": {
       "won": 1062,
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1111,
-    "analyses30d": 17807
+    "analyses24h": 1115,
+    "analyses30d": 17811
   },
   "recentWins": [
     {
@@ -331,9 +331,9 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 23:02",
-      "home": "Ecuador",
-      "away": "Costa Rica"
+      "at": "14.11.2026 04:31",
+      "home": "Japan",
+      "away": "Brazil"
     }
   ],
   "today": {
@@ -362,30 +362,6 @@
       "picks": 7
     },
     {
-      "home": "Fukushima Unit",
-      "away": "SC Sagamihara",
-      "league": "JAP3",
-      "date": "14.11.2026 05:00",
-      "matchCode": "4488047",
-      "odds": 1.21,
-      "patternScore": 68.59,
-      "patternText": "269.343/392.699",
-      "aiScore": 64,
-      "picks": 2
-    },
-    {
-      "home": "FC Gifu",
-      "away": "Matsumoto Yamag",
-      "league": "JAP3",
-      "date": "14.11.2026 05:00",
-      "matchCode": "4488051",
-      "odds": 1.15,
-      "patternScore": 69.64,
-      "patternText": "290.850/417.647",
-      "aiScore": 80,
-      "picks": 2
-    },
-    {
       "home": "Japan",
       "away": "Brazil",
       "league": "HAZ",
@@ -398,15 +374,39 @@
       "picks": 1
     },
     {
-      "home": "Albirex Niigata",
-      "away": "Tegevajaro Miyazaki",
-      "league": "JAP2",
-      "date": "14.11.2026 05:00",
-      "matchCode": "4487672",
-      "odds": 1.13,
-      "patternScore": 69.06,
-      "patternText": "286.269/414.532",
-      "aiScore": 89,
+      "home": "Central Coast Mariners",
+      "away": "Perth Glory Women",
+      "league": "AVUSTW",
+      "date": "14.11.2026 06:00",
+      "matchCode": "4551575",
+      "odds": 1.09,
+      "patternScore": 70.73,
+      "patternText": "348.826/493.210",
+      "aiScore": 91,
+      "picks": 1
+    },
+    {
+      "home": "AlbinoLeffe",
+      "away": "Union Brescia",
+      "league": "İTC",
+      "date": "14.11.2026 13:30",
+      "matchCode": "4535187",
+      "odds": 1.72,
+      "patternScore": 67.8,
+      "patternText": "284.748/419.984",
+      "aiScore": 53,
+      "picks": 4
+    },
+    {
+      "home": "Asa Aarhus",
+      "away": "Holbæk",
+      "league": "DAN3",
+      "date": "14.11.2026 14:00",
+      "matchCode": "4510999",
+      "odds": 1.39,
+      "patternScore": 69.62,
+      "patternText": "222.222/319.205",
+      "aiScore": 63,
       "picks": 1
     }
   ],
