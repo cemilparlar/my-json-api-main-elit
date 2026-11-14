@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 15:54",
+  "updatedAt": "14.11.2026 16:02",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 198,
-      "lost": 110,
-      "total": 308,
-      "rate": 64.3
+      "won": 178,
+      "lost": 104,
+      "total": 282,
+      "rate": 63.1
     },
-    "totalAnalyses": 610709,
+    "totalAnalyses": 610716,
     "leagues": 357,
     "pro": {
-      "won": 786,
-      "lost": 375,
-      "total": 1161,
-      "rate": 67.7
+      "won": 776,
+      "lost": 373,
+      "total": 1149,
+      "rate": 67.5
     },
     "insights": {
-      "won": 1280,
-      "lost": 564,
-      "total": 1844,
-      "rate": 69.4
+      "won": 1265,
+      "lost": 561,
+      "total": 1826,
+      "rate": 69.3
     },
     "coupons": {
       "won": 41,
-      "lost": 34,
-      "total": 75,
-      "rate": 54.7
+      "lost": 33,
+      "total": 74,
+      "rate": 55.4
     },
-    "analyses24h": 1195,
-    "analyses30d": 17766
+    "analyses24h": 1151,
+    "analyses30d": 17718
   },
   "recentWins": [
     {
@@ -295,7 +295,7 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 15:27",
+      "at": "14.11.2026 15:57",
       "home": "Portugal",
       "away": "Denmark"
     },
@@ -307,7 +307,7 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 15:26",
+      "at": "14.11.2026 15:57",
       "home": "Sweden",
       "away": "Bosnia and Herzegovina"
     },
@@ -319,7 +319,7 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 14:00",
+      "at": "14.11.2026 15:57",
       "home": "Austria",
       "away": "Ireland"
     },
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Portugal",
-    "away": "Denmark",
+    "home": "Austria",
+    "away": "Ireland",
     "league": "AVUL",
     "date": "14.11.2026 19:45",
-    "matchCode": "4445153",
-    "odds": 2.11,
-    "patternScore": 66.56,
-    "patternText": "205.978/309.465",
-    "aiScore": 51,
-    "picks": 7
+    "matchCode": "4445189",
+    "odds": 1.76,
+    "patternScore": 66.74,
+    "patternText": "303.747/455.105",
+    "aiScore": 52,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Portugal",
-      "away": "Denmark",
-      "league": "AVUL",
-      "date": "14.11.2026 19:45",
-      "matchCode": "4445153",
-      "odds": 2.11,
-      "patternScore": 66.56,
-      "patternText": "205.978/309.465",
-      "aiScore": 51,
-      "picks": 7
-    },
     {
       "home": "Austria",
       "away": "Ireland",
@@ -369,7 +357,7 @@
       "matchCode": "4445189",
       "odds": 1.76,
       "patternScore": 66.74,
-      "patternText": "303.729/455.081",
+      "patternText": "303.747/455.105",
       "aiScore": 52,
       "picks": 4
     },
@@ -379,11 +367,11 @@
       "league": "İS2",
       "date": "14.11.2026 17:30",
       "matchCode": "4492828",
-      "odds": 1.72,
-      "patternScore": 67.61,
-      "patternText": "295.265/436.686",
+      "odds": 1.58,
+      "patternScore": 67.65,
+      "patternText": "298.885/441.812",
       "aiScore": 53,
-      "picks": 5
+      "picks": 6
     },
     {
       "home": "Los Millionarios",
@@ -393,7 +381,7 @@
       "matchCode": "4514004",
       "odds": 1.46,
       "patternScore": 66.52,
-      "patternText": "187.015/281.124",
+      "patternText": "187.021/281.132",
       "aiScore": 53,
       "picks": 2
     },
@@ -405,32 +393,65 @@
       "matchCode": "4481931",
       "odds": 1.41,
       "patternScore": 68.06,
-      "patternText": "281.917/414.211",
+      "patternText": "281.935/414.235",
       "aiScore": 55,
       "picks": 3
+    },
+    {
+      "home": "Romania",
+      "away": "Poland",
+      "league": "AVUL",
+      "date": "14.11.2026 19:45",
+      "matchCode": "4445200",
+      "odds": 1.38,
+      "patternScore": 66.54,
+      "patternText": "227.875/342.454",
+      "aiScore": 55,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Mirassol FC",
+      "away": "Atletico Mineiro",
+      "league": "BR1",
+      "at": "14.11.2026 15:59",
+      "count": 4
+    },
+    {
+      "home": "Haiti",
+      "away": "USA",
+      "league": "CON",
+      "at": "14.11.2026 15:58",
+      "count": 4
+    },
+    {
+      "home": "Portugal",
+      "away": "Denmark",
+      "league": "AVUL",
+      "at": "14.11.2026 15:57",
+      "count": 4
+    },
+    {
+      "home": "Sweden",
+      "away": "Bosnia and Herzegovina",
+      "league": "AVUL",
+      "at": "14.11.2026 15:57",
+      "count": 2
+    },
+    {
+      "home": "Austria",
+      "away": "Ireland",
+      "league": "AVUL",
+      "at": "14.11.2026 15:57",
+      "count": 3
+    },
     {
       "home": "RCD Mallorca",
       "away": "Cordoba CF",
       "league": "İS2",
       "at": "14.11.2026 15:49",
       "count": 8
-    },
-    {
-      "home": "Portugal",
-      "away": "Denmark",
-      "league": "AVUL",
-      "at": "14.11.2026 15:27",
-      "count": 7
-    },
-    {
-      "home": "Sweden",
-      "away": "Bosnia and Herzegovina",
-      "league": "AVUL",
-      "at": "14.11.2026 15:26",
-      "count": 7
     },
     {
       "home": "Romania",
@@ -459,27 +480,6 @@
       "league": "İS2",
       "at": "14.11.2026 14:30",
       "count": 6
-    },
-    {
-      "home": "Northern Ireland",
-      "away": "Ukraine",
-      "league": "AVUL",
-      "at": "14.11.2026 14:00",
-      "count": 7
-    },
-    {
-      "home": "Austria",
-      "away": "Ireland",
-      "league": "AVUL",
-      "at": "14.11.2026 14:00",
-      "count": 6
-    },
-    {
-      "home": "Norway",
-      "away": "Wales",
-      "league": "AVUL",
-      "at": "14.11.2026 12:13",
-      "count": 14
     }
   ],
   "paywall": {
