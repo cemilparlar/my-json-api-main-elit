@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 18:23",
+  "updatedAt": "14.11.2026 18:31",
   "config": {
     "pages": [
       "engine",
@@ -22,32 +22,32 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 235,
-      "lost": 132,
-      "total": 367,
-      "rate": 64.0
+      "won": 240,
+      "lost": 134,
+      "total": 374,
+      "rate": 64.2
     },
-    "totalAnalyses": 611104,
-    "leagues": 356,
+    "totalAnalyses": 611159,
+    "leagues": 355,
     "pro": {
-      "won": 765,
-      "lost": 363,
-      "total": 1128,
-      "rate": 67.8
+      "won": 762,
+      "lost": 360,
+      "total": 1122,
+      "rate": 67.9
     },
     "insights": {
-      "won": 1251,
-      "lost": 547,
-      "total": 1798,
-      "rate": 69.6
+      "won": 1244,
+      "lost": 539,
+      "total": 1783,
+      "rate": 69.8
     },
     "coupons": {
       "won": 38,
-      "lost": 19,
-      "total": 57,
-      "rate": 66.7
+      "lost": 18,
+      "total": 56,
+      "rate": 67.9
     },
-    "analyses24h": 1108,
+    "analyses24h": 1111,
     "analyses30d": 17584
   },
   "recentWins": [
@@ -398,19 +398,33 @@
       "picks": 3
     },
     {
-      "home": "De Graafschap",
-      "away": "TOP Oss",
-      "league": "HOL2",
-      "date": "14.11.2026 19:00",
-      "matchCode": "4481931",
-      "odds": 1.26,
-      "patternScore": 67.86,
-      "patternText": "276.574/407.544",
-      "aiScore": 56,
-      "picks": 2
+      "home": "Northern Ireland",
+      "away": "Ukraine",
+      "league": "AVUL",
+      "date": "14.11.2026 19:45",
+      "matchCode": "4445177",
+      "odds": 1.25,
+      "patternScore": 68.76,
+      "patternText": "387.561/563.658",
+      "aiScore": 61,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Haiti",
+      "away": "USA",
+      "league": "CON",
+      "at": "14.11.2026 18:29",
+      "count": 3
+    },
+    {
+      "home": "Portugal",
+      "away": "Denmark",
+      "league": "AVUL",
+      "at": "14.11.2026 18:28",
+      "count": 7
+    },
     {
       "home": "Sweden",
       "away": "Bosnia and Herzegovina",
@@ -424,13 +438,6 @@
       "league": "BR1",
       "at": "14.11.2026 17:41",
       "count": 5
-    },
-    {
-      "home": "Haiti",
-      "away": "USA",
-      "league": "CON",
-      "at": "14.11.2026 17:21",
-      "count": 4
     },
     {
       "home": "UD Almeria",
@@ -459,13 +466,6 @@
       "league": "AVUL",
       "at": "14.11.2026 16:11",
       "count": 8
-    },
-    {
-      "home": "Portugal",
-      "away": "Denmark",
-      "league": "AVUL",
-      "at": "14.11.2026 16:10",
-      "count": 3
     },
     {
       "home": "Georgia",
