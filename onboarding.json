@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 13:43",
+  "updatedAt": "14.11.2026 13:52",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 165,
+      "won": 167,
       "lost": 90,
-      "total": 255,
-      "rate": 64.7
+      "total": 257,
+      "rate": 65.0
     },
-    "totalAnalyses": 610053,
+    "totalAnalyses": 610078,
     "leagues": 357,
     "pro": {
-      "won": 938,
-      "lost": 417,
-      "total": 1355,
-      "rate": 69.2
+      "won": 930,
+      "lost": 416,
+      "total": 1346,
+      "rate": 69.1
     },
     "insights": {
-      "won": 1550,
-      "lost": 653,
-      "total": 2203,
-      "rate": 70.4
+      "won": 1530,
+      "lost": 645,
+      "total": 2175,
+      "rate": 70.3
     },
     "coupons": {
       "won": 43,
-      "lost": 39,
-      "total": 82,
-      "rate": 52.4
+      "lost": 38,
+      "total": 81,
+      "rate": 53.1
     },
-    "analyses24h": 1189,
-    "analyses30d": 17805
+    "analyses24h": 1196,
+    "analyses30d": 17808
   },
   "recentWins": [
     {
@@ -362,6 +362,18 @@
       "picks": 8
     },
     {
+      "home": "Sweden",
+      "away": "Bosnia and Herzegovina",
+      "league": "AVUL",
+      "date": "14.11.2026 19:45",
+      "matchCode": "4445201",
+      "odds": 1.91,
+      "patternScore": 66.78,
+      "patternText": "204.581/306.336",
+      "aiScore": 52,
+      "picks": 7
+    },
+    {
       "home": "Newmarket Town",
       "away": "Oxford City",
       "league": "İNFAT",
@@ -395,18 +407,6 @@
       "patternScore": 67.34,
       "patternText": "300.017/445.550",
       "aiScore": 53,
-      "picks": 5
-    },
-    {
-      "home": "NAC Breda",
-      "away": "FC Emmen",
-      "league": "HOL2",
-      "date": "14.11.2026 15:30",
-      "matchCode": "4481929",
-      "odds": 1.48,
-      "patternScore": 68.19,
-      "patternText": "310.576/455.440",
-      "aiScore": 54,
       "picks": 5
     }
   ],
