@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 11:14",
+  "updatedAt": "14.11.2026 11:22",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 237,
       "rate": 63.7
     },
-    "totalAnalyses": 609386,
+    "totalAnalyses": 609421,
     "leagues": 358,
     "pro": {
-      "won": 995,
-      "lost": 458,
-      "total": 1453,
+      "won": 994,
+      "lost": 457,
+      "total": 1451,
       "rate": 68.5
     },
     "insights": {
-      "won": 1649,
-      "lost": 714,
-      "total": 2363,
+      "won": 1647,
+      "lost": 713,
+      "total": 2360,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 84,
       "rate": 52.4
     },
-    "analyses24h": 1182,
-    "analyses30d": 17836
+    "analyses24h": 1185,
+    "analyses30d": 17839
   },
   "recentWins": [
     {
@@ -289,6 +289,12 @@
     },
     {
       "type": "updated",
+      "at": "14.11.2026 11:19",
+      "home": "Georgia",
+      "away": "Hungary"
+    },
+    {
+      "type": "updated",
       "at": "14.11.2026 07:38",
       "home": "Bayswater City FC",
       "away": "Sydney Olympic FC"
@@ -313,7 +319,7 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 06:35",
+      "at": "14.11.2026 11:15",
       "home": "VSK Arhus",
       "away": "Middelfart"
     },
@@ -328,12 +334,6 @@
       "at": "14.11.2026 07:39",
       "home": "AlbinoLeffe",
       "away": "Union Brescia"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 07:41",
-      "home": "AC Renate",
-      "away": "Calvina"
     }
   ],
   "today": {
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Georgia",
+      "away": "Hungary",
+      "league": "AVUL",
+      "at": "14.11.2026 11:19",
+      "count": 4
+    },
+    {
       "home": "Kazakhstan",
       "away": "Slovakia",
       "league": "AVUL",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "13.11.2026 18:52",
       "count": 14
-    },
-    {
-      "home": "CD Leganes",
-      "away": "Burgos CF",
-      "league": "İS2",
-      "at": "13.11.2026 18:51",
-      "count": 8
     }
   ],
   "paywall": {
