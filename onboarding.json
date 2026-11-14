@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 12:17",
+  "updatedAt": "14.11.2026 12:24",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 154,
-      "lost": 89,
-      "total": 243,
-      "rate": 63.4
+      "won": 158,
+      "lost": 92,
+      "total": 250,
+      "rate": 63.2
     },
-    "totalAnalyses": 609692,
+    "totalAnalyses": 609749,
     "leagues": 358,
     "pro": {
-      "won": 976,
-      "lost": 444,
-      "total": 1420,
+      "won": 978,
+      "lost": 445,
+      "total": 1423,
       "rate": 68.7
     },
     "insights": {
-      "won": 1619,
-      "lost": 695,
-      "total": 2314,
-      "rate": 70.0
+      "won": 1621,
+      "lost": 697,
+      "total": 2318,
+      "rate": 69.9
     },
     "coupons": {
       "won": 44,
@@ -47,8 +47,8 @@
       "total": 84,
       "rate": 52.4
     },
-    "analyses24h": 1189,
-    "analyses30d": 17825
+    "analyses24h": 1183,
+    "analyses30d": 17819
   },
   "recentWins": [
     {
@@ -374,18 +374,6 @@
       "picks": 1
     },
     {
-      "home": "Real Valladolid",
-      "away": "Castellon",
-      "league": "İS2",
-      "date": "14.11.2026 13:00",
-      "matchCode": "4492832",
-      "odds": 1.5,
-      "patternScore": 67.56,
-      "patternText": "200.059/296.140",
-      "aiScore": 53,
-      "picks": 5
-    },
-    {
       "home": "NAC Breda",
       "away": "FC Emmen",
       "league": "HOL2",
@@ -403,11 +391,23 @@
       "league": "AFUK",
       "date": "14.11.2026 16:00",
       "matchCode": "4579349",
-      "odds": 1.36,
-      "patternScore": 67.72,
-      "patternText": "297.754/439.712",
-      "aiScore": 55,
+      "odds": 1.39,
+      "patternScore": 67.86,
+      "patternText": "273.536/403.110",
+      "aiScore": 56,
       "picks": 4
+    },
+    {
+      "home": "Rochdale",
+      "away": "York",
+      "league": "İN2",
+      "date": "14.11.2026 15:00",
+      "matchCode": "4489959",
+      "odds": 1.37,
+      "patternScore": 68.19,
+      "patternText": "307.003/450.195",
+      "aiScore": 57,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
