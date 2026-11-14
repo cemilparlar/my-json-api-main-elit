@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 08:25",
+  "updatedAt": "14.11.2026 08:33",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 152,
+      "won": 148,
       "lost": 85,
-      "total": 237,
-      "rate": 64.1
+      "total": 233,
+      "rate": 63.5
     },
-    "totalAnalyses": 609060,
+    "totalAnalyses": 609065,
     "leagues": 358,
     "pro": {
       "won": 1015,
@@ -47,7 +47,7 @@
       "total": 84,
       "rate": 52.4
     },
-    "analyses24h": 1124,
+    "analyses24h": 1120,
     "analyses30d": 17817
   },
   "recentWins": [
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 02:31",
-      "home": "Melbourne City FC",
-      "away": "Newcastle Jets"
-    },
-    {
-      "type": "updated",
       "at": "14.11.2026 04:10",
       "home": "Albirex Niigata",
       "away": "Tegevajaro Miyazaki"
@@ -334,6 +328,12 @@
       "at": "14.11.2026 06:36",
       "home": "Exeter City",
       "away": "Cheltenham Town"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 06:35",
+      "home": "VSK Arhus",
+      "away": "Middelfart"
     }
   ],
   "today": {
