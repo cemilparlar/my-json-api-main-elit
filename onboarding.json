@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 22:56",
+  "updatedAt": "14.11.2026 23:04",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 311,
-      "lost": 144,
-      "total": 455,
+      "won": 309,
+      "lost": 143,
+      "total": 452,
       "rate": 68.4
     },
     "totalAnalyses": 611690,
     "leagues": 355,
     "pro": {
       "won": 791,
-      "lost": 373,
-      "total": 1164,
+      "lost": 372,
+      "total": 1163,
       "rate": 68.0
     },
     "insights": {
-      "won": 1292,
-      "lost": 552,
-      "total": 1844,
+      "won": 1290,
+      "lost": 550,
+      "total": 1840,
       "rate": 70.1
     },
     "coupons": {
-      "won": 29,
+      "won": 20,
       "lost": 12,
-      "total": 41,
-      "rate": 70.7
+      "total": 32,
+      "rate": 62.5
     },
-    "analyses24h": 980,
-    "analyses30d": 17491
+    "analyses24h": 977,
+    "analyses30d": 17479
   },
   "recentWins": [
     {
@@ -313,12 +313,6 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 17:02",
-      "home": "Rionegro Aguilas",
-      "away": "Independiente Medellin"
-    },
-    {
-      "type": "updated",
       "at": "14.11.2026 18:21",
       "home": "VVV-Venlo",
       "away": "Fc Eindhoven"
@@ -334,31 +328,49 @@
       "at": "14.11.2026 19:00",
       "home": "Atletico Goian",
       "away": "Cuiaba"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 18:59",
+      "home": "Criciuma",
+      "away": "Novorizontino"
     }
   ],
   "today": {
-    "home": "Chapecoense AF",
-    "away": "Club de Regatas Vasco da Gama",
-    "league": "BR1",
-    "date": "14.11.2026 23:30",
-    "matchCode": "4423238",
-    "odds": 1.47,
-    "patternScore": 66.81,
-    "patternText": "166.991/249.966",
-    "aiScore": 53,
+    "home": "AC Parceiro Nagano",
+    "away": "Ehime FC",
+    "league": "JAP3",
+    "date": "15.11.2026 05:00",
+    "matchCode": "4488049",
+    "odds": 1.28,
+    "patternScore": 68.26,
+    "patternText": "234.810/343.985",
+    "aiScore": 62,
     "picks": 3
   },
   "todayList": [
     {
-      "home": "Chapecoense AF",
-      "away": "Club de Regatas Vasco da Gama",
-      "league": "BR1",
-      "date": "14.11.2026 23:30",
-      "matchCode": "4423238",
-      "odds": 1.47,
-      "patternScore": 66.81,
-      "patternText": "166.991/249.966",
-      "aiScore": 53,
+      "home": "AC Parceiro Nagano",
+      "away": "Ehime FC",
+      "league": "JAP3",
+      "date": "15.11.2026 05:00",
+      "matchCode": "4488049",
+      "odds": 1.28,
+      "patternScore": 68.26,
+      "patternText": "234.810/343.985",
+      "aiScore": 62,
+      "picks": 3
+    },
+    {
+      "home": "FC Imabari",
+      "away": "Jubilo Iwata",
+      "league": "JAP2",
+      "date": "15.11.2026 05:00",
+      "matchCode": "4487675",
+      "odds": 1.25,
+      "patternScore": 68.98,
+      "patternText": "396.429/574.719",
+      "aiScore": 71,
       "picks": 3
     },
     {
@@ -374,6 +386,18 @@
       "picks": 1
     },
     {
+      "home": "Kataller Toyama",
+      "away": "Tokushima Vortis",
+      "league": "JAP2",
+      "date": "15.11.2026 05:00",
+      "matchCode": "4487673",
+      "odds": 1.23,
+      "patternScore": 68.83,
+      "patternText": "241.914/351.446",
+      "aiScore": 72,
+      "picks": 1
+    },
+    {
       "home": "Vanraure Hachinohe",
       "away": "Iwaki FC",
       "league": "JAP2",
@@ -384,30 +408,6 @@
       "patternText": "225.014/330.111",
       "aiScore": 66,
       "picks": 4
-    },
-    {
-      "home": "Consadole Sapporo",
-      "away": "Sagan Tosu",
-      "league": "JAP2",
-      "date": "15.11.2026 04:00",
-      "matchCode": "4487667",
-      "odds": 1.14,
-      "patternScore": 68.87,
-      "patternText": "234.574/340.589",
-      "aiScore": 93,
-      "picks": 4
-    },
-    {
-      "home": "Broadmeadow Ma",
-      "away": "Avondale FC",
-      "league": "AVC",
-      "date": "15.11.2026 04:00",
-      "matchCode": "4573645",
-      "odds": 1.06,
-      "patternScore": 69.21,
-      "patternText": "259.000/374.231",
-      "aiScore": 94,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
