@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 14:36",
+  "updatedAt": "14.11.2026 14:46",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 172,
-      "lost": 97,
-      "total": 269,
-      "rate": 63.9
+      "won": 171,
+      "lost": 100,
+      "total": 271,
+      "rate": 63.1
     },
-    "totalAnalyses": 610329,
+    "totalAnalyses": 610379,
     "leagues": 357,
     "pro": {
       "won": 865,
@@ -37,9 +37,9 @@
     },
     "insights": {
       "won": 1425,
-      "lost": 614,
-      "total": 2039,
-      "rate": 69.9
+      "lost": 616,
+      "total": 2041,
+      "rate": 69.8
     },
     "coupons": {
       "won": 42,
@@ -47,8 +47,8 @@
       "total": 77,
       "rate": 54.5
     },
-    "analyses24h": 1199,
-    "analyses30d": 17792
+    "analyses24h": 1197,
+    "analyses30d": 17791
   },
   "recentWins": [
     {
@@ -289,7 +289,7 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 11:52",
+      "at": "14.11.2026 14:36",
       "home": "Georgia",
       "away": "Hungary"
     },
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Georgia",
-    "away": "Hungary",
+    "home": "Austria",
+    "away": "Ireland",
     "league": "AVUL",
-    "date": "14.11.2026 17:00",
-    "matchCode": "4445176",
-    "odds": 2.21,
-    "patternScore": 67.59,
-    "patternText": "284.097/420.346",
-    "aiScore": 51,
-    "picks": 8
+    "date": "14.11.2026 19:45",
+    "matchCode": "4445189",
+    "odds": 1.76,
+    "patternScore": 66.74,
+    "patternText": "303.595/454.883",
+    "aiScore": 53,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Georgia",
-      "away": "Hungary",
-      "league": "AVUL",
-      "date": "14.11.2026 17:00",
-      "matchCode": "4445176",
-      "odds": 2.21,
-      "patternScore": 67.59,
-      "patternText": "284.097/420.346",
-      "aiScore": 51,
-      "picks": 8
-    },
     {
       "home": "Austria",
       "away": "Ireland",
@@ -369,7 +357,7 @@
       "matchCode": "4445189",
       "odds": 1.76,
       "patternScore": 66.74,
-      "patternText": "303.595/454.865",
+      "patternText": "303.595/454.883",
       "aiScore": 53,
       "picks": 4
     },
@@ -380,8 +368,8 @@
       "date": "14.11.2026 19:00",
       "matchCode": "4481932",
       "odds": 1.73,
-      "patternScore": 66.56,
-      "patternText": "206.634/310.460",
+      "patternScore": 66.55,
+      "patternText": "206.634/310.478",
       "aiScore": 52,
       "picks": 5
     },
@@ -392,9 +380,21 @@
       "date": "14.11.2026 19:00",
       "matchCode": "4481930",
       "odds": 1.69,
-      "patternScore": 67.34,
-      "patternText": "300.059/445.620",
+      "patternScore": 67.33,
+      "patternText": "300.059/445.638",
       "aiScore": 53,
+      "picks": 5
+    },
+    {
+      "home": "NAC Breda",
+      "away": "FC Emmen",
+      "league": "HOL2",
+      "date": "14.11.2026 15:30",
+      "matchCode": "4481929",
+      "odds": 1.47,
+      "patternScore": 68.17,
+      "patternText": "311.016/456.204",
+      "aiScore": 54,
       "picks": 5
     },
     {
@@ -405,12 +405,33 @@
       "matchCode": "4481931",
       "odds": 1.41,
       "patternScore": 68.06,
-      "patternText": "281.783/413.999",
+      "patternText": "281.783/414.017",
       "aiScore": 55,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "UD Almeria",
+      "away": "FC Andorra",
+      "league": "İS2",
+      "at": "14.11.2026 14:38",
+      "count": 8
+    },
+    {
+      "home": "RCD Mallorca",
+      "away": "Cordoba CF",
+      "league": "İS2",
+      "at": "14.11.2026 14:37",
+      "count": 10
+    },
+    {
+      "home": "Georgia",
+      "away": "Hungary",
+      "league": "AVUL",
+      "at": "14.11.2026 14:36",
+      "count": 7
+    },
     {
       "home": "Real Sociedad",
       "away": "Sporting Gijon",
@@ -454,32 +475,11 @@
       "count": 6
     },
     {
-      "home": "UD Almeria",
-      "away": "FC Andorra",
-      "league": "İS2",
-      "at": "14.11.2026 13:09",
-      "count": 6
-    },
-    {
       "home": "Norway",
       "away": "Wales",
       "league": "AVUL",
       "at": "14.11.2026 12:13",
       "count": 14
-    },
-    {
-      "home": "Real Valladolid",
-      "away": "Castellon",
-      "league": "İS2",
-      "at": "14.11.2026 12:09",
-      "count": 7
-    },
-    {
-      "home": "Georgia",
-      "away": "Hungary",
-      "league": "AVUL",
-      "at": "14.11.2026 11:52",
-      "count": 9
     }
   ],
   "paywall": {
