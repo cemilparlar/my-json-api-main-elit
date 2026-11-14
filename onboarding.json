@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 15:12",
+  "updatedAt": "14.11.2026 15:22",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 172,
-      "lost": 100,
-      "total": 272,
-      "rate": 63.2
+      "won": 179,
+      "lost": 101,
+      "total": 280,
+      "rate": 63.9
     },
-    "totalAnalyses": 610539,
+    "totalAnalyses": 610541,
     "leagues": 357,
     "pro": {
       "won": 790,
@@ -36,19 +36,19 @@
       "rate": 67.8
     },
     "insights": {
-      "won": 1286,
-      "lost": 569,
-      "total": 1855,
-      "rate": 69.3
+      "won": 1284,
+      "lost": 566,
+      "total": 1850,
+      "rate": 69.4
     },
     "coupons": {
-      "won": 42,
+      "won": 41,
       "lost": 35,
-      "total": 77,
-      "rate": 54.5
+      "total": 76,
+      "rate": 53.9
     },
-    "analyses24h": 1194,
-    "analyses30d": 17777
+    "analyses24h": 1185,
+    "analyses30d": 17768
   },
   "recentWins": [
     {
@@ -331,36 +331,24 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 09:13",
-      "home": "Japan",
-      "away": "Brazil"
+      "at": "14.11.2026 09:58",
+      "home": "Ishoj IF",
+      "away": "Sundby"
     }
   ],
   "today": {
-    "home": "RCD Mallorca",
-    "away": "Cordoba CF",
-    "league": "İS2",
-    "date": "14.11.2026 17:30",
-    "matchCode": "4492828",
-    "odds": 1.77,
-    "patternScore": 67.59,
-    "patternText": "295.077/436.552",
-    "aiScore": 53,
-    "picks": 5
+    "home": "Austria",
+    "away": "Ireland",
+    "league": "AVUL",
+    "date": "14.11.2026 19:45",
+    "matchCode": "4445189",
+    "odds": 1.76,
+    "patternScore": 66.74,
+    "patternText": "303.633/454.937",
+    "aiScore": 52,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "RCD Mallorca",
-      "away": "Cordoba CF",
-      "league": "İS2",
-      "date": "14.11.2026 17:30",
-      "matchCode": "4492828",
-      "odds": 1.77,
-      "patternScore": 67.59,
-      "patternText": "295.077/436.552",
-      "aiScore": 53,
-      "picks": 5
-    },
     {
       "home": "Austria",
       "away": "Ireland",
@@ -369,7 +357,7 @@
       "matchCode": "4445189",
       "odds": 1.76,
       "patternScore": 66.74,
-      "patternText": "303.607/454.905",
+      "patternText": "303.633/454.937",
       "aiScore": 52,
       "picks": 4
     },
@@ -381,9 +369,21 @@
       "matchCode": "4481932",
       "odds": 1.73,
       "patternScore": 66.55,
-      "patternText": "206.638/310.492",
+      "patternText": "206.664/310.520",
       "aiScore": 52,
       "picks": 5
+    },
+    {
+      "home": "RCD Mallorca",
+      "away": "Cordoba CF",
+      "league": "İS2",
+      "date": "14.11.2026 17:30",
+      "matchCode": "4492828",
+      "odds": 1.72,
+      "patternScore": 67.59,
+      "patternText": "295.139/436.632",
+      "aiScore": 53,
+      "picks": 6
     },
     {
       "home": "Almere City FC",
@@ -393,7 +393,7 @@
       "matchCode": "4481930",
       "odds": 1.69,
       "patternScore": 67.33,
-      "patternText": "300.071/445.656",
+      "patternText": "300.097/445.688",
       "aiScore": 53,
       "picks": 5
     },
@@ -405,32 +405,32 @@
       "matchCode": "4481931",
       "odds": 1.41,
       "patternScore": 68.06,
-      "patternText": "281.795/414.035",
+      "patternText": "281.821/414.067",
       "aiScore": 55,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Georgia",
-      "away": "Hungary",
-      "league": "AVUL",
-      "at": "14.11.2026 15:12",
-      "count": 8
-    },
-    {
       "home": "UD Almeria",
       "away": "FC Andorra",
       "league": "İS2",
-      "at": "14.11.2026 14:38",
-      "count": 8
+      "at": "14.11.2026 15:15",
+      "count": 6
     },
     {
       "home": "RCD Mallorca",
       "away": "Cordoba CF",
       "league": "İS2",
-      "at": "14.11.2026 14:37",
-      "count": 10
+      "at": "14.11.2026 15:14",
+      "count": 8
+    },
+    {
+      "home": "Georgia",
+      "away": "Hungary",
+      "league": "AVUL",
+      "at": "14.11.2026 15:12",
+      "count": 8
     },
     {
       "home": "Real Sociedad",
