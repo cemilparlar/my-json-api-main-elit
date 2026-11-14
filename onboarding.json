@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 17:36",
+  "updatedAt": "14.11.2026 17:44",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 374,
       "rate": 63.9
     },
-    "totalAnalyses": 611079,
+    "totalAnalyses": 611099,
     "leagues": 356,
     "pro": {
       "won": 774,
@@ -43,12 +43,12 @@
     },
     "coupons": {
       "won": 38,
-      "lost": 21,
-      "total": 59,
-      "rate": 64.4
+      "lost": 20,
+      "total": 58,
+      "rate": 65.5
     },
-    "analyses24h": 1131,
-    "analyses30d": 17598
+    "analyses24h": 1129,
+    "analyses30d": 17596
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4423238",
     "odds": 1.41,
     "patternScore": 66.88,
-    "patternText": "178.486/266.859",
+    "patternText": "178.492/266.873",
     "aiScore": 55,
     "picks": 3
   },
@@ -357,7 +357,7 @@
       "matchCode": "4423238",
       "odds": 1.41,
       "patternScore": 66.88,
-      "patternText": "178.486/266.859",
+      "patternText": "178.492/266.873",
       "aiScore": 55,
       "picks": 3
     },
@@ -369,7 +369,7 @@
       "matchCode": "4514007",
       "odds": 1.34,
       "patternScore": 68.12,
-      "patternText": "253.046/371.478",
+      "patternText": "253.110/371.564",
       "aiScore": 56,
       "picks": 2
     },
@@ -381,7 +381,7 @@
       "matchCode": "4454065",
       "odds": 1.34,
       "patternScore": 67.9,
-      "patternText": "302.638/445.691",
+      "patternText": "302.702/445.777",
       "aiScore": 57,
       "picks": 2
     },
@@ -393,7 +393,7 @@
       "matchCode": "4492829",
       "odds": 1.27,
       "patternScore": 68.15,
-      "patternText": "288.014/422.599",
+      "patternText": "288.078/422.685",
       "aiScore": 59,
       "picks": 3
     },
@@ -405,12 +405,26 @@
       "matchCode": "4445177",
       "odds": 1.25,
       "patternScore": 68.76,
-      "patternText": "387.413/563.458",
+      "patternText": "387.485/563.564",
       "aiScore": 61,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sweden",
+      "away": "Bosnia and Herzegovina",
+      "league": "AVUL",
+      "at": "14.11.2026 17:41",
+      "count": 5
+    },
+    {
+      "home": "Chapecoense AF",
+      "away": "Club de Regatas Vasco da Gama",
+      "league": "BR1",
+      "at": "14.11.2026 17:41",
+      "count": 5
+    },
     {
       "home": "Haiti",
       "away": "USA",
@@ -440,13 +454,6 @@
       "count": 8
     },
     {
-      "home": "Sweden",
-      "away": "Bosnia and Herzegovina",
-      "league": "AVUL",
-      "at": "14.11.2026 16:29",
-      "count": 2
-    },
-    {
       "home": "Romania",
       "away": "Poland",
       "league": "AVUL",
@@ -472,13 +479,6 @@
       "away": "Wales",
       "league": "AVUL",
       "at": "14.11.2026 16:09",
-      "count": 3
-    },
-    {
-      "home": "Austria",
-      "away": "Ireland",
-      "league": "AVUL",
-      "at": "14.11.2026 15:57",
       "count": 3
     }
   ],
