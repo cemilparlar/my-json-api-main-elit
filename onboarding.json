@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 11:22",
+  "updatedAt": "14.11.2026 11:30",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 237,
       "rate": 63.7
     },
-    "totalAnalyses": 609421,
+    "totalAnalyses": 609427,
     "leagues": 358,
     "pro": {
       "won": 994,
@@ -47,8 +47,8 @@
       "total": 84,
       "rate": 52.4
     },
-    "analyses24h": 1185,
-    "analyses30d": 17839
+    "analyses24h": 1180,
+    "analyses30d": 17831
   },
   "recentWins": [
     {
@@ -319,12 +319,6 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 11:15",
-      "home": "VSK Arhus",
-      "away": "Middelfart"
-    },
-    {
-      "type": "updated",
       "at": "14.11.2026 07:20",
       "home": "Real Valladolid",
       "away": "Castellon"
@@ -334,6 +328,12 @@
       "at": "14.11.2026 07:39",
       "home": "AlbinoLeffe",
       "away": "Union Brescia"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 07:41",
+      "home": "AC Renate",
+      "away": "Calvina"
     }
   ],
   "today": {
@@ -362,18 +362,6 @@
       "picks": 1
     },
     {
-      "home": "FC Barcelona B",
-      "away": "Girona B",
-      "league": "İS4",
-      "date": "14.11.2026 17:00",
-      "matchCode": "4563513",
-      "odds": 1.56,
-      "patternScore": 68.27,
-      "patternText": "305.367/447.278",
-      "aiScore": 55,
-      "picks": 1
-    },
-    {
       "home": "Real Valladolid",
       "away": "Castellon",
       "league": "İS2",
@@ -382,7 +370,7 @@
       "odds": 1.5,
       "patternScore": 67.56,
       "patternText": "200.053/296.120",
-      "aiScore": 53,
+      "aiScore": 54,
       "picks": 5
     },
     {
@@ -398,16 +386,28 @@
       "picks": 5
     },
     {
-      "home": "Stockport County",
-      "away": "Reading",
-      "league": "İN1",
+      "home": "Rochdale",
+      "away": "York",
+      "league": "İN2",
       "date": "14.11.2026 15:00",
-      "matchCode": "4489410",
-      "odds": 1.41,
-      "patternScore": 65.51,
-      "patternText": "363.721/555.242",
-      "aiScore": 54,
+      "matchCode": "4489959",
+      "odds": 1.34,
+      "patternScore": 69.11,
+      "patternText": "315.656/456.758",
+      "aiScore": 61,
       "picks": 3
+    },
+    {
+      "home": "Austria U19",
+      "away": "Slovenia U19",
+      "league": "AVŞU19",
+      "date": "14.11.2026 17:00",
+      "matchCode": "4579231",
+      "odds": 1.34,
+      "patternScore": 67.97,
+      "patternText": "275.480/405.304",
+      "aiScore": 56,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
