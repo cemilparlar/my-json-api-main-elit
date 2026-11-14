@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 00:40",
+  "updatedAt": "14.11.2026 00:48",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 205,
       "rate": 63.9
     },
-    "totalAnalyses": 608573,
+    "totalAnalyses": 608586,
     "leagues": 358,
     "pro": {
       "won": 1069,
@@ -362,18 +362,6 @@
       "picks": 1
     },
     {
-      "home": "Sydney United 58 FC",
-      "away": "South Melbourne",
-      "league": "AVC",
-      "date": "14.11.2026 04:00",
-      "matchCode": "4573632",
-      "odds": 1.21,
-      "patternScore": 68.49,
-      "patternText": "259.988/379.602",
-      "aiScore": 67,
-      "picks": 3
-    },
-    {
       "home": "Fukushima Unit",
       "away": "SC Sagamihara",
       "league": "JAP3",
@@ -396,6 +384,18 @@
       "patternText": "330.527/471.528",
       "aiScore": 74,
       "picks": 2
+    },
+    {
+      "home": "Sydney United 58 FC",
+      "away": "South Melbourne",
+      "league": "AVC",
+      "date": "14.11.2026 04:00",
+      "matchCode": "4573632",
+      "odds": 1.14,
+      "patternScore": 70.04,
+      "patternText": "325.438/464.649",
+      "aiScore": 87,
+      "picks": 3
     },
     {
       "home": "Shonan Bellmare",
