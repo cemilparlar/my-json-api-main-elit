@@ -2487,7 +2487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "16.11.2026 19:45",
@@ -2787,7 +2787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "15.11.2026 07:00",
@@ -4287,7 +4287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "14.11.2026 18:00",
@@ -5367,7 +5367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "13.11.2026 17:00",
@@ -5577,7 +5577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "13.11.2026 18:00",
@@ -7557,7 +7557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 85
     },
     {
         "date": "14.11.2026 13:30",
@@ -8487,7 +8487,7 @@
             "e": 85,
             "b": 88.24
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "14.11.2026 15:00",
@@ -8607,7 +8607,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 86
     },
     {
         "date": "14.11.2026 15:00",
@@ -12807,7 +12807,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 77
+        "aiScore": 78
     },
     {
         "date": "14.11.2026 15:00",
@@ -13137,7 +13137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 83
     },
     {
         "date": "14.11.2026 16:30",
@@ -13590,36 +13590,6 @@
         "aiScore": 58
     },
     {
-        "date": "14.11.2026 20:30",
-        "league": "KOL",
-        "matchCode": "4514008",
-        "home": "Deportivo Cali",
-        "away": "Deportes Tolima",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "78.1",
-        "odds": "1.08",
-        "matchCount": "242",
-        "matchLink": "4514008",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "46/242",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "14.11.2026 15:58",
-        "patternScore": 69.63,
-        "patternText": "288.214/413.948",
-        "patternInfo": {
-            "m": 49,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 86
-    },
-    {
         "date": "14.11.2026 17:00",
         "league": "İS4",
         "matchCode": "4494914",
@@ -13977,7 +13947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "14.11.2026 21:30",
@@ -15688,5 +15658,35 @@
             "b": 100.0
         },
         "aiScore": 87
+    },
+    {
+        "date": "14.11.2026 20:30",
+        "league": "KOL",
+        "matchCode": "4514008",
+        "home": "Deportivo Cali",
+        "away": "Deportes Tolima",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "80.33",
+        "odds": "1.10",
+        "matchCount": "239",
+        "matchLink": "4514008",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "14.11.2026 20:00",
+        "patternScore": 70.05,
+        "patternText": "186.333/266.001",
+        "patternInfo": {
+            "m": 45,
+            "s": 7,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 91
     }
 ]
