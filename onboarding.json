@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 21:40",
+  "updatedAt": "14.11.2026 21:47",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 271,
-      "lost": 127,
-      "total": 398,
-      "rate": 68.1
+      "won": 306,
+      "lost": 143,
+      "total": 449,
+      "rate": 68.2
     },
     "totalAnalyses": 611611,
     "leagues": 355,
     "pro": {
-      "won": 766,
-      "lost": 361,
-      "total": 1127,
-      "rate": 68.0
+      "won": 787,
+      "lost": 372,
+      "total": 1159,
+      "rate": 67.9
     },
     "insights": {
-      "won": 1262,
-      "lost": 535,
-      "total": 1797,
-      "rate": 70.2
+      "won": 1287,
+      "lost": 551,
+      "total": 1838,
+      "rate": 70.0
     },
     "coupons": {
       "won": 35,
@@ -344,7 +344,7 @@
     "matchCode": "4423238",
     "odds": 1.47,
     "patternScore": 66.81,
-    "patternText": "166.923/249.856",
+    "patternText": "166.925/249.858",
     "aiScore": 53,
     "picks": 3
   },
@@ -357,21 +357,9 @@
       "matchCode": "4423238",
       "odds": 1.47,
       "patternScore": 66.81,
-      "patternText": "166.923/249.856",
+      "patternText": "166.925/249.858",
       "aiScore": 53,
       "picks": 3
-    },
-    {
-      "home": "CSD Malacateco",
-      "away": "CSD Municipal",
-      "league": "GUAT",
-      "date": "15.11.2026 01:00",
-      "matchCode": "4490457",
-      "odds": 1.13,
-      "patternScore": 70.23,
-      "patternText": "293.534/417.957",
-      "aiScore": 90,
-      "picks": 2
     },
     {
       "home": "CSD Comunicaciones",
@@ -381,7 +369,7 @@
       "matchCode": "4490458",
       "odds": 1.09,
       "patternScore": 71.72,
-      "patternText": "210.613/293.642",
+      "patternText": "210.619/293.648",
       "aiScore": 97,
       "picks": 1
     },
@@ -393,7 +381,7 @@
       "matchCode": "4476408",
       "odds": 1.08,
       "patternScore": 69.77,
-      "patternText": "260.534/373.434",
+      "patternText": "260.536/373.436",
       "aiScore": 93,
       "picks": 2
     },
@@ -408,6 +396,18 @@
       "patternText": "234.756/343.909",
       "aiScore": 63,
       "picks": 3
+    },
+    {
+      "home": "FC Ryukyu",
+      "away": "Kochi United",
+      "league": "JAP3",
+      "date": "15.11.2026 07:00",
+      "matchCode": "4488056",
+      "odds": 1.27,
+      "patternScore": 67.87,
+      "patternText": "224.287/330.465",
+      "aiScore": 61,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
