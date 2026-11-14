@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 21:55",
+  "updatedAt": "14.11.2026 22:02",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 306,
-      "lost": 143,
-      "total": 449,
+      "won": 309,
+      "lost": 144,
+      "total": 453,
       "rate": 68.2
     },
     "totalAnalyses": 611659,
     "leagues": 355,
     "pro": {
-      "won": 787,
-      "lost": 372,
-      "total": 1159,
+      "won": 790,
+      "lost": 373,
+      "total": 1163,
       "rate": 67.9
     },
     "insights": {
-      "won": 1287,
-      "lost": 551,
-      "total": 1838,
+      "won": 1290,
+      "lost": 552,
+      "total": 1842,
       "rate": 70.0
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 74.5
     },
     "analyses24h": 983,
-    "analyses30d": 17517
+    "analyses30d": 17494
   },
   "recentWins": [
     {
@@ -362,6 +362,30 @@
       "picks": 3
     },
     {
+      "home": "Vanraure Hachinohe",
+      "away": "Iwaki FC",
+      "league": "JAP2",
+      "date": "15.11.2026 04:00",
+      "matchCode": "4487668",
+      "odds": 1.23,
+      "patternScore": 68.09,
+      "patternText": "222.598/326.937",
+      "aiScore": 65,
+      "picks": 5
+    },
+    {
+      "home": "Consadole Sapporo",
+      "away": "Sagan Tosu",
+      "league": "JAP2",
+      "date": "15.11.2026 04:00",
+      "matchCode": "4487667",
+      "odds": 1.13,
+      "patternScore": 69.37,
+      "patternText": "237.538/342.420",
+      "aiScore": 87,
+      "picks": 4
+    },
+    {
       "home": "CSD Comunicaciones",
       "away": "Coban Imperial",
       "league": "GUAT",
@@ -384,30 +408,6 @@
       "patternText": "260.588/373.516",
       "aiScore": 93,
       "picks": 2
-    },
-    {
-      "home": "AC Parceiro Nagano",
-      "away": "Ehime FC",
-      "league": "JAP3",
-      "date": "15.11.2026 05:00",
-      "matchCode": "4488049",
-      "odds": 1.28,
-      "patternScore": 68.26,
-      "patternText": "234.800/343.973",
-      "aiScore": 63,
-      "picks": 3
-    },
-    {
-      "home": "FC Ryukyu",
-      "away": "Kochi United",
-      "league": "JAP3",
-      "date": "15.11.2026 07:00",
-      "matchCode": "4488056",
-      "odds": 1.27,
-      "patternScore": 67.87,
-      "patternText": "224.329/330.527",
-      "aiScore": 61,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
