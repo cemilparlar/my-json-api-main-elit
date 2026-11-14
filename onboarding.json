@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 06:21",
+  "updatedAt": "14.11.2026 06:29",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1114,
-    "analyses30d": 17810
+    "analyses24h": 1113,
+    "analyses30d": 17809
   },
   "recentWins": [
     {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 00:24",
-      "home": "Inter Bogota",
-      "away": "Independiente Santa Fe"
-    },
-    {
-      "type": "updated",
       "at": "14.11.2026 00:39",
       "home": "Sydney United 58 FC",
       "away": "South Melbourne"
@@ -334,6 +328,12 @@
       "at": "14.11.2026 05:08",
       "home": "Gornik Leczna",
       "away": "Hutnik Krakow"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 06:03",
+      "home": "Ishoj IF",
+      "away": "Sundby"
     }
   ],
   "today": {
@@ -374,18 +374,6 @@
       "picks": 4
     },
     {
-      "home": "Japan",
-      "away": "Brazil",
-      "league": "HAZ",
-      "date": "14.11.2026 10:15",
-      "matchCode": "4565359",
-      "odds": 1.14,
-      "patternScore": 66.86,
-      "patternText": "409.537/612.537",
-      "aiScore": 78,
-      "picks": 2
-    },
-    {
       "home": "Montenegro U19",
       "away": "Faroe Islands U",
       "league": "AVŞU19",
@@ -406,8 +394,20 @@
       "odds": 1.13,
       "patternScore": 70.16,
       "patternText": "366.799/522.791",
-      "aiScore": 88,
+      "aiScore": 87,
       "picks": 3
+    },
+    {
+      "home": "Japan",
+      "away": "Brazil",
+      "league": "HAZ",
+      "date": "14.11.2026 10:15",
+      "matchCode": "4565359",
+      "odds": 1.13,
+      "patternScore": 70.23,
+      "patternText": "185.671/264.388",
+      "aiScore": 96,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
