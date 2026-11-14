@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 21:47",
+  "updatedAt": "14.11.2026 21:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 449,
       "rate": 68.2
     },
-    "totalAnalyses": 611611,
+    "totalAnalyses": 611659,
     "leagues": 355,
     "pro": {
       "won": 787,
@@ -64,6 +64,20 @@
       "firstHalf": "2 - 0",
       "finalScore": "2 - 0",
       "pro": false
+    },
+    {
+      "home": "Real Madrid Women",
+      "away": "Badalona Women",
+      "league": "İSKPR",
+      "date": "14.11.2026 19:30",
+      "prediction": "Double Chance X2",
+      "odds": 3.03,
+      "probability": 75.0,
+      "patternScore": 64.66,
+      "aiScore": 51,
+      "firstHalf": "0 - 1",
+      "finalScore": "3 - 3",
+      "pro": true
     },
     {
       "home": "Slovenia",
@@ -106,20 +120,6 @@
       "firstHalf": "1 - 0",
       "finalScore": "1 - 1",
       "pro": true
-    },
-    {
-      "home": "Georgia",
-      "away": "Hungary",
-      "league": "AVUL",
-      "date": "14.11.2026 17:00",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.75,
-      "probability": 83.33333333333334,
-      "patternScore": 66.6,
-      "aiScore": 52,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 2",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -265,6 +265,14 @@
     },
     {
       "type": "won",
+      "home": "Real Madrid Women",
+      "away": "Badalona Women",
+      "prediction": "Double Chance X2",
+      "odds": 3.03,
+      "at": "14.11.2026 19:30"
+    },
+    {
+      "type": "won",
       "home": "Slovenia",
       "away": "Switzerland",
       "prediction": "Under 1.5 Goals",
@@ -278,14 +286,6 @@
       "prediction": "Both Teams to Score - Yes",
       "odds": 1.85,
       "at": "14.11.2026 14:00"
-    },
-    {
-      "type": "won",
-      "home": "Melbourne City FC",
-      "away": "Newcastle Jets",
-      "prediction": "Handicap (0:2) 2",
-      "odds": 1.8,
-      "at": "14.11.2026 04:00"
     },
     {
       "type": "updated",
@@ -308,20 +308,8 @@
     {
       "type": "updated",
       "at": "14.11.2026 19:00",
-      "home": "Sweden",
-      "away": "Bosnia and Herzegovina"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 19:00",
       "home": "Northern Ireland",
       "away": "Ukraine"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 19:01",
-      "home": "Austria",
-      "away": "Ireland"
     },
     {
       "type": "updated",
@@ -334,6 +322,18 @@
       "at": "14.11.2026 17:02",
       "home": "Rionegro Aguilas",
       "away": "Independiente Medellin"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 16:46",
+      "home": "UD Almeria",
+      "away": "FC Andorra"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 18:21",
+      "home": "VVV-Venlo",
+      "away": "Fc Eindhoven"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4423238",
     "odds": 1.47,
     "patternScore": 66.81,
-    "patternText": "166.925/249.858",
+    "patternText": "166.989/249.964",
     "aiScore": 53,
     "picks": 3
   },
@@ -357,7 +357,7 @@
       "matchCode": "4423238",
       "odds": 1.47,
       "patternScore": 66.81,
-      "patternText": "166.925/249.858",
+      "patternText": "166.989/249.964",
       "aiScore": 53,
       "picks": 3
     },
@@ -368,8 +368,8 @@
       "date": "14.11.2026 23:00",
       "matchCode": "4490458",
       "odds": 1.09,
-      "patternScore": 71.72,
-      "patternText": "210.619/293.648",
+      "patternScore": 71.73,
+      "patternText": "210.665/293.712",
       "aiScore": 97,
       "picks": 1
     },
@@ -381,7 +381,7 @@
       "matchCode": "4476408",
       "odds": 1.08,
       "patternScore": 69.77,
-      "patternText": "260.536/373.436",
+      "patternText": "260.588/373.516",
       "aiScore": 93,
       "picks": 2
     },
@@ -393,7 +393,7 @@
       "matchCode": "4488049",
       "odds": 1.28,
       "patternScore": 68.26,
-      "patternText": "234.756/343.909",
+      "patternText": "234.800/343.973",
       "aiScore": 63,
       "picks": 3
     },
@@ -405,7 +405,7 @@
       "matchCode": "4488056",
       "odds": 1.27,
       "patternScore": 67.87,
-      "patternText": "224.287/330.465",
+      "patternText": "224.329/330.527",
       "aiScore": 61,
       "picks": 1
     }
