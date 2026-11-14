@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 10:20",
+  "updatedAt": "14.11.2026 10:29",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 233,
       "rate": 63.5
     },
-    "totalAnalyses": 609338,
+    "totalAnalyses": 609348,
     "leagues": 358,
     "pro": {
       "won": 1008,
@@ -47,8 +47,8 @@
       "total": 84,
       "rate": 52.4
     },
-    "analyses24h": 1180,
-    "analyses30d": 17839
+    "analyses24h": 1178,
+    "analyses30d": 17837
   },
   "recentWins": [
     {
@@ -325,15 +325,15 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 10:20",
-      "home": "Manchester United",
-      "away": "Crystal Palace"
-    },
-    {
-      "type": "updated",
       "at": "14.11.2026 07:20",
       "home": "Real Valladolid",
       "away": "Castellon"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 07:39",
+      "home": "AlbinoLeffe",
+      "away": "Union Brescia"
     }
   ],
   "today": {
@@ -370,7 +370,19 @@
       "odds": 1.5,
       "patternScore": 67.56,
       "patternText": "200.027/296.088",
-      "aiScore": 53,
+      "aiScore": 54,
+      "picks": 5
+    },
+    {
+      "home": "NAC Breda",
+      "away": "FC Emmen",
+      "league": "HOL2",
+      "date": "14.11.2026 15:30",
+      "matchCode": "4481929",
+      "odds": 1.48,
+      "patternScore": 68.19,
+      "patternText": "310.498/455.338",
+      "aiScore": 54,
       "picks": 5
     },
     {
@@ -396,18 +408,6 @@
       "patternText": "276.754/407.328",
       "aiScore": 56,
       "picks": 4
-    },
-    {
-      "home": "Rochdale",
-      "away": "York",
-      "league": "İN2",
-      "date": "14.11.2026 15:00",
-      "matchCode": "4489959",
-      "odds": 1.34,
-      "patternScore": 69.11,
-      "patternText": "315.642/456.738",
-      "aiScore": 61,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
