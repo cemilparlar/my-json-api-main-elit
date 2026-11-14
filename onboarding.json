@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 22:02",
+  "updatedAt": "14.11.2026 22:10",
   "config": {
     "pages": [
       "engine",
@@ -42,10 +42,10 @@
       "rate": 70.0
     },
     "coupons": {
-      "won": 35,
+      "won": 29,
       "lost": 12,
-      "total": 47,
-      "rate": 74.5
+      "total": 41,
+      "rate": 70.7
     },
     "analyses24h": 983,
     "analyses30d": 17494
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 16:09",
-      "home": "Georgia",
-      "away": "Hungary"
-    },
-    {
-      "type": "updated",
       "at": "14.11.2026 18:28",
       "home": "Portugal",
       "away": "Denmark"
@@ -334,6 +328,12 @@
       "at": "14.11.2026 18:21",
       "home": "VVV-Venlo",
       "away": "Fc Eindhoven"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 16:47",
+      "home": "RKC Waalwijk",
+      "away": "FC Den Bosch"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4423238",
     "odds": 1.47,
     "patternScore": 66.81,
-    "patternText": "166.989/249.964",
+    "patternText": "166.991/249.966",
     "aiScore": 53,
     "picks": 3
   },
@@ -357,7 +357,7 @@
       "matchCode": "4423238",
       "odds": 1.47,
       "patternScore": 66.81,
-      "patternText": "166.989/249.964",
+      "patternText": "166.991/249.966",
       "aiScore": 53,
       "picks": 3
     },
@@ -369,7 +369,7 @@
       "matchCode": "4487668",
       "odds": 1.23,
       "patternScore": 68.09,
-      "patternText": "222.598/326.937",
+      "patternText": "222.604/326.945",
       "aiScore": 65,
       "picks": 5
     },
@@ -381,7 +381,7 @@
       "matchCode": "4487667",
       "odds": 1.13,
       "patternScore": 69.37,
-      "patternText": "237.538/342.420",
+      "patternText": "237.544/342.428",
       "aiScore": 87,
       "picks": 4
     },
@@ -405,7 +405,7 @@
       "matchCode": "4476408",
       "odds": 1.08,
       "patternScore": 69.77,
-      "patternText": "260.588/373.516",
+      "patternText": "260.594/373.524",
       "aiScore": 93,
       "picks": 2
     }
