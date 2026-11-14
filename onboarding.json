@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 09:19",
+  "updatedAt": "14.11.2026 09:28",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 233,
       "rate": 63.5
     },
-    "totalAnalyses": 609105,
+    "totalAnalyses": 609166,
     "leagues": 358,
     "pro": {
       "won": 1009,
@@ -47,8 +47,8 @@
       "total": 84,
       "rate": 52.4
     },
-    "analyses24h": 1134,
-    "analyses30d": 17831
+    "analyses24h": 1140,
+    "analyses30d": 17837
   },
   "recentWins": [
     {
@@ -345,7 +345,7 @@
     "odds": 1.5,
     "patternScore": 67.56,
     "patternText": "200.027/296.088",
-    "aiScore": 54,
+    "aiScore": 53,
     "picks": 5
   },
   "todayList": [
@@ -358,20 +358,8 @@
       "odds": 1.5,
       "patternScore": 67.56,
       "patternText": "200.027/296.088",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 5
-    },
-    {
-      "home": "Asa Aarhus",
-      "away": "Holbæk",
-      "league": "DAN3",
-      "date": "14.11.2026 14:00",
-      "matchCode": "4510999",
-      "odds": 1.39,
-      "patternScore": 69.62,
-      "patternText": "222.268/319.267",
-      "aiScore": 63,
-      "picks": 1
     },
     {
       "home": "Gornik Leczna",
@@ -407,6 +395,18 @@
       "patternScore": 68.09,
       "patternText": "297.281/436.612",
       "aiScore": 60,
+      "picks": 1
+    },
+    {
+      "home": "Gateshead",
+      "away": "Barrow AFC",
+      "league": "İBSL",
+      "date": "14.11.2026 15:00",
+      "matchCode": "4515027",
+      "odds": 1.28,
+      "patternScore": 68.21,
+      "patternText": "297.983/436.830",
+      "aiScore": 61,
       "picks": 1
     }
   ],
