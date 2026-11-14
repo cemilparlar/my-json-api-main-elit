@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 14:10",
+  "updatedAt": "14.11.2026 14:18",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 266,
       "rate": 64.7
     },
-    "totalAnalyses": 610192,
+    "totalAnalyses": 610249,
     "leagues": 357,
     "pro": {
       "won": 885,
@@ -47,8 +47,8 @@
       "total": 79,
       "rate": 53.2
     },
-    "analyses24h": 1196,
-    "analyses30d": 17790
+    "analyses24h": 1192,
+    "analyses30d": 17786
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4445176",
     "odds": 2.21,
     "patternScore": 67.59,
-    "patternText": "284.063/420.284",
+    "patternText": "284.097/420.346",
     "aiScore": 51,
     "picks": 8
   },
@@ -357,21 +357,9 @@
       "matchCode": "4445176",
       "odds": 2.21,
       "patternScore": 67.59,
-      "patternText": "284.063/420.284",
+      "patternText": "284.097/420.346",
       "aiScore": 51,
       "picks": 8
-    },
-    {
-      "home": "Sweden",
-      "away": "Bosnia and Herzegovina",
-      "league": "AVUL",
-      "date": "14.11.2026 19:45",
-      "matchCode": "4445201",
-      "odds": 1.91,
-      "patternScore": 66.78,
-      "patternText": "204.589/306.344",
-      "aiScore": 52,
-      "picks": 7
     },
     {
       "home": "Newmarket Town",
@@ -381,9 +369,21 @@
       "matchCode": "4579482",
       "odds": 1.91,
       "patternScore": 66.69,
-      "patternText": "218.110/327.044",
+      "patternText": "218.120/327.062",
       "aiScore": 53,
       "picks": 1
+    },
+    {
+      "home": "Austria",
+      "away": "Ireland",
+      "league": "AVUL",
+      "date": "14.11.2026 19:45",
+      "matchCode": "4445189",
+      "odds": 1.76,
+      "patternScore": 66.74,
+      "patternText": "303.595/454.865",
+      "aiScore": 53,
+      "picks": 4
     },
     {
       "home": "FC Dordrecht",
@@ -393,7 +393,7 @@
       "matchCode": "4481932",
       "odds": 1.73,
       "patternScore": 66.56,
-      "patternText": "206.624/310.442",
+      "patternText": "206.634/310.460",
       "aiScore": 52,
       "picks": 5
     },
@@ -405,7 +405,7 @@
       "matchCode": "4481930",
       "odds": 1.69,
       "patternScore": 67.34,
-      "patternText": "300.025/445.558",
+      "patternText": "300.059/445.620",
       "aiScore": 53,
       "picks": 5
     }
