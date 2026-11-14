@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 10:59",
+  "updatedAt": "14.11.2026 11:06",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 609381,
     "leagues": 358,
     "pro": {
-      "won": 1002,
+      "won": 995,
       "lost": 458,
-      "total": 1460,
-      "rate": 68.6
+      "total": 1453,
+      "rate": 68.5
     },
     "insights": {
-      "won": 1663,
-      "lost": 720,
-      "total": 2383,
+      "won": 1649,
+      "lost": 714,
+      "total": 2363,
       "rate": 69.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 84,
       "rate": 52.4
     },
-    "analyses24h": 1184,
-    "analyses30d": 17843
+    "analyses24h": 1182,
+    "analyses30d": 17836
   },
   "recentWins": [
     {
@@ -362,6 +362,18 @@
       "picks": 1
     },
     {
+      "home": "FC Barcelona B",
+      "away": "Girona B",
+      "league": "İS4",
+      "date": "14.11.2026 17:00",
+      "matchCode": "4563513",
+      "odds": 1.56,
+      "patternScore": 68.27,
+      "patternText": "305.367/447.278",
+      "aiScore": 55,
+      "picks": 1
+    },
+    {
       "home": "Real Valladolid",
       "away": "Castellon",
       "league": "İS2",
@@ -395,18 +407,6 @@
       "patternScore": 65.51,
       "patternText": "363.721/555.242",
       "aiScore": 54,
-      "picks": 3
-    },
-    {
-      "home": "Rochdale",
-      "away": "York",
-      "league": "İN2",
-      "date": "14.11.2026 15:00",
-      "matchCode": "4489959",
-      "odds": 1.34,
-      "patternScore": 69.11,
-      "patternText": "315.656/456.758",
-      "aiScore": 61,
       "picks": 3
     }
   ],
