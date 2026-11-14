@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 13:59",
+  "updatedAt": "14.11.2026 14:10",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 167,
-      "lost": 90,
-      "total": 257,
-      "rate": 65.0
+      "won": 172,
+      "lost": 94,
+      "total": 266,
+      "rate": 64.7
     },
-    "totalAnalyses": 610176,
+    "totalAnalyses": 610192,
     "leagues": 357,
     "pro": {
-      "won": 930,
-      "lost": 416,
-      "total": 1346,
-      "rate": 69.1
+      "won": 885,
+      "lost": 409,
+      "total": 1294,
+      "rate": 68.4
     },
     "insights": {
-      "won": 1530,
-      "lost": 645,
-      "total": 2175,
-      "rate": 70.3
+      "won": 1463,
+      "lost": 627,
+      "total": 2090,
+      "rate": 70.0
     },
     "coupons": {
-      "won": 43,
-      "lost": 38,
-      "total": 81,
-      "rate": 53.1
+      "won": 42,
+      "lost": 37,
+      "total": 79,
+      "rate": 53.2
     },
-    "analyses24h": 1195,
-    "analyses30d": 17807
+    "analyses24h": 1196,
+    "analyses30d": 17790
   },
   "recentWins": [
     {
@@ -295,6 +295,36 @@
     },
     {
       "type": "updated",
+      "at": "14.11.2026 14:02",
+      "home": "Portugal",
+      "away": "Denmark"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 14:00",
+      "home": "Romania",
+      "away": "Poland"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 14:01",
+      "home": "Sweden",
+      "away": "Bosnia and Herzegovina"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 14:00",
+      "home": "Northern Ireland",
+      "away": "Ukraine"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 14:00",
+      "home": "Austria",
+      "away": "Ireland"
+    },
+    {
+      "type": "updated",
       "at": "14.11.2026 12:13",
       "home": "Norway",
       "away": "Wales"
@@ -304,36 +334,6 @@
       "at": "14.11.2026 09:13",
       "home": "Japan",
       "away": "Brazil"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 09:58",
-      "home": "Ishoj IF",
-      "away": "Sundby"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 09:58",
-      "home": "Exeter City",
-      "away": "Cheltenham Town"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 11:35",
-      "home": "Bronshoj",
-      "away": "Vanlose IF"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 12:09",
-      "home": "Real Valladolid",
-      "away": "Castellon"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 12:30",
-      "home": "Vis Pesaro",
-      "away": "ASD Pianese"
     }
   ],
   "today": {
@@ -412,6 +412,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Portugal",
+      "away": "Denmark",
+      "league": "AVUL",
+      "at": "14.11.2026 14:02",
+      "count": 6
+    },
+    {
+      "home": "Sweden",
+      "away": "Bosnia and Herzegovina",
+      "league": "AVUL",
+      "at": "14.11.2026 14:01",
+      "count": 8
+    },
+    {
+      "home": "Romania",
+      "away": "Poland",
+      "league": "AVUL",
+      "at": "14.11.2026 14:00",
+      "count": 6
+    },
+    {
+      "home": "Northern Ireland",
+      "away": "Ukraine",
+      "league": "AVUL",
+      "at": "14.11.2026 14:00",
+      "count": 7
+    },
+    {
+      "home": "Austria",
+      "away": "Ireland",
+      "league": "AVUL",
+      "at": "14.11.2026 14:00",
+      "count": 6
+    },
+    {
       "home": "UD Almeria",
       "away": "FC Andorra",
       "league": "İS2",
@@ -445,41 +480,6 @@
       "league": "İS2",
       "at": "14.11.2026 11:38",
       "count": 4
-    },
-    {
-      "home": "Real Sociedad",
-      "away": "Sporting Gijon",
-      "league": "İS2",
-      "at": "14.11.2026 11:36",
-      "count": 5
-    },
-    {
-      "home": "Kazakhstan",
-      "away": "Slovakia",
-      "league": "AVUL",
-      "at": "14.11.2026 10:17",
-      "count": 15
-    },
-    {
-      "home": "Faroe Islands",
-      "away": "Moldova",
-      "league": "AVUL",
-      "at": "14.11.2026 10:17",
-      "count": 5
-    },
-    {
-      "home": "Guatemala",
-      "away": "Canada",
-      "league": "CON",
-      "at": "14.11.2026 01:20",
-      "count": 2
-    },
-    {
-      "home": "Netherlands",
-      "away": "Greece",
-      "league": "AVUL",
-      "at": "13.11.2026 19:08",
-      "count": 9
     }
   ],
   "paywall": {
