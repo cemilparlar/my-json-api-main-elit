@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 16:02",
+  "updatedAt": "14.11.2026 16:10",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 178,
-      "lost": 104,
-      "total": 282,
-      "rate": 63.1
+      "won": 191,
+      "lost": 114,
+      "total": 305,
+      "rate": 62.6
     },
-    "totalAnalyses": 610716,
+    "totalAnalyses": 610721,
     "leagues": 357,
     "pro": {
-      "won": 776,
-      "lost": 373,
-      "total": 1149,
-      "rate": 67.5
+      "won": 781,
+      "lost": 374,
+      "total": 1155,
+      "rate": 67.6
     },
     "insights": {
-      "won": 1265,
-      "lost": 561,
-      "total": 1826,
-      "rate": 69.3
+      "won": 1272,
+      "lost": 562,
+      "total": 1834,
+      "rate": 69.4
     },
     "coupons": {
-      "won": 41,
-      "lost": 33,
-      "total": 74,
-      "rate": 55.4
+      "won": 39,
+      "lost": 30,
+      "total": 69,
+      "rate": 56.5
     },
-    "analyses24h": 1151,
-    "analyses30d": 17718
+    "analyses24h": 1142,
+    "analyses30d": 17709
   },
   "recentWins": [
     {
@@ -94,6 +94,20 @@
       "pro": true
     },
     {
+      "home": "Haverfordwest",
+      "away": "Ammanford",
+      "league": "GALWK",
+      "date": "14.11.2026 14:00",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 1.85,
+      "probability": 100.0,
+      "patternScore": 58.51,
+      "aiScore": 52,
+      "firstHalf": "2 - 1",
+      "finalScore": "3 - 1",
+      "pro": true
+    },
+    {
       "home": "Melbourne City FC",
       "away": "Newcastle Jets",
       "league": "AVUSTW",
@@ -105,20 +119,6 @@
       "aiScore": 52,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 1",
-      "pro": true
-    },
-    {
-      "home": "Tunisia",
-      "away": "Libya",
-      "league": "AFUK",
-      "date": "13.11.2026 16:00",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.71,
-      "probability": 75.0,
-      "patternScore": 63.81,
-      "aiScore": 52,
-      "firstHalf": "0 - 1",
-      "finalScore": "0 - 2",
       "pro": true
     }
   ],
@@ -281,15 +281,15 @@
     },
     {
       "type": "won",
-      "home": "Melbourne City FC",
-      "away": "Newcastle Jets",
-      "prediction": "Handicap (0:2) 2",
-      "odds": 1.8,
-      "at": "14.11.2026 04:00"
+      "home": "Haverfordwest",
+      "away": "Ammanford",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 1.85,
+      "at": "14.11.2026 14:00"
     },
     {
       "type": "updated",
-      "at": "14.11.2026 15:12",
+      "at": "14.11.2026 16:09",
       "home": "Georgia",
       "away": "Hungary"
     },
@@ -325,7 +325,7 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 12:13",
+      "at": "14.11.2026 16:09",
       "home": "Norway",
       "away": "Wales"
     },
@@ -337,29 +337,29 @@
     }
   ],
   "today": {
-    "home": "Austria",
-    "away": "Ireland",
+    "home": "Sweden",
+    "away": "Bosnia and Herzegovina",
     "league": "AVUL",
     "date": "14.11.2026 19:45",
-    "matchCode": "4445189",
-    "odds": 1.76,
-    "patternScore": 66.74,
-    "patternText": "303.747/455.105",
-    "aiScore": 52,
-    "picks": 4
+    "matchCode": "4445201",
+    "odds": 1.62,
+    "patternScore": 67.35,
+    "patternText": "226.239/335.940",
+    "aiScore": 53,
+    "picks": 2
   },
   "todayList": [
     {
-      "home": "Austria",
-      "away": "Ireland",
+      "home": "Sweden",
+      "away": "Bosnia and Herzegovina",
       "league": "AVUL",
       "date": "14.11.2026 19:45",
-      "matchCode": "4445189",
-      "odds": 1.76,
-      "patternScore": 66.74,
-      "patternText": "303.747/455.105",
-      "aiScore": 52,
-      "picks": 4
+      "matchCode": "4445201",
+      "odds": 1.62,
+      "patternScore": 67.35,
+      "patternText": "226.239/335.940",
+      "aiScore": 53,
+      "picks": 2
     },
     {
       "home": "RCD Mallorca",
@@ -411,6 +411,20 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Georgia",
+      "away": "Hungary",
+      "league": "AVUL",
+      "at": "14.11.2026 16:09",
+      "count": 7
+    },
+    {
+      "home": "Norway",
+      "away": "Wales",
+      "league": "AVUL",
+      "at": "14.11.2026 16:09",
+      "count": 3
+    },
     {
       "home": "Mirassol FC",
       "away": "Atletico Mineiro",
@@ -465,20 +479,6 @@
       "away": "FC Andorra",
       "league": "İS2",
       "at": "14.11.2026 15:15",
-      "count": 6
-    },
-    {
-      "home": "Georgia",
-      "away": "Hungary",
-      "league": "AVUL",
-      "at": "14.11.2026 15:12",
-      "count": 8
-    },
-    {
-      "home": "Real Sociedad",
-      "away": "Sporting Gijon",
-      "league": "İS2",
-      "at": "14.11.2026 14:30",
       "count": 6
     }
   ],
