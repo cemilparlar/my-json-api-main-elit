@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 05:00",
+  "updatedAt": "14.11.2026 05:13",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 216,
       "rate": 64.4
     },
-    "totalAnalyses": 608654,
+    "totalAnalyses": 608658,
     "leagues": 358,
     "pro": {
-      "won": 1062,
-      "lost": 484,
-      "total": 1546,
+      "won": 1036,
+      "lost": 472,
+      "total": 1508,
       "rate": 68.7
     },
     "insights": {
-      "won": 1761,
-      "lost": 750,
-      "total": 2511,
-      "rate": 70.1
+      "won": 1720,
+      "lost": 736,
+      "total": 2456,
+      "rate": 70.0
     },
     "coupons": {
       "won": 47,
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1114,
-    "analyses30d": 17810
+    "analyses24h": 1117,
+    "analyses30d": 17813
   },
   "recentWins": [
     {
@@ -331,7 +331,7 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 04:31",
+      "at": "14.11.2026 05:07",
       "home": "Japan",
       "away": "Brazil"
     }
@@ -370,7 +370,7 @@
       "odds": 1.12,
       "patternScore": 67.06,
       "patternText": "416.055/620.387",
-      "aiScore": 84,
+      "aiScore": 83,
       "picks": 3
     },
     {
@@ -386,6 +386,18 @@
       "picks": 1
     },
     {
+      "home": "TSG Hoffenheim Women",
+      "away": "SC Freiburg Women",
+      "league": "ALKB",
+      "date": "14.11.2026 11:00",
+      "matchCode": "4523505",
+      "odds": 1.07,
+      "patternScore": 70.46,
+      "patternText": "210.595/298.897",
+      "aiScore": 96,
+      "picks": 1
+    },
+    {
       "home": "AlbinoLeffe",
       "away": "Union Brescia",
       "league": "İTC",
@@ -396,18 +408,6 @@
       "patternText": "284.748/419.984",
       "aiScore": 53,
       "picks": 4
-    },
-    {
-      "home": "Asa Aarhus",
-      "away": "Holbæk",
-      "league": "DAN3",
-      "date": "14.11.2026 14:00",
-      "matchCode": "4510999",
-      "odds": 1.39,
-      "patternScore": 69.62,
-      "patternText": "222.222/319.205",
-      "aiScore": 63,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
