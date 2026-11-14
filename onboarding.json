@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 14:46",
+  "updatedAt": "14.11.2026 14:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 271,
       "rate": 63.1
     },
-    "totalAnalyses": 610379,
+    "totalAnalyses": 610430,
     "leagues": 357,
     "pro": {
       "won": 865,
@@ -47,8 +47,8 @@
       "total": 77,
       "rate": 54.5
     },
-    "analyses24h": 1197,
-    "analyses30d": 17791
+    "analyses24h": 1194,
+    "analyses30d": 17788
   },
   "recentWins": [
     {
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Austria",
-    "away": "Ireland",
-    "league": "AVUL",
-    "date": "14.11.2026 19:45",
-    "matchCode": "4445189",
-    "odds": 1.76,
-    "patternScore": 66.74,
-    "patternText": "303.595/454.883",
+    "home": "RCD Mallorca",
+    "away": "Cordoba CF",
+    "league": "İS2",
+    "date": "14.11.2026 17:30",
+    "matchCode": "4492828",
+    "odds": 1.77,
+    "patternScore": 67.59,
+    "patternText": "295.065/436.540",
     "aiScore": 53,
-    "picks": 4
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "RCD Mallorca",
+      "away": "Cordoba CF",
+      "league": "İS2",
+      "date": "14.11.2026 17:30",
+      "matchCode": "4492828",
+      "odds": 1.77,
+      "patternScore": 67.59,
+      "patternText": "295.065/436.540",
+      "aiScore": 53,
+      "picks": 5
+    },
     {
       "home": "Austria",
       "away": "Ireland",
@@ -357,8 +369,8 @@
       "matchCode": "4445189",
       "odds": 1.76,
       "patternScore": 66.74,
-      "patternText": "303.595/454.883",
-      "aiScore": 53,
+      "patternText": "303.595/454.893",
+      "aiScore": 52,
       "picks": 4
     },
     {
@@ -369,7 +381,7 @@
       "matchCode": "4481932",
       "odds": 1.73,
       "patternScore": 66.55,
-      "patternText": "206.634/310.478",
+      "patternText": "206.634/310.488",
       "aiScore": 52,
       "picks": 5
     },
@@ -381,7 +393,7 @@
       "matchCode": "4481930",
       "odds": 1.69,
       "patternScore": 67.33,
-      "patternText": "300.059/445.638",
+      "patternText": "300.059/445.644",
       "aiScore": 53,
       "picks": 5
     },
@@ -393,21 +405,9 @@
       "matchCode": "4481929",
       "odds": 1.47,
       "patternScore": 68.17,
-      "patternText": "311.016/456.204",
+      "patternText": "311.016/456.210",
       "aiScore": 54,
       "picks": 5
-    },
-    {
-      "home": "De Graafschap",
-      "away": "TOP Oss",
-      "league": "HOL2",
-      "date": "14.11.2026 19:00",
-      "matchCode": "4481931",
-      "odds": 1.41,
-      "patternScore": 68.06,
-      "patternText": "281.783/414.017",
-      "aiScore": 55,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
