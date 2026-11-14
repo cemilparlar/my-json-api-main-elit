@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 02:01",
+  "updatedAt": "14.11.2026 02:08",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1113,
-    "analyses30d": 17814
+    "analyses24h": 1112,
+    "analyses30d": 17813
   },
   "recentWins": [
     {
@@ -295,6 +295,12 @@
     },
     {
       "type": "updated",
+      "at": "14.11.2026 01:54",
+      "home": "Melbourne Victory",
+      "away": "Adelaide United"
+    },
+    {
+      "type": "updated",
       "at": "14.11.2026 00:39",
       "home": "Sydney United 58 FC",
       "away": "South Melbourne"
@@ -328,39 +334,21 @@
       "at": "13.11.2026 22:22",
       "home": "Argentina",
       "away": "Uruguay"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 01:55",
-      "home": "Giravanz Kitakyushu",
-      "away": "Thespa Kusatsu Gunma"
     }
   ],
   "today": {
-    "home": "Melbourne City FC",
-    "away": "Newcastle Jets",
-    "league": "AVUSTW",
-    "date": "14.11.2026 04:00",
-    "matchCode": "4551573",
-    "odds": 1.69,
-    "patternScore": 68.18,
-    "patternText": "257.566/377.762",
-    "aiScore": 53,
+    "home": "Fukushima Unit",
+    "away": "SC Sagamihara",
+    "league": "JAP3",
+    "date": "14.11.2026 05:00",
+    "matchCode": "4488047",
+    "odds": 1.21,
+    "patternScore": 66.53,
+    "patternText": "343.781/516.729",
+    "aiScore": 64,
     "picks": 1
   },
   "todayList": [
-    {
-      "home": "Melbourne City FC",
-      "away": "Newcastle Jets",
-      "league": "AVUSTW",
-      "date": "14.11.2026 04:00",
-      "matchCode": "4551573",
-      "odds": 1.69,
-      "patternScore": 68.18,
-      "patternText": "257.566/377.762",
-      "aiScore": 53,
-      "picks": 1
-    },
     {
       "home": "Fukushima Unit",
       "away": "SC Sagamihara",
@@ -408,6 +396,18 @@
       "patternText": "349.159/496.288",
       "aiScore": 86,
       "picks": 3
+    },
+    {
+      "home": "Fujieda MYFC",
+      "away": "Kofu",
+      "league": "JAP2",
+      "date": "14.11.2026 05:00",
+      "matchCode": "4487674",
+      "odds": 1.1,
+      "patternScore": 70.09,
+      "patternText": "187.326/267.279",
+      "aiScore": 95,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
