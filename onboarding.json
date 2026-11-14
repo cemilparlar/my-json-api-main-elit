@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "14.11.2026 00:11",
+  "updatedAt": "14.11.2026 00:18",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 205,
       "rate": 63.9
     },
-    "totalAnalyses": 608566,
+    "totalAnalyses": 608571,
     "leagues": 358,
     "pro": {
       "won": 1070,
@@ -47,8 +47,8 @@
       "total": 89,
       "rate": 52.8
     },
-    "analyses24h": 1116,
-    "analyses30d": 17834
+    "analyses24h": 1113,
+    "analyses30d": 17831
   },
   "recentWins": [
     {
@@ -325,30 +325,54 @@
     },
     {
       "type": "updated",
-      "at": "13.11.2026 23:03",
-      "home": "Albirex Niigata",
-      "away": "Tegevajaro Miyazaki"
+      "at": "14.11.2026 00:07",
+      "home": "Melbourne City FC",
+      "away": "Newcastle Jets"
     },
     {
       "type": "updated",
-      "at": "13.11.2026 23:25",
-      "home": "Shonan Bellmare",
-      "away": "Yokohama FC"
+      "at": "13.11.2026 23:03",
+      "home": "Albirex Niigata",
+      "away": "Tegevajaro Miyazaki"
     }
   ],
   "today": {
-    "home": "Sydney United 58 FC",
-    "away": "South Melbourne",
-    "league": "AVC",
+    "home": "Melbourne City FC",
+    "away": "Newcastle Jets",
+    "league": "AVUSTW",
     "date": "14.11.2026 04:00",
-    "matchCode": "4573632",
-    "odds": 1.21,
-    "patternScore": 68.49,
-    "patternText": "259.988/379.602",
-    "aiScore": 67,
-    "picks": 3
+    "matchCode": "4551573",
+    "odds": 1.69,
+    "patternScore": 68.18,
+    "patternText": "257.552/377.742",
+    "aiScore": 54,
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Melbourne City FC",
+      "away": "Newcastle Jets",
+      "league": "AVUSTW",
+      "date": "14.11.2026 04:00",
+      "matchCode": "4551573",
+      "odds": 1.69,
+      "patternScore": 68.18,
+      "patternText": "257.552/377.742",
+      "aiScore": 54,
+      "picks": 1
+    },
+    {
+      "home": "South Hobart",
+      "away": "Wollongong Wolves",
+      "league": "AVC",
+      "date": "14.11.2026 04:00",
+      "matchCode": "4573669",
+      "odds": 1.43,
+      "patternScore": 67.97,
+      "patternText": "249.507/367.107",
+      "aiScore": 54,
+      "picks": 3
+    },
     {
       "home": "Sydney United 58 FC",
       "away": "South Melbourne",
@@ -371,30 +395,6 @@
       "patternScore": 66.53,
       "patternText": "343.767/516.701",
       "aiScore": 64,
-      "picks": 1
-    },
-    {
-      "home": "South Hobart",
-      "away": "Wollongong Wolves",
-      "league": "AVC",
-      "date": "14.11.2026 04:00",
-      "matchCode": "4573669",
-      "odds": 1.19,
-      "patternScore": 69.0,
-      "patternText": "175.941/254.983",
-      "aiScore": 79,
-      "picks": 2
-    },
-    {
-      "home": "FC Gifu",
-      "away": "Matsumoto Yamag",
-      "league": "JAP3",
-      "date": "14.11.2026 05:00",
-      "matchCode": "4488051",
-      "odds": 1.13,
-      "patternScore": 70.33,
-      "patternText": "341.981/486.275",
-      "aiScore": 97,
       "picks": 1
     },
     {
