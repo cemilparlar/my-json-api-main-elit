@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 06:56",
+  "updatedAt": "15.11.2026 07:04",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 328,
-      "lost": 160,
-      "total": 488,
-      "rate": 67.2
+      "won": 336,
+      "lost": 162,
+      "total": 498,
+      "rate": 67.5
     },
-    "totalAnalyses": 612001,
+    "totalAnalyses": 612032,
     "leagues": 355,
     "pro": {
-      "won": 720,
-      "lost": 343,
-      "total": 1063,
-      "rate": 67.7
+      "won": 727,
+      "lost": 345,
+      "total": 1072,
+      "rate": 67.8
     },
     "insights": {
-      "won": 1194,
-      "lost": 519,
-      "total": 1713,
+      "won": 1200,
+      "lost": 521,
+      "total": 1721,
       "rate": 69.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 26,
       "rate": 57.7
     },
-    "analyses24h": 944,
-    "analyses30d": 17405
+    "analyses24h": 950,
+    "analyses30d": 17411
   },
   "recentWins": [
     {
@@ -370,7 +370,7 @@
       "odds": 1.28,
       "patternScore": 68.75,
       "patternText": "157.548/229.146",
-      "aiScore": 58,
+      "aiScore": 57,
       "picks": 1
     },
     {
@@ -411,6 +411,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "CD Tenerife",
+      "away": "AD Ceuta",
+      "league": "İS2",
+      "at": "15.11.2026 07:04",
+      "count": 6
+    },
     {
       "home": "Chapecoense AF",
       "away": "Club de Regatas Vasco da Gama",
@@ -473,13 +480,6 @@
       "league": "İS2",
       "at": "14.11.2026 16:46",
       "count": 5
-    },
-    {
-      "home": "RCD Mallorca",
-      "away": "Cordoba CF",
-      "league": "İS2",
-      "at": "14.11.2026 16:46",
-      "count": 8
     }
   ],
   "paywall": {
