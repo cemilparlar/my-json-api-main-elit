@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 05:20",
+  "updatedAt": "15.11.2026 05:28",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 26,
       "rate": 57.7
     },
-    "analyses24h": 950,
-    "analyses30d": 17409
+    "analyses24h": 943,
+    "analyses30d": 17402
   },
   "recentWins": [
     {
@@ -313,42 +313,66 @@
     },
     {
       "type": "updated",
+      "at": "15.11.2026 05:12",
+      "home": "Amarante Fc",
+      "away": "Felgueiras 1932"
+    },
+    {
+      "type": "updated",
+      "at": "15.11.2026 05:14",
+      "home": "UD Ibiza",
+      "away": "FC Cartagena"
+    },
+    {
+      "type": "updated",
       "at": "15.11.2026 05:17",
       "home": "Atletico Madrid B",
       "away": "CD Teruel"
     },
     {
       "type": "updated",
-      "at": "15.11.2026 02:15",
-      "home": "Kagoshima United",
-      "away": "Gainare Tottori"
-    },
-    {
-      "type": "updated",
-      "at": "15.11.2026 03:14",
-      "home": "Tochigi SC",
-      "away": "Nara Club"
-    },
-    {
-      "type": "updated",
-      "at": "15.11.2026 01:44",
-      "home": "Kamatamare Sanuki",
-      "away": "Renofa Yamaguchi"
+      "at": "15.11.2026 05:15",
+      "home": "Extremadura 19",
+      "away": "Pontevedra CF"
     }
   ],
   "today": {
-    "home": "Cieza",
-    "away": "Pena Deportiva",
-    "league": "İS4",
-    "date": "15.11.2026 10:30",
-    "matchCode": "4551939",
-    "odds": 1.23,
-    "patternScore": 68.16,
-    "patternText": "247.910/363.721",
-    "aiScore": 78,
-    "picks": 2
+    "home": "Atletico Madrid B",
+    "away": "CD Teruel",
+    "league": "İS3",
+    "date": "15.11.2026 11:00",
+    "matchCode": "4493632",
+    "odds": 1.28,
+    "patternScore": 68.75,
+    "patternText": "157.522/229.116",
+    "aiScore": 58,
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Atletico Madrid B",
+      "away": "CD Teruel",
+      "league": "İS3",
+      "date": "15.11.2026 11:00",
+      "matchCode": "4493632",
+      "odds": 1.28,
+      "patternScore": 68.75,
+      "patternText": "157.522/229.116",
+      "aiScore": 58,
+      "picks": 1
+    },
+    {
+      "home": "Barbastro",
+      "away": "Arnedo",
+      "league": "İS4",
+      "date": "15.11.2026 11:00",
+      "matchCode": "4563520",
+      "odds": 1.26,
+      "patternScore": 68.06,
+      "patternText": "253.843/372.989",
+      "aiScore": 56,
+      "picks": 2
+    },
     {
       "home": "Cieza",
       "away": "Pena Deportiva",
@@ -374,39 +398,15 @@
       "picks": 2
     },
     {
-      "home": "Ud Logrones Ii",
-      "away": "Pena Sport",
+      "home": "CD Puente Genil",
+      "away": "Atletico Centra",
       "league": "İS4",
       "date": "15.11.2026 11:00",
-      "matchCode": "4563514",
-      "odds": 1.13,
-      "patternScore": 70.07,
-      "patternText": "320.732/457.716",
-      "aiScore": 73,
-      "picks": 2
-    },
-    {
-      "home": "CD San Sebastian de los Reyes",
-      "away": "Real Madrid C",
-      "league": "İS4",
-      "date": "15.11.2026 11:00",
-      "matchCode": "4495221",
-      "odds": 1.13,
-      "patternScore": 71.09,
-      "patternText": "230.104/323.685",
-      "aiScore": 91,
-      "picks": 1
-    },
-    {
-      "home": "Lhospitalet",
-      "away": "Europa Ii",
-      "league": "İSTL",
-      "date": "15.11.2026 11:00",
-      "matchCode": "4529495",
-      "odds": 1.12,
-      "patternScore": 70.93,
-      "patternText": "209.434/295.280",
-      "aiScore": 92,
+      "matchCode": "4494909",
+      "odds": 1.15,
+      "patternScore": 70.06,
+      "patternText": "323.879/462.318",
+      "aiScore": 72,
       "picks": 1
     }
   ],
