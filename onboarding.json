@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 12:21",
+  "updatedAt": "15.11.2026 12:29",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 470,
       "rate": 68.1
     },
-    "totalAnalyses": 612523,
+    "totalAnalyses": 612582,
     "leagues": 355,
     "pro": {
       "won": 676,
@@ -47,8 +47,8 @@
       "total": 14,
       "rate": 57.1
     },
-    "analyses24h": 947,
-    "analyses30d": 17425
+    "analyses24h": 943,
+    "analyses30d": 17421
   },
   "recentWins": [
     {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "15.11.2026 06:26",
-      "home": "Amarante Fc",
-      "away": "Felgueiras 1932"
-    },
-    {
-      "type": "updated",
       "at": "15.11.2026 09:08",
       "home": "Atletico Madrid B",
       "away": "CD Teruel"
@@ -334,33 +328,27 @@
       "at": "15.11.2026 12:01",
       "home": "MVV Maastricht",
       "away": "Vitesse Arnhem"
+    },
+    {
+      "type": "updated",
+      "at": "15.11.2026 12:00",
+      "home": "Salernitana",
+      "away": "Catania FC"
     }
   ],
   "today": {
-    "home": "Sevilla Women",
-    "away": "Atletico Madrid Women",
-    "league": "İSKPR",
-    "date": "15.11.2026 15:00",
-    "matchCode": "4528021",
-    "odds": 1.41,
-    "patternScore": 67.53,
-    "patternText": "272.573/403.659",
-    "aiScore": 55,
+    "home": "Gks Tychy",
+    "away": "Rekord Bielsko",
+    "league": "POL2",
+    "date": "15.11.2026 14:00",
+    "matchCode": "4486568",
+    "odds": 1.34,
+    "patternScore": 68.04,
+    "patternText": "270.238/397.192",
+    "aiScore": 53,
     "picks": 1
   },
   "todayList": [
-    {
-      "home": "Sevilla Women",
-      "away": "Atletico Madrid Women",
-      "league": "İSKPR",
-      "date": "15.11.2026 15:00",
-      "matchCode": "4528021",
-      "odds": 1.41,
-      "patternScore": 67.53,
-      "patternText": "272.573/403.659",
-      "aiScore": 55,
-      "picks": 1
-    },
     {
       "home": "Gks Tychy",
       "away": "Rekord Bielsko",
@@ -408,6 +396,18 @@
       "patternText": "253.818/373.087",
       "aiScore": 58,
       "picks": 1
+    },
+    {
+      "home": "Cyprus",
+      "away": "Montenegro",
+      "league": "AVUL",
+      "date": "15.11.2026 14:00",
+      "matchCode": "4445221",
+      "odds": 1.25,
+      "patternScore": 69.74,
+      "patternText": "201.541/288.975",
+      "aiScore": 78,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
