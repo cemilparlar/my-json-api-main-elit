@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 21:44",
+  "updatedAt": "15.11.2026 21:51",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 146,
-      "lost": 48,
-      "total": 194,
-      "rate": 75.3
+      "won": 154,
+      "lost": 57,
+      "total": 211,
+      "rate": 73.0
     },
     "totalAnalyses": 613300,
     "leagues": 354,
     "pro": {
-      "won": 451,
-      "lost": 200,
-      "total": 651,
-      "rate": 69.3
+      "won": 457,
+      "lost": 203,
+      "total": 660,
+      "rate": 69.2
     },
     "insights": {
-      "won": 726,
-      "lost": 304,
-      "total": 1030,
-      "rate": 70.5
+      "won": 734,
+      "lost": 313,
+      "total": 1047,
+      "rate": 70.1
     },
     "coupons": {
       "won": 1,
@@ -52,20 +52,6 @@
   },
   "recentWins": [
     {
-      "home": "Andorra",
-      "away": "Gibraltar",
-      "league": "AVUL",
-      "date": "13.11.2026 19:45",
-      "prediction": "Handicap (0:1) 1",
-      "odds": 3.38,
-      "probability": 100.0,
-      "patternScore": 56.72,
-      "aiScore": 50,
-      "firstHalf": "2 - 0",
-      "finalScore": "2 - 0",
-      "pro": false
-    },
-    {
       "home": "Real Madrid Women",
       "away": "Badalona Women",
       "league": "İSKPR",
@@ -77,20 +63,6 @@
       "aiScore": 51,
       "firstHalf": "0 - 1",
       "finalScore": "3 - 3",
-      "pro": true
-    },
-    {
-      "home": "Slovenia",
-      "away": "Switzerland",
-      "league": "AVUL",
-      "date": "13.11.2026 19:45",
-      "prediction": "Under 1.5 Goals",
-      "odds": 2.9,
-      "probability": 100.0,
-      "patternScore": 56.59,
-      "aiScore": 50,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 0",
       "pro": true
     },
     {
@@ -108,6 +80,20 @@
       "pro": true
     },
     {
+      "home": "Croatia",
+      "away": "Czechia",
+      "league": "AVUL",
+      "date": "15.11.2026 19:45",
+      "prediction": "Total Goals 2-3",
+      "odds": 1.83,
+      "probability": 100.0,
+      "patternScore": 56.89,
+      "aiScore": 52,
+      "firstHalf": "1 - 0",
+      "finalScore": "2 - 1",
+      "pro": false
+    },
+    {
       "home": "Melbourne City FC",
       "away": "Newcastle Jets",
       "league": "AVUSTW",
@@ -120,6 +106,20 @@
       "firstHalf": "1 - 0",
       "finalScore": "1 - 1",
       "pro": true
+    },
+    {
+      "home": "Georgia",
+      "away": "Hungary",
+      "league": "AVUL",
+      "date": "14.11.2026 17:00",
+      "prediction": "Total Goals 2-3",
+      "odds": 1.75,
+      "probability": 83.33333333333334,
+      "patternScore": 66.6,
+      "aiScore": 53,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 2",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -257,14 +257,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Andorra",
-      "away": "Gibraltar",
-      "prediction": "Handicap (0:1) 1",
-      "odds": 3.38,
-      "at": "13.11.2026 19:45"
-    },
-    {
-      "type": "won",
       "home": "Real Madrid Women",
       "away": "Badalona Women",
       "prediction": "Double Chance X2",
@@ -273,19 +265,27 @@
     },
     {
       "type": "won",
-      "home": "Slovenia",
-      "away": "Switzerland",
-      "prediction": "Under 1.5 Goals",
-      "odds": 2.9,
-      "at": "13.11.2026 19:45"
-    },
-    {
-      "type": "won",
       "home": "Haverfordwest",
       "away": "Ammanford",
       "prediction": "Both Teams to Score - Yes",
       "odds": 1.85,
       "at": "14.11.2026 14:00"
+    },
+    {
+      "type": "won",
+      "home": "Croatia",
+      "away": "Czechia",
+      "prediction": "Total Goals 2-3",
+      "odds": 1.83,
+      "at": "15.11.2026 19:45"
+    },
+    {
+      "type": "won",
+      "home": "Melbourne City FC",
+      "away": "Newcastle Jets",
+      "prediction": "Handicap (0:2) 2",
+      "odds": 1.8,
+      "at": "14.11.2026 04:00"
     },
     {
       "type": "updated",
@@ -342,7 +342,7 @@
     "matchCode": "4445232",
     "odds": 1.16,
     "patternScore": 68.59,
-    "patternText": "216.519/315.672",
+    "patternText": "216.525/315.680",
     "aiScore": 77,
     "picks": 2
   },
@@ -355,7 +355,7 @@
       "matchCode": "4445232",
       "odds": 1.16,
       "patternScore": 68.59,
-      "patternText": "216.519/315.672",
+      "patternText": "216.525/315.680",
       "aiScore": 77,
       "picks": 2
     },
@@ -366,8 +366,8 @@
       "date": "16.11.2026 19:45",
       "matchCode": "4445167",
       "odds": 1.37,
-      "patternScore": 67.7,
-      "patternText": "128.209/189.366",
+      "patternScore": 67.71,
+      "patternText": "128.227/189.390",
       "aiScore": 61,
       "picks": 3
     },
@@ -379,7 +379,7 @@
       "matchCode": "4535956",
       "odds": 1.1,
       "patternScore": 69.75,
-      "patternText": "227.503/326.165",
+      "patternText": "227.509/326.173",
       "aiScore": 98,
       "picks": 1
     },
@@ -391,7 +391,7 @@
       "matchCode": "4445130",
       "odds": 1.09,
       "patternScore": 70.34,
-      "patternText": "175.914/250.088",
+      "patternText": "175.932/250.112",
       "aiScore": 97,
       "picks": 2
     },
@@ -403,7 +403,7 @@
       "matchCode": "4492822",
       "odds": 1.08,
       "patternScore": 69.84,
-      "patternText": "218.137/312.338",
+      "patternText": "218.147/312.350",
       "aiScore": 98,
       "picks": 3
     }
