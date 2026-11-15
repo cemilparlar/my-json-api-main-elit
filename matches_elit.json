@@ -1257,7 +1257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "14.11.2026 14:00",
@@ -1723,11 +1723,11 @@
         "matchCount": "253",
         "matchLink": "4529495",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "31/202",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 10:26",
         "patternScore": 70.94,
         "patternText": "209.582/295.448",
         "patternInfo": {
@@ -6357,7 +6357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 94
     },
     {
         "date": "24.11.2026 19:45",
@@ -7137,7 +7137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "14.11.2026 15:00",
@@ -11697,7 +11697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "15.11.2026 09:30",
@@ -11834,10 +11834,10 @@
         "matchLink": "4510867",
         "status": "Pending",
         "predictedScore": "1-0",
-        "predictedScoreText": "16/144",
+        "predictedScoreText": "10/74",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 06:09",
+        "tahminUpdatedAt": "15.11.2026 10:26",
         "patternScore": 71.24,
         "patternText": "218.873/307.240",
         "patternInfo": {
@@ -12343,11 +12343,11 @@
         "matchCount": "12",
         "matchLink": "4457619",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "0-0",
+        "predictedScoreText": "3/14",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 08:14",
+        "tahminUpdatedAt": "15.11.2026 10:28",
         "patternScore": 70.11,
         "patternText": "249.996/356.588",
         "patternInfo": {
@@ -12373,11 +12373,11 @@
         "matchCount": "12",
         "matchLink": "4457619",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "0-0",
+        "predictedScoreText": "3/14",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 08:14",
+        "tahminUpdatedAt": "15.11.2026 10:28",
         "patternScore": 68.94,
         "patternText": "151.456/219.696",
         "patternInfo": {
@@ -12403,11 +12403,11 @@
         "matchCount": "12",
         "matchLink": "4457619",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "0-0",
+        "predictedScoreText": "3/14",
         "mbs": 1,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 08:14",
+        "tahminUpdatedAt": "15.11.2026 10:28",
         "patternScore": 68.3,
         "patternText": "207.736/304.146",
         "patternInfo": {
@@ -12584,10 +12584,10 @@
         "matchLink": "4481936",
         "status": "Pending",
         "predictedScore": "1-1",
-        "predictedScoreText": "13/87",
+        "predictedScoreText": "19/122",
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 08:50",
+        "tahminUpdatedAt": "15.11.2026 10:27",
         "patternScore": 70.35,
         "patternText": "339.656/482.790",
         "patternInfo": {
@@ -12614,10 +12614,10 @@
         "matchLink": "4481936",
         "status": "Pending",
         "predictedScore": "1-1",
-        "predictedScoreText": "13/87",
+        "predictedScoreText": "19/122",
         "mbs": 2,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 08:50",
+        "tahminUpdatedAt": "15.11.2026 10:27",
         "patternScore": 69.42,
         "patternText": "175.524/252.852",
         "patternInfo": {
@@ -12883,11 +12883,11 @@
         "matchCount": "210",
         "matchLink": "4563514",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "29/210",
+        "predictedScore": "1-0",
+        "predictedScoreText": "37/284",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 09:24",
+        "tahminUpdatedAt": "15.11.2026 10:26",
         "patternScore": 69.06,
         "patternText": "264.188/382.536",
         "patternInfo": {
@@ -12913,11 +12913,11 @@
         "matchCount": "210",
         "matchLink": "4563514",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "29/210",
+        "predictedScore": "1-0",
+        "predictedScoreText": "37/284",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 09:24",
+        "tahminUpdatedAt": "15.11.2026 10:26",
         "patternScore": 69.8,
         "patternText": "271.876/389.530",
         "patternInfo": {
@@ -13488,8 +13488,15 @@
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "15.11.2026 10:15",
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 95
+        "patternScore": 69.24,
+        "patternText": "282.769/408.361",
+        "patternInfo": {
+            "m": 70,
+            "s": 15,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 87
     }
 ]
