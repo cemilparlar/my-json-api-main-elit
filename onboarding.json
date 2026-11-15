@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 18:58",
+  "updatedAt": "15.11.2026 19:06",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 207,
-      "lost": 94,
-      "total": 301,
-      "rate": 68.8
+      "won": 189,
+      "lost": 76,
+      "total": 265,
+      "rate": 71.3
     },
-    "totalAnalyses": 613232,
+    "totalAnalyses": 613235,
     "leagues": 354,
     "pro": {
-      "won": 474,
-      "lost": 210,
-      "total": 684,
-      "rate": 69.3
+      "won": 475,
+      "lost": 207,
+      "total": 682,
+      "rate": 69.6
     },
     "insights": {
-      "won": 761,
-      "lost": 313,
-      "total": 1074,
-      "rate": 70.9
+      "won": 759,
+      "lost": 310,
+      "total": 1069,
+      "rate": 71.0
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 100.0
     },
-    "analyses24h": 535,
-    "analyses30d": 17156
+    "analyses24h": 489,
+    "analyses30d": 17017
   },
   "recentWins": [
     {
@@ -331,7 +331,7 @@
     },
     {
       "type": "updated",
-      "at": "15.11.2026 16:19",
+      "at": "15.11.2026 19:01",
       "home": "Belgium",
       "away": "Italy"
     }
@@ -400,6 +400,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Belgium",
+      "away": "Italy",
+      "league": "AVUL",
+      "at": "15.11.2026 19:01",
+      "count": 6
+    },
+    {
+      "home": "France",
+      "away": "Turkiye",
+      "league": "AVUL",
+      "at": "15.11.2026 19:01",
+      "count": 3
+    },
+    {
+      "home": "Croatia",
+      "away": "Czechia",
+      "league": "AVUL",
+      "at": "15.11.2026 19:00",
+      "count": 4
+    },
+    {
+      "home": "Spain",
+      "away": "England",
+      "league": "AVUL",
+      "at": "15.11.2026 18:59",
+      "count": 11
+    },
+    {
       "home": "CD Eldense",
       "away": "CE Sabadell",
       "league": "İS2",
@@ -414,32 +442,11 @@
       "count": 7
     },
     {
-      "home": "Spain",
-      "away": "England",
-      "league": "AVUL",
-      "at": "15.11.2026 16:20",
-      "count": 7
-    },
-    {
-      "home": "Belgium",
-      "away": "Italy",
-      "league": "AVUL",
-      "at": "15.11.2026 16:19",
-      "count": 8
-    },
-    {
       "home": "Belarus",
       "away": "Albania",
       "league": "AVUL",
       "at": "15.11.2026 15:58",
       "count": 3
-    },
-    {
-      "home": "Croatia",
-      "away": "Czechia",
-      "league": "AVUL",
-      "at": "15.11.2026 15:58",
-      "count": 6
     },
     {
       "home": "Cyprus",
@@ -461,13 +468,6 @@
       "league": "AVUL",
       "at": "15.11.2026 13:08",
       "count": 8
-    },
-    {
-      "home": "CD Tenerife",
-      "away": "AD Ceuta",
-      "league": "İS2",
-      "at": "15.11.2026 12:16",
-      "count": 9
     }
   ],
   "paywall": {
