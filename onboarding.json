@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 13:19",
+  "updatedAt": "15.11.2026 13:27",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 319,
-      "lost": 151,
-      "total": 470,
-      "rate": 67.9
+      "won": 327,
+      "lost": 152,
+      "total": 479,
+      "rate": 68.3
     },
-    "totalAnalyses": 612787,
+    "totalAnalyses": 612822,
     "leagues": 355,
     "pro": {
-      "won": 651,
+      "won": 654,
       "lost": 303,
-      "total": 954,
-      "rate": 68.2
+      "total": 957,
+      "rate": 68.3
     },
     "insights": {
-      "won": 1031,
-      "lost": 450,
-      "total": 1481,
-      "rate": 69.6
+      "won": 1039,
+      "lost": 451,
+      "total": 1490,
+      "rate": 69.7
     },
     "coupons": {
-      "won": 7,
+      "won": 5,
       "lost": 1,
-      "total": 8,
-      "rate": 87.5
+      "total": 6,
+      "rate": 83.3
     },
     "analyses24h": 918,
     "analyses30d": 17406
@@ -301,12 +301,6 @@
     },
     {
       "type": "updated",
-      "at": "15.11.2026 07:21",
-      "home": "Zamora FC",
-      "away": "Real Aviles"
-    },
-    {
-      "type": "updated",
       "at": "15.11.2026 09:09",
       "home": "Delfino Pescara",
       "away": "SS Sambenedettese"
@@ -334,6 +328,12 @@
       "at": "15.11.2026 13:09",
       "home": "Granada CF",
       "away": "UD Las Palmas"
+    },
+    {
+      "type": "updated",
+      "at": "15.11.2026 09:49",
+      "home": "UD Logrones",
+      "away": "Arenas De Getxo"
     }
   ],
   "today": {
@@ -412,6 +412,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Belarus",
+      "away": "Albania",
+      "league": "AVUL",
+      "at": "15.11.2026 13:26",
+      "count": 9
+    },
+    {
+      "home": "Cyprus",
+      "away": "Montenegro",
+      "league": "AVUL",
+      "at": "15.11.2026 13:24",
+      "count": 3
+    },
+    {
       "home": "Granada CF",
       "away": "UD Las Palmas",
       "league": "İS2",
@@ -445,20 +459,6 @@
       "league": "İS2",
       "at": "15.11.2026 11:39",
       "count": 5
-    },
-    {
-      "home": "Belarus",
-      "away": "Albania",
-      "league": "AVUL",
-      "at": "15.11.2026 11:06",
-      "count": 8
-    },
-    {
-      "home": "Cyprus",
-      "away": "Montenegro",
-      "league": "AVUL",
-      "at": "15.11.2026 10:49",
-      "count": 8
     },
     {
       "home": "Chapecoense AF",
