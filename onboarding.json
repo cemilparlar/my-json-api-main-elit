@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 08:14",
+  "updatedAt": "15.11.2026 08:22",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 501,
       "rate": 67.7
     },
-    "totalAnalyses": 612170,
+    "totalAnalyses": 612172,
     "leagues": 355,
     "pro": {
       "won": 719,
@@ -43,9 +43,9 @@
     },
     "coupons": {
       "won": 10,
-      "lost": 9,
-      "total": 19,
-      "rate": 52.6
+      "lost": 8,
+      "total": 18,
+      "rate": 55.6
     },
     "analyses24h": 955,
     "analyses30d": 17416
@@ -362,6 +362,18 @@
       "picks": 2
     },
     {
+      "home": "Siofok",
+      "away": "Kaposvar",
+      "league": "MAC3",
+      "date": "15.11.2026 12:00",
+      "matchCode": "4505322",
+      "odds": 1.44,
+      "patternScore": 67.98,
+      "patternText": "263.667/387.853",
+      "aiScore": 53,
+      "picks": 4
+    },
+    {
       "home": "Gks Tychy",
       "away": "Rekord Bielsko",
       "league": "POL2",
@@ -396,21 +408,16 @@
       "patternText": "253.979/373.175",
       "aiScore": 56,
       "picks": 2
-    },
-    {
-      "home": "Cieza",
-      "away": "Pena Deportiva",
-      "league": "İS4",
-      "date": "15.11.2026 10:30",
-      "matchCode": "4551939",
-      "odds": 1.23,
-      "patternScore": 68.17,
-      "patternText": "248.070/363.923",
-      "aiScore": 78,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Latvia",
+      "away": "Armenia",
+      "league": "AVUL",
+      "at": "15.11.2026 08:14",
+      "count": 6
+    },
     {
       "home": "CD Tenerife",
       "away": "AD Ceuta",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "14.11.2026 18:28",
       "count": 7
-    },
-    {
-      "home": "UD Almeria",
-      "away": "FC Andorra",
-      "league": "İS2",
-      "at": "14.11.2026 16:46",
-      "count": 5
     }
   ],
   "paywall": {
