@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 16:40",
+  "updatedAt": "15.11.2026 16:47",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 613153,
     "leagues": 355,
     "pro": {
-      "won": 526,
-      "lost": 234,
-      "total": 760,
+      "won": 524,
+      "lost": 233,
+      "total": 757,
       "rate": 69.2
     },
     "insights": {
-      "won": 818,
-      "lost": 344,
-      "total": 1162,
+      "won": 816,
+      "lost": 343,
+      "total": 1159,
       "rate": 70.4
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 100.0
     },
-    "analyses24h": 615,
-    "analyses30d": 17354
+    "analyses24h": 613,
+    "analyses30d": 17184
   },
   "recentWins": [
     {
@@ -362,6 +362,18 @@
       "picks": 4
     },
     {
+      "home": "CD Eldense",
+      "away": "CE Sabadell",
+      "league": "İS2",
+      "date": "15.11.2026 17:30",
+      "matchCode": "4492825",
+      "odds": 1.35,
+      "patternScore": 67.71,
+      "patternText": "295.064/435.766",
+      "aiScore": 56,
+      "picks": 3
+    },
+    {
       "home": "Stal Stalowa Wola",
       "away": "Olimpia Grudziadz",
       "league": "POL2",
@@ -371,18 +383,6 @@
       "patternScore": 67.87,
       "patternText": "236.379/348.260",
       "aiScore": 54,
-      "picks": 2
-    },
-    {
-      "home": "CD Eldense",
-      "away": "CE Sabadell",
-      "league": "İS2",
-      "date": "15.11.2026 17:30",
-      "matchCode": "4492825",
-      "odds": 1.24,
-      "patternScore": 66.19,
-      "patternText": "382.693/578.192",
-      "aiScore": 62,
       "picks": 2
     },
     {
