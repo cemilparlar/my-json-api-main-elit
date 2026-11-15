@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 21:51",
+  "updatedAt": "15.11.2026 21:59",
   "config": {
     "pages": [
       "engine",
@@ -80,20 +80,6 @@
       "pro": true
     },
     {
-      "home": "Croatia",
-      "away": "Czechia",
-      "league": "AVUL",
-      "date": "15.11.2026 19:45",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.83,
-      "probability": 100.0,
-      "patternScore": 56.89,
-      "aiScore": 52,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 1",
-      "pro": false
-    },
-    {
       "home": "Melbourne City FC",
       "away": "Newcastle Jets",
       "league": "AVUSTW",
@@ -102,7 +88,7 @@
       "odds": 1.8,
       "probability": 75.0,
       "patternScore": 64.73,
-      "aiScore": 53,
+      "aiScore": 52,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 1",
       "pro": true
@@ -116,10 +102,24 @@
       "odds": 1.75,
       "probability": 83.33333333333334,
       "patternScore": 66.6,
-      "aiScore": 53,
+      "aiScore": 52,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
       "pro": false
+    },
+    {
+      "home": "RB Leipzig Women",
+      "away": "E. Frankfurt Women",
+      "league": "ALKB",
+      "date": "15.11.2026 15:00",
+      "prediction": "Over 3.5 Goals",
+      "odds": 1.73,
+      "probability": 77.78,
+      "patternScore": 67.15,
+      "aiScore": 52,
+      "firstHalf": "0 - 2",
+      "finalScore": "1 - 5",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -273,14 +273,6 @@
     },
     {
       "type": "won",
-      "home": "Croatia",
-      "away": "Czechia",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.83,
-      "at": "15.11.2026 19:45"
-    },
-    {
-      "type": "won",
       "home": "Melbourne City FC",
       "away": "Newcastle Jets",
       "prediction": "Handicap (0:2) 2",
@@ -288,16 +280,12 @@
       "at": "14.11.2026 04:00"
     },
     {
-      "type": "updated",
-      "at": "15.11.2026 15:57",
-      "home": "Ravenna FC",
-      "away": "FC Forli"
-    },
-    {
-      "type": "updated",
-      "at": "15.11.2026 15:58",
-      "home": "Belarus",
-      "away": "Albania"
+      "type": "won",
+      "home": "Georgia",
+      "away": "Hungary",
+      "prediction": "Total Goals 2-3",
+      "odds": 1.75,
+      "at": "14.11.2026 17:00"
     },
     {
       "type": "updated",
@@ -341,9 +329,9 @@
     "date": "16.11.2026 15:00",
     "matchCode": "4445232",
     "odds": 1.16,
-    "patternScore": 68.59,
-    "patternText": "216.525/315.680",
-    "aiScore": 77,
+    "patternScore": 68.58,
+    "patternText": "216.589/315.812",
+    "aiScore": 76,
     "picks": 2
   },
   "todayList": [
@@ -354,9 +342,9 @@
       "date": "16.11.2026 15:00",
       "matchCode": "4445232",
       "odds": 1.16,
-      "patternScore": 68.59,
-      "patternText": "216.525/315.680",
-      "aiScore": 77,
+      "patternScore": 68.58,
+      "patternText": "216.589/315.812",
+      "aiScore": 76,
       "picks": 2
     },
     {
@@ -366,9 +354,9 @@
       "date": "16.11.2026 19:45",
       "matchCode": "4445167",
       "odds": 1.37,
-      "patternScore": 67.71,
-      "patternText": "128.227/189.390",
-      "aiScore": 61,
+      "patternScore": 67.68,
+      "patternText": "128.335/189.612",
+      "aiScore": 59,
       "picks": 3
     },
     {
@@ -379,7 +367,7 @@
       "matchCode": "4535956",
       "odds": 1.1,
       "patternScore": 69.75,
-      "patternText": "227.509/326.173",
+      "patternText": "227.553/326.259",
       "aiScore": 98,
       "picks": 1
     },
@@ -390,8 +378,8 @@
       "date": "16.11.2026 19:45",
       "matchCode": "4445130",
       "odds": 1.09,
-      "patternScore": 70.34,
-      "patternText": "175.932/250.112",
+      "patternScore": 70.32,
+      "patternText": "176.050/250.352",
       "aiScore": 97,
       "picks": 2
     },
@@ -402,8 +390,8 @@
       "date": "16.11.2026 19:30",
       "matchCode": "4492822",
       "odds": 1.08,
-      "patternScore": 69.84,
-      "patternText": "218.147/312.350",
+      "patternScore": 69.83,
+      "patternText": "218.175/312.424",
       "aiScore": 98,
       "picks": 3
     }
