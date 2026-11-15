@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 15:54",
+  "updatedAt": "15.11.2026 16:02",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 198,
+      "won": 209,
       "lost": 103,
-      "total": 301,
-      "rate": 65.8
+      "total": 312,
+      "rate": 67.0
     },
-    "totalAnalyses": 613084,
+    "totalAnalyses": 613093,
     "leagues": 355,
     "pro": {
-      "won": 564,
-      "lost": 251,
-      "total": 815,
+      "won": 554,
+      "lost": 246,
+      "total": 800,
       "rate": 69.2
     },
     "insights": {
-      "won": 875,
-      "lost": 372,
-      "total": 1247,
-      "rate": 70.2
+      "won": 854,
+      "lost": 358,
+      "total": 1212,
+      "rate": 70.5
     },
     "coupons": {
       "won": 4,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 100.0
     },
-    "analyses24h": 630,
-    "analyses30d": 17365
+    "analyses24h": 629,
+    "analyses30d": 17358
   },
   "recentWins": [
     {
@@ -319,7 +319,7 @@
     },
     {
       "type": "updated",
-      "at": "15.11.2026 15:23",
+      "at": "15.11.2026 15:57",
       "home": "Ravenna FC",
       "away": "FC Forli"
     },
@@ -331,7 +331,7 @@
     },
     {
       "type": "updated",
-      "at": "15.11.2026 13:26",
+      "at": "15.11.2026 15:58",
       "home": "Belarus",
       "away": "Albania"
     }
@@ -362,18 +362,6 @@
       "picks": 2
     },
     {
-      "home": "Ravenna FC",
-      "away": "FC Forli",
-      "league": "İTC",
-      "date": "15.11.2026 16:30",
-      "matchCode": "4535573",
-      "odds": 1.25,
-      "patternScore": 67.7,
-      "patternText": "264.955/391.342",
-      "aiScore": 62,
-      "picks": 3
-    },
-    {
       "home": "CD Eldense",
       "away": "CE Sabadell",
       "league": "İS2",
@@ -386,18 +374,6 @@
       "picks": 2
     },
     {
-      "home": "AS Cittadella",
-      "away": "Folgore Carates",
-      "league": "İTC",
-      "date": "15.11.2026 16:30",
-      "matchCode": "4535190",
-      "odds": 1.23,
-      "patternScore": 68.31,
-      "patternText": "186.382/272.839",
-      "aiScore": 82,
-      "picks": 3
-    },
-    {
       "home": "Belgium",
       "away": "Italy",
       "league": "AVUL",
@@ -408,9 +384,54 @@
       "patternText": "194.183/279.772",
       "aiScore": 89,
       "picks": 2
+    },
+    {
+      "home": "Spain",
+      "away": "England",
+      "league": "AVUL",
+      "date": "15.11.2026 19:45",
+      "matchCode": "4445143",
+      "odds": 1.13,
+      "patternScore": 69.44,
+      "patternText": "268.748/387.021",
+      "aiScore": 96,
+      "picks": 2
+    },
+    {
+      "home": "Croatia",
+      "away": "Czechia",
+      "league": "AVUL",
+      "date": "15.11.2026 19:45",
+      "matchCode": "4445142",
+      "odds": 1.08,
+      "patternScore": 65.16,
+      "patternText": "249.823/383.374",
+      "aiScore": 97,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Belarus",
+      "away": "Albania",
+      "league": "AVUL",
+      "at": "15.11.2026 15:58",
+      "count": 3
+    },
+    {
+      "home": "Spain",
+      "away": "England",
+      "league": "AVUL",
+      "at": "15.11.2026 15:58",
+      "count": 11
+    },
+    {
+      "home": "Croatia",
+      "away": "Czechia",
+      "league": "AVUL",
+      "at": "15.11.2026 15:58",
+      "count": 6
+    },
     {
       "home": "Belgium",
       "away": "Italy",
@@ -424,27 +445,6 @@
       "league": "İS2",
       "at": "15.11.2026 14:07",
       "count": 11
-    },
-    {
-      "home": "Spain",
-      "away": "England",
-      "league": "AVUL",
-      "at": "15.11.2026 13:47",
-      "count": 5
-    },
-    {
-      "home": "Croatia",
-      "away": "Czechia",
-      "league": "AVUL",
-      "at": "15.11.2026 13:47",
-      "count": 2
-    },
-    {
-      "home": "Belarus",
-      "away": "Albania",
-      "league": "AVUL",
-      "at": "15.11.2026 13:26",
-      "count": 9
     },
     {
       "home": "Cyprus",
