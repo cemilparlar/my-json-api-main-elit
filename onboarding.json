@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 07:59",
+  "updatedAt": "15.11.2026 08:07",
   "config": {
     "pages": [
       "engine",
@@ -27,25 +27,25 @@
       "total": 501,
       "rate": 67.7
     },
-    "totalAnalyses": 612121,
+    "totalAnalyses": 612124,
     "leagues": 355,
     "pro": {
-      "won": 722,
-      "lost": 339,
-      "total": 1061,
-      "rate": 68.0
+      "won": 719,
+      "lost": 337,
+      "total": 1056,
+      "rate": 68.1
     },
     "insights": {
-      "won": 1186,
-      "lost": 512,
-      "total": 1698,
+      "won": 1181,
+      "lost": 510,
+      "total": 1691,
       "rate": 69.8
     },
     "coupons": {
-      "won": 15,
+      "won": 10,
       "lost": 9,
-      "total": 24,
-      "rate": 62.5
+      "total": 19,
+      "rate": 52.6
     },
     "analyses24h": 951,
     "analyses30d": 17412
@@ -362,6 +362,18 @@
       "picks": 2
     },
     {
+      "home": "Gks Tychy",
+      "away": "Rekord Bielsko",
+      "league": "POL2",
+      "date": "15.11.2026 14:00",
+      "matchCode": "4486568",
+      "odds": 1.34,
+      "patternScore": 68.03,
+      "patternText": "270.204/397.158",
+      "aiScore": 53,
+      "picks": 1
+    },
+    {
       "home": "Delfino Pescara",
       "away": "SS Sambenedettese",
       "league": "İTC",
@@ -371,18 +383,6 @@
       "patternScore": 68.35,
       "patternText": "268.864/393.362",
       "aiScore": 59,
-      "picks": 1
-    },
-    {
-      "home": "Atletico Madrid B",
-      "away": "CD Teruel",
-      "league": "İS3",
-      "date": "15.11.2026 11:00",
-      "matchCode": "4493632",
-      "odds": 1.28,
-      "patternScore": 68.76,
-      "patternText": "157.578/229.180",
-      "aiScore": 57,
       "picks": 1
     },
     {
