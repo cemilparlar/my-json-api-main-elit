@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 19:06",
+  "updatedAt": "15.11.2026 19:14",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 100.0
     },
-    "analyses24h": 489,
-    "analyses30d": 17017
+    "analyses24h": 486,
+    "analyses30d": 17014
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 3.03,
       "probability": 75.0,
       "patternScore": 64.66,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "0 - 1",
       "finalScore": "3 - 3",
       "pro": true
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "15.11.2026 13:09",
-      "home": "Granada CF",
-      "away": "UD Las Palmas"
-    },
-    {
-      "type": "updated",
       "at": "15.11.2026 15:57",
       "home": "Ravenna FC",
       "away": "FC Forli"
@@ -334,56 +328,50 @@
       "at": "15.11.2026 19:01",
       "home": "Belgium",
       "away": "Italy"
+    },
+    {
+      "type": "updated",
+      "at": "15.11.2026 18:59",
+      "home": "Spain",
+      "away": "England"
     }
   ],
   "today": {
-    "home": "Belgium",
-    "away": "Italy",
+    "home": "Spain",
+    "away": "England",
     "league": "AVUL",
     "date": "15.11.2026 19:45",
-    "matchCode": "4444927",
-    "odds": 1.36,
-    "patternScore": 68.11,
-    "patternText": "190.429/279.596",
-    "aiScore": 58,
-    "picks": 4
+    "matchCode": "4445143",
+    "odds": 1.41,
+    "patternScore": 67.4,
+    "patternText": "172.484/255.925",
+    "aiScore": 56,
+    "picks": 8
   },
   "todayList": [
-    {
-      "home": "Belgium",
-      "away": "Italy",
-      "league": "AVUL",
-      "date": "15.11.2026 19:45",
-      "matchCode": "4444927",
-      "odds": 1.36,
-      "patternScore": 68.11,
-      "patternText": "190.429/279.596",
-      "aiScore": 58,
-      "picks": 4
-    },
     {
       "home": "Spain",
       "away": "England",
       "league": "AVUL",
       "date": "15.11.2026 19:45",
       "matchCode": "4445143",
-      "odds": 1.16,
-      "patternScore": 68.11,
-      "patternText": "184.030/270.179",
-      "aiScore": 73,
-      "picks": 5
+      "odds": 1.41,
+      "patternScore": 67.4,
+      "patternText": "172.484/255.925",
+      "aiScore": 56,
+      "picks": 8
     },
     {
-      "home": "Croatia",
-      "away": "Czechia",
+      "home": "Belgium",
+      "away": "Italy",
       "league": "AVUL",
       "date": "15.11.2026 19:45",
-      "matchCode": "4445142",
-      "odds": 1.07,
-      "patternScore": 65.17,
-      "patternText": "247.881/380.342",
-      "aiScore": 97,
-      "picks": 2
+      "matchCode": "4444927",
+      "odds": 1.15,
+      "patternScore": 69.06,
+      "patternText": "306.813/444.243",
+      "aiScore": 83,
+      "picks": 1
     },
     {
       "home": "Faroe Islands",
@@ -393,7 +381,7 @@
       "matchCode": "4445232",
       "odds": 1.16,
       "patternScore": 68.59,
-      "patternText": "216.501/315.644",
+      "patternText": "216.507/315.650",
       "aiScore": 75,
       "picks": 2
     }
