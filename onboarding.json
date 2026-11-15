@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 10:12",
+  "updatedAt": "15.11.2026 10:21",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 338,
-      "lost": 158,
-      "total": 496,
-      "rate": 68.1
+      "won": 334,
+      "lost": 155,
+      "total": 489,
+      "rate": 68.3
     },
-    "totalAnalyses": 612346,
+    "totalAnalyses": 612354,
     "leagues": 355,
     "pro": {
       "won": 718,
@@ -47,8 +47,8 @@
       "total": 15,
       "rate": 60.0
     },
-    "analyses24h": 960,
-    "analyses30d": 17424
+    "analyses24h": 947,
+    "analyses30d": 17418
   },
   "recentWins": [
     {
@@ -116,7 +116,7 @@
       "odds": 1.8,
       "probability": 75.0,
       "patternScore": 64.73,
-      "aiScore": 52,
+      "aiScore": 51,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 1",
       "pro": true
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Celtic Women",
-    "away": "Rangers Women",
-    "league": "İKPL1",
+    "home": "Siofok",
+    "away": "Kaposvar",
+    "league": "MAC3",
     "date": "15.11.2026 12:00",
-    "matchCode": "4552976",
-    "odds": 1.47,
-    "patternScore": 68.15,
-    "patternText": "234.808/344.554",
+    "matchCode": "4505322",
+    "odds": 1.45,
+    "patternScore": 68.01,
+    "patternText": "258.767/380.489",
     "aiScore": 52,
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "Celtic Women",
-      "away": "Rangers Women",
-      "league": "İKPL1",
-      "date": "15.11.2026 12:00",
-      "matchCode": "4552976",
-      "odds": 1.47,
-      "patternScore": 68.15,
-      "patternText": "234.808/344.554",
-      "aiScore": 52,
-      "picks": 2
-    },
     {
       "home": "Siofok",
       "away": "Kaposvar",
@@ -408,6 +396,18 @@
       "patternText": "253.814/373.083",
       "aiScore": 58,
       "picks": 1
+    },
+    {
+      "home": "Barbastro",
+      "away": "Arnedo",
+      "league": "İS4",
+      "date": "15.11.2026 11:00",
+      "matchCode": "4563520",
+      "odds": 1.26,
+      "patternScore": 68.06,
+      "patternText": "254.017/373.213",
+      "aiScore": 56,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
