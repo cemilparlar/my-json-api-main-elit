@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 17:57",
+  "updatedAt": "15.11.2026 18:05",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 184,
-      "lost": 87,
-      "total": 271,
-      "rate": 67.9
+      "won": 195,
+      "lost": 89,
+      "total": 284,
+      "rate": 68.7
     },
-    "totalAnalyses": 613194,
+    "totalAnalyses": 613200,
     "leagues": 354,
     "pro": {
-      "won": 503,
-      "lost": 216,
-      "total": 719,
-      "rate": 70.0
+      "won": 486,
+      "lost": 210,
+      "total": 696,
+      "rate": 69.8
     },
     "insights": {
-      "won": 784,
-      "lost": 323,
-      "total": 1107,
-      "rate": 70.8
+      "won": 772,
+      "lost": 314,
+      "total": 1086,
+      "rate": 71.1
     },
     "coupons": {
       "won": 4,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 100.0
     },
-    "analyses24h": 537,
-    "analyses30d": 17165
+    "analyses24h": 535,
+    "analyses30d": 17162
   },
   "recentWins": [
     {
@@ -295,18 +295,6 @@
     },
     {
       "type": "updated",
-      "at": "15.11.2026 12:01",
-      "home": "MVV Maastricht",
-      "away": "Vitesse Arnhem"
-    },
-    {
-      "type": "updated",
-      "at": "15.11.2026 12:00",
-      "home": "Salernitana",
-      "away": "Catania FC"
-    },
-    {
-      "type": "updated",
       "at": "15.11.2026 13:09",
       "home": "Granada CF",
       "away": "UD Las Palmas"
@@ -334,6 +322,18 @@
       "at": "15.11.2026 16:59",
       "home": "CD Eldense",
       "away": "CE Sabadell"
+    },
+    {
+      "type": "updated",
+      "at": "15.11.2026 16:59",
+      "home": "Eibar",
+      "away": "Cadiz CF"
+    },
+    {
+      "type": "updated",
+      "at": "15.11.2026 14:07",
+      "home": "Murcia",
+      "away": "AD Alcorcon"
     }
   ],
   "today": {
@@ -360,18 +360,6 @@
       "patternText": "190.347/279.480",
       "aiScore": 58,
       "picks": 4
-    },
-    {
-      "home": "Stal Stalowa Wola",
-      "away": "Olimpia Grudziadz",
-      "league": "POL2",
-      "date": "15.11.2026 18:30",
-      "matchCode": "4486569",
-      "odds": 1.34,
-      "patternScore": 67.88,
-      "patternText": "236.467/348.370",
-      "aiScore": 54,
-      "picks": 2
     },
     {
       "home": "Spain",
