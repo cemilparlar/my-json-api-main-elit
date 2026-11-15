@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 13:27",
+  "updatedAt": "15.11.2026 13:34",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 327,
-      "lost": 152,
-      "total": 479,
-      "rate": 68.3
+      "won": 313,
+      "lost": 144,
+      "total": 457,
+      "rate": 68.5
     },
-    "totalAnalyses": 612822,
+    "totalAnalyses": 612835,
     "leagues": 355,
     "pro": {
-      "won": 654,
-      "lost": 303,
-      "total": 957,
-      "rate": 68.3
+      "won": 635,
+      "lost": 296,
+      "total": 931,
+      "rate": 68.2
     },
     "insights": {
-      "won": 1039,
-      "lost": 451,
-      "total": 1490,
-      "rate": 69.7
+      "won": 996,
+      "lost": 435,
+      "total": 1431,
+      "rate": 69.6
     },
     "coupons": {
       "won": 5,
@@ -47,8 +47,8 @@
       "total": 6,
       "rate": 83.3
     },
-    "analyses24h": 918,
-    "analyses30d": 17406
+    "analyses24h": 894,
+    "analyses30d": 17404
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 3.03,
       "probability": 75.0,
       "patternScore": 64.66,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "0 - 1",
       "finalScore": "3 - 3",
       "pro": true
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Gks Tychy",
-    "away": "Rekord Bielsko",
+    "home": "Stal Stalowa Wola",
+    "away": "Olimpia Grudziadz",
     "league": "POL2",
-    "date": "15.11.2026 14:00",
-    "matchCode": "4486568",
+    "date": "15.11.2026 18:30",
+    "matchCode": "4486569",
     "odds": 1.34,
-    "patternScore": 68.04,
-    "patternText": "270.304/397.298",
+    "patternScore": 67.87,
+    "patternText": "236.185/348.010",
     "aiScore": 53,
-    "picks": 1
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Gks Tychy",
-      "away": "Rekord Bielsko",
-      "league": "POL2",
-      "date": "15.11.2026 14:00",
-      "matchCode": "4486568",
-      "odds": 1.34,
-      "patternScore": 68.04,
-      "patternText": "270.304/397.298",
-      "aiScore": 53,
-      "picks": 1
-    },
     {
       "home": "Stal Stalowa Wola",
       "away": "Olimpia Grudziadz",
@@ -368,8 +356,8 @@
       "date": "15.11.2026 18:30",
       "matchCode": "4486569",
       "odds": 1.34,
-      "patternScore": 67.86,
-      "patternText": "236.137/347.956",
+      "patternScore": 67.87,
+      "patternText": "236.185/348.010",
       "aiScore": 53,
       "picks": 2
     },
@@ -381,7 +369,7 @@
       "matchCode": "4494917",
       "odds": 1.28,
       "patternScore": 67.88,
-      "patternText": "263.620/388.354",
+      "patternText": "263.692/388.440",
       "aiScore": 57,
       "picks": 1
     },
@@ -393,20 +381,32 @@
       "matchCode": "4492826",
       "odds": 1.28,
       "patternScore": 68.21,
-      "patternText": "183.944/269.677",
+      "patternText": "183.960/269.695",
       "aiScore": 60,
       "picks": 5
     },
     {
-      "home": "Cyprus",
-      "away": "Montenegro",
-      "league": "AVUL",
-      "date": "15.11.2026 14:00",
-      "matchCode": "4445221",
-      "odds": 1.25,
-      "patternScore": 69.74,
-      "patternText": "201.587/289.069",
-      "aiScore": 78,
+      "home": "CD Eldense",
+      "away": "CE Sabadell",
+      "league": "İS2",
+      "date": "15.11.2026 17:30",
+      "matchCode": "4492825",
+      "odds": 1.24,
+      "patternScore": 66.18,
+      "patternText": "382.447/577.850",
+      "aiScore": 61,
+      "picks": 2
+    },
+    {
+      "home": "Murcia",
+      "away": "AD Alcorcon",
+      "league": "İS3",
+      "date": "15.11.2026 17:45",
+      "matchCode": "4493639",
+      "odds": 1.23,
+      "patternScore": 68.11,
+      "patternText": "251.285/368.958",
+      "aiScore": 57,
       "picks": 2
     }
   ],
