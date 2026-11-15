@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 10:29",
+  "updatedAt": "15.11.2026 10:37",
   "config": {
     "pages": [
       "engine",
@@ -30,16 +30,16 @@
     "totalAnalyses": 612364,
     "leagues": 355,
     "pro": {
-      "won": 718,
-      "lost": 334,
-      "total": 1052,
-      "rate": 68.3
+      "won": 712,
+      "lost": 329,
+      "total": 1041,
+      "rate": 68.4
     },
     "insights": {
-      "won": 1174,
-      "lost": 505,
-      "total": 1679,
-      "rate": 69.9
+      "won": 1162,
+      "lost": 498,
+      "total": 1660,
+      "rate": 70.0
     },
     "coupons": {
       "won": 9,
@@ -47,8 +47,8 @@
       "total": 15,
       "rate": 60.0
     },
-    "analyses24h": 945,
-    "analyses30d": 17416
+    "analyses24h": 941,
+    "analyses30d": 17412
   },
   "recentWins": [
     {
@@ -116,7 +116,7 @@
       "odds": 1.8,
       "probability": 75.0,
       "patternScore": 64.73,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 1",
       "pro": true
@@ -325,15 +325,15 @@
     },
     {
       "type": "updated",
-      "at": "15.11.2026 10:26",
-      "home": "Naestved BK",
-      "away": "Fa 2000"
-    },
-    {
-      "type": "updated",
       "at": "15.11.2026 07:21",
       "home": "Zamora FC",
       "away": "Real Aviles"
+    },
+    {
+      "type": "updated",
+      "at": "15.11.2026 09:09",
+      "home": "Delfino Pescara",
+      "away": "SS Sambenedettese"
     }
   ],
   "today": {
@@ -386,6 +386,18 @@
       "picks": 1
     },
     {
+      "home": "AS Cittadella",
+      "away": "Folgore Carates",
+      "league": "İTC",
+      "date": "15.11.2026 16:30",
+      "matchCode": "4535190",
+      "odds": 1.29,
+      "patternScore": 67.1,
+      "patternText": "270.234/402.738",
+      "aiScore": 54,
+      "picks": 3
+    },
+    {
       "home": "Delfino Pescara",
       "away": "SS Sambenedettese",
       "league": "İTC",
@@ -396,18 +408,6 @@
       "patternText": "253.814/373.083",
       "aiScore": 58,
       "picks": 1
-    },
-    {
-      "home": "Barbastro",
-      "away": "Arnedo",
-      "league": "İS4",
-      "date": "15.11.2026 11:00",
-      "matchCode": "4563520",
-      "odds": 1.26,
-      "patternScore": 68.06,
-      "patternText": "254.017/373.213",
-      "aiScore": 56,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
