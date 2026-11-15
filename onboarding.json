@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 06:48",
+  "updatedAt": "15.11.2026 06:56",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 488,
       "rate": 67.2
     },
-    "totalAnalyses": 611998,
+    "totalAnalyses": 612001,
     "leagues": 355,
     "pro": {
       "won": 720,
@@ -47,8 +47,8 @@
       "total": 26,
       "rate": 57.7
     },
-    "analyses24h": 945,
-    "analyses30d": 17406
+    "analyses24h": 944,
+    "analyses30d": 17405
   },
   "recentWins": [
     {
@@ -370,20 +370,8 @@
       "odds": 1.28,
       "patternScore": 68.75,
       "patternText": "157.548/229.146",
-      "aiScore": 57,
+      "aiScore": 58,
       "picks": 1
-    },
-    {
-      "home": "Novara Calcio",
-      "away": "Calcio Lecco",
-      "league": "İTC",
-      "date": "15.11.2026 11:30",
-      "matchCode": "4535193",
-      "odds": 1.26,
-      "patternScore": 68.93,
-      "patternText": "316.131/458.656",
-      "aiScore": 57,
-      "picks": 4
     },
     {
       "home": "Barbastro",
@@ -407,6 +395,18 @@
       "patternScore": 68.16,
       "patternText": "248.012/363.853",
       "aiScore": 78,
+      "picks": 2
+    },
+    {
+      "home": "Lorca Deportiv",
+      "away": "Mallorca B",
+      "league": "İS4",
+      "date": "15.11.2026 10:30",
+      "matchCode": "4551942",
+      "odds": 1.23,
+      "patternScore": 68.63,
+      "patternText": "306.620/446.758",
+      "aiScore": 62,
       "picks": 2
     }
   ],
