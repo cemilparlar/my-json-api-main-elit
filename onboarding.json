@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 11:00",
+  "updatedAt": "15.11.2026 11:10",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 334,
+      "won": 326,
       "lost": 155,
-      "total": 489,
-      "rate": 68.3
+      "total": 481,
+      "rate": 67.8
     },
-    "totalAnalyses": 612389,
+    "totalAnalyses": 612421,
     "leagues": 355,
     "pro": {
-      "won": 712,
-      "lost": 328,
-      "total": 1040,
-      "rate": 68.5
+      "won": 690,
+      "lost": 321,
+      "total": 1011,
+      "rate": 68.2
     },
     "insights": {
-      "won": 1162,
-      "lost": 497,
-      "total": 1659,
-      "rate": 70.0
+      "won": 1121,
+      "lost": 488,
+      "total": 1609,
+      "rate": 69.7
     },
     "coupons": {
       "won": 9,
@@ -47,8 +47,8 @@
       "total": 15,
       "rate": 60.0
     },
-    "analyses24h": 943,
-    "analyses30d": 17421
+    "analyses24h": 953,
+    "analyses30d": 17431
   },
   "recentWins": [
     {
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Belarus",
+      "away": "Albania",
+      "league": "AVUL",
+      "at": "15.11.2026 11:06",
+      "count": 8
+    },
+    {
       "home": "Cyprus",
       "away": "Montenegro",
       "league": "AVUL",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "14.11.2026 19:01",
       "count": 3
-    },
-    {
-      "home": "Sweden",
-      "away": "Bosnia and Herzegovina",
-      "league": "AVUL",
-      "at": "14.11.2026 19:00",
-      "count": 6
     }
   ],
   "paywall": {
