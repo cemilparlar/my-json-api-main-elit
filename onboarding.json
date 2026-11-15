@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 03:28",
+  "updatedAt": "15.11.2026 03:36",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 478,
       "rate": 66.7
     },
-    "totalAnalyses": 611812,
+    "totalAnalyses": 611814,
     "leagues": 355,
     "pro": {
       "won": 740,
@@ -47,8 +47,8 @@
       "total": 28,
       "rate": 60.7
     },
-    "analyses24h": 963,
-    "analyses30d": 17399
+    "analyses24h": 965,
+    "analyses30d": 17401
   },
   "recentWins": [
     {
@@ -337,42 +337,18 @@
     }
   ],
   "today": {
-    "home": "Consadole Sapporo",
-    "away": "Sagan Tosu",
-    "league": "JAP2",
-    "date": "15.11.2026 04:00",
-    "matchCode": "4487667",
-    "odds": 1.21,
-    "patternScore": 68.67,
-    "patternText": "236.913/344.998",
-    "aiScore": 66,
-    "picks": 3
+    "home": "Zweigen Kanaza",
+    "away": "Roasso Kumamoto",
+    "league": "JAP3",
+    "date": "15.11.2026 05:00",
+    "matchCode": "4488050",
+    "odds": 1.14,
+    "patternScore": 70.17,
+    "patternText": "297.265/423.647",
+    "aiScore": 91,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Consadole Sapporo",
-      "away": "Sagan Tosu",
-      "league": "JAP2",
-      "date": "15.11.2026 04:00",
-      "matchCode": "4487667",
-      "odds": 1.21,
-      "patternScore": 68.67,
-      "patternText": "236.913/344.998",
-      "aiScore": 66,
-      "picks": 3
-    },
-    {
-      "home": "Vanraure Hachinohe",
-      "away": "Iwaki FC",
-      "league": "JAP2",
-      "date": "15.11.2026 04:00",
-      "matchCode": "4487668",
-      "odds": 1.21,
-      "patternScore": 68.08,
-      "patternText": "230.238/338.197",
-      "aiScore": 64,
-      "picks": 5
-    },
     {
       "home": "Zweigen Kanaza",
       "away": "Roasso Kumamoto",
@@ -407,6 +383,30 @@
       "patternScore": 70.4,
       "patternText": "302.604/429.850",
       "aiScore": 94,
+      "picks": 2
+    },
+    {
+      "home": "FC Imabari",
+      "away": "Jubilo Iwata",
+      "league": "JAP2",
+      "date": "15.11.2026 05:00",
+      "matchCode": "4487675",
+      "odds": 1.1,
+      "patternScore": 71.47,
+      "patternText": "204.352/285.921",
+      "aiScore": 97,
+      "picks": 2
+    },
+    {
+      "home": "Kataller Toyama",
+      "away": "Tokushima Vortis",
+      "league": "JAP2",
+      "date": "15.11.2026 05:00",
+      "matchCode": "4487673",
+      "odds": 1.1,
+      "patternScore": 71.57,
+      "patternText": "200.092/279.584",
+      "aiScore": 97,
       "picks": 2
     }
   ],
