@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 09:24",
+  "updatedAt": "15.11.2026 09:32",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 338,
+      "won": 340,
       "lost": 161,
-      "total": 499,
-      "rate": 67.7
+      "total": 501,
+      "rate": 67.9
     },
-    "totalAnalyses": 612281,
+    "totalAnalyses": 612284,
     "leagues": 355,
     "pro": {
       "won": 720,
@@ -36,9 +36,9 @@
       "rate": 68.2
     },
     "insights": {
-      "won": 1180,
-      "lost": 508,
-      "total": 1688,
+      "won": 1179,
+      "lost": 507,
+      "total": 1686,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 16,
       "rate": 56.2
     },
-    "analyses24h": 957,
-    "analyses30d": 17418
+    "analyses24h": 959,
+    "analyses30d": 17420
   },
   "recentWins": [
     {
@@ -374,6 +374,18 @@
       "picks": 2
     },
     {
+      "home": "Sevilla Women",
+      "away": "Atletico Madrid Women",
+      "league": "İSKPR",
+      "date": "15.11.2026 15:00",
+      "matchCode": "4528021",
+      "odds": 1.41,
+      "patternScore": 67.52,
+      "patternText": "272.551/403.637",
+      "aiScore": 55,
+      "picks": 1
+    },
+    {
       "home": "Gks Tychy",
       "away": "Rekord Bielsko",
       "league": "POL2",
@@ -396,21 +408,16 @@
       "patternText": "253.796/373.065",
       "aiScore": 58,
       "picks": 1
-    },
-    {
-      "home": "Barbastro",
-      "away": "Arnedo",
-      "league": "İS4",
-      "date": "15.11.2026 11:00",
-      "matchCode": "4563520",
-      "odds": 1.26,
-      "patternScore": 68.06,
-      "patternText": "253.991/373.187",
-      "aiScore": 56,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Granada CF",
+      "away": "UD Las Palmas",
+      "league": "İS2",
+      "at": "15.11.2026 09:25",
+      "count": 9
+    },
     {
       "home": "Latvia",
       "away": "Armenia",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "14.11.2026 19:00",
       "count": 4
-    },
-    {
-      "home": "Portugal",
-      "away": "Denmark",
-      "league": "AVUL",
-      "at": "14.11.2026 18:28",
-      "count": 7
     }
   ],
   "paywall": {
