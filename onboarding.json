@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 11:42",
+  "updatedAt": "15.11.2026 11:50",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 15,
       "rate": 60.0
     },
-    "analyses24h": 956,
-    "analyses30d": 17436
+    "analyses24h": 951,
+    "analyses30d": 17431
   },
   "recentWins": [
     {
@@ -374,18 +374,6 @@
       "picks": 1
     },
     {
-      "home": "CD Eldense",
-      "away": "CE Sabadell",
-      "league": "İS2",
-      "date": "15.11.2026 17:30",
-      "matchCode": "4492825",
-      "odds": 1.29,
-      "patternScore": 69.05,
-      "patternText": "188.260/272.642",
-      "aiScore": 60,
-      "picks": 2
-    },
-    {
       "home": "FC Spaeri",
       "away": "Fc Iberia",
       "league": "GUR",
@@ -408,6 +396,18 @@
       "patternText": "263.542/388.228",
       "aiScore": 57,
       "picks": 1
+    },
+    {
+      "home": "Granada CF",
+      "away": "UD Las Palmas",
+      "league": "İS2",
+      "date": "15.11.2026 15:15",
+      "matchCode": "4492826",
+      "odds": 1.28,
+      "patternScore": 67.92,
+      "patternText": "289.521/426.257",
+      "aiScore": 55,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
