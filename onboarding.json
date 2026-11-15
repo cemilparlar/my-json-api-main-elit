@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 14:13",
+  "updatedAt": "15.11.2026 14:21",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 299,
-      "lost": 134,
-      "total": 433,
+      "won": 297,
+      "lost": 133,
+      "total": 430,
       "rate": 69.1
     },
-    "totalAnalyses": 612928,
+    "totalAnalyses": 612944,
     "leagues": 355,
     "pro": {
       "won": 608,
@@ -47,8 +47,8 @@
       "total": 6,
       "rate": 83.3
     },
-    "analyses24h": 861,
-    "analyses30d": 17384
+    "analyses24h": 855,
+    "analyses30d": 17381
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 3.03,
       "probability": 75.0,
       "patternScore": 64.66,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "0 - 1",
       "finalScore": "3 - 3",
       "pro": true
@@ -102,7 +102,7 @@
       "odds": 1.85,
       "probability": 100.0,
       "patternScore": 58.51,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "2 - 1",
       "finalScore": "3 - 1",
       "pro": true
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Eibar",
-    "away": "Cadiz CF",
-    "league": "İS2",
-    "date": "15.11.2026 17:30",
-    "matchCode": "4492824",
-    "odds": 1.36,
-    "patternScore": 66.9,
-    "patternText": "290.717/434.586",
-    "aiScore": 56,
-    "picks": 3
+    "home": "Stal Stalowa Wola",
+    "away": "Olimpia Grudziadz",
+    "league": "POL2",
+    "date": "15.11.2026 18:30",
+    "matchCode": "4486569",
+    "odds": 1.34,
+    "patternScore": 67.87,
+    "patternText": "236.217/348.048",
+    "aiScore": 53,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Eibar",
-      "away": "Cadiz CF",
-      "league": "İS2",
-      "date": "15.11.2026 17:30",
-      "matchCode": "4492824",
-      "odds": 1.36,
-      "patternScore": 66.9,
-      "patternText": "290.717/434.586",
-      "aiScore": 56,
-      "picks": 3
-    },
     {
       "home": "Stal Stalowa Wola",
       "away": "Olimpia Grudziadz",
@@ -369,7 +357,7 @@
       "matchCode": "4486569",
       "odds": 1.34,
       "patternScore": 67.87,
-      "patternText": "236.197/348.028",
+      "patternText": "236.217/348.048",
       "aiScore": 53,
       "picks": 2
     },
@@ -380,9 +368,9 @@
       "date": "15.11.2026 17:00",
       "matchCode": "4494917",
       "odds": 1.28,
-      "patternScore": 67.88,
-      "patternText": "263.704/388.458",
-      "aiScore": 57,
+      "patternScore": 67.89,
+      "patternText": "263.724/388.478",
+      "aiScore": 58,
       "picks": 1
     },
     {
@@ -393,7 +381,7 @@
       "matchCode": "4492826",
       "odds": 1.28,
       "patternScore": 68.21,
-      "patternText": "183.964/269.701",
+      "patternText": "183.968/269.705",
       "aiScore": 60,
       "picks": 5
     },
@@ -404,9 +392,21 @@
       "date": "15.11.2026 17:30",
       "matchCode": "4492825",
       "odds": 1.24,
-      "patternScore": 66.18,
-      "patternText": "382.467/577.884",
+      "patternScore": 66.19,
+      "patternText": "382.499/577.916",
       "aiScore": 61,
+      "picks": 2
+    },
+    {
+      "home": "AS Cittadella",
+      "away": "Folgore Carates",
+      "league": "İTC",
+      "date": "15.11.2026 16:30",
+      "matchCode": "4535190",
+      "odds": 1.23,
+      "patternScore": 67.62,
+      "patternText": "290.662/429.838",
+      "aiScore": 63,
       "picks": 2
     }
   ],
