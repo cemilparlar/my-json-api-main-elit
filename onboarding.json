@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 11:26",
+  "updatedAt": "15.11.2026 11:34",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 326,
-      "lost": 155,
+      "won": 327,
+      "lost": 154,
       "total": 481,
-      "rate": 67.8
+      "rate": 68.0
     },
     "totalAnalyses": 612469,
     "leagues": 355,
     "pro": {
-      "won": 687,
-      "lost": 320,
-      "total": 1007,
-      "rate": 68.2
+      "won": 684,
+      "lost": 318,
+      "total": 1002,
+      "rate": 68.3
     },
     "insights": {
-      "won": 1115,
-      "lost": 484,
-      "total": 1599,
+      "won": 1106,
+      "lost": 480,
+      "total": 1586,
       "rate": 69.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 15,
       "rate": 60.0
     },
-    "analyses24h": 951,
-    "analyses30d": 17429
+    "analyses24h": 947,
+    "analyses30d": 17427
   },
   "recentWins": [
     {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "15.11.2026 05:29",
-      "home": "Slovan Bratisl",
-      "away": "Malzenice"
-    },
-    {
-      "type": "updated",
       "at": "15.11.2026 06:26",
       "home": "Amarante Fc",
       "away": "Felgueiras 1932"
@@ -310,6 +304,12 @@
       "at": "15.11.2026 06:48",
       "home": "Novara Calcio",
       "away": "Calcio Lecco"
+    },
+    {
+      "type": "updated",
+      "at": "15.11.2026 11:23",
+      "home": "CD Tenerife",
+      "away": "AD Ceuta"
     },
     {
       "type": "updated",
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Siofok",
-    "away": "Kaposvar",
-    "league": "MAC3",
-    "date": "15.11.2026 12:00",
-    "matchCode": "4505322",
-    "odds": 1.45,
-    "patternScore": 68.01,
-    "patternText": "258.767/380.489",
-    "aiScore": 53,
-    "picks": 2
+    "home": "Sevilla Women",
+    "away": "Atletico Madrid Women",
+    "league": "İSKPR",
+    "date": "15.11.2026 15:00",
+    "matchCode": "4528021",
+    "odds": 1.41,
+    "patternScore": 67.53,
+    "patternText": "272.569/403.655",
+    "aiScore": 55,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Siofok",
-      "away": "Kaposvar",
-      "league": "MAC3",
-      "date": "15.11.2026 12:00",
-      "matchCode": "4505322",
-      "odds": 1.45,
-      "patternScore": 68.01,
-      "patternText": "258.767/380.489",
-      "aiScore": 53,
-      "picks": 2
-    },
     {
       "home": "Sevilla Women",
       "away": "Atletico Madrid Women",
@@ -384,6 +372,18 @@
       "patternText": "270.234/397.188",
       "aiScore": 53,
       "picks": 1
+    },
+    {
+      "home": "CD Eldense",
+      "away": "CE Sabadell",
+      "league": "İS2",
+      "date": "15.11.2026 17:30",
+      "matchCode": "4492825",
+      "odds": 1.29,
+      "patternScore": 69.05,
+      "patternText": "188.248/272.630",
+      "aiScore": 60,
+      "picks": 2
     },
     {
       "home": "FC Spaeri",
