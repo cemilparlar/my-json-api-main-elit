@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 10:45",
+  "updatedAt": "15.11.2026 10:53",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 489,
       "rate": 68.3
     },
-    "totalAnalyses": 612367,
+    "totalAnalyses": 612389,
     "leagues": 355,
     "pro": {
       "won": 712,
-      "lost": 329,
-      "total": 1041,
-      "rate": 68.4
+      "lost": 328,
+      "total": 1040,
+      "rate": 68.5
     },
     "insights": {
       "won": 1162,
-      "lost": 498,
-      "total": 1660,
+      "lost": 497,
+      "total": 1659,
       "rate": 70.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 15,
       "rate": 60.0
     },
-    "analyses24h": 941,
-    "analyses30d": 17412
+    "analyses24h": 961,
+    "analyses30d": 17432
   },
   "recentWins": [
     {
@@ -412,11 +412,18 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Cyprus",
+      "away": "Montenegro",
+      "league": "AVUL",
+      "at": "15.11.2026 10:49",
+      "count": 8
+    },
+    {
       "home": "Latvia",
       "away": "Armenia",
       "league": "AVUL",
-      "at": "15.11.2026 10:28",
-      "count": 5
+      "at": "15.11.2026 10:48",
+      "count": 6
     },
     {
       "home": "Granada CF",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "14.11.2026 19:00",
       "count": 6
-    },
-    {
-      "home": "Northern Ireland",
-      "away": "Ukraine",
-      "league": "AVUL",
-      "at": "14.11.2026 19:00",
-      "count": 4
     }
   ],
   "paywall": {
