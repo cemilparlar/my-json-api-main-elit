@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 02:21",
+  "updatedAt": "15.11.2026 02:29",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 472,
       "rate": 66.9
     },
-    "totalAnalyses": 611793,
+    "totalAnalyses": 611799,
     "leagues": 355,
     "pro": {
       "won": 741,
@@ -374,18 +374,6 @@
       "picks": 2
     },
     {
-      "home": "FC Ryukyu",
-      "away": "Kochi United",
-      "league": "JAP3",
-      "date": "15.11.2026 07:00",
-      "matchCode": "4488056",
-      "odds": 1.27,
-      "patternScore": 67.87,
-      "patternText": "224.391/330.623",
-      "aiScore": 59,
-      "picks": 1
-    },
-    {
       "home": "Vanraure Hachinohe",
       "away": "Iwaki FC",
       "league": "JAP2",
@@ -408,6 +396,18 @@
       "patternText": "240.369/349.236",
       "aiScore": 67,
       "picks": 5
+    },
+    {
+      "home": "Zweigen Kanaza",
+      "away": "Roasso Kumamoto",
+      "league": "JAP3",
+      "date": "15.11.2026 05:00",
+      "matchCode": "4488050",
+      "odds": 1.14,
+      "patternScore": 70.17,
+      "patternText": "297.255/423.631",
+      "aiScore": 91,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
