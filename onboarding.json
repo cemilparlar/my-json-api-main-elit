@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 05:28",
+  "updatedAt": "15.11.2026 05:36",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 459,
       "rate": 67.1
     },
-    "totalAnalyses": 611889,
+    "totalAnalyses": 611902,
     "leagues": 355,
     "pro": {
       "won": 714,
@@ -36,9 +36,9 @@
       "rate": 67.4
     },
     "insights": {
-      "won": 1193,
+      "won": 1192,
       "lost": 520,
-      "total": 1713,
+      "total": 1712,
       "rate": 69.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 26,
       "rate": 57.7
     },
-    "analyses24h": 943,
-    "analyses30d": 17402
+    "analyses24h": 945,
+    "analyses30d": 17404
   },
   "recentWins": [
     {
@@ -313,6 +313,12 @@
     },
     {
       "type": "updated",
+      "at": "15.11.2026 05:29",
+      "home": "Slovan Bratisl",
+      "away": "Malzenice"
+    },
+    {
+      "type": "updated",
       "at": "15.11.2026 05:12",
       "home": "Amarante Fc",
       "away": "Felgueiras 1932"
@@ -328,12 +334,6 @@
       "at": "15.11.2026 05:17",
       "home": "Atletico Madrid B",
       "away": "CD Teruel"
-    },
-    {
-      "type": "updated",
-      "at": "15.11.2026 05:15",
-      "home": "Extremadura 19",
-      "away": "Pontevedra CF"
     }
   ],
   "today": {
@@ -360,6 +360,18 @@
       "patternText": "157.522/229.116",
       "aiScore": 58,
       "picks": 1
+    },
+    {
+      "home": "Novara Calcio",
+      "away": "Calcio Lecco",
+      "league": "İTC",
+      "date": "15.11.2026 11:30",
+      "matchCode": "4535193",
+      "odds": 1.26,
+      "patternScore": 68.92,
+      "patternText": "316.053/458.560",
+      "aiScore": 57,
+      "picks": 4
     },
     {
       "home": "Barbastro",
@@ -396,18 +408,6 @@
       "patternText": "306.538/446.646",
       "aiScore": 62,
       "picks": 2
-    },
-    {
-      "home": "CD Puente Genil",
-      "away": "Atletico Centra",
-      "league": "İS4",
-      "date": "15.11.2026 11:00",
-      "matchCode": "4494909",
-      "odds": 1.15,
-      "patternScore": 70.06,
-      "patternText": "323.879/462.318",
-      "aiScore": 72,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
