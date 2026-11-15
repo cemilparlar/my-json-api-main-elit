@@ -1047,7 +1047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "15.11.2026 16:30",
@@ -1137,7 +1137,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "15.11.2026 16:30",
@@ -2007,7 +2007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "14.11.2026 14:00",
@@ -3207,7 +3207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "14.11.2026 01:00",
@@ -3687,7 +3687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "14.11.2026 11:00",
@@ -3987,7 +3987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "14.11.2026 13:30",
@@ -4077,7 +4077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "14.11.2026 14:00",
@@ -4407,7 +4407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "14.11.2026 14:00",
@@ -5607,7 +5607,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "14.11.2026 15:00",
@@ -6117,7 +6117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "14.11.2026 15:00",
@@ -6627,7 +6627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "14.11.2026 15:00",
@@ -7407,7 +7407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 82
     },
     {
         "date": "14.11.2026 17:30",
@@ -8157,7 +8157,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "14.11.2026 14:00",
@@ -12600,36 +12600,6 @@
         "aiScore": 82
     },
     {
-        "date": "15.11.2026 09:30",
-        "league": "SLVK2",
-        "matchCode": "4485520",
-        "home": "Slovan Bratisl",
-        "away": "Malzenice",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "75.63",
-        "odds": "1.09",
-        "matchCount": "119",
-        "matchLink": "4485520",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "16/135",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "15.11.2026 05:29",
-        "patternScore": 70.8,
-        "patternText": "316.218/446.612",
-        "patternInfo": {
-            "m": 66,
-            "s": 2,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 82
-    },
-    {
         "date": "15.11.2026 05:00",
         "league": "JAP2",
         "matchCode": "4487675",
@@ -13258,5 +13228,95 @@
             "b": 100.0
         },
         "aiScore": 58
+    },
+    {
+        "date": "15.11.2026 09:30",
+        "league": "SLVK2",
+        "matchCode": "4485520",
+        "home": "Slovan Bratisl",
+        "away": "Malzenice",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "82.96",
+        "odds": "1.10",
+        "matchCount": "135",
+        "matchLink": "4485520",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "16/135",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:29",
+        "patternScore": 71.33,
+        "patternText": "192.368/269.671",
+        "patternInfo": {
+            "m": 52,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 90
+    },
+    {
+        "date": "15.11.2026 09:30",
+        "league": "SLVK2",
+        "matchCode": "4485520",
+        "home": "Slovan Bratisl",
+        "away": "Malzenice",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "80.0",
+        "odds": "1.08",
+        "matchCount": "135",
+        "matchLink": "4485520",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "16/135",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:29",
+        "patternScore": 70.74,
+        "patternText": "160.597/227.027",
+        "patternInfo": {
+            "m": 50,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 89
+    },
+    {
+        "date": "15.11.2026 11:15",
+        "league": "İS4",
+        "matchCode": "4493992",
+        "home": "CD Basconia",
+        "away": "Deportivo Alaves",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "70.32",
+        "odds": "1.16",
+        "matchCount": "155",
+        "matchLink": "4493992",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "21/155",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "15.11.2026 05:30",
+        "patternScore": 69.29,
+        "patternText": "265.573/383.257",
+        "patternInfo": {
+            "m": 74,
+            "s": 4,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 65
     }
 ]
