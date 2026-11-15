@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 11:34",
+  "updatedAt": "15.11.2026 11:42",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 481,
       "rate": 68.0
     },
-    "totalAnalyses": 612469,
+    "totalAnalyses": 612489,
     "leagues": 355,
     "pro": {
       "won": 684,
@@ -47,8 +47,8 @@
       "total": 15,
       "rate": 60.0
     },
-    "analyses24h": 947,
-    "analyses30d": 17427
+    "analyses24h": 956,
+    "analyses30d": 17436
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4528021",
     "odds": 1.41,
     "patternScore": 67.53,
-    "patternText": "272.569/403.655",
+    "patternText": "272.573/403.659",
     "aiScore": 55,
     "picks": 1
   },
@@ -357,7 +357,7 @@
       "matchCode": "4528021",
       "odds": 1.41,
       "patternScore": 67.53,
-      "patternText": "272.569/403.655",
+      "patternText": "272.573/403.659",
       "aiScore": 55,
       "picks": 1
     },
@@ -369,7 +369,7 @@
       "matchCode": "4486568",
       "odds": 1.34,
       "patternScore": 68.04,
-      "patternText": "270.234/397.188",
+      "patternText": "270.238/397.192",
       "aiScore": 53,
       "picks": 1
     },
@@ -381,7 +381,7 @@
       "matchCode": "4492825",
       "odds": 1.29,
       "patternScore": 69.05,
-      "patternText": "188.248/272.630",
+      "patternText": "188.260/272.642",
       "aiScore": 60,
       "picks": 2
     },
@@ -393,7 +393,7 @@
       "matchCode": "4435483",
       "odds": 1.29,
       "patternScore": 68.06,
-      "patternText": "269.558/396.086",
+      "patternText": "269.562/396.090",
       "aiScore": 57,
       "picks": 2
     },
@@ -405,12 +405,26 @@
       "matchCode": "4494917",
       "odds": 1.28,
       "patternScore": 67.88,
-      "patternText": "263.538/388.224",
+      "patternText": "263.542/388.228",
       "aiScore": 57,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "CD Eldense",
+      "away": "CE Sabadell",
+      "league": "İS2",
+      "at": "15.11.2026 11:39",
+      "count": 10
+    },
+    {
+      "home": "Eibar",
+      "away": "Cadiz CF",
+      "league": "İS2",
+      "at": "15.11.2026 11:39",
+      "count": 5
+    },
     {
       "home": "CD Tenerife",
       "away": "AD Ceuta",
@@ -466,20 +480,6 @@
       "league": "CON",
       "at": "14.11.2026 19:21",
       "count": 13
-    },
-    {
-      "home": "Romania",
-      "away": "Poland",
-      "league": "AVUL",
-      "at": "14.11.2026 19:01",
-      "count": 7
-    },
-    {
-      "home": "Austria",
-      "away": "Ireland",
-      "league": "AVUL",
-      "at": "14.11.2026 19:01",
-      "count": 3
     }
   ],
   "paywall": {
