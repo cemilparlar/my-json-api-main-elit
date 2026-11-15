@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 07:04",
+  "updatedAt": "15.11.2026 07:11",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 498,
       "rate": 67.5
     },
-    "totalAnalyses": 612032,
+    "totalAnalyses": 612035,
     "leagues": 355,
     "pro": {
       "won": 727,
@@ -47,8 +47,8 @@
       "total": 26,
       "rate": 57.7
     },
-    "analyses24h": 950,
-    "analyses30d": 17411
+    "analyses24h": 947,
+    "analyses30d": 17408
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4552976",
     "odds": 1.47,
     "patternScore": 68.14,
-    "patternText": "234.720/344.454",
+    "patternText": "234.764/344.510",
     "aiScore": 52,
     "picks": 2
   },
@@ -357,9 +357,21 @@
       "matchCode": "4552976",
       "odds": 1.47,
       "patternScore": 68.14,
-      "patternText": "234.720/344.454",
+      "patternText": "234.764/344.510",
       "aiScore": 52,
       "picks": 2
+    },
+    {
+      "home": "CD Tenerife",
+      "away": "AD Ceuta",
+      "league": "İS2",
+      "date": "15.11.2026 13:00",
+      "matchCode": "4492831",
+      "odds": 1.39,
+      "patternScore": 68.11,
+      "patternText": "280.275/411.509",
+      "aiScore": 55,
+      "picks": 3
     },
     {
       "home": "Atletico Madrid B",
@@ -368,9 +380,9 @@
       "date": "15.11.2026 11:00",
       "matchCode": "4493632",
       "odds": 1.28,
-      "patternScore": 68.75,
-      "patternText": "157.548/229.146",
-      "aiScore": 57,
+      "patternScore": 68.76,
+      "patternText": "157.568/229.170",
+      "aiScore": 58,
       "picks": 1
     },
     {
@@ -381,7 +393,7 @@
       "matchCode": "4563520",
       "odds": 1.26,
       "patternScore": 68.06,
-      "patternText": "253.921/373.097",
+      "patternText": "253.965/373.161",
       "aiScore": 56,
       "picks": 2
     },
@@ -393,20 +405,8 @@
       "matchCode": "4551939",
       "odds": 1.23,
       "patternScore": 68.16,
-      "patternText": "248.012/363.853",
+      "patternText": "248.056/363.909",
       "aiScore": 78,
-      "picks": 2
-    },
-    {
-      "home": "Lorca Deportiv",
-      "away": "Mallorca B",
-      "league": "İS4",
-      "date": "15.11.2026 10:30",
-      "matchCode": "4551942",
-      "odds": 1.23,
-      "patternScore": 68.63,
-      "patternText": "306.620/446.758",
-      "aiScore": 62,
       "picks": 2
     }
   ],
