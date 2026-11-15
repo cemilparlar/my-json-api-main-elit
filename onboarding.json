@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 12:47",
+  "updatedAt": "15.11.2026 12:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 463,
       "rate": 68.9
     },
-    "totalAnalyses": 612611,
+    "totalAnalyses": 612706,
     "leagues": 355,
     "pro": {
       "won": 668,
@@ -47,8 +47,8 @@
       "total": 13,
       "rate": 61.5
     },
-    "analyses24h": 938,
-    "analyses30d": 17409
+    "analyses24h": 934,
+    "analyses30d": 17405
   },
   "recentWins": [
     {
@@ -295,12 +295,6 @@
     },
     {
       "type": "updated",
-      "at": "15.11.2026 06:48",
-      "home": "Novara Calcio",
-      "away": "Calcio Lecco"
-    },
-    {
-      "type": "updated",
       "at": "15.11.2026 12:16",
       "home": "CD Tenerife",
       "away": "AD Ceuta"
@@ -334,6 +328,12 @@
       "at": "15.11.2026 12:00",
       "home": "Salernitana",
       "away": "Catania FC"
+    },
+    {
+      "type": "updated",
+      "at": "15.11.2026 11:23",
+      "home": "Granada CF",
+      "away": "UD Las Palmas"
     }
   ],
   "today": {
@@ -360,6 +360,18 @@
       "patternText": "270.246/397.200",
       "aiScore": 53,
       "picks": 1
+    },
+    {
+      "home": "Stal Stalowa Wola",
+      "away": "Olimpia Grudziadz",
+      "league": "POL2",
+      "date": "15.11.2026 18:30",
+      "matchCode": "4486569",
+      "odds": 1.34,
+      "patternScore": 67.87,
+      "patternText": "236.079/347.858",
+      "aiScore": 53,
+      "picks": 2
     },
     {
       "home": "Xerez",
@@ -396,18 +408,6 @@
       "patternText": "253.826/373.095",
       "aiScore": 58,
       "picks": 1
-    },
-    {
-      "home": "Cyprus",
-      "away": "Montenegro",
-      "league": "AVUL",
-      "date": "15.11.2026 14:00",
-      "matchCode": "4445221",
-      "odds": 1.25,
-      "patternScore": 69.74,
-      "patternText": "201.549/288.983",
-      "aiScore": 78,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
