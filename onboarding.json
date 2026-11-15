@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 00:57",
+  "updatedAt": "15.11.2026 01:07",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 313,
+      "won": 311,
       "lost": 155,
-      "total": 468,
-      "rate": 66.9
+      "total": 466,
+      "rate": 66.7
     },
     "totalAnalyses": 611765,
     "leagues": 355,
     "pro": {
-      "won": 742,
+      "won": 740,
       "lost": 352,
-      "total": 1094,
+      "total": 1092,
       "rate": 67.8
     },
     "insights": {
-      "won": 1225,
+      "won": 1223,
       "lost": 531,
-      "total": 1756,
-      "rate": 69.8
+      "total": 1754,
+      "rate": 69.7
     },
     "coupons": {
       "won": 18,
@@ -47,8 +47,8 @@
       "total": 30,
       "rate": 60.0
     },
-    "analyses24h": 972,
-    "analyses30d": 17452
+    "analyses24h": 970,
+    "analyses30d": 17448
   },
   "recentWins": [
     {
@@ -289,39 +289,9 @@
     },
     {
       "type": "updated",
-      "at": "14.11.2026 19:01",
-      "home": "Romania",
-      "away": "Poland"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 19:00",
-      "home": "Northern Ireland",
-      "away": "Ukraine"
-    },
-    {
-      "type": "updated",
       "at": "14.11.2026 19:40",
       "home": "Los Millionarios",
       "away": "Alianza Petroleum"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 19:00",
-      "home": "Atletico Goian",
-      "away": "Cuiaba"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 18:59",
-      "home": "Criciuma",
-      "away": "Novorizontino"
-    },
-    {
-      "type": "updated",
-      "at": "14.11.2026 18:59",
-      "home": "Juventude",
-      "away": "Botafogo Ribeir"
     },
     {
       "type": "updated",
@@ -334,6 +304,36 @@
       "at": "14.11.2026 22:17",
       "home": "Vanraure Hachinohe",
       "away": "Iwaki FC"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 22:18",
+      "home": "Consadole Sapporo",
+      "away": "Sagan Tosu"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 23:13",
+      "home": "FC Imabari",
+      "away": "Jubilo Iwata"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 23:14",
+      "home": "Kataller Toyama",
+      "away": "Tokushima Vortis"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 22:53",
+      "home": "Chapecoense AF",
+      "away": "Club de Regatas Vasco da Gama"
+    },
+    {
+      "type": "updated",
+      "at": "14.11.2026 23:13",
+      "home": "Zweigen Kanaza",
+      "away": "Roasso Kumamoto"
     }
   ],
   "today": {
@@ -374,6 +374,18 @@
       "picks": 2
     },
     {
+      "home": "FC Ryukyu",
+      "away": "Kochi United",
+      "league": "JAP3",
+      "date": "15.11.2026 07:00",
+      "matchCode": "4488056",
+      "odds": 1.27,
+      "patternScore": 67.87,
+      "patternText": "224.351/330.577",
+      "aiScore": 60,
+      "picks": 1
+    },
+    {
       "home": "Vanraure Hachinohe",
       "away": "Iwaki FC",
       "league": "JAP2",
@@ -396,18 +408,6 @@
       "patternText": "234.584/340.625",
       "aiScore": 93,
       "picks": 4
-    },
-    {
-      "home": "Zweigen Kanaza",
-      "away": "Roasso Kumamoto",
-      "league": "JAP3",
-      "date": "15.11.2026 05:00",
-      "matchCode": "4488050",
-      "odds": 1.14,
-      "patternScore": 70.17,
-      "patternText": "297.203/423.573",
-      "aiScore": 91,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
