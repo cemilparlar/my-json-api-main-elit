@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 13:42",
+  "updatedAt": "15.11.2026 13:49",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 459,
       "rate": 68.4
     },
-    "totalAnalyses": 612835,
+    "totalAnalyses": 612866,
     "leagues": 355,
     "pro": {
-      "won": 635,
-      "lost": 296,
-      "total": 931,
+      "won": 632,
+      "lost": 295,
+      "total": 927,
       "rate": 68.2
     },
     "insights": {
-      "won": 997,
-      "lost": 436,
-      "total": 1433,
-      "rate": 69.6
+      "won": 993,
+      "lost": 435,
+      "total": 1428,
+      "rate": 69.5
     },
     "coupons": {
       "won": 5,
@@ -47,8 +47,8 @@
       "total": 6,
       "rate": 83.3
     },
-    "analyses24h": 894,
-    "analyses30d": 17400
+    "analyses24h": 884,
+    "analyses30d": 17390
   },
   "recentWins": [
     {
@@ -307,12 +307,6 @@
     },
     {
       "type": "updated",
-      "at": "15.11.2026 07:44",
-      "home": "Cavese 1919",
-      "away": "Crotone"
-    },
-    {
-      "type": "updated",
       "at": "15.11.2026 12:01",
       "home": "MVV Maastricht",
       "away": "Vitesse Arnhem"
@@ -334,21 +328,51 @@
       "at": "15.11.2026 09:49",
       "home": "UD Logrones",
       "away": "Arenas De Getxo"
+    },
+    {
+      "type": "updated",
+      "at": "15.11.2026 09:50",
+      "home": "Algeciras CF",
+      "away": "CD Antequera"
     }
   ],
   "today": {
-    "home": "Stal Stalowa Wola",
-    "away": "Olimpia Grudziadz",
-    "league": "POL2",
-    "date": "15.11.2026 18:30",
-    "matchCode": "4486569",
-    "odds": 1.34,
-    "patternScore": 67.87,
-    "patternText": "236.185/348.010",
-    "aiScore": 53,
-    "picks": 2
+    "home": "Belgium",
+    "away": "Italy",
+    "league": "AVUL",
+    "date": "15.11.2026 19:45",
+    "matchCode": "4444927",
+    "odds": 1.88,
+    "patternScore": 67.35,
+    "patternText": "247.425/367.383",
+    "aiScore": 51,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Belgium",
+      "away": "Italy",
+      "league": "AVUL",
+      "date": "15.11.2026 19:45",
+      "matchCode": "4444927",
+      "odds": 1.88,
+      "patternScore": 67.35,
+      "patternText": "247.425/367.383",
+      "aiScore": 51,
+      "picks": 3
+    },
+    {
+      "home": "Spain",
+      "away": "England",
+      "league": "AVUL",
+      "date": "15.11.2026 19:45",
+      "matchCode": "4445143",
+      "odds": 1.44,
+      "patternScore": 67.03,
+      "patternText": "265.026/395.395",
+      "aiScore": 54,
+      "picks": 3
+    },
     {
       "home": "Stal Stalowa Wola",
       "away": "Olimpia Grudziadz",
@@ -357,7 +381,7 @@
       "matchCode": "4486569",
       "odds": 1.34,
       "patternScore": 67.87,
-      "patternText": "236.185/348.010",
+      "patternText": "236.191/348.022",
       "aiScore": 53,
       "picks": 2
     },
@@ -369,7 +393,7 @@
       "matchCode": "4494917",
       "odds": 1.28,
       "patternScore": 67.88,
-      "patternText": "263.692/388.440",
+      "patternText": "263.698/388.452",
       "aiScore": 57,
       "picks": 1
     },
@@ -381,36 +405,40 @@
       "matchCode": "4492826",
       "odds": 1.28,
       "patternScore": 68.21,
-      "patternText": "183.960/269.695",
+      "patternText": "183.962/269.699",
       "aiScore": 60,
       "picks": 5
-    },
-    {
-      "home": "CD Eldense",
-      "away": "CE Sabadell",
-      "league": "İS2",
-      "date": "15.11.2026 17:30",
-      "matchCode": "4492825",
-      "odds": 1.24,
-      "patternScore": 66.18,
-      "patternText": "382.447/577.850",
-      "aiScore": 61,
-      "picks": 2
-    },
-    {
-      "home": "Murcia",
-      "away": "AD Alcorcon",
-      "league": "İS3",
-      "date": "15.11.2026 17:45",
-      "matchCode": "4493639",
-      "odds": 1.23,
-      "patternScore": 68.11,
-      "patternText": "251.285/368.958",
-      "aiScore": 57,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Belgium",
+      "away": "Italy",
+      "league": "AVUL",
+      "at": "15.11.2026 13:47",
+      "count": 6
+    },
+    {
+      "home": "Spain",
+      "away": "England",
+      "league": "AVUL",
+      "at": "15.11.2026 13:47",
+      "count": 5
+    },
+    {
+      "home": "Croatia",
+      "away": "Czechia",
+      "league": "AVUL",
+      "at": "15.11.2026 13:47",
+      "count": 2
+    },
+    {
+      "home": "Eibar",
+      "away": "Cadiz CF",
+      "league": "İS2",
+      "at": "15.11.2026 13:46",
+      "count": 7
+    },
     {
       "home": "Belarus",
       "away": "Albania",
@@ -452,34 +480,6 @@
       "league": "İS2",
       "at": "15.11.2026 11:39",
       "count": 10
-    },
-    {
-      "home": "Eibar",
-      "away": "Cadiz CF",
-      "league": "İS2",
-      "at": "15.11.2026 11:39",
-      "count": 5
-    },
-    {
-      "home": "Chapecoense AF",
-      "away": "Club de Regatas Vasco da Gama",
-      "league": "BR1",
-      "at": "14.11.2026 22:53",
-      "count": 13
-    },
-    {
-      "home": "Jamaica",
-      "away": "Mexico",
-      "league": "CON",
-      "at": "14.11.2026 22:16",
-      "count": 5
-    },
-    {
-      "home": "Haiti",
-      "away": "USA",
-      "league": "CON",
-      "at": "14.11.2026 19:21",
-      "count": 13
     }
   ],
   "paywall": {
