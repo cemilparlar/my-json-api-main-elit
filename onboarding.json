@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 12:06",
+  "updatedAt": "15.11.2026 12:13",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 14,
       "rate": 57.1
     },
-    "analyses24h": 947,
-    "analyses30d": 17438
+    "analyses24h": 944,
+    "analyses30d": 17435
   },
   "recentWins": [
     {
@@ -374,18 +374,6 @@
       "picks": 1
     },
     {
-      "home": "FC Spaeri",
-      "away": "Fc Iberia",
-      "league": "GUR",
-      "date": "15.11.2026 15:00",
-      "matchCode": "4435483",
-      "odds": 1.29,
-      "patternScore": 68.06,
-      "patternText": "269.562/396.090",
-      "aiScore": 57,
-      "picks": 2
-    },
-    {
       "home": "Xerez",
       "away": "Antoniano",
       "league": "İS4",
@@ -406,8 +394,20 @@
       "odds": 1.28,
       "patternScore": 67.92,
       "patternText": "289.521/426.257",
-      "aiScore": 55,
+      "aiScore": 56,
       "picks": 3
+    },
+    {
+      "home": "Delfino Pescara",
+      "away": "SS Sambenedettese",
+      "league": "İTC",
+      "date": "15.11.2026 13:30",
+      "matchCode": "4535572",
+      "odds": 1.27,
+      "patternScore": 68.03,
+      "patternText": "253.818/373.087",
+      "aiScore": 58,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
