@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 16:55",
+  "updatedAt": "15.11.2026 17:02",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 201,
-      "lost": 101,
-      "total": 302,
-      "rate": 66.6
+      "won": 189,
+      "lost": 98,
+      "total": 287,
+      "rate": 65.9
     },
     "totalAnalyses": 613153,
     "leagues": 355,
     "pro": {
-      "won": 524,
-      "lost": 233,
-      "total": 757,
-      "rate": 69.2
+      "won": 513,
+      "lost": 221,
+      "total": 734,
+      "rate": 69.9
     },
     "insights": {
-      "won": 816,
-      "lost": 343,
-      "total": 1159,
-      "rate": 70.4
+      "won": 805,
+      "lost": 330,
+      "total": 1135,
+      "rate": 70.9
     },
     "coupons": {
       "won": 4,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 100.0
     },
-    "analyses24h": 611,
-    "analyses30d": 17184
+    "analyses24h": 578,
+    "analyses30d": 17176
   },
   "recentWins": [
     {
@@ -331,7 +331,7 @@
     },
     {
       "type": "updated",
-      "at": "15.11.2026 16:37",
+      "at": "15.11.2026 16:59",
       "home": "CD Eldense",
       "away": "CE Sabadell"
     }
@@ -360,18 +360,6 @@
       "patternText": "190.283/279.398",
       "aiScore": 58,
       "picks": 4
-    },
-    {
-      "home": "CD Eldense",
-      "away": "CE Sabadell",
-      "league": "İS2",
-      "date": "15.11.2026 17:30",
-      "matchCode": "4492825",
-      "odds": 1.35,
-      "patternScore": 67.71,
-      "patternText": "295.064/435.766",
-      "aiScore": 56,
-      "picks": 3
     },
     {
       "home": "Stal Stalowa Wola",
@@ -408,6 +396,18 @@
       "patternText": "179.709/258.914",
       "aiScore": 95,
       "picks": 1
+    },
+    {
+      "home": "Croatia",
+      "away": "Czechia",
+      "league": "AVUL",
+      "date": "15.11.2026 19:45",
+      "matchCode": "4445142",
+      "odds": 1.07,
+      "patternScore": 65.17,
+      "patternText": "247.735/380.164",
+      "aiScore": 97,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
@@ -415,8 +415,15 @@
       "home": "CD Eldense",
       "away": "CE Sabadell",
       "league": "İS2",
-      "at": "15.11.2026 16:37",
-      "count": 8
+      "at": "15.11.2026 16:59",
+      "count": 3
+    },
+    {
+      "home": "Eibar",
+      "away": "Cadiz CF",
+      "league": "İS2",
+      "at": "15.11.2026 16:59",
+      "count": 7
     },
     {
       "home": "Spain",
@@ -445,13 +452,6 @@
       "league": "AVUL",
       "at": "15.11.2026 15:58",
       "count": 6
-    },
-    {
-      "home": "Eibar",
-      "away": "Cadiz CF",
-      "league": "İS2",
-      "at": "15.11.2026 14:07",
-      "count": 11
     },
     {
       "home": "Cyprus",
