@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 13:49",
+  "updatedAt": "15.11.2026 13:57",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 314,
+      "won": 315,
       "lost": 145,
-      "total": 459,
-      "rate": 68.4
+      "total": 460,
+      "rate": 68.5
     },
     "totalAnalyses": 612866,
     "leagues": 355,
     "pro": {
-      "won": 632,
+      "won": 633,
       "lost": 295,
-      "total": 927,
+      "total": 928,
       "rate": 68.2
     },
     "insights": {
-      "won": 993,
+      "won": 994,
       "lost": 435,
-      "total": 1428,
-      "rate": 69.5
+      "total": 1429,
+      "rate": 69.6
     },
     "coupons": {
       "won": 5,
@@ -47,8 +47,8 @@
       "total": 6,
       "rate": 83.3
     },
-    "analyses24h": 884,
-    "analyses30d": 17390
+    "analyses24h": 882,
+    "analyses30d": 17388
   },
   "recentWins": [
     {
@@ -337,40 +337,28 @@
     }
   ],
   "today": {
-    "home": "Belgium",
-    "away": "Italy",
-    "league": "AVUL",
-    "date": "15.11.2026 19:45",
-    "matchCode": "4444927",
-    "odds": 1.88,
-    "patternScore": 67.35,
-    "patternText": "247.425/367.383",
-    "aiScore": 51,
+    "home": "Eibar",
+    "away": "Cadiz CF",
+    "league": "İS2",
+    "date": "15.11.2026 17:30",
+    "matchCode": "4492824",
+    "odds": 1.36,
+    "patternScore": 66.89,
+    "patternText": "290.711/434.580",
+    "aiScore": 56,
     "picks": 3
   },
   "todayList": [
     {
-      "home": "Belgium",
-      "away": "Italy",
-      "league": "AVUL",
-      "date": "15.11.2026 19:45",
-      "matchCode": "4444927",
-      "odds": 1.88,
-      "patternScore": 67.35,
-      "patternText": "247.425/367.383",
-      "aiScore": 51,
-      "picks": 3
-    },
-    {
-      "home": "Spain",
-      "away": "England",
-      "league": "AVUL",
-      "date": "15.11.2026 19:45",
-      "matchCode": "4445143",
-      "odds": 1.44,
-      "patternScore": 67.03,
-      "patternText": "265.026/395.395",
-      "aiScore": 54,
+      "home": "Eibar",
+      "away": "Cadiz CF",
+      "league": "İS2",
+      "date": "15.11.2026 17:30",
+      "matchCode": "4492824",
+      "odds": 1.36,
+      "patternScore": 66.89,
+      "patternText": "290.711/434.580",
+      "aiScore": 56,
       "picks": 3
     },
     {
@@ -408,6 +396,18 @@
       "patternText": "183.962/269.699",
       "aiScore": 60,
       "picks": 5
+    },
+    {
+      "home": "CD Eldense",
+      "away": "CE Sabadell",
+      "league": "İS2",
+      "date": "15.11.2026 17:30",
+      "matchCode": "4492825",
+      "odds": 1.24,
+      "patternScore": 66.18,
+      "patternText": "382.453/577.870",
+      "aiScore": 61,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
