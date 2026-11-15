@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 15:08",
+  "updatedAt": "15.11.2026 15:16",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 198,
-      "lost": 107,
-      "total": 305,
-      "rate": 64.9
+      "won": 196,
+      "lost": 104,
+      "total": 300,
+      "rate": 65.3
     },
-    "totalAnalyses": 613015,
+    "totalAnalyses": 613026,
     "leagues": 355,
     "pro": {
-      "won": 587,
-      "lost": 270,
-      "total": 857,
-      "rate": 68.5
+      "won": 582,
+      "lost": 269,
+      "total": 851,
+      "rate": 68.4
     },
     "insights": {
-      "won": 914,
-      "lost": 399,
-      "total": 1313,
-      "rate": 69.6
+      "won": 907,
+      "lost": 398,
+      "total": 1305,
+      "rate": 69.5
     },
     "coupons": {
       "won": 5,
@@ -47,8 +47,8 @@
       "total": 5,
       "rate": 100.0
     },
-    "analyses24h": 648,
-    "analyses30d": 17373
+    "analyses24h": 643,
+    "analyses30d": 17369
   },
   "recentWins": [
     {
@@ -289,21 +289,9 @@
     },
     {
       "type": "updated",
-      "at": "15.11.2026 09:08",
-      "home": "Atletico Madrid B",
-      "away": "CD Teruel"
-    },
-    {
-      "type": "updated",
       "at": "15.11.2026 12:16",
       "home": "CD Tenerife",
       "away": "AD Ceuta"
-    },
-    {
-      "type": "updated",
-      "at": "15.11.2026 09:09",
-      "home": "Delfino Pescara",
-      "away": "SS Sambenedettese"
     },
     {
       "type": "updated",
@@ -334,6 +322,18 @@
       "at": "15.11.2026 09:50",
       "home": "Algeciras CF",
       "away": "CD Antequera"
+    },
+    {
+      "type": "updated",
+      "at": "15.11.2026 10:50",
+      "home": "Cosenza Calcio",
+      "away": "Casertana FC"
+    },
+    {
+      "type": "updated",
+      "at": "15.11.2026 13:09",
+      "home": "Arsenal Women",
+      "away": "London City Women"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4486569",
     "odds": 1.34,
     "patternScore": 67.87,
-    "patternText": "236.217/348.048",
+    "patternText": "236.231/348.076",
     "aiScore": 53,
     "picks": 2
   },
@@ -357,7 +357,7 @@
       "matchCode": "4486569",
       "odds": 1.34,
       "patternScore": 67.87,
-      "patternText": "236.217/348.048",
+      "patternText": "236.231/348.076",
       "aiScore": 53,
       "picks": 2
     },
@@ -369,7 +369,7 @@
       "matchCode": "4494917",
       "odds": 1.28,
       "patternScore": 67.89,
-      "patternText": "263.724/388.478",
+      "patternText": "263.738/388.506",
       "aiScore": 58,
       "picks": 1
     },
@@ -380,8 +380,8 @@
       "date": "15.11.2026 17:30",
       "matchCode": "4492825",
       "odds": 1.24,
-      "patternScore": 66.19,
-      "patternText": "382.499/577.916",
+      "patternScore": 66.18,
+      "patternText": "382.533/577.988",
       "aiScore": 61,
       "picks": 2
     },
@@ -393,7 +393,7 @@
       "matchCode": "4535190",
       "odds": 1.22,
       "patternScore": 66.95,
-      "patternText": "119.188/178.022",
+      "patternText": "119.194/178.038",
       "aiScore": 67,
       "picks": 2
     },
@@ -405,7 +405,7 @@
       "matchCode": "4535573",
       "odds": 1.21,
       "patternScore": 68.07,
-      "patternText": "273.911/402.398",
+      "patternText": "273.925/402.426",
       "aiScore": 61,
       "picks": 1
     }
