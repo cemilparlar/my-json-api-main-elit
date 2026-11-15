@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "15.11.2026 21:00",
+  "updatedAt": "15.11.2026 21:11",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 203,
       "rate": 71.4
     },
-    "totalAnalyses": 613276,
+    "totalAnalyses": 613293,
     "leagues": 354,
     "pro": {
       "won": 451,
@@ -36,9 +36,9 @@
       "rate": 69.3
     },
     "insights": {
-      "won": 728,
+      "won": 726,
       "lost": 304,
-      "total": 1032,
+      "total": 1030,
       "rate": 70.5
     },
     "coupons": {
@@ -116,7 +116,7 @@
       "odds": 1.8,
       "probability": 75.0,
       "patternScore": 64.73,
-      "aiScore": 52,
+      "aiScore": 53,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 1",
       "pro": true
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Switzerland",
-    "away": "Scotland",
+    "home": "Faroe Islands",
+    "away": "Moldova",
     "league": "AVUL",
-    "date": "16.11.2026 19:45",
-    "matchCode": "4445167",
-    "odds": 1.37,
-    "patternScore": 67.7,
-    "patternText": "128.209/189.366",
-    "aiScore": 59,
-    "picks": 3
+    "date": "16.11.2026 15:00",
+    "matchCode": "4445232",
+    "odds": 1.16,
+    "patternScore": 68.59,
+    "patternText": "216.519/315.672",
+    "aiScore": 77,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Switzerland",
-      "away": "Scotland",
-      "league": "AVUL",
-      "date": "16.11.2026 19:45",
-      "matchCode": "4445167",
-      "odds": 1.37,
-      "patternScore": 67.7,
-      "patternText": "128.209/189.366",
-      "aiScore": 59,
-      "picks": 3
-    },
     {
       "home": "Faroe Islands",
       "away": "Moldova",
@@ -370,8 +358,20 @@
       "odds": 1.16,
       "patternScore": 68.59,
       "patternText": "216.519/315.672",
-      "aiScore": 75,
+      "aiScore": 77,
       "picks": 2
+    },
+    {
+      "home": "Switzerland",
+      "away": "Scotland",
+      "league": "AVUL",
+      "date": "16.11.2026 19:45",
+      "matchCode": "4445167",
+      "odds": 1.37,
+      "patternScore": 67.7,
+      "patternText": "128.209/189.366",
+      "aiScore": 61,
+      "picks": 3
     },
     {
       "home": "Sorrento Calcio",
@@ -382,7 +382,7 @@
       "odds": 1.1,
       "patternScore": 69.75,
       "patternText": "227.503/326.165",
-      "aiScore": 97,
+      "aiScore": 98,
       "picks": 1
     },
     {
