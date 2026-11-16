@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 19:55",
+  "updatedAt": "16.11.2026 20:02",
   "config": {
     "pages": [
       "engine",
@@ -30,16 +30,16 @@
     "totalAnalyses": 614605,
     "leagues": 354,
     "pro": {
-      "won": 472,
+      "won": 471,
       "lost": 203,
-      "total": 675,
+      "total": 674,
       "rate": 69.9
     },
     "insights": {
       "won": 768,
-      "lost": 322,
-      "total": 1090,
-      "rate": 70.5
+      "lost": 324,
+      "total": 1092,
+      "rate": 70.3
     },
     "coupons": {
       "won": 0,
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 380,
-    "analyses30d": 16726
+    "analyses30d": 16725
   },
   "recentWins": [
     {
@@ -116,7 +116,7 @@
       "odds": 1.73,
       "probability": 77.78,
       "patternScore": 67.15,
-      "aiScore": 52,
+      "aiScore": 53,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 5",
       "pro": true
@@ -344,7 +344,7 @@
     "matchCode": "4579914",
     "odds": 1.09,
     "patternScore": 70.21,
-    "patternText": "191.861/273.258",
+    "patternText": "191.861/273.260",
     "aiScore": 95,
     "picks": 1
   },
@@ -357,7 +357,7 @@
       "matchCode": "4579914",
       "odds": 1.09,
       "patternScore": 70.21,
-      "patternText": "191.861/273.258",
+      "patternText": "191.861/273.260",
       "aiScore": 95,
       "picks": 1
     },
@@ -369,9 +369,21 @@
       "matchCode": "4579280",
       "odds": 1.32,
       "patternScore": 68.2,
-      "patternText": "205.338/301.082",
-      "aiScore": 58,
+      "patternText": "205.340/301.090",
+      "aiScore": 57,
       "picks": 2
+    },
+    {
+      "home": "Sheffield United",
+      "away": "Huddersfield Town",
+      "league": "INGPDL",
+      "date": "17.11.2026 14:00",
+      "matchCode": "4540679",
+      "odds": 1.23,
+      "patternScore": 68.1,
+      "patternText": "216.117/317.353",
+      "aiScore": 67,
+      "picks": 1
     },
     {
       "home": "Burundi",
@@ -381,32 +393,20 @@
       "matchCode": "4579358",
       "odds": 1.15,
       "patternScore": 69.06,
-      "patternText": "208.753/302.262",
+      "patternText": "208.755/302.266",
       "aiScore": 78,
       "picks": 1
     },
     {
-      "home": "Barnsley U21",
-      "away": "Wigan Athletic",
-      "league": "INGPDL",
-      "date": "17.11.2026 13:00",
-      "matchCode": "4540675",
-      "odds": 1.13,
-      "patternScore": 68.71,
-      "patternText": "171.629/249.788",
-      "aiScore": 80,
-      "picks": 1
-    },
-    {
-      "home": "Netherlands (U19)",
-      "away": "Croatia (U1",
+      "home": "Norway (U19)",
+      "away": "Republic of Ireland",
       "league": "AVŞU19",
-      "date": "17.11.2026 11:00",
-      "matchCode": "4579251",
-      "odds": 1.13,
-      "patternScore": 69.83,
-      "patternText": "208.655/298.784",
-      "aiScore": 85,
+      "date": "17.11.2026 14:00",
+      "matchCode": "4579221",
+      "odds": 1.15,
+      "patternScore": 69.44,
+      "patternText": "222.414/320.319",
+      "aiScore": 84,
       "picks": 1
     }
   ],
