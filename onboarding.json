@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 19:47",
+  "updatedAt": "16.11.2026 19:55",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 44,
-      "lost": 21,
-      "total": 65,
-      "rate": 67.7
+      "won": 45,
+      "lost": 22,
+      "total": 67,
+      "rate": 67.2
     },
-    "totalAnalyses": 614603,
+    "totalAnalyses": 614605,
     "leagues": 354,
     "pro": {
       "won": 472,
@@ -36,9 +36,9 @@
       "rate": 69.9
     },
     "insights": {
-      "won": 767,
-      "lost": 321,
-      "total": 1088,
+      "won": 768,
+      "lost": 322,
+      "total": 1090,
       "rate": 70.5
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 382,
-    "analyses30d": 16728
+    "analyses24h": 380,
+    "analyses30d": 16726
   },
   "recentWins": [
     {
@@ -116,7 +116,7 @@
       "odds": 1.73,
       "probability": 77.78,
       "patternScore": 67.15,
-      "aiScore": 53,
+      "aiScore": 52,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 5",
       "pro": true
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Northern Ireland",
-    "away": "Switzerland U19",
-    "league": "AVŞU19",
-    "date": "17.11.2026 12:00",
-    "matchCode": "4579280",
-    "odds": 1.32,
-    "patternScore": 68.2,
-    "patternText": "205.338/301.082",
-    "aiScore": 58,
-    "picks": 2
+    "home": "New Mexico Uni",
+    "away": "Sacramento Repu",
+    "league": "USLP",
+    "date": "17.11.2026 02:00",
+    "matchCode": "4579914",
+    "odds": 1.09,
+    "patternScore": 70.21,
+    "patternText": "191.861/273.258",
+    "aiScore": 95,
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "New Mexico Uni",
+      "away": "Sacramento Repu",
+      "league": "USLP",
+      "date": "17.11.2026 02:00",
+      "matchCode": "4579914",
+      "odds": 1.09,
+      "patternScore": 70.21,
+      "patternText": "191.861/273.258",
+      "aiScore": 95,
+      "picks": 1
+    },
     {
       "home": "Northern Ireland",
       "away": "Switzerland U19",
@@ -395,18 +407,6 @@
       "patternScore": 69.83,
       "patternText": "208.655/298.784",
       "aiScore": 85,
-      "picks": 1
-    },
-    {
-      "home": "Belarus (U19)",
-      "away": "Slovenia U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 13:00",
-      "matchCode": "4579233",
-      "odds": 1.12,
-      "patternScore": 70.39,
-      "patternText": "266.730/378.934",
-      "aiScore": 79,
       "picks": 1
     }
   ],
