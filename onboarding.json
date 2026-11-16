@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 19:37",
+  "updatedAt": "16.11.2026 19:47",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 55,
-      "lost": 31,
-      "total": 86,
-      "rate": 64.0
+      "won": 44,
+      "lost": 21,
+      "total": 65,
+      "rate": 67.7
     },
-    "totalAnalyses": 614583,
-    "leagues": 353,
+    "totalAnalyses": 614603,
+    "leagues": 354,
     "pro": {
-      "won": 473,
+      "won": 472,
       "lost": 203,
-      "total": 676,
-      "rate": 70.0
+      "total": 675,
+      "rate": 69.9
     },
     "insights": {
-      "won": 768,
-      "lost": 322,
-      "total": 1090,
+      "won": 767,
+      "lost": 321,
+      "total": 1088,
       "rate": 70.5
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 383,
-    "analyses30d": 16713
+    "analyses24h": 382,
+    "analyses30d": 16728
   },
   "recentWins": [
     {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "16.11.2026 13:37",
-      "home": "Sorrento Calcio",
-      "away": "Monopoli"
-    },
-    {
-      "type": "updated",
       "at": "16.11.2026 18:38",
       "home": "Albacete Balompie",
       "away": "Celta Vigo B"
@@ -334,6 +328,12 @@
       "at": "16.11.2026 14:26",
       "home": "Kazakhstan",
       "away": "Slovakia"
+    },
+    {
+      "type": "updated",
+      "at": "16.11.2026 15:44",
+      "home": "Greece (U2",
+      "away": "Iceland (U21)"
     }
   ],
   "today": {
