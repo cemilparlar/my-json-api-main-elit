@@ -177,7 +177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "16.11.2026 19:30",
@@ -973,8 +973,8 @@
         "matchCount": "1",
         "matchLink": "4579366",
         "status": "Pending",
-        "predictedScore": "0-2",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -1003,8 +1003,8 @@
         "matchCount": "1",
         "matchLink": "4579366",
         "status": "Pending",
-        "predictedScore": "0-2",
-        "predictedScoreText": "1/1",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -1377,7 +1377,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "15.11.2026 05:00",
@@ -2097,7 +2097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 68
     },
     {
         "date": "15.11.2026 11:30",
@@ -2157,7 +2157,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "15.11.2026 13:15",
@@ -2907,7 +2907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 59
     },
     {
         "date": "15.11.2026 11:30",
@@ -3207,7 +3207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "15.11.2026 13:30",
@@ -4197,7 +4197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "15.11.2026 17:30",
@@ -4407,7 +4407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "15.11.2026 19:45",
@@ -4468,5 +4468,35 @@
             "b": 100.0
         },
         "aiScore": 80
+    },
+    {
+        "date": "16.11.2026 13:00",
+        "league": "AFUK",
+        "matchCode": "4579334",
+        "home": "Zimbabwe",
+        "away": "Equatorial Guinea",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "82.68",
+        "odds": "1.09",
+        "matchCount": "179",
+        "matchLink": "4579334",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "33/179",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "16.11.2026 07:08",
+        "patternScore": 70.93,
+        "patternText": "145.410/205.008",
+        "patternInfo": {
+            "m": 40,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 94
     }
 ]
