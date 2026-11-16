@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 16:05",
+  "updatedAt": "16.11.2026 16:13",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 80,
       "rate": 67.5
     },
-    "totalAnalyses": 614256,
+    "totalAnalyses": 614286,
     "leagues": 354,
     "pro": {
       "won": 470,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 379,
-    "analyses30d": 17039
+    "analyses24h": 389,
+    "analyses30d": 17049
   },
   "recentWins": [
     {
@@ -64,6 +64,20 @@
       "firstHalf": "0 - 2",
       "finalScore": "2 - 4",
       "pro": false
+    },
+    {
+      "home": "Czech Republic",
+      "away": "Germany (U20)",
+      "league": "U20EL",
+      "date": "16.11.2026 14:00",
+      "prediction": "Match Result X",
+      "odds": 4.47,
+      "probability": 75.0,
+      "patternScore": 63.88,
+      "aiScore": 50,
+      "firstHalf": "1 - 1",
+      "finalScore": "2 - 2",
+      "pro": true
     },
     {
       "home": "Real Madrid Women",
@@ -106,20 +120,6 @@
       "firstHalf": "0 - 2",
       "finalScore": "1 - 5",
       "pro": true
-    },
-    {
-      "home": "Haiti",
-      "away": "USA",
-      "league": "CON",
-      "date": "14.11.2026 21:30",
-      "prediction": "Both Teams to Score - No",
-      "odds": 1.6,
-      "probability": 100.0,
-      "patternScore": 56.53,
-      "aiScore": 52,
-      "firstHalf": "0 - 1",
-      "finalScore": "0 - 6",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -265,6 +265,14 @@
     },
     {
       "type": "won",
+      "home": "Czech Republic",
+      "away": "Germany (U20)",
+      "prediction": "Match Result X",
+      "odds": 4.47,
+      "at": "16.11.2026 14:00"
+    },
+    {
+      "type": "won",
       "home": "Real Madrid Women",
       "away": "Badalona Women",
       "prediction": "Double Chance X2",
@@ -278,14 +286,6 @@
       "prediction": "Total Goals 2-3",
       "odds": 1.75,
       "at": "14.11.2026 17:00"
-    },
-    {
-      "type": "won",
-      "home": "RB Leipzig Women",
-      "away": "E. Frankfurt Women",
-      "prediction": "Over 3.5 Goals",
-      "odds": 1.73,
-      "at": "15.11.2026 15:00"
     },
     {
       "type": "updated",
@@ -304,6 +304,12 @@
       "at": "16.11.2026 13:52",
       "home": "Switzerland",
       "away": "Scotland"
+    },
+    {
+      "type": "updated",
+      "at": "16.11.2026 16:03",
+      "home": "Stuttgart Women",
+      "away": "Bayer Leverkusen"
     },
     {
       "type": "updated",
@@ -328,12 +334,6 @@
       "at": "16.11.2026 10:16",
       "home": "Sudan",
       "away": "Senegal"
-    },
-    {
-      "type": "updated",
-      "at": "16.11.2026 13:37",
-      "home": "Norwich City U21",
-      "away": "Exeter City U21"
     }
   ],
   "today": {
@@ -344,8 +344,8 @@
     "matchCode": "4492822",
     "odds": 1.41,
     "patternScore": 67.79,
-    "patternText": "132.931/196.101",
-    "aiScore": 55,
+    "patternText": "132.947/196.117",
+    "aiScore": 56,
     "picks": 3
   },
   "todayList": [
@@ -357,9 +357,21 @@
       "matchCode": "4492822",
       "odds": 1.41,
       "patternScore": 67.79,
-      "patternText": "132.931/196.101",
-      "aiScore": 55,
+      "patternText": "132.947/196.117",
+      "aiScore": 56,
       "picks": 3
+    },
+    {
+      "home": "Stuttgart Women",
+      "away": "Bayer Leverkusen",
+      "league": "ALKB",
+      "date": "16.11.2026 17:00",
+      "matchCode": "4523506",
+      "odds": 1.41,
+      "patternScore": 67.89,
+      "patternText": "214.289/315.649",
+      "aiScore": 55,
+      "picks": 1
     },
     {
       "home": "AC Perugia",
@@ -369,7 +381,7 @@
       "matchCode": "4535571",
       "odds": 1.28,
       "patternScore": 67.75,
-      "patternText": "200.278/295.603",
+      "patternText": "200.298/295.623",
       "aiScore": 59,
       "picks": 4
     },
@@ -381,7 +393,7 @@
       "matchCode": "4565385",
       "odds": 1.24,
       "patternScore": 68.65,
-      "patternText": "242.965/353.940",
+      "patternText": "242.985/353.960",
       "aiScore": 63,
       "picks": 1
     },
@@ -393,20 +405,8 @@
       "matchCode": "4445167",
       "odds": 1.21,
       "patternScore": 68.75,
-      "patternText": "142.063/206.639",
+      "patternText": "142.079/206.655",
       "aiScore": 72,
-      "picks": 4
-    },
-    {
-      "home": "Italy (U21)",
-      "away": "Belgium (U21)",
-      "league": "HAZ",
-      "date": "16.11.2026 17:15",
-      "matchCode": "4579530",
-      "odds": 1.19,
-      "patternScore": 68.41,
-      "patternText": "207.153/302.804",
-      "aiScore": 69,
       "picks": 4
     }
   ],
