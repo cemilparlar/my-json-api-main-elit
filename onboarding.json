@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 11:50",
+  "updatedAt": "16.11.2026 11:58",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 133,
       "rate": 71.4
     },
-    "totalAnalyses": 613995,
+    "totalAnalyses": 613998,
     "leagues": 354,
     "pro": {
-      "won": 460,
+      "won": 463,
       "lost": 200,
-      "total": 660,
-      "rate": 69.7
+      "total": 663,
+      "rate": 69.8
     },
     "insights": {
-      "won": 744,
+      "won": 748,
       "lost": 312,
-      "total": 1056,
-      "rate": 70.5
+      "total": 1060,
+      "rate": 70.6
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 456,
-    "analyses30d": 17141
+    "analyses24h": 459,
+    "analyses30d": 17144
   },
   "recentWins": [
     {
@@ -331,36 +331,24 @@
     },
     {
       "type": "kickoff",
-      "home": "Namibia",
-      "away": "Cameroon",
+      "home": "Sudan",
+      "away": "Senegal",
       "at": "16.11.2026 13:00"
     }
   ],
   "today": {
-    "home": "Namibia",
-    "away": "Cameroon",
-    "league": "AFUK",
-    "date": "16.11.2026 13:00",
-    "matchCode": "4579342",
-    "odds": 1.34,
-    "patternScore": 66.34,
-    "patternText": "136.728/206.109",
-    "aiScore": 60,
-    "picks": 2
+    "home": "Faroe Islands",
+    "away": "Moldova",
+    "league": "AVUL",
+    "date": "16.11.2026 15:00",
+    "matchCode": "4445232",
+    "odds": 1.33,
+    "patternScore": 67.44,
+    "patternText": "160.259/237.628",
+    "aiScore": 62,
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Namibia",
-      "away": "Cameroon",
-      "league": "AFUK",
-      "date": "16.11.2026 13:00",
-      "matchCode": "4579342",
-      "odds": 1.34,
-      "patternScore": 66.34,
-      "patternText": "136.728/206.109",
-      "aiScore": 60,
-      "picks": 2
-    },
     {
       "home": "Faroe Islands",
       "away": "Moldova",
@@ -369,7 +357,7 @@
       "matchCode": "4445232",
       "odds": 1.33,
       "patternScore": 67.44,
-      "patternText": "160.255/237.622",
+      "patternText": "160.259/237.628",
       "aiScore": 62,
       "picks": 3
     },
@@ -381,7 +369,7 @@
       "matchCode": "4579530",
       "odds": 1.12,
       "patternScore": 70.06,
-      "patternText": "265.521/378.988",
+      "patternText": "265.529/379.002",
       "aiScore": 90,
       "picks": 2
     },
@@ -408,6 +396,18 @@
       "patternText": "128.339/189.618",
       "aiScore": 59,
       "picks": 3
+    },
+    {
+      "home": "AC Perugia",
+      "away": "Sassari Torres",
+      "league": "İTC",
+      "date": "16.11.2026 19:45",
+      "matchCode": "4535571",
+      "odds": 1.14,
+      "patternScore": 69.91,
+      "patternText": "264.293/378.037",
+      "aiScore": 88,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
