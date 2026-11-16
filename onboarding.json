@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 19:05",
+  "updatedAt": "16.11.2026 19:13",
   "config": {
     "pages": [
       "engine",
@@ -94,6 +94,20 @@
       "pro": true
     },
     {
+      "home": "Estonia",
+      "away": "Bulgaria",
+      "league": "AVUL",
+      "date": "16.11.2026 17:00",
+      "prediction": "Match Result 1",
+      "odds": 2.0,
+      "probability": 100.0,
+      "patternScore": 56.6,
+      "aiScore": 52,
+      "firstHalf": "1 - 1",
+      "finalScore": "2 - 1",
+      "pro": false
+    },
+    {
       "home": "RB Leipzig Women",
       "away": "E. Frankfurt Women",
       "league": "ALKB",
@@ -102,24 +116,10 @@
       "odds": 1.73,
       "probability": 77.78,
       "patternScore": 67.15,
-      "aiScore": 53,
+      "aiScore": 52,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 5",
       "pro": true
-    },
-    {
-      "home": "Haiti",
-      "away": "USA",
-      "league": "CON",
-      "date": "14.11.2026 21:30",
-      "prediction": "Both Teams to Score - No",
-      "odds": 1.6,
-      "probability": 100.0,
-      "patternScore": 56.53,
-      "aiScore": 53,
-      "firstHalf": "0 - 1",
-      "finalScore": "0 - 6",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -281,11 +281,11 @@
     },
     {
       "type": "won",
-      "home": "RB Leipzig Women",
-      "away": "E. Frankfurt Women",
-      "prediction": "Over 3.5 Goals",
-      "odds": 1.73,
-      "at": "15.11.2026 15:00"
+      "home": "Estonia",
+      "away": "Bulgaria",
+      "prediction": "Match Result 1",
+      "odds": 2.0,
+      "at": "16.11.2026 17:00"
     },
     {
       "type": "updated",
@@ -344,8 +344,8 @@
     "matchCode": "4445167",
     "odds": 1.41,
     "patternScore": 68.09,
-    "patternText": "123.717/181.695",
-    "aiScore": 56,
+    "patternText": "123.767/181.763",
+    "aiScore": 55,
     "picks": 1
   },
   "todayList": [
@@ -357,8 +357,8 @@
       "matchCode": "4445167",
       "odds": 1.41,
       "patternScore": 68.09,
-      "patternText": "123.717/181.695",
-      "aiScore": 56,
+      "patternText": "123.767/181.763",
+      "aiScore": 55,
       "picks": 1
     },
     {
@@ -369,7 +369,7 @@
       "matchCode": "4535571",
       "odds": 1.07,
       "patternScore": 70.6,
-      "patternText": "140.264/198.668",
+      "patternText": "140.284/198.692",
       "aiScore": 98,
       "picks": 1
     },
@@ -381,7 +381,7 @@
       "matchCode": "4445131",
       "odds": 1.07,
       "patternScore": 68.38,
-      "patternText": "164.849/241.071",
+      "patternText": "164.889/241.123",
       "aiScore": 97,
       "picks": 1
     },
@@ -393,8 +393,8 @@
       "matchCode": "4579280",
       "odds": 1.32,
       "patternScore": 68.2,
-      "patternText": "205.314/301.054",
-      "aiScore": 58,
+      "patternText": "205.334/301.074",
+      "aiScore": 57,
       "picks": 2
     },
     {
@@ -405,7 +405,7 @@
       "matchCode": "4579358",
       "odds": 1.15,
       "patternScore": 69.06,
-      "patternText": "208.745/302.250",
+      "patternText": "208.749/302.254",
       "aiScore": 79,
       "picks": 1
     }
