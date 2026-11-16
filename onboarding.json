@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 13:44",
+  "updatedAt": "16.11.2026 13:52",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 105,
       "rate": 72.4
     },
-    "totalAnalyses": 614105,
+    "totalAnalyses": 614112,
     "leagues": 354,
     "pro": {
-      "won": 469,
+      "won": 470,
       "lost": 204,
-      "total": 673,
+      "total": 674,
       "rate": 69.7
     },
     "insights": {
-      "won": 758,
+      "won": 760,
       "lost": 318,
-      "total": 1076,
-      "rate": 70.4
+      "total": 1078,
+      "rate": 70.5
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 425,
-    "analyses30d": 17105
+    "analyses24h": 424,
+    "analyses30d": 17104
   },
   "recentWins": [
     {
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Eritrea",
-    "away": "Guinea",
-    "league": "AFUK",
-    "date": "16.11.2026 16:00",
-    "matchCode": "4579318",
-    "odds": 1.32,
-    "patternScore": 67.56,
-    "patternText": "203.536/301.267",
-    "aiScore": 56,
-    "picks": 2
+    "home": "Switzerland",
+    "away": "Scotland",
+    "league": "AVUL",
+    "date": "16.11.2026 19:45",
+    "matchCode": "4445167",
+    "odds": 1.37,
+    "patternScore": 67.68,
+    "patternText": "128.343/189.624",
+    "aiScore": 59,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Switzerland",
+      "away": "Scotland",
+      "league": "AVUL",
+      "date": "16.11.2026 19:45",
+      "matchCode": "4445167",
+      "odds": 1.37,
+      "patternScore": 67.68,
+      "patternText": "128.343/189.624",
+      "aiScore": 59,
+      "picks": 3
+    },
     {
       "home": "Eritrea",
       "away": "Guinea",
@@ -386,28 +398,16 @@
       "picks": 1
     },
     {
-      "home": "Italy (U21)",
-      "away": "Belgium (U21)",
-      "league": "HAZ",
-      "date": "16.11.2026 17:15",
-      "matchCode": "4579530",
-      "odds": 1.12,
-      "patternScore": 70.06,
-      "patternText": "265.607/379.106",
-      "aiScore": 90,
-      "picks": 2
-    },
-    {
-      "home": "England (U21",
-      "away": "France (U21)",
-      "league": "HAZ",
-      "date": "16.11.2026 19:30",
-      "matchCode": "4579531",
-      "odds": 1.12,
-      "patternScore": 70.09,
-      "patternText": "266.388/380.046",
-      "aiScore": 90,
-      "picks": 2
+      "home": "AC Perugia",
+      "away": "Sassari Torres",
+      "league": "İTC",
+      "date": "16.11.2026 19:45",
+      "matchCode": "4535571",
+      "odds": 1.14,
+      "patternScore": 69.91,
+      "patternText": "264.377/378.147",
+      "aiScore": 88,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
