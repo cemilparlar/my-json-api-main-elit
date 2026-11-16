@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 19:13",
+  "updatedAt": "16.11.2026 19:22",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 53,
-      "lost": 29,
-      "total": 82,
-      "rate": 64.6
+      "won": 55,
+      "lost": 31,
+      "total": 86,
+      "rate": 64.0
     },
     "totalAnalyses": 614565,
     "leagues": 353,
     "pro": {
-      "won": 479,
-      "lost": 204,
-      "total": 683,
-      "rate": 70.1
+      "won": 481,
+      "lost": 206,
+      "total": 687,
+      "rate": 70.0
     },
     "insights": {
-      "won": 779,
-      "lost": 326,
-      "total": 1105,
-      "rate": 70.5
+      "won": 781,
+      "lost": 328,
+      "total": 1109,
+      "rate": 70.4
     },
     "coupons": {
       "won": 0,
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 383,
-    "analyses30d": 16724
+    "analyses30d": 16714
   },
   "recentWins": [
     {
@@ -337,54 +337,18 @@
     }
   ],
   "today": {
-    "home": "Switzerland",
-    "away": "Scotland",
-    "league": "AVUL",
-    "date": "16.11.2026 19:45",
-    "matchCode": "4445167",
-    "odds": 1.41,
-    "patternScore": 68.09,
-    "patternText": "123.767/181.763",
-    "aiScore": 55,
-    "picks": 1
+    "home": "Northern Ireland",
+    "away": "Switzerland U19",
+    "league": "AVŞU19",
+    "date": "17.11.2026 12:00",
+    "matchCode": "4579280",
+    "odds": 1.32,
+    "patternScore": 68.2,
+    "patternText": "205.334/301.074",
+    "aiScore": 57,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Switzerland",
-      "away": "Scotland",
-      "league": "AVUL",
-      "date": "16.11.2026 19:45",
-      "matchCode": "4445167",
-      "odds": 1.41,
-      "patternScore": 68.09,
-      "patternText": "123.767/181.763",
-      "aiScore": 55,
-      "picks": 1
-    },
-    {
-      "home": "AC Perugia",
-      "away": "Sassari Torres",
-      "league": "İTC",
-      "date": "16.11.2026 19:45",
-      "matchCode": "4535571",
-      "odds": 1.07,
-      "patternScore": 70.6,
-      "patternText": "140.284/198.692",
-      "aiScore": 98,
-      "picks": 1
-    },
-    {
-      "home": "Greece",
-      "away": "Serbia",
-      "league": "AVUL",
-      "date": "16.11.2026 19:45",
-      "matchCode": "4445131",
-      "odds": 1.07,
-      "patternScore": 68.38,
-      "patternText": "164.889/241.123",
-      "aiScore": 97,
-      "picks": 1
-    },
     {
       "home": "Northern Ireland",
       "away": "Switzerland U19",
@@ -406,6 +370,42 @@
       "odds": 1.15,
       "patternScore": 69.06,
       "patternText": "208.749/302.254",
+      "aiScore": 79,
+      "picks": 1
+    },
+    {
+      "home": "Barnsley U21",
+      "away": "Wigan Athletic",
+      "league": "INGPDL",
+      "date": "17.11.2026 13:00",
+      "matchCode": "4540675",
+      "odds": 1.13,
+      "patternScore": 68.71,
+      "patternText": "171.627/249.786",
+      "aiScore": 81,
+      "picks": 1
+    },
+    {
+      "home": "Netherlands (U19)",
+      "away": "Croatia (U1",
+      "league": "AVŞU19",
+      "date": "17.11.2026 11:00",
+      "matchCode": "4579251",
+      "odds": 1.13,
+      "patternScore": 69.83,
+      "patternText": "208.647/298.772",
+      "aiScore": 86,
+      "picks": 1
+    },
+    {
+      "home": "Belarus (U19)",
+      "away": "Slovenia U19",
+      "league": "AVŞU19",
+      "date": "17.11.2026 13:00",
+      "matchCode": "4579233",
+      "odds": 1.12,
+      "patternScore": 70.39,
+      "patternText": "266.726/378.922",
       "aiScore": 79,
       "picks": 1
     }
