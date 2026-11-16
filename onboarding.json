@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 13:29",
+  "updatedAt": "16.11.2026 13:36",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 87,
-      "lost": 31,
-      "total": 118,
-      "rate": 73.7
+      "won": 76,
+      "lost": 29,
+      "total": 105,
+      "rate": 72.4
     },
-    "totalAnalyses": 614093,
+    "totalAnalyses": 614099,
     "leagues": 354,
     "pro": {
-      "won": 467,
+      "won": 469,
       "lost": 204,
-      "total": 671,
-      "rate": 69.6
+      "total": 673,
+      "rate": 69.7
     },
     "insights": {
-      "won": 756,
+      "won": 758,
       "lost": 318,
-      "total": 1074,
+      "total": 1076,
       "rate": 70.4
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 435,
-    "analyses30d": 17111
+    "analyses24h": 423,
+    "analyses30d": 17101
   },
   "recentWins": [
     {
@@ -295,7 +295,7 @@
     },
     {
       "type": "updated",
-      "at": "16.11.2026 10:50",
+      "at": "16.11.2026 13:36",
       "home": "Kazakhstan",
       "away": "Slovakia"
     },
@@ -386,6 +386,18 @@
       "picks": 2
     },
     {
+      "home": "England (U21",
+      "away": "France (U21)",
+      "league": "HAZ",
+      "date": "16.11.2026 19:30",
+      "matchCode": "4579531",
+      "odds": 1.11,
+      "patternScore": 70.09,
+      "patternText": "266.362/380.020",
+      "aiScore": 89,
+      "picks": 2
+    },
+    {
       "home": "Faroe Islands",
       "away": "Moldova",
       "league": "AVUL",
@@ -396,34 +408,22 @@
       "patternText": "227.677/331.750",
       "aiScore": 83,
       "picks": 3
-    },
-    {
-      "home": "Felgueiras U23",
-      "away": "Leixoes SC U23",
-      "league": "PORU23",
-      "date": "16.11.2026 15:00",
-      "matchCode": "4523158",
-      "odds": 1.08,
-      "patternScore": 70.98,
-      "patternText": "345.484/486.726",
-      "aiScore": 98,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Kazakhstan",
+      "away": "Slovakia",
+      "league": "AVUL",
+      "at": "16.11.2026 13:36",
+      "count": 11
+    },
     {
       "home": "Faroe Islands",
       "away": "Moldova",
       "league": "AVUL",
       "at": "16.11.2026 12:54",
       "count": 6
-    },
-    {
-      "home": "Kazakhstan",
-      "away": "Slovakia",
-      "league": "AVUL",
-      "at": "16.11.2026 10:50",
-      "count": 8
     },
     {
       "home": "Sao Paulo FC",
