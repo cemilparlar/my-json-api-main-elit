@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 17:02",
+  "updatedAt": "16.11.2026 17:10",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 37,
-      "lost": 20,
-      "total": 57,
-      "rate": 64.9
+      "won": 47,
+      "lost": 28,
+      "total": 75,
+      "rate": 62.7
     },
-    "totalAnalyses": 614327,
+    "totalAnalyses": 614333,
     "leagues": 354,
     "pro": {
-      "won": 470,
-      "lost": 204,
-      "total": 674,
-      "rate": 69.7
+      "won": 475,
+      "lost": 206,
+      "total": 681,
+      "rate": 69.8
     },
     "insights": {
-      "won": 761,
-      "lost": 320,
-      "total": 1081,
-      "rate": 70.4
+      "won": 768,
+      "lost": 325,
+      "total": 1093,
+      "rate": 70.3
     },
     "coupons": {
       "won": 0,
@@ -116,7 +116,7 @@
       "odds": 1.73,
       "probability": 77.78,
       "patternScore": 67.15,
-      "aiScore": 52,
+      "aiScore": 53,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 5",
       "pro": true
@@ -295,12 +295,6 @@
     },
     {
       "type": "updated",
-      "at": "16.11.2026 17:01",
-      "home": "Albacete Balompie",
-      "away": "Celta Vigo B"
-    },
-    {
-      "type": "updated",
       "at": "16.11.2026 16:44",
       "home": "Switzerland",
       "away": "Scotland"
@@ -334,33 +328,27 @@
       "at": "16.11.2026 13:37",
       "home": "Norwich City U21",
       "away": "Exeter City U21"
+    },
+    {
+      "type": "updated",
+      "at": "16.11.2026 14:26",
+      "home": "Andorra",
+      "away": "Azerbaijan"
     }
   ],
   "today": {
-    "home": "Albacete Balompie",
-    "away": "Celta Vigo B",
-    "league": "İS2",
-    "date": "16.11.2026 19:30",
-    "matchCode": "4492822",
-    "odds": 1.41,
-    "patternScore": 67.79,
-    "patternText": "132.949/196.119",
-    "aiScore": 56,
-    "picks": 3
+    "home": "Switzerland",
+    "away": "Scotland",
+    "league": "AVUL",
+    "date": "16.11.2026 19:45",
+    "matchCode": "4445167",
+    "odds": 1.25,
+    "patternScore": 68.52,
+    "patternText": "224.477/327.599",
+    "aiScore": 65,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Albacete Balompie",
-      "away": "Celta Vigo B",
-      "league": "İS2",
-      "date": "16.11.2026 19:30",
-      "matchCode": "4492822",
-      "odds": 1.41,
-      "patternScore": 67.79,
-      "patternText": "132.949/196.119",
-      "aiScore": 56,
-      "picks": 3
-    },
     {
       "home": "Switzerland",
       "away": "Scotland",
@@ -408,6 +396,18 @@
       "patternText": "176.130/250.448",
       "aiScore": 97,
       "picks": 2
+    },
+    {
+      "home": "Sorrento Calcio",
+      "away": "Monopoli",
+      "league": "İTC",
+      "date": "16.11.2026 19:30",
+      "matchCode": "4535956",
+      "odds": 1.08,
+      "patternScore": 69.79,
+      "patternText": "228.099/326.825",
+      "aiScore": 99,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
