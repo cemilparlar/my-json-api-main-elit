@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 16:38",
+  "updatedAt": "16.11.2026 16:46",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 60,
       "rate": 66.7
     },
-    "totalAnalyses": 614322,
+    "totalAnalyses": 614326,
     "leagues": 354,
     "pro": {
       "won": 470,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 370,
-    "analyses30d": 17002
+    "analyses24h": 369,
+    "analyses30d": 16996
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     },
     {
       "type": "updated",
-      "at": "16.11.2026 13:52",
+      "at": "16.11.2026 16:44",
       "home": "Switzerland",
       "away": "Scotland"
     },
@@ -398,19 +398,26 @@
       "picks": 4
     },
     {
-      "home": "Italy (U21)",
-      "away": "Belgium (U21)",
+      "home": "England (U21",
+      "away": "France (U21)",
       "league": "HAZ",
-      "date": "16.11.2026 17:15",
-      "matchCode": "4579530",
-      "odds": 1.19,
-      "patternScore": 68.41,
-      "patternText": "207.175/302.826",
-      "aiScore": 69,
-      "picks": 4
+      "date": "16.11.2026 19:30",
+      "matchCode": "4579531",
+      "odds": 1.12,
+      "patternScore": 70.1,
+      "patternText": "265.684/378.982",
+      "aiScore": 94,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Switzerland",
+      "away": "Scotland",
+      "league": "AVUL",
+      "at": "16.11.2026 16:44",
+      "count": 4
+    },
     {
       "home": "Estonia",
       "away": "Bulgaria",
@@ -444,13 +451,6 @@
       "away": "Moldova",
       "league": "AVUL",
       "at": "16.11.2026 14:10",
-      "count": 7
-    },
-    {
-      "home": "Switzerland",
-      "away": "Scotland",
-      "league": "AVUL",
-      "at": "16.11.2026 13:52",
       "count": 7
     },
     {
