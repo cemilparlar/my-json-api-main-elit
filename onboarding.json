@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 05:56",
+  "updatedAt": "16.11.2026 06:04",
   "config": {
     "pages": [
       "engine",
@@ -80,20 +80,6 @@
       "pro": true
     },
     {
-      "home": "Melbourne City FC",
-      "away": "Newcastle Jets",
-      "league": "AVUSTW",
-      "date": "14.11.2026 04:00",
-      "prediction": "Handicap (0:2) 2",
-      "odds": 1.8,
-      "probability": 75.0,
-      "patternScore": 64.73,
-      "aiScore": 52,
-      "firstHalf": "1 - 0",
-      "finalScore": "1 - 1",
-      "pro": true
-    },
-    {
       "home": "Georgia",
       "away": "Hungary",
       "league": "AVUL",
@@ -120,6 +106,20 @@
       "firstHalf": "0 - 2",
       "finalScore": "1 - 5",
       "pro": true
+    },
+    {
+      "home": "Haiti",
+      "away": "USA",
+      "league": "CON",
+      "date": "14.11.2026 21:30",
+      "prediction": "Both Teams to Score - No",
+      "odds": 1.6,
+      "probability": 100.0,
+      "patternScore": 56.53,
+      "aiScore": 52,
+      "firstHalf": "0 - 1",
+      "finalScore": "0 - 6",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -273,19 +273,19 @@
     },
     {
       "type": "won",
-      "home": "Melbourne City FC",
-      "away": "Newcastle Jets",
-      "prediction": "Handicap (0:2) 2",
-      "odds": 1.8,
-      "at": "14.11.2026 04:00"
-    },
-    {
-      "type": "won",
       "home": "Georgia",
       "away": "Hungary",
       "prediction": "Total Goals 2-3",
       "odds": 1.75,
       "at": "14.11.2026 17:00"
+    },
+    {
+      "type": "won",
+      "home": "RB Leipzig Women",
+      "away": "E. Frankfurt Women",
+      "prediction": "Over 3.5 Goals",
+      "odds": 1.73,
+      "at": "15.11.2026 15:00"
     },
     {
       "type": "analysis",
