@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 12:58",
+  "updatedAt": "16.11.2026 13:06",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 92,
-      "lost": 38,
-      "total": 130,
-      "rate": 70.8
+      "won": 89,
+      "lost": 33,
+      "total": 122,
+      "rate": 73.0
     },
-    "totalAnalyses": 614051,
+    "totalAnalyses": 614071,
     "leagues": 354,
     "pro": {
       "won": 468,
@@ -37,9 +37,9 @@
     },
     "insights": {
       "won": 758,
-      "lost": 317,
-      "total": 1075,
-      "rate": 70.5
+      "lost": 318,
+      "total": 1076,
+      "rate": 70.4
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 435,
-    "analyses30d": 17115
+    "analyses24h": 427,
+    "analyses30d": 17099
   },
   "recentWins": [
     {
@@ -325,42 +325,30 @@
     },
     {
       "type": "kickoff",
-      "home": "Zimbabwe",
-      "away": "Equatorial Guinea",
-      "at": "16.11.2026 13:00"
+      "home": "Kazakhstan",
+      "away": "Slovakia",
+      "at": "16.11.2026 15:00"
     },
     {
       "type": "kickoff",
-      "home": "Sudan",
-      "away": "Senegal",
-      "at": "16.11.2026 13:00"
+      "home": "Faroe Islands",
+      "away": "Moldova",
+      "at": "16.11.2026 15:00"
     }
   ],
   "today": {
-    "home": "Faroe Islands",
-    "away": "Moldova",
-    "league": "AVUL",
-    "date": "16.11.2026 15:00",
-    "matchCode": "4445232",
-    "odds": 1.33,
-    "patternScore": 67.44,
-    "patternText": "160.313/237.702",
-    "aiScore": 62,
-    "picks": 3
+    "home": "Andorra",
+    "away": "Azerbaijan",
+    "league": "HAZ",
+    "date": "16.11.2026 18:00",
+    "matchCode": "4565385",
+    "odds": 1.15,
+    "patternScore": 69.94,
+    "patternText": "299.677/428.452",
+    "aiScore": 86,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Faroe Islands",
-      "away": "Moldova",
-      "league": "AVUL",
-      "date": "16.11.2026 15:00",
-      "matchCode": "4445232",
-      "odds": 1.33,
-      "patternScore": 67.44,
-      "patternText": "160.313/237.702",
-      "aiScore": 62,
-      "picks": 3
-    },
     {
       "home": "Andorra",
       "away": "Azerbaijan",
@@ -368,9 +356,9 @@
       "date": "16.11.2026 18:00",
       "matchCode": "4565385",
       "odds": 1.15,
-      "patternScore": 69.95,
-      "patternText": "299.673/428.438",
-      "aiScore": 87,
+      "patternScore": 69.94,
+      "patternText": "299.677/428.452",
+      "aiScore": 86,
       "picks": 1
     },
     {
@@ -381,9 +369,21 @@
       "matchCode": "4579530",
       "odds": 1.12,
       "patternScore": 70.06,
-      "patternText": "265.575/379.058",
+      "patternText": "265.579/379.072",
       "aiScore": 90,
       "picks": 2
+    },
+    {
+      "home": "Faroe Islands",
+      "away": "Moldova",
+      "league": "AVUL",
+      "date": "16.11.2026 15:00",
+      "matchCode": "4445232",
+      "odds": 1.11,
+      "patternScore": 68.63,
+      "patternText": "227.671/331.742",
+      "aiScore": 83,
+      "picks": 3
     },
     {
       "home": "Switzerland",
@@ -405,7 +405,7 @@
       "matchCode": "4535571",
       "odds": 1.14,
       "patternScore": 69.91,
-      "patternText": "264.345/378.099",
+      "patternText": "264.349/378.113",
       "aiScore": 88,
       "picks": 1
     }
