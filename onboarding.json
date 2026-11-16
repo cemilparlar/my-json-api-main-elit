@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 08:38",
+  "updatedAt": "16.11.2026 08:46",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 167,
       "rate": 71.3
     },
-    "totalAnalyses": 613740,
+    "totalAnalyses": 613793,
     "leagues": 353,
     "pro": {
       "won": 449,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 364,
-    "analyses30d": 17011
+    "analyses24h": 413,
+    "analyses30d": 17060
   },
   "recentWins": [
     {
@@ -307,7 +307,7 @@
     },
     {
       "type": "analysis",
-      "count": 364
+      "count": 413
     }
   ],
   "today": {
@@ -386,6 +386,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Wales",
+      "away": "Portugal",
+      "league": "AVUL",
+      "at": "16.11.2026 08:46",
+      "count": 8
+    },
+    {
+      "home": "Bosnia and Herzegovina",
+      "away": "Romania",
+      "league": "AVUL",
+      "at": "16.11.2026 08:45",
+      "count": 7
+    },
+    {
+      "home": "Poland",
+      "away": "Sweden",
+      "league": "AVUL",
+      "at": "16.11.2026 08:45",
+      "count": 5
+    },
+    {
+      "home": "Hungary",
+      "away": "Northern Ireland",
+      "league": "AVUL",
+      "at": "16.11.2026 08:43",
+      "count": 7
+    },
+    {
+      "home": "Denmark",
+      "away": "Norway",
+      "league": "AVUL",
+      "at": "16.11.2026 08:42",
+      "count": 13
+    },
+    {
       "home": "Gibraltar",
       "away": "Malta",
       "league": "AVUL",
@@ -419,41 +454,6 @@
       "league": "AVUL",
       "at": "15.11.2026 18:59",
       "count": 11
-    },
-    {
-      "home": "CD Eldense",
-      "away": "CE Sabadell",
-      "league": "İS2",
-      "at": "15.11.2026 16:59",
-      "count": 3
-    },
-    {
-      "home": "Eibar",
-      "away": "Cadiz CF",
-      "league": "İS2",
-      "at": "15.11.2026 16:59",
-      "count": 7
-    },
-    {
-      "home": "Belarus",
-      "away": "Albania",
-      "league": "AVUL",
-      "at": "15.11.2026 15:58",
-      "count": 3
-    },
-    {
-      "home": "Cyprus",
-      "away": "Montenegro",
-      "league": "AVUL",
-      "at": "15.11.2026 13:24",
-      "count": 3
-    },
-    {
-      "home": "Granada CF",
-      "away": "UD Las Palmas",
-      "league": "İS2",
-      "at": "15.11.2026 13:09",
-      "count": 9
     }
   ],
   "paywall": {
