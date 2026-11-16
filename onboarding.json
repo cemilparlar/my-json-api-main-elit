@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 10:47",
+  "updatedAt": "16.11.2026 10:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 159,
       "rate": 70.4
     },
-    "totalAnalyses": 613936,
+    "totalAnalyses": 613944,
     "leagues": 353,
     "pro": {
       "won": 457,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 487,
-    "analyses30d": 17140
+    "analyses24h": 479,
+    "analyses30d": 17132
   },
   "recentWins": [
     {
@@ -301,9 +301,15 @@
     },
     {
       "type": "updated",
-      "at": "16.11.2026 10:33",
+      "at": "16.11.2026 10:50",
       "home": "Faroe Islands",
       "away": "Moldova"
+    },
+    {
+      "type": "updated",
+      "at": "16.11.2026 10:50",
+      "home": "Kazakhstan",
+      "away": "Slovakia"
     },
     {
       "type": "updated",
@@ -328,10 +334,6 @@
       "home": "Sudan",
       "away": "Senegal",
       "at": "16.11.2026 13:00"
-    },
-    {
-      "type": "analysis",
-      "count": 487
     }
   ],
   "today": {
@@ -342,7 +344,7 @@
     "matchCode": "4445232",
     "odds": 1.75,
     "patternScore": 67.02,
-    "patternText": "209.421/312.474",
+    "patternText": "209.435/312.494",
     "aiScore": 51,
     "picks": 3
   },
@@ -355,7 +357,7 @@
       "matchCode": "4445232",
       "odds": 1.75,
       "patternScore": 67.02,
-      "patternText": "209.421/312.474",
+      "patternText": "209.435/312.494",
       "aiScore": 51,
       "picks": 3
     },
@@ -367,7 +369,7 @@
       "matchCode": "4579342",
       "odds": 1.34,
       "patternScore": 66.34,
-      "patternText": "136.722/206.103",
+      "patternText": "136.724/206.105",
       "aiScore": 61,
       "picks": 2
     },
@@ -379,7 +381,7 @@
       "matchCode": "4579334",
       "odds": 1.09,
       "patternScore": 70.93,
-      "patternText": "145.414/205.014",
+      "patternText": "145.420/205.020",
       "aiScore": 96,
       "picks": 1
     },
@@ -391,7 +393,7 @@
       "matchCode": "4445167",
       "odds": 1.37,
       "patternScore": 67.68,
-      "patternText": "128.337/189.616",
+      "patternText": "128.339/189.618",
       "aiScore": 59,
       "picks": 3
     },
@@ -403,7 +405,7 @@
       "matchCode": "4535571",
       "odds": 1.14,
       "patternScore": 69.91,
-      "patternText": "264.263/377.997",
+      "patternText": "264.271/378.011",
       "aiScore": 88,
       "picks": 1
     }
@@ -413,8 +415,15 @@
       "home": "Faroe Islands",
       "away": "Moldova",
       "league": "AVUL",
-      "at": "16.11.2026 10:33",
-      "count": 10
+      "at": "16.11.2026 10:50",
+      "count": 7
+    },
+    {
+      "home": "Kazakhstan",
+      "away": "Slovakia",
+      "league": "AVUL",
+      "at": "16.11.2026 10:50",
+      "count": 8
     },
     {
       "home": "Sao Paulo FC",
@@ -471,13 +480,6 @@
       "league": "AVUL",
       "at": "16.11.2026 09:05",
       "count": 7
-    },
-    {
-      "home": "Ireland",
-      "away": "Kosovo",
-      "league": "AVUL",
-      "at": "16.11.2026 09:04",
-      "count": 5
     }
   ],
   "paywall": {
