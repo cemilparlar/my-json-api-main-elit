@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 10:39",
+  "updatedAt": "16.11.2026 10:47",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 159,
       "rate": 70.4
     },
-    "totalAnalyses": 613926,
+    "totalAnalyses": 613936,
     "leagues": 353,
     "pro": {
-      "won": 455,
-      "lost": 198,
-      "total": 653,
+      "won": 457,
+      "lost": 199,
+      "total": 656,
       "rate": 69.7
     },
     "insights": {
-      "won": 735,
-      "lost": 309,
-      "total": 1044,
+      "won": 738,
+      "lost": 310,
+      "total": 1048,
       "rate": 70.4
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 488,
-    "analyses30d": 17141
+    "analyses24h": 487,
+    "analyses30d": 17140
   },
   "recentWins": [
     {
@@ -331,22 +331,34 @@
     },
     {
       "type": "analysis",
-      "count": 488
+      "count": 487
     }
   ],
   "today": {
-    "home": "Namibia",
-    "away": "Cameroon",
-    "league": "AFUK",
-    "date": "16.11.2026 13:00",
-    "matchCode": "4579342",
-    "odds": 1.34,
-    "patternScore": 66.34,
-    "patternText": "136.722/206.103",
-    "aiScore": 61,
-    "picks": 2
+    "home": "Faroe Islands",
+    "away": "Moldova",
+    "league": "AVUL",
+    "date": "16.11.2026 15:00",
+    "matchCode": "4445232",
+    "odds": 1.75,
+    "patternScore": 67.02,
+    "patternText": "209.421/312.474",
+    "aiScore": 51,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Faroe Islands",
+      "away": "Moldova",
+      "league": "AVUL",
+      "date": "16.11.2026 15:00",
+      "matchCode": "4445232",
+      "odds": 1.75,
+      "patternScore": 67.02,
+      "patternText": "209.421/312.474",
+      "aiScore": 51,
+      "picks": 3
+    },
     {
       "home": "Namibia",
       "away": "Cameroon",
@@ -369,18 +381,6 @@
       "patternScore": 70.93,
       "patternText": "145.414/205.014",
       "aiScore": 96,
-      "picks": 1
-    },
-    {
-      "home": "Faroe Islands",
-      "away": "Moldova",
-      "league": "AVUL",
-      "date": "16.11.2026 15:00",
-      "matchCode": "4445232",
-      "odds": 1.08,
-      "patternScore": 68.92,
-      "patternText": "251.803/365.372",
-      "aiScore": 95,
       "picks": 1
     },
     {
