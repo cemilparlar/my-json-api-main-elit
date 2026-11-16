@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 09:02",
+  "updatedAt": "16.11.2026 09:11",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 167,
       "rate": 71.3
     },
-    "totalAnalyses": 613793,
+    "totalAnalyses": 613817,
     "leagues": 353,
     "pro": {
       "won": 449,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 406,
-    "analyses30d": 17050
+    "analyses24h": 430,
+    "analyses30d": 17074
   },
   "recentWins": [
     {
@@ -301,13 +301,19 @@
     },
     {
       "type": "updated",
+      "at": "16.11.2026 09:04",
+      "home": "Faroe Islands",
+      "away": "Moldova"
+    },
+    {
+      "type": "updated",
       "at": "16.11.2026 07:42",
       "home": "Sudan",
       "away": "Senegal"
     },
     {
       "type": "analysis",
-      "count": 406
+      "count": 430
     }
   ],
   "today": {
@@ -386,6 +392,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Arsenal Women",
+      "away": "Lyon Women",
+      "league": "ŞMP-K",
+      "at": "16.11.2026 09:05",
+      "count": 4
+    },
+    {
+      "home": "Ukraine",
+      "away": "Georgia",
+      "league": "AVUL",
+      "at": "16.11.2026 09:05",
+      "count": 7
+    },
+    {
+      "home": "Ireland",
+      "away": "Kosovo",
+      "league": "AVUL",
+      "at": "16.11.2026 09:04",
+      "count": 5
+    },
+    {
+      "home": "Faroe Islands",
+      "away": "Moldova",
+      "league": "AVUL",
+      "at": "16.11.2026 09:04",
+      "count": 5
+    },
+    {
       "home": "Wales",
       "away": "Portugal",
       "league": "AVUL",
@@ -426,34 +460,6 @@
       "league": "AVUL",
       "at": "16.11.2026 07:27",
       "count": 15
-    },
-    {
-      "home": "Belgium",
-      "away": "Italy",
-      "league": "AVUL",
-      "at": "15.11.2026 19:01",
-      "count": 6
-    },
-    {
-      "home": "France",
-      "away": "Turkiye",
-      "league": "AVUL",
-      "at": "15.11.2026 19:01",
-      "count": 3
-    },
-    {
-      "home": "Croatia",
-      "away": "Czechia",
-      "league": "AVUL",
-      "at": "15.11.2026 19:00",
-      "count": 4
-    },
-    {
-      "home": "Spain",
-      "away": "England",
-      "league": "AVUL",
-      "at": "15.11.2026 18:59",
-      "count": 11
     }
   ],
   "paywall": {
