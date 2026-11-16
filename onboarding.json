@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 18:58",
+  "updatedAt": "16.11.2026 19:05",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 45,
-      "lost": 27,
-      "total": 72,
-      "rate": 62.5
+      "won": 53,
+      "lost": 29,
+      "total": 82,
+      "rate": 64.6
     },
-    "totalAnalyses": 614559,
+    "totalAnalyses": 614565,
     "leagues": 353,
     "pro": {
-      "won": 476,
+      "won": 479,
       "lost": 204,
-      "total": 680,
-      "rate": 70.0
+      "total": 683,
+      "rate": 70.1
     },
     "insights": {
-      "won": 771,
-      "lost": 324,
-      "total": 1095,
-      "rate": 70.4
+      "won": 779,
+      "lost": 326,
+      "total": 1105,
+      "rate": 70.5
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 384,
-    "analyses30d": 16752
+    "analyses24h": 383,
+    "analyses30d": 16724
   },
   "recentWins": [
     {
@@ -94,20 +94,6 @@
       "pro": true
     },
     {
-      "home": "Georgia",
-      "away": "Hungary",
-      "league": "AVUL",
-      "date": "14.11.2026 17:00",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.75,
-      "probability": 83.33333333333334,
-      "patternScore": 66.6,
-      "aiScore": 53,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 2",
-      "pro": false
-    },
-    {
       "home": "RB Leipzig Women",
       "away": "E. Frankfurt Women",
       "league": "ALKB",
@@ -120,6 +106,20 @@
       "firstHalf": "0 - 2",
       "finalScore": "1 - 5",
       "pro": true
+    },
+    {
+      "home": "Haiti",
+      "away": "USA",
+      "league": "CON",
+      "date": "14.11.2026 21:30",
+      "prediction": "Both Teams to Score - No",
+      "odds": 1.6,
+      "probability": 100.0,
+      "patternScore": 56.53,
+      "aiScore": 53,
+      "firstHalf": "0 - 1",
+      "finalScore": "0 - 6",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -281,11 +281,11 @@
     },
     {
       "type": "won",
-      "home": "Georgia",
-      "away": "Hungary",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.75,
-      "at": "14.11.2026 17:00"
+      "home": "RB Leipzig Women",
+      "away": "E. Frankfurt Women",
+      "prediction": "Over 3.5 Goals",
+      "odds": 1.73,
+      "at": "15.11.2026 15:00"
     },
     {
       "type": "updated",
@@ -342,11 +342,11 @@
     "league": "AVUL",
     "date": "16.11.2026 19:45",
     "matchCode": "4445167",
-    "odds": 1.26,
-    "patternScore": 68.11,
-    "patternText": "228.647/335.693",
-    "aiScore": 65,
-    "picks": 3
+    "odds": 1.41,
+    "patternScore": 68.09,
+    "patternText": "123.717/181.695",
+    "aiScore": 56,
+    "picks": 1
   },
   "todayList": [
     {
@@ -355,47 +355,11 @@
       "league": "AVUL",
       "date": "16.11.2026 19:45",
       "matchCode": "4445167",
-      "odds": 1.26,
-      "patternScore": 68.11,
-      "patternText": "228.647/335.693",
-      "aiScore": 65,
-      "picks": 3
-    },
-    {
-      "home": "England (U21",
-      "away": "France (U21)",
-      "league": "HAZ",
-      "date": "16.11.2026 19:30",
-      "matchCode": "4579531",
-      "odds": 1.12,
-      "patternScore": 70.11,
-      "patternText": "265.814/379.162",
-      "aiScore": 94,
-      "picks": 2
-    },
-    {
-      "home": "Sorrento Calcio",
-      "away": "Monopoli",
-      "league": "İTC",
-      "date": "16.11.2026 19:30",
-      "matchCode": "4535956",
-      "odds": 1.08,
-      "patternScore": 69.79,
-      "patternText": "228.199/326.979",
-      "aiScore": 99,
+      "odds": 1.41,
+      "patternScore": 68.09,
+      "patternText": "123.717/181.695",
+      "aiScore": 56,
       "picks": 1
-    },
-    {
-      "home": "Albacete Balompie",
-      "away": "Celta Vigo B",
-      "league": "İS2",
-      "date": "16.11.2026 19:30",
-      "matchCode": "4492822",
-      "odds": 1.08,
-      "patternScore": 69.97,
-      "patternText": "299.453/427.971",
-      "aiScore": 94,
-      "picks": 2
     },
     {
       "home": "AC Perugia",
@@ -407,6 +371,42 @@
       "patternScore": 70.6,
       "patternText": "140.264/198.668",
       "aiScore": 98,
+      "picks": 1
+    },
+    {
+      "home": "Greece",
+      "away": "Serbia",
+      "league": "AVUL",
+      "date": "16.11.2026 19:45",
+      "matchCode": "4445131",
+      "odds": 1.07,
+      "patternScore": 68.38,
+      "patternText": "164.849/241.071",
+      "aiScore": 97,
+      "picks": 1
+    },
+    {
+      "home": "Northern Ireland",
+      "away": "Switzerland U19",
+      "league": "AVŞU19",
+      "date": "17.11.2026 12:00",
+      "matchCode": "4579280",
+      "odds": 1.32,
+      "patternScore": 68.2,
+      "patternText": "205.314/301.054",
+      "aiScore": 58,
+      "picks": 2
+    },
+    {
+      "home": "Burundi",
+      "away": "Zambia",
+      "league": "AFUK",
+      "date": "17.11.2026 13:00",
+      "matchCode": "4579358",
+      "odds": 1.15,
+      "patternScore": 69.06,
+      "patternText": "208.745/302.250",
+      "aiScore": 79,
       "picks": 1
     }
   ],
