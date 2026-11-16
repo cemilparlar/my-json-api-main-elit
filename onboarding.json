@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 20:10",
+  "updatedAt": "16.11.2026 20:17",
   "config": {
     "pages": [
       "engine",
@@ -30,16 +30,16 @@
     "totalAnalyses": 614605,
     "leagues": 354,
     "pro": {
-      "won": 471,
-      "lost": 203,
+      "won": 472,
+      "lost": 202,
       "total": 674,
-      "rate": 69.9
+      "rate": 70.0
     },
     "insights": {
       "won": 768,
-      "lost": 324,
-      "total": 1092,
-      "rate": 70.3
+      "lost": 323,
+      "total": 1091,
+      "rate": 70.4
     },
     "coupons": {
       "won": 0,
@@ -319,12 +319,6 @@
     },
     {
       "type": "updated",
-      "at": "16.11.2026 14:10",
-      "home": "Faroe Islands",
-      "away": "Moldova"
-    },
-    {
-      "type": "updated",
       "at": "16.11.2026 14:26",
       "home": "Kazakhstan",
       "away": "Slovakia"
@@ -334,6 +328,12 @@
       "at": "16.11.2026 15:44",
       "home": "Greece (U2",
       "away": "Iceland (U21)"
+    },
+    {
+      "type": "updated",
+      "at": "16.11.2026 14:48",
+      "home": "Italy (U21)",
+      "away": "Belgium (U21)"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4579914",
     "odds": 1.09,
     "patternScore": 70.21,
-    "patternText": "191.865/273.268",
+    "patternText": "191.877/273.280",
     "aiScore": 95,
     "picks": 1
   },
@@ -357,7 +357,7 @@
       "matchCode": "4579914",
       "odds": 1.09,
       "patternScore": 70.21,
-      "patternText": "191.865/273.268",
+      "patternText": "191.877/273.280",
       "aiScore": 95,
       "picks": 1
     },
@@ -369,7 +369,7 @@
       "matchCode": "4579280",
       "odds": 1.32,
       "patternScore": 68.2,
-      "patternText": "205.344/301.102",
+      "patternText": "205.348/301.106",
       "aiScore": 58,
       "picks": 2
     },
@@ -381,7 +381,7 @@
       "matchCode": "4540679",
       "odds": 1.23,
       "patternScore": 68.1,
-      "patternText": "216.121/317.361",
+      "patternText": "216.125/317.365",
       "aiScore": 67,
       "picks": 1
     },
@@ -393,7 +393,7 @@
       "matchCode": "4579358",
       "odds": 1.15,
       "patternScore": 69.06,
-      "patternText": "208.763/302.282",
+      "patternText": "208.767/302.286",
       "aiScore": 78,
       "picks": 1
     },
@@ -405,7 +405,7 @@
       "matchCode": "4579221",
       "odds": 1.15,
       "patternScore": 69.43,
-      "patternText": "222.422/320.335",
+      "patternText": "222.426/320.339",
       "aiScore": 84,
       "picks": 1
     }
