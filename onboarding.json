@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 15:11",
+  "updatedAt": "16.11.2026 15:19",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 65,
-      "lost": 29,
-      "total": 94,
-      "rate": 69.1
+      "won": 60,
+      "lost": 27,
+      "total": 87,
+      "rate": 69.0
     },
     "totalAnalyses": 614207,
     "leagues": 354,
@@ -47,10 +47,24 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 394,
+    "analyses24h": 385,
     "analyses30d": 17057
   },
   "recentWins": [
+    {
+      "home": "Sudan",
+      "away": "Senegal",
+      "league": "AFUK",
+      "date": "16.11.2026 13:00",
+      "prediction": "Total Goals 6+",
+      "odds": 13.2,
+      "probability": 100.0,
+      "patternScore": 56.05,
+      "aiScore": 50,
+      "firstHalf": "0 - 2",
+      "finalScore": "2 - 4",
+      "pro": false
+    },
     {
       "home": "Real Madrid Women",
       "away": "Badalona Women",
@@ -60,7 +74,7 @@
       "odds": 3.03,
       "probability": 75.0,
       "patternScore": 64.66,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "0 - 1",
       "finalScore": "3 - 3",
       "pro": true
@@ -74,7 +88,7 @@
       "odds": 1.85,
       "probability": 100.0,
       "patternScore": 58.51,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "2 - 1",
       "finalScore": "3 - 1",
       "pro": true
@@ -88,7 +102,7 @@
       "odds": 1.75,
       "probability": 83.33333333333334,
       "patternScore": 66.6,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 2",
       "pro": false
@@ -102,24 +116,10 @@
       "odds": 1.73,
       "probability": 77.78,
       "patternScore": 67.15,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 5",
       "pro": true
-    },
-    {
-      "home": "Haiti",
-      "away": "USA",
-      "league": "CON",
-      "date": "14.11.2026 21:30",
-      "prediction": "Both Teams to Score - No",
-      "odds": 1.6,
-      "probability": 100.0,
-      "patternScore": 56.53,
-      "aiScore": 51,
-      "firstHalf": "0 - 1",
-      "finalScore": "0 - 6",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -257,6 +257,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Sudan",
+      "away": "Senegal",
+      "prediction": "Total Goals 6+",
+      "odds": 13.2,
+      "at": "16.11.2026 13:00"
+    },
+    {
+      "type": "won",
       "home": "Real Madrid Women",
       "away": "Badalona Women",
       "prediction": "Double Chance X2",
@@ -278,14 +286,6 @@
       "prediction": "Total Goals 2-3",
       "odds": 1.75,
       "at": "14.11.2026 17:00"
-    },
-    {
-      "type": "won",
-      "home": "RB Leipzig Women",
-      "away": "E. Frankfurt Women",
-      "prediction": "Over 3.5 Goals",
-      "odds": 1.73,
-      "at": "15.11.2026 15:00"
     },
     {
       "type": "updated",
@@ -344,8 +344,8 @@
     "matchCode": "4579318",
     "odds": 1.32,
     "patternScore": 67.56,
-    "patternText": "203.542/301.273",
-    "aiScore": 56,
+    "patternText": "203.608/301.363",
+    "aiScore": 57,
     "picks": 2
   },
   "todayList": [
@@ -357,8 +357,8 @@
       "matchCode": "4579318",
       "odds": 1.32,
       "patternScore": 67.56,
-      "patternText": "203.542/301.273",
-      "aiScore": 56,
+      "patternText": "203.608/301.363",
+      "aiScore": 57,
       "picks": 2
     },
     {
@@ -369,8 +369,8 @@
       "matchCode": "4535571",
       "odds": 1.28,
       "patternScore": 67.75,
-      "patternText": "200.252/295.569",
-      "aiScore": 58,
+      "patternText": "200.272/295.597",
+      "aiScore": 59,
       "picks": 4
     },
     {
@@ -381,7 +381,7 @@
       "matchCode": "4565385",
       "odds": 1.24,
       "patternScore": 68.65,
-      "patternText": "242.939/353.906",
+      "patternText": "242.959/353.934",
       "aiScore": 62,
       "picks": 1
     },
@@ -393,7 +393,7 @@
       "matchCode": "4445167",
       "odds": 1.21,
       "patternScore": 68.75,
-      "patternText": "142.041/206.609",
+      "patternText": "142.061/206.637",
       "aiScore": 71,
       "picks": 4
     },
@@ -405,7 +405,7 @@
       "matchCode": "4579530",
       "odds": 1.19,
       "patternScore": 68.41,
-      "patternText": "207.127/302.770",
+      "patternText": "207.147/302.798",
       "aiScore": 68,
       "picks": 4
     }
