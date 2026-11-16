@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 17:26",
+  "updatedAt": "16.11.2026 17:33",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 47,
-      "lost": 28,
-      "total": 75,
-      "rate": 62.7
+      "won": 41,
+      "lost": 25,
+      "total": 66,
+      "rate": 62.1
     },
-    "totalAnalyses": 614444,
+    "totalAnalyses": 614464,
     "leagues": 354,
     "pro": {
-      "won": 475,
+      "won": 476,
       "lost": 206,
-      "total": 681,
+      "total": 682,
       "rate": 69.8
     },
     "insights": {
-      "won": 769,
+      "won": 770,
       "lost": 325,
-      "total": 1094,
+      "total": 1095,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 405,
-    "analyses30d": 16979
+    "analyses24h": 391,
+    "analyses30d": 16955
   },
   "recentWins": [
     {
@@ -116,7 +116,7 @@
       "odds": 1.73,
       "probability": 77.78,
       "patternScore": 67.15,
-      "aiScore": 53,
+      "aiScore": 52,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 5",
       "pro": true
@@ -342,10 +342,10 @@
     "league": "AVUL",
     "date": "16.11.2026 19:45",
     "matchCode": "4445167",
-    "odds": 1.25,
-    "patternScore": 68.51,
-    "patternText": "224.581/327.789",
-    "aiScore": 65,
+    "odds": 1.19,
+    "patternScore": 68.36,
+    "patternText": "147.323/215.514",
+    "aiScore": 72,
     "picks": 4
   },
   "todayList": [
@@ -355,23 +355,11 @@
       "league": "AVUL",
       "date": "16.11.2026 19:45",
       "matchCode": "4445167",
-      "odds": 1.25,
-      "patternScore": 68.51,
-      "patternText": "224.581/327.789",
-      "aiScore": 65,
+      "odds": 1.19,
+      "patternScore": 68.36,
+      "patternText": "147.323/215.514",
+      "aiScore": 72,
       "picks": 4
-    },
-    {
-      "home": "Andorra",
-      "away": "Azerbaijan",
-      "league": "HAZ",
-      "date": "16.11.2026 18:00",
-      "matchCode": "4565385",
-      "odds": 1.24,
-      "patternScore": 68.64,
-      "patternText": "243.075/354.110",
-      "aiScore": 64,
-      "picks": 1
     },
     {
       "home": "England (U21",
@@ -380,21 +368,9 @@
       "date": "16.11.2026 19:30",
       "matchCode": "4579531",
       "odds": 1.12,
-      "patternScore": 70.1,
-      "patternText": "265.760/379.090",
+      "patternScore": 70.11,
+      "patternText": "265.764/379.094",
       "aiScore": 94,
-      "picks": 2
-    },
-    {
-      "home": "Germany",
-      "away": "Netherlands",
-      "league": "AVUL",
-      "date": "16.11.2026 19:45",
-      "matchCode": "4445130",
-      "odds": 1.09,
-      "patternScore": 70.31,
-      "patternText": "176.262/250.706",
-      "aiScore": 97,
       "picks": 2
     },
     {
@@ -405,8 +381,32 @@
       "matchCode": "4535956",
       "odds": 1.08,
       "patternScore": 69.79,
-      "patternText": "228.163/326.929",
+      "patternText": "228.165/326.931",
       "aiScore": 99,
+      "picks": 1
+    },
+    {
+      "home": "AC Perugia",
+      "away": "Sassari Torres",
+      "league": "İTC",
+      "date": "16.11.2026 19:45",
+      "matchCode": "4535571",
+      "odds": 1.07,
+      "patternScore": 70.6,
+      "patternText": "140.246/198.636",
+      "aiScore": 98,
+      "picks": 1
+    },
+    {
+      "home": "Netherlands (U19)",
+      "away": "Croatia (U1",
+      "league": "AVŞU19",
+      "date": "17.11.2026 11:00",
+      "matchCode": "4579251",
+      "odds": 1.13,
+      "patternScore": 69.83,
+      "patternText": "208.629/298.752",
+      "aiScore": 86,
       "picks": 1
     }
   ],
