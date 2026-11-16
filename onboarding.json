@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 12:13",
+  "updatedAt": "16.11.2026 12:21",
   "config": {
     "pages": [
       "engine",
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "16.11.2026 12:11",
-      "home": "Namibia",
-      "away": "Cameroon"
-    },
-    {
-      "type": "updated",
       "at": "16.11.2026 07:08",
       "home": "Zimbabwe",
       "away": "Equatorial Guinea"
@@ -334,6 +328,12 @@
       "home": "Sudan",
       "away": "Senegal",
       "at": "16.11.2026 13:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Faroe Islands",
+      "away": "Moldova",
+      "at": "16.11.2026 15:00"
     }
   ],
   "today": {
@@ -370,7 +370,7 @@
       "odds": 1.12,
       "patternScore": 70.06,
       "patternText": "265.539/379.016",
-      "aiScore": 91,
+      "aiScore": 90,
       "picks": 2
     },
     {
