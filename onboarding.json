@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 11:10",
+  "updatedAt": "16.11.2026 11:19",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 140,
       "rate": 72.1
     },
-    "totalAnalyses": 613945,
-    "leagues": 353,
+    "totalAnalyses": 613974,
+    "leagues": 354,
     "pro": {
-      "won": 457,
+      "won": 459,
       "lost": 199,
-      "total": 656,
-      "rate": 69.7
+      "total": 658,
+      "rate": 69.8
     },
     "insights": {
-      "won": 738,
-      "lost": 310,
-      "total": 1048,
+      "won": 740,
+      "lost": 311,
+      "total": 1051,
       "rate": 70.4
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 448,
-    "analyses30d": 17129
+    "analyses24h": 463,
+    "analyses30d": 17147
   },
   "recentWins": [
     {
@@ -370,8 +370,20 @@
       "odds": 1.33,
       "patternScore": 67.44,
       "patternText": "160.225/237.590",
-      "aiScore": 63,
+      "aiScore": 62,
       "picks": 3
+    },
+    {
+      "home": "Italy (U21)",
+      "away": "Belgium (U21)",
+      "league": "HAZ",
+      "date": "16.11.2026 17:15",
+      "matchCode": "4579530",
+      "odds": 1.13,
+      "patternScore": 69.97,
+      "patternText": "264.775/378.398",
+      "aiScore": 90,
+      "picks": 2
     },
     {
       "home": "Zimbabwe",
@@ -396,18 +408,6 @@
       "patternText": "128.339/189.618",
       "aiScore": 59,
       "picks": 3
-    },
-    {
-      "home": "AC Perugia",
-      "away": "Sassari Torres",
-      "league": "İTC",
-      "date": "16.11.2026 19:45",
-      "matchCode": "4535571",
-      "odds": 1.14,
-      "patternScore": 69.91,
-      "patternText": "264.271/378.011",
-      "aiScore": 88,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
