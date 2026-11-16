@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 13:52",
+  "updatedAt": "16.11.2026 14:00",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 105,
       "rate": 72.4
     },
-    "totalAnalyses": 614112,
+    "totalAnalyses": 614117,
     "leagues": 354,
     "pro": {
       "won": 470,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 424,
-    "analyses30d": 17104
+    "analyses24h": 405,
+    "analyses30d": 17083
   },
   "recentWins": [
     {
@@ -301,6 +301,12 @@
     },
     {
       "type": "updated",
+      "at": "16.11.2026 13:52",
+      "home": "Switzerland",
+      "away": "Scotland"
+    },
+    {
+      "type": "updated",
       "at": "16.11.2026 12:54",
       "home": "Faroe Islands",
       "away": "Moldova"
@@ -328,39 +334,21 @@
       "at": "16.11.2026 12:34",
       "home": "Andorra",
       "away": "Azerbaijan"
-    },
-    {
-      "type": "updated",
-      "at": "16.11.2026 11:32",
-      "home": "Italy (U21)",
-      "away": "Belgium (U21)"
     }
   ],
   "today": {
-    "home": "Switzerland",
-    "away": "Scotland",
-    "league": "AVUL",
-    "date": "16.11.2026 19:45",
-    "matchCode": "4445167",
-    "odds": 1.37,
-    "patternScore": 67.68,
-    "patternText": "128.343/189.624",
-    "aiScore": 59,
-    "picks": 3
+    "home": "Eritrea",
+    "away": "Guinea",
+    "league": "AFUK",
+    "date": "16.11.2026 16:00",
+    "matchCode": "4579318",
+    "odds": 1.32,
+    "patternScore": 67.56,
+    "patternText": "203.542/301.273",
+    "aiScore": 56,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Switzerland",
-      "away": "Scotland",
-      "league": "AVUL",
-      "date": "16.11.2026 19:45",
-      "matchCode": "4445167",
-      "odds": 1.37,
-      "patternScore": 67.68,
-      "patternText": "128.343/189.624",
-      "aiScore": 59,
-      "picks": 3
-    },
     {
       "home": "Eritrea",
       "away": "Guinea",
@@ -369,9 +357,21 @@
       "matchCode": "4579318",
       "odds": 1.32,
       "patternScore": 67.56,
-      "patternText": "203.536/301.267",
+      "patternText": "203.542/301.273",
       "aiScore": 56,
       "picks": 2
+    },
+    {
+      "home": "AC Perugia",
+      "away": "Sassari Torres",
+      "league": "İTC",
+      "date": "16.11.2026 19:45",
+      "matchCode": "4535571",
+      "odds": 1.28,
+      "patternScore": 67.75,
+      "patternText": "200.252/295.569",
+      "aiScore": 58,
+      "picks": 4
     },
     {
       "home": "Kazakhstan",
@@ -386,6 +386,18 @@
       "picks": 4
     },
     {
+      "home": "Switzerland",
+      "away": "Scotland",
+      "league": "AVUL",
+      "date": "16.11.2026 19:45",
+      "matchCode": "4445167",
+      "odds": 1.21,
+      "patternScore": 68.75,
+      "patternText": "142.041/206.609",
+      "aiScore": 71,
+      "picks": 4
+    },
+    {
       "home": "Andorra",
       "away": "Azerbaijan",
       "league": "HAZ",
@@ -393,24 +405,19 @@
       "matchCode": "4565385",
       "odds": 1.15,
       "patternScore": 69.95,
-      "patternText": "299.709/428.490",
+      "patternText": "299.719/428.500",
       "aiScore": 86,
-      "picks": 1
-    },
-    {
-      "home": "AC Perugia",
-      "away": "Sassari Torres",
-      "league": "İTC",
-      "date": "16.11.2026 19:45",
-      "matchCode": "4535571",
-      "odds": 1.14,
-      "patternScore": 69.91,
-      "patternText": "264.377/378.147",
-      "aiScore": 88,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Switzerland",
+      "away": "Scotland",
+      "league": "AVUL",
+      "at": "16.11.2026 13:52",
+      "count": 7
+    },
     {
       "home": "Albacete Balompie",
       "away": "Celta Vigo B",
@@ -473,13 +480,6 @@
       "league": "BR1",
       "at": "16.11.2026 09:22",
       "count": 12
-    },
-    {
-      "home": "Arsenal Women",
-      "away": "Lyon Women",
-      "league": "ŞMP-K",
-      "at": "16.11.2026 09:05",
-      "count": 4
     }
   ],
   "paywall": {
