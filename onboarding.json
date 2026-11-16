@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 14:32",
+  "updatedAt": "16.11.2026 14:39",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 90,
       "rate": 70.0
     },
-    "totalAnalyses": 614156,
+    "totalAnalyses": 614159,
     "leagues": 354,
     "pro": {
       "won": 470,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 409,
-    "analyses30d": 17077
+    "analyses24h": 407,
+    "analyses30d": 17075
   },
   "recentWins": [
     {
@@ -374,6 +374,18 @@
       "picks": 4
     },
     {
+      "home": "Andorra",
+      "away": "Azerbaijan",
+      "league": "HAZ",
+      "date": "16.11.2026 18:00",
+      "matchCode": "4565385",
+      "odds": 1.24,
+      "patternScore": 68.65,
+      "patternText": "242.939/353.906",
+      "aiScore": 62,
+      "picks": 1
+    },
+    {
       "home": "Switzerland",
       "away": "Scotland",
       "league": "AVUL",
@@ -384,18 +396,6 @@
       "patternText": "142.041/206.609",
       "aiScore": 71,
       "picks": 4
-    },
-    {
-      "home": "Andorra",
-      "away": "Azerbaijan",
-      "league": "HAZ",
-      "date": "16.11.2026 18:00",
-      "matchCode": "4565385",
-      "odds": 1.15,
-      "patternScore": 69.95,
-      "patternText": "299.719/428.500",
-      "aiScore": 86,
-      "picks": 1
     },
     {
       "home": "Italy (U21)",
