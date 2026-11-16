@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 07:24",
+  "updatedAt": "16.11.2026 07:33",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 122,
+      "won": 119,
       "lost": 48,
-      "total": 170,
-      "rate": 71.8
+      "total": 167,
+      "rate": 71.3
     },
-    "totalAnalyses": 613648,
+    "totalAnalyses": 613674,
     "leagues": 353,
     "pro": {
       "won": 449,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 329,
-    "analyses30d": 16984
+    "analyses24h": 352,
+    "analyses30d": 17010
   },
   "recentWins": [
     {
@@ -295,7 +295,7 @@
     },
     {
       "type": "analysis",
-      "count": 329
+      "count": 352
     }
   ],
   "today": {
@@ -307,7 +307,7 @@
     "odds": 1.09,
     "patternScore": 70.93,
     "patternText": "145.410/205.008",
-    "aiScore": 97,
+    "aiScore": 96,
     "picks": 1
   },
   "todayList": [
@@ -320,7 +320,7 @@
       "odds": 1.09,
       "patternScore": 70.93,
       "patternText": "145.410/205.008",
-      "aiScore": 97,
+      "aiScore": 96,
       "picks": 1
     },
     {
@@ -332,8 +332,32 @@
       "odds": 1.16,
       "patternScore": 68.58,
       "patternText": "216.589/315.812",
-      "aiScore": 77,
+      "aiScore": 76,
       "picks": 2
+    },
+    {
+      "home": "Sorrento Calcio",
+      "away": "Monopoli",
+      "league": "İTC",
+      "date": "16.11.2026 19:30",
+      "matchCode": "4535956",
+      "odds": 1.1,
+      "patternScore": 69.75,
+      "patternText": "227.553/326.259",
+      "aiScore": 97,
+      "picks": 1
+    },
+    {
+      "home": "Albacete Balompie",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "date": "16.11.2026 19:30",
+      "matchCode": "4492822",
+      "odds": 1.08,
+      "patternScore": 69.83,
+      "patternText": "218.175/312.424",
+      "aiScore": 97,
+      "picks": 3
     },
     {
       "home": "Switzerland",
@@ -346,33 +370,16 @@
       "patternText": "128.335/189.612",
       "aiScore": 59,
       "picks": 3
-    },
-    {
-      "home": "Sorrento Calcio",
-      "away": "Monopoli",
-      "league": "İTC",
-      "date": "16.11.2026 19:30",
-      "matchCode": "4535956",
-      "odds": 1.1,
-      "patternScore": 69.75,
-      "patternText": "227.553/326.259",
-      "aiScore": 98,
-      "picks": 1
-    },
-    {
-      "home": "Germany",
-      "away": "Netherlands",
-      "league": "AVUL",
-      "date": "16.11.2026 19:45",
-      "matchCode": "4445130",
-      "odds": 1.09,
-      "patternScore": 70.32,
-      "patternText": "176.050/250.352",
-      "aiScore": 97,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Gibraltar",
+      "away": "Malta",
+      "league": "AVUL",
+      "at": "16.11.2026 07:27",
+      "count": 15
+    },
     {
       "home": "Belgium",
       "away": "Italy",
@@ -435,13 +442,6 @@
       "league": "İS2",
       "at": "15.11.2026 13:09",
       "count": 9
-    },
-    {
-      "home": "Latvia",
-      "away": "Armenia",
-      "league": "AVUL",
-      "at": "15.11.2026 13:08",
-      "count": 8
     }
   ],
   "paywall": {
