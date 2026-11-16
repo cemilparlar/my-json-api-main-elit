@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 01:42",
+  "updatedAt": "16.11.2026 01:50",
   "config": {
     "pages": [
       "engine",
@@ -88,7 +88,7 @@
       "odds": 1.8,
       "probability": 75.0,
       "patternScore": 64.73,
-      "aiScore": 52,
+      "aiScore": 53,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 1",
       "pro": true
@@ -293,18 +293,30 @@
     }
   ],
   "today": {
-    "home": "Faroe Islands",
-    "away": "Moldova",
+    "home": "Switzerland",
+    "away": "Scotland",
     "league": "AVUL",
-    "date": "16.11.2026 15:00",
-    "matchCode": "4445232",
-    "odds": 1.16,
-    "patternScore": 68.58,
-    "patternText": "216.589/315.812",
-    "aiScore": 77,
-    "picks": 2
+    "date": "16.11.2026 19:45",
+    "matchCode": "4445167",
+    "odds": 1.37,
+    "patternScore": 67.68,
+    "patternText": "128.335/189.612",
+    "aiScore": 59,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Switzerland",
+      "away": "Scotland",
+      "league": "AVUL",
+      "date": "16.11.2026 19:45",
+      "matchCode": "4445167",
+      "odds": 1.37,
+      "patternScore": 67.68,
+      "patternText": "128.335/189.612",
+      "aiScore": 59,
+      "picks": 3
+    },
     {
       "home": "Faroe Islands",
       "away": "Moldova",
@@ -330,30 +342,6 @@
       "picks": 1
     },
     {
-      "home": "Albacete Balompie",
-      "away": "Celta Vigo B",
-      "league": "İS2",
-      "date": "16.11.2026 19:30",
-      "matchCode": "4492822",
-      "odds": 1.08,
-      "patternScore": 69.83,
-      "patternText": "218.175/312.424",
-      "aiScore": 98,
-      "picks": 3
-    },
-    {
-      "home": "Switzerland",
-      "away": "Scotland",
-      "league": "AVUL",
-      "date": "16.11.2026 19:45",
-      "matchCode": "4445167",
-      "odds": 1.37,
-      "patternScore": 67.68,
-      "patternText": "128.335/189.612",
-      "aiScore": 60,
-      "picks": 3
-    },
-    {
       "home": "Germany",
       "away": "Netherlands",
       "league": "AVUL",
@@ -364,6 +352,18 @@
       "patternText": "176.050/250.352",
       "aiScore": 97,
       "picks": 2
+    },
+    {
+      "home": "Albacete Balompie",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "date": "16.11.2026 19:30",
+      "matchCode": "4492822",
+      "odds": 1.08,
+      "patternScore": 69.83,
+      "patternText": "218.175/312.424",
+      "aiScore": 98,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
