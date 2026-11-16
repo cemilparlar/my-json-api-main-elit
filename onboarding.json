@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 22:57",
+  "updatedAt": "16.11.2026 23:04",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 388,
-    "analyses30d": 16706
+    "analyses30d": 16698
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4579914",
     "odds": 1.1,
     "patternScore": 69.99,
-    "patternText": "184.711/263.918",
+    "patternText": "184.719/263.928",
     "aiScore": 85,
     "picks": 2
   },
@@ -357,9 +357,33 @@
       "matchCode": "4579914",
       "odds": 1.1,
       "patternScore": 69.99,
-      "patternText": "184.711/263.918",
+      "patternText": "184.719/263.928",
       "aiScore": 85,
       "picks": 2
+    },
+    {
+      "home": "Netherlands (U19)",
+      "away": "Croatia (U1",
+      "league": "AVŞU19",
+      "date": "17.11.2026 11:00",
+      "matchCode": "4579251",
+      "odds": 1.13,
+      "patternScore": 69.84,
+      "patternText": "208.829/299.010",
+      "aiScore": 85,
+      "picks": 1
+    },
+    {
+      "home": "Hungary U19",
+      "away": "Czechia U19",
+      "league": "AVŞU19",
+      "date": "17.11.2026 11:00",
+      "matchCode": "4579250",
+      "odds": 1.08,
+      "patternScore": 70.83,
+      "patternText": "266.438/376.172",
+      "aiScore": 96,
+      "picks": 1
     },
     {
       "home": "Northern Ireland",
@@ -369,7 +393,7 @@
       "matchCode": "4579280",
       "odds": 1.32,
       "patternScore": 68.2,
-      "patternText": "205.478/301.294",
+      "patternText": "205.494/301.312",
       "aiScore": 59,
       "picks": 2
     },
@@ -381,32 +405,8 @@
       "matchCode": "4540679",
       "odds": 1.23,
       "patternScore": 68.1,
-      "patternText": "216.201/317.475",
+      "patternText": "216.209/317.485",
       "aiScore": 67,
-      "picks": 1
-    },
-    {
-      "home": "Plateau United",
-      "away": "Kun Khalifat",
-      "league": "NIJ",
-      "date": "17.11.2026 15:00",
-      "matchCode": "4552290",
-      "odds": 1.22,
-      "patternScore": 69.27,
-      "patternText": "123.760/178.670",
-      "aiScore": 71,
-      "picks": 1
-    },
-    {
-      "home": "Burundi",
-      "away": "Zambia",
-      "league": "AFUK",
-      "date": "17.11.2026 13:00",
-      "matchCode": "4579358",
-      "odds": 1.15,
-      "patternScore": 69.07,
-      "patternText": "208.905/302.470",
-      "aiScore": 78,
       "picks": 1
     }
   ],
