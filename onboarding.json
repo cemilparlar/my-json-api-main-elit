@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 09:59",
+  "updatedAt": "16.11.2026 10:07",
   "config": {
     "pages": [
       "engine",
@@ -36,10 +36,10 @@
       "rate": 69.8
     },
     "insights": {
-      "won": 724,
+      "won": 727,
       "lost": 307,
-      "total": 1031,
-      "rate": 70.2
+      "total": 1034,
+      "rate": 70.3
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 477,
-    "analyses30d": 17123
+    "analyses24h": 475,
+    "analyses30d": 17119
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 1.85,
       "probability": 100.0,
       "patternScore": 58.51,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "2 - 1",
       "finalScore": "3 - 1",
       "pro": true
@@ -102,7 +102,7 @@
       "odds": 1.73,
       "probability": 77.78,
       "patternScore": 67.15,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "0 - 2",
       "finalScore": "1 - 5",
       "pro": true
@@ -312,8 +312,26 @@
       "away": "Senegal"
     },
     {
+      "type": "kickoff",
+      "home": "Zimbabwe",
+      "away": "Equatorial Guinea",
+      "at": "16.11.2026 13:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Sudan",
+      "away": "Senegal",
+      "at": "16.11.2026 13:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Namibia",
+      "away": "Cameroon",
+      "at": "16.11.2026 13:00"
+    },
+    {
       "type": "analysis",
-      "count": 477
+      "count": 475
     }
   ],
   "today": {
