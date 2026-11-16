@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 12:36",
+  "updatedAt": "16.11.2026 12:43",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 130,
       "rate": 70.8
     },
-    "totalAnalyses": 614018,
+    "totalAnalyses": 614031,
     "leagues": 354,
     "pro": {
-      "won": 465,
+      "won": 466,
       "lost": 201,
-      "total": 666,
-      "rate": 69.8
+      "total": 667,
+      "rate": 69.9
     },
     "insights": {
-      "won": 750,
-      "lost": 313,
-      "total": 1063,
-      "rate": 70.6
+      "won": 751,
+      "lost": 314,
+      "total": 1065,
+      "rate": 70.5
     },
     "coupons": {
       "won": 0,
@@ -362,6 +362,18 @@
       "picks": 3
     },
     {
+      "home": "Andorra",
+      "away": "Azerbaijan",
+      "league": "HAZ",
+      "date": "16.11.2026 18:00",
+      "matchCode": "4565385",
+      "odds": 1.15,
+      "patternScore": 69.94,
+      "patternText": "299.655/428.416",
+      "aiScore": 87,
+      "picks": 1
+    },
+    {
       "home": "Italy (U21)",
       "away": "Belgium (U21)",
       "league": "HAZ",
@@ -396,18 +408,6 @@
       "patternText": "264.315/378.065",
       "aiScore": 88,
       "picks": 1
-    },
-    {
-      "home": "England (U21",
-      "away": "France (U21)",
-      "league": "HAZ",
-      "date": "16.11.2026 19:30",
-      "matchCode": "4579531",
-      "odds": 1.11,
-      "patternScore": 70.09,
-      "patternText": "266.326/379.952",
-      "aiScore": 89,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
