@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 22:35",
+  "updatedAt": "16.11.2026 22:42",
   "config": {
     "pages": [
       "engine",
@@ -332,23 +332,35 @@
     {
       "type": "updated",
       "at": "16.11.2026 22:31",
-      "home": "Martinique",
-      "away": "Aruba"
+      "home": "New Mexico Uni",
+      "away": "Sacramento Repu"
     }
   ],
   "today": {
-    "home": "Northern Ireland",
-    "away": "Switzerland U19",
-    "league": "AVŞU19",
-    "date": "17.11.2026 12:00",
-    "matchCode": "4579280",
-    "odds": 1.32,
-    "patternScore": 68.2,
-    "patternText": "205.466/301.278",
-    "aiScore": 58,
+    "home": "New Mexico Uni",
+    "away": "Sacramento Repu",
+    "league": "USLP",
+    "date": "17.11.2026 02:00",
+    "matchCode": "4579914",
+    "odds": 1.1,
+    "patternScore": 69.99,
+    "patternText": "184.707/263.914",
+    "aiScore": 85,
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "New Mexico Uni",
+      "away": "Sacramento Repu",
+      "league": "USLP",
+      "date": "17.11.2026 02:00",
+      "matchCode": "4579914",
+      "odds": 1.1,
+      "patternScore": 69.99,
+      "patternText": "184.707/263.914",
+      "aiScore": 85,
+      "picks": 2
+    },
     {
       "home": "Northern Ireland",
       "away": "Switzerland U19",
@@ -357,8 +369,8 @@
       "matchCode": "4579280",
       "odds": 1.32,
       "patternScore": 68.2,
-      "patternText": "205.466/301.278",
-      "aiScore": 58,
+      "patternText": "205.466/301.282",
+      "aiScore": 59,
       "picks": 2
     },
     {
@@ -369,7 +381,7 @@
       "matchCode": "4540679",
       "odds": 1.23,
       "patternScore": 68.1,
-      "patternText": "216.197/317.469",
+      "patternText": "216.197/317.471",
       "aiScore": 67,
       "picks": 1
     },
@@ -381,7 +393,7 @@
       "matchCode": "4552290",
       "odds": 1.22,
       "patternScore": 69.27,
-      "patternText": "123.760/178.668",
+      "patternText": "123.760/178.670",
       "aiScore": 71,
       "picks": 1
     },
@@ -393,20 +405,8 @@
       "matchCode": "4579358",
       "odds": 1.15,
       "patternScore": 69.07,
-      "patternText": "208.897/302.460",
+      "patternText": "208.897/302.462",
       "aiScore": 78,
-      "picks": 1
-    },
-    {
-      "home": "Norway (U19)",
-      "away": "Republic of Ireland",
-      "league": "AVŞU19",
-      "date": "17.11.2026 14:00",
-      "matchCode": "4579221",
-      "odds": 1.15,
-      "patternScore": 69.44,
-      "patternText": "222.524/320.471",
-      "aiScore": 84,
       "picks": 1
     }
   ],
