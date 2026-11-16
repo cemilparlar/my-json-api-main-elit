@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 15:57",
+  "updatedAt": "16.11.2026 16:05",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 56,
+      "won": 54,
       "lost": 26,
-      "total": 82,
-      "rate": 68.3
+      "total": 80,
+      "rate": 67.5
     },
-    "totalAnalyses": 614240,
+    "totalAnalyses": 614256,
     "leagues": 354,
     "pro": {
       "won": 470,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 396,
-    "analyses30d": 17068
+    "analyses24h": 379,
+    "analyses30d": 17039
   },
   "recentWins": [
     {
@@ -80,20 +80,6 @@
       "pro": true
     },
     {
-      "home": "Haverfordwest",
-      "away": "Ammanford",
-      "league": "GALWK",
-      "date": "14.11.2026 14:00",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.85,
-      "probability": 100.0,
-      "patternScore": 58.51,
-      "aiScore": 52,
-      "firstHalf": "2 - 1",
-      "finalScore": "3 - 1",
-      "pro": true
-    },
-    {
       "home": "Georgia",
       "away": "Hungary",
       "league": "AVUL",
@@ -120,6 +106,20 @@
       "firstHalf": "0 - 2",
       "finalScore": "1 - 5",
       "pro": true
+    },
+    {
+      "home": "Haiti",
+      "away": "USA",
+      "league": "CON",
+      "date": "14.11.2026 21:30",
+      "prediction": "Both Teams to Score - No",
+      "odds": 1.6,
+      "probability": 100.0,
+      "patternScore": 56.53,
+      "aiScore": 52,
+      "firstHalf": "0 - 1",
+      "finalScore": "0 - 6",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -273,19 +273,19 @@
     },
     {
       "type": "won",
-      "home": "Haverfordwest",
-      "away": "Ammanford",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.85,
-      "at": "14.11.2026 14:00"
-    },
-    {
-      "type": "won",
       "home": "Georgia",
       "away": "Hungary",
       "prediction": "Total Goals 2-3",
       "odds": 1.75,
       "at": "14.11.2026 17:00"
+    },
+    {
+      "type": "won",
+      "home": "RB Leipzig Women",
+      "away": "E. Frankfurt Women",
+      "prediction": "Over 3.5 Goals",
+      "odds": 1.73,
+      "at": "15.11.2026 15:00"
     },
     {
       "type": "updated",
@@ -344,7 +344,7 @@
     "matchCode": "4492822",
     "odds": 1.41,
     "patternScore": 67.79,
-    "patternText": "132.929/196.099",
+    "patternText": "132.931/196.101",
     "aiScore": 55,
     "picks": 3
   },
@@ -357,7 +357,7 @@
       "matchCode": "4492822",
       "odds": 1.41,
       "patternScore": 67.79,
-      "patternText": "132.929/196.099",
+      "patternText": "132.931/196.101",
       "aiScore": 55,
       "picks": 3
     },
@@ -369,7 +369,7 @@
       "matchCode": "4535571",
       "odds": 1.28,
       "patternScore": 67.75,
-      "patternText": "200.272/295.597",
+      "patternText": "200.278/295.603",
       "aiScore": 59,
       "picks": 4
     },
@@ -381,7 +381,7 @@
       "matchCode": "4565385",
       "odds": 1.24,
       "patternScore": 68.65,
-      "patternText": "242.959/353.934",
+      "patternText": "242.965/353.940",
       "aiScore": 63,
       "picks": 1
     },
@@ -393,7 +393,7 @@
       "matchCode": "4445167",
       "odds": 1.21,
       "patternScore": 68.75,
-      "patternText": "142.061/206.637",
+      "patternText": "142.063/206.639",
       "aiScore": 72,
       "picks": 4
     },
@@ -405,7 +405,7 @@
       "matchCode": "4579530",
       "odds": 1.19,
       "patternScore": 68.41,
-      "patternText": "207.147/302.798",
+      "patternText": "207.153/302.804",
       "aiScore": 69,
       "picks": 4
     }
