@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 09:19",
+  "updatedAt": "16.11.2026 09:27",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 167,
       "rate": 71.3
     },
-    "totalAnalyses": 613817,
+    "totalAnalyses": 613881,
     "leagues": 353,
     "pro": {
       "won": 449,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 429,
-    "analyses30d": 17073
+    "analyses24h": 474,
+    "analyses30d": 17118
   },
   "recentWins": [
     {
@@ -313,7 +313,7 @@
     },
     {
       "type": "analysis",
-      "count": 429
+      "count": 474
     }
   ],
   "today": {
@@ -392,6 +392,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Gremio FBPA",
+      "away": "EC Bahia",
+      "league": "BR1",
+      "at": "16.11.2026 09:23",
+      "count": 9
+    },
+    {
+      "home": "SC Corinthians",
+      "away": "Botafogo de Futebol e Regatas",
+      "league": "BR1",
+      "at": "16.11.2026 09:23",
+      "count": 5
+    },
+    {
+      "home": "CR Flamengo",
+      "away": "Atletico Paranaense",
+      "league": "BR1",
+      "at": "16.11.2026 09:22",
+      "count": 8
+    },
+    {
+      "home": "Cruzeiro EC",
+      "away": "SE Palmeiras",
+      "league": "BR1",
+      "at": "16.11.2026 09:22",
+      "count": 4
+    },
+    {
+      "home": "Coritiba FBC",
+      "away": "FC Santos",
+      "league": "BR1",
+      "at": "16.11.2026 09:22",
+      "count": 12
+    },
+    {
       "home": "Arsenal Women",
       "away": "Lyon Women",
       "league": "ŞMP-K",
@@ -425,41 +460,6 @@
       "league": "AVUL",
       "at": "16.11.2026 08:46",
       "count": 8
-    },
-    {
-      "home": "Bosnia and Herzegovina",
-      "away": "Romania",
-      "league": "AVUL",
-      "at": "16.11.2026 08:45",
-      "count": 7
-    },
-    {
-      "home": "Poland",
-      "away": "Sweden",
-      "league": "AVUL",
-      "at": "16.11.2026 08:45",
-      "count": 5
-    },
-    {
-      "home": "Hungary",
-      "away": "Northern Ireland",
-      "league": "AVUL",
-      "at": "16.11.2026 08:43",
-      "count": 7
-    },
-    {
-      "home": "Denmark",
-      "away": "Norway",
-      "league": "AVUL",
-      "at": "16.11.2026 08:42",
-      "count": 13
-    },
-    {
-      "home": "Gibraltar",
-      "away": "Malta",
-      "league": "AVUL",
-      "at": "16.11.2026 07:27",
-      "count": 15
     }
   ],
   "paywall": {
