@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 18:43",
+  "updatedAt": "16.11.2026 18:50",
   "config": {
     "pages": [
       "engine",
@@ -28,7 +28,7 @@
       "rate": 62.5
     },
     "totalAnalyses": 614545,
-    "leagues": 354,
+    "leagues": 353,
     "pro": {
       "won": 476,
       "lost": 204,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 397,
-    "analyses30d": 16834
+    "analyses24h": 396,
+    "analyses30d": 16767
   },
   "recentWins": [
     {
@@ -296,6 +296,12 @@
     {
       "type": "updated",
       "at": "16.11.2026 18:38",
+      "home": "Albacete Balompie",
+      "away": "Celta Vigo B"
+    },
+    {
+      "type": "updated",
+      "at": "16.11.2026 18:38",
       "home": "Switzerland",
       "away": "Scotland"
     },
@@ -328,27 +334,33 @@
       "at": "16.11.2026 14:26",
       "home": "Kazakhstan",
       "away": "Slovakia"
-    },
-    {
-      "type": "updated",
-      "at": "16.11.2026 13:37",
-      "home": "Norwich City U21",
-      "away": "Exeter City U21"
     }
   ],
   "today": {
-    "home": "England (U21",
-    "away": "France (U21)",
-    "league": "HAZ",
-    "date": "16.11.2026 19:30",
-    "matchCode": "4579531",
-    "odds": 1.12,
-    "patternScore": 70.11,
-    "patternText": "265.814/379.162",
-    "aiScore": 94,
-    "picks": 2
+    "home": "Switzerland",
+    "away": "Scotland",
+    "league": "AVUL",
+    "date": "16.11.2026 19:45",
+    "matchCode": "4445167",
+    "odds": 1.26,
+    "patternScore": 68.11,
+    "patternText": "228.647/335.693",
+    "aiScore": 65,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Switzerland",
+      "away": "Scotland",
+      "league": "AVUL",
+      "date": "16.11.2026 19:45",
+      "matchCode": "4445167",
+      "odds": 1.26,
+      "patternScore": 68.11,
+      "patternText": "228.647/335.693",
+      "aiScore": 65,
+      "picks": 3
+    },
     {
       "home": "England (U21",
       "away": "France (U21)",
@@ -360,18 +372,6 @@
       "patternText": "265.814/379.162",
       "aiScore": 94,
       "picks": 2
-    },
-    {
-      "home": "Switzerland",
-      "away": "Scotland",
-      "league": "AVUL",
-      "date": "16.11.2026 19:45",
-      "matchCode": "4445167",
-      "odds": 1.09,
-      "patternScore": 69.8,
-      "patternText": "149.063/213.551",
-      "aiScore": 96,
-      "picks": 3
     },
     {
       "home": "Sorrento Calcio",
@@ -386,6 +386,18 @@
       "picks": 1
     },
     {
+      "home": "Albacete Balompie",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "date": "16.11.2026 19:30",
+      "matchCode": "4492822",
+      "odds": 1.08,
+      "patternScore": 69.97,
+      "patternText": "299.453/427.971",
+      "aiScore": 94,
+      "picks": 2
+    },
+    {
       "home": "AC Perugia",
       "away": "Sassari Torres",
       "league": "İTC",
@@ -396,18 +408,6 @@
       "patternText": "140.264/198.668",
       "aiScore": 98,
       "picks": 1
-    },
-    {
-      "home": "Northern Ireland",
-      "away": "Switzerland U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 12:00",
-      "matchCode": "4579280",
-      "odds": 1.32,
-      "patternScore": 68.2,
-      "patternText": "205.314/301.054",
-      "aiScore": 58,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
