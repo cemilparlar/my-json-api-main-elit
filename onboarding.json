@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 11:26",
+  "updatedAt": "16.11.2026 11:34",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 101,
-      "lost": 39,
-      "total": 140,
-      "rate": 72.1
+      "won": 95,
+      "lost": 38,
+      "total": 133,
+      "rate": 71.4
     },
-    "totalAnalyses": 613974,
+    "totalAnalyses": 613983,
     "leagues": 354,
     "pro": {
       "won": 459,
@@ -36,10 +36,10 @@
       "rate": 69.8
     },
     "insights": {
-      "won": 740,
+      "won": 742,
       "lost": 311,
-      "total": 1051,
-      "rate": 70.4
+      "total": 1053,
+      "rate": 70.5
     },
     "coupons": {
       "won": 0,
@@ -47,7 +47,7 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 461,
+    "analyses24h": 454,
     "analyses30d": 17145
   },
   "recentWins": [
@@ -318,6 +318,12 @@
       "away": "Senegal"
     },
     {
+      "type": "updated",
+      "at": "16.11.2026 11:32",
+      "home": "Italy (U21)",
+      "away": "Belgium (U21)"
+    },
+    {
       "type": "kickoff",
       "home": "Zimbabwe",
       "away": "Equatorial Guinea",
@@ -327,12 +333,6 @@
       "type": "kickoff",
       "home": "Namibia",
       "away": "Cameroon",
-      "at": "16.11.2026 13:00"
-    },
-    {
-      "type": "kickoff",
-      "home": "Sudan",
-      "away": "Senegal",
       "at": "16.11.2026 13:00"
     }
   ],
