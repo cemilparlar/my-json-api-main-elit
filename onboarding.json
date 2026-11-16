@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 18:50",
+  "updatedAt": "16.11.2026 18:58",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 72,
       "rate": 62.5
     },
-    "totalAnalyses": 614545,
+    "totalAnalyses": 614559,
     "leagues": 353,
     "pro": {
       "won": 476,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 396,
-    "analyses30d": 16767
+    "analyses24h": 384,
+    "analyses30d": 16752
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     },
     {
       "type": "updated",
-      "at": "16.11.2026 18:38",
+      "at": "16.11.2026 18:56",
       "home": "Switzerland",
       "away": "Scotland"
     },
@@ -313,13 +313,13 @@
     },
     {
       "type": "updated",
-      "at": "16.11.2026 17:22",
+      "at": "16.11.2026 18:56",
       "home": "Germany",
       "away": "Netherlands"
     },
     {
       "type": "updated",
-      "at": "16.11.2026 15:46",
+      "at": "16.11.2026 18:56",
       "home": "Greece",
       "away": "Serbia"
     },
@@ -412,6 +412,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Switzerland",
+      "away": "Scotland",
+      "league": "AVUL",
+      "at": "16.11.2026 18:56",
+      "count": 8
+    },
+    {
+      "home": "Germany",
+      "away": "Netherlands",
+      "league": "AVUL",
+      "at": "16.11.2026 18:56",
+      "count": 8
+    },
+    {
+      "home": "Greece",
+      "away": "Serbia",
+      "league": "AVUL",
+      "at": "16.11.2026 18:56",
+      "count": 1
+    },
+    {
       "home": "Albacete Balompie",
       "away": "Celta Vigo B",
       "league": "İS2",
@@ -419,25 +440,11 @@
       "count": 3
     },
     {
-      "home": "Switzerland",
-      "away": "Scotland",
-      "league": "AVUL",
-      "at": "16.11.2026 18:38",
-      "count": 6
-    },
-    {
       "home": "Seattle Sounders",
       "away": "Salt Lake",
       "league": "ABD",
       "at": "16.11.2026 18:20",
       "count": 9
-    },
-    {
-      "home": "Germany",
-      "away": "Netherlands",
-      "league": "AVUL",
-      "at": "16.11.2026 17:22",
-      "count": 18
     },
     {
       "home": "Gibraltar",
@@ -452,13 +459,6 @@
       "league": "AVUL",
       "at": "16.11.2026 16:26",
       "count": 9
-    },
-    {
-      "home": "Greece",
-      "away": "Serbia",
-      "league": "AVUL",
-      "at": "16.11.2026 15:46",
-      "count": 8
     },
     {
       "home": "Kazakhstan",
