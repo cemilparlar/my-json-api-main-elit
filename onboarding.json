@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "16.11.2026 07:41",
+  "updatedAt": "16.11.2026 07:49",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 167,
       "rate": 71.3
     },
-    "totalAnalyses": 613704,
+    "totalAnalyses": 613705,
     "leagues": 353,
     "pro": {
       "won": 449,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 350,
-    "analyses30d": 17008
+    "analyses24h": 343,
+    "analyses30d": 17001
   },
   "recentWins": [
     {
@@ -294,8 +294,14 @@
       "away": "Equatorial Guinea"
     },
     {
+      "type": "updated",
+      "at": "16.11.2026 07:42",
+      "home": "Sudan",
+      "away": "Senegal"
+    },
+    {
       "type": "analysis",
-      "count": 350
+      "count": 343
     }
   ],
   "today": {
@@ -322,6 +328,18 @@
       "patternText": "145.410/205.008",
       "aiScore": 97,
       "picks": 1
+    },
+    {
+      "home": "Switzerland",
+      "away": "Scotland",
+      "league": "AVUL",
+      "date": "16.11.2026 19:45",
+      "matchCode": "4445167",
+      "odds": 1.37,
+      "patternScore": 67.68,
+      "patternText": "128.335/189.612",
+      "aiScore": 59,
+      "picks": 3
     },
     {
       "home": "Faroe Islands",
@@ -358,18 +376,6 @@
       "patternText": "266.208/379.812",
       "aiScore": 89,
       "picks": 2
-    },
-    {
-      "home": "Sorrento Calcio",
-      "away": "Monopoli",
-      "league": "İTC",
-      "date": "16.11.2026 19:30",
-      "matchCode": "4535956",
-      "odds": 1.1,
-      "patternScore": 69.75,
-      "patternText": "227.553/326.259",
-      "aiScore": 98,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
