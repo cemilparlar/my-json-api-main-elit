@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 07:00",
+  "updatedAt": "17.11.2026 07:27",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 135,
       "rate": 57.8
     },
-    "totalAnalyses": 614750,
+    "totalAnalyses": 614769,
     "leagues": 348,
     "pro": {
       "won": 515,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 435,
-    "analyses30d": 16553
+    "analyses24h": 452,
+    "analyses30d": 16570
   },
   "recentWins": [
     {
@@ -289,7 +289,25 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 05:20",
+      "at": "17.11.2026 07:22",
+      "home": "Burundi",
+      "away": "Zambia"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 07:21",
+      "home": "Tanzania",
+      "away": "Nigeria"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 07:23",
+      "home": "Japan",
+      "away": "Paraguay"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 07:20",
       "home": "Poland (U19)",
       "away": "Luxembourg U19"
     },
@@ -298,6 +316,12 @@
       "at": "17.11.2026 06:02",
       "home": "Iceland U19",
       "away": "Wales U19"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 07:22",
+      "home": "England (U19",
+      "away": "Austria U19"
     },
     {
       "type": "updated",
@@ -310,43 +334,33 @@
       "at": "17.11.2026 06:01",
       "home": "Romania (U19)",
       "away": "Ukraine U19"
-    },
-    {
-      "type": "updated",
-      "at": "17.11.2026 06:23",
-      "home": "Kyrgyzstan",
-      "away": "Vietnam"
-    },
-    {
-      "type": "updated",
-      "at": "17.11.2026 01:26",
-      "home": "New Mexico Uni",
-      "away": "Sacramento Repu"
-    },
-    {
-      "type": "kickoff",
-      "home": "Slovakia U19",
-      "away": "Estonia (U19)",
-      "at": "17.11.2026 10:00"
-    },
-    {
-      "type": "analysis",
-      "count": 435
     }
   ],
   "today": {
-    "home": "Kyrgyzstan",
-    "away": "Vietnam",
-    "league": "HAZ",
-    "date": "17.11.2026 12:00",
-    "matchCode": "4579422",
+    "home": "Burundi",
+    "away": "Zambia",
+    "league": "AFUK",
+    "date": "17.11.2026 13:00",
+    "matchCode": "4579358",
     "odds": 1.15,
-    "patternScore": 70.51,
-    "patternText": "259.258/367.672",
-    "aiScore": 85,
-    "picks": 2
+    "patternScore": 69.07,
+    "patternText": "209.001/302.608",
+    "aiScore": 79,
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Burundi",
+      "away": "Zambia",
+      "league": "AFUK",
+      "date": "17.11.2026 13:00",
+      "matchCode": "4579358",
+      "odds": 1.15,
+      "patternScore": 69.07,
+      "patternText": "209.001/302.608",
+      "aiScore": 79,
+      "picks": 1
+    },
     {
       "home": "Kyrgyzstan",
       "away": "Vietnam",
@@ -358,6 +372,18 @@
       "patternText": "259.258/367.672",
       "aiScore": 85,
       "picks": 2
+    },
+    {
+      "home": "Barnsley U21",
+      "away": "Wigan Athletic",
+      "league": "INGPDL",
+      "date": "17.11.2026 13:00",
+      "matchCode": "4540675",
+      "odds": 1.13,
+      "patternScore": 68.72,
+      "patternText": "171.757/249.950",
+      "aiScore": 81,
+      "picks": 1
     },
     {
       "home": "Poland (U19)",
@@ -372,39 +398,15 @@
       "picks": 1
     },
     {
-      "home": "Iceland U19",
-      "away": "Wales U19",
+      "home": "Belarus (U19)",
+      "away": "Slovenia U19",
       "league": "AVŞU19",
-      "date": "17.11.2026 12:00",
-      "matchCode": "4579239",
+      "date": "17.11.2026 13:00",
+      "matchCode": "4579233",
       "odds": 1.12,
-      "patternScore": 69.49,
-      "patternText": "204.810/294.722",
-      "aiScore": 87,
-      "picks": 1
-    },
-    {
-      "home": "Romania (U19)",
-      "away": "Ukraine U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 12:00",
-      "matchCode": "4579245",
-      "odds": 1.1,
-      "patternScore": 72.15,
-      "patternText": "168.698/233.802",
-      "aiScore": 98,
-      "picks": 1
-    },
-    {
-      "home": "Hungary U19",
-      "away": "Czechia U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 11:00",
-      "matchCode": "4579250",
-      "odds": 1.08,
-      "patternScore": 70.82,
-      "patternText": "266.620/376.452",
-      "aiScore": 96,
+      "patternScore": 70.39,
+      "patternText": "267.046/379.378",
+      "aiScore": 80,
       "picks": 1
     }
   ],
