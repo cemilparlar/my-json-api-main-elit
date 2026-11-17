@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 07:42",
+  "updatedAt": "17.11.2026 07:49",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 456,
-    "analyses30d": 16561
+    "analyses24h": 454,
+    "analyses30d": 16559
   },
   "recentWins": [
     {
@@ -319,6 +319,12 @@
     },
     {
       "type": "updated",
+      "at": "17.11.2026 07:41",
+      "home": "Poland (U19)",
+      "away": "Luxembourg U19"
+    },
+    {
+      "type": "updated",
       "at": "17.11.2026 07:42",
       "home": "Iceland U19",
       "away": "Wales U19"
@@ -328,12 +334,6 @@
       "at": "17.11.2026 07:21",
       "home": "Cyprus (",
       "away": "Armenia U19"
-    },
-    {
-      "type": "updated",
-      "at": "17.11.2026 04:42",
-      "home": "Slovakia U19",
-      "away": "Estonia (U19)"
     }
   ],
   "today": {
@@ -370,8 +370,20 @@
       "odds": 1.28,
       "patternScore": 68.72,
       "patternText": "194.049/282.385",
-      "aiScore": 64,
+      "aiScore": 65,
       "picks": 2
+    },
+    {
+      "home": "Poland (U19)",
+      "away": "Luxembourg U19",
+      "league": "AVŞU19",
+      "date": "17.11.2026 11:00",
+      "matchCode": "4579287",
+      "odds": 1.21,
+      "patternScore": 69.16,
+      "patternText": "113.432/164.016",
+      "aiScore": 76,
+      "picks": 1
     },
     {
       "home": "Sheffield Wednesday",
@@ -382,32 +394,20 @@
       "odds": 1.19,
       "patternScore": 70.16,
       "patternText": "139.419/198.707",
-      "aiScore": 77,
+      "aiScore": 78,
       "picks": 1
     },
     {
-      "home": "Kyrgyzstan",
-      "away": "Vietnam",
-      "league": "HAZ",
+      "home": "Iceland U19",
+      "away": "Wales U19",
+      "league": "AVŞU19",
       "date": "17.11.2026 12:00",
-      "matchCode": "4579422",
-      "odds": 1.15,
-      "patternScore": 70.51,
-      "patternText": "259.258/367.672",
-      "aiScore": 85,
+      "matchCode": "4579239",
+      "odds": 1.16,
+      "patternScore": 69.62,
+      "patternText": "208.646/299.684",
+      "aiScore": 76,
       "picks": 2
-    },
-    {
-      "home": "Barnsley U21",
-      "away": "Wigan Athletic",
-      "league": "INGPDL",
-      "date": "17.11.2026 13:00",
-      "matchCode": "4540675",
-      "odds": 1.13,
-      "patternScore": 68.72,
-      "patternText": "171.757/249.950",
-      "aiScore": 81,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
