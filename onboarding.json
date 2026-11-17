@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 10:45",
+  "updatedAt": "17.11.2026 10:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 135,
       "rate": 57.8
     },
-    "totalAnalyses": 614975,
+    "totalAnalyses": 615023,
     "leagues": 330,
     "pro": {
       "won": 515,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 531,
-    "analyses30d": 16464
+    "analyses24h": 572,
+    "analyses30d": 16505
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 10:29",
+      "at": "17.11.2026 10:52",
       "home": "Japan",
       "away": "Paraguay"
     },
@@ -344,7 +344,7 @@
     "matchCode": "4579359",
     "odds": 1.43,
     "patternScore": 67.7,
-    "patternText": "201.323/297.394",
+    "patternText": "201.325/297.396",
     "aiScore": 56,
     "picks": 1
   },
@@ -357,7 +357,7 @@
       "matchCode": "4579359",
       "odds": 1.43,
       "patternScore": 67.7,
-      "patternText": "201.323/297.394",
+      "patternText": "201.325/297.396",
       "aiScore": 56,
       "picks": 1
     },
@@ -369,7 +369,7 @@
       "matchCode": "4579280",
       "odds": 1.4,
       "patternScore": 69.05,
-      "patternText": "107.564/155.778",
+      "patternText": "107.566/155.780",
       "aiScore": 57,
       "picks": 3
     },
@@ -381,7 +381,7 @@
       "matchCode": "4580214",
       "odds": 1.27,
       "patternScore": 67.99,
-      "patternText": "216.518/318.446",
+      "patternText": "216.520/318.448",
       "aiScore": 63,
       "picks": 1
     },
@@ -411,6 +411,41 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Benfica Women",
+      "away": "AS Roma Women",
+      "league": "ŞMP-K",
+      "at": "17.11.2026 10:49",
+      "count": 3
+    },
+    {
+      "home": "Paris Women",
+      "away": "Koge Women",
+      "league": "ŞMP-K",
+      "at": "17.11.2026 10:48",
+      "count": 4
+    },
+    {
+      "home": "Remo",
+      "away": "Chapecoense AF",
+      "league": "BR1",
+      "at": "17.11.2026 10:48",
+      "count": 7
+    },
+    {
+      "home": "Juventus Women",
+      "away": "Oh Leuven Women",
+      "league": "ŞMP-K",
+      "at": "17.11.2026 10:47",
+      "count": 5
+    },
+    {
+      "home": "Chelsea Women",
+      "away": "PSG Women",
+      "league": "ŞMP-K",
+      "at": "17.11.2026 10:47",
+      "count": 4
+    },
     {
       "home": "Hacken Women",
       "away": "Manchester City Women",
@@ -445,41 +480,6 @@
       "league": "İS2",
       "at": "16.11.2026 18:38",
       "count": 3
-    },
-    {
-      "home": "Seattle Sounders",
-      "away": "Salt Lake",
-      "league": "ABD",
-      "at": "16.11.2026 18:20",
-      "count": 9
-    },
-    {
-      "home": "Gibraltar",
-      "away": "Malta",
-      "league": "AVUL",
-      "at": "16.11.2026 17:22",
-      "count": 13
-    },
-    {
-      "home": "Estonia",
-      "away": "Bulgaria",
-      "league": "AVUL",
-      "at": "16.11.2026 16:26",
-      "count": 9
-    },
-    {
-      "home": "Kazakhstan",
-      "away": "Slovakia",
-      "league": "AVUL",
-      "at": "16.11.2026 14:26",
-      "count": 11
-    },
-    {
-      "home": "Faroe Islands",
-      "away": "Moldova",
-      "league": "AVUL",
-      "at": "16.11.2026 14:10",
-      "count": 7
     }
   ],
   "paywall": {
