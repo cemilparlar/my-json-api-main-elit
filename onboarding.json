@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 06:28",
+  "updatedAt": "17.11.2026 06:35",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 135,
       "rate": 57.8
     },
-    "totalAnalyses": 614742,
+    "totalAnalyses": 614743,
     "leagues": 348,
     "pro": {
       "won": 515,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 432,
-    "analyses30d": 16559
+    "analyses24h": 431,
+    "analyses30d": 16558
   },
   "recentWins": [
     {
@@ -325,7 +325,7 @@
     },
     {
       "type": "analysis",
-      "count": 432
+      "count": 431
     }
   ],
   "today": {
@@ -334,11 +334,11 @@
     "league": "HAZ",
     "date": "17.11.2026 12:00",
     "matchCode": "4579422",
-    "odds": 1.22,
-    "patternScore": 68.22,
-    "patternText": "194.252/284.740",
-    "aiScore": 66,
-    "picks": 3
+    "odds": 1.15,
+    "patternScore": 70.51,
+    "patternText": "259.258/367.672",
+    "aiScore": 85,
+    "picks": 2
   },
   "todayList": [
     {
@@ -347,11 +347,11 @@
       "league": "HAZ",
       "date": "17.11.2026 12:00",
       "matchCode": "4579422",
-      "odds": 1.22,
-      "patternScore": 68.22,
-      "patternText": "194.252/284.740",
-      "aiScore": 66,
-      "picks": 3
+      "odds": 1.15,
+      "patternScore": 70.51,
+      "patternText": "259.258/367.672",
+      "aiScore": 85,
+      "picks": 2
     },
     {
       "home": "Poland (U19)",
@@ -378,6 +378,18 @@
       "picks": 1
     },
     {
+      "home": "Cyprus (",
+      "away": "Armenia U19",
+      "league": "AVŞU19",
+      "date": "17.11.2026 12:30",
+      "matchCode": "4579284",
+      "odds": 1.1,
+      "patternScore": 70.12,
+      "patternText": "212.358/302.862",
+      "aiScore": 94,
+      "picks": 1
+    },
+    {
       "home": "Romania (U19)",
       "away": "Ukraine U19",
       "league": "AVŞU19",
@@ -387,18 +399,6 @@
       "patternScore": 72.15,
       "patternText": "168.698/233.802",
       "aiScore": 98,
-      "picks": 1
-    },
-    {
-      "home": "Hungary U19",
-      "away": "Czechia U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 11:00",
-      "matchCode": "4579250",
-      "odds": 1.08,
-      "patternScore": 70.82,
-      "patternText": "266.620/376.452",
-      "aiScore": 96,
       "picks": 1
     }
   ],
