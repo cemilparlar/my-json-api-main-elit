@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 19:22",
+  "updatedAt": "17.11.2026 19:32",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 122,
-      "lost": 91,
-      "total": 213,
-      "rate": 57.3
+      "won": 115,
+      "lost": 90,
+      "total": 205,
+      "rate": 56.1
     },
-    "totalAnalyses": 615549,
+    "totalAnalyses": 615559,
     "leagues": 287,
     "pro": {
-      "won": 523,
-      "lost": 223,
-      "total": 746,
+      "won": 521,
+      "lost": 222,
+      "total": 743,
       "rate": 70.1
     },
     "insights": {
-      "won": 872,
-      "lost": 375,
-      "total": 1247,
+      "won": 868,
+      "lost": 373,
+      "total": 1241,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 552,
-    "analyses30d": 15583
+    "analyses24h": 544,
+    "analyses30d": 15578
   },
   "recentWins": [
     {
@@ -362,6 +362,18 @@
       "picks": 2
     },
     {
+      "home": "America de Cali",
+      "away": "Inter Bogota",
+      "league": "KOLK",
+      "date": "18.11.2026 01:30",
+      "matchCode": "4579942",
+      "odds": 1.22,
+      "patternScore": 68.69,
+      "patternText": "170.753/248.584",
+      "aiScore": 67,
+      "picks": 1
+    },
+    {
       "home": "El Salvador",
       "away": "Saint Martin",
       "league": "CON",
@@ -396,18 +408,6 @@
       "patternText": "171.859/252.031",
       "aiScore": 55,
       "picks": 2
-    },
-    {
-      "home": "America de Cali",
-      "away": "Inter Bogota",
-      "league": "KOLK",
-      "date": "18.11.2026 01:30",
-      "matchCode": "4579942",
-      "odds": 1.22,
-      "patternScore": 68.69,
-      "patternText": "170.753/248.584",
-      "aiScore": 67,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
