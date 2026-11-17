@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 21:06",
+  "updatedAt": "17.11.2026 21:14",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 205,
       "rate": 62.0
     },
-    "totalAnalyses": 615563,
+    "totalAnalyses": 615568,
     "leagues": 287,
     "pro": {
       "won": 507,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 505,
-    "analyses30d": 15522
+    "analyses24h": 509,
+    "analyses30d": 15526
   },
   "recentWins": [
     {
@@ -108,17 +108,17 @@
       "pro": true
     },
     {
-      "home": "Lesotho",
-      "away": "Gabon",
-      "league": "AFUK",
-      "date": "17.11.2026 13:00",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 2.19,
+      "home": "Luton Town",
+      "away": "Peterborough United",
+      "league": "İNTK",
+      "date": "17.11.2026 19:00",
+      "prediction": "Both Teams to Score - No",
+      "odds": 2.33,
       "probability": 100.0,
-      "patternScore": 56.35,
-      "aiScore": 51,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 1",
+      "patternScore": 56.07,
+      "aiScore": 50,
+      "firstHalf": "2 - 0",
+      "finalScore": "3 - 0",
       "pro": false
     }
   ],
@@ -301,15 +301,21 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 17:33",
-      "home": "Congo",
-      "away": "Comoros"
-    },
-    {
-      "type": "updated",
       "at": "17.11.2026 16:03",
       "home": "Botswana",
       "away": "Uganda"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 18:07",
+      "home": "Liberia",
+      "away": "Cape Verde"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 18:08",
+      "home": "Luton Town",
+      "away": "Peterborough United"
     },
     {
       "type": "updated",
@@ -328,12 +334,6 @@
       "at": "17.11.2026 18:46",
       "home": "Spalding Unite",
       "away": "Hebburn Town"
-    },
-    {
-      "type": "updated",
-      "at": "17.11.2026 19:03",
-      "home": "Poland",
-      "away": "Sweden"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4579446",
     "odds": 1.28,
     "patternScore": 68.6,
-    "patternText": "163.800/238.792",
+    "patternText": "163.858/238.874",
     "aiScore": 65,
     "picks": 2
   },
@@ -357,7 +357,7 @@
       "matchCode": "4579446",
       "odds": 1.28,
       "patternScore": 68.6,
-      "patternText": "163.800/238.792",
+      "patternText": "163.858/238.874",
       "aiScore": 65,
       "picks": 2
     },
@@ -369,7 +369,7 @@
       "matchCode": "4579941",
       "odds": 1.23,
       "patternScore": 69.24,
-      "patternText": "230.856/333.396",
+      "patternText": "230.888/333.440",
       "aiScore": 67,
       "picks": 2
     },
@@ -381,7 +381,7 @@
       "matchCode": "4579942",
       "odds": 1.22,
       "patternScore": 68.69,
-      "patternText": "170.763/248.606",
+      "patternText": "170.789/248.642",
       "aiScore": 67,
       "picks": 1
     },
@@ -393,20 +393,20 @@
       "matchCode": "4579439",
       "odds": 1.13,
       "patternScore": 71.74,
-      "patternText": "139.750/194.798",
+      "patternText": "139.786/194.846",
       "aiScore": 95,
       "picks": 1
     },
     {
-      "home": "Mynavi Sendai",
-      "away": "Ntv Beleza Women",
-      "league": "JWEL",
-      "date": "18.11.2026 05:00",
-      "matchCode": "4488319",
-      "odds": 1.34,
-      "patternScore": 68.19,
-      "patternText": "171.865/252.049",
-      "aiScore": 55,
+      "home": "Nicaragua",
+      "away": "Montserrat",
+      "league": "CON",
+      "date": "18.11.2026 03:00",
+      "matchCode": "4579447",
+      "odds": 1.06,
+      "patternScore": 68.83,
+      "patternText": "132.834/192.975",
+      "aiScore": 96,
       "picks": 2
     }
   ],
