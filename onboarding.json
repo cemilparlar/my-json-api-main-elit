@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 16:08",
+  "updatedAt": "17.11.2026 16:16",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 105,
-      "lost": 78,
-      "total": 183,
-      "rate": 57.4
+      "won": 106,
+      "lost": 81,
+      "total": 187,
+      "rate": 56.7
     },
-    "totalAnalyses": 615386,
+    "totalAnalyses": 615392,
     "leagues": 287,
     "pro": {
       "won": 535,
-      "lost": 230,
-      "total": 765,
-      "rate": 69.9
+      "lost": 231,
+      "total": 766,
+      "rate": 69.8
     },
     "insights": {
-      "won": 884,
-      "lost": 378,
-      "total": 1262,
-      "rate": 70.0
+      "won": 885,
+      "lost": 381,
+      "total": 1266,
+      "rate": 69.9
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 569,
-    "analyses30d": 15695
+    "analyses24h": 566,
+    "analyses30d": 15690
   },
   "recentWins": [
     {
@@ -370,20 +370,8 @@
       "odds": 1.53,
       "patternScore": 68.33,
       "patternText": "120.369/176.160",
-      "aiScore": 57,
-      "picks": 1
-    },
-    {
-      "home": "St. Kitts And",
-      "away": "Bonaire",
-      "league": "CON",
-      "date": "17.11.2026 19:00",
-      "matchCode": "4579435",
-      "odds": 1.52,
-      "patternScore": 66.85,
-      "patternText": "146.397/219.002",
       "aiScore": 56,
-      "picks": 2
+      "picks": 1
     },
     {
       "home": "Ukraine",
@@ -407,6 +395,18 @@
       "patternScore": 68.28,
       "patternText": "208.461/305.307",
       "aiScore": 63,
+      "picks": 1
+    },
+    {
+      "home": "Rwanda",
+      "away": "Mali",
+      "league": "AFUK",
+      "date": "17.11.2026 19:00",
+      "matchCode": "4579375",
+      "odds": 1.28,
+      "patternScore": 68.01,
+      "patternText": "166.396/244.662",
+      "aiScore": 69,
       "picks": 1
     }
   ],
