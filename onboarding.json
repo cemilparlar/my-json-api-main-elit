@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 12:13",
+  "updatedAt": "17.11.2026 12:20",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 142,
       "rate": 59.2
     },
-    "totalAnalyses": 615095,
-    "leagues": 291,
+    "totalAnalyses": 615096,
+    "leagues": 290,
     "pro": {
       "won": 515,
       "lost": 216,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 589,
-    "analyses30d": 16204
+    "analyses24h": 588,
+    "analyses30d": 16201
   },
   "recentWins": [
     {
@@ -301,12 +301,6 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 12:06",
-      "home": "Ethiopia",
-      "away": "Mozambique"
-    },
-    {
-      "type": "updated",
       "at": "17.11.2026 11:15",
       "home": "Japan",
       "away": "Paraguay"
@@ -334,21 +328,39 @@
       "at": "17.11.2026 09:30",
       "home": "Denmark U19",
       "away": "Bosnia and Herzegovina U1"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 12:06",
+      "home": "Sheffield Wednesday",
+      "away": "Hull City U21"
     }
   ],
   "today": {
-    "home": "Togo",
-    "away": "Algeria",
-    "league": "AFUK",
-    "date": "17.11.2026 16:00",
-    "matchCode": "4579359",
-    "odds": 1.43,
-    "patternScore": 67.7,
-    "patternText": "201.397/297.474",
-    "aiScore": 57,
+    "home": "UAE",
+    "away": "Syria",
+    "league": "HAZ",
+    "date": "17.11.2026 14:10",
+    "matchCode": "4580214",
+    "odds": 1.63,
+    "patternScore": 67.82,
+    "patternText": "209.440/308.840",
+    "aiScore": 54,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "UAE",
+      "away": "Syria",
+      "league": "HAZ",
+      "date": "17.11.2026 14:10",
+      "matchCode": "4580214",
+      "odds": 1.63,
+      "patternScore": 67.82,
+      "patternText": "209.440/308.840",
+      "aiScore": 54,
+      "picks": 1
+    },
     {
       "home": "Togo",
       "away": "Algeria",
@@ -358,19 +370,7 @@
       "odds": 1.43,
       "patternScore": 67.7,
       "patternText": "201.397/297.474",
-      "aiScore": 57,
-      "picks": 1
-    },
-    {
-      "home": "UAE",
-      "away": "Syria",
-      "league": "HAZ",
-      "date": "17.11.2026 14:10",
-      "matchCode": "4580214",
-      "odds": 1.27,
-      "patternScore": 68.0,
-      "patternText": "216.592/318.526",
-      "aiScore": 65,
+      "aiScore": 58,
       "picks": 1
     },
     {
@@ -386,6 +386,18 @@
       "picks": 1
     },
     {
+      "home": "Sheffield Wednesday",
+      "away": "Hull City U21",
+      "league": "INGPDL",
+      "date": "17.11.2026 13:00",
+      "matchCode": "4540677",
+      "odds": 1.23,
+      "patternScore": 67.07,
+      "patternText": "141.851/211.505",
+      "aiScore": 69,
+      "picks": 1
+    },
+    {
       "home": "Plateau United",
       "away": "Kun Khalifat",
       "league": "NIJ",
@@ -394,19 +406,7 @@
       "odds": 1.22,
       "patternScore": 69.27,
       "patternText": "123.842/178.774",
-      "aiScore": 73,
-      "picks": 1
-    },
-    {
-      "home": "Sheffield United",
-      "away": "Huddersfield Town",
-      "league": "INGPDL",
-      "date": "17.11.2026 14:00",
-      "matchCode": "4540679",
-      "odds": 1.17,
-      "patternScore": 69.34,
-      "patternText": "240.283/346.513",
-      "aiScore": 72,
+      "aiScore": 74,
       "picks": 1
     }
   ],
