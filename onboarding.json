@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 10:25",
+  "updatedAt": "17.11.2026 10:34",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 135,
       "rate": 57.8
     },
-    "totalAnalyses": 614940,
-    "leagues": 332,
+    "totalAnalyses": 614964,
+    "leagues": 330,
     "pro": {
       "won": 515,
       "lost": 215,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 518,
-    "analyses30d": 16504
+    "analyses24h": 525,
+    "analyses30d": 16460
   },
   "recentWins": [
     {
@@ -295,7 +295,7 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 07:22",
+      "at": "17.11.2026 10:29",
       "home": "Burundi",
       "away": "Zambia"
     },
@@ -319,7 +319,7 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 09:11",
+      "at": "17.11.2026 10:27",
       "home": "Poland (U19)",
       "away": "Luxembourg U19"
     },
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Poland (U19)",
-    "away": "Luxembourg U19",
-    "league": "AVŞU19",
-    "date": "17.11.2026 11:00",
-    "matchCode": "4579287",
-    "odds": 1.53,
-    "patternScore": 67.46,
-    "patternText": "190.892/282.964",
-    "aiScore": 55,
-    "picks": 2
+    "home": "Togo",
+    "away": "Algeria",
+    "league": "AFUK",
+    "date": "17.11.2026 16:00",
+    "matchCode": "4579359",
+    "odds": 1.43,
+    "patternScore": 67.7,
+    "patternText": "201.323/297.394",
+    "aiScore": 57,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Poland (U19)",
-      "away": "Luxembourg U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 11:00",
-      "matchCode": "4579287",
-      "odds": 1.53,
-      "patternScore": 67.46,
-      "patternText": "190.892/282.964",
-      "aiScore": 55,
-      "picks": 2
-    },
     {
       "home": "Togo",
       "away": "Algeria",
@@ -407,6 +395,18 @@
       "patternScore": 69.27,
       "patternText": "123.826/178.756",
       "aiScore": 72,
+      "picks": 1
+    },
+    {
+      "home": "Sheffield Wednesday",
+      "away": "Hull City U21",
+      "league": "INGPDL",
+      "date": "17.11.2026 13:00",
+      "matchCode": "4540677",
+      "odds": 1.19,
+      "patternScore": 70.16,
+      "patternText": "139.419/198.707",
+      "aiScore": 77,
       "picks": 1
     }
   ],
