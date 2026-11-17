@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 00:53",
+  "updatedAt": "17.11.2026 01:01",
   "config": {
     "pages": [
       "engine",
@@ -30,16 +30,16 @@
     "totalAnalyses": 614671,
     "leagues": 355,
     "pro": {
-      "won": 508,
+      "won": 506,
       "lost": 212,
-      "total": 720,
-      "rate": 70.6
+      "total": 718,
+      "rate": 70.5
     },
     "insights": {
-      "won": 830,
+      "won": 828,
       "lost": 349,
-      "total": 1179,
-      "rate": 70.4
+      "total": 1177,
+      "rate": 70.3
     },
     "coupons": {
       "won": 0,
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 388,
-    "analyses30d": 16677
+    "analyses30d": 16670
   },
   "recentWins": [
     {
@@ -289,24 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "16.11.2026 18:56",
-      "home": "Switzerland",
-      "away": "Scotland"
-    },
-    {
-      "type": "updated",
-      "at": "16.11.2026 18:56",
-      "home": "Germany",
-      "away": "Netherlands"
-    },
-    {
-      "type": "updated",
-      "at": "16.11.2026 18:56",
-      "home": "Greece",
-      "away": "Serbia"
-    },
-    {
-      "type": "updated",
       "at": "16.11.2026 21:16",
       "home": "Trinidad & Tob",
       "away": "Antigua and Barbuda"
@@ -372,6 +354,30 @@
       "picks": 2
     },
     {
+      "home": "Burundi",
+      "away": "Zambia",
+      "league": "AFUK",
+      "date": "17.11.2026 13:00",
+      "matchCode": "4579358",
+      "odds": 1.15,
+      "patternScore": 69.07,
+      "patternText": "208.967/302.562",
+      "aiScore": 78,
+      "picks": 1
+    },
+    {
+      "home": "Barnsley U21",
+      "away": "Wigan Athletic",
+      "league": "INGPDL",
+      "date": "17.11.2026 13:00",
+      "matchCode": "4540675",
+      "odds": 1.13,
+      "patternScore": 68.72,
+      "patternText": "171.723/249.906",
+      "aiScore": 80,
+      "picks": 1
+    },
+    {
       "home": "Netherlands (U19)",
       "away": "Croatia (U1",
       "league": "AVŞU19",
@@ -381,30 +387,6 @@
       "patternScore": 69.84,
       "patternText": "208.927/299.166",
       "aiScore": 85,
-      "picks": 1
-    },
-    {
-      "home": "Cyprus (",
-      "away": "Armenia U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 12:30",
-      "matchCode": "4579284",
-      "odds": 1.1,
-      "patternScore": 70.12,
-      "patternText": "212.316/302.808",
-      "aiScore": 95,
-      "picks": 1
-    },
-    {
-      "home": "Hungary U19",
-      "away": "Czechia U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 11:00",
-      "matchCode": "4579250",
-      "odds": 1.08,
-      "patternScore": 70.82,
-      "patternText": "266.548/376.368",
-      "aiScore": 96,
       "picks": 1
     }
   ],
