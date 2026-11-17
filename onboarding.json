@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 11:41",
+  "updatedAt": "17.11.2026 11:49",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 587,
-    "analyses30d": 16312
+    "analyses24h": 586,
+    "analyses30d": 16311
   },
   "recentWins": [
     {
@@ -374,6 +374,18 @@
       "picks": 1
     },
     {
+      "home": "Gambia",
+      "away": "Ivory Coast",
+      "league": "AFUK",
+      "date": "17.11.2026 16:00",
+      "matchCode": "4579311",
+      "odds": 1.23,
+      "patternScore": 65.01,
+      "patternText": "265.245/407.994",
+      "aiScore": 63,
+      "picks": 1
+    },
+    {
       "home": "Plateau United",
       "away": "Kun Khalifat",
       "league": "NIJ",
@@ -395,18 +407,6 @@
       "patternScore": 69.34,
       "patternText": "240.251/346.467",
       "aiScore": 71,
-      "picks": 1
-    },
-    {
-      "home": "Kosovo U19",
-      "away": "Kazakhstan U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 15:00",
-      "matchCode": "4579227",
-      "odds": 1.14,
-      "patternScore": 69.63,
-      "patternText": "219.790/315.674",
-      "aiScore": 86,
       "picks": 1
     }
   ],
