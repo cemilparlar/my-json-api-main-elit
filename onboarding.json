@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 07:57",
+  "updatedAt": "17.11.2026 08:05",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 135,
       "rate": 57.8
     },
-    "totalAnalyses": 614786,
-    "leagues": 346,
+    "totalAnalyses": 614803,
+    "leagues": 345,
     "pro": {
       "won": 515,
       "lost": 215,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 454,
-    "analyses30d": 16559
+    "analyses24h": 458,
+    "analyses30d": 16546
   },
   "recentWins": [
     {
@@ -307,7 +307,7 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 07:23",
+      "at": "17.11.2026 08:00",
       "home": "Japan",
       "away": "Paraguay"
     },
@@ -325,13 +325,13 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 07:42",
+      "at": "17.11.2026 07:57",
       "home": "Iceland U19",
       "away": "Wales U19"
     },
     {
       "type": "updated",
-      "at": "17.11.2026 07:21",
+      "at": "17.11.2026 07:58",
       "home": "Cyprus (",
       "away": "Armenia U19"
     }
@@ -370,8 +370,20 @@
       "odds": 1.28,
       "patternScore": 68.72,
       "patternText": "194.049/282.385",
-      "aiScore": 65,
+      "aiScore": 64,
       "picks": 2
+    },
+    {
+      "home": "Sheffield United",
+      "away": "Huddersfield Town",
+      "league": "INGPDL",
+      "date": "17.11.2026 14:00",
+      "matchCode": "4540679",
+      "odds": 1.23,
+      "patternScore": 68.1,
+      "patternText": "216.279/317.593",
+      "aiScore": 68,
+      "picks": 1
     },
     {
       "home": "Poland (U19)",
@@ -394,20 +406,8 @@
       "odds": 1.19,
       "patternScore": 70.16,
       "patternText": "139.419/198.707",
-      "aiScore": 78,
+      "aiScore": 77,
       "picks": 1
-    },
-    {
-      "home": "Iceland U19",
-      "away": "Wales U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 12:00",
-      "matchCode": "4579239",
-      "odds": 1.16,
-      "patternScore": 69.62,
-      "patternText": "208.646/299.684",
-      "aiScore": 76,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
