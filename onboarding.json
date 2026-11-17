@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 11:26",
+  "updatedAt": "17.11.2026 11:33",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 135,
       "rate": 57.8
     },
-    "totalAnalyses": 615046,
-    "leagues": 315,
+    "totalAnalyses": 615048,
+    "leagues": 309,
     "pro": {
       "won": 515,
       "lost": 215,
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 580,
-    "analyses30d": 16375
+    "analyses30d": 16322
   },
   "recentWins": [
     {
@@ -362,18 +362,6 @@
       "picks": 1
     },
     {
-      "home": "Northern Ireland",
-      "away": "Switzerland U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 12:00",
-      "matchCode": "4579280",
-      "odds": 1.4,
-      "patternScore": 69.05,
-      "patternText": "107.566/155.780",
-      "aiScore": 57,
-      "picks": 3
-    },
-    {
       "home": "UAE",
       "away": "Syria",
       "league": "HAZ",
@@ -398,16 +386,28 @@
       "picks": 1
     },
     {
-      "home": "Iceland U19",
-      "away": "Wales U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 12:00",
-      "matchCode": "4579239",
+      "home": "Sheffield United",
+      "away": "Huddersfield Town",
+      "league": "INGPDL",
+      "date": "17.11.2026 14:00",
+      "matchCode": "4540679",
       "odds": 1.17,
-      "patternScore": 69.07,
-      "patternText": "193.974/280.822",
-      "aiScore": 76,
-      "picks": 2
+      "patternScore": 69.34,
+      "patternText": "240.251/346.467",
+      "aiScore": 71,
+      "picks": 1
+    },
+    {
+      "home": "Kosovo U19",
+      "away": "Kazakhstan U19",
+      "league": "AVŞU19",
+      "date": "17.11.2026 15:00",
+      "matchCode": "4579227",
+      "odds": 1.14,
+      "patternScore": 69.63,
+      "patternText": "219.790/315.674",
+      "aiScore": 86,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
