@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 07:27",
+  "updatedAt": "17.11.2026 07:35",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 135,
       "rate": 57.8
     },
-    "totalAnalyses": 614769,
-    "leagues": 348,
+    "totalAnalyses": 614774,
+    "leagues": 346,
     "pro": {
       "won": 515,
       "lost": 215,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 452,
-    "analyses30d": 16570
+    "analyses24h": 448,
+    "analyses30d": 16553
   },
   "recentWins": [
     {
@@ -289,15 +289,21 @@
     },
     {
       "type": "updated",
+      "at": "17.11.2026 07:21",
+      "home": "China",
+      "away": "Bahrain"
+    },
+    {
+      "type": "updated",
       "at": "17.11.2026 07:22",
       "home": "Burundi",
       "away": "Zambia"
     },
     {
       "type": "updated",
-      "at": "17.11.2026 07:21",
-      "home": "Tanzania",
-      "away": "Nigeria"
+      "at": "17.11.2026 07:23",
+      "home": "Ethiopia",
+      "away": "Mozambique"
     },
     {
       "type": "updated",
@@ -307,9 +313,9 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 07:20",
-      "home": "Poland (U19)",
-      "away": "Luxembourg U19"
+      "at": "17.11.2026 07:23",
+      "home": "Sheffield Wednesday",
+      "away": "Hull City U21"
     },
     {
       "type": "updated",
@@ -319,46 +325,64 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 07:22",
-      "home": "England (U19",
-      "away": "Austria U19"
+      "at": "17.11.2026 07:21",
+      "home": "Cyprus (",
+      "away": "Armenia U19"
     },
     {
       "type": "updated",
       "at": "17.11.2026 04:42",
       "home": "Slovakia U19",
       "away": "Estonia (U19)"
-    },
-    {
-      "type": "updated",
-      "at": "17.11.2026 06:01",
-      "home": "Romania (U19)",
-      "away": "Ukraine U19"
     }
   ],
   "today": {
-    "home": "Burundi",
-    "away": "Zambia",
-    "league": "AFUK",
-    "date": "17.11.2026 13:00",
-    "matchCode": "4579358",
-    "odds": 1.15,
-    "patternScore": 69.07,
-    "patternText": "209.001/302.608",
-    "aiScore": 79,
-    "picks": 1
+    "home": "Japan",
+    "away": "Paraguay",
+    "league": "HAZ",
+    "date": "17.11.2026 13:10",
+    "matchCode": "4565361",
+    "odds": 1.3,
+    "patternScore": 68.16,
+    "patternText": "179.393/263.188",
+    "aiScore": 61,
+    "picks": 2
   },
   "todayList": [
     {
-      "home": "Burundi",
-      "away": "Zambia",
-      "league": "AFUK",
+      "home": "Japan",
+      "away": "Paraguay",
+      "league": "HAZ",
+      "date": "17.11.2026 13:10",
+      "matchCode": "4565361",
+      "odds": 1.3,
+      "patternScore": 68.16,
+      "patternText": "179.393/263.188",
+      "aiScore": 61,
+      "picks": 2
+    },
+    {
+      "home": "China",
+      "away": "Bahrain",
+      "league": "HAZ",
+      "date": "17.11.2026 12:00",
+      "matchCode": "4579414",
+      "odds": 1.28,
+      "patternScore": 68.72,
+      "patternText": "194.049/282.385",
+      "aiScore": 64,
+      "picks": 2
+    },
+    {
+      "home": "Sheffield Wednesday",
+      "away": "Hull City U21",
+      "league": "INGPDL",
       "date": "17.11.2026 13:00",
-      "matchCode": "4579358",
-      "odds": 1.15,
-      "patternScore": 69.07,
-      "patternText": "209.001/302.608",
-      "aiScore": 79,
+      "matchCode": "4540677",
+      "odds": 1.19,
+      "patternScore": 70.16,
+      "patternText": "139.419/198.707",
+      "aiScore": 77,
       "picks": 1
     },
     {
@@ -383,30 +407,6 @@
       "patternScore": 68.72,
       "patternText": "171.757/249.950",
       "aiScore": 81,
-      "picks": 1
-    },
-    {
-      "home": "Poland (U19)",
-      "away": "Luxembourg U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 11:00",
-      "matchCode": "4579287",
-      "odds": 1.13,
-      "patternScore": 69.51,
-      "patternText": "126.832/182.466",
-      "aiScore": 91,
-      "picks": 1
-    },
-    {
-      "home": "Belarus (U19)",
-      "away": "Slovenia U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 13:00",
-      "matchCode": "4579233",
-      "odds": 1.12,
-      "patternScore": 70.39,
-      "patternText": "267.046/379.378",
-      "aiScore": 80,
       "picks": 1
     }
   ],
