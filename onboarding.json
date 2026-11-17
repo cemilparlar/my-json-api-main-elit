@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 16:00",
+  "updatedAt": "17.11.2026 16:08",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 112,
-      "lost": 83,
-      "total": 195,
+      "won": 105,
+      "lost": 78,
+      "total": 183,
       "rate": 57.4
     },
-    "totalAnalyses": 615376,
+    "totalAnalyses": 615386,
     "leagues": 287,
     "pro": {
       "won": 535,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 570,
-    "analyses30d": 15696
+    "analyses24h": 569,
+    "analyses30d": 15695
   },
   "recentWins": [
     {
@@ -319,7 +319,7 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 13:08",
+      "at": "17.11.2026 16:03",
       "home": "Botswana",
       "away": "Uganda"
     },
@@ -343,8 +343,8 @@
     "date": "17.11.2026 19:00",
     "matchCode": "4579374",
     "odds": 1.6,
-    "patternScore": 68.44,
-    "patternText": "238.987/349.213",
+    "patternScore": 68.43,
+    "patternText": "239.039/349.299",
     "aiScore": 56,
     "picks": 2
   },
@@ -356,8 +356,8 @@
       "date": "17.11.2026 19:00",
       "matchCode": "4579374",
       "odds": 1.6,
-      "patternScore": 68.44,
-      "patternText": "238.987/349.213",
+      "patternScore": 68.43,
+      "patternText": "239.039/349.299",
       "aiScore": 56,
       "picks": 2
     },
@@ -369,8 +369,8 @@
       "matchCode": "4519592",
       "odds": 1.53,
       "patternScore": 68.33,
-      "patternText": "120.341/176.118",
-      "aiScore": 56,
+      "patternText": "120.369/176.160",
+      "aiScore": 57,
       "picks": 1
     },
     {
@@ -381,7 +381,7 @@
       "matchCode": "4579435",
       "odds": 1.52,
       "patternScore": 66.85,
-      "patternText": "146.361/218.944",
+      "patternText": "146.397/219.002",
       "aiScore": 56,
       "picks": 2
     },
@@ -393,7 +393,7 @@
       "matchCode": "4445179",
       "odds": 1.33,
       "patternScore": 68.73,
-      "patternText": "143.690/209.071",
+      "patternText": "143.710/209.105",
       "aiScore": 62,
       "picks": 3
     },
@@ -405,25 +405,32 @@
       "matchCode": "4519655",
       "odds": 1.29,
       "patternScore": 68.28,
-      "patternText": "208.417/305.237",
+      "patternText": "208.461/305.307",
       "aiScore": 63,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Ireland",
-      "away": "Kosovo",
+      "home": "Bosnia and Herzegovina",
+      "away": "Romania",
       "league": "AVUL",
-      "at": "17.11.2026 15:45",
-      "count": 10
+      "at": "17.11.2026 16:04",
+      "count": 7
     },
     {
       "home": "Wales",
       "away": "Portugal",
       "league": "AVUL",
-      "at": "17.11.2026 15:44",
+      "at": "17.11.2026 16:03",
       "count": 3
+    },
+    {
+      "home": "Ireland",
+      "away": "Kosovo",
+      "league": "AVUL",
+      "at": "17.11.2026 15:45",
+      "count": 10
     },
     {
       "home": "Hungary",
@@ -438,13 +445,6 @@
       "league": "AVUL",
       "at": "17.11.2026 13:55",
       "count": 5
-    },
-    {
-      "home": "Bosnia and Herzegovina",
-      "away": "Romania",
-      "league": "AVUL",
-      "at": "17.11.2026 13:54",
-      "count": 7
     },
     {
       "home": "Ukraine",
