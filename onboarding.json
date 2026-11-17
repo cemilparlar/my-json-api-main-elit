@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 02:00",
+  "updatedAt": "17.11.2026 02:08",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 71,
-      "lost": 52,
-      "total": 123,
-      "rate": 57.7
+      "won": 78,
+      "lost": 57,
+      "total": 135,
+      "rate": 57.8
     },
     "totalAnalyses": 614671,
-    "leagues": 352,
+    "leagues": 351,
     "pro": {
-      "won": 512,
-      "lost": 213,
-      "total": 725,
-      "rate": 70.6
+      "won": 514,
+      "lost": 215,
+      "total": 729,
+      "rate": 70.5
     },
     "insights": {
-      "won": 838,
-      "lost": 350,
-      "total": 1188,
-      "rate": 70.5
+      "won": 841,
+      "lost": 353,
+      "total": 1194,
+      "rate": 70.4
     },
     "coupons": {
       "won": 0,
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 389,
-    "analyses30d": 16649
+    "analyses30d": 16635
   },
   "recentWins": [
     {
@@ -336,6 +336,18 @@
       "picks": 2
     },
     {
+      "home": "Sheffield United",
+      "away": "Huddersfield Town",
+      "league": "INGPDL",
+      "date": "17.11.2026 14:00",
+      "matchCode": "4540679",
+      "odds": 1.23,
+      "patternScore": 68.1,
+      "patternText": "216.263/317.563",
+      "aiScore": 67,
+      "picks": 1
+    },
+    {
       "home": "Burundi",
       "away": "Zambia",
       "league": "AFUK",
@@ -348,6 +360,18 @@
       "picks": 1
     },
     {
+      "home": "Norway (U19)",
+      "away": "Republic of Ireland",
+      "league": "AVŞU19",
+      "date": "17.11.2026 14:00",
+      "matchCode": "4579221",
+      "odds": 1.15,
+      "patternScore": 69.44,
+      "patternText": "222.602/320.581",
+      "aiScore": 84,
+      "picks": 1
+    },
+    {
       "home": "Barnsley U21",
       "away": "Wigan Athletic",
       "league": "INGPDL",
@@ -357,30 +381,6 @@
       "patternScore": 68.72,
       "patternText": "171.741/249.924",
       "aiScore": 81,
-      "picks": 1
-    },
-    {
-      "home": "Netherlands (U19)",
-      "away": "Croatia (U1",
-      "league": "AVŞU19",
-      "date": "17.11.2026 11:00",
-      "matchCode": "4579251",
-      "odds": 1.13,
-      "patternScore": 69.84,
-      "patternText": "208.945/299.186",
-      "aiScore": 86,
-      "picks": 1
-    },
-    {
-      "home": "Belarus (U19)",
-      "away": "Slovenia U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 13:00",
-      "matchCode": "4579233",
-      "odds": 1.12,
-      "patternScore": 70.39,
-      "patternText": "267.026/379.348",
-      "aiScore": 79,
       "picks": 1
     }
   ],
