@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 13:15",
+  "updatedAt": "17.11.2026 13:23",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 588,
-    "analyses30d": 16079
+    "analyses24h": 585,
+    "analyses30d": 16076
   },
   "recentWins": [
     {
@@ -362,6 +362,18 @@
       "picks": 1
     },
     {
+      "home": "Liberia",
+      "away": "Cape Verde",
+      "league": "AFUK",
+      "date": "17.11.2026 19:00",
+      "matchCode": "4579374",
+      "odds": 1.6,
+      "patternScore": 68.44,
+      "patternText": "238.703/348.775",
+      "aiScore": 55,
+      "picks": 2
+    },
+    {
       "home": "Togo",
       "away": "Algeria",
       "league": "AFUK",
@@ -374,39 +386,27 @@
       "picks": 1
     },
     {
-      "home": "Liberia",
-      "away": "Cape Verde",
-      "league": "AFUK",
-      "date": "17.11.2026 19:00",
-      "matchCode": "4579374",
-      "odds": 1.28,
-      "patternScore": 68.51,
-      "patternText": "146.507/213.863",
-      "aiScore": 60,
-      "picks": 2
-    },
-    {
       "home": "Rwanda",
       "away": "Mali",
       "league": "AFUK",
       "date": "17.11.2026 19:00",
       "matchCode": "4579375",
       "odds": 1.28,
-      "patternScore": 69.71,
-      "patternText": "134.696/193.216",
-      "aiScore": 71,
+      "patternScore": 68.04,
+      "patternText": "166.158/244.208",
+      "aiScore": 69,
       "picks": 1
     },
     {
-      "home": "Gambia",
-      "away": "Ivory Coast",
-      "league": "AFUK",
-      "date": "17.11.2026 16:00",
-      "matchCode": "4579311",
-      "odds": 1.23,
-      "patternScore": 65.01,
-      "patternText": "265.299/408.088",
-      "aiScore": 64,
+      "home": "St. Lucia",
+      "away": "Barbados",
+      "league": "CON",
+      "date": "17.11.2026 19:00",
+      "matchCode": "4579431",
+      "odds": 1.27,
+      "patternScore": 68.14,
+      "patternText": "196.491/288.383",
+      "aiScore": 59,
       "picks": 1
     }
   ],
