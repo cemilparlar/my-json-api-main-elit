@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 17:57",
+  "updatedAt": "17.11.2026 18:04",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 105,
-      "lost": 83,
-      "total": 188,
-      "rate": 55.9
+      "won": 116,
+      "lost": 87,
+      "total": 203,
+      "rate": 57.1
     },
     "totalAnalyses": 615479,
     "leagues": 287,
     "pro": {
-      "won": 536,
-      "lost": 230,
-      "total": 766,
-      "rate": 70.0
+      "won": 541,
+      "lost": 231,
+      "total": 772,
+      "rate": 70.1
     },
     "insights": {
-      "won": 888,
-      "lost": 380,
-      "total": 1268,
-      "rate": 70.0
+      "won": 894,
+      "lost": 382,
+      "total": 1276,
+      "rate": 70.1
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 566,
-    "analyses30d": 15667
+    "analyses24h": 561,
+    "analyses30d": 15648
   },
   "recentWins": [
     {
@@ -362,18 +362,6 @@
       "picks": 1
     },
     {
-      "home": "Ukraine",
-      "away": "Georgia",
-      "league": "AVUL",
-      "date": "17.11.2026 19:45",
-      "matchCode": "4445179",
-      "odds": 1.36,
-      "patternScore": 67.33,
-      "patternText": "162.254/240.987",
-      "aiScore": 63,
-      "picks": 5
-    },
-    {
       "home": "Truro City",
       "away": "Billericay Town",
       "league": "İCON",
@@ -394,7 +382,7 @@
       "odds": 1.29,
       "patternScore": 68.28,
       "patternText": "208.537/305.425",
-      "aiScore": 61,
+      "aiScore": 62,
       "picks": 1
     },
     {
@@ -408,6 +396,18 @@
       "patternText": "222.977/329.031",
       "aiScore": 64,
       "picks": 3
+    },
+    {
+      "home": "Atletico Nacional",
+      "away": "Once Caldas",
+      "league": "KOLK",
+      "date": "17.11.2026 23:30",
+      "matchCode": "4579941",
+      "odds": 1.23,
+      "patternScore": 69.25,
+      "patternText": "230.806/333.312",
+      "aiScore": 66,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
