@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 22:53",
+  "updatedAt": "17.11.2026 23:01",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 290,
       "rate": 64.1
     },
-    "totalAnalyses": 615584,
+    "totalAnalyses": 615585,
     "leagues": 287,
     "pro": {
       "won": 536,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 510,
-    "analyses30d": 15499
+    "analyses24h": 511,
+    "analyses30d": 15480
   },
   "recentWins": [
     {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 16:58",
-      "home": "Republic of Ireland",
-      "away": "Finland (U21"
-    },
-    {
-      "type": "updated",
       "at": "17.11.2026 18:07",
       "home": "Liberia",
       "away": "Cape Verde"
@@ -334,21 +328,39 @@
       "at": "17.11.2026 19:03",
       "home": "Poland",
       "away": "Sweden"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 19:02",
+      "home": "Bosnia and Herzegovina",
+      "away": "Romania"
     }
   ],
   "today": {
-    "home": "America de Cali",
-    "away": "Inter Bogota",
-    "league": "KOLK",
-    "date": "18.11.2026 01:30",
-    "matchCode": "4579942",
-    "odds": 1.33,
-    "patternScore": 68.59,
-    "patternText": "158.993/231.790",
-    "aiScore": 62,
+    "home": "Mynavi Sendai",
+    "away": "Ntv Beleza Women",
+    "league": "JWEL",
+    "date": "18.11.2026 05:00",
+    "matchCode": "4488319",
+    "odds": 1.34,
+    "patternScore": 68.19,
+    "patternText": "171.981/252.203",
+    "aiScore": 55,
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "Mynavi Sendai",
+      "away": "Ntv Beleza Women",
+      "league": "JWEL",
+      "date": "18.11.2026 05:00",
+      "matchCode": "4488319",
+      "odds": 1.34,
+      "patternScore": 68.19,
+      "patternText": "171.981/252.203",
+      "aiScore": 55,
+      "picks": 2
+    },
     {
       "home": "America de Cali",
       "away": "Inter Bogota",
@@ -374,15 +386,15 @@
       "picks": 1
     },
     {
-      "home": "Atletico Nacional",
-      "away": "Once Caldas",
-      "league": "KOLK",
-      "date": "17.11.2026 23:30",
-      "matchCode": "4579941",
-      "odds": 1.08,
-      "patternScore": 72.39,
-      "patternText": "150.683/208.165",
-      "aiScore": 99,
+      "home": "Albirex Niigata",
+      "away": "Elfen Saitama (",
+      "league": "JWEL",
+      "date": "18.11.2026 05:00",
+      "matchCode": "4488322",
+      "odds": 1.12,
+      "patternScore": 70.81,
+      "patternText": "234.285/330.869",
+      "aiScore": 90,
       "picks": 1
     },
     {
@@ -396,18 +408,6 @@
       "patternText": "232.345/326.885",
       "aiScore": 99,
       "picks": 1
-    },
-    {
-      "home": "Nicaragua",
-      "away": "Montserrat",
-      "league": "CON",
-      "date": "18.11.2026 03:00",
-      "matchCode": "4579447",
-      "odds": 1.06,
-      "patternScore": 68.84,
-      "patternText": "132.920/193.091",
-      "aiScore": 96,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
