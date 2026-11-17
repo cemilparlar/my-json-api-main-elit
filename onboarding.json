@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 18:29",
+  "updatedAt": "17.11.2026 18:36",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 220,
       "rate": 55.5
     },
-    "totalAnalyses": 615489,
+    "totalAnalyses": 615511,
     "leagues": 287,
     "pro": {
       "won": 541,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 573,
-    "analyses30d": 15654
+    "analyses24h": 565,
+    "analyses30d": 15634
   },
   "recentWins": [
     {
@@ -325,42 +325,30 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 14:28",
-      "home": "Guiseley",
-      "away": "Ashton United"
+      "at": "17.11.2026 18:27",
+      "home": "Rwanda",
+      "away": "Mali"
     },
     {
       "type": "updated",
-      "at": "17.11.2026 13:51",
-      "home": "Denmark",
-      "away": "Norway"
+      "at": "17.11.2026 14:28",
+      "home": "Guiseley",
+      "away": "Ashton United"
     }
   ],
   "today": {
-    "home": "St. Kitts And",
-    "away": "Bonaire",
-    "league": "CON",
-    "date": "17.11.2026 19:00",
-    "matchCode": "4579435",
-    "odds": 1.98,
-    "patternScore": 67.76,
-    "patternText": "214.553/316.624",
-    "aiScore": 54,
-    "picks": 3
+    "home": "Quorn",
+    "away": "Bury",
+    "league": "İNGNLP",
+    "date": "17.11.2026 19:45",
+    "matchCode": "4519592",
+    "odds": 1.53,
+    "patternScore": 68.31,
+    "patternText": "120.445/176.334",
+    "aiScore": 56,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "St. Kitts And",
-      "away": "Bonaire",
-      "league": "CON",
-      "date": "17.11.2026 19:00",
-      "matchCode": "4579435",
-      "odds": 1.98,
-      "patternScore": 67.76,
-      "patternText": "214.553/316.624",
-      "aiScore": 54,
-      "picks": 3
-    },
     {
       "home": "Quorn",
       "away": "Bury",
@@ -369,7 +357,7 @@
       "matchCode": "4519592",
       "odds": 1.53,
       "patternScore": 68.31,
-      "patternText": "120.443/176.330",
+      "patternText": "120.445/176.334",
       "aiScore": 56,
       "picks": 1
     },
@@ -381,7 +369,7 @@
       "matchCode": "4516079",
       "odds": 1.36,
       "patternScore": 68.45,
-      "patternText": "211.830/309.468",
+      "patternText": "211.836/309.480",
       "aiScore": 62,
       "picks": 4
     },
@@ -393,7 +381,7 @@
       "matchCode": "4519655",
       "odds": 1.29,
       "patternScore": 68.28,
-      "patternText": "208.623/305.553",
+      "patternText": "208.629/305.565",
       "aiScore": 64,
       "picks": 1
     },
@@ -405,18 +393,37 @@
       "matchCode": "4579941",
       "odds": 1.23,
       "patternScore": 69.24,
-      "patternText": "230.840/333.370",
+      "patternText": "230.842/333.374",
       "aiScore": 67,
       "picks": 2
+    },
+    {
+      "home": "Ukraine",
+      "away": "Georgia",
+      "league": "AVUL",
+      "date": "17.11.2026 19:45",
+      "matchCode": "4445179",
+      "odds": 1.21,
+      "patternScore": 69.17,
+      "patternText": "209.510/302.895",
+      "aiScore": 74,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "Bosnia and Herzegovina",
+      "away": "Romania",
+      "league": "AVUL",
+      "at": "17.11.2026 18:29",
+      "count": 5
+    },
+    {
       "home": "Wales",
       "away": "Portugal",
       "league": "AVUL",
-      "at": "17.11.2026 18:09",
-      "count": 13
+      "at": "17.11.2026 18:29",
+      "count": 6
     },
     {
       "home": "Poland",
@@ -438,13 +445,6 @@
       "league": "AVUL",
       "at": "17.11.2026 17:17",
       "count": 12
-    },
-    {
-      "home": "Bosnia and Herzegovina",
-      "away": "Romania",
-      "league": "AVUL",
-      "at": "17.11.2026 16:04",
-      "count": 7
     },
     {
       "home": "Hungary",
