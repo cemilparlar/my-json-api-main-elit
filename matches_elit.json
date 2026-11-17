@@ -567,7 +567,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 99
     },
     {
         "date": "18.11.2026 22:30",
@@ -1647,7 +1647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "16.11.2026 16:00",
@@ -1677,7 +1677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "16.11.2026 16:00",
@@ -1767,7 +1767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "16.11.2026 19:30",
@@ -1827,7 +1827,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 96
     },
     {
         "date": "16.11.2026 15:00",
@@ -3657,7 +3657,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 100
     },
     {
         "date": "17.11.2026 12:00",
@@ -6978,9 +6978,16 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 61
+        "patternScore": 68.38,
+        "patternText": "112.307/164.247",
+        "patternInfo": {
+            "m": 47,
+            "s": 1,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 58
     },
     {
         "date": "18.11.2026 17:00",
@@ -7001,8 +7008,15 @@
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
-        "patternScore": null,
-        "patternText": null,
-        "aiScore": 100
+        "patternScore": 71.24,
+        "patternText": "178.302/250.284",
+        "patternInfo": {
+            "m": 66,
+            "s": 6,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 94
     }
 ]
