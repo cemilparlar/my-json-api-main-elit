@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 14:59",
+  "updatedAt": "17.11.2026 15:07",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 104,
-      "lost": 65,
+      "won": 101,
+      "lost": 68,
       "total": 169,
-      "rate": 61.5
+      "rate": 59.8
     },
-    "totalAnalyses": 615335,
+    "totalAnalyses": 615339,
     "leagues": 287,
     "pro": {
-      "won": 527,
-      "lost": 219,
-      "total": 746,
-      "rate": 70.6
+      "won": 532,
+      "lost": 226,
+      "total": 758,
+      "rate": 70.2
     },
     "insights": {
-      "won": 874,
-      "lost": 362,
-      "total": 1236,
-      "rate": 70.7
+      "won": 880,
+      "lost": 370,
+      "total": 1250,
+      "rate": 70.4
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 611,
-    "analyses30d": 15806
+    "analyses24h": 589,
+    "analyses30d": 15759
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 4.47,
       "probability": 75.0,
       "patternScore": 63.88,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "1 - 1",
       "finalScore": "2 - 2",
       "pro": true
@@ -88,9 +88,23 @@
       "odds": 2.36,
       "probability": 71.43,
       "patternScore": 67.58,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0",
+      "pro": true
+    },
+    {
+      "home": "Lesotho",
+      "away": "Gabon",
+      "league": "AFUK",
+      "date": "17.11.2026 13:00",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 2.19,
+      "probability": 100.0,
+      "patternScore": 56.35,
+      "aiScore": 53,
+      "firstHalf": "1 - 0",
+      "finalScore": "2 - 1",
       "pro": true
     },
     {
@@ -102,24 +116,10 @@
       "odds": 2.0,
       "probability": 100.0,
       "patternScore": 56.6,
-      "aiScore": 53,
+      "aiScore": 54,
       "firstHalf": "1 - 1",
       "finalScore": "2 - 1",
       "pro": false
-    },
-    {
-      "home": "Trinidad & Tob",
-      "away": "Antigua and Barbuda",
-      "league": "CON",
-      "date": "17.11.2026 00:00",
-      "prediction": "Handicap (0:2) 2",
-      "odds": 1.87,
-      "probability": 100.0,
-      "patternScore": 56.06,
-      "aiScore": 53,
-      "firstHalf": "1 - 1",
-      "finalScore": "1 - 1",
-      "pro": true
     }
   ],
   "recentCoupons": [
@@ -281,11 +281,11 @@
     },
     {
       "type": "won",
-      "home": "Estonia",
-      "away": "Bulgaria",
-      "prediction": "Match Result 1",
-      "odds": 2.0,
-      "at": "16.11.2026 17:00"
+      "home": "Lesotho",
+      "away": "Gabon",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 2.19,
+      "at": "17.11.2026 13:00"
     },
     {
       "type": "updated",
@@ -301,13 +301,19 @@
     },
     {
       "type": "updated",
+      "at": "17.11.2026 11:14",
+      "home": "Lesotho",
+      "away": "Gabon"
+    },
+    {
+      "type": "updated",
       "at": "17.11.2026 11:15",
       "home": "Japan",
       "away": "Paraguay"
     },
     {
       "type": "updated",
-      "at": "17.11.2026 14:12",
+      "at": "17.11.2026 15:05",
       "home": "Kenya",
       "away": "South Africa"
     },
@@ -328,12 +334,6 @@
       "at": "17.11.2026 13:08",
       "home": "Luton Town",
       "away": "Peterborough United"
-    },
-    {
-      "type": "updated",
-      "at": "17.11.2026 13:09",
-      "home": "Rwanda",
-      "away": "Mali"
     }
   ],
   "today": {
@@ -343,10 +343,10 @@
     "date": "17.11.2026 19:00",
     "matchCode": "4579374",
     "odds": 1.6,
-    "patternScore": 68.44,
-    "patternText": "238.799/348.901",
-    "aiScore": 55,
-    "picks": 2
+    "patternScore": 68.45,
+    "patternText": "238.951/349.075",
+    "aiScore": 58,
+    "picks": 3
   },
   "todayList": [
     {
@@ -356,10 +356,10 @@
       "date": "17.11.2026 19:00",
       "matchCode": "4579374",
       "odds": 1.6,
-      "patternScore": 68.44,
-      "patternText": "238.799/348.901",
-      "aiScore": 55,
-      "picks": 2
+      "patternScore": 68.45,
+      "patternText": "238.951/349.075",
+      "aiScore": 58,
+      "picks": 3
     },
     {
       "home": "Quorn",
@@ -369,8 +369,8 @@
       "matchCode": "4519592",
       "odds": 1.53,
       "patternScore": 68.34,
-      "patternText": "120.269/175.978",
-      "aiScore": 56,
+      "patternText": "120.309/176.032",
+      "aiScore": 58,
       "picks": 1
     },
     {
@@ -381,8 +381,8 @@
       "matchCode": "4579435",
       "odds": 1.52,
       "patternScore": 66.87,
-      "patternText": "146.277/218.756",
-      "aiScore": 56,
+      "patternText": "146.333/218.842",
+      "aiScore": 58,
       "picks": 2
     },
     {
@@ -393,8 +393,8 @@
       "matchCode": "4445179",
       "odds": 1.33,
       "patternScore": 68.74,
-      "patternText": "143.598/208.911",
-      "aiScore": 62,
+      "patternText": "143.642/208.969",
+      "aiScore": 64,
       "picks": 3
     },
     {
@@ -404,9 +404,9 @@
       "date": "17.11.2026 19:45",
       "matchCode": "4519655",
       "odds": 1.29,
-      "patternScore": 68.28,
-      "patternText": "208.325/305.093",
-      "aiScore": 62,
+      "patternScore": 68.29,
+      "patternText": "208.401/305.183",
+      "aiScore": 65,
       "picks": 1
     }
   ],
@@ -415,8 +415,8 @@
       "home": "Hungary",
       "away": "Northern Ireland",
       "league": "AVUL",
-      "at": "17.11.2026 14:29",
-      "count": 10
+      "at": "17.11.2026 15:07",
+      "count": 5
     },
     {
       "home": "Poland",
