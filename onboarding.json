@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 10:54",
+  "updatedAt": "17.11.2026 11:01",
   "config": {
     "pages": [
       "engine",
@@ -28,7 +28,7 @@
       "rate": 57.8
     },
     "totalAnalyses": 615023,
-    "leagues": 330,
+    "leagues": 315,
     "pro": {
       "won": 515,
       "lost": 215,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 572,
-    "analyses30d": 16505
+    "analyses24h": 568,
+    "analyses30d": 16363
   },
   "recentWins": [
     {
@@ -295,6 +295,12 @@
     },
     {
       "type": "updated",
+      "at": "17.11.2026 10:51",
+      "home": "Lesotho",
+      "away": "Gabon"
+    },
+    {
+      "type": "updated",
       "at": "17.11.2026 09:52",
       "home": "Ethiopia",
       "away": "Mozambique"
@@ -304,6 +310,12 @@
       "at": "17.11.2026 10:52",
       "home": "Japan",
       "away": "Paraguay"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 10:52",
+      "home": "Jordan",
+      "away": "Australia"
     },
     {
       "type": "updated",
@@ -322,18 +334,6 @@
       "at": "17.11.2026 07:23",
       "home": "Sheffield Wednesday",
       "away": "Hull City U21"
-    },
-    {
-      "type": "updated",
-      "at": "17.11.2026 10:27",
-      "home": "Poland (U19)",
-      "away": "Luxembourg U19"
-    },
-    {
-      "type": "updated",
-      "at": "17.11.2026 07:57",
-      "home": "Iceland U19",
-      "away": "Wales U19"
     }
   ],
   "today": {
@@ -382,7 +382,7 @@
       "odds": 1.27,
       "patternScore": 67.99,
       "patternText": "216.520/318.448",
-      "aiScore": 63,
+      "aiScore": 64,
       "picks": 1
     },
     {
