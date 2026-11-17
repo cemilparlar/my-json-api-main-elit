@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 17:40",
+  "updatedAt": "17.11.2026 17:49",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 104,
-      "lost": 81,
-      "total": 185,
-      "rate": 56.2
+      "won": 105,
+      "lost": 83,
+      "total": 188,
+      "rate": 55.9
     },
-    "totalAnalyses": 615453,
+    "totalAnalyses": 615458,
     "leagues": 287,
     "pro": {
-      "won": 537,
-      "lost": 233,
-      "total": 770,
-      "rate": 69.7
+      "won": 536,
+      "lost": 230,
+      "total": 766,
+      "rate": 70.0
     },
     "insights": {
-      "won": 889,
-      "lost": 383,
-      "total": 1272,
-      "rate": 69.9
+      "won": 888,
+      "lost": 380,
+      "total": 1268,
+      "rate": 70.0
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 549,
-    "analyses30d": 15650
+    "analyses24h": 547,
+    "analyses30d": 15648
   },
   "recentWins": [
     {
@@ -374,6 +374,18 @@
       "picks": 5
     },
     {
+      "home": "Truro City",
+      "away": "Billericay Town",
+      "league": "İCON",
+      "date": "17.11.2026 19:45",
+      "matchCode": "4516079",
+      "odds": 1.36,
+      "patternScore": 68.45,
+      "patternText": "211.750/309.334",
+      "aiScore": 61,
+      "picks": 4
+    },
+    {
       "home": "Guiseley",
       "away": "Ashton United",
       "league": "İNGNLP",
@@ -382,7 +394,7 @@
       "odds": 1.29,
       "patternScore": 68.28,
       "patternText": "208.531/305.411",
-      "aiScore": 62,
+      "aiScore": 61,
       "picks": 1
     },
     {
@@ -396,18 +408,6 @@
       "patternText": "220.093/322.627",
       "aiScore": 69,
       "picks": 1
-    },
-    {
-      "home": "Atletico Nacional",
-      "away": "Once Caldas",
-      "league": "KOLK",
-      "date": "17.11.2026 23:30",
-      "matchCode": "4579941",
-      "odds": 1.23,
-      "patternScore": 69.25,
-      "patternText": "230.804/333.306",
-      "aiScore": 66,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
