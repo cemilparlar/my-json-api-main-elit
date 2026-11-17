@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 04:42",
+  "updatedAt": "17.11.2026 04:50",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 401,
-    "analyses30d": 16602
+    "analyses24h": 400,
+    "analyses30d": 16601
   },
   "recentWins": [
     {
@@ -289,28 +289,46 @@
     },
     {
       "type": "updated",
+      "at": "17.11.2026 04:42",
+      "home": "Slovakia U19",
+      "away": "Estonia (U19)"
+    },
+    {
+      "type": "updated",
       "at": "17.11.2026 01:26",
       "home": "New Mexico Uni",
       "away": "Sacramento Repu"
     },
     {
       "type": "analysis",
-      "count": 401
+      "count": 400
     }
   ],
   "today": {
-    "home": "Northern Ireland",
-    "away": "Switzerland U19",
+    "home": "Slovakia U19",
+    "away": "Estonia (U19)",
     "league": "AVŞU19",
-    "date": "17.11.2026 12:00",
-    "matchCode": "4579280",
-    "odds": 1.32,
-    "patternScore": 68.2,
-    "patternText": "205.588/301.440",
-    "aiScore": 59,
-    "picks": 2
+    "date": "17.11.2026 10:00",
+    "matchCode": "4579268",
+    "odds": 1.08,
+    "patternScore": 71.56,
+    "patternText": "123.220/172.200",
+    "aiScore": 99,
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Slovakia U19",
+      "away": "Estonia (U19)",
+      "league": "AVŞU19",
+      "date": "17.11.2026 10:00",
+      "matchCode": "4579268",
+      "odds": 1.08,
+      "patternScore": 71.56,
+      "patternText": "123.220/172.200",
+      "aiScore": 99,
+      "picks": 1
+    },
     {
       "home": "Northern Ireland",
       "away": "Switzerland U19",
@@ -357,18 +375,6 @@
       "patternScore": 69.07,
       "patternText": "208.999/302.606",
       "aiScore": 79,
-      "picks": 1
-    },
-    {
-      "home": "Norway (U19)",
-      "away": "Republic of Ireland",
-      "league": "AVŞU19",
-      "date": "17.11.2026 14:00",
-      "matchCode": "4579221",
-      "odds": 1.15,
-      "patternScore": 69.44,
-      "patternText": "222.622/320.611",
-      "aiScore": 84,
       "picks": 1
     }
   ],
