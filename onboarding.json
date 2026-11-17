@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 13:06",
+  "updatedAt": "17.11.2026 13:15",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 137,
       "rate": 56.9
     },
-    "totalAnalyses": 615129,
+    "totalAnalyses": 615167,
     "leagues": 287,
     "pro": {
       "won": 516,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 574,
-    "analyses30d": 16065
+    "analyses24h": 588,
+    "analyses30d": 16079
   },
   "recentWins": [
     {
@@ -319,21 +319,21 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 09:30",
-      "home": "Denmark U19",
-      "away": "Bosnia and Herzegovina U1"
+      "at": "17.11.2026 13:08",
+      "home": "Botswana",
+      "away": "Uganda"
     },
     {
       "type": "updated",
-      "at": "17.11.2026 12:24",
-      "home": "Sheffield Wednesday",
-      "away": "Hull City U21"
+      "at": "17.11.2026 13:08",
+      "home": "Liberia",
+      "away": "Cape Verde"
     },
     {
       "type": "updated",
-      "at": "17.11.2026 10:27",
-      "home": "Poland (U19)",
-      "away": "Luxembourg U19"
+      "at": "17.11.2026 13:08",
+      "home": "Luton Town",
+      "away": "Peterborough United"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4580214",
     "odds": 1.63,
     "patternScore": 67.81,
-    "patternText": "209.440/308.852",
+    "patternText": "209.462/308.888",
     "aiScore": 54,
     "picks": 1
   },
@@ -357,7 +357,7 @@
       "matchCode": "4580214",
       "odds": 1.63,
       "patternScore": 67.81,
-      "patternText": "209.440/308.852",
+      "patternText": "209.462/308.888",
       "aiScore": 54,
       "picks": 1
     },
@@ -369,8 +369,8 @@
       "matchCode": "4579359",
       "odds": 1.43,
       "patternScore": 67.7,
-      "patternText": "201.397/297.486",
-      "aiScore": 58,
+      "patternText": "201.419/297.526",
+      "aiScore": 57,
       "picks": 1
     },
     {
@@ -381,19 +381,7 @@
       "matchCode": "4579374",
       "odds": 1.28,
       "patternScore": 68.51,
-      "patternText": "146.485/213.831",
-      "aiScore": 64,
-      "picks": 1
-    },
-    {
-      "home": "Luton Town",
-      "away": "Peterborough United",
-      "league": "İNTK",
-      "date": "17.11.2026 19:00",
-      "matchCode": "4527867",
-      "odds": 1.27,
-      "patternScore": 67.74,
-      "patternText": "203.708/300.711",
+      "patternText": "146.507/213.863",
       "aiScore": 60,
       "picks": 2
     },
@@ -403,10 +391,22 @@
       "league": "AFUK",
       "date": "17.11.2026 19:00",
       "matchCode": "4579375",
-      "odds": 1.25,
+      "odds": 1.28,
       "patternScore": 69.71,
-      "patternText": "134.670/193.180",
-      "aiScore": 73,
+      "patternText": "134.696/193.216",
+      "aiScore": 71,
+      "picks": 1
+    },
+    {
+      "home": "Gambia",
+      "away": "Ivory Coast",
+      "league": "AFUK",
+      "date": "17.11.2026 16:00",
+      "matchCode": "4579311",
+      "odds": 1.23,
+      "patternScore": 65.01,
+      "patternText": "265.299/408.088",
+      "aiScore": 64,
       "picks": 1
     }
   ],
