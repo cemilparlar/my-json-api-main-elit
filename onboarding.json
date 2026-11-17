@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 09:17",
+  "updatedAt": "17.11.2026 09:24",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 506,
-    "analyses30d": 16550
+    "analyses24h": 501,
+    "analyses30d": 16545
   },
   "recentWins": [
     {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 09:11",
-      "home": "China",
-      "away": "Bahrain"
-    },
-    {
-      "type": "updated",
       "at": "17.11.2026 07:22",
       "home": "Burundi",
       "away": "Zambia"
@@ -310,6 +304,12 @@
       "at": "17.11.2026 07:23",
       "home": "Sheffield Wednesday",
       "away": "Hull City U21"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 09:11",
+      "home": "Poland (U19)",
+      "away": "Luxembourg U19"
     },
     {
       "type": "updated",
@@ -331,34 +331,46 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 09:11",
-      "home": "Malta U19",
-      "away": "North Macedonia U19"
+      "at": "17.11.2026 09:12",
+      "home": "Romania (U19)",
+      "away": "Ukraine U19"
     }
   ],
   "today": {
-    "home": "China",
-    "away": "Bahrain",
-    "league": "HAZ",
-    "date": "17.11.2026 12:00",
-    "matchCode": "4579414",
-    "odds": 1.28,
-    "patternScore": 68.72,
-    "patternText": "194.049/282.385",
-    "aiScore": 64,
+    "home": "Poland (U19)",
+    "away": "Luxembourg U19",
+    "league": "AVŞU19",
+    "date": "17.11.2026 11:00",
+    "matchCode": "4579287",
+    "odds": 1.53,
+    "patternScore": 67.46,
+    "patternText": "190.892/282.964",
+    "aiScore": 55,
     "picks": 2
   },
   "todayList": [
     {
-      "home": "China",
-      "away": "Bahrain",
-      "league": "HAZ",
-      "date": "17.11.2026 12:00",
-      "matchCode": "4579414",
-      "odds": 1.28,
-      "patternScore": 68.72,
-      "patternText": "194.049/282.385",
-      "aiScore": 64,
+      "home": "Poland (U19)",
+      "away": "Luxembourg U19",
+      "league": "AVŞU19",
+      "date": "17.11.2026 11:00",
+      "matchCode": "4579287",
+      "odds": 1.53,
+      "patternScore": 67.46,
+      "patternText": "190.892/282.964",
+      "aiScore": 55,
+      "picks": 2
+    },
+    {
+      "home": "Montenegro U19",
+      "away": "Serbia (U19)",
+      "league": "AVŞU19",
+      "date": "17.11.2026 15:00",
+      "matchCode": "4579256",
+      "odds": 1.38,
+      "patternScore": 67.84,
+      "patternText": "206.892/304.988",
+      "aiScore": 58,
       "picks": 2
     },
     {
@@ -374,15 +386,15 @@
       "picks": 1
     },
     {
-      "home": "Tajikistan",
-      "away": "Thailand",
-      "league": "KRALK",
-      "date": "17.11.2026 12:30",
-      "matchCode": "4580230",
-      "odds": 1.27,
-      "patternScore": 69.63,
-      "patternText": "211.944/304.378",
-      "aiScore": 65,
+      "home": "Romania (U19)",
+      "away": "Ukraine U19",
+      "league": "AVŞU19",
+      "date": "17.11.2026 12:00",
+      "matchCode": "4579245",
+      "odds": 1.25,
+      "patternScore": 69.52,
+      "patternText": "202.452/291.212",
+      "aiScore": 66,
       "picks": 2
     },
     {
@@ -395,18 +407,6 @@
       "patternScore": 69.27,
       "patternText": "123.826/178.756",
       "aiScore": 72,
-      "picks": 1
-    },
-    {
-      "home": "Sheffield Wednesday",
-      "away": "Hull City U21",
-      "league": "INGPDL",
-      "date": "17.11.2026 13:00",
-      "matchCode": "4540677",
-      "odds": 1.19,
-      "patternScore": 70.16,
-      "patternText": "139.419/198.707",
-      "aiScore": 76,
       "picks": 1
     }
   ],
