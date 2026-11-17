@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 22:22",
+  "updatedAt": "17.11.2026 22:30",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 185,
+      "won": 186,
       "lost": 104,
-      "total": 289,
-      "rate": 64.0
+      "total": 290,
+      "rate": 64.1
     },
     "totalAnalyses": 615578,
     "leagues": 287,
@@ -36,9 +36,9 @@
       "rate": 70.6
     },
     "insights": {
-      "won": 907,
+      "won": 908,
       "lost": 384,
-      "total": 1291,
+      "total": 1292,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 511,
-    "analyses30d": 15505
+    "analyses24h": 510,
+    "analyses30d": 15499
   },
   "recentWins": [
     {
@@ -362,18 +362,6 @@
       "picks": 2
     },
     {
-      "home": "El Salvador",
-      "away": "Saint Martin",
-      "league": "CON",
-      "date": "18.11.2026 01:00",
-      "matchCode": "4579446",
-      "odds": 1.24,
-      "patternScore": 68.65,
-      "patternText": "162.828/237.194",
-      "aiScore": 64,
-      "picks": 1
-    },
-    {
       "home": "French Guiana",
       "away": "Saint Vincent V",
       "league": "CON",
@@ -408,6 +396,18 @@
       "patternText": "143.540/198.015",
       "aiScore": 99,
       "picks": 1
+    },
+    {
+      "home": "Nicaragua",
+      "away": "Montserrat",
+      "league": "CON",
+      "date": "18.11.2026 03:00",
+      "matchCode": "4579447",
+      "odds": 1.06,
+      "patternScore": 68.84,
+      "patternText": "132.920/193.091",
+      "aiScore": 96,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
