@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 09:00",
+  "updatedAt": "17.11.2026 09:08",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 489,
-    "analyses30d": 16533
+    "analyses24h": 486,
+    "analyses30d": 16530
   },
   "recentWins": [
     {
@@ -102,7 +102,7 @@
       "odds": 1.87,
       "probability": 100.0,
       "patternScore": 56.06,
-      "aiScore": 54,
+      "aiScore": 53,
       "firstHalf": "1 - 1",
       "finalScore": "1 - 1",
       "pro": true
@@ -116,7 +116,7 @@
       "odds": 1.86,
       "probability": 100.0,
       "patternScore": 56.59,
-      "aiScore": 54,
+      "aiScore": 53,
       "firstHalf": "1 - 1",
       "finalScore": "1 - 1",
       "pro": false
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Norway (U19)",
-    "away": "Republic of Ireland",
-    "league": "AVŞU19",
-    "date": "17.11.2026 14:00",
-    "matchCode": "4579221",
-    "odds": 1.29,
-    "patternScore": 68.04,
-    "patternText": "195.848/287.845",
-    "aiScore": 57,
+    "home": "China",
+    "away": "Bahrain",
+    "league": "HAZ",
+    "date": "17.11.2026 12:00",
+    "matchCode": "4579414",
+    "odds": 1.28,
+    "patternScore": 68.72,
+    "patternText": "194.049/282.385",
+    "aiScore": 64,
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "Norway (U19)",
-      "away": "Republic of Ireland",
-      "league": "AVŞU19",
-      "date": "17.11.2026 14:00",
-      "matchCode": "4579221",
-      "odds": 1.29,
-      "patternScore": 68.04,
-      "patternText": "195.848/287.845",
-      "aiScore": 57,
-      "picks": 2
-    },
     {
       "home": "China",
       "away": "Bahrain",
@@ -370,7 +358,7 @@
       "odds": 1.28,
       "patternScore": 68.72,
       "patternText": "194.049/282.385",
-      "aiScore": 65,
+      "aiScore": 64,
       "picks": 2
     },
     {
@@ -382,7 +370,7 @@
       "odds": 1.27,
       "patternScore": 67.99,
       "patternText": "216.518/318.446",
-      "aiScore": 65,
+      "aiScore": 64,
       "picks": 1
     },
     {
@@ -394,8 +382,20 @@
       "odds": 1.27,
       "patternScore": 69.63,
       "patternText": "211.944/304.378",
-      "aiScore": 66,
+      "aiScore": 65,
       "picks": 2
+    },
+    {
+      "home": "Plateau United",
+      "away": "Kun Khalifat",
+      "league": "NIJ",
+      "date": "17.11.2026 15:00",
+      "matchCode": "4552290",
+      "odds": 1.22,
+      "patternScore": 69.27,
+      "patternText": "123.826/178.756",
+      "aiScore": 72,
+      "picks": 1
     },
     {
       "home": "Sheffield Wednesday",
@@ -406,7 +406,7 @@
       "odds": 1.19,
       "patternScore": 70.16,
       "patternText": "139.419/198.707",
-      "aiScore": 77,
+      "aiScore": 76,
       "picks": 1
     }
   ],
