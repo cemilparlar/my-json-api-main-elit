@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 16:47",
+  "updatedAt": "17.11.2026 16:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 187,
       "rate": 56.7
     },
-    "totalAnalyses": 615415,
+    "totalAnalyses": 615417,
     "leagues": 287,
     "pro": {
       "won": 535,
@@ -370,19 +370,7 @@
       "odds": 1.52,
       "patternScore": 67.64,
       "patternText": "212.762/314.539",
-      "aiScore": 55,
-      "picks": 4
-    },
-    {
-      "home": "St. Kitts And",
-      "away": "Bonaire",
-      "league": "CON",
-      "date": "17.11.2026 19:00",
-      "matchCode": "4579435",
-      "odds": 1.41,
-      "patternScore": 68.16,
-      "patternText": "214.991/315.428",
-      "aiScore": 61,
+      "aiScore": 56,
       "picks": 4
     },
     {
@@ -394,7 +382,7 @@
       "odds": 1.29,
       "patternScore": 68.28,
       "patternText": "208.475/305.335",
-      "aiScore": 62,
+      "aiScore": 63,
       "picks": 1
     },
     {
@@ -408,6 +396,18 @@
       "patternText": "166.398/244.674",
       "aiScore": 69,
       "picks": 1
+    },
+    {
+      "home": "Ireland",
+      "away": "Kosovo",
+      "league": "AVUL",
+      "date": "17.11.2026 19:45",
+      "matchCode": "4445191",
+      "odds": 1.28,
+      "patternScore": 67.95,
+      "patternText": "244.111/359.231",
+      "aiScore": 64,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
