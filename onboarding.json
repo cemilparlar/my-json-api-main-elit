@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 15:07",
+  "updatedAt": "17.11.2026 15:15",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 101,
-      "lost": 68,
-      "total": 169,
-      "rate": 59.8
+      "won": 104,
+      "lost": 78,
+      "total": 182,
+      "rate": 57.1
     },
-    "totalAnalyses": 615339,
+    "totalAnalyses": 615345,
     "leagues": 287,
     "pro": {
-      "won": 532,
-      "lost": 226,
-      "total": 758,
-      "rate": 70.2
+      "won": 534,
+      "lost": 228,
+      "total": 762,
+      "rate": 70.1
     },
     "insights": {
-      "won": 880,
-      "lost": 370,
-      "total": 1250,
-      "rate": 70.4
+      "won": 883,
+      "lost": 375,
+      "total": 1258,
+      "rate": 70.2
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 589,
-    "analyses30d": 15759
+    "analyses24h": 587,
+    "analyses30d": 15745
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 4.47,
       "probability": 75.0,
       "patternScore": 63.88,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "1 - 1",
       "finalScore": "2 - 2",
       "pro": true
@@ -88,7 +88,7 @@
       "odds": 2.36,
       "probability": 71.43,
       "patternScore": 67.58,
-      "aiScore": 52,
+      "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0",
       "pro": true
@@ -102,10 +102,10 @@
       "odds": 2.19,
       "probability": 100.0,
       "patternScore": 56.35,
-      "aiScore": 53,
+      "aiScore": 52,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 1",
-      "pro": true
+      "pro": false
     },
     {
       "home": "Estonia",
@@ -116,7 +116,7 @@
       "odds": 2.0,
       "probability": 100.0,
       "patternScore": 56.6,
-      "aiScore": 54,
+      "aiScore": 53,
       "firstHalf": "1 - 1",
       "finalScore": "2 - 1",
       "pro": false
@@ -313,12 +313,6 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 15:05",
-      "home": "Kenya",
-      "away": "South Africa"
-    },
-    {
-      "type": "updated",
       "at": "17.11.2026 13:08",
       "home": "Botswana",
       "away": "Uganda"
@@ -334,6 +328,12 @@
       "at": "17.11.2026 13:08",
       "home": "Luton Town",
       "away": "Peterborough United"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 13:09",
+      "home": "Rwanda",
+      "away": "Mali"
     }
   ],
   "today": {
@@ -344,8 +344,8 @@
     "matchCode": "4579374",
     "odds": 1.6,
     "patternScore": 68.45,
-    "patternText": "238.951/349.075",
-    "aiScore": 58,
+    "patternText": "238.981/349.147",
+    "aiScore": 56,
     "picks": 3
   },
   "todayList": [
@@ -357,8 +357,8 @@
       "matchCode": "4579374",
       "odds": 1.6,
       "patternScore": 68.45,
-      "patternText": "238.951/349.075",
-      "aiScore": 58,
+      "patternText": "238.981/349.147",
+      "aiScore": 56,
       "picks": 3
     },
     {
@@ -369,8 +369,8 @@
       "matchCode": "4519592",
       "odds": 1.53,
       "patternScore": 68.34,
-      "patternText": "120.309/176.032",
-      "aiScore": 58,
+      "patternText": "120.323/176.076",
+      "aiScore": 56,
       "picks": 1
     },
     {
@@ -380,9 +380,9 @@
       "date": "17.11.2026 19:00",
       "matchCode": "4579435",
       "odds": 1.52,
-      "patternScore": 66.87,
-      "patternText": "146.333/218.842",
-      "aiScore": 58,
+      "patternScore": 66.85,
+      "patternText": "146.343/218.906",
+      "aiScore": 56,
       "picks": 2
     },
     {
@@ -392,9 +392,9 @@
       "date": "17.11.2026 19:45",
       "matchCode": "4445179",
       "odds": 1.33,
-      "patternScore": 68.74,
-      "patternText": "143.642/208.969",
-      "aiScore": 64,
+      "patternScore": 68.73,
+      "patternText": "143.656/209.013",
+      "aiScore": 62,
       "picks": 3
     },
     {
@@ -404,9 +404,9 @@
       "date": "17.11.2026 19:45",
       "matchCode": "4519655",
       "odds": 1.29,
-      "patternScore": 68.29,
-      "patternText": "208.401/305.183",
-      "aiScore": 65,
+      "patternScore": 68.28,
+      "patternText": "208.411/305.211",
+      "aiScore": 63,
       "picks": 1
     }
   ],
