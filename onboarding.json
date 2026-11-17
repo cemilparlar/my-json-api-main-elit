@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 08:05",
+  "updatedAt": "17.11.2026 08:13",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 458,
-    "analyses30d": 16546
+    "analyses24h": 456,
+    "analyses30d": 16544
   },
   "recentWins": [
     {
@@ -88,7 +88,7 @@
       "odds": 2.0,
       "probability": 100.0,
       "patternScore": 56.6,
-      "aiScore": 53,
+      "aiScore": 54,
       "firstHalf": "1 - 1",
       "finalScore": "2 - 1",
       "pro": false
@@ -331,9 +331,9 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 07:58",
-      "home": "Cyprus (",
-      "away": "Armenia U19"
+      "at": "17.11.2026 07:59",
+      "home": "England (U19",
+      "away": "Austria U19"
     }
   ],
   "today": {
@@ -343,10 +343,10 @@
     "date": "17.11.2026 13:10",
     "matchCode": "4565361",
     "odds": 1.3,
-    "patternScore": 68.16,
-    "patternText": "179.393/263.188",
-    "aiScore": 61,
-    "picks": 2
+    "patternScore": 68.01,
+    "patternText": "202.251/297.406",
+    "aiScore": 59,
+    "picks": 1
   },
   "todayList": [
     {
@@ -356,10 +356,10 @@
       "date": "17.11.2026 13:10",
       "matchCode": "4565361",
       "odds": 1.3,
-      "patternScore": 68.16,
-      "patternText": "179.393/263.188",
-      "aiScore": 61,
-      "picks": 2
+      "patternScore": 68.01,
+      "patternText": "202.251/297.406",
+      "aiScore": 59,
+      "picks": 1
     },
     {
       "home": "China",
@@ -370,7 +370,31 @@
       "odds": 1.28,
       "patternScore": 68.72,
       "patternText": "194.049/282.385",
-      "aiScore": 64,
+      "aiScore": 65,
+      "picks": 2
+    },
+    {
+      "home": "UAE",
+      "away": "Syria",
+      "league": "HAZ",
+      "date": "17.11.2026 14:10",
+      "matchCode": "4580214",
+      "odds": 1.27,
+      "patternScore": 67.99,
+      "patternText": "216.518/318.446",
+      "aiScore": 65,
+      "picks": 1
+    },
+    {
+      "home": "Cyprus (",
+      "away": "Armenia U19",
+      "league": "AVŞU19",
+      "date": "17.11.2026 12:30",
+      "matchCode": "4579284",
+      "odds": 1.24,
+      "patternScore": 68.92,
+      "patternText": "189.270/274.604",
+      "aiScore": 69,
       "picks": 2
     },
     {
@@ -382,31 +406,7 @@
       "odds": 1.23,
       "patternScore": 68.1,
       "patternText": "216.279/317.593",
-      "aiScore": 68,
-      "picks": 1
-    },
-    {
-      "home": "Poland (U19)",
-      "away": "Luxembourg U19",
-      "league": "AVŞU19",
-      "date": "17.11.2026 11:00",
-      "matchCode": "4579287",
-      "odds": 1.21,
-      "patternScore": 69.16,
-      "patternText": "113.432/164.016",
-      "aiScore": 76,
-      "picks": 1
-    },
-    {
-      "home": "Sheffield Wednesday",
-      "away": "Hull City U21",
-      "league": "INGPDL",
-      "date": "17.11.2026 13:00",
-      "matchCode": "4540677",
-      "odds": 1.19,
-      "patternScore": 70.16,
-      "patternText": "139.419/198.707",
-      "aiScore": 77,
+      "aiScore": 69,
       "picks": 1
     }
   ],
