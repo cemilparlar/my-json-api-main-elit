@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 10:34",
+  "updatedAt": "17.11.2026 10:45",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 135,
       "rate": 57.8
     },
-    "totalAnalyses": 614964,
+    "totalAnalyses": 614975,
     "leagues": 330,
     "pro": {
       "won": 515,
@@ -36,9 +36,9 @@
       "rate": 70.5
     },
     "insights": {
-      "won": 842,
+      "won": 843,
       "lost": 353,
-      "total": 1195,
+      "total": 1196,
       "rate": 70.5
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 525,
-    "analyses30d": 16460
+    "analyses24h": 531,
+    "analyses30d": 16464
   },
   "recentWins": [
     {
@@ -295,15 +295,21 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 10:29",
-      "home": "Burundi",
-      "away": "Zambia"
-    },
-    {
-      "type": "updated",
       "at": "17.11.2026 09:52",
       "home": "Ethiopia",
       "away": "Mozambique"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 10:29",
+      "home": "Japan",
+      "away": "Paraguay"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 10:32",
+      "home": "Kenya",
+      "away": "South Africa"
     },
     {
       "type": "updated",
@@ -328,12 +334,6 @@
       "at": "17.11.2026 07:57",
       "home": "Iceland U19",
       "away": "Wales U19"
-    },
-    {
-      "type": "updated",
-      "at": "17.11.2026 09:10",
-      "home": "Slovakia U19",
-      "away": "Estonia (U19)"
     }
   ],
   "today": {
@@ -345,7 +345,7 @@
     "odds": 1.43,
     "patternScore": 67.7,
     "patternText": "201.323/297.394",
-    "aiScore": 57,
+    "aiScore": 56,
     "picks": 1
   },
   "todayList": [
@@ -358,7 +358,7 @@
       "odds": 1.43,
       "patternScore": 67.7,
       "patternText": "201.323/297.394",
-      "aiScore": 57,
+      "aiScore": 56,
       "picks": 1
     },
     {
@@ -370,7 +370,7 @@
       "odds": 1.4,
       "patternScore": 69.05,
       "patternText": "107.564/155.778",
-      "aiScore": 58,
+      "aiScore": 57,
       "picks": 3
     },
     {
@@ -382,7 +382,7 @@
       "odds": 1.27,
       "patternScore": 67.99,
       "patternText": "216.518/318.446",
-      "aiScore": 64,
+      "aiScore": 63,
       "picks": 1
     },
     {
@@ -394,7 +394,7 @@
       "odds": 1.22,
       "patternScore": 69.27,
       "patternText": "123.826/178.756",
-      "aiScore": 72,
+      "aiScore": 71,
       "picks": 1
     },
     {
@@ -406,11 +406,18 @@
       "odds": 1.19,
       "patternScore": 70.16,
       "patternText": "139.419/198.707",
-      "aiScore": 77,
+      "aiScore": 76,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Hacken Women",
+      "away": "Manchester City Women",
+      "league": "ŞMP-K",
+      "at": "17.11.2026 10:36",
+      "count": 5
+    },
     {
       "home": "Switzerland",
       "away": "Scotland",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "16.11.2026 14:10",
       "count": 7
-    },
-    {
-      "home": "Sao Paulo FC",
-      "away": "Fluminense FC",
-      "league": "BR1",
-      "at": "16.11.2026 09:32",
-      "count": 6
     }
   ],
   "paywall": {
