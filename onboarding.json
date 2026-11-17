@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 12:28",
+  "updatedAt": "17.11.2026 12:35",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 142,
       "rate": 59.2
     },
-    "totalAnalyses": 615103,
+    "totalAnalyses": 615108,
     "leagues": 290,
     "pro": {
       "won": 515,
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 588,
-    "analyses30d": 16201
+    "analyses30d": 16183
   },
   "recentWins": [
     {
@@ -307,12 +307,6 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 12:25",
-      "home": "Jordan",
-      "away": "Australia"
-    },
-    {
-      "type": "updated",
       "at": "17.11.2026 10:32",
       "home": "Kenya",
       "away": "South Africa"
@@ -334,6 +328,12 @@
       "at": "17.11.2026 12:24",
       "home": "Sheffield Wednesday",
       "away": "Hull City U21"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 10:27",
+      "home": "Poland (U19)",
+      "away": "Luxembourg U19"
     }
   ],
   "today": {
@@ -386,18 +386,6 @@
       "picks": 1
     },
     {
-      "home": "Sheffield Wednesday",
-      "away": "Hull City U21",
-      "league": "INGPDL",
-      "date": "17.11.2026 13:00",
-      "matchCode": "4540677",
-      "odds": 1.23,
-      "patternScore": 67.07,
-      "patternText": "141.851/211.505",
-      "aiScore": 69,
-      "picks": 1
-    },
-    {
       "home": "Plateau United",
       "away": "Kun Khalifat",
       "league": "NIJ",
@@ -407,6 +395,18 @@
       "patternScore": 69.27,
       "patternText": "123.842/178.774",
       "aiScore": 74,
+      "picks": 1
+    },
+    {
+      "home": "Albania (U2",
+      "away": "Spain (U21)",
+      "league": "HAZ",
+      "date": "17.11.2026 18:00",
+      "matchCode": "4580311",
+      "odds": 1.2,
+      "patternScore": 67.13,
+      "patternText": "155.060/230.976",
+      "aiScore": 71,
       "picks": 1
     }
   ],
