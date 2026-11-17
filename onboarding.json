@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 14:28",
+  "updatedAt": "17.11.2026 14:36",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 84,
-      "lost": 63,
-      "total": 147,
-      "rate": 57.1
+      "won": 90,
+      "lost": 64,
+      "total": 154,
+      "rate": 58.4
     },
-    "totalAnalyses": 615262,
+    "totalAnalyses": 615278,
     "leagues": 287,
     "pro": {
       "won": 523,
@@ -36,9 +36,9 @@
       "rate": 70.5
     },
     "insights": {
-      "won": 858,
-      "lost": 361,
-      "total": 1219,
+      "won": 862,
+      "lost": 362,
+      "total": 1224,
       "rate": 70.4
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 610,
-    "analyses30d": 15832
+    "analyses24h": 608,
+    "analyses30d": 15804
   },
   "recentWins": [
     {
@@ -382,7 +382,7 @@
       "odds": 1.43,
       "patternScore": 67.7,
       "patternText": "201.487/297.618",
-      "aiScore": 57,
+      "aiScore": 58,
       "picks": 1
     },
     {
@@ -403,14 +403,21 @@
       "league": "İNGNLP",
       "date": "17.11.2026 19:45",
       "matchCode": "4519655",
-      "odds": 1.31,
-      "patternScore": 68.2,
-      "patternText": "200.625/294.151",
-      "aiScore": 61,
+      "odds": 1.29,
+      "patternScore": 68.28,
+      "patternText": "208.301/305.063",
+      "aiScore": 62,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Hungary",
+      "away": "Northern Ireland",
+      "league": "AVUL",
+      "at": "17.11.2026 14:29",
+      "count": 10
+    },
     {
       "home": "Poland",
       "away": "Sweden",
@@ -438,13 +445,6 @@
       "league": "AVUL",
       "at": "17.11.2026 13:54",
       "count": 7
-    },
-    {
-      "home": "Hungary",
-      "away": "Northern Ireland",
-      "league": "AVUL",
-      "at": "17.11.2026 13:53",
-      "count": 11
     },
     {
       "home": "Denmark",
