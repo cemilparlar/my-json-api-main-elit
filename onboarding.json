@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 14:52",
+  "updatedAt": "17.11.2026 14:59",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 90,
-      "lost": 64,
-      "total": 154,
-      "rate": 58.4
+      "won": 104,
+      "lost": 65,
+      "total": 169,
+      "rate": 61.5
     },
-    "totalAnalyses": 615333,
+    "totalAnalyses": 615335,
     "leagues": 287,
     "pro": {
-      "won": 523,
+      "won": 527,
       "lost": 219,
-      "total": 742,
-      "rate": 70.5
+      "total": 746,
+      "rate": 70.6
     },
     "insights": {
-      "won": 862,
+      "won": 874,
       "lost": 362,
-      "total": 1224,
-      "rate": 70.4
+      "total": 1236,
+      "rate": 70.7
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 614,
-    "analyses30d": 15809
+    "analyses24h": 611,
+    "analyses30d": 15806
   },
   "recentWins": [
     {
@@ -313,12 +313,6 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 14:45",
-      "home": "Togo",
-      "away": "Algeria"
-    },
-    {
-      "type": "updated",
       "at": "17.11.2026 13:08",
       "home": "Botswana",
       "away": "Uganda"
@@ -334,6 +328,12 @@
       "at": "17.11.2026 13:08",
       "home": "Luton Town",
       "away": "Peterborough United"
+    },
+    {
+      "type": "updated",
+      "at": "17.11.2026 13:09",
+      "home": "Rwanda",
+      "away": "Mali"
     }
   ],
   "today": {
@@ -374,16 +374,16 @@
       "picks": 1
     },
     {
-      "home": "Togo",
-      "away": "Algeria",
-      "league": "AFUK",
-      "date": "17.11.2026 16:00",
-      "matchCode": "4579359",
-      "odds": 1.43,
-      "patternScore": 67.7,
-      "patternText": "201.515/297.652",
-      "aiScore": 58,
-      "picks": 1
+      "home": "St. Kitts And",
+      "away": "Bonaire",
+      "league": "CON",
+      "date": "17.11.2026 19:00",
+      "matchCode": "4579435",
+      "odds": 1.52,
+      "patternScore": 66.87,
+      "patternText": "146.277/218.756",
+      "aiScore": 56,
+      "picks": 2
     },
     {
       "home": "Ukraine",
