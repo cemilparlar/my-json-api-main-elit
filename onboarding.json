@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 06:19",
+  "updatedAt": "17.11.2026 06:28",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 135,
       "rate": 57.8
     },
-    "totalAnalyses": 614740,
+    "totalAnalyses": 614742,
     "leagues": 348,
     "pro": {
       "won": 515,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 430,
-    "analyses30d": 16557
+    "analyses24h": 432,
+    "analyses30d": 16559
   },
   "recentWins": [
     {
@@ -313,13 +313,19 @@
     },
     {
       "type": "updated",
+      "at": "17.11.2026 06:23",
+      "home": "Kyrgyzstan",
+      "away": "Vietnam"
+    },
+    {
+      "type": "updated",
       "at": "17.11.2026 01:26",
       "home": "New Mexico Uni",
       "away": "Sacramento Repu"
     },
     {
       "type": "analysis",
-      "count": 430
+      "count": 432
     }
   ],
   "today": {
