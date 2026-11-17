@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "17.11.2026 00:31",
+  "updatedAt": "17.11.2026 00:39",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 614671,
     "leagues": 355,
     "pro": {
-      "won": 505,
-      "lost": 210,
-      "total": 715,
+      "won": 506,
+      "lost": 211,
+      "total": 717,
       "rate": 70.6
     },
     "insights": {
-      "won": 824,
-      "lost": 347,
-      "total": 1171,
+      "won": 827,
+      "lost": 348,
+      "total": 1175,
       "rate": 70.4
     },
     "coupons": {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "16.11.2026 18:38",
-      "home": "Albacete Balompie",
-      "away": "Celta Vigo B"
-    },
-    {
-      "type": "updated",
       "at": "16.11.2026 18:56",
       "home": "Switzerland",
       "away": "Scotland"
@@ -334,6 +328,10 @@
       "home": "New Mexico Uni",
       "away": "Sacramento Repu",
       "at": "17.11.2026 02:00"
+    },
+    {
+      "type": "analysis",
+      "count": 388
     }
   ],
   "today": {
