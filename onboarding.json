@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 20:23",
+  "updatedAt": "18.11.2026 20:34",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 83,
       "rate": 63.9
     },
-    "totalAnalyses": 759222,
+    "totalAnalyses": 759295,
     "leagues": 282,
     "pro": {
       "won": 545,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1845,
-    "analyses30d": 15947
+    "analyses24h": 1899,
+    "analyses30d": 16001
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 2.66,
       "probability": 75.0,
       "patternScore": 63.98,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "2 - 0",
       "finalScore": "3 - 0",
       "pro": true
@@ -116,7 +116,7 @@
       "odds": 1.89,
       "probability": 100.0,
       "patternScore": 56.04,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "0 - 0",
       "finalScore": "3 - 0",
       "pro": true
@@ -412,6 +412,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Inter Miami CF",
+      "away": "Columbus Crew",
+      "league": "ABD",
+      "at": "18.11.2026 20:32",
+      "count": 11
+    },
+    {
+      "home": "FC Dallas",
+      "away": "Portland Timbers",
+      "league": "ABD",
+      "at": "18.11.2026 20:27",
+      "count": 9
+    },
+    {
       "home": "CD Tenerife",
       "away": "RCD Mallorca",
       "league": "İS2",
@@ -465,20 +479,6 @@
       "away": "Royal Antwerp",
       "league": "BEL",
       "at": "18.11.2026 20:18",
-      "count": 7
-    },
-    {
-      "home": "RC Lens",
-      "away": "Toulouse FC",
-      "league": "FR1",
-      "at": "18.11.2026 20:18",
-      "count": 9
-    },
-    {
-      "home": "St Pauli",
-      "away": "Bochum",
-      "league": "AL2",
-      "at": "18.11.2026 20:16",
       "count": 7
     }
   ],
