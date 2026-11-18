@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 19:38",
+  "updatedAt": "18.11.2026 19:47",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 111,
-      "lost": 44,
-      "total": 155,
-      "rate": 71.6
+      "won": 49,
+      "lost": 26,
+      "total": 75,
+      "rate": 65.3
     },
-    "totalAnalyses": 758778,
+    "totalAnalyses": 758862,
     "leagues": 282,
     "pro": {
       "won": 544,
-      "lost": 224,
-      "total": 768,
-      "rate": 70.8
+      "lost": 227,
+      "total": 771,
+      "rate": 70.6
     },
     "insights": {
       "won": 929,
-      "lost": 389,
-      "total": 1318,
-      "rate": 70.5
+      "lost": 392,
+      "total": 1321,
+      "rate": 70.3
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1559,
-    "analyses30d": 15583
+    "analyses24h": 1545,
+    "analyses30d": 15660
   },
   "recentWins": [
     {
@@ -345,7 +345,7 @@
     "odds": 1.47,
     "patternScore": 67.4,
     "patternText": "177.282/263.028",
-    "aiScore": 53,
+    "aiScore": 52,
     "picks": 5
   },
   "todayList": [
@@ -358,31 +358,7 @@
       "odds": 1.47,
       "patternScore": 67.4,
       "patternText": "177.282/263.028",
-      "aiScore": 53,
-      "picks": 5
-    },
-    {
-      "home": "SC Corinthians",
-      "away": "Botafogo de Futebol e Regatas",
-      "league": "BR1",
-      "date": "19.11.2026 00:30",
-      "matchCode": "4423372",
-      "odds": 1.36,
-      "patternScore": 67.57,
-      "patternText": "125.001/184.995",
-      "aiScore": 57,
-      "picks": 2
-    },
-    {
-      "home": "Gremio FBPA",
-      "away": "EC Bahia",
-      "league": "BR1",
-      "date": "19.11.2026 00:30",
-      "matchCode": "4423375",
-      "odds": 1.28,
-      "patternScore": 69.2,
-      "patternText": "109.375/158.047",
-      "aiScore": 73,
+      "aiScore": 52,
       "picks": 5
     },
     {
@@ -398,19 +374,71 @@
       "picks": 4
     },
     {
-      "home": "Remo",
-      "away": "Chapecoense AF",
+      "home": "Always Ready",
+      "away": "Real Potosi",
+      "league": "BOLPLK",
+      "date": "18.11.2026 23:30",
+      "matchCode": "4580789",
+      "odds": 1.25,
+      "patternScore": 69.04,
+      "patternText": "86.050/124.635",
+      "aiScore": 63,
+      "picks": 1
+    },
+    {
+      "home": "Gremio FBPA",
+      "away": "EC Bahia",
       "league": "BR1",
-      "date": "18.11.2026 23:00",
-      "matchCode": "4423378",
-      "odds": 1.26,
-      "patternScore": 66.96,
-      "patternText": "121.969/182.155",
-      "aiScore": 66,
-      "picks": 4
+      "date": "19.11.2026 00:30",
+      "matchCode": "4423375",
+      "odds": 1.18,
+      "patternScore": 69.46,
+      "patternText": "192.771/277.534",
+      "aiScore": 78,
+      "picks": 2
+    },
+    {
+      "home": "Carabobo FC",
+      "away": "Zamora FC",
+      "league": "VENK",
+      "date": "18.11.2026 20:30",
+      "matchCode": "4580863",
+      "odds": 1.15,
+      "patternScore": 68.38,
+      "patternText": "203.886/298.175",
+      "aiScore": 83,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "US Catanzaro",
+      "away": "Palermo FC",
+      "league": "İTB",
+      "at": "18.11.2026 19:41",
+      "count": 6
+    },
+    {
+      "home": "OGC Nice",
+      "away": "Paris Saint-Germain",
+      "league": "FR1",
+      "at": "18.11.2026 19:41",
+      "count": 14
+    },
+    {
+      "home": "Kocaelispor",
+      "away": "Fenerbahce",
+      "league": "TSL",
+      "at": "18.11.2026 19:41",
+      "count": 15
+    },
+    {
+      "home": "Fatih Karagumruk",
+      "away": "Boluspor",
+      "league": "T1L",
+      "at": "18.11.2026 19:39",
+      "count": 2
+    },
     {
       "home": "SC Corinthians",
       "away": "Botafogo de Futebol e Regatas",
@@ -452,34 +480,6 @@
       "league": "İNCL",
       "at": "18.11.2026 18:47",
       "count": 7
-    },
-    {
-      "home": "Chelsea Women",
-      "away": "PSG Women",
-      "league": "ŞMP-K",
-      "at": "18.11.2026 18:30",
-      "count": 3
-    },
-    {
-      "home": "Sporting Charleroi",
-      "away": "Sint-Truidense VV",
-      "league": "BEL",
-      "at": "18.11.2026 18:01",
-      "count": 4
-    },
-    {
-      "home": "Cruzeiro EC",
-      "away": "SE Palmeiras",
-      "league": "BR1",
-      "at": "18.11.2026 17:52",
-      "count": 11
-    },
-    {
-      "home": "Hacken Women",
-      "away": "Manchester City Women",
-      "league": "ŞMP-K",
-      "at": "18.11.2026 15:53",
-      "count": 9
     }
   ],
   "paywall": {
