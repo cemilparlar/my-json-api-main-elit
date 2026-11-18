@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 23:11",
+  "updatedAt": "18.11.2026 23:21",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 113,
       "rate": 61.9
     },
-    "totalAnalyses": 760063,
+    "totalAnalyses": 760170,
     "leagues": 282,
     "pro": {
       "won": 546,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2532,
-    "analyses30d": 16548
+    "analyses24h": 2636,
+    "analyses30d": 16639
   },
   "recentWins": [
     {
@@ -394,7 +394,7 @@
       "odds": 1.1,
       "patternScore": 71.01,
       "patternText": "96.294/135.604",
-      "aiScore": 97,
+      "aiScore": 96,
       "picks": 3
     },
     {
@@ -411,6 +411,34 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Nantes",
+      "away": "Grenoble Foot",
+      "league": "FR2",
+      "at": "18.11.2026 23:20",
+      "count": 12
+    },
+    {
+      "home": "AD Ceuta",
+      "away": "UD Almeria",
+      "league": "İS2",
+      "at": "18.11.2026 23:20",
+      "count": 5
+    },
+    {
+      "home": "Istanbul Basaksehir",
+      "away": "Corum FK",
+      "league": "TSL",
+      "at": "18.11.2026 23:15",
+      "count": 11
+    },
+    {
+      "home": "Bodrum FK",
+      "away": "Van Spor FK",
+      "league": "T1L",
+      "at": "18.11.2026 23:15",
+      "count": 3
+    },
     {
       "home": "Getafe CF",
       "away": "Atletico Madrid",
@@ -452,34 +480,6 @@
       "league": "İS2",
       "at": "18.11.2026 22:28",
       "count": 5
-    },
-    {
-      "home": "CA Osasuna",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "18.11.2026 22:28",
-      "count": 6
-    },
-    {
-      "home": "Celta Vigo B",
-      "away": "Real Valladolid",
-      "league": "İS2",
-      "at": "18.11.2026 22:27",
-      "count": 11
-    },
-    {
-      "home": "RSC Anderlecht",
-      "away": "OH Leuven",
-      "league": "BEL",
-      "at": "18.11.2026 22:27",
-      "count": 5
-    },
-    {
-      "home": "AC Milan",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "18.11.2026 22:25",
-      "count": 8
     }
   ],
   "paywall": {
