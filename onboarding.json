@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 11:54",
+  "updatedAt": "18.11.2026 12:03",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 181,
-      "lost": 98,
-      "total": 279,
-      "rate": 64.9
+      "won": 170,
+      "lost": 94,
+      "total": 264,
+      "rate": 64.4
     },
-    "totalAnalyses": 757654,
-    "leagues": 287,
+    "totalAnalyses": 757690,
+    "leagues": 283,
     "pro": {
       "won": 534,
-      "lost": 223,
-      "total": 757,
-      "rate": 70.5
+      "lost": 222,
+      "total": 756,
+      "rate": 70.6
     },
     "insights": {
       "won": 906,
-      "lost": 385,
-      "total": 1291,
+      "lost": 384,
+      "total": 1290,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1113,
-    "analyses30d": 15724
+    "analyses24h": 1127,
+    "analyses30d": 15643
   },
   "recentWins": [
     {
@@ -301,6 +301,12 @@
     },
     {
       "type": "updated",
+      "at": "18.11.2026 11:49",
+      "home": "CS Constantine",
+      "away": "ES Ben Aknoun"
+    },
+    {
+      "type": "updated",
       "at": "18.11.2026 11:05",
       "home": "GCR Temouchent",
       "away": "JS El Biar"
@@ -328,38 +334,32 @@
       "at": "18.11.2026 11:46",
       "home": "El Gouna FC",
       "away": "Al Ittihad Al S"
-    },
-    {
-      "type": "updated",
-      "at": "18.11.2026 11:50",
-      "home": "Hacken Women",
-      "away": "Manchester City Women"
     }
   ],
   "today": {
-    "home": "El Gouna FC",
-    "away": "Al Ittihad Al S",
-    "league": "MSRK",
-    "date": "18.11.2026 15:00",
-    "matchCode": "4580324",
-    "odds": 1.41,
-    "patternScore": 68.21,
-    "patternText": "225.969/331.279",
-    "aiScore": 56,
-    "picks": 1
+    "home": "Race",
+    "away": "NK Radomlje",
+    "league": "SLVNK",
+    "date": "18.11.2026 16:00",
+    "matchCode": "4580084",
+    "odds": 1.63,
+    "patternScore": 67.02,
+    "patternText": "132.818/198.184",
+    "aiScore": 54,
+    "picks": 2
   },
   "todayList": [
     {
-      "home": "El Gouna FC",
-      "away": "Al Ittihad Al S",
-      "league": "MSRK",
-      "date": "18.11.2026 15:00",
-      "matchCode": "4580324",
-      "odds": 1.41,
-      "patternScore": 68.21,
-      "patternText": "225.969/331.279",
-      "aiScore": 56,
-      "picks": 1
+      "home": "Race",
+      "away": "NK Radomlje",
+      "league": "SLVNK",
+      "date": "18.11.2026 16:00",
+      "matchCode": "4580084",
+      "odds": 1.63,
+      "patternScore": 67.02,
+      "patternText": "132.818/198.184",
+      "aiScore": 54,
+      "picks": 2
     },
     {
       "home": "Peterborough United",
@@ -382,7 +382,19 @@
       "odds": 1.16,
       "patternScore": 70.02,
       "patternText": "251.907/359.786",
-      "aiScore": 84,
+      "aiScore": 83,
+      "picks": 1
+    },
+    {
+      "home": "CS Constantine",
+      "away": "ES Ben Aknoun",
+      "league": "CZYR",
+      "date": "18.11.2026 16:45",
+      "matchCode": "4546164",
+      "odds": 1.15,
+      "patternScore": 71.11,
+      "patternText": "166.264/233.810",
+      "aiScore": 87,
       "picks": 1
     },
     {
@@ -396,18 +408,6 @@
       "patternText": "274.070/388.470",
       "aiScore": 90,
       "picks": 2
-    },
-    {
-      "home": "Vipers SC",
-      "away": "Bul",
-      "league": "UGA",
-      "date": "18.11.2026 17:00",
-      "matchCode": "4547676",
-      "odds": 1.13,
-      "patternScore": 70.11,
-      "patternText": "276.330/394.123",
-      "aiScore": 77,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
