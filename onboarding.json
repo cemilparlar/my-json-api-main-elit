@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 14:43",
+  "updatedAt": "18.11.2026 14:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 210,
       "rate": 68.1
     },
-    "totalAnalyses": 758148,
+    "totalAnalyses": 758204,
     "leagues": 283,
     "pro": {
       "won": 537,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1352,
-    "analyses30d": 15672
+    "analyses24h": 1353,
+    "analyses30d": 15650
   },
   "recentWins": [
     {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 14:38",
-      "home": "Cd Badajoz",
-      "away": "CD Tenerife"
-    },
-    {
-      "type": "updated",
       "at": "18.11.2026 13:54",
       "home": "Al Adalah",
       "away": "Al Orubah Club"
@@ -334,6 +328,12 @@
       "at": "18.11.2026 09:17",
       "home": "Sanfrecce Hiroshima",
       "away": "Nojima Stella ("
+    },
+    {
+      "type": "updated",
+      "at": "18.11.2026 09:17",
+      "home": "Tampines Rovers",
+      "away": "Ratchaburi Mitr Phol FC"
     }
   ],
   "today": {
@@ -360,18 +360,6 @@
       "patternText": "203.142/299.910",
       "aiScore": 58,
       "picks": 1
-    },
-    {
-      "home": "Chelsea Women",
-      "away": "PSG Women",
-      "league": "ŞMP-K",
-      "date": "18.11.2026 20:00",
-      "matchCode": "4560866",
-      "odds": 1.32,
-      "patternScore": 67.64,
-      "patternText": "175.795/259.882",
-      "aiScore": 60,
-      "picks": 2
     },
     {
       "home": "Vall De Uxo",
@@ -408,6 +396,18 @@
       "patternText": "145.829/214.749",
       "aiScore": 64,
       "picks": 1
+    },
+    {
+      "home": "Chelsea Women",
+      "away": "PSG Women",
+      "league": "ŞMP-K",
+      "date": "18.11.2026 20:00",
+      "matchCode": "4560866",
+      "odds": 1.22,
+      "patternScore": 67.77,
+      "patternText": "181.475/267.796",
+      "aiScore": 65,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
