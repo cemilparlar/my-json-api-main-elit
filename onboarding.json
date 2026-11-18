@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 06:09",
+  "updatedAt": "18.11.2026 06:16",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 292,
       "rate": 64.4
     },
-    "totalAnalyses": 615598,
+    "totalAnalyses": 615599,
     "leagues": 287,
     "pro": {
       "won": 538,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 493,
-    "analyses30d": 15300
+    "analyses24h": 490,
+    "analyses30d": 15297
   },
   "recentWins": [
     {
@@ -312,34 +312,40 @@
       "away": "Ratchaburi Mitr Phol FC"
     },
     {
+      "type": "updated",
+      "at": "18.11.2026 06:10",
+      "home": "Rekord Bielsko",
+      "away": "Lech Poznan Uam"
+    },
+    {
       "type": "analysis",
-      "count": 493
+      "count": 490
     }
   ],
   "today": {
-    "home": "Borneo FC",
-    "away": "Manila Digger",
-    "league": "AFCAKŞ",
-    "date": "18.11.2026 12:00",
-    "matchCode": "4577306",
-    "odds": 1.15,
-    "patternScore": 69.19,
-    "patternText": "208.450/301.264",
-    "aiScore": 78,
-    "picks": 2
+    "home": "Cerezo Osaka Women",
+    "away": "Urawa Red Women",
+    "league": "JWEL",
+    "date": "18.11.2026 09:30",
+    "matchCode": "4488323",
+    "odds": 1.12,
+    "patternScore": 67.53,
+    "patternText": "291.622/431.832",
+    "aiScore": 84,
+    "picks": 1
   },
   "todayList": [
     {
-      "home": "Borneo FC",
-      "away": "Manila Digger",
-      "league": "AFCAKŞ",
-      "date": "18.11.2026 12:00",
-      "matchCode": "4577306",
-      "odds": 1.15,
-      "patternScore": 69.19,
-      "patternText": "208.450/301.264",
-      "aiScore": 78,
-      "picks": 2
+      "home": "Cerezo Osaka Women",
+      "away": "Urawa Red Women",
+      "league": "JWEL",
+      "date": "18.11.2026 09:30",
+      "matchCode": "4488323",
+      "odds": 1.12,
+      "patternScore": 67.53,
+      "patternText": "291.622/431.832",
+      "aiScore": 84,
+      "picks": 1
     },
     {
       "home": "Ho Chi Minh City FC",
@@ -354,18 +360,6 @@
       "picks": 2
     },
     {
-      "home": "Cerezo Osaka Women",
-      "away": "Urawa Red Women",
-      "league": "JWEL",
-      "date": "18.11.2026 09:30",
-      "matchCode": "4488323",
-      "odds": 1.1,
-      "patternScore": 69.39,
-      "patternText": "180.072/259.522",
-      "aiScore": 86,
-      "picks": 1
-    },
-    {
       "home": "Sanfrecce Hiroshima",
       "away": "Nojima Stella (",
       "league": "JWEL",
@@ -374,7 +368,7 @@
       "odds": 1.1,
       "patternScore": 70.67,
       "patternText": "240.330/340.060",
-      "aiScore": 93,
+      "aiScore": 92,
       "picks": 1
     },
     {
@@ -388,6 +382,18 @@
       "patternText": "186.532/267.532",
       "aiScore": 90,
       "picks": 1
+    },
+    {
+      "home": "Vipers SC",
+      "away": "Bul",
+      "league": "UGA",
+      "date": "18.11.2026 17:00",
+      "matchCode": "4547676",
+      "odds": 1.46,
+      "patternScore": 68.37,
+      "patternText": "112.429/164.435",
+      "aiScore": 54,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
