@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 09:31",
+  "updatedAt": "18.11.2026 09:39",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 295,
       "rate": 64.7
     },
-    "totalAnalyses": 757086,
+    "totalAnalyses": 757187,
     "leagues": 288,
     "pro": {
       "won": 541,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 695,
-    "analyses30d": 15427
+    "analyses24h": 793,
+    "analyses30d": 15525
   },
   "recentWins": [
     {
@@ -394,7 +394,7 @@
       "odds": 1.16,
       "patternScore": 70.02,
       "patternText": "251.905/359.784",
-      "aiScore": 83,
+      "aiScore": 82,
       "picks": 1
     },
     {
@@ -406,11 +406,46 @@
       "odds": 1.14,
       "patternScore": 69.44,
       "patternText": "223.994/322.575",
-      "aiScore": 94,
+      "aiScore": 92,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Sudtirol",
+      "away": "US Cremonese",
+      "league": "İTB",
+      "at": "18.11.2026 09:39",
+      "count": 8
+    },
+    {
+      "home": "Modena FC",
+      "away": "SS Juve Stabia",
+      "league": "İTB",
+      "at": "18.11.2026 09:39",
+      "count": 4
+    },
+    {
+      "home": "UC Sampdoria",
+      "away": "Benevento",
+      "league": "İTB",
+      "at": "18.11.2026 09:39",
+      "count": 4
+    },
+    {
+      "home": "Stade Lavalois",
+      "away": "Montpellier HSC",
+      "league": "FR2",
+      "at": "18.11.2026 09:32",
+      "count": 10
+    },
+    {
+      "home": "VfL Wolfsburg",
+      "away": "Holstein Kiel",
+      "league": "AL2",
+      "at": "18.11.2026 09:31",
+      "count": 7
+    },
     {
       "home": "Nuremberg",
       "away": "Eintracht Braunschweig",
@@ -445,41 +480,6 @@
       "league": "FR2",
       "at": "18.11.2026 09:22",
       "count": 8
-    },
-    {
-      "home": "Annecy",
-      "away": "Clermont Foot",
-      "league": "FR2",
-      "at": "18.11.2026 09:22",
-      "count": 6
-    },
-    {
-      "home": "SV Darmstadt 98",
-      "away": "FC Heidenheim",
-      "league": "AL2",
-      "at": "18.11.2026 09:21",
-      "count": 6
-    },
-    {
-      "home": "Arminia Bielef",
-      "away": "FC Magdeburg",
-      "league": "AL2",
-      "at": "18.11.2026 09:21",
-      "count": 6
-    },
-    {
-      "home": "AFC Bournemouth",
-      "away": "Nottingham Forest",
-      "league": "İNP",
-      "at": "18.11.2026 08:58",
-      "count": 8
-    },
-    {
-      "home": "Chelsea",
-      "away": "Leeds United",
-      "league": "İNP",
-      "at": "18.11.2026 08:56",
-      "count": 6
     }
   ],
   "paywall": {
