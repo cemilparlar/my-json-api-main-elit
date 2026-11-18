@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 20:59",
+  "updatedAt": "18.11.2026 21:08",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 91,
       "rate": 64.8
     },
-    "totalAnalyses": 759382,
+    "totalAnalyses": 759444,
     "leagues": 282,
     "pro": {
       "won": 546,
@@ -47,7 +47,7 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1954,
+    "analyses24h": 2009,
     "analyses30d": 16056
   },
   "recentWins": [
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Coritiba FBC",
-    "away": "FC Santos",
+    "home": "Cruzeiro EC",
+    "away": "SE Palmeiras",
     "league": "BR1",
-    "date": "18.11.2026 22:30",
-    "matchCode": "4423376",
-    "odds": 1.47,
-    "patternScore": 67.4,
-    "patternText": "177.292/263.048",
-    "aiScore": 53,
-    "picks": 5
+    "date": "18.11.2026 23:30",
+    "matchCode": "4423374",
+    "odds": 1.27,
+    "patternScore": 67.0,
+    "patternText": "188.018/280.640",
+    "aiScore": 58,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Coritiba FBC",
-      "away": "FC Santos",
-      "league": "BR1",
-      "date": "18.11.2026 22:30",
-      "matchCode": "4423376",
-      "odds": 1.47,
-      "patternScore": 67.4,
-      "patternText": "177.292/263.048",
-      "aiScore": 53,
-      "picks": 5
-    },
     {
       "home": "Cruzeiro EC",
       "away": "SE Palmeiras",
@@ -369,7 +357,7 @@
       "matchCode": "4423374",
       "odds": 1.27,
       "patternScore": 67.0,
-      "patternText": "188.010/280.630",
+      "patternText": "188.018/280.640",
       "aiScore": 58,
       "picks": 4
     },
@@ -381,7 +369,7 @@
       "matchCode": "4580789",
       "odds": 1.25,
       "patternScore": 69.04,
-      "patternText": "86.050/124.637",
+      "patternText": "86.050/124.639",
       "aiScore": 65,
       "picks": 1
     },
@@ -393,7 +381,7 @@
       "matchCode": "4423372",
       "odds": 1.21,
       "patternScore": 68.7,
-      "patternText": "122.579/178.416",
+      "patternText": "122.579/178.420",
       "aiScore": 77,
       "picks": 2
     },
@@ -405,12 +393,31 @@
       "matchCode": "4423375",
       "odds": 1.18,
       "patternScore": 69.46,
-      "patternText": "192.781/277.552",
+      "patternText": "192.793/277.568",
       "aiScore": 79,
       "picks": 2
+    },
+    {
+      "home": "Coritiba FBC",
+      "away": "FC Santos",
+      "league": "BR1",
+      "date": "18.11.2026 22:30",
+      "matchCode": "4423376",
+      "odds": 1.15,
+      "patternScore": 66.55,
+      "patternText": "295.319/443.748",
+      "aiScore": 72,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Dinamo Moscow",
+      "away": "FK Krasnodar",
+      "league": "RUS",
+      "at": "18.11.2026 21:02",
+      "count": 6
+    },
     {
       "home": "Erzurumspor FK",
       "away": "Goztepe",
@@ -473,13 +480,6 @@
       "league": "FR1",
       "at": "18.11.2026 20:20",
       "count": 13
-    },
-    {
-      "home": "RC Strasbourg",
-      "away": "Stade Brest",
-      "league": "FR1",
-      "at": "18.11.2026 20:20",
-      "count": 8
     }
   ],
   "paywall": {
