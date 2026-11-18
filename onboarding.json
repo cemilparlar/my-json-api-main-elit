@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 04:57",
+  "updatedAt": "18.11.2026 05:05",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 186,
-      "lost": 102,
-      "total": 288,
-      "rate": 64.6
+      "won": 187,
+      "lost": 104,
+      "total": 291,
+      "rate": 64.3
     },
     "totalAnalyses": 615597,
     "leagues": 287,
     "pro": {
-      "won": 536,
-      "lost": 225,
-      "total": 761,
+      "won": 537,
+      "lost": 226,
+      "total": 763,
       "rate": 70.4
     },
     "insights": {
-      "won": 911,
-      "lost": 386,
-      "total": 1297,
+      "won": 912,
+      "lost": 388,
+      "total": 1300,
       "rate": 70.2
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 491,
-    "analyses30d": 15338
+    "analyses30d": 15304
   },
   "recentWins": [
     {
@@ -295,18 +295,6 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 23:00",
-      "home": "Albirex Niigata",
-      "away": "Elfen Saitama ("
-    },
-    {
-      "type": "updated",
-      "at": "17.11.2026 23:01",
-      "home": "Mynavi Sendai",
-      "away": "Ntv Beleza Women"
-    },
-    {
-      "type": "updated",
       "at": "18.11.2026 03:35",
       "home": "Cerezo Osaka Women",
       "away": "Urawa Red Women"
@@ -324,31 +312,35 @@
       "away": "Montserrat"
     },
     {
-      "type": "kickoff",
-      "home": "Albirex Niigata",
-      "away": "Elfen Saitama (",
-      "at": "18.11.2026 05:00"
-    },
-    {
-      "type": "kickoff",
-      "home": "Mynavi Sendai",
-      "away": "Ntv Beleza Women",
-      "at": "18.11.2026 05:00"
+      "type": "analysis",
+      "count": 491
     }
   ],
   "today": {
-    "home": "Cerezo Osaka Women",
-    "away": "Urawa Red Women",
-    "league": "JWEL",
-    "date": "18.11.2026 09:30",
-    "matchCode": "4488323",
+    "home": "Ho Chi Minh City FC",
+    "away": "Buriram United",
+    "league": "AFCAKŞ",
+    "date": "18.11.2026 11:00",
+    "matchCode": "4478197",
     "odds": 1.1,
-    "patternScore": 69.39,
-    "patternText": "180.054/259.496",
-    "aiScore": 86,
-    "picks": 1
+    "patternScore": 69.38,
+    "patternText": "199.961/288.203",
+    "aiScore": 87,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Ho Chi Minh City FC",
+      "away": "Buriram United",
+      "league": "AFCAKŞ",
+      "date": "18.11.2026 11:00",
+      "matchCode": "4478197",
+      "odds": 1.1,
+      "patternScore": 69.38,
+      "patternText": "199.961/288.203",
+      "aiScore": 87,
+      "picks": 2
+    },
     {
       "home": "Cerezo Osaka Women",
       "away": "Urawa Red Women",
@@ -374,6 +366,18 @@
       "picks": 1
     },
     {
+      "home": "Vipers SC",
+      "away": "Bul",
+      "league": "UGA",
+      "date": "18.11.2026 17:00",
+      "matchCode": "4547676",
+      "odds": 1.46,
+      "patternScore": 68.37,
+      "patternText": "112.421/164.419",
+      "aiScore": 55,
+      "picks": 2
+    },
+    {
       "home": "GCR Temouchent",
       "away": "JS El Biar",
       "league": "CZYR",
@@ -384,30 +388,6 @@
       "patternText": "223.292/322.061",
       "aiScore": 75,
       "picks": 2
-    },
-    {
-      "home": "Borneo FC",
-      "away": "Manila Digger",
-      "league": "AFCAKŞ",
-      "date": "18.11.2026 12:00",
-      "matchCode": "4577306",
-      "odds": 1.15,
-      "patternScore": 69.19,
-      "patternText": "208.430/301.236",
-      "aiScore": 78,
-      "picks": 2
-    },
-    {
-      "home": "Mbarara City",
-      "away": "Lugazi Municipal FC",
-      "league": "UGA",
-      "date": "18.11.2026 13:00",
-      "matchCode": "4547674",
-      "odds": 1.15,
-      "patternScore": 71.18,
-      "patternText": "165.285/232.212",
-      "aiScore": 87,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
