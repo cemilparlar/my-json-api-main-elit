@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 06:24",
+  "updatedAt": "18.11.2026 06:31",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 292,
       "rate": 64.4
     },
-    "totalAnalyses": 615599,
+    "totalAnalyses": 615600,
     "leagues": 287,
     "pro": {
       "won": 538,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 489,
-    "analyses30d": 15296
+    "analyses24h": 491,
+    "analyses30d": 15298
   },
   "recentWins": [
     {
@@ -295,13 +295,13 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 06:09",
+      "at": "18.11.2026 06:24",
       "home": "Cerezo Osaka Women",
       "away": "Urawa Red Women"
     },
     {
       "type": "updated",
-      "at": "18.11.2026 04:15",
+      "at": "18.11.2026 06:25",
       "home": "Sanfrecce Hiroshima",
       "away": "Nojima Stella ("
     },
@@ -312,8 +312,14 @@
       "away": "Ratchaburi Mitr Phol FC"
     },
     {
+      "type": "kickoff",
+      "home": "Cerezo Osaka Women",
+      "away": "Urawa Red Women",
+      "at": "18.11.2026 09:30"
+    },
+    {
       "type": "analysis",
-      "count": 489
+      "count": 491
     }
   ],
   "today": {
