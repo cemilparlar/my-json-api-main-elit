@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 01:55",
+  "updatedAt": "18.11.2026 02:02",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 184,
+      "won": 185,
       "lost": 99,
-      "total": 283,
-      "rate": 65.0
+      "total": 284,
+      "rate": 65.1
     },
     "totalAnalyses": 615594,
     "leagues": 287,
     "pro": {
-      "won": 535,
+      "won": 536,
       "lost": 223,
-      "total": 758,
+      "total": 759,
       "rate": 70.6
     },
     "insights": {
-      "won": 909,
+      "won": 910,
       "lost": 384,
-      "total": 1293,
+      "total": 1294,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 495,
-    "analyses30d": 15395
+    "analyses24h": 491,
+    "analyses30d": 15382
   },
   "recentWins": [
     {
@@ -362,6 +362,18 @@
       "picks": 2
     },
     {
+      "home": "Nicaragua",
+      "away": "Montserrat",
+      "league": "CON",
+      "date": "18.11.2026 03:00",
+      "matchCode": "4579447",
+      "odds": 1.29,
+      "patternScore": 66.98,
+      "patternText": "180.556/269.585",
+      "aiScore": 64,
+      "picks": 2
+    },
+    {
       "home": "Albirex Niigata",
       "away": "Elfen Saitama (",
       "league": "JWEL",
@@ -380,22 +392,10 @@
       "date": "18.11.2026 04:00",
       "matchCode": "4488321",
       "odds": 1.08,
-      "patternScore": 71.07,
-      "patternText": "239.163/336.503",
-      "aiScore": 96,
+      "patternScore": 71.08,
+      "patternText": "235.265/330.987",
+      "aiScore": 97,
       "picks": 1
-    },
-    {
-      "home": "Nicaragua",
-      "away": "Montserrat",
-      "league": "CON",
-      "date": "18.11.2026 03:00",
-      "matchCode": "4579447",
-      "odds": 1.06,
-      "patternScore": 68.84,
-      "patternText": "132.922/193.093",
-      "aiScore": 96,
-      "picks": 2
     },
     {
       "home": "Borneo FC",
