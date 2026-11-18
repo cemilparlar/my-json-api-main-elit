@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 16:29",
+  "updatedAt": "18.11.2026 16:37",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 125,
+      "won": 123,
       "lost": 47,
-      "total": 172,
-      "rate": 72.7
+      "total": 170,
+      "rate": 72.4
     },
-    "totalAnalyses": 758348,
-    "leagues": 283,
+    "totalAnalyses": 758352,
+    "leagues": 282,
     "pro": {
       "won": 539,
       "lost": 224,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1367,
-    "analyses30d": 15523
+    "analyses24h": 1368,
+    "analyses30d": 15498
   },
   "recentWins": [
     {
@@ -289,9 +289,15 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 15:55",
+      "at": "18.11.2026 16:33",
       "home": "CD Alcoyano",
       "away": "RCD Mallorca"
+    },
+    {
+      "type": "updated",
+      "at": "18.11.2026 16:27",
+      "home": "Levante Women",
+      "away": "Eibar Women"
     },
     {
       "type": "updated",
@@ -307,7 +313,7 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 15:57",
+      "at": "18.11.2026 16:34",
       "home": "Alianza Atletico",
       "away": "FBC Melgar"
     },
@@ -328,27 +334,33 @@
       "at": "18.11.2026 15:53",
       "home": "Hacken Women",
       "away": "Manchester City Women"
-    },
-    {
-      "type": "updated",
-      "at": "18.11.2026 13:14",
-      "home": "Nottingham Forest",
-      "away": "Newcastle United U21"
     }
   ],
   "today": {
-    "home": "Carabobo FC",
-    "away": "Zamora FC",
-    "league": "VENK",
-    "date": "18.11.2026 20:30",
-    "matchCode": "4580863",
-    "odds": 1.35,
-    "patternScore": 67.35,
-    "patternText": "184.162/273.449",
-    "aiScore": 58,
-    "picks": 1
+    "home": "Coritiba FBC",
+    "away": "FC Santos",
+    "league": "BR1",
+    "date": "18.11.2026 22:30",
+    "matchCode": "4423376",
+    "odds": 1.47,
+    "patternScore": 67.4,
+    "patternText": "177.242/262.976",
+    "aiScore": 53,
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "Coritiba FBC",
+      "away": "FC Santos",
+      "league": "BR1",
+      "date": "18.11.2026 22:30",
+      "matchCode": "4423376",
+      "odds": 1.47,
+      "patternScore": 67.4,
+      "patternText": "177.242/262.976",
+      "aiScore": 53,
+      "picks": 5
+    },
     {
       "home": "Carabobo FC",
       "away": "Zamora FC",
@@ -396,18 +408,6 @@
       "patternText": "174.246/254.850",
       "aiScore": 66,
       "picks": 3
-    },
-    {
-      "home": "CD Alcoyano",
-      "away": "RCD Mallorca",
-      "league": "İSPK",
-      "date": "18.11.2026 19:00",
-      "matchCode": "4574147",
-      "odds": 1.21,
-      "patternScore": 67.88,
-      "patternText": "204.139/300.749",
-      "aiScore": 58,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
@@ -415,8 +415,8 @@
       "home": "Chelsea Women",
       "away": "PSG Women",
       "league": "ŞMP-K",
-      "at": "18.11.2026 15:56",
-      "count": 2
+      "at": "18.11.2026 16:34",
+      "count": 1
     },
     {
       "home": "Hacken Women",
