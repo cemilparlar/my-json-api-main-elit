@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 20:05",
+  "updatedAt": "18.11.2026 20:13",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 83,
       "rate": 63.9
     },
-    "totalAnalyses": 759064,
+    "totalAnalyses": 759075,
     "leagues": 282,
     "pro": {
       "won": 545,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1706,
-    "analyses30d": 15808
+    "analyses24h": 1699,
+    "analyses30d": 15801
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 2.66,
       "probability": 75.0,
       "patternScore": 63.98,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "2 - 0",
       "finalScore": "3 - 0",
       "pro": true
@@ -307,7 +307,7 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 19:32",
+      "at": "18.11.2026 20:13",
       "home": "SC Corinthians",
       "away": "Botafogo de Futebol e Regatas"
     },
@@ -344,7 +344,7 @@
     "matchCode": "4423376",
     "odds": 1.47,
     "patternScore": 67.4,
-    "patternText": "177.282/263.030",
+    "patternText": "177.290/263.046",
     "aiScore": 53,
     "picks": 5
   },
@@ -357,7 +357,7 @@
       "matchCode": "4423376",
       "odds": 1.47,
       "patternScore": 67.4,
-      "patternText": "177.282/263.030",
+      "patternText": "177.290/263.046",
       "aiScore": 53,
       "picks": 5
     },
@@ -369,7 +369,7 @@
       "matchCode": "4423374",
       "odds": 1.27,
       "patternScore": 67.0,
-      "patternText": "187.996/280.600",
+      "patternText": "188.008/280.628",
       "aiScore": 57,
       "picks": 4
     },
@@ -393,7 +393,7 @@
       "matchCode": "4423375",
       "odds": 1.18,
       "patternScore": 69.46,
-      "patternText": "192.771/277.534",
+      "patternText": "192.779/277.550",
       "aiScore": 79,
       "picks": 2
     },
@@ -405,12 +405,19 @@
       "matchCode": "4423372",
       "odds": 1.13,
       "patternScore": 69.81,
-      "patternText": "127.412/182.519",
+      "patternText": "127.414/182.521",
       "aiScore": 84,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SC Corinthians",
+      "away": "Botafogo de Futebol e Regatas",
+      "league": "BR1",
+      "at": "18.11.2026 20:13",
+      "count": 2
+    },
     {
       "home": "FC Utrecht",
       "away": "SC Cambuur",
@@ -473,13 +480,6 @@
       "league": "FR1",
       "at": "18.11.2026 19:41",
       "count": 14
-    },
-    {
-      "home": "Kocaelispor",
-      "away": "Fenerbahce",
-      "league": "TSL",
-      "at": "18.11.2026 19:41",
-      "count": 15
     }
   ],
   "paywall": {
