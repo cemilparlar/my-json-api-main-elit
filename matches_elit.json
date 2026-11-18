@@ -1077,7 +1077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "20.11.2026 00:30",
@@ -2428,36 +2428,6 @@
             "b": 100.0
         },
         "aiScore": 91
-    },
-    {
-        "date": "18.11.2026 10:00",
-        "league": "JWEL",
-        "matchCode": "4488324",
-        "home": "Sanfrecce Hiroshima",
-        "away": "Nojima Stella (",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "72.94",
-        "odds": "1.08",
-        "matchCount": "85",
-        "matchLink": "4488324",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 04:15",
-        "patternScore": 70.83,
-        "patternText": "246.938/348.658",
-        "patternInfo": {
-            "m": 56,
-            "s": 9,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 92
     },
     {
         "date": "18.11.2026 11:30",
@@ -4047,7 +4017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "17.11.2026 19:45",
@@ -6088,5 +6058,35 @@
             "b": 100.0
         },
         "aiScore": 79
+    },
+    {
+        "date": "18.11.2026 10:00",
+        "league": "JWEL",
+        "matchCode": "4488324",
+        "home": "Sanfrecce Hiroshima",
+        "away": "Nojima Stella (",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "75.86",
+        "odds": "1.10",
+        "matchCount": "174",
+        "matchLink": "4488324",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 04:15",
+        "patternScore": 70.67,
+        "patternText": "240.300/340.022",
+        "patternInfo": {
+            "m": 49,
+            "s": 6,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 87
     }
 ]
