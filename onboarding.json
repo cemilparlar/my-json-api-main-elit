@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 03:54",
+  "updatedAt": "18.11.2026 04:03",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 491,
-    "analyses30d": 15351
+    "analyses30d": 15338
   },
   "recentWins": [
     {
@@ -295,12 +295,6 @@
     },
     {
       "type": "updated",
-      "at": "17.11.2026 22:02",
-      "home": "Atletico Nacional",
-      "away": "Once Caldas"
-    },
-    {
-      "type": "updated",
       "at": "18.11.2026 03:14",
       "home": "JEF United Women",
       "away": "AC Parceiro Nagano"
@@ -331,9 +325,15 @@
     },
     {
       "type": "kickoff",
-      "home": "JEF United Women",
-      "away": "AC Parceiro Nagano",
-      "at": "18.11.2026 04:00"
+      "home": "Albirex Niigata",
+      "away": "Elfen Saitama (",
+      "at": "18.11.2026 05:00"
+    },
+    {
+      "type": "kickoff",
+      "home": "Mynavi Sendai",
+      "away": "Ntv Beleza Women",
+      "at": "18.11.2026 05:00"
     }
   ],
   "today": {
@@ -386,6 +386,18 @@
       "picks": 1
     },
     {
+      "home": "Sanfrecce Hiroshima",
+      "away": "Nojima Stella (",
+      "league": "JWEL",
+      "date": "18.11.2026 10:00",
+      "matchCode": "4488324",
+      "odds": 1.08,
+      "patternScore": 70.83,
+      "patternText": "246.938/348.658",
+      "aiScore": 97,
+      "picks": 1
+    },
+    {
       "home": "Borneo FC",
       "away": "Manila Digger",
       "league": "AFCAKŞ",
@@ -396,18 +408,6 @@
       "patternText": "208.430/301.236",
       "aiScore": 78,
       "picks": 2
-    },
-    {
-      "home": "Mbarara City",
-      "away": "Lugazi Municipal FC",
-      "league": "UGA",
-      "date": "18.11.2026 13:00",
-      "matchCode": "4547674",
-      "odds": 1.15,
-      "patternScore": 71.18,
-      "patternText": "165.285/232.212",
-      "aiScore": 87,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
