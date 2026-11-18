@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 14:53",
+  "updatedAt": "18.11.2026 15:01",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 143,
-      "lost": 67,
-      "total": 210,
-      "rate": 68.1
+      "won": 136,
+      "lost": 63,
+      "total": 199,
+      "rate": 68.3
     },
-    "totalAnalyses": 758204,
+    "totalAnalyses": 758238,
     "leagues": 283,
     "pro": {
       "won": 537,
@@ -47,24 +47,10 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1353,
-    "analyses30d": 15650
+    "analyses24h": 1354,
+    "analyses30d": 15591
   },
   "recentWins": [
-    {
-      "home": "Sudan",
-      "away": "Senegal",
-      "league": "AFUK",
-      "date": "16.11.2026 13:00",
-      "prediction": "Total Goals 6+",
-      "odds": 13.2,
-      "probability": 100.0,
-      "patternScore": 56.05,
-      "aiScore": 50,
-      "firstHalf": "0 - 2",
-      "finalScore": "2 - 4",
-      "pro": false
-    },
     {
       "home": "Czech Republic",
       "away": "Germany (U20)",
@@ -119,6 +105,20 @@
       "aiScore": 51,
       "firstHalf": "2 - 0",
       "finalScore": "3 - 0",
+      "pro": false
+    },
+    {
+      "home": "Lesotho",
+      "away": "Gabon",
+      "league": "AFUK",
+      "date": "17.11.2026 13:00",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 2.19,
+      "probability": 100.0,
+      "patternScore": 56.35,
+      "aiScore": 51,
+      "firstHalf": "1 - 0",
+      "finalScore": "2 - 1",
       "pro": false
     }
   ],
@@ -257,14 +257,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Sudan",
-      "away": "Senegal",
-      "prediction": "Total Goals 6+",
-      "odds": 13.2,
-      "at": "16.11.2026 13:00"
-    },
-    {
-      "type": "won",
       "home": "Czech Republic",
       "away": "Germany (U20)",
       "prediction": "Match Result X",
@@ -286,6 +278,14 @@
       "prediction": "1st Half Result X",
       "odds": 2.36,
       "at": "17.11.2026 10:00"
+    },
+    {
+      "type": "won",
+      "home": "Luton Town",
+      "away": "Peterborough United",
+      "prediction": "Both Teams to Score - No",
+      "odds": 2.33,
+      "at": "17.11.2026 19:00"
     },
     {
       "type": "updated",
