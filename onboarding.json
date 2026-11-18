@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 11:11",
+  "updatedAt": "18.11.2026 11:19",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 278,
       "rate": 64.7
     },
-    "totalAnalyses": 757425,
+    "totalAnalyses": 757435,
     "leagues": 287,
     "pro": {
       "won": 533,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 965,
-    "analyses30d": 15600
+    "analyses24h": 970,
+    "analyses30d": 15605
   },
   "recentWins": [
     {
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Vipers SC",
-    "away": "Bul",
-    "league": "UGA",
-    "date": "18.11.2026 17:00",
-    "matchCode": "4547676",
-    "odds": 1.46,
-    "patternScore": 68.37,
-    "patternText": "112.435/164.441",
-    "aiScore": 55,
-    "picks": 2
+    "home": "El Gouna FC",
+    "away": "Al Ittihad Al S",
+    "league": "MSRK",
+    "date": "18.11.2026 15:00",
+    "matchCode": "4580324",
+    "odds": 1.41,
+    "patternScore": 68.21,
+    "patternText": "225.967/331.277",
+    "aiScore": 56,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Vipers SC",
-      "away": "Bul",
-      "league": "UGA",
-      "date": "18.11.2026 17:00",
-      "matchCode": "4547676",
-      "odds": 1.46,
-      "patternScore": 68.37,
-      "patternText": "112.435/164.441",
-      "aiScore": 55,
-      "picks": 2
-    },
     {
       "home": "El Gouna FC",
       "away": "Al Ittihad Al S",
@@ -398,15 +386,27 @@
       "picks": 1
     },
     {
-      "home": "GCR Temouchent",
-      "away": "JS El Biar",
-      "league": "CZYR",
-      "date": "18.11.2026 16:45",
-      "matchCode": "4546168",
-      "odds": 1.15,
-      "patternScore": 69.33,
-      "patternText": "223.330/322.107",
-      "aiScore": 74,
+      "home": "Al Adalah",
+      "away": "Al Orubah Club",
+      "league": "SUUD1",
+      "date": "18.11.2026 14:30",
+      "matchCode": "4538724",
+      "odds": 1.14,
+      "patternScore": 69.44,
+      "patternText": "223.994/322.575",
+      "aiScore": 94,
+      "picks": 2
+    },
+    {
+      "home": "Dubocica",
+      "away": "FK Radnicki Nis",
+      "league": "SIRBK",
+      "date": "18.11.2026 15:00",
+      "matchCode": "4577304",
+      "odds": 1.13,
+      "patternScore": 70.55,
+      "patternText": "274.068/388.468",
+      "aiScore": 90,
       "picks": 2
     }
   ],
