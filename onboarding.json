@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 10:30",
+  "updatedAt": "18.11.2026 10:38",
   "config": {
     "pages": [
       "engine",
@@ -23,22 +23,22 @@
     "days": 7,
     "last24h": {
       "won": 185,
-      "lost": 103,
-      "total": 288,
-      "rate": 64.2
+      "lost": 101,
+      "total": 286,
+      "rate": 64.7
     },
-    "totalAnalyses": 757323,
+    "totalAnalyses": 757348,
     "leagues": 287,
     "pro": {
-      "won": 534,
+      "won": 533,
       "lost": 223,
-      "total": 757,
+      "total": 756,
       "rate": 70.5
     },
     "insights": {
-      "won": 907,
+      "won": 905,
       "lost": 385,
-      "total": 1292,
+      "total": 1290,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 880,
-    "analyses30d": 15541
+    "analyses24h": 905,
+    "analyses30d": 15566
   },
   "recentWins": [
     {
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "FC Rostov",
+      "away": "Krylya Sovietov",
+      "league": "RUS",
+      "at": "18.11.2026 10:34",
+      "count": 7
+    },
+    {
       "home": "Coventry City",
       "away": "Crystal Palace",
       "league": "İNP",
@@ -473,13 +480,6 @@
       "league": "İTA",
       "at": "18.11.2026 09:40",
       "count": 5
-    },
-    {
-      "home": "Ascoli Calcio",
-      "away": "LR Vicenza",
-      "league": "İTB",
-      "at": "18.11.2026 09:40",
-      "count": 6
     }
   ],
   "paywall": {
