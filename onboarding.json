@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 07:47",
+  "updatedAt": "18.11.2026 07:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 295,
       "rate": 64.7
     },
-    "totalAnalyses": 615639,
+    "totalAnalyses": 615640,
     "leagues": 287,
     "pro": {
       "won": 541,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 496,
-    "analyses30d": 15259
+    "analyses24h": 495,
+    "analyses30d": 15258
   },
   "recentWins": [
     {
@@ -325,30 +325,42 @@
     },
     {
       "type": "updated",
+      "at": "18.11.2026 07:41",
+      "home": "Tolmin",
+      "away": "Nk Brinje Grosu"
+    },
+    {
+      "type": "updated",
       "at": "18.11.2026 07:04",
       "home": "Mbarara City",
       "away": "Lugazi Municipal FC"
-    },
-    {
-      "type": "kickoff",
-      "home": "Cerezo Osaka Women",
-      "away": "Urawa Red Women",
-      "at": "18.11.2026 09:30"
     }
   ],
   "today": {
-    "home": "Roan United",
-    "away": "Chirundu United",
-    "league": "ZAM",
-    "date": "18.11.2026 13:00",
-    "matchCode": "4570576",
-    "odds": 1.17,
-    "patternScore": 69.23,
-    "patternText": "212.270/306.604",
-    "aiScore": 72,
+    "home": "Tolmin",
+    "away": "Nk Brinje Grosu",
+    "league": "SLVNK",
+    "date": "18.11.2026 12:30",
+    "matchCode": "4580083",
+    "odds": 1.21,
+    "patternScore": 67.32,
+    "patternText": "209.552/311.286",
+    "aiScore": 63,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "Tolmin",
+      "away": "Nk Brinje Grosu",
+      "league": "SLVNK",
+      "date": "18.11.2026 12:30",
+      "matchCode": "4580083",
+      "odds": 1.21,
+      "patternScore": 67.32,
+      "patternText": "209.552/311.286",
+      "aiScore": 63,
+      "picks": 1
+    },
     {
       "home": "Roan United",
       "away": "Chirundu United",
@@ -374,6 +386,18 @@
       "picks": 1
     },
     {
+      "home": "Sanfrecce Hiroshima",
+      "away": "Nojima Stella (",
+      "league": "JWEL",
+      "date": "18.11.2026 10:00",
+      "matchCode": "4488324",
+      "odds": 1.15,
+      "patternScore": 70.41,
+      "patternText": "242.814/344.878",
+      "aiScore": 90,
+      "picks": 1
+    },
+    {
       "home": "Tampines Rovers",
       "away": "Ratchaburi Mitr Phol FC",
       "league": "AFCAKŞ",
@@ -383,30 +407,6 @@
       "patternScore": 69.45,
       "patternText": "194.764/280.454",
       "aiScore": 78,
-      "picks": 2
-    },
-    {
-      "home": "Sanfrecce Hiroshima",
-      "away": "Nojima Stella (",
-      "league": "JWEL",
-      "date": "18.11.2026 10:00",
-      "matchCode": "4488324",
-      "odds": 1.11,
-      "patternScore": 69.68,
-      "patternText": "201.040/288.534",
-      "aiScore": 88,
-      "picks": 1
-    },
-    {
-      "home": "Ho Chi Minh City FC",
-      "away": "Buriram United",
-      "league": "AFCAKŞ",
-      "date": "18.11.2026 11:00",
-      "matchCode": "4478197",
-      "odds": 1.1,
-      "patternScore": 69.38,
-      "patternText": "199.991/288.241",
-      "aiScore": 87,
       "picks": 2
     }
   ],
