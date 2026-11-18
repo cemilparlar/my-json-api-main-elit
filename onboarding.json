@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 17:51",
+  "updatedAt": "18.11.2026 17:59",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 120,
-      "lost": 43,
-      "total": 163,
-      "rate": 73.6
+      "won": 123,
+      "lost": 45,
+      "total": 168,
+      "rate": 73.2
     },
-    "totalAnalyses": 758452,
+    "totalAnalyses": 758467,
     "leagues": 283,
     "pro": {
-      "won": 541,
-      "lost": 224,
-      "total": 765,
+      "won": 542,
+      "lost": 225,
+      "total": 767,
       "rate": 70.7
     },
     "insights": {
-      "won": 922,
-      "lost": 386,
-      "total": 1308,
+      "won": 924,
+      "lost": 387,
+      "total": 1311,
       "rate": 70.5
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1367,
-    "analyses30d": 15441
+    "analyses24h": 1381,
+    "analyses30d": 15455
   },
   "recentWins": [
     {
@@ -290,12 +290,6 @@
     {
       "type": "updated",
       "at": "18.11.2026 17:50",
-      "home": "CD Alcoyano",
-      "away": "RCD Mallorca"
-    },
-    {
-      "type": "updated",
-      "at": "18.11.2026 17:50",
       "home": "Cd Badajoz",
       "away": "CD Tenerife"
     },
@@ -316,6 +310,12 @@
       "at": "18.11.2026 13:59",
       "home": "Gosport Boroug",
       "away": "Chertsey Town"
+    },
+    {
+      "type": "updated",
+      "at": "18.11.2026 17:52",
+      "home": "Cruzeiro EC",
+      "away": "SE Palmeiras"
     },
     {
       "type": "updated",
@@ -362,18 +362,6 @@
       "picks": 5
     },
     {
-      "home": "CD Alcoyano",
-      "away": "RCD Mallorca",
-      "league": "İSPK",
-      "date": "18.11.2026 19:00",
-      "matchCode": "4574147",
-      "odds": 1.47,
-      "patternScore": 67.12,
-      "patternText": "124.087/184.869",
-      "aiScore": 55,
-      "picks": 2
-    },
-    {
       "home": "Carabobo FC",
       "away": "Zamora FC",
       "league": "VENK",
@@ -408,9 +396,28 @@
       "patternText": "121.967/182.153",
       "aiScore": 67,
       "picks": 4
+    },
+    {
+      "home": "Cd Badajoz",
+      "away": "CD Tenerife",
+      "league": "İSPK",
+      "date": "18.11.2026 19:00",
+      "matchCode": "4574151",
+      "odds": 1.21,
+      "patternScore": 68.3,
+      "patternText": "226.093/331.027",
+      "aiScore": 69,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Cruzeiro EC",
+      "away": "SE Palmeiras",
+      "league": "BR1",
+      "at": "18.11.2026 17:52",
+      "count": 11
+    },
     {
       "home": "Remo",
       "away": "Chapecoense AF",
@@ -472,13 +479,6 @@
       "away": "Crystal Palace",
       "league": "İNP",
       "at": "18.11.2026 10:01",
-      "count": 5
-    },
-    {
-      "home": "Aston Villa",
-      "away": "Sunderland",
-      "league": "İNP",
-      "at": "18.11.2026 09:59",
       "count": 5
     }
   ],
