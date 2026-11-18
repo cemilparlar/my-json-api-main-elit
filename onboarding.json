@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 16:53",
+  "updatedAt": "18.11.2026 17:01",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 125,
-      "lost": 47,
-      "total": 172,
-      "rate": 72.7
+      "won": 123,
+      "lost": 46,
+      "total": 169,
+      "rate": 72.8
     },
-    "totalAnalyses": 758367,
+    "totalAnalyses": 758370,
     "leagues": 282,
     "pro": {
       "won": 541,
@@ -36,9 +36,9 @@
       "rate": 70.7
     },
     "insights": {
-      "won": 924,
+      "won": 922,
       "lost": 388,
-      "total": 1312,
+      "total": 1310,
       "rate": 70.4
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1378,
-    "analyses30d": 15496
+    "analyses24h": 1372,
+    "analyses30d": 15475
   },
   "recentWins": [
     {
@@ -362,6 +362,18 @@
       "picks": 5
     },
     {
+      "home": "Remo",
+      "away": "Chapecoense AF",
+      "league": "BR1",
+      "date": "18.11.2026 23:00",
+      "matchCode": "4423378",
+      "odds": 1.43,
+      "patternScore": 66.53,
+      "patternText": "126.727/190.469",
+      "aiScore": 57,
+      "picks": 3
+    },
+    {
       "home": "Vall De Uxo",
       "away": "Torrent",
       "league": "İSTL",
@@ -383,18 +395,6 @@
       "patternScore": 68.33,
       "patternText": "201.894/295.488",
       "aiScore": 62,
-      "picks": 1
-    },
-    {
-      "home": "FK Zemun",
-      "away": "FK Radnicki 1923",
-      "league": "SIRBK",
-      "date": "18.11.2026 17:30",
-      "matchCode": "4577305",
-      "odds": 1.15,
-      "patternScore": 69.97,
-      "patternText": "289.596/413.894",
-      "aiScore": 74,
       "picks": 1
     },
     {
