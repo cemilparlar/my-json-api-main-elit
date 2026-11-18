@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 05:20",
+  "updatedAt": "18.11.2026 05:39",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 491,
-    "analyses30d": 15304
+    "analyses30d": 15300
   },
   "recentWins": [
     {
@@ -306,6 +306,12 @@
       "away": "Nojima Stella ("
     },
     {
+      "type": "updated",
+      "at": "18.11.2026 05:33",
+      "home": "Tampines Rovers",
+      "away": "Ratchaburi Mitr Phol FC"
+    },
+    {
       "type": "analysis",
       "count": 491
     }
@@ -360,6 +366,18 @@
       "picks": 1
     },
     {
+      "home": "Tampines Rovers",
+      "away": "Ratchaburi Mitr Phol FC",
+      "league": "AFCAKŞ",
+      "date": "18.11.2026 11:30",
+      "matchCode": "4478196",
+      "odds": 1.09,
+      "patternScore": 71.3,
+      "patternText": "119.843/168.086",
+      "aiScore": 92,
+      "picks": 1
+    },
+    {
       "home": "Vipers SC",
       "away": "Bul",
       "league": "UGA",
@@ -369,18 +387,6 @@
       "patternScore": 68.37,
       "patternText": "112.427/164.433",
       "aiScore": 55,
-      "picks": 2
-    },
-    {
-      "home": "GCR Temouchent",
-      "away": "JS El Biar",
-      "league": "CZYR",
-      "date": "18.11.2026 16:45",
-      "matchCode": "4546168",
-      "odds": 1.15,
-      "patternScore": 69.33,
-      "patternText": "223.298/322.075",
-      "aiScore": 75,
       "picks": 2
     }
   ],
