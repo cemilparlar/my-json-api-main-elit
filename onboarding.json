@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 08:40",
+  "updatedAt": "18.11.2026 08:49",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 295,
       "rate": 64.7
     },
-    "totalAnalyses": 615690,
+    "totalAnalyses": 615711,
     "leagues": 287,
     "pro": {
       "won": 541,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 536,
-    "analyses30d": 15281
+    "analyses24h": 534,
+    "analyses30d": 15279
   },
   "recentWins": [
     {
@@ -289,6 +289,12 @@
     },
     {
       "type": "updated",
+      "at": "18.11.2026 08:34",
+      "home": "Al Adalah",
+      "away": "Al Orubah Club"
+    },
+    {
+      "type": "updated",
       "at": "18.11.2026 03:14",
       "home": "JEF United Women",
       "away": "AC Parceiro Nagano"
@@ -328,12 +334,6 @@
       "at": "18.11.2026 07:04",
       "home": "Mbarara City",
       "away": "Lugazi Municipal FC"
-    },
-    {
-      "type": "updated",
-      "at": "18.11.2026 07:58",
-      "home": "Roan United",
-      "away": "Chirundu United"
     }
   ],
   "today": {
@@ -382,7 +382,7 @@
       "odds": 1.16,
       "patternScore": 70.02,
       "patternText": "251.905/359.784",
-      "aiScore": 84,
+      "aiScore": 83,
       "picks": 1
     },
     {
@@ -398,19 +398,26 @@
       "picks": 1
     },
     {
-      "home": "Roan United",
-      "away": "Chirundu United",
-      "league": "ZAM",
-      "date": "18.11.2026 13:00",
-      "matchCode": "4570576",
-      "odds": 1.11,
-      "patternScore": 69.72,
-      "patternText": "224.224/321.602",
-      "aiScore": 96,
-      "picks": 1
+      "home": "Al Adalah",
+      "away": "Al Orubah Club",
+      "league": "SUUD1",
+      "date": "18.11.2026 14:30",
+      "matchCode": "4538724",
+      "odds": 1.14,
+      "patternScore": 69.44,
+      "patternText": "223.994/322.575",
+      "aiScore": 93,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Mardin 1969",
+      "away": "Bandirmaspor",
+      "league": "T1L",
+      "at": "18.11.2026 08:41",
+      "count": 4
+    },
     {
       "home": "Genclerbirligi",
       "away": "Gaziantep FK",
@@ -473,13 +480,6 @@
       "league": "AVUL",
       "at": "17.11.2026 19:02",
       "count": 7
-    },
-    {
-      "home": "Ukraine",
-      "away": "Georgia",
-      "league": "AVUL",
-      "at": "17.11.2026 18:47",
-      "count": 5
     }
   ],
   "paywall": {
