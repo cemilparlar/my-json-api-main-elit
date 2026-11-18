@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 20:13",
+  "updatedAt": "18.11.2026 20:23",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 83,
       "rate": 63.9
     },
-    "totalAnalyses": 759075,
+    "totalAnalyses": 759222,
     "leagues": 282,
     "pro": {
       "won": 545,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1699,
-    "analyses30d": 15801
+    "analyses24h": 1845,
+    "analyses30d": 15947
   },
   "recentWins": [
     {
@@ -370,7 +370,7 @@
       "odds": 1.27,
       "patternScore": 67.0,
       "patternText": "188.008/280.628",
-      "aiScore": 57,
+      "aiScore": 58,
       "picks": 4
     },
     {
@@ -386,6 +386,18 @@
       "picks": 1
     },
     {
+      "home": "SC Corinthians",
+      "away": "Botafogo de Futebol e Regatas",
+      "league": "BR1",
+      "date": "19.11.2026 00:30",
+      "matchCode": "4423372",
+      "odds": 1.21,
+      "patternScore": 68.7,
+      "patternText": "122.579/178.416",
+      "aiScore": 76,
+      "picks": 2
+    },
+    {
       "home": "Gremio FBPA",
       "away": "EC Bahia",
       "league": "BR1",
@@ -396,90 +408,78 @@
       "patternText": "192.779/277.550",
       "aiScore": 79,
       "picks": 2
-    },
-    {
-      "home": "SC Corinthians",
-      "away": "Botafogo de Futebol e Regatas",
-      "league": "BR1",
-      "date": "19.11.2026 00:30",
-      "matchCode": "4423372",
-      "odds": 1.13,
-      "patternScore": 69.81,
-      "patternText": "127.414/182.521",
-      "aiScore": 84,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "SC Corinthians",
-      "away": "Botafogo de Futebol e Regatas",
-      "league": "BR1",
-      "at": "18.11.2026 20:13",
-      "count": 2
-    },
-    {
-      "home": "FC Utrecht",
-      "away": "SC Cambuur",
-      "league": "HOL",
-      "at": "18.11.2026 19:57",
-      "count": 14
-    },
-    {
-      "home": "Newcastle United",
-      "away": "Arsenal",
-      "league": "İNP",
-      "at": "18.11.2026 19:55",
-      "count": 12
-    },
-    {
-      "home": "FC Schalke 04",
-      "away": "VfB Stuttgart",
-      "league": "AL1",
-      "at": "18.11.2026 19:55",
-      "count": 2
-    },
-    {
-      "home": "Sevilla FC",
-      "away": "Real Betis",
-      "league": "İS1",
-      "at": "18.11.2026 19:55",
+      "home": "CD Tenerife",
+      "away": "RCD Mallorca",
+      "league": "İS2",
+      "at": "18.11.2026 20:22",
       "count": 7
     },
     {
-      "home": "Castellon",
-      "away": "CD Eldense",
-      "league": "İS2",
-      "at": "18.11.2026 19:54",
-      "count": 3
+      "home": "SC Telstar",
+      "away": "Zwolle",
+      "league": "HOL",
+      "at": "18.11.2026 20:22",
+      "count": 7
     },
     {
-      "home": "KRC Genk",
-      "away": "La Louviere",
-      "league": "BEL",
-      "at": "18.11.2026 19:53",
+      "home": "FC Groningen",
+      "away": "SC Heerenveen",
+      "league": "HOL",
+      "at": "18.11.2026 20:22",
+      "count": 12
+    },
+    {
+      "home": "AS Monaco",
+      "away": "AJ Auxerre",
+      "league": "FR1",
+      "at": "18.11.2026 20:20",
       "count": 13
     },
     {
-      "home": "CSKA Moscow",
-      "away": "Akhmat Grozny",
-      "league": "RUS",
-      "at": "18.11.2026 19:50",
+      "home": "RC Strasbourg",
+      "away": "Stade Brest",
+      "league": "FR1",
+      "at": "18.11.2026 20:20",
+      "count": 8
+    },
+    {
+      "home": "LOSC Lille",
+      "away": "Olympique Lyonnais",
+      "league": "FR1",
+      "at": "18.11.2026 20:20",
+      "count": 8
+    },
+    {
+      "home": "SSC Napoli",
+      "away": "Torino FC",
+      "league": "İTA",
+      "at": "18.11.2026 20:19",
       "count": 5
     },
     {
-      "home": "US Catanzaro",
-      "away": "Palermo FC",
-      "league": "İTB",
-      "at": "18.11.2026 19:41",
-      "count": 6
+      "home": "Zulte Waregem",
+      "away": "Royal Antwerp",
+      "league": "BEL",
+      "at": "18.11.2026 20:18",
+      "count": 7
     },
     {
-      "home": "OGC Nice",
-      "away": "Paris Saint-Germain",
+      "home": "RC Lens",
+      "away": "Toulouse FC",
       "league": "FR1",
-      "at": "18.11.2026 19:41",
-      "count": 14
+      "at": "18.11.2026 20:18",
+      "count": 9
+    },
+    {
+      "home": "St Pauli",
+      "away": "Bochum",
+      "league": "AL2",
+      "at": "18.11.2026 20:16",
+      "count": 7
     }
   ],
   "paywall": {
