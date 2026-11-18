@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 13:12",
+  "updatedAt": "18.11.2026 13:20",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 217,
       "rate": 66.4
     },
-    "totalAnalyses": 757949,
+    "totalAnalyses": 757968,
     "leagues": 283,
     "pro": {
       "won": 535,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1255,
-    "analyses30d": 15681
+    "analyses24h": 1262,
+    "analyses30d": 15688
   },
   "recentWins": [
     {
@@ -295,6 +295,12 @@
     },
     {
       "type": "updated",
+      "at": "18.11.2026 13:15",
+      "home": "Atletico Pulpi",
+      "away": "Balsicas Atleti"
+    },
+    {
+      "type": "updated",
       "at": "18.11.2026 09:49",
       "home": "Ho Chi Minh City FC",
       "away": "Buriram United"
@@ -328,12 +334,6 @@
       "at": "18.11.2026 09:17",
       "home": "Tampines Rovers",
       "away": "Ratchaburi Mitr Phol FC"
-    },
-    {
-      "type": "updated",
-      "at": "18.11.2026 11:46",
-      "home": "El Gouna FC",
-      "away": "Al Ittihad Al S"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4575347",
     "odds": 1.38,
     "patternScore": 67.73,
-    "patternText": "203.086/299.834",
+    "patternText": "203.102/299.862",
     "aiScore": 58,
     "picks": 1
   },
@@ -357,7 +357,7 @@
       "matchCode": "4575347",
       "odds": 1.38,
       "patternScore": 67.73,
-      "patternText": "203.086/299.834",
+      "patternText": "203.102/299.862",
       "aiScore": 58,
       "picks": 1
     },
@@ -368,22 +368,10 @@
       "date": "18.11.2026 18:00",
       "matchCode": "4529768",
       "odds": 1.31,
-      "patternScore": 68.82,
-      "patternText": "206.462/300.016",
+      "patternScore": 68.81,
+      "patternText": "206.478/300.048",
       "aiScore": 59,
       "picks": 1
-    },
-    {
-      "home": "Al Adalah",
-      "away": "Al Orubah Club",
-      "league": "SUUD1",
-      "date": "18.11.2026 14:30",
-      "matchCode": "4538724",
-      "odds": 1.26,
-      "patternScore": 68.1,
-      "patternText": "200.454/294.351",
-      "aiScore": 66,
-      "picks": 3
     },
     {
       "home": "Bala Azul",
@@ -393,7 +381,7 @@
       "matchCode": "4533433",
       "odds": 1.23,
       "patternScore": 68.32,
-      "patternText": "201.786/295.356",
+      "patternText": "201.802/295.380",
       "aiScore": 62,
       "picks": 1
     },
@@ -404,9 +392,21 @@
       "date": "18.11.2026 18:00",
       "matchCode": "4574139",
       "odds": 1.22,
-      "patternScore": 67.9,
-      "patternText": "145.781/214.689",
+      "patternScore": 67.91,
+      "patternText": "145.809/214.721",
       "aiScore": 64,
+      "picks": 1
+    },
+    {
+      "home": "Dinamo Minsk I",
+      "away": "Bate Ii",
+      "league": "BLR1",
+      "date": "18.11.2026 14:00",
+      "matchCode": "4460934",
+      "odds": 1.22,
+      "patternScore": 67.87,
+      "patternText": "212.420/312.977",
+      "aiScore": 58,
       "picks": 1
     }
   ],
@@ -415,7 +415,7 @@
       "home": "Hacken Women",
       "away": "Manchester City Women",
       "league": "ŞMP-K",
-      "at": "18.11.2026 12:33",
+      "at": "18.11.2026 13:12",
       "count": 7
     },
     {
