@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 13:54",
+  "updatedAt": "18.11.2026 14:03",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 146,
-      "lost": 74,
-      "total": 220,
-      "rate": 66.4
+      "won": 140,
+      "lost": 70,
+      "total": 210,
+      "rate": 66.7
     },
-    "totalAnalyses": 758052,
+    "totalAnalyses": 758072,
     "leagues": 283,
     "pro": {
       "won": 536,
@@ -36,9 +36,9 @@
       "rate": 70.6
     },
     "insights": {
-      "won": 912,
-      "lost": 385,
-      "total": 1297,
+      "won": 914,
+      "lost": 386,
+      "total": 1300,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1333,
-    "analyses30d": 15739
+    "analyses24h": 1330,
+    "analyses30d": 15702
   },
   "recentWins": [
     {
@@ -295,6 +295,12 @@
     },
     {
       "type": "updated",
+      "at": "18.11.2026 13:59",
+      "home": "Gosport Boroug",
+      "away": "Chertsey Town"
+    },
+    {
+      "type": "updated",
       "at": "18.11.2026 09:49",
       "home": "Ho Chi Minh City FC",
       "away": "Buriram United"
@@ -328,12 +334,6 @@
       "at": "18.11.2026 09:17",
       "home": "Tampines Rovers",
       "away": "Ratchaburi Mitr Phol FC"
-    },
-    {
-      "type": "updated",
-      "at": "18.11.2026 13:54",
-      "home": "El Gouna FC",
-      "away": "Al Ittihad Al S"
     }
   ],
   "today": {
@@ -360,6 +360,18 @@
       "patternText": "203.114/299.876",
       "aiScore": 58,
       "picks": 1
+    },
+    {
+      "home": "Chelsea Women",
+      "away": "PSG Women",
+      "league": "ŞMP-K",
+      "date": "18.11.2026 20:00",
+      "matchCode": "4560866",
+      "odds": 1.32,
+      "patternScore": 67.64,
+      "patternText": "175.771/259.852",
+      "aiScore": 60,
+      "picks": 2
     },
     {
       "home": "Vall De Uxo",
@@ -396,18 +408,6 @@
       "patternText": "145.813/214.731",
       "aiScore": 64,
       "picks": 1
-    },
-    {
-      "home": "Pe Sant Jordi",
-      "away": "Santanyi",
-      "league": "İSTL",
-      "date": "18.11.2026 16:00",
-      "matchCode": "4531296",
-      "odds": 1.17,
-      "patternScore": 70.02,
-      "patternText": "247.660/353.676",
-      "aiScore": 81,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
@@ -415,8 +415,8 @@
       "home": "Hacken Women",
       "away": "Manchester City Women",
       "league": "ŞMP-K",
-      "at": "18.11.2026 13:12",
-      "count": 7
+      "at": "18.11.2026 13:55",
+      "count": 3
     },
     {
       "home": "Rubin Kazan",
