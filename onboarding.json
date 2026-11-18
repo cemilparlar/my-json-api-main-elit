@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 15:57",
+  "updatedAt": "18.11.2026 16:05",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 139,
-      "lost": 63,
-      "total": 202,
-      "rate": 68.8
+      "won": 125,
+      "lost": 47,
+      "total": 172,
+      "rate": 72.7
     },
-    "totalAnalyses": 758337,
+    "totalAnalyses": 758342,
     "leagues": 283,
     "pro": {
-      "won": 538,
+      "won": 539,
       "lost": 224,
-      "total": 762,
+      "total": 763,
       "rate": 70.6
     },
     "insights": {
-      "won": 921,
+      "won": 922,
       "lost": 388,
-      "total": 1309,
+      "total": 1310,
       "rate": 70.4
     },
     "coupons": {
@@ -47,24 +47,10 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1395,
-    "analyses30d": 15565
+    "analyses24h": 1366,
+    "analyses30d": 15524
   },
   "recentWins": [
-    {
-      "home": "Czech Republic",
-      "away": "Germany (U20)",
-      "league": "U20EL",
-      "date": "16.11.2026 14:00",
-      "prediction": "Match Result X",
-      "odds": 4.47,
-      "probability": 75.0,
-      "patternScore": 63.88,
-      "aiScore": 50,
-      "firstHalf": "1 - 1",
-      "finalScore": "2 - 2",
-      "pro": true
-    },
     {
       "home": "Plateau United",
       "away": "Kun Khalifat",
@@ -118,6 +104,20 @@
       "patternScore": 56.35,
       "aiScore": 51,
       "firstHalf": "1 - 0",
+      "finalScore": "2 - 1",
+      "pro": false
+    },
+    {
+      "home": "Estonia",
+      "away": "Bulgaria",
+      "league": "AVUL",
+      "date": "16.11.2026 17:00",
+      "prediction": "Match Result 1",
+      "odds": 2.0,
+      "probability": 100.0,
+      "patternScore": 56.6,
+      "aiScore": 52,
+      "firstHalf": "1 - 1",
       "finalScore": "2 - 1",
       "pro": false
     }
@@ -257,14 +257,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Czech Republic",
-      "away": "Germany (U20)",
-      "prediction": "Match Result X",
-      "odds": 4.47,
-      "at": "16.11.2026 14:00"
-    },
-    {
-      "type": "won",
       "home": "Plateau United",
       "away": "Kun Khalifat",
       "prediction": "Handicap (0:2) 1",
@@ -288,10 +280,18 @@
       "at": "17.11.2026 19:00"
     },
     {
+      "type": "won",
+      "home": "Lesotho",
+      "away": "Gabon",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 2.19,
+      "at": "17.11.2026 13:00"
+    },
+    {
       "type": "updated",
-      "at": "18.11.2026 15:54",
-      "home": "Cd Badajoz",
-      "away": "CD Tenerife"
+      "at": "18.11.2026 15:55",
+      "home": "CD Alcoyano",
+      "away": "RCD Mallorca"
     },
     {
       "type": "updated",
@@ -342,9 +342,9 @@
     "league": "VENK",
     "date": "18.11.2026 20:30",
     "matchCode": "4580863",
-    "odds": 1.41,
-    "patternScore": 68.1,
-    "patternText": "109.288/160.482",
+    "odds": 1.35,
+    "patternScore": 67.35,
+    "patternText": "184.144/273.431",
     "aiScore": 58,
     "picks": 1
   },
@@ -355,34 +355,10 @@
       "league": "VENK",
       "date": "18.11.2026 20:30",
       "matchCode": "4580863",
-      "odds": 1.41,
-      "patternScore": 68.1,
-      "patternText": "109.288/160.482",
+      "odds": 1.35,
+      "patternScore": 67.35,
+      "patternText": "184.144/273.431",
       "aiScore": 58,
-      "picks": 1
-    },
-    {
-      "home": "Cacereno Women",
-      "away": "Deportivo Alaves",
-      "league": "ISPDLR",
-      "date": "18.11.2026 18:00",
-      "matchCode": "4575347",
-      "odds": 1.38,
-      "patternScore": 67.73,
-      "patternText": "203.160/299.936",
-      "aiScore": 58,
-      "picks": 1
-    },
-    {
-      "home": "Cd Badajoz",
-      "away": "CD Tenerife",
-      "league": "İSPK",
-      "date": "18.11.2026 19:00",
-      "matchCode": "4574151",
-      "odds": 1.38,
-      "patternScore": 68.05,
-      "patternText": "120.324/176.823",
-      "aiScore": 62,
       "picks": 1
     },
     {
@@ -407,6 +383,30 @@
       "patternScore": 68.32,
       "patternText": "201.856/295.450",
       "aiScore": 62,
+      "picks": 1
+    },
+    {
+      "home": "Alianza Atletico",
+      "away": "FBC Melgar",
+      "league": "PER",
+      "date": "18.11.2026 20:00",
+      "matchCode": "4501925",
+      "odds": 1.22,
+      "patternScore": 68.37,
+      "patternText": "174.220/254.824",
+      "aiScore": 66,
+      "picks": 3
+    },
+    {
+      "home": "CD Alcoyano",
+      "away": "RCD Mallorca",
+      "league": "İSPK",
+      "date": "18.11.2026 19:00",
+      "matchCode": "4574147",
+      "odds": 1.21,
+      "patternScore": 67.87,
+      "patternText": "204.121/300.731",
+      "aiScore": 58,
       "picks": 1
     }
   ],
