@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 08:02",
+  "updatedAt": "18.11.2026 08:10",
   "config": {
     "pages": [
       "engine",
@@ -313,12 +313,6 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 07:57",
-      "home": "Borneo FC",
-      "away": "Manila Digger"
-    },
-    {
-      "type": "updated",
       "at": "18.11.2026 07:04",
       "home": "Peterborough United",
       "away": "Bolton U21"
@@ -334,21 +328,39 @@
       "at": "18.11.2026 07:04",
       "home": "Mbarara City",
       "away": "Lugazi Municipal FC"
+    },
+    {
+      "type": "updated",
+      "at": "18.11.2026 07:58",
+      "home": "Roan United",
+      "away": "Chirundu United"
     }
   ],
   "today": {
-    "home": "Tolmin",
-    "away": "Nk Brinje Grosu",
-    "league": "SLVNK",
-    "date": "18.11.2026 12:30",
-    "matchCode": "4580083",
-    "odds": 1.21,
-    "patternScore": 67.32,
-    "patternText": "209.552/311.286",
-    "aiScore": 63,
-    "picks": 1
+    "home": "Tampines Rovers",
+    "away": "Ratchaburi Mitr Phol FC",
+    "league": "AFCAKŞ",
+    "date": "18.11.2026 11:30",
+    "matchCode": "4478196",
+    "odds": 1.24,
+    "patternScore": 69.46,
+    "patternText": "192.322/276.874",
+    "aiScore": 71,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Tampines Rovers",
+      "away": "Ratchaburi Mitr Phol FC",
+      "league": "AFCAKŞ",
+      "date": "18.11.2026 11:30",
+      "matchCode": "4478196",
+      "odds": 1.24,
+      "patternScore": 69.46,
+      "patternText": "192.322/276.874",
+      "aiScore": 71,
+      "picks": 3
+    },
     {
       "home": "Tolmin",
       "away": "Nk Brinje Grosu",
@@ -359,18 +371,6 @@
       "patternScore": 67.32,
       "patternText": "209.552/311.286",
       "aiScore": 63,
-      "picks": 1
-    },
-    {
-      "home": "Roan United",
-      "away": "Chirundu United",
-      "league": "ZAM",
-      "date": "18.11.2026 13:00",
-      "matchCode": "4570576",
-      "odds": 1.17,
-      "patternScore": 69.23,
-      "patternText": "212.270/306.604",
-      "aiScore": 72,
       "picks": 1
     },
     {
@@ -398,16 +398,16 @@
       "picks": 1
     },
     {
-      "home": "Tampines Rovers",
-      "away": "Ratchaburi Mitr Phol FC",
-      "league": "AFCAKŞ",
-      "date": "18.11.2026 11:30",
-      "matchCode": "4478196",
-      "odds": 1.12,
-      "patternScore": 69.45,
-      "patternText": "194.764/280.454",
-      "aiScore": 78,
-      "picks": 2
+      "home": "Roan United",
+      "away": "Chirundu United",
+      "league": "ZAM",
+      "date": "18.11.2026 13:00",
+      "matchCode": "4570576",
+      "odds": 1.11,
+      "patternScore": 69.72,
+      "patternText": "224.224/321.602",
+      "aiScore": 96,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
