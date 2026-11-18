@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 09:14",
+  "updatedAt": "18.11.2026 09:22",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 295,
       "rate": 64.7
     },
-    "totalAnalyses": 757009,
-    "leagues": 287,
+    "totalAnalyses": 757058,
+    "leagues": 288,
     "pro": {
       "won": 541,
       "lost": 226,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 625,
-    "analyses30d": 15367
+    "analyses24h": 674,
+    "analyses30d": 15416
   },
   "recentWins": [
     {
@@ -295,31 +295,25 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 03:14",
-      "home": "JEF United Women",
-      "away": "AC Parceiro Nagano"
-    },
-    {
-      "type": "updated",
       "at": "18.11.2026 08:33",
       "home": "Cerezo Osaka Women",
       "away": "Urawa Red Women"
     },
     {
       "type": "updated",
-      "at": "18.11.2026 07:41",
+      "at": "18.11.2026 09:17",
       "home": "Sanfrecce Hiroshima",
       "away": "Nojima Stella ("
     },
     {
       "type": "updated",
-      "at": "18.11.2026 07:56",
+      "at": "18.11.2026 09:17",
       "home": "Tampines Rovers",
       "away": "Ratchaburi Mitr Phol FC"
     },
     {
       "type": "updated",
-      "at": "18.11.2026 07:04",
+      "at": "18.11.2026 09:18",
       "home": "Peterborough United",
       "away": "Bolton U21"
     },
@@ -334,6 +328,12 @@
       "at": "18.11.2026 07:04",
       "home": "Mbarara City",
       "away": "Lugazi Municipal FC"
+    },
+    {
+      "type": "updated",
+      "at": "18.11.2026 09:18",
+      "home": "Roan United",
+      "away": "Chirundu United"
     }
   ],
   "today": {
@@ -412,6 +412,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "En Avant Guingamp",
+      "away": "Rodez AF",
+      "league": "FR2",
+      "at": "18.11.2026 09:22",
+      "count": 8
+    },
+    {
+      "home": "Annecy",
+      "away": "Clermont Foot",
+      "league": "FR2",
+      "at": "18.11.2026 09:22",
+      "count": 6
+    },
+    {
+      "home": "SV Darmstadt 98",
+      "away": "FC Heidenheim",
+      "league": "AL2",
+      "at": "18.11.2026 09:21",
+      "count": 6
+    },
+    {
+      "home": "Arminia Bielef",
+      "away": "FC Magdeburg",
+      "league": "AL2",
+      "at": "18.11.2026 09:21",
+      "count": 6
+    },
+    {
       "home": "AFC Bournemouth",
       "away": "Nottingham Forest",
       "league": "İNP",
@@ -452,34 +480,6 @@
       "league": "İS2",
       "at": "18.11.2026 08:55",
       "count": 10
-    },
-    {
-      "home": "Kayserispor",
-      "away": "Sariyer",
-      "league": "T1L",
-      "at": "18.11.2026 08:54",
-      "count": 1
-    },
-    {
-      "home": "Manchester City",
-      "away": "Fulham",
-      "league": "İNP",
-      "at": "18.11.2026 08:54",
-      "count": 10
-    },
-    {
-      "home": "Millwall",
-      "away": "Queens Park Rangers",
-      "league": "İNCL",
-      "at": "18.11.2026 08:52",
-      "count": 7
-    },
-    {
-      "home": "Mardin 1969",
-      "away": "Bandirmaspor",
-      "league": "T1L",
-      "at": "18.11.2026 08:41",
-      "count": 4
     }
   ],
   "paywall": {
