@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 06:53",
+  "updatedAt": "18.11.2026 07:01",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 491,
-    "analyses30d": 15298
+    "analyses30d": 15280
   },
   "recentWins": [
     {
@@ -318,23 +318,41 @@
       "at": "18.11.2026 09:30"
     },
     {
+      "type": "kickoff",
+      "home": "Sanfrecce Hiroshima",
+      "away": "Nojima Stella (",
+      "at": "18.11.2026 10:00"
+    },
+    {
       "type": "analysis",
       "count": 491
     }
   ],
   "today": {
-    "home": "Cerezo Osaka Women",
-    "away": "Urawa Red Women",
-    "league": "JWEL",
-    "date": "18.11.2026 09:30",
-    "matchCode": "4488323",
-    "odds": 1.11,
-    "patternScore": 70.82,
-    "patternText": "241.054/340.364",
-    "aiScore": 93,
+    "home": "Mbarara City",
+    "away": "Lugazi Municipal FC",
+    "league": "UGA",
+    "date": "18.11.2026 13:00",
+    "matchCode": "4547674",
+    "odds": 1.15,
+    "patternScore": 71.18,
+    "patternText": "165.301/232.236",
+    "aiScore": 87,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "Mbarara City",
+      "away": "Lugazi Municipal FC",
+      "league": "UGA",
+      "date": "18.11.2026 13:00",
+      "matchCode": "4547674",
+      "odds": 1.15,
+      "patternScore": 71.18,
+      "patternText": "165.301/232.236",
+      "aiScore": 87,
+      "picks": 1
+    },
     {
       "home": "Cerezo Osaka Women",
       "away": "Urawa Red Women",
@@ -382,18 +400,6 @@
       "patternText": "186.532/267.532",
       "aiScore": 90,
       "picks": 1
-    },
-    {
-      "home": "Vipers SC",
-      "away": "Bul",
-      "league": "UGA",
-      "date": "18.11.2026 17:00",
-      "matchCode": "4547676",
-      "odds": 1.46,
-      "patternScore": 68.37,
-      "patternText": "112.429/164.435",
-      "aiScore": 54,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
