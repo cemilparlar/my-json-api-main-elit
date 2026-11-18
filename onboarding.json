@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 22:12",
+  "updatedAt": "18.11.2026 22:22",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 70,
-      "lost": 40,
-      "total": 110,
-      "rate": 63.6
+      "won": 71,
+      "lost": 42,
+      "total": 113,
+      "rate": 62.8
     },
-    "totalAnalyses": 759766,
+    "totalAnalyses": 759887,
     "leagues": 282,
     "pro": {
-      "won": 545,
+      "won": 546,
       "lost": 231,
-      "total": 776,
-      "rate": 70.2
+      "total": 777,
+      "rate": 70.3
     },
     "insights": {
-      "won": 942,
-      "lost": 402,
-      "total": 1344,
-      "rate": 70.1
+      "won": 943,
+      "lost": 404,
+      "total": 1347,
+      "rate": 70.0
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2274,
-    "analyses30d": 16306
+    "analyses24h": 2387,
+    "analyses30d": 16419
   },
   "recentWins": [
     {
@@ -325,15 +325,15 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 17:23",
-      "home": "Alianza Atletico",
-      "away": "FBC Melgar"
-    },
-    {
-      "type": "updated",
       "at": "18.11.2026 18:28",
       "home": "Nottingham Forest",
       "away": "Newcastle United U21"
+    },
+    {
+      "type": "updated",
+      "at": "18.11.2026 18:30",
+      "home": "Chelsea Women",
+      "away": "PSG Women"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4423378",
     "odds": 1.34,
     "patternScore": 66.75,
-    "patternText": "115.819/173.519",
+    "patternText": "115.821/173.523",
     "aiScore": 57,
     "picks": 3
   },
@@ -357,7 +357,7 @@
       "matchCode": "4423378",
       "odds": 1.34,
       "patternScore": 66.75,
-      "patternText": "115.819/173.519",
+      "patternText": "115.821/173.523",
       "aiScore": 57,
       "picks": 3
     },
@@ -369,7 +369,7 @@
       "matchCode": "4423374",
       "odds": 1.27,
       "patternScore": 67.0,
-      "patternText": "188.036/280.666",
+      "patternText": "188.038/280.670",
       "aiScore": 58,
       "picks": 4
     },
@@ -381,7 +381,7 @@
       "matchCode": "4580789",
       "odds": 1.24,
       "patternScore": 68.88,
-      "patternText": "94.938/137.839",
+      "patternText": "94.940/137.843",
       "aiScore": 65,
       "picks": 2
     },
@@ -393,8 +393,8 @@
       "matchCode": "4423375",
       "odds": 1.18,
       "patternScore": 69.46,
-      "patternText": "192.815/277.598",
-      "aiScore": 79,
+      "patternText": "192.817/277.604",
+      "aiScore": 80,
       "picks": 2
     },
     {
@@ -405,12 +405,47 @@
       "matchCode": "4423372",
       "odds": 1.13,
       "patternScore": 71.48,
-      "patternText": "156.100/218.391",
+      "patternText": "156.106/218.401",
       "aiScore": 94,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SS Arezzo",
+      "away": "Calcio Padova",
+      "league": "İTB",
+      "at": "18.11.2026 22:19",
+      "count": 3
+    },
+    {
+      "home": "FC Lorient",
+      "away": "Stade Rennais",
+      "league": "FR1",
+      "at": "18.11.2026 22:19",
+      "count": 3
+    },
+    {
+      "home": "Fk Rodina Mosk",
+      "away": "Lokomotiv Moscow",
+      "league": "RUS",
+      "at": "18.11.2026 22:17",
+      "count": 11
+    },
+    {
+      "home": "Go Ahead Eagles",
+      "away": "Fortuna Sittard",
+      "league": "HOL",
+      "at": "18.11.2026 22:15",
+      "count": 8
+    },
+    {
+      "home": "Racing Santander",
+      "away": "Real Sociedad",
+      "league": "İS1",
+      "at": "18.11.2026 22:12",
+      "count": 10
+    },
     {
       "home": "Sporting Gijon",
       "away": "UD Las Palmas",
@@ -445,41 +480,6 @@
       "league": "İTA",
       "at": "18.11.2026 22:05",
       "count": 4
-    },
-    {
-      "home": "US Avellino",
-      "away": "Mantova 1911",
-      "league": "İTB",
-      "at": "18.11.2026 22:04",
-      "count": 9
-    },
-    {
-      "home": "Paris FC",
-      "away": "Angers SCO",
-      "league": "FR1",
-      "at": "18.11.2026 22:04",
-      "count": 14
-    },
-    {
-      "home": "Hull City",
-      "away": "Brighton & Hove Albion",
-      "league": "İNP",
-      "at": "18.11.2026 22:04",
-      "count": 10
-    },
-    {
-      "home": "SC Corinthians",
-      "away": "Botafogo de Futebol e Regatas",
-      "league": "BR1",
-      "at": "18.11.2026 21:40",
-      "count": 6
-    },
-    {
-      "home": "Remo",
-      "away": "Chapecoense AF",
-      "league": "BR1",
-      "at": "18.11.2026 21:39",
-      "count": 3
     }
   ],
   "paywall": {
