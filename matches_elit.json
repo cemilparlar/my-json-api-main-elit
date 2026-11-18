@@ -1197,7 +1197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 79
+        "aiScore": 78
     },
     {
         "date": "18.11.2026 19:00",
@@ -1407,7 +1407,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 91
     },
     {
         "date": "17.11.2026 13:00",
@@ -2007,7 +2007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "17.11.2026 12:00",
@@ -2236,8 +2236,8 @@
         "predictedScore": null,
         "predictedScoreText": null,
         "mbs": 1,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:50",
         "patternScore": 68.83,
         "patternText": "171.277/248.843",
         "patternInfo": {
@@ -3777,7 +3777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 67
     },
     {
         "date": "18.11.2026 19:45",
@@ -5608,66 +5608,6 @@
             "b": 100.0
         },
         "aiScore": 98
-    },
-    {
-        "date": "18.11.2026 14:30",
-        "league": "SUUD1",
-        "matchCode": "4538724",
-        "home": "Al Adalah",
-        "away": "Al Orubah Club",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 1X",
-        "ihtimal": "78.57",
-        "odds": "1.14",
-        "matchCount": "252",
-        "matchLink": "4538724",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "39/252",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 08:34",
-        "patternScore": 69.44,
-        "patternText": "223.996/322.577",
-        "patternInfo": {
-            "m": 47,
-            "s": 13,
-            "f": 6,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
-        "date": "18.11.2026 14:30",
-        "league": "SUUD1",
-        "matchCode": "4538724",
-        "home": "Al Adalah",
-        "away": "Al Orubah Club",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "82.94",
-        "odds": "1.08",
-        "matchCount": "252",
-        "matchLink": "4538724",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "39/252",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 08:34",
-        "patternScore": 71.09,
-        "patternText": "139.855/196.723",
-        "patternInfo": {
-            "m": 41,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 94
     },
     {
         "date": "20.11.2026 17:00",
@@ -7753,8 +7693,8 @@
         "matchCount": "114",
         "matchLink": "4577304",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/114",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -7783,8 +7723,8 @@
         "matchCount": "114",
         "matchLink": "4577304",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "18/114",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -7813,11 +7753,11 @@
         "matchCount": "11",
         "matchLink": "4580324",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "1-1",
+        "predictedScoreText": "4/22",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "18.11.2026 09:20",
+        "tahminUpdatedAt": "18.11.2026 11:46",
         "patternScore": 68.21,
         "patternText": "225.969/331.279",
         "patternInfo": {
@@ -9027,7 +8967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "21.11.2026 13:00",
@@ -9207,7 +9147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "21.11.2026 13:00",
@@ -12237,7 +12177,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "20.11.2026 19:30",
@@ -12627,7 +12567,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "18.11.2026 16:45",
@@ -14848,5 +14788,95 @@
             "b": 100.0
         },
         "aiScore": 74
+    },
+    {
+        "date": "18.11.2026 12:30",
+        "league": "SLVNK",
+        "matchCode": "4580083",
+        "home": "Tolmin",
+        "away": "Nk Brinje Grosu",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.16",
+        "matchCount": "6",
+        "matchLink": "4580083",
+        "status": "Pending",
+        "predictedScore": null,
+        "predictedScoreText": null,
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:45",
+        "patternScore": 60.95,
+        "patternText": "130.184/213.590",
+        "patternInfo": {
+            "m": 44,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 67
+    },
+    {
+        "date": "18.11.2026 14:30",
+        "league": "SUUD1",
+        "matchCode": "4538724",
+        "home": "Al Adalah",
+        "away": "Al Orubah Club",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "70.68",
+        "odds": "1.13",
+        "matchCount": "249",
+        "matchLink": "4538724",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "34/249",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:46",
+        "patternScore": 70.42,
+        "patternText": "270.350/383.908",
+        "patternInfo": {
+            "m": 54,
+            "s": 10,
+            "f": 6,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 84
+    },
+    {
+        "date": "18.11.2026 14:30",
+        "league": "SUUD1",
+        "matchCode": "4538724",
+        "home": "Al Adalah",
+        "away": "Al Orubah Club",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "71.49",
+        "odds": "1.08",
+        "matchCount": "249",
+        "matchLink": "4538724",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "34/249",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "18.11.2026 11:46",
+        "patternScore": 70.11,
+        "patternText": "225.890/322.205",
+        "patternInfo": {
+            "m": 51,
+            "s": 11,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 86
     }
 ]

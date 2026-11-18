@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 11:45",
+  "updatedAt": "18.11.2026 11:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 279,
       "rate": 64.9
     },
-    "totalAnalyses": 757569,
+    "totalAnalyses": 757654,
     "leagues": 287,
     "pro": {
       "won": 534,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1075,
-    "analyses30d": 15686
+    "analyses24h": 1113,
+    "analyses30d": 15724
   },
   "recentWins": [
     {
@@ -289,7 +289,7 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 08:34",
+      "at": "18.11.2026 11:46",
       "home": "Al Adalah",
       "away": "Al Orubah Club"
     },
@@ -325,15 +325,15 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 09:20",
+      "at": "18.11.2026 11:46",
       "home": "El Gouna FC",
       "away": "Al Ittihad Al S"
     },
     {
       "type": "updated",
-      "at": "18.11.2026 09:18",
-      "home": "Peterborough United",
-      "away": "Bolton U21"
+      "at": "18.11.2026 11:50",
+      "home": "Hacken Women",
+      "away": "Manchester City Women"
     }
   ],
   "today": {
@@ -386,18 +386,6 @@
       "picks": 1
     },
     {
-      "home": "Al Adalah",
-      "away": "Al Orubah Club",
-      "league": "SUUD1",
-      "date": "18.11.2026 14:30",
-      "matchCode": "4538724",
-      "odds": 1.14,
-      "patternScore": 69.44,
-      "patternText": "223.996/322.577",
-      "aiScore": 95,
-      "picks": 2
-    },
-    {
       "home": "Dubocica",
       "away": "FK Radnicki Nis",
       "league": "SIRBK",
@@ -408,9 +396,28 @@
       "patternText": "274.070/388.470",
       "aiScore": 90,
       "picks": 2
+    },
+    {
+      "home": "Vipers SC",
+      "away": "Bul",
+      "league": "UGA",
+      "date": "18.11.2026 17:00",
+      "matchCode": "4547676",
+      "odds": 1.13,
+      "patternScore": 70.11,
+      "patternText": "276.330/394.123",
+      "aiScore": 77,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Hacken Women",
+      "away": "Manchester City Women",
+      "league": "ŞMP-K",
+      "at": "18.11.2026 11:50",
+      "count": 5
+    },
     {
       "home": "Rubin Kazan",
       "away": "Zenit St. Petersburg",
@@ -473,13 +480,6 @@
       "league": "İNCL",
       "at": "18.11.2026 09:51",
       "count": 6
-    },
-    {
-      "home": "Eintracht Frankfurt",
-      "away": "TSG Hoffenheim",
-      "league": "AL1",
-      "at": "18.11.2026 09:50",
-      "count": 7
     }
   ],
   "paywall": {
