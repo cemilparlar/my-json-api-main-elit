@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 14:03",
+  "updatedAt": "18.11.2026 14:11",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 140,
-      "lost": 70,
-      "total": 210,
-      "rate": 66.7
+      "won": 139,
+      "lost": 67,
+      "total": 206,
+      "rate": 67.5
     },
-    "totalAnalyses": 758072,
+    "totalAnalyses": 758081,
     "leagues": 283,
     "pro": {
       "won": 536,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1330,
-    "analyses30d": 15702
+    "analyses24h": 1331,
+    "analyses30d": 15707
   },
   "recentWins": [
     {
@@ -289,6 +289,12 @@
     },
     {
       "type": "updated",
+      "at": "18.11.2026 13:56",
+      "home": "Cd Badajoz",
+      "away": "CD Tenerife"
+    },
+    {
+      "type": "updated",
       "at": "18.11.2026 13:54",
       "home": "Al Adalah",
       "away": "Al Orubah Club"
@@ -328,12 +334,6 @@
       "at": "18.11.2026 09:17",
       "home": "Sanfrecce Hiroshima",
       "away": "Nojima Stella ("
-    },
-    {
-      "type": "updated",
-      "at": "18.11.2026 09:17",
-      "home": "Tampines Rovers",
-      "away": "Ratchaburi Mitr Phol FC"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4575347",
     "odds": 1.38,
     "patternScore": 67.73,
-    "patternText": "203.114/299.876",
+    "patternText": "203.126/299.894",
     "aiScore": 58,
     "picks": 1
   },
@@ -357,7 +357,7 @@
       "matchCode": "4575347",
       "odds": 1.38,
       "patternScore": 67.73,
-      "patternText": "203.114/299.876",
+      "patternText": "203.126/299.894",
       "aiScore": 58,
       "picks": 1
     },
@@ -369,7 +369,7 @@
       "matchCode": "4560866",
       "odds": 1.32,
       "patternScore": 67.64,
-      "patternText": "175.771/259.852",
+      "patternText": "175.783/259.870",
       "aiScore": 60,
       "picks": 2
     },
@@ -380,8 +380,8 @@
       "date": "18.11.2026 18:00",
       "matchCode": "4529768",
       "odds": 1.31,
-      "patternScore": 68.82,
-      "patternText": "206.490/300.062",
+      "patternScore": 68.81,
+      "patternText": "206.502/300.088",
       "aiScore": 59,
       "picks": 1
     },
@@ -393,7 +393,7 @@
       "matchCode": "4533433",
       "odds": 1.23,
       "patternScore": 68.32,
-      "patternText": "201.814/295.394",
+      "patternText": "201.826/295.412",
       "aiScore": 62,
       "picks": 1
     },
@@ -404,8 +404,8 @@
       "date": "18.11.2026 18:00",
       "matchCode": "4574139",
       "odds": 1.22,
-      "patternScore": 67.9,
-      "patternText": "145.813/214.731",
+      "patternScore": 67.91,
+      "patternText": "145.821/214.741",
       "aiScore": 64,
       "picks": 1
     }
