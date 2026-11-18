@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 21:08",
+  "updatedAt": "18.11.2026 21:17",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 59,
+      "won": 61,
       "lost": 32,
-      "total": 91,
-      "rate": 64.8
+      "total": 93,
+      "rate": 65.6
     },
-    "totalAnalyses": 759444,
+    "totalAnalyses": 759565,
     "leagues": 282,
     "pro": {
-      "won": 546,
+      "won": 547,
       "lost": 228,
-      "total": 774,
-      "rate": 70.5
+      "total": 775,
+      "rate": 70.6
     },
     "insights": {
-      "won": 937,
+      "won": 939,
       "lost": 396,
-      "total": 1333,
+      "total": 1335,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2009,
-    "analyses30d": 16056
+    "analyses24h": 2119,
+    "analyses30d": 16166
   },
   "recentWins": [
     {
@@ -116,7 +116,7 @@
       "odds": 1.89,
       "probability": 100.0,
       "patternScore": 56.04,
-      "aiScore": 52,
+      "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "3 - 0",
       "pro": true
@@ -382,7 +382,7 @@
       "odds": 1.21,
       "patternScore": 68.7,
       "patternText": "122.579/178.420",
-      "aiScore": 77,
+      "aiScore": 76,
       "picks": 2
     },
     {
@@ -406,80 +406,80 @@
       "odds": 1.15,
       "patternScore": 66.55,
       "patternText": "295.319/443.748",
-      "aiScore": 72,
+      "aiScore": 71,
       "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Konyaspor",
+      "away": "Besiktas",
+      "league": "TSL",
+      "at": "18.11.2026 21:16",
+      "count": 5
+    },
+    {
+      "home": "Manisa FK",
+      "away": "Pendikspor",
+      "league": "T1L",
+      "at": "18.11.2026 21:16",
+      "count": 2
+    },
+    {
+      "home": "Cordoba CF",
+      "away": "Real Oviedo",
+      "league": "İS2",
+      "at": "18.11.2026 21:15",
+      "count": 6
+    },
+    {
+      "home": "Kasimpasa",
+      "away": "Alanyaspor",
+      "league": "TSL",
+      "at": "18.11.2026 21:14",
+      "count": 4
+    },
+    {
+      "home": "Esenler Erokspor",
+      "away": "Antalyaspor",
+      "league": "T1L",
+      "at": "18.11.2026 21:14",
+      "count": 4
+    },
+    {
+      "home": "Waasland-Beveren",
+      "away": "KAA Gent",
+      "league": "BEL",
+      "at": "18.11.2026 21:13",
+      "count": 9
+    },
+    {
+      "home": "Energie Cottbus",
+      "away": "Hertha BSC",
+      "league": "AL2",
+      "at": "18.11.2026 21:12",
+      "count": 10
+    },
+    {
+      "home": "Kaiserslautern",
+      "away": "Dynamo Dresden",
+      "league": "AL2",
+      "at": "18.11.2026 21:12",
+      "count": 5
+    },
+    {
+      "home": "Burnley",
+      "away": "Blackburn",
+      "league": "İNCL",
+      "at": "18.11.2026 21:09",
+      "count": 6
+    },
     {
       "home": "Dinamo Moscow",
       "away": "FK Krasnodar",
       "league": "RUS",
       "at": "18.11.2026 21:02",
       "count": 6
-    },
-    {
-      "home": "Erzurumspor FK",
-      "away": "Goztepe",
-      "league": "TSL",
-      "at": "18.11.2026 20:57",
-      "count": 6
-    },
-    {
-      "home": "Coritiba FBC",
-      "away": "FC Santos",
-      "league": "BR1",
-      "at": "18.11.2026 20:54",
-      "count": 11
-    },
-    {
-      "home": "Remo",
-      "away": "Chapecoense AF",
-      "league": "BR1",
-      "at": "18.11.2026 20:54",
-      "count": 4
-    },
-    {
-      "home": "Inter Miami CF",
-      "away": "Columbus Crew",
-      "league": "ABD",
-      "at": "18.11.2026 20:32",
-      "count": 11
-    },
-    {
-      "home": "FC Dallas",
-      "away": "Portland Timbers",
-      "league": "ABD",
-      "at": "18.11.2026 20:27",
-      "count": 9
-    },
-    {
-      "home": "CD Tenerife",
-      "away": "RCD Mallorca",
-      "league": "İS2",
-      "at": "18.11.2026 20:22",
-      "count": 7
-    },
-    {
-      "home": "SC Telstar",
-      "away": "Zwolle",
-      "league": "HOL",
-      "at": "18.11.2026 20:22",
-      "count": 7
-    },
-    {
-      "home": "FC Groningen",
-      "away": "SC Heerenveen",
-      "league": "HOL",
-      "at": "18.11.2026 20:22",
-      "count": 12
-    },
-    {
-      "home": "AS Monaco",
-      "away": "AJ Auxerre",
-      "league": "FR1",
-      "at": "18.11.2026 20:20",
-      "count": 13
     }
   ],
   "paywall": {
