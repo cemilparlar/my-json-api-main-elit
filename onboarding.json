@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 18:40",
+  "updatedAt": "18.11.2026 18:49",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 122,
+      "won": 126,
       "lost": 49,
-      "total": 171,
-      "rate": 71.3
+      "total": 175,
+      "rate": 72.0
     },
-    "totalAnalyses": 758571,
-    "leagues": 283,
+    "totalAnalyses": 758643,
+    "leagues": 282,
     "pro": {
-      "won": 540,
+      "won": 542,
       "lost": 225,
-      "total": 765,
-      "rate": 70.6
+      "total": 767,
+      "rate": 70.7
     },
     "insights": {
-      "won": 924,
+      "won": 928,
       "lost": 390,
-      "total": 1314,
-      "rate": 70.3
+      "total": 1318,
+      "rate": 70.4
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1450,
-    "analyses30d": 15481
+    "analyses24h": 1499,
+    "analyses30d": 15528
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4423376",
     "odds": 1.47,
     "patternScore": 67.4,
-    "patternText": "177.260/262.998",
+    "patternText": "177.262/263.006",
     "aiScore": 53,
     "picks": 5
   },
@@ -357,7 +357,7 @@
       "matchCode": "4423376",
       "odds": 1.47,
       "patternScore": 67.4,
-      "patternText": "177.260/262.998",
+      "patternText": "177.262/263.006",
       "aiScore": 53,
       "picks": 5
     },
@@ -393,7 +393,7 @@
       "matchCode": "4423374",
       "odds": 1.27,
       "patternScore": 67.0,
-      "patternText": "187.974/280.570",
+      "patternText": "187.976/280.578",
       "aiScore": 58,
       "picks": 4
     },
@@ -411,6 +411,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Swansea",
+      "away": "West Bromwich Albion",
+      "league": "İNCL",
+      "at": "18.11.2026 18:47",
+      "count": 7
+    },
     {
       "home": "Chelsea Women",
       "away": "PSG Women",
@@ -473,13 +480,6 @@
       "league": "BEL",
       "at": "18.11.2026 10:49",
       "count": 11
-    },
-    {
-      "home": "FC Rostov",
-      "away": "Krylya Sovietov",
-      "league": "RUS",
-      "at": "18.11.2026 10:34",
-      "count": 7
     }
   ],
   "paywall": {
