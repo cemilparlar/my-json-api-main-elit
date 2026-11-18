@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 12:28",
+  "updatedAt": "18.11.2026 12:37",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 170,
-      "lost": 94,
-      "total": 264,
-      "rate": 64.4
+      "won": 164,
+      "lost": 93,
+      "total": 257,
+      "rate": 63.8
     },
-    "totalAnalyses": 757805,
+    "totalAnalyses": 757833,
     "leagues": 283,
     "pro": {
       "won": 534,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1206,
-    "analyses30d": 15722
+    "analyses24h": 1216,
+    "analyses30d": 15668
   },
   "recentWins": [
     {
@@ -289,7 +289,7 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 11:46",
+      "at": "18.11.2026 12:32",
       "home": "Al Adalah",
       "away": "Al Orubah Club"
     },
@@ -362,30 +362,6 @@
       "picks": 2
     },
     {
-      "home": "Peterborough United",
-      "away": "Bolton U21",
-      "league": "INGPDL",
-      "date": "18.11.2026 13:00",
-      "matchCode": "4540681",
-      "odds": 1.22,
-      "patternScore": 69.89,
-      "patternText": "139.286/199.301",
-      "aiScore": 70,
-      "picks": 1
-    },
-    {
-      "home": "Mbarara City",
-      "away": "Lugazi Municipal FC",
-      "league": "UGA",
-      "date": "18.11.2026 13:00",
-      "matchCode": "4547674",
-      "odds": 1.16,
-      "patternScore": 70.02,
-      "patternText": "251.921/359.800",
-      "aiScore": 83,
-      "picks": 1
-    },
-    {
       "home": "CS Constantine",
       "away": "ES Ben Aknoun",
       "league": "CZYR",
@@ -408,6 +384,30 @@
       "patternText": "274.084/388.484",
       "aiScore": 90,
       "picks": 2
+    },
+    {
+      "home": "Vipers SC",
+      "away": "Bul",
+      "league": "UGA",
+      "date": "18.11.2026 17:00",
+      "matchCode": "4547676",
+      "odds": 1.13,
+      "patternScore": 70.11,
+      "patternText": "276.344/394.137",
+      "aiScore": 77,
+      "picks": 1
+    },
+    {
+      "home": "Al Adalah",
+      "away": "Al Orubah Club",
+      "league": "SUUD1",
+      "date": "18.11.2026 14:30",
+      "matchCode": "4538724",
+      "odds": 1.13,
+      "patternScore": 70.42,
+      "patternText": "270.364/383.922",
+      "aiScore": 93,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
@@ -415,8 +415,8 @@
       "home": "Hacken Women",
       "away": "Manchester City Women",
       "league": "ŞMP-K",
-      "at": "18.11.2026 11:50",
-      "count": 5
+      "at": "18.11.2026 12:33",
+      "count": 7
     },
     {
       "home": "Rubin Kazan",
