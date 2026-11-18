@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 10:46",
+  "updatedAt": "18.11.2026 10:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 286,
       "rate": 64.7
     },
-    "totalAnalyses": 757348,
+    "totalAnalyses": 757389,
     "leagues": 287,
     "pro": {
       "won": 533,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 903,
-    "analyses30d": 15564
+    "analyses24h": 942,
+    "analyses30d": 15603
   },
   "recentWins": [
     {
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Cercle Brugge",
+      "away": "KVC Westerlo",
+      "league": "BEL",
+      "at": "18.11.2026 10:49",
+      "count": 11
+    },
+    {
       "home": "FC Rostov",
       "away": "Krylya Sovietov",
       "league": "RUS",
@@ -473,13 +480,6 @@
       "league": "İTA",
       "at": "18.11.2026 09:40",
       "count": 7
-    },
-    {
-      "home": "SS Lazio",
-      "away": "US Lecce",
-      "league": "İTA",
-      "at": "18.11.2026 09:40",
-      "count": 5
     }
   ],
   "paywall": {
