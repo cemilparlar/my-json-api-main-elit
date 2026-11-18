@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 10:54",
+  "updatedAt": "18.11.2026 11:02",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 185,
-      "lost": 101,
-      "total": 286,
+      "won": 180,
+      "lost": 98,
+      "total": 278,
       "rate": 64.7
     },
-    "totalAnalyses": 757389,
+    "totalAnalyses": 757400,
     "leagues": 287,
     "pro": {
       "won": 533,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 942,
-    "analyses30d": 15603
+    "analyses24h": 941,
+    "analyses30d": 15576
   },
   "recentWins": [
     {
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "El Gouna FC",
-    "away": "Al Ittihad Al S",
-    "league": "MSRK",
-    "date": "18.11.2026 15:00",
-    "matchCode": "4580324",
-    "odds": 1.41,
-    "patternScore": 68.21,
-    "patternText": "225.967/331.277",
-    "aiScore": 56,
-    "picks": 1
+    "home": "Vipers SC",
+    "away": "Bul",
+    "league": "UGA",
+    "date": "18.11.2026 17:00",
+    "matchCode": "4547676",
+    "odds": 1.46,
+    "patternScore": 68.37,
+    "patternText": "112.435/164.441",
+    "aiScore": 55,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Vipers SC",
+      "away": "Bul",
+      "league": "UGA",
+      "date": "18.11.2026 17:00",
+      "matchCode": "4547676",
+      "odds": 1.46,
+      "patternScore": 68.37,
+      "patternText": "112.435/164.441",
+      "aiScore": 55,
+      "picks": 2
+    },
     {
       "home": "El Gouna FC",
       "away": "Al Ittihad Al S",
@@ -382,7 +394,7 @@
       "odds": 1.16,
       "patternScore": 70.02,
       "patternText": "251.905/359.784",
-      "aiScore": 84,
+      "aiScore": 83,
       "picks": 1
     },
     {
@@ -395,18 +407,6 @@
       "patternScore": 69.33,
       "patternText": "223.330/322.107",
       "aiScore": 74,
-      "picks": 2
-    },
-    {
-      "home": "Al Adalah",
-      "away": "Al Orubah Club",
-      "league": "SUUD1",
-      "date": "18.11.2026 14:30",
-      "matchCode": "4538724",
-      "odds": 1.14,
-      "patternScore": 69.44,
-      "patternText": "223.994/322.575",
-      "aiScore": 94,
       "picks": 2
     }
   ],
