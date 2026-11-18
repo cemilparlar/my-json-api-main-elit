@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 09:22",
+  "updatedAt": "18.11.2026 09:31",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 295,
       "rate": 64.7
     },
-    "totalAnalyses": 757058,
+    "totalAnalyses": 757086,
     "leagues": 288,
     "pro": {
       "won": 541,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 674,
-    "analyses30d": 15416
+    "analyses24h": 695,
+    "analyses30d": 15427
   },
   "recentWins": [
     {
@@ -313,6 +313,12 @@
     },
     {
       "type": "updated",
+      "at": "18.11.2026 09:20",
+      "home": "El Gouna FC",
+      "away": "Al Ittihad Al S"
+    },
+    {
+      "type": "updated",
       "at": "18.11.2026 09:18",
       "home": "Peterborough United",
       "away": "Bolton U21"
@@ -328,38 +334,44 @@
       "at": "18.11.2026 07:04",
       "home": "Mbarara City",
       "away": "Lugazi Municipal FC"
-    },
-    {
-      "type": "updated",
-      "at": "18.11.2026 09:18",
-      "home": "Roan United",
-      "away": "Chirundu United"
     }
   ],
   "today": {
-    "home": "Tampines Rovers",
-    "away": "Ratchaburi Mitr Phol FC",
-    "league": "AFCAKŞ",
-    "date": "18.11.2026 11:30",
-    "matchCode": "4478196",
-    "odds": 1.24,
-    "patternScore": 69.46,
-    "patternText": "192.322/276.874",
-    "aiScore": 71,
-    "picks": 3
+    "home": "El Gouna FC",
+    "away": "Al Ittihad Al S",
+    "league": "MSRK",
+    "date": "18.11.2026 15:00",
+    "matchCode": "4580324",
+    "odds": 1.41,
+    "patternScore": 68.21,
+    "patternText": "225.967/331.277",
+    "aiScore": 56,
+    "picks": 1
   },
   "todayList": [
     {
-      "home": "Tampines Rovers",
-      "away": "Ratchaburi Mitr Phol FC",
-      "league": "AFCAKŞ",
-      "date": "18.11.2026 11:30",
-      "matchCode": "4478196",
-      "odds": 1.24,
-      "patternScore": 69.46,
-      "patternText": "192.322/276.874",
-      "aiScore": 71,
-      "picks": 3
+      "home": "El Gouna FC",
+      "away": "Al Ittihad Al S",
+      "league": "MSRK",
+      "date": "18.11.2026 15:00",
+      "matchCode": "4580324",
+      "odds": 1.41,
+      "patternScore": 68.21,
+      "patternText": "225.967/331.277",
+      "aiScore": 56,
+      "picks": 1
+    },
+    {
+      "home": "Peterborough United",
+      "away": "Bolton U21",
+      "league": "INGPDL",
+      "date": "18.11.2026 13:00",
+      "matchCode": "4540681",
+      "odds": 1.22,
+      "patternScore": 69.89,
+      "patternText": "139.278/199.293",
+      "aiScore": 69,
+      "picks": 1
     },
     {
       "home": "Tolmin",
@@ -386,18 +398,6 @@
       "picks": 1
     },
     {
-      "home": "Sanfrecce Hiroshima",
-      "away": "Nojima Stella (",
-      "league": "JWEL",
-      "date": "18.11.2026 10:00",
-      "matchCode": "4488324",
-      "odds": 1.15,
-      "patternScore": 70.41,
-      "patternText": "242.814/344.878",
-      "aiScore": 90,
-      "picks": 1
-    },
-    {
       "home": "Al Adalah",
       "away": "Al Orubah Club",
       "league": "SUUD1",
@@ -411,6 +411,34 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Nuremberg",
+      "away": "Eintracht Braunschweig",
+      "league": "AL2",
+      "at": "18.11.2026 09:30",
+      "count": 8
+    },
+    {
+      "home": "ESTAC Troyes",
+      "away": "Le Havre AC",
+      "league": "FR1",
+      "at": "18.11.2026 09:29",
+      "count": 5
+    },
+    {
+      "home": "Verona",
+      "away": "Cesena FC",
+      "league": "İTB",
+      "at": "18.11.2026 09:29",
+      "count": 1
+    },
+    {
+      "home": "Red Star FC",
+      "away": "Pau FC",
+      "league": "FR2",
+      "at": "18.11.2026 09:27",
+      "count": 9
+    },
     {
       "home": "En Avant Guingamp",
       "away": "Rodez AF",
@@ -452,34 +480,6 @@
       "league": "İNP",
       "at": "18.11.2026 08:56",
       "count": 6
-    },
-    {
-      "home": "Amed SK",
-      "away": "Rizespor",
-      "league": "TSL",
-      "at": "18.11.2026 08:56",
-      "count": 10
-    },
-    {
-      "home": "Deportivo Alaves",
-      "away": "Deportivo La Coruna",
-      "league": "İS1",
-      "at": "18.11.2026 08:56",
-      "count": 6
-    },
-    {
-      "home": "Galatasaray",
-      "away": "Samsunspor",
-      "league": "TSL",
-      "at": "18.11.2026 08:55",
-      "count": 14
-    },
-    {
-      "home": "CE Sabadell",
-      "away": "Granada CF",
-      "league": "İS2",
-      "at": "18.11.2026 08:55",
-      "count": 10
     }
   ],
   "paywall": {
