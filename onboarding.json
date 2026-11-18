@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 09:56",
+  "updatedAt": "18.11.2026 10:05",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 191,
-      "lost": 104,
-      "total": 295,
-      "rate": 64.7
+      "won": 185,
+      "lost": 103,
+      "total": 288,
+      "rate": 64.2
     },
-    "totalAnalyses": 757256,
-    "leagues": 288,
+    "totalAnalyses": 757295,
+    "leagues": 287,
     "pro": {
-      "won": 541,
-      "lost": 226,
-      "total": 767,
+      "won": 534,
+      "lost": 223,
+      "total": 757,
       "rate": 70.5
     },
     "insights": {
-      "won": 916,
-      "lost": 388,
-      "total": 1304,
+      "won": 907,
+      "lost": 385,
+      "total": 1292,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 846,
-    "analyses30d": 15578
+    "analyses24h": 868,
+    "analyses30d": 15559
   },
   "recentWins": [
     {
@@ -331,9 +331,9 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 09:50",
-      "home": "Tolmin",
-      "away": "Nk Brinje Grosu"
+      "at": "18.11.2026 07:04",
+      "home": "Mbarara City",
+      "away": "Lugazi Municipal FC"
     }
   ],
   "today": {
@@ -362,6 +362,18 @@
       "picks": 1
     },
     {
+      "home": "Ho Chi Minh City FC",
+      "away": "Buriram United",
+      "league": "AFCAKŞ",
+      "date": "18.11.2026 11:00",
+      "matchCode": "4478197",
+      "odds": 1.39,
+      "patternScore": 69.44,
+      "patternText": "202.329/291.387",
+      "aiScore": 61,
+      "picks": 1
+    },
+    {
       "home": "Peterborough United",
       "away": "Bolton U21",
       "league": "INGPDL",
@@ -371,18 +383,6 @@
       "patternScore": 69.89,
       "patternText": "139.278/199.293",
       "aiScore": 70,
-      "picks": 1
-    },
-    {
-      "home": "Tolmin",
-      "away": "Nk Brinje Grosu",
-      "league": "SLVNK",
-      "date": "18.11.2026 12:30",
-      "matchCode": "4580083",
-      "odds": 1.21,
-      "patternScore": 67.32,
-      "patternText": "209.552/311.286",
-      "aiScore": 63,
       "picks": 1
     },
     {
@@ -411,6 +411,20 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Coventry City",
+      "away": "Crystal Palace",
+      "league": "İNP",
+      "at": "18.11.2026 10:01",
+      "count": 5
+    },
+    {
+      "home": "Aston Villa",
+      "away": "Sunderland",
+      "league": "İNP",
+      "at": "18.11.2026 09:59",
+      "count": 5
+    },
     {
       "home": "Stoke City",
       "away": "Birmingham City",
@@ -466,20 +480,6 @@
       "league": "İTB",
       "at": "18.11.2026 09:40",
       "count": 6
-    },
-    {
-      "home": "FC Sudtirol",
-      "away": "US Cremonese",
-      "league": "İTB",
-      "at": "18.11.2026 09:39",
-      "count": 8
-    },
-    {
-      "home": "Modena FC",
-      "away": "SS Juve Stabia",
-      "league": "İTB",
-      "at": "18.11.2026 09:39",
-      "count": 4
     }
   ],
   "paywall": {
