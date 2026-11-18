@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 18:49",
+  "updatedAt": "18.11.2026 18:58",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 175,
       "rate": 72.0
     },
-    "totalAnalyses": 758643,
+    "totalAnalyses": 758729,
     "leagues": 282,
     "pro": {
       "won": 542,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1499,
-    "analyses30d": 15528
+    "analyses24h": 1568,
+    "analyses30d": 15597
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4423376",
     "odds": 1.47,
     "patternScore": 67.4,
-    "patternText": "177.262/263.006",
+    "patternText": "177.270/263.014",
     "aiScore": 53,
     "picks": 5
   },
@@ -357,7 +357,7 @@
       "matchCode": "4423376",
       "odds": 1.47,
       "patternScore": 67.4,
-      "patternText": "177.262/263.006",
+      "patternText": "177.270/263.014",
       "aiScore": 53,
       "picks": 5
     },
@@ -369,8 +369,8 @@
       "matchCode": "4423372",
       "odds": 1.36,
       "patternScore": 67.57,
-      "patternText": "124.999/184.993",
-      "aiScore": 58,
+      "patternText": "125.001/184.995",
+      "aiScore": 57,
       "picks": 2
     },
     {
@@ -393,7 +393,7 @@
       "matchCode": "4423374",
       "odds": 1.27,
       "patternScore": 67.0,
-      "patternText": "187.976/280.578",
+      "patternText": "187.984/280.586",
       "aiScore": 58,
       "picks": 4
     },
@@ -405,12 +405,26 @@
       "matchCode": "4423378",
       "odds": 1.26,
       "patternScore": 66.96,
-      "patternText": "121.967/182.153",
+      "patternText": "121.969/182.155",
       "aiScore": 66,
       "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Rayo Vallecano",
+      "away": "Valencia CF",
+      "league": "İS1",
+      "at": "18.11.2026 18:58",
+      "count": 9
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Cadiz CF",
+      "league": "İS2",
+      "at": "18.11.2026 18:58",
+      "count": 5
+    },
     {
       "home": "Swansea",
       "away": "West Bromwich Albion",
@@ -466,20 +480,6 @@
       "league": "RUS",
       "at": "18.11.2026 11:27",
       "count": 7
-    },
-    {
-      "home": "FC Orenburg",
-      "away": "Baltika Kaliningrad",
-      "league": "RUS",
-      "at": "18.11.2026 11:26",
-      "count": 7
-    },
-    {
-      "home": "Cercle Brugge",
-      "away": "KVC Westerlo",
-      "league": "BEL",
-      "at": "18.11.2026 10:49",
-      "count": 11
     }
   ],
   "paywall": {
