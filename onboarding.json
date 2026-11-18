@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 07:01",
+  "updatedAt": "18.11.2026 07:09",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 188,
+      "won": 191,
       "lost": 104,
-      "total": 292,
-      "rate": 64.4
+      "total": 295,
+      "rate": 64.7
     },
-    "totalAnalyses": 615602,
+    "totalAnalyses": 615607,
     "leagues": 287,
     "pro": {
-      "won": 538,
+      "won": 541,
       "lost": 226,
-      "total": 764,
-      "rate": 70.4
+      "total": 767,
+      "rate": 70.5
     },
     "insights": {
-      "won": 913,
+      "won": 916,
       "lost": 388,
-      "total": 1301,
+      "total": 1304,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 491,
-    "analyses30d": 15280
+    "analyses24h": 494,
+    "analyses30d": 15283
   },
   "recentWins": [
     {
@@ -307,9 +307,21 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 05:33",
+      "at": "18.11.2026 07:03",
       "home": "Tampines Rovers",
       "away": "Ratchaburi Mitr Phol FC"
+    },
+    {
+      "type": "updated",
+      "at": "18.11.2026 07:04",
+      "home": "Peterborough United",
+      "away": "Bolton U21"
+    },
+    {
+      "type": "updated",
+      "at": "18.11.2026 07:04",
+      "home": "Mbarara City",
+      "away": "Lugazi Municipal FC"
     },
     {
       "type": "kickoff",
@@ -322,10 +334,6 @@
       "home": "Sanfrecce Hiroshima",
       "away": "Nojima Stella (",
       "at": "18.11.2026 10:00"
-    },
-    {
-      "type": "analysis",
-      "count": 491
     }
   ],
   "today": {
@@ -336,7 +344,7 @@
     "matchCode": "4547674",
     "odds": 1.15,
     "patternScore": 71.18,
-    "patternText": "165.301/232.236",
+    "patternText": "165.315/232.250",
     "aiScore": 87,
     "picks": 1
   },
@@ -349,7 +357,7 @@
       "matchCode": "4547674",
       "odds": 1.15,
       "patternScore": 71.18,
-      "patternText": "165.301/232.236",
+      "patternText": "165.315/232.250",
       "aiScore": 87,
       "picks": 1
     },
@@ -360,9 +368,9 @@
       "date": "18.11.2026 09:30",
       "matchCode": "4488323",
       "odds": 1.11,
-      "patternScore": 70.82,
-      "patternText": "241.054/340.364",
-      "aiScore": 93,
+      "patternScore": 70.83,
+      "patternText": "241.150/340.460",
+      "aiScore": 96,
       "picks": 1
     },
     {
@@ -372,9 +380,9 @@
       "date": "18.11.2026 10:00",
       "matchCode": "4488324",
       "odds": 1.11,
-      "patternScore": 69.67,
-      "patternText": "200.990/288.484",
-      "aiScore": 87,
+      "patternScore": 69.68,
+      "patternText": "201.040/288.534",
+      "aiScore": 88,
       "picks": 1
     },
     {
@@ -385,7 +393,7 @@
       "matchCode": "4478197",
       "odds": 1.1,
       "patternScore": 69.38,
-      "patternText": "199.973/288.223",
+      "patternText": "199.991/288.241",
       "aiScore": 87,
       "picks": 2
     },
@@ -396,8 +404,8 @@
       "date": "18.11.2026 11:30",
       "matchCode": "4478196",
       "odds": 1.07,
-      "patternScore": 69.72,
-      "patternText": "186.532/267.532",
+      "patternScore": 69.73,
+      "patternText": "186.558/267.558",
       "aiScore": 90,
       "picks": 1
     }
