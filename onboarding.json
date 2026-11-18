@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 17:59",
+  "updatedAt": "18.11.2026 18:07",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 123,
+      "won": 120,
       "lost": 45,
-      "total": 168,
-      "rate": 73.2
+      "total": 165,
+      "rate": 72.7
     },
-    "totalAnalyses": 758467,
+    "totalAnalyses": 758486,
     "leagues": 283,
     "pro": {
-      "won": 542,
+      "won": 540,
       "lost": 225,
-      "total": 767,
-      "rate": 70.7
+      "total": 765,
+      "rate": 70.6
     },
     "insights": {
-      "won": 924,
+      "won": 922,
       "lost": 387,
-      "total": 1311,
-      "rate": 70.5
+      "total": 1309,
+      "rate": 70.4
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1381,
-    "analyses30d": 15455
+    "analyses24h": 1386,
+    "analyses30d": 15422
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4423376",
     "odds": 1.47,
     "patternScore": 67.4,
-    "patternText": "177.250/262.984",
+    "patternText": "177.258/262.996",
     "aiScore": 53,
     "picks": 5
   },
@@ -357,21 +357,9 @@
       "matchCode": "4423376",
       "odds": 1.47,
       "patternScore": 67.4,
-      "patternText": "177.250/262.984",
+      "patternText": "177.258/262.996",
       "aiScore": 53,
       "picks": 5
-    },
-    {
-      "home": "Carabobo FC",
-      "away": "Zamora FC",
-      "league": "VENK",
-      "date": "18.11.2026 20:30",
-      "matchCode": "4580863",
-      "odds": 1.35,
-      "patternScore": 67.64,
-      "patternText": "175.748/259.825",
-      "aiScore": 58,
-      "picks": 2
     },
     {
       "home": "Cruzeiro EC",
@@ -379,11 +367,11 @@
       "league": "BR1",
       "date": "18.11.2026 23:30",
       "matchCode": "4423374",
-      "odds": 1.26,
-      "patternScore": 68.43,
-      "patternText": "190.915/279.007",
-      "aiScore": 66,
-      "picks": 2
+      "odds": 1.27,
+      "patternScore": 67.0,
+      "patternText": "187.972/280.568",
+      "aiScore": 58,
+      "picks": 4
     },
     {
       "home": "Remo",
@@ -398,6 +386,18 @@
       "picks": 4
     },
     {
+      "home": "Always Ready",
+      "away": "Real Potosi",
+      "league": "BOLPLK",
+      "date": "18.11.2026 23:30",
+      "matchCode": "4580789",
+      "odds": 1.25,
+      "patternScore": 69.04,
+      "patternText": "86.050/124.633",
+      "aiScore": 65,
+      "picks": 1
+    },
+    {
       "home": "Cd Badajoz",
       "away": "CD Tenerife",
       "league": "İSPK",
@@ -405,12 +405,19 @@
       "matchCode": "4574151",
       "odds": 1.21,
       "patternScore": 68.3,
-      "patternText": "226.093/331.027",
-      "aiScore": 69,
+      "patternText": "226.107/331.053",
+      "aiScore": 68,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sporting Charleroi",
+      "away": "Sint-Truidense VV",
+      "league": "BEL",
+      "at": "18.11.2026 18:01",
+      "count": 4
+    },
     {
       "home": "Cruzeiro EC",
       "away": "SE Palmeiras",
@@ -473,13 +480,6 @@
       "league": "RUS",
       "at": "18.11.2026 10:34",
       "count": 7
-    },
-    {
-      "home": "Coventry City",
-      "away": "Crystal Palace",
-      "league": "İNP",
-      "at": "18.11.2026 10:01",
-      "count": 5
     }
   ],
   "paywall": {
