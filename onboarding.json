@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 16:37",
+  "updatedAt": "18.11.2026 16:45",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 123,
+      "won": 125,
       "lost": 47,
-      "total": 170,
-      "rate": 72.4
+      "total": 172,
+      "rate": 72.7
     },
-    "totalAnalyses": 758352,
+    "totalAnalyses": 758357,
     "leagues": 282,
     "pro": {
-      "won": 539,
+      "won": 541,
       "lost": 224,
-      "total": 763,
-      "rate": 70.6
+      "total": 765,
+      "rate": 70.7
     },
     "insights": {
-      "won": 922,
+      "won": 924,
       "lost": 388,
-      "total": 1310,
+      "total": 1312,
       "rate": 70.4
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1368,
-    "analyses30d": 15498
+    "analyses24h": 1369,
+    "analyses30d": 15487
   },
   "recentWins": [
     {
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 16:33",
-      "home": "CD Alcoyano",
-      "away": "RCD Mallorca"
-    },
-    {
-      "type": "updated",
       "at": "18.11.2026 16:27",
       "home": "Levante Women",
       "away": "Eibar Women"
@@ -334,6 +328,12 @@
       "at": "18.11.2026 15:53",
       "home": "Hacken Women",
       "away": "Manchester City Women"
+    },
+    {
+      "type": "updated",
+      "at": "18.11.2026 16:33",
+      "home": "Nottingham Forest",
+      "away": "Newcastle United U21"
     }
   ],
   "today": {
@@ -362,18 +362,6 @@
       "picks": 5
     },
     {
-      "home": "Carabobo FC",
-      "away": "Zamora FC",
-      "league": "VENK",
-      "date": "18.11.2026 20:30",
-      "matchCode": "4580863",
-      "odds": 1.35,
-      "patternScore": 67.35,
-      "patternText": "184.162/273.449",
-      "aiScore": 58,
-      "picks": 1
-    },
-    {
       "home": "Vall De Uxo",
       "away": "Torrent",
       "league": "İSTL",
@@ -398,16 +386,28 @@
       "picks": 1
     },
     {
-      "home": "Alianza Atletico",
-      "away": "FBC Melgar",
-      "league": "PER",
-      "date": "18.11.2026 20:00",
-      "matchCode": "4501925",
-      "odds": 1.22,
-      "patternScore": 68.37,
-      "patternText": "174.246/254.850",
-      "aiScore": 66,
-      "picks": 3
+      "home": "FK Zemun",
+      "away": "FK Radnicki 1923",
+      "league": "SIRBK",
+      "date": "18.11.2026 17:30",
+      "matchCode": "4577305",
+      "odds": 1.15,
+      "patternScore": 69.97,
+      "patternText": "289.584/413.882",
+      "aiScore": 74,
+      "picks": 1
+    },
+    {
+      "home": "Frome Town",
+      "away": "Gloucester City",
+      "league": "İNGNLP",
+      "date": "18.11.2026 19:45",
+      "matchCode": "4518715",
+      "odds": 1.1,
+      "patternScore": 70.74,
+      "patternText": "339.610/480.057",
+      "aiScore": 89,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
