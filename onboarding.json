@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 15:18",
+  "updatedAt": "18.11.2026 15:26",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 205,
       "rate": 68.3
     },
-    "totalAnalyses": 758257,
+    "totalAnalyses": 758295,
     "leagues": 283,
     "pro": {
       "won": 538,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1374,
-    "analyses30d": 15604
+    "analyses24h": 1401,
+    "analyses30d": 15631
   },
   "recentWins": [
     {
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Cacereno Women",
-    "away": "Deportivo Alaves",
-    "league": "ISPDLR",
-    "date": "18.11.2026 18:00",
-    "matchCode": "4575347",
-    "odds": 1.38,
-    "patternScore": 67.73,
-    "patternText": "203.160/299.936",
+    "home": "Carabobo FC",
+    "away": "Zamora FC",
+    "league": "VENK",
+    "date": "18.11.2026 20:30",
+    "matchCode": "4580863",
+    "odds": 1.41,
+    "patternScore": 68.1,
+    "patternText": "109.288/160.482",
     "aiScore": 58,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "Carabobo FC",
+      "away": "Zamora FC",
+      "league": "VENK",
+      "date": "18.11.2026 20:30",
+      "matchCode": "4580863",
+      "odds": 1.41,
+      "patternScore": 68.1,
+      "patternText": "109.288/160.482",
+      "aiScore": 58,
+      "picks": 1
+    },
     {
       "home": "Cacereno Women",
       "away": "Deportivo Alaves",
@@ -359,6 +371,18 @@
       "patternScore": 67.73,
       "patternText": "203.160/299.936",
       "aiScore": 58,
+      "picks": 1
+    },
+    {
+      "home": "Cd Badajoz",
+      "away": "CD Tenerife",
+      "league": "İSPK",
+      "date": "18.11.2026 19:00",
+      "matchCode": "4574151",
+      "odds": 1.38,
+      "patternScore": 68.05,
+      "patternText": "120.324/176.823",
+      "aiScore": 62,
       "picks": 1
     },
     {
@@ -383,30 +407,6 @@
       "patternScore": 68.32,
       "patternText": "201.856/295.450",
       "aiScore": 62,
-      "picks": 1
-    },
-    {
-      "home": "CS Constantine",
-      "away": "ES Ben Aknoun",
-      "league": "CZYR",
-      "date": "18.11.2026 16:45",
-      "matchCode": "4546164",
-      "odds": 1.15,
-      "patternScore": 71.11,
-      "patternText": "166.352/233.926",
-      "aiScore": 87,
-      "picks": 1
-    },
-    {
-      "home": "Vipers SC",
-      "away": "Bul",
-      "league": "UGA",
-      "date": "18.11.2026 17:00",
-      "matchCode": "4547676",
-      "odds": 1.13,
-      "patternScore": 70.12,
-      "patternText": "276.476/394.297",
-      "aiScore": 80,
       "picks": 1
     }
   ],
