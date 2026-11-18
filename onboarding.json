@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 22:22",
+  "updatedAt": "18.11.2026 22:31",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 113,
       "rate": 62.8
     },
-    "totalAnalyses": 759887,
+    "totalAnalyses": 760025,
     "leagues": 282,
     "pro": {
       "won": 546,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2387,
-    "analyses30d": 16419
+    "analyses24h": 2513,
+    "analyses30d": 16540
   },
   "recentWins": [
     {
@@ -295,12 +295,6 @@
     },
     {
       "type": "updated",
-      "at": "18.11.2026 16:27",
-      "home": "Levante Women",
-      "away": "Eibar Women"
-    },
-    {
-      "type": "updated",
       "at": "18.11.2026 21:38",
       "home": "Coritiba FBC",
       "away": "FC Santos"
@@ -334,33 +328,27 @@
       "at": "18.11.2026 18:30",
       "home": "Chelsea Women",
       "away": "PSG Women"
+    },
+    {
+      "type": "updated",
+      "at": "18.11.2026 21:39",
+      "home": "Remo",
+      "away": "Chapecoense AF"
     }
   ],
   "today": {
-    "home": "Remo",
-    "away": "Chapecoense AF",
+    "home": "Cruzeiro EC",
+    "away": "SE Palmeiras",
     "league": "BR1",
-    "date": "18.11.2026 23:00",
-    "matchCode": "4423378",
-    "odds": 1.34,
-    "patternScore": 66.75,
-    "patternText": "115.821/173.523",
-    "aiScore": 57,
-    "picks": 3
+    "date": "18.11.2026 23:30",
+    "matchCode": "4423374",
+    "odds": 1.27,
+    "patternScore": 67.0,
+    "patternText": "188.040/280.674",
+    "aiScore": 59,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Remo",
-      "away": "Chapecoense AF",
-      "league": "BR1",
-      "date": "18.11.2026 23:00",
-      "matchCode": "4423378",
-      "odds": 1.34,
-      "patternScore": 66.75,
-      "patternText": "115.821/173.523",
-      "aiScore": 57,
-      "picks": 3
-    },
     {
       "home": "Cruzeiro EC",
       "away": "SE Palmeiras",
@@ -369,8 +357,8 @@
       "matchCode": "4423374",
       "odds": 1.27,
       "patternScore": 67.0,
-      "patternText": "188.038/280.670",
-      "aiScore": 58,
+      "patternText": "188.040/280.674",
+      "aiScore": 59,
       "picks": 4
     },
     {
@@ -380,8 +368,8 @@
       "date": "18.11.2026 23:30",
       "matchCode": "4580789",
       "odds": 1.24,
-      "patternScore": 68.88,
-      "patternText": "94.940/137.843",
+      "patternScore": 68.87,
+      "patternText": "94.940/137.845",
       "aiScore": 65,
       "picks": 2
     },
@@ -393,7 +381,7 @@
       "matchCode": "4423375",
       "odds": 1.18,
       "patternScore": 69.46,
-      "patternText": "192.817/277.604",
+      "patternText": "192.819/277.608",
       "aiScore": 80,
       "picks": 2
     },
@@ -405,12 +393,80 @@
       "matchCode": "4423372",
       "odds": 1.13,
       "patternScore": 71.48,
-      "patternText": "156.106/218.401",
+      "patternText": "156.108/218.405",
       "aiScore": 94,
       "picks": 2
+    },
+    {
+      "home": "Omiya Ardija Women",
+      "away": "INAC Kobe Leonessa",
+      "league": "JWEL",
+      "date": "19.11.2026 09:00",
+      "matchCode": "4488320",
+      "odds": 1.11,
+      "patternScore": 70.88,
+      "patternText": "295.861/417.409",
+      "aiScore": 96,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Lommel United",
+      "away": "Standard Liege",
+      "league": "BEL",
+      "at": "18.11.2026 22:29",
+      "count": 10
+    },
+    {
+      "home": "Girona FC",
+      "away": "Eibar",
+      "league": "İS2",
+      "at": "18.11.2026 22:28",
+      "count": 5
+    },
+    {
+      "home": "CA Osasuna",
+      "away": "Malaga CF",
+      "league": "İS1",
+      "at": "18.11.2026 22:28",
+      "count": 6
+    },
+    {
+      "home": "Celta Vigo B",
+      "away": "Real Valladolid",
+      "league": "İS2",
+      "at": "18.11.2026 22:27",
+      "count": 11
+    },
+    {
+      "home": "RSC Anderlecht",
+      "away": "OH Leuven",
+      "league": "BEL",
+      "at": "18.11.2026 22:27",
+      "count": 5
+    },
+    {
+      "home": "AC Milan",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "at": "18.11.2026 22:25",
+      "count": 8
+    },
+    {
+      "home": "Liverpool",
+      "away": "Manchester United",
+      "league": "İNP",
+      "at": "18.11.2026 22:22",
+      "count": 9
+    },
+    {
+      "home": "Werder Bremen",
+      "away": "Hamburger SV",
+      "league": "AL1",
+      "at": "18.11.2026 22:22",
+      "count": 7
+    },
     {
       "home": "SS Arezzo",
       "away": "Calcio Padova",
@@ -424,62 +480,6 @@
       "league": "FR1",
       "at": "18.11.2026 22:19",
       "count": 3
-    },
-    {
-      "home": "Fk Rodina Mosk",
-      "away": "Lokomotiv Moscow",
-      "league": "RUS",
-      "at": "18.11.2026 22:17",
-      "count": 11
-    },
-    {
-      "home": "Go Ahead Eagles",
-      "away": "Fortuna Sittard",
-      "league": "HOL",
-      "at": "18.11.2026 22:15",
-      "count": 8
-    },
-    {
-      "home": "Racing Santander",
-      "away": "Real Sociedad",
-      "league": "İS1",
-      "at": "18.11.2026 22:12",
-      "count": 10
-    },
-    {
-      "home": "Sporting Gijon",
-      "away": "UD Las Palmas",
-      "league": "İS2",
-      "at": "18.11.2026 22:12",
-      "count": 8
-    },
-    {
-      "home": "KV Kortrijk",
-      "away": "Union St.G",
-      "league": "BEL",
-      "at": "18.11.2026 22:09",
-      "count": 15
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "FSV Mainz 05",
-      "league": "AL1",
-      "at": "18.11.2026 22:07",
-      "count": 9
-    },
-    {
-      "home": "Bologna FC",
-      "away": "Udinese",
-      "league": "İTA",
-      "at": "18.11.2026 22:05",
-      "count": 7
-    },
-    {
-      "home": "US Sassuolo",
-      "away": "Genoa CFC",
-      "league": "İTA",
-      "at": "18.11.2026 22:05",
-      "count": 4
     }
   ],
   "paywall": {
