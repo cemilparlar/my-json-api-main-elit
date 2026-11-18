@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 21:17",
+  "updatedAt": "18.11.2026 21:26",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 61,
-      "lost": 32,
-      "total": 93,
-      "rate": 65.6
+      "won": 64,
+      "lost": 34,
+      "total": 98,
+      "rate": 65.3
     },
-    "totalAnalyses": 759565,
+    "totalAnalyses": 759583,
     "leagues": 282,
     "pro": {
-      "won": 547,
+      "won": 548,
       "lost": 228,
-      "total": 775,
+      "total": 776,
       "rate": 70.6
     },
     "insights": {
-      "won": 939,
-      "lost": 396,
-      "total": 1335,
+      "won": 941,
+      "lost": 397,
+      "total": 1338,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2119,
-    "analyses30d": 16166
+    "analyses24h": 2125,
+    "analyses30d": 16172
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4423374",
     "odds": 1.27,
     "patternScore": 67.0,
-    "patternText": "188.018/280.640",
+    "patternText": "188.022/280.644",
     "aiScore": 58,
     "picks": 4
   },
@@ -357,7 +357,7 @@
       "matchCode": "4423374",
       "odds": 1.27,
       "patternScore": 67.0,
-      "patternText": "188.018/280.640",
+      "patternText": "188.022/280.644",
       "aiScore": 58,
       "picks": 4
     },
@@ -381,8 +381,8 @@
       "matchCode": "4423372",
       "odds": 1.21,
       "patternScore": 68.7,
-      "patternText": "122.579/178.420",
-      "aiScore": 76,
+      "patternText": "122.581/178.422",
+      "aiScore": 77,
       "picks": 2
     },
     {
@@ -393,7 +393,7 @@
       "matchCode": "4423375",
       "odds": 1.18,
       "patternScore": 69.46,
-      "patternText": "192.793/277.568",
+      "patternText": "192.797/277.572",
       "aiScore": 79,
       "picks": 2
     },
@@ -405,12 +405,19 @@
       "matchCode": "4423376",
       "odds": 1.15,
       "patternScore": 66.55,
-      "patternText": "295.319/443.748",
-      "aiScore": 71,
+      "patternText": "295.323/443.752",
+      "aiScore": 72,
       "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sparta Rotterdam",
+      "away": "AZ Alkmaar",
+      "league": "HOL",
+      "at": "18.11.2026 21:23",
+      "count": 1
+    },
     {
       "home": "Konyaspor",
       "away": "Besiktas",
@@ -472,13 +479,6 @@
       "away": "Blackburn",
       "league": "İNCL",
       "at": "18.11.2026 21:09",
-      "count": 6
-    },
-    {
-      "home": "Dinamo Moscow",
-      "away": "FK Krasnodar",
-      "league": "RUS",
-      "at": "18.11.2026 21:02",
       "count": 6
     }
   ],
