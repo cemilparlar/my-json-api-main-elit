@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 22:31",
+  "updatedAt": "18.11.2026 22:39",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 113,
       "rate": 62.8
     },
-    "totalAnalyses": 760025,
+    "totalAnalyses": 760045,
     "leagues": 282,
     "pro": {
       "won": 546,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2513,
-    "analyses30d": 16540
+    "analyses24h": 2519,
+    "analyses30d": 16546
   },
   "recentWins": [
     {
@@ -412,6 +412,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Getafe CF",
+      "away": "Atletico Madrid",
+      "league": "İS1",
+      "at": "18.11.2026 22:33",
+      "count": 1
+    },
+    {
+      "home": "Burgos CF",
+      "away": "Albacete Balompie",
+      "league": "İS2",
+      "at": "18.11.2026 22:33",
+      "count": 6
+    },
+    {
+      "home": "Atalanta",
+      "away": "Inter",
+      "league": "İTA",
+      "at": "18.11.2026 22:32",
+      "count": 6
+    },
+    {
+      "home": "Marseille",
+      "away": "Le Mans FC",
+      "league": "FR1",
+      "at": "18.11.2026 22:32",
+      "count": 1
+    },
+    {
       "home": "Lommel United",
       "away": "Standard Liege",
       "league": "BEL",
@@ -452,34 +480,6 @@
       "league": "İTA",
       "at": "18.11.2026 22:25",
       "count": 8
-    },
-    {
-      "home": "Liverpool",
-      "away": "Manchester United",
-      "league": "İNP",
-      "at": "18.11.2026 22:22",
-      "count": 9
-    },
-    {
-      "home": "Werder Bremen",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "18.11.2026 22:22",
-      "count": 7
-    },
-    {
-      "home": "SS Arezzo",
-      "away": "Calcio Padova",
-      "league": "İTB",
-      "at": "18.11.2026 22:19",
-      "count": 3
-    },
-    {
-      "home": "FC Lorient",
-      "away": "Stade Rennais",
-      "league": "FR1",
-      "at": "18.11.2026 22:19",
-      "count": 3
     }
   ],
   "paywall": {
