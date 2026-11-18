@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 19:29",
+  "updatedAt": "18.11.2026 19:38",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 155,
       "rate": 71.6
     },
-    "totalAnalyses": 758737,
+    "totalAnalyses": 758778,
     "leagues": 282,
     "pro": {
       "won": 544,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1530,
-    "analyses30d": 15557
+    "analyses24h": 1559,
+    "analyses30d": 15583
   },
   "recentWins": [
     {
@@ -319,21 +319,21 @@
     },
     {
       "type": "updated",
+      "at": "18.11.2026 19:32",
+      "home": "SC Corinthians",
+      "away": "Botafogo de Futebol e Regatas"
+    },
+    {
+      "type": "updated",
+      "at": "18.11.2026 19:32",
+      "home": "Gremio FBPA",
+      "away": "EC Bahia"
+    },
+    {
+      "type": "updated",
       "at": "18.11.2026 17:23",
       "home": "Alianza Atletico",
       "away": "FBC Melgar"
-    },
-    {
-      "type": "updated",
-      "at": "18.11.2026 15:51",
-      "home": "CS Constantine",
-      "away": "ES Ben Aknoun"
-    },
-    {
-      "type": "updated",
-      "at": "18.11.2026 15:53",
-      "home": "Hacken Women",
-      "away": "Manchester City Women"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4423376",
     "odds": 1.47,
     "patternScore": 67.4,
-    "patternText": "177.280/263.026",
+    "patternText": "177.282/263.028",
     "aiScore": 53,
     "picks": 5
   },
@@ -357,7 +357,7 @@
       "matchCode": "4423376",
       "odds": 1.47,
       "patternScore": 67.4,
-      "patternText": "177.280/263.026",
+      "patternText": "177.282/263.028",
       "aiScore": 53,
       "picks": 5
     },
@@ -381,7 +381,7 @@
       "matchCode": "4423375",
       "odds": 1.28,
       "patternScore": 69.2,
-      "patternText": "109.373/158.045",
+      "patternText": "109.375/158.047",
       "aiScore": 73,
       "picks": 5
     },
@@ -393,7 +393,7 @@
       "matchCode": "4423374",
       "odds": 1.27,
       "patternScore": 67.0,
-      "patternText": "187.994/280.598",
+      "patternText": "187.996/280.600",
       "aiScore": 57,
       "picks": 4
     },
@@ -411,6 +411,27 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SC Corinthians",
+      "away": "Botafogo de Futebol e Regatas",
+      "league": "BR1",
+      "at": "18.11.2026 19:32",
+      "count": 2
+    },
+    {
+      "home": "Gremio FBPA",
+      "away": "EC Bahia",
+      "league": "BR1",
+      "at": "18.11.2026 19:32",
+      "count": 5
+    },
+    {
+      "home": "Remo",
+      "away": "Chapecoense AF",
+      "league": "BR1",
+      "at": "18.11.2026 19:31",
+      "count": 4
+    },
     {
       "home": "Rayo Vallecano",
       "away": "Valencia CF",
@@ -454,32 +475,11 @@
       "count": 11
     },
     {
-      "home": "Remo",
-      "away": "Chapecoense AF",
-      "league": "BR1",
-      "at": "18.11.2026 17:24",
-      "count": 6
-    },
-    {
       "home": "Hacken Women",
       "away": "Manchester City Women",
       "league": "ŞMP-K",
       "at": "18.11.2026 15:53",
       "count": 9
-    },
-    {
-      "home": "Rubin Kazan",
-      "away": "Zenit St. Petersburg",
-      "league": "RUS",
-      "at": "18.11.2026 11:31",
-      "count": 15
-    },
-    {
-      "home": "FC Akron Togliatti",
-      "away": "FK Fakel Voronezh",
-      "league": "RUS",
-      "at": "18.11.2026 11:27",
-      "count": 7
     }
   ],
   "paywall": {
