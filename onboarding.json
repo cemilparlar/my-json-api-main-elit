@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 10:38",
+  "updatedAt": "18.11.2026 10:46",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 905,
-    "analyses30d": 15566
+    "analyses24h": 903,
+    "analyses30d": 15564
   },
   "recentWins": [
     {
@@ -345,7 +345,7 @@
     "odds": 1.41,
     "patternScore": 68.21,
     "patternText": "225.967/331.277",
-    "aiScore": 57,
+    "aiScore": 56,
     "picks": 1
   },
   "todayList": [
@@ -358,7 +358,7 @@
       "odds": 1.41,
       "patternScore": 68.21,
       "patternText": "225.967/331.277",
-      "aiScore": 57,
+      "aiScore": 56,
       "picks": 1
     },
     {
@@ -386,6 +386,18 @@
       "picks": 1
     },
     {
+      "home": "GCR Temouchent",
+      "away": "JS El Biar",
+      "league": "CZYR",
+      "date": "18.11.2026 16:45",
+      "matchCode": "4546168",
+      "odds": 1.15,
+      "patternScore": 69.33,
+      "patternText": "223.330/322.107",
+      "aiScore": 74,
+      "picks": 2
+    },
+    {
       "home": "Al Adalah",
       "away": "Al Orubah Club",
       "league": "SUUD1",
@@ -395,18 +407,6 @@
       "patternScore": 69.44,
       "patternText": "223.994/322.575",
       "aiScore": 94,
-      "picks": 2
-    },
-    {
-      "home": "Dubocica",
-      "away": "FK Radnicki Nis",
-      "league": "SIRBK",
-      "date": "18.11.2026 15:00",
-      "matchCode": "4577304",
-      "odds": 1.13,
-      "patternScore": 70.55,
-      "patternText": "274.068/388.468",
-      "aiScore": 90,
       "picks": 2
     }
   ],
