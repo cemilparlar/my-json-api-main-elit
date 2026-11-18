@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 17:27",
+  "updatedAt": "18.11.2026 17:35",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 123,
-      "lost": 46,
-      "total": 169,
-      "rate": 72.8
+      "won": 120,
+      "lost": 43,
+      "total": 163,
+      "rate": 73.6
     },
-    "totalAnalyses": 758384,
-    "leagues": 282,
+    "totalAnalyses": 758386,
+    "leagues": 283,
     "pro": {
       "won": 541,
       "lost": 224,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 1377,
-    "analyses30d": 15467
+    "analyses24h": 1370,
+    "analyses30d": 15447
   },
   "recentWins": [
     {
@@ -289,6 +289,18 @@
     },
     {
       "type": "updated",
+      "at": "18.11.2026 17:20",
+      "home": "CD Alcoyano",
+      "away": "RCD Mallorca"
+    },
+    {
+      "type": "updated",
+      "at": "18.11.2026 17:20",
+      "home": "Cd Badajoz",
+      "away": "CD Tenerife"
+    },
+    {
+      "type": "updated",
       "at": "18.11.2026 16:27",
       "home": "Levante Women",
       "away": "Eibar Women"
@@ -322,18 +334,6 @@
       "at": "18.11.2026 15:53",
       "home": "Hacken Women",
       "away": "Manchester City Women"
-    },
-    {
-      "type": "updated",
-      "at": "18.11.2026 16:33",
-      "home": "Nottingham Forest",
-      "away": "Newcastle United U21"
-    },
-    {
-      "type": "updated",
-      "at": "18.11.2026 16:34",
-      "home": "Chelsea Women",
-      "away": "PSG Women"
     }
   ],
   "today": {
@@ -362,52 +362,52 @@
       "picks": 5
     },
     {
+      "home": "CD Alcoyano",
+      "away": "RCD Mallorca",
+      "league": "İSPK",
+      "date": "18.11.2026 19:00",
+      "matchCode": "4574147",
+      "odds": 1.47,
+      "patternScore": 67.12,
+      "patternText": "124.087/184.869",
+      "aiScore": 55,
+      "picks": 2
+    },
+    {
+      "home": "Carabobo FC",
+      "away": "Zamora FC",
+      "league": "VENK",
+      "date": "18.11.2026 20:30",
+      "matchCode": "4580863",
+      "odds": 1.35,
+      "patternScore": 67.64,
+      "patternText": "175.748/259.825",
+      "aiScore": 58,
+      "picks": 2
+    },
+    {
+      "home": "Cruzeiro EC",
+      "away": "SE Palmeiras",
+      "league": "BR1",
+      "date": "18.11.2026 23:30",
+      "matchCode": "4423374",
+      "odds": 1.26,
+      "patternScore": 68.43,
+      "patternText": "190.915/279.007",
+      "aiScore": 65,
+      "picks": 2
+    },
+    {
       "home": "Remo",
       "away": "Chapecoense AF",
       "league": "BR1",
       "date": "18.11.2026 23:00",
       "matchCode": "4423378",
-      "odds": 1.43,
-      "patternScore": 66.53,
-      "patternText": "126.727/190.469",
-      "aiScore": 57,
-      "picks": 3
-    },
-    {
-      "home": "Vall De Uxo",
-      "away": "Torrent",
-      "league": "İSTL",
-      "date": "18.11.2026 18:00",
-      "matchCode": "4529768",
-      "odds": 1.31,
-      "patternScore": 68.82,
-      "patternText": "206.574/300.168",
-      "aiScore": 59,
-      "picks": 1
-    },
-    {
-      "home": "Bala Azul",
-      "away": "Atletico Santa",
-      "league": "İSTL",
-      "date": "18.11.2026 18:00",
-      "matchCode": "4533433",
-      "odds": 1.23,
-      "patternScore": 68.33,
-      "patternText": "201.906/295.500",
-      "aiScore": 62,
-      "picks": 1
-    },
-    {
-      "home": "Frome Town",
-      "away": "Gloucester City",
-      "league": "İNGNLP",
-      "date": "18.11.2026 19:45",
-      "matchCode": "4518715",
-      "odds": 1.1,
-      "patternScore": 70.75,
-      "patternText": "339.642/480.089",
-      "aiScore": 89,
-      "picks": 1
+      "odds": 1.26,
+      "patternScore": 66.96,
+      "patternText": "121.967/182.153",
+      "aiScore": 67,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
