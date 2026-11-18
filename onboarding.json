@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 05:54",
+  "updatedAt": "18.11.2026 06:01",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 187,
+      "won": 188,
       "lost": 104,
-      "total": 291,
-      "rate": 64.3
+      "total": 292,
+      "rate": 64.4
     },
     "totalAnalyses": 615598,
     "leagues": 287,
     "pro": {
-      "won": 537,
+      "won": 538,
       "lost": 226,
-      "total": 763,
+      "total": 764,
       "rate": 70.4
     },
     "insights": {
-      "won": 912,
+      "won": 913,
       "lost": 388,
-      "total": 1300,
+      "total": 1301,
       "rate": 70.2
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 492,
-    "analyses30d": 15301
+    "analyses30d": 15299
   },
   "recentWins": [
     {
@@ -317,18 +317,30 @@
     }
   ],
   "today": {
-    "home": "Ho Chi Minh City FC",
-    "away": "Buriram United",
+    "home": "Borneo FC",
+    "away": "Manila Digger",
     "league": "AFCAKŞ",
-    "date": "18.11.2026 11:00",
-    "matchCode": "4478197",
-    "odds": 1.1,
-    "patternScore": 69.38,
-    "patternText": "199.967/288.217",
-    "aiScore": 88,
+    "date": "18.11.2026 12:00",
+    "matchCode": "4577306",
+    "odds": 1.15,
+    "patternScore": 69.19,
+    "patternText": "208.436/301.250",
+    "aiScore": 78,
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "Borneo FC",
+      "away": "Manila Digger",
+      "league": "AFCAKŞ",
+      "date": "18.11.2026 12:00",
+      "matchCode": "4577306",
+      "odds": 1.15,
+      "patternScore": 69.19,
+      "patternText": "208.436/301.250",
+      "aiScore": 78,
+      "picks": 2
+    },
     {
       "home": "Ho Chi Minh City FC",
       "away": "Buriram United",
@@ -350,7 +362,7 @@
       "odds": 1.1,
       "patternScore": 69.38,
       "patternText": "180.060/259.510",
-      "aiScore": 87,
+      "aiScore": 86,
       "picks": 1
     },
     {
@@ -362,7 +374,7 @@
       "odds": 1.1,
       "patternScore": 70.67,
       "patternText": "240.306/340.036",
-      "aiScore": 93,
+      "aiScore": 92,
       "picks": 1
     },
     {
@@ -374,20 +386,8 @@
       "odds": 1.07,
       "patternScore": 69.72,
       "patternText": "186.526/267.526",
-      "aiScore": 91,
+      "aiScore": 90,
       "picks": 1
-    },
-    {
-      "home": "Vipers SC",
-      "away": "Bul",
-      "league": "UGA",
-      "date": "18.11.2026 17:00",
-      "matchCode": "4547676",
-      "odds": 1.46,
-      "patternScore": 68.37,
-      "patternText": "112.427/164.433",
-      "aiScore": 55,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
