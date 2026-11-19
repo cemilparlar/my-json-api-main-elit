@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 16:28",
+  "updatedAt": "19.11.2026 16:37",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 89,
-      "lost": 62,
-      "total": 151,
-      "rate": 58.9
+      "won": 88,
+      "lost": 58,
+      "total": 146,
+      "rate": 60.3
     },
-    "totalAnalyses": 765048,
+    "totalAnalyses": 765098,
     "leagues": 286,
     "pro": {
       "won": 560,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3011,
-    "analyses30d": 16980
+    "analyses24h": 3040,
+    "analyses30d": 16998
   },
   "recentWins": [
     {
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Paris Women",
-    "away": "Koge Women",
-    "league": "ŞMP-K",
-    "date": "19.11.2026 17:45",
-    "matchCode": "4560868",
-    "odds": 1.28,
-    "patternScore": 67.95,
-    "patternText": "193.166/284.295",
-    "aiScore": 60,
-    "picks": 3
+    "home": "Union Magdalen",
+    "away": "Centauros",
+    "league": "KOLB",
+    "date": "19.11.2026 22:30",
+    "matchCode": "4581010",
+    "odds": 1.29,
+    "patternScore": 68.42,
+    "patternText": "191.668/280.114",
+    "aiScore": 63,
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Union Magdalen",
+      "away": "Centauros",
+      "league": "KOLB",
+      "date": "19.11.2026 22:30",
+      "matchCode": "4581010",
+      "odds": 1.29,
+      "patternScore": 68.42,
+      "patternText": "191.668/280.114",
+      "aiScore": 63,
+      "picks": 1
+    },
     {
       "home": "Paris Women",
       "away": "Koge Women",
@@ -360,18 +372,6 @@
       "patternText": "193.166/284.295",
       "aiScore": 60,
       "picks": 3
-    },
-    {
-      "home": "Kif Orebro Women",
-      "away": "Rosengard Women",
-      "league": "İSÇKA",
-      "date": "19.11.2026 17:00",
-      "matchCode": "4581053",
-      "odds": 1.24,
-      "patternScore": 67.42,
-      "patternText": "204.584/303.428",
-      "aiScore": 59,
-      "picks": 1
     },
     {
       "home": "Amiens SC",
@@ -411,6 +411,20 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Club de Regatas Vasco da Gama",
+      "away": "Sport Club Internacional",
+      "league": "BR1",
+      "at": "19.11.2026 16:33",
+      "count": 3
+    },
+    {
+      "home": "Vitoria Bahia",
+      "away": "Red Bull Bragantino",
+      "league": "BR1",
+      "at": "19.11.2026 16:32",
+      "count": 5
+    },
     {
       "home": "Arsenal Women",
       "away": "Lyon Women",
@@ -466,20 +480,6 @@
       "league": "BR1",
       "at": "19.11.2026 06:07",
       "count": 2
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "CR Flamengo",
-      "league": "BR1",
-      "at": "19.11.2026 06:07",
-      "count": 3
-    },
-    {
-      "home": "FC Santos",
-      "away": "Gremio FBPA",
-      "league": "BR1",
-      "at": "19.11.2026 05:49",
-      "count": 1
     }
   ],
   "paywall": {
