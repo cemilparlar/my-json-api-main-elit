@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 11:43",
+  "updatedAt": "19.11.2026 11:51",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 131,
       "rate": 61.1
     },
-    "totalAnalyses": 762906,
+    "totalAnalyses": 762960,
     "leagues": 284,
     "pro": {
       "won": 555,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2825,
-    "analyses30d": 16821
+    "analyses24h": 2833,
+    "analyses30d": 16829
   },
   "recentWins": [
     {
@@ -319,21 +319,21 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 08:25",
+      "at": "19.11.2026 11:50",
+      "home": "Paris Women",
+      "away": "Koge Women"
+    },
+    {
+      "type": "updated",
+      "at": "19.11.2026 11:47",
       "home": "Pharco FC",
       "away": "El Harby"
     },
     {
       "type": "updated",
-      "at": "19.11.2026 06:42",
+      "at": "19.11.2026 11:48",
       "home": "Baladiyyat",
       "away": "Haras El Hodood"
-    },
-    {
-      "type": "updated",
-      "at": "19.11.2026 10:13",
-      "home": "Al Mokawloon A",
-      "away": "Al Qanah"
     }
   ],
   "today": {
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Paris Women",
+      "away": "Koge Women",
+      "league": "ŞMP-K",
+      "at": "19.11.2026 11:50",
+      "count": 1
+    },
+    {
       "home": "Chapecoense AF",
       "away": "Cruzeiro EC",
       "league": "BR1",
@@ -473,13 +480,6 @@
       "league": "İS1",
       "at": "18.11.2026 23:22",
       "count": 8
-    },
-    {
-      "home": "Brentford",
-      "away": "Everton",
-      "league": "İNP",
-      "at": "18.11.2026 23:22",
-      "count": 6
     }
   ],
   "paywall": {
