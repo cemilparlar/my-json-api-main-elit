@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 21:08",
+  "updatedAt": "19.11.2026 21:17",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 85,
+      "won": 86,
       "lost": 48,
-      "total": 133,
-      "rate": 63.9
+      "total": 134,
+      "rate": 64.2
     },
-    "totalAnalyses": 765566,
+    "totalAnalyses": 765570,
     "leagues": 286,
     "pro": {
-      "won": 538,
+      "won": 539,
       "lost": 215,
-      "total": 753,
-      "rate": 71.4
+      "total": 754,
+      "rate": 71.5
     },
     "insights": {
-      "won": 947,
+      "won": 948,
       "lost": 403,
-      "total": 1350,
-      "rate": 70.1
+      "total": 1351,
+      "rate": 70.2
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3042,
-    "analyses30d": 16884
+    "analyses24h": 3043,
+    "analyses30d": 16885
   },
   "recentWins": [
     {
@@ -319,6 +319,12 @@
     },
     {
       "type": "updated",
+      "at": "19.11.2026 21:14",
+      "home": "Seattle Sounders",
+      "away": "Salt Lake"
+    },
+    {
+      "type": "updated",
       "at": "19.11.2026 16:14",
       "home": "MC Alger",
       "away": "Olympique Akbou"
@@ -328,12 +334,6 @@
       "at": "19.11.2026 17:04",
       "home": "Paris Women",
       "away": "Koge Women"
-    },
-    {
-      "type": "updated",
-      "at": "19.11.2026 16:30",
-      "home": "Club Atletico Penarol",
-      "away": "Cerro Largo"
     }
   ],
   "today": {
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Seattle Sounders",
+      "away": "Salt Lake",
+      "league": "ABD",
+      "at": "19.11.2026 21:14",
+      "count": 8
+    },
+    {
       "home": "Club de Regatas Vasco da Gama",
       "away": "Sport Club Internacional",
       "league": "BR1",
@@ -473,13 +480,6 @@
       "league": "CSA",
       "at": "19.11.2026 12:29",
       "count": 4
-    },
-    {
-      "home": "Chapecoense AF",
-      "away": "Cruzeiro EC",
-      "league": "BR1",
-      "at": "19.11.2026 06:07",
-      "count": 15
     }
   ],
   "paywall": {
