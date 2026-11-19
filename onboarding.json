@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 07:00",
+  "updatedAt": "19.11.2026 07:08",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2732,
-    "analyses30d": 16729
+    "analyses24h": 2731,
+    "analyses30d": 16728
   },
   "recentWins": [
     {
@@ -331,22 +331,34 @@
     },
     {
       "type": "analysis",
-      "count": 2732
+      "count": 2731
     }
   ],
   "today": {
-    "home": "Baladiyyat",
-    "away": "Haras El Hodood",
-    "league": "MSR2",
-    "date": "19.11.2026 12:30",
-    "matchCode": "4538118",
-    "odds": 1.22,
-    "patternScore": 70.07,
-    "patternText": "252.587/360.465",
-    "aiScore": 71,
-    "picks": 1
+    "home": "Pkr Svay Rieng",
+    "away": "Port FC",
+    "league": "AFCAKŞ",
+    "date": "19.11.2026 12:00",
+    "matchCode": "4478182",
+    "odds": 1.34,
+    "patternScore": 68.4,
+    "patternText": "186.928/273.302",
+    "aiScore": 57,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Pkr Svay Rieng",
+      "away": "Port FC",
+      "league": "AFCAKŞ",
+      "date": "19.11.2026 12:00",
+      "matchCode": "4478182",
+      "odds": 1.34,
+      "patternScore": 68.4,
+      "patternText": "186.928/273.302",
+      "aiScore": 57,
+      "picks": 3
+    },
     {
       "home": "Baladiyyat",
       "away": "Haras El Hodood",
@@ -372,15 +384,15 @@
       "picks": 1
     },
     {
-      "home": "Pkr Svay Rieng",
-      "away": "Port FC",
-      "league": "AFCAKŞ",
-      "date": "19.11.2026 12:00",
-      "matchCode": "4478182",
-      "odds": 1.15,
-      "patternScore": 69.69,
-      "patternText": "211.372/303.304",
-      "aiScore": 76,
+      "home": "Termez Surkhon",
+      "away": "Andijon",
+      "league": "ÖZB",
+      "date": "19.11.2026 13:00",
+      "matchCode": "4447662",
+      "odds": 1.13,
+      "patternScore": 69.48,
+      "patternText": "213.892/307.848",
+      "aiScore": 80,
       "picks": 1
     },
     {
@@ -394,18 +406,6 @@
       "patternText": "103.250/145.716",
       "aiScore": 93,
       "picks": 2
-    },
-    {
-      "home": "Dob",
-      "away": "Bistrica",
-      "league": "SLVNK",
-      "date": "19.11.2026 12:30",
-      "matchCode": "4580087",
-      "odds": 1.08,
-      "patternScore": 71.96,
-      "patternText": "170.310/236.666",
-      "aiScore": 99,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
