@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 18:52",
+  "updatedAt": "19.11.2026 19:00",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 137,
       "rate": 58.4
     },
-    "totalAnalyses": 765392,
+    "totalAnalyses": 765425,
     "leagues": 287,
     "pro": {
       "won": 559,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3041,
-    "analyses30d": 16896
+    "analyses24h": 3044,
+    "analyses30d": 16891
   },
   "recentWins": [
     {
@@ -386,18 +386,6 @@
       "picks": 1
     },
     {
-      "home": "Club Atletico Penarol",
-      "away": "Cerro Largo",
-      "league": "URU",
-      "date": "19.11.2026 19:30",
-      "matchCode": "4580350",
-      "odds": 1.21,
-      "patternScore": 68.72,
-      "patternText": "141.846/206.408",
-      "aiScore": 72,
-      "picks": 1
-    },
-    {
       "home": "Deportivo La Guaira",
       "away": "Academia Anzoat",
       "league": "VENK",
@@ -408,6 +396,18 @@
       "patternText": "203.258/296.618",
       "aiScore": 65,
       "picks": 1
+    },
+    {
+      "home": "Vitoria Bahia",
+      "away": "Red Bull Bragantino",
+      "league": "BR1",
+      "date": "19.11.2026 22:30",
+      "matchCode": "4423377",
+      "odds": 1.21,
+      "patternScore": 68.57,
+      "patternText": "230.168/335.683",
+      "aiScore": 74,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
