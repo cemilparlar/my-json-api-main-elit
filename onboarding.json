@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 06:04",
+  "updatedAt": "19.11.2026 06:12",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 141,
       "rate": 62.4
     },
-    "totalAnalyses": 760410,
+    "totalAnalyses": 760447,
     "leagues": 283,
     "pro": {
       "won": 557,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2692,
-    "analyses30d": 16693
+    "analyses24h": 2726,
+    "analyses30d": 16727
   },
   "recentWins": [
     {
@@ -300,12 +300,6 @@
       "away": "INAC Kobe Leonessa"
     },
     {
-      "type": "updated",
-      "at": "19.11.2026 06:03",
-      "home": "Pkr Svay Rieng",
-      "away": "Port FC"
-    },
-    {
       "type": "kickoff",
       "home": "Queensland Lions",
       "away": "Wollongong Wolves",
@@ -319,7 +313,7 @@
     },
     {
       "type": "analysis",
-      "count": 2692
+      "count": 2726
     }
   ],
   "today": {
@@ -346,18 +340,6 @@
       "patternText": "105.902/150.730",
       "aiScore": 90,
       "picks": 2
-    },
-    {
-      "home": "Pkr Svay Rieng",
-      "away": "Port FC",
-      "league": "AFCAKŞ",
-      "date": "19.11.2026 12:00",
-      "matchCode": "4478182",
-      "odds": 1.12,
-      "patternScore": 70.51,
-      "patternText": "255.558/362.434",
-      "aiScore": 87,
-      "picks": 1
     },
     {
       "home": "Omiya Ardija Women",
@@ -394,9 +376,42 @@
       "patternText": "133.810/191.376",
       "aiScore": 71,
       "picks": 2
+    },
+    {
+      "home": "Al Daklyeh",
+      "away": "Ismaily SC",
+      "league": "MSR2",
+      "date": "19.11.2026 12:30",
+      "matchCode": "4538117",
+      "odds": 1.21,
+      "patternScore": 70.01,
+      "patternText": "255.483/364.916",
+      "aiScore": 66,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Chapecoense AF",
+      "away": "Cruzeiro EC",
+      "league": "BR1",
+      "at": "19.11.2026 06:07",
+      "count": 15
+    },
+    {
+      "home": "EC Bahia",
+      "away": "Coritiba FBC",
+      "league": "BR1",
+      "at": "19.11.2026 06:07",
+      "count": 2
+    },
+    {
+      "home": "SE Palmeiras",
+      "away": "CR Flamengo",
+      "league": "BR1",
+      "at": "19.11.2026 06:07",
+      "count": 3
+    },
     {
       "home": "FC Santos",
       "away": "Gremio FBPA",
@@ -445,27 +460,6 @@
       "league": "İNP",
       "at": "18.11.2026 23:22",
       "count": 6
-    },
-    {
-      "home": "FC Sochaux",
-      "away": "USL Dunkerque",
-      "league": "FR2",
-      "at": "18.11.2026 23:21",
-      "count": 5
-    },
-    {
-      "home": "AC Monza",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "at": "18.11.2026 23:21",
-      "count": 11
-    },
-    {
-      "home": "FC Nantes",
-      "away": "Grenoble Foot",
-      "league": "FR2",
-      "at": "18.11.2026 23:20",
-      "count": 12
     }
   ],
   "paywall": {
