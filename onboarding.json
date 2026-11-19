@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 21:55",
+  "updatedAt": "19.11.2026 22:03",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 93,
+      "won": 98,
       "lost": 49,
-      "total": 142,
-      "rate": 65.5
+      "total": 147,
+      "rate": 66.7
     },
-    "totalAnalyses": 765593,
+    "totalAnalyses": 765594,
     "leagues": 286,
     "pro": {
-      "won": 541,
-      "lost": 215,
-      "total": 756,
+      "won": 544,
+      "lost": 216,
+      "total": 760,
       "rate": 71.6
     },
     "insights": {
-      "won": 949,
-      "lost": 403,
-      "total": 1352,
+      "won": 952,
+      "lost": 404,
+      "total": 1356,
       "rate": 70.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3043,
-    "analyses30d": 16885
+    "analyses24h": 3042,
+    "analyses30d": 16871
   },
   "recentWins": [
     {
@@ -362,42 +362,6 @@
       "picks": 7
     },
     {
-      "home": "Club de Regatas Vasco da Gama",
-      "away": "Sport Club Internacional",
-      "league": "BR1",
-      "date": "19.11.2026 22:30",
-      "matchCode": "4423370",
-      "odds": 1.33,
-      "patternScore": 67.59,
-      "patternText": "216.068/319.657",
-      "aiScore": 60,
-      "picks": 3
-    },
-    {
-      "home": "Independiente del Valle",
-      "away": "Envigado",
-      "league": "KOLB",
-      "date": "19.11.2026 22:30",
-      "matchCode": "4581009",
-      "odds": 1.22,
-      "patternScore": 68.31,
-      "patternText": "186.797/273.453",
-      "aiScore": 61,
-      "picks": 1
-    },
-    {
-      "home": "Deportivo La Guaira",
-      "away": "Academia Anzoat",
-      "league": "VENK",
-      "date": "19.11.2026 22:30",
-      "matchCode": "4580866",
-      "odds": 1.21,
-      "patternScore": 68.53,
-      "patternText": "203.294/296.658",
-      "aiScore": 65,
-      "picks": 1
-    },
-    {
       "home": "Sao Paulo FC",
       "away": "Fluminense FC",
       "league": "BR1",
@@ -408,6 +372,42 @@
       "patternText": "178.356/251.459",
       "aiScore": 81,
       "picks": 3
+    },
+    {
+      "home": "Real Cundinama",
+      "away": "Quindio",
+      "league": "KOLB",
+      "date": "20.11.2026 00:45",
+      "matchCode": "4581022",
+      "odds": 1.15,
+      "patternScore": 69.59,
+      "patternText": "240.220/345.198",
+      "aiScore": 78,
+      "picks": 2
+    },
+    {
+      "home": "Kashima Antlers",
+      "away": "Shimizu S-Pulse",
+      "league": "JAP",
+      "date": "20.11.2026 10:00",
+      "matchCode": "4487267",
+      "odds": 1.38,
+      "patternScore": 67.07,
+      "patternText": "149.729/223.239",
+      "aiScore": 57,
+      "picks": 2
+    },
+    {
+      "home": "Pss Sleman",
+      "away": "Arema FC",
+      "league": "ENDL1",
+      "date": "20.11.2026 08:30",
+      "matchCode": "4550400",
+      "odds": 1.1,
+      "patternScore": 70.16,
+      "patternText": "221.436/315.614",
+      "aiScore": 93,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
