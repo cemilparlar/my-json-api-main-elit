@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 03:00",
+  "updatedAt": "19.11.2026 03:07",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 93,
-      "lost": 55,
-      "total": 148,
-      "rate": 62.8
+      "won": 92,
+      "lost": 53,
+      "total": 145,
+      "rate": 63.4
     },
     "totalAnalyses": 760322,
     "leagues": 282,
@@ -323,18 +323,30 @@
     }
   ],
   "today": {
-    "home": "Queensland Lions",
-    "away": "Wollongong Wolves",
-    "league": "AVC",
-    "date": "19.11.2026 08:30",
-    "matchCode": "4573670",
-    "odds": 1.06,
-    "patternScore": 71.41,
-    "patternText": "95.838/134.208",
-    "aiScore": 99,
+    "home": "Omiya Ardija Women",
+    "away": "INAC Kobe Leonessa",
+    "league": "JWEL",
+    "date": "19.11.2026 09:00",
+    "matchCode": "4488320",
+    "odds": 1.11,
+    "patternScore": 70.88,
+    "patternText": "295.999/417.627",
+    "aiScore": 96,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "Omiya Ardija Women",
+      "away": "INAC Kobe Leonessa",
+      "league": "JWEL",
+      "date": "19.11.2026 09:00",
+      "matchCode": "4488320",
+      "odds": 1.11,
+      "patternScore": 70.88,
+      "patternText": "295.999/417.627",
+      "aiScore": 96,
+      "picks": 1
+    },
     {
       "home": "Queensland Lions",
       "away": "Wollongong Wolves",
@@ -381,18 +393,6 @@
       "patternScore": 69.06,
       "patternText": "209.686/303.615",
       "aiScore": 66,
-      "picks": 1
-    },
-    {
-      "home": "Termez Surkhon",
-      "away": "Andijon",
-      "league": "ÖZB",
-      "date": "19.11.2026 13:00",
-      "matchCode": "4447662",
-      "odds": 1.13,
-      "patternScore": 69.48,
-      "patternText": "213.892/307.848",
-      "aiScore": 80,
       "picks": 1
     }
   ],
