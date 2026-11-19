@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 11:59",
+  "updatedAt": "19.11.2026 12:09",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 80,
-      "lost": 51,
-      "total": 131,
-      "rate": 61.1
+      "won": 77,
+      "lost": 50,
+      "total": 127,
+      "rate": 60.6
     },
-    "totalAnalyses": 762967,
+    "totalAnalyses": 763000,
     "leagues": 284,
     "pro": {
       "won": 555,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2837,
-    "analyses30d": 16833
+    "analyses24h": 2832,
+    "analyses30d": 16822
   },
   "recentWins": [
     {
@@ -63,20 +63,6 @@
       "aiScore": 51,
       "firstHalf": "2 - 0",
       "finalScore": "3 - 0",
-      "pro": true
-    },
-    {
-      "home": "Denmark U19",
-      "away": "Bosnia and Herzegovina U1",
-      "league": "AVŞU19",
-      "date": "17.11.2026 10:00",
-      "prediction": "1st Half Result X",
-      "odds": 2.36,
-      "probability": 71.43,
-      "patternScore": 67.58,
-      "aiScore": 51,
-      "firstHalf": "0 - 0",
-      "finalScore": "2 - 0",
       "pro": true
     },
     {
@@ -120,6 +106,20 @@
       "firstHalf": "0 - 0",
       "finalScore": "3 - 0",
       "pro": true
+    },
+    {
+      "home": "Chelsea Women",
+      "away": "PSG Women",
+      "league": "ŞMP-K",
+      "date": "18.11.2026 20:00",
+      "prediction": "Both Teams to Score - No",
+      "odds": 1.87,
+      "probability": 70.0,
+      "patternScore": 67.17,
+      "aiScore": 52,
+      "firstHalf": "0 - 0",
+      "finalScore": "1 - 0",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -265,14 +265,6 @@
     },
     {
       "type": "won",
-      "home": "Denmark U19",
-      "away": "Bosnia and Herzegovina U1",
-      "prediction": "1st Half Result X",
-      "odds": 2.36,
-      "at": "17.11.2026 10:00"
-    },
-    {
-      "type": "won",
       "home": "Luton Town",
       "away": "Peterborough United",
       "prediction": "Both Teams to Score - No",
@@ -286,6 +278,14 @@
       "prediction": "Both Teams to Score - Yes",
       "odds": 2.19,
       "at": "17.11.2026 13:00"
+    },
+    {
+      "type": "won",
+      "home": "Swansea City U21",
+      "away": "Gillingham U21",
+      "prediction": "Both Teams to Score - No",
+      "odds": 1.89,
+      "at": "17.11.2026 19:00"
     },
     {
       "type": "updated",
@@ -386,18 +386,6 @@
       "picks": 2
     },
     {
-      "home": "Baladiyyat",
-      "away": "Haras El Hodood",
-      "league": "MSR2",
-      "date": "19.11.2026 12:30",
-      "matchCode": "4538118",
-      "odds": 1.22,
-      "patternScore": 68.49,
-      "patternText": "190.930/278.751",
-      "aiScore": 75,
-      "picks": 2
-    },
-    {
       "home": "Malavan Fc",
       "away": "Gol Gohar Sirja",
       "league": "IRAN",
@@ -408,6 +396,18 @@
       "patternText": "192.443/282.311",
       "aiScore": 62,
       "picks": 3
+    },
+    {
+      "home": "Diyala FC",
+      "away": "Al Kahraba",
+      "league": "IRAK",
+      "date": "19.11.2026 13:45",
+      "matchCode": "4541047",
+      "odds": 1.19,
+      "patternScore": 69.94,
+      "patternText": "250.711/358.445",
+      "aiScore": 75,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
