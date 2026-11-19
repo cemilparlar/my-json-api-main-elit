@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 13:45",
+  "updatedAt": "19.11.2026 13:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 118,
       "rate": 59.3
     },
-    "totalAnalyses": 764005,
+    "totalAnalyses": 764081,
     "leagues": 285,
     "pro": {
       "won": 554,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2881,
-    "analyses30d": 16873
+    "analyses24h": 2885,
+    "analyses30d": 16877
   },
   "recentWins": [
     {
@@ -289,7 +289,7 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 10:31",
+      "at": "19.11.2026 13:47",
       "home": "FC Dobrudzha",
       "away": "Fratria"
     },
@@ -313,12 +313,6 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 07:45",
-      "home": "Queensland Lions",
-      "away": "Wollongong Wolves"
-    },
-    {
-      "type": "updated",
       "at": "19.11.2026 09:16",
       "home": "Malavan Fc",
       "away": "Gol Gohar Sirja"
@@ -334,44 +328,50 @@
       "at": "19.11.2026 10:13",
       "home": "Al Mokawloon A",
       "away": "Al Qanah"
+    },
+    {
+      "type": "updated",
+      "at": "19.11.2026 11:47",
+      "home": "ND Beltinci",
+      "away": "NK Celje"
     }
   ],
   "today": {
-    "home": "FC Dobrudzha",
-    "away": "Fratria",
-    "league": "BULB",
-    "date": "19.11.2026 15:00",
-    "matchCode": "4505885",
-    "odds": 1.32,
-    "patternScore": 69.15,
-    "patternText": "209.836/303.461",
-    "aiScore": 66,
-    "picks": 1
+    "home": "Al Gharraf",
+    "away": "Al Jawiya",
+    "league": "IRAK",
+    "date": "19.11.2026 15:30",
+    "matchCode": "4540932",
+    "odds": 1.21,
+    "patternScore": 69.48,
+    "patternText": "214.513/308.747",
+    "aiScore": 91,
+    "picks": 8
   },
   "todayList": [
-    {
-      "home": "FC Dobrudzha",
-      "away": "Fratria",
-      "league": "BULB",
-      "date": "19.11.2026 15:00",
-      "matchCode": "4505885",
-      "odds": 1.32,
-      "patternScore": 69.15,
-      "patternText": "209.836/303.461",
-      "aiScore": 66,
-      "picks": 1
-    },
     {
       "home": "Al Gharraf",
       "away": "Al Jawiya",
       "league": "IRAK",
       "date": "19.11.2026 15:30",
       "matchCode": "4540932",
-      "odds": 1.23,
+      "odds": 1.21,
       "patternScore": 69.48,
       "patternText": "214.513/308.747",
+      "aiScore": 91,
+      "picks": 8
+    },
+    {
+      "home": "Amiens SC",
+      "away": "SM Caen",
+      "league": "FR3",
+      "date": "19.11.2026 19:45",
+      "matchCode": "4496250",
+      "odds": 1.15,
+      "patternScore": 68.38,
+      "patternText": "196.262/287.010",
       "aiScore": 72,
-      "picks": 2
+      "picks": 4
     },
     {
       "home": "Gaz Al-Shamal",
