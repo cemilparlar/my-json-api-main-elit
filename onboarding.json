@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 09:30",
+  "updatedAt": "19.11.2026 09:39",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 88,
+      "won": 87,
       "lost": 53,
-      "total": 141,
-      "rate": 62.4
+      "total": 140,
+      "rate": 62.1
     },
-    "totalAnalyses": 762109,
+    "totalAnalyses": 762137,
     "leagues": 283,
     "pro": {
       "won": 555,
@@ -386,6 +386,18 @@
       "picks": 2
     },
     {
+      "home": "Al Gharraf",
+      "away": "Al Jawiya",
+      "league": "IRAK",
+      "date": "19.11.2026 15:30",
+      "matchCode": "4540932",
+      "odds": 1.23,
+      "patternScore": 69.48,
+      "patternText": "214.513/308.741",
+      "aiScore": 72,
+      "picks": 2
+    },
+    {
       "home": "Baladiyyat",
       "away": "Haras El Hodood",
       "league": "MSR2",
@@ -395,18 +407,6 @@
       "patternScore": 70.07,
       "patternText": "252.587/360.465",
       "aiScore": 71,
-      "picks": 1
-    },
-    {
-      "home": "ND Beltinci",
-      "away": "NK Celje",
-      "league": "SLVNK",
-      "date": "19.11.2026 12:30",
-      "matchCode": "4580086",
-      "odds": 1.21,
-      "patternScore": 67.72,
-      "patternText": "200.647/296.294",
-      "aiScore": 60,
       "picks": 1
     }
   ],
