@@ -2397,7 +2397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 95
     },
     {
         "date": "21.11.2026 12:30",
@@ -16077,7 +16077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "21.11.2026 13:30",
@@ -19947,7 +19947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "20.11.2026 13:30",
@@ -34737,7 +34737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "22.11.2026 18:15",
@@ -39720,66 +39720,6 @@
         "aiScore": 94
     },
     {
-        "date": "19.11.2026 08:30",
-        "league": "AVC",
-        "matchCode": "4573670",
-        "home": "Queensland Lions",
-        "away": "Wollongong Wolves",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "77.27",
-        "odds": "1.15",
-        "matchCount": "22",
-        "matchLink": "4573670",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "6/48",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 07:45",
-        "patternScore": 69.2,
-        "patternText": "183.747/265.547",
-        "patternInfo": {
-            "m": 52,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 77
-    },
-    {
-        "date": "19.11.2026 08:30",
-        "league": "AVC",
-        "matchCode": "4573670",
-        "home": "Queensland Lions",
-        "away": "Wollongong Wolves",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 2.5",
-        "ihtimal": "77.27",
-        "odds": "1.06",
-        "matchCount": "22",
-        "matchLink": "4573670",
-        "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "6/48",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 07:45",
-        "patternScore": 69.57,
-        "patternText": "176.321/253.431",
-        "patternInfo": {
-            "m": 52,
-            "s": 9,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 95
-    },
-    {
         "date": "19.11.2026 13:00",
         "league": "UGA",
         "matchCode": "4547678",
@@ -40108,5 +40048,35 @@
             "b": 100.0
         },
         "aiScore": 59
+    },
+    {
+        "date": "19.11.2026 08:30",
+        "league": "AVC",
+        "matchCode": "4573670",
+        "home": "Queensland Lions",
+        "away": "Wollongong Wolves",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Under 2.5",
+        "ihtimal": "77.08",
+        "odds": "1.06",
+        "matchCount": "48",
+        "matchLink": "4573670",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "6/48",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 07:45",
+        "patternScore": 69.88,
+        "patternText": "166.861/238.781",
+        "patternInfo": {
+            "m": 45,
+            "s": 8,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 94
     }
 ]
