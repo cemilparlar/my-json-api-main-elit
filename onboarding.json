@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 12:25",
+  "updatedAt": "19.11.2026 12:33",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 77,
+      "won": 74,
       "lost": 50,
-      "total": 127,
-      "rate": 60.6
+      "total": 124,
+      "rate": 59.7
     },
-    "totalAnalyses": 763164,
-    "leagues": 284,
+    "totalAnalyses": 763182,
+    "leagues": 285,
     "pro": {
       "won": 555,
       "lost": 237,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2841,
-    "analyses30d": 16831
+    "analyses24h": 2856,
+    "analyses30d": 16845
   },
   "recentWins": [
     {
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Maroons",
-    "away": "NEC Nijmegen",
-    "league": "UGA",
-    "date": "19.11.2026 13:00",
-    "matchCode": "4547677",
-    "odds": 1.73,
-    "patternScore": 67.34,
-    "patternText": "113.736/168.895",
-    "aiScore": 52,
-    "picks": 3
+    "home": "FC Dobrudzha",
+    "away": "Fratria",
+    "league": "BULB",
+    "date": "19.11.2026 15:00",
+    "matchCode": "4505885",
+    "odds": 1.32,
+    "patternScore": 69.15,
+    "patternText": "209.836/303.461",
+    "aiScore": 66,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Maroons",
-      "away": "NEC Nijmegen",
-      "league": "UGA",
-      "date": "19.11.2026 13:00",
-      "matchCode": "4547677",
-      "odds": 1.73,
-      "patternScore": 67.34,
-      "patternText": "113.736/168.895",
-      "aiScore": 52,
-      "picks": 3
-    },
     {
       "home": "FC Dobrudzha",
       "away": "Fratria",
@@ -386,18 +374,6 @@
       "picks": 2
     },
     {
-      "home": "Malavan Fc",
-      "away": "Gol Gohar Sirja",
-      "league": "IRAN",
-      "date": "19.11.2026 13:00",
-      "matchCode": "4580234",
-      "odds": 1.21,
-      "patternScore": 68.17,
-      "patternText": "192.443/282.311",
-      "aiScore": 62,
-      "picks": 3
-    },
-    {
       "home": "Diyala FC",
       "away": "Al Kahraba",
       "league": "IRAK",
@@ -408,9 +384,40 @@
       "patternText": "250.711/358.445",
       "aiScore": 75,
       "picks": 2
+    },
+    {
+      "home": "Gaz Al-Shamal",
+      "away": "Al Karkh",
+      "league": "IRAK",
+      "date": "19.11.2026 16:00",
+      "matchCode": "4540939",
+      "odds": 1.15,
+      "patternScore": 69.21,
+      "patternText": "219.454/317.084",
+      "aiScore": 74,
+      "picks": 2
+    },
+    {
+      "home": "Al Ahli",
+      "away": "Al Shamal",
+      "league": "KAT",
+      "date": "19.11.2026 15:30",
+      "matchCode": "4536753",
+      "odds": 1.15,
+      "patternScore": 69.31,
+      "patternText": "361.672/521.802",
+      "aiScore": 72,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Atletico Mineiro",
+      "away": "Boca Juniors",
+      "league": "CSA",
+      "at": "19.11.2026 12:29",
+      "count": 4
+    },
     {
       "home": "Paris Women",
       "away": "Koge Women",
@@ -473,13 +480,6 @@
       "league": "İTA",
       "at": "19.11.2026 02:15",
       "count": 13
-    },
-    {
-      "home": "Levante UD",
-      "away": "Elche CF",
-      "league": "İS1",
-      "at": "18.11.2026 23:22",
-      "count": 8
     }
   ],
   "paywall": {
