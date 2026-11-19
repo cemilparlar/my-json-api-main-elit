@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 06:44",
+  "updatedAt": "19.11.2026 06:52",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 141,
       "rate": 62.4
     },
-    "totalAnalyses": 760467,
+    "totalAnalyses": 760470,
     "leagues": 283,
     "pro": {
       "won": 557,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2731,
-    "analyses30d": 16732
+    "analyses24h": 2730,
+    "analyses30d": 16727
   },
   "recentWins": [
     {
@@ -296,8 +296,8 @@
     {
       "type": "updated",
       "at": "19.11.2026 06:41",
-      "home": "La Viena Fc",
-      "away": "El Saka El Hadi"
+      "home": "Pharco FC",
+      "away": "El Harby"
     },
     {
       "type": "updated",
@@ -313,6 +313,12 @@
     },
     {
       "type": "updated",
+      "at": "19.11.2026 06:41",
+      "home": "Pkr Svay Rieng",
+      "away": "Port FC"
+    },
+    {
+      "type": "updated",
       "at": "19.11.2026 06:43",
       "home": "Cand",
       "away": "Johor Darul Tazim"
@@ -325,56 +331,56 @@
     },
     {
       "type": "analysis",
-      "count": 2731
+      "count": 2730
     }
   ],
   "today": {
-    "home": "La Viena Fc",
-    "away": "El Saka El Hadi",
+    "home": "Baladiyyat",
+    "away": "Haras El Hodood",
     "league": "MSR2",
     "date": "19.11.2026 12:30",
-    "matchCode": "4538116",
-    "odds": 1.21,
-    "patternScore": 69.92,
-    "patternText": "133.810/191.376",
+    "matchCode": "4538118",
+    "odds": 1.22,
+    "patternScore": 70.07,
+    "patternText": "252.587/360.465",
     "aiScore": 71,
-    "picks": 2
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "La Viena Fc",
-      "away": "El Saka El Hadi",
-      "league": "MSR2",
-      "date": "19.11.2026 12:30",
-      "matchCode": "4538116",
-      "odds": 1.21,
-      "patternScore": 69.92,
-      "patternText": "133.810/191.376",
-      "aiScore": 71,
-      "picks": 2
-    },
-    {
-      "home": "Al Daklyeh",
-      "away": "Ismaily SC",
-      "league": "MSR2",
-      "date": "19.11.2026 12:30",
-      "matchCode": "4538117",
-      "odds": 1.21,
-      "patternScore": 70.01,
-      "patternText": "255.483/364.916",
-      "aiScore": 66,
-      "picks": 1
-    },
     {
       "home": "Baladiyyat",
       "away": "Haras El Hodood",
       "league": "MSR2",
       "date": "19.11.2026 12:30",
       "matchCode": "4538118",
+      "odds": 1.22,
+      "patternScore": 70.07,
+      "patternText": "252.587/360.465",
+      "aiScore": 71,
+      "picks": 1
+    },
+    {
+      "home": "ND Beltinci",
+      "away": "NK Celje",
+      "league": "SLVNK",
+      "date": "19.11.2026 12:30",
+      "matchCode": "4580086",
       "odds": 1.21,
-      "patternScore": 69.06,
-      "patternText": "209.686/303.615",
-      "aiScore": 66,
+      "patternScore": 67.72,
+      "patternText": "200.647/296.294",
+      "aiScore": 60,
+      "picks": 1
+    },
+    {
+      "home": "Pkr Svay Rieng",
+      "away": "Port FC",
+      "league": "AFCAKŞ",
+      "date": "19.11.2026 12:00",
+      "matchCode": "4478182",
+      "odds": 1.15,
+      "patternScore": 69.69,
+      "patternText": "211.372/303.304",
+      "aiScore": 76,
       "picks": 1
     },
     {
@@ -390,15 +396,15 @@
       "picks": 2
     },
     {
-      "home": "Cand",
-      "away": "Johor Darul Tazim",
-      "league": "AFCAKŞ",
+      "home": "Dob",
+      "away": "Bistrica",
+      "league": "SLVNK",
       "date": "19.11.2026 12:30",
-      "matchCode": "4478181",
+      "matchCode": "4580087",
       "odds": 1.08,
-      "patternScore": 71.88,
-      "patternText": "166.115/231.110",
-      "aiScore": 98,
+      "patternScore": 71.96,
+      "patternText": "170.310/236.666",
+      "aiScore": 99,
       "picks": 1
     }
   ],
