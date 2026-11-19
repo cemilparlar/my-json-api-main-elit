@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 17:09",
+  "updatedAt": "19.11.2026 17:17",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 138,
       "rate": 58.7
     },
-    "totalAnalyses": 765157,
+    "totalAnalyses": 765208,
     "leagues": 286,
     "pro": {
       "won": 558,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3033,
-    "analyses30d": 16945
+    "analyses24h": 3032,
+    "analyses30d": 16944
   },
   "recentWins": [
     {
@@ -362,30 +362,6 @@
       "picks": 2
     },
     {
-      "home": "Paris Women",
-      "away": "Koge Women",
-      "league": "ŞMP-K",
-      "date": "19.11.2026 17:45",
-      "matchCode": "4560868",
-      "odds": 1.28,
-      "patternScore": 67.95,
-      "patternText": "193.174/284.303",
-      "aiScore": 60,
-      "picks": 3
-    },
-    {
-      "home": "Union Magdalen",
-      "away": "Centauros",
-      "league": "KOLB",
-      "date": "19.11.2026 22:30",
-      "matchCode": "4581010",
-      "odds": 1.28,
-      "patternScore": 68.42,
-      "patternText": "192.030/280.646",
-      "aiScore": 59,
-      "picks": 2
-    },
-    {
       "home": "Independiente del Valle",
       "away": "Envigado",
       "league": "KOLB",
@@ -408,6 +384,30 @@
       "patternText": "141.826/206.360",
       "aiScore": 72,
       "picks": 1
+    },
+    {
+      "home": "Deportivo La Guaira",
+      "away": "Academia Anzoat",
+      "league": "VENK",
+      "date": "19.11.2026 22:30",
+      "matchCode": "4580866",
+      "odds": 1.21,
+      "patternScore": 68.52,
+      "patternText": "203.250/296.608",
+      "aiScore": 65,
+      "picks": 1
+    },
+    {
+      "home": "Vitoria Bahia",
+      "away": "Red Bull Bragantino",
+      "league": "BR1",
+      "date": "19.11.2026 22:30",
+      "matchCode": "4423377",
+      "odds": 1.21,
+      "patternScore": 68.57,
+      "patternText": "230.160/335.675",
+      "aiScore": 74,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
