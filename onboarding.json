@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 15:09",
+  "updatedAt": "19.11.2026 15:20",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 155,
       "rate": 59.4
     },
-    "totalAnalyses": 764484,
+    "totalAnalyses": 764530,
     "leagues": 286,
     "pro": {
       "won": 563,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2965,
-    "analyses30d": 16937
+    "analyses24h": 2992,
+    "analyses30d": 16963
   },
   "recentWins": [
     {
@@ -325,15 +325,15 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 09:16",
-      "home": "Malavan Fc",
-      "away": "Gol Gohar Sirja"
-    },
-    {
-      "type": "updated",
       "at": "19.11.2026 14:07",
       "home": "Benfica Women",
       "away": "AS Roma Women"
+    },
+    {
+      "type": "updated",
+      "at": "19.11.2026 11:47",
+      "home": "Pharco FC",
+      "away": "El Harby"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4581053",
     "odds": 1.24,
     "patternScore": 67.43,
-    "patternText": "204.562/303.386",
+    "patternText": "204.582/303.420",
     "aiScore": 59,
     "picks": 1
   },
@@ -357,7 +357,7 @@
       "matchCode": "4581053",
       "odds": 1.24,
       "patternScore": 67.43,
-      "patternText": "204.562/303.386",
+      "patternText": "204.582/303.420",
       "aiScore": 59,
       "picks": 1
     },
@@ -369,7 +369,7 @@
       "matchCode": "4496250",
       "odds": 1.23,
       "patternScore": 67.66,
-      "patternText": "196.692/290.694",
+      "patternText": "196.712/290.728",
       "aiScore": 61,
       "picks": 6
     },
@@ -381,7 +381,7 @@
       "matchCode": "4540939",
       "odds": 1.15,
       "patternScore": 69.21,
-      "patternText": "219.596/317.290",
+      "patternText": "219.620/317.328",
       "aiScore": 74,
       "picks": 2
     },
@@ -392,8 +392,8 @@
       "date": "19.11.2026 18:00",
       "matchCode": "4476303",
       "odds": 1.13,
-      "patternScore": 67.99,
-      "patternText": "161.256/237.160",
+      "patternScore": 68.0,
+      "patternText": "161.288/237.202",
       "aiScore": 84,
       "picks": 1
     },
@@ -405,12 +405,19 @@
       "matchCode": "4546166",
       "odds": 1.11,
       "patternScore": 69.35,
-      "patternText": "226.151/326.099",
+      "patternText": "226.175/326.141",
       "aiScore": 97,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Atletico Paranaense",
+      "away": "Remo",
+      "league": "BR1",
+      "at": "19.11.2026 15:11",
+      "count": 9
+    },
     {
       "home": "Arsenal Women",
       "away": "Lyon Women",
@@ -473,13 +480,6 @@
       "league": "BR1",
       "at": "19.11.2026 05:49",
       "count": 8
-    },
-    {
-      "home": "Orlando City SC",
-      "away": "FC Cincinnati",
-      "league": "ABD",
-      "at": "19.11.2026 05:11",
-      "count": 1
     }
   ],
   "paywall": {
