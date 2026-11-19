@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 14:02",
+  "updatedAt": "19.11.2026 14:10",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 119,
       "rate": 58.8
     },
-    "totalAnalyses": 764087,
-    "leagues": 285,
+    "totalAnalyses": 764124,
+    "leagues": 286,
     "pro": {
       "won": 555,
       "lost": 237,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2886,
-    "analyses30d": 16862
+    "analyses24h": 2889,
+    "analyses30d": 16865
   },
   "recentWins": [
     {
@@ -289,6 +289,24 @@
     },
     {
       "type": "updated",
+      "at": "19.11.2026 14:06",
+      "home": "FC Fredericia",
+      "away": "FC Hillerod"
+    },
+    {
+      "type": "updated",
+      "at": "19.11.2026 14:06",
+      "home": "Amiens SC",
+      "away": "SM Caen"
+    },
+    {
+      "type": "updated",
+      "at": "19.11.2026 14:07",
+      "home": "Arsenal Women",
+      "away": "Lyon Women"
+    },
+    {
+      "type": "updated",
       "at": "19.11.2026 13:47",
       "home": "FC Dobrudzha",
       "away": "Fratria"
@@ -316,24 +334,6 @@
       "at": "19.11.2026 09:16",
       "home": "Malavan Fc",
       "away": "Gol Gohar Sirja"
-    },
-    {
-      "type": "updated",
-      "at": "19.11.2026 11:48",
-      "home": "Baladiyyat",
-      "away": "Haras El Hodood"
-    },
-    {
-      "type": "updated",
-      "at": "19.11.2026 10:13",
-      "home": "Al Mokawloon A",
-      "away": "Al Qanah"
-    },
-    {
-      "type": "updated",
-      "at": "19.11.2026 11:47",
-      "home": "ND Beltinci",
-      "away": "NK Celje"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4496250",
     "odds": 1.15,
     "patternScore": 68.38,
-    "patternText": "196.262/287.010",
+    "patternText": "196.296/287.050",
     "aiScore": 72,
     "picks": 4
   },
@@ -357,7 +357,7 @@
       "matchCode": "4496250",
       "odds": 1.15,
       "patternScore": 68.38,
-      "patternText": "196.262/287.010",
+      "patternText": "196.296/287.050",
       "aiScore": 72,
       "picks": 4
     },
@@ -369,7 +369,7 @@
       "matchCode": "4540939",
       "odds": 1.15,
       "patternScore": 69.21,
-      "patternText": "219.454/317.084",
+      "patternText": "219.488/317.124",
       "aiScore": 74,
       "picks": 2
     },
@@ -381,7 +381,7 @@
       "matchCode": "4536753",
       "odds": 1.15,
       "patternScore": 69.31,
-      "patternText": "361.672/521.802",
+      "patternText": "361.714/521.854",
       "aiScore": 72,
       "picks": 1
     },
@@ -393,7 +393,7 @@
       "matchCode": "4476303",
       "odds": 1.13,
       "patternScore": 69.78,
-      "patternText": "129.090/184.995",
+      "patternText": "129.096/185.007",
       "aiScore": 93,
       "picks": 1
     },
@@ -404,13 +404,27 @@
       "date": "19.11.2026 20:00",
       "matchCode": "4560871",
       "odds": 1.12,
-      "patternScore": 69.18,
-      "patternText": "185.601/268.305",
+      "patternScore": 69.17,
+      "patternText": "185.619/268.337",
       "aiScore": 84,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Arsenal Women",
+      "away": "Lyon Women",
+      "league": "ŞMP-K",
+      "at": "19.11.2026 14:07",
+      "count": 3
+    },
+    {
+      "home": "Benfica Women",
+      "away": "AS Roma Women",
+      "league": "ŞMP-K",
+      "at": "19.11.2026 14:07",
+      "count": 3
+    },
     {
       "home": "Paris Women",
       "away": "Koge Women",
@@ -466,20 +480,6 @@
       "league": "ABD",
       "at": "19.11.2026 05:11",
       "count": 1
-    },
-    {
-      "home": "Juventus",
-      "away": "Unione V.",
-      "league": "İTA",
-      "at": "19.11.2026 02:17",
-      "count": 9
-    },
-    {
-      "home": "Parma Calcio",
-      "away": "AS Roma",
-      "league": "İTA",
-      "at": "19.11.2026 02:15",
-      "count": 13
     }
   ],
   "paywall": {
