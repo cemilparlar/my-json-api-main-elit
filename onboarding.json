@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 20:53",
+  "updatedAt": "19.11.2026 21:01",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 133,
       "rate": 63.9
     },
-    "totalAnalyses": 765560,
+    "totalAnalyses": 765563,
     "leagues": 286,
     "pro": {
       "won": 538,
@@ -47,24 +47,10 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3039,
-    "analyses30d": 16882
+    "analyses24h": 3042,
+    "analyses30d": 16884
   },
   "recentWins": [
-    {
-      "home": "Luton Town",
-      "away": "Peterborough United",
-      "league": "İNTK",
-      "date": "17.11.2026 19:00",
-      "prediction": "Both Teams to Score - No",
-      "odds": 2.33,
-      "probability": 100.0,
-      "patternScore": 56.07,
-      "aiScore": 51,
-      "firstHalf": "2 - 0",
-      "finalScore": "3 - 0",
-      "pro": false
-    },
     {
       "home": "Maroons",
       "away": "NEC Nijmegen",
@@ -78,20 +64,6 @@
       "firstHalf": "0 - 0",
       "finalScore": "1 - 2",
       "pro": false
-    },
-    {
-      "home": "Swansea City U21",
-      "away": "Gillingham U21",
-      "league": "İNPLK",
-      "date": "17.11.2026 19:00",
-      "prediction": "Both Teams to Score - No",
-      "odds": 1.89,
-      "probability": 100.0,
-      "patternScore": 56.04,
-      "aiScore": 52,
-      "firstHalf": "0 - 0",
-      "finalScore": "3 - 0",
-      "pro": true
     },
     {
       "home": "Chelsea Women",
@@ -119,6 +91,34 @@
       "aiScore": 52,
       "firstHalf": "0 - 0",
       "finalScore": "2 - 1",
+      "pro": true
+    },
+    {
+      "home": "Wales",
+      "away": "Portugal",
+      "league": "AVUL",
+      "date": "17.11.2026 19:45",
+      "prediction": "1st Half Double Chance 1X",
+      "odds": 1.74,
+      "probability": 100.0,
+      "patternScore": 57.64,
+      "aiScore": 53,
+      "firstHalf": "2 - 2",
+      "finalScore": "2 - 3",
+      "pro": true
+    },
+    {
+      "home": "Dinamo Minsk I",
+      "away": "Bate Ii",
+      "league": "BLR1",
+      "date": "18.11.2026 14:00",
+      "prediction": "Over 3.5 Goals",
+      "odds": 1.65,
+      "probability": 76.47,
+      "patternScore": 68.11,
+      "aiScore": 53,
+      "firstHalf": "2 - 0",
+      "finalScore": "2 - 2",
       "pro": true
     }
   ],
@@ -257,14 +257,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Luton Town",
-      "away": "Peterborough United",
-      "prediction": "Both Teams to Score - No",
-      "odds": 2.33,
-      "at": "17.11.2026 19:00"
-    },
-    {
-      "type": "won",
       "home": "Maroons",
       "away": "NEC Nijmegen",
       "prediction": "1st Half Under 0.5",
@@ -273,19 +265,27 @@
     },
     {
       "type": "won",
-      "home": "Swansea City U21",
-      "away": "Gillingham U21",
-      "prediction": "Both Teams to Score - No",
-      "odds": 1.89,
-      "at": "17.11.2026 19:00"
-    },
-    {
-      "type": "won",
       "home": "Chelsea Women",
       "away": "PSG Women",
       "prediction": "Both Teams to Score - No",
       "odds": 1.87,
       "at": "18.11.2026 20:00"
+    },
+    {
+      "type": "won",
+      "home": "Cruzeiro EC",
+      "away": "SE Palmeiras",
+      "prediction": "Total Goals 2-3",
+      "odds": 1.84,
+      "at": "18.11.2026 23:30"
+    },
+    {
+      "type": "won",
+      "home": "Wales",
+      "away": "Portugal",
+      "prediction": "1st Half Double Chance 1X",
+      "odds": 1.74,
+      "at": "17.11.2026 19:45"
     },
     {
       "type": "updated",
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Club de Regatas Vasco da Gama",
-    "away": "Sport Club Internacional",
-    "league": "BR1",
-    "date": "19.11.2026 22:30",
-    "matchCode": "4423370",
-    "odds": 1.33,
-    "patternScore": 67.59,
-    "patternText": "216.054/319.641",
-    "aiScore": 60,
-    "picks": 3
+    "home": "Seattle Sounders",
+    "away": "Salt Lake",
+    "league": "ABD",
+    "date": "20.11.2026 03:00",
+    "matchCode": "4579806",
+    "odds": 1.41,
+    "patternScore": 68.17,
+    "patternText": "221.918/325.537",
+    "aiScore": 56,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Seattle Sounders",
+      "away": "Salt Lake",
+      "league": "ABD",
+      "date": "20.11.2026 03:00",
+      "matchCode": "4579806",
+      "odds": 1.41,
+      "patternScore": 68.17,
+      "patternText": "221.918/325.537",
+      "aiScore": 56,
+      "picks": 2
+    },
     {
       "home": "Club de Regatas Vasco da Gama",
       "away": "Sport Club Internacional",
@@ -395,18 +407,6 @@
       "patternScore": 68.57,
       "patternText": "230.192/335.707",
       "aiScore": 74,
-      "picks": 3
-    },
-    {
-      "home": "Sao Paulo FC",
-      "away": "Fluminense FC",
-      "league": "BR1",
-      "date": "20.11.2026 00:30",
-      "matchCode": "4423371",
-      "odds": 1.2,
-      "patternScore": 70.93,
-      "patternText": "178.348/251.451",
-      "aiScore": 81,
       "picks": 3
     }
   ],
