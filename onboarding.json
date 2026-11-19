@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 09:22",
+  "updatedAt": "19.11.2026 09:30",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 141,
       "rate": 62.4
     },
-    "totalAnalyses": 761822,
+    "totalAnalyses": 762109,
     "leagues": 283,
     "pro": {
       "won": 555,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2764,
-    "analyses30d": 16759
+    "analyses24h": 2762,
+    "analyses30d": 16758
   },
   "recentWins": [
     {
@@ -295,6 +295,12 @@
     },
     {
       "type": "updated",
+      "at": "19.11.2026 09:16",
+      "home": "Malavan Fc",
+      "away": "Gol Gohar Sirja"
+    },
+    {
+      "type": "updated",
       "at": "19.11.2026 08:24",
       "home": "Omiya Ardija Women",
       "away": "INAC Kobe Leonessa"
@@ -324,8 +330,10 @@
       "away": "Johor Darul Tazim"
     },
     {
-      "type": "analysis",
-      "count": 2764
+      "type": "kickoff",
+      "home": "Baladiyyat",
+      "away": "Haras El Hodood",
+      "at": "19.11.2026 12:30"
     }
   ],
   "today": {
@@ -352,6 +360,18 @@
       "patternText": "113.736/168.893",
       "aiScore": 52,
       "picks": 3
+    },
+    {
+      "home": "Al Mokawloon A",
+      "away": "Al Qanah",
+      "league": "MSRK",
+      "date": "19.11.2026 15:00",
+      "matchCode": "4580325",
+      "odds": 1.3,
+      "patternScore": 68.95,
+      "patternText": "199.404/289.211",
+      "aiScore": 62,
+      "picks": 1
     },
     {
       "home": "Kigezi Home Bo",
@@ -387,18 +407,6 @@
       "patternScore": 67.72,
       "patternText": "200.647/296.294",
       "aiScore": 60,
-      "picks": 1
-    },
-    {
-      "home": "La Viena Fc",
-      "away": "El Saka El Hadi",
-      "league": "MSR2",
-      "date": "19.11.2026 12:30",
-      "matchCode": "4538116",
-      "odds": 1.21,
-      "patternScore": 67.29,
-      "patternText": "213.434/317.208",
-      "aiScore": 62,
       "picks": 1
     }
   ],
