@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 06:35",
+  "updatedAt": "19.11.2026 06:44",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 141,
       "rate": 62.4
     },
-    "totalAnalyses": 760455,
+    "totalAnalyses": 760467,
     "leagues": 283,
     "pro": {
       "won": 557,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2725,
-    "analyses30d": 16726
+    "analyses24h": 2731,
+    "analyses30d": 16732
   },
   "recentWins": [
     {
@@ -294,6 +294,30 @@
       "away": "Wollongong Wolves"
     },
     {
+      "type": "updated",
+      "at": "19.11.2026 06:41",
+      "home": "La Viena Fc",
+      "away": "El Saka El Hadi"
+    },
+    {
+      "type": "updated",
+      "at": "19.11.2026 06:42",
+      "home": "Al Daklyeh",
+      "away": "Ismaily SC"
+    },
+    {
+      "type": "updated",
+      "at": "19.11.2026 06:42",
+      "home": "Baladiyyat",
+      "away": "Haras El Hodood"
+    },
+    {
+      "type": "updated",
+      "at": "19.11.2026 06:43",
+      "home": "Cand",
+      "away": "Johor Darul Tazim"
+    },
+    {
       "type": "kickoff",
       "home": "Queensland Lions",
       "away": "Wollongong Wolves",
@@ -301,7 +325,7 @@
     },
     {
       "type": "analysis",
-      "count": 2725
+      "count": 2731
     }
   ],
   "today": {
