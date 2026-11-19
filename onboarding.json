@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 15:38",
+  "updatedAt": "19.11.2026 15:48",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 155,
       "rate": 59.4
     },
-    "totalAnalyses": 764750,
+    "totalAnalyses": 764831,
     "leagues": 286,
     "pro": {
       "won": 563,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2994,
-    "analyses30d": 16965
+    "analyses24h": 3013,
+    "analyses30d": 16984
   },
   "recentWins": [
     {
@@ -325,30 +325,42 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 14:07",
-      "home": "Benfica Women",
-      "away": "AS Roma Women"
+      "at": "19.11.2026 15:30",
+      "home": "Paris Women",
+      "away": "Koge Women"
     },
     {
       "type": "updated",
-      "at": "19.11.2026 11:47",
-      "home": "Pharco FC",
-      "away": "El Harby"
+      "at": "19.11.2026 14:07",
+      "home": "Benfica Women",
+      "away": "AS Roma Women"
     }
   ],
   "today": {
-    "home": "Kif Orebro Women",
-    "away": "Rosengard Women",
-    "league": "İSÇKA",
-    "date": "19.11.2026 17:00",
-    "matchCode": "4581053",
-    "odds": 1.24,
-    "patternScore": 67.43,
-    "patternText": "204.582/303.420",
-    "aiScore": 59,
-    "picks": 1
+    "home": "Paris Women",
+    "away": "Koge Women",
+    "league": "ŞMP-K",
+    "date": "19.11.2026 17:45",
+    "matchCode": "4560868",
+    "odds": 1.28,
+    "patternScore": 67.95,
+    "patternText": "193.164/284.287",
+    "aiScore": 60,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Paris Women",
+      "away": "Koge Women",
+      "league": "ŞMP-K",
+      "date": "19.11.2026 17:45",
+      "matchCode": "4560868",
+      "odds": 1.28,
+      "patternScore": 67.95,
+      "patternText": "193.164/284.287",
+      "aiScore": 60,
+      "picks": 3
+    },
     {
       "home": "Kif Orebro Women",
       "away": "Rosengard Women",
@@ -395,18 +407,6 @@
       "patternScore": 69.35,
       "patternText": "226.175/326.141",
       "aiScore": 97,
-      "picks": 1
-    },
-    {
-      "home": "Benfica Women",
-      "away": "AS Roma Women",
-      "league": "ŞMP-K",
-      "date": "19.11.2026 20:00",
-      "matchCode": "4560872",
-      "odds": 1.09,
-      "patternScore": 71.0,
-      "patternText": "260.806/367.316",
-      "aiScore": 94,
       "picks": 1
     }
   ],
