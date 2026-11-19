@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 07:16",
+  "updatedAt": "19.11.2026 07:24",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 141,
       "rate": 62.4
     },
-    "totalAnalyses": 760482,
+    "totalAnalyses": 760485,
     "leagues": 283,
     "pro": {
       "won": 557,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2741,
-    "analyses30d": 16738
+    "analyses24h": 2744,
+    "analyses30d": 16741
   },
   "recentWins": [
     {
@@ -295,6 +295,12 @@
     },
     {
       "type": "updated",
+      "at": "19.11.2026 07:21",
+      "home": "Malavan Fc",
+      "away": "Gol Gohar Sirja"
+    },
+    {
+      "type": "updated",
       "at": "19.11.2026 06:41",
       "home": "Pharco FC",
       "away": "El Harby"
@@ -328,25 +334,33 @@
       "home": "Queensland Lions",
       "away": "Wollongong Wolves",
       "at": "19.11.2026 08:30"
-    },
-    {
-      "type": "analysis",
-      "count": 2741
     }
   ],
   "today": {
-    "home": "Pkr Svay Rieng",
-    "away": "Port FC",
-    "league": "AFCAKŞ",
-    "date": "19.11.2026 12:00",
-    "matchCode": "4478182",
-    "odds": 1.34,
-    "patternScore": 68.4,
-    "patternText": "186.928/273.302",
-    "aiScore": 57,
+    "home": "Maroons",
+    "away": "NEC Nijmegen",
+    "league": "UGA",
+    "date": "19.11.2026 13:00",
+    "matchCode": "4547677",
+    "odds": 1.73,
+    "patternScore": 67.34,
+    "patternText": "113.736/168.893",
+    "aiScore": 52,
     "picks": 3
   },
   "todayList": [
+    {
+      "home": "Maroons",
+      "away": "NEC Nijmegen",
+      "league": "UGA",
+      "date": "19.11.2026 13:00",
+      "matchCode": "4547677",
+      "odds": 1.73,
+      "patternScore": 67.34,
+      "patternText": "113.736/168.893",
+      "aiScore": 52,
+      "picks": 3
+    },
     {
       "home": "Pkr Svay Rieng",
       "away": "Port FC",
@@ -356,8 +370,20 @@
       "odds": 1.34,
       "patternScore": 68.4,
       "patternText": "186.928/273.302",
-      "aiScore": 57,
+      "aiScore": 58,
       "picks": 3
+    },
+    {
+      "home": "Kigezi Home Bo",
+      "away": "Express FC",
+      "league": "UGA",
+      "date": "19.11.2026 13:00",
+      "matchCode": "4547678",
+      "odds": 1.24,
+      "patternScore": 69.58,
+      "patternText": "261.262/375.464",
+      "aiScore": 67,
+      "picks": 2
     },
     {
       "home": "Baladiyyat",
@@ -382,30 +408,6 @@
       "patternText": "200.647/296.294",
       "aiScore": 60,
       "picks": 1
-    },
-    {
-      "home": "Termez Surkhon",
-      "away": "Andijon",
-      "league": "ÖZB",
-      "date": "19.11.2026 13:00",
-      "matchCode": "4447662",
-      "odds": 1.13,
-      "patternScore": 69.48,
-      "patternText": "213.892/307.848",
-      "aiScore": 80,
-      "picks": 1
-    },
-    {
-      "home": "Queensland Lions",
-      "away": "Wollongong Wolves",
-      "league": "AVC",
-      "date": "19.11.2026 08:30",
-      "matchCode": "4573670",
-      "odds": 1.12,
-      "patternScore": 70.86,
-      "patternText": "103.250/145.716",
-      "aiScore": 93,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
