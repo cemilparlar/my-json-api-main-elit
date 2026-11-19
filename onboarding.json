@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 23:29",
+  "updatedAt": "19.11.2026 23:37",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 92,
-      "lost": 46,
-      "total": 138,
-      "rate": 66.7
+      "won": 79,
+      "lost": 39,
+      "total": 118,
+      "rate": 66.9
     },
-    "totalAnalyses": 765620,
+    "totalAnalyses": 765623,
     "leagues": 286,
     "pro": {
       "won": 544,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3035,
-    "analyses30d": 16863
+    "analyses24h": 3014,
+    "analyses30d": 16862
   },
   "recentWins": [
     {
@@ -319,7 +319,7 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 22:26",
+      "at": "19.11.2026 23:32",
       "home": "Real Cartagena",
       "away": "Tigres Fc"
     },
@@ -386,6 +386,18 @@
       "picks": 1
     },
     {
+      "home": "Albirex Niigata",
+      "away": "Balestier Khalsa",
+      "league": "SİNP",
+      "date": "20.11.2026 11:30",
+      "matchCode": "4538573",
+      "odds": 1.41,
+      "patternScore": 68.23,
+      "patternText": "203.255/297.887",
+      "aiScore": 56,
+      "picks": 2
+    },
+    {
       "home": "Kashima Antlers",
       "away": "Shimizu S-Pulse",
       "league": "JAP",
@@ -396,18 +408,6 @@
       "patternText": "149.735/223.245",
       "aiScore": 57,
       "picks": 2
-    },
-    {
-      "home": "Imisli Fk",
-      "away": "FK Zira",
-      "league": "AZERPL",
-      "date": "20.11.2026 10:30",
-      "matchCode": "4523912",
-      "odds": 1.13,
-      "patternScore": 69.88,
-      "patternText": "304.052/435.137",
-      "aiScore": 84,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
