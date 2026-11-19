@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 18:13",
+  "updatedAt": "19.11.2026 18:21",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 138,
       "rate": 58.7
     },
-    "totalAnalyses": 765334,
+    "totalAnalyses": 765345,
     "leagues": 287,
     "pro": {
       "won": 559,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3040,
-    "analyses30d": 16944
+    "analyses24h": 3042,
+    "analyses30d": 16946
   },
   "recentWins": [
     {
@@ -313,6 +313,12 @@
     },
     {
       "type": "updated",
+      "at": "19.11.2026 18:19",
+      "home": "Club de Regatas Vasco da Gama",
+      "away": "Sport Club Internacional"
+    },
+    {
+      "type": "updated",
       "at": "19.11.2026 14:51",
       "home": "Al Ahli",
       "away": "Al Shamal"
@@ -328,12 +334,6 @@
       "at": "19.11.2026 13:13",
       "home": "JS Kabylie",
       "away": "USM Alger"
-    },
-    {
-      "type": "updated",
-      "at": "19.11.2026 17:04",
-      "home": "Paris Women",
-      "away": "Koge Women"
     }
   ],
   "today": {
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Club de Regatas Vasco da Gama",
+      "away": "Sport Club Internacional",
+      "league": "BR1",
+      "at": "19.11.2026 18:19",
+      "count": 5
+    },
+    {
       "home": "Benfica Women",
       "away": "AS Roma Women",
       "league": "ŞMP-K",
@@ -431,13 +438,6 @@
       "league": "ŞMP-K",
       "at": "19.11.2026 17:04",
       "count": 5
-    },
-    {
-      "home": "Club de Regatas Vasco da Gama",
-      "away": "Sport Club Internacional",
-      "league": "BR1",
-      "at": "19.11.2026 16:33",
-      "count": 3
     },
     {
       "home": "Vitoria Bahia",
