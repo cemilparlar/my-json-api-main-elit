@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 05:00",
+  "updatedAt": "19.11.2026 05:17",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 91,
+      "won": 88,
       "lost": 53,
-      "total": 144,
-      "rate": 63.2
+      "total": 141,
+      "rate": 62.4
     },
-    "totalAnalyses": 760348,
+    "totalAnalyses": 760358,
     "leagues": 282,
     "pro": {
       "won": 558,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2675,
-    "analyses30d": 16676
+    "analyses24h": 2676,
+    "analyses30d": 16677
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     },
     {
       "type": "analysis",
-      "count": 2675
+      "count": 2676
     }
   ],
   "today": {
@@ -380,6 +380,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Orlando City SC",
+      "away": "FC Cincinnati",
+      "league": "ABD",
+      "at": "19.11.2026 05:11",
+      "count": 1
+    },
+    {
       "home": "Juventus",
       "away": "Unione V.",
       "league": "İTA",
@@ -441,13 +448,6 @@
       "league": "TSL",
       "at": "18.11.2026 23:15",
       "count": 11
-    },
-    {
-      "home": "Bodrum FK",
-      "away": "Van Spor FK",
-      "league": "T1L",
-      "at": "18.11.2026 23:15",
-      "count": 3
     }
   ],
   "paywall": {
