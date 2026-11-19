@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "18.11.2026 23:58",
+  "updatedAt": "19.11.2026 00:06",
   "config": {
     "pages": [
       "engine",
@@ -22,18 +22,18 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 70,
-      "lost": 43,
+      "won": 69,
+      "lost": 44,
       "total": 113,
-      "rate": 61.9
+      "rate": 61.1
     },
     "totalAnalyses": 760215,
     "leagues": 282,
     "pro": {
       "won": 546,
-      "lost": 232,
-      "total": 778,
-      "rate": 70.2
+      "lost": 231,
+      "total": 777,
+      "rate": 70.3
     },
     "insights": {
       "won": 943,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2666,
-    "analyses30d": 16667
+    "analyses24h": 2665,
+    "analyses30d": 16664
   },
   "recentWins": [
     {
@@ -337,41 +337,29 @@
     }
   ],
   "today": {
-    "home": "Gremio FBPA",
-    "away": "EC Bahia",
-    "league": "BR1",
-    "date": "19.11.2026 00:30",
-    "matchCode": "4423375",
-    "odds": 1.18,
-    "patternScore": 69.46,
-    "patternText": "192.819/277.610",
-    "aiScore": 80,
-    "picks": 2
+    "home": "Pkr Svay Rieng",
+    "away": "Port FC",
+    "league": "AFCAKŞ",
+    "date": "19.11.2026 12:00",
+    "matchCode": "4478182",
+    "odds": 1.12,
+    "patternScore": 70.51,
+    "patternText": "255.456/362.280",
+    "aiScore": 87,
+    "picks": 1
   },
   "todayList": [
     {
-      "home": "Gremio FBPA",
-      "away": "EC Bahia",
-      "league": "BR1",
-      "date": "19.11.2026 00:30",
-      "matchCode": "4423375",
-      "odds": 1.18,
-      "patternScore": 69.46,
-      "patternText": "192.819/277.610",
-      "aiScore": 80,
-      "picks": 2
-    },
-    {
-      "home": "SC Corinthians",
-      "away": "Botafogo de Futebol e Regatas",
-      "league": "BR1",
-      "date": "19.11.2026 00:30",
-      "matchCode": "4423372",
-      "odds": 1.13,
-      "patternScore": 71.48,
-      "patternText": "156.108/218.405",
-      "aiScore": 94,
-      "picks": 2
+      "home": "Pkr Svay Rieng",
+      "away": "Port FC",
+      "league": "AFCAKŞ",
+      "date": "19.11.2026 12:00",
+      "matchCode": "4478182",
+      "odds": 1.12,
+      "patternScore": 70.51,
+      "patternText": "255.456/362.280",
+      "aiScore": 87,
+      "picks": 1
     },
     {
       "home": "Omiya Ardija Women",
@@ -381,7 +369,7 @@
       "matchCode": "4488320",
       "odds": 1.11,
       "patternScore": 70.88,
-      "patternText": "295.861/417.411",
+      "patternText": "295.861/417.425",
       "aiScore": 96,
       "picks": 1
     },
@@ -393,7 +381,7 @@
       "matchCode": "4573670",
       "odds": 1.1,
       "patternScore": 71.01,
-      "patternText": "96.294/135.604",
+      "patternText": "96.294/135.610",
       "aiScore": 97,
       "picks": 3
     },
@@ -405,7 +393,19 @@
       "matchCode": "4540932",
       "odds": 1.23,
       "patternScore": 69.48,
-      "patternText": "214.399/308.569",
+      "patternText": "214.399/308.575",
+      "aiScore": 71,
+      "picks": 2
+    },
+    {
+      "home": "La Viena Fc",
+      "away": "El Saka El Hadi",
+      "league": "MSR2",
+      "date": "19.11.2026 12:30",
+      "matchCode": "4538116",
+      "odds": 1.21,
+      "patternScore": 69.92,
+      "patternText": "133.720/191.234",
       "aiScore": 71,
       "picks": 2
     }
