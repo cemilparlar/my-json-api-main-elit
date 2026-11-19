@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 05:56",
+  "updatedAt": "19.11.2026 06:04",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 141,
       "rate": 62.4
     },
-    "totalAnalyses": 760398,
+    "totalAnalyses": 760410,
     "leagues": 283,
     "pro": {
-      "won": 558,
+      "won": 557,
       "lost": 236,
-      "total": 794,
-      "rate": 70.3
+      "total": 793,
+      "rate": 70.2
     },
     "insights": {
-      "won": 965,
+      "won": 964,
       "lost": 415,
-      "total": 1380,
+      "total": 1379,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2693,
-    "analyses30d": 16694
+    "analyses24h": 2692,
+    "analyses30d": 16693
   },
   "recentWins": [
     {
@@ -300,14 +300,26 @@
       "away": "INAC Kobe Leonessa"
     },
     {
+      "type": "updated",
+      "at": "19.11.2026 06:03",
+      "home": "Pkr Svay Rieng",
+      "away": "Port FC"
+    },
+    {
       "type": "kickoff",
       "home": "Queensland Lions",
       "away": "Wollongong Wolves",
       "at": "19.11.2026 08:30"
     },
     {
+      "type": "kickoff",
+      "home": "Omiya Ardija Women",
+      "away": "INAC Kobe Leonessa",
+      "at": "19.11.2026 09:00"
+    },
+    {
       "type": "analysis",
-      "count": 2693
+      "count": 2692
     }
   ],
   "today": {
@@ -336,6 +348,18 @@
       "picks": 2
     },
     {
+      "home": "Pkr Svay Rieng",
+      "away": "Port FC",
+      "league": "AFCAKŞ",
+      "date": "19.11.2026 12:00",
+      "matchCode": "4478182",
+      "odds": 1.12,
+      "patternScore": 70.51,
+      "patternText": "255.558/362.434",
+      "aiScore": 87,
+      "picks": 1
+    },
+    {
       "home": "Omiya Ardija Women",
       "away": "INAC Kobe Leonessa",
       "league": "JWEL",
@@ -356,7 +380,7 @@
       "odds": 1.23,
       "patternScore": 69.48,
       "patternText": "214.513/308.741",
-      "aiScore": 71,
+      "aiScore": 72,
       "picks": 2
     },
     {
@@ -370,18 +394,6 @@
       "patternText": "133.810/191.376",
       "aiScore": 71,
       "picks": 2
-    },
-    {
-      "home": "Al Daklyeh",
-      "away": "Ismaily SC",
-      "league": "MSR2",
-      "date": "19.11.2026 12:30",
-      "matchCode": "4538117",
-      "odds": 1.21,
-      "patternScore": 70.01,
-      "patternText": "255.483/364.916",
-      "aiScore": 66,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
