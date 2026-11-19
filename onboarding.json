@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 18:36",
+  "updatedAt": "19.11.2026 18:44",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 137,
       "rate": 58.4
     },
-    "totalAnalyses": 765350,
+    "totalAnalyses": 765377,
     "leagues": 287,
     "pro": {
       "won": 559,
@@ -313,9 +313,15 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 18:19",
+      "at": "19.11.2026 18:42",
       "home": "Club de Regatas Vasco da Gama",
       "away": "Sport Club Internacional"
+    },
+    {
+      "type": "updated",
+      "at": "19.11.2026 18:42",
+      "home": "Sao Paulo FC",
+      "away": "Fluminense FC"
     },
     {
       "type": "updated",
@@ -328,12 +334,6 @@
       "at": "19.11.2026 16:14",
       "home": "MC Alger",
       "away": "Olympique Akbou"
-    },
-    {
-      "type": "updated",
-      "at": "19.11.2026 13:13",
-      "home": "JS Kabylie",
-      "away": "USM Alger"
     }
   ],
   "today": {
@@ -415,7 +415,14 @@
       "home": "Club de Regatas Vasco da Gama",
       "away": "Sport Club Internacional",
       "league": "BR1",
-      "at": "19.11.2026 18:19",
+      "at": "19.11.2026 18:42",
+      "count": 6
+    },
+    {
+      "home": "Sao Paulo FC",
+      "away": "Fluminense FC",
+      "league": "BR1",
+      "at": "19.11.2026 18:42",
       "count": 5
     },
     {
@@ -473,13 +480,6 @@
       "league": "BR1",
       "at": "19.11.2026 06:07",
       "count": 15
-    },
-    {
-      "home": "EC Bahia",
-      "away": "Coritiba FBC",
-      "league": "BR1",
-      "at": "19.11.2026 06:07",
-      "count": 2
     }
   ],
   "paywall": {
