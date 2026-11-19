@@ -597,7 +597,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "20.11.2026 17:00",
@@ -12687,7 +12687,7 @@
             "e": 85,
             "b": 88.89
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "19.11.2026 13:00",
@@ -19677,7 +19677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "21.11.2026 16:30",
@@ -21927,7 +21927,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "21.11.2026 18:00",
@@ -31467,7 +31467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "22.11.2026 16:00",
@@ -44547,7 +44547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "20.11.2026 00:30",
@@ -44608,66 +44608,6 @@
             "b": 100.0
         },
         "aiScore": 75
-    },
-    {
-        "date": "20.11.2026 00:45",
-        "league": "KOLB",
-        "matchCode": "4581022",
-        "home": "Real Cundinama",
-        "away": "Quindio",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance X2",
-        "ihtimal": "78.26",
-        "odds": "1.12",
-        "matchCount": "23",
-        "matchLink": "4581022",
-        "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "5/26",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 22:47",
-        "patternScore": 68.91,
-        "patternText": "225.770/327.652",
-        "patternInfo": {
-            "m": 46,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 80
-    },
-    {
-        "date": "20.11.2026 00:45",
-        "league": "KOLB",
-        "matchCode": "4581022",
-        "home": "Real Cundinama",
-        "away": "Quindio",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "73.91",
-        "odds": "1.15",
-        "matchCount": "23",
-        "matchLink": "4581022",
-        "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "5/26",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 22:47",
-        "patternScore": 69.59,
-        "patternText": "240.226/345.206",
-        "patternInfo": {
-            "m": 46,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 73
     },
     {
         "date": "20.11.2026 18:00",
@@ -45178,5 +45118,65 @@
             "b": 100.0
         },
         "aiScore": 58
+    },
+    {
+        "date": "20.11.2026 00:45",
+        "league": "KOLB",
+        "matchCode": "4581022",
+        "home": "Real Cundinama",
+        "away": "Quindio",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "80.77",
+        "odds": "1.11",
+        "matchCount": "26",
+        "matchLink": "4581022",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "5/26",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 22:47",
+        "patternScore": 70.05,
+        "patternText": "135.644/193.648",
+        "patternInfo": {
+            "m": 41,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 83
+    },
+    {
+        "date": "20.11.2026 00:45",
+        "league": "KOLB",
+        "matchCode": "4581022",
+        "home": "Real Cundinama",
+        "away": "Quindio",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:1) 2",
+        "ihtimal": "80.76923076923077",
+        "odds": "1.23",
+        "matchCount": "26",
+        "matchLink": "4581022",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "5/26",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 22:47",
+        "patternScore": 69.19,
+        "patternText": "117.504/169.824",
+        "patternInfo": {
+            "m": 38,
+            "s": 2,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 67
     }
 ]
