@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 19:40",
+  "updatedAt": "19.11.2026 19:51",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 72,
-      "lost": 54,
+      "won": 75,
+      "lost": 51,
       "total": 126,
-      "rate": 57.1
+      "rate": 59.5
     },
-    "totalAnalyses": 765492,
+    "totalAnalyses": 765496,
     "leagues": 286,
     "pro": {
-      "won": 558,
-      "lost": 239,
-      "total": 797,
-      "rate": 70.0
+      "won": 535,
+      "lost": 214,
+      "total": 749,
+      "rate": 71.4
     },
     "insights": {
-      "won": 959,
-      "lost": 426,
-      "total": 1385,
-      "rate": 69.2
+      "won": 938,
+      "lost": 401,
+      "total": 1339,
+      "rate": 70.1
     },
     "coupons": {
       "won": 0,
@@ -47,7 +47,7 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3037,
+    "analyses24h": 3032,
     "analyses30d": 16867
   },
   "recentWins": [
@@ -307,12 +307,6 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 13:47",
-      "home": "FC Dobrudzha",
-      "away": "Fratria"
-    },
-    {
-      "type": "updated",
       "at": "19.11.2026 18:42",
       "home": "Club de Regatas Vasco da Gama",
       "away": "Sport Club Internacional"
@@ -334,6 +328,12 @@
       "at": "19.11.2026 16:14",
       "home": "MC Alger",
       "away": "Olympique Akbou"
+    },
+    {
+      "type": "updated",
+      "at": "19.11.2026 17:04",
+      "home": "Paris Women",
+      "away": "Koge Women"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4423370",
     "odds": 1.33,
     "patternScore": 67.59,
-    "patternText": "216.036/319.621",
+    "patternText": "216.042/319.627",
     "aiScore": 60,
     "picks": 3
   },
@@ -357,7 +357,7 @@
       "matchCode": "4423370",
       "odds": 1.33,
       "patternScore": 67.59,
-      "patternText": "216.036/319.621",
+      "patternText": "216.042/319.627",
       "aiScore": 60,
       "picks": 3
     },
@@ -369,7 +369,7 @@
       "matchCode": "4581009",
       "odds": 1.22,
       "patternScore": 68.31,
-      "patternText": "186.767/273.421",
+      "patternText": "186.773/273.427",
       "aiScore": 61,
       "picks": 1
     },
@@ -381,7 +381,7 @@
       "matchCode": "4580866",
       "odds": 1.21,
       "patternScore": 68.53,
-      "patternText": "203.260/296.620",
+      "patternText": "203.270/296.630",
       "aiScore": 65,
       "picks": 1
     },
@@ -393,7 +393,7 @@
       "matchCode": "4423377",
       "odds": 1.21,
       "patternScore": 68.57,
-      "patternText": "230.170/335.685",
+      "patternText": "230.176/335.691",
       "aiScore": 74,
       "picks": 3
     },
