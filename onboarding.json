@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 23:14",
+  "updatedAt": "19.11.2026 23:21",
   "config": {
     "pages": [
       "engine",
@@ -289,12 +289,6 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 17:20",
-      "home": "FC Fredericia",
-      "away": "FC Hillerod"
-    },
-    {
-      "type": "updated",
       "at": "19.11.2026 18:42",
       "home": "Club de Regatas Vasco da Gama",
       "away": "Sport Club Internacional"
@@ -334,33 +328,27 @@
       "at": "19.11.2026 17:59",
       "home": "Ferro Carril O",
       "away": "River Plate Women"
+    },
+    {
+      "type": "kickoff",
+      "home": "Orlando City SC",
+      "away": "FC Cincinnati",
+      "at": "20.11.2026 00:30"
     }
   ],
   "today": {
-    "home": "Seattle Sounders",
-    "away": "Salt Lake",
-    "league": "ABD",
-    "date": "20.11.2026 03:00",
-    "matchCode": "4579806",
-    "odds": 1.41,
-    "patternScore": 67.89,
-    "patternText": "193.606/285.173",
-    "aiScore": 54,
-    "picks": 7
+    "home": "Real Cundinama",
+    "away": "Quindio",
+    "league": "KOLB",
+    "date": "20.11.2026 00:45",
+    "matchCode": "4581022",
+    "odds": 1.23,
+    "patternScore": 69.19,
+    "patternText": "117.504/169.824",
+    "aiScore": 67,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Seattle Sounders",
-      "away": "Salt Lake",
-      "league": "ABD",
-      "date": "20.11.2026 03:00",
-      "matchCode": "4579806",
-      "odds": 1.41,
-      "patternScore": 67.89,
-      "patternText": "193.606/285.173",
-      "aiScore": 54,
-      "picks": 7
-    },
     {
       "home": "Real Cundinama",
       "away": "Quindio",
@@ -384,6 +372,18 @@
       "patternText": "178.366/251.469",
       "aiScore": 81,
       "picks": 3
+    },
+    {
+      "home": "Seattle Sounders",
+      "away": "Salt Lake",
+      "league": "ABD",
+      "date": "20.11.2026 03:00",
+      "matchCode": "4579806",
+      "odds": 1.14,
+      "patternScore": 70.58,
+      "patternText": "123.318/174.715",
+      "aiScore": 89,
+      "picks": 1
     },
     {
       "home": "Kashima Antlers",
