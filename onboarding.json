@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 15:28",
+  "updatedAt": "19.11.2026 15:38",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 155,
       "rate": 59.4
     },
-    "totalAnalyses": 764719,
+    "totalAnalyses": 764750,
     "leagues": 286,
     "pro": {
       "won": 563,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2988,
-    "analyses30d": 16959
+    "analyses24h": 2994,
+    "analyses30d": 16965
   },
   "recentWins": [
     {
@@ -313,7 +313,7 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 10:52",
+      "at": "19.11.2026 15:30",
       "home": "MC Alger",
       "away": "Olympique Akbou"
     },
@@ -374,18 +374,6 @@
       "picks": 6
     },
     {
-      "home": "Gaz Al-Shamal",
-      "away": "Al Karkh",
-      "league": "IRAK",
-      "date": "19.11.2026 16:00",
-      "matchCode": "4540939",
-      "odds": 1.15,
-      "patternScore": 69.21,
-      "patternText": "219.620/317.328",
-      "aiScore": 74,
-      "picks": 2
-    },
-    {
       "home": "FC Fredericia",
       "away": "FC Hillerod",
       "league": "DAN1",
@@ -408,9 +396,35 @@
       "patternText": "226.175/326.141",
       "aiScore": 97,
       "picks": 1
+    },
+    {
+      "home": "Benfica Women",
+      "away": "AS Roma Women",
+      "league": "ŞMP-K",
+      "date": "19.11.2026 20:00",
+      "matchCode": "4560872",
+      "odds": 1.09,
+      "patternScore": 71.0,
+      "patternText": "260.806/367.316",
+      "aiScore": 94,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Arsenal Women",
+      "away": "Lyon Women",
+      "league": "ŞMP-K",
+      "at": "19.11.2026 15:31",
+      "count": 2
+    },
+    {
+      "home": "Paris Women",
+      "away": "Koge Women",
+      "league": "ŞMP-K",
+      "at": "19.11.2026 15:30",
+      "count": 3
+    },
     {
       "home": "Atletico Paranaense",
       "away": "Remo",
@@ -419,24 +433,10 @@
       "count": 9
     },
     {
-      "home": "Arsenal Women",
-      "away": "Lyon Women",
-      "league": "ŞMP-K",
-      "at": "19.11.2026 14:52",
-      "count": 2
-    },
-    {
       "home": "Benfica Women",
       "away": "AS Roma Women",
       "league": "ŞMP-K",
       "at": "19.11.2026 14:07",
-      "count": 3
-    },
-    {
-      "home": "Paris Women",
-      "away": "Koge Women",
-      "league": "ŞMP-K",
-      "at": "19.11.2026 13:13",
       "count": 3
     },
     {
