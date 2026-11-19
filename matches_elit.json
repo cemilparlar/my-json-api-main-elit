@@ -4677,7 +4677,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 90
     },
     {
         "date": "21.11.2026 13:00",
@@ -7047,7 +7047,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "21.11.2026 15:00",
@@ -8097,7 +8097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 62
     },
     {
         "date": "21.11.2026 01:00",
@@ -8487,7 +8487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "21.11.2026 05:00",
@@ -11457,7 +11457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "20.11.2026 19:30",
@@ -26067,7 +26067,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "21.11.2026 21:00",
@@ -26727,7 +26727,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 53
+        "aiScore": 52
     },
     {
         "date": "21.11.2026 23:00",
@@ -31647,7 +31647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 64
     },
     {
         "date": "22.11.2026 14:00",
@@ -36627,7 +36627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "23.11.2026 17:00",
@@ -38758,5 +38758,65 @@
             "b": 100.0
         },
         "aiScore": 77
+    },
+    {
+        "date": "19.11.2026 13:45",
+        "league": "IRAK",
+        "matchCode": "4541047",
+        "home": "Diyala FC",
+        "away": "Al Kahraba",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance X2",
+        "ihtimal": "76.92",
+        "odds": "1.15",
+        "matchCount": "91",
+        "matchLink": "4541047",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "15/91",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 68.93,
+        "patternText": "212.192/307.847",
+        "patternInfo": {
+            "m": 56,
+            "s": 2,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 67
+    },
+    {
+        "date": "19.11.2026 13:45",
+        "league": "IRAK",
+        "matchCode": "4541047",
+        "home": "Diyala FC",
+        "away": "Al Kahraba",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "81.32",
+        "odds": "1.07",
+        "matchCount": "91",
+        "matchLink": "4541047",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "15/91",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.57,
+        "patternText": "130.500/184.918",
+        "patternInfo": {
+            "m": 49,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 88
     }
 ]
