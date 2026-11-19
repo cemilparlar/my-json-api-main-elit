@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 21:24",
+  "updatedAt": "19.11.2026 21:32",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 86,
-      "lost": 48,
-      "total": 134,
+      "won": 88,
+      "lost": 49,
+      "total": 137,
       "rate": 64.2
     },
-    "totalAnalyses": 765572,
+    "totalAnalyses": 765593,
     "leagues": 286,
     "pro": {
-      "won": 539,
+      "won": 538,
       "lost": 215,
-      "total": 754,
-      "rate": 71.5
+      "total": 753,
+      "rate": 71.4
     },
     "insights": {
-      "won": 948,
+      "won": 946,
       "lost": 403,
-      "total": 1351,
-      "rate": 70.2
+      "total": 1349,
+      "rate": 70.1
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3042,
-    "analyses30d": 16884
+    "analyses24h": 3043,
+    "analyses30d": 16885
   },
   "recentWins": [
     {
@@ -313,6 +313,12 @@
     },
     {
       "type": "updated",
+      "at": "19.11.2026 21:31",
+      "home": "Vitoria Bahia",
+      "away": "Red Bull Bragantino"
+    },
+    {
+      "type": "updated",
       "at": "19.11.2026 18:42",
       "home": "Sao Paulo FC",
       "away": "Fluminense FC"
@@ -328,12 +334,6 @@
       "at": "19.11.2026 16:14",
       "home": "MC Alger",
       "away": "Olympique Akbou"
-    },
-    {
-      "type": "updated",
-      "at": "19.11.2026 17:04",
-      "home": "Paris Women",
-      "away": "Koge Women"
     }
   ],
   "today": {
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Vitoria Bahia",
+      "away": "Red Bull Bragantino",
+      "league": "BR1",
+      "at": "19.11.2026 21:31",
+      "count": 6
+    },
+    {
       "home": "Seattle Sounders",
       "away": "Salt Lake",
       "league": "ABD",
@@ -451,13 +458,6 @@
       "away": "Koge Women",
       "league": "ŞMP-K",
       "at": "19.11.2026 17:04",
-      "count": 5
-    },
-    {
-      "home": "Vitoria Bahia",
-      "away": "Red Bull Bragantino",
-      "league": "BR1",
-      "at": "19.11.2026 16:32",
       "count": 5
     },
     {
