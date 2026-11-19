@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 14:51",
+  "updatedAt": "19.11.2026 15:00",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 78,
-      "lost": 53,
-      "total": 131,
+      "won": 88,
+      "lost": 60,
+      "total": 148,
       "rate": 59.5
     },
-    "totalAnalyses": 764353,
+    "totalAnalyses": 764429,
     "leagues": 286,
     "pro": {
-      "won": 558,
-      "lost": 239,
-      "total": 797,
+      "won": 561,
+      "lost": 241,
+      "total": 802,
       "rate": 70.0
     },
     "insights": {
-      "won": 968,
-      "lost": 418,
-      "total": 1386,
-      "rate": 69.8
+      "won": 974,
+      "lost": 423,
+      "total": 1397,
+      "rate": 69.7
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2895,
-    "analyses30d": 16872
+    "analyses24h": 2922,
+    "analyses30d": 16897
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 14:07",
+      "at": "19.11.2026 14:52",
       "home": "Arsenal Women",
       "away": "Lyon Women"
     },
@@ -313,7 +313,7 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 10:31",
+      "at": "19.11.2026 14:51",
       "home": "Al Ahli",
       "away": "Al Shamal"
     },
@@ -374,18 +374,6 @@
       "picks": 2
     },
     {
-      "home": "Al Ahli",
-      "away": "Al Shamal",
-      "league": "KAT",
-      "date": "19.11.2026 15:30",
-      "matchCode": "4536753",
-      "odds": 1.15,
-      "patternScore": 69.31,
-      "patternText": "361.794/521.974",
-      "aiScore": 72,
-      "picks": 1
-    },
-    {
       "home": "FC Fredericia",
       "away": "FC Hillerod",
       "league": "DAN1",
@@ -408,6 +396,18 @@
       "patternText": "226.099/326.013",
       "aiScore": 97,
       "picks": 1
+    },
+    {
+      "home": "Arsenal Women",
+      "away": "Lyon Women",
+      "league": "ŞMP-K",
+      "date": "19.11.2026 20:00",
+      "matchCode": "4560871",
+      "odds": 1.11,
+      "patternScore": 69.89,
+      "patternText": "112.473/160.929",
+      "aiScore": 94,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
@@ -415,8 +415,8 @@
       "home": "Arsenal Women",
       "away": "Lyon Women",
       "league": "ŞMP-K",
-      "at": "19.11.2026 14:07",
-      "count": 3
+      "at": "19.11.2026 14:52",
+      "count": 2
     },
     {
       "home": "Benfica Women",
