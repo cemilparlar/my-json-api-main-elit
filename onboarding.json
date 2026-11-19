@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 12:09",
+  "updatedAt": "19.11.2026 12:17",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 127,
       "rate": 60.6
     },
-    "totalAnalyses": 763000,
+    "totalAnalyses": 763026,
     "leagues": 284,
     "pro": {
       "won": 555,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2832,
-    "analyses30d": 16822
+    "analyses24h": 2841,
+    "analyses30d": 16831
   },
   "recentWins": [
     {
@@ -319,6 +319,12 @@
     },
     {
       "type": "updated",
+      "at": "19.11.2026 12:09",
+      "home": "Paris Women",
+      "away": "Koge Women"
+    },
+    {
+      "type": "updated",
       "at": "19.11.2026 11:48",
       "home": "Baladiyyat",
       "away": "Haras El Hodood"
@@ -328,12 +334,6 @@
       "at": "19.11.2026 10:13",
       "home": "Al Mokawloon A",
       "away": "Al Qanah"
-    },
-    {
-      "type": "updated",
-      "at": "19.11.2026 11:47",
-      "home": "ND Beltinci",
-      "away": "NK Celje"
     }
   ],
   "today": {
@@ -415,8 +415,8 @@
       "home": "Paris Women",
       "away": "Koge Women",
       "league": "ŞMP-K",
-      "at": "19.11.2026 11:50",
-      "count": 1
+      "at": "19.11.2026 12:09",
+      "count": 2
     },
     {
       "home": "Chapecoense AF",
