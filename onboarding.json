@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 21:40",
+  "updatedAt": "19.11.2026 21:47",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 88,
+      "won": 93,
       "lost": 49,
-      "total": 137,
-      "rate": 64.2
+      "total": 142,
+      "rate": 65.5
     },
     "totalAnalyses": 765593,
     "leagues": 286,
     "pro": {
-      "won": 538,
+      "won": 541,
       "lost": 215,
-      "total": 753,
-      "rate": 71.4
+      "total": 756,
+      "rate": 71.6
     },
     "insights": {
-      "won": 946,
+      "won": 949,
       "lost": 403,
-      "total": 1349,
-      "rate": 70.1
+      "total": 1352,
+      "rate": 70.2
     },
     "coupons": {
       "won": 0,
@@ -94,20 +94,6 @@
       "pro": true
     },
     {
-      "home": "Wales",
-      "away": "Portugal",
-      "league": "AVUL",
-      "date": "17.11.2026 19:45",
-      "prediction": "1st Half Double Chance 1X",
-      "odds": 1.74,
-      "probability": 100.0,
-      "patternScore": 57.64,
-      "aiScore": 53,
-      "firstHalf": "2 - 2",
-      "finalScore": "2 - 3",
-      "pro": true
-    },
-    {
       "home": "Dinamo Minsk I",
       "away": "Bate Ii",
       "league": "BLR1",
@@ -119,6 +105,20 @@
       "aiScore": 53,
       "firstHalf": "2 - 0",
       "finalScore": "2 - 2",
+      "pro": true
+    },
+    {
+      "home": "Always Ready",
+      "away": "Real Potosi",
+      "league": "BOLPLK",
+      "date": "18.11.2026 23:30",
+      "prediction": "1st Half Result 1",
+      "odds": 1.63,
+      "probability": 72.73,
+      "patternScore": 67.83,
+      "aiScore": 52,
+      "firstHalf": "2 - 1",
+      "finalScore": "3 - 1",
       "pro": true
     }
   ],
@@ -281,11 +281,11 @@
     },
     {
       "type": "won",
-      "home": "Wales",
-      "away": "Portugal",
-      "prediction": "1st Half Double Chance 1X",
-      "odds": 1.74,
-      "at": "17.11.2026 19:45"
+      "home": "Dinamo Minsk I",
+      "away": "Bate Ii",
+      "prediction": "Over 3.5 Goals",
+      "odds": 1.65,
+      "at": "18.11.2026 14:00"
     },
     {
       "type": "updated",
