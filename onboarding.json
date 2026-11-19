@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 08:28",
+  "updatedAt": "19.11.2026 08:35",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 141,
       "rate": 62.4
     },
-    "totalAnalyses": 761444,
+    "totalAnalyses": 761449,
     "leagues": 283,
     "pro": {
-      "won": 557,
+      "won": 555,
       "lost": 236,
-      "total": 793,
+      "total": 791,
       "rate": 70.2
     },
     "insights": {
-      "won": 964,
+      "won": 962,
       "lost": 415,
-      "total": 1379,
+      "total": 1377,
       "rate": 69.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2760,
-    "analyses30d": 16755
+    "analyses24h": 2758,
+    "analyses30d": 16753
   },
   "recentWins": [
     {
@@ -295,15 +295,21 @@
     },
     {
       "type": "updated",
+      "at": "19.11.2026 08:24",
+      "home": "Omiya Ardija Women",
+      "away": "INAC Kobe Leonessa"
+    },
+    {
+      "type": "updated",
       "at": "19.11.2026 08:25",
       "home": "Pharco FC",
       "away": "El Harby"
     },
     {
       "type": "updated",
-      "at": "19.11.2026 08:25",
-      "home": "Al Daklyeh",
-      "away": "Ismaily SC"
+      "at": "19.11.2026 08:26",
+      "home": "La Viena Fc",
+      "away": "El Saka El Hadi"
     },
     {
       "type": "updated",
@@ -319,13 +325,13 @@
     },
     {
       "type": "kickoff",
-      "home": "Queensland Lions",
-      "away": "Wollongong Wolves",
-      "at": "19.11.2026 08:30"
+      "home": "Omiya Ardija Women",
+      "away": "INAC Kobe Leonessa",
+      "at": "19.11.2026 09:00"
     },
     {
       "type": "analysis",
-      "count": 2760
+      "count": 2758
     }
   ],
   "today": {
@@ -390,16 +396,16 @@
       "picks": 1
     },
     {
-      "home": "Diyala FC",
-      "away": "Al Kahraba",
-      "league": "IRAK",
-      "date": "19.11.2026 13:45",
-      "matchCode": "4541047",
-      "odds": 1.15,
-      "patternScore": 68.93,
-      "patternText": "212.192/307.847",
-      "aiScore": 72,
-      "picks": 2
+      "home": "La Viena Fc",
+      "away": "El Saka El Hadi",
+      "league": "MSR2",
+      "date": "19.11.2026 12:30",
+      "matchCode": "4538116",
+      "odds": 1.21,
+      "patternScore": 67.29,
+      "patternText": "213.434/317.208",
+      "aiScore": 62,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
