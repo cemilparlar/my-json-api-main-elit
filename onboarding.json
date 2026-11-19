@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 13:12",
+  "updatedAt": "19.11.2026 13:21",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 118,
       "rate": 59.3
     },
-    "totalAnalyses": 763454,
+    "totalAnalyses": 763629,
     "leagues": 285,
     "pro": {
       "won": 554,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2848,
-    "analyses30d": 16841
+    "analyses24h": 2855,
+    "analyses30d": 16848
   },
   "recentWins": [
     {
@@ -319,12 +319,6 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 12:09",
-      "home": "Paris Women",
-      "away": "Koge Women"
-    },
-    {
-      "type": "updated",
       "at": "19.11.2026 11:48",
       "home": "Baladiyyat",
       "away": "Haras El Hodood"
@@ -334,6 +328,12 @@
       "at": "19.11.2026 10:13",
       "home": "Al Mokawloon A",
       "away": "Al Qanah"
+    },
+    {
+      "type": "updated",
+      "at": "19.11.2026 11:47",
+      "home": "ND Beltinci",
+      "away": "NK Celje"
     }
   ],
   "today": {
@@ -374,18 +374,6 @@
       "picks": 2
     },
     {
-      "home": "Diyala FC",
-      "away": "Al Kahraba",
-      "league": "IRAK",
-      "date": "19.11.2026 13:45",
-      "matchCode": "4541047",
-      "odds": 1.19,
-      "patternScore": 69.94,
-      "patternText": "250.711/358.445",
-      "aiScore": 75,
-      "picks": 2
-    },
-    {
       "home": "Gaz Al-Shamal",
       "away": "Al Karkh",
       "league": "IRAK",
@@ -408,22 +396,34 @@
       "patternText": "361.672/521.802",
       "aiScore": 72,
       "picks": 1
+    },
+    {
+      "home": "FC Fredericia",
+      "away": "FC Hillerod",
+      "league": "DAN1",
+      "date": "19.11.2026 18:00",
+      "matchCode": "4476303",
+      "odds": 1.13,
+      "patternScore": 69.78,
+      "patternText": "129.090/184.995",
+      "aiScore": 93,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Paris Women",
+      "away": "Koge Women",
+      "league": "ŞMP-K",
+      "at": "19.11.2026 13:13",
+      "count": 3
+    },
     {
       "home": "Atletico Mineiro",
       "away": "Boca Juniors",
       "league": "CSA",
       "at": "19.11.2026 12:29",
       "count": 4
-    },
-    {
-      "home": "Paris Women",
-      "away": "Koge Women",
-      "league": "ŞMP-K",
-      "at": "19.11.2026 12:09",
-      "count": 2
     },
     {
       "home": "Chapecoense AF",
