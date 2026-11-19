@@ -38700,36 +38700,6 @@
         "aiScore": 75
     },
     {
-        "date": "19.11.2026 09:00",
-        "league": "JWEL",
-        "matchCode": "4488320",
-        "home": "Omiya Ardija Women",
-        "away": "INAC Kobe Leonessa",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "72.92",
-        "odds": "1.09",
-        "matchCount": "48",
-        "matchLink": "4488320",
-        "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "6/34",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 04:14",
-        "patternScore": 71.22,
-        "patternText": "251.973/353.787",
-        "patternInfo": {
-            "m": 53,
-            "s": 7,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 91
-    },
-    {
         "date": "19.11.2026 08:30",
         "league": "AVC",
         "matchCode": "4573670",
@@ -38788,5 +38758,35 @@
             "b": 100.0
         },
         "aiScore": 98
+    },
+    {
+        "date": "19.11.2026 09:00",
+        "league": "JWEL",
+        "matchCode": "4488320",
+        "home": "Omiya Ardija Women",
+        "away": "INAC Kobe Leonessa",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.47",
+        "odds": "1.10",
+        "matchCount": "34",
+        "matchLink": "4488320",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "6/34",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "19.11.2026 04:14",
+        "patternScore": 70.75,
+        "patternText": "242.143/342.229",
+        "patternInfo": {
+            "m": 50,
+            "s": 4,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 91
     }
 ]
