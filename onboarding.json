@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 02:00",
+  "updatedAt": "19.11.2026 02:21",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 138,
       "rate": 63.0
     },
-    "totalAnalyses": 760292,
+    "totalAnalyses": 760314,
     "leagues": 282,
     "pro": {
       "won": 555,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2661,
-    "analyses30d": 16656
+    "analyses24h": 2683,
+    "analyses30d": 16677
   },
   "recentWins": [
     {
@@ -313,7 +313,7 @@
     },
     {
       "type": "analysis",
-      "count": 2661
+      "count": 2683
     }
   ],
   "today": {
@@ -392,6 +392,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Juventus",
+      "away": "Unione V.",
+      "league": "İTA",
+      "at": "19.11.2026 02:17",
+      "count": 9
+    },
+    {
+      "home": "Parma Calcio",
+      "away": "AS Roma",
+      "league": "İTA",
+      "at": "19.11.2026 02:15",
+      "count": 13
+    },
+    {
       "home": "Levante UD",
       "away": "Elche CF",
       "league": "İS1",
@@ -446,20 +460,6 @@
       "league": "T1L",
       "at": "18.11.2026 23:15",
       "count": 3
-    },
-    {
-      "home": "Getafe CF",
-      "away": "Atletico Madrid",
-      "league": "İS1",
-      "at": "18.11.2026 22:33",
-      "count": 1
-    },
-    {
-      "home": "Burgos CF",
-      "away": "Albacete Balompie",
-      "league": "İS2",
-      "at": "18.11.2026 22:33",
-      "count": 6
     }
   ],
   "paywall": {
