@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 15:48",
+  "updatedAt": "19.11.2026 15:57",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 92,
-      "lost": 63,
-      "total": 155,
-      "rate": 59.4
+      "won": 93,
+      "lost": 64,
+      "total": 157,
+      "rate": 59.2
     },
-    "totalAnalyses": 764831,
+    "totalAnalyses": 764916,
     "leagues": 286,
     "pro": {
-      "won": 563,
-      "lost": 243,
-      "total": 806,
-      "rate": 69.9
+      "won": 564,
+      "lost": 244,
+      "total": 808,
+      "rate": 69.8
     },
     "insights": {
-      "won": 978,
-      "lost": 426,
-      "total": 1404,
-      "rate": 69.7
+      "won": 979,
+      "lost": 427,
+      "total": 1406,
+      "rate": 69.6
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3013,
-    "analyses30d": 16984
+    "analyses24h": 3028,
+    "analyses30d": 16999
   },
   "recentWins": [
     {
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "St. Louis City SC",
+      "away": "Los Angeles FC",
+      "league": "ABD",
+      "at": "19.11.2026 15:57",
+      "count": 3
+    },
+    {
       "home": "Arsenal Women",
       "away": "Lyon Women",
       "league": "ŞMP-K",
@@ -473,13 +480,6 @@
       "league": "BR1",
       "at": "19.11.2026 05:49",
       "count": 1
-    },
-    {
-      "home": "Botafogo de Futebol e Regatas",
-      "away": "Sao Paulo FC",
-      "league": "BR1",
-      "at": "19.11.2026 05:49",
-      "count": 8
     }
   ],
   "paywall": {
