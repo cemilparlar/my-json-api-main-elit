@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 03:30",
+  "updatedAt": "19.11.2026 03:38",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2681,
-    "analyses30d": 16678
+    "analyses24h": 2679,
+    "analyses30d": 16676
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 03:13",
+      "at": "19.11.2026 03:35",
       "home": "Queensland Lions",
       "away": "Wollongong Wolves"
     },
@@ -325,7 +325,7 @@
     },
     {
       "type": "analysis",
-      "count": 2681
+      "count": 2679
     }
   ],
   "today": {
@@ -366,6 +366,18 @@
       "picks": 1
     },
     {
+      "home": "Al Gharraf",
+      "away": "Al Jawiya",
+      "league": "IRAK",
+      "date": "19.11.2026 15:30",
+      "matchCode": "4540932",
+      "odds": 1.23,
+      "patternScore": 69.48,
+      "patternText": "214.513/308.741",
+      "aiScore": 72,
+      "picks": 2
+    },
+    {
       "home": "La Viena Fc",
       "away": "El Saka El Hadi",
       "league": "MSR2",
@@ -386,18 +398,6 @@
       "odds": 1.21,
       "patternScore": 70.01,
       "patternText": "255.483/364.916",
-      "aiScore": 66,
-      "picks": 1
-    },
-    {
-      "home": "Baladiyyat",
-      "away": "Haras El Hodood",
-      "league": "MSR2",
-      "date": "19.11.2026 12:30",
-      "matchCode": "4538118",
-      "odds": 1.21,
-      "patternScore": 69.06,
-      "patternText": "209.686/303.615",
       "aiScore": 66,
       "picks": 1
     }
