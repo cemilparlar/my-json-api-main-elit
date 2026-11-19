@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 05:48",
+  "updatedAt": "19.11.2026 05:56",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 141,
       "rate": 62.4
     },
-    "totalAnalyses": 760387,
+    "totalAnalyses": 760398,
     "leagues": 283,
     "pro": {
       "won": 558,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 2683,
-    "analyses30d": 16684
+    "analyses24h": 2693,
+    "analyses30d": 16694
   },
   "recentWins": [
     {
@@ -307,7 +307,7 @@
     },
     {
       "type": "analysis",
-      "count": 2683
+      "count": 2693
     }
   ],
   "today": {
@@ -356,7 +356,7 @@
       "odds": 1.23,
       "patternScore": 69.48,
       "patternText": "214.513/308.741",
-      "aiScore": 72,
+      "aiScore": 71,
       "picks": 2
     },
     {
@@ -385,6 +385,20 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Santos",
+      "away": "Gremio FBPA",
+      "league": "BR1",
+      "at": "19.11.2026 05:49",
+      "count": 1
+    },
+    {
+      "home": "Botafogo de Futebol e Regatas",
+      "away": "Sao Paulo FC",
+      "league": "BR1",
+      "at": "19.11.2026 05:49",
+      "count": 8
+    },
     {
       "home": "Orlando City SC",
       "away": "FC Cincinnati",
@@ -440,20 +454,6 @@
       "league": "FR2",
       "at": "18.11.2026 23:20",
       "count": 12
-    },
-    {
-      "home": "AD Ceuta",
-      "away": "UD Almeria",
-      "league": "İS2",
-      "at": "18.11.2026 23:20",
-      "count": 5
-    },
-    {
-      "home": "Istanbul Basaksehir",
-      "away": "Corum FK",
-      "league": "TSL",
-      "at": "18.11.2026 23:15",
-      "count": 11
     }
   ],
   "paywall": {
