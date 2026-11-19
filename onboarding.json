@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "19.11.2026 02:29",
+  "updatedAt": "19.11.2026 02:36",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 87,
-      "lost": 51,
-      "total": 138,
-      "rate": 63.0
+      "won": 93,
+      "lost": 55,
+      "total": 148,
+      "rate": 62.8
     },
     "totalAnalyses": 760314,
     "leagues": 282,
     "pro": {
-      "won": 555,
+      "won": 558,
       "lost": 236,
-      "total": 791,
-      "rate": 70.2
+      "total": 794,
+      "rate": 70.3
     },
     "insights": {
-      "won": 959,
-      "lost": 411,
-      "total": 1370,
-      "rate": 70.0
+      "won": 965,
+      "lost": 415,
+      "total": 1380,
+      "rate": 69.9
     },
     "coupons": {
       "won": 0,
@@ -317,18 +317,30 @@
     }
   ],
   "today": {
-    "home": "La Viena Fc",
-    "away": "El Saka El Hadi",
-    "league": "MSR2",
-    "date": "19.11.2026 12:30",
-    "matchCode": "4538116",
-    "odds": 1.21,
-    "patternScore": 69.92,
-    "patternText": "133.778/191.320",
-    "aiScore": 71,
-    "picks": 2
+    "home": "Queensland Lions",
+    "away": "Wollongong Wolves",
+    "league": "AVC",
+    "date": "19.11.2026 08:30",
+    "matchCode": "4573670",
+    "odds": 1.1,
+    "patternScore": 71.01,
+    "patternText": "96.360/135.704",
+    "aiScore": 97,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Queensland Lions",
+      "away": "Wollongong Wolves",
+      "league": "AVC",
+      "date": "19.11.2026 08:30",
+      "matchCode": "4573670",
+      "odds": 1.1,
+      "patternScore": 71.01,
+      "patternText": "96.360/135.704",
+      "aiScore": 97,
+      "picks": 3
+    },
     {
       "home": "La Viena Fc",
       "away": "El Saka El Hadi",
@@ -375,18 +387,6 @@
       "patternScore": 69.48,
       "patternText": "213.856/307.792",
       "aiScore": 80,
-      "picks": 1
-    },
-    {
-      "home": "Pkr Svay Rieng",
-      "away": "Port FC",
-      "league": "AFCAKŞ",
-      "date": "19.11.2026 12:00",
-      "matchCode": "4478182",
-      "odds": 1.12,
-      "patternScore": 70.51,
-      "patternText": "255.534/362.390",
-      "aiScore": 87,
       "picks": 1
     }
   ],
