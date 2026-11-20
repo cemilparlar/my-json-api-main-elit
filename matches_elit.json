@@ -2157,7 +2157,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "21.11.2026 13:00",
@@ -8397,7 +8397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "21.11.2026 13:45",
@@ -8577,7 +8577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 83
+        "aiScore": 84
     },
     {
         "date": "21.11.2026 14:00",
@@ -9523,11 +9523,11 @@
         "matchCount": "12",
         "matchLink": "4476497",
         "status": "Pending",
-        "predictedScore": "1-0",
-        "predictedScoreText": "3/12",
+        "predictedScore": null,
+        "predictedScoreText": null,
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "20.11.2026 21:31",
         "patternScore": 71.21,
         "patternText": "265.909/373.410",
         "patternInfo": {
@@ -14487,7 +14487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "21.11.2026 16:30",
@@ -14907,7 +14907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "21.11.2026 16:30",
@@ -15417,7 +15417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "21.11.2026 17:00",
@@ -17397,7 +17397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "21.11.2026 19:30",
@@ -34440,66 +34440,6 @@
         "aiScore": 51
     },
     {
-        "date": "19.11.2026 15:30",
-        "league": "IRAK",
-        "matchCode": "4540932",
-        "home": "Al Gharraf",
-        "away": "Al Jawiya",
-        "firstHalf": "2 - 1",
-        "finalScore": "2 - 3",
-        "prediction": "Double Chance X2",
-        "ihtimal": "100.0",
-        "odds": "1.06",
-        "matchCount": "2",
-        "matchLink": "4540932",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 13:48",
-        "patternScore": 58.47,
-        "patternText": "231.745/396.379",
-        "patternInfo": {
-            "m": 59,
-            "s": 4,
-            "f": 0,
-            "e": 85,
-            "b": 91.67
-        },
-        "aiScore": 89
-    },
-    {
-        "date": "19.11.2026 15:30",
-        "league": "IRAK",
-        "matchCode": "4540932",
-        "home": "Al Gharraf",
-        "away": "Al Jawiya",
-        "firstHalf": "2 - 1",
-        "finalScore": "2 - 3",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "100.0",
-        "odds": "1.21",
-        "matchCount": "2",
-        "matchLink": "4540932",
-        "status": "Won",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 13:48",
-        "patternScore": 58.14,
-        "patternText": "225.540/387.940",
-        "patternInfo": {
-            "m": 59,
-            "s": 1,
-            "f": 0,
-            "e": 85,
-            "b": 90.0
-        },
-        "aiScore": 61
-    },
-    {
         "date": "23.11.2026 01:30",
         "league": "HON",
         "matchCode": "4574416",
@@ -34738,66 +34678,6 @@
             "b": 100.0
         },
         "aiScore": 75
-    },
-    {
-        "date": "19.11.2026 15:30",
-        "league": "KAT",
-        "matchCode": "4536753",
-        "home": "Al Ahli",
-        "away": "Al Shamal",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "74.51",
-        "odds": "1.14",
-        "matchCount": "51",
-        "matchLink": "4536753",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "7/51",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 14:51",
-        "patternScore": 68.94,
-        "patternText": "201.164/291.803",
-        "patternInfo": {
-            "m": 58,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 77
-    },
-    {
-        "date": "19.11.2026 15:30",
-        "league": "KAT",
-        "matchCode": "4536753",
-        "home": "Al Ahli",
-        "away": "Al Shamal",
-        "firstHalf": "0 - 0",
-        "finalScore": "1 - 1",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "80.39",
-        "odds": "1.28",
-        "matchCount": "51",
-        "matchLink": "4536753",
-        "status": "Won",
-        "predictedScore": "1-2",
-        "predictedScoreText": "7/51",
-        "mbs": 2,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "19.11.2026 14:51",
-        "patternScore": 69.9,
-        "patternText": "126.727/181.296",
-        "patternInfo": {
-            "m": 49,
-            "s": 5,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 76
     },
     {
         "date": "19.11.2026 17:00",
@@ -35487,7 +35367,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 75
     },
     {
         "date": "22.11.2026 16:00",
@@ -36027,7 +35907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "23.11.2026 14:00",
@@ -39087,7 +38967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "22.11.2026 22:30",
@@ -40347,7 +40227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "20.11.2026 14:00",
@@ -40707,7 +40587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "20.11.2026 11:30",
@@ -43242,7 +43122,7 @@
         "odds": "1.08",
         "matchCount": "50",
         "matchLink": "4540482",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "1-0",
         "predictedScoreText": "4/50",
         "mbs": 3,
@@ -47217,7 +47097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "20.11.2026 17:00",
@@ -47727,7 +47607,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "20.11.2026 18:00",
@@ -49214,10 +49094,10 @@
         "matchLink": "4436016",
         "status": "Pending",
         "predictedScore": "1-1",
-        "predictedScoreText": "41/285",
+        "predictedScoreText": "49/360",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "20.11.2026 20:46",
+        "tahminUpdatedAt": "20.11.2026 21:29",
         "patternScore": 70.19,
         "patternText": "338.003/481.526",
         "patternInfo": {
@@ -49244,10 +49124,10 @@
         "matchLink": "4436016",
         "status": "Pending",
         "predictedScore": "1-1",
-        "predictedScoreText": "41/285",
+        "predictedScoreText": "49/360",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "20.11.2026 20:46",
+        "tahminUpdatedAt": "20.11.2026 21:29",
         "patternScore": 70.44,
         "patternText": "187.306/265.893",
         "patternInfo": {
@@ -49333,11 +49213,11 @@
         "matchCount": "7",
         "matchLink": "4476496",
         "status": "Pending",
-        "predictedScore": "4-0",
-        "predictedScoreText": "2/7",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/12",
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "20.11.2026 21:30",
         "patternScore": 69.47,
         "patternText": "377.039/542.707",
         "patternInfo": {
@@ -49363,11 +49243,11 @@
         "matchCount": "7",
         "matchLink": "4476496",
         "status": "Pending",
-        "predictedScore": "4-0",
-        "predictedScoreText": "2/7",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/12",
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "20.11.2026 21:30",
         "patternScore": 67.99,
         "patternText": "285.940/420.536",
         "patternInfo": {
@@ -49393,11 +49273,11 @@
         "matchCount": "7",
         "matchLink": "4476496",
         "status": "Pending",
-        "predictedScore": "4-0",
-        "predictedScoreText": "2/7",
+        "predictedScore": "1-1",
+        "predictedScoreText": "3/12",
         "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "20.11.2026 21:30",
         "patternScore": 68.18,
         "patternText": "208.284/305.494",
         "patternInfo": {
