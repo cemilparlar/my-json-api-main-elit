@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 07:26",
+  "updatedAt": "20.11.2026 07:34",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 143,
       "rate": 71.3
     },
-    "totalAnalyses": 766060,
+    "totalAnalyses": 766099,
     "leagues": 287,
     "pro": {
       "won": 551,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3078,
-    "analyses30d": 16911
+    "analyses24h": 3075,
+    "analyses30d": 16908
   },
   "recentWins": [
     {
@@ -362,6 +362,18 @@
       "picks": 2
     },
     {
+      "home": "Black Bulls Ma",
+      "away": "Ferroviario Map",
+      "league": "MOZ",
+      "date": "20.11.2026 13:00",
+      "matchCode": "4579967",
+      "odds": 1.43,
+      "patternScore": 67.72,
+      "patternText": "233.084/344.172",
+      "aiScore": 57,
+      "picks": 2
+    },
+    {
       "home": "Albirex Niigata",
       "away": "Balestier Khalsa",
       "league": "SİNP",
@@ -370,7 +382,7 @@
       "odds": 1.41,
       "patternScore": 68.24,
       "patternText": "203.369/298.041",
-      "aiScore": 56,
+      "aiScore": 57,
       "picks": 2
     },
     {
@@ -396,18 +408,6 @@
       "patternText": "216.387/317.212",
       "aiScore": 60,
       "picks": 3
-    },
-    {
-      "home": "East Bengal FC",
-      "away": "Sporting Delhi",
-      "league": "HİNSL",
-      "date": "20.11.2026 11:30",
-      "matchCode": "4572347",
-      "odds": 1.27,
-      "patternScore": 68.1,
-      "patternText": "134.408/197.365",
-      "aiScore": 59,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
