@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 13:42",
+  "updatedAt": "20.11.2026 13:51",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 105,
+      "won": 108,
       "lost": 51,
-      "total": 156,
-      "rate": 67.3
+      "total": 159,
+      "rate": 67.9
     },
-    "totalAnalyses": 766998,
+    "totalAnalyses": 767048,
     "leagues": 290,
     "pro": {
-      "won": 574,
+      "won": 576,
       "lost": 228,
-      "total": 802,
+      "total": 804,
       "rate": 71.6
     },
     "insights": {
-      "won": 991,
-      "lost": 419,
-      "total": 1410,
+      "won": 994,
+      "lost": 420,
+      "total": 1414,
       "rate": 70.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3200,
-    "analyses30d": 17045
+    "analyses24h": 3231,
+    "analyses30d": 17078
   },
   "recentWins": [
     {
@@ -295,9 +295,15 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 11:13",
+      "at": "20.11.2026 13:43",
       "home": "Igdir FK",
       "away": "Umraniyespor"
+    },
+    {
+      "type": "updated",
+      "at": "20.11.2026 13:47",
+      "home": "FC Andorra",
+      "away": "CD Leganes"
     },
     {
       "type": "updated",
@@ -328,12 +334,6 @@
       "at": "20.11.2026 13:26",
       "home": "FC Metz",
       "away": "Boulogne"
-    },
-    {
-      "type": "updated",
-      "at": "20.11.2026 13:11",
-      "home": "Red Star FC",
-      "away": "Pau FC"
     }
   ],
   "today": {
@@ -412,6 +412,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Verona",
+      "away": "Cesena FC",
+      "league": "İTB",
+      "at": "20.11.2026 13:48",
+      "count": 7
+    },
+    {
+      "home": "FC Andorra",
+      "away": "CD Leganes",
+      "league": "İS2",
+      "at": "20.11.2026 13:47",
+      "count": 7
+    },
+    {
+      "home": "Igdir FK",
+      "away": "Umraniyespor",
+      "league": "T1L",
+      "at": "20.11.2026 13:43",
+      "count": 2
+    },
+    {
       "home": "FC Metz",
       "away": "Boulogne",
       "league": "FR2",
@@ -459,27 +480,6 @@
       "league": "AL2",
       "at": "20.11.2026 11:55",
       "count": 5
-    },
-    {
-      "home": "FC Rostov",
-      "away": "Krylya Sovietov",
-      "league": "RUS",
-      "at": "20.11.2026 11:50",
-      "count": 7
-    },
-    {
-      "home": "Igdir FK",
-      "away": "Umraniyespor",
-      "league": "T1L",
-      "at": "20.11.2026 11:13",
-      "count": 4
-    },
-    {
-      "home": "FC Barcelona",
-      "away": "Villarreal CF",
-      "league": "İS1",
-      "at": "20.11.2026 07:43",
-      "count": 12
     }
   ],
   "paywall": {
