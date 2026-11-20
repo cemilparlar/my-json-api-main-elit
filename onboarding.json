@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 19:39",
+  "updatedAt": "20.11.2026 19:48",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 246,
+      "won": 241,
       "lost": 80,
-      "total": 326,
-      "rate": 75.5
+      "total": 321,
+      "rate": 75.1
     },
-    "totalAnalyses": 768011,
+    "totalAnalyses": 768020,
     "leagues": 290,
     "pro": {
-      "won": 613,
-      "lost": 236,
-      "total": 849,
-      "rate": 72.2
+      "won": 599,
+      "lost": 227,
+      "total": 826,
+      "rate": 72.5
     },
     "insights": {
-      "won": 1058,
-      "lost": 427,
-      "total": 1485,
-      "rate": 71.2
+      "won": 1029,
+      "lost": 414,
+      "total": 1443,
+      "rate": 71.3
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3299,
-    "analyses30d": 16955
+    "analyses24h": 3295,
+    "analyses30d": 16956
   },
   "recentWins": [
     {
@@ -307,12 +307,6 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 13:43",
-      "home": "Igdir FK",
-      "away": "Umraniyespor"
-    },
-    {
-      "type": "updated",
       "at": "20.11.2026 15:41",
       "home": "CD Teruel",
       "away": "Hercules CF"
@@ -334,6 +328,12 @@
       "at": "20.11.2026 19:22",
       "home": "Athletic Bilbao",
       "away": "RCD Espanyol"
+    },
+    {
+      "type": "updated",
+      "at": "20.11.2026 19:22",
+      "home": "Barnsley",
+      "away": "Sheffield Wednesday"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4580867",
     "odds": 1.25,
     "patternScore": 68.85,
-    "patternText": "287.813/418.036",
+    "patternText": "287.819/418.046",
     "aiScore": 67,
     "picks": 4
   },
@@ -357,21 +357,9 @@
       "matchCode": "4580867",
       "odds": 1.25,
       "patternScore": 68.85,
-      "patternText": "287.813/418.036",
+      "patternText": "287.819/418.046",
       "aiScore": 67,
       "picks": 4
-    },
-    {
-      "home": "Real Madrid Castilla",
-      "away": "Murcia",
-      "league": "İS3",
-      "date": "20.11.2026 20:15",
-      "matchCode": "4493646",
-      "odds": 1.15,
-      "patternScore": 68.92,
-      "patternText": "224.738/326.089",
-      "aiScore": 77,
-      "picks": 3
     },
     {
       "home": "Club Puebla",
@@ -381,7 +369,7 @@
       "matchCode": "4476495",
       "odds": 1.15,
       "patternScore": 70.56,
-      "patternText": "251.305/356.173",
+      "patternText": "251.317/356.185",
       "aiScore": 95,
       "picks": 2
     },
@@ -393,7 +381,7 @@
       "matchCode": "4566894",
       "odds": 1.15,
       "patternScore": 69.6,
-      "patternText": "196.310/282.057",
+      "patternText": "196.318/282.065",
       "aiScore": 83,
       "picks": 1
     },
@@ -405,8 +393,20 @@
       "matchCode": "4533172",
       "odds": 1.13,
       "patternScore": 70.28,
-      "patternText": "340.704/484.802",
+      "patternText": "340.712/484.814",
       "aiScore": 78,
+      "picks": 1
+    },
+    {
+      "home": "Cobresal",
+      "away": "Audax Italiano",
+      "league": "ŞİL",
+      "date": "20.11.2026 21:00",
+      "matchCode": "4436013",
+      "odds": 1.12,
+      "patternScore": 69.67,
+      "patternText": "284.868/408.877",
+      "aiScore": 88,
       "picks": 1
     }
   ],
