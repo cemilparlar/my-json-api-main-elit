@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 19:48",
+  "updatedAt": "20.11.2026 19:56",
   "config": {
     "pages": [
       "engine",
@@ -362,6 +362,18 @@
       "picks": 4
     },
     {
+      "home": "Deportivo Cali",
+      "away": "Los Millionarios",
+      "league": "KOL",
+      "date": "21.11.2026 01:40",
+      "matchCode": "4580966",
+      "odds": 1.22,
+      "patternScore": 68.14,
+      "patternText": "256.921/377.053",
+      "aiScore": 64,
+      "picks": 3
+    },
+    {
       "home": "Club Puebla",
       "away": "Atletico San Luis",
       "league": "MEK",
@@ -395,18 +407,6 @@
       "patternScore": 70.28,
       "patternText": "340.712/484.814",
       "aiScore": 78,
-      "picks": 1
-    },
-    {
-      "home": "Cobresal",
-      "away": "Audax Italiano",
-      "league": "ŞİL",
-      "date": "20.11.2026 21:00",
-      "matchCode": "4436013",
-      "odds": 1.12,
-      "patternScore": 69.67,
-      "patternText": "284.868/408.877",
-      "aiScore": 88,
       "picks": 1
     }
   ],
