@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 03:44",
+  "updatedAt": "20.11.2026 03:52",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 126,
       "rate": 69.8
     },
-    "totalAnalyses": 765793,
+    "totalAnalyses": 765801,
     "leagues": 286,
     "pro": {
       "won": 547,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3012,
-    "analyses30d": 16847
+    "analyses24h": 3011,
+    "analyses30d": 16846
   },
   "recentWins": [
     {
@@ -319,22 +319,34 @@
     },
     {
       "type": "analysis",
-      "count": 3012
+      "count": 3011
     }
   ],
   "today": {
-    "home": "Pss Sleman",
-    "away": "Arema FC",
+    "home": "Garudayaksa",
+    "away": "Madura United",
     "league": "ENDL1",
     "date": "20.11.2026 08:30",
-    "matchCode": "4550400",
-    "odds": 1.1,
-    "patternScore": 70.16,
-    "patternText": "221.508/315.706",
-    "aiScore": 93,
-    "picks": 1
+    "matchCode": "4550399",
+    "odds": 1.12,
+    "patternScore": 70.5,
+    "patternText": "263.643/373.941",
+    "aiScore": 85,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Garudayaksa",
+      "away": "Madura United",
+      "league": "ENDL1",
+      "date": "20.11.2026 08:30",
+      "matchCode": "4550399",
+      "odds": 1.12,
+      "patternScore": 70.5,
+      "patternText": "263.643/373.941",
+      "aiScore": 85,
+      "picks": 2
+    },
     {
       "home": "Pss Sleman",
       "away": "Arema FC",
@@ -382,18 +394,6 @@
       "patternText": "230.729/342.886",
       "aiScore": 52,
       "picks": 5
-    },
-    {
-      "home": "Albirex Niigata",
-      "away": "Balestier Khalsa",
-      "league": "SİNP",
-      "date": "20.11.2026 11:30",
-      "matchCode": "4538573",
-      "odds": 1.41,
-      "patternScore": 68.23,
-      "patternText": "203.321/297.979",
-      "aiScore": 56,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [

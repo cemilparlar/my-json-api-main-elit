@@ -957,7 +957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "20.11.2026 20:00",
@@ -3567,7 +3567,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 98
     },
     {
         "date": "21.11.2026 13:00",
@@ -4737,7 +4737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "21.11.2026 14:00",
@@ -9027,7 +9027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "21.11.2026 14:00",
@@ -11637,7 +11637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 66
     },
     {
         "date": "21.11.2026 14:00",
@@ -18207,7 +18207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 92
     },
     {
         "date": "21.11.2026 16:00",
@@ -18567,7 +18567,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 89
     },
     {
         "date": "21.11.2026 16:15",
@@ -30537,7 +30537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "22.11.2026 15:45",
@@ -36987,7 +36987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 54
     },
     {
         "date": "22.11.2026 00:00",
@@ -41907,7 +41907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 52
+        "aiScore": 51
     },
     {
         "date": "21.11.2026 15:00",
@@ -42477,7 +42477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 63
     },
     {
         "date": "19.11.2026 19:45",
@@ -43647,7 +43647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 78
+        "aiScore": 77
     },
     {
         "date": "19.11.2026 22:30",
@@ -44638,5 +44638,65 @@
             "b": 100.0
         },
         "aiScore": 98
+    },
+    {
+        "date": "20.11.2026 08:30",
+        "league": "ENDL1",
+        "matchCode": "4550399",
+        "home": "Garudayaksa",
+        "away": "Madura United",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.84",
+        "odds": "1.12",
+        "matchCount": "176",
+        "matchLink": "4550399",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "21/176",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.5,
+        "patternText": "263.643/373.941",
+        "patternInfo": {
+            "m": 60,
+            "s": 4,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 78
+    },
+    {
+        "date": "20.11.2026 08:30",
+        "league": "ENDL1",
+        "matchCode": "4550399",
+        "home": "Garudayaksa",
+        "away": "Madura United",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "73.3",
+        "odds": "1.11",
+        "matchCount": "176",
+        "matchLink": "4550399",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "21/176",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 70.01,
+        "patternText": "218.245/311.745",
+        "patternInfo": {
+            "m": 52,
+            "s": 8,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 86
     }
 ]
