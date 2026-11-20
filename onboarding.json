@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 17:25",
+  "updatedAt": "20.11.2026 17:33",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 259,
       "rate": 75.3
     },
-    "totalAnalyses": 767752,
+    "totalAnalyses": 767837,
     "leagues": 291,
     "pro": {
-      "won": 602,
-      "lost": 237,
-      "total": 839,
+      "won": 599,
+      "lost": 235,
+      "total": 834,
       "rate": 71.8
     },
     "insights": {
-      "won": 1038,
-      "lost": 431,
-      "total": 1469,
+      "won": 1034,
+      "lost": 429,
+      "total": 1463,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3304,
-    "analyses30d": 17112
+    "analyses24h": 3302,
+    "analyses30d": 17110
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4476922",
     "odds": 1.87,
     "patternScore": 67.49,
-    "patternText": "232.520/344.523",
+    "patternText": "232.538/344.541",
     "aiScore": 52,
     "picks": 6
   },
@@ -357,7 +357,7 @@
       "matchCode": "4476922",
       "odds": 1.87,
       "patternScore": 67.49,
-      "patternText": "232.520/344.523",
+      "patternText": "232.538/344.541",
       "aiScore": 52,
       "picks": 6
     },
@@ -369,9 +369,21 @@
       "matchCode": "4492833",
       "odds": 1.8,
       "patternScore": 66.65,
-      "patternText": "164.315/246.538",
+      "patternText": "164.321/246.544",
       "aiScore": 52,
       "picks": 6
+    },
+    {
+      "home": "MC Oran",
+      "away": "JS Saoura",
+      "league": "CZYR",
+      "date": "20.11.2026 19:00",
+      "matchCode": "4546165",
+      "odds": 1.45,
+      "patternScore": 67.91,
+      "patternText": "230.599/339.563",
+      "aiScore": 56,
+      "picks": 2
     },
     {
       "home": "Caerphilly Ath",
@@ -381,7 +393,7 @@
       "matchCode": "4508943",
       "odds": 1.43,
       "patternScore": 67.41,
-      "patternText": "233.403/346.249",
+      "patternText": "233.421/346.267",
       "aiScore": 54,
       "picks": 1
     },
@@ -393,21 +405,9 @@
       "matchCode": "4480776",
       "odds": 1.41,
       "patternScore": 68.17,
-      "patternText": "170.674/250.382",
+      "patternText": "170.680/250.388",
       "aiScore": 58,
       "picks": 3
-    },
-    {
-      "home": "FC Den Bosch",
-      "away": "VVV-Venlo",
-      "league": "HOL2",
-      "date": "20.11.2026 19:00",
-      "matchCode": "4481939",
-      "odds": 1.41,
-      "patternScore": 68.1,
-      "patternText": "227.055/333.396",
-      "aiScore": 56,
-      "picks": 6
     }
   ],
   "recentAnalyzed": [
