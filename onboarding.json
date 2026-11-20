@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 22:22",
+  "updatedAt": "20.11.2026 22:31",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 406,
-      "lost": 149,
-      "total": 555,
-      "rate": 73.2
+      "won": 396,
+      "lost": 144,
+      "total": 540,
+      "rate": 73.3
     },
     "totalAnalyses": 768162,
     "leagues": 289,
     "pro": {
-      "won": 690,
+      "won": 691,
       "lost": 252,
-      "total": 942,
-      "rate": 73.2
+      "total": 943,
+      "rate": 73.3
     },
     "insights": {
-      "won": 1174,
+      "won": 1177,
       "lost": 466,
-      "total": 1640,
+      "total": 1643,
       "rate": 71.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3311,
-    "analyses30d": 16971
+    "analyses24h": 3289,
+    "analyses30d": 16966
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4476496",
     "odds": 1.43,
     "patternScore": 67.53,
-    "patternText": "266.234/394.230",
+    "patternText": "266.244/394.246",
     "aiScore": 56,
     "picks": 4
   },
@@ -285,7 +285,7 @@
       "matchCode": "4476496",
       "odds": 1.43,
       "patternScore": 67.53,
-      "patternText": "266.234/394.230",
+      "patternText": "266.244/394.246",
       "aiScore": 56,
       "picks": 4
     },
@@ -297,21 +297,33 @@
       "matchCode": "4476497",
       "odds": 1.37,
       "patternScore": 67.98,
-      "patternText": "268.563/395.042",
+      "patternText": "268.575/395.060",
       "aiScore": 59,
       "picks": 2
     },
     {
-      "home": "Velez Sarsfiel",
-      "away": "Club Atletico Belgrano",
-      "league": "ARJ",
-      "date": "20.11.2026 23:00",
-      "matchCode": "4580867",
+      "home": "Auckland",
+      "away": "Melbourne Victory",
+      "league": "AVUS",
+      "date": "21.11.2026 04:00",
+      "matchCode": "4546759",
+      "odds": 1.27,
+      "patternScore": 68.19,
+      "patternText": "268.742/394.111",
+      "aiScore": 63,
+      "picks": 3
+    },
+    {
+      "home": "Marconi Stallions",
+      "away": "Sydney Olympic FC",
+      "league": "AVC",
+      "date": "21.11.2026 04:00",
+      "matchCode": "4573659",
       "odds": 1.25,
-      "patternScore": 68.85,
-      "patternText": "288.091/418.424",
-      "aiScore": 67,
-      "picks": 4
+      "patternScore": 68.15,
+      "patternText": "258.828/379.795",
+      "aiScore": 60,
+      "picks": 3
     },
     {
       "home": "Deportivo Cali",
@@ -321,21 +333,9 @@
       "matchCode": "4580966",
       "odds": 1.22,
       "patternScore": 68.14,
-      "patternText": "257.169/377.395",
+      "patternText": "257.179/377.415",
       "aiScore": 64,
       "picks": 3
-    },
-    {
-      "home": "Auckland",
-      "away": "Melbourne Victory",
-      "league": "AVUS",
-      "date": "21.11.2026 04:00",
-      "matchCode": "4546759",
-      "odds": 1.2,
-      "patternScore": 69.26,
-      "patternText": "184.253/266.032",
-      "aiScore": 91,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
