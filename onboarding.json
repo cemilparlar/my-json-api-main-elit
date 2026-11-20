@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 02:05",
+  "updatedAt": "20.11.2026 02:13",
   "config": {
     "pages": [
       "engine",
@@ -301,6 +301,12 @@
     },
     {
       "type": "updated",
+      "at": "20.11.2026 02:01",
+      "home": "Western Sydney Wanderers",
+      "away": "Wellington Phoenix"
+    },
+    {
+      "type": "updated",
       "at": "20.11.2026 00:12",
       "home": "Real Cundinama",
       "away": "Quindio"
@@ -323,18 +329,30 @@
     }
   ],
   "today": {
-    "home": "Seattle Sounders",
-    "away": "Salt Lake",
-    "league": "ABD",
-    "date": "20.11.2026 03:00",
-    "matchCode": "4579806",
-    "odds": 1.14,
-    "patternScore": 70.59,
-    "patternText": "123.350/174.753",
-    "aiScore": 89,
+    "home": "Western Sydney Wanderers",
+    "away": "Wellington Phoenix",
+    "league": "AVUSTW",
+    "date": "20.11.2026 05:50",
+    "matchCode": "4551578",
+    "odds": 1.6,
+    "patternScore": 66.66,
+    "patternText": "137.387/206.097",
+    "aiScore": 55,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "Western Sydney Wanderers",
+      "away": "Wellington Phoenix",
+      "league": "AVUSTW",
+      "date": "20.11.2026 05:50",
+      "matchCode": "4551578",
+      "odds": 1.6,
+      "patternScore": 66.66,
+      "patternText": "137.387/206.097",
+      "aiScore": 55,
+      "picks": 1
+    },
     {
       "home": "Seattle Sounders",
       "away": "Salt Lake",
@@ -380,19 +398,7 @@
       "odds": 1.38,
       "patternScore": 67.08,
       "patternText": "149.803/223.327",
-      "aiScore": 57,
-      "picks": 2
-    },
-    {
-      "home": "GC Mascara",
-      "away": "Saida",
-      "league": "CZYR2",
-      "date": "20.11.2026 14:00",
-      "matchCode": "4579756",
-      "odds": 1.35,
-      "patternScore": 68.26,
-      "patternText": "240.935/352.973",
-      "aiScore": 59,
+      "aiScore": 58,
       "picks": 2
     }
   ],
