@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 19:06",
+  "updatedAt": "20.11.2026 19:15",
   "config": {
     "pages": [
       "engine",
@@ -23,11 +23,11 @@
     "days": 7,
     "last24h": {
       "won": 225,
-      "lost": 76,
-      "total": 301,
-      "rate": 74.8
+      "lost": 77,
+      "total": 302,
+      "rate": 74.5
     },
-    "totalAnalyses": 767925,
+    "totalAnalyses": 767976,
     "leagues": 290,
     "pro": {
       "won": 611,
@@ -47,7 +47,7 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3300,
+    "analyses24h": 3301,
     "analyses30d": 16954
   },
   "recentWins": [
@@ -331,72 +331,24 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 17:58",
+      "at": "20.11.2026 19:07",
       "home": "Athletic Bilbao",
       "away": "RCD Espanyol"
     }
   ],
   "today": {
-    "home": "Athletic Bilbao",
-    "away": "RCD Espanyol",
-    "league": "İS1",
-    "date": "20.11.2026 20:00",
-    "matchCode": "4492380",
-    "odds": 3.94,
-    "patternScore": 66.97,
-    "patternText": "136.894/204.421",
-    "aiScore": 50,
-    "picks": 8
+    "home": "Velez Sarsfiel",
+    "away": "Club Atletico Belgrano",
+    "league": "ARJ",
+    "date": "20.11.2026 23:00",
+    "matchCode": "4580867",
+    "odds": 1.25,
+    "patternScore": 68.58,
+    "patternText": "296.793/432.792",
+    "aiScore": 66,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Athletic Bilbao",
-      "away": "RCD Espanyol",
-      "league": "İS1",
-      "date": "20.11.2026 20:00",
-      "matchCode": "4492380",
-      "odds": 3.94,
-      "patternScore": 66.97,
-      "patternText": "136.894/204.421",
-      "aiScore": 50,
-      "picks": 8
-    },
-    {
-      "home": "Caerphilly Ath",
-      "away": "Llanelli Town",
-      "league": "GALFAW",
-      "date": "20.11.2026 19:45",
-      "matchCode": "4508943",
-      "odds": 1.43,
-      "patternScore": 67.42,
-      "patternText": "233.577/346.467",
-      "aiScore": 55,
-      "picks": 1
-    },
-    {
-      "home": "Cercle Brugge",
-      "away": "KVC Westerlo",
-      "league": "BEL",
-      "date": "20.11.2026 19:45",
-      "matchCode": "4480776",
-      "odds": 1.41,
-      "patternScore": 68.17,
-      "patternText": "170.768/250.500",
-      "aiScore": 58,
-      "picks": 3
-    },
-    {
-      "home": "Club Puebla",
-      "away": "Atletico San Luis",
-      "league": "MEK",
-      "date": "21.11.2026 01:00",
-      "matchCode": "4476495",
-      "odds": 1.3,
-      "patternScore": 67.97,
-      "patternText": "269.286/396.176",
-      "aiScore": 63,
-      "picks": 2
-    },
     {
       "home": "Velez Sarsfiel",
       "away": "Club Atletico Belgrano",
@@ -405,12 +357,67 @@
       "matchCode": "4580867",
       "odds": 1.25,
       "patternScore": 68.58,
-      "patternText": "296.777/432.768",
-      "aiScore": 65,
+      "patternText": "296.793/432.792",
+      "aiScore": 66,
       "picks": 4
+    },
+    {
+      "home": "Villarreal B",
+      "away": "Tarragona",
+      "league": "İS3",
+      "date": "20.11.2026 20:00",
+      "matchCode": "4493649",
+      "odds": 1.17,
+      "patternScore": 68.69,
+      "patternText": "215.496/313.722",
+      "aiScore": 71,
+      "picks": 3
+    },
+    {
+      "home": "Real Madrid Castilla",
+      "away": "Murcia",
+      "league": "İS3",
+      "date": "20.11.2026 20:15",
+      "matchCode": "4493646",
+      "odds": 1.15,
+      "patternScore": 68.91,
+      "patternText": "224.642/325.971",
+      "aiScore": 77,
+      "picks": 3
+    },
+    {
+      "home": "Club Deportivo Palestino",
+      "away": "Union La Calera",
+      "league": "ŞİL",
+      "date": "20.11.2026 23:30",
+      "matchCode": "4436016",
+      "odds": 1.14,
+      "patternScore": 69.08,
+      "patternText": "283.816/410.847",
+      "aiScore": 83,
+      "picks": 2
+    },
+    {
+      "home": "Anaza",
+      "away": "Cd Marino",
+      "league": "İSTL",
+      "date": "20.11.2026 21:00",
+      "matchCode": "4533172",
+      "odds": 1.13,
+      "patternScore": 70.28,
+      "patternText": "340.672/484.766",
+      "aiScore": 78,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Athletic Bilbao",
+      "away": "RCD Espanyol",
+      "league": "İS1",
+      "at": "20.11.2026 19:07",
+      "count": 4
+    },
     {
       "home": "ESTAC Troyes",
       "away": "Le Havre AC",
@@ -424,13 +431,6 @@
       "league": "FR2",
       "at": "20.11.2026 18:24",
       "count": 7
-    },
-    {
-      "home": "Athletic Bilbao",
-      "away": "RCD Espanyol",
-      "league": "İS1",
-      "at": "20.11.2026 17:58",
-      "count": 8
     },
     {
       "home": "FC Metz",
