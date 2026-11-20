@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 00:09",
+  "updatedAt": "20.11.2026 00:18",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 118,
       "rate": 66.9
     },
-    "totalAnalyses": 765624,
+    "totalAnalyses": 765630,
     "leagues": 286,
     "pro": {
       "won": 539,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3014,
-    "analyses30d": 16853
+    "analyses24h": 3016,
+    "analyses30d": 16847
   },
   "recentWins": [
     {
@@ -313,7 +313,13 @@
     },
     {
       "type": "updated",
-      "at": "19.11.2026 22:47",
+      "at": "20.11.2026 00:12",
+      "home": "Western Sydney Wanderers",
+      "away": "Wellington Phoenix"
+    },
+    {
+      "type": "updated",
+      "at": "20.11.2026 00:12",
       "home": "Real Cundinama",
       "away": "Quindio"
     },
@@ -328,39 +334,21 @@
       "home": "Orlando City SC",
       "away": "FC Cincinnati",
       "at": "20.11.2026 00:30"
-    },
-    {
-      "type": "kickoff",
-      "home": "Sao Paulo FC",
-      "away": "Fluminense FC",
-      "at": "20.11.2026 00:30"
     }
   ],
   "today": {
-    "home": "Real Cundinama",
-    "away": "Quindio",
-    "league": "KOLB",
-    "date": "20.11.2026 00:45",
-    "matchCode": "4581022",
-    "odds": 1.23,
-    "patternScore": 69.19,
-    "patternText": "117.504/169.824",
-    "aiScore": 67,
-    "picks": 2
+    "home": "Seattle Sounders",
+    "away": "Salt Lake",
+    "league": "ABD",
+    "date": "20.11.2026 03:00",
+    "matchCode": "4579806",
+    "odds": 1.14,
+    "patternScore": 70.58,
+    "patternText": "123.318/174.715",
+    "aiScore": 89,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Real Cundinama",
-      "away": "Quindio",
-      "league": "KOLB",
-      "date": "20.11.2026 00:45",
-      "matchCode": "4581022",
-      "odds": 1.23,
-      "patternScore": 69.19,
-      "patternText": "117.504/169.824",
-      "aiScore": 67,
-      "picks": 2
-    },
     {
       "home": "Seattle Sounders",
       "away": "Salt Lake",
@@ -407,6 +395,18 @@
       "patternScore": 67.07,
       "patternText": "149.735/223.245",
       "aiScore": 57,
+      "picks": 2
+    },
+    {
+      "home": "Fajr Sepasi",
+      "away": "Chadormalu",
+      "league": "IRAN",
+      "date": "20.11.2026 12:00",
+      "matchCode": "4580235",
+      "odds": 1.26,
+      "patternScore": 68.48,
+      "patternText": "216.136/315.611",
+      "aiScore": 62,
       "picks": 2
     }
   ],
