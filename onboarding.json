@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 08:56",
+  "updatedAt": "20.11.2026 09:05",
   "config": {
     "pages": [
       "engine",
@@ -23,9 +23,9 @@
     "days": 7,
     "last24h": {
       "won": 103,
-      "lost": 43,
-      "total": 146,
-      "rate": 70.5
+      "lost": 42,
+      "total": 145,
+      "rate": 71.0
     },
     "totalAnalyses": 766244,
     "leagues": 287,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3147,
-    "analyses30d": 16981
+    "analyses24h": 3142,
+    "analyses30d": 16977
   },
   "recentWins": [
     {
@@ -325,15 +325,15 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 07:03",
-      "home": "Al Ittihad Kal",
-      "away": "Al Sharjah"
+      "at": "20.11.2026 08:53",
+      "home": "El Mansoura",
+      "away": "Deportivo Riestra"
     },
     {
       "type": "updated",
-      "at": "20.11.2026 07:17",
-      "home": "Zakho FC",
-      "away": "Al Shorta"
+      "at": "20.11.2026 07:03",
+      "home": "Al Ittihad Kal",
+      "away": "Al Sharjah"
     }
   ],
   "today": {
@@ -386,18 +386,6 @@
       "picks": 2
     },
     {
-      "home": "Kashiwa Reysol",
-      "away": "JEF United Chiba",
-      "league": "JAP",
-      "date": "20.11.2026 10:00",
-      "matchCode": "4487268",
-      "odds": 1.38,
-      "patternScore": 67.6,
-      "patternText": "230.718/341.304",
-      "aiScore": 57,
-      "picks": 3
-    },
-    {
       "home": "SC Hammam-Lif",
       "away": "AS Metlaoui",
       "league": "TUN1",
@@ -408,6 +396,18 @@
       "patternText": "161.098/241.133",
       "aiScore": 62,
       "picks": 2
+    },
+    {
+      "home": "Blida",
+      "away": "JSM Tiaret",
+      "league": "CZYR2",
+      "date": "20.11.2026 14:00",
+      "matchCode": "4579751",
+      "odds": 1.29,
+      "patternScore": 67.31,
+      "patternText": "174.404/259.094",
+      "aiScore": 65,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
