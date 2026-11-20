@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 07:34",
+  "updatedAt": "20.11.2026 07:43",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 143,
       "rate": 71.3
     },
-    "totalAnalyses": 766099,
+    "totalAnalyses": 766143,
     "leagues": 287,
     "pro": {
       "won": 551,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3075,
-    "analyses30d": 16908
+    "analyses24h": 3129,
+    "analyses30d": 16962
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 06:21",
+      "at": "20.11.2026 07:36",
       "home": "Kashima Antlers",
       "away": "Shimizu S-Pulse"
     },
@@ -319,13 +319,13 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 07:15",
+      "at": "20.11.2026 07:37",
       "home": "Swit Skolwin",
       "away": "Stal Stalowa Wola"
     },
     {
       "type": "updated",
-      "at": "20.11.2026 07:16",
+      "at": "20.11.2026 07:38",
       "home": "Dewa United FC",
       "away": "Persita Tangerang"
     },
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "FC Barcelona",
+      "away": "Villarreal CF",
+      "league": "İS1",
+      "at": "20.11.2026 07:43",
+      "count": 12
+    },
+    {
       "home": "Sport Club Internacional",
       "away": "Vitoria Bahia",
       "league": "BR1",
@@ -473,13 +480,6 @@
       "league": "ŞMP-K",
       "at": "19.11.2026 17:05",
       "count": 3
-    },
-    {
-      "home": "Paris Women",
-      "away": "Koge Women",
-      "league": "ŞMP-K",
-      "at": "19.11.2026 17:04",
-      "count": 5
     }
   ],
   "paywall": {
