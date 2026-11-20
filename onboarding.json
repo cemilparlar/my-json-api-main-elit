@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 20:52",
+  "updatedAt": "20.11.2026 21:00",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 271,
-      "lost": 89,
-      "total": 360,
-      "rate": 75.3
+      "won": 320,
+      "lost": 104,
+      "total": 424,
+      "rate": 75.5
     },
-    "totalAnalyses": 768067,
+    "totalAnalyses": 768076,
     "leagues": 289,
     "pro": {
-      "won": 614,
-      "lost": 230,
-      "total": 844,
-      "rate": 72.7
+      "won": 641,
+      "lost": 237,
+      "total": 878,
+      "rate": 73.0
     },
     "insights": {
-      "won": 1051,
-      "lost": 419,
-      "total": 1470,
-      "rate": 71.5
+      "won": 1097,
+      "lost": 432,
+      "total": 1529,
+      "rate": 71.7
     },
     "coupons": {
-      "won": 0,
-      "lost": 0,
-      "total": 0,
-      "rate": null
+      "won": 1,
+      "lost": 1,
+      "total": 2,
+      "rate": 50.0
     },
-    "analyses24h": 3294,
-    "analyses30d": 16958
+    "analyses24h": 3292,
+    "analyses30d": 16956
   },
   "recentWins": [
     {
@@ -125,131 +125,30 @@
   "recentCoupons": [
     {
       "size": 3,
-      "totalOdds": 1.51,
-      "winChance": 52.04,
-      "completedAt": "09.11.2026 00:07",
+      "totalOdds": 1.5,
+      "winChance": 50.5,
+      "completedAt": "20.11.2026 21:00",
       "legs": [
         {
-          "home": "Ham-Kam",
-          "away": "Sarpsborg 08",
-          "prediction": "Under 4.5 Goals",
-          "odds": 1.1,
-          "finalScore": null
+          "home": "Al Ittihad Kal",
+          "away": "Al Sharjah",
+          "prediction": "Double Chance 12",
+          "odds": 1.12,
+          "finalScore": "0 - 3"
         },
         {
-          "home": "Carrarese Calcio",
-          "away": "UC Sampdoria",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.17,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "Baltika Kalini",
-          "away": "FC Makhachkala",
-          "prediction": "Handicap (0:2) 2",
-          "odds": 1.17,
-          "finalScore": "0 - 1"
-        }
-      ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.52,
-      "winChance": 51.51,
-      "completedAt": "08.11.2026 20:29",
-      "legs": [
-        {
-          "home": "AD Merida",
-          "away": "Athletic Bilbao B",
-          "prediction": "Over 1.5 Goals",
+          "home": "Black Bulls Ma",
+          "away": "Ferroviario Map",
+          "prediction": "Double Chance 12",
           "odds": 1.11,
-          "finalScore": "2 - 0"
+          "finalScore": null
         },
         {
-          "home": "Sporting Gijon",
-          "away": "Real Valladolid",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.2,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "LR Vicenza",
-          "away": "US Cremonese",
-          "prediction": "1st Half Double Chance X2",
-          "odds": 1.14,
-          "finalScore": "1 - 4"
-        }
-      ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.54,
-      "winChance": 54.45,
-      "completedAt": "08.11.2026 20:00",
-      "legs": [
-        {
-          "home": "Flora Tallinn",
-          "away": "Levadia Tallinn",
-          "prediction": "1st Half Double Chance 12",
-          "odds": 1.2,
-          "finalScore": "0 - 2"
-        },
-        {
-          "home": "Aston Villa Women",
-          "away": "Manchester United",
-          "prediction": "Double Chance 12",
-          "odds": 1.06,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "Stafford Range",
-          "away": "Grimsby Town",
-          "prediction": "1st Half Double Chance 12",
+          "home": "Police",
+          "away": "Kampala City Council FC",
+          "prediction": "1st Half Double Chance 1X",
           "odds": 1.21,
-          "finalScore": null
-        }
-      ]
-    },
-    {
-      "size": 5,
-      "totalOdds": 1.51,
-      "winChance": 36.91,
-      "completedAt": "08.11.2026 18:35",
-      "legs": [
-        {
-          "home": "Disgyor Ii",
-          "away": "Tarpa",
-          "prediction": "Double Chance 12",
-          "odds": 1.06,
-          "finalScore": "7 - 1"
-        },
-        {
-          "home": "Paris U19",
-          "away": "Annecy U19",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Real Oviedo B",
-          "away": "Coruxo",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.06,
-          "finalScore": null
-        },
-        {
-          "home": "Villarreal B",
-          "away": "Juventud Torrem",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.06,
-          "finalScore": "1 - 1"
-        },
-        {
-          "home": "Krylya Sovetov",
-          "away": "FC Orenburg",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.15,
-          "finalScore": "2 - 0"
+          "finalScore": "0 - 0"
         }
       ]
     }
@@ -344,7 +243,7 @@
     "matchCode": "4580867",
     "odds": 1.25,
     "patternScore": 68.85,
-    "patternText": "287.847/418.088",
+    "patternText": "287.853/418.096",
     "aiScore": 67,
     "picks": 4
   },
@@ -357,7 +256,7 @@
       "matchCode": "4580867",
       "odds": 1.25,
       "patternScore": 68.85,
-      "patternText": "287.847/418.088",
+      "patternText": "287.853/418.096",
       "aiScore": 67,
       "picks": 4
     },
@@ -369,7 +268,7 @@
       "matchCode": "4580966",
       "odds": 1.22,
       "patternScore": 68.14,
-      "patternText": "256.955/377.101",
+      "patternText": "256.965/377.113",
       "aiScore": 64,
       "picks": 3
     },
@@ -381,7 +280,7 @@
       "matchCode": "4476495",
       "odds": 1.15,
       "patternScore": 70.56,
-      "patternText": "251.347/356.215",
+      "patternText": "251.357/356.237",
       "aiScore": 95,
       "picks": 2
     },
@@ -393,21 +292,21 @@
       "matchCode": "4566894",
       "odds": 1.15,
       "patternScore": 69.6,
-      "patternText": "196.332/282.079",
+      "patternText": "196.338/282.093",
       "aiScore": 83,
       "picks": 1
     },
     {
-      "home": "Ferrymead Bays",
-      "away": "Auckland Ii",
-      "league": "YZLBÖL",
-      "date": "21.11.2026 02:00",
-      "matchCode": "4566895",
-      "odds": 1.08,
-      "patternScore": 71.34,
-      "patternText": "230.175/322.632",
-      "aiScore": 94,
-      "picks": 1
+      "home": "Club Deportivo Palestino",
+      "away": "Union La Calera",
+      "league": "ŞİL",
+      "date": "20.11.2026 23:30",
+      "matchCode": "4436016",
+      "odds": 1.13,
+      "patternScore": 70.19,
+      "patternText": "337.869/481.354",
+      "aiScore": 82,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [

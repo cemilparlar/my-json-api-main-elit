@@ -1,6 +1,15 @@
 {
   "version": 1,
-  "stats7": {},
+  "stats7": {
+    "multi": {
+      "won": 1,
+      "lost": 1
+    },
+    "cyz_3": {
+      "won": 1,
+      "lost": 1
+    }
+  },
   "stats30": {
     "legacy": {
       "won": 22,
@@ -39,8 +48,8 @@
       "lost": 9
     },
     "multi": {
-      "won": 99,
-      "lost": 89
+      "won": 100,
+      "lost": 90
     },
     "c70_1": {
       "won": 20,
@@ -67,102 +76,13 @@
       "lost": 5
     },
     "cyz_3": {
-      "won": 6,
-      "lost": 6
+      "won": 7,
+      "lost": 7
     }
   },
-  "updatedAt": "20.11.2026 20:52",
-  "updatedAtUtc": "2026-11-20T20:52:00Z",
+  "updatedAt": "20.11.2026 21:00",
+  "updatedAtUtc": "2026-11-20T21:00:00Z",
   "upcoming": [
-    {
-      "id": "20261120-13-1",
-      "createdAt": "20.11.2026 10:04",
-      "createdAtUtc": "2026-11-20T10:04:00Z",
-      "size": 3,
-      "mbs": 1,
-      "totalOdds": 1.5,
-      "winChance": 50.5,
-      "firstKickoff": "20.11.2026 12:45",
-      "lastKickoff": "20.11.2026 13:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "cyz_3",
-      "group": "multi",
-      "formula": "3",
-      "multiScore": 83,
-      "effectiveOdds": 1.5,
-      "legs": [
-        {
-          "matchCode": "4576070",
-          "nesine": null,
-          "date": "20.11.2026 12:45",
-          "kickoffUtc": "2026-11-20T12:45:00Z",
-          "league": "BAE",
-          "home": "Al Ittihad Kal",
-          "away": "Al Sharjah",
-          "league_tr": "BAE",
-          "home_tr": "Al Ittihad Kal",
-          "away_tr": "Al Sharjah",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.12,
-          "probability": 73.05,
-          "patternScore": 70.4,
-          "patternText": "290.583/412.747",
-          "mbs": 1,
-          "firstHalf": "0 - 1",
-          "finalScore": "0 - 3",
-          "status": "won",
-          "aiScore": 82
-        },
-        {
-          "matchCode": "4579967",
-          "nesine": null,
-          "date": "20.11.2026 13:00",
-          "kickoffUtc": "2026-11-20T13:00:00Z",
-          "league": "MOZ",
-          "home": "Black Bulls Ma",
-          "away": "Ferroviario Map",
-          "league_tr": "MOZ",
-          "home_tr": "Black Bulls Ma",
-          "away_tr": "Ferroviario Map",
-          "prediction": "Double Chance 12",
-          "prediction_tr": "Çifte Şans 1-2",
-          "odds": 1.11,
-          "probability": 83.33,
-          "patternScore": 70.61,
-          "patternText": "217.840/308.490",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 91
-        },
-        {
-          "matchCode": "4547680",
-          "nesine": null,
-          "date": "20.11.2026 13:00",
-          "kickoffUtc": "2026-11-20T13:00:00Z",
-          "league": "UGA",
-          "home": "Police",
-          "away": "Kampala City Council FC",
-          "league_tr": "UGA",
-          "home_tr": "Police",
-          "away_tr": "Kampala City",
-          "prediction": "1st Half Double Chance 1X",
-          "prediction_tr": "1. Yarı Çifte Şans 1-X",
-          "odds": 1.21,
-          "probability": 82.05,
-          "patternScore": 69.99,
-          "patternText": "156.303/223.325",
-          "mbs": 1,
-          "firstHalf": "0 - 0",
-          "finalScore": "0 - 0",
-          "status": "won",
-          "aiScore": 80
-        }
-      ]
-    },
     {
       "id": "20261120-19-1",
       "createdAt": "20.11.2026 16:05",
@@ -222,9 +142,9 @@
           "patternScore": 70.32,
           "patternText": "179.129/254.729",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 1",
+          "finalScore": "2 - 1",
+          "status": "won",
           "aiScore": 93
         },
         {
@@ -251,6 +171,97 @@
           "aiScore": 85
         }
       ]
+    }
+  ],
+  "completed": [
+    {
+      "id": "20261120-13-1",
+      "createdAt": "20.11.2026 10:04",
+      "createdAtUtc": "2026-11-20T10:04:00Z",
+      "size": 3,
+      "mbs": 1,
+      "totalOdds": 1.5,
+      "winChance": 50.5,
+      "firstKickoff": "20.11.2026 12:45",
+      "lastKickoff": "20.11.2026 13:00",
+      "status": "won",
+      "completedAt": "20.11.2026 21:00",
+      "kind": "cyz_3",
+      "group": "multi",
+      "formula": "3",
+      "multiScore": 83,
+      "effectiveOdds": 1.36,
+      "legs": [
+        {
+          "matchCode": "4576070",
+          "nesine": null,
+          "date": "20.11.2026 12:45",
+          "kickoffUtc": "2026-11-20T12:45:00Z",
+          "league": "BAE",
+          "home": "Al Ittihad Kal",
+          "away": "Al Sharjah",
+          "league_tr": "BAE",
+          "home_tr": "Al Ittihad Kal",
+          "away_tr": "Al Sharjah",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.12,
+          "probability": 73.05,
+          "patternScore": 70.4,
+          "patternText": "290.583/412.747",
+          "mbs": 1,
+          "firstHalf": "0 - 1",
+          "finalScore": "0 - 3",
+          "status": "won",
+          "aiScore": 82
+        },
+        {
+          "matchCode": "4579967",
+          "nesine": null,
+          "date": "20.11.2026 13:00",
+          "kickoffUtc": "2026-11-20T13:00:00Z",
+          "league": "MOZ",
+          "home": "Black Bulls Ma",
+          "away": "Ferroviario Map",
+          "league_tr": "MOZ",
+          "home_tr": "Black Bulls Ma",
+          "away_tr": "Ferroviario Map",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.11,
+          "probability": 83.33,
+          "patternScore": 70.61,
+          "patternText": "217.840/308.490",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "void",
+          "aiScore": 91
+        },
+        {
+          "matchCode": "4547680",
+          "nesine": null,
+          "date": "20.11.2026 13:00",
+          "kickoffUtc": "2026-11-20T13:00:00Z",
+          "league": "UGA",
+          "home": "Police",
+          "away": "Kampala City Council FC",
+          "league_tr": "UGA",
+          "home_tr": "Police",
+          "away_tr": "Kampala City",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.21,
+          "probability": 82.05,
+          "patternScore": 69.99,
+          "patternText": "156.303/223.325",
+          "mbs": 1,
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "won",
+          "aiScore": 80
+        }
+      ]
     },
     {
       "id": "20261120-20-1",
@@ -262,8 +273,8 @@
       "winChance": 51.1,
       "firstKickoff": "20.11.2026 19:00",
       "lastKickoff": "20.11.2026 19:45",
-      "status": "live",
-      "completedAt": null,
+      "status": "lost",
+      "completedAt": "20.11.2026 21:00",
       "kind": "cyz_3",
       "group": "multi",
       "formula": "3",
@@ -288,9 +299,9 @@
           "patternScore": 71.1,
           "patternText": "200.622/282.166",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 1",
+          "finalScore": "2 - 2",
+          "status": "lost",
           "aiScore": 92
         },
         {
@@ -311,9 +322,9 @@
           "patternScore": 68.84,
           "patternText": "173.460/251.966",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 1",
+          "finalScore": "2 - 1",
+          "status": "won",
           "aiScore": 83
         },
         {
@@ -341,6 +352,5 @@
         }
       ]
     }
-  ],
-  "completed": []
+  ]
 }
