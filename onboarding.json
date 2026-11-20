@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 11:40",
+  "updatedAt": "20.11.2026 11:47",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3166,
-    "analyses30d": 16995
+    "analyses24h": 3165,
+    "analyses30d": 16994
   },
   "recentWins": [
     {
@@ -301,12 +301,6 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 05:46",
-      "home": "Sydney United 58 FC",
-      "away": "Sutherland Sharks"
-    },
-    {
-      "type": "updated",
       "at": "20.11.2026 08:52",
       "home": "Kashiwa Reysol",
       "away": "JEF United Chiba"
@@ -322,6 +316,12 @@
       "at": "20.11.2026 08:15",
       "home": "Vissel Kobe",
       "away": "Mito HollyHock"
+    },
+    {
+      "type": "updated",
+      "at": "20.11.2026 11:35",
+      "home": "Shakhtar Donetsk",
+      "away": "Livyi Bereh"
     },
     {
       "type": "updated",
@@ -362,6 +362,18 @@
       "picks": 2
     },
     {
+      "home": "Shakhtar Donetsk",
+      "away": "Livyi Bereh",
+      "league": "UKR",
+      "date": "20.11.2026 16:00",
+      "matchCode": "4508331",
+      "odds": 1.43,
+      "patternScore": 66.56,
+      "patternText": "157.478/236.584",
+      "aiScore": 56,
+      "picks": 1
+    },
+    {
       "home": "ES Setif",
       "away": "Biskra",
       "league": "CZYR",
@@ -396,18 +408,6 @@
       "patternText": "216.455/317.320",
       "aiScore": 60,
       "picks": 3
-    },
-    {
-      "home": "Viettel FC",
-      "away": "FK SLNA Nitra",
-      "league": "VİET",
-      "date": "20.11.2026 12:15",
-      "matchCode": "4551357",
-      "odds": 1.25,
-      "patternScore": 68.81,
-      "patternText": "213.018/309.570",
-      "aiScore": 63,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
