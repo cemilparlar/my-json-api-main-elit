@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 16:05",
+  "updatedAt": "20.11.2026 16:15",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 188,
+      "won": 191,
       "lost": 63,
-      "total": 251,
-      "rate": 74.9
+      "total": 254,
+      "rate": 75.2
     },
     "totalAnalyses": 767582,
     "leagues": 291,
     "pro": {
-      "won": 605,
+      "won": 606,
       "lost": 237,
-      "total": 842,
+      "total": 843,
       "rate": 71.9
     },
     "insights": {
-      "won": 1038,
+      "won": 1041,
       "lost": 430,
-      "total": 1468,
-      "rate": 70.7
+      "total": 1471,
+      "rate": 70.8
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3295,
-    "analyses30d": 17126
+    "analyses24h": 3289,
+    "analyses30d": 17120
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4476922",
     "odds": 1.87,
     "patternScore": 67.49,
-    "patternText": "232.436/344.401",
+    "patternText": "232.468/344.449",
     "aiScore": 52,
     "picks": 6
   },
@@ -357,7 +357,7 @@
       "matchCode": "4476922",
       "odds": 1.87,
       "patternScore": 67.49,
-      "patternText": "232.436/344.401",
+      "patternText": "232.468/344.449",
       "aiScore": 52,
       "picks": 6
     },
@@ -368,22 +368,10 @@
       "date": "20.11.2026 19:30",
       "matchCode": "4492833",
       "odds": 1.8,
-      "patternScore": 66.64,
-      "patternText": "164.235/246.444",
+      "patternScore": 66.65,
+      "patternText": "164.287/246.500",
       "aiScore": 52,
       "picks": 6
-    },
-    {
-      "home": "Athletic Bilbao",
-      "away": "RCD Espanyol",
-      "league": "İS1",
-      "date": "20.11.2026 20:00",
-      "matchCode": "4492380",
-      "odds": 1.46,
-      "patternScore": 66.83,
-      "patternText": "218.750/327.346",
-      "aiScore": 55,
-      "picks": 4
     },
     {
       "home": "SK Rapid Wien",
@@ -393,7 +381,7 @@
       "matchCode": "4496722",
       "odds": 1.44,
       "patternScore": 66.61,
-      "patternText": "249.921/375.203",
+      "patternText": "249.961/375.259",
       "aiScore": 54,
       "picks": 2
     },
@@ -405,9 +393,21 @@
       "matchCode": "4508943",
       "odds": 1.43,
       "patternScore": 67.41,
-      "patternText": "233.319/346.127",
+      "patternText": "233.351/346.175",
       "aiScore": 55,
       "picks": 1
+    },
+    {
+      "home": "Cercle Brugge",
+      "away": "KVC Westerlo",
+      "league": "BEL",
+      "date": "20.11.2026 19:45",
+      "matchCode": "4480776",
+      "odds": 1.41,
+      "patternScore": 68.17,
+      "patternText": "170.646/250.336",
+      "aiScore": 58,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
