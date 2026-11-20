@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 13:05",
+  "updatedAt": "20.11.2026 13:14",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 150,
       "rate": 66.7
     },
-    "totalAnalyses": 766741,
+    "totalAnalyses": 766790,
     "leagues": 289,
     "pro": {
       "won": 569,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3139,
-    "analyses30d": 16985
+    "analyses24h": 3170,
+    "analyses30d": 17016
   },
   "recentWins": [
     {
@@ -313,27 +313,27 @@
     },
     {
       "type": "updated",
+      "at": "20.11.2026 13:12",
+      "home": "Annecy",
+      "away": "Clermont Foot"
+    },
+    {
+      "type": "updated",
+      "at": "20.11.2026 13:12",
+      "home": "En Avant Guingamp",
+      "away": "Rodez AF"
+    },
+    {
+      "type": "updated",
+      "at": "20.11.2026 13:11",
+      "home": "Red Star FC",
+      "away": "Pau FC"
+    },
+    {
+      "type": "updated",
       "at": "20.11.2026 09:15",
       "home": "Kashima Antlers",
       "away": "Shimizu S-Pulse"
-    },
-    {
-      "type": "updated",
-      "at": "20.11.2026 08:15",
-      "home": "Vissel Kobe",
-      "away": "Mito HollyHock"
-    },
-    {
-      "type": "updated",
-      "at": "20.11.2026 12:36",
-      "home": "Shakhtar Donetsk",
-      "away": "Livyi Bereh"
-    },
-    {
-      "type": "updated",
-      "at": "20.11.2026 11:50",
-      "home": "FC Rostov",
-      "away": "Krylya Sovietov"
     }
   ],
   "today": {
@@ -412,6 +412,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "AS Nancy",
+      "away": "Dijon FCO",
+      "league": "FR2",
+      "at": "20.11.2026 13:13",
+      "count": 4
+    },
+    {
+      "home": "FC Metz",
+      "away": "Boulogne",
+      "league": "FR2",
+      "at": "20.11.2026 13:12",
+      "count": 5
+    },
+    {
+      "home": "Annecy",
+      "away": "Clermont Foot",
+      "league": "FR2",
+      "at": "20.11.2026 13:12",
+      "count": 3
+    },
+    {
+      "home": "En Avant Guingamp",
+      "away": "Rodez AF",
+      "league": "FR2",
+      "at": "20.11.2026 13:12",
+      "count": 5
+    },
+    {
+      "home": "Red Star FC",
+      "away": "Pau FC",
+      "league": "FR2",
+      "at": "20.11.2026 13:11",
+      "count": 6
+    },
+    {
       "home": "SV Darmstadt 98",
       "away": "FC Heidenheim",
       "league": "AL2",
@@ -445,41 +480,6 @@
       "league": "İS1",
       "at": "20.11.2026 07:43",
       "count": 12
-    },
-    {
-      "home": "Sport Club Internacional",
-      "away": "Vitoria Bahia",
-      "league": "BR1",
-      "at": "20.11.2026 05:51",
-      "count": 7
-    },
-    {
-      "home": "Red Bull Bragantino",
-      "away": "Club de Regatas Vasco da Gama",
-      "league": "BR1",
-      "at": "20.11.2026 05:50",
-      "count": 6
-    },
-    {
-      "home": "Fluminense FC",
-      "away": "Mirassol FC",
-      "league": "BR1",
-      "at": "20.11.2026 05:50",
-      "count": 3
-    },
-    {
-      "home": "Seattle Sounders",
-      "away": "Salt Lake",
-      "league": "ABD",
-      "at": "19.11.2026 23:10",
-      "count": 5
-    },
-    {
-      "home": "Vitoria Bahia",
-      "away": "Red Bull Bragantino",
-      "league": "BR1",
-      "at": "19.11.2026 21:31",
-      "count": 6
     }
   ],
   "paywall": {
