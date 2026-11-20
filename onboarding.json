@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 07:43",
+  "updatedAt": "20.11.2026 07:51",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 102,
-      "lost": 41,
-      "total": 143,
-      "rate": 71.3
+      "won": 103,
+      "lost": 43,
+      "total": 146,
+      "rate": 70.5
     },
-    "totalAnalyses": 766143,
+    "totalAnalyses": 766146,
     "leagues": 287,
     "pro": {
       "won": 551,
@@ -36,9 +36,9 @@
       "rate": 72.2
     },
     "insights": {
-      "won": 966,
+      "won": 967,
       "lost": 402,
-      "total": 1368,
+      "total": 1369,
       "rate": 70.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3129,
-    "analyses30d": 16962
+    "analyses24h": 3122,
+    "analyses30d": 16955
   },
   "recentWins": [
     {
@@ -325,15 +325,15 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 07:38",
-      "home": "Dewa United FC",
-      "away": "Persita Tangerang"
-    },
-    {
-      "type": "updated",
       "at": "20.11.2026 07:03",
       "home": "Al Ittihad Kal",
       "away": "Al Sharjah"
+    },
+    {
+      "type": "updated",
+      "at": "20.11.2026 07:17",
+      "home": "Zakho FC",
+      "away": "Al Shorta"
     }
   ],
   "today": {
@@ -386,6 +386,18 @@
       "picks": 2
     },
     {
+      "home": "SC Hammam-Lif",
+      "away": "AS Metlaoui",
+      "league": "TUN1",
+      "date": "20.11.2026 13:30",
+      "matchCode": "4539647",
+      "odds": 1.37,
+      "patternScore": 66.81,
+      "patternText": "161.096/241.127",
+      "aiScore": 62,
+      "picks": 2
+    },
+    {
       "home": "Beijing Guoan",
       "away": "Shanghai Port FC",
       "league": "ÇİNK",
@@ -396,18 +408,6 @@
       "patternText": "217.309/316.548",
       "aiScore": 62,
       "picks": 2
-    },
-    {
-      "home": "Police",
-      "away": "Kampala City Council FC",
-      "league": "UGA",
-      "date": "20.11.2026 13:00",
-      "matchCode": "4547680",
-      "odds": 1.28,
-      "patternScore": 68.22,
-      "patternText": "216.387/317.212",
-      "aiScore": 60,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
