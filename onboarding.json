@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 14:08",
+  "updatedAt": "20.11.2026 14:16",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 178,
       "rate": 68.5
     },
-    "totalAnalyses": 767131,
+    "totalAnalyses": 767224,
     "leagues": 290,
     "pro": {
       "won": 584,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3258,
-    "analyses30d": 17080
+    "analyses24h": 3252,
+    "analyses30d": 17074
   },
   "recentWins": [
     {
@@ -337,30 +337,18 @@
     }
   ],
   "today": {
-    "home": "Athletic Bilbao",
-    "away": "RCD Espanyol",
-    "league": "İS1",
-    "date": "20.11.2026 20:00",
-    "matchCode": "4492380",
-    "odds": 1.95,
-    "patternScore": 66.74,
-    "patternText": "137.698/206.311",
-    "aiScore": 52,
+    "home": "AS Nancy",
+    "away": "Dijon FCO",
+    "league": "FR2",
+    "date": "20.11.2026 19:00",
+    "matchCode": "4476922",
+    "odds": 1.46,
+    "patternScore": 68.95,
+    "patternText": "161.082/233.608",
+    "aiScore": 57,
     "picks": 3
   },
   "todayList": [
-    {
-      "home": "Athletic Bilbao",
-      "away": "RCD Espanyol",
-      "league": "İS1",
-      "date": "20.11.2026 20:00",
-      "matchCode": "4492380",
-      "odds": 1.95,
-      "patternScore": 66.74,
-      "patternText": "137.698/206.311",
-      "aiScore": 52,
-      "picks": 3
-    },
     {
       "home": "AS Nancy",
       "away": "Dijon FCO",
@@ -369,8 +357,32 @@
       "matchCode": "4476922",
       "odds": 1.46,
       "patternScore": 68.95,
-      "patternText": "161.054/233.566",
+      "patternText": "161.082/233.608",
       "aiScore": 57,
+      "picks": 3
+    },
+    {
+      "home": "Caerphilly Ath",
+      "away": "Llanelli Town",
+      "league": "GALFAW",
+      "date": "20.11.2026 19:45",
+      "matchCode": "4508943",
+      "odds": 1.43,
+      "patternScore": 67.39,
+      "patternText": "233.003/345.745",
+      "aiScore": 55,
+      "picks": 1
+    },
+    {
+      "home": "Cercle Brugge",
+      "away": "KVC Westerlo",
+      "league": "BEL",
+      "date": "20.11.2026 19:45",
+      "matchCode": "4480776",
+      "odds": 1.41,
+      "patternScore": 68.15,
+      "patternText": "170.390/250.034",
+      "aiScore": 58,
       "picks": 3
     },
     {
@@ -381,8 +393,8 @@
       "matchCode": "4474526",
       "odds": 1.39,
       "patternScore": 67.39,
-      "patternText": "284.343/421.961",
-      "aiScore": 56,
+      "patternText": "284.411/422.043",
+      "aiScore": 57,
       "picks": 4
     },
     {
@@ -392,22 +404,10 @@
       "date": "20.11.2026 15:25",
       "matchCode": "4576071",
       "odds": 1.35,
-      "patternScore": 68.36,
-      "patternText": "227.590/332.916",
+      "patternScore": 68.37,
+      "patternText": "227.650/332.990",
       "aiScore": 58,
       "picks": 2
-    },
-    {
-      "home": "ES Setif",
-      "away": "Biskra",
-      "league": "CZYR",
-      "date": "20.11.2026 16:00",
-      "matchCode": "4546170",
-      "odds": 1.34,
-      "patternScore": 67.79,
-      "patternText": "215.258/317.524",
-      "aiScore": 55,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
