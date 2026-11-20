@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 11:47",
+  "updatedAt": "20.11.2026 11:56",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 170,
       "rate": 69.4
     },
-    "totalAnalyses": 766557,
+    "totalAnalyses": 766622,
     "leagues": 288,
     "pro": {
       "won": 560,
@@ -301,6 +301,18 @@
     },
     {
       "type": "updated",
+      "at": "20.11.2026 11:55",
+      "home": "Arminia Bielef",
+      "away": "FC Magdeburg"
+    },
+    {
+      "type": "updated",
+      "at": "20.11.2026 11:56",
+      "home": "SV Darmstadt 98",
+      "away": "FC Heidenheim"
+    },
+    {
+      "type": "updated",
       "at": "20.11.2026 08:52",
       "home": "Kashiwa Reysol",
       "away": "JEF United Chiba"
@@ -319,21 +331,9 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 11:35",
+      "at": "20.11.2026 11:50",
       "home": "Shakhtar Donetsk",
       "away": "Livyi Bereh"
-    },
-    {
-      "type": "updated",
-      "at": "20.11.2026 11:11",
-      "home": "FC Rostov",
-      "away": "Krylya Sovietov"
-    },
-    {
-      "type": "updated",
-      "at": "20.11.2026 09:50",
-      "home": "Imisli Fk",
-      "away": "FK Zira"
     }
   ],
   "today": {
@@ -412,18 +412,32 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Igdir FK",
-      "away": "Umraniyespor",
-      "league": "T1L",
-      "at": "20.11.2026 11:13",
-      "count": 4
+      "home": "SV Darmstadt 98",
+      "away": "FC Heidenheim",
+      "league": "AL2",
+      "at": "20.11.2026 11:56",
+      "count": 6
+    },
+    {
+      "home": "Arminia Bielef",
+      "away": "FC Magdeburg",
+      "league": "AL2",
+      "at": "20.11.2026 11:55",
+      "count": 5
     },
     {
       "home": "FC Rostov",
       "away": "Krylya Sovietov",
       "league": "RUS",
-      "at": "20.11.2026 11:11",
-      "count": 5
+      "at": "20.11.2026 11:50",
+      "count": 7
+    },
+    {
+      "home": "Igdir FK",
+      "away": "Umraniyespor",
+      "league": "T1L",
+      "at": "20.11.2026 11:13",
+      "count": 4
     },
     {
       "home": "FC Barcelona",
@@ -466,20 +480,6 @@
       "league": "BR1",
       "at": "19.11.2026 21:31",
       "count": 6
-    },
-    {
-      "home": "Club de Regatas Vasco da Gama",
-      "away": "Sport Club Internacional",
-      "league": "BR1",
-      "at": "19.11.2026 18:42",
-      "count": 6
-    },
-    {
-      "home": "Sao Paulo FC",
-      "away": "Fluminense FC",
-      "league": "BR1",
-      "at": "19.11.2026 18:42",
-      "count": 5
     }
   ],
   "paywall": {
