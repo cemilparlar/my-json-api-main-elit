@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 16:52",
+  "updatedAt": "20.11.2026 17:00",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 189,
-      "lost": 62,
-      "total": 251,
-      "rate": 75.3
+      "won": 191,
+      "lost": 63,
+      "total": 254,
+      "rate": 75.2
     },
-    "totalAnalyses": 767692,
+    "totalAnalyses": 767710,
     "leagues": 291,
     "pro": {
-      "won": 609,
-      "lost": 237,
-      "total": 846,
-      "rate": 72.0
+      "won": 610,
+      "lost": 238,
+      "total": 848,
+      "rate": 71.9
     },
     "insights": {
-      "won": 1044,
-      "lost": 430,
-      "total": 1474,
+      "won": 1045,
+      "lost": 431,
+      "total": 1476,
       "rate": 70.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3296,
-    "analyses30d": 17112
+    "analyses24h": 3295,
+    "analyses30d": 17103
   },
   "recentWins": [
     {
@@ -291,6 +291,12 @@
       "type": "coupon",
       "size": 3,
       "odds": 1.51,
+      "at": "20.11.2026 17:00"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.51,
       "at": "20.11.2026 16:05"
     },
     {
@@ -328,12 +334,6 @@
       "at": "20.11.2026 16:43",
       "home": "Athletic Bilbao",
       "away": "RCD Espanyol"
-    },
-    {
-      "type": "updated",
-      "at": "20.11.2026 14:27",
-      "home": "Barnsley",
-      "away": "Sheffield Wednesday"
     }
   ],
   "today": {
@@ -344,7 +344,7 @@
     "matchCode": "4476922",
     "odds": 1.87,
     "patternScore": 67.49,
-    "patternText": "232.474/344.455",
+    "patternText": "232.490/344.471",
     "aiScore": 52,
     "picks": 6
   },
@@ -357,7 +357,7 @@
       "matchCode": "4476922",
       "odds": 1.87,
       "patternScore": 67.49,
-      "patternText": "232.474/344.455",
+      "patternText": "232.490/344.471",
       "aiScore": 52,
       "picks": 6
     },
@@ -369,21 +369,9 @@
       "matchCode": "4492833",
       "odds": 1.8,
       "patternScore": 66.65,
-      "patternText": "164.289/246.502",
+      "patternText": "164.305/246.518",
       "aiScore": 52,
       "picks": 6
-    },
-    {
-      "home": "SK Rapid Wien",
-      "away": "FC Blau-Weiss Linz",
-      "league": "AU2",
-      "date": "20.11.2026 17:30",
-      "matchCode": "4496722",
-      "odds": 1.44,
-      "patternScore": 66.61,
-      "patternText": "249.967/375.265",
-      "aiScore": 54,
-      "picks": 2
     },
     {
       "home": "Caerphilly Ath",
@@ -393,7 +381,7 @@
       "matchCode": "4508943",
       "odds": 1.43,
       "patternScore": 67.41,
-      "patternText": "233.357/346.181",
+      "patternText": "233.373/346.197",
       "aiScore": 54,
       "picks": 1
     },
@@ -405,9 +393,21 @@
       "matchCode": "4480776",
       "odds": 1.41,
       "patternScore": 68.17,
-      "patternText": "170.648/250.338",
+      "patternText": "170.664/250.354",
       "aiScore": 58,
       "picks": 3
+    },
+    {
+      "home": "FC Den Bosch",
+      "away": "VVV-Venlo",
+      "league": "HOL2",
+      "date": "20.11.2026 19:00",
+      "matchCode": "4481939",
+      "odds": 1.41,
+      "patternScore": 68.1,
+      "patternText": "227.025/333.356",
+      "aiScore": 56,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
