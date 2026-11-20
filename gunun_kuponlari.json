@@ -2,11 +2,11 @@
   "version": 1,
   "stats7": {
     "multi": {
-      "won": 1,
+      "won": 2,
       "lost": 1
     },
     "cyz_3": {
-      "won": 1,
+      "won": 2,
       "lost": 1
     }
   },
@@ -48,7 +48,7 @@
       "lost": 9
     },
     "multi": {
-      "won": 100,
+      "won": 101,
       "lost": 90
     },
     "c70_1": {
@@ -76,13 +76,14 @@
       "lost": 5
     },
     "cyz_3": {
-      "won": 7,
+      "won": 8,
       "lost": 7
     }
   },
-  "updatedAt": "20.11.2026 21:08",
-  "updatedAtUtc": "2026-11-20T21:08:00Z",
-  "upcoming": [
+  "updatedAt": "20.11.2026 21:16",
+  "updatedAtUtc": "2026-11-20T21:16:00Z",
+  "upcoming": [],
+  "completed": [
     {
       "id": "20261120-19-1",
       "createdAt": "20.11.2026 16:05",
@@ -93,8 +94,8 @@
       "winChance": 53.22,
       "firstKickoff": "20.11.2026 17:00",
       "lastKickoff": "20.11.2026 19:00",
-      "status": "live",
-      "completedAt": null,
+      "status": "won",
+      "completedAt": "20.11.2026 21:16",
       "kind": "cyz_3",
       "group": "multi",
       "formula": "3",
@@ -165,15 +166,13 @@
           "patternScore": 69.86,
           "patternText": "304.957/436.502",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "2 - 0",
+          "finalScore": "4 - 2",
+          "status": "won",
           "aiScore": 85
         }
       ]
-    }
-  ],
-  "completed": [
+    },
     {
       "id": "20261120-13-1",
       "createdAt": "20.11.2026 10:04",

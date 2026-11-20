@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 21:08",
+  "updatedAt": "20.11.2026 21:16",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 320,
-      "lost": 104,
-      "total": 424,
+      "won": 330,
+      "lost": 107,
+      "total": 437,
       "rate": 75.5
     },
     "totalAnalyses": 768087,
     "leagues": 289,
     "pro": {
-      "won": 641,
-      "lost": 237,
-      "total": 878,
-      "rate": 73.0
+      "won": 649,
+      "lost": 238,
+      "total": 887,
+      "rate": 73.2
     },
     "insights": {
-      "won": 1097,
-      "lost": 432,
-      "total": 1529,
-      "rate": 71.7
+      "won": 1106,
+      "lost": 434,
+      "total": 1540,
+      "rate": 71.8
     },
     "coupons": {
-      "won": 1,
+      "won": 2,
       "lost": 1,
-      "total": 2,
-      "rate": 50.0
+      "total": 3,
+      "rate": 66.7
     },
-    "analyses24h": 3303,
-    "analyses30d": 16967
+    "analyses24h": 3301,
+    "analyses30d": 16965
   },
   "recentWins": [
     {
@@ -123,6 +123,35 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 3,
+      "totalOdds": 1.51,
+      "winChance": 53.22,
+      "completedAt": "20.11.2026 21:16",
+      "legs": [
+        {
+          "home": "Igdir FK",
+          "away": "Umraniyespor",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.11,
+          "finalScore": "2 - 2"
+        },
+        {
+          "home": "FC Metz",
+          "away": "Boulogne",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.14,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Annecy",
+          "away": "Clermont Foot",
+          "prediction": "Double Chance 12",
+          "odds": 1.19,
+          "finalScore": "4 - 2"
+        }
+      ]
+    },
     {
       "size": 3,
       "totalOdds": 1.5,
@@ -236,18 +265,30 @@
     }
   ],
   "today": {
-    "home": "Velez Sarsfiel",
-    "away": "Club Atletico Belgrano",
-    "league": "ARJ",
-    "date": "20.11.2026 23:00",
-    "matchCode": "4580867",
-    "odds": 1.25,
-    "patternScore": 68.85,
-    "patternText": "287.947/418.220",
-    "aiScore": 67,
-    "picks": 4
+    "home": "FC Juarez",
+    "away": "Atlas FC",
+    "league": "MEK",
+    "date": "21.11.2026 03:00",
+    "matchCode": "4476496",
+    "odds": 1.36,
+    "patternScore": 68.18,
+    "patternText": "208.278/305.486",
+    "aiScore": 64,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "FC Juarez",
+      "away": "Atlas FC",
+      "league": "MEK",
+      "date": "21.11.2026 03:00",
+      "matchCode": "4476496",
+      "odds": 1.36,
+      "patternScore": 68.18,
+      "patternText": "208.278/305.486",
+      "aiScore": 64,
+      "picks": 3
+    },
     {
       "home": "Velez Sarsfiel",
       "away": "Club Atletico Belgrano",
@@ -295,18 +336,6 @@
       "patternText": "196.398/282.161",
       "aiScore": 83,
       "picks": 1
-    },
-    {
-      "home": "Club Deportivo Palestino",
-      "away": "Union La Calera",
-      "league": "ŞİL",
-      "date": "20.11.2026 23:30",
-      "matchCode": "4436016",
-      "odds": 1.13,
-      "patternScore": 70.19,
-      "patternText": "337.969/481.488",
-      "aiScore": 82,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
