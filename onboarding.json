@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 05:57",
+  "updatedAt": "20.11.2026 06:06",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 88,
-      "lost": 38,
-      "total": 126,
-      "rate": 69.8
+      "won": 102,
+      "lost": 41,
+      "total": 143,
+      "rate": 71.3
     },
-    "totalAnalyses": 765932,
+    "totalAnalyses": 765938,
     "leagues": 286,
     "pro": {
-      "won": 547,
+      "won": 551,
       "lost": 212,
-      "total": 759,
-      "rate": 72.1
+      "total": 763,
+      "rate": 72.2
     },
     "insights": {
-      "won": 959,
-      "lost": 401,
-      "total": 1360,
-      "rate": 70.5
+      "won": 966,
+      "lost": 402,
+      "total": 1368,
+      "rate": 70.6
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3062,
-    "analyses30d": 16895
+    "analyses24h": 3065,
+    "analyses30d": 16898
   },
   "recentWins": [
     {
@@ -374,6 +374,18 @@
       "picks": 2
     },
     {
+      "home": "Fajr Sepasi",
+      "away": "Chadormalu",
+      "league": "IRAN",
+      "date": "20.11.2026 12:00",
+      "matchCode": "4580235",
+      "odds": 1.26,
+      "patternScore": 68.49,
+      "patternText": "216.222/315.715",
+      "aiScore": 62,
+      "picks": 2
+    },
+    {
       "home": "Sydney United 58 FC",
       "away": "Sutherland Sharks",
       "league": "AVC",
@@ -395,18 +407,6 @@
       "patternScore": 67.3,
       "patternText": "152.831/227.105",
       "aiScore": 65,
-      "picks": 1
-    },
-    {
-      "home": "Al Taraji",
-      "away": "Al Safa",
-      "league": "SUUD2",
-      "date": "20.11.2026 11:50",
-      "matchCode": "4572689",
-      "odds": 1.16,
-      "patternScore": 69.25,
-      "patternText": "232.600/335.874",
-      "aiScore": 81,
       "picks": 1
     }
   ],
