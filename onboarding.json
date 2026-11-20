@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 09:32",
+  "updatedAt": "20.11.2026 09:40",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 145,
       "rate": 71.0
     },
-    "totalAnalyses": 766307,
+    "totalAnalyses": 766320,
     "leagues": 287,
     "pro": {
       "won": 550,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3143,
-    "analyses30d": 16978
+    "analyses24h": 3142,
+    "analyses30d": 16977
   },
   "recentWins": [
     {
@@ -362,18 +362,6 @@
       "picks": 2
     },
     {
-      "home": "Albirex Niigata",
-      "away": "Balestier Khalsa",
-      "league": "SİNP",
-      "date": "20.11.2026 11:30",
-      "matchCode": "4538573",
-      "odds": 1.41,
-      "patternScore": 68.23,
-      "patternText": "203.375/298.067",
-      "aiScore": 57,
-      "picks": 2
-    },
-    {
       "home": "SC Hammam-Lif",
       "away": "AS Metlaoui",
       "league": "TUN1",
@@ -384,6 +372,18 @@
       "patternText": "161.098/241.133",
       "aiScore": 62,
       "picks": 2
+    },
+    {
+      "home": "Albirex Niigata",
+      "away": "Balestier Khalsa",
+      "league": "SİNP",
+      "date": "20.11.2026 11:30",
+      "matchCode": "4538573",
+      "odds": 1.37,
+      "patternScore": 68.77,
+      "patternText": "132.188/192.211",
+      "aiScore": 59,
+      "picks": 3
     },
     {
       "home": "Blida",
@@ -398,16 +398,16 @@
       "picks": 1
     },
     {
-      "home": "Police",
-      "away": "Kampala City Council FC",
-      "league": "UGA",
-      "date": "20.11.2026 13:00",
-      "matchCode": "4547680",
-      "odds": 1.28,
-      "patternScore": 68.21,
-      "patternText": "216.393/317.230",
-      "aiScore": 60,
-      "picks": 3
+      "home": "St. George SA",
+      "away": "Hadiya Hosaena",
+      "league": "ETH",
+      "date": "20.11.2026 12:30",
+      "matchCode": "4571952",
+      "odds": 1.29,
+      "patternScore": 68.22,
+      "patternText": "204.494/299.746",
+      "aiScore": 57,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
