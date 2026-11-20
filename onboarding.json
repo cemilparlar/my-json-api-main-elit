@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 14:36",
+  "updatedAt": "20.11.2026 14:45",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 193,
       "rate": 68.9
     },
-    "totalAnalyses": 767311,
-    "leagues": 290,
+    "totalAnalyses": 767327,
+    "leagues": 291,
     "pro": {
       "won": 589,
       "lost": 231,
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 3265,
-    "analyses30d": 17085
+    "analyses30d": 17083
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4476922",
     "odds": 1.87,
     "patternScore": 67.47,
-    "patternText": "232.128/344.031",
+    "patternText": "232.166/344.089",
     "aiScore": 52,
     "picks": 6
   },
@@ -357,7 +357,7 @@
       "matchCode": "4476922",
       "odds": 1.87,
       "patternScore": 67.47,
-      "patternText": "232.128/344.031",
+      "patternText": "232.166/344.089",
       "aiScore": 52,
       "picks": 6
     },
@@ -369,7 +369,7 @@
       "matchCode": "4508943",
       "odds": 1.43,
       "patternScore": 67.39,
-      "patternText": "233.015/345.757",
+      "patternText": "233.057/345.823",
       "aiScore": 55,
       "picks": 1
     },
@@ -381,7 +381,7 @@
       "matchCode": "4480776",
       "odds": 1.41,
       "patternScore": 68.15,
-      "patternText": "170.394/250.038",
+      "patternText": "170.412/250.064",
       "aiScore": 58,
       "picks": 3
     },
@@ -393,7 +393,7 @@
       "matchCode": "4474526",
       "odds": 1.39,
       "patternScore": 67.39,
-      "patternText": "284.423/422.055",
+      "patternText": "284.461/422.113",
       "aiScore": 57,
       "picks": 4
     },
@@ -405,12 +405,26 @@
       "matchCode": "4576071",
       "odds": 1.35,
       "patternScore": 68.37,
-      "patternText": "227.662/333.002",
+      "patternText": "227.704/333.064",
       "aiScore": 58,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "ESTAC Troyes",
+      "away": "Le Havre AC",
+      "league": "FR1",
+      "at": "20.11.2026 14:44",
+      "count": 5
+    },
+    {
+      "home": "FC Metz",
+      "away": "Boulogne",
+      "league": "FR2",
+      "at": "20.11.2026 14:43",
+      "count": 4
+    },
     {
       "home": "AS Nancy",
       "away": "Dijon FCO",
@@ -440,13 +454,6 @@
       "count": 10
     },
     {
-      "home": "ESTAC Troyes",
-      "away": "Le Havre AC",
-      "league": "FR1",
-      "at": "20.11.2026 14:02",
-      "count": 6
-    },
-    {
       "home": "Cercle Brugge",
       "away": "KVC Westerlo",
       "league": "BEL",
@@ -473,13 +480,6 @@
       "league": "İS2",
       "at": "20.11.2026 13:47",
       "count": 7
-    },
-    {
-      "home": "Igdir FK",
-      "away": "Umraniyespor",
-      "league": "T1L",
-      "at": "20.11.2026 13:43",
-      "count": 2
     }
   ],
   "paywall": {
