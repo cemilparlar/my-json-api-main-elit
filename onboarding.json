@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 23:19",
+  "updatedAt": "20.11.2026 23:27",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 409,
+      "won": 411,
       "lost": 150,
-      "total": 559,
-      "rate": 73.2
-    },
-    "totalAnalyses": 768294,
-    "leagues": 289,
-    "pro": {
-      "won": 699,
-      "lost": 254,
-      "total": 953,
+      "total": 561,
       "rate": 73.3
     },
+    "totalAnalyses": 768307,
+    "leagues": 289,
+    "pro": {
+      "won": 701,
+      "lost": 254,
+      "total": 955,
+      "rate": 73.4
+    },
     "insights": {
-      "won": 1186,
+      "won": 1188,
       "lost": 470,
-      "total": 1656,
-      "rate": 71.6
+      "total": 1658,
+      "rate": 71.7
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3334,
-    "analyses30d": 17006
+    "analyses24h": 3326,
+    "analyses30d": 16998
   },
   "recentWins": [
     {
@@ -241,12 +241,6 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 17:21",
-      "home": "Havelse",
-      "away": "Viktoria Koln"
-    },
-    {
-      "type": "updated",
       "at": "20.11.2026 18:24",
       "home": "En Avant Guingamp",
       "away": "Rodez AF"
@@ -262,21 +256,51 @@
       "at": "20.11.2026 18:23",
       "home": "FC Volendam",
       "away": "Jong Ajax"
+    },
+    {
+      "type": "updated",
+      "at": "20.11.2026 19:07",
+      "home": "Velez Sarsfiel",
+      "away": "Club Atletico Belgrano"
     }
   ],
   "today": {
-    "home": "FC Juarez",
-    "away": "Atlas FC",
-    "league": "MEK",
-    "date": "21.11.2026 03:00",
-    "matchCode": "4476496",
-    "odds": 1.43,
-    "patternScore": 67.53,
-    "patternText": "266.280/394.290",
-    "aiScore": 56,
-    "picks": 4
+    "home": "Suwon Samsung Bluewings",
+    "away": "Gyeongnam",
+    "league": "GKOR2",
+    "date": "21.11.2026 05:00",
+    "matchCode": "4442883",
+    "odds": 1.95,
+    "patternScore": 68.09,
+    "patternText": "259.250/380.736",
+    "aiScore": 52,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Suwon Samsung Bluewings",
+      "away": "Gyeongnam",
+      "league": "GKOR2",
+      "date": "21.11.2026 05:00",
+      "matchCode": "4442883",
+      "odds": 1.95,
+      "patternScore": 68.09,
+      "patternText": "259.250/380.736",
+      "aiScore": 52,
+      "picks": 2
+    },
+    {
+      "home": "Tokyo Verdy",
+      "away": "Nagoya Grampus",
+      "league": "JAP",
+      "date": "21.11.2026 05:00",
+      "matchCode": "4487269",
+      "odds": 1.58,
+      "patternScore": 67.8,
+      "patternText": "270.802/399.438",
+      "aiScore": 55,
+      "picks": 4
+    },
     {
       "home": "FC Juarez",
       "away": "Atlas FC",
@@ -290,52 +314,28 @@
       "picks": 4
     },
     {
+      "home": "FC Machida Zelvia",
+      "away": "V-Varen Nagasaki",
+      "league": "JAP",
+      "date": "21.11.2026 05:00",
+      "matchCode": "4487270",
+      "odds": 1.35,
+      "patternScore": 67.38,
+      "patternText": "115.771/171.807",
+      "aiScore": 61,
+      "picks": 5
+    },
+    {
       "home": "Kyoto Sanga FC",
       "away": "Urawa Red Diamonds",
       "league": "JAP",
       "date": "21.11.2026 05:00",
       "matchCode": "4487272",
-      "odds": 1.34,
-      "patternScore": 67.84,
-      "patternText": "295.538/435.615",
-      "aiScore": 58,
-      "picks": 4
-    },
-    {
-      "home": "Thespa Kusatsu Gunma",
-      "away": "Tochigi SC",
-      "league": "JAP3",
-      "date": "21.11.2026 05:00",
-      "matchCode": "4488057",
-      "odds": 1.28,
-      "patternScore": 68.7,
-      "patternText": "336.774/490.217",
+      "odds": 1.29,
+      "patternScore": 68.3,
+      "patternText": "312.595/457.706",
       "aiScore": 62,
-      "picks": 3
-    },
-    {
-      "home": "Auckland",
-      "away": "Melbourne Victory",
-      "league": "AVUS",
-      "date": "21.11.2026 04:00",
-      "matchCode": "4546759",
-      "odds": 1.27,
-      "patternScore": 68.19,
-      "patternText": "268.770/394.145",
-      "aiScore": 63,
-      "picks": 3
-    },
-    {
-      "home": "Club Tijuana",
-      "away": "Atlante",
-      "league": "MEK",
-      "date": "21.11.2026 03:10",
-      "matchCode": "4476497",
-      "odds": 1.27,
-      "patternScore": 68.39,
-      "patternText": "288.775/422.256",
-      "aiScore": 60,
-      "picks": 1
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
