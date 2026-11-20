@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 12:40",
+  "updatedAt": "20.11.2026 12:49",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 171,
       "rate": 65.5
     },
-    "totalAnalyses": 766680,
-    "leagues": 288,
+    "totalAnalyses": 766721,
+    "leagues": 289,
     "pro": {
       "won": 569,
       "lost": 229,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3130,
-    "analyses30d": 16969
+    "analyses24h": 3152,
+    "analyses30d": 16991
   },
   "recentWins": [
     {
@@ -325,15 +325,15 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 11:50",
-      "home": "FC Rostov",
-      "away": "Krylya Sovietov"
+      "at": "20.11.2026 12:36",
+      "home": "Shakhtar Donetsk",
+      "away": "Livyi Bereh"
     },
     {
       "type": "updated",
-      "at": "20.11.2026 09:50",
-      "home": "Imisli Fk",
-      "away": "FK Zira"
+      "at": "20.11.2026 11:50",
+      "home": "FC Rostov",
+      "away": "Krylya Sovietov"
     }
   ],
   "today": {
@@ -386,18 +386,6 @@
       "picks": 4
     },
     {
-      "home": "Stade Nyonnais",
-      "away": "FC Wil",
-      "league": "İSV2",
-      "date": "20.11.2026 18:30",
-      "matchCode": "4482247",
-      "odds": 1.3,
-      "patternScore": 67.89,
-      "patternText": "236.157/347.840",
-      "aiScore": 56,
-      "picks": 4
-    },
-    {
       "home": "Blida",
       "away": "JSM Tiaret",
       "league": "CZYR2",
@@ -408,6 +396,18 @@
       "patternText": "174.532/259.328",
       "aiScore": 65,
       "picks": 1
+    },
+    {
+      "home": "Igdir FK",
+      "away": "Umraniyespor",
+      "league": "T1L",
+      "date": "20.11.2026 17:00",
+      "matchCode": "4498879",
+      "odds": 1.24,
+      "patternScore": 68.09,
+      "patternText": "243.670/357.844",
+      "aiScore": 65,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
