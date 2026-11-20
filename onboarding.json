@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 12:57",
+  "updatedAt": "20.11.2026 13:05",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 112,
-      "lost": 59,
-      "total": 171,
-      "rate": 65.5
+      "won": 100,
+      "lost": 50,
+      "total": 150,
+      "rate": 66.7
     },
     "totalAnalyses": 766741,
     "leagues": 289,
     "pro": {
       "won": 569,
-      "lost": 229,
-      "total": 798,
-      "rate": 71.3
+      "lost": 227,
+      "total": 796,
+      "rate": 71.5
     },
     "insights": {
-      "won": 987,
-      "lost": 420,
-      "total": 1407,
-      "rate": 70.1
+      "won": 986,
+      "lost": 418,
+      "total": 1404,
+      "rate": 70.2
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3165,
-    "analyses30d": 17004
+    "analyses24h": 3139,
+    "analyses30d": 16985
   },
   "recentWins": [
     {
@@ -345,7 +345,7 @@
     "odds": 1.39,
     "patternScore": 67.38,
     "patternText": "284.277/421.871",
-    "aiScore": 56,
+    "aiScore": 57,
     "picks": 4
   },
   "todayList": [
@@ -358,8 +358,20 @@
       "odds": 1.39,
       "patternScore": 67.38,
       "patternText": "284.277/421.871",
-      "aiScore": 56,
+      "aiScore": 57,
       "picks": 4
+    },
+    {
+      "home": "En Avant Guingamp",
+      "away": "Rodez AF",
+      "league": "FR2",
+      "date": "20.11.2026 19:00",
+      "matchCode": "4476919",
+      "odds": 1.35,
+      "patternScore": 68.62,
+      "patternText": "167.866/244.641",
+      "aiScore": 61,
+      "picks": 3
     },
     {
       "home": "ES Setif",
@@ -374,6 +386,18 @@
       "picks": 3
     },
     {
+      "home": "SC Wiedenbruck",
+      "away": "Bochum Ii",
+      "league": "ALMBÖL",
+      "date": "20.11.2026 18:30",
+      "matchCode": "4507340",
+      "odds": 1.32,
+      "patternScore": 68.58,
+      "patternText": "289.199/421.683",
+      "aiScore": 57,
+      "picks": 4
+    },
+    {
       "home": "Al Ahli Jeddah",
       "away": "Al Nassr",
       "league": "SUUD",
@@ -384,30 +408,6 @@
       "patternText": "220.139/324.927",
       "aiScore": 56,
       "picks": 4
-    },
-    {
-      "home": "Blida",
-      "away": "JSM Tiaret",
-      "league": "CZYR2",
-      "date": "20.11.2026 14:00",
-      "matchCode": "4579751",
-      "odds": 1.29,
-      "patternScore": 67.3,
-      "patternText": "174.532/259.328",
-      "aiScore": 65,
-      "picks": 1
-    },
-    {
-      "home": "Igdir FK",
-      "away": "Umraniyespor",
-      "league": "T1L",
-      "date": "20.11.2026 17:00",
-      "matchCode": "4498879",
-      "odds": 1.24,
-      "patternScore": 68.09,
-      "patternText": "243.670/357.844",
-      "aiScore": 65,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
