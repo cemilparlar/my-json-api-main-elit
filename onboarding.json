@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 21:56",
+  "updatedAt": "20.11.2026 22:04",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 388,
-      "lost": 127,
-      "total": 515,
-      "rate": 75.3
+      "won": 398,
+      "lost": 142,
+      "total": 540,
+      "rate": 73.7
     },
-    "totalAnalyses": 768120,
+    "totalAnalyses": 768148,
     "leagues": 289,
     "pro": {
-      "won": 681,
-      "lost": 248,
-      "total": 929,
+      "won": 685,
+      "lost": 250,
+      "total": 935,
       "rate": 73.3
     },
     "insights": {
-      "won": 1158,
-      "lost": 451,
-      "total": 1609,
-      "rate": 72.0
+      "won": 1166,
+      "lost": 459,
+      "total": 1625,
+      "rate": 71.8
     },
     "coupons": {
       "won": 2,
@@ -48,7 +48,7 @@
       "rate": 66.7
     },
     "analyses24h": 3302,
-    "analyses30d": 16966
+    "analyses30d": 16962
   },
   "recentWins": [
     {
@@ -94,6 +94,20 @@
       "pro": true
     },
     {
+      "home": "Cercle Brugge",
+      "away": "KVC Westerlo",
+      "league": "BEL",
+      "date": "20.11.2026 19:45",
+      "prediction": "Both Teams to Score - No",
+      "odds": 2.31,
+      "probability": 70.0,
+      "patternScore": 67.27,
+      "aiScore": 51,
+      "firstHalf": "0 - 0",
+      "finalScore": "1 - 0",
+      "pro": true
+    },
+    {
       "home": "Union Magdalen",
       "away": "Centauros",
       "league": "KOLB",
@@ -103,20 +117,6 @@
       "probability": 100.0,
       "patternScore": 59.98,
       "aiScore": 52,
-      "firstHalf": "0 - 0",
-      "finalScore": "1 - 2",
-      "pro": false
-    },
-    {
-      "home": "Maroons",
-      "away": "NEC Nijmegen",
-      "league": "UGA",
-      "date": "19.11.2026 13:00",
-      "prediction": "1st Half Under 0.5",
-      "odds": 2.05,
-      "probability": 72.73,
-      "patternScore": 67.5,
-      "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "1 - 2",
       "pro": false
@@ -209,11 +209,11 @@
     },
     {
       "type": "won",
-      "home": "Union Magdalen",
-      "away": "Centauros",
-      "prediction": "1st Half Result X",
-      "odds": 2.22,
-      "at": "19.11.2026 22:30"
+      "home": "Cercle Brugge",
+      "away": "KVC Westerlo",
+      "prediction": "Both Teams to Score - No",
+      "odds": 2.31,
+      "at": "20.11.2026 19:45"
     },
     {
       "type": "coupon",
@@ -259,9 +259,9 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 16:01",
-      "home": "FC Metz",
-      "away": "Boulogne"
+      "at": "20.11.2026 19:05",
+      "home": "ESTAC Troyes",
+      "away": "Le Havre AC"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4476496",
     "odds": 1.43,
     "patternScore": 67.53,
-    "patternText": "266.116/394.064",
+    "patternText": "266.190/394.154",
     "aiScore": 56,
     "picks": 4
   },
@@ -285,7 +285,7 @@
       "matchCode": "4476496",
       "odds": 1.43,
       "patternScore": 67.53,
-      "patternText": "266.116/394.064",
+      "patternText": "266.190/394.154",
       "aiScore": 56,
       "picks": 4
     },
@@ -296,8 +296,8 @@
       "date": "21.11.2026 03:10",
       "matchCode": "4476497",
       "odds": 1.37,
-      "patternScore": 67.98,
-      "patternText": "268.469/394.902",
+      "patternScore": 67.99,
+      "patternText": "268.531/394.980",
       "aiScore": 59,
       "picks": 2
     },
@@ -309,7 +309,7 @@
       "matchCode": "4580867",
       "odds": 1.25,
       "patternScore": 68.85,
-      "patternText": "288.023/418.320",
+      "patternText": "288.073/418.390",
       "aiScore": 67,
       "picks": 4
     },
@@ -321,20 +321,20 @@
       "matchCode": "4580966",
       "odds": 1.22,
       "patternScore": 68.14,
-      "patternText": "257.103/377.299",
+      "patternText": "257.151/377.363",
       "aiScore": 64,
       "picks": 3
     },
     {
-      "home": "Club Puebla",
-      "away": "Atletico San Luis",
-      "league": "MEK",
-      "date": "21.11.2026 01:00",
-      "matchCode": "4476495",
-      "odds": 1.15,
-      "patternScore": 70.56,
-      "patternText": "251.493/356.405",
-      "aiScore": 95,
+      "home": "Auckland",
+      "away": "Melbourne Victory",
+      "league": "AVUS",
+      "date": "21.11.2026 04:00",
+      "matchCode": "4546759",
+      "odds": 1.2,
+      "patternScore": 69.26,
+      "patternText": "184.251/266.026",
+      "aiScore": 91,
       "picks": 2
     }
   ],
