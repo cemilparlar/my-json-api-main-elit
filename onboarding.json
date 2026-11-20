@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 04:23",
+  "updatedAt": "20.11.2026 04:31",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 126,
       "rate": 69.8
     },
-    "totalAnalyses": 765824,
+    "totalAnalyses": 765827,
     "leagues": 286,
     "pro": {
       "won": 547,
@@ -372,6 +372,18 @@
       "picks": 1
     },
     {
+      "home": "Imisli Fk",
+      "away": "FK Zira",
+      "league": "AZERPL",
+      "date": "20.11.2026 10:30",
+      "matchCode": "4523912",
+      "odds": 1.13,
+      "patternScore": 69.88,
+      "patternText": "304.134/435.237",
+      "aiScore": 84,
+      "picks": 1
+    },
+    {
       "home": "Garudayaksa",
       "away": "Madura United",
       "league": "ENDL1",
@@ -393,18 +405,6 @@
       "patternScore": 70.16,
       "patternText": "221.508/315.706",
       "aiScore": 93,
-      "picks": 1
-    },
-    {
-      "home": "Sydney United 58 FC",
-      "away": "Sutherland Sharks",
-      "league": "AVC",
-      "date": "20.11.2026 08:30",
-      "matchCode": "4573635",
-      "odds": 1.07,
-      "patternScore": 69.83,
-      "patternText": "211.372/302.685",
-      "aiScore": 96,
       "picks": 1
     }
   ],
