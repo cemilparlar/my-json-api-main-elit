@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 16:24",
+  "updatedAt": "20.11.2026 16:32",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 254,
       "rate": 75.2
     },
-    "totalAnalyses": 767651,
+    "totalAnalyses": 767684,
     "leagues": 291,
     "pro": {
       "won": 605,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3303,
-    "analyses30d": 17134
+    "analyses24h": 3300,
+    "analyses30d": 17131
   },
   "recentWins": [
     {
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "AS Nancy",
-    "away": "Dijon FCO",
-    "league": "FR2",
-    "date": "20.11.2026 19:00",
-    "matchCode": "4476922",
-    "odds": 1.87,
-    "patternScore": 67.49,
-    "patternText": "232.474/344.455",
+    "home": "Athletic Bilbao",
+    "away": "RCD Espanyol",
+    "league": "İS1",
+    "date": "20.11.2026 20:00",
+    "matchCode": "4492380",
+    "odds": 2.0,
+    "patternScore": 66.55,
+    "patternText": "141.502/212.615",
     "aiScore": 52,
-    "picks": 6
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Athletic Bilbao",
+      "away": "RCD Espanyol",
+      "league": "İS1",
+      "date": "20.11.2026 20:00",
+      "matchCode": "4492380",
+      "odds": 2.0,
+      "patternScore": 66.55,
+      "patternText": "141.502/212.615",
+      "aiScore": 52,
+      "picks": 4
+    },
     {
       "home": "AS Nancy",
       "away": "Dijon FCO",
@@ -394,20 +406,8 @@
       "odds": 1.43,
       "patternScore": 67.41,
       "patternText": "233.357/346.181",
-      "aiScore": 55,
+      "aiScore": 54,
       "picks": 1
-    },
-    {
-      "home": "Cercle Brugge",
-      "away": "KVC Westerlo",
-      "league": "BEL",
-      "date": "20.11.2026 19:45",
-      "matchCode": "4480776",
-      "odds": 1.41,
-      "patternScore": 68.17,
-      "patternText": "170.648/250.338",
-      "aiScore": 58,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
