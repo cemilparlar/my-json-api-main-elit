@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 10:48",
+  "updatedAt": "20.11.2026 10:58",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 107,
-      "lost": 42,
-      "total": 149,
-      "rate": 71.8
+      "won": 116,
+      "lost": 51,
+      "total": 167,
+      "rate": 69.5
     },
-    "totalAnalyses": 766398,
+    "totalAnalyses": 766406,
     "leagues": 288,
     "pro": {
-      "won": 552,
-      "lost": 212,
-      "total": 764,
-      "rate": 72.3
+      "won": 559,
+      "lost": 221,
+      "total": 780,
+      "rate": 71.7
     },
     "insights": {
-      "won": 967,
-      "lost": 402,
-      "total": 1369,
-      "rate": 70.6
+      "won": 975,
+      "lost": 411,
+      "total": 1386,
+      "rate": 70.3
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3158,
-    "analyses30d": 16993
+    "analyses24h": 3163,
+    "analyses30d": 16998
   },
   "recentWins": [
     {
@@ -325,15 +325,15 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 09:50",
-      "home": "Imisli Fk",
-      "away": "FK Zira"
+      "at": "20.11.2026 10:54",
+      "home": "FC Rostov",
+      "away": "Krylya Sovietov"
     },
     {
       "type": "updated",
-      "at": "20.11.2026 09:51",
-      "home": "Swit Skolwin",
-      "away": "Stal Stalowa Wola"
+      "at": "20.11.2026 09:50",
+      "home": "Imisli Fk",
+      "away": "FK Zira"
     }
   ],
   "today": {
@@ -412,6 +412,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "FC Rostov",
+      "away": "Krylya Sovietov",
+      "league": "RUS",
+      "at": "20.11.2026 10:54",
+      "count": 7
+    },
+    {
       "home": "FC Barcelona",
       "away": "Villarreal CF",
       "league": "İS1",
@@ -472,13 +479,6 @@
       "away": "AS Roma Women",
       "league": "ŞMP-K",
       "at": "19.11.2026 17:06",
-      "count": 3
-    },
-    {
-      "home": "Arsenal Women",
-      "away": "Lyon Women",
-      "league": "ŞMP-K",
-      "at": "19.11.2026 17:05",
       "count": 3
     }
   ],
