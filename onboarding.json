@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 15:20",
+  "updatedAt": "20.11.2026 15:28",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 232,
       "rate": 71.1
     },
-    "totalAnalyses": 767428,
+    "totalAnalyses": 767468,
     "leagues": 291,
     "pro": {
       "won": 603,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3271,
-    "analyses30d": 17085
+    "analyses24h": 3281,
+    "analyses30d": 17095
   },
   "recentWins": [
     {
@@ -362,6 +362,18 @@
       "picks": 6
     },
     {
+      "home": "FC Andorra",
+      "away": "CD Leganes",
+      "league": "İS2",
+      "date": "20.11.2026 19:30",
+      "matchCode": "4492833",
+      "odds": 1.8,
+      "patternScore": 66.63,
+      "patternText": "164.133/246.318",
+      "aiScore": 52,
+      "picks": 6
+    },
+    {
       "home": "Caerphilly Ath",
       "away": "Llanelli Town",
       "league": "GALFAW",
@@ -394,18 +406,6 @@
       "odds": 1.39,
       "patternScore": 67.4,
       "patternText": "284.661/422.351",
-      "aiScore": 56,
-      "picks": 4
-    },
-    {
-      "home": "Al Ahli Jeddah",
-      "away": "Al Nassr",
-      "league": "SUUD",
-      "date": "20.11.2026 17:30",
-      "matchCode": "4522585",
-      "odds": 1.31,
-      "patternScore": 67.76,
-      "patternText": "220.487/325.379",
       "aiScore": 56,
       "picks": 4
     }
