@@ -4,7 +4,7 @@
   "stats30": {
     "legacy": {
       "won": 62,
-      "lost": 52
+      "lost": 50
     },
     "safe": {
       "won": 36,
@@ -71,8 +71,8 @@
       "lost": 6
     }
   },
-  "updatedAt": "20.11.2026 15:02",
-  "updatedAtUtc": "2026-11-20T15:02:00Z",
+  "updatedAt": "20.11.2026 15:12",
+  "updatedAtUtc": "2026-11-20T15:12:00Z",
   "upcoming": [
     {
       "id": "20261120-13-1",
@@ -156,9 +156,9 @@
           "patternScore": 69.99,
           "patternText": "156.303/223.325",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 0",
+          "status": "won",
           "aiScore": 80
         }
       ]

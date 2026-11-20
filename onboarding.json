@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 15:02",
+  "updatedAt": "20.11.2026 15:12",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 141,
-      "lost": 61,
-      "total": 202,
-      "rate": 69.8
+      "won": 165,
+      "lost": 67,
+      "total": 232,
+      "rate": 71.1
     },
-    "totalAnalyses": 767391,
+    "totalAnalyses": 767412,
     "leagues": 291,
     "pro": {
-      "won": 590,
-      "lost": 231,
-      "total": 821,
-      "rate": 71.9
+      "won": 603,
+      "lost": 234,
+      "total": 837,
+      "rate": 72.0
     },
     "insights": {
-      "won": 1018,
-      "lost": 427,
-      "total": 1445,
-      "rate": 70.4
+      "won": 1035,
+      "lost": 430,
+      "total": 1465,
+      "rate": 70.6
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3276,
-    "analyses30d": 17093
+    "analyses24h": 3270,
+    "analyses30d": 17085
   },
   "recentWins": [
     {
@@ -319,7 +319,7 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 14:07",
+      "at": "20.11.2026 15:02",
       "home": "Athletic Bilbao",
       "away": "RCD Espanyol"
     },
@@ -370,7 +370,7 @@
       "odds": 1.43,
       "patternScore": 67.4,
       "patternText": "233.109/345.881",
-      "aiScore": 55,
+      "aiScore": 54,
       "picks": 1
     },
     {
@@ -394,36 +394,43 @@
       "odds": 1.39,
       "patternScore": 67.39,
       "patternText": "284.537/422.203",
-      "aiScore": 57,
+      "aiScore": 56,
       "picks": 4
     },
     {
-      "home": "ES Setif",
-      "away": "Biskra",
-      "league": "CZYR",
-      "date": "20.11.2026 16:00",
-      "matchCode": "4546170",
-      "odds": 1.34,
-      "patternScore": 67.8,
-      "patternText": "215.428/317.734",
-      "aiScore": 55,
-      "picks": 3
+      "home": "Al Ahli Jeddah",
+      "away": "Al Nassr",
+      "league": "SUUD",
+      "date": "20.11.2026 17:30",
+      "matchCode": "4522585",
+      "odds": 1.31,
+      "patternScore": 67.76,
+      "patternText": "220.367/325.235",
+      "aiScore": 56,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Athletic Bilbao",
+      "away": "RCD Espanyol",
+      "league": "İS1",
+      "at": "20.11.2026 15:02",
+      "count": 2
+    },
+    {
+      "home": "ESTAC Troyes",
+      "away": "Le Havre AC",
+      "league": "FR1",
+      "at": "20.11.2026 15:02",
+      "count": 5
+    },
     {
       "home": "Annecy",
       "away": "Clermont Foot",
       "league": "FR2",
       "at": "20.11.2026 15:01",
       "count": 8
-    },
-    {
-      "home": "ESTAC Troyes",
-      "away": "Le Havre AC",
-      "league": "FR1",
-      "at": "20.11.2026 14:44",
-      "count": 5
     },
     {
       "home": "FC Metz",
@@ -452,13 +459,6 @@
       "league": "RUS",
       "at": "20.11.2026 14:23",
       "count": 6
-    },
-    {
-      "home": "Athletic Bilbao",
-      "away": "RCD Espanyol",
-      "league": "İS1",
-      "at": "20.11.2026 14:07",
-      "count": 10
     },
     {
       "home": "Cercle Brugge",
