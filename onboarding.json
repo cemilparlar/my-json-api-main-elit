@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 08:25",
+  "updatedAt": "20.11.2026 08:32",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 146,
       "rate": 70.5
     },
-    "totalAnalyses": 766186,
+    "totalAnalyses": 766225,
     "leagues": 287,
     "pro": {
-      "won": 551,
+      "won": 550,
       "lost": 212,
-      "total": 763,
+      "total": 762,
       "rate": 72.2
     },
     "insights": {
-      "won": 967,
+      "won": 964,
       "lost": 402,
-      "total": 1369,
+      "total": 1366,
       "rate": 70.6
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": null
     },
     "analyses24h": 3144,
-    "analyses30d": 16977
+    "analyses30d": 16978
   },
   "recentWins": [
     {
@@ -295,7 +295,7 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 06:21",
+      "at": "20.11.2026 08:30",
       "home": "Kashiwa Reysol",
       "away": "JEF United Chiba"
     },
@@ -362,6 +362,18 @@
       "picks": 8
     },
     {
+      "home": "GC Mascara",
+      "away": "Saida",
+      "league": "CZYR2",
+      "date": "20.11.2026 14:00",
+      "matchCode": "4579756",
+      "odds": 1.45,
+      "patternScore": 67.36,
+      "patternText": "172.264/255.738",
+      "aiScore": 59,
+      "picks": 1
+    },
+    {
       "home": "Black Bulls Ma",
       "away": "Ferroviario Map",
       "league": "MOZ",
@@ -395,18 +407,6 @@
       "patternScore": 66.81,
       "patternText": "161.098/241.133",
       "aiScore": 62,
-      "picks": 2
-    },
-    {
-      "home": "GC Mascara",
-      "away": "Saida",
-      "league": "CZYR2",
-      "date": "20.11.2026 14:00",
-      "matchCode": "4579756",
-      "odds": 1.35,
-      "patternScore": 68.26,
-      "patternText": "241.051/353.115",
-      "aiScore": 60,
       "picks": 2
     }
   ],
