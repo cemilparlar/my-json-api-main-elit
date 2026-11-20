@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 15:46",
+  "updatedAt": "20.11.2026 15:54",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 173,
-      "lost": 65,
-      "total": 238,
-      "rate": 72.7
+      "won": 184,
+      "lost": 67,
+      "total": 251,
+      "rate": 73.3
     },
-    "totalAnalyses": 767521,
+    "totalAnalyses": 767537,
     "leagues": 291,
     "pro": {
-      "won": 610,
+      "won": 612,
       "lost": 238,
-      "total": 848,
-      "rate": 71.9
+      "total": 850,
+      "rate": 72.0
     },
     "insights": {
-      "won": 1045,
+      "won": 1048,
       "lost": 434,
-      "total": 1479,
+      "total": 1482,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3282,
-    "analyses30d": 17106
+    "analyses24h": 3284,
+    "analyses30d": 17108
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4476922",
     "odds": 1.87,
     "patternScore": 67.49,
-    "patternText": "232.388/344.343",
+    "patternText": "232.398/344.359",
     "aiScore": 52,
     "picks": 6
   },
@@ -357,7 +357,7 @@
       "matchCode": "4476922",
       "odds": 1.87,
       "patternScore": 67.49,
-      "patternText": "232.388/344.343",
+      "patternText": "232.398/344.359",
       "aiScore": 52,
       "picks": 6
     },
@@ -369,9 +369,33 @@
       "matchCode": "4492833",
       "odds": 1.8,
       "patternScore": 66.64,
-      "patternText": "164.179/246.378",
+      "patternText": "164.189/246.394",
       "aiScore": 52,
       "picks": 6
+    },
+    {
+      "home": "Athletic Bilbao",
+      "away": "RCD Espanyol",
+      "league": "İS1",
+      "date": "20.11.2026 20:00",
+      "matchCode": "4492380",
+      "odds": 1.46,
+      "patternScore": 66.82,
+      "patternText": "218.696/327.288",
+      "aiScore": 55,
+      "picks": 4
+    },
+    {
+      "home": "SK Rapid Wien",
+      "away": "FC Blau-Weiss Linz",
+      "league": "AU2",
+      "date": "20.11.2026 17:30",
+      "matchCode": "4496722",
+      "odds": 1.44,
+      "patternScore": 66.61,
+      "patternText": "249.871/375.145",
+      "aiScore": 54,
+      "picks": 2
     },
     {
       "home": "Caerphilly Ath",
@@ -381,33 +405,9 @@
       "matchCode": "4508943",
       "odds": 1.43,
       "patternScore": 67.41,
-      "patternText": "233.275/346.073",
+      "patternText": "233.289/346.093",
       "aiScore": 54,
       "picks": 1
-    },
-    {
-      "home": "Cercle Brugge",
-      "away": "KVC Westerlo",
-      "league": "BEL",
-      "date": "20.11.2026 19:45",
-      "matchCode": "4480776",
-      "odds": 1.41,
-      "patternScore": 68.16,
-      "patternText": "170.566/250.242",
-      "aiScore": 58,
-      "picks": 3
-    },
-    {
-      "home": "AGF Aarhus",
-      "away": "Lyngby BK",
-      "league": "DAN",
-      "date": "20.11.2026 18:00",
-      "matchCode": "4474526",
-      "odds": 1.39,
-      "patternScore": 67.4,
-      "patternText": "284.695/422.391",
-      "aiScore": 56,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
