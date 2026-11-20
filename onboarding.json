@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 15:12",
+  "updatedAt": "20.11.2026 15:20",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 232,
       "rate": 71.1
     },
-    "totalAnalyses": 767412,
+    "totalAnalyses": 767428,
     "leagues": 291,
     "pro": {
       "won": 603,
@@ -47,7 +47,7 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3270,
+    "analyses24h": 3271,
     "analyses30d": 17085
   },
   "recentWins": [
@@ -94,6 +94,20 @@
       "pro": false
     },
     {
+      "home": "Welwalo Adigrat University",
+      "away": "Mekelakeya",
+      "league": "ETH",
+      "date": "20.11.2026 13:00",
+      "prediction": "Under 1.5 Goals",
+      "odds": 1.87,
+      "probability": 75.0,
+      "patternScore": 63.76,
+      "aiScore": 51,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 0",
+      "pro": true
+    },
+    {
       "home": "Chelsea Women",
       "away": "PSG Women",
       "league": "ŞMP-K",
@@ -106,20 +120,6 @@
       "firstHalf": "0 - 0",
       "finalScore": "1 - 0",
       "pro": false
-    },
-    {
-      "home": "Cruzeiro EC",
-      "away": "SE Palmeiras",
-      "league": "BR1",
-      "date": "18.11.2026 23:30",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.84,
-      "probability": 85.71428571428571,
-      "patternScore": 66.56,
-      "aiScore": 52,
-      "firstHalf": "0 - 0",
-      "finalScore": "2 - 1",
-      "pro": true
     }
   ],
   "recentCoupons": [
@@ -281,11 +281,11 @@
     },
     {
       "type": "won",
-      "home": "Chelsea Women",
-      "away": "PSG Women",
-      "prediction": "Both Teams to Score - No",
+      "home": "Welwalo Adigrat University",
+      "away": "Mekelakeya",
+      "prediction": "Under 1.5 Goals",
       "odds": 1.87,
-      "at": "18.11.2026 20:00"
+      "at": "20.11.2026 13:00"
     },
     {
       "type": "coupon",
@@ -307,7 +307,7 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 13:47",
+      "at": "20.11.2026 15:19",
       "home": "FC Andorra",
       "away": "CD Leganes"
     },
@@ -343,8 +343,8 @@
     "date": "20.11.2026 19:00",
     "matchCode": "4476922",
     "odds": 1.87,
-    "patternScore": 67.48,
-    "patternText": "232.218/344.147",
+    "patternScore": 67.49,
+    "patternText": "232.362/344.315",
     "aiScore": 52,
     "picks": 6
   },
@@ -356,8 +356,8 @@
       "date": "20.11.2026 19:00",
       "matchCode": "4476922",
       "odds": 1.87,
-      "patternScore": 67.48,
-      "patternText": "232.218/344.147",
+      "patternScore": 67.49,
+      "patternText": "232.362/344.315",
       "aiScore": 52,
       "picks": 6
     },
@@ -369,7 +369,7 @@
       "matchCode": "4508943",
       "odds": 1.43,
       "patternScore": 67.4,
-      "patternText": "233.109/345.881",
+      "patternText": "233.249/346.045",
       "aiScore": 54,
       "picks": 1
     },
@@ -380,8 +380,8 @@
       "date": "20.11.2026 19:45",
       "matchCode": "4480776",
       "odds": 1.41,
-      "patternScore": 68.15,
-      "patternText": "170.448/250.106",
+      "patternScore": 68.16,
+      "patternText": "170.536/250.206",
       "aiScore": 58,
       "picks": 3
     },
@@ -392,8 +392,8 @@
       "date": "20.11.2026 18:00",
       "matchCode": "4474526",
       "odds": 1.39,
-      "patternScore": 67.39,
-      "patternText": "284.537/422.203",
+      "patternScore": 67.4,
+      "patternText": "284.661/422.351",
       "aiScore": 56,
       "picks": 4
     },
@@ -405,25 +405,32 @@
       "matchCode": "4522585",
       "odds": 1.31,
       "patternScore": 67.76,
-      "patternText": "220.367/325.235",
+      "patternText": "220.487/325.379",
       "aiScore": 56,
       "picks": 4
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "ESTAC Troyes",
+      "away": "Le Havre AC",
+      "league": "FR1",
+      "at": "20.11.2026 15:20",
+      "count": 5
+    },
+    {
+      "home": "FC Andorra",
+      "away": "CD Leganes",
+      "league": "İS2",
+      "at": "20.11.2026 15:19",
+      "count": 7
+    },
+    {
       "home": "Athletic Bilbao",
       "away": "RCD Espanyol",
       "league": "İS1",
       "at": "20.11.2026 15:02",
       "count": 2
-    },
-    {
-      "home": "ESTAC Troyes",
-      "away": "Le Havre AC",
-      "league": "FR1",
-      "at": "20.11.2026 15:02",
-      "count": 5
     },
     {
       "home": "Annecy",
@@ -473,13 +480,6 @@
       "league": "İNCL",
       "at": "20.11.2026 13:51",
       "count": 5
-    },
-    {
-      "home": "Verona",
-      "away": "Cesena FC",
-      "league": "İTB",
-      "at": "20.11.2026 13:48",
-      "count": 7
     }
   ],
   "paywall": {
