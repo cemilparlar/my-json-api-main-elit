@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 22:54",
+  "updatedAt": "20.11.2026 23:02",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 401,
-      "lost": 146,
-      "total": 547,
-      "rate": 73.3
+      "won": 405,
+      "lost": 149,
+      "total": 554,
+      "rate": 73.1
     },
-    "totalAnalyses": 768224,
+    "totalAnalyses": 768228,
     "leagues": 289,
     "pro": {
-      "won": 694,
-      "lost": 252,
-      "total": 946,
-      "rate": 73.4
+      "won": 697,
+      "lost": 254,
+      "total": 951,
+      "rate": 73.3
     },
     "insights": {
-      "won": 1181,
-      "lost": 467,
-      "total": 1648,
-      "rate": 71.7
+      "won": 1183,
+      "lost": 469,
+      "total": 1652,
+      "rate": 71.6
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3291,
-    "analyses30d": 16968
+    "analyses24h": 3289,
+    "analyses30d": 16964
   },
   "recentWins": [
     {
@@ -265,18 +265,30 @@
     }
   ],
   "today": {
-    "home": "FC Juarez",
-    "away": "Atlas FC",
-    "league": "MEK",
-    "date": "21.11.2026 03:00",
-    "matchCode": "4476496",
-    "odds": 1.43,
-    "patternScore": 67.53,
-    "patternText": "266.248/394.250",
-    "aiScore": 56,
-    "picks": 4
+    "home": "Tokyo Verdy",
+    "away": "Nagoya Grampus",
+    "league": "JAP",
+    "date": "21.11.2026 05:00",
+    "matchCode": "4487269",
+    "odds": 1.48,
+    "patternScore": 68.59,
+    "patternText": "170.488/248.576",
+    "aiScore": 58,
+    "picks": 6
   },
   "todayList": [
+    {
+      "home": "Tokyo Verdy",
+      "away": "Nagoya Grampus",
+      "league": "JAP",
+      "date": "21.11.2026 05:00",
+      "matchCode": "4487269",
+      "odds": 1.48,
+      "patternScore": 68.59,
+      "patternText": "170.488/248.576",
+      "aiScore": 58,
+      "picks": 6
+    },
     {
       "home": "FC Juarez",
       "away": "Atlas FC",
@@ -285,7 +297,7 @@
       "matchCode": "4476496",
       "odds": 1.43,
       "patternScore": 67.53,
-      "patternText": "266.248/394.250",
+      "patternText": "266.252/394.254",
       "aiScore": 56,
       "picks": 4
     },
@@ -297,9 +309,21 @@
       "matchCode": "4476497",
       "odds": 1.37,
       "patternScore": 67.98,
-      "patternText": "268.577/395.062",
+      "patternText": "268.581/395.066",
       "aiScore": 59,
       "picks": 2
+    },
+    {
+      "home": "Kyoto Sanga FC",
+      "away": "Urawa Red Diamonds",
+      "league": "JAP",
+      "date": "21.11.2026 05:00",
+      "matchCode": "4487272",
+      "odds": 1.34,
+      "patternScore": 67.84,
+      "patternText": "295.514/435.583",
+      "aiScore": 58,
+      "picks": 4
     },
     {
       "home": "Auckland",
@@ -309,32 +333,8 @@
       "matchCode": "4546759",
       "odds": 1.27,
       "patternScore": 68.19,
-      "patternText": "268.750/394.119",
+      "patternText": "268.754/394.123",
       "aiScore": 63,
-      "picks": 3
-    },
-    {
-      "home": "Marconi Stallions",
-      "away": "Sydney Olympic FC",
-      "league": "AVC",
-      "date": "21.11.2026 04:00",
-      "matchCode": "4573659",
-      "odds": 1.25,
-      "patternScore": 68.15,
-      "patternText": "258.836/379.805",
-      "aiScore": 60,
-      "picks": 3
-    },
-    {
-      "home": "Deportivo Cali",
-      "away": "Los Millionarios",
-      "league": "KOL",
-      "date": "21.11.2026 01:40",
-      "matchCode": "4580966",
-      "odds": 1.22,
-      "patternScore": 68.14,
-      "patternText": "257.181/377.417",
-      "aiScore": 64,
       "picks": 3
     }
   ],
