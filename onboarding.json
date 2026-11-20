@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 11:56",
+  "updatedAt": "20.11.2026 12:06",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 118,
-      "lost": 52,
-      "total": 170,
-      "rate": 69.4
+      "won": 116,
+      "lost": 60,
+      "total": 176,
+      "rate": 65.9
     },
     "totalAnalyses": 766622,
     "leagues": 288,
     "pro": {
-      "won": 560,
-      "lost": 221,
-      "total": 781,
-      "rate": 71.7
+      "won": 561,
+      "lost": 226,
+      "total": 787,
+      "rate": 71.3
     },
     "insights": {
-      "won": 977,
-      "lost": 411,
-      "total": 1388,
-      "rate": 70.4
+      "won": 978,
+      "lost": 417,
+      "total": 1395,
+      "rate": 70.1
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3165,
-    "analyses30d": 16994
+    "analyses24h": 3152,
+    "analyses30d": 16970
   },
   "recentWins": [
     {
@@ -332,8 +332,8 @@
     {
       "type": "updated",
       "at": "20.11.2026 11:50",
-      "home": "Shakhtar Donetsk",
-      "away": "Livyi Bereh"
+      "home": "FC Rostov",
+      "away": "Krylya Sovietov"
     }
   ],
   "today": {
@@ -362,18 +362,6 @@
       "picks": 2
     },
     {
-      "home": "Shakhtar Donetsk",
-      "away": "Livyi Bereh",
-      "league": "UKR",
-      "date": "20.11.2026 16:00",
-      "matchCode": "4508331",
-      "odds": 1.43,
-      "patternScore": 66.56,
-      "patternText": "157.478/236.584",
-      "aiScore": 56,
-      "picks": 1
-    },
-    {
       "home": "ES Setif",
       "away": "Biskra",
       "league": "CZYR",
@@ -384,6 +372,18 @@
       "patternText": "215.158/317.362",
       "aiScore": 55,
       "picks": 3
+    },
+    {
+      "home": "Al Ahli Jeddah",
+      "away": "Al Nassr",
+      "league": "SUUD",
+      "date": "20.11.2026 17:30",
+      "matchCode": "4522585",
+      "odds": 1.31,
+      "patternScore": 67.76,
+      "patternText": "220.101/324.847",
+      "aiScore": 56,
+      "picks": 4
     },
     {
       "home": "Blida",
