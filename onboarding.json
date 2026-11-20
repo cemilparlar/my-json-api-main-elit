@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 02:32",
+  "updatedAt": "20.11.2026 02:40",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 83,
+      "won": 88,
       "lost": 38,
-      "total": 121,
-      "rate": 68.6
+      "total": 126,
+      "rate": 69.8
     },
-    "totalAnalyses": 765732,
+    "totalAnalyses": 765748,
     "leagues": 286,
     "pro": {
-      "won": 544,
+      "won": 547,
       "lost": 212,
-      "total": 756,
-      "rate": 72.0
+      "total": 759,
+      "rate": 72.1
     },
     "insights": {
-      "won": 954,
+      "won": 959,
       "lost": 401,
-      "total": 1355,
-      "rate": 70.4
+      "total": 1360,
+      "rate": 70.5
     },
     "coupons": {
       "won": 0,
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3008,
-    "analyses30d": 16843
+    "analyses24h": 3009,
+    "analyses30d": 16844
   },
   "recentWins": [
     {
@@ -307,6 +307,12 @@
     },
     {
       "type": "updated",
+      "at": "20.11.2026 02:36",
+      "home": "Sydney United 58 FC",
+      "away": "Sutherland Sharks"
+    },
+    {
+      "type": "updated",
       "at": "20.11.2026 00:12",
       "home": "Real Cundinama",
       "away": "Quindio"
@@ -325,7 +331,7 @@
     },
     {
       "type": "analysis",
-      "count": 3008
+      "count": 3009
     }
   ],
   "today": {
