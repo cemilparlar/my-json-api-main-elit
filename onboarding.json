@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 14:25",
+  "updatedAt": "20.11.2026 14:36",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 124,
-      "lost": 56,
-      "total": 180,
+      "won": 133,
+      "lost": 60,
+      "total": 193,
       "rate": 68.9
     },
-    "totalAnalyses": 767271,
+    "totalAnalyses": 767311,
     "leagues": 290,
     "pro": {
-      "won": 585,
-      "lost": 229,
-      "total": 814,
-      "rate": 71.9
+      "won": 589,
+      "lost": 231,
+      "total": 820,
+      "rate": 71.8
     },
     "insights": {
-      "won": 1010,
-      "lost": 424,
-      "total": 1434,
+      "won": 1014,
+      "lost": 426,
+      "total": 1440,
       "rate": 70.4
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3249,
-    "analyses30d": 17071
+    "analyses24h": 3265,
+    "analyses30d": 17085
   },
   "recentWins": [
     {
@@ -319,21 +319,21 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 14:06",
+      "at": "20.11.2026 14:27",
       "home": "Barnsley",
       "away": "Sheffield Wednesday"
+    },
+    {
+      "type": "updated",
+      "at": "20.11.2026 14:27",
+      "home": "Real Madrid Castilla",
+      "away": "Murcia"
     },
     {
       "type": "updated",
       "at": "20.11.2026 14:24",
       "home": "Arminia Bielef",
       "away": "FC Magdeburg"
-    },
-    {
-      "type": "updated",
-      "at": "20.11.2026 11:56",
-      "home": "SV Darmstadt 98",
-      "away": "FC Heidenheim"
     }
   ],
   "today": {
@@ -342,11 +342,11 @@
     "league": "FR2",
     "date": "20.11.2026 19:00",
     "matchCode": "4476922",
-    "odds": 1.46,
-    "patternScore": 68.95,
-    "patternText": "161.082/233.608",
-    "aiScore": 57,
-    "picks": 3
+    "odds": 1.87,
+    "patternScore": 67.47,
+    "patternText": "232.128/344.031",
+    "aiScore": 52,
+    "picks": 6
   },
   "todayList": [
     {
@@ -355,11 +355,11 @@
       "league": "FR2",
       "date": "20.11.2026 19:00",
       "matchCode": "4476922",
-      "odds": 1.46,
-      "patternScore": 68.95,
-      "patternText": "161.082/233.608",
-      "aiScore": 57,
-      "picks": 3
+      "odds": 1.87,
+      "patternScore": 67.47,
+      "patternText": "232.128/344.031",
+      "aiScore": 52,
+      "picks": 6
     },
     {
       "home": "Caerphilly Ath",
@@ -369,7 +369,7 @@
       "matchCode": "4508943",
       "odds": 1.43,
       "patternScore": 67.39,
-      "patternText": "233.003/345.745",
+      "patternText": "233.015/345.757",
       "aiScore": 55,
       "picks": 1
     },
@@ -381,7 +381,7 @@
       "matchCode": "4480776",
       "odds": 1.41,
       "patternScore": 68.15,
-      "patternText": "170.390/250.034",
+      "patternText": "170.394/250.038",
       "aiScore": 58,
       "picks": 3
     },
@@ -393,7 +393,7 @@
       "matchCode": "4474526",
       "odds": 1.39,
       "patternScore": 67.39,
-      "patternText": "284.411/422.043",
+      "patternText": "284.423/422.055",
       "aiScore": 57,
       "picks": 4
     },
@@ -405,12 +405,19 @@
       "matchCode": "4576071",
       "odds": 1.35,
       "patternScore": 68.37,
-      "patternText": "227.650/332.990",
+      "patternText": "227.662/333.002",
       "aiScore": 58,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "AS Nancy",
+      "away": "Dijon FCO",
+      "league": "FR2",
+      "at": "20.11.2026 14:26",
+      "count": 10
+    },
     {
       "home": "Arminia Bielef",
       "away": "FC Magdeburg",
@@ -473,13 +480,6 @@
       "league": "T1L",
       "at": "20.11.2026 13:43",
       "count": 2
-    },
-    {
-      "home": "FC Metz",
-      "away": "Boulogne",
-      "league": "FR2",
-      "at": "20.11.2026 13:26",
-      "count": 3
     }
   ],
   "paywall": {
