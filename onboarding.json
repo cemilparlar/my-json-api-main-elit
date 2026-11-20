@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 17:59",
+  "updatedAt": "20.11.2026 18:08",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 214,
-      "lost": 71,
-      "total": 285,
-      "rate": 75.1
+      "won": 206,
+      "lost": 69,
+      "total": 275,
+      "rate": 74.9
     },
-    "totalAnalyses": 767855,
+    "totalAnalyses": 767877,
     "leagues": 290,
     "pro": {
-      "won": 608,
-      "lost": 239,
-      "total": 847,
-      "rate": 71.8
+      "won": 601,
+      "lost": 235,
+      "total": 836,
+      "rate": 71.9
     },
     "insights": {
-      "won": 1053,
-      "lost": 435,
-      "total": 1488,
+      "won": 1037,
+      "lost": 428,
+      "total": 1465,
       "rate": 70.8
     },
     "coupons": {
@@ -47,10 +47,24 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3303,
-    "analyses30d": 17116
+    "analyses24h": 3293,
+    "analyses30d": 17105
   },
   "recentWins": [
+    {
+      "home": "Al Wehdat",
+      "away": "Al Arabi",
+      "league": "ÜRDK",
+      "date": "20.11.2026 16:00",
+      "prediction": "Handicap (0:1) X",
+      "odds": 2.87,
+      "probability": 100.0,
+      "patternScore": 56.68,
+      "aiScore": 51,
+      "firstHalf": "1 - 0",
+      "finalScore": "1 - 0",
+      "pro": true
+    },
     {
       "home": "Real Cartagena",
       "away": "Tigres Fc",
@@ -106,20 +120,6 @@
       "firstHalf": "0 - 0",
       "finalScore": "1 - 2",
       "pro": false
-    },
-    {
-      "home": "Welwalo Adigrat University",
-      "away": "Mekelakeya",
-      "league": "ETH",
-      "date": "20.11.2026 13:00",
-      "prediction": "Under 1.5 Goals",
-      "odds": 1.87,
-      "probability": 75.0,
-      "patternScore": 63.76,
-      "aiScore": 51,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 0",
-      "pro": true
     }
   ],
   "recentCoupons": [
@@ -257,6 +257,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Al Wehdat",
+      "away": "Al Arabi",
+      "prediction": "Handicap (0:1) X",
+      "odds": 2.87,
+      "at": "20.11.2026 16:00"
+    },
+    {
+      "type": "won",
       "home": "Real Cartagena",
       "away": "Tigres Fc",
       "prediction": "Handicap (0:2) 1",
@@ -278,14 +286,6 @@
       "prediction": "1st Half Result X",
       "odds": 2.22,
       "at": "19.11.2026 22:30"
-    },
-    {
-      "type": "won",
-      "home": "Maroons",
-      "away": "NEC Nijmegen",
-      "prediction": "1st Half Under 0.5",
-      "odds": 2.05,
-      "at": "19.11.2026 13:00"
     },
     {
       "type": "coupon",
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "AS Nancy",
-    "away": "Dijon FCO",
-    "league": "FR2",
-    "date": "20.11.2026 19:00",
-    "matchCode": "4476922",
-    "odds": 1.87,
-    "patternScore": 67.49,
-    "patternText": "232.602/344.623",
-    "aiScore": 52,
-    "picks": 6
+    "home": "Athletic Bilbao",
+    "away": "RCD Espanyol",
+    "league": "İS1",
+    "date": "20.11.2026 20:00",
+    "matchCode": "4492380",
+    "odds": 3.94,
+    "patternScore": 66.96,
+    "patternText": "136.866/204.387",
+    "aiScore": 50,
+    "picks": 8
   },
   "todayList": [
+    {
+      "home": "Athletic Bilbao",
+      "away": "RCD Espanyol",
+      "league": "İS1",
+      "date": "20.11.2026 20:00",
+      "matchCode": "4492380",
+      "odds": 3.94,
+      "patternScore": 66.96,
+      "patternText": "136.866/204.387",
+      "aiScore": 50,
+      "picks": 8
+    },
     {
       "home": "AS Nancy",
       "away": "Dijon FCO",
@@ -356,8 +368,8 @@
       "date": "20.11.2026 19:00",
       "matchCode": "4476922",
       "odds": 1.87,
-      "patternScore": 67.49,
-      "patternText": "232.602/344.623",
+      "patternScore": 67.5,
+      "patternText": "232.650/344.691",
       "aiScore": 52,
       "picks": 6
     },
@@ -369,21 +381,9 @@
       "matchCode": "4492833",
       "odds": 1.8,
       "patternScore": 66.65,
-      "patternText": "164.361/246.590",
+      "patternText": "164.385/246.634",
       "aiScore": 52,
       "picks": 6
-    },
-    {
-      "home": "MC Oran",
-      "away": "JS Saoura",
-      "league": "CZYR",
-      "date": "20.11.2026 19:00",
-      "matchCode": "4546165",
-      "odds": 1.45,
-      "patternScore": 67.91,
-      "patternText": "230.671/339.653",
-      "aiScore": 56,
-      "picks": 2
     },
     {
       "home": "Caerphilly Ath",
@@ -393,8 +393,8 @@
       "matchCode": "4508943",
       "odds": 1.43,
       "patternScore": 67.41,
-      "patternText": "233.485/346.349",
-      "aiScore": 54,
+      "patternText": "233.533/346.417",
+      "aiScore": 55,
       "picks": 1
     },
     {
@@ -405,7 +405,7 @@
       "matchCode": "4480776",
       "odds": 1.41,
       "patternScore": 68.17,
-      "patternText": "170.712/250.426",
+      "patternText": "170.736/250.462",
       "aiScore": 58,
       "picks": 3
     }
