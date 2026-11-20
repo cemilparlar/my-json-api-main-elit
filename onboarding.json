@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 05:18",
+  "updatedAt": "20.11.2026 05:25",
   "config": {
     "pages": [
       "engine",
@@ -337,18 +337,30 @@
     }
   ],
   "today": {
-    "home": "Dong A Thanh Hoa",
-    "away": "Lg Hn Acb",
-    "league": "VİET",
+    "home": "Kashiwa Reysol",
+    "away": "JEF United Chiba",
+    "league": "JAP",
     "date": "20.11.2026 10:00",
-    "matchCode": "4551356",
-    "odds": 1.15,
-    "patternScore": 70.2,
-    "patternText": "273.511/389.598",
-    "aiScore": 73,
-    "picks": 1
+    "matchCode": "4487268",
+    "odds": 1.35,
+    "patternScore": 67.25,
+    "patternText": "224.337/333.609",
+    "aiScore": 61,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Kashiwa Reysol",
+      "away": "JEF United Chiba",
+      "league": "JAP",
+      "date": "20.11.2026 10:00",
+      "matchCode": "4487268",
+      "odds": 1.35,
+      "patternScore": 67.25,
+      "patternText": "224.337/333.609",
+      "aiScore": 61,
+      "picks": 2
+    },
     {
       "home": "Dong A Thanh Hoa",
       "away": "Lg Hn Acb",
@@ -395,18 +407,6 @@
       "patternScore": 70.16,
       "patternText": "221.508/315.706",
       "aiScore": 93,
-      "picks": 1
-    },
-    {
-      "home": "Sydney United 58 FC",
-      "away": "Sutherland Sharks",
-      "league": "AVC",
-      "date": "20.11.2026 08:30",
-      "matchCode": "4573635",
-      "odds": 1.09,
-      "patternScore": 70.24,
-      "patternText": "228.314/325.033",
-      "aiScore": 95,
       "picks": 1
     }
   ],
