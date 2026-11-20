@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 21:33",
+  "updatedAt": "20.11.2026 21:41",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 330,
-      "lost": 107,
-      "total": 437,
-      "rate": 75.5
+      "won": 357,
+      "lost": 117,
+      "total": 474,
+      "rate": 75.3
     },
-    "totalAnalyses": 768118,
+    "totalAnalyses": 768119,
     "leagues": 289,
     "pro": {
-      "won": 649,
-      "lost": 238,
-      "total": 887,
-      "rate": 73.2
+      "won": 667,
+      "lost": 243,
+      "total": 910,
+      "rate": 73.3
     },
     "insights": {
-      "won": 1106,
-      "lost": 434,
-      "total": 1540,
+      "won": 1132,
+      "lost": 444,
+      "total": 1576,
       "rate": 71.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3305,
-    "analyses30d": 16969
+    "analyses24h": 3302,
+    "analyses30d": 16966
   },
   "recentWins": [
     {
@@ -270,11 +270,11 @@
     "league": "MEK",
     "date": "21.11.2026 03:00",
     "matchCode": "4476496",
-    "odds": 1.36,
-    "patternScore": 68.18,
-    "patternText": "208.284/305.494",
-    "aiScore": 64,
-    "picks": 3
+    "odds": 1.43,
+    "patternScore": 67.53,
+    "patternText": "266.080/394.014",
+    "aiScore": 56,
+    "picks": 4
   },
   "todayList": [
     {
@@ -283,11 +283,23 @@
       "league": "MEK",
       "date": "21.11.2026 03:00",
       "matchCode": "4476496",
-      "odds": 1.36,
-      "patternScore": 68.18,
-      "patternText": "208.284/305.494",
-      "aiScore": 64,
-      "picks": 3
+      "odds": 1.43,
+      "patternScore": 67.53,
+      "patternText": "266.080/394.014",
+      "aiScore": 56,
+      "picks": 4
+    },
+    {
+      "home": "Club Tijuana",
+      "away": "Atlante",
+      "league": "MEK",
+      "date": "21.11.2026 03:10",
+      "matchCode": "4476497",
+      "odds": 1.37,
+      "patternScore": 67.98,
+      "patternText": "268.433/394.852",
+      "aiScore": 59,
+      "picks": 2
     },
     {
       "home": "Velez Sarsfiel",
@@ -324,18 +336,6 @@
       "patternText": "251.455/356.353",
       "aiScore": 95,
       "picks": 2
-    },
-    {
-      "home": "Miramar",
-      "away": "Cashmere Techni",
-      "league": "YZLBÖL",
-      "date": "21.11.2026 01:00",
-      "matchCode": "4566894",
-      "odds": 1.15,
-      "patternScore": 69.6,
-      "patternText": "196.410/282.179",
-      "aiScore": 83,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
