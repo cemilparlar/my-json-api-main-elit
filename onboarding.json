@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 03:04",
+  "updatedAt": "20.11.2026 03:11",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 126,
       "rate": 69.8
     },
-    "totalAnalyses": 765777,
+    "totalAnalyses": 765781,
     "leagues": 286,
     "pro": {
       "won": 547,
@@ -301,12 +301,6 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 02:57",
-      "home": "Western Sydney Wanderers",
-      "away": "Wellington Phoenix"
-    },
-    {
-      "type": "updated",
       "at": "20.11.2026 02:36",
       "home": "Sydney United 58 FC",
       "away": "Sutherland Sharks"
@@ -330,37 +324,23 @@
       "away": "Tigres Fc"
     },
     {
-      "type": "kickoff",
-      "home": "Western Sydney Wanderers",
-      "away": "Wellington Phoenix",
-      "at": "20.11.2026 05:50"
+      "type": "analysis",
+      "count": 3009
     }
   ],
   "today": {
-    "home": "Western Sydney Wanderers",
-    "away": "Wellington Phoenix",
-    "league": "AVUSTW",
-    "date": "20.11.2026 05:50",
-    "matchCode": "4551578",
-    "odds": 1.6,
-    "patternScore": 66.66,
-    "patternText": "137.405/206.115",
-    "aiScore": 55,
+    "home": "Pss Sleman",
+    "away": "Arema FC",
+    "league": "ENDL1",
+    "date": "20.11.2026 08:30",
+    "matchCode": "4550400",
+    "odds": 1.1,
+    "patternScore": 70.16,
+    "patternText": "221.508/315.706",
+    "aiScore": 93,
     "picks": 1
   },
   "todayList": [
-    {
-      "home": "Western Sydney Wanderers",
-      "away": "Wellington Phoenix",
-      "league": "AVUSTW",
-      "date": "20.11.2026 05:50",
-      "matchCode": "4551578",
-      "odds": 1.6,
-      "patternScore": 66.66,
-      "patternText": "137.405/206.115",
-      "aiScore": 55,
-      "picks": 1
-    },
     {
       "home": "Pss Sleman",
       "away": "Arema FC",
@@ -383,6 +363,18 @@
       "patternScore": 69.83,
       "patternText": "211.372/302.685",
       "aiScore": 96,
+      "picks": 1
+    },
+    {
+      "home": "Negeri Sembilan FC",
+      "away": "Kuching FA",
+      "league": "MALES",
+      "date": "20.11.2026 08:45",
+      "matchCode": "4537650",
+      "odds": 1.06,
+      "patternScore": 72.21,
+      "patternText": "182.047/252.116",
+      "aiScore": 99,
       "picks": 1
     },
     {
