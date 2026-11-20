@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "20.11.2026 18:16",
+  "updatedAt": "20.11.2026 18:25",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 210,
+      "won": 211,
       "lost": 72,
-      "total": 282,
-      "rate": 74.5
+      "total": 283,
+      "rate": 74.6
     },
-    "totalAnalyses": 767887,
+    "totalAnalyses": 767897,
     "leagues": 290,
     "pro": {
-      "won": 603,
+      "won": 604,
       "lost": 235,
-      "total": 838,
+      "total": 839,
       "rate": 72.0
     },
     "insights": {
-      "won": 1040,
+      "won": 1041,
       "lost": 429,
-      "total": 1469,
+      "total": 1470,
       "rate": 70.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 0,
       "rate": null
     },
-    "analyses24h": 3293,
-    "analyses30d": 17105
+    "analyses24h": 3298,
+    "analyses30d": 17110
   },
   "recentWins": [
     {
@@ -344,7 +344,7 @@
     "matchCode": "4492380",
     "odds": 3.94,
     "patternScore": 66.96,
-    "patternText": "136.866/204.387",
+    "patternText": "136.878/204.405",
     "aiScore": 50,
     "picks": 8
   },
@@ -357,7 +357,7 @@
       "matchCode": "4492380",
       "odds": 3.94,
       "patternScore": 66.96,
-      "patternText": "136.866/204.387",
+      "patternText": "136.878/204.405",
       "aiScore": 50,
       "picks": 8
     },
@@ -369,7 +369,7 @@
       "matchCode": "4476922",
       "odds": 1.87,
       "patternScore": 67.5,
-      "patternText": "232.650/344.691",
+      "patternText": "232.662/344.709",
       "aiScore": 52,
       "picks": 6
     },
@@ -381,7 +381,7 @@
       "matchCode": "4492833",
       "odds": 1.8,
       "patternScore": 66.65,
-      "patternText": "164.385/246.634",
+      "patternText": "164.397/246.652",
       "aiScore": 52,
       "picks": 6
     },
@@ -393,7 +393,7 @@
       "matchCode": "4508943",
       "odds": 1.43,
       "patternScore": 67.41,
-      "patternText": "233.533/346.417",
+      "patternText": "233.545/346.435",
       "aiScore": 55,
       "picks": 1
     },
@@ -405,12 +405,19 @@
       "matchCode": "4480776",
       "odds": 1.41,
       "patternScore": 68.17,
-      "patternText": "170.736/250.462",
+      "patternText": "170.752/250.484",
       "aiScore": 58,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "En Avant Guingamp",
+      "away": "Rodez AF",
+      "league": "FR2",
+      "at": "20.11.2026 18:24",
+      "count": 7
+    },
     {
       "home": "Athletic Bilbao",
       "away": "RCD Espanyol",
@@ -473,13 +480,6 @@
       "league": "BEL",
       "at": "20.11.2026 14:02",
       "count": 8
-    },
-    {
-      "home": "West Ham United",
-      "away": "Preston North End",
-      "league": "İNCL",
-      "at": "20.11.2026 13:51",
-      "count": 5
     }
   ],
   "paywall": {
