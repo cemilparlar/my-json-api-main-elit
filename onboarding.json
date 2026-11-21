@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 00:58",
+  "updatedAt": "21.11.2026 01:07",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 567,
       "rate": 72.7
     },
-    "totalAnalyses": 768404,
+    "totalAnalyses": 768421,
     "leagues": 289,
     "pro": {
-      "won": 707,
+      "won": 706,
       "lost": 254,
-      "total": 961,
-      "rate": 73.6
+      "total": 960,
+      "rate": 73.5
     },
     "insights": {
-      "won": 1199,
+      "won": 1197,
       "lost": 472,
-      "total": 1671,
-      "rate": 71.8
+      "total": 1669,
+      "rate": 71.7
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3331,
-    "analyses30d": 17007
+    "analyses24h": 3335,
+    "analyses30d": 17001
   },
   "recentWins": [
     {
@@ -241,12 +241,6 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 19:05",
-      "home": "ESTAC Troyes",
-      "away": "Le Havre AC"
-    },
-    {
-      "type": "updated",
       "at": "20.11.2026 19:07",
       "home": "Velez Sarsfiel",
       "away": "Club Atletico Belgrano"
@@ -262,6 +256,12 @@
       "at": "20.11.2026 22:16",
       "home": "Marconi Stallions",
       "away": "Sydney Olympic FC"
+    },
+    {
+      "type": "updated",
+      "at": "20.11.2026 22:14",
+      "home": "Auckland",
+      "away": "Melbourne Victory"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4487269",
     "odds": 1.58,
     "patternScore": 67.8,
-    "patternText": "270.842/399.486",
+    "patternText": "270.842/399.488",
     "aiScore": 55,
     "picks": 4
   },
@@ -285,7 +285,7 @@
       "matchCode": "4487269",
       "odds": 1.58,
       "patternScore": 67.8,
-      "patternText": "270.842/399.486",
+      "patternText": "270.842/399.488",
       "aiScore": 55,
       "picks": 4
     },
@@ -297,7 +297,7 @@
       "matchCode": "4476496",
       "odds": 1.43,
       "patternScore": 67.53,
-      "patternText": "266.308/394.326",
+      "patternText": "266.308/394.328",
       "aiScore": 56,
       "picks": 4
     },
@@ -309,7 +309,7 @@
       "matchCode": "4442883",
       "odds": 1.37,
       "patternScore": 68.03,
-      "patternText": "285.036/418.966",
+      "patternText": "285.036/418.968",
       "aiScore": 56,
       "picks": 2
     },
@@ -326,16 +326,16 @@
       "picks": 5
     },
     {
-      "home": "Kyoto Sanga FC",
-      "away": "Urawa Red Diamonds",
+      "home": "Gamba Osaka",
+      "away": "Fagiano Okayama",
       "league": "JAP",
-      "date": "21.11.2026 05:00",
-      "matchCode": "4487272",
-      "odds": 1.29,
-      "patternScore": 68.3,
-      "patternText": "312.633/457.748",
-      "aiScore": 62,
-      "picks": 4
+      "date": "21.11.2026 07:00",
+      "matchCode": "4487273",
+      "odds": 1.32,
+      "patternScore": 67.92,
+      "patternText": "279.633/411.724",
+      "aiScore": 58,
+      "picks": 8
     }
   ],
   "recentAnalyzed": [
