@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 09:23",
+  "updatedAt": "21.11.2026 09:33",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 528,
-      "lost": 205,
-      "total": 733,
-      "rate": 72.0
+      "won": 536,
+      "lost": 210,
+      "total": 746,
+      "rate": 71.8
     },
-    "totalAnalyses": 769390,
+    "totalAnalyses": 769417,
     "leagues": 292,
     "pro": {
-      "won": 762,
+      "won": 765,
       "lost": 272,
-      "total": 1034,
-      "rate": 73.7
+      "total": 1037,
+      "rate": 73.8
     },
     "insights": {
-      "won": 1292,
-      "lost": 511,
-      "total": 1803,
-      "rate": 71.7
+      "won": 1298,
+      "lost": 515,
+      "total": 1813,
+      "rate": 71.6
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3546,
-    "analyses30d": 17224
+    "analyses24h": 3555,
+    "analyses30d": 17231
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4475156",
     "odds": 2.31,
     "patternScore": 67.94,
-    "patternText": "313.522/461.473",
+    "patternText": "313.536/461.493",
     "aiScore": 51,
     "picks": 8
   },
@@ -285,7 +285,7 @@
       "matchCode": "4475156",
       "odds": 2.31,
       "patternScore": 67.94,
-      "patternText": "313.522/461.473",
+      "patternText": "313.536/461.493",
       "aiScore": 51,
       "picks": 8
     },
@@ -297,7 +297,7 @@
       "matchCode": "4489424",
       "odds": 1.94,
       "patternScore": 66.84,
-      "patternText": "208.151/311.432",
+      "patternText": "208.161/311.444",
       "aiScore": 53,
       "picks": 8
     },
@@ -309,7 +309,7 @@
       "matchCode": "4426816",
       "odds": 1.85,
       "patternScore": 65.01,
-      "patternText": "364.274/560.310",
+      "patternText": "364.288/560.330",
       "aiScore": 52,
       "picks": 3
     },
@@ -321,24 +321,45 @@
       "matchCode": "4534790",
       "odds": 1.71,
       "patternScore": 67.61,
-      "patternText": "325.912/482.027",
+      "patternText": "325.926/482.047",
       "aiScore": 53,
       "picks": 7
+    },
+    {
+      "home": "Queen of the South",
+      "away": "Hamilton Academical",
+      "league": "İK1",
+      "date": "21.11.2026 15:00",
+      "matchCode": "4482492",
+      "odds": 1.52,
+      "patternScore": 69.11,
+      "patternText": "337.291/488.043",
+      "aiScore": 57,
+      "picks": 1
+    }
+  ],
+  "recentAnalyzed": [
+    {
+      "home": "FC Akron Togliatti",
+      "away": "FK Fakel Voronezh",
+      "league": "RUS",
+      "at": "21.11.2026 09:28",
+      "count": 10
+    },
+    {
+      "home": "VfL Wolfsburg",
+      "away": "Holstein Kiel",
+      "league": "AL2",
+      "at": "21.11.2026 09:24",
+      "count": 10
     },
     {
       "home": "Hannover 96",
       "away": "SpVgg Greuther Furth",
       "league": "AL2",
-      "date": "21.11.2026 12:00",
-      "matchCode": "4495839",
-      "odds": 1.54,
-      "patternScore": 67.33,
-      "patternText": "310.629/461.346",
-      "aiScore": 54,
-      "picks": 5
-    }
-  ],
-  "recentAnalyzed": [
+      "at": "21.11.2026 09:24",
+      "count": 6
+    },
     {
       "home": "Genclerbirligi",
       "away": "Gaziantep FK",
@@ -382,32 +403,11 @@
       "count": 13
     },
     {
-      "home": "Hannover 96",
-      "away": "SpVgg Greuther Furth",
-      "league": "AL2",
-      "at": "21.11.2026 08:36",
-      "count": 8
-    },
-    {
-      "home": "FC Akron Togliatti",
-      "away": "FK Fakel Voronezh",
-      "league": "RUS",
-      "at": "21.11.2026 08:36",
-      "count": 6
-    },
-    {
       "home": "Kayserispor",
       "away": "Sariyer",
       "league": "T1L",
       "at": "21.11.2026 08:04",
       "count": 1
-    },
-    {
-      "home": "Amed SK",
-      "away": "Rizespor",
-      "league": "TSL",
-      "at": "21.11.2026 07:20",
-      "count": 8
     }
   ],
   "paywall": {
