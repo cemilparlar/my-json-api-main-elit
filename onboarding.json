@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 10:23",
+  "updatedAt": "21.11.2026 10:32",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 526,
+      "won": 525,
       "lost": 198,
-      "total": 724,
-      "rate": 72.7
+      "total": 723,
+      "rate": 72.6
     },
-    "totalAnalyses": 769593,
+    "totalAnalyses": 769667,
     "leagues": 292,
     "pro": {
       "won": 762,
@@ -37,8 +37,8 @@
     },
     "insights": {
       "won": 1295,
-      "lost": 513,
-      "total": 1808,
+      "lost": 514,
+      "total": 1809,
       "rate": 71.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3547,
-    "analyses30d": 17152
+    "analyses24h": 3542,
+    "analyses30d": 17145
   },
   "recentWins": [
     {
@@ -290,6 +290,18 @@
       "picks": 8
     },
     {
+      "home": "CE Sabadell",
+      "away": "Granada CF",
+      "league": "İS2",
+      "date": "21.11.2026 13:00",
+      "matchCode": "4492841",
+      "odds": 1.98,
+      "patternScore": 67.71,
+      "patternText": "201.817/298.056",
+      "aiScore": 52,
+      "picks": 4
+    },
+    {
       "home": "Stade Lavalois",
       "away": "Montpellier HSC",
       "league": "FR2",
@@ -310,7 +322,7 @@
       "odds": 1.85,
       "patternScore": 65.01,
       "patternText": "364.332/560.400",
-      "aiScore": 53,
+      "aiScore": 52,
       "picks": 3
     },
     {
@@ -324,21 +336,44 @@
       "patternText": "325.970/482.125",
       "aiScore": 53,
       "picks": 7
-    },
-    {
-      "home": "Queen of the South",
-      "away": "Hamilton Academical",
-      "league": "İK1",
-      "date": "21.11.2026 15:00",
-      "matchCode": "4482492",
-      "odds": 1.52,
-      "patternScore": 69.11,
-      "patternText": "337.359/488.149",
-      "aiScore": 57,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Sudtirol",
+      "away": "US Cremonese",
+      "league": "İTB",
+      "at": "21.11.2026 10:29",
+      "count": 9
+    },
+    {
+      "home": "Ascoli Calcio",
+      "away": "LR Vicenza",
+      "league": "İTB",
+      "at": "21.11.2026 10:28",
+      "count": 4
+    },
+    {
+      "home": "Carrarese Calcio",
+      "away": "Virtus Entella",
+      "league": "İTB",
+      "at": "21.11.2026 10:28",
+      "count": 6
+    },
+    {
+      "home": "Como 1907",
+      "away": "Cagliari Calcio",
+      "league": "İTA",
+      "at": "21.11.2026 10:27",
+      "count": 14
+    },
+    {
+      "home": "SS Lazio",
+      "away": "US Lecce",
+      "league": "İTA",
+      "at": "21.11.2026 10:26",
+      "count": 6
+    },
     {
       "home": "Kayserispor",
       "away": "Sariyer",
@@ -373,41 +408,6 @@
       "league": "AL2",
       "at": "21.11.2026 10:08",
       "count": 9
-    },
-    {
-      "home": "VfL Wolfsburg",
-      "away": "Holstein Kiel",
-      "league": "AL2",
-      "at": "21.11.2026 10:04",
-      "count": 15
-    },
-    {
-      "home": "Stade Lavalois",
-      "away": "Montpellier HSC",
-      "league": "FR2",
-      "at": "21.11.2026 09:46",
-      "count": 10
-    },
-    {
-      "home": "Southam",
-      "away": "Derby County",
-      "league": "İNCL",
-      "at": "21.11.2026 09:40",
-      "count": 7
-    },
-    {
-      "home": "Genclerbirligi",
-      "away": "Gaziantep FK",
-      "league": "TSL",
-      "at": "21.11.2026 09:16",
-      "count": 7
-    },
-    {
-      "home": "FC Orenburg",
-      "away": "Baltika Kaliningrad",
-      "league": "RUS",
-      "at": "21.11.2026 09:16",
-      "count": 7
     }
   ],
   "paywall": {
