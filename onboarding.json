@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 13:42",
+  "updatedAt": "21.11.2026 13:51",
   "config": {
     "pages": [
       "engine",
@@ -314,6 +314,18 @@
       "picks": 3
     },
     {
+      "home": "SSC Napoli",
+      "away": "Torino FC",
+      "league": "İTA",
+      "date": "21.11.2026 19:45",
+      "matchCode": "4475159",
+      "odds": 1.6,
+      "patternScore": 68.38,
+      "patternText": "212.310/310.466",
+      "aiScore": 55,
+      "picks": 5
+    },
+    {
       "home": "Queen of the South",
       "away": "Hamilton Academical",
       "league": "İK1",
@@ -323,18 +335,6 @@
       "patternScore": 69.13,
       "patternText": "337.871/488.741",
       "aiScore": 57,
-      "picks": 1
-    },
-    {
-      "home": "Adama City FC",
-      "away": "Sidama Bunna",
-      "league": "ETH",
-      "date": "21.11.2026 15:00",
-      "matchCode": "4571953",
-      "odds": 1.49,
-      "patternScore": 67.91,
-      "patternText": "155.523/229.028",
-      "aiScore": 58,
       "picks": 1
     }
   ],
