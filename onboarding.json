@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 22:16",
+  "updatedAt": "21.11.2026 22:23",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1019,
+      "won": 1020,
       "lost": 445,
-      "total": 1464,
+      "total": 1465,
       "rate": 69.6
     },
     "totalAnalyses": 772437,
     "leagues": 289,
     "pro": {
-      "won": 986,
+      "won": 987,
       "lost": 355,
-      "total": 1341,
+      "total": 1342,
       "rate": 73.5
     },
     "insights": {
-      "won": 1690,
+      "won": 1691,
       "lost": 672,
-      "total": 2362,
-      "rate": 71.5
+      "total": 2363,
+      "rate": 71.6
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 6,
       "rate": 33.3
     },
-    "analyses24h": 3145,
-    "analyses30d": 17088
+    "analyses24h": 3139,
+    "analyses30d": 17082
   },
   "recentWins": [
     {
@@ -265,42 +265,18 @@
     }
   ],
   "today": {
-    "home": "Inter Miami CF",
-    "away": "Columbus Crew",
-    "league": "ABD",
-    "date": "21.11.2026 23:00",
-    "matchCode": "4579789",
-    "odds": 2.06,
-    "patternScore": 67.11,
-    "patternText": "166.991/248.846",
-    "aiScore": 52,
-    "picks": 10
+    "home": "Chapecoense AF",
+    "away": "Cruzeiro EC",
+    "league": "BR1",
+    "date": "22.11.2026 00:00",
+    "matchCode": "4423388",
+    "odds": 1.6,
+    "patternScore": 65.18,
+    "patternText": "297.456/456.342",
+    "aiScore": 55,
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Inter Miami CF",
-      "away": "Columbus Crew",
-      "league": "ABD",
-      "date": "21.11.2026 23:00",
-      "matchCode": "4579789",
-      "odds": 2.06,
-      "patternScore": 67.11,
-      "patternText": "166.991/248.846",
-      "aiScore": 52,
-      "picks": 10
-    },
-    {
-      "home": "Santos Laguna",
-      "away": "Club Leon",
-      "league": "MEK",
-      "date": "21.11.2026 23:00",
-      "matchCode": "4476498",
-      "odds": 1.87,
-      "patternScore": 66.98,
-      "patternText": "161.045/240.420",
-      "aiScore": 53,
-      "picks": 3
-    },
     {
       "home": "Chapecoense AF",
       "away": "Cruzeiro EC",
@@ -309,7 +285,7 @@
       "matchCode": "4423388",
       "odds": 1.6,
       "patternScore": 65.18,
-      "patternText": "297.448/456.334",
+      "patternText": "297.456/456.342",
       "aiScore": 55,
       "picks": 3
     },
@@ -321,7 +297,7 @@
       "matchCode": "4581035",
       "odds": 1.47,
       "patternScore": 66.92,
-      "patternText": "243.847/364.381",
+      "patternText": "243.851/364.385",
       "aiScore": 54,
       "picks": 2
     },
@@ -333,8 +309,32 @@
       "matchCode": "4476500",
       "odds": 1.44,
       "patternScore": 68.12,
-      "patternText": "227.309/333.696",
+      "patternText": "227.313/333.700",
       "aiScore": 55,
+      "picks": 4
+    },
+    {
+      "home": "Santos Laguna",
+      "away": "Club Leon",
+      "league": "MEK",
+      "date": "21.11.2026 23:00",
+      "matchCode": "4476498",
+      "odds": 1.4,
+      "patternScore": 68.83,
+      "patternText": "157.194/228.378",
+      "aiScore": 59,
+      "picks": 3
+    },
+    {
+      "home": "Avondale Heigh",
+      "away": "Apia",
+      "league": "AVC",
+      "date": "22.11.2026 04:00",
+      "matchCode": "4573647",
+      "odds": 1.22,
+      "patternScore": 69.35,
+      "patternText": "241.592/348.342",
+      "aiScore": 68,
       "picks": 4
     }
   ],
