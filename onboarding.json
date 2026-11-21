@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 21:42",
+  "updatedAt": "21.11.2026 21:50",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 974,
-      "lost": 429,
-      "total": 1403,
-      "rate": 69.4
+      "won": 999,
+      "lost": 442,
+      "total": 1441,
+      "rate": 69.3
     },
-    "totalAnalyses": 772368,
+    "totalAnalyses": 772370,
     "leagues": 289,
     "pro": {
-      "won": 952,
-      "lost": 341,
-      "total": 1293,
-      "rate": 73.6
+      "won": 967,
+      "lost": 352,
+      "total": 1319,
+      "rate": 73.3
     },
     "insights": {
-      "won": 1645,
-      "lost": 657,
-      "total": 2302,
-      "rate": 71.5
+      "won": 1670,
+      "lost": 669,
+      "total": 2339,
+      "rate": 71.4
     },
     "coupons": {
       "won": 2,
-      "lost": 2,
-      "total": 4,
-      "rate": 50.0
+      "lost": 4,
+      "total": 6,
+      "rate": 33.3
     },
-    "analyses24h": 3130,
-    "analyses30d": 17088
+    "analyses24h": 3134,
+    "analyses30d": 17092
   },
   "recentWins": [
     {
@@ -235,21 +235,9 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 15:45",
-      "home": "Giana Erminio",
-      "away": "Juventus Next Gen"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 15:53",
       "home": "GAIS",
       "away": "Vasteras SK"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 15:47",
-      "home": "Birzebbuga",
-      "away": "Birkirkara"
     },
     {
       "type": "updated",
@@ -262,6 +250,18 @@
       "at": "21.11.2026 15:54",
       "home": "Savoia",
       "away": "Sorrento Calcio"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 15:54",
+      "home": "NS Mura",
+      "away": "ASK Bravo"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 15:54",
+      "home": "Folgore Carate",
+      "away": "Union Arzignano"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4579789",
     "odds": 2.06,
     "patternScore": 67.1,
-    "patternText": "166.949/248.790",
+    "patternText": "166.951/248.792",
     "aiScore": 52,
     "picks": 10
   },
@@ -285,7 +285,7 @@
       "matchCode": "4579789",
       "odds": 2.06,
       "patternScore": 67.1,
-      "patternText": "166.949/248.790",
+      "patternText": "166.951/248.792",
       "aiScore": 52,
       "picks": 10
     },
@@ -297,7 +297,7 @@
       "matchCode": "4476498",
       "odds": 1.87,
       "patternScore": 66.98,
-      "patternText": "161.009/240.370",
+      "patternText": "161.011/240.372",
       "aiScore": 53,
       "picks": 3
     },
@@ -343,8 +343,8 @@
       "home": "Atletico Mineiro",
       "away": "Boca Juniors",
       "league": "CSA",
-      "at": "21.11.2026 20:17",
-      "count": 2
+      "at": "21.11.2026 21:49",
+      "count": 6
     },
     {
       "home": "Chapecoense AF",
