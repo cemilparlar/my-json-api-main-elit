@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 12:07",
+  "updatedAt": "21.11.2026 12:17",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 523,
+      "won": 519,
       "lost": 198,
-      "total": 721,
-      "rate": 72.5
+      "total": 717,
+      "rate": 72.4
     },
-    "totalAnalyses": 769932,
+    "totalAnalyses": 769991,
     "leagues": 292,
     "pro": {
       "won": 759,
@@ -37,8 +37,8 @@
     },
     "insights": {
       "won": 1292,
-      "lost": 514,
-      "total": 1806,
+      "lost": 515,
+      "total": 1807,
       "rate": 71.5
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3498,
-    "analyses30d": 17118
+    "analyses24h": 3516,
+    "analyses30d": 17141
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4481594",
     "odds": 2.53,
     "patternScore": 67.09,
-    "patternText": "295.909/441.077",
+    "patternText": "295.949/441.117",
     "aiScore": 51,
     "picks": 12
   },
@@ -285,7 +285,7 @@
       "matchCode": "4481594",
       "odds": 2.53,
       "patternScore": 67.09,
-      "patternText": "295.909/441.077",
+      "patternText": "295.949/441.117",
       "aiScore": 51,
       "picks": 12
     },
@@ -296,8 +296,8 @@
       "date": "21.11.2026 13:00",
       "matchCode": "4476920",
       "odds": 1.87,
-      "patternScore": 67.09,
-      "patternText": "306.404/456.675",
+      "patternScore": 67.1,
+      "patternText": "306.444/456.715",
       "aiScore": 53,
       "picks": 5
     },
@@ -309,9 +309,21 @@
       "matchCode": "4534796",
       "odds": 1.87,
       "patternScore": 67.89,
-      "patternText": "208.310/306.857",
+      "patternText": "208.366/306.913",
       "aiScore": 52,
       "picks": 7
+    },
+    {
+      "home": "Al Wakrah",
+      "away": "Al-Sailiya",
+      "league": "KAT",
+      "date": "21.11.2026 13:00",
+      "matchCode": "4536754",
+      "odds": 1.73,
+      "patternScore": 67.83,
+      "patternText": "288.107/424.750",
+      "aiScore": 53,
+      "picks": 5
     },
     {
       "home": "Carrarese Calcio",
@@ -321,24 +333,40 @@
       "matchCode": "4534790",
       "odds": 1.67,
       "patternScore": 67.04,
-      "patternText": "326.557/487.113",
-      "aiScore": 52,
+      "patternText": "326.597/487.153",
+      "aiScore": 53,
       "picks": 3
-    },
-    {
-      "home": "Queen of the South",
-      "away": "Hamilton Academical",
-      "league": "İK1",
-      "date": "21.11.2026 15:00",
-      "matchCode": "4482492",
-      "odds": 1.52,
-      "patternScore": 69.11,
-      "patternText": "337.429/488.241",
-      "aiScore": 57,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Borussia Monchengladbach",
+      "away": "Borussia Dortmund",
+      "league": "AL1",
+      "at": "21.11.2026 12:16",
+      "count": 8
+    },
+    {
+      "home": "UC Sampdoria",
+      "away": "Benevento",
+      "league": "İTB",
+      "at": "21.11.2026 12:11",
+      "count": 5
+    },
+    {
+      "home": "Ascoli Calcio",
+      "away": "LR Vicenza",
+      "league": "İTB",
+      "at": "21.11.2026 12:09",
+      "count": 7
+    },
+    {
+      "home": "SS Lazio",
+      "away": "US Lecce",
+      "league": "İTA",
+      "at": "21.11.2026 12:08",
+      "count": 5
+    },
     {
       "home": "Galatasaray",
       "away": "Samsunspor",
@@ -380,34 +408,6 @@
       "league": "İNP",
       "at": "21.11.2026 11:49",
       "count": 1
-    },
-    {
-      "home": "Norwich City",
-      "away": "Cardiff City",
-      "league": "İNCL",
-      "at": "21.11.2026 11:48",
-      "count": 18
-    },
-    {
-      "home": "Carrarese Calcio",
-      "away": "Virtus Entella",
-      "league": "İTB",
-      "at": "21.11.2026 11:30",
-      "count": 6
-    },
-    {
-      "home": "SS Lazio",
-      "away": "US Lecce",
-      "league": "İTA",
-      "at": "21.11.2026 11:26",
-      "count": 5
-    },
-    {
-      "home": "CE Sabadell",
-      "away": "Granada CF",
-      "league": "İS2",
-      "at": "21.11.2026 11:15",
-      "count": 6
     }
   ],
   "paywall": {
