@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 16:02",
+  "updatedAt": "21.11.2026 16:11",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 1033,
       "rate": 70.5
     },
-    "totalAnalyses": 771133,
+    "totalAnalyses": 771201,
     "leagues": 291,
     "pro": {
       "won": 802,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3417,
-    "analyses30d": 17131
+    "analyses24h": 3399,
+    "analyses30d": 17113
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 3.36,
       "probability": 100.0,
       "patternScore": 57.99,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0",
       "pro": true
@@ -272,7 +272,7 @@
     "matchCode": "4481594",
     "odds": 2.53,
     "patternScore": 67.1,
-    "patternText": "297.227/442.975",
+    "patternText": "297.535/443.409",
     "aiScore": 51,
     "picks": 12
   },
@@ -285,7 +285,7 @@
       "matchCode": "4481594",
       "odds": 2.53,
       "patternScore": 67.1,
-      "patternText": "297.227/442.975",
+      "patternText": "297.535/443.409",
       "aiScore": 51,
       "picks": 12
     },
@@ -296,9 +296,9 @@
       "date": "21.11.2026 20:00",
       "matchCode": "4492843",
       "odds": 1.9,
-      "patternScore": 66.95,
-      "patternText": "283.058/422.761",
-      "aiScore": 54,
+      "patternScore": 66.96,
+      "patternText": "283.378/423.215",
+      "aiScore": 53,
       "picks": 6
     },
     {
@@ -308,8 +308,8 @@
       "date": "21.11.2026 19:00",
       "matchCode": "4476925",
       "odds": 1.72,
-      "patternScore": 67.7,
-      "patternText": "290.153/428.580",
+      "patternScore": 67.71,
+      "patternText": "290.517/429.066",
       "aiScore": 53,
       "picks": 8
     },
@@ -321,7 +321,7 @@
       "matchCode": "4475159",
       "odds": 1.6,
       "patternScore": 68.38,
-      "patternText": "213.048/311.550",
+      "patternText": "213.298/311.914",
       "aiScore": 56,
       "picks": 5
     },
@@ -333,12 +333,47 @@
       "matchCode": "4579788",
       "odds": 1.51,
       "patternScore": 67.62,
-      "patternText": "267.586/395.748",
-      "aiScore": 58,
+      "patternText": "267.698/395.908",
+      "aiScore": 57,
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sevilla FC",
+      "away": "Real Betis",
+      "league": "İS1",
+      "at": "21.11.2026 16:10",
+      "count": 4
+    },
+    {
+      "home": "FC Schalke 04",
+      "away": "VfB Stuttgart",
+      "league": "AL1",
+      "at": "21.11.2026 16:09",
+      "count": 7
+    },
+    {
+      "home": "Newcastle United",
+      "away": "Arsenal",
+      "league": "İNP",
+      "at": "21.11.2026 16:09",
+      "count": 1
+    },
+    {
+      "home": "Castellon",
+      "away": "CD Eldense",
+      "league": "İS2",
+      "at": "21.11.2026 16:06",
+      "count": 4
+    },
+    {
+      "home": "KRC Genk",
+      "away": "La Louviere",
+      "league": "BEL",
+      "at": "21.11.2026 16:04",
+      "count": 2
+    },
     {
       "home": "CSKA Moscow",
       "away": "Akhmat Grozny",
@@ -373,41 +408,6 @@
       "league": "İNP",
       "at": "21.11.2026 14:24",
       "count": 6
-    },
-    {
-      "home": "Coventry City",
-      "away": "Crystal Palace",
-      "league": "İNP",
-      "at": "21.11.2026 14:24",
-      "count": 3
-    },
-    {
-      "home": "Sporting Charleroi",
-      "away": "Sint-Truidense VV",
-      "league": "BEL",
-      "at": "21.11.2026 14:09",
-      "count": 6
-    },
-    {
-      "home": "SS Lazio",
-      "away": "US Lecce",
-      "league": "İTA",
-      "at": "21.11.2026 13:18",
-      "count": 4
-    },
-    {
-      "home": "SV Elversberg",
-      "away": "SC Freiburg",
-      "league": "AL1",
-      "at": "21.11.2026 12:43",
-      "count": 7
-    },
-    {
-      "home": "Rubin Kazan",
-      "away": "Zenit St. Petersburg",
-      "league": "RUS",
-      "at": "21.11.2026 12:43",
-      "count": 16
     }
   ],
   "paywall": {
