@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 14:00",
+  "updatedAt": "21.11.2026 14:09",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 516,
-      "lost": 195,
-      "total": 711,
-      "rate": 72.6
+      "won": 548,
+      "lost": 212,
+      "total": 760,
+      "rate": 72.1
     },
-    "totalAnalyses": 770464,
+    "totalAnalyses": 770581,
     "leagues": 292,
     "pro": {
-      "won": 776,
-      "lost": 269,
-      "total": 1045,
+      "won": 786,
+      "lost": 272,
+      "total": 1058,
       "rate": 74.3
     },
     "insights": {
-      "won": 1316,
-      "lost": 516,
-      "total": 1832,
-      "rate": 71.8
+      "won": 1335,
+      "lost": 528,
+      "total": 1863,
+      "rate": 71.7
     },
     "coupons": {
       "won": 2,
@@ -272,7 +272,7 @@
     "matchCode": "4481594",
     "odds": 2.53,
     "patternScore": 67.11,
-    "patternText": "296.263/441.485",
+    "patternText": "296.333/441.581",
     "aiScore": 51,
     "picks": 12
   },
@@ -285,9 +285,21 @@
       "matchCode": "4481594",
       "odds": 2.53,
       "patternScore": 67.11,
-      "patternText": "296.263/441.485",
+      "patternText": "296.333/441.581",
       "aiScore": 51,
       "picks": 12
+    },
+    {
+      "home": "CD Tenerife",
+      "away": "RCD Mallorca",
+      "league": "İS2",
+      "date": "21.11.2026 20:00",
+      "matchCode": "4492843",
+      "odds": 1.9,
+      "patternScore": 66.96,
+      "patternText": "282.092/421.271",
+      "aiScore": 53,
+      "picks": 6
     },
     {
       "home": "Stade de Reims",
@@ -297,7 +309,7 @@
       "matchCode": "4476925",
       "odds": 1.72,
       "patternScore": 67.72,
-      "patternText": "289.229/427.090",
+      "patternText": "289.299/427.186",
       "aiScore": 53,
       "picks": 8
     },
@@ -309,7 +321,7 @@
       "matchCode": "4475159",
       "odds": 1.6,
       "patternScore": 68.38,
-      "patternText": "212.310/310.466",
+      "patternText": "212.336/310.502",
       "aiScore": 55,
       "picks": 5
     },
@@ -321,24 +333,19 @@
       "matchCode": "4482492",
       "odds": 1.52,
       "patternScore": 69.13,
-      "patternText": "337.871/488.741",
+      "patternText": "337.949/488.861",
       "aiScore": 57,
-      "picks": 1
-    },
-    {
-      "home": "Adama City FC",
-      "away": "Sidama Bunna",
-      "league": "ETH",
-      "date": "21.11.2026 15:00",
-      "matchCode": "4571953",
-      "odds": 1.49,
-      "patternScore": 67.91,
-      "patternText": "155.523/229.028",
-      "aiScore": 58,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sporting Charleroi",
+      "away": "Sint-Truidense VV",
+      "league": "BEL",
+      "at": "21.11.2026 14:09",
+      "count": 6
+    },
     {
       "home": "SS Lazio",
       "away": "US Lecce",
@@ -401,13 +408,6 @@
       "league": "İTB",
       "at": "21.11.2026 12:09",
       "count": 7
-    },
-    {
-      "home": "Galatasaray",
-      "away": "Samsunspor",
-      "league": "TSL",
-      "at": "21.11.2026 11:59",
-      "count": 15
     }
   ],
   "paywall": {
