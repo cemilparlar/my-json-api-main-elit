@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 21:18",
+  "updatedAt": "21.11.2026 21:26",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 959,
+      "won": 960,
       "lost": 424,
-      "total": 1383,
-      "rate": 69.3
+      "total": 1384,
+      "rate": 69.4
     },
-    "totalAnalyses": 772253,
+    "totalAnalyses": 772302,
     "leagues": 289,
     "pro": {
       "won": 945,
@@ -36,9 +36,9 @@
       "rate": 73.4
     },
     "insights": {
-      "won": 1639,
+      "won": 1640,
       "lost": 667,
-      "total": 2306,
+      "total": 2307,
       "rate": 71.1
     },
     "coupons": {
@@ -235,12 +235,6 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 15:18",
-      "home": "Kocaelispor",
-      "away": "Fenerbahce"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 15:45",
       "home": "Giana Erminio",
       "away": "Juventus Next Gen"
@@ -262,6 +256,12 @@
       "at": "21.11.2026 15:52",
       "home": "Crotone",
       "away": "Cosenza Calcio"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 15:54",
+      "home": "Savoia",
+      "away": "Sorrento Calcio"
     }
   ],
   "today": {
@@ -309,7 +309,7 @@
       "matchCode": "4423388",
       "odds": 1.6,
       "patternScore": 65.18,
-      "patternText": "297.320/456.140",
+      "patternText": "297.328/456.166",
       "aiScore": 55,
       "picks": 3
     },
@@ -321,7 +321,7 @@
       "matchCode": "4476500",
       "odds": 1.44,
       "patternScore": 68.12,
-      "patternText": "227.213/333.558",
+      "patternText": "227.217/333.568",
       "aiScore": 55,
       "picks": 4
     },
@@ -333,7 +333,7 @@
       "matchCode": "4581035",
       "odds": 1.26,
       "patternScore": 68.26,
-      "patternText": "221.629/324.687",
+      "patternText": "221.633/324.697",
       "aiScore": 58,
       "picks": 1
     }
