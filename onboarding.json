@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 23:49",
+  "updatedAt": "21.11.2026 23:56",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1051,
+      "won": 1052,
       "lost": 464,
-      "total": 1515,
+      "total": 1516,
       "rate": 69.4
     },
-    "totalAnalyses": 772495,
+    "totalAnalyses": 772515,
     "leagues": 289,
     "pro": {
-      "won": 1006,
+      "won": 1007,
       "lost": 364,
-      "total": 1370,
-      "rate": 73.4
+      "total": 1371,
+      "rate": 73.5
     },
     "insights": {
-      "won": 1719,
+      "won": 1720,
       "lost": 687,
-      "total": 2406,
-      "rate": 71.4
+      "total": 2407,
+      "rate": 71.5
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 6,
       "rate": 33.3
     },
-    "analyses24h": 3133,
-    "analyses30d": 17078
+    "analyses24h": 3131,
+    "analyses30d": 17076
   },
   "recentWins": [
     {
@@ -265,30 +265,18 @@
     }
   ],
   "today": {
-    "home": "Melbourne Victory",
-    "away": "Perth Glory Women",
-    "league": "AVUSTW",
-    "date": "22.11.2026 04:00",
-    "matchCode": "4551582",
-    "odds": 1.52,
-    "patternScore": 68.96,
-    "patternText": "156.365/226.749",
-    "aiScore": 56,
-    "picks": 1
+    "home": "Pumas UNAM",
+    "away": "CF Monterrey",
+    "league": "MEK",
+    "date": "22.11.2026 01:00",
+    "matchCode": "4476500",
+    "odds": 1.44,
+    "patternScore": 68.12,
+    "patternText": "227.451/333.896",
+    "aiScore": 55,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Melbourne Victory",
-      "away": "Perth Glory Women",
-      "league": "AVUSTW",
-      "date": "22.11.2026 04:00",
-      "matchCode": "4551582",
-      "odds": 1.52,
-      "patternScore": 68.96,
-      "patternText": "156.365/226.749",
-      "aiScore": 56,
-      "picks": 1
-    },
     {
       "home": "Pumas UNAM",
       "away": "CF Monterrey",
@@ -297,7 +285,7 @@
       "matchCode": "4476500",
       "odds": 1.44,
       "patternScore": 68.12,
-      "patternText": "227.397/333.830",
+      "patternText": "227.451/333.896",
       "aiScore": 55,
       "picks": 4
     },
@@ -308,8 +296,8 @@
       "date": "22.11.2026 05:00",
       "matchCode": "4488063",
       "odds": 1.37,
-      "patternScore": 68.1,
-      "patternText": "239.581/351.787",
+      "patternScore": 68.11,
+      "patternText": "239.651/351.869",
       "aiScore": 58,
       "picks": 2
     },
@@ -321,7 +309,7 @@
       "matchCode": "4580570",
       "odds": 1.32,
       "patternScore": 68.17,
-      "patternText": "238.064/349.238",
+      "patternText": "238.118/349.304",
       "aiScore": 58,
       "picks": 6
     },
@@ -333,9 +321,21 @@
       "matchCode": "4581035",
       "odds": 1.3,
       "patternScore": 68.09,
-      "patternText": "227.917/334.739",
+      "patternText": "227.971/334.805",
       "aiScore": 60,
       "picks": 1
+    },
+    {
+      "home": "Tokushima Vortis",
+      "away": "Shonan Bellmare",
+      "league": "JAP2",
+      "date": "22.11.2026 05:00",
+      "matchCode": "4487684",
+      "odds": 1.23,
+      "patternScore": 68.35,
+      "patternText": "238.690/349.218",
+      "aiScore": 68,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
