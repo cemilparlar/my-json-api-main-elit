@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 09:45",
+  "updatedAt": "21.11.2026 09:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 746,
       "rate": 71.8
     },
-    "totalAnalyses": 769481,
+    "totalAnalyses": 769520,
     "leagues": 292,
     "pro": {
       "won": 765,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3546,
-    "analyses30d": 17222
+    "analyses24h": 3553,
+    "analyses30d": 17229
   },
   "recentWins": [
     {
@@ -290,18 +290,6 @@
       "picks": 8
     },
     {
-      "home": "Reading",
-      "away": "Bromley",
-      "league": "İN1",
-      "date": "21.11.2026 12:30",
-      "matchCode": "4489424",
-      "odds": 1.94,
-      "patternScore": 66.84,
-      "patternText": "208.181/311.478",
-      "aiScore": 53,
-      "picks": 8
-    },
-    {
       "home": "Aik Stockholm",
       "away": "Degerfors IF",
       "league": "İSÇ",
@@ -336,9 +324,28 @@
       "patternText": "337.359/488.149",
       "aiScore": 57,
       "picks": 1
+    },
+    {
+      "home": "Foolad Khuzest",
+      "away": "Sepahan",
+      "league": "IRAN",
+      "date": "21.11.2026 14:30",
+      "matchCode": "4580240",
+      "odds": 1.5,
+      "patternScore": 67.98,
+      "patternText": "211.216/310.692",
+      "aiScore": 55,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Stade Lavalois",
+      "away": "Montpellier HSC",
+      "league": "FR2",
+      "at": "21.11.2026 09:46",
+      "count": 10
+    },
     {
       "home": "Southam",
       "away": "Derby County",
@@ -401,13 +408,6 @@
       "league": "İTA",
       "at": "21.11.2026 08:54",
       "count": 9
-    },
-    {
-      "home": "Como 1907",
-      "away": "Cagliari Calcio",
-      "league": "İTA",
-      "at": "21.11.2026 08:54",
-      "count": 13
     }
   ],
   "paywall": {
