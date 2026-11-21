@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 01:25",
+  "updatedAt": "21.11.2026 01:34",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 413,
-      "lost": 155,
-      "total": 568,
-      "rate": 72.7
+      "won": 414,
+      "lost": 156,
+      "total": 570,
+      "rate": 72.6
     },
     "totalAnalyses": 768458,
     "leagues": 289,
     "pro": {
-      "won": 706,
+      "won": 707,
       "lost": 254,
-      "total": 960,
-      "rate": 73.5
+      "total": 961,
+      "rate": 73.6
     },
     "insights": {
-      "won": 1198,
+      "won": 1199,
       "lost": 472,
-      "total": 1670,
-      "rate": 71.7
+      "total": 1671,
+      "rate": 71.8
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3342,
-    "analyses30d": 17008
+    "analyses24h": 3340,
+    "analyses30d": 17006
   },
   "recentWins": [
     {
@@ -241,6 +241,12 @@
     },
     {
       "type": "updated",
+      "at": "21.11.2026 01:24",
+      "home": "Oakleigh Cannons",
+      "away": "Bayswater City FC"
+    },
+    {
+      "type": "updated",
       "at": "20.11.2026 22:14",
       "home": "Auckland",
       "away": "Melbourne Victory"
@@ -256,12 +262,6 @@
       "at": "21.11.2026 00:44",
       "home": "Fujieda MYFC",
       "away": "FC Imabari"
-    },
-    {
-      "type": "updated",
-      "at": "20.11.2026 23:12",
-      "home": "Blaublitz Akit",
-      "away": "Montedio Yamagata"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4487269",
     "odds": 1.58,
     "patternScore": 67.8,
-    "patternText": "270.842/399.488",
+    "patternText": "270.844/399.490",
     "aiScore": 55,
     "picks": 4
   },
@@ -285,9 +285,21 @@
       "matchCode": "4487269",
       "odds": 1.58,
       "patternScore": 67.8,
-      "patternText": "270.842/399.488",
+      "patternText": "270.844/399.490",
       "aiScore": 55,
       "picks": 4
+    },
+    {
+      "home": "Incheon United",
+      "away": "Ulsan Hyundai",
+      "league": "GKOR",
+      "date": "21.11.2026 07:30",
+      "matchCode": "4580556",
+      "odds": 1.45,
+      "patternScore": 67.94,
+      "patternText": "264.723/389.634",
+      "aiScore": 57,
+      "picks": 3
     },
     {
       "home": "Suwon Samsung Bluewings",
@@ -297,7 +309,7 @@
       "matchCode": "4442883",
       "odds": 1.37,
       "patternScore": 68.03,
-      "patternText": "285.036/418.968",
+      "patternText": "285.038/418.970",
       "aiScore": 56,
       "picks": 2
     },
@@ -324,18 +336,6 @@
       "patternText": "115.771/171.807",
       "aiScore": 61,
       "picks": 5
-    },
-    {
-      "home": "Gamba Osaka",
-      "away": "Fagiano Okayama",
-      "league": "JAP",
-      "date": "21.11.2026 07:00",
-      "matchCode": "4487273",
-      "odds": 1.32,
-      "patternScore": 67.92,
-      "patternText": "279.633/411.724",
-      "aiScore": 58,
-      "picks": 8
     }
   ],
   "recentAnalyzed": [
