@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 19:59",
+  "updatedAt": "21.11.2026 20:08",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 918,
-      "lost": 410,
-      "total": 1328,
-      "rate": 69.1
+      "won": 911,
+      "lost": 400,
+      "total": 1311,
+      "rate": 69.5
     },
-    "totalAnalyses": 772028,
+    "totalAnalyses": 772036,
     "leagues": 289,
     "pro": {
-      "won": 930,
+      "won": 927,
       "lost": 333,
-      "total": 1263,
+      "total": 1260,
       "rate": 73.6
     },
     "insights": {
-      "won": 1611,
+      "won": 1608,
       "lost": 655,
-      "total": 2266,
+      "total": 2263,
       "rate": 71.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3159,
-    "analyses30d": 17090
+    "analyses24h": 3139,
+    "analyses30d": 17089
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4579789",
     "odds": 2.06,
     "patternScore": 67.09,
-    "patternText": "166.841/248.670",
+    "patternText": "166.845/248.674",
     "aiScore": 52,
     "picks": 10
   },
@@ -285,21 +285,9 @@
       "matchCode": "4579789",
       "odds": 2.06,
       "patternScore": 67.09,
-      "patternText": "166.841/248.670",
+      "patternText": "166.845/248.674",
       "aiScore": 52,
       "picks": 10
-    },
-    {
-      "home": "EC Bahia",
-      "away": "Coritiba FBC",
-      "league": "BR1",
-      "date": "21.11.2026 20:30",
-      "matchCode": "4423387",
-      "odds": 1.91,
-      "patternScore": 67.15,
-      "patternText": "275.438/410.159",
-      "aiScore": 52,
-      "picks": 5
     },
     {
       "home": "Santos Laguna",
@@ -309,7 +297,7 @@
       "matchCode": "4476498",
       "odds": 1.87,
       "patternScore": 66.98,
-      "patternText": "160.921/240.270",
+      "patternText": "160.925/240.274",
       "aiScore": 53,
       "picks": 3
     },
@@ -321,7 +309,7 @@
       "matchCode": "4423388",
       "odds": 1.6,
       "patternScore": 65.18,
-      "patternText": "297.230/455.998",
+      "patternText": "297.242/456.014",
       "aiScore": 55,
       "picks": 3
     },
@@ -333,8 +321,20 @@
       "matchCode": "4490462",
       "odds": 1.54,
       "patternScore": 68.87,
-      "patternText": "236.591/343.536",
+      "patternText": "236.601/343.550",
       "aiScore": 56,
+      "picks": 2
+    },
+    {
+      "home": "Club Deportivo Aguila",
+      "away": "Club Deportivo Platense",
+      "league": "ELSAL",
+      "date": "21.11.2026 21:00",
+      "matchCode": "4504435",
+      "odds": 1.32,
+      "patternScore": 68.05,
+      "patternText": "231.351/339.959",
+      "aiScore": 64,
       "picks": 2
     }
   ],
