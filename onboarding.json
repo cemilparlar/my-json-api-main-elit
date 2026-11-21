@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 05:10",
+  "updatedAt": "21.11.2026 05:19",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 439,
-      "lost": 166,
-      "total": 605,
-      "rate": 72.6
+      "won": 447,
+      "lost": 170,
+      "total": 617,
+      "rate": 72.4
     },
-    "totalAnalyses": 768540,
+    "totalAnalyses": 768577,
     "leagues": 290,
     "pro": {
-      "won": 712,
-      "lost": 249,
-      "total": 961,
+      "won": 717,
+      "lost": 251,
+      "total": 968,
       "rate": 74.1
     },
     "insights": {
-      "won": 1206,
-      "lost": 469,
-      "total": 1675,
+      "won": 1213,
+      "lost": 472,
+      "total": 1685,
       "rate": 72.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3347,
-    "analyses30d": 16998
+    "analyses24h": 3380,
+    "analyses30d": 17031
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4487271",
     "odds": 1.57,
     "patternScore": 68.11,
-    "patternText": "166.254/244.096",
+    "patternText": "166.278/244.130",
     "aiScore": 56,
     "picks": 3
   },
@@ -285,7 +285,7 @@
       "matchCode": "4487271",
       "odds": 1.57,
       "patternScore": 68.11,
-      "patternText": "166.254/244.096",
+      "patternText": "166.278/244.130",
       "aiScore": 56,
       "picks": 3
     },
@@ -297,7 +297,7 @@
       "matchCode": "4546761",
       "odds": 1.48,
       "patternScore": 67.76,
-      "patternText": "263.713/389.163",
+      "patternText": "263.737/389.201",
       "aiScore": 55,
       "picks": 4
     },
@@ -309,9 +309,21 @@
       "matchCode": "4580556",
       "odds": 1.45,
       "patternScore": 67.94,
-      "patternText": "264.843/389.804",
+      "patternText": "264.895/389.886",
       "aiScore": 57,
       "picks": 3
+    },
+    {
+      "home": "Central Coast Mariners",
+      "away": "Perth Glory",
+      "league": "AVUS",
+      "date": "21.11.2026 06:00",
+      "matchCode": "4546760",
+      "odds": 1.33,
+      "patternScore": 66.57,
+      "patternText": "193.706/290.984",
+      "aiScore": 60,
+      "picks": 2
     },
     {
       "home": "Gamba Osaka",
@@ -321,21 +333,9 @@
       "matchCode": "4487273",
       "odds": 1.32,
       "patternScore": 67.92,
-      "patternText": "279.807/411.968",
+      "patternText": "279.831/412.014",
       "aiScore": 58,
       "picks": 8
-    },
-    {
-      "home": "Gangwon FC",
-      "away": "Daejeon Citizen",
-      "league": "GKOR",
-      "date": "21.11.2026 07:30",
-      "matchCode": "4580555",
-      "odds": 1.2,
-      "patternScore": 69.81,
-      "patternText": "350.638/502.274",
-      "aiScore": 73,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
