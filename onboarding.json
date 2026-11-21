@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 11:41",
+  "updatedAt": "21.11.2026 11:52",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 527,
-      "lost": 202,
-      "total": 729,
+      "won": 525,
+      "lost": 201,
+      "total": 726,
       "rate": 72.3
     },
-    "totalAnalyses": 769755,
+    "totalAnalyses": 769772,
     "leagues": 292,
     "pro": {
       "won": 758,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3520,
-    "analyses30d": 17131
+    "analyses24h": 3502,
+    "analyses30d": 17116
   },
   "recentWins": [
     {
@@ -235,13 +235,19 @@
     },
     {
       "type": "updated",
+      "at": "21.11.2026 11:48",
+      "home": "Norwich City",
+      "away": "Cardiff City"
+    },
+    {
+      "type": "updated",
       "at": "21.11.2026 11:07",
       "home": "Reading",
       "away": "Bromley"
     },
     {
       "type": "updated",
-      "at": "21.11.2026 09:40",
+      "at": "21.11.2026 11:50",
       "home": "Southam",
       "away": "Derby County"
     },
@@ -256,27 +262,33 @@
       "at": "21.11.2026 06:43",
       "home": "Tamworth",
       "away": "Eastleigh"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 06:55",
-      "home": "Solihull Moors",
-      "away": "Altrincham"
     }
   ],
   "today": {
-    "home": "Stade Lavalois",
-    "away": "Montpellier HSC",
-    "league": "FR2",
-    "date": "21.11.2026 13:00",
-    "matchCode": "4476920",
-    "odds": 1.87,
+    "home": "FC Utrecht",
+    "away": "SC Cambuur",
+    "league": "HOL",
+    "date": "21.11.2026 17:45",
+    "matchCode": "4481594",
+    "odds": 2.53,
     "patternScore": 67.09,
-    "patternText": "306.404/456.675",
-    "aiScore": 53,
-    "picks": 5
+    "patternText": "295.909/441.077",
+    "aiScore": 51,
+    "picks": 12
   },
   "todayList": [
+    {
+      "home": "FC Utrecht",
+      "away": "SC Cambuur",
+      "league": "HOL",
+      "date": "21.11.2026 17:45",
+      "matchCode": "4481594",
+      "odds": 2.53,
+      "patternScore": 67.09,
+      "patternText": "295.909/441.077",
+      "aiScore": 51,
+      "picks": 12
+    },
     {
       "home": "Stade Lavalois",
       "away": "Montpellier HSC",
@@ -324,21 +336,30 @@
       "patternText": "337.429/488.241",
       "aiScore": 57,
       "picks": 1
-    },
-    {
-      "home": "Foolad Khuzest",
-      "away": "Sepahan",
-      "league": "IRAN",
-      "date": "21.11.2026 14:30",
-      "matchCode": "4580240",
-      "odds": 1.5,
-      "patternScore": 67.98,
-      "patternText": "211.246/310.744",
-      "aiScore": 55,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Southam",
+      "away": "Derby County",
+      "league": "İNCL",
+      "at": "21.11.2026 11:50",
+      "count": 3
+    },
+    {
+      "home": "Manchester City",
+      "away": "Fulham",
+      "league": "İNP",
+      "at": "21.11.2026 11:49",
+      "count": 1
+    },
+    {
+      "home": "Norwich City",
+      "away": "Cardiff City",
+      "league": "İNCL",
+      "at": "21.11.2026 11:48",
+      "count": 18
+    },
     {
       "home": "Carrarese Calcio",
       "away": "Virtus Entella",
@@ -368,13 +389,6 @@
       "count": 5
     },
     {
-      "home": "Manchester City",
-      "away": "Fulham",
-      "league": "İNP",
-      "at": "21.11.2026 11:09",
-      "count": 16
-    },
-    {
       "home": "FC Sudtirol",
       "away": "US Cremonese",
       "league": "İTB",
@@ -394,20 +408,6 @@
       "league": "İTA",
       "at": "21.11.2026 10:27",
       "count": 14
-    },
-    {
-      "home": "Kayserispor",
-      "away": "Sariyer",
-      "league": "T1L",
-      "at": "21.11.2026 10:19",
-      "count": 1
-    },
-    {
-      "home": "FC Akron Togliatti",
-      "away": "FK Fakel Voronezh",
-      "league": "RUS",
-      "at": "21.11.2026 10:11",
-      "count": 8
     }
   ],
   "paywall": {
