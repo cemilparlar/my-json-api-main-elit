@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 11:04",
+  "updatedAt": "21.11.2026 11:14",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 528,
+      "won": 536,
       "lost": 204,
-      "total": 732,
-      "rate": 72.1
+      "total": 740,
+      "rate": 72.4
     },
-    "totalAnalyses": 769699,
+    "totalAnalyses": 769714,
     "leagues": 292,
     "pro": {
-      "won": 757,
+      "won": 759,
       "lost": 272,
-      "total": 1029,
+      "total": 1031,
       "rate": 73.6
     },
     "insights": {
-      "won": 1288,
+      "won": 1296,
       "lost": 517,
-      "total": 1805,
-      "rate": 71.4
+      "total": 1813,
+      "rate": 71.5
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3538,
-    "analyses30d": 17138
+    "analyses24h": 3550,
+    "analyses30d": 17150
   },
   "recentWins": [
     {
@@ -229,13 +229,13 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 06:05",
+      "at": "21.11.2026 11:06",
       "home": "Mirandes",
       "away": "Athletic Bilbao B"
     },
     {
       "type": "updated",
-      "at": "21.11.2026 10:11",
+      "at": "21.11.2026 11:07",
       "home": "Reading",
       "away": "Bromley"
     },
@@ -340,6 +340,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Manchester City",
+      "away": "Fulham",
+      "league": "İNP",
+      "at": "21.11.2026 11:09",
+      "count": 16
+    },
+    {
       "home": "FC Sudtirol",
       "away": "US Cremonese",
       "league": "İTB",
@@ -401,13 +408,6 @@
       "league": "RUS",
       "at": "21.11.2026 10:11",
       "count": 8
-    },
-    {
-      "home": "Hannover 96",
-      "away": "SpVgg Greuther Furth",
-      "league": "AL2",
-      "at": "21.11.2026 10:08",
-      "count": 9
     }
   ],
   "paywall": {
