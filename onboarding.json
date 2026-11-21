@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 19:12",
+  "updatedAt": "21.11.2026 19:20",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 941,
+      "won": 949,
       "lost": 418,
-      "total": 1359,
-      "rate": 69.2
+      "total": 1367,
+      "rate": 69.4
     },
-    "totalAnalyses": 771925,
+    "totalAnalyses": 771926,
     "leagues": 289,
     "pro": {
-      "won": 936,
+      "won": 937,
       "lost": 327,
-      "total": 1263,
+      "total": 1264,
       "rate": 74.1
     },
     "insights": {
-      "won": 1600,
+      "won": 1602,
       "lost": 651,
-      "total": 2251,
+      "total": 2253,
       "rate": 71.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3275,
-    "analyses30d": 17105
+    "analyses24h": 3272,
+    "analyses30d": 17102
   },
   "recentWins": [
     {
@@ -91,7 +91,7 @@
       "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "2 - 1",
-      "pro": true
+      "pro": false
     },
     {
       "home": "Nasaf Qarshi",
@@ -229,12 +229,6 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 13:18",
-      "home": "SS Lazio",
-      "away": "US Lecce"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 14:23",
       "home": "Plymouth Argyle",
       "away": "Peterborough United"
@@ -262,6 +256,12 @@
       "at": "21.11.2026 14:21",
       "home": "Braintree",
       "away": "Torquay"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 14:22",
+      "home": "Radcliffe Boro",
+      "away": "Telford"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4579789",
     "odds": 2.06,
     "patternScore": 67.09,
-    "patternText": "166.767/248.564",
+    "patternText": "166.799/248.602",
     "aiScore": 52,
     "picks": 10
   },
@@ -285,7 +285,7 @@
       "matchCode": "4579789",
       "odds": 2.06,
       "patternScore": 67.09,
-      "patternText": "166.767/248.564",
+      "patternText": "166.799/248.602",
       "aiScore": 52,
       "picks": 10
     },
@@ -296,8 +296,8 @@
       "date": "21.11.2026 20:30",
       "matchCode": "4423387",
       "odds": 1.91,
-      "patternScore": 67.14,
-      "patternText": "275.116/409.743",
+      "patternScore": 67.15,
+      "patternText": "275.238/409.891",
       "aiScore": 52,
       "picks": 5
     },
@@ -309,7 +309,7 @@
       "matchCode": "4481599",
       "odds": 1.89,
       "patternScore": 67.82,
-      "patternText": "279.953/412.811",
+      "patternText": "280.055/412.939",
       "aiScore": 53,
       "picks": 6
     },
@@ -320,25 +320,32 @@
       "date": "21.11.2026 23:00",
       "matchCode": "4476498",
       "odds": 1.87,
-      "patternScore": 66.97,
-      "patternText": "160.847/240.162",
+      "patternScore": 66.98,
+      "patternText": "160.879/240.200",
       "aiScore": 53,
       "picks": 3
     },
     {
-      "home": "SSC Napoli",
-      "away": "Torino FC",
-      "league": "İTA",
-      "date": "21.11.2026 19:45",
-      "matchCode": "4475159",
-      "odds": 1.71,
-      "patternScore": 66.73,
-      "patternText": "306.246/458.932",
-      "aiScore": 53,
-      "picks": 4
+      "home": "Mixco",
+      "away": "CSD Malacateco",
+      "league": "GUAT",
+      "date": "21.11.2026 21:00",
+      "matchCode": "4490462",
+      "odds": 1.54,
+      "patternScore": 68.87,
+      "patternText": "236.553/343.488",
+      "aiScore": 56,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SC Telstar",
+      "away": "Zwolle",
+      "league": "HOL",
+      "at": "21.11.2026 19:17",
+      "count": 6
+    },
     {
       "home": "Zulte Waregem",
       "away": "Royal Antwerp",
@@ -400,13 +407,6 @@
       "away": "Toulouse FC",
       "league": "FR1",
       "at": "21.11.2026 18:39",
-      "count": 5
-    },
-    {
-      "home": "Stade de Reims",
-      "away": "AS Saint-Etienne",
-      "league": "FR2",
-      "at": "21.11.2026 18:17",
       "count": 5
     }
   ],
