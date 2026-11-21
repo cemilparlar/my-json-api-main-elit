@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 10:12",
+  "updatedAt": "21.11.2026 10:23",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 724,
       "rate": 72.7
     },
-    "totalAnalyses": 769548,
+    "totalAnalyses": 769593,
     "leagues": 292,
     "pro": {
-      "won": 764,
-      "lost": 272,
-      "total": 1036,
-      "rate": 73.7
+      "won": 762,
+      "lost": 271,
+      "total": 1033,
+      "rate": 73.8
     },
     "insights": {
-      "won": 1297,
-      "lost": 515,
-      "total": 1812,
+      "won": 1295,
+      "lost": 513,
+      "total": 1808,
       "rate": 71.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3542,
-    "analyses30d": 17147
+    "analyses24h": 3547,
+    "analyses30d": 17152
   },
   "recentWins": [
     {
@@ -310,7 +310,7 @@
       "odds": 1.85,
       "patternScore": 65.01,
       "patternText": "364.332/560.400",
-      "aiScore": 52,
+      "aiScore": 53,
       "picks": 3
     },
     {
@@ -339,6 +339,27 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Kayserispor",
+      "away": "Sariyer",
+      "league": "T1L",
+      "at": "21.11.2026 10:19",
+      "count": 1
+    },
+    {
+      "home": "CE Sabadell",
+      "away": "Granada CF",
+      "league": "İS2",
+      "at": "21.11.2026 10:17",
+      "count": 5
+    },
+    {
+      "home": "Deportivo Alaves",
+      "away": "Deportivo La Coruna",
+      "league": "İS1",
+      "at": "21.11.2026 10:17",
+      "count": 6
+    },
     {
       "home": "FC Akron Togliatti",
       "away": "FK Fakel Voronezh",
@@ -387,27 +408,6 @@
       "league": "RUS",
       "at": "21.11.2026 09:16",
       "count": 7
-    },
-    {
-      "home": "FC Sudtirol",
-      "away": "US Cremonese",
-      "league": "İTB",
-      "at": "21.11.2026 09:01",
-      "count": 8
-    },
-    {
-      "home": "Carrarese Calcio",
-      "away": "Virtus Entella",
-      "league": "İTB",
-      "at": "21.11.2026 08:59",
-      "count": 7
-    },
-    {
-      "home": "SS Lazio",
-      "away": "US Lecce",
-      "league": "İTA",
-      "at": "21.11.2026 08:54",
-      "count": 9
     }
   ],
   "paywall": {
