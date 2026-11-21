@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 00:16",
+  "updatedAt": "21.11.2026 00:26",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 577,
       "rate": 73.3
     },
-    "totalAnalyses": 768368,
+    "totalAnalyses": 768383,
     "leagues": 289,
     "pro": {
       "won": 705,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3342,
-    "analyses30d": 17009
+    "analyses24h": 3347,
+    "analyses30d": 17014
   },
   "recentWins": [
     {
@@ -241,54 +241,42 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 18:24",
-      "home": "En Avant Guingamp",
-      "away": "Rodez AF"
-    },
-    {
-      "type": "updated",
       "at": "20.11.2026 19:05",
       "home": "ESTAC Troyes",
       "away": "Le Havre AC"
     },
     {
       "type": "updated",
-      "at": "20.11.2026 18:23",
-      "home": "FC Volendam",
-      "away": "Jong Ajax"
-    },
-    {
-      "type": "updated",
       "at": "20.11.2026 19:07",
       "home": "Velez Sarsfiel",
       "away": "Club Atletico Belgrano"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 00:23",
+      "home": "Club Puebla",
+      "away": "Atletico San Luis"
+    },
+    {
+      "type": "updated",
+      "at": "20.11.2026 22:16",
+      "home": "Marconi Stallions",
+      "away": "Sydney Olympic FC"
     }
   ],
   "today": {
-    "home": "Suwon Samsung Bluewings",
-    "away": "Gyeongnam",
-    "league": "GKOR2",
+    "home": "Tokyo Verdy",
+    "away": "Nagoya Grampus",
+    "league": "JAP",
     "date": "21.11.2026 05:00",
-    "matchCode": "4442883",
-    "odds": 1.95,
-    "patternScore": 68.09,
-    "patternText": "259.254/380.740",
-    "aiScore": 52,
-    "picks": 2
+    "matchCode": "4487269",
+    "odds": 1.58,
+    "patternScore": 67.8,
+    "patternText": "270.836/399.474",
+    "aiScore": 55,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Suwon Samsung Bluewings",
-      "away": "Gyeongnam",
-      "league": "GKOR2",
-      "date": "21.11.2026 05:00",
-      "matchCode": "4442883",
-      "odds": 1.95,
-      "patternScore": 68.09,
-      "patternText": "259.254/380.740",
-      "aiScore": 52,
-      "picks": 2
-    },
     {
       "home": "Tokyo Verdy",
       "away": "Nagoya Grampus",
@@ -297,7 +285,7 @@
       "matchCode": "4487269",
       "odds": 1.58,
       "patternScore": 67.8,
-      "patternText": "270.822/399.458",
+      "patternText": "270.836/399.474",
       "aiScore": 55,
       "picks": 4
     },
@@ -308,10 +296,22 @@
       "date": "21.11.2026 03:00",
       "matchCode": "4476496",
       "odds": 1.43,
-      "patternScore": 67.53,
-      "patternText": "266.288/394.298",
+      "patternScore": 67.54,
+      "patternText": "266.302/394.314",
       "aiScore": 56,
       "picks": 4
+    },
+    {
+      "home": "Suwon Samsung Bluewings",
+      "away": "Gyeongnam",
+      "league": "GKOR2",
+      "date": "21.11.2026 05:00",
+      "matchCode": "4442883",
+      "odds": 1.37,
+      "patternScore": 68.03,
+      "patternText": "285.030/418.958",
+      "aiScore": 56,
+      "picks": 2
     },
     {
       "home": "FC Machida Zelvia",
@@ -326,15 +326,15 @@
       "picks": 5
     },
     {
-      "home": "Kawasaki Frontale",
-      "away": "Avispa Fukuoka",
+      "home": "Kyoto Sanga FC",
+      "away": "Urawa Red Diamonds",
       "league": "JAP",
-      "date": "21.11.2026 06:00",
-      "matchCode": "4487271",
-      "odds": 1.3,
-      "patternScore": 67.94,
-      "patternText": "277.833/408.962",
-      "aiScore": 59,
+      "date": "21.11.2026 05:00",
+      "matchCode": "4487272",
+      "odds": 1.29,
+      "patternScore": 68.3,
+      "patternText": "312.623/457.736",
+      "aiScore": 62,
       "picks": 4
     }
   ],
