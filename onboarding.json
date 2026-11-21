@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 07:33",
+  "updatedAt": "21.11.2026 07:42",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 706,
       "rate": 72.1
     },
-    "totalAnalyses": 768834,
-    "leagues": 290,
+    "totalAnalyses": 768866,
+    "leagues": 291,
     "pro": {
       "won": 745,
       "lost": 268,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3477,
-    "analyses30d": 17131
+    "analyses24h": 3491,
+    "analyses30d": 17145
   },
   "recentWins": [
     {
@@ -60,7 +60,7 @@
       "odds": 2.87,
       "probability": 100.0,
       "patternScore": 56.68,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "1 - 0",
       "finalScore": "1 - 0",
       "pro": true
@@ -273,7 +273,7 @@
     "odds": 1.94,
     "patternScore": 66.84,
     "patternText": "208.005/311.204",
-    "aiScore": 53,
+    "aiScore": 52,
     "picks": 8
   },
   "todayList": [
@@ -286,7 +286,7 @@
       "odds": 1.94,
       "patternScore": 66.84,
       "patternText": "208.005/311.204",
-      "aiScore": 53,
+      "aiScore": 52,
       "picks": 8
     },
     {
@@ -310,8 +310,20 @@
       "odds": 1.49,
       "patternScore": 67.55,
       "patternText": "332.211/491.769",
-      "aiScore": 55,
+      "aiScore": 54,
       "picks": 5
+    },
+    {
+      "home": "TSG Hoffenheim II",
+      "away": "Preussen Munster",
+      "league": "AL3",
+      "date": "21.11.2026 13:00",
+      "matchCode": "4517727",
+      "odds": 1.47,
+      "patternScore": 67.57,
+      "patternText": "323.657/479.002",
+      "aiScore": 55,
+      "picks": 7
     },
     {
       "home": "Treviso",
@@ -322,19 +334,7 @@
       "odds": 1.45,
       "patternScore": 67.98,
       "patternText": "193.823/285.122",
-      "aiScore": 55,
-      "picks": 1
-    },
-    {
-      "home": "Fortuna Dusseldorf",
-      "away": "Sonnenhof Gross",
-      "league": "AL3",
-      "date": "21.11.2026 13:00",
-      "matchCode": "4517721",
-      "odds": 1.38,
-      "patternScore": 66.58,
-      "patternText": "223.243/335.306",
-      "aiScore": 58,
+      "aiScore": 54,
       "picks": 1
     }
   ],
