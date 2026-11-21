@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 15:16",
+  "updatedAt": "21.11.2026 15:26",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 666,
+      "won": 662,
       "lost": 271,
-      "total": 937,
-      "rate": 71.1
+      "total": 933,
+      "rate": 71.0
     },
-    "totalAnalyses": 770877,
+    "totalAnalyses": 770989,
     "leagues": 292,
     "pro": {
       "won": 767,
@@ -47,10 +47,24 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3447,
-    "analyses30d": 17136
+    "analyses24h": 3435,
+    "analyses30d": 17128
   },
   "recentWins": [
+    {
+      "home": "Verl 1924",
+      "away": "Rot-Weiss Essen",
+      "league": "AL3",
+      "date": "21.11.2026 13:00",
+      "prediction": "Handicap (2:0) 2",
+      "odds": 4.83,
+      "probability": 100.0,
+      "patternScore": 58.25,
+      "aiScore": 50,
+      "firstHalf": "0 - 1",
+      "finalScore": "0 - 3",
+      "pro": true
+    },
     {
       "home": "Nasaf Qarshi",
       "away": "Mashal Muborak",
@@ -105,20 +119,6 @@
       "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "3 - 0",
-      "pro": true
-    },
-    {
-      "home": "Cercle Brugge",
-      "away": "KVC Westerlo",
-      "league": "BEL",
-      "date": "20.11.2026 19:45",
-      "prediction": "Both Teams to Score - No",
-      "odds": 2.31,
-      "probability": 70.0,
-      "patternScore": 67.27,
-      "aiScore": 52,
-      "firstHalf": "0 - 0",
-      "finalScore": "1 - 0",
       "pro": true
     }
   ],
@@ -185,6 +185,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Verl 1924",
+      "away": "Rot-Weiss Essen",
+      "prediction": "Handicap (2:0) 2",
+      "odds": 4.83,
+      "at": "21.11.2026 13:00"
+    },
+    {
+      "type": "won",
       "home": "Nasaf Qarshi",
       "away": "Mashal Muborak",
       "prediction": "Handicap (0:2) X",
@@ -208,24 +216,10 @@
       "at": "20.11.2026 00:45"
     },
     {
-      "type": "won",
-      "home": "Persepolis",
-      "away": "Peykan",
-      "prediction": "1st Half Under 0.5",
-      "odds": 2.42,
-      "at": "20.11.2026 12:45"
-    },
-    {
       "type": "coupon",
       "size": 3,
       "odds": 1.5,
       "at": "21.11.2026 07:06"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 09:16",
-      "home": "Genclerbirligi",
-      "away": "Gaziantep FK"
     },
     {
       "type": "updated",
@@ -262,6 +256,12 @@
       "at": "21.11.2026 11:52",
       "home": "Millwall",
       "away": "Queens Park Rangers"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 11:56",
+      "home": "Kayserispor",
+      "away": "Sariyer"
     }
   ],
   "today": {
@@ -271,8 +271,8 @@
     "date": "21.11.2026 17:45",
     "matchCode": "4481594",
     "odds": 2.53,
-    "patternScore": 67.11,
-    "patternText": "296.873/442.381",
+    "patternScore": 67.1,
+    "patternText": "297.101/442.763",
     "aiScore": 51,
     "picks": 12
   },
@@ -284,8 +284,8 @@
       "date": "21.11.2026 17:45",
       "matchCode": "4481594",
       "odds": 2.53,
-      "patternScore": 67.11,
-      "patternText": "296.873/442.381",
+      "patternScore": 67.1,
+      "patternText": "297.101/442.763",
       "aiScore": 51,
       "picks": 12
     },
@@ -296,9 +296,9 @@
       "date": "21.11.2026 20:00",
       "matchCode": "4492843",
       "odds": 1.9,
-      "patternScore": 66.97,
-      "patternText": "282.664/422.107",
-      "aiScore": 53,
+      "patternScore": 66.96,
+      "patternText": "282.932/422.549",
+      "aiScore": 54,
       "picks": 6
     },
     {
@@ -308,8 +308,8 @@
       "date": "21.11.2026 19:00",
       "matchCode": "4476925",
       "odds": 1.72,
-      "patternScore": 67.71,
-      "patternText": "289.831/428.030",
+      "patternScore": 67.7,
+      "patternText": "290.027/428.380",
       "aiScore": 53,
       "picks": 8
     },
@@ -321,7 +321,7 @@
       "matchCode": "4475159",
       "odds": 1.6,
       "patternScore": 68.39,
-      "patternText": "212.790/311.120",
+      "patternText": "212.962/311.406",
       "aiScore": 56,
       "picks": 5
     },
@@ -333,12 +333,19 @@
       "matchCode": "4579788",
       "odds": 1.51,
       "patternScore": 67.62,
-      "patternText": "267.470/395.560",
+      "patternText": "267.542/395.680",
       "aiScore": 58,
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Kocaelispor",
+      "away": "Fenerbahce",
+      "league": "TSL",
+      "at": "21.11.2026 15:18",
+      "count": 6
+    },
     {
       "home": "NEC Nijmegen",
       "away": "PSV Eindhoven",
@@ -401,13 +408,6 @@
       "league": "AL1",
       "at": "21.11.2026 12:36",
       "count": 14
-    },
-    {
-      "home": "Borussia Monchengladbach",
-      "away": "Borussia Dortmund",
-      "league": "AL1",
-      "at": "21.11.2026 12:33",
-      "count": 15
     }
   ],
   "paywall": {
