@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 06:17",
+  "updatedAt": "21.11.2026 06:25",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 621,
       "rate": 72.3
     },
-    "totalAnalyses": 768648,
+    "totalAnalyses": 768651,
     "leagues": 290,
     "pro": {
       "won": 718,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3410,
-    "analyses30d": 17064
+    "analyses24h": 3406,
+    "analyses30d": 17060
   },
   "recentWins": [
     {
@@ -247,12 +247,6 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 00:23",
-      "home": "Club Puebla",
-      "away": "Atletico San Luis"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 01:23",
       "home": "Marconi Stallions",
       "away": "Sydney Olympic FC"
@@ -262,54 +256,36 @@
       "at": "21.11.2026 02:09",
       "home": "Kataller Toyama",
       "away": "Oita Trinita"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 03:36",
+      "home": "FC Machida Zelvia",
+      "away": "V-Varen Nagasaki"
     }
   ],
   "today": {
-    "home": "Nuremberg",
-    "away": "Eintracht Braunschweig",
+    "home": "Hannover 96",
+    "away": "SpVgg Greuther Furth",
     "league": "AL2",
     "date": "21.11.2026 12:00",
-    "matchCode": "4495842",
-    "odds": 2.27,
-    "patternScore": 66.91,
-    "patternText": "301.243/450.197",
-    "aiScore": 51,
+    "matchCode": "4495839",
+    "odds": 1.54,
+    "patternScore": 67.33,
+    "patternText": "310.097/460.562",
+    "aiScore": 54,
     "picks": 5
   },
   "todayList": [
     {
-      "home": "Nuremberg",
-      "away": "Eintracht Braunschweig",
+      "home": "Hannover 96",
+      "away": "SpVgg Greuther Furth",
       "league": "AL2",
       "date": "21.11.2026 12:00",
-      "matchCode": "4495842",
-      "odds": 2.27,
-      "patternScore": 66.91,
-      "patternText": "301.243/450.197",
-      "aiScore": 51,
-      "picks": 5
-    },
-    {
-      "home": "Bhayangkara Presisi Indonesia FC",
-      "away": "PSIM Yogyakarta",
-      "league": "ENDL1",
-      "date": "21.11.2026 12:00",
-      "matchCode": "4550405",
-      "odds": 1.61,
-      "patternScore": 68.38,
-      "patternText": "195.326/285.644",
-      "aiScore": 56,
-      "picks": 1
-    },
-    {
-      "home": "VfL Wolfsburg",
-      "away": "Holstein Kiel",
-      "league": "AL2",
-      "date": "21.11.2026 12:00",
-      "matchCode": "4495837",
+      "matchCode": "4495839",
       "odds": 1.54,
-      "patternScore": 67.32,
-      "patternText": "310.009/460.482",
+      "patternScore": 67.33,
+      "patternText": "310.097/460.562",
       "aiScore": 54,
       "picks": 5
     },
@@ -336,6 +312,30 @@
       "patternText": "264.921/389.934",
       "aiScore": 57,
       "picks": 3
+    },
+    {
+      "home": "Gyor Ii",
+      "away": "Sc Sopron",
+      "league": "MAC3",
+      "date": "21.11.2026 12:00",
+      "matchCode": "4504853",
+      "odds": 1.36,
+      "patternScore": 68.14,
+      "patternText": "273.210/400.941",
+      "aiScore": 56,
+      "picks": 4
+    },
+    {
+      "home": "Gamba Osaka",
+      "away": "Fagiano Okayama",
+      "league": "JAP",
+      "date": "21.11.2026 07:00",
+      "matchCode": "4487273",
+      "odds": 1.32,
+      "patternScore": 67.92,
+      "patternText": "279.857/412.062",
+      "aiScore": 58,
+      "picks": 8
     }
   ],
   "recentAnalyzed": [
