@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 13:23",
+  "updatedAt": "21.11.2026 13:33",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 507,
-      "lost": 189,
-      "total": 696,
-      "rate": 72.8
+      "won": 503,
+      "lost": 190,
+      "total": 693,
+      "rate": 72.6
     },
-    "totalAnalyses": 770299,
+    "totalAnalyses": 770411,
     "leagues": 292,
     "pro": {
-      "won": 779,
-      "lost": 271,
-      "total": 1050,
+      "won": 769,
+      "lost": 267,
+      "total": 1036,
       "rate": 74.2
     },
     "insights": {
-      "won": 1315,
-      "lost": 516,
-      "total": 1831,
-      "rate": 71.8
+      "won": 1306,
+      "lost": 511,
+      "total": 1817,
+      "rate": 71.9
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3447,
-    "analyses30d": 17124
+    "analyses24h": 3438,
+    "analyses30d": 17127
   },
   "recentWins": [
     {
@@ -271,8 +271,8 @@
     "date": "21.11.2026 17:45",
     "matchCode": "4481594",
     "odds": 2.53,
-    "patternScore": 67.1,
-    "patternText": "296.213/441.423",
+    "patternScore": 67.11,
+    "patternText": "296.225/441.435",
     "aiScore": 51,
     "picks": 12
   },
@@ -284,22 +284,10 @@
       "date": "21.11.2026 17:45",
       "matchCode": "4481594",
       "odds": 2.53,
-      "patternScore": 67.1,
-      "patternText": "296.213/441.423",
+      "patternScore": 67.11,
+      "patternText": "296.225/441.435",
       "aiScore": 51,
       "picks": 12
-    },
-    {
-      "home": "FC Sudtirol",
-      "away": "US Cremonese",
-      "league": "İTB",
-      "date": "21.11.2026 14:00",
-      "matchCode": "4534796",
-      "odds": 1.87,
-      "patternScore": 67.9,
-      "patternText": "208.534/307.115",
-      "aiScore": 52,
-      "picks": 7
     },
     {
       "home": "Stade de Reims",
@@ -309,7 +297,7 @@
       "matchCode": "4476925",
       "odds": 1.72,
       "patternScore": 67.72,
-      "patternText": "289.167/427.016",
+      "patternText": "289.179/427.028",
       "aiScore": 53,
       "picks": 8
     },
@@ -320,22 +308,34 @@
       "date": "21.11.2026 14:30",
       "matchCode": "4580240",
       "odds": 1.62,
-      "patternScore": 67.08,
-      "patternText": "230.236/343.202",
+      "patternScore": 67.09,
+      "patternText": "230.240/343.206",
       "aiScore": 53,
       "picks": 3
     },
     {
-      "home": "SS Lazio",
-      "away": "US Lecce",
-      "league": "İTA",
-      "date": "21.11.2026 14:00",
-      "matchCode": "4475156",
-      "odds": 1.6,
-      "patternScore": 67.65,
-      "patternText": "326.492/482.637",
-      "aiScore": 53,
-      "picks": 6
+      "home": "Queen of the South",
+      "away": "Hamilton Academical",
+      "league": "İK1",
+      "date": "21.11.2026 15:00",
+      "matchCode": "4482492",
+      "odds": 1.52,
+      "patternScore": 69.13,
+      "patternText": "337.805/488.663",
+      "aiScore": 57,
+      "picks": 1
+    },
+    {
+      "home": "Adama City FC",
+      "away": "Sidama Bunna",
+      "league": "ETH",
+      "date": "21.11.2026 15:00",
+      "matchCode": "4571953",
+      "odds": 1.49,
+      "patternScore": 67.9,
+      "patternText": "155.509/229.010",
+      "aiScore": 58,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
