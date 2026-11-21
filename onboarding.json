@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 06:08",
+  "updatedAt": "21.11.2026 06:17",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 621,
       "rate": 72.3
     },
-    "totalAnalyses": 768612,
+    "totalAnalyses": 768648,
     "leagues": 290,
     "pro": {
       "won": 718,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3392,
-    "analyses30d": 17046
+    "analyses24h": 3410,
+    "analyses30d": 17064
   },
   "recentWins": [
     {
@@ -235,6 +235,18 @@
     },
     {
       "type": "updated",
+      "at": "21.11.2026 06:13",
+      "home": "Nuremberg",
+      "away": "Eintracht Braunschweig"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 06:14",
+      "home": "VfL Wolfsburg",
+      "away": "Holstein Kiel"
+    },
+    {
+      "type": "updated",
       "at": "21.11.2026 00:23",
       "home": "Club Puebla",
       "away": "Atletico San Luis"
@@ -250,18 +262,6 @@
       "at": "21.11.2026 02:09",
       "home": "Kataller Toyama",
       "away": "Oita Trinita"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 03:36",
-      "home": "FC Machida Zelvia",
-      "away": "V-Varen Nagasaki"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 02:09",
-      "home": "Zweigen Kanaza",
-      "away": "Kagoshima United"
     }
   ],
   "today": {
@@ -340,6 +340,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "VfL Wolfsburg",
+      "away": "Holstein Kiel",
+      "league": "AL2",
+      "at": "21.11.2026 06:14",
+      "count": 7
+    },
+    {
+      "home": "Hannover 96",
+      "away": "SpVgg Greuther Furth",
+      "league": "AL2",
+      "at": "21.11.2026 06:13",
+      "count": 9
+    },
+    {
+      "home": "Nuremberg",
+      "away": "Eintracht Braunschweig",
+      "league": "AL2",
+      "at": "21.11.2026 06:13",
+      "count": 7
+    },
+    {
       "home": "Genclerbirligi",
       "away": "Gaziantep FK",
       "league": "TSL",
@@ -386,27 +407,6 @@
       "away": "Rodez AF",
       "league": "FR2",
       "at": "20.11.2026 18:24",
-      "count": 7
-    },
-    {
-      "home": "FC Metz",
-      "away": "Boulogne",
-      "league": "FR2",
-      "at": "20.11.2026 16:01",
-      "count": 7
-    },
-    {
-      "home": "FC Rostov",
-      "away": "Krylya Sovietov",
-      "league": "RUS",
-      "at": "20.11.2026 15:39",
-      "count": 4
-    },
-    {
-      "home": "FC Andorra",
-      "away": "CD Leganes",
-      "league": "İS2",
-      "at": "20.11.2026 15:19",
       "count": 7
     }
   ],
