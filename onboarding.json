@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 22:59",
+  "updatedAt": "21.11.2026 23:08",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1031,
-      "lost": 452,
-      "total": 1483,
-      "rate": 69.5
+      "won": 1028,
+      "lost": 450,
+      "total": 1478,
+      "rate": 69.6
     },
-    "totalAnalyses": 772446,
+    "totalAnalyses": 772474,
     "leagues": 289,
     "pro": {
       "won": 992,
-      "lost": 360,
-      "total": 1352,
+      "lost": 359,
+      "total": 1351,
       "rate": 73.4
     },
     "insights": {
-      "won": 1701,
-      "lost": 679,
-      "total": 2380,
+      "won": 1698,
+      "lost": 678,
+      "total": 2376,
       "rate": 71.5
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 6,
       "rate": 33.3
     },
-    "analyses24h": 3131,
-    "analyses30d": 17073
+    "analyses24h": 3133,
+    "analyses30d": 17078
   },
   "recentWins": [
     {
@@ -290,6 +290,18 @@
       "picks": 4
     },
     {
+      "home": "Gimcheon Sangmu",
+      "away": "Jeju United",
+      "league": "GKOR",
+      "date": "22.11.2026 05:00",
+      "matchCode": "4580570",
+      "odds": 1.32,
+      "patternScore": 68.17,
+      "patternText": "237.996/349.134",
+      "aiScore": 58,
+      "picks": 6
+    },
+    {
       "home": "San Marcos",
       "away": "Real Esteli FC",
       "league": "NİK",
@@ -302,6 +314,18 @@
       "picks": 1
     },
     {
+      "home": "Azul Claro Num",
+      "away": "Yokohama Scc",
+      "league": "JAPF",
+      "date": "22.11.2026 05:00",
+      "matchCode": "4536439",
+      "odds": 1.28,
+      "patternScore": 68.42,
+      "patternText": "222.020/324.510",
+      "aiScore": 59,
+      "picks": 2
+    },
+    {
       "home": "Avondale Heigh",
       "away": "Apia",
       "league": "AVC",
@@ -312,30 +336,6 @@
       "patternText": "241.616/348.372",
       "aiScore": 68,
       "picks": 4
-    },
-    {
-      "home": "Oriente Petrol",
-      "away": "Independiente P",
-      "league": "BOLİ",
-      "date": "21.11.2026 23:30",
-      "matchCode": "4577020",
-      "odds": 1.21,
-      "patternScore": 68.75,
-      "patternText": "152.843/222.317",
-      "aiScore": 79,
-      "picks": 1
-    },
-    {
-      "home": "Once Caldas",
-      "away": "Atletico Nacional",
-      "league": "KOL",
-      "date": "22.11.2026 01:15",
-      "matchCode": "4580962",
-      "odds": 1.17,
-      "patternScore": 69.38,
-      "patternText": "238.660/344.001",
-      "aiScore": 73,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
