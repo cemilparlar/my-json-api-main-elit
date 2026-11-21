@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 17:21",
+  "updatedAt": "21.11.2026 17:29",
   "config": {
     "pages": [
       "engine",
@@ -23,22 +23,22 @@
     "days": 7,
     "last24h": {
       "won": 933,
-      "lost": 398,
-      "total": 1331,
-      "rate": 70.1
+      "lost": 399,
+      "total": 1332,
+      "rate": 70.0
     },
-    "totalAnalyses": 771584,
+    "totalAnalyses": 771614,
     "leagues": 291,
     "pro": {
       "won": 882,
-      "lost": 319,
-      "total": 1201,
+      "lost": 320,
+      "total": 1202,
       "rate": 73.4
     },
     "insights": {
       "won": 1512,
-      "lost": 624,
-      "total": 2136,
+      "lost": 625,
+      "total": 2137,
       "rate": 70.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3381,
-    "analyses30d": 17086
+    "analyses24h": 3383,
+    "analyses30d": 17088
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4579789",
     "odds": 2.06,
     "patternScore": 67.09,
-    "patternText": "166.649/248.382",
+    "patternText": "166.667/248.406",
     "aiScore": 52,
     "picks": 10
   },
@@ -285,7 +285,7 @@
       "matchCode": "4579789",
       "odds": 2.06,
       "patternScore": 67.09,
-      "patternText": "166.649/248.382",
+      "patternText": "166.667/248.406",
       "aiScore": 52,
       "picks": 10
     },
@@ -297,7 +297,7 @@
       "matchCode": "4475159",
       "odds": 1.6,
       "patternScore": 68.39,
-      "patternText": "214.172/313.156",
+      "patternText": "214.304/313.372",
       "aiScore": 56,
       "picks": 5
     },
@@ -309,7 +309,7 @@
       "matchCode": "4490462",
       "odds": 1.54,
       "patternScore": 68.86,
-      "patternText": "236.363/343.228",
+      "patternText": "236.381/343.256",
       "aiScore": 55,
       "picks": 2
     },
@@ -320,8 +320,8 @@
       "date": "21.11.2026 19:30",
       "matchCode": "4482352",
       "odds": 1.49,
-      "patternScore": 67.31,
-      "patternText": "304.487/452.398",
+      "patternScore": 67.3,
+      "patternText": "304.615/452.614",
       "aiScore": 55,
       "picks": 4
     },
@@ -332,13 +332,20 @@
       "date": "21.11.2026 20:00",
       "matchCode": "4580869",
       "odds": 1.46,
-      "patternScore": 66.74,
-      "patternText": "280.794/420.756",
+      "patternScore": 66.73,
+      "patternText": "280.866/420.872",
       "aiScore": 53,
       "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "RC Strasbourg",
+      "away": "Stade Brest",
+      "league": "FR1",
+      "at": "21.11.2026 17:29",
+      "count": 5
+    },
     {
       "home": "FC Dallas",
       "away": "Portland Timbers",
@@ -373,13 +380,6 @@
       "league": "İS2",
       "at": "21.11.2026 16:49",
       "count": 7
-    },
-    {
-      "home": "RC Strasbourg",
-      "away": "Stade Brest",
-      "league": "FR1",
-      "at": "21.11.2026 16:42",
-      "count": 2
     },
     {
       "home": "AS Monaco",
