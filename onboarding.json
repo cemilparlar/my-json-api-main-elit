@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 06:42",
+  "updatedAt": "21.11.2026 06:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 621,
       "rate": 72.3
     },
-    "totalAnalyses": 768658,
+    "totalAnalyses": 768734,
     "leagues": 290,
     "pro": {
       "won": 718,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3400,
-    "analyses30d": 17054
+    "analyses24h": 3464,
+    "analyses30d": 17118
   },
   "recentWins": [
     {
@@ -235,33 +235,33 @@
     },
     {
       "type": "updated",
+      "at": "21.11.2026 06:53",
+      "home": "Newport County",
+      "away": "Swindon Town"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 06:43",
+      "home": "Tamworth",
+      "away": "Eastleigh"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 06:54",
+      "home": "Gillingham",
+      "away": "Crewe"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 06:47",
+      "home": "Manchester City",
+      "away": "Fulham"
+    },
+    {
+      "type": "updated",
       "at": "21.11.2026 06:13",
       "home": "Nuremberg",
       "away": "Eintracht Braunschweig"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 06:14",
-      "home": "VfL Wolfsburg",
-      "away": "Holstein Kiel"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 01:23",
-      "home": "Marconi Stallions",
-      "away": "Sydney Olympic FC"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 02:09",
-      "home": "Kataller Toyama",
-      "away": "Oita Trinita"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 03:36",
-      "home": "FC Machida Zelvia",
-      "away": "V-Varen Nagasaki"
     }
   ],
   "today": {
@@ -298,7 +298,7 @@
       "odds": 1.43,
       "patternScore": 67.54,
       "patternText": "303.893/449.952",
-      "aiScore": 56,
+      "aiScore": 55,
       "picks": 3
     },
     {
@@ -339,6 +339,27 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Southam",
+      "away": "Derby County",
+      "league": "İNCL",
+      "at": "21.11.2026 06:49",
+      "count": 9
+    },
+    {
+      "home": "Manchester City",
+      "away": "Fulham",
+      "league": "İNP",
+      "at": "21.11.2026 06:47",
+      "count": 15
+    },
+    {
+      "home": "Norwich City",
+      "away": "Cardiff City",
+      "league": "İNCL",
+      "at": "21.11.2026 06:43",
+      "count": 18
+    },
     {
       "home": "VfL Wolfsburg",
       "away": "Holstein Kiel",
@@ -387,27 +408,6 @@
       "league": "HOL",
       "at": "20.11.2026 23:16",
       "count": 18
-    },
-    {
-      "home": "Athletic Bilbao",
-      "away": "RCD Espanyol",
-      "league": "İS1",
-      "at": "20.11.2026 19:22",
-      "count": 11
-    },
-    {
-      "home": "ESTAC Troyes",
-      "away": "Le Havre AC",
-      "league": "FR1",
-      "at": "20.11.2026 19:05",
-      "count": 7
-    },
-    {
-      "home": "En Avant Guingamp",
-      "away": "Rodez AF",
-      "league": "FR2",
-      "at": "20.11.2026 18:24",
-      "count": 7
     }
   ],
   "paywall": {
