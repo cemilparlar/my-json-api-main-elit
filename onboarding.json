@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 13:51",
+  "updatedAt": "21.11.2026 14:00",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 503,
-      "lost": 190,
-      "total": 693,
+      "won": 516,
+      "lost": 195,
+      "total": 711,
       "rate": 72.6
     },
-    "totalAnalyses": 770418,
+    "totalAnalyses": 770464,
     "leagues": 292,
     "pro": {
-      "won": 769,
-      "lost": 267,
-      "total": 1036,
-      "rate": 74.2
+      "won": 776,
+      "lost": 269,
+      "total": 1045,
+      "rate": 74.3
     },
     "insights": {
-      "won": 1306,
-      "lost": 511,
-      "total": 1817,
-      "rate": 71.9
+      "won": 1316,
+      "lost": 516,
+      "total": 1832,
+      "rate": 71.8
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3437,
-    "analyses30d": 17126
+    "analyses24h": 3422,
+    "analyses30d": 17105
   },
   "recentWins": [
     {
@@ -302,18 +302,6 @@
       "picks": 8
     },
     {
-      "home": "Foolad Khuzest",
-      "away": "Sepahan",
-      "league": "IRAN",
-      "date": "21.11.2026 14:30",
-      "matchCode": "4580240",
-      "odds": 1.62,
-      "patternScore": 67.09,
-      "patternText": "230.258/343.228",
-      "aiScore": 53,
-      "picks": 3
-    },
-    {
       "home": "SSC Napoli",
       "away": "Torino FC",
       "league": "İTA",
@@ -335,6 +323,18 @@
       "patternScore": 69.13,
       "patternText": "337.871/488.741",
       "aiScore": 57,
+      "picks": 1
+    },
+    {
+      "home": "Adama City FC",
+      "away": "Sidama Bunna",
+      "league": "ETH",
+      "date": "21.11.2026 15:00",
+      "matchCode": "4571953",
+      "odds": 1.49,
+      "patternScore": 67.91,
+      "patternText": "155.523/229.028",
+      "aiScore": 58,
       "picks": 1
     }
   ],
