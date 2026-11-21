@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 18:37",
+  "updatedAt": "21.11.2026 18:47",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 944,
-      "lost": 424,
-      "total": 1368,
-      "rate": 69.0
+      "won": 968,
+      "lost": 431,
+      "total": 1399,
+      "rate": 69.2
     },
-    "totalAnalyses": 771844,
-    "leagues": 291,
+    "totalAnalyses": 771917,
+    "leagues": 290,
     "pro": {
-      "won": 909,
-      "lost": 325,
-      "total": 1234,
+      "won": 919,
+      "lost": 328,
+      "total": 1247,
       "rate": 73.7
     },
     "insights": {
-      "won": 1558,
-      "lost": 643,
-      "total": 2201,
-      "rate": 70.8
+      "won": 1581,
+      "lost": 649,
+      "total": 2230,
+      "rate": 70.9
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3377,
-    "analyses30d": 17169
+    "analyses24h": 3386,
+    "analyses30d": 17171
   },
   "recentWins": [
     {
@@ -235,12 +235,6 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 12:43",
-      "home": "SV Elversberg",
-      "away": "SC Freiburg"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 14:23",
       "home": "Plymouth Argyle",
       "away": "Peterborough United"
@@ -253,15 +247,21 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 12:37",
-      "home": "Pogon Grodzisk Mazowiecki",
-      "away": "Arka Gdynia"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 14:09",
       "home": "Sporting Charleroi",
       "away": "Sint-Truidense VV"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 14:20",
+      "home": "Maidstone Unit",
+      "away": "Farnham Town"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 14:21",
+      "home": "Braintree",
+      "away": "Torquay"
     }
   ],
   "today": {
@@ -271,8 +271,8 @@
     "date": "22.11.2026 00:00",
     "matchCode": "4423388",
     "odds": 2.26,
-    "patternScore": 65.06,
-    "patternText": "301.770/463.798",
+    "patternScore": 65.07,
+    "patternText": "301.814/463.848",
     "aiScore": 52,
     "picks": 7
   },
@@ -284,8 +284,8 @@
       "date": "22.11.2026 00:00",
       "matchCode": "4423388",
       "odds": 2.26,
-      "patternScore": 65.06,
-      "patternText": "301.770/463.798",
+      "patternScore": 65.07,
+      "patternText": "301.814/463.848",
       "aiScore": 52,
       "picks": 7
     },
@@ -297,7 +297,7 @@
       "matchCode": "4579789",
       "odds": 2.06,
       "patternScore": 67.09,
-      "patternText": "166.747/248.526",
+      "patternText": "166.749/248.532",
       "aiScore": 53,
       "picks": 10
     },
@@ -309,7 +309,7 @@
       "matchCode": "4481599",
       "odds": 1.89,
       "patternScore": 67.81,
-      "patternText": "279.741/412.555",
+      "patternText": "279.875/412.711",
       "aiScore": 53,
       "picks": 6
     },
@@ -321,24 +321,59 @@
       "matchCode": "4476498",
       "odds": 1.87,
       "patternScore": 66.98,
-      "patternText": "160.827/240.122",
+      "patternText": "160.829/240.128",
       "aiScore": 53,
       "picks": 3
+    },
+    {
+      "home": "SSC Napoli",
+      "away": "Torino FC",
+      "league": "İTA",
+      "date": "21.11.2026 19:45",
+      "matchCode": "4475159",
+      "odds": 1.57,
+      "patternScore": 67.62,
+      "patternText": "326.152/482.362",
+      "aiScore": 55,
+      "picks": 5
+    }
+  ],
+  "recentAnalyzed": [
+    {
+      "home": "Chapecoense AF",
+      "away": "Cruzeiro EC",
+      "league": "BR1",
+      "at": "21.11.2026 18:42",
+      "count": 14
+    },
+    {
+      "home": "EC Bahia",
+      "away": "Coritiba FBC",
+      "league": "BR1",
+      "at": "21.11.2026 18:41",
+      "count": 5
+    },
+    {
+      "home": "Zulte Waregem",
+      "away": "Royal Antwerp",
+      "league": "BEL",
+      "at": "21.11.2026 18:40",
+      "count": 9
+    },
+    {
+      "home": "RC Lens",
+      "away": "Toulouse FC",
+      "league": "FR1",
+      "at": "21.11.2026 18:39",
+      "count": 5
     },
     {
       "home": "AS Monaco",
       "away": "AJ Auxerre",
       "league": "FR1",
-      "date": "21.11.2026 19:45",
-      "matchCode": "4476598",
-      "odds": 1.71,
-      "patternScore": 66.4,
-      "patternText": "222.239/334.720",
-      "aiScore": 54,
-      "picks": 6
-    }
-  ],
-  "recentAnalyzed": [
+      "at": "21.11.2026 18:39",
+      "count": 5
+    },
     {
       "home": "SSC Napoli",
       "away": "Torino FC",
@@ -347,22 +382,8 @@
       "count": 5
     },
     {
-      "home": "RC Lens",
-      "away": "Toulouse FC",
-      "league": "FR1",
-      "at": "21.11.2026 18:18",
-      "count": 8
-    },
-    {
       "home": "RC Strasbourg",
       "away": "Stade Brest",
-      "league": "FR1",
-      "at": "21.11.2026 18:18",
-      "count": 6
-    },
-    {
-      "home": "AS Monaco",
-      "away": "AJ Auxerre",
       "league": "FR1",
       "at": "21.11.2026 18:18",
       "count": 6
@@ -373,13 +394,6 @@
       "league": "FR2",
       "at": "21.11.2026 18:17",
       "count": 5
-    },
-    {
-      "home": "EC Bahia",
-      "away": "Coritiba FBC",
-      "league": "BR1",
-      "at": "21.11.2026 18:03",
-      "count": 4
     },
     {
       "home": "SC Telstar",
@@ -394,20 +408,6 @@
       "league": "FR1",
       "at": "21.11.2026 18:00",
       "count": 7
-    },
-    {
-      "home": "Feyenoord",
-      "away": "Excelsior Rotterdam",
-      "league": "HOL",
-      "at": "21.11.2026 17:36",
-      "count": 15
-    },
-    {
-      "home": "Atletico Mineiro",
-      "away": "Boca Juniors",
-      "league": "CSA",
-      "at": "21.11.2026 17:33",
-      "count": 6
     }
   ],
   "paywall": {
