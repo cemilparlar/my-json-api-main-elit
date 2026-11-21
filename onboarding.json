@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 09:05",
+  "updatedAt": "21.11.2026 09:13",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 516,
-      "lost": 199,
-      "total": 715,
-      "rate": 72.2
+      "won": 525,
+      "lost": 204,
+      "total": 729,
+      "rate": 72.0
     },
-    "totalAnalyses": 769364,
+    "totalAnalyses": 769381,
     "leagues": 292,
     "pro": {
-      "won": 754,
-      "lost": 269,
-      "total": 1023,
-      "rate": 73.7
+      "won": 760,
+      "lost": 272,
+      "total": 1032,
+      "rate": 73.6
     },
     "insights": {
-      "won": 1281,
-      "lost": 505,
-      "total": 1786,
+      "won": 1289,
+      "lost": 510,
+      "total": 1799,
       "rate": 71.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3539,
-    "analyses30d": 17217
+    "analyses24h": 3535,
+    "analyses30d": 17213
   },
   "recentWins": [
     {
@@ -302,15 +302,27 @@
       "picks": 8
     },
     {
-      "home": "FC Sudtirol",
-      "away": "US Cremonese",
+      "home": "Aik Stockholm",
+      "away": "Degerfors IF",
+      "league": "İSÇ",
+      "date": "21.11.2026 14:00",
+      "matchCode": "4426816",
+      "odds": 1.85,
+      "patternScore": 65.01,
+      "patternText": "364.232/560.242",
+      "aiScore": 52,
+      "picks": 3
+    },
+    {
+      "home": "Carrarese Calcio",
+      "away": "Virtus Entella",
       "league": "İTB",
       "date": "21.11.2026 14:00",
-      "matchCode": "4534796",
-      "odds": 1.67,
-      "patternScore": 67.65,
-      "patternText": "318.510/470.788",
-      "aiScore": 52,
+      "matchCode": "4534790",
+      "odds": 1.71,
+      "patternScore": 67.61,
+      "patternText": "325.870/481.959",
+      "aiScore": 53,
       "picks": 7
     },
     {
@@ -324,18 +336,6 @@
       "patternText": "310.567/461.250",
       "aiScore": 54,
       "picks": 5
-    },
-    {
-      "home": "Queen of the South",
-      "away": "Hamilton Academical",
-      "league": "İK1",
-      "date": "21.11.2026 15:00",
-      "matchCode": "4482492",
-      "odds": 1.52,
-      "patternScore": 69.11,
-      "patternText": "337.215/487.935",
-      "aiScore": 57,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
