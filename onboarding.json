@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 19:27",
+  "updatedAt": "21.11.2026 19:35",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 949,
-      "lost": 418,
-      "total": 1367,
-      "rate": 69.4
+      "won": 942,
+      "lost": 417,
+      "total": 1359,
+      "rate": 69.3
     },
-    "totalAnalyses": 771928,
+    "totalAnalyses": 771929,
     "leagues": 289,
     "pro": {
-      "won": 937,
-      "lost": 327,
+      "won": 931,
+      "lost": 333,
       "total": 1264,
-      "rate": 74.1
+      "rate": 73.7
     },
     "insights": {
-      "won": 1602,
-      "lost": 651,
-      "total": 2253,
-      "rate": 71.1
+      "won": 1604,
+      "lost": 656,
+      "total": 2260,
+      "rate": 71.0
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3271,
-    "analyses30d": 17101
+    "analyses24h": 3226,
+    "analyses30d": 17095
   },
   "recentWins": [
     {
@@ -326,19 +326,26 @@
       "picks": 2
     },
     {
-      "home": "Argentinos Juniors",
-      "away": "Independiente del Valle",
-      "league": "ARJ",
-      "date": "21.11.2026 20:00",
-      "matchCode": "4580869",
-      "odds": 1.46,
-      "patternScore": 66.75,
-      "patternText": "281.646/421.934",
-      "aiScore": 54,
-      "picks": 4
+      "home": "Club Deportivo Aguila",
+      "away": "Club Deportivo Platense",
+      "league": "ELSAL",
+      "date": "21.11.2026 21:00",
+      "matchCode": "4504435",
+      "odds": 1.32,
+      "patternScore": 68.05,
+      "patternText": "231.289/339.877",
+      "aiScore": 64,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Chapecoense AF",
+      "away": "Cruzeiro EC",
+      "league": "BR1",
+      "at": "21.11.2026 19:35",
+      "count": 7
+    },
     {
       "home": "SC Telstar",
       "away": "Zwolle",
@@ -387,13 +394,6 @@
       "league": "BR1",
       "at": "21.11.2026 18:55",
       "count": 5
-    },
-    {
-      "home": "Chapecoense AF",
-      "away": "Cruzeiro EC",
-      "league": "BR1",
-      "at": "21.11.2026 18:42",
-      "count": 14
     },
     {
       "home": "EC Bahia",
