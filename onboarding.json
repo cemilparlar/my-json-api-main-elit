@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 17:39",
+  "updatedAt": "21.11.2026 17:48",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 922,
-      "lost": 415,
-      "total": 1337,
+      "won": 928,
+      "lost": 416,
+      "total": 1344,
       "rate": 69.0
     },
-    "totalAnalyses": 771694,
+    "totalAnalyses": 771786,
     "leagues": 291,
     "pro": {
-      "won": 885,
-      "lost": 323,
-      "total": 1208,
-      "rate": 73.3
+      "won": 884,
+      "lost": 320,
+      "total": 1204,
+      "rate": 73.4
     },
     "insights": {
-      "won": 1513,
-      "lost": 631,
-      "total": 2144,
-      "rate": 70.6
+      "won": 1512,
+      "lost": 626,
+      "total": 2138,
+      "rate": 70.7
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3401,
-    "analyses30d": 17142
+    "analyses24h": 3425,
+    "analyses30d": 17166
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4579789",
     "odds": 2.06,
     "patternScore": 67.09,
-    "patternText": "166.667/248.406",
+    "patternText": "166.691/248.452",
     "aiScore": 52,
     "picks": 10
   },
@@ -285,9 +285,21 @@
       "matchCode": "4579789",
       "odds": 2.06,
       "patternScore": 67.09,
-      "patternText": "166.667/248.406",
+      "patternText": "166.691/248.452",
       "aiScore": 52,
       "picks": 10
+    },
+    {
+      "home": "Santos Laguna",
+      "away": "Club Leon",
+      "league": "MEK",
+      "date": "21.11.2026 23:00",
+      "matchCode": "4476498",
+      "odds": 1.87,
+      "patternScore": 66.98,
+      "patternText": "160.771/240.040",
+      "aiScore": 53,
+      "picks": 3
     },
     {
       "home": "AS Monaco",
@@ -297,8 +309,8 @@
       "matchCode": "4476598",
       "odds": 1.71,
       "patternScore": 67.89,
-      "patternText": "285.530/420.547",
-      "aiScore": 52,
+      "patternText": "285.612/420.719",
+      "aiScore": 53,
       "picks": 8
     },
     {
@@ -308,8 +320,8 @@
       "date": "21.11.2026 19:45",
       "matchCode": "4475159",
       "odds": 1.6,
-      "patternScore": 68.39,
-      "patternText": "214.304/313.374",
+      "patternScore": 68.38,
+      "patternText": "214.374/313.522",
       "aiScore": 56,
       "picks": 5
     },
@@ -321,21 +333,9 @@
       "matchCode": "4490462",
       "odds": 1.54,
       "patternScore": 68.86,
-      "patternText": "236.381/343.258",
+      "patternText": "236.395/343.290",
       "aiScore": 56,
       "picks": 2
-    },
-    {
-      "home": "Argentinos Juniors",
-      "away": "Independiente del Valle",
-      "league": "ARJ",
-      "date": "21.11.2026 20:00",
-      "matchCode": "4580869",
-      "odds": 1.46,
-      "patternScore": 66.73,
-      "patternText": "280.866/420.878",
-      "aiScore": 54,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
