@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 04:28",
+  "updatedAt": "21.11.2026 04:36",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 602,
       "rate": 72.8
     },
-    "totalAnalyses": 768519,
+    "totalAnalyses": 768525,
     "leagues": 290,
     "pro": {
       "won": 716,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3334,
-    "analyses30d": 16985
+    "analyses24h": 3341,
+    "analyses30d": 16992
   },
   "recentWins": [
     {
@@ -265,42 +265,18 @@
     }
   ],
   "today": {
-    "home": "Suwon Samsung Bluewings",
-    "away": "Gyeongnam",
-    "league": "GKOR2",
-    "date": "21.11.2026 05:00",
-    "matchCode": "4442883",
-    "odds": 1.82,
-    "patternScore": 67.91,
-    "patternText": "265.258/390.582",
-    "aiScore": 52,
-    "picks": 3
+    "home": "Brisbane Roar",
+    "away": "Sydney FC",
+    "league": "AVUS",
+    "date": "21.11.2026 08:40",
+    "matchCode": "4546761",
+    "odds": 1.48,
+    "patternScore": 67.76,
+    "patternText": "263.711/389.157",
+    "aiScore": 55,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Suwon Samsung Bluewings",
-      "away": "Gyeongnam",
-      "league": "GKOR2",
-      "date": "21.11.2026 05:00",
-      "matchCode": "4442883",
-      "odds": 1.82,
-      "patternScore": 67.91,
-      "patternText": "265.258/390.582",
-      "aiScore": 52,
-      "picks": 3
-    },
-    {
-      "home": "Tokyo Verdy",
-      "away": "Nagoya Grampus",
-      "league": "JAP",
-      "date": "21.11.2026 05:00",
-      "matchCode": "4487269",
-      "odds": 1.58,
-      "patternScore": 67.8,
-      "patternText": "270.974/399.690",
-      "aiScore": 55,
-      "picks": 4
-    },
     {
       "home": "Brisbane Roar",
       "away": "Sydney FC",
@@ -326,16 +302,40 @@
       "picks": 3
     },
     {
-      "home": "FC Machida Zelvia",
-      "away": "V-Varen Nagasaki",
+      "home": "Gamba Osaka",
+      "away": "Fagiano Okayama",
       "league": "JAP",
-      "date": "21.11.2026 05:00",
-      "matchCode": "4487270",
-      "odds": 1.37,
-      "patternScore": 67.37,
-      "patternText": "195.403/290.037",
+      "date": "21.11.2026 07:00",
+      "matchCode": "4487273",
+      "odds": 1.32,
+      "patternScore": 67.92,
+      "patternText": "279.805/411.962",
       "aiScore": 58,
+      "picks": 8
+    },
+    {
+      "home": "Kawasaki Frontale",
+      "away": "Avispa Fukuoka",
+      "league": "JAP",
+      "date": "21.11.2026 06:00",
+      "matchCode": "4487271",
+      "odds": 1.21,
+      "patternScore": 68.21,
+      "patternText": "276.952/406.052",
+      "aiScore": 67,
       "picks": 1
+    },
+    {
+      "home": "Gangwon FC",
+      "away": "Daejeon Citizen",
+      "league": "GKOR",
+      "date": "21.11.2026 07:30",
+      "matchCode": "4580555",
+      "odds": 1.2,
+      "patternScore": 69.81,
+      "patternText": "350.632/502.264",
+      "aiScore": 73,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
