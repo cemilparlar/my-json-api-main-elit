@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 18:28",
+  "updatedAt": "21.11.2026 18:37",
   "config": {
     "pages": [
       "engine",
@@ -22,9 +22,9 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 955,
-      "lost": 429,
-      "total": 1384,
+      "won": 944,
+      "lost": 424,
+      "total": 1368,
       "rate": 69.0
     },
     "totalAnalyses": 771844,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3394,
-    "analyses30d": 17174
+    "analyses24h": 3377,
+    "analyses30d": 17169
   },
   "recentWins": [
     {
@@ -88,7 +88,7 @@
       "odds": 3.36,
       "probability": 100.0,
       "patternScore": 57.99,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0",
       "pro": true
@@ -235,18 +235,6 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 12:31",
-      "home": "Como 1907",
-      "away": "Cagliari Calcio"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 12:33",
-      "home": "Borussia Monchengladbach",
-      "away": "Borussia Dortmund"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 12:43",
       "home": "SV Elversberg",
       "away": "SC Freiburg"
@@ -262,6 +250,18 @@
       "at": "21.11.2026 14:24",
       "home": "Coventry City",
       "away": "Crystal Palace"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 12:37",
+      "home": "Pogon Grodzisk Mazowiecki",
+      "away": "Arka Gdynia"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 14:09",
+      "home": "Sporting Charleroi",
+      "away": "Sint-Truidense VV"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4423388",
     "odds": 2.26,
     "patternScore": 65.06,
-    "patternText": "301.744/463.762",
+    "patternText": "301.770/463.798",
     "aiScore": 52,
     "picks": 7
   },
@@ -285,7 +285,7 @@
       "matchCode": "4423388",
       "odds": 2.26,
       "patternScore": 65.06,
-      "patternText": "301.744/463.762",
+      "patternText": "301.770/463.798",
       "aiScore": 52,
       "picks": 7
     },
@@ -309,7 +309,7 @@
       "matchCode": "4481599",
       "odds": 1.89,
       "patternScore": 67.81,
-      "patternText": "279.699/412.503",
+      "patternText": "279.741/412.555",
       "aiScore": 53,
       "picks": 6
     },
@@ -321,7 +321,7 @@
       "matchCode": "4476498",
       "odds": 1.87,
       "patternScore": 66.98,
-      "patternText": "160.827/240.120",
+      "patternText": "160.827/240.122",
       "aiScore": 53,
       "picks": 3
     },
@@ -332,8 +332,8 @@
       "date": "21.11.2026 19:45",
       "matchCode": "4476598",
       "odds": 1.71,
-      "patternScore": 66.39,
-      "patternText": "222.171/334.622",
+      "patternScore": 66.4,
+      "patternText": "222.239/334.720",
       "aiScore": 54,
       "picks": 6
     }
