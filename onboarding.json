@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 09:33",
+  "updatedAt": "21.11.2026 09:45",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 746,
       "rate": 71.8
     },
-    "totalAnalyses": 769417,
+    "totalAnalyses": 769481,
     "leagues": 292,
     "pro": {
       "won": 765,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3555,
-    "analyses30d": 17231
+    "analyses24h": 3546,
+    "analyses30d": 17222
   },
   "recentWins": [
     {
@@ -241,6 +241,18 @@
     },
     {
       "type": "updated",
+      "at": "21.11.2026 09:44",
+      "home": "Reading",
+      "away": "Bromley"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 09:40",
+      "home": "Southam",
+      "away": "Derby County"
+    },
+    {
+      "type": "updated",
       "at": "21.11.2026 06:53",
       "home": "Newport County",
       "away": "Swindon Town"
@@ -250,18 +262,6 @@
       "at": "21.11.2026 06:43",
       "home": "Tamworth",
       "away": "Eastleigh"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 06:55",
-      "home": "Solihull Moors",
-      "away": "Altrincham"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 06:56",
-      "home": "Blackpool",
-      "away": "Wigan Athletic"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4475156",
     "odds": 2.31,
     "patternScore": 67.94,
-    "patternText": "313.536/461.493",
+    "patternText": "313.580/461.563",
     "aiScore": 51,
     "picks": 8
   },
@@ -285,7 +285,7 @@
       "matchCode": "4475156",
       "odds": 2.31,
       "patternScore": 67.94,
-      "patternText": "313.536/461.493",
+      "patternText": "313.580/461.563",
       "aiScore": 51,
       "picks": 8
     },
@@ -297,7 +297,7 @@
       "matchCode": "4489424",
       "odds": 1.94,
       "patternScore": 66.84,
-      "patternText": "208.161/311.444",
+      "patternText": "208.181/311.478",
       "aiScore": 53,
       "picks": 8
     },
@@ -309,7 +309,7 @@
       "matchCode": "4426816",
       "odds": 1.85,
       "patternScore": 65.01,
-      "patternText": "364.288/560.330",
+      "patternText": "364.332/560.400",
       "aiScore": 52,
       "picks": 3
     },
@@ -321,7 +321,7 @@
       "matchCode": "4534790",
       "odds": 1.71,
       "patternScore": 67.61,
-      "patternText": "325.926/482.047",
+      "patternText": "325.970/482.125",
       "aiScore": 53,
       "picks": 7
     },
@@ -333,12 +333,19 @@
       "matchCode": "4482492",
       "odds": 1.52,
       "patternScore": 69.11,
-      "patternText": "337.291/488.043",
+      "patternText": "337.359/488.149",
       "aiScore": 57,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Southam",
+      "away": "Derby County",
+      "league": "İNCL",
+      "at": "21.11.2026 09:40",
+      "count": 7
+    },
     {
       "home": "FC Akron Togliatti",
       "away": "FK Fakel Voronezh",
@@ -401,13 +408,6 @@
       "league": "İTA",
       "at": "21.11.2026 08:54",
       "count": 13
-    },
-    {
-      "home": "Kayserispor",
-      "away": "Sariyer",
-      "league": "T1L",
-      "at": "21.11.2026 08:04",
-      "count": 1
     }
   ],
   "paywall": {
