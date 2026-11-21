@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 05:27",
+  "updatedAt": "21.11.2026 05:35",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 617,
       "rate": 72.4
     },
-    "totalAnalyses": 768581,
+    "totalAnalyses": 768582,
     "leagues": 290,
     "pro": {
       "won": 717,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3373,
-    "analyses30d": 17024
+    "analyses24h": 3372,
+    "analyses30d": 17023
   },
   "recentWins": [
     {
@@ -265,30 +265,18 @@
     }
   ],
   "today": {
-    "home": "Kawasaki Frontale",
-    "away": "Avispa Fukuoka",
-    "league": "JAP",
-    "date": "21.11.2026 06:00",
-    "matchCode": "4487271",
-    "odds": 1.57,
-    "patternScore": 68.11,
-    "patternText": "166.280/244.138",
-    "aiScore": 56,
-    "picks": 3
+    "home": "Brisbane Roar",
+    "away": "Sydney FC",
+    "league": "AVUS",
+    "date": "21.11.2026 08:40",
+    "matchCode": "4546761",
+    "odds": 1.48,
+    "patternScore": 67.76,
+    "patternText": "263.745/389.211",
+    "aiScore": 55,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Kawasaki Frontale",
-      "away": "Avispa Fukuoka",
-      "league": "JAP",
-      "date": "21.11.2026 06:00",
-      "matchCode": "4487271",
-      "odds": 1.57,
-      "patternScore": 68.11,
-      "patternText": "166.280/244.138",
-      "aiScore": 56,
-      "picks": 3
-    },
     {
       "home": "Brisbane Roar",
       "away": "Sydney FC",
@@ -314,18 +302,6 @@
       "picks": 3
     },
     {
-      "home": "Central Coast Mariners",
-      "away": "Perth Glory",
-      "league": "AVUS",
-      "date": "21.11.2026 06:00",
-      "matchCode": "4546760",
-      "odds": 1.33,
-      "patternScore": 66.57,
-      "patternText": "193.708/290.992",
-      "aiScore": 60,
-      "picks": 2
-    },
-    {
       "home": "Gamba Osaka",
       "away": "Fagiano Okayama",
       "league": "JAP",
@@ -336,6 +312,30 @@
       "patternText": "279.839/412.024",
       "aiScore": 58,
       "picks": 8
+    },
+    {
+      "home": "Pattani",
+      "away": "Sukhothai FC",
+      "league": "TAY",
+      "date": "21.11.2026 11:00",
+      "matchCode": "4539109",
+      "odds": 1.31,
+      "patternScore": 67.92,
+      "patternText": "277.769/408.980",
+      "aiScore": 61,
+      "picks": 1
+    },
+    {
+      "home": "Fk Skopje",
+      "away": "Aresimi",
+      "league": "MAKE1",
+      "date": "21.11.2026 11:00",
+      "matchCode": "4477287",
+      "odds": 1.23,
+      "patternScore": 68.05,
+      "patternText": "283.235/416.199",
+      "aiScore": 65,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
