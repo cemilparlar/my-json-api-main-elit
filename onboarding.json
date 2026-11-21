@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 07:15",
+  "updatedAt": "21.11.2026 07:24",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 706,
       "rate": 72.1
     },
-    "totalAnalyses": 768793,
+    "totalAnalyses": 768800,
     "leagues": 290,
     "pro": {
       "won": 745,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3481,
-    "analyses30d": 17135
+    "analyses24h": 3472,
+    "analyses30d": 17126
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4489424",
     "odds": 1.94,
     "patternScore": 66.84,
-    "patternText": "207.899/311.054",
+    "patternText": "208.005/311.204",
     "aiScore": 53,
     "picks": 8
   },
@@ -285,21 +285,9 @@
       "matchCode": "4489424",
       "odds": 1.94,
       "patternScore": 66.84,
-      "patternText": "207.899/311.054",
+      "patternText": "208.005/311.204",
       "aiScore": 53,
       "picks": 8
-    },
-    {
-      "home": "Stade Lavalois",
-      "away": "Montpellier HSC",
-      "league": "FR2",
-      "date": "21.11.2026 13:00",
-      "matchCode": "4476920",
-      "odds": 1.87,
-      "patternScore": 67.09,
-      "patternText": "305.956/456.039",
-      "aiScore": 52,
-      "picks": 4
     },
     {
       "home": "Hannover 96",
@@ -309,21 +297,21 @@
       "matchCode": "4495839",
       "odds": 1.54,
       "patternScore": 67.33,
-      "patternText": "310.305/460.888",
+      "patternText": "310.471/461.110",
       "aiScore": 54,
       "picks": 5
     },
     {
-      "home": "Al Wakrah",
-      "away": "Al-Sailiya",
-      "league": "KAT",
-      "date": "21.11.2026 13:00",
-      "matchCode": "4536754",
-      "odds": 1.47,
-      "patternScore": 68.48,
-      "patternText": "309.353/451.736",
-      "aiScore": 56,
-      "picks": 2
+      "home": "Nuremberg",
+      "away": "Eintracht Braunschweig",
+      "league": "AL2",
+      "date": "21.11.2026 12:00",
+      "matchCode": "4495842",
+      "odds": 1.49,
+      "patternScore": 67.55,
+      "patternText": "332.211/491.769",
+      "aiScore": 55,
+      "picks": 5
     },
     {
       "home": "Amed SK",
@@ -333,12 +321,45 @@
       "matchCode": "4542755",
       "odds": 1.43,
       "patternScore": 67.67,
-      "patternText": "214.646/317.206",
+      "patternText": "214.712/317.300",
       "aiScore": 56,
       "picks": 5
+    },
+    {
+      "home": "Fortuna Dusseldorf",
+      "away": "Sonnenhof Gross",
+      "league": "AL3",
+      "date": "21.11.2026 13:00",
+      "matchCode": "4517721",
+      "odds": 1.38,
+      "patternScore": 66.58,
+      "patternText": "223.243/335.306",
+      "aiScore": 58,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Amed SK",
+      "away": "Rizespor",
+      "league": "TSL",
+      "at": "21.11.2026 07:20",
+      "count": 8
+    },
+    {
+      "home": "Deportivo Alaves",
+      "away": "Deportivo La Coruna",
+      "league": "İS1",
+      "at": "21.11.2026 07:19",
+      "count": 4
+    },
+    {
+      "home": "CE Sabadell",
+      "away": "Granada CF",
+      "league": "İS2",
+      "at": "21.11.2026 07:18",
+      "count": 5
+    },
     {
       "home": "Stade Lavalois",
       "away": "Montpellier HSC",
@@ -387,27 +408,6 @@
       "league": "AL2",
       "at": "21.11.2026 06:14",
       "count": 7
-    },
-    {
-      "home": "Hannover 96",
-      "away": "SpVgg Greuther Furth",
-      "league": "AL2",
-      "at": "21.11.2026 06:13",
-      "count": 9
-    },
-    {
-      "home": "Genclerbirligi",
-      "away": "Gaziantep FK",
-      "league": "TSL",
-      "at": "21.11.2026 05:00",
-      "count": 6
-    },
-    {
-      "home": "Istanbulspor",
-      "away": "A. Keciorengucu",
-      "league": "T1L",
-      "at": "21.11.2026 04:59",
-      "count": 3
     }
   ],
   "paywall": {
