@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 12:55",
+  "updatedAt": "21.11.2026 13:03",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 509,
-      "lost": 191,
-      "total": 700,
-      "rate": 72.7
+      "won": 489,
+      "lost": 186,
+      "total": 675,
+      "rate": 72.4
     },
-    "totalAnalyses": 770182,
+    "totalAnalyses": 770187,
     "leagues": 292,
     "pro": {
-      "won": 770,
-      "lost": 269,
-      "total": 1039,
-      "rate": 74.1
+      "won": 768,
+      "lost": 270,
+      "total": 1038,
+      "rate": 74.0
     },
     "insights": {
-      "won": 1306,
-      "lost": 512,
-      "total": 1818,
-      "rate": 71.8
+      "won": 1301,
+      "lost": 513,
+      "total": 1814,
+      "rate": 71.7
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3496,
-    "analyses30d": 17157
+    "analyses24h": 3449,
+    "analyses30d": 17126
   },
   "recentWins": [
     {
@@ -253,15 +253,15 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 06:55",
-      "home": "Solihull Moors",
-      "away": "Altrincham"
+      "at": "21.11.2026 11:11",
+      "home": "Gillingham",
+      "away": "Crewe"
     },
     {
       "type": "updated",
-      "at": "21.11.2026 06:56",
-      "home": "Blackpool",
-      "away": "Wigan Athletic"
+      "at": "21.11.2026 11:52",
+      "home": "Millwall",
+      "away": "Queens Park Rangers"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4481594",
     "odds": 2.53,
     "patternScore": 67.1,
-    "patternText": "296.045/441.215",
+    "patternText": "296.117/441.313",
     "aiScore": 51,
     "picks": 12
   },
@@ -285,7 +285,7 @@
       "matchCode": "4481594",
       "odds": 2.53,
       "patternScore": 67.1,
-      "patternText": "296.045/441.215",
+      "patternText": "296.117/441.313",
       "aiScore": 51,
       "picks": 12
     },
@@ -297,9 +297,21 @@
       "matchCode": "4534796",
       "odds": 1.87,
       "patternScore": 67.9,
-      "patternText": "208.462/307.015",
+      "patternText": "208.498/307.069",
       "aiScore": 52,
       "picks": 7
+    },
+    {
+      "home": "Stade de Reims",
+      "away": "AS Saint-Etienne",
+      "league": "FR2",
+      "date": "21.11.2026 19:00",
+      "matchCode": "4476925",
+      "odds": 1.72,
+      "patternScore": 67.71,
+      "patternText": "289.047/426.882",
+      "aiScore": 53,
+      "picks": 8
     },
     {
       "home": "Foolad Khuzest",
@@ -309,7 +321,7 @@
       "matchCode": "4580240",
       "odds": 1.62,
       "patternScore": 67.08,
-      "patternText": "230.164/343.102",
+      "patternText": "230.200/343.156",
       "aiScore": 53,
       "picks": 3
     },
@@ -321,21 +333,9 @@
       "matchCode": "4475156",
       "odds": 1.6,
       "patternScore": 67.64,
-      "patternText": "326.312/482.417",
+      "patternText": "326.388/482.519",
       "aiScore": 53,
       "picks": 6
-    },
-    {
-      "home": "Queen of the South",
-      "away": "Hamilton Academical",
-      "league": "İK1",
-      "date": "21.11.2026 15:00",
-      "matchCode": "4482492",
-      "odds": 1.52,
-      "patternScore": 69.12,
-      "patternText": "337.561/488.375",
-      "aiScore": 57,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
