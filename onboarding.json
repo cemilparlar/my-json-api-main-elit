@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 20:08",
+  "updatedAt": "21.11.2026 20:18",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 911,
-      "lost": 400,
-      "total": 1311,
+      "won": 920,
+      "lost": 404,
+      "total": 1324,
       "rate": 69.5
     },
-    "totalAnalyses": 772036,
+    "totalAnalyses": 772115,
     "leagues": 289,
     "pro": {
-      "won": 927,
-      "lost": 333,
-      "total": 1260,
-      "rate": 73.6
+      "won": 937,
+      "lost": 337,
+      "total": 1274,
+      "rate": 73.5
     },
     "insights": {
-      "won": 1608,
-      "lost": 655,
-      "total": 2263,
+      "won": 1619,
+      "lost": 659,
+      "total": 2278,
       "rate": 71.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3139,
-    "analyses30d": 17089
+    "analyses24h": 3132,
+    "analyses30d": 17086
   },
   "recentWins": [
     {
@@ -241,12 +241,6 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 14:09",
-      "home": "Sporting Charleroi",
-      "away": "Sint-Truidense VV"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 14:20",
       "home": "Maidstone Unit",
       "away": "Farnham Town"
@@ -262,6 +256,12 @@
       "at": "21.11.2026 14:22",
       "home": "Radcliffe Boro",
       "away": "Telford"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 14:22",
+      "home": "Buxton",
+      "away": "Hednesford Town"
     }
   ],
   "today": {
@@ -340,6 +340,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Atletico Mineiro",
+      "away": "Boca Juniors",
+      "league": "CSA",
+      "at": "21.11.2026 20:17",
+      "count": 2
+    },
+    {
       "home": "Chapecoense AF",
       "away": "Cruzeiro EC",
       "league": "BR1",
@@ -400,13 +407,6 @@
       "away": "Coritiba FBC",
       "league": "BR1",
       "at": "21.11.2026 18:41",
-      "count": 5
-    },
-    {
-      "home": "RC Lens",
-      "away": "Toulouse FC",
-      "league": "FR1",
-      "at": "21.11.2026 18:39",
       "count": 5
     }
   ],
