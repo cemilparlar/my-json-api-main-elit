@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 07:59",
+  "updatedAt": "21.11.2026 08:09",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 510,
-      "lost": 198,
-      "total": 708,
-      "rate": 72.0
+      "won": 526,
+      "lost": 208,
+      "total": 734,
+      "rate": 71.7
     },
-    "totalAnalyses": 769187,
+    "totalAnalyses": 769227,
     "leagues": 291,
     "pro": {
-      "won": 745,
-      "lost": 268,
-      "total": 1013,
-      "rate": 73.5
+      "won": 754,
+      "lost": 270,
+      "total": 1024,
+      "rate": 73.6
     },
     "insights": {
-      "won": 1266,
-      "lost": 499,
-      "total": 1765,
+      "won": 1280,
+      "lost": 505,
+      "total": 1785,
       "rate": 71.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3491,
-    "analyses30d": 17145
+    "analyses24h": 3522,
+    "analyses30d": 17176
   },
   "recentWins": [
     {
@@ -265,18 +265,30 @@
     }
   ],
   "today": {
-    "home": "Reading",
-    "away": "Bromley",
-    "league": "İN1",
-    "date": "21.11.2026 12:30",
-    "matchCode": "4489424",
-    "odds": 1.94,
-    "patternScore": 66.84,
-    "patternText": "208.007/311.208",
-    "aiScore": 52,
-    "picks": 8
+    "home": "Como 1907",
+    "away": "Cagliari Calcio",
+    "league": "İTA",
+    "date": "21.11.2026 14:00",
+    "matchCode": "4475154",
+    "odds": 5.32,
+    "patternScore": 67.17,
+    "patternText": "224.709/334.552",
+    "aiScore": 50,
+    "picks": 7
   },
   "todayList": [
+    {
+      "home": "Como 1907",
+      "away": "Cagliari Calcio",
+      "league": "İTA",
+      "date": "21.11.2026 14:00",
+      "matchCode": "4475154",
+      "odds": 5.32,
+      "patternScore": 67.17,
+      "patternText": "224.709/334.552",
+      "aiScore": 50,
+      "picks": 7
+    },
     {
       "home": "Reading",
       "away": "Bromley",
@@ -290,16 +302,16 @@
       "picks": 8
     },
     {
-      "home": "Hannover 96",
-      "away": "SpVgg Greuther Furth",
-      "league": "AL2",
-      "date": "21.11.2026 12:00",
-      "matchCode": "4495839",
-      "odds": 1.54,
-      "patternScore": 67.33,
-      "patternText": "310.477/461.122",
-      "aiScore": 54,
-      "picks": 5
+      "home": "FC Sudtirol",
+      "away": "US Cremonese",
+      "league": "İTB",
+      "date": "21.11.2026 14:00",
+      "matchCode": "4534796",
+      "odds": 1.67,
+      "patternScore": 67.65,
+      "patternText": "318.436/470.684",
+      "aiScore": 52,
+      "picks": 7
     },
     {
       "home": "Nuremberg",
@@ -324,21 +336,23 @@
       "patternText": "323.671/479.030",
       "aiScore": 55,
       "picks": 7
-    },
-    {
-      "home": "Treviso",
-      "away": "US Pergolettese",
-      "league": "İTC",
-      "date": "21.11.2026 13:30",
-      "matchCode": "4535205",
-      "odds": 1.45,
-      "patternScore": 67.98,
-      "patternText": "193.825/285.126",
-      "aiScore": 54,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Kayserispor",
+      "away": "Sariyer",
+      "league": "T1L",
+      "at": "21.11.2026 08:04",
+      "count": 1
+    },
+    {
+      "home": "FC Akron Togliatti",
+      "away": "FK Fakel Voronezh",
+      "league": "RUS",
+      "at": "21.11.2026 08:01",
+      "count": 10
+    },
     {
       "home": "Hannover 96",
       "away": "SpVgg Greuther Furth",
@@ -394,20 +408,6 @@
       "league": "İNCL",
       "at": "21.11.2026 06:55",
       "count": 5
-    },
-    {
-      "home": "Southam",
-      "away": "Derby County",
-      "league": "İNCL",
-      "at": "21.11.2026 06:49",
-      "count": 9
-    },
-    {
-      "home": "Norwich City",
-      "away": "Cardiff City",
-      "league": "İNCL",
-      "at": "21.11.2026 06:43",
-      "count": 18
     }
   ],
   "paywall": {
