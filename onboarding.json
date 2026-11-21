@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 10:55",
+  "updatedAt": "21.11.2026 11:04",
   "config": {
     "pages": [
       "engine",
@@ -30,16 +30,16 @@
     "totalAnalyses": 769699,
     "leagues": 292,
     "pro": {
-      "won": 762,
+      "won": 757,
       "lost": 272,
-      "total": 1034,
-      "rate": 73.7
+      "total": 1029,
+      "rate": 73.6
     },
     "insights": {
-      "won": 1296,
+      "won": 1288,
       "lost": 517,
-      "total": 1813,
-      "rate": 71.5
+      "total": 1805,
+      "rate": 71.4
     },
     "coupons": {
       "won": 2,
@@ -47,7 +47,7 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3535,
+    "analyses24h": 3538,
     "analyses30d": 17138
   },
   "recentWins": [
@@ -223,12 +223,6 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 04:59",
-      "home": "Istanbulspor",
-      "away": "A. Keciorengucu"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 09:16",
       "home": "Genclerbirligi",
       "away": "Gaziantep FK"
@@ -262,6 +256,12 @@
       "at": "21.11.2026 06:43",
       "home": "Tamworth",
       "away": "Eastleigh"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 06:55",
+      "home": "Solihull Moors",
+      "away": "Altrincham"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4492841",
     "odds": 1.98,
     "patternScore": 67.71,
-    "patternText": "201.823/298.078",
+    "patternText": "201.823/298.084",
     "aiScore": 52,
     "picks": 4
   },
@@ -285,7 +285,7 @@
       "matchCode": "4492841",
       "odds": 1.98,
       "patternScore": 67.71,
-      "patternText": "201.823/298.078",
+      "patternText": "201.823/298.084",
       "aiScore": 52,
       "picks": 4
     },
@@ -297,7 +297,7 @@
       "matchCode": "4476920",
       "odds": 1.87,
       "patternScore": 67.09,
-      "patternText": "306.364/456.629",
+      "patternText": "306.364/456.635",
       "aiScore": 53,
       "picks": 5
     },
@@ -309,7 +309,7 @@
       "matchCode": "4534796",
       "odds": 1.87,
       "patternScore": 67.88,
-      "patternText": "208.286/306.823",
+      "patternText": "208.286/306.833",
       "aiScore": 52,
       "picks": 7
     },
@@ -321,7 +321,7 @@
       "matchCode": "4426816",
       "odds": 1.85,
       "patternScore": 65.01,
-      "patternText": "364.346/560.430",
+      "patternText": "364.346/560.448",
       "aiScore": 52,
       "picks": 3
     },
@@ -332,8 +332,8 @@
       "date": "21.11.2026 14:00",
       "matchCode": "4475156",
       "odds": 1.6,
-      "patternScore": 65.45,
-      "patternText": "376.484/575.254",
+      "patternScore": 65.44,
+      "patternText": "376.484/575.280",
       "aiScore": 54,
       "picks": 6
     }
