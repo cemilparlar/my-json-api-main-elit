@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 19:20",
+  "updatedAt": "21.11.2026 19:27",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 1367,
       "rate": 69.4
     },
-    "totalAnalyses": 771926,
+    "totalAnalyses": 771928,
     "leagues": 289,
     "pro": {
       "won": 937,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3272,
-    "analyses30d": 17102
+    "analyses24h": 3271,
+    "analyses30d": 17101
   },
   "recentWins": [
     {
@@ -108,17 +108,17 @@
       "pro": true
     },
     {
-      "home": "Al Wehdat",
-      "away": "Al Arabi",
-      "league": "ÜRDK",
-      "date": "20.11.2026 16:00",
-      "prediction": "Handicap (0:1) X",
-      "odds": 2.87,
-      "probability": 100.0,
-      "patternScore": 56.68,
+      "home": "KRC Genk",
+      "away": "La Louviere",
+      "league": "BEL",
+      "date": "21.11.2026 17:15",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 3.29,
+      "probability": 80.0,
+      "patternScore": 66.86,
       "aiScore": 51,
-      "firstHalf": "1 - 0",
-      "finalScore": "1 - 0",
+      "firstHalf": "3 - 0",
+      "finalScore": "3 - 0",
       "pro": true
     }
   ],
@@ -271,9 +271,9 @@
     "date": "21.11.2026 23:00",
     "matchCode": "4579789",
     "odds": 2.06,
-    "patternScore": 67.09,
-    "patternText": "166.799/248.602",
-    "aiScore": 52,
+    "patternScore": 67.1,
+    "patternText": "166.823/248.626",
+    "aiScore": 53,
     "picks": 10
   },
   "todayList": [
@@ -284,9 +284,9 @@
       "date": "21.11.2026 23:00",
       "matchCode": "4579789",
       "odds": 2.06,
-      "patternScore": 67.09,
-      "patternText": "166.799/248.602",
-      "aiScore": 52,
+      "patternScore": 67.1,
+      "patternText": "166.823/248.626",
+      "aiScore": 53,
       "picks": 10
     },
     {
@@ -297,21 +297,9 @@
       "matchCode": "4423387",
       "odds": 1.91,
       "patternScore": 67.15,
-      "patternText": "275.238/409.891",
+      "patternText": "275.294/409.947",
       "aiScore": 52,
       "picks": 5
-    },
-    {
-      "home": "SC Telstar",
-      "away": "Zwolle",
-      "league": "HOL",
-      "date": "21.11.2026 20:00",
-      "matchCode": "4481599",
-      "odds": 1.89,
-      "patternScore": 67.82,
-      "patternText": "280.055/412.939",
-      "aiScore": 53,
-      "picks": 6
     },
     {
       "home": "Santos Laguna",
@@ -321,7 +309,7 @@
       "matchCode": "4476498",
       "odds": 1.87,
       "patternScore": 66.98,
-      "patternText": "160.879/240.200",
+      "patternText": "160.903/240.224",
       "aiScore": 53,
       "picks": 3
     },
@@ -336,6 +324,18 @@
       "patternText": "236.553/343.488",
       "aiScore": 56,
       "picks": 2
+    },
+    {
+      "home": "Argentinos Juniors",
+      "away": "Independiente del Valle",
+      "league": "ARJ",
+      "date": "21.11.2026 20:00",
+      "matchCode": "4580869",
+      "odds": 1.46,
+      "patternScore": 66.75,
+      "patternText": "281.646/421.934",
+      "aiScore": 54,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
