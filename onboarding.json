@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 12:37",
+  "updatedAt": "21.11.2026 12:46",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 523,
-      "lost": 194,
-      "total": 717,
-      "rate": 72.9
+      "won": 509,
+      "lost": 191,
+      "total": 700,
+      "rate": 72.7
     },
-    "totalAnalyses": 770158,
+    "totalAnalyses": 770178,
     "leagues": 292,
     "pro": {
-      "won": 769,
+      "won": 770,
       "lost": 269,
-      "total": 1038,
+      "total": 1039,
       "rate": 74.1
     },
     "insights": {
-      "won": 1305,
-      "lost": 514,
-      "total": 1819,
-      "rate": 71.7
+      "won": 1306,
+      "lost": 512,
+      "total": 1818,
+      "rate": 71.8
     },
     "coupons": {
       "won": 2,
@@ -47,7 +47,7 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3513,
+    "analyses24h": 3494,
     "analyses30d": 17155
   },
   "recentWins": [
@@ -259,9 +259,9 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 06:43",
-      "home": "Tamworth",
-      "away": "Eastleigh"
+      "at": "21.11.2026 06:55",
+      "home": "Solihull Moors",
+      "away": "Altrincham"
     }
   ],
   "today": {
@@ -271,8 +271,8 @@
     "date": "21.11.2026 17:45",
     "matchCode": "4481594",
     "odds": 2.53,
-    "patternScore": 67.09,
-    "patternText": "295.955/441.125",
+    "patternScore": 67.1,
+    "patternText": "296.025/441.195",
     "aiScore": 51,
     "picks": 12
   },
@@ -284,8 +284,8 @@
       "date": "21.11.2026 17:45",
       "matchCode": "4481594",
       "odds": 2.53,
-      "patternScore": 67.09,
-      "patternText": "295.955/441.125",
+      "patternScore": 67.1,
+      "patternText": "296.025/441.195",
       "aiScore": 51,
       "picks": 12
     },
@@ -296,22 +296,34 @@
       "date": "21.11.2026 14:00",
       "matchCode": "4534796",
       "odds": 1.87,
-      "patternScore": 67.89,
-      "patternText": "208.368/306.921",
+      "patternScore": 67.9,
+      "patternText": "208.454/307.007",
       "aiScore": 52,
       "picks": 7
     },
     {
-      "home": "Carrarese Calcio",
-      "away": "Virtus Entella",
-      "league": "İTB",
-      "date": "21.11.2026 14:00",
-      "matchCode": "4534790",
-      "odds": 1.67,
-      "patternScore": 67.04,
-      "patternText": "326.603/487.161",
+      "home": "Foolad Khuzest",
+      "away": "Sepahan",
+      "league": "IRAN",
+      "date": "21.11.2026 14:30",
+      "matchCode": "4580240",
+      "odds": 1.62,
+      "patternScore": 67.08,
+      "patternText": "230.144/343.082",
       "aiScore": 53,
       "picks": 3
+    },
+    {
+      "home": "SS Lazio",
+      "away": "US Lecce",
+      "league": "İTA",
+      "date": "21.11.2026 14:00",
+      "matchCode": "4475156",
+      "odds": 1.6,
+      "patternScore": 67.64,
+      "patternText": "326.296/482.401",
+      "aiScore": 53,
+      "picks": 6
     },
     {
       "home": "Queen of the South",
@@ -320,25 +332,27 @@
       "date": "21.11.2026 15:00",
       "matchCode": "4482492",
       "odds": 1.52,
-      "patternScore": 69.11,
-      "patternText": "337.475/488.289",
+      "patternScore": 69.12,
+      "patternText": "337.553/488.367",
       "aiScore": 57,
       "picks": 1
-    },
-    {
-      "home": "Foolad Khuzest",
-      "away": "Sepahan",
-      "league": "IRAN",
-      "date": "21.11.2026 14:30",
-      "matchCode": "4580240",
-      "odds": 1.5,
-      "patternScore": 67.99,
-      "patternText": "211.308/310.812",
-      "aiScore": 55,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SV Elversberg",
+      "away": "SC Freiburg",
+      "league": "AL1",
+      "at": "21.11.2026 12:43",
+      "count": 7
+    },
+    {
+      "home": "Rubin Kazan",
+      "away": "Zenit St. Petersburg",
+      "league": "RUS",
+      "at": "21.11.2026 12:43",
+      "count": 16
+    },
     {
       "home": "Bayer Leverkusen",
       "away": "SC Paderborn",
@@ -394,20 +408,6 @@
       "league": "TSL",
       "at": "21.11.2026 11:59",
       "count": 15
-    },
-    {
-      "home": "Kayserispor",
-      "away": "Sariyer",
-      "league": "T1L",
-      "at": "21.11.2026 11:56",
-      "count": 2
-    },
-    {
-      "home": "Deportivo Alaves",
-      "away": "Deportivo La Coruna",
-      "league": "İS1",
-      "at": "21.11.2026 11:56",
-      "count": 3
     }
   ],
   "paywall": {
