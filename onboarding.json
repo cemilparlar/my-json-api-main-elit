@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 17:29",
+  "updatedAt": "21.11.2026 17:39",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 933,
-      "lost": 399,
-      "total": 1332,
-      "rate": 70.0
+      "won": 922,
+      "lost": 415,
+      "total": 1337,
+      "rate": 69.0
     },
-    "totalAnalyses": 771614,
+    "totalAnalyses": 771694,
     "leagues": 291,
     "pro": {
-      "won": 882,
-      "lost": 320,
-      "total": 1202,
-      "rate": 73.4
+      "won": 885,
+      "lost": 323,
+      "total": 1208,
+      "rate": 73.3
     },
     "insights": {
-      "won": 1512,
-      "lost": 625,
-      "total": 2137,
-      "rate": 70.8
+      "won": 1513,
+      "lost": 631,
+      "total": 2144,
+      "rate": 70.6
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3383,
-    "analyses30d": 17088
+    "analyses24h": 3401,
+    "analyses30d": 17142
   },
   "recentWins": [
     {
@@ -290,6 +290,18 @@
       "picks": 10
     },
     {
+      "home": "AS Monaco",
+      "away": "AJ Auxerre",
+      "league": "FR1",
+      "date": "21.11.2026 19:45",
+      "matchCode": "4476598",
+      "odds": 1.71,
+      "patternScore": 67.89,
+      "patternText": "285.530/420.547",
+      "aiScore": 52,
+      "picks": 8
+    },
+    {
       "home": "SSC Napoli",
       "away": "Torino FC",
       "league": "İTA",
@@ -297,7 +309,7 @@
       "matchCode": "4475159",
       "odds": 1.6,
       "patternScore": 68.39,
-      "patternText": "214.304/313.372",
+      "patternText": "214.304/313.374",
       "aiScore": 56,
       "picks": 5
     },
@@ -309,21 +321,9 @@
       "matchCode": "4490462",
       "odds": 1.54,
       "patternScore": 68.86,
-      "patternText": "236.381/343.256",
-      "aiScore": 55,
+      "patternText": "236.381/343.258",
+      "aiScore": 56,
       "picks": 2
-    },
-    {
-      "home": "FC Sion",
-      "away": "Servette FC",
-      "league": "İSV",
-      "date": "21.11.2026 19:30",
-      "matchCode": "4482352",
-      "odds": 1.49,
-      "patternScore": 67.3,
-      "patternText": "304.615/452.614",
-      "aiScore": 55,
-      "picks": 4
     },
     {
       "home": "Argentinos Juniors",
@@ -333,25 +333,60 @@
       "matchCode": "4580869",
       "odds": 1.46,
       "patternScore": 66.73,
-      "patternText": "280.866/420.872",
-      "aiScore": 53,
+      "patternText": "280.866/420.878",
+      "aiScore": 54,
       "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Feyenoord",
+      "away": "Excelsior Rotterdam",
+      "league": "HOL",
+      "at": "21.11.2026 17:36",
+      "count": 15
+    },
+    {
+      "home": "Atletico Mineiro",
+      "away": "Boca Juniors",
+      "league": "CSA",
+      "at": "21.11.2026 17:33",
+      "count": 6
+    },
+    {
+      "home": "FC Dallas",
+      "away": "Portland Timbers",
+      "league": "ABD",
+      "at": "21.11.2026 17:32",
+      "count": 17
+    },
+    {
+      "home": "FC Groningen",
+      "away": "SC Heerenveen",
+      "league": "HOL",
+      "at": "21.11.2026 17:31",
+      "count": 12
+    },
+    {
+      "home": "Zulte Waregem",
+      "away": "Royal Antwerp",
+      "league": "BEL",
+      "at": "21.11.2026 17:30",
+      "count": 7
+    },
+    {
+      "home": "AS Monaco",
+      "away": "AJ Auxerre",
+      "league": "FR1",
+      "at": "21.11.2026 17:30",
+      "count": 8
+    },
     {
       "home": "RC Strasbourg",
       "away": "Stade Brest",
       "league": "FR1",
       "at": "21.11.2026 17:29",
       "count": 5
-    },
-    {
-      "home": "FC Dallas",
-      "away": "Portland Timbers",
-      "league": "ABD",
-      "at": "21.11.2026 16:53",
-      "count": 9
     },
     {
       "home": "EC Bahia",
@@ -368,46 +403,11 @@
       "count": 7
     },
     {
-      "home": "FC Groningen",
-      "away": "SC Heerenveen",
-      "league": "HOL",
-      "at": "21.11.2026 16:50",
-      "count": 7
-    },
-    {
       "home": "CD Tenerife",
       "away": "RCD Mallorca",
       "league": "İS2",
       "at": "21.11.2026 16:49",
       "count": 7
-    },
-    {
-      "home": "AS Monaco",
-      "away": "AJ Auxerre",
-      "league": "FR1",
-      "at": "21.11.2026 16:42",
-      "count": 5
-    },
-    {
-      "home": "LOSC Lille",
-      "away": "Olympique Lyonnais",
-      "league": "FR1",
-      "at": "21.11.2026 16:41",
-      "count": 6
-    },
-    {
-      "home": "Zulte Waregem",
-      "away": "Royal Antwerp",
-      "league": "BEL",
-      "at": "21.11.2026 16:40",
-      "count": 7
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "CR Flamengo",
-      "league": "BR1",
-      "at": "21.11.2026 16:40",
-      "count": 11
     }
   ],
   "paywall": {
