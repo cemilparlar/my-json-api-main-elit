@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 04:52",
+  "updatedAt": "21.11.2026 05:01",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 438,
-      "lost": 164,
-      "total": 602,
-      "rate": 72.8
+      "won": 439,
+      "lost": 166,
+      "total": 605,
+      "rate": 72.6
     },
-    "totalAnalyses": 768530,
+    "totalAnalyses": 768537,
     "leagues": 290,
     "pro": {
-      "won": 716,
-      "lost": 252,
-      "total": 968,
-      "rate": 74.0
+      "won": 712,
+      "lost": 249,
+      "total": 961,
+      "rate": 74.1
     },
     "insights": {
-      "won": 1214,
-      "lost": 472,
-      "total": 1686,
+      "won": 1206,
+      "lost": 469,
+      "total": 1675,
       "rate": 72.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3341,
-    "analyses30d": 16992
+    "analyses24h": 3347,
+    "analyses30d": 16998
   },
   "recentWins": [
     {
@@ -216,10 +216,16 @@
       "at": "20.11.2026 19:45"
     },
     {
-      "type": "coupon",
-      "size": 3,
-      "odds": 1.51,
-      "at": "20.11.2026 17:00"
+      "type": "updated",
+      "at": "21.11.2026 04:59",
+      "home": "Istanbulspor",
+      "away": "A. Keciorengucu"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 05:00",
+      "home": "Genclerbirligi",
+      "away": "Gaziantep FK"
     },
     {
       "type": "updated",
@@ -256,12 +262,6 @@
       "at": "21.11.2026 00:44",
       "home": "Fujieda MYFC",
       "away": "FC Imabari"
-    },
-    {
-      "type": "updated",
-      "at": "20.11.2026 23:12",
-      "home": "Blaublitz Akit",
-      "away": "Montedio Yamagata"
     }
   ],
   "today": {
@@ -340,6 +340,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Genclerbirligi",
+      "away": "Gaziantep FK",
+      "league": "TSL",
+      "at": "21.11.2026 05:00",
+      "count": 6
+    },
+    {
+      "home": "Istanbulspor",
+      "away": "A. Keciorengucu",
+      "league": "T1L",
+      "at": "21.11.2026 04:59",
+      "count": 3
+    },
+    {
       "home": "FC Orenburg",
       "away": "Baltika Kaliningrad",
       "league": "RUS",
@@ -394,20 +408,6 @@
       "league": "İS2",
       "at": "20.11.2026 15:19",
       "count": 7
-    },
-    {
-      "home": "Annecy",
-      "away": "Clermont Foot",
-      "league": "FR2",
-      "at": "20.11.2026 15:01",
-      "count": 8
-    },
-    {
-      "home": "AS Nancy",
-      "away": "Dijon FCO",
-      "league": "FR2",
-      "at": "20.11.2026 14:26",
-      "count": 10
     }
   ],
   "paywall": {
