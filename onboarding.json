@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 11:14",
+  "updatedAt": "21.11.2026 11:25",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 740,
       "rate": 72.4
     },
-    "totalAnalyses": 769714,
+    "totalAnalyses": 769717,
     "leagues": 292,
     "pro": {
       "won": 759,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3550,
-    "analyses30d": 17150
+    "analyses24h": 3543,
+    "analyses30d": 17143
   },
   "recentWins": [
     {
@@ -265,30 +265,18 @@
     }
   ],
   "today": {
-    "home": "CE Sabadell",
-    "away": "Granada CF",
-    "league": "İS2",
+    "home": "Stade Lavalois",
+    "away": "Montpellier HSC",
+    "league": "FR2",
     "date": "21.11.2026 13:00",
-    "matchCode": "4492841",
-    "odds": 1.98,
-    "patternScore": 67.71,
-    "patternText": "201.823/298.084",
-    "aiScore": 52,
-    "picks": 4
+    "matchCode": "4476920",
+    "odds": 1.87,
+    "patternScore": 67.09,
+    "patternText": "306.404/456.675",
+    "aiScore": 53,
+    "picks": 5
   },
   "todayList": [
-    {
-      "home": "CE Sabadell",
-      "away": "Granada CF",
-      "league": "İS2",
-      "date": "21.11.2026 13:00",
-      "matchCode": "4492841",
-      "odds": 1.98,
-      "patternScore": 67.71,
-      "patternText": "201.823/298.084",
-      "aiScore": 52,
-      "picks": 4
-    },
     {
       "home": "Stade Lavalois",
       "away": "Montpellier HSC",
@@ -297,7 +285,7 @@
       "matchCode": "4476920",
       "odds": 1.87,
       "patternScore": 67.09,
-      "patternText": "306.364/456.635",
+      "patternText": "306.404/456.675",
       "aiScore": 53,
       "picks": 5
     },
@@ -308,8 +296,8 @@
       "date": "21.11.2026 14:00",
       "matchCode": "4534796",
       "odds": 1.87,
-      "patternScore": 67.88,
-      "patternText": "208.286/306.833",
+      "patternScore": 67.89,
+      "patternText": "208.310/306.857",
       "aiScore": 52,
       "picks": 7
     },
@@ -321,7 +309,7 @@
       "matchCode": "4426816",
       "odds": 1.85,
       "patternScore": 65.01,
-      "patternText": "364.346/560.448",
+      "patternText": "364.386/560.488",
       "aiScore": 52,
       "picks": 3
     },
@@ -332,13 +320,39 @@
       "date": "21.11.2026 14:00",
       "matchCode": "4475156",
       "odds": 1.6,
-      "patternScore": 65.44,
-      "patternText": "376.484/575.280",
+      "patternScore": 65.45,
+      "patternText": "376.524/575.320",
       "aiScore": 54,
       "picks": 6
+    },
+    {
+      "home": "Queen of the South",
+      "away": "Hamilton Academical",
+      "league": "İK1",
+      "date": "21.11.2026 15:00",
+      "matchCode": "4482492",
+      "odds": 1.52,
+      "patternScore": 69.11,
+      "patternText": "337.429/488.241",
+      "aiScore": 57,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "CE Sabadell",
+      "away": "Granada CF",
+      "league": "İS2",
+      "at": "21.11.2026 11:15",
+      "count": 6
+    },
+    {
+      "home": "Deportivo Alaves",
+      "away": "Deportivo La Coruna",
+      "league": "İS1",
+      "at": "21.11.2026 11:15",
+      "count": 5
+    },
     {
       "home": "Manchester City",
       "away": "Fulham",
@@ -387,20 +401,6 @@
       "league": "T1L",
       "at": "21.11.2026 10:19",
       "count": 1
-    },
-    {
-      "home": "CE Sabadell",
-      "away": "Granada CF",
-      "league": "İS2",
-      "at": "21.11.2026 10:17",
-      "count": 5
-    },
-    {
-      "home": "Deportivo Alaves",
-      "away": "Deportivo La Coruna",
-      "league": "İS1",
-      "at": "21.11.2026 10:17",
-      "count": 6
     },
     {
       "home": "FC Akron Togliatti",
