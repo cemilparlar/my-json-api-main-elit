@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 18:56",
+  "updatedAt": "21.11.2026 19:04",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 990,
-      "lost": 438,
-      "total": 1428,
-      "rate": 69.3
+      "won": 914,
+      "lost": 413,
+      "total": 1327,
+      "rate": 68.9
     },
-    "totalAnalyses": 771918,
-    "leagues": 290,
+    "totalAnalyses": 771922,
+    "leagues": 289,
     "pro": {
-      "won": 928,
-      "lost": 330,
-      "total": 1258,
-      "rate": 73.8
+      "won": 921,
+      "lost": 325,
+      "total": 1246,
+      "rate": 73.9
     },
     "insights": {
-      "won": 1593,
-      "lost": 653,
-      "total": 2246,
+      "won": 1575,
+      "lost": 647,
+      "total": 2222,
       "rate": 70.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3381,
-    "analyses30d": 17166
+    "analyses24h": 3277,
+    "analyses30d": 17107
   },
   "recentWins": [
     {
@@ -88,7 +88,7 @@
       "odds": 3.36,
       "probability": 100.0,
       "patternScore": 57.99,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0",
       "pro": true
@@ -218,6 +218,12 @@
     {
       "type": "coupon",
       "size": 3,
+      "odds": 1.52,
+      "at": "21.11.2026 19:04"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
       "odds": 1.5,
       "at": "21.11.2026 18:10"
     },
@@ -256,12 +262,6 @@
       "at": "21.11.2026 14:20",
       "home": "Maidstone Unit",
       "away": "Farnham Town"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 14:21",
-      "home": "Braintree",
-      "away": "Torquay"
     }
   ],
   "today": {
@@ -272,8 +272,8 @@
     "matchCode": "4579789",
     "odds": 2.06,
     "patternScore": 67.09,
-    "patternText": "166.749/248.534",
-    "aiScore": 53,
+    "patternText": "166.767/248.564",
+    "aiScore": 52,
     "picks": 10
   },
   "todayList": [
@@ -285,8 +285,8 @@
       "matchCode": "4579789",
       "odds": 2.06,
       "patternScore": 67.09,
-      "patternText": "166.749/248.534",
-      "aiScore": 53,
+      "patternText": "166.767/248.564",
+      "aiScore": 52,
       "picks": 10
     },
     {
@@ -297,7 +297,7 @@
       "matchCode": "4423387",
       "odds": 1.91,
       "patternScore": 67.14,
-      "patternText": "275.024/409.629",
+      "patternText": "275.116/409.743",
       "aiScore": 52,
       "picks": 5
     },
@@ -308,8 +308,8 @@
       "date": "21.11.2026 20:00",
       "matchCode": "4481599",
       "odds": 1.89,
-      "patternScore": 67.81,
-      "patternText": "279.881/412.725",
+      "patternScore": 67.82,
+      "patternText": "279.953/412.811",
       "aiScore": 53,
       "picks": 6
     },
@@ -320,25 +320,46 @@
       "date": "21.11.2026 23:00",
       "matchCode": "4476498",
       "odds": 1.87,
-      "patternScore": 66.98,
-      "patternText": "160.829/240.130",
+      "patternScore": 66.97,
+      "patternText": "160.847/240.162",
       "aiScore": 53,
       "picks": 3
     },
     {
-      "home": "Zulte Waregem",
-      "away": "Royal Antwerp",
-      "league": "BEL",
+      "home": "SSC Napoli",
+      "away": "Torino FC",
+      "league": "İTA",
       "date": "21.11.2026 19:45",
-      "matchCode": "4480775",
-      "odds": 1.67,
-      "patternScore": 66.94,
-      "patternText": "310.374/463.659",
+      "matchCode": "4475159",
+      "odds": 1.71,
+      "patternScore": 66.73,
+      "patternText": "306.246/458.932",
       "aiScore": 53,
-      "picks": 5
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Zulte Waregem",
+      "away": "Royal Antwerp",
+      "league": "BEL",
+      "at": "21.11.2026 18:57",
+      "count": 8
+    },
+    {
+      "home": "SSC Napoli",
+      "away": "Torino FC",
+      "league": "İTA",
+      "at": "21.11.2026 18:56",
+      "count": 4
+    },
+    {
+      "home": "AS Monaco",
+      "away": "AJ Auxerre",
+      "league": "FR1",
+      "at": "21.11.2026 18:56",
+      "count": 6
+    },
     {
       "home": "St Pauli",
       "away": "Bochum",
@@ -375,31 +396,10 @@
       "count": 5
     },
     {
-      "home": "Zulte Waregem",
-      "away": "Royal Antwerp",
-      "league": "BEL",
-      "at": "21.11.2026 18:40",
-      "count": 9
-    },
-    {
       "home": "RC Lens",
       "away": "Toulouse FC",
       "league": "FR1",
       "at": "21.11.2026 18:39",
-      "count": 5
-    },
-    {
-      "home": "AS Monaco",
-      "away": "AJ Auxerre",
-      "league": "FR1",
-      "at": "21.11.2026 18:39",
-      "count": 5
-    },
-    {
-      "home": "SSC Napoli",
-      "away": "Torino FC",
-      "league": "İTA",
-      "at": "21.11.2026 18:19",
       "count": 5
     },
     {
