@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 16:57",
+  "updatedAt": "21.11.2026 17:05",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 815,
-      "lost": 348,
-      "total": 1163,
+      "won": 805,
+      "lost": 343,
+      "total": 1148,
       "rate": 70.1
     },
-    "totalAnalyses": 771466,
+    "totalAnalyses": 771480,
     "leagues": 291,
     "pro": {
-      "won": 827,
-      "lost": 300,
-      "total": 1127,
+      "won": 818,
+      "lost": 296,
+      "total": 1114,
       "rate": 73.4
     },
     "insights": {
-      "won": 1413,
-      "lost": 585,
-      "total": 1998,
+      "won": 1404,
+      "lost": 581,
+      "total": 1985,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3407,
-    "analyses30d": 17110
+    "analyses24h": 3381,
+    "analyses30d": 17086
   },
   "recentWins": [
     {
@@ -271,8 +271,8 @@
     "date": "21.11.2026 17:45",
     "matchCode": "4481594",
     "odds": 2.53,
-    "patternScore": 67.1,
-    "patternText": "297.807/443.805",
+    "patternScore": 67.11,
+    "patternText": "297.865/443.877",
     "aiScore": 51,
     "picks": 12
   },
@@ -284,10 +284,22 @@
       "date": "21.11.2026 17:45",
       "matchCode": "4481594",
       "odds": 2.53,
-      "patternScore": 67.1,
-      "patternText": "297.807/443.805",
+      "patternScore": 67.11,
+      "patternText": "297.865/443.877",
       "aiScore": 51,
       "picks": 12
+    },
+    {
+      "home": "Inter Miami CF",
+      "away": "Columbus Crew",
+      "league": "ABD",
+      "date": "21.11.2026 23:00",
+      "matchCode": "4579789",
+      "odds": 2.06,
+      "patternScore": 67.09,
+      "patternText": "166.583/248.292",
+      "aiScore": 52,
+      "picks": 10
     },
     {
       "home": "SSC Napoli",
@@ -297,21 +309,21 @@
       "matchCode": "4475159",
       "odds": 1.6,
       "patternScore": 68.38,
-      "patternText": "213.610/312.398",
+      "patternText": "213.660/312.458",
       "aiScore": 56,
       "picks": 5
     },
     {
-      "home": "FC Dallas",
-      "away": "Portland Timbers",
-      "league": "ABD",
+      "home": "Mixco",
+      "away": "CSD Malacateco",
+      "league": "GUAT",
       "date": "21.11.2026 21:00",
-      "matchCode": "4579788",
-      "odds": 1.51,
-      "patternScore": 67.62,
-      "patternText": "267.766/396.002",
-      "aiScore": 57,
-      "picks": 5
+      "matchCode": "4490462",
+      "odds": 1.54,
+      "patternScore": 68.86,
+      "patternText": "236.151/342.944",
+      "aiScore": 55,
+      "picks": 2
     },
     {
       "home": "FC Sion",
@@ -320,22 +332,10 @@
       "date": "21.11.2026 19:30",
       "matchCode": "4482352",
       "odds": 1.49,
-      "patternScore": 67.29,
-      "patternText": "303.825/451.496",
+      "patternScore": 67.3,
+      "patternText": "303.883/451.568",
       "aiScore": 55,
       "picks": 4
-    },
-    {
-      "home": "SC Telstar",
-      "away": "Zwolle",
-      "league": "HOL",
-      "date": "21.11.2026 20:00",
-      "matchCode": "4481599",
-      "odds": 1.47,
-      "patternScore": 67.89,
-      "patternText": "264.195/389.177",
-      "aiScore": 54,
-      "picks": 7
     }
   ],
   "recentAnalyzed": [
