@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 17:05",
+  "updatedAt": "21.11.2026 17:13",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 805,
-      "lost": 343,
-      "total": 1148,
-      "rate": 70.1
+      "won": 915,
+      "lost": 386,
+      "total": 1301,
+      "rate": 70.3
     },
-    "totalAnalyses": 771480,
+    "totalAnalyses": 771570,
     "leagues": 291,
     "pro": {
-      "won": 818,
-      "lost": 296,
-      "total": 1114,
-      "rate": 73.4
+      "won": 875,
+      "lost": 312,
+      "total": 1187,
+      "rate": 73.7
     },
     "insights": {
-      "won": 1404,
-      "lost": 581,
-      "total": 1985,
-      "rate": 70.7
+      "won": 1496,
+      "lost": 613,
+      "total": 2109,
+      "rate": 70.9
     },
     "coupons": {
       "won": 2,
@@ -223,33 +223,15 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 11:06",
-      "home": "Mirandes",
-      "away": "Athletic Bilbao B"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 11:48",
       "home": "Norwich City",
       "away": "Cardiff City"
     },
     {
       "type": "updated",
-      "at": "21.11.2026 11:07",
-      "home": "Reading",
-      "away": "Bromley"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 11:50",
       "home": "Southam",
       "away": "Derby County"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 11:11",
-      "home": "Gillingham",
-      "away": "Crewe"
     },
     {
       "type": "updated",
@@ -262,6 +244,24 @@
       "at": "21.11.2026 11:56",
       "home": "Kayserispor",
       "away": "Sariyer"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 11:15",
+      "home": "CE Sabadell",
+      "away": "Granada CF"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 11:59",
+      "home": "Galatasaray",
+      "away": "Samsunspor"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 11:56",
+      "home": "Deportivo Alaves",
+      "away": "Deportivo La Coruna"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4481594",
     "odds": 2.53,
     "patternScore": 67.11,
-    "patternText": "297.865/443.877",
+    "patternText": "297.877/443.889",
     "aiScore": 51,
     "picks": 12
   },
@@ -285,7 +285,7 @@
       "matchCode": "4481594",
       "odds": 2.53,
       "patternScore": 67.11,
-      "patternText": "297.865/443.877",
+      "patternText": "297.877/443.889",
       "aiScore": 51,
       "picks": 12
     },
@@ -309,7 +309,7 @@
       "matchCode": "4475159",
       "odds": 1.6,
       "patternScore": 68.38,
-      "patternText": "213.660/312.458",
+      "patternText": "213.664/312.462",
       "aiScore": 56,
       "picks": 5
     },
@@ -321,7 +321,7 @@
       "matchCode": "4490462",
       "odds": 1.54,
       "patternScore": 68.86,
-      "patternText": "236.151/342.944",
+      "patternText": "236.155/342.948",
       "aiScore": 55,
       "picks": 2
     },
@@ -333,7 +333,7 @@
       "matchCode": "4482352",
       "odds": 1.49,
       "patternScore": 67.3,
-      "patternText": "303.883/451.568",
+      "patternText": "303.895/451.580",
       "aiScore": 55,
       "picks": 4
     }
