@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 01:07",
+  "updatedAt": "21.11.2026 01:16",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3335,
-    "analyses30d": 17001
+    "analyses24h": 3333,
+    "analyses30d": 16999
   },
   "recentWins": [
     {
@@ -241,12 +241,6 @@
     },
     {
       "type": "updated",
-      "at": "20.11.2026 19:07",
-      "home": "Velez Sarsfiel",
-      "away": "Club Atletico Belgrano"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 00:23",
       "home": "Club Puebla",
       "away": "Atletico San Luis"
@@ -262,6 +256,12 @@
       "at": "20.11.2026 22:14",
       "home": "Auckland",
       "away": "Melbourne Victory"
+    },
+    {
+      "type": "updated",
+      "at": "20.11.2026 23:13",
+      "home": "FC Machida Zelvia",
+      "away": "V-Varen Nagasaki"
     }
   ],
   "today": {
@@ -290,18 +290,6 @@
       "picks": 4
     },
     {
-      "home": "FC Juarez",
-      "away": "Atlas FC",
-      "league": "MEK",
-      "date": "21.11.2026 03:00",
-      "matchCode": "4476496",
-      "odds": 1.43,
-      "patternScore": 67.53,
-      "patternText": "266.308/394.328",
-      "aiScore": 56,
-      "picks": 4
-    },
-    {
       "home": "Suwon Samsung Bluewings",
       "away": "Gyeongnam",
       "league": "GKOR2",
@@ -312,6 +300,18 @@
       "patternText": "285.036/418.968",
       "aiScore": 56,
       "picks": 2
+    },
+    {
+      "home": "FC Juarez",
+      "away": "Atlas FC",
+      "league": "MEK",
+      "date": "21.11.2026 03:00",
+      "matchCode": "4476496",
+      "odds": 1.36,
+      "patternScore": 68.18,
+      "patternText": "208.424/305.682",
+      "aiScore": 64,
+      "picks": 3
     },
     {
       "home": "FC Machida Zelvia",
