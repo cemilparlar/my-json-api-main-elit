@@ -5280,36 +5280,6 @@
         "aiScore": 72
     },
     {
-        "date": "21.11.2026 06:30",
-        "league": "RUS1",
-        "matchCode": "4498121",
-        "home": "Yenisey Krasnoyarsk",
-        "away": "FC Volga Ulyanovsk",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "72.89",
-        "odds": "1.08",
-        "matchCount": "273",
-        "matchLink": "4498121",
-        "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "47/258",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "21.11.2026 02:26",
-        "patternScore": 69.87,
-        "patternText": "283.105/405.174",
-        "patternInfo": {
-            "m": 48,
-            "s": 5,
-            "f": 4,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 86
-    },
-    {
         "date": "21.11.2026 07:00",
         "league": "JAP",
         "matchCode": "4487273",
@@ -8427,7 +8397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "21.11.2026 15:00",
@@ -23517,7 +23487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "22.11.2026 14:00",
@@ -23817,7 +23787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 70
+        "aiScore": 69
     },
     {
         "date": "22.11.2026 14:00",
@@ -31587,7 +31557,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "22.11.2026 16:00",
@@ -36237,7 +36207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 79
     },
     {
         "date": "22.11.2026 17:00",
@@ -39057,7 +39027,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "20.11.2026 13:00",
@@ -46527,7 +46497,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "20.11.2026 19:45",
@@ -48837,7 +48807,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "21.11.2026 03:00",
@@ -49558,5 +49528,65 @@
             "b": 100.0
         },
         "aiScore": 97
+    },
+    {
+        "date": "21.11.2026 06:30",
+        "league": "RUS1",
+        "matchCode": "4498121",
+        "home": "Yenisey Krasnoyarsk",
+        "away": "FC Volga Ulyanovsk",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "70.16",
+        "odds": "1.13",
+        "matchCount": "258",
+        "matchLink": "4498121",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "47/258",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 02:26",
+        "patternScore": 70.26,
+        "patternText": "333.553/474.768",
+        "patternInfo": {
+            "m": 58,
+            "s": 13,
+            "f": 8,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 80
+    },
+    {
+        "date": "21.11.2026 06:30",
+        "league": "RUS1",
+        "matchCode": "4498121",
+        "home": "Yenisey Krasnoyarsk",
+        "away": "FC Volga Ulyanovsk",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 1X",
+        "ihtimal": "73.64",
+        "odds": "1.07",
+        "matchCount": "258",
+        "matchLink": "4498121",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "47/258",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "21.11.2026 02:26",
+        "patternScore": 69.85,
+        "patternText": "279.947/400.774",
+        "patternInfo": {
+            "m": 48,
+            "s": 5,
+            "f": 4,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 88
     }
 ]
