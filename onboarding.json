@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 08:09",
+  "updatedAt": "21.11.2026 08:21",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 734,
       "rate": 71.7
     },
-    "totalAnalyses": 769227,
-    "leagues": 291,
+    "totalAnalyses": 769251,
+    "leagues": 292,
     "pro": {
       "won": 754,
       "lost": 270,
@@ -47,8 +47,8 @@
       "total": 3,
       "rate": 66.7
     },
-    "analyses24h": 3522,
-    "analyses30d": 17176
+    "analyses24h": 3533,
+    "analyses30d": 17187
   },
   "recentWins": [
     {
@@ -271,8 +271,8 @@
     "date": "21.11.2026 14:00",
     "matchCode": "4475154",
     "odds": 5.32,
-    "patternScore": 67.17,
-    "patternText": "224.709/334.552",
+    "patternScore": 67.16,
+    "patternText": "224.797/334.696",
     "aiScore": 50,
     "picks": 7
   },
@@ -284,8 +284,8 @@
       "date": "21.11.2026 14:00",
       "matchCode": "4475154",
       "odds": 5.32,
-      "patternScore": 67.17,
-      "patternText": "224.709/334.552",
+      "patternScore": 67.16,
+      "patternText": "224.797/334.696",
       "aiScore": 50,
       "picks": 7
     },
@@ -297,7 +297,7 @@
       "matchCode": "4489424",
       "odds": 1.94,
       "patternScore": 66.84,
-      "patternText": "208.007/311.208",
+      "patternText": "208.095/311.352",
       "aiScore": 52,
       "picks": 8
     },
@@ -309,9 +309,21 @@
       "matchCode": "4534796",
       "odds": 1.67,
       "patternScore": 67.65,
-      "patternText": "318.436/470.684",
+      "patternText": "318.480/470.752",
       "aiScore": 52,
       "picks": 7
+    },
+    {
+      "home": "Khorfakkan Clu",
+      "away": "Al Jazira Club",
+      "league": "BAE",
+      "date": "21.11.2026 12:45",
+      "matchCode": "4576073",
+      "odds": 1.59,
+      "patternScore": 68.35,
+      "patternText": "190.899/279.285",
+      "aiScore": 55,
+      "picks": 2
     },
     {
       "home": "Nuremberg",
@@ -321,21 +333,9 @@
       "matchCode": "4495842",
       "odds": 1.49,
       "patternScore": 67.55,
-      "patternText": "332.225/491.789",
+      "patternText": "332.289/491.885",
       "aiScore": 54,
       "picks": 5
-    },
-    {
-      "home": "TSG Hoffenheim II",
-      "away": "Preussen Munster",
-      "league": "AL3",
-      "date": "21.11.2026 13:00",
-      "matchCode": "4517727",
-      "odds": 1.47,
-      "patternScore": 67.57,
-      "patternText": "323.671/479.030",
-      "aiScore": 55,
-      "picks": 7
     }
   ],
   "recentAnalyzed": [
