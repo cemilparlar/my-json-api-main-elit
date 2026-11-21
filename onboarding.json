@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 20:53",
+  "updatedAt": "21.11.2026 21:01",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 942,
-      "lost": 413,
-      "total": 1355,
-      "rate": 69.5
+      "won": 946,
+      "lost": 417,
+      "total": 1363,
+      "rate": 69.4
     },
     "totalAnalyses": 772190,
     "leagues": 289,
     "pro": {
-      "won": 935,
-      "lost": 338,
-      "total": 1273,
+      "won": 940,
+      "lost": 341,
+      "total": 1281,
       "rate": 73.4
     },
     "insights": {
-      "won": 1623,
-      "lost": 660,
-      "total": 2283,
-      "rate": 71.1
+      "won": 1629,
+      "lost": 664,
+      "total": 2293,
+      "rate": 71.0
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3132,
-    "analyses30d": 17086
+    "analyses24h": 3130,
+    "analyses30d": 17085
   },
   "recentWins": [
     {
@@ -219,6 +219,12 @@
       "type": "coupon",
       "size": 3,
       "odds": 1.52,
+      "at": "21.11.2026 21:01"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.52,
       "at": "21.11.2026 19:04"
     },
     {
@@ -226,18 +232,6 @@
       "size": 3,
       "odds": 1.5,
       "at": "21.11.2026 18:10"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 14:55",
-      "home": "Naft Maysan",
-      "away": "FC Mosul"
-    },
-    {
-      "type": "updated",
-      "at": "21.11.2026 14:53",
-      "home": "Fc Eindhoven",
-      "away": "RKC Waalwijk"
     },
     {
       "type": "updated",
@@ -262,6 +256,12 @@
       "at": "21.11.2026 15:47",
       "home": "Birzebbuga",
       "away": "Birkirkara"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 15:52",
+      "home": "Crotone",
+      "away": "Cosenza Calcio"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4579789",
     "odds": 2.06,
     "patternScore": 67.1,
-    "patternText": "166.887/248.726",
+    "patternText": "166.895/248.734",
     "aiScore": 52,
     "picks": 10
   },
@@ -285,7 +285,7 @@
       "matchCode": "4579789",
       "odds": 2.06,
       "patternScore": 67.1,
-      "patternText": "166.887/248.726",
+      "patternText": "166.895/248.734",
       "aiScore": 52,
       "picks": 10
     },
@@ -297,7 +297,7 @@
       "matchCode": "4476498",
       "odds": 1.87,
       "patternScore": 66.98,
-      "patternText": "160.969/240.328",
+      "patternText": "160.973/240.332",
       "aiScore": 53,
       "picks": 3
     },
@@ -309,21 +309,9 @@
       "matchCode": "4423388",
       "odds": 1.6,
       "patternScore": 65.18,
-      "patternText": "297.292/456.092",
+      "patternText": "297.294/456.098",
       "aiScore": 55,
       "picks": 3
-    },
-    {
-      "home": "Deportivo Tachira",
-      "away": "Caracas FC",
-      "league": "VEN",
-      "date": "21.11.2026 21:30",
-      "matchCode": "4576832",
-      "odds": 1.29,
-      "patternScore": 68.13,
-      "patternText": "234.160/343.721",
-      "aiScore": 60,
-      "picks": 2
     },
     {
       "home": "San Marcos",
@@ -333,9 +321,21 @@
       "matchCode": "4581035",
       "odds": 1.26,
       "patternScore": 68.26,
-      "patternText": "221.611/324.653",
+      "patternText": "221.613/324.659",
       "aiScore": 58,
       "picks": 1
+    },
+    {
+      "home": "Pumas UNAM",
+      "away": "CF Monterrey",
+      "league": "MEK",
+      "date": "22.11.2026 01:00",
+      "matchCode": "4476500",
+      "odds": 1.21,
+      "patternScore": 69.58,
+      "patternText": "177.333/254.874",
+      "aiScore": 74,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
