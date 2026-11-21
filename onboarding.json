@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "21.11.2026 18:47",
+  "updatedAt": "21.11.2026 18:56",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 968,
-      "lost": 431,
-      "total": 1399,
-      "rate": 69.2
+      "won": 990,
+      "lost": 438,
+      "total": 1428,
+      "rate": 69.3
     },
-    "totalAnalyses": 771917,
+    "totalAnalyses": 771918,
     "leagues": 290,
     "pro": {
-      "won": 919,
-      "lost": 328,
-      "total": 1247,
-      "rate": 73.7
+      "won": 928,
+      "lost": 330,
+      "total": 1258,
+      "rate": 73.8
     },
     "insights": {
-      "won": 1581,
-      "lost": 649,
-      "total": 2230,
+      "won": 1593,
+      "lost": 653,
+      "total": 2246,
       "rate": 70.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 4,
       "rate": 50.0
     },
-    "analyses24h": 3386,
-    "analyses30d": 17171
+    "analyses24h": 3381,
+    "analyses30d": 17166
   },
   "recentWins": [
     {
@@ -265,30 +265,18 @@
     }
   ],
   "today": {
-    "home": "Chapecoense AF",
-    "away": "Cruzeiro EC",
-    "league": "BR1",
-    "date": "22.11.2026 00:00",
-    "matchCode": "4423388",
-    "odds": 2.26,
-    "patternScore": 65.07,
-    "patternText": "301.814/463.848",
-    "aiScore": 52,
-    "picks": 7
+    "home": "Inter Miami CF",
+    "away": "Columbus Crew",
+    "league": "ABD",
+    "date": "21.11.2026 23:00",
+    "matchCode": "4579789",
+    "odds": 2.06,
+    "patternScore": 67.09,
+    "patternText": "166.749/248.534",
+    "aiScore": 53,
+    "picks": 10
   },
   "todayList": [
-    {
-      "home": "Chapecoense AF",
-      "away": "Cruzeiro EC",
-      "league": "BR1",
-      "date": "22.11.2026 00:00",
-      "matchCode": "4423388",
-      "odds": 2.26,
-      "patternScore": 65.07,
-      "patternText": "301.814/463.848",
-      "aiScore": 52,
-      "picks": 7
-    },
     {
       "home": "Inter Miami CF",
       "away": "Columbus Crew",
@@ -297,9 +285,21 @@
       "matchCode": "4579789",
       "odds": 2.06,
       "patternScore": 67.09,
-      "patternText": "166.749/248.532",
+      "patternText": "166.749/248.534",
       "aiScore": 53,
       "picks": 10
+    },
+    {
+      "home": "EC Bahia",
+      "away": "Coritiba FBC",
+      "league": "BR1",
+      "date": "21.11.2026 20:30",
+      "matchCode": "4423387",
+      "odds": 1.91,
+      "patternScore": 67.14,
+      "patternText": "275.024/409.629",
+      "aiScore": 52,
+      "picks": 5
     },
     {
       "home": "SC Telstar",
@@ -309,7 +309,7 @@
       "matchCode": "4481599",
       "odds": 1.89,
       "patternScore": 67.81,
-      "patternText": "279.875/412.711",
+      "patternText": "279.881/412.725",
       "aiScore": 53,
       "picks": 6
     },
@@ -321,24 +321,45 @@
       "matchCode": "4476498",
       "odds": 1.87,
       "patternScore": 66.98,
-      "patternText": "160.829/240.128",
+      "patternText": "160.829/240.130",
       "aiScore": 53,
       "picks": 3
     },
     {
-      "home": "SSC Napoli",
-      "away": "Torino FC",
-      "league": "İTA",
+      "home": "Zulte Waregem",
+      "away": "Royal Antwerp",
+      "league": "BEL",
       "date": "21.11.2026 19:45",
-      "matchCode": "4475159",
-      "odds": 1.57,
-      "patternScore": 67.62,
-      "patternText": "326.152/482.362",
-      "aiScore": 55,
+      "matchCode": "4480775",
+      "odds": 1.67,
+      "patternScore": 66.94,
+      "patternText": "310.374/463.659",
+      "aiScore": 53,
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "St Pauli",
+      "away": "Bochum",
+      "league": "AL2",
+      "at": "21.11.2026 18:55",
+      "count": 4
+    },
+    {
+      "home": "RC Strasbourg",
+      "away": "Stade Brest",
+      "league": "FR1",
+      "at": "21.11.2026 18:55",
+      "count": 7
+    },
+    {
+      "home": "SE Palmeiras",
+      "away": "CR Flamengo",
+      "league": "BR1",
+      "at": "21.11.2026 18:55",
+      "count": 5
+    },
     {
       "home": "Chapecoense AF",
       "away": "Cruzeiro EC",
@@ -382,32 +403,11 @@
       "count": 5
     },
     {
-      "home": "RC Strasbourg",
-      "away": "Stade Brest",
-      "league": "FR1",
-      "at": "21.11.2026 18:18",
-      "count": 6
-    },
-    {
       "home": "Stade de Reims",
       "away": "AS Saint-Etienne",
       "league": "FR2",
       "at": "21.11.2026 18:17",
       "count": 5
-    },
-    {
-      "home": "SC Telstar",
-      "away": "Zwolle",
-      "league": "HOL",
-      "at": "21.11.2026 18:02",
-      "count": 8
-    },
-    {
-      "home": "LOSC Lille",
-      "away": "Olympique Lyonnais",
-      "league": "FR1",
-      "at": "21.11.2026 18:00",
-      "count": 7
     }
   ],
   "paywall": {
