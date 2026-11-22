@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 16:23",
+  "updatedAt": "22.11.2026 16:32",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 727,
-      "lost": 330,
-      "total": 1057,
-      "rate": 68.8
+      "won": 706,
+      "lost": 322,
+      "total": 1028,
+      "rate": 68.7
     },
-    "totalAnalyses": 774890,
+    "totalAnalyses": 774915,
     "leagues": 289,
     "pro": {
       "won": 1235,
-      "lost": 462,
-      "total": 1697,
-      "rate": 72.8
+      "lost": 459,
+      "total": 1694,
+      "rate": 72.9
     },
     "insights": {
-      "won": 2117,
-      "lost": 878,
-      "total": 2995,
+      "won": 2115,
+      "lost": 875,
+      "total": 2990,
       "rate": 70.7
     },
     "coupons": {
@@ -47,7 +47,7 @@
       "total": 14,
       "rate": 28.6
     },
-    "analyses24h": 1907,
+    "analyses24h": 1864,
     "analyses30d": 17205
   },
   "recentWins": [
@@ -293,33 +293,33 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 10:27",
-      "home": "Bangkok United",
-      "away": "Ayutthaya United"
+      "at": "22.11.2026 11:06",
+      "home": "Phrae United",
+      "away": "Nong Bua Pitcha"
     },
     {
       "type": "updated",
-      "at": "22.11.2026 10:28",
-      "home": "Nakhon Ratchasima FC",
-      "away": "Khonkaen Utd"
+      "at": "22.11.2026 11:05",
+      "home": "FK Pardubice",
+      "away": "FC Zbrojovka Brno"
     },
     {
       "type": "updated",
-      "at": "22.11.2026 10:25",
-      "home": "SHB Da Nang",
-      "away": "Phu Dong FC"
+      "at": "22.11.2026 11:05",
+      "home": "Burnley",
+      "away": "Blackburn"
     },
     {
       "type": "updated",
-      "at": "22.11.2026 10:26",
-      "home": "Arenas De Getx",
-      "away": "Real Aviles"
+      "at": "22.11.2026 11:06",
+      "home": "Szentlorinc Se",
+      "away": "Kecskemeti"
     },
     {
       "type": "updated",
-      "at": "22.11.2026 10:25",
-      "home": "AD Alcorcon",
-      "away": "Algeciras CF"
+      "at": "22.11.2026 11:51",
+      "home": "FC Montana",
+      "away": "FC Dobrudzha"
     }
   ],
   "today": {
@@ -330,7 +330,7 @@
     "matchCode": "4580870",
     "odds": 3.71,
     "patternScore": 67.01,
-    "patternText": "184.839/275.853",
+    "patternText": "184.843/275.857",
     "aiScore": 50,
     "picks": 8
   },
@@ -343,7 +343,7 @@
       "matchCode": "4580870",
       "odds": 3.71,
       "patternScore": 67.01,
-      "patternText": "184.839/275.853",
+      "patternText": "184.843/275.857",
       "aiScore": 50,
       "picks": 8
     },
@@ -355,7 +355,7 @@
       "matchCode": "4423386",
       "odds": 2.35,
       "patternScore": 67.49,
-      "patternText": "260.977/386.711",
+      "patternText": "260.989/386.723",
       "aiScore": 51,
       "picks": 7
     },
@@ -367,7 +367,7 @@
       "matchCode": "4476597",
       "odds": 1.74,
       "patternScore": 66.84,
-      "patternText": "186.609/279.189",
+      "patternText": "186.613/279.193",
       "aiScore": 52,
       "picks": 5
     },
@@ -379,24 +379,45 @@
       "matchCode": "4540174",
       "odds": 1.55,
       "patternScore": 67.66,
-      "patternText": "253.074/374.022",
+      "patternText": "253.086/374.034",
       "aiScore": 55,
       "picks": 1
     },
     {
-      "home": "FC Nordsjaelland",
-      "away": "FC Copenhagen",
-      "league": "DAN",
-      "date": "22.11.2026 17:00",
-      "matchCode": "4474527",
-      "odds": 1.47,
-      "patternScore": 67.43,
-      "patternText": "266.650/395.454",
-      "aiScore": 53,
-      "picks": 5
+      "home": "RSC Anderlecht",
+      "away": "OH Leuven",
+      "league": "BEL",
+      "date": "22.11.2026 17:30",
+      "matchCode": "4480772",
+      "odds": 1.45,
+      "patternScore": 66.71,
+      "patternText": "207.139/310.524",
+      "aiScore": 58,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Marseille",
+      "away": "Le Mans FC",
+      "league": "FR1",
+      "at": "22.11.2026 16:30",
+      "count": 7
+    },
+    {
+      "home": "CA Osasuna",
+      "away": "Malaga CF",
+      "league": "İS1",
+      "at": "22.11.2026 16:29",
+      "count": 6
+    },
+    {
+      "home": "AC Milan",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "at": "22.11.2026 16:28",
+      "count": 7
+    },
     {
       "home": "Atalanta",
       "away": "Inter",
@@ -405,32 +426,11 @@
       "count": 6
     },
     {
-      "home": "Marseille",
-      "away": "Le Mans FC",
-      "league": "FR1",
-      "at": "22.11.2026 16:11",
-      "count": 6
-    },
-    {
       "home": "RSC Anderlecht",
       "away": "OH Leuven",
       "league": "BEL",
       "at": "22.11.2026 16:10",
       "count": 6
-    },
-    {
-      "home": "CA Osasuna",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "22.11.2026 16:10",
-      "count": 4
-    },
-    {
-      "home": "AC Milan",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "22.11.2026 16:08",
-      "count": 9
     },
     {
       "home": "Fluminense FC",
