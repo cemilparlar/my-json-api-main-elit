@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 17:07",
+  "updatedAt": "22.11.2026 17:15",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 673,
-      "lost": 316,
-      "total": 989,
-      "rate": 68.0
+      "won": 704,
+      "lost": 327,
+      "total": 1031,
+      "rate": 68.3
     },
-    "totalAnalyses": 774940,
+    "totalAnalyses": 774947,
     "leagues": 289,
     "pro": {
-      "won": 1243,
-      "lost": 460,
-      "total": 1703,
+      "won": 1260,
+      "lost": 465,
+      "total": 1725,
       "rate": 73.0
     },
     "insights": {
-      "won": 2123,
-      "lost": 876,
-      "total": 2999,
-      "rate": 70.8
+      "won": 2145,
+      "lost": 882,
+      "total": 3027,
+      "rate": 70.9
     },
     "coupons": {
       "won": 4,
@@ -47,8 +47,8 @@
       "total": 14,
       "rate": 28.6
     },
-    "analyses24h": 1785,
-    "analyses30d": 17058
+    "analyses24h": 1780,
+    "analyses30d": 17065
   },
   "recentWins": [
     {
@@ -299,12 +299,6 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 11:07",
-      "home": "Kaiserslautern",
-      "away": "Dynamo Dresden"
-    },
-    {
-      "type": "updated",
       "at": "22.11.2026 11:52",
       "home": "IK Sirius",
       "away": "Djurgarden"
@@ -320,6 +314,12 @@
       "at": "22.11.2026 11:54",
       "home": "Wolfsberger AC",
       "away": "SV Ried"
+    },
+    {
+      "type": "updated",
+      "at": "22.11.2026 11:55",
+      "home": "Sparta Rotterdam",
+      "away": "AZ Alkmaar"
     }
   ],
   "today": {
@@ -330,7 +330,7 @@
     "matchCode": "4580870",
     "odds": 3.71,
     "patternScore": 67.01,
-    "patternText": "184.901/275.933",
+    "patternText": "185.047/276.141",
     "aiScore": 50,
     "picks": 8
   },
@@ -343,7 +343,7 @@
       "matchCode": "4580870",
       "odds": 3.71,
       "patternScore": 67.01,
-      "patternText": "184.901/275.933",
+      "patternText": "185.047/276.141",
       "aiScore": 50,
       "picks": 8
     },
@@ -354,22 +354,10 @@
       "date": "22.11.2026 19:00",
       "matchCode": "4423386",
       "odds": 2.35,
-      "patternScore": 67.49,
-      "patternText": "261.123/386.891",
+      "patternScore": 67.5,
+      "patternText": "261.261/387.067",
       "aiScore": 51,
       "picks": 7
-    },
-    {
-      "home": "Marseille",
-      "away": "Le Mans FC",
-      "league": "FR1",
-      "date": "22.11.2026 19:45",
-      "matchCode": "4476597",
-      "odds": 1.97,
-      "patternScore": 66.66,
-      "patternText": "187.605/281.439",
-      "aiScore": 52,
-      "picks": 6
     },
     {
       "home": "River Plate",
@@ -379,9 +367,21 @@
       "matchCode": "4580871",
       "odds": 1.45,
       "patternScore": 67.0,
-      "patternText": "126.054/188.148",
+      "patternText": "126.110/188.232",
       "aiScore": 56,
       "picks": 6
+    },
+    {
+      "home": "Marseille",
+      "away": "Le Mans FC",
+      "league": "FR1",
+      "date": "22.11.2026 19:45",
+      "matchCode": "4476597",
+      "odds": 1.36,
+      "patternScore": 66.67,
+      "patternText": "197.456/296.171",
+      "aiScore": 56,
+      "picks": 2
     },
     {
       "home": "Red Bull Bragantino",
@@ -390,13 +390,20 @@
       "date": "22.11.2026 22:30",
       "matchCode": "4423383",
       "odds": 1.34,
-      "patternScore": 68.7,
-      "patternText": "214.085/311.608",
+      "patternScore": 68.71,
+      "patternText": "214.129/311.660",
       "aiScore": 60,
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Chicago Fire",
+      "away": "Charlotte FC",
+      "league": "ABD",
+      "at": "22.11.2026 17:15",
+      "count": 5
+    },
     {
       "home": "Marseille",
       "away": "Le Mans FC",
@@ -459,13 +466,6 @@
       "league": "AL1",
       "at": "22.11.2026 15:49",
       "count": 5
-    },
-    {
-      "home": "Liverpool",
-      "away": "Manchester United",
-      "league": "İNP",
-      "at": "22.11.2026 15:49",
-      "count": 9
     }
   ],
   "paywall": {
