@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 17:32",
+  "updatedAt": "22.11.2026 17:40",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 670,
-      "lost": 324,
-      "total": 994,
-      "rate": 67.4
+      "won": 686,
+      "lost": 343,
+      "total": 1029,
+      "rate": 66.7
     },
-    "totalAnalyses": 774965,
+    "totalAnalyses": 774988,
     "leagues": 289,
     "pro": {
-      "won": 1259,
-      "lost": 466,
-      "total": 1725,
-      "rate": 73.0
+      "won": 1263,
+      "lost": 473,
+      "total": 1736,
+      "rate": 72.8
     },
     "insights": {
-      "won": 2142,
-      "lost": 881,
-      "total": 3023,
-      "rate": 70.9
+      "won": 2156,
+      "lost": 891,
+      "total": 3047,
+      "rate": 70.8
     },
     "coupons": {
       "won": 4,
@@ -47,8 +47,8 @@
       "total": 14,
       "rate": 28.6
     },
-    "analyses24h": 1747,
-    "analyses30d": 17073
+    "analyses24h": 1745,
+    "analyses30d": 17071
   },
   "recentWins": [
     {
@@ -330,7 +330,7 @@
     "matchCode": "4580870",
     "odds": 3.71,
     "patternScore": 67.01,
-    "patternText": "185.067/276.167",
+    "patternText": "185.069/276.193",
     "aiScore": 50,
     "picks": 8
   },
@@ -343,7 +343,7 @@
       "matchCode": "4580870",
       "odds": 3.71,
       "patternScore": 67.01,
-      "patternText": "185.067/276.167",
+      "patternText": "185.069/276.193",
       "aiScore": 50,
       "picks": 8
     },
@@ -354,10 +354,22 @@
       "date": "22.11.2026 19:00",
       "matchCode": "4423386",
       "odds": 2.35,
-      "patternScore": 67.5,
-      "patternText": "261.269/387.077",
+      "patternScore": 67.49,
+      "patternText": "261.271/387.103",
       "aiScore": 51,
       "picks": 7
+    },
+    {
+      "home": "Club Deportivo Guadalajara",
+      "away": "Cruz Azul",
+      "league": "MEK",
+      "date": "22.11.2026 23:07",
+      "matchCode": "4476502",
+      "odds": 1.9,
+      "patternScore": 67.05,
+      "patternText": "125.262/186.828",
+      "aiScore": 52,
+      "picks": 5
     },
     {
       "home": "River Plate",
@@ -379,21 +391,9 @@
       "matchCode": "4476597",
       "odds": 1.36,
       "patternScore": 66.67,
-      "patternText": "197.476/296.197",
+      "patternText": "197.478/296.223",
       "aiScore": 56,
       "picks": 2
-    },
-    {
-      "home": "Red Bull Bragantino",
-      "away": "Club de Regatas Vasco da Gama",
-      "league": "BR1",
-      "date": "22.11.2026 22:30",
-      "matchCode": "4423383",
-      "odds": 1.34,
-      "patternScore": 68.71,
-      "patternText": "214.131/311.662",
-      "aiScore": 60,
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
