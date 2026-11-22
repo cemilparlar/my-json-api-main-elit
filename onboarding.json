@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 08:43",
+  "updatedAt": "22.11.2026 08:52",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1153,
+      "won": 1158,
       "lost": 507,
-      "total": 1660,
+      "total": 1665,
       "rate": 69.5
     },
-    "totalAnalyses": 773453,
+    "totalAnalyses": 773455,
     "leagues": 289,
     "pro": {
-      "won": 1108,
+      "won": 1110,
       "lost": 411,
-      "total": 1519,
-      "rate": 72.9
+      "total": 1521,
+      "rate": 73.0
     },
     "insights": {
-      "won": 1896,
+      "won": 1899,
       "lost": 776,
-      "total": 2672,
+      "total": 2675,
       "rate": 71.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3131,
-    "analyses30d": 17235
+    "analyses24h": 3128,
+    "analyses30d": 17232
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     "matchCode": "4485920",
     "odds": 1.93,
     "patternScore": 68.14,
-    "patternText": "255.666/375.192",
+    "patternText": "255.672/375.206",
     "aiScore": 53,
     "picks": 5
   },
@@ -314,7 +314,7 @@
       "matchCode": "4485920",
       "odds": 1.93,
       "patternScore": 68.14,
-      "patternText": "255.666/375.192",
+      "patternText": "255.672/375.206",
       "aiScore": 53,
       "picks": 5
     },
@@ -331,6 +331,18 @@
       "picks": 7
     },
     {
+      "home": "FC Augsburg",
+      "away": "FSV Mainz 05",
+      "league": "AL1",
+      "date": "22.11.2026 14:30",
+      "matchCode": "4495515",
+      "odds": 1.54,
+      "patternScore": 67.0,
+      "patternText": "213.795/319.105",
+      "aiScore": 54,
+      "picks": 7
+    },
+    {
       "home": "Konyaspor",
       "away": "Besiktas",
       "league": "TSL",
@@ -338,7 +350,7 @@
       "matchCode": "4542757",
       "odds": 1.51,
       "patternScore": 67.45,
-      "patternText": "270.238/400.640",
+      "patternText": "270.244/400.658",
       "aiScore": 55,
       "picks": 5
     },
@@ -350,21 +362,9 @@
       "matchCode": "4505094",
       "odds": 1.5,
       "patternScore": 67.74,
-      "patternText": "164.538/242.908",
+      "patternText": "164.544/242.922",
       "aiScore": 54,
       "picks": 3
-    },
-    {
-      "home": "FC Biel-Bienne",
-      "away": "AC Bellinzona",
-      "league": "İSV1Y",
-      "date": "22.11.2026 14:00",
-      "matchCode": "4511529",
-      "odds": 1.49,
-      "patternScore": 68.61,
-      "patternText": "280.240/408.460",
-      "aiScore": 55,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
