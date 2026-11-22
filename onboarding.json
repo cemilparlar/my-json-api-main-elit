@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 11:26",
+  "updatedAt": "22.11.2026 11:37",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1129,
-      "lost": 504,
-      "total": 1633,
+      "won": 1123,
+      "lost": 503,
+      "total": 1626,
       "rate": 69.1
     },
-    "totalAnalyses": 773848,
+    "totalAnalyses": 773894,
     "leagues": 289,
     "pro": {
-      "won": 1114,
-      "lost": 407,
-      "total": 1521,
+      "won": 1110,
+      "lost": 406,
+      "total": 1516,
       "rate": 73.2
     },
     "insights": {
-      "won": 1905,
-      "lost": 768,
-      "total": 2673,
-      "rate": 71.3
+      "won": 1898,
+      "lost": 767,
+      "total": 2665,
+      "rate": 71.2
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3076,
-    "analyses30d": 17290
+    "analyses24h": 3066,
+    "analyses30d": 17295
   },
   "recentWins": [
     {
@@ -288,9 +288,9 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 05:28",
-      "home": "Real Sociedad",
-      "away": "Sevilla Women"
+      "at": "22.11.2026 10:28",
+      "home": "Nakhon Ratchasima FC",
+      "away": "Khonkaen Utd"
     }
   ],
   "today": {
@@ -331,18 +331,6 @@
       "picks": 4
     },
     {
-      "home": "Szentlorinc Se",
-      "away": "Kecskemeti",
-      "league": "MAC2",
-      "date": "22.11.2026 12:00",
-      "matchCode": "4503648",
-      "odds": 1.6,
-      "patternScore": 66.63,
-      "patternText": "184.666/277.138",
-      "aiScore": 54,
-      "picks": 1
-    },
-    {
       "home": "Liverpool",
       "away": "Manchester United",
       "league": "İNP",
@@ -355,19 +343,38 @@
       "picks": 3
     },
     {
-      "home": "FC Augsburg",
-      "away": "FSV Mainz 05",
-      "league": "AL1",
-      "date": "22.11.2026 14:30",
-      "matchCode": "4495515",
-      "odds": 1.54,
-      "patternScore": 67.0,
-      "patternText": "213.861/319.183",
+      "home": "FC Nordsjaelland",
+      "away": "FC Copenhagen",
+      "league": "DAN",
+      "date": "22.11.2026 17:00",
+      "matchCode": "4474527",
+      "odds": 1.52,
+      "patternScore": 67.48,
+      "patternText": "174.902/259.202",
       "aiScore": 54,
       "picks": 7
+    },
+    {
+      "home": "Konyaspor",
+      "away": "Besiktas",
+      "league": "TSL",
+      "date": "22.11.2026 13:00",
+      "matchCode": "4542757",
+      "odds": 1.51,
+      "patternScore": 67.46,
+      "patternText": "270.370/400.810",
+      "aiScore": 55,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Go Ahead Eagles",
+      "away": "Fortuna Sittard",
+      "league": "HOL",
+      "at": "22.11.2026 11:33",
+      "count": 8
+    },
     {
       "home": "Racing Santander",
       "away": "Real Sociedad",
@@ -430,13 +437,6 @@
       "league": "T1L",
       "at": "22.11.2026 10:41",
       "count": 2
-    },
-    {
-      "home": "Cordoba CF",
-      "away": "Real Oviedo",
-      "league": "İS2",
-      "at": "22.11.2026 10:40",
-      "count": 7
     }
   ],
   "paywall": {
