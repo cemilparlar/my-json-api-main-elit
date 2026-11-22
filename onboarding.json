@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 23:22",
+  "updatedAt": "22.11.2026 23:30",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1507,
-    "analyses30d": 16997
+    "analyses24h": 1504,
+    "analyses30d": 17000
   },
   "recentWins": [
     {
@@ -305,21 +305,21 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 17:25",
-      "home": "Sporting Cristal",
-      "away": "Cienciano"
-    },
-    {
-      "type": "updated",
-      "at": "22.11.2026 17:25",
-      "home": "Sport Huancayo",
-      "away": "Universitario de Deportes"
-    },
-    {
-      "type": "updated",
       "at": "22.11.2026 20:11",
       "home": "The Strongest",
       "away": "Blooming"
+    },
+    {
+      "type": "updated",
+      "at": "22.11.2026 23:28",
+      "home": "Gimnasia Y Tir",
+      "away": "Tristan"
+    },
+    {
+      "type": "updated",
+      "at": "22.11.2026 23:29",
+      "home": "Deportivo Diriangen",
+      "away": "Managua FC"
     }
   ],
   "today": {
@@ -330,7 +330,7 @@
     "matchCode": "4488326",
     "odds": 1.56,
     "patternScore": 68.18,
-    "patternText": "181.012/265.492",
+    "patternText": "181.018/265.498",
     "aiScore": 54,
     "picks": 2
   },
@@ -343,7 +343,7 @@
       "matchCode": "4488326",
       "odds": 1.56,
       "patternScore": 68.18,
-      "patternText": "181.012/265.492",
+      "patternText": "181.018/265.498",
       "aiScore": 54,
       "picks": 2
     },
@@ -355,21 +355,9 @@
       "matchCode": "4580872",
       "odds": 1.39,
       "patternScore": 68.0,
-      "patternText": "135.413/199.133",
+      "patternText": "135.415/199.135",
       "aiScore": 65,
       "picks": 3
-    },
-    {
-      "home": "Gimnasia Y Tir",
-      "away": "Tristan",
-      "league": "ARJPBN",
-      "date": "23.11.2026 00:00",
-      "matchCode": "4581048",
-      "odds": 1.23,
-      "patternScore": 70.26,
-      "patternText": "240.175/341.826",
-      "aiScore": 69,
-      "picks": 2
     },
     {
       "home": "Deportivo Marquense",
@@ -379,7 +367,7 @@
       "matchCode": "4490463",
       "odds": 1.22,
       "patternScore": 69.01,
-      "patternText": "186.112/269.678",
+      "patternText": "186.126/269.692",
       "aiScore": 65,
       "picks": 2
     },
@@ -391,9 +379,21 @@
       "matchCode": "4476503",
       "odds": 1.16,
       "patternScore": 69.28,
-      "patternText": "216.996/313.222",
+      "patternText": "217.002/313.228",
       "aiScore": 86,
       "picks": 3
+    },
+    {
+      "home": "Deportivo Diriangen",
+      "away": "Managua FC",
+      "league": "NİK",
+      "date": "23.11.2026 01:00",
+      "matchCode": "4581037",
+      "odds": 1.15,
+      "patternScore": 69.98,
+      "patternText": "198.354/283.432",
+      "aiScore": 83,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
