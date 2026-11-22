@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 13:32",
+  "updatedAt": "22.11.2026 13:44",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 949,
-      "lost": 419,
-      "total": 1368,
-      "rate": 69.4
+      "won": 968,
+      "lost": 437,
+      "total": 1405,
+      "rate": 68.9
     },
-    "totalAnalyses": 774398,
+    "totalAnalyses": 774454,
     "leagues": 289,
     "pro": {
-      "won": 1134,
-      "lost": 421,
-      "total": 1555,
+      "won": 1140,
+      "lost": 423,
+      "total": 1563,
       "rate": 72.9
     },
     "insights": {
-      "won": 1935,
-      "lost": 794,
-      "total": 2729,
-      "rate": 70.9
+      "won": 1953,
+      "lost": 811,
+      "total": 2764,
+      "rate": 70.7
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 11,
       "rate": 27.3
     },
-    "analyses24h": 2616,
-    "analyses30d": 17230
+    "analyses24h": 2610,
+    "analyses30d": 17220
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     "matchCode": "4580870",
     "odds": 3.71,
     "patternScore": 67.01,
-    "patternText": "183.811/274.297",
+    "patternText": "183.849/274.351",
     "aiScore": 50,
     "picks": 8
   },
@@ -314,7 +314,7 @@
       "matchCode": "4580870",
       "odds": 3.71,
       "patternScore": 67.01,
-      "patternText": "183.811/274.297",
+      "patternText": "183.849/274.351",
       "aiScore": 50,
       "picks": 8
     },
@@ -326,7 +326,7 @@
       "matchCode": "4423386",
       "odds": 2.35,
       "patternScore": 67.48,
-      "patternText": "259.525/384.575",
+      "patternText": "259.563/384.633",
       "aiScore": 51,
       "picks": 7
     },
@@ -338,21 +338,9 @@
       "matchCode": "4484229",
       "odds": 1.61,
       "patternScore": 68.85,
-      "patternText": "176.724/256.677",
+      "patternText": "176.746/256.711",
       "aiScore": 55,
       "picks": 3
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "FSV Mainz 05",
-      "league": "AL1",
-      "date": "22.11.2026 14:30",
-      "matchCode": "4495515",
-      "odds": 1.53,
-      "patternScore": 67.65,
-      "patternText": "312.204/461.523",
-      "aiScore": 54,
-      "picks": 8
     },
     {
       "home": "IF Brommapojkarna",
@@ -362,9 +350,21 @@
       "matchCode": "4426822",
       "odds": 1.48,
       "patternScore": 67.13,
-      "patternText": "287.340/428.038",
-      "aiScore": 55,
+      "patternText": "287.422/428.148",
+      "aiScore": 54,
       "picks": 6
+    },
+    {
+      "home": "FC Nordsjaelland",
+      "away": "FC Copenhagen",
+      "league": "DAN",
+      "date": "22.11.2026 17:00",
+      "matchCode": "4474527",
+      "odds": 1.47,
+      "patternScore": 67.43,
+      "patternText": "265.392/393.588",
+      "aiScore": 54,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
