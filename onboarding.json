@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 08:13",
+  "updatedAt": "22.11.2026 08:24",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1147,
-      "lost": 503,
-      "total": 1650,
+      "won": 1148,
+      "lost": 504,
+      "total": 1652,
       "rate": 69.5
     },
-    "totalAnalyses": 773325,
+    "totalAnalyses": 773343,
     "leagues": 289,
     "pro": {
-      "won": 1106,
+      "won": 1107,
       "lost": 411,
-      "total": 1517,
+      "total": 1518,
       "rate": 72.9
     },
     "insights": {
-      "won": 1892,
+      "won": 1893,
       "lost": 771,
-      "total": 2663,
-      "rate": 71.0
+      "total": 2664,
+      "rate": 71.1
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3131,
-    "analyses30d": 17231
+    "analyses24h": 3127,
+    "analyses30d": 17227
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     "matchCode": "4485920",
     "odds": 1.93,
     "patternScore": 68.14,
-    "patternText": "255.660/375.184",
+    "patternText": "255.662/375.186",
     "aiScore": 53,
     "picks": 5
   },
@@ -314,7 +314,7 @@
       "matchCode": "4485920",
       "odds": 1.93,
       "patternScore": 68.14,
-      "patternText": "255.660/375.184",
+      "patternText": "255.662/375.186",
       "aiScore": 53,
       "picks": 5
     },
@@ -362,12 +362,26 @@
       "matchCode": "4581468",
       "odds": 1.48,
       "patternScore": 67.15,
-      "patternText": "289.177/430.649",
+      "patternText": "289.179/430.651",
       "aiScore": 56,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Konyaspor",
+      "away": "Besiktas",
+      "league": "TSL",
+      "at": "22.11.2026 08:18",
+      "count": 7
+    },
+    {
+      "home": "Juventus",
+      "away": "Unione V.",
+      "league": "İTA",
+      "at": "22.11.2026 08:15",
+      "count": 4
+    },
     {
       "home": "FC Makhachkala",
       "away": "Spartak Moscow",
@@ -390,13 +404,6 @@
       "count": 7
     },
     {
-      "home": "Juventus",
-      "away": "Unione V.",
-      "league": "İTA",
-      "at": "22.11.2026 07:58",
-      "count": 4
-    },
-    {
       "home": "Erzurumspor FK",
       "away": "Goztepe",
       "league": "TSL",
@@ -409,13 +416,6 @@
       "league": "T1L",
       "at": "22.11.2026 07:22",
       "count": 2
-    },
-    {
-      "home": "Konyaspor",
-      "away": "Besiktas",
-      "league": "TSL",
-      "at": "22.11.2026 07:22",
-      "count": 6
     },
     {
       "home": "Cordoba CF",
