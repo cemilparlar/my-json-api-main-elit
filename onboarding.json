@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 10:27",
+  "updatedAt": "22.11.2026 10:42",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1165,
+      "won": 1151,
       "lost": 511,
-      "total": 1676,
-      "rate": 69.5
+      "total": 1662,
+      "rate": 69.3
     },
-    "totalAnalyses": 773716,
+    "totalAnalyses": 773750,
     "leagues": 289,
     "pro": {
-      "won": 1121,
+      "won": 1118,
       "lost": 414,
-      "total": 1535,
+      "total": 1532,
       "rate": 73.0
     },
     "insights": {
-      "won": 1917,
-      "lost": 782,
-      "total": 2699,
+      "won": 1913,
+      "lost": 780,
+      "total": 2693,
       "rate": 71.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3135,
-    "analyses30d": 17276
+    "analyses24h": 3129,
+    "analyses30d": 17287
   },
   "recentWins": [
     {
@@ -294,30 +294,18 @@
     }
   ],
   "today": {
-    "home": "Dinamo Moscow",
-    "away": "FK Krasnodar",
-    "league": "RUS",
-    "date": "22.11.2026 11:00",
-    "matchCode": "4485920",
-    "odds": 1.93,
-    "patternScore": 68.15,
-    "patternText": "255.798/375.360",
+    "home": "Medeama SC",
+    "away": "Bekwai Heroes",
+    "league": "GANA",
+    "date": "22.11.2026 15:00",
+    "matchCode": "4526467",
+    "odds": 1.84,
+    "patternScore": 67.15,
+    "patternText": "190.794/284.138",
     "aiScore": 52,
-    "picks": 5
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Dinamo Moscow",
-      "away": "FK Krasnodar",
-      "league": "RUS",
-      "date": "22.11.2026 11:00",
-      "matchCode": "4485920",
-      "odds": 1.93,
-      "patternScore": 68.15,
-      "patternText": "255.798/375.360",
-      "aiScore": 52,
-      "picks": 5
-    },
     {
       "home": "Medeama SC",
       "away": "Bekwai Heroes",
@@ -329,6 +317,18 @@
       "patternText": "190.794/284.138",
       "aiScore": 52,
       "picks": 2
+    },
+    {
+      "home": "Liverpool",
+      "away": "Manchester United",
+      "league": "İNP",
+      "date": "22.11.2026 16:30",
+      "matchCode": "4481117",
+      "odds": 1.55,
+      "patternScore": 67.02,
+      "patternText": "195.858/292.258",
+      "aiScore": 55,
+      "picks": 3
     },
     {
       "home": "FC Augsburg",
@@ -351,7 +351,7 @@
       "odds": 1.51,
       "patternScore": 67.45,
       "patternText": "270.342/400.776",
-      "aiScore": 54,
+      "aiScore": 55,
       "picks": 5
     },
     {
@@ -368,6 +368,48 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Kasimpasa",
+      "away": "Alanyaspor",
+      "league": "TSL",
+      "at": "22.11.2026 10:42",
+      "count": 6
+    },
+    {
+      "home": "Manisa FK",
+      "away": "Pendikspor",
+      "league": "T1L",
+      "at": "22.11.2026 10:41",
+      "count": 2
+    },
+    {
+      "home": "Cordoba CF",
+      "away": "Real Oviedo",
+      "league": "İS2",
+      "at": "22.11.2026 10:40",
+      "count": 7
+    },
+    {
+      "home": "Waasland-Beveren",
+      "away": "KAA Gent",
+      "league": "BEL",
+      "at": "22.11.2026 10:38",
+      "count": 12
+    },
+    {
+      "home": "Burnley",
+      "away": "Blackburn",
+      "league": "İNCL",
+      "at": "22.11.2026 10:36",
+      "count": 9
+    },
+    {
+      "home": "Juventus",
+      "away": "Unione V.",
+      "league": "İTA",
+      "at": "22.11.2026 10:32",
+      "count": 5
+    },
     {
       "home": "Dinamo Moscow",
       "away": "FK Krasnodar",
@@ -395,48 +437,6 @@
       "league": "İTB",
       "at": "22.11.2026 09:45",
       "count": 5
-    },
-    {
-      "home": "Hull City",
-      "away": "Brighton & Hove Albion",
-      "league": "İNP",
-      "at": "22.11.2026 09:44",
-      "count": 8
-    },
-    {
-      "home": "Manisa FK",
-      "away": "Pendikspor",
-      "league": "T1L",
-      "at": "22.11.2026 09:42",
-      "count": 2
-    },
-    {
-      "home": "Kaiserslautern",
-      "away": "Dynamo Dresden",
-      "league": "AL2",
-      "at": "22.11.2026 09:39",
-      "count": 5
-    },
-    {
-      "home": "Juventus",
-      "away": "Unione V.",
-      "league": "İTA",
-      "at": "22.11.2026 09:33",
-      "count": 6
-    },
-    {
-      "home": "Bologna FC",
-      "away": "Udinese",
-      "league": "İTA",
-      "at": "22.11.2026 09:03",
-      "count": 4
-    },
-    {
-      "home": "Paris FC",
-      "away": "Angers SCO",
-      "league": "FR1",
-      "at": "22.11.2026 09:02",
-      "count": 17
     }
   ],
   "paywall": {
