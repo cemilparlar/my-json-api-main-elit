@@ -12,32 +12,32 @@
   },
   "stats30": {
     "safe": {
-      "won": 15,
-      "lost": 8
-    },
-    "safe_b": {
-      "won": 9,
-      "lost": 6
-    },
-    "surprise": {
-      "won": 8,
-      "lost": 13
-    },
-    "surprise_2": {
-      "won": 3,
-      "lost": 3
-    },
-    "surprise_3": {
-      "won": 0,
-      "lost": 6
+      "won": 13,
+      "lost": 7
     },
     "safe_a": {
       "won": 6,
       "lost": 2
     },
+    "surprise": {
+      "won": 7,
+      "lost": 11
+    },
+    "surprise_2": {
+      "won": 2,
+      "lost": 2
+    },
     "surprise_1": {
       "won": 5,
       "lost": 4
+    },
+    "safe_b": {
+      "won": 7,
+      "lost": 5
+    },
+    "surprise_3": {
+      "won": 0,
+      "lost": 5
     },
     "multi_1": {
       "won": 0,
@@ -76,8 +76,8 @@
       "lost": 16
     }
   },
-  "updatedAt": "22.11.2026 15:56",
-  "updatedAtUtc": "2026-11-22T15:56:00Z",
+  "updatedAt": "22.11.2026 16:05",
+  "updatedAtUtc": "2026-11-22T16:05:00Z",
   "upcoming": [
     {
       "id": "20261122-11-2",
@@ -674,9 +674,9 @@
           "patternScore": 70.97,
           "patternText": "230.058/324.140",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 0",
+          "finalScore": "1 - 0",
+          "status": "won",
           "aiScore": 81
         },
         {
