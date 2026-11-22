@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 10:10",
+  "updatedAt": "22.11.2026 10:18",
   "config": {
     "pages": [
       "engine",
@@ -23,11 +23,11 @@
     "days": 7,
     "last24h": {
       "won": 1165,
-      "lost": 512,
-      "total": 1677,
+      "lost": 511,
+      "total": 1676,
       "rate": 69.5
     },
-    "totalAnalyses": 773667,
+    "totalAnalyses": 773688,
     "leagues": 289,
     "pro": {
       "won": 1121,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3136,
-    "analyses30d": 17276
+    "analyses24h": 3134,
+    "analyses30d": 17275
   },
   "recentWins": [
     {
@@ -264,12 +264,6 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 04:10",
-      "home": "Gimcheon Sangmu",
-      "away": "Jeju United"
-    },
-    {
-      "type": "updated",
       "at": "22.11.2026 06:10",
       "home": "Supreme Fc",
       "away": "Citizen"
@@ -291,6 +285,12 @@
       "at": "22.11.2026 07:52",
       "home": "Erzurumspor FK",
       "away": "Goztepe"
+    },
+    {
+      "type": "updated",
+      "at": "22.11.2026 05:28",
+      "home": "Real Sociedad",
+      "away": "Sevilla Women"
     }
   ],
   "today": {
@@ -301,7 +301,7 @@
     "matchCode": "4485920",
     "odds": 1.93,
     "patternScore": 68.15,
-    "patternText": "255.796/375.358",
+    "patternText": "255.798/375.360",
     "aiScore": 52,
     "picks": 5
   },
@@ -314,7 +314,7 @@
       "matchCode": "4485920",
       "odds": 1.93,
       "patternScore": 68.15,
-      "patternText": "255.796/375.358",
+      "patternText": "255.798/375.360",
       "aiScore": 52,
       "picks": 5
     },
@@ -326,7 +326,7 @@
       "matchCode": "4526467",
       "odds": 1.84,
       "patternScore": 67.15,
-      "patternText": "190.794/284.136",
+      "patternText": "190.794/284.138",
       "aiScore": 52,
       "picks": 2
     },
@@ -338,7 +338,7 @@
       "matchCode": "4495515",
       "odds": 1.54,
       "patternScore": 67.0,
-      "patternText": "213.855/319.173",
+      "patternText": "213.855/319.175",
       "aiScore": 54,
       "picks": 7
     },
@@ -350,7 +350,7 @@
       "matchCode": "4542757",
       "odds": 1.51,
       "patternScore": 67.45,
-      "patternText": "270.340/400.774",
+      "patternText": "270.342/400.776",
       "aiScore": 54,
       "picks": 5
     },
@@ -362,7 +362,7 @@
       "matchCode": "4505094",
       "odds": 1.5,
       "patternScore": 67.74,
-      "patternText": "164.618/243.004",
+      "patternText": "164.618/243.006",
       "aiScore": 54,
       "picks": 3
     }
