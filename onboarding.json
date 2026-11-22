@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 12:42",
+  "updatedAt": "22.11.2026 12:56",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1015,
-      "lost": 460,
-      "total": 1475,
-      "rate": 68.8
+      "won": 1009,
+      "lost": 452,
+      "total": 1461,
+      "rate": 69.1
     },
-    "totalAnalyses": 774039,
+    "totalAnalyses": 774177,
     "leagues": 289,
     "pro": {
       "won": 1112,
@@ -36,9 +36,9 @@
       "rate": 73.0
     },
     "insights": {
-      "won": 1898,
+      "won": 1899,
       "lost": 775,
-      "total": 2673,
+      "total": 2674,
       "rate": 71.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 10,
       "rate": 30.0
     },
-    "analyses24h": 2829,
-    "analyses30d": 17246
+    "analyses24h": 2837,
+    "analyses30d": 17272
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     "matchCode": "4475157",
     "odds": 1.68,
     "patternScore": 67.3,
-    "patternText": "210.981/313.473",
+    "patternText": "211.035/313.557",
     "aiScore": 54,
     "picks": 4
   },
@@ -314,21 +314,21 @@
       "matchCode": "4475157",
       "odds": 1.68,
       "patternScore": 67.3,
-      "patternText": "210.981/313.473",
+      "patternText": "211.035/313.557",
       "aiScore": 54,
       "picks": 4
     },
     {
-      "home": "Liverpool",
-      "away": "Manchester United",
-      "league": "İNP",
-      "date": "22.11.2026 16:30",
-      "matchCode": "4481117",
-      "odds": 1.55,
-      "patternScore": 67.02,
-      "patternText": "195.900/292.316",
-      "aiScore": 55,
-      "picks": 3
+      "home": "FC Augsburg",
+      "away": "FSV Mainz 05",
+      "league": "AL1",
+      "date": "22.11.2026 14:30",
+      "matchCode": "4495515",
+      "odds": 1.53,
+      "patternScore": 67.65,
+      "patternText": "311.914/461.073",
+      "aiScore": 54,
+      "picks": 8
     },
     {
       "home": "FC Nordsjaelland",
@@ -338,7 +338,7 @@
       "matchCode": "4474527",
       "odds": 1.52,
       "patternScore": 67.48,
-      "patternText": "174.922/259.230",
+      "patternText": "174.968/259.302",
       "aiScore": 54,
       "picks": 7
     },
@@ -349,8 +349,8 @@
       "date": "22.11.2026 14:00",
       "matchCode": "4511529",
       "odds": 1.49,
-      "patternScore": 68.62,
-      "patternText": "280.446/408.722",
+      "patternScore": 68.61,
+      "patternText": "280.504/408.822",
       "aiScore": 55,
       "picks": 1
     },
@@ -362,12 +362,40 @@
       "matchCode": "4426822",
       "odds": 1.48,
       "patternScore": 67.13,
-      "patternText": "286.996/427.500",
+      "patternText": "287.046/427.584",
       "aiScore": 55,
       "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "AC Milan",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "at": "22.11.2026 12:51",
+      "count": 12
+    },
+    {
+      "home": "Werder Bremen",
+      "away": "Hamburger SV",
+      "league": "AL1",
+      "at": "22.11.2026 12:44",
+      "count": 2
+    },
+    {
+      "home": "Liverpool",
+      "away": "Manchester United",
+      "league": "İNP",
+      "at": "22.11.2026 12:44",
+      "count": 8
+    },
+    {
+      "home": "FC Lorient",
+      "away": "Stade Rennais",
+      "league": "FR1",
+      "at": "22.11.2026 12:42",
+      "count": 5
+    },
     {
       "home": "SS Arezzo",
       "away": "Calcio Padova",
@@ -409,34 +437,6 @@
       "league": "FR1",
       "at": "22.11.2026 12:33",
       "count": 10
-    },
-    {
-      "home": "Fk Rodina Mosk",
-      "away": "Lokomotiv Moscow",
-      "league": "RUS",
-      "at": "22.11.2026 12:19",
-      "count": 4
-    },
-    {
-      "home": "Sparta Rotterdam",
-      "away": "AZ Alkmaar",
-      "league": "HOL",
-      "at": "22.11.2026 11:55",
-      "count": 5
-    },
-    {
-      "home": "Manisa FK",
-      "away": "Pendikspor",
-      "league": "T1L",
-      "at": "22.11.2026 11:53",
-      "count": 2
-    },
-    {
-      "home": "Konyaspor",
-      "away": "Besiktas",
-      "league": "TSL",
-      "at": "22.11.2026 11:52",
-      "count": 7
     }
   ],
   "paywall": {
