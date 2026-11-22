@@ -12,24 +12,16 @@
   },
   "stats30": {
     "safe": {
-      "won": 19,
-      "lost": 10
-    },
-    "safe_a": {
-      "won": 7,
-      "lost": 4
+      "won": 15,
+      "lost": 8
     },
     "safe_b": {
-      "won": 12,
+      "won": 9,
       "lost": 6
     },
     "surprise": {
-      "won": 9,
-      "lost": 14
-    },
-    "surprise_1": {
-      "won": 6,
-      "lost": 5
+      "won": 8,
+      "lost": 13
     },
     "surprise_2": {
       "won": 3,
@@ -38,6 +30,14 @@
     "surprise_3": {
       "won": 0,
       "lost": 6
+    },
+    "safe_a": {
+      "won": 6,
+      "lost": 2
+    },
+    "surprise_1": {
+      "won": 5,
+      "lost": 4
     },
     "multi_1": {
       "won": 0,
@@ -76,8 +76,8 @@
       "lost": 16
     }
   },
-  "updatedAt": "22.11.2026 14:59",
-  "updatedAtUtc": "2026-11-22T14:59:00Z",
+  "updatedAt": "22.11.2026 15:09",
+  "updatedAtUtc": "2026-11-22T15:09:00Z",
   "upcoming": [
     {
       "id": "20261122-11-2",
@@ -227,9 +227,9 @@
           "patternScore": 69.28,
           "patternText": "147.825/213.372",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "3 - 0",
+          "status": "won",
           "aiScore": 97
         },
         {
@@ -343,6 +343,95 @@
           "finalScore": null,
           "status": "pending",
           "aiScore": 84
+        }
+      ]
+    },
+    {
+      "id": "20261122-18-1",
+      "createdAt": "22.11.2026 15:09",
+      "createdAtUtc": "2026-11-22T15:09:00Z",
+      "size": 3,
+      "mbs": 1,
+      "totalOdds": 1.54,
+      "winChance": 52.8,
+      "firstKickoff": "22.11.2026 15:45",
+      "lastKickoff": "22.11.2026 17:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "cyz_3",
+      "group": "multi",
+      "formula": "3",
+      "multiScore": 86,
+      "effectiveOdds": 1.54,
+      "legs": [
+        {
+          "matchCode": "4481596",
+          "nesine": null,
+          "date": "22.11.2026 15:45",
+          "kickoffUtc": "2026-11-22T15:45:00Z",
+          "league": "HOL",
+          "home": "Go Ahead Eagles",
+          "away": "Fortuna Sittard",
+          "league_tr": "HOL",
+          "home_tr": "Go Ahead Eagle",
+          "away_tr": "Fortuna Sittard",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.09,
+          "probability": 91.67,
+          "patternScore": 69.84,
+          "patternText": "166.047/237.747",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 99
+        },
+        {
+          "matchCode": "4530729",
+          "nesine": null,
+          "date": "22.11.2026 16:30",
+          "kickoffUtc": "2026-11-22T16:30:00Z",
+          "league": "İSTL",
+          "home": "Ciudad De Torr",
+          "away": "Cantoria 2017",
+          "league_tr": "İSTL",
+          "home_tr": "Ciudad De Torr",
+          "away_tr": "Cantoria 2017",
+          "prediction": "1st Half Double Chance 1X",
+          "prediction_tr": "1. Yarı Çifte Şans 1-X",
+          "odds": 1.16,
+          "probability": 76.5,
+          "patternScore": 69.13,
+          "patternText": "277.422/401.278",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 80
+        },
+        {
+          "matchCode": "4474527",
+          "nesine": null,
+          "date": "22.11.2026 17:00",
+          "kickoffUtc": "2026-11-22T17:00:00Z",
+          "league": "DAN",
+          "home": "FC Nordsjaelland",
+          "away": "FC Copenhagen",
+          "league_tr": "DAN",
+          "home_tr": "Nordsjaelland",
+          "away_tr": "Kopenhag",
+          "prediction": "1st Half Double Chance X2",
+          "prediction_tr": "1. Yarı Çifte Şans X-2",
+          "odds": 1.22,
+          "probability": 84.21,
+          "patternScore": 68.98,
+          "patternText": "188.614/273.416",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 80
         }
       ]
     }
