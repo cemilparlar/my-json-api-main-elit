@@ -11,14 +11,6 @@
     }
   },
   "stats30": {
-    "safe": {
-      "won": 28,
-      "lost": 14
-    },
-    "safe_b": {
-      "won": 18,
-      "lost": 10
-    },
     "surprise": {
       "won": 11,
       "lost": 17
@@ -26,6 +18,14 @@
     "surprise_2": {
       "won": 3,
       "lost": 4
+    },
+    "safe": {
+      "won": 27,
+      "lost": 14
+    },
+    "safe_b": {
+      "won": 17,
+      "lost": 10
     },
     "surprise_1": {
       "won": 6,
@@ -76,9 +76,99 @@
       "lost": 11
     }
   },
-  "updatedAt": "22.11.2026 01:55",
-  "updatedAtUtc": "2026-11-22T01:55:00Z",
-  "upcoming": [],
+  "updatedAt": "22.11.2026 02:03",
+  "updatedAtUtc": "2026-11-22T02:03:00Z",
+  "upcoming": [
+    {
+      "id": "20261122-05-1",
+      "createdAt": "22.11.2026 02:03",
+      "createdAtUtc": "2026-11-22T02:03:00Z",
+      "size": 3,
+      "mbs": 1,
+      "totalOdds": 1.52,
+      "winChance": 50.97,
+      "firstKickoff": "22.11.2026 04:00",
+      "lastKickoff": "22.11.2026 05:00",
+      "status": "upcoming",
+      "completedAt": null,
+      "kind": "cyz_3",
+      "group": "multi",
+      "formula": "3",
+      "multiScore": 84,
+      "effectiveOdds": 1.52,
+      "legs": [
+        {
+          "matchCode": "4488066",
+          "nesine": null,
+          "date": "22.11.2026 04:00",
+          "kickoffUtc": "2026-11-22T04:00:00Z",
+          "league": "JAP3",
+          "home": "Roasso Kumamoto",
+          "away": "Giravanz Kitakyushu",
+          "league_tr": "JAP3",
+          "home_tr": "Roasso Kumamot",
+          "away_tr": "Gira Kitakyushu",
+          "prediction": "Double Chance 12",
+          "prediction_tr": "Çifte Şans 1-2",
+          "odds": 1.09,
+          "probability": 72.09,
+          "patternScore": 70.94,
+          "patternText": "316.227/445.786",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 94
+        },
+        {
+          "matchCode": "4487684",
+          "nesine": null,
+          "date": "22.11.2026 05:00",
+          "kickoffUtc": "2026-11-22T05:00:00Z",
+          "league": "JAP2",
+          "home": "Tokushima Vortis",
+          "away": "Shonan Bellmare",
+          "league_tr": "JAP2",
+          "home_tr": "Tokushima",
+          "away_tr": "Shonan",
+          "prediction": "Under 3.5 Goals",
+          "prediction_tr": "3,5 Alt/Üst Alt",
+          "odds": 1.15,
+          "probability": 75.82,
+          "patternScore": 69.24,
+          "patternText": "260.088/375.644",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 81
+        },
+        {
+          "matchCode": "4580570",
+          "nesine": null,
+          "date": "22.11.2026 05:00",
+          "kickoffUtc": "2026-11-22T05:00:00Z",
+          "league": "GKOR",
+          "home": "Gimcheon Sangmu",
+          "away": "Jeju United",
+          "league_tr": "GKOR",
+          "home_tr": "Gimcheon Sangm",
+          "away_tr": "Jeju Utd",
+          "prediction": "Under 3.5 Goals",
+          "prediction_tr": "3,5 Alt/Üst Alt",
+          "odds": 1.21,
+          "probability": 88.89,
+          "patternScore": 69.37,
+          "patternText": "175.328/252.734",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "pending",
+          "aiScore": 81
+        }
+      ]
+    }
+  ],
   "completed": [
     {
       "id": "20261122-00-1",
