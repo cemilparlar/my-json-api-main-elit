@@ -76,8 +76,8 @@
       "lost": 16
     }
   },
-  "updatedAt": "22.11.2026 15:09",
-  "updatedAtUtc": "2026-11-22T15:09:00Z",
+  "updatedAt": "22.11.2026 15:20",
+  "updatedAtUtc": "2026-11-22T15:20:00Z",
   "upcoming": [
     {
       "id": "20261122-11-2",
@@ -115,9 +115,9 @@
           "patternScore": 69.73,
           "patternText": "264.104/378.742",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 1",
+          "status": "won",
           "aiScore": 95
         },
         {
@@ -138,9 +138,9 @@
           "patternScore": 69.04,
           "patternText": "181.022/262.202",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 1",
+          "finalScore": "2 - 1",
+          "status": "won",
           "aiScore": 84
         },
         {
@@ -250,9 +250,9 @@
           "patternScore": 69.64,
           "patternText": "168.760/242.340",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 1",
+          "finalScore": "2 - 3",
+          "status": "won",
           "aiScore": 81
         }
       ]
@@ -341,7 +341,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 84
         }
       ]
@@ -763,9 +763,9 @@
           "patternScore": 0.0,
           "patternText": null,
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 3",
+          "status": "won",
           "aiScore": 98
         },
         {

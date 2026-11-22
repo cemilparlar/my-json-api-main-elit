@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 15:09",
+  "updatedAt": "22.11.2026 15:20",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 675,
-      "lost": 308,
-      "total": 983,
+      "won": 706,
+      "lost": 322,
+      "total": 1028,
       "rate": 68.7
     },
-    "totalAnalyses": 774708,
+    "totalAnalyses": 774753,
     "leagues": 289,
     "pro": {
-      "won": 1185,
-      "lost": 439,
-      "total": 1624,
-      "rate": 73.0
+      "won": 1196,
+      "lost": 440,
+      "total": 1636,
+      "rate": 73.1
     },
     "insights": {
-      "won": 2031,
-      "lost": 838,
-      "total": 2869,
-      "rate": 70.8
+      "won": 2052,
+      "lost": 843,
+      "total": 2895,
+      "rate": 70.9
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 13,
       "rate": 23.1
     },
-    "analyses24h": 2035,
-    "analyses30d": 17214
+    "analyses24h": 2045,
+    "analyses30d": 17239
   },
   "recentWins": [
     {
@@ -300,8 +300,8 @@
     "date": "22.11.2026 19:00",
     "matchCode": "4580870",
     "odds": 3.71,
-    "patternScore": 67.02,
-    "patternText": "184.189/274.841",
+    "patternScore": 67.01,
+    "patternText": "184.341/275.101",
     "aiScore": 50,
     "picks": 8
   },
@@ -313,8 +313,8 @@
       "date": "22.11.2026 19:00",
       "matchCode": "4580870",
       "odds": 3.71,
-      "patternScore": 67.02,
-      "patternText": "184.189/274.841",
+      "patternScore": 67.01,
+      "patternText": "184.341/275.101",
       "aiScore": 50,
       "picks": 8
     },
@@ -325,8 +325,8 @@
       "date": "22.11.2026 19:00",
       "matchCode": "4423386",
       "odds": 2.35,
-      "patternScore": 67.48,
-      "patternText": "260.011/385.295",
+      "patternScore": 67.49,
+      "patternText": "260.219/385.583",
       "aiScore": 51,
       "picks": 7
     },
@@ -337,8 +337,8 @@
       "date": "22.11.2026 17:00",
       "matchCode": "4484229",
       "odds": 1.54,
-      "patternScore": 67.2,
-      "patternText": "270.717/402.834",
+      "patternScore": 67.21,
+      "patternText": "270.933/403.122",
       "aiScore": 53,
       "picks": 2
     },
@@ -350,7 +350,7 @@
       "matchCode": "4474527",
       "odds": 1.47,
       "patternScore": 67.43,
-      "patternText": "265.800/394.170",
+      "patternText": "265.984/394.462",
       "aiScore": 53,
       "picks": 5
     },
@@ -362,25 +362,60 @@
       "matchCode": "4495518",
       "odds": 1.38,
       "patternScore": 66.67,
-      "patternText": "206.857/310.255",
+      "patternText": "207.013/310.519",
       "aiScore": 57,
       "picks": 4
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Burgos CF",
-      "away": "Albacete Balompie",
-      "league": "İS2",
-      "at": "22.11.2026 14:57",
-      "count": 8
+      "home": "Nashville SC",
+      "away": "FC Cincinnati",
+      "league": "ABD",
+      "at": "22.11.2026 15:14",
+      "count": 7
+    },
+    {
+      "home": "AC Milan",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "at": "22.11.2026 15:14",
+      "count": 11
     },
     {
       "home": "Marseille",
       "away": "Le Mans FC",
       "league": "FR1",
-      "at": "22.11.2026 14:56",
-      "count": 13
+      "at": "22.11.2026 15:14",
+      "count": 7
+    },
+    {
+      "home": "Liverpool",
+      "away": "Manchester United",
+      "league": "İNP",
+      "at": "22.11.2026 15:12",
+      "count": 17
+    },
+    {
+      "home": "FC Lorient",
+      "away": "Stade Rennais",
+      "league": "FR1",
+      "at": "22.11.2026 15:11",
+      "count": 5
+    },
+    {
+      "home": "Go Ahead Eagles",
+      "away": "Fortuna Sittard",
+      "league": "HOL",
+      "at": "22.11.2026 15:10",
+      "count": 8
+    },
+    {
+      "home": "Burgos CF",
+      "away": "Albacete Balompie",
+      "league": "İS2",
+      "at": "22.11.2026 14:57",
+      "count": 8
     },
     {
       "home": "Werder Bremen",
@@ -397,46 +432,11 @@
       "count": 8
     },
     {
-      "home": "Liverpool",
-      "away": "Manchester United",
-      "league": "İNP",
-      "at": "22.11.2026 14:30",
-      "count": 9
-    },
-    {
       "home": "SS Arezzo",
       "away": "Calcio Padova",
       "league": "İTB",
       "at": "22.11.2026 14:24",
       "count": 4
-    },
-    {
-      "home": "Go Ahead Eagles",
-      "away": "Fortuna Sittard",
-      "league": "HOL",
-      "at": "22.11.2026 14:19",
-      "count": 5
-    },
-    {
-      "home": "KV Kortrijk",
-      "away": "Union St.G",
-      "league": "BEL",
-      "at": "22.11.2026 14:14",
-      "count": 5
-    },
-    {
-      "home": "Atalanta",
-      "away": "Inter",
-      "league": "İTA",
-      "at": "22.11.2026 14:04",
-      "count": 3
-    },
-    {
-      "home": "AC Milan",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "22.11.2026 13:58",
-      "count": 11
     }
   ],
   "paywall": {
