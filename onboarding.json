@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 00:32",
+  "updatedAt": "22.11.2026 00:40",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1060,
-      "lost": 465,
-      "total": 1525,
+      "won": 1064,
+      "lost": 466,
+      "total": 1530,
       "rate": 69.5
     },
-    "totalAnalyses": 772547,
+    "totalAnalyses": 772551,
     "leagues": 289,
     "pro": {
-      "won": 1010,
-      "lost": 364,
-      "total": 1374,
+      "won": 1011,
+      "lost": 365,
+      "total": 1376,
       "rate": 73.5
     },
     "insights": {
-      "won": 1726,
-      "lost": 688,
-      "total": 2414,
+      "won": 1730,
+      "lost": 689,
+      "total": 2419,
       "rate": 71.5
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 6,
       "rate": 33.3
     },
-    "analyses24h": 3139,
-    "analyses30d": 17077
+    "analyses24h": 3142,
+    "analyses30d": 17080
   },
   "recentWins": [
     {
@@ -235,12 +235,6 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 18:38",
-      "home": "Radomiak Radom",
-      "away": "Wisla Krakow"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 18:55",
       "home": "St Pauli",
       "away": "Bochum"
@@ -262,6 +256,12 @@
       "at": "21.11.2026 18:55",
       "home": "RC Strasbourg",
       "away": "Stade Brest"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 18:56",
+      "home": "AS Monaco",
+      "away": "AJ Auxerre"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4488063",
     "odds": 1.37,
     "patternScore": 68.11,
-    "patternText": "239.653/351.871",
+    "patternText": "239.671/351.891",
     "aiScore": 58,
     "picks": 2
   },
@@ -285,7 +285,7 @@
       "matchCode": "4488063",
       "odds": 1.37,
       "patternScore": 68.11,
-      "patternText": "239.653/351.871",
+      "patternText": "239.671/351.891",
       "aiScore": 58,
       "picks": 2
     },
@@ -297,7 +297,7 @@
       "matchCode": "4580570",
       "odds": 1.32,
       "patternScore": 68.17,
-      "patternText": "238.120/349.306",
+      "patternText": "238.138/349.326",
       "aiScore": 58,
       "picks": 6
     },
@@ -308,8 +308,8 @@
       "date": "22.11.2026 06:00",
       "matchCode": "4488060",
       "odds": 1.28,
-      "patternScore": 68.35,
-      "patternText": "218.515/319.681",
+      "patternScore": 68.36,
+      "patternText": "218.529/319.697",
       "aiScore": 62,
       "picks": 1
     },
@@ -321,7 +321,7 @@
       "matchCode": "4487684",
       "odds": 1.23,
       "patternScore": 68.35,
-      "patternText": "238.692/349.220",
+      "patternText": "238.706/349.236",
       "aiScore": 68,
       "picks": 2
     },
@@ -333,7 +333,7 @@
       "matchCode": "4551582",
       "odds": 1.23,
       "patternScore": 68.14,
-      "patternText": "251.660/369.345",
+      "patternText": "251.674/369.361",
       "aiScore": 66,
       "picks": 1
     }
