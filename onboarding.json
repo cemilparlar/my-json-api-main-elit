@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 00:48",
+  "updatedAt": "22.11.2026 00:56",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1071,
-      "lost": 470,
-      "total": 1541,
-      "rate": 69.5
+      "won": 1083,
+      "lost": 491,
+      "total": 1574,
+      "rate": 68.8
     },
-    "totalAnalyses": 772551,
+    "totalAnalyses": 772552,
     "leagues": 289,
     "pro": {
-      "won": 1016,
-      "lost": 369,
-      "total": 1385,
-      "rate": 73.4
+      "won": 1020,
+      "lost": 383,
+      "total": 1403,
+      "rate": 72.7
     },
     "insights": {
-      "won": 1737,
-      "lost": 693,
-      "total": 2430,
-      "rate": 71.5
+      "won": 1749,
+      "lost": 714,
+      "total": 2463,
+      "rate": 71.0
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 6,
       "rate": 33.3
     },
-    "analyses24h": 3142,
-    "analyses30d": 17080
+    "analyses24h": 3143,
+    "analyses30d": 17081
   },
   "recentWins": [
     {
@@ -235,12 +235,6 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 18:55",
-      "home": "St Pauli",
-      "away": "Bochum"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 18:57",
       "home": "Zulte Waregem",
       "away": "Royal Antwerp"
@@ -253,15 +247,21 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 18:55",
-      "home": "RC Strasbourg",
-      "away": "Stade Brest"
-    },
-    {
-      "type": "updated",
       "at": "21.11.2026 18:56",
       "home": "AS Monaco",
       "away": "AJ Auxerre"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 19:17",
+      "home": "SC Telstar",
+      "away": "Zwolle"
+    },
+    {
+      "type": "updated",
+      "at": "21.11.2026 19:54",
+      "home": "Alianza Lima",
+      "away": "Fc Cajamarca"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4488063",
     "odds": 1.37,
     "patternScore": 68.11,
-    "patternText": "239.679/351.903",
+    "patternText": "239.687/351.915",
     "aiScore": 58,
     "picks": 2
   },
@@ -285,7 +285,7 @@
       "matchCode": "4488063",
       "odds": 1.37,
       "patternScore": 68.11,
-      "patternText": "239.679/351.903",
+      "patternText": "239.687/351.915",
       "aiScore": 58,
       "picks": 2
     },
@@ -297,7 +297,7 @@
       "matchCode": "4580570",
       "odds": 1.32,
       "patternScore": 68.17,
-      "patternText": "238.146/349.338",
+      "patternText": "238.154/349.350",
       "aiScore": 58,
       "picks": 6
     },
@@ -309,7 +309,7 @@
       "matchCode": "4488060",
       "odds": 1.28,
       "patternScore": 68.35,
-      "patternText": "218.537/319.709",
+      "patternText": "218.545/319.721",
       "aiScore": 62,
       "picks": 1
     },
@@ -321,7 +321,7 @@
       "matchCode": "4487684",
       "odds": 1.23,
       "patternScore": 68.35,
-      "patternText": "238.714/349.248",
+      "patternText": "238.722/349.260",
       "aiScore": 68,
       "picks": 2
     },
@@ -333,7 +333,7 @@
       "matchCode": "4551582",
       "odds": 1.23,
       "patternScore": 68.14,
-      "patternText": "251.682/369.373",
+      "patternText": "251.690/369.385",
       "aiScore": 66,
       "picks": 1
     }
