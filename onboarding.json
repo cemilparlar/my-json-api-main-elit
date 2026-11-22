@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 15:20",
+  "updatedAt": "22.11.2026 15:28",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 706,
-      "lost": 322,
-      "total": 1028,
-      "rate": 68.7
+      "won": 730,
+      "lost": 330,
+      "total": 1060,
+      "rate": 68.9
     },
-    "totalAnalyses": 774753,
+    "totalAnalyses": 774764,
     "leagues": 289,
     "pro": {
-      "won": 1196,
-      "lost": 440,
-      "total": 1636,
+      "won": 1208,
+      "lost": 444,
+      "total": 1652,
       "rate": 73.1
     },
     "insights": {
-      "won": 2052,
-      "lost": 843,
-      "total": 2895,
-      "rate": 70.9
+      "won": 2074,
+      "lost": 849,
+      "total": 2923,
+      "rate": 71.0
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 13,
       "rate": 23.1
     },
-    "analyses24h": 2045,
-    "analyses30d": 17239
+    "analyses24h": 2034,
+    "analyses30d": 17232
   },
   "recentWins": [
     {
@@ -300,8 +300,8 @@
     "date": "22.11.2026 19:00",
     "matchCode": "4580870",
     "odds": 3.71,
-    "patternScore": 67.01,
-    "patternText": "184.341/275.101",
+    "patternScore": 67.02,
+    "patternText": "184.477/275.275",
     "aiScore": 50,
     "picks": 8
   },
@@ -313,10 +313,22 @@
       "date": "22.11.2026 19:00",
       "matchCode": "4580870",
       "odds": 3.71,
-      "patternScore": 67.01,
-      "patternText": "184.341/275.101",
+      "patternScore": 67.02,
+      "patternText": "184.477/275.275",
       "aiScore": 50,
       "picks": 8
+    },
+    {
+      "home": "Marseille",
+      "away": "Le Mans FC",
+      "league": "FR1",
+      "date": "22.11.2026 19:45",
+      "matchCode": "4476597",
+      "odds": 3.45,
+      "patternScore": 66.91,
+      "patternText": "185.057/276.559",
+      "aiScore": 50,
+      "picks": 6
     },
     {
       "home": "Atletico Paranaense",
@@ -326,7 +338,7 @@
       "matchCode": "4423386",
       "odds": 2.35,
       "patternScore": 67.49,
-      "patternText": "260.219/385.583",
+      "patternText": "260.403/385.861",
       "aiScore": 51,
       "picks": 7
     },
@@ -338,7 +350,7 @@
       "matchCode": "4484229",
       "odds": 1.54,
       "patternScore": 67.21,
-      "patternText": "270.933/403.122",
+      "patternText": "271.121/403.404",
       "aiScore": 53,
       "picks": 2
     },
@@ -350,21 +362,9 @@
       "matchCode": "4474527",
       "odds": 1.47,
       "patternScore": 67.43,
-      "patternText": "265.984/394.462",
+      "patternText": "266.152/394.716",
       "aiScore": 53,
       "picks": 5
-    },
-    {
-      "home": "Werder Bremen",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "date": "22.11.2026 16:30",
-      "matchCode": "4495518",
-      "odds": 1.38,
-      "patternScore": 66.67,
-      "patternText": "207.013/310.519",
-      "aiScore": 57,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
