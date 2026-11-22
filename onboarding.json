@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 08:52",
+  "updatedAt": "22.11.2026 09:00",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1158,
+      "won": 1160,
       "lost": 507,
-      "total": 1665,
-      "rate": 69.5
+      "total": 1667,
+      "rate": 69.6
     },
-    "totalAnalyses": 773455,
+    "totalAnalyses": 773475,
     "leagues": 289,
     "pro": {
-      "won": 1110,
+      "won": 1111,
       "lost": 411,
-      "total": 1521,
+      "total": 1522,
       "rate": 73.0
     },
     "insights": {
-      "won": 1899,
+      "won": 1901,
       "lost": 776,
-      "total": 2675,
+      "total": 2677,
       "rate": 71.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3128,
-    "analyses30d": 17232
+    "analyses24h": 3127,
+    "analyses30d": 17242
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     "matchCode": "4485920",
     "odds": 1.93,
     "patternScore": 68.14,
-    "patternText": "255.672/375.206",
+    "patternText": "255.686/375.220",
     "aiScore": 53,
     "picks": 5
   },
@@ -314,7 +314,7 @@
       "matchCode": "4485920",
       "odds": 1.93,
       "patternScore": 68.14,
-      "patternText": "255.672/375.206",
+      "patternText": "255.686/375.220",
       "aiScore": 53,
       "picks": 5
     },
@@ -326,7 +326,7 @@
       "matchCode": "4534789",
       "odds": 1.59,
       "patternScore": 68.07,
-      "patternText": "179.636/263.890",
+      "patternText": "179.640/263.894",
       "aiScore": 54,
       "picks": 7
     },
@@ -338,7 +338,7 @@
       "matchCode": "4495515",
       "odds": 1.54,
       "patternScore": 67.0,
-      "patternText": "213.795/319.105",
+      "patternText": "213.797/319.107",
       "aiScore": 54,
       "picks": 7
     },
@@ -350,7 +350,7 @@
       "matchCode": "4542757",
       "odds": 1.51,
       "patternScore": 67.45,
-      "patternText": "270.244/400.658",
+      "patternText": "270.252/400.666",
       "aiScore": 55,
       "picks": 5
     },
@@ -362,12 +362,26 @@
       "matchCode": "4505094",
       "odds": 1.5,
       "patternScore": 67.74,
-      "patternText": "164.544/242.922",
+      "patternText": "164.554/242.932",
       "aiScore": 54,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Kasimpasa",
+      "away": "Alanyaspor",
+      "league": "TSL",
+      "at": "22.11.2026 09:00",
+      "count": 8
+    },
+    {
+      "home": "Juventus",
+      "away": "Unione V.",
+      "league": "İTA",
+      "at": "22.11.2026 08:58",
+      "count": 1
+    },
     {
       "home": "Paris FC",
       "away": "Angers SCO",
@@ -418,25 +432,11 @@
       "count": 7
     },
     {
-      "home": "Juventus",
-      "away": "Unione V.",
-      "league": "İTA",
-      "at": "22.11.2026 08:15",
-      "count": 4
-    },
-    {
       "home": "FC Makhachkala",
       "away": "Spartak Moscow",
       "league": "RUS",
       "at": "22.11.2026 08:08",
       "count": 2
-    },
-    {
-      "home": "Waasland-Beveren",
-      "away": "KAA Gent",
-      "league": "BEL",
-      "at": "22.11.2026 08:01",
-      "count": 8
     }
   ],
   "paywall": {
