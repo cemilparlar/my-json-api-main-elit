@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 03:28",
+  "updatedAt": "22.11.2026 03:36",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 1637,
       "rate": 69.2
     },
-    "totalAnalyses": 772660,
+    "totalAnalyses": 772662,
     "leagues": 289,
     "pro": {
       "won": 1058,
@@ -265,30 +265,18 @@
     }
   ],
   "today": {
-    "home": "Renofa Yamaguchi",
-    "away": "Mio Biwako Shig",
-    "league": "JAP3",
+    "home": "Gimcheon Sangmu",
+    "away": "Jeju United",
+    "league": "GKOR",
     "date": "22.11.2026 05:00",
-    "matchCode": "4488063",
-    "odds": 1.37,
-    "patternScore": 68.11,
-    "patternText": "239.845/352.169",
+    "matchCode": "4580570",
+    "odds": 1.32,
+    "patternScore": 68.17,
+    "patternText": "238.354/349.650",
     "aiScore": 58,
-    "picks": 2
+    "picks": 6
   },
   "todayList": [
-    {
-      "home": "Renofa Yamaguchi",
-      "away": "Mio Biwako Shig",
-      "league": "JAP3",
-      "date": "22.11.2026 05:00",
-      "matchCode": "4488063",
-      "odds": 1.37,
-      "patternScore": 68.11,
-      "patternText": "239.845/352.169",
-      "aiScore": 58,
-      "picks": 2
-    },
     {
       "home": "Gimcheon Sangmu",
       "away": "Jeju United",
@@ -326,16 +314,28 @@
       "picks": 2
     },
     {
-      "home": "Taichung Futur",
-      "away": "Air Source",
-      "league": "TAYV",
-      "date": "22.11.2026 07:30",
-      "matchCode": "4564439",
-      "odds": 1.23,
-      "patternScore": 68.61,
-      "patternText": "229.968/335.186",
-      "aiScore": 63,
+      "home": "Gwangju FC",
+      "away": "Bucheon FC",
+      "league": "GKOR",
+      "date": "22.11.2026 05:00",
+      "matchCode": "4580571",
+      "odds": 1.21,
+      "patternScore": 69.58,
+      "patternText": "164.303/236.123",
+      "aiScore": 76,
       "picks": 1
+    },
+    {
+      "home": "Viktoria Zizko",
+      "away": "SFC Opava",
+      "league": "ÇEK2",
+      "date": "22.11.2026 09:15",
+      "matchCode": "4504142",
+      "odds": 1.16,
+      "patternScore": 69.58,
+      "patternText": "250.397/359.859",
+      "aiScore": 71,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
