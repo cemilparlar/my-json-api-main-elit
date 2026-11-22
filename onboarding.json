@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 11:46",
+  "updatedAt": "22.11.2026 11:55",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1123,
+      "won": 1128,
       "lost": 503,
-      "total": 1626,
-      "rate": 69.1
+      "total": 1631,
+      "rate": 69.2
     },
-    "totalAnalyses": 773921,
+    "totalAnalyses": 773943,
     "leagues": 289,
     "pro": {
-      "won": 1110,
+      "won": 1112,
       "lost": 406,
-      "total": 1516,
-      "rate": 73.2
+      "total": 1518,
+      "rate": 73.3
     },
     "insights": {
-      "won": 1898,
+      "won": 1902,
       "lost": 767,
-      "total": 2665,
-      "rate": 71.2
+      "total": 2669,
+      "rate": 71.3
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3061,
-    "analyses30d": 17290
+    "analyses24h": 3047,
+    "analyses30d": 17276
   },
   "recentWins": [
     {
@@ -369,6 +369,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Manisa FK",
+      "away": "Pendikspor",
+      "league": "T1L",
+      "at": "22.11.2026 11:53",
+      "count": 2
+    },
+    {
+      "home": "Konyaspor",
+      "away": "Besiktas",
+      "league": "TSL",
+      "at": "22.11.2026 11:52",
+      "count": 7
+    },
+    {
       "home": "Go Ahead Eagles",
       "away": "Fortuna Sittard",
       "league": "HOL",
@@ -423,20 +437,6 @@
       "league": "İNP",
       "at": "22.11.2026 10:44",
       "count": 5
-    },
-    {
-      "home": "Kasimpasa",
-      "away": "Alanyaspor",
-      "league": "TSL",
-      "at": "22.11.2026 10:42",
-      "count": 6
-    },
-    {
-      "home": "Manisa FK",
-      "away": "Pendikspor",
-      "league": "T1L",
-      "at": "22.11.2026 10:41",
-      "count": 2
     }
   ],
   "paywall": {
