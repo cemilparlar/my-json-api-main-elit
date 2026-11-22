@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 14:29",
+  "updatedAt": "22.11.2026 14:40",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 895,
-      "lost": 404,
-      "total": 1299,
+      "won": 865,
+      "lost": 390,
+      "total": 1255,
       "rate": 68.9
     },
-    "totalAnalyses": 774598,
+    "totalAnalyses": 774637,
     "leagues": 289,
     "pro": {
-      "won": 1141,
-      "lost": 425,
-      "total": 1566,
-      "rate": 72.9
+      "won": 1164,
+      "lost": 431,
+      "total": 1595,
+      "rate": 73.0
     },
     "insights": {
-      "won": 1960,
-      "lost": 816,
-      "total": 2776,
-      "rate": 70.6
+      "won": 2000,
+      "lost": 828,
+      "total": 2828,
+      "rate": 70.7
     },
     "coupons": {
       "won": 3,
-      "lost": 8,
-      "total": 11,
-      "rate": 27.3
+      "lost": 10,
+      "total": 13,
+      "rate": 23.1
     },
-    "analyses24h": 2484,
-    "analyses30d": 17234
+    "analyses24h": 2389,
+    "analyses30d": 17235
   },
   "recentWins": [
     {
@@ -264,12 +264,6 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 08:32",
-      "home": "Viktoria Zizko",
-      "away": "SFC Opava"
-    },
-    {
-      "type": "updated",
       "at": "22.11.2026 10:27",
       "home": "Bangkok United",
       "away": "Ayutthaya United"
@@ -291,6 +285,12 @@
       "at": "22.11.2026 10:26",
       "home": "Arenas De Getx",
       "away": "Real Aviles"
+    },
+    {
+      "type": "updated",
+      "at": "22.11.2026 10:04",
+      "home": "Songkhla",
+      "away": "Kanchanaburi FC"
     }
   ],
   "today": {
@@ -369,6 +369,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Getafe CF",
+      "away": "Atletico Madrid",
+      "league": "İS1",
+      "at": "22.11.2026 14:35",
+      "count": 8
+    },
+    {
+      "home": "Burgos CF",
+      "away": "Albacete Balompie",
+      "league": "İS2",
+      "at": "22.11.2026 14:34",
+      "count": 4
+    },
+    {
+      "home": "Werder Bremen",
+      "away": "Hamburger SV",
+      "league": "AL1",
+      "at": "22.11.2026 14:30",
+      "count": 4
+    },
+    {
+      "home": "Liverpool",
+      "away": "Manchester United",
+      "league": "İNP",
+      "at": "22.11.2026 14:30",
+      "count": 9
+    },
+    {
       "home": "SS Arezzo",
       "away": "Calcio Padova",
       "league": "İTB",
@@ -409,34 +437,6 @@
       "league": "AL1",
       "at": "22.11.2026 13:53",
       "count": 8
-    },
-    {
-      "home": "CA Osasuna",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "22.11.2026 13:32",
-      "count": 5
-    },
-    {
-      "home": "Liverpool",
-      "away": "Manchester United",
-      "league": "İNP",
-      "at": "22.11.2026 13:30",
-      "count": 10
-    },
-    {
-      "home": "FC Lorient",
-      "away": "Stade Rennais",
-      "league": "FR1",
-      "at": "22.11.2026 13:29",
-      "count": 7
-    },
-    {
-      "home": "Sporting Gijon",
-      "away": "UD Las Palmas",
-      "league": "İS2",
-      "at": "22.11.2026 13:24",
-      "count": 3
     }
   ],
   "paywall": {
