@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 09:45",
+  "updatedAt": "22.11.2026 09:57",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1170,
-      "lost": 509,
-      "total": 1679,
+      "won": 1173,
+      "lost": 511,
+      "total": 1684,
       "rate": 69.7
     },
-    "totalAnalyses": 773637,
+    "totalAnalyses": 773651,
     "leagues": 289,
     "pro": {
-      "won": 1117,
-      "lost": 411,
-      "total": 1528,
+      "won": 1120,
+      "lost": 413,
+      "total": 1533,
       "rate": 73.1
     },
     "insights": {
-      "won": 1913,
-      "lost": 779,
-      "total": 2692,
-      "rate": 71.1
+      "won": 1916,
+      "lost": 781,
+      "total": 2697,
+      "rate": 71.0
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3158,
-    "analyses30d": 17276
+    "analyses24h": 3157,
+    "analyses30d": 17275
   },
   "recentWins": [
     {
@@ -270,18 +270,6 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 03:50",
-      "home": "Daegu FC",
-      "away": "Gimhae City FC"
-    },
-    {
-      "type": "updated",
-      "at": "22.11.2026 03:50",
-      "home": "Gwangju FC",
-      "away": "Bucheon FC"
-    },
-    {
-      "type": "updated",
       "at": "22.11.2026 06:10",
       "home": "Supreme Fc",
       "away": "Citizen"
@@ -291,6 +279,18 @@
       "at": "22.11.2026 08:32",
       "home": "Viktoria Zizko",
       "away": "SFC Opava"
+    },
+    {
+      "type": "updated",
+      "at": "22.11.2026 06:30",
+      "home": "Getafe B",
+      "away": "Rsd Alcala"
+    },
+    {
+      "type": "updated",
+      "at": "22.11.2026 07:52",
+      "home": "Erzurumspor FK",
+      "away": "Goztepe"
     }
   ],
   "today": {
@@ -301,7 +301,7 @@
     "matchCode": "4485920",
     "odds": 1.93,
     "patternScore": 68.15,
-    "patternText": "255.786/375.340",
+    "patternText": "255.794/375.354",
     "aiScore": 52,
     "picks": 5
   },
@@ -314,7 +314,7 @@
       "matchCode": "4485920",
       "odds": 1.93,
       "patternScore": 68.15,
-      "patternText": "255.786/375.340",
+      "patternText": "255.794/375.354",
       "aiScore": 52,
       "picks": 5
     },
@@ -326,21 +326,9 @@
       "matchCode": "4526467",
       "odds": 1.84,
       "patternScore": 67.15,
-      "patternText": "190.784/284.122",
+      "patternText": "190.786/284.124",
       "aiScore": 52,
       "picks": 2
-    },
-    {
-      "home": "US Avellino",
-      "away": "Mantova 1911",
-      "league": "İTB",
-      "date": "22.11.2026 14:00",
-      "matchCode": "4534789",
-      "odds": 1.59,
-      "patternScore": 68.08,
-      "patternText": "179.696/263.960",
-      "aiScore": 54,
-      "picks": 7
     },
     {
       "home": "FC Augsburg",
@@ -350,7 +338,7 @@
       "matchCode": "4495515",
       "odds": 1.54,
       "patternScore": 67.0,
-      "patternText": "213.837/319.151",
+      "patternText": "213.839/319.153",
       "aiScore": 54,
       "picks": 7
     },
@@ -362,12 +350,38 @@
       "matchCode": "4542757",
       "odds": 1.51,
       "patternScore": 67.45,
-      "patternText": "270.336/400.766",
-      "aiScore": 55,
+      "patternText": "270.338/400.770",
+      "aiScore": 54,
       "picks": 5
+    },
+    {
+      "home": "Esmtk",
+      "away": "Csepel Tc",
+      "league": "MAC3",
+      "date": "22.11.2026 12:00",
+      "matchCode": "4505094",
+      "odds": 1.5,
+      "patternScore": 67.74,
+      "patternText": "164.616/243.002",
+      "aiScore": 54,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sporting Gijon",
+      "away": "UD Las Palmas",
+      "league": "İS2",
+      "at": "22.11.2026 09:55",
+      "count": 5
+    },
+    {
+      "home": "Racing Santander",
+      "away": "Real Sociedad",
+      "league": "İS1",
+      "at": "22.11.2026 09:55",
+      "count": 12
+    },
     {
       "home": "US Avellino",
       "away": "Mantova 1911",
@@ -423,20 +437,6 @@
       "league": "İTA",
       "at": "22.11.2026 09:02",
       "count": 5
-    },
-    {
-      "home": "Kasimpasa",
-      "away": "Alanyaspor",
-      "league": "TSL",
-      "at": "22.11.2026 09:00",
-      "count": 8
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "FSV Mainz 05",
-      "league": "AL1",
-      "at": "22.11.2026 08:36",
-      "count": 7
     }
   ],
   "paywall": {
