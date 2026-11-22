@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 16:51",
+  "updatedAt": "22.11.2026 16:59",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 701,
-      "lost": 320,
-      "total": 1021,
-      "rate": 68.7
+      "won": 720,
+      "lost": 327,
+      "total": 1047,
+      "rate": 68.8
     },
     "totalAnalyses": 774939,
     "leagues": 289,
     "pro": {
-      "won": 1235,
-      "lost": 459,
-      "total": 1694,
-      "rate": 72.9
+      "won": 1243,
+      "lost": 460,
+      "total": 1703,
+      "rate": 73.0
     },
     "insights": {
-      "won": 2115,
-      "lost": 875,
-      "total": 2990,
-      "rate": 70.7
+      "won": 2125,
+      "lost": 878,
+      "total": 3003,
+      "rate": 70.8
     },
     "coupons": {
       "won": 4,
@@ -47,8 +47,8 @@
       "total": 14,
       "rate": 28.6
     },
-    "analyses24h": 1858,
-    "analyses30d": 17072
+    "analyses24h": 1855,
+    "analyses30d": 17069
   },
   "recentWins": [
     {
@@ -360,6 +360,18 @@
       "picks": 7
     },
     {
+      "home": "Marseille",
+      "away": "Le Mans FC",
+      "league": "FR1",
+      "date": "22.11.2026 19:45",
+      "matchCode": "4476597",
+      "odds": 1.97,
+      "patternScore": 66.66,
+      "patternText": "187.567/281.387",
+      "aiScore": 52,
+      "picks": 6
+    },
+    {
       "home": "Paok",
       "away": "Kifisias",
       "league": "YUN",
@@ -370,18 +382,6 @@
       "patternText": "253.122/374.082",
       "aiScore": 55,
       "picks": 1
-    },
-    {
-      "home": "RSC Anderlecht",
-      "away": "OH Leuven",
-      "league": "BEL",
-      "date": "22.11.2026 17:30",
-      "matchCode": "4480772",
-      "odds": 1.45,
-      "patternScore": 66.71,
-      "patternText": "207.159/310.552",
-      "aiScore": 58,
-      "picks": 3
     },
     {
       "home": "River Plate",
