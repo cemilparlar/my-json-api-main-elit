@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 08:34",
+  "updatedAt": "22.11.2026 08:43",
   "config": {
     "pages": [
       "engine",
@@ -23,22 +23,22 @@
     "days": 7,
     "last24h": {
       "won": 1153,
-      "lost": 506,
-      "total": 1659,
+      "lost": 507,
+      "total": 1660,
       "rate": 69.5
     },
-    "totalAnalyses": 773421,
+    "totalAnalyses": 773453,
     "leagues": 289,
     "pro": {
-      "won": 1107,
+      "won": 1108,
       "lost": 411,
-      "total": 1518,
+      "total": 1519,
       "rate": 72.9
     },
     "insights": {
-      "won": 1893,
-      "lost": 772,
-      "total": 2665,
+      "won": 1896,
+      "lost": 776,
+      "total": 2672,
       "rate": 71.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3123,
-    "analyses30d": 17221
+    "analyses24h": 3131,
+    "analyses30d": 17235
   },
   "recentWins": [
     {
@@ -288,9 +288,9 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 06:30",
-      "home": "Getafe B",
-      "away": "Rsd Alcala"
+      "at": "22.11.2026 08:32",
+      "home": "Viktoria Zizko",
+      "away": "SFC Opava"
     }
   ],
   "today": {
@@ -301,7 +301,7 @@
     "matchCode": "4485920",
     "odds": 1.93,
     "patternScore": 68.14,
-    "patternText": "255.664/375.190",
+    "patternText": "255.666/375.192",
     "aiScore": 53,
     "picks": 5
   },
@@ -314,7 +314,7 @@
       "matchCode": "4485920",
       "odds": 1.93,
       "patternScore": 68.14,
-      "patternText": "255.664/375.190",
+      "patternText": "255.666/375.192",
       "aiScore": 53,
       "picks": 5
     },
@@ -326,7 +326,7 @@
       "matchCode": "4534789",
       "odds": 1.59,
       "patternScore": 68.07,
-      "patternText": "179.634/263.888",
+      "patternText": "179.636/263.890",
       "aiScore": 54,
       "picks": 7
     },
@@ -338,7 +338,7 @@
       "matchCode": "4542757",
       "odds": 1.51,
       "patternScore": 67.45,
-      "patternText": "270.228/400.624",
+      "patternText": "270.238/400.640",
       "aiScore": 55,
       "picks": 5
     },
@@ -350,7 +350,7 @@
       "matchCode": "4505094",
       "odds": 1.5,
       "patternScore": 67.74,
-      "patternText": "164.538/242.906",
+      "patternText": "164.538/242.908",
       "aiScore": 54,
       "picks": 3
     },
@@ -368,6 +368,20 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Paris FC",
+      "away": "Angers SCO",
+      "league": "FR1",
+      "at": "22.11.2026 08:36",
+      "count": 8
+    },
+    {
+      "home": "FC Augsburg",
+      "away": "FSV Mainz 05",
+      "league": "AL1",
+      "at": "22.11.2026 08:36",
+      "count": 7
+    },
     {
       "home": "Sparta Rotterdam",
       "away": "AZ Alkmaar",
@@ -388,13 +402,6 @@
       "league": "İTA",
       "at": "22.11.2026 08:29",
       "count": 5
-    },
-    {
-      "home": "Paris FC",
-      "away": "Angers SCO",
-      "league": "FR1",
-      "at": "22.11.2026 08:27",
-      "count": 14
     },
     {
       "home": "Hull City",
@@ -430,13 +437,6 @@
       "league": "BEL",
       "at": "22.11.2026 08:01",
       "count": 8
-    },
-    {
-      "home": "Burnley",
-      "away": "Blackburn",
-      "league": "İNCL",
-      "at": "22.11.2026 07:59",
-      "count": 7
     }
   ],
   "paywall": {
