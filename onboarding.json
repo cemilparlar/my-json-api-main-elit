@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 18:55",
+  "updatedAt": "22.11.2026 19:05",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 722,
-      "lost": 366,
-      "total": 1088,
-      "rate": 66.4
+      "won": 719,
+      "lost": 367,
+      "total": 1086,
+      "rate": 66.2
     },
-    "totalAnalyses": 775045,
+    "totalAnalyses": 775068,
     "leagues": 289,
     "pro": {
-      "won": 1305,
-      "lost": 487,
-      "total": 1792,
+      "won": 1307,
+      "lost": 489,
+      "total": 1796,
       "rate": 72.8
     },
     "insights": {
-      "won": 2234,
-      "lost": 925,
-      "total": 3159,
-      "rate": 70.7
+      "won": 2240,
+      "lost": 931,
+      "total": 3171,
+      "rate": 70.6
     },
     "coupons": {
-      "won": 4,
+      "won": 5,
       "lost": 10,
-      "total": 14,
-      "rate": 28.6
+      "total": 15,
+      "rate": 33.3
     },
-    "analyses24h": 1660,
-    "analyses30d": 17067
+    "analyses24h": 1657,
+    "analyses30d": 16974
   },
   "recentWins": [
     {
@@ -123,6 +123,35 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 3,
+      "totalOdds": 1.52,
+      "winChance": 51.94,
+      "completedAt": "22.11.2026 19:05",
+      "legs": [
+        {
+          "home": "Cultural Guarn",
+          "away": "Tropezon",
+          "prediction": "Double Chance 12",
+          "odds": 1.13,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "Las Rozas",
+          "away": "Siello Nuevo Bo",
+          "prediction": "Match Result 1",
+          "odds": 1.15,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Illescas",
+          "away": "Toledo",
+          "prediction": "Double Chance 12",
+          "odds": 1.17,
+          "finalScore": null
+        }
+      ]
+    },
     {
       "size": 3,
       "totalOdds": 1.5,
@@ -207,35 +236,6 @@
           "prediction": "Double Chance 12",
           "odds": 1.19,
           "finalScore": "4 - 2"
-        }
-      ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.5,
-      "winChance": 50.5,
-      "completedAt": "20.11.2026 21:00",
-      "legs": [
-        {
-          "home": "Al Ittihad Kal",
-          "away": "Al Sharjah",
-          "prediction": "Double Chance 12",
-          "odds": 1.12,
-          "finalScore": "0 - 3"
-        },
-        {
-          "home": "Black Bulls Ma",
-          "away": "Ferroviario Map",
-          "prediction": "Double Chance 12",
-          "odds": 1.11,
-          "finalScore": null
-        },
-        {
-          "home": "Police",
-          "away": "Kampala City Council FC",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.21,
-          "finalScore": "0 - 0"
         }
       ]
     }
@@ -401,8 +401,8 @@
       "home": "Marseille",
       "away": "Le Mans FC",
       "league": "FR1",
-      "at": "22.11.2026 18:39",
-      "count": 7
+      "at": "22.11.2026 18:59",
+      "count": 6
     },
     {
       "home": "Fluminense FC",
