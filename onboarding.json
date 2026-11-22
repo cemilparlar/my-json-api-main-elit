@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 11:55",
+  "updatedAt": "22.11.2026 12:05",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1128,
-      "lost": 503,
-      "total": 1631,
-      "rate": 69.2
+      "won": 1063,
+      "lost": 481,
+      "total": 1544,
+      "rate": 68.8
     },
-    "totalAnalyses": 773943,
+    "totalAnalyses": 773976,
     "leagues": 289,
     "pro": {
-      "won": 1112,
-      "lost": 406,
+      "won": 1108,
+      "lost": 410,
       "total": 1518,
-      "rate": 73.3
+      "rate": 73.0
     },
     "insights": {
-      "won": 1902,
-      "lost": 767,
-      "total": 2669,
-      "rate": 71.3
+      "won": 1895,
+      "lost": 771,
+      "total": 2666,
+      "rate": 71.1
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3047,
-    "analyses30d": 17276
+    "analyses24h": 2946,
+    "analyses30d": 17262
   },
   "recentWins": [
     {
@@ -247,8 +247,8 @@
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.51,
-      "at": "22.11.2026 11:05"
+      "odds": 1.5,
+      "at": "22.11.2026 12:05"
     },
     {
       "type": "coupon",
@@ -259,8 +259,8 @@
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.52,
-      "at": "22.11.2026 08:03"
+      "odds": 1.51,
+      "at": "22.11.2026 11:05"
     },
     {
       "type": "updated",
@@ -294,18 +294,30 @@
     }
   ],
   "today": {
-    "home": "Medeama SC",
-    "away": "Bekwai Heroes",
-    "league": "GANA",
-    "date": "22.11.2026 15:00",
-    "matchCode": "4526467",
-    "odds": 1.84,
-    "patternScore": 67.15,
-    "patternText": "190.806/284.154",
+    "home": "Viborg FF",
+    "away": "Randers FC",
+    "league": "DAN",
+    "date": "22.11.2026 13:00",
+    "matchCode": "4474525",
+    "odds": 2.01,
+    "patternScore": 67.05,
+    "patternText": "267.756/399.331",
     "aiScore": 52,
-    "picks": 2
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Viborg FF",
+      "away": "Randers FC",
+      "league": "DAN",
+      "date": "22.11.2026 13:00",
+      "matchCode": "4474525",
+      "odds": 2.01,
+      "patternScore": 67.05,
+      "patternText": "267.756/399.331",
+      "aiScore": 52,
+      "picks": 4
+    },
     {
       "home": "Medeama SC",
       "away": "Bekwai Heroes",
@@ -314,7 +326,7 @@
       "matchCode": "4526467",
       "odds": 1.84,
       "patternScore": 67.15,
-      "patternText": "190.806/284.154",
+      "patternText": "190.820/284.168",
       "aiScore": 52,
       "picks": 2
     },
@@ -325,8 +337,8 @@
       "date": "22.11.2026 17:00",
       "matchCode": "4475157",
       "odds": 1.68,
-      "patternScore": 67.3,
-      "patternText": "210.959/313.445",
+      "patternScore": 67.31,
+      "patternText": "210.977/313.463",
       "aiScore": 54,
       "picks": 4
     },
@@ -338,7 +350,7 @@
       "matchCode": "4481117",
       "odds": 1.55,
       "patternScore": 67.02,
-      "patternText": "195.878/292.282",
+      "patternText": "195.892/292.296",
       "aiScore": 55,
       "picks": 3
     },
@@ -350,24 +362,40 @@
       "matchCode": "4474527",
       "odds": 1.52,
       "patternScore": 67.48,
-      "patternText": "174.904/259.206",
+      "patternText": "174.918/259.220",
       "aiScore": 54,
       "picks": 7
-    },
-    {
-      "home": "Konyaspor",
-      "away": "Besiktas",
-      "league": "TSL",
-      "date": "22.11.2026 13:00",
-      "matchCode": "4542757",
-      "odds": 1.51,
-      "patternScore": 67.46,
-      "patternText": "270.376/400.822",
-      "aiScore": 55,
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Bologna FC",
+      "away": "Udinese",
+      "league": "İTA",
+      "at": "22.11.2026 11:58",
+      "count": 3
+    },
+    {
+      "home": "FC Augsburg",
+      "away": "FSV Mainz 05",
+      "league": "AL1",
+      "at": "22.11.2026 11:58",
+      "count": 18
+    },
+    {
+      "home": "US Sassuolo",
+      "away": "Genoa CFC",
+      "league": "İTA",
+      "at": "22.11.2026 11:57",
+      "count": 3
+    },
+    {
+      "home": "Sparta Rotterdam",
+      "away": "AZ Alkmaar",
+      "league": "HOL",
+      "at": "22.11.2026 11:55",
+      "count": 5
+    },
     {
       "home": "Manisa FK",
       "away": "Pendikspor",
@@ -397,13 +425,6 @@
       "count": 15
     },
     {
-      "home": "FC Augsburg",
-      "away": "FSV Mainz 05",
-      "league": "AL1",
-      "at": "22.11.2026 11:22",
-      "count": 11
-    },
-    {
       "home": "Paris FC",
       "away": "Angers SCO",
       "league": "FR1",
@@ -411,32 +432,11 @@
       "count": 14
     },
     {
-      "home": "Sparta Rotterdam",
-      "away": "AZ Alkmaar",
-      "league": "HOL",
-      "at": "22.11.2026 11:10",
-      "count": 6
-    },
-    {
       "home": "Kaiserslautern",
       "away": "Dynamo Dresden",
       "league": "AL2",
       "at": "22.11.2026 11:07",
       "count": 7
-    },
-    {
-      "home": "Burnley",
-      "away": "Blackburn",
-      "league": "İNCL",
-      "at": "22.11.2026 11:05",
-      "count": 8
-    },
-    {
-      "home": "Hull City",
-      "away": "Brighton & Hove Albion",
-      "league": "İNP",
-      "at": "22.11.2026 10:44",
-      "count": 5
     }
   ],
   "paywall": {
