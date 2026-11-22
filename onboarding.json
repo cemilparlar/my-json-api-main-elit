@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 16:32",
+  "updatedAt": "22.11.2026 16:42",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 1028,
       "rate": 68.7
     },
-    "totalAnalyses": 774915,
+    "totalAnalyses": 774917,
     "leagues": 289,
     "pro": {
       "won": 1235,
@@ -47,8 +47,8 @@
       "total": 14,
       "rate": 28.6
     },
-    "analyses24h": 1864,
-    "analyses30d": 17205
+    "analyses24h": 1859,
+    "analyses30d": 17200
   },
   "recentWins": [
     {
@@ -330,7 +330,7 @@
     "matchCode": "4580870",
     "odds": 3.71,
     "patternScore": 67.01,
-    "patternText": "184.843/275.857",
+    "patternText": "184.863/275.881",
     "aiScore": 50,
     "picks": 8
   },
@@ -343,7 +343,7 @@
       "matchCode": "4580870",
       "odds": 3.71,
       "patternScore": 67.01,
-      "patternText": "184.843/275.857",
+      "patternText": "184.863/275.881",
       "aiScore": 50,
       "picks": 8
     },
@@ -355,21 +355,9 @@
       "matchCode": "4423386",
       "odds": 2.35,
       "patternScore": 67.49,
-      "patternText": "260.989/386.723",
+      "patternText": "261.025/386.771",
       "aiScore": 51,
       "picks": 7
-    },
-    {
-      "home": "Marseille",
-      "away": "Le Mans FC",
-      "league": "FR1",
-      "date": "22.11.2026 19:45",
-      "matchCode": "4476597",
-      "odds": 1.74,
-      "patternScore": 66.84,
-      "patternText": "186.613/279.193",
-      "aiScore": 52,
-      "picks": 5
     },
     {
       "home": "Paok",
@@ -379,7 +367,7 @@
       "matchCode": "4540174",
       "odds": 1.55,
       "patternScore": 67.66,
-      "patternText": "253.086/374.034",
+      "patternText": "253.122/374.082",
       "aiScore": 55,
       "picks": 1
     },
@@ -391,9 +379,21 @@
       "matchCode": "4480772",
       "odds": 1.45,
       "patternScore": 66.71,
-      "patternText": "207.139/310.524",
+      "patternText": "207.159/310.552",
       "aiScore": 58,
       "picks": 3
+    },
+    {
+      "home": "River Plate",
+      "away": "Club Atletico Lanus",
+      "league": "ARJ",
+      "date": "22.11.2026 22:00",
+      "matchCode": "4580871",
+      "odds": 1.45,
+      "patternScore": 67.0,
+      "patternText": "126.054/188.148",
+      "aiScore": 56,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
