@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 13:17",
+  "updatedAt": "22.11.2026 13:32",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 970,
-      "lost": 433,
-      "total": 1403,
-      "rate": 69.1
+      "won": 949,
+      "lost": 419,
+      "total": 1368,
+      "rate": 69.4
     },
-    "totalAnalyses": 774335,
+    "totalAnalyses": 774398,
     "leagues": 289,
     "pro": {
-      "won": 1138,
-      "lost": 422,
-      "total": 1560,
+      "won": 1134,
+      "lost": 421,
+      "total": 1555,
       "rate": 72.9
     },
     "insights": {
-      "won": 1941,
-      "lost": 792,
-      "total": 2733,
-      "rate": 71.0
+      "won": 1935,
+      "lost": 794,
+      "total": 2729,
+      "rate": 70.9
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 11,
       "rate": 27.3
     },
-    "analyses24h": 2661,
-    "analyses30d": 17237
+    "analyses24h": 2616,
+    "analyses30d": 17230
   },
   "recentWins": [
     {
@@ -276,6 +276,12 @@
     },
     {
       "type": "updated",
+      "at": "22.11.2026 10:27",
+      "home": "Bangkok United",
+      "away": "Ayutthaya United"
+    },
+    {
+      "type": "updated",
       "at": "22.11.2026 10:28",
       "home": "Nakhon Ratchasima FC",
       "away": "Khonkaen Utd"
@@ -285,12 +291,6 @@
       "at": "22.11.2026 10:25",
       "home": "SHB Da Nang",
       "away": "Phu Dong FC"
-    },
-    {
-      "type": "updated",
-      "at": "22.11.2026 10:26",
-      "home": "Arenas De Getx",
-      "away": "Real Aviles"
     }
   ],
   "today": {
@@ -300,8 +300,8 @@
     "date": "22.11.2026 19:00",
     "matchCode": "4580870",
     "odds": 3.71,
-    "patternScore": 67.02,
-    "patternText": "183.731/274.143",
+    "patternScore": 67.01,
+    "patternText": "183.811/274.297",
     "aiScore": 50,
     "picks": 8
   },
@@ -313,8 +313,8 @@
       "date": "22.11.2026 19:00",
       "matchCode": "4580870",
       "odds": 3.71,
-      "patternScore": 67.02,
-      "patternText": "183.731/274.143",
+      "patternScore": 67.01,
+      "patternText": "183.811/274.297",
       "aiScore": 50,
       "picks": 8
     },
@@ -326,7 +326,7 @@
       "matchCode": "4423386",
       "odds": 2.35,
       "patternScore": 67.48,
-      "patternText": "259.385/384.361",
+      "patternText": "259.525/384.575",
       "aiScore": 51,
       "picks": 7
     },
@@ -338,7 +338,7 @@
       "matchCode": "4484229",
       "odds": 1.61,
       "patternScore": 68.85,
-      "patternText": "176.592/256.487",
+      "patternText": "176.724/256.677",
       "aiScore": 55,
       "picks": 3
     },
@@ -350,92 +350,92 @@
       "matchCode": "4495515",
       "odds": 1.53,
       "patternScore": 67.65,
-      "patternText": "312.060/461.273",
+      "patternText": "312.204/461.523",
       "aiScore": 54,
       "picks": 8
     },
     {
-      "home": "FC Biel-Bienne",
-      "away": "AC Bellinzona",
-      "league": "İSV1Y",
-      "date": "22.11.2026 14:00",
-      "matchCode": "4511529",
-      "odds": 1.49,
-      "patternScore": 68.62,
-      "patternText": "280.654/409.026",
+      "home": "IF Brommapojkarna",
+      "away": "Halmstads BK",
+      "league": "İSÇ",
+      "date": "22.11.2026 15:30",
+      "matchCode": "4426822",
+      "odds": 1.48,
+      "patternScore": 67.13,
+      "patternText": "287.340/428.038",
       "aiScore": 55,
-      "picks": 1
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Lommel United",
-      "away": "Standard Liege",
-      "league": "BEL",
-      "at": "22.11.2026 13:00",
-      "count": 7
-    },
-    {
       "home": "CA Osasuna",
       "away": "Malaga CF",
       "league": "İS1",
-      "at": "22.11.2026 12:58",
+      "at": "22.11.2026 13:32",
       "count": 5
-    },
-    {
-      "home": "Girona FC",
-      "away": "Eibar",
-      "league": "İS2",
-      "at": "22.11.2026 12:57",
-      "count": 7
-    },
-    {
-      "home": "RSC Anderlecht",
-      "away": "OH Leuven",
-      "league": "BEL",
-      "at": "22.11.2026 12:56",
-      "count": 4
-    },
-    {
-      "home": "Celta Vigo B",
-      "away": "Real Valladolid",
-      "league": "İS2",
-      "at": "22.11.2026 12:56",
-      "count": 9
-    },
-    {
-      "home": "AC Milan",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "22.11.2026 12:51",
-      "count": 12
-    },
-    {
-      "home": "Werder Bremen",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "22.11.2026 12:44",
-      "count": 2
     },
     {
       "home": "Liverpool",
       "away": "Manchester United",
       "league": "İNP",
-      "at": "22.11.2026 12:44",
-      "count": 8
+      "at": "22.11.2026 13:30",
+      "count": 10
+    },
+    {
+      "home": "AC Milan",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "at": "22.11.2026 13:30",
+      "count": 4
     },
     {
       "home": "FC Lorient",
       "away": "Stade Rennais",
       "league": "FR1",
-      "at": "22.11.2026 12:42",
-      "count": 5
+      "at": "22.11.2026 13:29",
+      "count": 7
     },
     {
-      "home": "SS Arezzo",
-      "away": "Calcio Padova",
+      "home": "Sporting Gijon",
+      "away": "UD Las Palmas",
+      "league": "İS2",
+      "at": "22.11.2026 13:24",
+      "count": 3
+    },
+    {
+      "home": "FC Augsburg",
+      "away": "FSV Mainz 05",
+      "league": "AL1",
+      "at": "22.11.2026 13:22",
+      "count": 8
+    },
+    {
+      "home": "US Avellino",
+      "away": "Mantova 1911",
       "league": "İTB",
-      "at": "22.11.2026 12:42",
+      "at": "22.11.2026 13:21",
+      "count": 2
+    },
+    {
+      "home": "Paris FC",
+      "away": "Angers SCO",
+      "league": "FR1",
+      "at": "22.11.2026 13:20",
+      "count": 4
+    },
+    {
+      "home": "Bologna FC",
+      "away": "Udinese",
+      "league": "İTA",
+      "at": "22.11.2026 13:19",
+      "count": 2
+    },
+    {
+      "home": "Hull City",
+      "away": "Brighton & Hove Albion",
+      "league": "İNP",
+      "at": "22.11.2026 13:17",
       "count": 6
     }
   ],
