@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 12:18",
+  "updatedAt": "22.11.2026 12:29",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 1538,
       "rate": 69.0
     },
-    "totalAnalyses": 774001,
+    "totalAnalyses": 774016,
     "leagues": 289,
     "pro": {
       "won": 1109,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 2944,
-    "analyses30d": 17266
+    "analyses24h": 2937,
+    "analyses30d": 17259
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     "matchCode": "4474525",
     "odds": 2.01,
     "patternScore": 67.05,
-    "patternText": "267.764/399.343",
+    "patternText": "267.768/399.347",
     "aiScore": 52,
     "picks": 4
   },
@@ -314,7 +314,7 @@
       "matchCode": "4474525",
       "odds": 2.01,
       "patternScore": 67.05,
-      "patternText": "267.764/399.343",
+      "patternText": "267.768/399.347",
       "aiScore": 52,
       "picks": 4
     },
@@ -326,7 +326,7 @@
       "matchCode": "4475157",
       "odds": 1.68,
       "patternScore": 67.3,
-      "patternText": "210.979/313.471",
+      "patternText": "210.981/313.473",
       "aiScore": 54,
       "picks": 4
     },
@@ -338,7 +338,7 @@
       "matchCode": "4481117",
       "odds": 1.55,
       "patternScore": 67.02,
-      "patternText": "195.896/292.312",
+      "patternText": "195.900/292.316",
       "aiScore": 55,
       "picks": 3
     },
@@ -350,7 +350,7 @@
       "matchCode": "4474527",
       "odds": 1.52,
       "patternScore": 67.48,
-      "patternText": "174.920/259.228",
+      "patternText": "174.922/259.230",
       "aiScore": 54,
       "picks": 7
     },
@@ -362,12 +362,19 @@
       "matchCode": "4511529",
       "odds": 1.49,
       "patternScore": 68.62,
-      "patternText": "280.442/408.718",
+      "patternText": "280.446/408.722",
       "aiScore": 55,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Fk Rodina Mosk",
+      "away": "Lokomotiv Moscow",
+      "league": "RUS",
+      "at": "22.11.2026 12:19",
+      "count": 4
+    },
     {
       "home": "Bologna FC",
       "away": "Udinese",
@@ -430,13 +437,6 @@
       "league": "FR1",
       "at": "22.11.2026 11:13",
       "count": 14
-    },
-    {
-      "home": "Kaiserslautern",
-      "away": "Dynamo Dresden",
-      "league": "AL2",
-      "at": "22.11.2026 11:07",
-      "count": 7
     }
   ],
   "paywall": {
