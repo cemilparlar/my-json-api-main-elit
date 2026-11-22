@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 15:47",
+  "updatedAt": "22.11.2026 15:56",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 720,
-      "lost": 316,
-      "total": 1036,
-      "rate": 69.5
+      "won": 744,
+      "lost": 328,
+      "total": 1072,
+      "rate": 69.4
     },
-    "totalAnalyses": 774815,
+    "totalAnalyses": 774827,
     "leagues": 289,
     "pro": {
-      "won": 1208,
-      "lost": 447,
-      "total": 1655,
-      "rate": 73.0
+      "won": 1222,
+      "lost": 454,
+      "total": 1676,
+      "rate": 72.9
     },
     "insights": {
-      "won": 2081,
-      "lost": 851,
-      "total": 2932,
-      "rate": 71.0
+      "won": 2104,
+      "lost": 863,
+      "total": 2967,
+      "rate": 70.9
     },
     "coupons": {
-      "won": 3,
+      "won": 4,
       "lost": 10,
-      "total": 13,
-      "rate": 23.1
+      "total": 14,
+      "rate": 28.6
     },
-    "analyses24h": 1977,
-    "analyses30d": 17225
+    "analyses24h": 1969,
+    "analyses30d": 17217
   },
   "recentWins": [
     {
@@ -123,6 +123,35 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 3,
+      "totalOdds": 1.5,
+      "winChance": 55.05,
+      "completedAt": "22.11.2026 15:56",
+      "legs": [
+        {
+          "home": "FC Norderstedt",
+          "away": "Schoningen",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "Cordoba CF",
+          "away": "Real Oviedo",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.1,
+          "finalScore": "3 - 0"
+        },
+        {
+          "home": "Green Eagles",
+          "away": "Red Arrows",
+          "prediction": "Double Chance 12",
+          "odds": 1.24,
+          "finalScore": "2 - 3"
+        }
+      ]
+    },
     {
       "size": 3,
       "totalOdds": 1.52,
@@ -301,7 +330,7 @@
     "matchCode": "4580870",
     "odds": 3.71,
     "patternScore": 67.02,
-    "patternText": "184.537/275.363",
+    "patternText": "184.619/275.473",
     "aiScore": 50,
     "picks": 8
   },
@@ -314,7 +343,7 @@
       "matchCode": "4580870",
       "odds": 3.71,
       "patternScore": 67.02,
-      "patternText": "184.537/275.363",
+      "patternText": "184.619/275.473",
       "aiScore": 50,
       "picks": 8
     },
@@ -326,7 +355,7 @@
       "matchCode": "4423386",
       "odds": 2.35,
       "patternScore": 67.49,
-      "patternText": "260.611/386.165",
+      "patternText": "260.705/386.287",
       "aiScore": 51,
       "picks": 7
     },
@@ -338,7 +367,7 @@
       "matchCode": "4474527",
       "odds": 1.47,
       "patternScore": 67.43,
-      "patternText": "266.292/394.908",
+      "patternText": "266.386/395.030",
       "aiScore": 53,
       "picks": 5
     },
@@ -350,30 +379,65 @@
       "matchCode": "4423379",
       "odds": 1.44,
       "patternScore": 68.94,
-      "patternText": "104.064/150.952",
+      "patternText": "104.076/150.970",
       "aiScore": 61,
       "picks": 3
+    },
+    {
+      "home": "Police Xi",
+      "away": "Galaxy Fc",
+      "league": "BOTS",
+      "date": "22.11.2026 17:00",
+      "matchCode": "4552622",
+      "odds": 1.36,
+      "patternScore": 67.71,
+      "patternText": "261.018/385.510",
+      "aiScore": 56,
+      "picks": 2
+    }
+  ],
+  "recentAnalyzed": [
+    {
+      "home": "Fluminense FC",
+      "away": "Mirassol FC",
+      "league": "BR1",
+      "at": "22.11.2026 15:53",
+      "count": 3
+    },
+    {
+      "home": "Nashville SC",
+      "away": "FC Cincinnati",
+      "league": "ABD",
+      "at": "22.11.2026 15:52",
+      "count": 4
+    },
+    {
+      "home": "Marseille",
+      "away": "Le Mans FC",
+      "league": "FR1",
+      "at": "22.11.2026 15:51",
+      "count": 1
+    },
+    {
+      "home": "AC Milan",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "at": "22.11.2026 15:50",
+      "count": 4
     },
     {
       "home": "Werder Bremen",
       "away": "Hamburger SV",
       "league": "AL1",
-      "date": "22.11.2026 16:30",
-      "matchCode": "4495518",
-      "odds": 1.38,
-      "patternScore": 66.68,
-      "patternText": "207.233/310.809",
-      "aiScore": 56,
-      "picks": 4
-    }
-  ],
-  "recentAnalyzed": [
+      "at": "22.11.2026 15:49",
+      "count": 5
+    },
     {
-      "home": "Marseille",
-      "away": "Le Mans FC",
-      "league": "FR1",
-      "at": "22.11.2026 15:32",
-      "count": 7
+      "home": "Liverpool",
+      "away": "Manchester United",
+      "league": "İNP",
+      "at": "22.11.2026 15:49",
+      "count": 9
     },
     {
       "home": "Girona FC",
@@ -390,27 +454,6 @@
       "count": 6
     },
     {
-      "home": "Liverpool",
-      "away": "Manchester United",
-      "league": "İNP",
-      "at": "22.11.2026 15:30",
-      "count": 6
-    },
-    {
-      "home": "AC Milan",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "22.11.2026 15:30",
-      "count": 7
-    },
-    {
-      "home": "Nashville SC",
-      "away": "FC Cincinnati",
-      "league": "ABD",
-      "at": "22.11.2026 15:14",
-      "count": 7
-    },
-    {
       "home": "Go Ahead Eagles",
       "away": "Fortuna Sittard",
       "league": "HOL",
@@ -422,20 +465,6 @@
       "away": "Albacete Balompie",
       "league": "İS2",
       "at": "22.11.2026 14:57",
-      "count": 8
-    },
-    {
-      "home": "Werder Bremen",
-      "away": "Hamburger SV",
-      "league": "AL1",
-      "at": "22.11.2026 14:52",
-      "count": 4
-    },
-    {
-      "home": "Getafe CF",
-      "away": "Atletico Madrid",
-      "league": "İS1",
-      "at": "22.11.2026 14:35",
       "count": 8
     }
   ],
