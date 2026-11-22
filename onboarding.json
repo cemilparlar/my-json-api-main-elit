@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 05:19",
+  "updatedAt": "22.11.2026 05:30",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1113,
-      "lost": 492,
-      "total": 1605,
+      "won": 1115,
+      "lost": 494,
+      "total": 1609,
       "rate": 69.3
     },
-    "totalAnalyses": 772778,
+    "totalAnalyses": 772804,
     "leagues": 289,
     "pro": {
-      "won": 1067,
-      "lost": 396,
-      "total": 1463,
+      "won": 1069,
+      "lost": 398,
+      "total": 1467,
       "rate": 72.9
     },
     "insights": {
-      "won": 1829,
-      "lost": 742,
-      "total": 2571,
+      "won": 1831,
+      "lost": 744,
+      "total": 2575,
       "rate": 71.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 7,
       "rate": 28.6
     },
-    "analyses24h": 3071,
-    "analyses30d": 17109
+    "analyses24h": 3081,
+    "analyses30d": 17119
   },
   "recentWins": [
     {
@@ -247,12 +247,6 @@
     },
     {
       "type": "updated",
-      "at": "21.11.2026 23:26",
-      "home": "Wellington Phoenix",
-      "away": "Macarthur FC"
-    },
-    {
-      "type": "updated",
       "at": "22.11.2026 03:28",
       "home": "Roasso Kumamoto",
       "away": "Giravanz Kitakyushu"
@@ -262,6 +256,12 @@
       "at": "22.11.2026 04:10",
       "home": "Gimcheon Sangmu",
       "away": "Jeju United"
+    },
+    {
+      "type": "updated",
+      "at": "22.11.2026 03:50",
+      "home": "Daegu FC",
+      "away": "Gimhae City FC"
     }
   ],
   "today": {
@@ -302,18 +302,6 @@
       "picks": 2
     },
     {
-      "home": "SC Sanjoanense",
-      "away": "Academica de Coimbra",
-      "league": "POK",
-      "date": "22.11.2026 11:00",
-      "matchCode": "4580099",
-      "odds": 1.35,
-      "patternScore": 67.83,
-      "patternText": "251.105/370.213",
-      "aiScore": 58,
-      "picks": 1
-    },
-    {
       "home": "Castellon Ii",
       "away": "Castellonense",
       "league": "İS4",
@@ -322,23 +310,42 @@
       "odds": 1.28,
       "patternScore": 68.39,
       "patternText": "236.210/345.370",
-      "aiScore": 58,
+      "aiScore": 57,
       "picks": 2
     },
     {
-      "home": "Cerezo Osaka",
-      "away": "Kamatamare Sanuki",
-      "league": "JAP3",
-      "date": "22.11.2026 06:00",
-      "matchCode": "4488060",
+      "home": "Erzurumspor FK",
+      "away": "Goztepe",
+      "league": "TSL",
+      "date": "22.11.2026 10:30",
+      "matchCode": "4542760",
       "odds": 1.28,
-      "patternScore": 68.35,
-      "patternText": "218.771/320.089",
-      "aiScore": 61,
-      "picks": 1
+      "patternScore": 67.97,
+      "patternText": "107.706/158.454",
+      "aiScore": 71,
+      "picks": 3
+    },
+    {
+      "home": "Dinamo Moscow",
+      "away": "FK Krasnodar",
+      "league": "RUS",
+      "date": "22.11.2026 11:00",
+      "matchCode": "4485920",
+      "odds": 1.25,
+      "patternScore": 68.56,
+      "patternText": "278.976/406.920",
+      "aiScore": 66,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Dinamo Moscow",
+      "away": "FK Krasnodar",
+      "league": "RUS",
+      "at": "22.11.2026 05:25",
+      "count": 9
+    },
     {
       "home": "Batman Petrolspor",
       "away": "Muglaspor",
@@ -401,13 +408,6 @@
       "league": "FR1",
       "at": "21.11.2026 18:56",
       "count": 6
-    },
-    {
-      "home": "St Pauli",
-      "away": "Bochum",
-      "league": "AL2",
-      "at": "21.11.2026 18:55",
-      "count": 4
     }
   ],
   "paywall": {
