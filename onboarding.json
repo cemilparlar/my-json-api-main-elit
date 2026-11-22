@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 06:55",
+  "updatedAt": "22.11.2026 07:07",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1127,
-      "lost": 498,
-      "total": 1625,
-      "rate": 69.4
+      "won": 1134,
+      "lost": 495,
+      "total": 1629,
+      "rate": 69.6
     },
-    "totalAnalyses": 773007,
+    "totalAnalyses": 773043,
     "leagues": 289,
     "pro": {
-      "won": 1089,
-      "lost": 404,
-      "total": 1493,
-      "rate": 72.9
+      "won": 1095,
+      "lost": 406,
+      "total": 1501,
+      "rate": 73.0
     },
     "insights": {
-      "won": 1861,
-      "lost": 757,
-      "total": 2618,
+      "won": 1871,
+      "lost": 759,
+      "total": 2630,
       "rate": 71.1
     },
     "coupons": {
       "won": 2,
-      "lost": 5,
-      "total": 7,
-      "rate": 28.6
+      "lost": 6,
+      "total": 8,
+      "rate": 25.0
     },
-    "analyses24h": 3078,
-    "analyses30d": 17147
+    "analyses24h": 3089,
+    "analyses30d": 17172
   },
   "recentWins": [
     {
@@ -265,30 +265,18 @@
     }
   ],
   "today": {
-    "home": "VfB Stuttgart Amat.",
-    "away": "FC Ingolstadt",
-    "league": "AL3",
-    "date": "22.11.2026 12:30",
-    "matchCode": "4517725",
-    "odds": 2.03,
-    "patternScore": 67.07,
-    "patternText": "184.445/275.012",
+    "home": "Dinamo Moscow",
+    "away": "FK Krasnodar",
+    "league": "RUS",
+    "date": "22.11.2026 11:00",
+    "matchCode": "4485920",
+    "odds": 1.93,
+    "patternScore": 68.15,
+    "patternText": "255.574/375.036",
     "aiScore": 53,
-    "picks": 6
+    "picks": 5
   },
   "todayList": [
-    {
-      "home": "VfB Stuttgart Amat.",
-      "away": "FC Ingolstadt",
-      "league": "AL3",
-      "date": "22.11.2026 12:30",
-      "matchCode": "4517725",
-      "odds": 2.03,
-      "patternScore": 67.07,
-      "patternText": "184.445/275.012",
-      "aiScore": 53,
-      "picks": 6
-    },
     {
       "home": "Dinamo Moscow",
       "away": "FK Krasnodar",
@@ -296,10 +284,22 @@
       "date": "22.11.2026 11:00",
       "matchCode": "4485920",
       "odds": 1.93,
-      "patternScore": 68.14,
-      "patternText": "255.478/374.912",
+      "patternScore": 68.15,
+      "patternText": "255.574/375.036",
       "aiScore": 53,
       "picks": 5
+    },
+    {
+      "home": "Kaiserslautern",
+      "away": "Dynamo Dresden",
+      "league": "AL2",
+      "date": "22.11.2026 12:30",
+      "matchCode": "4495841",
+      "odds": 1.51,
+      "patternScore": 67.88,
+      "patternText": "258.328/380.571",
+      "aiScore": 55,
+      "picks": 4
     },
     {
       "home": "Esmtk",
@@ -309,9 +309,21 @@
       "matchCode": "4505094",
       "odds": 1.5,
       "patternScore": 67.74,
-      "patternText": "164.468/242.808",
+      "patternText": "164.492/242.836",
       "aiScore": 54,
       "picks": 3
+    },
+    {
+      "home": "Odds Bk",
+      "away": "FK Bryne",
+      "league": "NOR",
+      "date": "22.11.2026 12:30",
+      "matchCode": "4581468",
+      "odds": 1.48,
+      "patternScore": 67.15,
+      "patternText": "289.081/430.503",
+      "aiScore": 56,
+      "picks": 2
     },
     {
       "home": "Batman Petrolspor",
@@ -321,24 +333,19 @@
       "matchCode": "4498886",
       "odds": 1.4,
       "patternScore": 69.21,
-      "patternText": "303.182/438.066",
+      "patternText": "303.240/438.136",
       "aiScore": 60,
       "picks": 3
-    },
-    {
-      "home": "Taiwan Power C",
-      "away": "Tainan City FC",
-      "league": "TAYV",
-      "date": "22.11.2026 07:30",
-      "matchCode": "4564437",
-      "odds": 1.36,
-      "patternScore": 68.04,
-      "patternText": "227.774/334.742",
-      "aiScore": 55,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Karlsruher SC",
+      "away": "Osnabruck",
+      "league": "AL2",
+      "at": "22.11.2026 06:57",
+      "count": 6
+    },
     {
       "home": "Kaiserslautern",
       "away": "Dynamo Dresden",
@@ -400,13 +407,6 @@
       "away": "Columbus Crew",
       "league": "ABD",
       "at": "21.11.2026 22:10",
-      "count": 6
-    },
-    {
-      "home": "Atletico Mineiro",
-      "away": "Boca Juniors",
-      "league": "CSA",
-      "at": "21.11.2026 21:49",
       "count": 6
     }
   ],

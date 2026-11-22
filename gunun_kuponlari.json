@@ -3,11 +3,11 @@
   "stats7": {
     "multi": {
       "won": 2,
-      "lost": 5
+      "lost": 6
     },
     "cyz_3": {
       "won": 2,
-      "lost": 5
+      "lost": 6
     }
   },
   "stats30": {
@@ -45,7 +45,7 @@
     },
     "multi": {
       "won": 101,
-      "lost": 94
+      "lost": 95
     },
     "c70_1": {
       "won": 20,
@@ -73,11 +73,11 @@
     },
     "cyz_3": {
       "won": 8,
-      "lost": 11
+      "lost": 12
     }
   },
-  "updatedAt": "22.11.2026 06:55",
-  "updatedAtUtc": "2026-11-22T06:55:00Z",
+  "updatedAt": "22.11.2026 07:07",
+  "updatedAtUtc": "2026-11-22T07:07:00Z",
   "upcoming": [
     {
       "id": "20261122-05-1",
@@ -161,13 +161,15 @@
           "patternScore": 69.37,
           "patternText": "175.328/252.734",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 1",
+          "status": "won",
           "aiScore": 81
         }
       ]
-    },
+    }
+  ],
+  "completed": [
     {
       "id": "20261122-07-1",
       "createdAt": "22.11.2026 04:00",
@@ -178,8 +180,8 @@
       "winChance": 49.68,
       "firstKickoff": "22.11.2026 05:00",
       "lastKickoff": "22.11.2026 05:00",
-      "status": "live",
-      "completedAt": null,
+      "status": "lost",
+      "completedAt": "22.11.2026 07:07",
       "kind": "cyz_3",
       "group": "multi",
       "formula": "3",
@@ -227,9 +229,9 @@
           "patternScore": 69.92,
           "patternText": "167.101/239.003",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "3 - 0",
+          "status": "won",
           "aiScore": 82
         },
         {
@@ -250,15 +252,13 @@
           "patternScore": 69.49,
           "patternText": "279.654/402.438",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 1",
+          "status": "lost",
           "aiScore": 80
         }
       ]
-    }
-  ],
-  "completed": [
+    },
     {
       "id": "20261122-00-1",
       "createdAt": "21.11.2026 21:01",
