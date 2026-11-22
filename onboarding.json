@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 07:53",
+  "updatedAt": "22.11.2026 08:03",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1142,
-      "lost": 500,
-      "total": 1642,
+      "won": 1146,
+      "lost": 503,
+      "total": 1649,
       "rate": 69.5
     },
-    "totalAnalyses": 773245,
+    "totalAnalyses": 773285,
     "leagues": 289,
     "pro": {
-      "won": 1104,
-      "lost": 410,
-      "total": 1514,
+      "won": 1106,
+      "lost": 411,
+      "total": 1517,
       "rate": 72.9
     },
     "insights": {
-      "won": 1887,
-      "lost": 768,
-      "total": 2655,
-      "rate": 71.1
+      "won": 1891,
+      "lost": 771,
+      "total": 2662,
+      "rate": 71.0
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3098,
-    "analyses30d": 17198
+    "analyses24h": 3108,
+    "analyses30d": 17208
   },
   "recentWins": [
     {
@@ -247,20 +247,20 @@
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.51,
-      "at": "22.11.2026 04:00"
+      "odds": 1.52,
+      "at": "22.11.2026 08:03"
     },
     {
       "type": "coupon",
       "size": 3,
       "odds": 1.52,
-      "at": "22.11.2026 02:03"
+      "at": "22.11.2026 08:03"
     },
     {
       "type": "coupon",
       "size": 3,
       "odds": 1.52,
-      "at": "21.11.2026 21:01"
+      "at": "22.11.2026 08:03"
     },
     {
       "type": "updated",
@@ -288,9 +288,9 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 07:51",
-      "home": "Viktoria Zizko",
-      "away": "SFC Opava"
+      "at": "22.11.2026 06:30",
+      "home": "Getafe B",
+      "away": "Rsd Alcala"
     }
   ],
   "today": {
@@ -301,7 +301,7 @@
     "matchCode": "4485920",
     "odds": 1.93,
     "patternScore": 68.14,
-    "patternText": "255.638/375.158",
+    "patternText": "255.648/375.172",
     "aiScore": 53,
     "picks": 5
   },
@@ -314,9 +314,33 @@
       "matchCode": "4485920",
       "odds": 1.93,
       "patternScore": 68.14,
-      "patternText": "255.638/375.158",
+      "patternText": "255.648/375.172",
       "aiScore": 53,
       "picks": 5
+    },
+    {
+      "home": "FC Biel-Bienne",
+      "away": "AC Bellinzona",
+      "league": "İSV1Y",
+      "date": "22.11.2026 14:00",
+      "matchCode": "4511529",
+      "odds": 1.74,
+      "patternScore": 66.95,
+      "patternText": "192.725/287.844",
+      "aiScore": 53,
+      "picks": 3
+    },
+    {
+      "home": "US Avellino",
+      "away": "Mantova 1911",
+      "league": "İTB",
+      "date": "22.11.2026 14:00",
+      "matchCode": "4534789",
+      "odds": 1.59,
+      "patternScore": 68.07,
+      "patternText": "179.626/263.878",
+      "aiScore": 54,
+      "picks": 7
     },
     {
       "home": "Esmtk",
@@ -338,36 +362,33 @@
       "matchCode": "4581468",
       "odds": 1.48,
       "patternScore": 67.15,
-      "patternText": "289.141/430.609",
+      "patternText": "289.155/430.627",
       "aiScore": 56,
       "picks": 2
-    },
-    {
-      "home": "Fujairah FC",
-      "away": "Al Urooba",
-      "league": "BAE2",
-      "date": "22.11.2026 12:40",
-      "matchCode": "4574644",
-      "odds": 1.45,
-      "patternScore": 67.94,
-      "patternText": "241.469/355.422",
-      "aiScore": 56,
-      "picks": 2
-    },
-    {
-      "home": "Dinamo Samarqa",
-      "away": "Bunyodkor",
-      "league": "ÖZB",
-      "date": "22.11.2026 11:00",
-      "matchCode": "4447660",
-      "odds": 1.41,
-      "patternScore": 68.68,
-      "patternText": "269.102/391.810",
-      "aiScore": 57,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Waasland-Beveren",
+      "away": "KAA Gent",
+      "league": "BEL",
+      "at": "22.11.2026 08:01",
+      "count": 8
+    },
+    {
+      "home": "Burnley",
+      "away": "Blackburn",
+      "league": "İNCL",
+      "at": "22.11.2026 07:59",
+      "count": 7
+    },
+    {
+      "home": "Juventus",
+      "away": "Unione V.",
+      "league": "İTA",
+      "at": "22.11.2026 07:58",
+      "count": 4
+    },
     {
       "home": "Erzurumspor FK",
       "away": "Goztepe",
@@ -415,27 +436,6 @@
       "away": "Osnabruck",
       "league": "AL2",
       "at": "22.11.2026 06:57",
-      "count": 6
-    },
-    {
-      "home": "Waasland-Beveren",
-      "away": "KAA Gent",
-      "league": "BEL",
-      "at": "22.11.2026 06:53",
-      "count": 7
-    },
-    {
-      "home": "Juventus",
-      "away": "Unione V.",
-      "league": "İTA",
-      "at": "22.11.2026 06:39",
-      "count": 14
-    },
-    {
-      "home": "Burnley",
-      "away": "Blackburn",
-      "league": "İNCL",
-      "at": "22.11.2026 06:19",
       "count": 6
     }
   ],
