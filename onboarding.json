@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 19:50",
+  "updatedAt": "22.11.2026 19:59",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 734,
-      "lost": 371,
-      "total": 1105,
+      "won": 736,
+      "lost": 372,
+      "total": 1108,
       "rate": 66.4
     },
-    "totalAnalyses": 775097,
+    "totalAnalyses": 775111,
     "leagues": 289,
     "pro": {
-      "won": 1326,
+      "won": 1327,
       "lost": 492,
-      "total": 1818,
-      "rate": 72.9
+      "total": 1819,
+      "rate": 73.0
     },
     "insights": {
-      "won": 2274,
-      "lost": 936,
-      "total": 3210,
+      "won": 2275,
+      "lost": 937,
+      "total": 3212,
       "rate": 70.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 16,
       "rate": 31.2
     },
-    "analyses24h": 1595,
-    "analyses30d": 16968
+    "analyses24h": 1610,
+    "analyses30d": 16983
   },
   "recentWins": [
     {
@@ -293,12 +293,6 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 13:53",
-      "home": "FC Augsburg",
-      "away": "FSV Mainz 05"
-    },
-    {
-      "type": "updated",
       "at": "22.11.2026 14:11",
       "home": "Barakaldo CF",
       "away": "Unionistas De S"
@@ -311,15 +305,21 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 13:57",
-      "home": "UTA Arad",
-      "away": "Universitatea Craiova"
-    },
-    {
-      "type": "updated",
       "at": "22.11.2026 14:51",
       "home": "IF Brommapojkarna",
       "away": "Halmstads BK"
+    },
+    {
+      "type": "updated",
+      "at": "22.11.2026 15:10",
+      "home": "Go Ahead Eagles",
+      "away": "Fortuna Sittard"
+    },
+    {
+      "type": "updated",
+      "at": "22.11.2026 15:30",
+      "home": "FC Lorient",
+      "away": "Stade Rennais"
     }
   ],
   "today": {
@@ -367,7 +367,7 @@
       "matchCode": "4574416",
       "odds": 1.41,
       "patternScore": 67.02,
-      "patternText": "203.325/303.379",
+      "patternText": "203.327/303.381",
       "aiScore": 55,
       "picks": 2
     },
@@ -379,7 +379,7 @@
       "matchCode": "4423379",
       "odds": 1.4,
       "patternScore": 68.0,
-      "patternText": "192.066/282.445",
+      "patternText": "192.068/282.447",
       "aiScore": 56,
       "picks": 5
     },
@@ -401,8 +401,8 @@
       "home": "Vancouver Whitecaps",
       "away": "Salt Lake",
       "league": "ABD",
-      "at": "22.11.2026 19:36",
-      "count": 1
+      "at": "22.11.2026 19:53",
+      "count": 14
     },
     {
       "home": "Getafe CF",
