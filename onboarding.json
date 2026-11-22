@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 05:30",
+  "updatedAt": "22.11.2026 05:40",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1115,
+      "won": 1116,
       "lost": 494,
-      "total": 1609,
+      "total": 1610,
       "rate": 69.3
     },
-    "totalAnalyses": 772804,
+    "totalAnalyses": 772837,
     "leagues": 289,
     "pro": {
       "won": 1069,
@@ -36,9 +36,9 @@
       "rate": 72.9
     },
     "insights": {
-      "won": 1831,
+      "won": 1832,
       "lost": 744,
-      "total": 2575,
+      "total": 2576,
       "rate": 71.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 7,
       "rate": 28.6
     },
-    "analyses24h": 3081,
-    "analyses30d": 17119
+    "analyses24h": 3088,
+    "analyses30d": 17126
   },
   "recentWins": [
     {
@@ -265,18 +265,30 @@
     }
   ],
   "today": {
-    "home": "Batman Petrolspor",
-    "away": "Muglaspor",
-    "league": "T1L",
-    "date": "22.11.2026 10:30",
-    "matchCode": "4498886",
-    "odds": 1.4,
-    "patternScore": 69.21,
-    "patternText": "303.008/437.806",
-    "aiScore": 60,
-    "picks": 3
+    "home": "Dinamo Moscow",
+    "away": "FK Krasnodar",
+    "league": "RUS",
+    "date": "22.11.2026 11:00",
+    "matchCode": "4485920",
+    "odds": 1.93,
+    "patternScore": 68.14,
+    "patternText": "255.336/374.708",
+    "aiScore": 53,
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "Dinamo Moscow",
+      "away": "FK Krasnodar",
+      "league": "RUS",
+      "date": "22.11.2026 11:00",
+      "matchCode": "4485920",
+      "odds": 1.93,
+      "patternScore": 68.14,
+      "patternText": "255.336/374.708",
+      "aiScore": 53,
+      "picks": 5
+    },
     {
       "home": "Batman Petrolspor",
       "away": "Muglaspor",
@@ -285,7 +297,7 @@
       "matchCode": "4498886",
       "odds": 1.4,
       "patternScore": 69.21,
-      "patternText": "303.008/437.806",
+      "patternText": "303.012/437.814",
       "aiScore": 60,
       "picks": 3
     },
@@ -297,20 +309,8 @@
       "matchCode": "4564437",
       "odds": 1.36,
       "patternScore": 68.04,
-      "patternText": "227.628/334.532",
+      "patternText": "227.632/334.538",
       "aiScore": 55,
-      "picks": 2
-    },
-    {
-      "home": "Castellon Ii",
-      "away": "Castellonense",
-      "league": "İS4",
-      "date": "22.11.2026 11:00",
-      "matchCode": "4551953",
-      "odds": 1.28,
-      "patternScore": 68.39,
-      "patternText": "236.210/345.370",
-      "aiScore": 57,
       "picks": 2
     },
     {
@@ -326,19 +326,26 @@
       "picks": 3
     },
     {
-      "home": "Dinamo Moscow",
-      "away": "FK Krasnodar",
-      "league": "RUS",
+      "home": "San Cristobal",
+      "away": "Tona",
+      "league": "İSTL",
       "date": "22.11.2026 11:00",
-      "matchCode": "4485920",
-      "odds": 1.25,
-      "patternScore": 68.56,
-      "patternText": "278.976/406.920",
-      "aiScore": 66,
-      "picks": 4
+      "matchCode": "4529505",
+      "odds": 1.23,
+      "patternScore": 68.49,
+      "patternText": "239.880/350.242",
+      "aiScore": 64,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Juventus",
+      "away": "Unione V.",
+      "league": "İTA",
+      "at": "22.11.2026 05:40",
+      "count": 7
+    },
     {
       "home": "Dinamo Moscow",
       "away": "FK Krasnodar",
@@ -401,13 +408,6 @@
       "league": "İTA",
       "at": "21.11.2026 18:56",
       "count": 4
-    },
-    {
-      "home": "AS Monaco",
-      "away": "AJ Auxerre",
-      "league": "FR1",
-      "at": "21.11.2026 18:56",
-      "count": 6
     }
   ],
   "paywall": {
