@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 14:02",
+  "updatedAt": "22.11.2026 14:12",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 872,
-      "lost": 397,
-      "total": 1269,
-      "rate": 68.7
+      "won": 888,
+      "lost": 402,
+      "total": 1290,
+      "rate": 68.8
     },
-    "totalAnalyses": 774508,
+    "totalAnalyses": 774533,
     "leagues": 289,
     "pro": {
-      "won": 1133,
-      "lost": 422,
-      "total": 1555,
-      "rate": 72.9
+      "won": 1137,
+      "lost": 424,
+      "total": 1561,
+      "rate": 72.8
     },
     "insights": {
-      "won": 1945,
-      "lost": 810,
-      "total": 2755,
+      "won": 1953,
+      "lost": 815,
+      "total": 2768,
       "rate": 70.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 11,
       "rate": 27.3
     },
-    "analyses24h": 2481,
-    "analyses30d": 17231
+    "analyses24h": 2498,
+    "analyses30d": 17248
   },
   "recentWins": [
     {
@@ -369,6 +369,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Atalanta",
+      "away": "Inter",
+      "league": "İTA",
+      "at": "22.11.2026 14:04",
+      "count": 3
+    },
+    {
       "home": "AC Milan",
       "away": "Frosinone Calcio",
       "league": "İTA",
@@ -430,13 +437,6 @@
       "league": "İTA",
       "at": "22.11.2026 13:19",
       "count": 2
-    },
-    {
-      "home": "Hull City",
-      "away": "Brighton & Hove Albion",
-      "league": "İNP",
-      "at": "22.11.2026 13:17",
-      "count": 6
     }
   ],
   "paywall": {
