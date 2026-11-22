@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 13:52",
+  "updatedAt": "22.11.2026 14:02",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 950,
-      "lost": 430,
-      "total": 1380,
-      "rate": 68.8
+      "won": 872,
+      "lost": 397,
+      "total": 1269,
+      "rate": 68.7
     },
-    "totalAnalyses": 774467,
+    "totalAnalyses": 774508,
     "leagues": 289,
     "pro": {
-      "won": 1140,
-      "lost": 423,
-      "total": 1563,
+      "won": 1133,
+      "lost": 422,
+      "total": 1555,
       "rate": 72.9
     },
     "insights": {
-      "won": 1953,
-      "lost": 812,
-      "total": 2765,
+      "won": 1945,
+      "lost": 810,
+      "total": 2755,
       "rate": 70.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 11,
       "rate": 27.3
     },
-    "analyses24h": 2581,
-    "analyses30d": 17217
+    "analyses24h": 2481,
+    "analyses30d": 17231
   },
   "recentWins": [
     {
@@ -270,12 +270,6 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 07:52",
-      "home": "Erzurumspor FK",
-      "away": "Goztepe"
-    },
-    {
-      "type": "updated",
       "at": "22.11.2026 10:27",
       "home": "Bangkok United",
       "away": "Ayutthaya United"
@@ -291,6 +285,12 @@
       "at": "22.11.2026 10:25",
       "home": "SHB Da Nang",
       "away": "Phu Dong FC"
+    },
+    {
+      "type": "updated",
+      "at": "22.11.2026 10:26",
+      "home": "Arenas De Getx",
+      "away": "Real Aviles"
     }
   ],
   "today": {
@@ -301,7 +301,7 @@
     "matchCode": "4580870",
     "odds": 3.71,
     "patternScore": 67.01,
-    "patternText": "183.903/274.449",
+    "patternText": "183.903/274.451",
     "aiScore": 50,
     "picks": 8
   },
@@ -314,7 +314,7 @@
       "matchCode": "4580870",
       "odds": 3.71,
       "patternScore": 67.01,
-      "patternText": "183.903/274.449",
+      "patternText": "183.903/274.451",
       "aiScore": 50,
       "picks": 8
     },
@@ -326,7 +326,7 @@
       "matchCode": "4423386",
       "odds": 2.35,
       "patternScore": 67.48,
-      "patternText": "259.677/384.839",
+      "patternText": "259.677/384.845",
       "aiScore": 51,
       "picks": 7
     },
@@ -338,7 +338,7 @@
       "matchCode": "4484229",
       "odds": 1.61,
       "patternScore": 68.85,
-      "patternText": "176.812/256.821",
+      "patternText": "176.812/256.823",
       "aiScore": 55,
       "picks": 3
     },
@@ -350,7 +350,7 @@
       "matchCode": "4426822",
       "odds": 1.48,
       "patternScore": 67.13,
-      "patternText": "287.536/428.334",
+      "patternText": "287.536/428.340",
       "aiScore": 54,
       "picks": 6
     },
@@ -362,12 +362,26 @@
       "matchCode": "4474527",
       "odds": 1.47,
       "patternScore": 67.42,
-      "patternText": "265.494/393.766",
+      "patternText": "265.494/393.772",
       "aiScore": 53,
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "AC Milan",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "at": "22.11.2026 13:58",
+      "count": 11
+    },
+    {
+      "home": "FC Augsburg",
+      "away": "FSV Mainz 05",
+      "league": "AL1",
+      "at": "22.11.2026 13:53",
+      "count": 8
+    },
     {
       "home": "CA Osasuna",
       "away": "Malaga CF",
@@ -383,13 +397,6 @@
       "count": 10
     },
     {
-      "home": "AC Milan",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "22.11.2026 13:30",
-      "count": 4
-    },
-    {
       "home": "FC Lorient",
       "away": "Stade Rennais",
       "league": "FR1",
@@ -402,13 +409,6 @@
       "league": "İS2",
       "at": "22.11.2026 13:24",
       "count": 3
-    },
-    {
-      "home": "FC Augsburg",
-      "away": "FSV Mainz 05",
-      "league": "AL1",
-      "at": "22.11.2026 13:22",
-      "count": 8
     },
     {
       "home": "US Avellino",
