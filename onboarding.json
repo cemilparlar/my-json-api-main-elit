@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 07:07",
+  "updatedAt": "22.11.2026 07:17",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1134,
-      "lost": 495,
-      "total": 1629,
-      "rate": 69.6
+      "won": 1143,
+      "lost": 502,
+      "total": 1645,
+      "rate": 69.5
     },
-    "totalAnalyses": 773043,
+    "totalAnalyses": 773103,
     "leagues": 289,
     "pro": {
-      "won": 1095,
-      "lost": 406,
-      "total": 1501,
-      "rate": 73.0
+      "won": 1100,
+      "lost": 408,
+      "total": 1508,
+      "rate": 72.9
     },
     "insights": {
-      "won": 1871,
-      "lost": 759,
-      "total": 2630,
+      "won": 1880,
+      "lost": 765,
+      "total": 2645,
       "rate": 71.1
     },
     "coupons": {
-      "won": 2,
+      "won": 3,
       "lost": 6,
-      "total": 8,
-      "rate": 25.0
+      "total": 9,
+      "rate": 33.3
     },
-    "analyses24h": 3089,
-    "analyses30d": 17172
+    "analyses24h": 3085,
+    "analyses30d": 17168
   },
   "recentWins": [
     {
@@ -123,6 +123,35 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 3,
+      "totalOdds": 1.52,
+      "winChance": 50.97,
+      "completedAt": "22.11.2026 07:17",
+      "legs": [
+        {
+          "home": "Roasso Kumamoto",
+          "away": "Giravanz Kitakyushu",
+          "prediction": "Double Chance 12",
+          "odds": 1.09,
+          "finalScore": "1 - 0"
+        },
+        {
+          "home": "Tokushima Vortis",
+          "away": "Shonan Bellmare",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.15,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "Gimcheon Sangmu",
+          "away": "Jeju United",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.21,
+          "finalScore": "0 - 1"
+        }
+      ]
+    },
     {
       "size": 3,
       "totalOdds": 1.51,
@@ -272,7 +301,7 @@
     "matchCode": "4485920",
     "odds": 1.93,
     "patternScore": 68.15,
-    "patternText": "255.574/375.036",
+    "patternText": "255.588/375.050",
     "aiScore": 53,
     "picks": 5
   },
@@ -285,7 +314,7 @@
       "matchCode": "4485920",
       "odds": 1.93,
       "patternScore": 68.15,
-      "patternText": "255.574/375.036",
+      "patternText": "255.588/375.050",
       "aiScore": 53,
       "picks": 5
     },
@@ -297,7 +326,7 @@
       "matchCode": "4495841",
       "odds": 1.51,
       "patternScore": 67.88,
-      "patternText": "258.328/380.571",
+      "patternText": "258.342/380.585",
       "aiScore": 55,
       "picks": 4
     },
@@ -321,37 +350,51 @@
       "matchCode": "4581468",
       "odds": 1.48,
       "patternScore": 67.15,
-      "patternText": "289.081/430.503",
+      "patternText": "289.095/430.517",
       "aiScore": 56,
       "picks": 2
     },
     {
-      "home": "Batman Petrolspor",
-      "away": "Muglaspor",
-      "league": "T1L",
-      "date": "22.11.2026 10:30",
-      "matchCode": "4498886",
-      "odds": 1.4,
-      "patternScore": 69.21,
-      "patternText": "303.240/438.136",
-      "aiScore": 60,
-      "picks": 3
+      "home": "Fujairah FC",
+      "away": "Al Urooba",
+      "league": "BAE2",
+      "date": "22.11.2026 12:40",
+      "matchCode": "4574644",
+      "odds": 1.45,
+      "patternScore": 67.94,
+      "patternText": "241.421/355.332",
+      "aiScore": 56,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Cordoba CF",
+      "away": "Real Oviedo",
+      "league": "İS2",
+      "at": "22.11.2026 07:17",
+      "count": 8
+    },
+    {
+      "home": "Manisa FK",
+      "away": "Pendikspor",
+      "league": "T1L",
+      "at": "22.11.2026 07:17",
+      "count": 1
+    },
+    {
+      "home": "Kaiserslautern",
+      "away": "Dynamo Dresden",
+      "league": "AL2",
+      "at": "22.11.2026 07:15",
+      "count": 6
+    },
     {
       "home": "Karlsruher SC",
       "away": "Osnabruck",
       "league": "AL2",
       "at": "22.11.2026 06:57",
       "count": 6
-    },
-    {
-      "home": "Kaiserslautern",
-      "away": "Dynamo Dresden",
-      "league": "AL2",
-      "at": "22.11.2026 06:54",
-      "count": 8
     },
     {
       "home": "Waasland-Beveren",
@@ -394,20 +437,6 @@
       "league": "T1L",
       "at": "22.11.2026 04:49",
       "count": 3
-    },
-    {
-      "home": "Chapecoense AF",
-      "away": "Cruzeiro EC",
-      "league": "BR1",
-      "at": "21.11.2026 22:42",
-      "count": 1
-    },
-    {
-      "home": "Inter Miami CF",
-      "away": "Columbus Crew",
-      "league": "ABD",
-      "at": "21.11.2026 22:10",
-      "count": 6
     }
   ],
   "paywall": {
