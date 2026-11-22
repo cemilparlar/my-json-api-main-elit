@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 07:17",
+  "updatedAt": "22.11.2026 07:27",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1143,
+      "won": 1145,
       "lost": 502,
-      "total": 1645,
+      "total": 1647,
       "rate": 69.5
     },
-    "totalAnalyses": 773103,
+    "totalAnalyses": 773141,
     "leagues": 289,
     "pro": {
-      "won": 1100,
+      "won": 1101,
       "lost": 408,
-      "total": 1508,
-      "rate": 72.9
+      "total": 1509,
+      "rate": 73.0
     },
     "insights": {
-      "won": 1880,
+      "won": 1882,
       "lost": 765,
-      "total": 2645,
+      "total": 2647,
       "rate": 71.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3085,
-    "analyses30d": 17168
+    "analyses24h": 3096,
+    "analyses30d": 17179
   },
   "recentWins": [
     {
@@ -300,8 +300,8 @@
     "date": "22.11.2026 11:00",
     "matchCode": "4485920",
     "odds": 1.93,
-    "patternScore": 68.15,
-    "patternText": "255.588/375.050",
+    "patternScore": 68.14,
+    "patternText": "255.630/375.146",
     "aiScore": 53,
     "picks": 5
   },
@@ -313,22 +313,10 @@
       "date": "22.11.2026 11:00",
       "matchCode": "4485920",
       "odds": 1.93,
-      "patternScore": 68.15,
-      "patternText": "255.588/375.050",
+      "patternScore": 68.14,
+      "patternText": "255.630/375.146",
       "aiScore": 53,
       "picks": 5
-    },
-    {
-      "home": "Kaiserslautern",
-      "away": "Dynamo Dresden",
-      "league": "AL2",
-      "date": "22.11.2026 12:30",
-      "matchCode": "4495841",
-      "odds": 1.51,
-      "patternScore": 67.88,
-      "patternText": "258.342/380.585",
-      "aiScore": 55,
-      "picks": 4
     },
     {
       "home": "Esmtk",
@@ -338,7 +326,7 @@
       "matchCode": "4505094",
       "odds": 1.5,
       "patternScore": 67.74,
-      "patternText": "164.492/242.836",
+      "patternText": "164.520/242.880",
       "aiScore": 54,
       "picks": 3
     },
@@ -350,7 +338,7 @@
       "matchCode": "4581468",
       "odds": 1.48,
       "patternScore": 67.15,
-      "patternText": "289.095/430.517",
+      "patternText": "289.133/430.597",
       "aiScore": 56,
       "picks": 2
     },
@@ -362,12 +350,38 @@
       "matchCode": "4574644",
       "odds": 1.45,
       "patternScore": 67.94,
-      "patternText": "241.421/355.332",
+      "patternText": "241.459/355.404",
       "aiScore": 56,
       "picks": 2
+    },
+    {
+      "home": "Dinamo Samarqa",
+      "away": "Bunyodkor",
+      "league": "ÖZB",
+      "date": "22.11.2026 11:00",
+      "matchCode": "4447660",
+      "odds": 1.41,
+      "patternScore": 68.68,
+      "patternText": "269.090/391.794",
+      "aiScore": 57,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Esenler Erokspor",
+      "away": "Antalyaspor",
+      "league": "T1L",
+      "at": "22.11.2026 07:22",
+      "count": 2
+    },
+    {
+      "home": "Konyaspor",
+      "away": "Besiktas",
+      "league": "TSL",
+      "at": "22.11.2026 07:22",
+      "count": 6
+    },
     {
       "home": "Cordoba CF",
       "away": "Real Oviedo",
@@ -423,20 +437,6 @@
       "league": "TSL",
       "at": "22.11.2026 06:12",
       "count": 5
-    },
-    {
-      "home": "Dinamo Moscow",
-      "away": "FK Krasnodar",
-      "league": "RUS",
-      "at": "22.11.2026 05:25",
-      "count": 9
-    },
-    {
-      "home": "Batman Petrolspor",
-      "away": "Muglaspor",
-      "league": "T1L",
-      "at": "22.11.2026 04:49",
-      "count": 3
     }
   ],
   "paywall": {
