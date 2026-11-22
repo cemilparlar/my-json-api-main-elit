@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 15:28",
+  "updatedAt": "22.11.2026 15:38",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 730,
-      "lost": 330,
-      "total": 1060,
-      "rate": 68.9
+      "won": 704,
+      "lost": 311,
+      "total": 1015,
+      "rate": 69.4
     },
-    "totalAnalyses": 774764,
+    "totalAnalyses": 774793,
     "leagues": 289,
     "pro": {
-      "won": 1208,
+      "won": 1203,
       "lost": 444,
-      "total": 1652,
-      "rate": 73.1
+      "total": 1647,
+      "rate": 73.0
     },
     "insights": {
-      "won": 2074,
-      "lost": 849,
-      "total": 2923,
-      "rate": 71.0
+      "won": 2068,
+      "lost": 847,
+      "total": 2915,
+      "rate": 70.9
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 13,
       "rate": 23.1
     },
-    "analyses24h": 2034,
-    "analyses30d": 17232
+    "analyses24h": 1982,
+    "analyses30d": 17227
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     "matchCode": "4580870",
     "odds": 3.71,
     "patternScore": 67.02,
-    "patternText": "184.477/275.275",
+    "patternText": "184.537/275.363",
     "aiScore": 50,
     "picks": 8
   },
@@ -314,7 +314,7 @@
       "matchCode": "4580870",
       "odds": 3.71,
       "patternScore": 67.02,
-      "patternText": "184.477/275.275",
+      "patternText": "184.537/275.363",
       "aiScore": 50,
       "picks": 8
     },
@@ -325,8 +325,8 @@
       "date": "22.11.2026 19:45",
       "matchCode": "4476597",
       "odds": 3.45,
-      "patternScore": 66.91,
-      "patternText": "185.057/276.559",
+      "patternScore": 66.92,
+      "patternText": "185.117/276.643",
       "aiScore": 50,
       "picks": 6
     },
@@ -338,7 +338,7 @@
       "matchCode": "4423386",
       "odds": 2.35,
       "patternScore": 67.49,
-      "patternText": "260.403/385.861",
+      "patternText": "260.611/386.165",
       "aiScore": 51,
       "picks": 7
     },
@@ -350,7 +350,7 @@
       "matchCode": "4484229",
       "odds": 1.54,
       "patternScore": 67.21,
-      "patternText": "271.121/403.404",
+      "patternText": "271.337/403.692",
       "aiScore": 53,
       "picks": 2
     },
@@ -362,46 +362,53 @@
       "matchCode": "4474527",
       "odds": 1.47,
       "patternScore": 67.43,
-      "patternText": "266.152/394.716",
+      "patternText": "266.292/394.908",
       "aiScore": 53,
       "picks": 5
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Nashville SC",
-      "away": "FC Cincinnati",
-      "league": "ABD",
-      "at": "22.11.2026 15:14",
-      "count": 7
-    },
-    {
-      "home": "AC Milan",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "22.11.2026 15:14",
-      "count": 11
-    },
-    {
       "home": "Marseille",
       "away": "Le Mans FC",
       "league": "FR1",
-      "at": "22.11.2026 15:14",
+      "at": "22.11.2026 15:32",
       "count": 7
     },
     {
-      "home": "Liverpool",
-      "away": "Manchester United",
-      "league": "İNP",
-      "at": "22.11.2026 15:12",
-      "count": 17
+      "home": "Girona FC",
+      "away": "Eibar",
+      "league": "İS2",
+      "at": "22.11.2026 15:31",
+      "count": 7
     },
     {
       "home": "FC Lorient",
       "away": "Stade Rennais",
       "league": "FR1",
-      "at": "22.11.2026 15:11",
-      "count": 5
+      "at": "22.11.2026 15:30",
+      "count": 6
+    },
+    {
+      "home": "Liverpool",
+      "away": "Manchester United",
+      "league": "İNP",
+      "at": "22.11.2026 15:30",
+      "count": 6
+    },
+    {
+      "home": "AC Milan",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "at": "22.11.2026 15:30",
+      "count": 7
+    },
+    {
+      "home": "Nashville SC",
+      "away": "FC Cincinnati",
+      "league": "ABD",
+      "at": "22.11.2026 15:14",
+      "count": 7
     },
     {
       "home": "Go Ahead Eagles",
@@ -430,13 +437,6 @@
       "league": "İS1",
       "at": "22.11.2026 14:35",
       "count": 8
-    },
-    {
-      "home": "SS Arezzo",
-      "away": "Calcio Padova",
-      "league": "İTB",
-      "at": "22.11.2026 14:24",
-      "count": 4
     }
   ],
   "paywall": {
