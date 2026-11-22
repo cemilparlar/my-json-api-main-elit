@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 04:45",
+  "updatedAt": "22.11.2026 04:54",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1152,
-      "lost": 504,
-      "total": 1656,
+      "won": 1158,
+      "lost": 505,
+      "total": 1663,
       "rate": 69.6
     },
-    "totalAnalyses": 772707,
+    "totalAnalyses": 772718,
     "leagues": 289,
     "pro": {
-      "won": 1064,
+      "won": 1068,
       "lost": 393,
-      "total": 1457,
-      "rate": 73.0
+      "total": 1461,
+      "rate": 73.1
     },
     "insights": {
-      "won": 1822,
-      "lost": 736,
-      "total": 2558,
-      "rate": 71.2
+      "won": 1828,
+      "lost": 737,
+      "total": 2565,
+      "rate": 71.3
     },
     "coupons": {
       "won": 2,
@@ -47,8 +47,8 @@
       "total": 7,
       "rate": 28.6
     },
-    "analyses24h": 3136,
-    "analyses30d": 17096
+    "analyses24h": 3140,
+    "analyses30d": 17100
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4564437",
     "odds": 1.36,
     "patternScore": 68.05,
-    "patternText": "227.582/334.458",
+    "patternText": "227.592/334.468",
     "aiScore": 55,
     "picks": 2
   },
@@ -285,7 +285,7 @@
       "matchCode": "4564437",
       "odds": 1.36,
       "patternScore": 68.05,
-      "patternText": "227.582/334.458",
+      "patternText": "227.592/334.468",
       "aiScore": 55,
       "picks": 2
     },
@@ -297,7 +297,7 @@
       "matchCode": "4488060",
       "odds": 1.28,
       "patternScore": 68.35,
-      "patternText": "218.725/320.023",
+      "patternText": "218.735/320.033",
       "aiScore": 61,
       "picks": 1
     },
@@ -309,7 +309,7 @@
       "matchCode": "4542760",
       "odds": 1.28,
       "patternScore": 67.98,
-      "patternText": "107.690/158.422",
+      "patternText": "107.692/158.424",
       "aiScore": 71,
       "picks": 3
     },
@@ -321,7 +321,7 @@
       "matchCode": "4504142",
       "odds": 1.16,
       "patternScore": 69.44,
-      "patternText": "249.361/359.123",
+      "patternText": "249.391/359.153",
       "aiScore": 72,
       "picks": 2
     },
@@ -333,12 +333,19 @@
       "matchCode": "4530116",
       "odds": 1.15,
       "patternScore": 70.15,
-      "patternText": "319.330/455.198",
+      "patternText": "319.348/455.216",
       "aiScore": 79,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Batman Petrolspor",
+      "away": "Muglaspor",
+      "league": "T1L",
+      "at": "22.11.2026 04:49",
+      "count": 3
+    },
     {
       "home": "Erzurumspor FK",
       "away": "Goztepe",
@@ -401,13 +408,6 @@
       "league": "AL2",
       "at": "21.11.2026 18:55",
       "count": 4
-    },
-    {
-      "home": "RC Strasbourg",
-      "away": "Stade Brest",
-      "league": "FR1",
-      "at": "21.11.2026 18:55",
-      "count": 7
     }
   ],
   "paywall": {
