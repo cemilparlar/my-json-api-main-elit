@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 10:55",
+  "updatedAt": "22.11.2026 11:05",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1157,
-      "lost": 511,
-      "total": 1668,
-      "rate": 69.4
+      "won": 1128,
+      "lost": 504,
+      "total": 1632,
+      "rate": 69.1
     },
-    "totalAnalyses": 773769,
+    "totalAnalyses": 773783,
     "leagues": 289,
     "pro": {
-      "won": 1123,
-      "lost": 414,
-      "total": 1537,
-      "rate": 73.1
+      "won": 1114,
+      "lost": 407,
+      "total": 1521,
+      "rate": 73.2
     },
     "insights": {
-      "won": 1918,
-      "lost": 780,
-      "total": 2698,
-      "rate": 71.1
+      "won": 1905,
+      "lost": 768,
+      "total": 2673,
+      "rate": 71.3
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3116,
-    "analyses30d": 17274
+    "analyses24h": 3059,
+    "analyses30d": 17271
   },
   "recentWins": [
     {
@@ -94,6 +94,20 @@
       "pro": false
     },
     {
+      "home": "Patacona U19",
+      "away": "Mallorca U19",
+      "league": "ISPU18",
+      "date": "21.11.2026 16:00",
+      "prediction": "Handicap (2:0) X",
+      "odds": 3.38,
+      "probability": 100.0,
+      "patternScore": 58.12,
+      "aiScore": 50,
+      "firstHalf": "0 - 0",
+      "finalScore": "1 - 3",
+      "pro": true
+    },
+    {
       "home": "Nasaf Qarshi",
       "away": "Mashal Muborak",
       "league": "ÖZB",
@@ -106,20 +120,6 @@
       "firstHalf": "0 - 0",
       "finalScore": "2 - 0",
       "pro": true
-    },
-    {
-      "home": "FC Groningen",
-      "away": "SC Heerenveen",
-      "league": "HOL",
-      "date": "21.11.2026 20:00",
-      "prediction": "HT/FT 2/2",
-      "odds": 3.33,
-      "probability": 75.0,
-      "patternScore": 64.4,
-      "aiScore": 50,
-      "firstHalf": "0 - 1",
-      "finalScore": "1 - 3",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -238,23 +238,23 @@
     },
     {
       "type": "won",
-      "home": "Nasaf Qarshi",
-      "away": "Mashal Muborak",
-      "prediction": "Handicap (0:2) X",
-      "odds": 3.36,
-      "at": "21.11.2026 12:00"
+      "home": "Patacona U19",
+      "away": "Mallorca U19",
+      "prediction": "Handicap (2:0) X",
+      "odds": 3.38,
+      "at": "21.11.2026 16:00"
     },
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.52,
-      "at": "22.11.2026 08:03"
+      "odds": 1.51,
+      "at": "22.11.2026 11:05"
     },
     {
       "type": "coupon",
       "size": 3,
-      "odds": 1.52,
-      "at": "22.11.2026 08:03"
+      "odds": 1.51,
+      "at": "22.11.2026 11:05"
     },
     {
       "type": "coupon",
@@ -301,7 +301,7 @@
     "matchCode": "4526467",
     "odds": 1.84,
     "patternScore": 67.15,
-    "patternText": "190.798/284.142",
+    "patternText": "190.802/284.146",
     "aiScore": 52,
     "picks": 2
   },
@@ -314,9 +314,21 @@
       "matchCode": "4526467",
       "odds": 1.84,
       "patternScore": 67.15,
-      "patternText": "190.798/284.142",
+      "patternText": "190.802/284.146",
       "aiScore": 52,
       "picks": 2
+    },
+    {
+      "home": "AC Milan",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "date": "22.11.2026 17:00",
+      "matchCode": "4475157",
+      "odds": 1.68,
+      "patternScore": 67.3,
+      "patternText": "210.949/313.431",
+      "aiScore": 54,
+      "picks": 4
     },
     {
       "home": "Liverpool",
@@ -326,7 +338,7 @@
       "matchCode": "4481117",
       "odds": 1.55,
       "patternScore": 67.02,
-      "patternText": "195.864/292.264",
+      "patternText": "195.872/292.272",
       "aiScore": 55,
       "picks": 3
     },
@@ -343,31 +355,26 @@
       "picks": 7
     },
     {
-      "home": "Konyaspor",
-      "away": "Besiktas",
-      "league": "TSL",
-      "date": "22.11.2026 13:00",
-      "matchCode": "4542757",
-      "odds": 1.51,
-      "patternScore": 67.46,
-      "patternText": "270.350/400.784",
-      "aiScore": 55,
-      "picks": 5
-    },
-    {
-      "home": "Esmtk",
-      "away": "Csepel Tc",
-      "league": "MAC3",
-      "date": "22.11.2026 12:00",
-      "matchCode": "4505094",
-      "odds": 1.5,
-      "patternScore": 67.74,
-      "patternText": "164.622/243.010",
+      "home": "FC Nordsjaelland",
+      "away": "FC Copenhagen",
+      "league": "DAN",
+      "date": "22.11.2026 17:00",
+      "matchCode": "4474527",
+      "odds": 1.52,
+      "patternScore": 67.48,
+      "patternText": "174.890/259.188",
       "aiScore": 54,
-      "picks": 3
+      "picks": 7
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Burnley",
+      "away": "Blackburn",
+      "league": "İNCL",
+      "at": "22.11.2026 11:05",
+      "count": 8
+    },
     {
       "home": "Paris FC",
       "away": "Angers SCO",
@@ -409,13 +416,6 @@
       "league": "BEL",
       "at": "22.11.2026 10:38",
       "count": 12
-    },
-    {
-      "home": "Burnley",
-      "away": "Blackburn",
-      "league": "İNCL",
-      "at": "22.11.2026 10:36",
-      "count": 9
     },
     {
       "home": "Juventus",
