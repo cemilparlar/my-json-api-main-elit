@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 16:42",
+  "updatedAt": "22.11.2026 16:51",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 706,
-      "lost": 322,
-      "total": 1028,
+      "won": 701,
+      "lost": 320,
+      "total": 1021,
       "rate": 68.7
     },
-    "totalAnalyses": 774917,
+    "totalAnalyses": 774939,
     "leagues": 289,
     "pro": {
       "won": 1235,
@@ -47,8 +47,8 @@
       "total": 14,
       "rate": 28.6
     },
-    "analyses24h": 1859,
-    "analyses30d": 17200
+    "analyses24h": 1858,
+    "analyses30d": 17072
   },
   "recentWins": [
     {
@@ -398,18 +398,32 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Marseille",
-      "away": "Le Mans FC",
-      "league": "FR1",
-      "at": "22.11.2026 16:30",
-      "count": 7
+      "home": "Red Bull Bragantino",
+      "away": "Club de Regatas Vasco da Gama",
+      "league": "BR1",
+      "at": "22.11.2026 16:48",
+      "count": 12
+    },
+    {
+      "home": "RSC Anderlecht",
+      "away": "OH Leuven",
+      "league": "BEL",
+      "at": "22.11.2026 16:47",
+      "count": 5
     },
     {
       "home": "CA Osasuna",
       "away": "Malaga CF",
       "league": "İS1",
-      "at": "22.11.2026 16:29",
-      "count": 6
+      "at": "22.11.2026 16:47",
+      "count": 4
+    },
+    {
+      "home": "Marseille",
+      "away": "Le Mans FC",
+      "league": "FR1",
+      "at": "22.11.2026 16:47",
+      "count": 8
     },
     {
       "home": "AC Milan",
@@ -423,13 +437,6 @@
       "away": "Inter",
       "league": "İTA",
       "at": "22.11.2026 16:12",
-      "count": 6
-    },
-    {
-      "home": "RSC Anderlecht",
-      "away": "OH Leuven",
-      "league": "BEL",
-      "at": "22.11.2026 16:10",
       "count": 6
     },
     {
@@ -459,13 +466,6 @@
       "league": "İNP",
       "at": "22.11.2026 15:49",
       "count": 9
-    },
-    {
-      "home": "Girona FC",
-      "away": "Eibar",
-      "league": "İS2",
-      "at": "22.11.2026 15:31",
-      "count": 7
     }
   ],
   "paywall": {
