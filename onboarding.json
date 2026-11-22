@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 06:46",
+  "updatedAt": "22.11.2026 06:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 1625,
       "rate": 69.4
     },
-    "totalAnalyses": 772966,
+    "totalAnalyses": 773007,
     "leagues": 289,
     "pro": {
       "won": 1089,
@@ -47,8 +47,8 @@
       "total": 7,
       "rate": 28.6
     },
-    "analyses24h": 3065,
-    "analyses30d": 17134
+    "analyses24h": 3078,
+    "analyses30d": 17147
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4517725",
     "odds": 2.03,
     "patternScore": 67.07,
-    "patternText": "184.435/274.998",
+    "patternText": "184.445/275.012",
     "aiScore": 53,
     "picks": 6
   },
@@ -285,7 +285,7 @@
       "matchCode": "4517725",
       "odds": 2.03,
       "patternScore": 67.07,
-      "patternText": "184.435/274.998",
+      "patternText": "184.445/275.012",
       "aiScore": 53,
       "picks": 6
     },
@@ -297,7 +297,7 @@
       "matchCode": "4485920",
       "odds": 1.93,
       "patternScore": 68.14,
-      "patternText": "255.452/374.874",
+      "patternText": "255.478/374.912",
       "aiScore": 53,
       "picks": 5
     },
@@ -309,7 +309,7 @@
       "matchCode": "4505094",
       "odds": 1.5,
       "patternScore": 67.74,
-      "patternText": "164.458/242.794",
+      "patternText": "164.468/242.808",
       "aiScore": 54,
       "picks": 3
     },
@@ -321,7 +321,7 @@
       "matchCode": "4498886",
       "odds": 1.4,
       "patternScore": 69.21,
-      "patternText": "303.140/438.004",
+      "patternText": "303.182/438.066",
       "aiScore": 60,
       "picks": 3
     },
@@ -333,12 +333,26 @@
       "matchCode": "4564437",
       "odds": 1.36,
       "patternScore": 68.04,
-      "patternText": "227.748/334.704",
+      "patternText": "227.774/334.742",
       "aiScore": 55,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Kaiserslautern",
+      "away": "Dynamo Dresden",
+      "league": "AL2",
+      "at": "22.11.2026 06:54",
+      "count": 8
+    },
+    {
+      "home": "Waasland-Beveren",
+      "away": "KAA Gent",
+      "league": "BEL",
+      "at": "22.11.2026 06:53",
+      "count": 7
+    },
     {
       "home": "Juventus",
       "away": "Unione V.",
@@ -394,20 +408,6 @@
       "league": "CSA",
       "at": "21.11.2026 21:49",
       "count": 6
-    },
-    {
-      "home": "SC Telstar",
-      "away": "Zwolle",
-      "league": "HOL",
-      "at": "21.11.2026 19:17",
-      "count": 6
-    },
-    {
-      "home": "Zulte Waregem",
-      "away": "Royal Antwerp",
-      "league": "BEL",
-      "at": "21.11.2026 18:57",
-      "count": 8
     }
   ],
   "paywall": {
