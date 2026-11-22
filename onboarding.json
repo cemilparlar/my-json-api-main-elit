@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 04:28",
+  "updatedAt": "22.11.2026 04:37",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1145,
-      "lost": 503,
-      "total": 1648,
+      "won": 1147,
+      "lost": 504,
+      "total": 1651,
       "rate": 69.5
     },
-    "totalAnalyses": 772691,
+    "totalAnalyses": 772702,
     "leagues": 289,
     "pro": {
       "won": 1061,
@@ -36,9 +36,9 @@
       "rate": 73.0
     },
     "insights": {
-      "won": 1815,
-      "lost": 735,
-      "total": 2550,
+      "won": 1817,
+      "lost": 736,
+      "total": 2553,
       "rate": 71.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 7,
       "rate": 28.6
     },
-    "analyses24h": 3127,
-    "analyses30d": 17087
+    "analyses24h": 3137,
+    "analyses30d": 17097
   },
   "recentWins": [
     {
@@ -265,30 +265,18 @@
     }
   ],
   "today": {
-    "home": "Gwangju FC",
-    "away": "Bucheon FC",
-    "league": "GKOR",
-    "date": "22.11.2026 05:00",
-    "matchCode": "4580571",
-    "odds": 1.94,
-    "patternScore": 67.86,
-    "patternText": "232.158/342.088",
-    "aiScore": 52,
-    "picks": 4
+    "home": "Taiwan Power C",
+    "away": "Tainan City FC",
+    "league": "TAYV",
+    "date": "22.11.2026 07:30",
+    "matchCode": "4564437",
+    "odds": 1.36,
+    "patternScore": 68.05,
+    "patternText": "227.582/334.458",
+    "aiScore": 55,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Gwangju FC",
-      "away": "Bucheon FC",
-      "league": "GKOR",
-      "date": "22.11.2026 05:00",
-      "matchCode": "4580571",
-      "odds": 1.94,
-      "patternScore": 67.86,
-      "patternText": "232.158/342.088",
-      "aiScore": 52,
-      "picks": 4
-    },
     {
       "home": "Taiwan Power C",
       "away": "Tainan City FC",
@@ -297,21 +285,9 @@
       "matchCode": "4564437",
       "odds": 1.36,
       "patternScore": 68.05,
-      "patternText": "227.570/334.438",
+      "patternText": "227.582/334.458",
       "aiScore": 55,
       "picks": 2
-    },
-    {
-      "home": "Gimcheon Sangmu",
-      "away": "Jeju United",
-      "league": "GKOR",
-      "date": "22.11.2026 05:00",
-      "matchCode": "4580570",
-      "odds": 1.34,
-      "patternScore": 68.43,
-      "patternText": "251.160/367.012",
-      "aiScore": 60,
-      "picks": 6
     },
     {
       "home": "Cerezo Osaka",
@@ -321,24 +297,55 @@
       "matchCode": "4488060",
       "odds": 1.28,
       "patternScore": 68.35,
-      "patternText": "218.713/320.003",
+      "patternText": "218.725/320.023",
       "aiScore": 61,
       "picks": 1
     },
     {
-      "home": "Tokushima Vortis",
-      "away": "Shonan Bellmare",
-      "league": "JAP2",
-      "date": "22.11.2026 05:00",
-      "matchCode": "4487684",
-      "odds": 1.23,
-      "patternScore": 68.34,
-      "patternText": "238.902/349.554",
+      "home": "Erzurumspor FK",
+      "away": "Goztepe",
+      "league": "TSL",
+      "date": "22.11.2026 10:30",
+      "matchCode": "4542760",
+      "odds": 1.26,
+      "patternScore": 68.81,
+      "patternText": "163.999/238.334",
       "aiScore": 68,
+      "picks": 4
+    },
+    {
+      "home": "Viktoria Zizko",
+      "away": "SFC Opava",
+      "league": "ÇEK2",
+      "date": "22.11.2026 09:15",
+      "matchCode": "4504142",
+      "odds": 1.16,
+      "patternScore": 69.44,
+      "patternText": "249.361/359.123",
+      "aiScore": 72,
       "picks": 2
+    },
+    {
+      "home": "Cala Pozuelo",
+      "away": "Torrejon",
+      "league": "İSTL",
+      "date": "22.11.2026 10:00",
+      "matchCode": "4530116",
+      "odds": 1.15,
+      "patternScore": 70.15,
+      "patternText": "319.330/455.198",
+      "aiScore": 79,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Erzurumspor FK",
+      "away": "Goztepe",
+      "league": "TSL",
+      "at": "22.11.2026 04:36",
+      "count": 6
+    },
     {
       "home": "Chapecoense AF",
       "away": "Cruzeiro EC",
@@ -401,13 +408,6 @@
       "league": "FR1",
       "at": "21.11.2026 18:55",
       "count": 7
-    },
-    {
-      "home": "SE Palmeiras",
-      "away": "CR Flamengo",
-      "league": "BR1",
-      "at": "21.11.2026 18:55",
-      "count": 5
     }
   ],
   "paywall": {
