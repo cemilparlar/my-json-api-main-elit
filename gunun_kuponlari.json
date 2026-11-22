@@ -76,8 +76,8 @@
       "lost": 16
     }
   },
-  "updatedAt": "22.11.2026 16:05",
-  "updatedAtUtc": "2026-11-22T16:05:00Z",
+  "updatedAt": "22.11.2026 16:15",
+  "updatedAtUtc": "2026-11-22T16:15:00Z",
   "upcoming": [
     {
       "id": "20261122-11-2",
@@ -227,9 +227,9 @@
           "patternScore": 70.55,
           "patternText": "249.313/353.407",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 2",
+          "finalScore": "0 - 2",
+          "status": "won",
           "aiScore": 84
         },
         {
@@ -519,9 +519,9 @@
           "patternScore": 69.8,
           "patternText": "208.756/299.078",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 2",
+          "finalScore": "0 - 2",
+          "status": "lost",
           "aiScore": 91
         }
       ]

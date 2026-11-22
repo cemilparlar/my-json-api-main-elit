@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 16:05",
+  "updatedAt": "22.11.2026 16:15",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 706,
-      "lost": 314,
-      "total": 1020,
-      "rate": 69.2
+      "won": 737,
+      "lost": 336,
+      "total": 1073,
+      "rate": 68.7
     },
-    "totalAnalyses": 774843,
+    "totalAnalyses": 774860,
     "leagues": 289,
     "pro": {
-      "won": 1217,
-      "lost": 452,
-      "total": 1669,
-      "rate": 72.9
+      "won": 1234,
+      "lost": 462,
+      "total": 1696,
+      "rate": 72.8
     },
     "insights": {
-      "won": 2090,
-      "lost": 861,
-      "total": 2951,
-      "rate": 70.8
+      "won": 2115,
+      "lost": 878,
+      "total": 2993,
+      "rate": 70.7
     },
     "coupons": {
       "won": 4,
@@ -47,8 +47,8 @@
       "total": 14,
       "rate": 28.6
     },
-    "analyses24h": 1907,
-    "analyses30d": 17186
+    "analyses24h": 1909,
+    "analyses30d": 17207
   },
   "recentWins": [
     {
@@ -330,7 +330,7 @@
     "matchCode": "4580870",
     "odds": 3.71,
     "patternScore": 67.01,
-    "patternText": "184.689/275.611",
+    "patternText": "184.701/275.623",
     "aiScore": 50,
     "picks": 8
   },
@@ -343,7 +343,7 @@
       "matchCode": "4580870",
       "odds": 3.71,
       "patternScore": 67.01,
-      "patternText": "184.689/275.611",
+      "patternText": "184.701/275.623",
       "aiScore": 50,
       "picks": 8
     },
@@ -355,7 +355,7 @@
       "matchCode": "4580871",
       "odds": 2.91,
       "patternScore": 66.51,
-      "patternText": "116.280/174.836",
+      "patternText": "116.284/174.840",
       "aiScore": 51,
       "picks": 5
     },
@@ -367,7 +367,7 @@
       "matchCode": "4423386",
       "odds": 2.35,
       "patternScore": 67.49,
-      "patternText": "260.811/386.445",
+      "patternText": "260.815/386.449",
       "aiScore": 51,
       "picks": 7
     },
@@ -379,7 +379,7 @@
       "matchCode": "4540174",
       "odds": 1.55,
       "patternScore": 67.66,
-      "patternText": "252.880/373.740",
+      "patternText": "252.888/373.748",
       "aiScore": 55,
       "picks": 1
     },
@@ -391,12 +391,47 @@
       "matchCode": "4474527",
       "odds": 1.47,
       "patternScore": 67.43,
-      "patternText": "266.484/395.180",
+      "patternText": "266.488/395.184",
       "aiScore": 53,
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Atalanta",
+      "away": "Inter",
+      "league": "İTA",
+      "at": "22.11.2026 16:12",
+      "count": 6
+    },
+    {
+      "home": "Marseille",
+      "away": "Le Mans FC",
+      "league": "FR1",
+      "at": "22.11.2026 16:11",
+      "count": 6
+    },
+    {
+      "home": "RSC Anderlecht",
+      "away": "OH Leuven",
+      "league": "BEL",
+      "at": "22.11.2026 16:10",
+      "count": 6
+    },
+    {
+      "home": "CA Osasuna",
+      "away": "Malaga CF",
+      "league": "İS1",
+      "at": "22.11.2026 16:10",
+      "count": 4
+    },
+    {
+      "home": "AC Milan",
+      "away": "Frosinone Calcio",
+      "league": "İTA",
+      "at": "22.11.2026 16:08",
+      "count": 9
+    },
     {
       "home": "Fluminense FC",
       "away": "Mirassol FC",
@@ -409,20 +444,6 @@
       "away": "FC Cincinnati",
       "league": "ABD",
       "at": "22.11.2026 15:52",
-      "count": 4
-    },
-    {
-      "home": "Marseille",
-      "away": "Le Mans FC",
-      "league": "FR1",
-      "at": "22.11.2026 15:51",
-      "count": 1
-    },
-    {
-      "home": "AC Milan",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "22.11.2026 15:50",
       "count": 4
     },
     {
@@ -445,27 +466,6 @@
       "league": "İS2",
       "at": "22.11.2026 15:31",
       "count": 7
-    },
-    {
-      "home": "FC Lorient",
-      "away": "Stade Rennais",
-      "league": "FR1",
-      "at": "22.11.2026 15:30",
-      "count": 6
-    },
-    {
-      "home": "Go Ahead Eagles",
-      "away": "Fortuna Sittard",
-      "league": "HOL",
-      "at": "22.11.2026 15:10",
-      "count": 8
-    },
-    {
-      "home": "Burgos CF",
-      "away": "Albacete Balompie",
-      "league": "İS2",
-      "at": "22.11.2026 14:57",
-      "count": 8
     }
   ],
   "paywall": {
