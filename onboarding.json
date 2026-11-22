@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 07:44",
+  "updatedAt": "22.11.2026 07:53",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1136,
-      "lost": 497,
-      "total": 1633,
-      "rate": 69.6
+      "won": 1142,
+      "lost": 500,
+      "total": 1642,
+      "rate": 69.5
     },
-    "totalAnalyses": 773209,
+    "totalAnalyses": 773245,
     "leagues": 289,
     "pro": {
-      "won": 1101,
-      "lost": 409,
-      "total": 1510,
+      "won": 1104,
+      "lost": 410,
+      "total": 1514,
       "rate": 72.9
     },
     "insights": {
-      "won": 1882,
-      "lost": 766,
-      "total": 2648,
+      "won": 1887,
+      "lost": 768,
+      "total": 2655,
       "rate": 71.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3092,
-    "analyses30d": 17192
+    "analyses24h": 3098,
+    "analyses30d": 17198
   },
   "recentWins": [
     {
@@ -288,7 +288,7 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 03:29",
+      "at": "22.11.2026 07:51",
       "home": "Viktoria Zizko",
       "away": "SFC Opava"
     }
@@ -301,7 +301,7 @@
     "matchCode": "4485920",
     "odds": 1.93,
     "patternScore": 68.14,
-    "patternText": "255.638/375.156",
+    "patternText": "255.638/375.158",
     "aiScore": 53,
     "picks": 5
   },
@@ -314,7 +314,7 @@
       "matchCode": "4485920",
       "odds": 1.93,
       "patternScore": 68.14,
-      "patternText": "255.638/375.156",
+      "patternText": "255.638/375.158",
       "aiScore": 53,
       "picks": 5
     },
@@ -326,7 +326,7 @@
       "matchCode": "4505094",
       "odds": 1.5,
       "patternScore": 67.74,
-      "patternText": "164.528/242.894",
+      "patternText": "164.530/242.896",
       "aiScore": 54,
       "picks": 3
     },
@@ -338,7 +338,7 @@
       "matchCode": "4581468",
       "odds": 1.48,
       "patternScore": 67.15,
-      "patternText": "289.141/430.607",
+      "patternText": "289.141/430.609",
       "aiScore": 56,
       "picks": 2
     },
@@ -350,7 +350,7 @@
       "matchCode": "4574644",
       "odds": 1.45,
       "patternScore": 67.94,
-      "patternText": "241.467/355.414",
+      "patternText": "241.469/355.422",
       "aiScore": 56,
       "picks": 2
     },
@@ -362,12 +362,19 @@
       "matchCode": "4447660",
       "odds": 1.41,
       "patternScore": 68.68,
-      "patternText": "269.102/391.808",
+      "patternText": "269.102/391.810",
       "aiScore": 57,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Erzurumspor FK",
+      "away": "Goztepe",
+      "league": "TSL",
+      "at": "22.11.2026 07:52",
+      "count": 5
+    },
     {
       "home": "Esenler Erokspor",
       "away": "Antalyaspor",
@@ -430,13 +437,6 @@
       "league": "İNCL",
       "at": "22.11.2026 06:19",
       "count": 6
-    },
-    {
-      "home": "Erzurumspor FK",
-      "away": "Goztepe",
-      "league": "TSL",
-      "at": "22.11.2026 06:12",
-      "count": 5
     }
   ],
   "paywall": {
