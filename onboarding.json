@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 12:29",
+  "updatedAt": "22.11.2026 12:42",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1061,
-      "lost": 477,
-      "total": 1538,
-      "rate": 69.0
+      "won": 1015,
+      "lost": 460,
+      "total": 1475,
+      "rate": 68.8
     },
-    "totalAnalyses": 774016,
+    "totalAnalyses": 774039,
     "leagues": 289,
     "pro": {
-      "won": 1109,
-      "lost": 410,
-      "total": 1519,
+      "won": 1112,
+      "lost": 412,
+      "total": 1524,
       "rate": 73.0
     },
     "insights": {
-      "won": 1896,
-      "lost": 771,
-      "total": 2667,
-      "rate": 71.1
+      "won": 1898,
+      "lost": 775,
+      "total": 2673,
+      "rate": 71.0
     },
     "coupons": {
       "won": 3,
-      "lost": 6,
-      "total": 9,
-      "rate": 33.3
+      "lost": 7,
+      "total": 10,
+      "rate": 30.0
     },
-    "analyses24h": 2937,
-    "analyses30d": 17259
+    "analyses24h": 2829,
+    "analyses30d": 17246
   },
   "recentWins": [
     {
@@ -270,12 +270,6 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 06:30",
-      "home": "Getafe B",
-      "away": "Rsd Alcala"
-    },
-    {
-      "type": "updated",
       "at": "22.11.2026 07:52",
       "home": "Erzurumspor FK",
       "away": "Goztepe"
@@ -291,33 +285,27 @@
       "at": "22.11.2026 10:25",
       "home": "SHB Da Nang",
       "away": "Phu Dong FC"
+    },
+    {
+      "type": "updated",
+      "at": "22.11.2026 10:26",
+      "home": "Arenas De Getx",
+      "away": "Real Aviles"
     }
   ],
   "today": {
-    "home": "Viborg FF",
-    "away": "Randers FC",
-    "league": "DAN",
-    "date": "22.11.2026 13:00",
-    "matchCode": "4474525",
-    "odds": 2.01,
-    "patternScore": 67.05,
-    "patternText": "267.768/399.347",
-    "aiScore": 52,
+    "home": "AC Milan",
+    "away": "Frosinone Calcio",
+    "league": "İTA",
+    "date": "22.11.2026 17:00",
+    "matchCode": "4475157",
+    "odds": 1.68,
+    "patternScore": 67.3,
+    "patternText": "210.981/313.473",
+    "aiScore": 54,
     "picks": 4
   },
   "todayList": [
-    {
-      "home": "Viborg FF",
-      "away": "Randers FC",
-      "league": "DAN",
-      "date": "22.11.2026 13:00",
-      "matchCode": "4474525",
-      "odds": 2.01,
-      "patternScore": 67.05,
-      "patternText": "267.768/399.347",
-      "aiScore": 52,
-      "picks": 4
-    },
     {
       "home": "AC Milan",
       "away": "Frosinone Calcio",
@@ -365,36 +353,69 @@
       "patternText": "280.446/408.722",
       "aiScore": 55,
       "picks": 1
+    },
+    {
+      "home": "IF Brommapojkarna",
+      "away": "Halmstads BK",
+      "league": "İSÇ",
+      "date": "22.11.2026 15:30",
+      "matchCode": "4426822",
+      "odds": 1.48,
+      "patternScore": 67.13,
+      "patternText": "286.996/427.500",
+      "aiScore": 55,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Fk Rodina Mosk",
-      "away": "Lokomotiv Moscow",
-      "league": "RUS",
-      "at": "22.11.2026 12:19",
-      "count": 4
+      "home": "SS Arezzo",
+      "away": "Calcio Padova",
+      "league": "İTB",
+      "at": "22.11.2026 12:42",
+      "count": 6
     },
     {
       "home": "Bologna FC",
       "away": "Udinese",
       "league": "İTA",
-      "at": "22.11.2026 11:58",
+      "at": "22.11.2026 12:36",
       "count": 3
     },
     {
       "home": "FC Augsburg",
       "away": "FSV Mainz 05",
       "league": "AL1",
-      "at": "22.11.2026 11:58",
-      "count": 18
+      "at": "22.11.2026 12:36",
+      "count": 8
     },
     {
       "home": "US Sassuolo",
       "away": "Genoa CFC",
       "league": "İTA",
-      "at": "22.11.2026 11:57",
-      "count": 3
+      "at": "22.11.2026 12:35",
+      "count": 5
+    },
+    {
+      "home": "Hull City",
+      "away": "Brighton & Hove Albion",
+      "league": "İNP",
+      "at": "22.11.2026 12:34",
+      "count": 1
+    },
+    {
+      "home": "Paris FC",
+      "away": "Angers SCO",
+      "league": "FR1",
+      "at": "22.11.2026 12:33",
+      "count": 10
+    },
+    {
+      "home": "Fk Rodina Mosk",
+      "away": "Lokomotiv Moscow",
+      "league": "RUS",
+      "at": "22.11.2026 12:19",
+      "count": 4
     },
     {
       "home": "Sparta Rotterdam",
@@ -416,27 +437,6 @@
       "league": "TSL",
       "at": "22.11.2026 11:52",
       "count": 7
-    },
-    {
-      "home": "Go Ahead Eagles",
-      "away": "Fortuna Sittard",
-      "league": "HOL",
-      "at": "22.11.2026 11:33",
-      "count": 8
-    },
-    {
-      "home": "Racing Santander",
-      "away": "Real Sociedad",
-      "league": "İS1",
-      "at": "22.11.2026 11:26",
-      "count": 15
-    },
-    {
-      "home": "Paris FC",
-      "away": "Angers SCO",
-      "league": "FR1",
-      "at": "22.11.2026 11:13",
-      "count": 14
     }
   ],
   "paywall": {

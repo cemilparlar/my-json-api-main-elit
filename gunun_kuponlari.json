@@ -3,11 +3,11 @@
   "stats7": {
     "multi": {
       "won": 3,
-      "lost": 6
+      "lost": 7
     },
     "cyz_3": {
       "won": 3,
-      "lost": 6
+      "lost": 7
     }
   },
   "stats30": {
@@ -45,7 +45,7 @@
     },
     "multi": {
       "won": 102,
-      "lost": 95
+      "lost": 96
     },
     "c70_1": {
       "won": 20,
@@ -73,101 +73,12 @@
     },
     "cyz_3": {
       "won": 9,
-      "lost": 12
+      "lost": 13
     }
   },
-  "updatedAt": "22.11.2026 12:29",
-  "updatedAtUtc": "2026-11-22T12:29:00Z",
+  "updatedAt": "22.11.2026 12:42",
+  "updatedAtUtc": "2026-11-22T12:42:00Z",
   "upcoming": [
-    {
-      "id": "20261122-11-1",
-      "createdAt": "22.11.2026 08:03",
-      "createdAtUtc": "2026-11-22T08:03:00Z",
-      "size": 3,
-      "mbs": 1,
-      "totalOdds": 1.52,
-      "winChance": 53.74,
-      "firstKickoff": "22.11.2026 10:30",
-      "lastKickoff": "22.11.2026 11:00",
-      "status": "live",
-      "completedAt": null,
-      "kind": "cyz_3",
-      "group": "multi",
-      "formula": "3",
-      "multiScore": 89,
-      "effectiveOdds": 1.52,
-      "legs": [
-        {
-          "matchCode": "4495230",
-          "nesine": null,
-          "date": "22.11.2026 10:30",
-          "kickoffUtc": "2026-11-22T10:30:00Z",
-          "league": "İS4",
-          "home": "Getafe B",
-          "away": "Rsd Alcala",
-          "league_tr": "İS4",
-          "home_tr": "Getafe Ii",
-          "away_tr": "Rsd Alcala",
-          "prediction": "Double Chance 1X",
-          "prediction_tr": "Çifte Şans 1-X",
-          "odds": 1.17,
-          "probability": 75.32,
-          "patternScore": 69.04,
-          "patternText": "257.310/372.689",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 87
-        },
-        {
-          "matchCode": "4508211",
-          "nesine": null,
-          "date": "22.11.2026 11:00",
-          "kickoffUtc": "2026-11-22T11:00:00Z",
-          "league": "UKR",
-          "home": "FC Veres Rivne",
-          "away": "Bukovyna",
-          "league_tr": "UKR",
-          "home_tr": "Veres Rivne",
-          "away_tr": "Bukovyna",
-          "prediction": "Double Chance X2",
-          "prediction_tr": "Çifte Şans X-2",
-          "odds": 1.09,
-          "probability": 74.42,
-          "patternScore": 0.0,
-          "patternText": null,
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 98
-        },
-        {
-          "matchCode": "4539114",
-          "nesine": null,
-          "date": "22.11.2026 11:00",
-          "kickoffUtc": "2026-11-22T11:00:00Z",
-          "league": "TAY",
-          "home": "Bangkok United",
-          "away": "Ayutthaya United",
-          "league_tr": "TAY",
-          "home_tr": "Bangkok United",
-          "away_tr": "Ayutthaya Unite",
-          "prediction": "Match Result 1",
-          "prediction_tr": "Maç Sonucu 1",
-          "odds": 1.19,
-          "probability": 83.33,
-          "patternScore": 68.31,
-          "patternText": "175.383/256.754",
-          "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
-          "aiScore": 86
-        }
-      ]
-    },
     {
       "id": "20261122-11-3",
       "createdAt": "22.11.2026 08:03",
@@ -204,9 +115,9 @@
           "patternScore": 69.88,
           "patternText": "182.621/261.352",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "0 - 0",
+          "finalScore": "0 - 1",
+          "status": "won",
           "aiScore": 81
         },
         {
@@ -407,7 +318,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 90
         },
         {
@@ -445,7 +356,7 @@
       "winChance": 55.34,
       "firstKickoff": "22.11.2026 12:30",
       "lastKickoff": "22.11.2026 14:00",
-      "status": "upcoming",
+      "status": "live",
       "completedAt": null,
       "kind": "cyz_3",
       "group": "multi",
@@ -473,7 +384,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 98
         },
         {
@@ -615,6 +526,95 @@
     }
   ],
   "completed": [
+    {
+      "id": "20261122-11-1",
+      "createdAt": "22.11.2026 08:03",
+      "createdAtUtc": "2026-11-22T08:03:00Z",
+      "size": 3,
+      "mbs": 1,
+      "totalOdds": 1.52,
+      "winChance": 53.74,
+      "firstKickoff": "22.11.2026 10:30",
+      "lastKickoff": "22.11.2026 11:00",
+      "status": "lost",
+      "completedAt": "22.11.2026 12:42",
+      "kind": "cyz_3",
+      "group": "multi",
+      "formula": "3",
+      "multiScore": 89,
+      "effectiveOdds": 1.52,
+      "legs": [
+        {
+          "matchCode": "4495230",
+          "nesine": null,
+          "date": "22.11.2026 10:30",
+          "kickoffUtc": "2026-11-22T10:30:00Z",
+          "league": "İS4",
+          "home": "Getafe B",
+          "away": "Rsd Alcala",
+          "league_tr": "İS4",
+          "home_tr": "Getafe Ii",
+          "away_tr": "Rsd Alcala",
+          "prediction": "Double Chance 1X",
+          "prediction_tr": "Çifte Şans 1-X",
+          "odds": 1.17,
+          "probability": 75.32,
+          "patternScore": 69.04,
+          "patternText": "257.310/372.689",
+          "mbs": 1,
+          "firstHalf": "0 - 1",
+          "finalScore": "1 - 3",
+          "status": "lost",
+          "aiScore": 87
+        },
+        {
+          "matchCode": "4508211",
+          "nesine": null,
+          "date": "22.11.2026 11:00",
+          "kickoffUtc": "2026-11-22T11:00:00Z",
+          "league": "UKR",
+          "home": "FC Veres Rivne",
+          "away": "Bukovyna",
+          "league_tr": "UKR",
+          "home_tr": "Veres Rivne",
+          "away_tr": "Bukovyna",
+          "prediction": "Double Chance X2",
+          "prediction_tr": "Çifte Şans X-2",
+          "odds": 1.09,
+          "probability": 74.42,
+          "patternScore": 0.0,
+          "patternText": null,
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 98
+        },
+        {
+          "matchCode": "4539114",
+          "nesine": null,
+          "date": "22.11.2026 11:00",
+          "kickoffUtc": "2026-11-22T11:00:00Z",
+          "league": "TAY",
+          "home": "Bangkok United",
+          "away": "Ayutthaya United",
+          "league_tr": "TAY",
+          "home_tr": "Bangkok United",
+          "away_tr": "Ayutthaya Unite",
+          "prediction": "Match Result 1",
+          "prediction_tr": "Maç Sonucu 1",
+          "odds": 1.19,
+          "probability": 83.33,
+          "patternScore": 68.31,
+          "patternText": "175.383/256.754",
+          "mbs": 1,
+          "firstHalf": null,
+          "finalScore": null,
+          "status": "live",
+          "aiScore": 86
+        }
+      ]
+    },
     {
       "id": "20261122-05-1",
       "createdAt": "22.11.2026 02:03",
