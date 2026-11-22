@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 11:17",
+  "updatedAt": "22.11.2026 11:26",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 1633,
       "rate": 69.1
     },
-    "totalAnalyses": 773804,
+    "totalAnalyses": 773848,
     "leagues": 289,
     "pro": {
       "won": 1114,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3067,
-    "analyses30d": 17281
+    "analyses24h": 3076,
+    "analyses30d": 17290
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     "matchCode": "4526467",
     "odds": 1.84,
     "patternScore": 67.15,
-    "patternText": "190.802/284.148",
+    "patternText": "190.804/284.150",
     "aiScore": 52,
     "picks": 2
   },
@@ -314,7 +314,7 @@
       "matchCode": "4526467",
       "odds": 1.84,
       "patternScore": 67.15,
-      "patternText": "190.802/284.148",
+      "patternText": "190.804/284.150",
       "aiScore": 52,
       "picks": 2
     },
@@ -326,7 +326,7 @@
       "matchCode": "4475157",
       "odds": 1.68,
       "patternScore": 67.3,
-      "patternText": "210.955/313.439",
+      "patternText": "210.957/313.441",
       "aiScore": 54,
       "picks": 4
     },
@@ -338,7 +338,7 @@
       "matchCode": "4503648",
       "odds": 1.6,
       "patternScore": 66.63,
-      "patternText": "184.664/277.136",
+      "patternText": "184.666/277.138",
       "aiScore": 54,
       "picks": 1
     },
@@ -350,7 +350,7 @@
       "matchCode": "4481117",
       "odds": 1.55,
       "patternScore": 67.02,
-      "patternText": "195.874/292.276",
+      "patternText": "195.876/292.278",
       "aiScore": 55,
       "picks": 3
     },
@@ -362,12 +362,26 @@
       "matchCode": "4495515",
       "odds": 1.54,
       "patternScore": 67.0,
-      "patternText": "213.859/319.181",
+      "patternText": "213.861/319.183",
       "aiScore": 54,
       "picks": 7
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Racing Santander",
+      "away": "Real Sociedad",
+      "league": "İS1",
+      "at": "22.11.2026 11:26",
+      "count": 15
+    },
+    {
+      "home": "FC Augsburg",
+      "away": "FSV Mainz 05",
+      "league": "AL1",
+      "at": "22.11.2026 11:22",
+      "count": 11
+    },
     {
       "home": "Paris FC",
       "away": "Angers SCO",
@@ -423,20 +437,6 @@
       "league": "İS2",
       "at": "22.11.2026 10:40",
       "count": 7
-    },
-    {
-      "home": "Waasland-Beveren",
-      "away": "KAA Gent",
-      "league": "BEL",
-      "at": "22.11.2026 10:38",
-      "count": 12
-    },
-    {
-      "home": "Juventus",
-      "away": "Unione V.",
-      "league": "İTA",
-      "at": "22.11.2026 10:32",
-      "count": 5
     }
   ],
   "paywall": {
