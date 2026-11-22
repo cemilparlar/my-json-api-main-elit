@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 19:33",
+  "updatedAt": "22.11.2026 19:42",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 741,
-      "lost": 371,
-      "total": 1112,
-      "rate": 66.6
+      "won": 756,
+      "lost": 382,
+      "total": 1138,
+      "rate": 66.4
     },
-    "totalAnalyses": 775079,
+    "totalAnalyses": 775090,
     "leagues": 289,
     "pro": {
-      "won": 1325,
-      "lost": 493,
-      "total": 1818,
+      "won": 1333,
+      "lost": 495,
+      "total": 1828,
       "rate": 72.9
     },
     "insights": {
-      "won": 2271,
-      "lost": 939,
-      "total": 3210,
+      "won": 2284,
+      "lost": 946,
+      "total": 3230,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 16,
       "rate": 31.2
     },
-    "analyses24h": 1621,
-    "analyses30d": 16960
+    "analyses24h": 1630,
+    "analyses30d": 16969
   },
   "recentWins": [
     {
@@ -398,6 +398,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Vancouver Whitecaps",
+      "away": "Salt Lake",
+      "league": "ABD",
+      "at": "22.11.2026 19:36",
+      "count": 1
+    },
+    {
       "home": "Getafe CF",
       "away": "Atletico Madrid",
       "league": "İS1",
@@ -459,13 +466,6 @@
       "league": "İS1",
       "at": "22.11.2026 16:47",
       "count": 4
-    },
-    {
-      "home": "AC Milan",
-      "away": "Frosinone Calcio",
-      "league": "İTA",
-      "at": "22.11.2026 16:28",
-      "count": 7
     }
   ],
   "paywall": {
