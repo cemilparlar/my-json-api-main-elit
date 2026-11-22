@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 15:38",
+  "updatedAt": "22.11.2026 15:47",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 704,
-      "lost": 311,
-      "total": 1015,
-      "rate": 69.4
+      "won": 720,
+      "lost": 316,
+      "total": 1036,
+      "rate": 69.5
     },
-    "totalAnalyses": 774793,
+    "totalAnalyses": 774815,
     "leagues": 289,
     "pro": {
-      "won": 1203,
-      "lost": 444,
-      "total": 1647,
+      "won": 1208,
+      "lost": 447,
+      "total": 1655,
       "rate": 73.0
     },
     "insights": {
-      "won": 2068,
-      "lost": 847,
-      "total": 2915,
-      "rate": 70.9
+      "won": 2081,
+      "lost": 851,
+      "total": 2932,
+      "rate": 71.0
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 13,
       "rate": 23.1
     },
-    "analyses24h": 1982,
-    "analyses30d": 17227
+    "analyses24h": 1977,
+    "analyses30d": 17225
   },
   "recentWins": [
     {
@@ -319,18 +319,6 @@
       "picks": 8
     },
     {
-      "home": "Marseille",
-      "away": "Le Mans FC",
-      "league": "FR1",
-      "date": "22.11.2026 19:45",
-      "matchCode": "4476597",
-      "odds": 3.45,
-      "patternScore": 66.92,
-      "patternText": "185.117/276.643",
-      "aiScore": 50,
-      "picks": 6
-    },
-    {
       "home": "Atletico Paranaense",
       "away": "Remo",
       "league": "BR1",
@@ -343,18 +331,6 @@
       "picks": 7
     },
     {
-      "home": "FC DAC 1904 Dunajska Streda",
-      "away": "KFC Komarno",
-      "league": "SLVK",
-      "date": "22.11.2026 17:00",
-      "matchCode": "4484229",
-      "odds": 1.54,
-      "patternScore": 67.21,
-      "patternText": "271.337/403.692",
-      "aiScore": 53,
-      "picks": 2
-    },
-    {
       "home": "FC Nordsjaelland",
       "away": "FC Copenhagen",
       "league": "DAN",
@@ -365,6 +341,30 @@
       "patternText": "266.292/394.908",
       "aiScore": 53,
       "picks": 5
+    },
+    {
+      "home": "Fluminense FC",
+      "away": "Mirassol FC",
+      "league": "BR1",
+      "date": "22.11.2026 21:30",
+      "matchCode": "4423379",
+      "odds": 1.44,
+      "patternScore": 68.94,
+      "patternText": "104.064/150.952",
+      "aiScore": 61,
+      "picks": 3
+    },
+    {
+      "home": "Werder Bremen",
+      "away": "Hamburger SV",
+      "league": "AL1",
+      "date": "22.11.2026 16:30",
+      "matchCode": "4495518",
+      "odds": 1.38,
+      "patternScore": 66.68,
+      "patternText": "207.233/310.809",
+      "aiScore": 56,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
