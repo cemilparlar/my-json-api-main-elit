@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 11:05",
+  "updatedAt": "22.11.2026 11:17",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1128,
+      "won": 1129,
       "lost": 504,
-      "total": 1632,
+      "total": 1633,
       "rate": 69.1
     },
-    "totalAnalyses": 773783,
+    "totalAnalyses": 773804,
     "leagues": 289,
     "pro": {
       "won": 1114,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3059,
-    "analyses30d": 17271
+    "analyses24h": 3067,
+    "analyses30d": 17281
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     "matchCode": "4526467",
     "odds": 1.84,
     "patternScore": 67.15,
-    "patternText": "190.802/284.146",
+    "patternText": "190.802/284.148",
     "aiScore": 52,
     "picks": 2
   },
@@ -314,7 +314,7 @@
       "matchCode": "4526467",
       "odds": 1.84,
       "patternScore": 67.15,
-      "patternText": "190.802/284.146",
+      "patternText": "190.802/284.148",
       "aiScore": 52,
       "picks": 2
     },
@@ -326,9 +326,21 @@
       "matchCode": "4475157",
       "odds": 1.68,
       "patternScore": 67.3,
-      "patternText": "210.949/313.431",
+      "patternText": "210.955/313.439",
       "aiScore": 54,
       "picks": 4
+    },
+    {
+      "home": "Szentlorinc Se",
+      "away": "Kecskemeti",
+      "league": "MAC2",
+      "date": "22.11.2026 12:00",
+      "matchCode": "4503648",
+      "odds": 1.6,
+      "patternScore": 66.63,
+      "patternText": "184.664/277.136",
+      "aiScore": 54,
+      "picks": 1
     },
     {
       "home": "Liverpool",
@@ -338,7 +350,7 @@
       "matchCode": "4481117",
       "odds": 1.55,
       "patternScore": 67.02,
-      "patternText": "195.872/292.272",
+      "patternText": "195.874/292.276",
       "aiScore": 55,
       "picks": 3
     },
@@ -350,37 +362,39 @@
       "matchCode": "4495515",
       "odds": 1.54,
       "patternScore": 67.0,
-      "patternText": "213.859/319.179",
-      "aiScore": 54,
-      "picks": 7
-    },
-    {
-      "home": "FC Nordsjaelland",
-      "away": "FC Copenhagen",
-      "league": "DAN",
-      "date": "22.11.2026 17:00",
-      "matchCode": "4474527",
-      "odds": 1.52,
-      "patternScore": 67.48,
-      "patternText": "174.890/259.188",
+      "patternText": "213.859/319.181",
       "aiScore": 54,
       "picks": 7
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "Paris FC",
+      "away": "Angers SCO",
+      "league": "FR1",
+      "at": "22.11.2026 11:13",
+      "count": 14
+    },
+    {
+      "home": "Sparta Rotterdam",
+      "away": "AZ Alkmaar",
+      "league": "HOL",
+      "at": "22.11.2026 11:10",
+      "count": 6
+    },
+    {
+      "home": "Kaiserslautern",
+      "away": "Dynamo Dresden",
+      "league": "AL2",
+      "at": "22.11.2026 11:07",
+      "count": 7
+    },
+    {
       "home": "Burnley",
       "away": "Blackburn",
       "league": "İNCL",
       "at": "22.11.2026 11:05",
       "count": 8
-    },
-    {
-      "home": "Paris FC",
-      "away": "Angers SCO",
-      "league": "FR1",
-      "at": "22.11.2026 10:45",
-      "count": 12
     },
     {
       "home": "Hull City",
@@ -422,20 +436,6 @@
       "away": "Unione V.",
       "league": "İTA",
       "at": "22.11.2026 10:32",
-      "count": 5
-    },
-    {
-      "home": "Dinamo Moscow",
-      "away": "FK Krasnodar",
-      "league": "RUS",
-      "at": "22.11.2026 10:24",
-      "count": 5
-    },
-    {
-      "home": "Sporting Gijon",
-      "away": "UD Las Palmas",
-      "league": "İS2",
-      "at": "22.11.2026 09:55",
       "count": 5
     }
   ],
