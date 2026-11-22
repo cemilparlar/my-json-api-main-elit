@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "22.11.2026 08:24",
+  "updatedAt": "22.11.2026 08:34",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 1148,
-      "lost": 504,
-      "total": 1652,
+      "won": 1153,
+      "lost": 506,
+      "total": 1659,
       "rate": 69.5
     },
-    "totalAnalyses": 773343,
+    "totalAnalyses": 773421,
     "leagues": 289,
     "pro": {
       "won": 1107,
@@ -37,9 +37,9 @@
     },
     "insights": {
       "won": 1893,
-      "lost": 771,
-      "total": 2664,
-      "rate": 71.1
+      "lost": 772,
+      "total": 2665,
+      "rate": 71.0
     },
     "coupons": {
       "won": 3,
@@ -47,8 +47,8 @@
       "total": 9,
       "rate": 33.3
     },
-    "analyses24h": 3127,
-    "analyses30d": 17227
+    "analyses24h": 3123,
+    "analyses30d": 17221
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     "matchCode": "4485920",
     "odds": 1.93,
     "patternScore": 68.14,
-    "patternText": "255.662/375.186",
+    "patternText": "255.664/375.190",
     "aiScore": 53,
     "picks": 5
   },
@@ -314,21 +314,9 @@
       "matchCode": "4485920",
       "odds": 1.93,
       "patternScore": 68.14,
-      "patternText": "255.662/375.186",
+      "patternText": "255.664/375.190",
       "aiScore": 53,
       "picks": 5
-    },
-    {
-      "home": "FC Biel-Bienne",
-      "away": "AC Bellinzona",
-      "league": "İSV1Y",
-      "date": "22.11.2026 14:00",
-      "matchCode": "4511529",
-      "odds": 1.74,
-      "patternScore": 66.96,
-      "patternText": "192.731/287.850",
-      "aiScore": 52,
-      "picks": 3
     },
     {
       "home": "US Avellino",
@@ -338,9 +326,21 @@
       "matchCode": "4534789",
       "odds": 1.59,
       "patternScore": 68.07,
-      "patternText": "179.632/263.886",
+      "patternText": "179.634/263.888",
       "aiScore": 54,
       "picks": 7
+    },
+    {
+      "home": "Konyaspor",
+      "away": "Besiktas",
+      "league": "TSL",
+      "date": "22.11.2026 13:00",
+      "matchCode": "4542757",
+      "odds": 1.51,
+      "patternScore": 67.45,
+      "patternText": "270.228/400.624",
+      "aiScore": 55,
+      "picks": 5
     },
     {
       "home": "Esmtk",
@@ -350,24 +350,59 @@
       "matchCode": "4505094",
       "odds": 1.5,
       "patternScore": 67.74,
-      "patternText": "164.536/242.902",
+      "patternText": "164.538/242.906",
       "aiScore": 54,
       "picks": 3
     },
     {
-      "home": "Odds Bk",
-      "away": "FK Bryne",
-      "league": "NOR",
-      "date": "22.11.2026 12:30",
-      "matchCode": "4581468",
-      "odds": 1.48,
-      "patternScore": 67.15,
-      "patternText": "289.179/430.651",
-      "aiScore": 56,
-      "picks": 2
+      "home": "FC Biel-Bienne",
+      "away": "AC Bellinzona",
+      "league": "İSV1Y",
+      "date": "22.11.2026 14:00",
+      "matchCode": "4511529",
+      "odds": 1.49,
+      "patternScore": 68.61,
+      "patternText": "280.240/408.460",
+      "aiScore": 55,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sparta Rotterdam",
+      "away": "AZ Alkmaar",
+      "league": "HOL",
+      "at": "22.11.2026 08:34",
+      "count": 1
+    },
+    {
+      "home": "US Sassuolo",
+      "away": "Genoa CFC",
+      "league": "İTA",
+      "at": "22.11.2026 08:29",
+      "count": 5
+    },
+    {
+      "home": "Bologna FC",
+      "away": "Udinese",
+      "league": "İTA",
+      "at": "22.11.2026 08:29",
+      "count": 5
+    },
+    {
+      "home": "Paris FC",
+      "away": "Angers SCO",
+      "league": "FR1",
+      "at": "22.11.2026 08:27",
+      "count": 14
+    },
+    {
+      "home": "Hull City",
+      "away": "Brighton & Hove Albion",
+      "league": "İNP",
+      "at": "22.11.2026 08:24",
+      "count": 8
+    },
     {
       "home": "Konyaspor",
       "away": "Besiktas",
@@ -402,41 +437,6 @@
       "league": "İNCL",
       "at": "22.11.2026 07:59",
       "count": 7
-    },
-    {
-      "home": "Erzurumspor FK",
-      "away": "Goztepe",
-      "league": "TSL",
-      "at": "22.11.2026 07:52",
-      "count": 5
-    },
-    {
-      "home": "Esenler Erokspor",
-      "away": "Antalyaspor",
-      "league": "T1L",
-      "at": "22.11.2026 07:22",
-      "count": 2
-    },
-    {
-      "home": "Cordoba CF",
-      "away": "Real Oviedo",
-      "league": "İS2",
-      "at": "22.11.2026 07:17",
-      "count": 8
-    },
-    {
-      "home": "Manisa FK",
-      "away": "Pendikspor",
-      "league": "T1L",
-      "at": "22.11.2026 07:17",
-      "count": 1
-    },
-    {
-      "home": "Kaiserslautern",
-      "away": "Dynamo Dresden",
-      "league": "AL2",
-      "at": "22.11.2026 07:15",
-      "count": 6
     }
   ],
   "paywall": {
