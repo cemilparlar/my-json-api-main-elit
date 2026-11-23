@@ -22754,10 +22754,10 @@
         "matchLink": "4505911",
         "status": "Pending",
         "predictedScore": "1-0",
-        "predictedScoreText": "17/100",
+        "predictedScoreText": "10/64",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 07:07",
+        "tahminUpdatedAt": "23.11.2026 09:52",
         "patternScore": 64.69,
         "patternText": "234.781/362.936",
         "patternInfo": {
@@ -30570,36 +30570,6 @@
         "aiScore": 87
     },
     {
-        "date": "23.11.2026 15:00",
-        "league": "PORU23",
-        "matchCode": "4523178",
-        "home": "SC Braga",
-        "away": "Leixoes SC U23",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "77.27",
-        "odds": "1.11",
-        "matchCount": "176",
-        "matchLink": "4523178",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "15/132",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "23.11.2026 09:40",
-        "patternScore": 70.56,
-        "patternText": "282.008/399.648",
-        "patternInfo": {
-            "m": 70,
-            "s": 11,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 86
-    },
-    {
         "date": "23.11.2026 15:15",
         "league": "SUUD1",
         "matchCode": "4538735",
@@ -30778,5 +30748,35 @@
             "b": 100.0
         },
         "aiScore": 63
+    },
+    {
+        "date": "23.11.2026 15:00",
+        "league": "PORU23",
+        "matchCode": "4523178",
+        "home": "SC Braga",
+        "away": "Leixoes SC U23",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.27",
+        "odds": "1.10",
+        "matchCount": "132",
+        "matchLink": "4523178",
+        "status": "Pending",
+        "predictedScore": "2-1",
+        "predictedScoreText": "15/132",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "23.11.2026 09:40",
+        "patternScore": 70.7,
+        "patternText": "284.004/401.706",
+        "patternInfo": {
+            "m": 71,
+            "s": 8,
+            "f": 3,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 85
     }
 ]
