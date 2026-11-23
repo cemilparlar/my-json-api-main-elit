@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 17:59",
+  "updatedAt": "23.11.2026 18:09",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 155,
-      "lost": 83,
-      "total": 238,
-      "rate": 65.1
+      "won": 163,
+      "lost": 85,
+      "total": 248,
+      "rate": 65.7
     },
-    "totalAnalyses": 777376,
-    "leagues": 288,
+    "totalAnalyses": 777402,
+    "leagues": 287,
     "pro": {
-      "won": 1455,
-      "lost": 539,
-      "total": 1994,
+      "won": 1462,
+      "lost": 541,
+      "total": 2003,
       "rate": 73.0
     },
     "insights": {
-      "won": 2477,
-      "lost": 1025,
-      "total": 3502,
-      "rate": 70.7
+      "won": 2485,
+      "lost": 1027,
+      "total": 3512,
+      "rate": 70.8
     },
     "coupons": {
       "won": 6,
@@ -48,7 +48,7 @@
       "rate": 35.3
     },
     "analyses24h": 1325,
-    "analyses30d": 17431
+    "analyses30d": 17326
   },
   "recentWins": [
     {
@@ -398,11 +398,18 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "FC Santos",
+      "away": "Gremio FBPA",
+      "league": "BR1",
+      "at": "23.11.2026 18:08",
+      "count": 11
+    },
+    {
       "home": "FC Nantes",
       "away": "Grenoble Foot",
       "league": "FR2",
-      "at": "23.11.2026 17:45",
-      "count": 14
+      "at": "23.11.2026 18:07",
+      "count": 6
     },
     {
       "home": "AC Monza",
@@ -459,13 +466,6 @@
       "league": "ŞMP",
       "at": "23.11.2026 14:44",
       "count": 13
-    },
-    {
-      "home": "Brentford",
-      "away": "Everton",
-      "league": "İNP",
-      "at": "23.11.2026 14:44",
-      "count": 4
     }
   ],
   "paywall": {
