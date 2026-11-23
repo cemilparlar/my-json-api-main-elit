@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 10:26",
+  "updatedAt": "23.11.2026 10:34",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 737,
-      "lost": 379,
-      "total": 1116,
-      "rate": 66.0
+      "won": 724,
+      "lost": 370,
+      "total": 1094,
+      "rate": 66.2
     },
-    "totalAnalyses": 776573,
+    "totalAnalyses": 776583,
     "leagues": 287,
     "pro": {
       "won": 1450,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 2141,
-    "analyses30d": 17696
+    "analyses24h": 2118,
+    "analyses30d": 17695
   },
   "recentWins": [
     {
@@ -281,7 +281,7 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 06:26",
+      "at": "23.11.2026 10:27",
       "home": "LNZ Cherkasy",
       "away": "Polissya Zhytomyr"
     },
@@ -330,7 +330,7 @@
     "matchCode": "4538735",
     "odds": 1.5,
     "patternScore": 67.31,
-    "patternText": "214.679/318.937",
+    "patternText": "214.681/318.941",
     "aiScore": 53,
     "picks": 6
   },
@@ -343,7 +343,7 @@
       "matchCode": "4538735",
       "odds": 1.5,
       "patternScore": 67.31,
-      "patternText": "214.679/318.937",
+      "patternText": "214.681/318.941",
       "aiScore": 53,
       "picks": 6
     },
@@ -372,18 +372,6 @@
       "picks": 2
     },
     {
-      "home": "LNZ Cherkasy",
-      "away": "Polissya Zhytomyr",
-      "league": "UKR",
-      "date": "23.11.2026 11:00",
-      "matchCode": "4508214",
-      "odds": 1.32,
-      "patternScore": 68.55,
-      "patternText": "221.357/322.900",
-      "aiScore": 61,
-      "picks": 1
-    },
-    {
       "home": "Albinoleffe U2",
       "away": "Genoa U20",
       "league": "İTAPŞ1",
@@ -391,9 +379,21 @@
       "matchCode": "4544751",
       "odds": 1.31,
       "patternScore": 68.06,
-      "patternText": "231.392/339.974",
+      "patternText": "231.394/339.978",
       "aiScore": 59,
       "picks": 1
+    },
+    {
+      "home": "El Gouna FC",
+      "away": "Zamalek SC",
+      "league": "MSR",
+      "date": "23.11.2026 15:00",
+      "matchCode": "4537886",
+      "odds": 1.28,
+      "patternScore": 68.64,
+      "patternText": "241.829/352.319",
+      "aiScore": 63,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
