@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 11:50",
+  "updatedAt": "23.11.2026 11:58",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 925,
       "rate": 66.7
     },
-    "totalAnalyses": 776705,
+    "totalAnalyses": 776708,
     "leagues": 288,
     "pro": {
       "won": 1452,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1992,
-    "analyses30d": 17714
+    "analyses24h": 1990,
+    "analyses30d": 17712
   },
   "recentWins": [
     {
@@ -323,18 +323,30 @@
     }
   ],
   "today": {
-    "home": "Jeddah Club",
-    "away": "Damak",
-    "league": "SUUD1",
-    "date": "23.11.2026 15:15",
-    "matchCode": "4538735",
-    "odds": 1.5,
-    "patternScore": 67.31,
-    "patternText": "214.685/318.945",
+    "home": "Neftchi Fargon",
+    "away": "Al Hilal",
+    "league": "AŞMP",
+    "date": "23.11.2026 13:45",
+    "matchCode": "4550158",
+    "odds": 1.71,
+    "patternScore": 68.08,
+    "patternText": "238.103/349.738",
     "aiScore": 53,
-    "picks": 6
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Neftchi Fargon",
+      "away": "Al Hilal",
+      "league": "AŞMP",
+      "date": "23.11.2026 13:45",
+      "matchCode": "4550158",
+      "odds": 1.71,
+      "patternScore": 68.08,
+      "patternText": "238.103/349.738",
+      "aiScore": 53,
+      "picks": 4
+    },
     {
       "home": "Jeddah Club",
       "away": "Damak",
@@ -378,22 +390,10 @@
       "date": "23.11.2026 17:00",
       "matchCode": "4542754",
       "odds": 1.34,
-      "patternScore": 67.14,
-      "patternText": "220.394/328.264",
-      "aiScore": 59,
-      "picks": 5
-    },
-    {
-      "home": "Albinoleffe U2",
-      "away": "Genoa U20",
-      "league": "İTAPŞ1",
-      "date": "23.11.2026 14:00",
-      "matchCode": "4544751",
-      "odds": 1.31,
-      "patternScore": 68.06,
-      "patternText": "231.402/339.986",
-      "aiScore": 59,
-      "picks": 1
+      "patternScore": 66.25,
+      "patternText": "78.124/117.926",
+      "aiScore": 65,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
