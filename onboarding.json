@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 07:24",
+  "updatedAt": "23.11.2026 07:32",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 752,
-      "lost": 385,
-      "total": 1137,
-      "rate": 66.1
+      "won": 741,
+      "lost": 383,
+      "total": 1124,
+      "rate": 65.9
     },
-    "totalAnalyses": 775847,
+    "totalAnalyses": 775887,
     "leagues": 286,
     "pro": {
       "won": 1434,
@@ -47,7 +47,7 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1732,
+    "analyses24h": 1719,
     "analyses30d": 17281
   },
   "recentWins": [
@@ -317,7 +317,7 @@
     },
     {
       "type": "analysis",
-      "count": 1732
+      "count": 1719
     }
   ],
   "today": {
