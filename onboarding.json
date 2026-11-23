@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 08:31",
+  "updatedAt": "23.11.2026 08:46",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 748,
-      "lost": 384,
-      "total": 1132,
-      "rate": 66.1
+      "won": 750,
+      "lost": 386,
+      "total": 1136,
+      "rate": 66.0
     },
-    "totalAnalyses": 776151,
+    "totalAnalyses": 776267,
     "leagues": 287,
     "pro": {
       "won": 1438,
@@ -36,9 +36,9 @@
       "rate": 72.8
     },
     "insights": {
-      "won": 2451,
-      "lost": 1020,
-      "total": 3471,
+      "won": 2453,
+      "lost": 1021,
+      "total": 3474,
       "rate": 70.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1905,
-    "analyses30d": 17463
+    "analyses24h": 2014,
+    "analyses30d": 17572
   },
   "recentWins": [
     {
@@ -305,21 +305,21 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 08:28",
-      "home": "FC Chelyabinsk",
-      "away": "Leningradets"
-    },
-    {
-      "type": "updated",
       "at": "23.11.2026 07:08",
       "home": "Bistrica",
       "away": "Krka Novo Mesto"
     },
     {
       "type": "updated",
-      "at": "23.11.2026 08:28",
-      "home": "Neftchi Fargon",
-      "away": "Al Hilal"
+      "at": "23.11.2026 07:09",
+      "home": "Barnsley U21",
+      "away": "Bolton U21"
+    },
+    {
+      "type": "kickoff",
+      "home": "Chernomorets",
+      "away": "Epitsentr Dunay",
+      "at": "23.11.2026 11:00"
     }
   ],
   "today": {
@@ -372,6 +372,18 @@
       "picks": 1
     },
     {
+      "home": "Albinoleffe U2",
+      "away": "Genoa U20",
+      "league": "İTAPŞ1",
+      "date": "23.11.2026 14:00",
+      "matchCode": "4544751",
+      "odds": 1.31,
+      "patternScore": 68.06,
+      "patternText": "231.360/339.930",
+      "aiScore": 59,
+      "picks": 1
+    },
+    {
       "home": "Saham Club",
       "away": "Oman FC",
       "league": "UMM",
@@ -382,21 +394,37 @@
       "patternText": "205.092/302.802",
       "aiScore": 55,
       "picks": 3
-    },
-    {
-      "home": "FC Chelyabinsk",
-      "away": "Leningradets",
-      "league": "RUS1",
-      "date": "23.11.2026 14:00",
-      "matchCode": "4498126",
-      "odds": 1.25,
-      "patternScore": 68.53,
-      "patternText": "225.411/328.928",
-      "aiScore": 64,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "San Jose Earthquakes",
+      "away": "Houston Dynamo",
+      "league": "ABD",
+      "at": "23.11.2026 08:39",
+      "count": 7
+    },
+    {
+      "home": "Chapecoense AF",
+      "away": "SE Palmeiras",
+      "league": "BR1",
+      "at": "23.11.2026 08:36",
+      "count": 17
+    },
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Derby County",
+      "league": "İNCL",
+      "at": "23.11.2026 08:36",
+      "count": 7
+    },
+    {
+      "home": "LR Vicenza",
+      "away": "Carrarese Calcio",
+      "league": "İTB",
+      "at": "23.11.2026 08:32",
+      "count": 7
+    },
     {
       "home": "Bristol City",
       "away": "Wrexham AFC",
@@ -438,34 +466,6 @@
       "league": "İTB",
       "at": "23.11.2026 07:51",
       "count": 6
-    },
-    {
-      "home": "Benevento",
-      "away": "Empoli",
-      "league": "İTB",
-      "at": "23.11.2026 07:50",
-      "count": 3
-    },
-    {
-      "home": "Virtus Entella",
-      "away": "Verona",
-      "league": "İTB",
-      "at": "23.11.2026 07:50",
-      "count": 6
-    },
-    {
-      "home": "Palermo FC",
-      "away": "FC Sudtirol",
-      "league": "İTB",
-      "at": "23.11.2026 07:50",
-      "count": 7
-    },
-    {
-      "home": "KAA Gent",
-      "away": "FK Crvena zvezda",
-      "league": "AVKL",
-      "at": "23.11.2026 06:53",
-      "count": 10
     }
   ],
   "paywall": {
