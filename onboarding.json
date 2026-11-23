@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 06:21",
+  "updatedAt": "23.11.2026 06:32",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 1124,
       "rate": 66.5
     },
-    "totalAnalyses": 775230,
+    "totalAnalyses": 775299,
     "leagues": 286,
     "pro": {
-      "won": 1426,
+      "won": 1428,
       "lost": 532,
-      "total": 1958,
-      "rate": 72.8
+      "total": 1960,
+      "rate": 72.9
     },
     "insights": {
-      "won": 2431,
+      "won": 2434,
       "lost": 1009,
-      "total": 3440,
+      "total": 3443,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1428,
-    "analyses30d": 16974
+    "analyses24h": 1496,
+    "analyses30d": 17042
   },
   "recentWins": [
     {
@@ -275,12 +275,6 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 00:28",
-      "home": "FC Queretaro",
-      "away": "Club Necaxa"
-    },
-    {
-      "type": "updated",
       "at": "23.11.2026 05:25",
       "home": "Ntv Beleza Women",
       "away": "INAC Kobe Leonessa"
@@ -305,22 +299,34 @@
     },
     {
       "type": "analysis",
-      "count": 1428
+      "count": 1496
     }
   ],
   "today": {
-    "home": "Chernomorets",
-    "away": "Epitsentr Dunay",
-    "league": "UKR",
-    "date": "23.11.2026 11:00",
-    "matchCode": "4508208",
-    "odds": 1.15,
-    "patternScore": 69.79,
-    "patternText": "215.970/309.468",
-    "aiScore": 87,
+    "home": "Cska Sofia Ii",
+    "away": "Beroe Stara Zagora",
+    "league": "BULB",
+    "date": "23.11.2026 12:30",
+    "matchCode": "4505911",
+    "odds": 1.38,
+    "patternScore": 68.94,
+    "patternText": "198.229/287.548",
+    "aiScore": 57,
     "picks": 1
   },
   "todayList": [
+    {
+      "home": "Cska Sofia Ii",
+      "away": "Beroe Stara Zagora",
+      "league": "BULB",
+      "date": "23.11.2026 12:30",
+      "matchCode": "4505911",
+      "odds": 1.38,
+      "patternScore": 68.94,
+      "patternText": "198.229/287.548",
+      "aiScore": 57,
+      "picks": 1
+    },
     {
       "home": "Chernomorets",
       "away": "Epitsentr Dunay",
@@ -368,21 +374,37 @@
       "patternText": "201.420/294.363",
       "aiScore": 55,
       "picks": 4
-    },
-    {
-      "home": "Cska Sofia Ii",
-      "away": "Beroe Stara Zagora",
-      "league": "BULB",
-      "date": "23.11.2026 12:30",
-      "matchCode": "4505911",
-      "odds": 1.38,
-      "patternScore": 68.94,
-      "patternText": "198.229/287.548",
-      "aiScore": 57,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Arsenal",
+      "away": "Borussia Dortmund",
+      "league": "ŞMP",
+      "at": "23.11.2026 06:32",
+      "count": 6
+    },
+    {
+      "home": "RB Leipzig",
+      "away": "RC Lens",
+      "league": "ŞMP",
+      "at": "23.11.2026 06:31",
+      "count": 15
+    },
+    {
+      "home": "Feyenoord",
+      "away": "FC Porto",
+      "league": "ŞMP",
+      "at": "23.11.2026 06:31",
+      "count": 6
+    },
+    {
+      "home": "Galatasaray",
+      "away": "Aston Villa",
+      "league": "ŞMP",
+      "at": "23.11.2026 06:29",
+      "count": 8
+    },
     {
       "home": "Vancouver Whitecaps",
       "away": "Salt Lake",
@@ -424,34 +446,6 @@
       "league": "İTA",
       "at": "22.11.2026 18:20",
       "count": 2
-    },
-    {
-      "home": "Atletico Paranaense",
-      "away": "Remo",
-      "league": "BR1",
-      "at": "22.11.2026 18:19",
-      "count": 6
-    },
-    {
-      "home": "Red Bull Bragantino",
-      "away": "Club de Regatas Vasco da Gama",
-      "league": "BR1",
-      "at": "22.11.2026 16:48",
-      "count": 12
-    },
-    {
-      "home": "RSC Anderlecht",
-      "away": "OH Leuven",
-      "league": "BEL",
-      "at": "22.11.2026 16:47",
-      "count": 5
-    },
-    {
-      "home": "CA Osasuna",
-      "away": "Malaga CF",
-      "league": "İS1",
-      "at": "22.11.2026 16:47",
-      "count": 4
     }
   ],
   "paywall": {
