@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 16:28",
+  "updatedAt": "23.11.2026 16:36",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 229,
-      "lost": 120,
-      "total": 349,
-      "rate": 65.6
+      "won": 190,
+      "lost": 105,
+      "total": 295,
+      "rate": 64.4
     },
-    "totalAnalyses": 777179,
+    "totalAnalyses": 777204,
     "leagues": 288,
     "pro": {
       "won": 1451,
@@ -47,24 +47,10 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1450,
-    "analyses30d": 17570
+    "analyses24h": 1396,
+    "analyses30d": 17521
   },
   "recentWins": [
-    {
-      "home": "Borussia Monchengladbach",
-      "away": "Borussia Dortmund",
-      "league": "AL1",
-      "date": "21.11.2026 14:30",
-      "prediction": "Total Goals 0-1",
-      "odds": 4.88,
-      "probability": 100.0,
-      "patternScore": 58.31,
-      "aiScore": 50,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 1",
-      "pro": true
-    },
     {
       "home": "Rosario Central",
       "away": "Gimnasia y Esgrima Mendoza",
@@ -119,6 +105,20 @@
       "aiScore": 50,
       "firstHalf": "3 - 0",
       "finalScore": "3 - 0",
+      "pro": true
+    },
+    {
+      "home": "Konyaspor",
+      "away": "Besiktas",
+      "league": "TSL",
+      "date": "22.11.2026 13:00",
+      "prediction": "Over 3.5 Goals",
+      "odds": 2.4,
+      "probability": 100.0,
+      "patternScore": 57.18,
+      "aiScore": 51,
+      "firstHalf": "1 - 2",
+      "finalScore": "2 - 4",
       "pro": true
     }
   ],
@@ -243,14 +243,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Borussia Monchengladbach",
-      "away": "Borussia Dortmund",
-      "prediction": "Total Goals 0-1",
-      "odds": 4.88,
-      "at": "21.11.2026 14:30"
-    },
-    {
-      "type": "won",
       "home": "Rosario Central",
       "away": "Gimnasia y Esgrima Mendoza",
       "prediction": "Handicap (0:2) X",
@@ -272,6 +264,14 @@
       "prediction": "HT/FT 2/2",
       "odds": 3.33,
       "at": "21.11.2026 20:00"
+    },
+    {
+      "type": "won",
+      "home": "KRC Genk",
+      "away": "La Louviere",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 3.29,
+      "at": "21.11.2026 17:15"
     },
     {
       "type": "updated",
@@ -348,18 +348,6 @@
       "picks": 9
     },
     {
-      "home": "Istanbul Basaksehir",
-      "away": "Corum FK",
-      "league": "TSL",
-      "date": "23.11.2026 17:00",
-      "matchCode": "4542754",
-      "odds": 1.49,
-      "patternScore": 68.21,
-      "patternText": "148.051/217.065",
-      "aiScore": 55,
-      "picks": 5
-    },
-    {
       "home": "Brentford",
       "away": "Everton",
       "league": "İNP",
@@ -394,6 +382,18 @@
       "patternText": "210.745/310.744",
       "aiScore": 57,
       "picks": 1
+    },
+    {
+      "home": "Levante UD",
+      "away": "Elche CF",
+      "league": "İS1",
+      "date": "23.11.2026 20:00",
+      "matchCode": "4492383",
+      "odds": 1.32,
+      "patternScore": 68.27,
+      "patternText": "128.420/188.098",
+      "aiScore": 63,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
