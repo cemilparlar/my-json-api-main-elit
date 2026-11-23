@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 10:59",
+  "updatedAt": "23.11.2026 11:07",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 723,
-      "lost": 370,
-      "total": 1093,
-      "rate": 66.1
+      "won": 647,
+      "lost": 334,
+      "total": 981,
+      "rate": 66.0
     },
-    "totalAnalyses": 776641,
+    "totalAnalyses": 776647,
     "leagues": 288,
     "pro": {
       "won": 1450,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 2150,
-    "analyses30d": 17728
+    "analyses24h": 2033,
+    "analyses30d": 17720
   },
   "recentWins": [
     {
@@ -323,18 +323,30 @@
     }
   ],
   "today": {
-    "home": "Jeddah Club",
-    "away": "Damak",
-    "league": "SUUD1",
-    "date": "23.11.2026 15:15",
-    "matchCode": "4538735",
-    "odds": 1.5,
-    "patternScore": 67.31,
-    "patternText": "214.681/318.941",
-    "aiScore": 53,
-    "picks": 6
+    "home": "Istanbul Basaksehir",
+    "away": "Corum FK",
+    "league": "TSL",
+    "date": "23.11.2026 17:00",
+    "matchCode": "4542754",
+    "odds": 2.14,
+    "patternScore": 66.71,
+    "patternText": "213.825/320.547",
+    "aiScore": 51,
+    "picks": 9
   },
   "todayList": [
+    {
+      "home": "Istanbul Basaksehir",
+      "away": "Corum FK",
+      "league": "TSL",
+      "date": "23.11.2026 17:00",
+      "matchCode": "4542754",
+      "odds": 2.14,
+      "patternScore": 66.71,
+      "patternText": "213.825/320.547",
+      "aiScore": 51,
+      "picks": 9
+    },
     {
       "home": "Jeddah Club",
       "away": "Damak",
@@ -382,18 +394,6 @@
       "patternText": "231.394/339.978",
       "aiScore": 59,
       "picks": 1
-    },
-    {
-      "home": "El Gouna FC",
-      "away": "Zamalek SC",
-      "league": "MSR",
-      "date": "23.11.2026 15:00",
-      "matchCode": "4537886",
-      "odds": 1.28,
-      "patternScore": 68.64,
-      "patternText": "241.829/352.319",
-      "aiScore": 62,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
