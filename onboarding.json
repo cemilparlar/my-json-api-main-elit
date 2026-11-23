@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 13:40",
+  "updatedAt": "23.11.2026 13:50",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 437,
-      "lost": 237,
-      "total": 674,
+      "won": 434,
+      "lost": 236,
+      "total": 670,
       "rate": 64.8
     },
-    "totalAnalyses": 776907,
+    "totalAnalyses": 776937,
     "leagues": 287,
     "pro": {
       "won": 1450,
@@ -48,7 +48,7 @@
       "rate": 35.3
     },
     "analyses24h": 1777,
-    "analyses30d": 17669
+    "analyses30d": 17673
   },
   "recentWins": [
     {
@@ -398,6 +398,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "AC Monza",
+      "away": "ACF Fiorentina",
+      "league": "İTA",
+      "at": "23.11.2026 13:48",
+      "count": 7
+    },
+    {
+      "home": "FC Nantes",
+      "away": "Grenoble Foot",
+      "league": "FR2",
+      "at": "23.11.2026 13:47",
+      "count": 10
+    },
+    {
+      "home": "FC Sochaux",
+      "away": "USL Dunkerque",
+      "league": "FR2",
+      "at": "23.11.2026 13:46",
+      "count": 5
+    },
+    {
+      "home": "AD Ceuta",
+      "away": "UD Almeria",
+      "league": "İS2",
+      "at": "23.11.2026 13:45",
+      "count": 7
+    },
+    {
       "home": "Sunderland",
       "away": "Jagiellonia Bialystok",
       "league": "AVL",
@@ -438,34 +466,6 @@
       "league": "İNCL",
       "at": "23.11.2026 09:07",
       "count": 4
-    },
-    {
-      "home": "Watford",
-      "away": "Blackburn",
-      "league": "İNCL",
-      "at": "23.11.2026 09:05",
-      "count": 7
-    },
-    {
-      "home": "Bolton Wanderers",
-      "away": "West Bromwich Albion",
-      "league": "İNCL",
-      "at": "23.11.2026 09:05",
-      "count": 8
-    },
-    {
-      "home": "Burnley",
-      "away": "Birmingham City",
-      "league": "İNCL",
-      "at": "23.11.2026 09:03",
-      "count": 5
-    },
-    {
-      "home": "AC Pisa",
-      "away": "Modena FC",
-      "league": "İTB",
-      "at": "23.11.2026 09:02",
-      "count": 6
     }
   ],
   "paywall": {
