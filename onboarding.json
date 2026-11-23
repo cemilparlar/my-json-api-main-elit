@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 16:44",
+  "updatedAt": "23.11.2026 16:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 298,
       "rate": 64.8
     },
-    "totalAnalyses": 777210,
+    "totalAnalyses": 777219,
     "leagues": 288,
     "pro": {
       "won": 1454,
@@ -48,7 +48,7 @@
       "rate": 35.3
     },
     "analyses24h": 1396,
-    "analyses30d": 17521
+    "analyses30d": 17510
   },
   "recentWins": [
     {
@@ -330,7 +330,7 @@
     "matchCode": "4580873",
     "odds": 1.6,
     "patternScore": 65.04,
-    "patternText": "59.508/91.493",
+    "patternText": "59.514/91.499",
     "aiScore": 52,
     "picks": 9
   },
@@ -343,7 +343,7 @@
       "matchCode": "4580873",
       "odds": 1.6,
       "patternScore": 65.04,
-      "patternText": "59.508/91.493",
+      "patternText": "59.514/91.499",
       "aiScore": 52,
       "picks": 9
     },
@@ -355,7 +355,7 @@
       "matchCode": "4481113",
       "odds": 1.43,
       "patternScore": 68.43,
-      "patternText": "102.119/149.238",
+      "patternText": "102.125/149.244",
       "aiScore": 57,
       "picks": 4
     },
@@ -367,7 +367,7 @@
       "matchCode": "4475158",
       "odds": 1.38,
       "patternScore": 67.36,
-      "patternText": "233.778/347.083",
+      "patternText": "233.796/347.101",
       "aiScore": 56,
       "picks": 7
     },
@@ -379,7 +379,7 @@
       "matchCode": "4540483",
       "odds": 1.35,
       "patternScore": 67.82,
-      "patternText": "210.745/310.744",
+      "patternText": "210.763/310.762",
       "aiScore": 57,
       "picks": 1
     },
@@ -391,12 +391,33 @@
       "matchCode": "4492383",
       "odds": 1.32,
       "patternScore": 68.27,
-      "patternText": "128.420/188.098",
+      "patternText": "128.426/188.104",
       "aiScore": 63,
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sport Club Internacional",
+      "away": "Vitoria Bahia",
+      "league": "BR1",
+      "at": "23.11.2026 16:51",
+      "count": 6
+    },
+    {
+      "home": "Levante UD",
+      "away": "Elche CF",
+      "league": "İS1",
+      "at": "23.11.2026 16:50",
+      "count": 7
+    },
+    {
+      "home": "AC Monza",
+      "away": "ACF Fiorentina",
+      "league": "İTA",
+      "at": "23.11.2026 16:49",
+      "count": 8
+    },
     {
       "home": "Istanbul Basaksehir",
       "away": "Corum FK",
@@ -410,20 +431,6 @@
       "league": "İS2",
       "at": "23.11.2026 15:49",
       "count": 8
-    },
-    {
-      "home": "AC Monza",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "at": "23.11.2026 15:49",
-      "count": 9
-    },
-    {
-      "home": "Levante UD",
-      "away": "Elche CF",
-      "league": "İS1",
-      "at": "23.11.2026 15:49",
-      "count": 7
     },
     {
       "home": "FC Nantes",
@@ -459,13 +466,6 @@
       "league": "AVL",
       "at": "23.11.2026 13:24",
       "count": 13
-    },
-    {
-      "home": "Cardiff City",
-      "away": "Preston North End",
-      "league": "İNCL",
-      "at": "23.11.2026 12:24",
-      "count": 9
     }
   ],
   "paywall": {
