@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 11:23",
+  "updatedAt": "23.11.2026 11:32",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 643,
-      "lost": 330,
-      "total": 973,
-      "rate": 66.1
+      "won": 617,
+      "lost": 309,
+      "total": 926,
+      "rate": 66.6
     },
-    "totalAnalyses": 776671,
+    "totalAnalyses": 776696,
     "leagues": 288,
     "pro": {
       "won": 1452,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 2038,
-    "analyses30d": 17732
+    "analyses24h": 1992,
+    "analyses30d": 17721
   },
   "recentWins": [
     {
@@ -275,12 +275,6 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 05:25",
-      "home": "Ntv Beleza Women",
-      "away": "INAC Kobe Leonessa"
-    },
-    {
-      "type": "updated",
       "at": "23.11.2026 10:27",
       "home": "LNZ Cherkasy",
       "away": "Polissya Zhytomyr"
@@ -317,9 +311,15 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 10:08",
+      "at": "23.11.2026 11:27",
       "home": "Skendija",
       "away": "Fk Sileks"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 09:52",
+      "home": "Cska Sofia Ii",
+      "away": "Beroe Stara Zagora"
     }
   ],
   "today": {
@@ -330,7 +330,7 @@
     "matchCode": "4538735",
     "odds": 1.5,
     "patternScore": 67.31,
-    "patternText": "214.681/318.941",
+    "patternText": "214.685/318.945",
     "aiScore": 53,
     "picks": 6
   },
@@ -343,7 +343,7 @@
       "matchCode": "4538735",
       "odds": 1.5,
       "patternScore": 67.31,
-      "patternText": "214.681/318.941",
+      "patternText": "214.685/318.945",
       "aiScore": 53,
       "picks": 6
     },
@@ -379,7 +379,7 @@
       "matchCode": "4542754",
       "odds": 1.34,
       "patternScore": 67.14,
-      "patternText": "220.390/328.260",
+      "patternText": "220.394/328.264",
       "aiScore": 59,
       "picks": 5
     },
@@ -391,7 +391,7 @@
       "matchCode": "4544751",
       "odds": 1.31,
       "patternScore": 68.06,
-      "patternText": "231.394/339.978",
+      "patternText": "231.402/339.986",
       "aiScore": 59,
       "picks": 1
     }
