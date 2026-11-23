@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 17:34",
+  "updatedAt": "23.11.2026 17:43",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 237,
       "rate": 65.0
     },
-    "totalAnalyses": 777300,
+    "totalAnalyses": 777348,
     "leagues": 288,
     "pro": {
       "won": 1454,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1321,
-    "analyses30d": 17431
+    "analyses24h": 1318,
+    "analyses30d": 17428
   },
   "recentWins": [
     {
@@ -323,18 +323,30 @@
     }
   ],
   "today": {
-    "home": "Gimnasia La Plata",
-    "away": "Newells Old Boys",
-    "league": "ARJ",
+    "home": "Levante UD",
+    "away": "Elche CF",
+    "league": "İS1",
     "date": "23.11.2026 20:00",
-    "matchCode": "4580873",
-    "odds": 1.6,
-    "patternScore": 65.05,
-    "patternText": "59.548/91.539",
+    "matchCode": "4492383",
+    "odds": 1.91,
+    "patternScore": 67.97,
+    "patternText": "186.884/274.958",
     "aiScore": 53,
-    "picks": 9
+    "picks": 6
   },
   "todayList": [
+    {
+      "home": "Levante UD",
+      "away": "Elche CF",
+      "league": "İS1",
+      "date": "23.11.2026 20:00",
+      "matchCode": "4492383",
+      "odds": 1.91,
+      "patternScore": 67.97,
+      "patternText": "186.884/274.958",
+      "aiScore": 53,
+      "picks": 6
+    },
     {
       "home": "Gimnasia La Plata",
       "away": "Newells Old Boys",
@@ -343,21 +355,9 @@
       "matchCode": "4580873",
       "odds": 1.6,
       "patternScore": 65.05,
-      "patternText": "59.548/91.539",
+      "patternText": "59.550/91.541",
       "aiScore": 53,
       "picks": 9
-    },
-    {
-      "home": "Levante UD",
-      "away": "Elche CF",
-      "league": "İS1",
-      "date": "23.11.2026 20:00",
-      "matchCode": "4492383",
-      "odds": 1.46,
-      "patternScore": 67.41,
-      "patternText": "112.735/167.226",
-      "aiScore": 54,
-      "picks": 6
     },
     {
       "home": "Sport Club Internacional",
@@ -367,7 +367,7 @@
       "matchCode": "4423385",
       "odds": 1.44,
       "patternScore": 67.97,
-      "patternText": "191.077/281.110",
+      "patternText": "191.079/281.112",
       "aiScore": 56,
       "picks": 4
     },
@@ -379,7 +379,7 @@
       "matchCode": "4481113",
       "odds": 1.43,
       "patternScore": 68.43,
-      "patternText": "102.159/149.284",
+      "patternText": "102.161/149.286",
       "aiScore": 57,
       "picks": 4
     },
@@ -391,7 +391,7 @@
       "matchCode": "4540483",
       "odds": 1.35,
       "patternScore": 67.82,
-      "patternText": "210.829/310.846",
+      "patternText": "210.835/310.852",
       "aiScore": 57,
       "picks": 1
     }
