@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 03:05",
+  "updatedAt": "23.11.2026 03:13",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 755,
-      "lost": 385,
-      "total": 1140,
-      "rate": 66.2
+      "won": 760,
+      "lost": 387,
+      "total": 1147,
+      "rate": 66.3
     },
-    "totalAnalyses": 775226,
+    "totalAnalyses": 775228,
     "leagues": 286,
     "pro": {
-      "won": 1400,
-      "lost": 520,
-      "total": 1920,
+      "won": 1403,
+      "lost": 522,
+      "total": 1925,
       "rate": 72.9
     },
     "insights": {
-      "won": 2386,
-      "lost": 984,
-      "total": 3370,
+      "won": 2391,
+      "lost": 986,
+      "total": 3377,
       "rate": 70.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1473,
-    "analyses30d": 16976
+    "analyses24h": 1474,
+    "analyses30d": 16977
   },
   "recentWins": [
     {
@@ -274,12 +274,6 @@
       "at": "21.11.2026 17:00"
     },
     {
-      "type": "coupon",
-      "size": 3,
-      "odds": 1.54,
-      "at": "22.11.2026 15:09"
-    },
-    {
       "type": "updated",
       "at": "22.11.2026 23:28",
       "home": "Gimnasia Y Tir",
@@ -320,6 +314,12 @@
       "at": "23.11.2026 01:50",
       "home": "Albirex Niigata",
       "away": "Sanfrecce Hiros"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 03:07",
+      "home": "AC Parceiro Nagano",
+      "away": "Urawa Red Women"
     }
   ],
   "today": {
@@ -354,8 +354,8 @@
       "date": "23.11.2026 04:00",
       "matchCode": "4488327",
       "odds": 1.12,
-      "patternScore": 71.01,
-      "patternText": "307.681/433.264",
+      "patternScore": 71.02,
+      "patternText": "307.687/433.270",
       "aiScore": 97,
       "picks": 1
     },
@@ -367,7 +367,7 @@
       "matchCode": "4488325",
       "odds": 1.12,
       "patternScore": 70.72,
-      "patternText": "235.718/333.314",
+      "patternText": "235.720/333.316",
       "aiScore": 96,
       "picks": 1
     },
@@ -379,7 +379,7 @@
       "matchCode": "4488330",
       "odds": 1.06,
       "patternScore": 72.72,
-      "patternText": "156.821/215.640",
+      "patternText": "156.827/215.646",
       "aiScore": 98,
       "picks": 1
     },
