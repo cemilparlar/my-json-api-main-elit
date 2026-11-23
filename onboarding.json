@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 12:22",
+  "updatedAt": "23.11.2026 12:30",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 885,
       "rate": 66.1
     },
-    "totalAnalyses": 776747,
+    "totalAnalyses": 776763,
     "leagues": 288,
     "pro": {
       "won": 1452,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1959,
-    "analyses30d": 17710
+    "analyses24h": 1904,
+    "analyses30d": 17696
   },
   "recentWins": [
     {
@@ -299,7 +299,7 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 11:46",
+      "at": "23.11.2026 12:23",
       "home": "Istanbul Basaksehir",
       "away": "Corum FK"
     },
@@ -360,28 +360,16 @@
       "picks": 6
     },
     {
-      "home": "Barnsley U21",
-      "away": "Bolton U21",
-      "league": "INGPDL",
-      "date": "23.11.2026 13:00",
-      "matchCode": "4540682",
-      "odds": 1.34,
-      "patternScore": 66.85,
-      "patternText": "146.547/219.233",
-      "aiScore": 58,
-      "picks": 2
-    },
-    {
       "home": "Istanbul Basaksehir",
       "away": "Corum FK",
       "league": "TSL",
       "date": "23.11.2026 17:00",
       "matchCode": "4542754",
-      "odds": 1.34,
-      "patternScore": 66.25,
-      "patternText": "78.124/117.926",
-      "aiScore": 65,
-      "picks": 6
+      "odds": 1.49,
+      "patternScore": 68.21,
+      "patternText": "147.991/216.967",
+      "aiScore": 55,
+      "picks": 5
     },
     {
       "home": "Orgryte IS",
@@ -394,15 +382,34 @@
       "patternText": "149.961/221.581",
       "aiScore": 63,
       "picks": 8
+    },
+    {
+      "home": "Albinoleffe U2",
+      "away": "Genoa U20",
+      "league": "İTAPŞ1",
+      "date": "23.11.2026 14:00",
+      "matchCode": "4544751",
+      "odds": 1.31,
+      "patternScore": 68.06,
+      "patternText": "231.402/339.986",
+      "aiScore": 59,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "Cardiff City",
+      "away": "Preston North End",
+      "league": "İNCL",
+      "at": "23.11.2026 12:24",
+      "count": 9
+    },
+    {
       "home": "Istanbul Basaksehir",
       "away": "Corum FK",
       "league": "TSL",
-      "at": "23.11.2026 11:46",
-      "count": 7
+      "at": "23.11.2026 12:23",
+      "count": 9
     },
     {
       "home": "Bodrum FK",
@@ -459,13 +466,6 @@
       "league": "İTB",
       "at": "23.11.2026 09:01",
       "count": 7
-    },
-    {
-      "home": "Mantova 1911",
-      "away": "SS Arezzo",
-      "league": "İTB",
-      "at": "23.11.2026 09:01",
-      "count": 2
     }
   ],
   "paywall": {
