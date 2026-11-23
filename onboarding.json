@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 00:25",
+  "updatedAt": "23.11.2026 00:34",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 745,
+      "won": 746,
       "lost": 377,
-      "total": 1122,
+      "total": 1123,
       "rate": 66.4
     },
-    "totalAnalyses": 775200,
-    "leagues": 287,
+    "totalAnalyses": 775206,
+    "leagues": 286,
     "pro": {
       "won": 1377,
       "lost": 514,
@@ -36,9 +36,9 @@
       "rate": 72.8
     },
     "insights": {
-      "won": 2349,
+      "won": 2352,
       "lost": 970,
-      "total": 3319,
+      "total": 3322,
       "rate": 70.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1501,
-    "analyses30d": 16993
+    "analyses24h": 1503,
+    "analyses30d": 16986
   },
   "recentWins": [
     {
@@ -330,7 +330,7 @@
     "matchCode": "4488326",
     "odds": 1.56,
     "patternScore": 68.18,
-    "patternText": "181.070/265.594",
+    "patternText": "181.080/265.608",
     "aiScore": 54,
     "picks": 2
   },
@@ -343,21 +343,9 @@
       "matchCode": "4488326",
       "odds": 1.56,
       "patternScore": 68.18,
-      "patternText": "181.070/265.594",
+      "patternText": "181.080/265.608",
       "aiScore": 54,
       "picks": 2
-    },
-    {
-      "home": "Instituto Cordoba",
-      "away": "Club Atletico Huracan",
-      "league": "ARJ",
-      "date": "23.11.2026 01:00",
-      "matchCode": "4580872",
-      "odds": 1.39,
-      "patternScore": 68.0,
-      "patternText": "135.443/199.195",
-      "aiScore": 65,
-      "picks": 3
     },
     {
       "home": "Deportivo Marquense",
@@ -367,8 +355,8 @@
       "matchCode": "4490463",
       "odds": 1.22,
       "patternScore": 69.01,
-      "patternText": "186.166/269.764",
-      "aiScore": 65,
+      "patternText": "186.176/269.778",
+      "aiScore": 64,
       "picks": 2
     },
     {
@@ -379,21 +367,33 @@
       "matchCode": "4476503",
       "odds": 1.16,
       "patternScore": 69.27,
-      "patternText": "217.054/313.332",
+      "patternText": "217.068/313.350",
       "aiScore": 86,
       "picks": 3
     },
     {
-      "home": "Deportivo Diriangen",
-      "away": "Managua FC",
-      "league": "NİK",
-      "date": "23.11.2026 01:00",
-      "matchCode": "4581037",
-      "odds": 1.15,
-      "patternScore": 69.93,
-      "patternText": "195.988/280.244",
-      "aiScore": 87,
-      "picks": 2
+      "home": "Nojima Stella",
+      "away": "Omiya Ardija Women",
+      "league": "JWEL",
+      "date": "23.11.2026 04:00",
+      "matchCode": "4488325",
+      "odds": 1.12,
+      "patternScore": 70.71,
+      "patternText": "236.414/334.322",
+      "aiScore": 96,
+      "picks": 1
+    },
+    {
+      "home": "Albirex Niigata",
+      "away": "Sanfrecce Hiros",
+      "league": "JWEL",
+      "date": "23.11.2026 04:00",
+      "matchCode": "4488327",
+      "odds": 1.11,
+      "patternScore": 70.81,
+      "patternText": "255.356/360.616",
+      "aiScore": 96,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
