@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 18:27",
+  "updatedAt": "23.11.2026 18:35",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 151,
-      "lost": 72,
-      "total": 223,
-      "rate": 67.7
+      "won": 145,
+      "lost": 67,
+      "total": 212,
+      "rate": 68.4
     },
-    "totalAnalyses": 777406,
-    "leagues": 287,
+    "totalAnalyses": 777415,
+    "leagues": 288,
     "pro": {
       "won": 1462,
       "lost": 541,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1290,
-    "analyses30d": 17309
+    "analyses24h": 1285,
+    "analyses30d": 17254
   },
   "recentWins": [
     {
@@ -275,12 +275,6 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 18:18",
-      "home": "Vitesse Arnhem",
-      "away": "De Graafschap"
-    },
-    {
-      "type": "updated",
       "at": "23.11.2026 14:23",
       "home": "Asteras Tripol",
       "away": "Aris"
@@ -320,6 +314,12 @@
       "at": "23.11.2026 14:04",
       "home": "Sepsi OSK",
       "away": "Rapid Bucharest"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 13:10",
+      "home": "Jong Ajax",
+      "away": "Jong AZ"
     }
   ],
   "today": {
@@ -398,6 +398,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "AC Monza",
+      "away": "ACF Fiorentina",
+      "league": "İTA",
+      "at": "23.11.2026 18:34",
+      "count": 11
+    },
+    {
       "home": "FC Santos",
       "away": "Gremio FBPA",
       "league": "BR1",
@@ -410,13 +417,6 @@
       "league": "FR2",
       "at": "23.11.2026 18:07",
       "count": 6
-    },
-    {
-      "home": "AC Monza",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "at": "23.11.2026 17:45",
-      "count": 8
     },
     {
       "home": "Levante UD",
