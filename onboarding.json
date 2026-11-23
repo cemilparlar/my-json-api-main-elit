@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 07:40",
+  "updatedAt": "23.11.2026 07:52",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 741,
+      "won": 742,
       "lost": 383,
-      "total": 1124,
-      "rate": 65.9
+      "total": 1125,
+      "rate": 66.0
     },
-    "totalAnalyses": 775894,
-    "leagues": 286,
+    "totalAnalyses": 775967,
+    "leagues": 287,
     "pro": {
       "won": 1434,
       "lost": 536,
@@ -36,9 +36,9 @@
       "rate": 72.8
     },
     "insights": {
-      "won": 2445,
+      "won": 2446,
       "lost": 1020,
-      "total": 3465,
+      "total": 3466,
       "rate": 70.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1719,
-    "analyses30d": 17281
+    "analyses24h": 1778,
+    "analyses30d": 17340
   },
   "recentWins": [
     {
@@ -317,7 +317,7 @@
     },
     {
       "type": "analysis",
-      "count": 1719
+      "count": 1778
     }
   ],
   "today": {
@@ -382,19 +382,54 @@
       "picks": 1
     },
     {
-      "home": "Bistrica",
-      "away": "Krka Novo Mesto",
-      "league": "SLVN2",
-      "date": "23.11.2026 13:00",
-      "matchCode": "4484028",
+      "home": "Shenavarsazi Q",
+      "away": "Naft Gachsaran",
+      "league": "IRANAZ",
+      "date": "23.11.2026 13:45",
+      "matchCode": "4580289",
       "odds": 1.13,
-      "patternScore": 69.99,
-      "patternText": "136.478/194.985",
+      "patternScore": 69.44,
+      "patternText": "230.148/331.446",
       "aiScore": 86,
-      "picks": 2
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Portsmouth",
+      "away": "West Ham United",
+      "league": "İNCL",
+      "at": "23.11.2026 07:52",
+      "count": 10
+    },
+    {
+      "home": "Cesena FC",
+      "away": "Ascoli Calcio",
+      "league": "İTB",
+      "at": "23.11.2026 07:51",
+      "count": 6
+    },
+    {
+      "home": "Benevento",
+      "away": "Empoli",
+      "league": "İTB",
+      "at": "23.11.2026 07:50",
+      "count": 3
+    },
+    {
+      "home": "Virtus Entella",
+      "away": "Verona",
+      "league": "İTB",
+      "at": "23.11.2026 07:50",
+      "count": 6
+    },
+    {
+      "home": "Palermo FC",
+      "away": "FC Sudtirol",
+      "league": "İTB",
+      "at": "23.11.2026 07:50",
+      "count": 7
+    },
     {
       "home": "KAA Gent",
       "away": "FK Crvena zvezda",
@@ -429,41 +464,6 @@
       "league": "AVKL",
       "at": "23.11.2026 06:52",
       "count": 9
-    },
-    {
-      "home": "FC Nordsjaelland",
-      "away": "Panathinaikos",
-      "league": "AVKL",
-      "at": "23.11.2026 06:51",
-      "count": 3
-    },
-    {
-      "home": "SC Freiburg",
-      "away": "FC Twente",
-      "league": "AVKL",
-      "at": "23.11.2026 06:51",
-      "count": 7
-    },
-    {
-      "home": "Hajduk Split",
-      "away": "Sint-Truidense VV",
-      "league": "AVKL",
-      "at": "23.11.2026 06:50",
-      "count": 6
-    },
-    {
-      "home": "Ofi",
-      "away": "RSC Anderlecht",
-      "league": "AVL",
-      "at": "23.11.2026 06:50",
-      "count": 5
-    },
-    {
-      "home": "Crystal Palace",
-      "away": "Real Sociedad",
-      "league": "AVL",
-      "at": "23.11.2026 06:50",
-      "count": 10
     }
   ],
   "paywall": {
