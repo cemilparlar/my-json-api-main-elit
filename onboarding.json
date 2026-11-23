@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 09:08",
+  "updatedAt": "23.11.2026 09:19",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 752,
+      "won": 751,
       "lost": 386,
-      "total": 1138,
+      "total": 1137,
       "rate": 66.1
     },
-    "totalAnalyses": 776431,
+    "totalAnalyses": 776491,
     "leagues": 287,
     "pro": {
       "won": 1442,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 2127,
-    "analyses30d": 17680
+    "analyses24h": 2174,
+    "analyses30d": 17728
   },
   "recentWins": [
     {
@@ -287,13 +287,31 @@
     },
     {
       "type": "updated",
+      "at": "23.11.2026 09:16",
+      "home": "Wadi Degla",
+      "away": "Al Ittihad Al S"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 09:16",
+      "home": "Csa Steaua Buc",
+      "away": "Targoviste"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 09:17",
+      "home": "Asteras Tripol",
+      "away": "Aris"
+    },
+    {
+      "type": "updated",
       "at": "23.11.2026 05:08",
       "home": "Chernomorets",
       "away": "Epitsentr Dunay"
     },
     {
       "type": "updated",
-      "at": "23.11.2026 06:26",
+      "at": "23.11.2026 09:15",
       "home": "Skendija",
       "away": "Fk Sileks"
     },
@@ -302,50 +320,44 @@
       "at": "23.11.2026 07:07",
       "home": "Cska Sofia Ii",
       "away": "Beroe Stara Zagora"
-    },
-    {
-      "type": "updated",
-      "at": "23.11.2026 07:08",
-      "home": "Bistrica",
-      "away": "Krka Novo Mesto"
-    },
-    {
-      "type": "updated",
-      "at": "23.11.2026 08:58",
-      "home": "Saham Club",
-      "away": "Oman FC"
-    },
-    {
-      "type": "updated",
-      "at": "23.11.2026 07:09",
-      "home": "Barnsley U21",
-      "away": "Bolton U21"
     }
   ],
   "today": {
-    "home": "Al Jeel",
-    "away": "Al-Saqer",
-    "league": "SUUD1",
-    "date": "23.11.2026 14:30",
-    "matchCode": "4538734",
-    "odds": 1.41,
-    "patternScore": 68.43,
-    "patternText": "201.500/294.477",
-    "aiScore": 54,
+    "home": "Saham Club",
+    "away": "Oman FC",
+    "league": "UMM",
+    "date": "23.11.2026 12:40",
+    "matchCode": "4573360",
+    "odds": 1.5,
+    "patternScore": 67.41,
+    "patternText": "120.880/179.328",
+    "aiScore": 53,
     "picks": 4
   },
   "todayList": [
     {
-      "home": "Al Jeel",
-      "away": "Al-Saqer",
-      "league": "SUUD1",
-      "date": "23.11.2026 14:30",
-      "matchCode": "4538734",
-      "odds": 1.41,
-      "patternScore": 68.43,
-      "patternText": "201.500/294.477",
-      "aiScore": 54,
+      "home": "Saham Club",
+      "away": "Oman FC",
+      "league": "UMM",
+      "date": "23.11.2026 12:40",
+      "matchCode": "4573360",
+      "odds": 1.5,
+      "patternScore": 67.41,
+      "patternText": "120.880/179.328",
+      "aiScore": 53,
       "picks": 4
+    },
+    {
+      "home": "Jeddah Club",
+      "away": "Damak",
+      "league": "SUUD1",
+      "date": "23.11.2026 15:15",
+      "matchCode": "4538735",
+      "odds": 1.38,
+      "patternScore": 69.18,
+      "patternText": "234.275/338.633",
+      "aiScore": 59,
+      "picks": 1
     },
     {
       "home": "Barnsley U21",
@@ -379,21 +391,9 @@
       "matchCode": "4544751",
       "odds": 1.31,
       "patternScore": 68.06,
-      "patternText": "231.376/339.954",
+      "patternText": "231.378/339.956",
       "aiScore": 59,
       "picks": 1
-    },
-    {
-      "home": "Saham Club",
-      "away": "Oman FC",
-      "league": "UMM",
-      "date": "23.11.2026 12:40",
-      "matchCode": "4573360",
-      "odds": 1.29,
-      "patternScore": 67.73,
-      "patternText": "205.100/302.818",
-      "aiScore": 57,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
