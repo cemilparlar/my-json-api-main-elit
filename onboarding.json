@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 00:34",
+  "updatedAt": "23.11.2026 00:42",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 746,
-      "lost": 377,
-      "total": 1123,
-      "rate": 66.4
+      "won": 759,
+      "lost": 387,
+      "total": 1146,
+      "rate": 66.2
     },
     "totalAnalyses": 775206,
     "leagues": 286,
     "pro": {
-      "won": 1377,
-      "lost": 514,
-      "total": 1891,
+      "won": 1387,
+      "lost": 518,
+      "total": 1905,
       "rate": 72.8
     },
     "insights": {
-      "won": 2352,
-      "lost": 970,
-      "total": 3322,
-      "rate": 70.8
+      "won": 2365,
+      "lost": 979,
+      "total": 3344,
+      "rate": 70.7
     },
     "coupons": {
       "won": 6,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1503,
-    "analyses30d": 16986
+    "analyses24h": 1502,
+    "analyses30d": 16985
   },
   "recentWins": [
     {
@@ -330,7 +330,7 @@
     "matchCode": "4488326",
     "odds": 1.56,
     "patternScore": 68.18,
-    "patternText": "181.080/265.608",
+    "patternText": "181.086/265.614",
     "aiScore": 54,
     "picks": 2
   },
@@ -343,33 +343,9 @@
       "matchCode": "4488326",
       "odds": 1.56,
       "patternScore": 68.18,
-      "patternText": "181.080/265.608",
+      "patternText": "181.086/265.614",
       "aiScore": 54,
       "picks": 2
-    },
-    {
-      "home": "Deportivo Marquense",
-      "away": "CSD Aurora",
-      "league": "GUAT",
-      "date": "23.11.2026 01:10",
-      "matchCode": "4490463",
-      "odds": 1.22,
-      "patternScore": 69.01,
-      "patternText": "186.176/269.778",
-      "aiScore": 64,
-      "picks": 2
-    },
-    {
-      "home": "FC Queretaro",
-      "away": "Club Necaxa",
-      "league": "MEK",
-      "date": "23.11.2026 01:10",
-      "matchCode": "4476503",
-      "odds": 1.16,
-      "patternScore": 69.27,
-      "patternText": "217.068/313.350",
-      "aiScore": 86,
-      "picks": 3
     },
     {
       "home": "Nojima Stella",
@@ -379,7 +355,7 @@
       "matchCode": "4488325",
       "odds": 1.12,
       "patternScore": 70.71,
-      "patternText": "236.414/334.322",
+      "patternText": "236.420/334.328",
       "aiScore": 96,
       "picks": 1
     },
@@ -391,8 +367,32 @@
       "matchCode": "4488327",
       "odds": 1.11,
       "patternScore": 70.81,
-      "patternText": "255.356/360.616",
+      "patternText": "255.362/360.622",
       "aiScore": 96,
+      "picks": 1
+    },
+    {
+      "home": "Cska Sofia Ii",
+      "away": "Beroe Stara Zagora",
+      "league": "BULB",
+      "date": "23.11.2026 12:30",
+      "matchCode": "4505911",
+      "odds": 1.38,
+      "patternScore": 68.93,
+      "patternText": "197.891/287.086",
+      "aiScore": 57,
+      "picks": 1
+    },
+    {
+      "home": "Chernomorets",
+      "away": "Epitsentr Dunay",
+      "league": "UKR",
+      "date": "23.11.2026 11:00",
+      "matchCode": "4508208",
+      "odds": 1.16,
+      "patternScore": 69.56,
+      "patternText": "206.308/296.578",
+      "aiScore": 91,
       "picks": 1
     }
   ],
