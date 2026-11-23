@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 12:47",
+  "updatedAt": "23.11.2026 12:55",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 539,
+      "won": 540,
       "lost": 283,
-      "total": 822,
+      "total": 823,
       "rate": 65.6
     },
-    "totalAnalyses": 776777,
+    "totalAnalyses": 776797,
     "leagues": 288,
     "pro": {
       "won": 1452,
@@ -36,9 +36,9 @@
       "rate": 72.9
     },
     "insights": {
-      "won": 2474,
+      "won": 2475,
       "lost": 1027,
-      "total": 3501,
+      "total": 3502,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1900,
-    "analyses30d": 17696
+    "analyses24h": 1907,
+    "analyses30d": 17698
   },
   "recentWins": [
     {
@@ -323,30 +323,18 @@
     }
   ],
   "today": {
-    "home": "Neftchi Fargon",
-    "away": "Al Hilal",
-    "league": "AŞMP",
-    "date": "23.11.2026 13:45",
-    "matchCode": "4550158",
-    "odds": 1.71,
-    "patternScore": 68.08,
-    "patternText": "238.103/349.738",
+    "home": "Jeddah Club",
+    "away": "Damak",
+    "league": "SUUD1",
+    "date": "23.11.2026 15:15",
+    "matchCode": "4538735",
+    "odds": 1.5,
+    "patternScore": 67.31,
+    "patternText": "214.685/318.945",
     "aiScore": 53,
-    "picks": 4
+    "picks": 6
   },
   "todayList": [
-    {
-      "home": "Neftchi Fargon",
-      "away": "Al Hilal",
-      "league": "AŞMP",
-      "date": "23.11.2026 13:45",
-      "matchCode": "4550158",
-      "odds": 1.71,
-      "patternScore": 68.08,
-      "patternText": "238.103/349.738",
-      "aiScore": 53,
-      "picks": 4
-    },
     {
       "home": "Jeddah Club",
       "away": "Damak",
@@ -394,6 +382,18 @@
       "patternText": "149.961/221.581",
       "aiScore": 63,
       "picks": 8
+    },
+    {
+      "home": "Albinoleffe U2",
+      "away": "Genoa U20",
+      "league": "İTAPŞ1",
+      "date": "23.11.2026 14:00",
+      "matchCode": "4544751",
+      "odds": 1.31,
+      "patternScore": 68.06,
+      "patternText": "231.402/339.986",
+      "aiScore": 59,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
