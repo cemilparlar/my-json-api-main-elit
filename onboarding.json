@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 19:25",
+  "updatedAt": "23.11.2026 19:33",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 146,
-      "lost": 65,
-      "total": 211,
-      "rate": 69.2
+      "won": 141,
+      "lost": 64,
+      "total": 205,
+      "rate": 68.8
     },
     "totalAnalyses": 777483,
     "leagues": 287,
     "pro": {
-      "won": 1472,
-      "lost": 545,
-      "total": 2017,
+      "won": 1468,
+      "lost": 544,
+      "total": 2012,
       "rate": 73.0
     },
     "insights": {
-      "won": 2495,
-      "lost": 1030,
-      "total": 3525,
+      "won": 2489,
+      "lost": 1029,
+      "total": 3518,
       "rate": 70.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1271,
-    "analyses30d": 17195
+    "analyses24h": 1265,
+    "analyses30d": 17192
   },
   "recentWins": [
     {
@@ -348,18 +348,6 @@
       "picks": 2
     },
     {
-      "home": "Gimnasia La Plata",
-      "away": "Newells Old Boys",
-      "league": "ARJ",
-      "date": "23.11.2026 20:00",
-      "matchCode": "4580873",
-      "odds": 1.6,
-      "patternScore": 65.06,
-      "patternText": "59.608/91.615",
-      "aiScore": 53,
-      "picks": 9
-    },
-    {
       "home": "Sport Club Internacional",
       "away": "Vitoria Bahia",
       "league": "BR1",
@@ -393,6 +381,18 @@
       "patternScore": 68.25,
       "patternText": "141.127/206.790",
       "aiScore": 60,
+      "picks": 3
+    },
+    {
+      "home": "Botafogo de Futebol e Regatas",
+      "away": "Sao Paulo FC",
+      "league": "BR1",
+      "date": "23.11.2026 23:00",
+      "matchCode": "4423380",
+      "odds": 1.21,
+      "patternScore": 69.36,
+      "patternText": "210.511/303.510",
+      "aiScore": 72,
       "picks": 3
     }
   ],
