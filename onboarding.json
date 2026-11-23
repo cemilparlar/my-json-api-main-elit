@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 05:08",
+  "updatedAt": "23.11.2026 05:16",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 1126,
       "rate": 66.6
     },
-    "totalAnalyses": 775229,
+    "totalAnalyses": 775230,
     "leagues": 286,
     "pro": {
-      "won": 1417,
+      "won": 1418,
       "lost": 530,
-      "total": 1947,
+      "total": 1948,
       "rate": 72.8
     },
     "insights": {
-      "won": 2414,
-      "lost": 999,
-      "total": 3413,
+      "won": 2415,
+      "lost": 1000,
+      "total": 3415,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1431,
-    "analyses30d": 16976
+    "analyses24h": 1433,
+    "analyses30d": 16978
   },
   "recentWins": [
     {
@@ -311,13 +311,15 @@
     },
     {
       "type": "updated",
+      "at": "23.11.2026 05:08",
+      "home": "Chernomorets",
+      "away": "Epitsentr Dunay"
+    },
+    {
+      "type": "updated",
       "at": "23.11.2026 00:46",
       "home": "Vancouver Whitecaps",
       "away": "Salt Lake"
-    },
-    {
-      "type": "analysis",
-      "count": 1431
     }
   ],
   "today": {
