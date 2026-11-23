@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 03:13",
+  "updatedAt": "23.11.2026 03:21",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 760,
-      "lost": 387,
-      "total": 1147,
+      "won": 765,
+      "lost": 389,
+      "total": 1154,
       "rate": 66.3
     },
     "totalAnalyses": 775228,
     "leagues": 286,
     "pro": {
-      "won": 1403,
-      "lost": 522,
-      "total": 1925,
+      "won": 1406,
+      "lost": 523,
+      "total": 1929,
       "rate": 72.9
     },
     "insights": {
-      "won": 2391,
-      "lost": 986,
-      "total": 3377,
+      "won": 2396,
+      "lost": 989,
+      "total": 3385,
       "rate": 70.8
     },
     "coupons": {
@@ -323,30 +323,18 @@
     }
   ],
   "today": {
-    "home": "AC Parceiro Nagano",
-    "away": "Urawa Red Women",
+    "home": "Albirex Niigata",
+    "away": "Sanfrecce Hiros",
     "league": "JWEL",
-    "date": "23.11.2026 05:00",
-    "matchCode": "4488326",
-    "odds": 1.16,
-    "patternScore": 68.16,
-    "patternText": "194.644/285.578",
-    "aiScore": 66,
+    "date": "23.11.2026 04:00",
+    "matchCode": "4488327",
+    "odds": 1.12,
+    "patternScore": 71.01,
+    "patternText": "307.713/433.308",
+    "aiScore": 97,
     "picks": 1
   },
   "todayList": [
-    {
-      "home": "AC Parceiro Nagano",
-      "away": "Urawa Red Women",
-      "league": "JWEL",
-      "date": "23.11.2026 05:00",
-      "matchCode": "4488326",
-      "odds": 1.16,
-      "patternScore": 68.16,
-      "patternText": "194.644/285.578",
-      "aiScore": 66,
-      "picks": 1
-    },
     {
       "home": "Albirex Niigata",
       "away": "Sanfrecce Hiros",
@@ -354,8 +342,8 @@
       "date": "23.11.2026 04:00",
       "matchCode": "4488327",
       "odds": 1.12,
-      "patternScore": 71.02,
-      "patternText": "307.687/433.270",
+      "patternScore": 71.01,
+      "patternText": "307.713/433.308",
       "aiScore": 97,
       "picks": 1
     },
@@ -367,7 +355,7 @@
       "matchCode": "4488325",
       "odds": 1.12,
       "patternScore": 70.72,
-      "patternText": "235.720/333.316",
+      "patternText": "235.738/333.338",
       "aiScore": 96,
       "picks": 1
     },
@@ -379,7 +367,7 @@
       "matchCode": "4488330",
       "odds": 1.06,
       "patternScore": 72.72,
-      "patternText": "156.827/215.646",
+      "patternText": "156.845/215.676",
       "aiScore": 98,
       "picks": 1
     },
@@ -391,9 +379,21 @@
       "matchCode": "4538734",
       "odds": 1.41,
       "patternScore": 68.42,
-      "patternText": "201.262/294.149",
+      "patternText": "201.284/294.175",
       "aiScore": 55,
       "picks": 4
+    },
+    {
+      "home": "Cska Sofia Ii",
+      "away": "Beroe Stara Zagora",
+      "league": "BULB",
+      "date": "23.11.2026 12:30",
+      "matchCode": "4505911",
+      "odds": 1.38,
+      "patternScore": 68.94,
+      "patternText": "198.051/287.288",
+      "aiScore": 57,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
