@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 06:32",
+  "updatedAt": "23.11.2026 06:41",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 1124,
       "rate": 66.5
     },
-    "totalAnalyses": 775299,
+    "totalAnalyses": 775359,
     "leagues": 286,
     "pro": {
-      "won": 1428,
+      "won": 1429,
       "lost": 532,
-      "total": 1960,
+      "total": 1961,
       "rate": 72.9
     },
     "insights": {
-      "won": 2434,
+      "won": 2435,
       "lost": 1009,
-      "total": 3443,
+      "total": 3444,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1496,
-    "analyses30d": 17042
+    "analyses24h": 1550,
+    "analyses30d": 17096
   },
   "recentWins": [
     {
@@ -102,7 +102,7 @@
       "odds": 3.66,
       "probability": 100.0,
       "patternScore": 57.73,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "2 - 1",
       "pro": false
@@ -281,6 +281,12 @@
     },
     {
       "type": "updated",
+      "at": "23.11.2026 06:26",
+      "home": "LNZ Cherkasy",
+      "away": "Polissya Zhytomyr"
+    },
+    {
+      "type": "updated",
       "at": "23.11.2026 03:07",
       "home": "AC Parceiro Nagano",
       "away": "Urawa Red Women"
@@ -293,13 +299,19 @@
     },
     {
       "type": "updated",
+      "at": "23.11.2026 06:26",
+      "home": "Skendija",
+      "away": "Fk Sileks"
+    },
+    {
+      "type": "updated",
       "at": "23.11.2026 00:46",
       "home": "Vancouver Whitecaps",
       "away": "Salt Lake"
     },
     {
       "type": "analysis",
-      "count": 1496
+      "count": 1550
     }
   ],
   "today": {
@@ -310,7 +322,7 @@
     "matchCode": "4505911",
     "odds": 1.38,
     "patternScore": 68.94,
-    "patternText": "198.229/287.548",
+    "patternText": "198.241/287.562",
     "aiScore": 57,
     "picks": 1
   },
@@ -323,8 +335,20 @@
       "matchCode": "4505911",
       "odds": 1.38,
       "patternScore": 68.94,
-      "patternText": "198.229/287.548",
+      "patternText": "198.241/287.562",
       "aiScore": 57,
+      "picks": 1
+    },
+    {
+      "home": "LNZ Cherkasy",
+      "away": "Polissya Zhytomyr",
+      "league": "UKR",
+      "date": "23.11.2026 11:00",
+      "matchCode": "4508214",
+      "odds": 1.32,
+      "patternScore": 68.56,
+      "patternText": "221.271/322.754",
+      "aiScore": 61,
       "picks": 1
     },
     {
@@ -335,8 +359,20 @@
       "matchCode": "4508208",
       "odds": 1.15,
       "patternScore": 69.79,
-      "patternText": "215.970/309.468",
+      "patternText": "216.032/309.536",
       "aiScore": 87,
+      "picks": 1
+    },
+    {
+      "home": "Skendija",
+      "away": "Fk Sileks",
+      "league": "MAKE1",
+      "date": "23.11.2026 12:00",
+      "matchCode": "4477285",
+      "odds": 1.12,
+      "patternScore": 70.64,
+      "patternText": "268.391/379.919",
+      "aiScore": 94,
       "picks": 1
     },
     {
@@ -347,36 +383,40 @@
       "matchCode": "4426819",
       "odds": 2.31,
       "patternScore": 67.44,
-      "patternText": "213.183/316.095",
+      "patternText": "213.193/316.107",
       "aiScore": 51,
       "picks": 7
-    },
-    {
-      "home": "Istanbul Basaksehir",
-      "away": "Corum FK",
-      "league": "TSL",
-      "date": "23.11.2026 17:00",
-      "matchCode": "4542754",
-      "odds": 2.14,
-      "patternScore": 66.71,
-      "patternText": "213.733/320.409",
-      "aiScore": 52,
-      "picks": 9
-    },
-    {
-      "home": "Al Jeel",
-      "away": "Al-Saqer",
-      "league": "SUUD1",
-      "date": "23.11.2026 14:30",
-      "matchCode": "4538734",
-      "odds": 1.41,
-      "patternScore": 68.43,
-      "patternText": "201.420/294.363",
-      "aiScore": 55,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Inter",
+      "away": "VfB Stuttgart",
+      "league": "ŞMP",
+      "at": "23.11.2026 06:34",
+      "count": 14
+    },
+    {
+      "home": "Paris Saint-Germain",
+      "away": "AS Roma",
+      "league": "ŞMP",
+      "at": "23.11.2026 06:34",
+      "count": 15
+    },
+    {
+      "home": "SK Slavia Prague",
+      "away": "Villarreal CF",
+      "league": "ŞMP",
+      "at": "23.11.2026 06:34",
+      "count": 10
+    },
+    {
+      "home": "Como 1907",
+      "away": "Aek",
+      "league": "ŞMP",
+      "at": "23.11.2026 06:33",
+      "count": 14
+    },
     {
       "home": "Arsenal",
       "away": "Borussia Dortmund",
@@ -418,34 +458,6 @@
       "league": "ABD",
       "at": "22.11.2026 22:52",
       "count": 11
-    },
-    {
-      "home": "Getafe CF",
-      "away": "Atletico Madrid",
-      "league": "İS1",
-      "at": "22.11.2026 19:17",
-      "count": 2
-    },
-    {
-      "home": "Marseille",
-      "away": "Le Mans FC",
-      "league": "FR1",
-      "at": "22.11.2026 18:59",
-      "count": 6
-    },
-    {
-      "home": "Fluminense FC",
-      "away": "Mirassol FC",
-      "league": "BR1",
-      "at": "22.11.2026 18:21",
-      "count": 5
-    },
-    {
-      "home": "Atalanta",
-      "away": "Inter",
-      "league": "İTA",
-      "at": "22.11.2026 18:20",
-      "count": 2
     }
   ],
   "paywall": {
