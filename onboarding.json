@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 17:26",
+  "updatedAt": "23.11.2026 17:34",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 175,
-      "lost": 96,
-      "total": 271,
-      "rate": 64.6
+      "won": 154,
+      "lost": 83,
+      "total": 237,
+      "rate": 65.0
     },
-    "totalAnalyses": 777292,
+    "totalAnalyses": 777300,
     "leagues": 288,
     "pro": {
       "won": 1454,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1356,
-    "analyses30d": 17447
+    "analyses24h": 1321,
+    "analyses30d": 17431
   },
   "recentWins": [
     {
@@ -330,7 +330,7 @@
     "matchCode": "4580873",
     "odds": 1.6,
     "patternScore": 65.05,
-    "patternText": "59.546/91.537",
+    "patternText": "59.548/91.539",
     "aiScore": 53,
     "picks": 9
   },
@@ -343,20 +343,8 @@
       "matchCode": "4580873",
       "odds": 1.6,
       "patternScore": 65.05,
-      "patternText": "59.546/91.537",
+      "patternText": "59.548/91.539",
       "aiScore": 53,
-      "picks": 9
-    },
-    {
-      "home": "Orgryte IS",
-      "away": "Kalmar FF",
-      "league": "İSÇ",
-      "date": "23.11.2026 18:00",
-      "matchCode": "4426819",
-      "odds": 1.53,
-      "patternScore": 67.81,
-      "patternText": "255.252/376.405",
-      "aiScore": 55,
       "picks": 9
     },
     {
@@ -367,7 +355,7 @@
       "matchCode": "4492383",
       "odds": 1.46,
       "patternScore": 67.41,
-      "patternText": "112.733/167.224",
+      "patternText": "112.735/167.226",
       "aiScore": 54,
       "picks": 6
     },
@@ -379,7 +367,7 @@
       "matchCode": "4423385",
       "odds": 1.44,
       "patternScore": 67.97,
-      "patternText": "191.075/281.108",
+      "patternText": "191.077/281.110",
       "aiScore": 56,
       "picks": 4
     },
@@ -391,12 +379,38 @@
       "matchCode": "4481113",
       "odds": 1.43,
       "patternScore": 68.43,
-      "patternText": "102.153/149.278",
+      "patternText": "102.159/149.284",
       "aiScore": 57,
       "picks": 4
+    },
+    {
+      "home": "Reading U21",
+      "away": "Exeter City U21",
+      "league": "İNPLK",
+      "date": "23.11.2026 19:00",
+      "matchCode": "4540483",
+      "odds": 1.35,
+      "patternScore": 67.82,
+      "patternText": "210.829/310.846",
+      "aiScore": 57,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Levante UD",
+      "away": "Elche CF",
+      "league": "İS1",
+      "at": "23.11.2026 17:29",
+      "count": 7
+    },
+    {
+      "home": "AC Monza",
+      "away": "ACF Fiorentina",
+      "league": "İTA",
+      "at": "23.11.2026 17:28",
+      "count": 8
+    },
     {
       "home": "Botafogo de Futebol e Regatas",
       "away": "Sao Paulo FC",
@@ -410,20 +424,6 @@
       "league": "BR1",
       "at": "23.11.2026 16:51",
       "count": 6
-    },
-    {
-      "home": "Levante UD",
-      "away": "Elche CF",
-      "league": "İS1",
-      "at": "23.11.2026 16:50",
-      "count": 7
-    },
-    {
-      "home": "AC Monza",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "at": "23.11.2026 16:49",
-      "count": 8
     },
     {
       "home": "Istanbul Basaksehir",
