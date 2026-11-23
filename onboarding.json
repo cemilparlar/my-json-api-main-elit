@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 05:23",
+  "updatedAt": "23.11.2026 05:31",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 750,
-      "lost": 376,
-      "total": 1126,
+      "won": 749,
+      "lost": 375,
+      "total": 1124,
       "rate": 66.6
     },
     "totalAnalyses": 775230,
     "leagues": 286,
     "pro": {
-      "won": 1419,
+      "won": 1421,
       "lost": 530,
-      "total": 1949,
+      "total": 1951,
       "rate": 72.8
     },
     "insights": {
-      "won": 2418,
+      "won": 2421,
       "lost": 1002,
-      "total": 3420,
+      "total": 3423,
       "rate": 70.7
     },
     "coupons": {
@@ -47,7 +47,7 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1432,
+    "analyses24h": 1430,
     "analyses30d": 16977
   },
   "recentWins": [
@@ -275,18 +275,6 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 23:28",
-      "home": "Gimnasia Y Tir",
-      "away": "Tristan"
-    },
-    {
-      "type": "updated",
-      "at": "22.11.2026 23:29",
-      "home": "Deportivo Diriangen",
-      "away": "Managua FC"
-    },
-    {
-      "type": "updated",
       "at": "23.11.2026 00:28",
       "home": "FC Queretaro",
       "away": "Club Necaxa"
@@ -320,6 +308,10 @@
       "at": "23.11.2026 00:46",
       "home": "Vancouver Whitecaps",
       "away": "Salt Lake"
+    },
+    {
+      "type": "analysis",
+      "count": 1430
     }
   ],
   "today": {
@@ -330,7 +322,7 @@
     "matchCode": "4508208",
     "odds": 1.15,
     "patternScore": 69.79,
-    "patternText": "215.918/309.394",
+    "patternText": "215.934/309.412",
     "aiScore": 87,
     "picks": 1
   },
@@ -343,7 +335,7 @@
       "matchCode": "4508208",
       "odds": 1.15,
       "patternScore": 69.79,
-      "patternText": "215.918/309.394",
+      "patternText": "215.934/309.412",
       "aiScore": 87,
       "picks": 1
     },
@@ -355,7 +347,7 @@
       "matchCode": "4542754",
       "odds": 2.14,
       "patternScore": 66.71,
-      "patternText": "213.699/320.345",
+      "patternText": "213.707/320.367",
       "aiScore": 52,
       "picks": 9
     },
@@ -367,7 +359,7 @@
       "matchCode": "4538734",
       "odds": 1.41,
       "patternScore": 68.43,
-      "patternText": "201.390/294.313",
+      "patternText": "201.394/294.319",
       "aiScore": 55,
       "picks": 4
     },
@@ -379,7 +371,7 @@
       "matchCode": "4505911",
       "odds": 1.38,
       "patternScore": 68.94,
-      "patternText": "198.143/287.412",
+      "patternText": "198.155/287.430",
       "aiScore": 57,
       "picks": 1
     },
@@ -390,8 +382,8 @@
       "date": "23.11.2026 15:15",
       "matchCode": "4538735",
       "odds": 1.38,
-      "patternScore": 69.18,
-      "patternText": "234.165/338.463",
+      "patternScore": 69.19,
+      "patternText": "234.173/338.473",
       "aiScore": 59,
       "picks": 1
     }
