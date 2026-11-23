@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 20:32",
+  "updatedAt": "23.11.2026 20:40",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 162,
-      "lost": 82,
-      "total": 244,
-      "rate": 66.4
+      "won": 164,
+      "lost": 84,
+      "total": 248,
+      "rate": 66.1
     },
     "totalAnalyses": 777530,
     "leagues": 287,
     "pro": {
-      "won": 1485,
+      "won": 1486,
       "lost": 556,
-      "total": 2041,
+      "total": 2042,
       "rate": 72.8
     },
     "insights": {
-      "won": 2506,
+      "won": 2507,
       "lost": 1043,
-      "total": 3549,
+      "total": 3550,
       "rate": 70.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1253,
-    "analyses30d": 17198
+    "analyses24h": 1252,
+    "analyses30d": 17197
   },
   "recentWins": [
     {
@@ -348,6 +348,18 @@
       "picks": 2
     },
     {
+      "home": "St. Louis City SC",
+      "away": "Los Angeles FC",
+      "league": "ABD",
+      "date": "24.11.2026 01:00",
+      "matchCode": "4579791",
+      "odds": 1.4,
+      "patternScore": 68.07,
+      "patternText": "191.166/280.837",
+      "aiScore": 55,
+      "picks": 7
+    },
+    {
       "home": "Universitario de Deportes",
       "away": "Gualberto Villa",
       "league": "BOLİ",
@@ -358,18 +370,6 @@
       "patternText": "172.573/253.519",
       "aiScore": 57,
       "picks": 1
-    },
-    {
-      "home": "St. Louis City SC",
-      "away": "Los Angeles FC",
-      "league": "ABD",
-      "date": "24.11.2026 01:00",
-      "matchCode": "4579791",
-      "odds": 1.35,
-      "patternScore": 68.24,
-      "patternText": "141.167/206.876",
-      "aiScore": 59,
-      "picks": 3
     },
     {
       "home": "Sport Club Internacional",
