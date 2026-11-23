@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 17:09",
+  "updatedAt": "23.11.2026 17:18",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 176,
-      "lost": 98,
-      "total": 274,
-      "rate": 64.2
+      "won": 174,
+      "lost": 96,
+      "total": 270,
+      "rate": 64.4
     },
     "totalAnalyses": 777227,
     "leagues": 288,
     "pro": {
-      "won": 1455,
-      "lost": 541,
-      "total": 1996,
+      "won": 1453,
+      "lost": 539,
+      "total": 1992,
       "rate": 72.9
     },
     "insights": {
-      "won": 2477,
-      "lost": 1027,
-      "total": 3504,
+      "won": 2475,
+      "lost": 1025,
+      "total": 3500,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1363,
-    "analyses30d": 17450
+    "analyses24h": 1357,
+    "analyses30d": 17448
   },
   "recentWins": [
     {
@@ -282,12 +282,6 @@
     {
       "type": "updated",
       "at": "23.11.2026 14:23",
-      "home": "Wadi Degla",
-      "away": "Al Ittihad Al S"
-    },
-    {
-      "type": "updated",
-      "at": "23.11.2026 14:23",
       "home": "Asteras Tripol",
       "away": "Aris"
     },
@@ -296,12 +290,6 @@
       "at": "23.11.2026 15:47",
       "home": "FC Koper",
       "away": "Aluminij"
-    },
-    {
-      "type": "updated",
-      "at": "23.11.2026 11:11",
-      "home": "Bodrum FK",
-      "away": "Van Spor FK"
     },
     {
       "type": "updated",
@@ -317,9 +305,21 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 11:11",
-      "home": "P. Bielsko",
-      "away": "Bruk-Bet Termalica Nieciecza"
+      "at": "23.11.2026 15:48",
+      "home": "Ks Wieczysta K",
+      "away": "Motor Lublin"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 16:09",
+      "home": "Brondby IF",
+      "away": "FC Midtjylland"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 14:04",
+      "home": "Sepsi OSK",
+      "away": "Rapid Bucharest"
     }
   ],
   "today": {
@@ -330,8 +330,8 @@
     "matchCode": "4580873",
     "odds": 1.6,
     "patternScore": 65.05,
-    "patternText": "59.544/91.531",
-    "aiScore": 52,
+    "patternText": "59.546/91.537",
+    "aiScore": 53,
     "picks": 9
   },
   "todayList": [
@@ -343,8 +343,20 @@
       "matchCode": "4580873",
       "odds": 1.6,
       "patternScore": 65.05,
-      "patternText": "59.544/91.531",
-      "aiScore": 52,
+      "patternText": "59.546/91.537",
+      "aiScore": 53,
+      "picks": 9
+    },
+    {
+      "home": "Orgryte IS",
+      "away": "Kalmar FF",
+      "league": "İSÇ",
+      "date": "23.11.2026 18:00",
+      "matchCode": "4426819",
+      "odds": 1.53,
+      "patternScore": 67.81,
+      "patternText": "255.252/376.405",
+      "aiScore": 55,
       "picks": 9
     },
     {
@@ -354,8 +366,8 @@
       "date": "23.11.2026 20:00",
       "matchCode": "4492383",
       "odds": 1.46,
-      "patternScore": 67.42,
-      "patternText": "112.731/167.218",
+      "patternScore": 67.41,
+      "patternText": "112.733/167.224",
       "aiScore": 54,
       "picks": 6
     },
@@ -367,7 +379,7 @@
       "matchCode": "4423385",
       "odds": 1.44,
       "patternScore": 67.97,
-      "patternText": "191.073/281.102",
+      "patternText": "191.075/281.108",
       "aiScore": 56,
       "picks": 4
     },
@@ -379,21 +391,9 @@
       "matchCode": "4481113",
       "odds": 1.43,
       "patternScore": 68.43,
-      "patternText": "102.151/149.272",
+      "patternText": "102.153/149.278",
       "aiScore": 57,
       "picks": 4
-    },
-    {
-      "home": "Reading U21",
-      "away": "Exeter City U21",
-      "league": "İNPLK",
-      "date": "23.11.2026 19:00",
-      "matchCode": "4540483",
-      "odds": 1.35,
-      "patternScore": 67.82,
-      "patternText": "210.809/310.814",
-      "aiScore": 57,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
