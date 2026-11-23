@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 02:26",
+  "updatedAt": "23.11.2026 02:34",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 775226,
     "leagues": 286,
     "pro": {
-      "won": 1395,
+      "won": 1396,
       "lost": 520,
-      "total": 1915,
-      "rate": 72.8
+      "total": 1916,
+      "rate": 72.9
     },
     "insights": {
-      "won": 2380,
+      "won": 2381,
       "lost": 982,
-      "total": 3362,
+      "total": 3363,
       "rate": 70.8
     },
     "coupons": {
@@ -305,12 +305,6 @@
     },
     {
       "type": "updated",
-      "at": "22.11.2026 20:30",
-      "home": "Colo-Colo",
-      "away": "Universidad Catolica"
-    },
-    {
-      "type": "updated",
       "at": "22.11.2026 23:13",
       "home": "Real Sociedad de Tocoa",
       "away": "Olancho FC"
@@ -320,6 +314,12 @@
       "at": "23.11.2026 02:06",
       "home": "Nojima Stella",
       "away": "Omiya Ardija Women"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 01:50",
+      "home": "Albirex Niigata",
+      "away": "Sanfrecce Hiros"
     }
   ],
   "today": {
@@ -384,16 +384,16 @@
       "picks": 1
     },
     {
-      "home": "Cska Sofia Ii",
-      "away": "Beroe Stara Zagora",
-      "league": "BULB",
-      "date": "23.11.2026 12:30",
-      "matchCode": "4505911",
-      "odds": 1.38,
-      "patternScore": 68.94,
-      "patternText": "198.011/287.238",
-      "aiScore": 57,
-      "picks": 1
+      "home": "Al Jeel",
+      "away": "Al-Saqer",
+      "league": "SUUD1",
+      "date": "23.11.2026 14:30",
+      "matchCode": "4538734",
+      "odds": 1.41,
+      "patternScore": 68.42,
+      "patternText": "201.248/294.129",
+      "aiScore": 54,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
