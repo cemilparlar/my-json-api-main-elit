@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 12:30",
+  "updatedAt": "23.11.2026 12:38",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 585,
-      "lost": 300,
-      "total": 885,
-      "rate": 66.1
+      "won": 541,
+      "lost": 283,
+      "total": 824,
+      "rate": 65.7
     },
-    "totalAnalyses": 776763,
+    "totalAnalyses": 776775,
     "leagues": 288,
     "pro": {
       "won": 1452,
@@ -47,7 +47,7 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1904,
+    "analyses24h": 1902,
     "analyses30d": 17696
   },
   "recentWins": [
@@ -372,6 +372,18 @@
       "picks": 5
     },
     {
+      "home": "Al Ittihad Jeddah",
+      "away": "Pakhtakor",
+      "league": "AŞMP",
+      "date": "23.11.2026 18:15",
+      "matchCode": "4550163",
+      "odds": 1.45,
+      "patternScore": 67.34,
+      "patternText": "249.106/369.940",
+      "aiScore": 56,
+      "picks": 3
+    },
+    {
       "home": "Orgryte IS",
       "away": "Kalmar FF",
       "league": "İSÇ",
@@ -382,18 +394,6 @@
       "patternText": "149.961/221.581",
       "aiScore": 63,
       "picks": 8
-    },
-    {
-      "home": "Albinoleffe U2",
-      "away": "Genoa U20",
-      "league": "İTAPŞ1",
-      "date": "23.11.2026 14:00",
-      "matchCode": "4544751",
-      "odds": 1.31,
-      "patternScore": 68.06,
-      "patternText": "231.402/339.986",
-      "aiScore": 59,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
