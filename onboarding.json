@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 19:00",
+  "updatedAt": "23.11.2026 19:08",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 160,
-      "lost": 72,
-      "total": 232,
-      "rate": 69.0
+      "won": 146,
+      "lost": 65,
+      "total": 211,
+      "rate": 69.2
     },
-    "totalAnalyses": 777453,
+    "totalAnalyses": 777468,
     "leagues": 287,
     "pro": {
-      "won": 1473,
+      "won": 1472,
       "lost": 545,
-      "total": 2018,
+      "total": 2017,
       "rate": 73.0
     },
     "insights": {
-      "won": 2496,
-      "lost": 1031,
-      "total": 3527,
+      "won": 2495,
+      "lost": 1030,
+      "total": 3525,
       "rate": 70.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1259,
-    "analyses30d": 17189
+    "analyses24h": 1269,
+    "analyses30d": 17196
   },
   "recentWins": [
     {
@@ -64,20 +64,6 @@
       "firstHalf": "3 - 0",
       "finalScore": "3 - 1",
       "pro": true
-    },
-    {
-      "home": "FC Lugano",
-      "away": "Grasshopper Club Zurich",
-      "league": "İSV",
-      "date": "21.11.2026 17:00",
-      "prediction": "Handicap (0:1) X",
-      "odds": 3.66,
-      "probability": 100.0,
-      "patternScore": 57.73,
-      "aiScore": 50,
-      "firstHalf": "0 - 0",
-      "finalScore": "2 - 1",
-      "pro": false
     },
     {
       "home": "FC Groningen",
@@ -120,6 +106,20 @@
       "firstHalf": "1 - 2",
       "finalScore": "2 - 4",
       "pro": true
+    },
+    {
+      "home": "Hull City",
+      "away": "Brighton & Hove Albion",
+      "league": "İNP",
+      "date": "22.11.2026 14:00",
+      "prediction": "1st Half Result X",
+      "odds": 2.29,
+      "probability": 71.43,
+      "patternScore": 67.06,
+      "aiScore": 51,
+      "firstHalf": "0 - 0",
+      "finalScore": "2 - 0",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -251,14 +251,6 @@
     },
     {
       "type": "won",
-      "home": "FC Lugano",
-      "away": "Grasshopper Club Zurich",
-      "prediction": "Handicap (0:1) X",
-      "odds": 3.66,
-      "at": "21.11.2026 17:00"
-    },
-    {
-      "type": "won",
       "home": "FC Groningen",
       "away": "SC Heerenveen",
       "prediction": "HT/FT 2/2",
@@ -272,6 +264,14 @@
       "prediction": "Handicap (0:2) 1",
       "odds": 3.29,
       "at": "21.11.2026 17:15"
+    },
+    {
+      "type": "won",
+      "home": "Konyaspor",
+      "away": "Besiktas",
+      "prediction": "Over 3.5 Goals",
+      "odds": 2.4,
+      "at": "22.11.2026 13:00"
     },
     {
       "type": "updated",
@@ -330,7 +330,7 @@
     "matchCode": "4423381",
     "odds": 1.87,
     "patternScore": 66.68,
-    "patternText": "116.659/174.952",
+    "patternText": "116.677/174.974",
     "aiScore": 52,
     "picks": 2
   },
@@ -343,7 +343,7 @@
       "matchCode": "4423381",
       "odds": 1.87,
       "patternScore": 66.68,
-      "patternText": "116.659/174.952",
+      "patternText": "116.677/174.974",
       "aiScore": 52,
       "picks": 2
     },
@@ -355,7 +355,7 @@
       "matchCode": "4580873",
       "odds": 1.6,
       "patternScore": 65.06,
-      "patternText": "59.582/91.579",
+      "patternText": "59.608/91.615",
       "aiScore": 53,
       "picks": 9
     },
@@ -367,7 +367,7 @@
       "matchCode": "4423385",
       "odds": 1.44,
       "patternScore": 67.97,
-      "patternText": "191.099/281.134",
+      "patternText": "191.119/281.164",
       "aiScore": 56,
       "picks": 4
     },
@@ -378,8 +378,8 @@
       "date": "23.11.2026 20:00",
       "matchCode": "4481113",
       "odds": 1.43,
-      "patternScore": 68.44,
-      "patternText": "102.231/149.370",
+      "patternScore": 68.45,
+      "patternText": "102.289/149.438",
       "aiScore": 57,
       "picks": 4
     },
@@ -391,18 +391,32 @@
       "matchCode": "4492383",
       "odds": 1.41,
       "patternScore": 67.74,
-      "patternText": "201.442/297.380",
+      "patternText": "201.508/297.476",
       "aiScore": 59,
       "picks": 7
     }
   ],
   "recentAnalyzed": [
     {
+      "home": "FC Nantes",
+      "away": "Grenoble Foot",
+      "league": "FR2",
+      "at": "23.11.2026 19:08",
+      "count": 12
+    },
+    {
       "home": "AC Monza",
       "away": "ACF Fiorentina",
       "league": "İTA",
-      "at": "23.11.2026 18:51",
-      "count": 4
+      "at": "23.11.2026 19:08",
+      "count": 7
+    },
+    {
+      "home": "FC Sochaux",
+      "away": "USL Dunkerque",
+      "league": "FR2",
+      "at": "23.11.2026 19:07",
+      "count": 6
     },
     {
       "home": "Levante UD",
@@ -417,13 +431,6 @@
       "league": "BR1",
       "at": "23.11.2026 18:08",
       "count": 11
-    },
-    {
-      "home": "FC Nantes",
-      "away": "Grenoble Foot",
-      "league": "FR2",
-      "at": "23.11.2026 18:07",
-      "count": 6
     },
     {
       "home": "Botafogo de Futebol e Regatas",
@@ -452,13 +459,6 @@
       "league": "İS2",
       "at": "23.11.2026 15:49",
       "count": 8
-    },
-    {
-      "home": "FC Sochaux",
-      "away": "USL Dunkerque",
-      "league": "FR2",
-      "at": "23.11.2026 15:27",
-      "count": 7
     },
     {
       "home": "Slovan Bratisl",
