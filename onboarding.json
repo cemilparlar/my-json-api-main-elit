@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 13:22",
+  "updatedAt": "23.11.2026 13:32",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 477,
-      "lost": 252,
-      "total": 729,
-      "rate": 65.4
+      "won": 437,
+      "lost": 237,
+      "total": 674,
+      "rate": 64.8
     },
-    "totalAnalyses": 776869,
+    "totalAnalyses": 776907,
     "leagues": 287,
     "pro": {
       "won": 1450,
@@ -36,9 +36,9 @@
       "rate": 72.9
     },
     "insights": {
-      "won": 2471,
+      "won": 2472,
       "lost": 1024,
-      "total": 3495,
+      "total": 3496,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1821,
-    "analyses30d": 17675
+    "analyses24h": 1778,
+    "analyses30d": 17670
   },
   "recentWins": [
     {
@@ -384,19 +384,26 @@
       "picks": 1
     },
     {
-      "home": "Albinoleffe U2",
-      "away": "Genoa U20",
-      "league": "İTAPŞ1",
-      "date": "23.11.2026 14:00",
-      "matchCode": "4544751",
-      "odds": 1.31,
-      "patternScore": 68.06,
-      "patternText": "231.408/339.992",
-      "aiScore": 59,
+      "home": "El Gouna FC",
+      "away": "Zamalek SC",
+      "league": "MSR",
+      "date": "23.11.2026 15:00",
+      "matchCode": "4537886",
+      "odds": 1.28,
+      "patternScore": 68.64,
+      "patternText": "241.843/352.333",
+      "aiScore": 65,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sunderland",
+      "away": "Jagiellonia Bialystok",
+      "league": "AVL",
+      "at": "23.11.2026 13:24",
+      "count": 13
+    },
     {
       "home": "Cardiff City",
       "away": "Preston North End",
@@ -459,13 +466,6 @@
       "league": "İTB",
       "at": "23.11.2026 09:02",
       "count": 6
-    },
-    {
-      "home": "Calcio Padova",
-      "away": "UC Sampdoria",
-      "league": "İTB",
-      "at": "23.11.2026 09:01",
-      "count": 7
     }
   ],
   "paywall": {
