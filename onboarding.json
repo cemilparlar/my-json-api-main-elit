@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 18:09",
+  "updatedAt": "23.11.2026 18:16",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 163,
-      "lost": 85,
-      "total": 248,
-      "rate": 65.7
+      "won": 151,
+      "lost": 72,
+      "total": 223,
+      "rate": 67.7
     },
     "totalAnalyses": 777402,
     "leagues": 287,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1325,
-    "analyses30d": 17326
+    "analyses24h": 1300,
+    "analyses30d": 17319
   },
   "recentWins": [
     {
@@ -323,18 +323,30 @@
     }
   ],
   "today": {
-    "home": "Gimnasia La Plata",
-    "away": "Newells Old Boys",
-    "league": "ARJ",
-    "date": "23.11.2026 20:00",
-    "matchCode": "4580873",
-    "odds": 1.6,
-    "patternScore": 65.05,
-    "patternText": "59.552/91.543",
-    "aiScore": 53,
-    "picks": 9
+    "home": "FC Santos",
+    "away": "Gremio FBPA",
+    "league": "BR1",
+    "date": "24.11.2026 00:00",
+    "matchCode": "4423381",
+    "odds": 1.87,
+    "patternScore": 66.68,
+    "patternText": "116.659/174.952",
+    "aiScore": 52,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "FC Santos",
+      "away": "Gremio FBPA",
+      "league": "BR1",
+      "date": "24.11.2026 00:00",
+      "matchCode": "4423381",
+      "odds": 1.87,
+      "patternScore": 66.68,
+      "patternText": "116.659/174.952",
+      "aiScore": 52,
+      "picks": 2
+    },
     {
       "home": "Gimnasia La Plata",
       "away": "Newells Old Boys",
@@ -342,8 +354,8 @@
       "date": "23.11.2026 20:00",
       "matchCode": "4580873",
       "odds": 1.6,
-      "patternScore": 65.05,
-      "patternText": "59.552/91.543",
+      "patternScore": 65.06,
+      "patternText": "59.578/91.575",
       "aiScore": 53,
       "picks": 9
     },
@@ -355,7 +367,7 @@
       "matchCode": "4423385",
       "odds": 1.44,
       "patternScore": 67.97,
-      "patternText": "191.079/281.112",
+      "patternText": "191.091/281.126",
       "aiScore": 56,
       "picks": 4
     },
@@ -366,8 +378,8 @@
       "date": "23.11.2026 20:00",
       "matchCode": "4492383",
       "odds": 1.44,
-      "patternScore": 67.86,
-      "patternText": "109.719/161.696",
+      "patternScore": 67.85,
+      "patternText": "109.741/161.732",
       "aiScore": 54,
       "picks": 6
     },
@@ -378,22 +390,10 @@
       "date": "23.11.2026 20:00",
       "matchCode": "4481113",
       "odds": 1.43,
-      "patternScore": 68.43,
-      "patternText": "102.167/149.292",
+      "patternScore": 68.44,
+      "patternText": "102.219/149.358",
       "aiScore": 57,
       "picks": 4
-    },
-    {
-      "home": "Reading U21",
-      "away": "Exeter City U21",
-      "league": "İNPLK",
-      "date": "23.11.2026 19:00",
-      "matchCode": "4540483",
-      "odds": 1.35,
-      "patternScore": 67.83,
-      "patternText": "210.837/310.854",
-      "aiScore": 57,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
