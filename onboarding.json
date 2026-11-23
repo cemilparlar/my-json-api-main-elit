@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 22:26",
+  "updatedAt": "23.11.2026 22:34",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 207,
-      "lost": 96,
-      "total": 303,
-      "rate": 68.3
+      "won": 202,
+      "lost": 91,
+      "total": 293,
+      "rate": 68.9
     },
-    "totalAnalyses": 777558,
+    "totalAnalyses": 777561,
     "leagues": 287,
     "pro": {
       "won": 1523,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1220,
-    "analyses30d": 17180
+    "analyses24h": 1210,
+    "analyses30d": 17178
   },
   "recentWins": [
     {
@@ -275,12 +275,6 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 16:27",
-      "home": "Istanbul Basaksehir",
-      "away": "Corum FK"
-    },
-    {
-      "type": "updated",
       "at": "23.11.2026 17:25",
       "home": "Ks Wieczysta K",
       "away": "Motor Lublin"
@@ -320,6 +314,12 @@
       "at": "23.11.2026 19:08",
       "home": "Brentford",
       "away": "Everton"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 19:08",
+      "home": "Levante UD",
+      "away": "Elche CF"
     }
   ],
   "today": {
@@ -330,7 +330,7 @@
     "matchCode": "4423381",
     "odds": 1.87,
     "patternScore": 66.67,
-    "patternText": "116.747/175.102",
+    "patternText": "116.747/175.104",
     "aiScore": 52,
     "picks": 2
   },
@@ -343,7 +343,7 @@
       "matchCode": "4423381",
       "odds": 1.87,
       "patternScore": 66.67,
-      "patternText": "116.747/175.102",
+      "patternText": "116.747/175.104",
       "aiScore": 52,
       "picks": 2
     },
@@ -367,21 +367,9 @@
       "matchCode": "4582089",
       "odds": 1.17,
       "patternScore": 70.22,
-      "patternText": "390.125/555.564",
+      "patternText": "390.125/555.566",
       "aiScore": 73,
       "picks": 2
-    },
-    {
-      "home": "Botafogo de Futebol e Regatas",
-      "away": "Sao Paulo FC",
-      "league": "BR1",
-      "date": "23.11.2026 23:00",
-      "matchCode": "4423380",
-      "odds": 1.17,
-      "patternScore": 71.38,
-      "patternText": "157.794/221.054",
-      "aiScore": 90,
-      "picks": 3
     },
     {
       "home": "Portmore Unite",
@@ -391,9 +379,21 @@
       "matchCode": "4562943",
       "odds": 1.07,
       "patternScore": 72.57,
-      "patternText": "149.016/205.330",
+      "patternText": "149.016/205.336",
       "aiScore": 98,
       "picks": 1
+    },
+    {
+      "home": "Kyoto Sanga FC",
+      "away": "Pohang Steelers",
+      "league": "AŞMP",
+      "date": "24.11.2026 10:00",
+      "matchCode": "4550095",
+      "odds": 1.23,
+      "patternScore": 68.89,
+      "patternText": "179.655/260.801",
+      "aiScore": 64,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
