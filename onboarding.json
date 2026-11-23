@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 16:21",
+  "updatedAt": "23.11.2026 16:28",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 349,
       "rate": 65.6
     },
-    "totalAnalyses": 777152,
+    "totalAnalyses": 777179,
     "leagues": 288,
     "pro": {
       "won": 1451,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1452,
-    "analyses30d": 17572
+    "analyses24h": 1450,
+    "analyses30d": 17570
   },
   "recentWins": [
     {
@@ -281,12 +281,6 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 10:27",
-      "home": "LNZ Cherkasy",
-      "away": "Polissya Zhytomyr"
-    },
-    {
-      "type": "updated",
       "at": "23.11.2026 14:23",
       "home": "Wadi Degla",
       "away": "Al Ittihad Al S"
@@ -317,9 +311,15 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 12:23",
+      "at": "23.11.2026 16:27",
       "home": "Istanbul Basaksehir",
       "away": "Corum FK"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 11:11",
+      "home": "P. Bielsko",
+      "away": "Bruk-Bet Termalica Nieciecza"
     }
   ],
   "today": {
@@ -398,6 +398,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Istanbul Basaksehir",
+      "away": "Corum FK",
+      "league": "TSL",
+      "at": "23.11.2026 16:27",
+      "count": 6
+    },
+    {
       "home": "AD Ceuta",
       "away": "UD Almeria",
       "league": "İS2",
@@ -458,13 +465,6 @@
       "away": "Preston North End",
       "league": "İNCL",
       "at": "23.11.2026 12:24",
-      "count": 9
-    },
-    {
-      "home": "Istanbul Basaksehir",
-      "away": "Corum FK",
-      "league": "TSL",
-      "at": "23.11.2026 12:23",
       "count": 9
     }
   ],
