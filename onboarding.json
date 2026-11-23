@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 05:57",
+  "updatedAt": "23.11.2026 06:06",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 749,
-      "lost": 375,
+      "won": 748,
+      "lost": 376,
       "total": 1124,
-      "rate": 66.6
+      "rate": 66.5
     },
     "totalAnalyses": 775230,
     "leagues": 286,
     "pro": {
-      "won": 1422,
-      "lost": 531,
-      "total": 1953,
+      "won": 1424,
+      "lost": 532,
+      "total": 1956,
       "rate": 72.8
     },
     "insights": {
-      "won": 2426,
-      "lost": 1006,
-      "total": 3432,
+      "won": 2428,
+      "lost": 1007,
+      "total": 3435,
       "rate": 70.7
     },
     "coupons": {
@@ -47,7 +47,7 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1430,
+    "analyses24h": 1428,
     "analyses30d": 16977
   },
   "recentWins": [
@@ -316,10 +316,8 @@
       "away": "Salt Lake"
     },
     {
-      "type": "kickoff",
-      "home": "Ntv Beleza Women",
-      "away": "INAC Kobe Leonessa",
-      "at": "23.11.2026 06:00"
+      "type": "analysis",
+      "count": 1428
     }
   ],
   "today": {
@@ -346,6 +344,18 @@
       "patternText": "215.958/309.450",
       "aiScore": 87,
       "picks": 1
+    },
+    {
+      "home": "Orgryte IS",
+      "away": "Kalmar FF",
+      "league": "İSÇ",
+      "date": "23.11.2026 18:00",
+      "matchCode": "4426819",
+      "odds": 2.31,
+      "patternScore": 67.44,
+      "patternText": "213.173/316.077",
+      "aiScore": 51,
+      "picks": 7
     },
     {
       "home": "Istanbul Basaksehir",
@@ -381,18 +391,6 @@
       "patternScore": 68.94,
       "patternText": "198.207/287.512",
       "aiScore": 57,
-      "picks": 1
-    },
-    {
-      "home": "Jeddah Club",
-      "away": "Damak",
-      "league": "SUUD1",
-      "date": "23.11.2026 15:15",
-      "matchCode": "4538735",
-      "odds": 1.38,
-      "patternScore": 69.18,
-      "patternText": "234.193/338.507",
-      "aiScore": 59,
       "picks": 1
     }
   ],
