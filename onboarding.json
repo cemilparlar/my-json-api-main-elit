@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 11:07",
+  "updatedAt": "23.11.2026 11:16",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 647,
-      "lost": 334,
-      "total": 981,
-      "rate": 66.0
+      "won": 643,
+      "lost": 330,
+      "total": 973,
+      "rate": 66.1
     },
-    "totalAnalyses": 776647,
+    "totalAnalyses": 776671,
     "leagues": 288,
     "pro": {
       "won": 1450,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 2033,
-    "analyses30d": 17720
+    "analyses24h": 2043,
+    "analyses30d": 17737
   },
   "recentWins": [
     {
@@ -299,27 +299,27 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 05:08",
-      "home": "Chernomorets",
-      "away": "Epitsentr Dunay"
+      "at": "23.11.2026 11:11",
+      "home": "Bodrum FK",
+      "away": "Van Spor FK"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 11:10",
+      "home": "Istanbul Basaksehir",
+      "away": "Corum FK"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 11:11",
+      "home": "P. Bielsko",
+      "away": "Bruk-Bet Termalica Nieciecza"
     },
     {
       "type": "updated",
       "at": "23.11.2026 10:08",
       "home": "Skendija",
       "away": "Fk Sileks"
-    },
-    {
-      "type": "updated",
-      "at": "23.11.2026 09:52",
-      "home": "Cska Sofia Ii",
-      "away": "Beroe Stara Zagora"
-    },
-    {
-      "type": "updated",
-      "at": "23.11.2026 10:11",
-      "home": "El Gouna FC",
-      "away": "Zamalek SC"
     }
   ],
   "today": {
@@ -398,6 +398,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Bodrum FK",
+      "away": "Van Spor FK",
+      "league": "T1L",
+      "at": "23.11.2026 11:11",
+      "count": 5
+    },
+    {
+      "home": "Istanbul Basaksehir",
+      "away": "Corum FK",
+      "league": "TSL",
+      "at": "23.11.2026 11:10",
+      "count": 7
+    },
+    {
       "home": "Atletico Mineiro",
       "away": "SC Corinthians",
       "league": "BR1",
@@ -452,20 +466,6 @@
       "league": "İTB",
       "at": "23.11.2026 09:01",
       "count": 2
-    },
-    {
-      "home": "San Jose Earthquakes",
-      "away": "Houston Dynamo",
-      "league": "ABD",
-      "at": "23.11.2026 08:39",
-      "count": 7
-    },
-    {
-      "home": "Chapecoense AF",
-      "away": "SE Palmeiras",
-      "league": "BR1",
-      "at": "23.11.2026 08:36",
-      "count": 17
     }
   ],
   "paywall": {
