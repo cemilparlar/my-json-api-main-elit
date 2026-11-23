@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 11:40",
+  "updatedAt": "23.11.2026 11:50",
   "config": {
     "pages": [
       "engine",
@@ -23,11 +23,11 @@
     "days": 7,
     "last24h": {
       "won": 617,
-      "lost": 309,
-      "total": 926,
-      "rate": 66.6
+      "lost": 308,
+      "total": 925,
+      "rate": 66.7
     },
-    "totalAnalyses": 776696,
+    "totalAnalyses": 776705,
     "leagues": 288,
     "pro": {
       "won": 1452,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1991,
-    "analyses30d": 17720
+    "analyses24h": 1992,
+    "analyses30d": 17714
   },
   "recentWins": [
     {
@@ -281,7 +281,7 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 09:16",
+      "at": "23.11.2026 11:46",
       "home": "Wadi Degla",
       "away": "Al Ittihad Al S"
     },
@@ -299,7 +299,7 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 11:10",
+      "at": "23.11.2026 11:46",
       "home": "Istanbul Basaksehir",
       "away": "Corum FK"
     },
@@ -398,18 +398,18 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Istanbul Basaksehir",
+      "away": "Corum FK",
+      "league": "TSL",
+      "at": "23.11.2026 11:46",
+      "count": 7
+    },
+    {
       "home": "Bodrum FK",
       "away": "Van Spor FK",
       "league": "T1L",
       "at": "23.11.2026 11:11",
       "count": 5
-    },
-    {
-      "home": "Istanbul Basaksehir",
-      "away": "Corum FK",
-      "league": "TSL",
-      "at": "23.11.2026 11:10",
-      "count": 7
     },
     {
       "home": "Atletico Mineiro",
