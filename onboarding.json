@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 06:52",
+  "updatedAt": "23.11.2026 07:00",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 1124,
       "rate": 66.5
     },
-    "totalAnalyses": 775579,
+    "totalAnalyses": 775755,
     "leagues": 286,
     "pro": {
       "won": 1430,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1709,
-    "analyses30d": 17255
+    "analyses24h": 1728,
+    "analyses30d": 17277
   },
   "recentWins": [
     {
@@ -305,7 +305,7 @@
     },
     {
       "type": "analysis",
-      "count": 1709
+      "count": 1728
     }
   ],
   "today": {
@@ -341,7 +341,7 @@
       "matchCode": "4508214",
       "odds": 1.32,
       "patternScore": 68.56,
-      "patternText": "221.275/322.758",
+      "patternText": "221.281/322.778",
       "aiScore": 61,
       "picks": 1
     },
@@ -353,7 +353,7 @@
       "matchCode": "4508208",
       "odds": 1.15,
       "patternScore": 69.79,
-      "patternText": "216.036/309.540",
+      "patternText": "216.046/309.564",
       "aiScore": 87,
       "picks": 1
     },
@@ -383,6 +383,27 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "KAA Gent",
+      "away": "FK Crvena zvezda",
+      "league": "AVKL",
+      "at": "23.11.2026 06:53",
+      "count": 10
+    },
+    {
+      "home": "Ferencvaros",
+      "away": "NK Celje",
+      "league": "AVL",
+      "at": "23.11.2026 06:52",
+      "count": 14
+    },
+    {
+      "home": "Borac Banja Lu",
+      "away": "Atalanta",
+      "league": "AVKL",
+      "at": "23.11.2026 06:52",
+      "count": 5
+    },
     {
       "home": "Torreense",
       "away": "Celtic",
@@ -430,27 +451,6 @@
       "away": "Real Sociedad",
       "league": "AVL",
       "at": "23.11.2026 06:50",
-      "count": 10
-    },
-    {
-      "home": "NEC Nijmegen",
-      "away": "Stade Rennais",
-      "league": "AVL",
-      "at": "23.11.2026 06:49",
-      "count": 7
-    },
-    {
-      "home": "AC Sparta Prague",
-      "away": "AZ Alkmaar",
-      "league": "AVL",
-      "at": "23.11.2026 06:49",
-      "count": 6
-    },
-    {
-      "home": "TSG Hoffenheim",
-      "away": "SK Sturm Graz",
-      "league": "AVL",
-      "at": "23.11.2026 06:49",
       "count": 10
     }
   ],
