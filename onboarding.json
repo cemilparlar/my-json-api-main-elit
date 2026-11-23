@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 08:22",
+  "updatedAt": "23.11.2026 08:31",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 749,
-      "lost": 385,
-      "total": 1134,
-      "rate": 66.0
+      "won": 748,
+      "lost": 384,
+      "total": 1132,
+      "rate": 66.1
     },
-    "totalAnalyses": 776135,
+    "totalAnalyses": 776151,
     "leagues": 287,
     "pro": {
       "won": 1438,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1898,
-    "analyses30d": 17460
+    "analyses24h": 1905,
+    "analyses30d": 17463
   },
   "recentWins": [
     {
@@ -305,36 +305,48 @@
     },
     {
       "type": "updated",
+      "at": "23.11.2026 08:28",
+      "home": "FC Chelyabinsk",
+      "away": "Leningradets"
+    },
+    {
+      "type": "updated",
       "at": "23.11.2026 07:08",
       "home": "Bistrica",
       "away": "Krka Novo Mesto"
     },
     {
       "type": "updated",
-      "at": "23.11.2026 07:09",
-      "home": "Barnsley U21",
-      "away": "Bolton U21"
-    },
-    {
-      "type": "kickoff",
-      "home": "Chernomorets",
-      "away": "Epitsentr Dunay",
-      "at": "23.11.2026 11:00"
+      "at": "23.11.2026 08:28",
+      "home": "Neftchi Fargon",
+      "away": "Al Hilal"
     }
   ],
   "today": {
-    "home": "Barnsley U21",
-    "away": "Bolton U21",
-    "league": "INGPDL",
-    "date": "23.11.2026 13:00",
-    "matchCode": "4540682",
-    "odds": 1.34,
-    "patternScore": 66.84,
-    "patternText": "146.521/219.205",
-    "aiScore": 59,
-    "picks": 2
+    "home": "Al Jeel",
+    "away": "Al-Saqer",
+    "league": "SUUD1",
+    "date": "23.11.2026 14:30",
+    "matchCode": "4538734",
+    "odds": 1.41,
+    "patternScore": 68.43,
+    "patternText": "201.484/294.453",
+    "aiScore": 54,
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Al Jeel",
+      "away": "Al-Saqer",
+      "league": "SUUD1",
+      "date": "23.11.2026 14:30",
+      "matchCode": "4538734",
+      "odds": 1.41,
+      "patternScore": 68.43,
+      "patternText": "201.484/294.453",
+      "aiScore": 54,
+      "picks": 4
+    },
     {
       "home": "Barnsley U21",
       "away": "Bolton U21",
@@ -382,18 +394,6 @@
       "patternText": "225.411/328.928",
       "aiScore": 64,
       "picks": 2
-    },
-    {
-      "home": "Chernomorets",
-      "away": "Epitsentr Dunay",
-      "league": "UKR",
-      "date": "23.11.2026 11:00",
-      "matchCode": "4508208",
-      "odds": 1.15,
-      "patternScore": 69.78,
-      "patternText": "216.106/309.680",
-      "aiScore": 87,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
