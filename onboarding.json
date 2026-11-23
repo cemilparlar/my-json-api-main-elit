@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 15:56",
+  "updatedAt": "23.11.2026 16:04",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 283,
-      "lost": 150,
-      "total": 433,
-      "rate": 65.4
+      "won": 237,
+      "lost": 122,
+      "total": 359,
+      "rate": 66.0
     },
-    "totalAnalyses": 777119,
+    "totalAnalyses": 777129,
     "leagues": 288,
     "pro": {
-      "won": 1452,
-      "lost": 542,
-      "total": 1994,
-      "rate": 72.8
+      "won": 1451,
+      "lost": 540,
+      "total": 1991,
+      "rate": 72.9
     },
     "insights": {
-      "won": 2475,
-      "lost": 1028,
-      "total": 3503,
+      "won": 2472,
+      "lost": 1026,
+      "total": 3498,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1560,
-    "analyses30d": 17648
+    "analyses24h": 1475,
+    "analyses30d": 17585
   },
   "recentWins": [
     {
@@ -372,6 +372,18 @@
       "picks": 4
     },
     {
+      "home": "AC Monza",
+      "away": "ACF Fiorentina",
+      "league": "İTA",
+      "date": "23.11.2026 19:45",
+      "matchCode": "4475158",
+      "odds": 1.38,
+      "patternScore": 67.35,
+      "patternText": "233.742/347.031",
+      "aiScore": 56,
+      "picks": 7
+    },
+    {
       "home": "Reading U21",
       "away": "Exeter City U21",
       "league": "İNPLK",
@@ -382,18 +394,6 @@
       "patternText": "210.709/310.696",
       "aiScore": 57,
       "picks": 1
-    },
-    {
-      "home": "Orgryte IS",
-      "away": "Kalmar FF",
-      "league": "İSÇ",
-      "date": "23.11.2026 18:00",
-      "matchCode": "4426819",
-      "odds": 1.28,
-      "patternScore": 68.1,
-      "patternText": "247.565/363.525",
-      "aiScore": 66,
-      "picks": 6
     }
   ],
   "recentAnalyzed": [
