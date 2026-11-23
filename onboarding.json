@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 03:46",
+  "updatedAt": "23.11.2026 03:54",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 775229,
     "leagues": 286,
     "pro": {
-      "won": 1406,
+      "won": 1407,
       "lost": 523,
-      "total": 1929,
+      "total": 1930,
       "rate": 72.9
     },
     "insights": {
-      "won": 2396,
+      "won": 2397,
       "lost": 989,
-      "total": 3385,
+      "total": 3386,
       "rate": 70.8
     },
     "coupons": {
@@ -293,12 +293,6 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 03:45",
-      "home": "Ntv Beleza Women",
-      "away": "INAC Kobe Leonessa"
-    },
-    {
-      "type": "updated",
       "at": "22.11.2026 23:13",
       "home": "Real Sociedad de Tocoa",
       "away": "Olancho FC"
@@ -320,33 +314,27 @@
       "at": "23.11.2026 03:07",
       "home": "AC Parceiro Nagano",
       "away": "Urawa Red Women"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 00:46",
+      "home": "Vancouver Whitecaps",
+      "away": "Salt Lake"
     }
   ],
   "today": {
-    "home": "Ntv Beleza Women",
-    "away": "INAC Kobe Leonessa",
-    "league": "JWEL",
-    "date": "23.11.2026 06:00",
-    "matchCode": "4488330",
-    "odds": 1.06,
-    "patternScore": 72.72,
-    "patternText": "156.883/215.726",
-    "aiScore": 98,
-    "picks": 1
+    "home": "Al Jeel",
+    "away": "Al-Saqer",
+    "league": "SUUD1",
+    "date": "23.11.2026 14:30",
+    "matchCode": "4538734",
+    "odds": 1.41,
+    "patternScore": 68.42,
+    "patternText": "201.294/294.189",
+    "aiScore": 55,
+    "picks": 4
   },
   "todayList": [
-    {
-      "home": "Ntv Beleza Women",
-      "away": "INAC Kobe Leonessa",
-      "league": "JWEL",
-      "date": "23.11.2026 06:00",
-      "matchCode": "4488330",
-      "odds": 1.06,
-      "patternScore": 72.72,
-      "patternText": "156.883/215.726",
-      "aiScore": 98,
-      "picks": 1
-    },
     {
       "home": "Al Jeel",
       "away": "Al-Saqer",
@@ -394,6 +382,18 @@
       "patternText": "146.377/218.951",
       "aiScore": 60,
       "picks": 3
+    },
+    {
+      "home": "FC Chelyabinsk",
+      "away": "Leningradets",
+      "league": "RUS1",
+      "date": "23.11.2026 14:00",
+      "matchCode": "4498126",
+      "odds": 1.25,
+      "patternScore": 68.53,
+      "patternText": "225.205/328.640",
+      "aiScore": 63,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
