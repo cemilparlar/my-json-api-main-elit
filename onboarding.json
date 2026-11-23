@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 16:53",
+  "updatedAt": "23.11.2026 17:00",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 193,
-      "lost": 105,
-      "total": 298,
-      "rate": 64.8
+      "won": 201,
+      "lost": 106,
+      "total": 307,
+      "rate": 65.5
     },
-    "totalAnalyses": 777219,
+    "totalAnalyses": 777223,
     "leagues": 288,
     "pro": {
-      "won": 1454,
+      "won": 1457,
       "lost": 540,
-      "total": 1994,
-      "rate": 72.9
+      "total": 1997,
+      "rate": 73.0
     },
     "insights": {
-      "won": 2475,
-      "lost": 1026,
-      "total": 3501,
+      "won": 2483,
+      "lost": 1027,
+      "total": 3510,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1396,
-    "analyses30d": 17510
+    "analyses24h": 1357,
+    "analyses30d": 17444
   },
   "recentWins": [
     {
@@ -348,6 +348,30 @@
       "picks": 9
     },
     {
+      "home": "Levante UD",
+      "away": "Elche CF",
+      "league": "İS1",
+      "date": "23.11.2026 20:00",
+      "matchCode": "4492383",
+      "odds": 1.46,
+      "patternScore": 67.41,
+      "patternText": "112.689/167.174",
+      "aiScore": 54,
+      "picks": 6
+    },
+    {
+      "home": "Sport Club Internacional",
+      "away": "Vitoria Bahia",
+      "league": "BR1",
+      "date": "23.11.2026 22:30",
+      "matchCode": "4423385",
+      "odds": 1.44,
+      "patternScore": 67.97,
+      "patternText": "191.049/281.076",
+      "aiScore": 56,
+      "picks": 4
+    },
+    {
       "home": "Brentford",
       "away": "Everton",
       "league": "İNP",
@@ -360,18 +384,6 @@
       "picks": 4
     },
     {
-      "home": "AC Monza",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "date": "23.11.2026 19:45",
-      "matchCode": "4475158",
-      "odds": 1.38,
-      "patternScore": 67.36,
-      "patternText": "233.796/347.101",
-      "aiScore": 56,
-      "picks": 7
-    },
-    {
       "home": "Reading U21",
       "away": "Exeter City U21",
       "league": "İNPLK",
@@ -382,18 +394,6 @@
       "patternText": "210.763/310.762",
       "aiScore": 57,
       "picks": 1
-    },
-    {
-      "home": "Levante UD",
-      "away": "Elche CF",
-      "league": "İS1",
-      "date": "23.11.2026 20:00",
-      "matchCode": "4492383",
-      "odds": 1.32,
-      "patternScore": 68.27,
-      "patternText": "128.426/188.104",
-      "aiScore": 63,
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
