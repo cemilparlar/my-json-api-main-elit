@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 23:25",
+  "updatedAt": "23.11.2026 23:33",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 196,
-      "lost": 89,
-      "total": 285,
-      "rate": 68.8
+      "won": 188,
+      "lost": 83,
+      "total": 271,
+      "rate": 69.4
     },
     "totalAnalyses": 777589,
     "leagues": 287,
     "pro": {
-      "won": 1523,
+      "won": 1524,
       "lost": 569,
-      "total": 2092,
+      "total": 2093,
       "rate": 72.8
     },
     "insights": {
-      "won": 2569,
+      "won": 2570,
       "lost": 1063,
-      "total": 3632,
+      "total": 3633,
       "rate": 70.7
     },
     "coupons": {
@@ -47,7 +47,7 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1212,
+    "analyses24h": 1198,
     "analyses30d": 17171
   },
   "recentWins": [
@@ -275,18 +275,6 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 17:25",
-      "home": "Ks Wieczysta K",
-      "away": "Motor Lublin"
-    },
-    {
-      "type": "updated",
-      "at": "23.11.2026 17:27",
-      "home": "Jong PSV",
-      "away": "Jong Utrecht"
-    },
-    {
-      "type": "updated",
       "at": "23.11.2026 19:08",
       "home": "FC Nantes",
       "away": "Grenoble Foot"
@@ -296,12 +284,6 @@
       "at": "23.11.2026 19:08",
       "home": "AC Monza",
       "away": "ACF Fiorentina"
-    },
-    {
-      "type": "updated",
-      "at": "23.11.2026 17:27",
-      "home": "Calcio Lecco",
-      "away": "AC Lumezzane"
     },
     {
       "type": "updated",
@@ -320,33 +302,39 @@
       "at": "23.11.2026 19:08",
       "home": "Levante UD",
       "away": "Elche CF"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 23:15",
+      "home": "LD Alajuelense",
+      "away": "CS Cartaginés"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 20:48",
+      "home": "Botafogo de Futebol e Regatas",
+      "away": "Sao Paulo FC"
+    },
+    {
+      "type": "updated",
+      "at": "23.11.2026 18:08",
+      "home": "FC Santos",
+      "away": "Gremio FBPA"
     }
   ],
   "today": {
-    "home": "FC Santos",
-    "away": "Gremio FBPA",
-    "league": "BR1",
-    "date": "24.11.2026 00:00",
-    "matchCode": "4423381",
-    "odds": 1.87,
-    "patternScore": 66.67,
-    "patternText": "116.749/175.110",
-    "aiScore": 52,
-    "picks": 2
+    "home": "St. Louis City SC",
+    "away": "Los Angeles FC",
+    "league": "ABD",
+    "date": "24.11.2026 01:00",
+    "matchCode": "4579791",
+    "odds": 1.4,
+    "patternScore": 68.07,
+    "patternText": "191.288/281.009",
+    "aiScore": 55,
+    "picks": 7
   },
   "todayList": [
-    {
-      "home": "FC Santos",
-      "away": "Gremio FBPA",
-      "league": "BR1",
-      "date": "24.11.2026 00:00",
-      "matchCode": "4423381",
-      "odds": 1.87,
-      "patternScore": 66.67,
-      "patternText": "116.749/175.110",
-      "aiScore": 52,
-      "picks": 2
-    },
     {
       "home": "St. Louis City SC",
       "away": "Los Angeles FC",
@@ -394,6 +382,18 @@
       "patternText": "149.022/205.346",
       "aiScore": 98,
       "picks": 1
+    },
+    {
+      "home": "Kyoto Sanga FC",
+      "away": "Pohang Steelers",
+      "league": "AŞMP",
+      "date": "24.11.2026 10:00",
+      "matchCode": "4550095",
+      "odds": 1.23,
+      "patternScore": 68.88,
+      "patternText": "179.661/260.819",
+      "aiScore": 64,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
