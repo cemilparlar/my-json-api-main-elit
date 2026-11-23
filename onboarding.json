@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "23.11.2026 23:08",
+  "updatedAt": "23.11.2026 23:16",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 197,
+      "won": 196,
       "lost": 89,
-      "total": 286,
-      "rate": 68.9
+      "total": 285,
+      "rate": 68.8
     },
-    "totalAnalyses": 777576,
+    "totalAnalyses": 777589,
     "leagues": 287,
     "pro": {
       "won": 1523,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1200,
-    "analyses30d": 17158
+    "analyses24h": 1213,
+    "analyses30d": 17172
   },
   "recentWins": [
     {
@@ -330,7 +330,7 @@
     "matchCode": "4423381",
     "odds": 1.87,
     "patternScore": 66.67,
-    "patternText": "116.749/175.106",
+    "patternText": "116.749/175.110",
     "aiScore": 52,
     "picks": 2
   },
@@ -343,7 +343,7 @@
       "matchCode": "4423381",
       "odds": 1.87,
       "patternScore": 66.67,
-      "patternText": "116.749/175.106",
+      "patternText": "116.749/175.110",
       "aiScore": 52,
       "picks": 2
     },
@@ -355,7 +355,7 @@
       "matchCode": "4579791",
       "odds": 1.4,
       "patternScore": 68.07,
-      "patternText": "191.288/280.997",
+      "patternText": "191.288/281.009",
       "aiScore": 55,
       "picks": 7
     },
@@ -366,8 +366,8 @@
       "date": "24.11.2026 02:00",
       "matchCode": "4487118",
       "odds": 1.23,
-      "patternScore": 68.37,
-      "patternText": "175.864/257.242",
+      "patternScore": 68.36,
+      "patternText": "175.864/257.254",
       "aiScore": 65,
       "picks": 1
     },
@@ -379,7 +379,7 @@
       "matchCode": "4582089",
       "odds": 1.17,
       "patternScore": 70.22,
-      "patternText": "390.147/555.588",
+      "patternText": "390.147/555.608",
       "aiScore": 73,
       "picks": 2
     },
@@ -391,12 +391,19 @@
       "matchCode": "4562943",
       "odds": 1.07,
       "patternScore": 72.57,
-      "patternText": "149.022/205.342",
+      "patternText": "149.022/205.346",
       "aiScore": 98,
       "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FK Bodo/Glimt",
+      "away": "LASK Linz",
+      "league": "ŞMP",
+      "at": "23.11.2026 23:15",
+      "count": 13
+    },
     {
       "home": "Sport Club Internacional",
       "away": "Vitoria Bahia",
@@ -459,13 +466,6 @@
       "league": "BR1",
       "at": "23.11.2026 18:08",
       "count": 11
-    },
-    {
-      "home": "Istanbul Basaksehir",
-      "away": "Corum FK",
-      "league": "TSL",
-      "at": "23.11.2026 16:27",
-      "count": 6
     }
   ],
   "paywall": {
