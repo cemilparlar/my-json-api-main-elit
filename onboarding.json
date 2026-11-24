@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 20:15",
+  "updatedAt": "24.11.2026 20:23",
   "config": {
     "pages": [
       "engine",
@@ -151,6 +151,93 @@
           "finalScore": "0 - 2"
         }
       ]
+    },
+    {
+      "size": 3,
+      "totalOdds": 1.52,
+      "winChance": 51.94,
+      "completedAt": "22.11.2026 19:05",
+      "legs": [
+        {
+          "home": "Cultural Guarn",
+          "away": "Tropezon",
+          "prediction": "Double Chance 12",
+          "odds": 1.13,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "Las Rozas",
+          "away": "Siello Nuevo Bo",
+          "prediction": "Match Result 1",
+          "odds": 1.15,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Illescas",
+          "away": "Toledo",
+          "prediction": "Double Chance 12",
+          "odds": 1.17,
+          "finalScore": null
+        }
+      ]
+    },
+    {
+      "size": 3,
+      "totalOdds": 1.5,
+      "winChance": 55.05,
+      "completedAt": "22.11.2026 15:56",
+      "legs": [
+        {
+          "home": "FC Norderstedt",
+          "away": "Schoningen",
+          "prediction": "Double Chance 12",
+          "odds": 1.1,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "Cordoba CF",
+          "away": "Real Oviedo",
+          "prediction": "1st Half Double Chance 1X",
+          "odds": 1.1,
+          "finalScore": "3 - 0"
+        },
+        {
+          "home": "Green Eagles",
+          "away": "Red Arrows",
+          "prediction": "Double Chance 12",
+          "odds": 1.24,
+          "finalScore": "2 - 3"
+        }
+      ]
+    },
+    {
+      "size": 3,
+      "totalOdds": 1.52,
+      "winChance": 50.97,
+      "completedAt": "22.11.2026 07:17",
+      "legs": [
+        {
+          "home": "Roasso Kumamoto",
+          "away": "Giravanz Kitakyushu",
+          "prediction": "Double Chance 12",
+          "odds": 1.09,
+          "finalScore": "1 - 0"
+        },
+        {
+          "home": "Tokushima Vortis",
+          "away": "Shonan Bellmare",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.15,
+          "finalScore": "1 - 2"
+        },
+        {
+          "home": "Gimcheon Sangmu",
+          "away": "Jeju United",
+          "prediction": "Under 3.5 Goals",
+          "odds": 1.21,
+          "finalScore": "0 - 1"
+        }
+      ]
     }
   ],
   "ticker": [
@@ -243,7 +330,7 @@
     "matchCode": "4423398",
     "odds": 1.41,
     "patternScore": 68.16,
-    "patternText": "116.917/171.526",
+    "patternText": "116.927/171.536",
     "aiScore": 56,
     "picks": 7
   },
@@ -256,7 +343,7 @@
       "matchCode": "4423398",
       "odds": 1.41,
       "patternScore": 68.16,
-      "patternText": "116.917/171.526",
+      "patternText": "116.927/171.536",
       "aiScore": 56,
       "picks": 7
     },
@@ -268,7 +355,7 @@
       "matchCode": "4580967",
       "odds": 1.22,
       "patternScore": 68.37,
-      "patternText": "192.779/281.967",
+      "patternText": "192.799/281.993",
       "aiScore": 66,
       "picks": 2
     },
@@ -280,7 +367,7 @@
       "matchCode": "4580968",
       "odds": 1.15,
       "patternScore": 69.96,
-      "patternText": "245.913/351.502",
+      "patternText": "245.945/351.540",
       "aiScore": 77,
       "picks": 2
     },
@@ -292,7 +379,7 @@
       "matchCode": "4579792",
       "odds": 1.21,
       "patternScore": 70.09,
-      "patternText": "120.052/171.293",
+      "patternText": "120.074/171.319",
       "aiScore": 70,
       "picks": 2
     },
@@ -304,7 +391,7 @@
       "matchCode": "4488076",
       "odds": 1.19,
       "patternScore": 69.83,
-      "patternText": "180.443/258.410",
+      "patternText": "180.457/258.434",
       "aiScore": 90,
       "picks": 2
     }
