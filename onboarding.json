@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 08:51",
+  "updatedAt": "24.11.2026 08:59",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 271,
       "rate": 65.3
     },
-    "totalAnalyses": 777831,
-    "leagues": 287,
+    "totalAnalyses": 777845,
+    "leagues": 288,
     "pro": {
       "won": 1537,
       "lost": 580,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1251,
-    "analyses30d": 17089
+    "analyses24h": 1257,
+    "analyses30d": 17095
   },
   "recentWins": [
     {
@@ -252,13 +252,13 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 08:12",
+      "at": "24.11.2026 08:52",
       "home": "Kyoto Sanga FC",
       "away": "Pohang Steelers"
     },
     {
       "type": "updated",
-      "at": "24.11.2026 07:52",
+      "at": "24.11.2026 08:53",
       "home": "Cand",
       "away": "Vissel Kobe"
     },
@@ -369,6 +369,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Sao Paulo FC",
+      "away": "Remo",
+      "league": "BR1",
+      "at": "24.11.2026 08:56",
+      "count": 7
+    },
+    {
       "home": "Inter Escaldes",
       "away": "FC Copenhagen",
       "league": "AVKL",
@@ -430,13 +437,6 @@
       "league": "İS1",
       "at": "23.11.2026 19:08",
       "count": 7
-    },
-    {
-      "home": "FC Sochaux",
-      "away": "USL Dunkerque",
-      "league": "FR2",
-      "at": "23.11.2026 19:07",
-      "count": 6
     }
   ],
   "paywall": {
