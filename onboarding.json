@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 16:33",
+  "updatedAt": "24.11.2026 16:41",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 178,
-      "lost": 98,
-      "total": 276,
-      "rate": 64.5
+      "won": 179,
+      "lost": 100,
+      "total": 279,
+      "rate": 64.2
     },
-    "totalAnalyses": 778697,
+    "totalAnalyses": 778705,
     "leagues": 285,
     "pro": {
       "won": 1542,
@@ -37,8 +37,8 @@
     },
     "insights": {
       "won": 2562,
-      "lost": 1051,
-      "total": 3613,
+      "lost": 1052,
+      "total": 3614,
       "rate": 70.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1345,
-    "analyses30d": 16115
+    "analyses24h": 1335,
+    "analyses30d": 16105
   },
   "recentWins": [
     {
@@ -265,18 +265,30 @@
     }
   ],
   "today": {
-    "home": "Virtus Entella",
-    "away": "Verona",
-    "league": "İTB",
+    "home": "Sheffield United",
+    "away": "Millwall U21",
+    "league": "İNPLK",
     "date": "24.11.2026 19:00",
-    "matchCode": "4534806",
-    "odds": 1.88,
-    "patternScore": 66.75,
-    "patternText": "219.889/329.409",
+    "matchCode": "4540472",
+    "odds": 2.19,
+    "patternScore": 66.8,
+    "patternText": "219.049/327.903",
     "aiScore": 51,
-    "picks": 8
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Sheffield United",
+      "away": "Millwall U21",
+      "league": "İNPLK",
+      "date": "24.11.2026 19:00",
+      "matchCode": "4540472",
+      "odds": 2.19,
+      "patternScore": 66.8,
+      "patternText": "219.049/327.903",
+      "aiScore": 51,
+      "picks": 4
+    },
     {
       "home": "Virtus Entella",
       "away": "Verona",
@@ -288,18 +300,6 @@
       "patternText": "219.889/329.409",
       "aiScore": 51,
       "picks": 8
-    },
-    {
-      "home": "Sheffield United",
-      "away": "Millwall U21",
-      "league": "İNPLK",
-      "date": "24.11.2026 19:00",
-      "matchCode": "4540472",
-      "odds": 1.85,
-      "patternScore": 66.53,
-      "patternText": "145.495/218.703",
-      "aiScore": 51,
-      "picks": 4
     },
     {
       "home": "Livingston",
@@ -322,7 +322,7 @@
       "odds": 1.59,
       "patternScore": 68.42,
       "patternText": "130.020/190.042",
-      "aiScore": 54,
+      "aiScore": 55,
       "picks": 1
     },
     {
