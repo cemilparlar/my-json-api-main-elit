@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 22:44",
+  "updatedAt": "24.11.2026 22:52",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 314,
-      "lost": 180,
-      "total": 494,
-      "rate": 63.6
+      "won": 318,
+      "lost": 184,
+      "total": 502,
+      "rate": 63.3
     },
-    "totalAnalyses": 778944,
+    "totalAnalyses": 778945,
     "leagues": 282,
     "pro": {
-      "won": 1616,
-      "lost": 614,
-      "total": 2230,
-      "rate": 72.5
+      "won": 1617,
+      "lost": 616,
+      "total": 2233,
+      "rate": 72.4
     },
     "insights": {
-      "won": 2697,
-      "lost": 1116,
-      "total": 3813,
+      "won": 2701,
+      "lost": 1119,
+      "total": 3820,
       "rate": 70.7
     },
     "coupons": {
@@ -323,30 +323,18 @@
     }
   ],
   "today": {
-    "home": "Los Millionarios",
-    "away": "Atletico Bucaramanga",
+    "home": "America de Cali",
+    "away": "Deportivo Cali",
     "league": "KOL",
-    "date": "24.11.2026 23:20",
-    "matchCode": "4580967",
-    "odds": 1.22,
-    "patternScore": 68.37,
-    "patternText": "193.029/282.313",
-    "aiScore": 65,
+    "date": "25.11.2026 01:30",
+    "matchCode": "4580968",
+    "odds": 1.15,
+    "patternScore": 69.97,
+    "patternText": "246.325/352.042",
+    "aiScore": 77,
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "Los Millionarios",
-      "away": "Atletico Bucaramanga",
-      "league": "KOL",
-      "date": "24.11.2026 23:20",
-      "matchCode": "4580967",
-      "odds": 1.22,
-      "patternScore": 68.37,
-      "patternText": "193.029/282.313",
-      "aiScore": 65,
-      "picks": 2
-    },
     {
       "home": "America de Cali",
       "away": "Deportivo Cali",
@@ -355,7 +343,7 @@
       "matchCode": "4580968",
       "odds": 1.15,
       "patternScore": 69.97,
-      "patternText": "246.311/352.020",
+      "patternText": "246.325/352.042",
       "aiScore": 77,
       "picks": 2
     },
@@ -367,7 +355,7 @@
       "matchCode": "4488076",
       "odds": 1.13,
       "patternScore": 72.05,
-      "patternText": "140.367/194.816",
+      "patternText": "140.371/194.822",
       "aiScore": 98,
       "picks": 1
     },
@@ -379,7 +367,7 @@
       "matchCode": "4579792",
       "odds": 1.09,
       "patternScore": 71.3,
-      "patternText": "88.013/123.438",
+      "patternText": "88.015/123.442",
       "aiScore": 100,
       "picks": 3
     },
@@ -391,9 +379,21 @@
       "matchCode": "4550100",
       "odds": 1.57,
       "patternScore": 67.31,
-      "patternText": "125.016/185.743",
+      "patternText": "125.016/185.745",
       "aiScore": 55,
       "picks": 5
+    },
+    {
+      "home": "FC Tokyo",
+      "away": "Sanfrecce Hiroshima",
+      "league": "JAP",
+      "date": "25.11.2026 10:00",
+      "matchCode": "4487280",
+      "odds": 1.36,
+      "patternScore": 67.9,
+      "patternText": "123.437/181.802",
+      "aiScore": 58,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
