@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 10:03",
+  "updatedAt": "24.11.2026 10:12",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 274,
       "rate": 65.3
     },
-    "totalAnalyses": 777921,
+    "totalAnalyses": 777936,
     "leagues": 288,
     "pro": {
       "won": 1538,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1275,
-    "analyses30d": 17072
+    "analyses24h": 1279,
+    "analyses30d": 17076
   },
   "recentWins": [
     {
@@ -276,6 +276,12 @@
     },
     {
       "type": "updated",
+      "at": "24.11.2026 10:04",
+      "home": "Al Ahli Dubai",
+      "away": "Al Qadsiah"
+    },
+    {
+      "type": "updated",
       "at": "24.11.2026 06:35",
       "home": "Fard Alborz",
       "away": "Pars Jam Busheh"
@@ -285,12 +291,6 @@
       "at": "24.11.2026 08:13",
       "home": "FC Akron Togliatti",
       "away": "CSKA Moscow"
-    },
-    {
-      "type": "updated",
-      "at": "24.11.2026 10:03",
-      "home": "Zed",
-      "away": "Abu Qair"
     }
   ],
   "today": {
@@ -319,6 +319,18 @@
       "picks": 3
     },
     {
+      "home": "East Bengal FC",
+      "away": "Al Hussein",
+      "league": "AFCŞL2",
+      "date": "24.11.2026 13:45",
+      "matchCode": "4550010",
+      "odds": 1.31,
+      "patternScore": 67.93,
+      "patternText": "200.003/294.434",
+      "aiScore": 58,
+      "picks": 3
+    },
+    {
       "home": "Al Jabalain",
       "away": "Al Zulfi",
       "league": "SUUD1",
@@ -327,7 +339,7 @@
       "odds": 1.3,
       "patternScore": 69.07,
       "patternText": "196.337/284.268",
-      "aiScore": 69,
+      "aiScore": 68,
       "picks": 2
     },
     {
@@ -343,28 +355,16 @@
       "picks": 2
     },
     {
-      "home": "Smouha SC",
-      "away": "National Bank of Egypt",
-      "league": "MSR",
-      "date": "24.11.2026 15:00",
-      "matchCode": "4537889",
-      "odds": 1.24,
-      "patternScore": 68.7,
-      "patternText": "203.231/295.806",
-      "aiScore": 67,
-      "picks": 1
-    },
-    {
-      "home": "Al Orubah Club",
-      "away": "Al Najma",
-      "league": "SUUD1",
-      "date": "24.11.2026 12:20",
-      "matchCode": "4538737",
-      "odds": 1.24,
-      "patternScore": 68.46,
-      "patternText": "216.393/316.094",
-      "aiScore": 71,
-      "picks": 2
+      "home": "Ratchaburi Mitr Phol FC",
+      "away": "Johor Darul Tazim",
+      "league": "AŞMP",
+      "date": "24.11.2026 12:15",
+      "matchCode": "4550097",
+      "odds": 1.29,
+      "patternScore": 66.83,
+      "patternText": "218.410/326.826",
+      "aiScore": 60,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
