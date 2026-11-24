@@ -1587,7 +1587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 74
     },
     {
         "date": "25.11.2026 20:00",
@@ -3237,7 +3237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 74
+        "aiScore": 73
     },
     {
         "date": "26.11.2026 20:00",
@@ -5907,7 +5907,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 97
     },
     {
         "date": "24.11.2026 19:45",
@@ -11037,7 +11037,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 77
+        "aiScore": 76
     },
     {
         "date": "24.11.2026 19:45",
@@ -12717,7 +12717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 72
     },
     {
         "date": "23.11.2026 19:45",
@@ -14697,7 +14697,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 75
     },
     {
         "date": "23.11.2026 19:45",
@@ -15958,66 +15958,6 @@
             "b": 100.0
         },
         "aiScore": 65
-    },
-    {
-        "date": "24.11.2026 12:20",
-        "league": "SUUD1",
-        "matchCode": "4538737",
-        "home": "Al Orubah Club",
-        "away": "Al Najma",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance X2",
-        "ihtimal": "100.0",
-        "odds": "1.06",
-        "matchCount": "26",
-        "matchLink": "4538737",
-        "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "9/63",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "24.11.2026 10:40",
-        "patternScore": 63.35,
-        "patternText": "132.541/209.217",
-        "patternInfo": {
-            "m": 45,
-            "s": 9,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 99
-    },
-    {
-        "date": "24.11.2026 12:20",
-        "league": "SUUD1",
-        "matchCode": "4538737",
-        "home": "Al Orubah Club",
-        "away": "Al Najma",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Under 1.5",
-        "ihtimal": "73.08",
-        "odds": "1.24",
-        "matchCount": "26",
-        "matchLink": "4538737",
-        "status": "Pending",
-        "predictedScore": "0-1",
-        "predictedScoreText": "9/63",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "24.11.2026 10:40",
-        "patternScore": 68.46,
-        "patternText": "216.393/316.094",
-        "patternInfo": {
-            "m": 58,
-            "s": 8,
-            "f": 3,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 68
     },
     {
         "date": "24.11.2026 07:45",
@@ -18148,5 +18088,65 @@
             "b": 100.0
         },
         "aiScore": 68
+    },
+    {
+        "date": "24.11.2026 12:20",
+        "league": "SUUD1",
+        "matchCode": "4538737",
+        "home": "Al Orubah Club",
+        "away": "Al Najma",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "74.6",
+        "odds": "1.10",
+        "matchCount": "63",
+        "matchLink": "4538737",
+        "status": "Pending",
+        "predictedScore": "0-1",
+        "predictedScoreText": "9/63",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "24.11.2026 10:40",
+        "patternScore": 71.01,
+        "patternText": "278.693/392.464",
+        "patternInfo": {
+            "m": 67,
+            "s": 14,
+            "f": 5,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 95
+    },
+    {
+        "date": "24.11.2026 15:00",
+        "league": "UEGL",
+        "matchCode": "4560724",
+        "home": "Real Madrid U18",
+        "away": "PSV U21",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "100.0",
+        "odds": "1.07",
+        "matchCount": "1",
+        "matchLink": "4560724",
+        "status": "Pending",
+        "predictedScore": "4-3",
+        "predictedScoreText": "1/1",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "24.11.2026 10:42",
+        "patternScore": 58.2,
+        "patternText": "230.850/396.673",
+        "patternInfo": {
+            "m": 76,
+            "s": 1,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 78
     }
 ]
