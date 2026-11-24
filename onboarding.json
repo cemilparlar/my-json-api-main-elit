@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 15:13",
+  "updatedAt": "24.11.2026 15:24",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 182,
+      "won": 181,
       "lost": 98,
-      "total": 280,
-      "rate": 65.0
+      "total": 279,
+      "rate": 64.9
     },
-    "totalAnalyses": 778595,
+    "totalAnalyses": 778604,
     "leagues": 285,
     "pro": {
       "won": 1542,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1355,
-    "analyses30d": 16323
+    "analyses24h": 1348,
+    "analyses30d": 16311
   },
   "recentWins": [
     {
@@ -258,7 +258,7 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 14:12",
+      "at": "24.11.2026 15:23",
       "home": "Port Vale",
       "away": "Northampton Town"
     },
@@ -301,7 +301,7 @@
     "matchCode": "4534806",
     "odds": 1.88,
     "patternScore": 66.75,
-    "patternText": "219.845/329.349",
+    "patternText": "219.845/329.351",
     "aiScore": 51,
     "picks": 8
   },
@@ -314,7 +314,7 @@
       "matchCode": "4534806",
       "odds": 1.88,
       "patternScore": 66.75,
-      "patternText": "219.845/329.349",
+      "patternText": "219.845/329.351",
       "aiScore": 51,
       "picks": 8
     },
@@ -326,7 +326,7 @@
       "matchCode": "4540472",
       "odds": 1.85,
       "patternScore": 66.53,
-      "patternText": "145.475/218.671",
+      "patternText": "145.475/218.673",
       "aiScore": 52,
       "picks": 4
     },
@@ -338,7 +338,7 @@
       "matchCode": "4488874",
       "odds": 1.82,
       "patternScore": 67.11,
-      "patternText": "218.866/326.151",
+      "patternText": "218.866/326.153",
       "aiScore": 53,
       "picks": 3
     },
@@ -350,7 +350,7 @@
       "matchCode": "4581715",
       "odds": 1.64,
       "patternScore": 68.01,
-      "patternText": "218.171/320.806",
+      "patternText": "218.171/320.808",
       "aiScore": 54,
       "picks": 3
     },
@@ -362,12 +362,26 @@
       "matchCode": "4540496",
       "odds": 1.57,
       "patternScore": 66.86,
-      "patternText": "219.162/327.812",
+      "patternText": "219.162/327.814",
       "aiScore": 53,
       "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Charlton Athletic",
+      "away": "Lincoln City",
+      "league": "İNCL",
+      "at": "24.11.2026 15:24",
+      "count": 4
+    },
+    {
+      "home": "Cardiff City",
+      "away": "Preston North End",
+      "league": "İNCL",
+      "at": "24.11.2026 15:22",
+      "count": 3
+    },
     {
       "home": "Middlesbrough",
       "away": "Swansea",
@@ -411,13 +425,6 @@
       "count": 9
     },
     {
-      "home": "Charlton Athletic",
-      "away": "Lincoln City",
-      "league": "İNCL",
-      "at": "24.11.2026 14:16",
-      "count": 4
-    },
-    {
       "home": "Bristol City",
       "away": "Wrexham AFC",
       "league": "İNCL",
@@ -429,13 +436,6 @@
       "away": "West Ham United",
       "league": "İNCL",
       "at": "24.11.2026 14:05",
-      "count": 5
-    },
-    {
-      "home": "Sheffield United",
-      "away": "Southam",
-      "league": "İNCL",
-      "at": "24.11.2026 14:04",
       "count": 5
     }
   ],
