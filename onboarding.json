@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 23:09",
+  "updatedAt": "24.11.2026 23:17",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 324,
-      "lost": 189,
-      "total": 513,
-      "rate": 63.2
+      "won": 325,
+      "lost": 192,
+      "total": 517,
+      "rate": 62.9
     },
-    "totalAnalyses": 778952,
+    "totalAnalyses": 778956,
     "leagues": 282,
     "pro": {
-      "won": 1622,
-      "lost": 622,
-      "total": 2244,
+      "won": 1623,
+      "lost": 623,
+      "total": 2246,
       "rate": 72.3
     },
     "insights": {
-      "won": 2706,
-      "lost": 1126,
-      "total": 3832,
+      "won": 2707,
+      "lost": 1129,
+      "total": 3836,
       "rate": 70.6
     },
     "coupons": {
@@ -48,7 +48,7 @@
       "rate": 35.3
     },
     "analyses24h": 1143,
-    "analyses30d": 15787
+    "analyses30d": 15784
   },
   "recentWins": [
     {
@@ -323,30 +323,18 @@
     }
   ],
   "today": {
-    "home": "Giravanz Kitakyushu",
-    "away": "Zweigen Kanazaw",
-    "league": "JAP3",
-    "date": "25.11.2026 05:00",
-    "matchCode": "4488075",
-    "odds": 1.19,
-    "patternScore": 69.87,
-    "patternText": "188.951/270.437",
-    "aiScore": 74,
+    "home": "America de Cali",
+    "away": "Deportivo Cali",
+    "league": "KOL",
+    "date": "25.11.2026 01:30",
+    "matchCode": "4580968",
+    "odds": 1.15,
+    "patternScore": 69.96,
+    "patternText": "246.379/352.170",
+    "aiScore": 76,
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "Giravanz Kitakyushu",
-      "away": "Zweigen Kanazaw",
-      "league": "JAP3",
-      "date": "25.11.2026 05:00",
-      "matchCode": "4488075",
-      "odds": 1.19,
-      "patternScore": 69.87,
-      "patternText": "188.951/270.437",
-      "aiScore": 74,
-      "picks": 2
-    },
     {
       "home": "America de Cali",
       "away": "Deportivo Cali",
@@ -355,7 +343,7 @@
       "matchCode": "4580968",
       "odds": 1.15,
       "patternScore": 69.96,
-      "patternText": "246.373/352.162",
+      "patternText": "246.379/352.170",
       "aiScore": 76,
       "picks": 2
     },
@@ -367,9 +355,21 @@
       "matchCode": "4488076",
       "odds": 1.13,
       "patternScore": 72.04,
-      "patternText": "140.385/194.868",
+      "patternText": "140.389/194.872",
       "aiScore": 98,
       "picks": 1
+    },
+    {
+      "home": "Giravanz Kitakyushu",
+      "away": "Zweigen Kanazaw",
+      "league": "JAP3",
+      "date": "25.11.2026 05:00",
+      "matchCode": "4488075",
+      "odds": 1.13,
+      "patternScore": 69.7,
+      "patternText": "188.413/270.333",
+      "aiScore": 79,
+      "picks": 2
     },
     {
       "home": "San Jose Earthquakes",
@@ -379,7 +379,7 @@
       "matchCode": "4579792",
       "odds": 1.09,
       "patternScore": 71.29,
-      "patternText": "88.045/123.498",
+      "patternText": "88.045/123.504",
       "aiScore": 100,
       "picks": 3
     },
@@ -391,7 +391,7 @@
       "matchCode": "4550100",
       "odds": 1.57,
       "patternScore": 67.3,
-      "patternText": "125.028/185.787",
+      "patternText": "125.030/185.789",
       "aiScore": 55,
       "picks": 5
     }
