@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 18:56",
+  "updatedAt": "24.11.2026 19:06",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 157,
-      "lost": 82,
-      "total": 239,
-      "rate": 65.7
+      "won": 140,
+      "lost": 71,
+      "total": 211,
+      "rate": 66.4
     },
-    "totalAnalyses": 778848,
+    "totalAnalyses": 778867,
     "leagues": 283,
     "pro": {
-      "won": 1553,
+      "won": 1550,
       "lost": 576,
-      "total": 2129,
+      "total": 2126,
       "rate": 72.9
     },
     "insights": {
-      "won": 2575,
-      "lost": 1053,
-      "total": 3628,
-      "rate": 71.0
+      "won": 2563,
+      "lost": 1050,
+      "total": 3613,
+      "rate": 70.9
     },
     "coupons": {
       "won": 6,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1266,
-    "analyses30d": 15972
+    "analyses24h": 1222,
+    "analyses30d": 15931
   },
   "recentWins": [
     {
@@ -151,35 +151,6 @@
           "finalScore": "0 - 2"
         }
       ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.52,
-      "winChance": 51.94,
-      "completedAt": "22.11.2026 19:05",
-      "legs": [
-        {
-          "home": "Cultural Guarn",
-          "away": "Tropezon",
-          "prediction": "Double Chance 12",
-          "odds": 1.13,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "Las Rozas",
-          "away": "Siello Nuevo Bo",
-          "prediction": "Match Result 1",
-          "odds": 1.15,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Illescas",
-          "away": "Toledo",
-          "prediction": "Double Chance 12",
-          "odds": 1.17,
-          "finalScore": null
-        }
-      ]
     }
   ],
   "ticker": [
@@ -273,7 +244,7 @@
     "odds": 1.64,
     "patternScore": 68.01,
     "patternText": "218.345/321.060",
-    "aiScore": 54,
+    "aiScore": 53,
     "picks": 3
   },
   "todayList": [
@@ -286,7 +257,7 @@
       "odds": 1.64,
       "patternScore": 68.01,
       "patternText": "218.345/321.060",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 3
     },
     {
@@ -310,8 +281,20 @@
       "odds": 1.54,
       "patternScore": 67.87,
       "patternText": "230.798/340.034",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 5
+    },
+    {
+      "home": "Bromley",
+      "away": "Wycombe Wanderers",
+      "league": "İN1",
+      "date": "24.11.2026 19:45",
+      "matchCode": "4489332",
+      "odds": 1.46,
+      "patternScore": 68.27,
+      "patternText": "120.147/175.993",
+      "aiScore": 54,
+      "picks": 4
     },
     {
       "home": "Chapecoense AF",
@@ -324,34 +307,43 @@
       "patternText": "116.903/171.506",
       "aiScore": 56,
       "picks": 7
-    },
-    {
-      "home": "Bromley",
-      "away": "Wycombe Wanderers",
-      "league": "İN1",
-      "date": "24.11.2026 19:45",
-      "matchCode": "4489332",
-      "odds": 1.38,
-      "patternScore": 69.63,
-      "patternText": "152.660/219.249",
-      "aiScore": 59,
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Charlton Athletic",
+      "away": "Lincoln City",
+      "league": "İNCL",
+      "at": "24.11.2026 19:06",
+      "count": 8
+    },
+    {
+      "home": "Middlesbrough",
+      "away": "Swansea",
+      "league": "İNCL",
+      "at": "24.11.2026 19:06",
+      "count": 4
+    },
+    {
+      "home": "Portsmouth",
+      "away": "West Ham United",
+      "league": "İNCL",
+      "at": "24.11.2026 18:57",
+      "count": 5
+    },
+    {
+      "home": "Sheffield United",
+      "away": "Southam",
+      "league": "İNCL",
+      "at": "24.11.2026 18:57",
+      "count": 3
+    },
     {
       "home": "Manchester City",
       "away": "SSC Napoli",
       "league": "ŞMP",
       "at": "24.11.2026 18:40",
       "count": 14
-    },
-    {
-      "home": "Middlesbrough",
-      "away": "Swansea",
-      "league": "İNCL",
-      "at": "24.11.2026 18:38",
-      "count": 4
     },
     {
       "home": "Arsenal",
@@ -375,13 +367,6 @@
       "count": 9
     },
     {
-      "home": "Portsmouth",
-      "away": "West Ham United",
-      "league": "İNCL",
-      "at": "24.11.2026 17:57",
-      "count": 14
-    },
-    {
       "home": "Cardiff City",
       "away": "Preston North End",
       "league": "İNCL",
@@ -394,20 +379,6 @@
       "league": "İTB",
       "at": "24.11.2026 17:21",
       "count": 3
-    },
-    {
-      "home": "Norwich City",
-      "away": "Queens Park Rangers",
-      "league": "İNCL",
-      "at": "24.11.2026 17:04",
-      "count": 8
-    },
-    {
-      "home": "LR Vicenza",
-      "away": "Carrarese Calcio",
-      "league": "İTB",
-      "at": "24.11.2026 16:43",
-      "count": 7
     }
   ],
   "paywall": {
