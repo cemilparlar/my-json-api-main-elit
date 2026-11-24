@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 14:46",
+  "updatedAt": "24.11.2026 14:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 267,
       "rate": 65.9
     },
-    "totalAnalyses": 778488,
+    "totalAnalyses": 778565,
     "leagues": 285,
     "pro": {
       "won": 1535,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1343,
-    "analyses30d": 16367
+    "analyses24h": 1364,
+    "analyses30d": 16388
   },
   "recentWins": [
     {
@@ -252,7 +252,7 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 14:10",
+      "at": "24.11.2026 14:51",
       "home": "Crawley Town",
       "away": "Barnet"
     },
@@ -261,12 +261,6 @@
       "at": "24.11.2026 14:12",
       "home": "Port Vale",
       "away": "Northampton Town"
-    },
-    {
-      "type": "updated",
-      "at": "24.11.2026 08:52",
-      "home": "Kyoto Sanga FC",
-      "away": "Pohang Steelers"
     },
     {
       "type": "updated",
@@ -291,6 +285,12 @@
       "at": "24.11.2026 14:38",
       "home": "Al Ahli Dubai",
       "away": "Al Qadsiah"
+    },
+    {
+      "type": "updated",
+      "at": "24.11.2026 13:23",
+      "home": "Galatasaray",
+      "away": "Aston Villa"
     }
   ],
   "today": {
@@ -301,7 +301,7 @@
     "matchCode": "4540472",
     "odds": 1.85,
     "patternScore": 66.52,
-    "patternText": "145.411/218.583",
+    "patternText": "145.415/218.593",
     "aiScore": 52,
     "picks": 4
   },
@@ -314,7 +314,7 @@
       "matchCode": "4540472",
       "odds": 1.85,
       "patternScore": 66.52,
-      "patternText": "145.411/218.583",
+      "patternText": "145.415/218.593",
       "aiScore": 52,
       "picks": 4
     },
@@ -326,21 +326,9 @@
       "matchCode": "4488874",
       "odds": 1.82,
       "patternScore": 67.1,
-      "patternText": "218.790/326.047",
+      "patternText": "218.802/326.061",
       "aiScore": 53,
       "picks": 3
-    },
-    {
-      "home": "Ipswich Town U21",
-      "away": "Bromley U21",
-      "league": "İNPLK",
-      "date": "24.11.2026 19:00",
-      "matchCode": "4540496",
-      "odds": 1.75,
-      "patternScore": 67.11,
-      "patternText": "218.000/324.820",
-      "aiScore": 52,
-      "picks": 5
     },
     {
       "home": "Livingston",
@@ -349,10 +337,22 @@
       "date": "24.11.2026 19:45",
       "matchCode": "4581715",
       "odds": 1.64,
-      "patternScore": 68.0,
-      "patternText": "218.087/320.694",
+      "patternScore": 68.01,
+      "patternText": "218.099/320.708",
       "aiScore": 54,
       "picks": 3
+    },
+    {
+      "home": "Ipswich Town U21",
+      "away": "Bromley U21",
+      "league": "İNPLK",
+      "date": "24.11.2026 19:00",
+      "matchCode": "4540496",
+      "odds": 1.57,
+      "patternScore": 66.85,
+      "patternText": "219.098/327.722",
+      "aiScore": 53,
+      "picks": 4
     },
     {
       "home": "Carlisle United",
@@ -362,12 +362,40 @@
       "matchCode": "4515052",
       "odds": 1.54,
       "patternScore": 67.87,
-      "patternText": "230.532/339.652",
+      "patternText": "230.552/339.674",
       "aiScore": 54,
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Wolverhampton Wanderers",
+      "away": "Derby County",
+      "league": "İNCL",
+      "at": "24.11.2026 14:53",
+      "count": 16
+    },
+    {
+      "home": "Feyenoord",
+      "away": "FC Porto",
+      "league": "ŞMP",
+      "at": "24.11.2026 14:52",
+      "count": 6
+    },
+    {
+      "home": "Arsenal",
+      "away": "Borussia Dortmund",
+      "league": "ŞMP",
+      "at": "24.11.2026 14:52",
+      "count": 4
+    },
+    {
+      "home": "Virtus Entella",
+      "away": "Verona",
+      "league": "İTB",
+      "at": "24.11.2026 14:48",
+      "count": 9
+    },
     {
       "home": "Norwich City",
       "away": "Queens Park Rangers",
@@ -409,34 +437,6 @@
       "league": "İNCL",
       "at": "24.11.2026 14:03",
       "count": 9
-    },
-    {
-      "home": "LR Vicenza",
-      "away": "Carrarese Calcio",
-      "league": "İTB",
-      "at": "24.11.2026 13:57",
-      "count": 5
-    },
-    {
-      "home": "SS Juve Stabia",
-      "away": "US Catanzaro",
-      "league": "İTB",
-      "at": "24.11.2026 13:56",
-      "count": 6
-    },
-    {
-      "home": "Galatasaray",
-      "away": "Aston Villa",
-      "league": "ŞMP",
-      "at": "24.11.2026 13:23",
-      "count": 6
-    },
-    {
-      "home": "Virtus Entella",
-      "away": "Verona",
-      "league": "İTB",
-      "at": "24.11.2026 13:06",
-      "count": 3
     }
   ],
   "paywall": {
