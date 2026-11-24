@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 04:02",
+  "updatedAt": "24.11.2026 04:10",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 173,
-      "lost": 92,
-      "total": 265,
-      "rate": 65.3
+      "won": 176,
+      "lost": 96,
+      "total": 272,
+      "rate": 64.7
     },
-    "totalAnalyses": 777637,
+    "totalAnalyses": 777643,
     "leagues": 287,
     "pro": {
-      "won": 1534,
-      "lost": 576,
-      "total": 2110,
-      "rate": 72.7
+      "won": 1537,
+      "lost": 580,
+      "total": 2117,
+      "rate": 72.6
     },
     "insights": {
-      "won": 2581,
-      "lost": 1070,
-      "total": 3651,
-      "rate": 70.7
+      "won": 2584,
+      "lost": 1074,
+      "total": 3658,
+      "rate": 70.6
     },
     "coupons": {
       "won": 6,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1176,
-    "analyses30d": 17136
+    "analyses24h": 1174,
+    "analyses30d": 17134
   },
   "recentWins": [
     {
@@ -275,13 +275,25 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 03:50",
+      "at": "24.11.2026 04:06",
       "home": "Newcastle Jets",
       "away": "Kashiwa Reysol"
     },
     {
+      "type": "updated",
+      "at": "24.11.2026 04:07",
+      "home": "Kyoto Sanga FC",
+      "away": "Pohang Steelers"
+    },
+    {
+      "type": "updated",
+      "at": "24.11.2026 04:07",
+      "home": "Daejeon Citizen",
+      "away": "Beijing Guoan"
+    },
+    {
       "type": "analysis",
-      "count": 1176
+      "count": 1174
     }
   ],
   "today": {
