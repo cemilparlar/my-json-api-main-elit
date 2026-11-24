@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 14:55",
+  "updatedAt": "24.11.2026 15:04",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 176,
-      "lost": 91,
-      "total": 267,
-      "rate": 65.9
+      "won": 182,
+      "lost": 97,
+      "total": 279,
+      "rate": 65.2
     },
-    "totalAnalyses": 778565,
+    "totalAnalyses": 778593,
     "leagues": 285,
     "pro": {
-      "won": 1535,
-      "lost": 572,
-      "total": 2107,
+      "won": 1542,
+      "lost": 573,
+      "total": 2115,
       "rate": 72.9
     },
     "insights": {
-      "won": 2562,
-      "lost": 1054,
-      "total": 3616,
+      "won": 2567,
+      "lost": 1056,
+      "total": 3623,
       "rate": 70.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1364,
-    "analyses30d": 16388
+    "analyses24h": 1355,
+    "analyses30d": 16328
   },
   "recentWins": [
     {
@@ -80,20 +80,6 @@
       "pro": false
     },
     {
-      "home": "Konyaspor",
-      "away": "Besiktas",
-      "league": "TSL",
-      "date": "22.11.2026 13:00",
-      "prediction": "Over 3.5 Goals",
-      "odds": 2.4,
-      "probability": 100.0,
-      "patternScore": 57.18,
-      "aiScore": 51,
-      "firstHalf": "1 - 2",
-      "finalScore": "2 - 4",
-      "pro": true
-    },
-    {
       "home": "Hull City",
       "away": "Brighton & Hove Albion",
       "league": "İNP",
@@ -120,6 +106,20 @@
       "firstHalf": "1 - 0",
       "finalScore": "2 - 0",
       "pro": false
+    },
+    {
+      "home": "KV Kortrijk",
+      "away": "Union St.G",
+      "league": "BEL",
+      "date": "22.11.2026 15:00",
+      "prediction": "Under 2.5 Goals",
+      "odds": 2.15,
+      "probability": 100.0,
+      "patternScore": 57.37,
+      "aiScore": 51,
+      "firstHalf": "0 - 0",
+      "finalScore": "0 - 1",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -230,19 +230,19 @@
     },
     {
       "type": "won",
-      "home": "Konyaspor",
-      "away": "Besiktas",
-      "prediction": "Over 3.5 Goals",
-      "odds": 2.4,
-      "at": "22.11.2026 13:00"
-    },
-    {
-      "type": "won",
       "home": "Hull City",
       "away": "Brighton & Hove Albion",
       "prediction": "1st Half Result X",
       "odds": 2.29,
       "at": "22.11.2026 14:00"
+    },
+    {
+      "type": "won",
+      "home": "Vancouver Whitecaps",
+      "away": "Salt Lake",
+      "prediction": "Both Teams to Score - No",
+      "odds": 2.17,
+      "at": "23.11.2026 01:30"
     },
     {
       "type": "updated",
@@ -252,7 +252,7 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 14:51",
+      "at": "24.11.2026 14:57",
       "home": "Crawley Town",
       "away": "Barnet"
     },
@@ -282,7 +282,7 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 14:38",
+      "at": "24.11.2026 14:57",
       "home": "Al Ahli Dubai",
       "away": "Al Qadsiah"
     },
@@ -294,18 +294,30 @@
     }
   ],
   "today": {
-    "home": "Sheffield United",
-    "away": "Millwall U21",
-    "league": "İNPLK",
+    "home": "Virtus Entella",
+    "away": "Verona",
+    "league": "İTB",
     "date": "24.11.2026 19:00",
-    "matchCode": "4540472",
-    "odds": 1.85,
-    "patternScore": 66.52,
-    "patternText": "145.415/218.593",
-    "aiScore": 52,
-    "picks": 4
+    "matchCode": "4534806",
+    "odds": 1.88,
+    "patternScore": 66.75,
+    "patternText": "219.777/329.255",
+    "aiScore": 51,
+    "picks": 8
   },
   "todayList": [
+    {
+      "home": "Virtus Entella",
+      "away": "Verona",
+      "league": "İTB",
+      "date": "24.11.2026 19:00",
+      "matchCode": "4534806",
+      "odds": 1.88,
+      "patternScore": 66.75,
+      "patternText": "219.777/329.255",
+      "aiScore": 51,
+      "picks": 8
+    },
     {
       "home": "Sheffield United",
       "away": "Millwall U21",
@@ -353,21 +365,16 @@
       "patternText": "219.098/327.722",
       "aiScore": 53,
       "picks": 4
-    },
-    {
-      "home": "Carlisle United",
-      "away": "Tamworth",
-      "league": "İBSL",
-      "date": "24.11.2026 19:45",
-      "matchCode": "4515052",
-      "odds": 1.54,
-      "patternScore": 67.87,
-      "patternText": "230.552/339.674",
-      "aiScore": 54,
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Middlesbrough",
+      "away": "Swansea",
+      "league": "İNCL",
+      "at": "24.11.2026 14:58",
+      "count": 14
+    },
     {
       "home": "Wolverhampton Wanderers",
       "away": "Derby County",
@@ -430,13 +437,6 @@
       "league": "İNCL",
       "at": "24.11.2026 14:04",
       "count": 5
-    },
-    {
-      "home": "Cardiff City",
-      "away": "Preston North End",
-      "league": "İNCL",
-      "at": "24.11.2026 14:03",
-      "count": 9
     }
   ],
   "paywall": {
