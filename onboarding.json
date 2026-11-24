@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 22:29",
+  "updatedAt": "24.11.2026 22:36",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 311,
-      "lost": 181,
-      "total": 492,
-      "rate": 63.2
+      "won": 309,
+      "lost": 178,
+      "total": 487,
+      "rate": 63.4
     },
-    "totalAnalyses": 778943,
+    "totalAnalyses": 778944,
     "leagues": 282,
     "pro": {
       "won": 1612,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1153,
-    "analyses30d": 15829
+    "analyses24h": 1147,
+    "analyses30d": 15813
   },
   "recentWins": [
     {
@@ -330,7 +330,7 @@
     "matchCode": "4580967",
     "odds": 1.22,
     "patternScore": 68.37,
-    "patternText": "193.015/282.289",
+    "patternText": "193.029/282.313",
     "aiScore": 65,
     "picks": 2
   },
@@ -343,7 +343,7 @@
       "matchCode": "4580967",
       "odds": 1.22,
       "patternScore": 68.37,
-      "patternText": "193.015/282.289",
+      "patternText": "193.029/282.313",
       "aiScore": 65,
       "picks": 2
     },
@@ -355,21 +355,9 @@
       "matchCode": "4580968",
       "odds": 1.15,
       "patternScore": 69.97,
-      "patternText": "246.285/351.986",
+      "patternText": "246.311/352.020",
       "aiScore": 77,
       "picks": 2
-    },
-    {
-      "home": "San Jose Earthquakes",
-      "away": "Houston Dynamo",
-      "league": "ABD",
-      "date": "25.11.2026 03:00",
-      "matchCode": "4579792",
-      "odds": 1.15,
-      "patternScore": 69.1,
-      "patternText": "190.034/275.008",
-      "aiScore": 77,
-      "picks": 5
     },
     {
       "home": "FC Ryukyu",
@@ -379,9 +367,21 @@
       "matchCode": "4488076",
       "odds": 1.13,
       "patternScore": 72.05,
-      "patternText": "140.365/194.808",
+      "patternText": "140.367/194.816",
       "aiScore": 98,
       "picks": 1
+    },
+    {
+      "home": "San Jose Earthquakes",
+      "away": "Houston Dynamo",
+      "league": "ABD",
+      "date": "25.11.2026 03:00",
+      "matchCode": "4579792",
+      "odds": 1.09,
+      "patternScore": 71.3,
+      "patternText": "88.013/123.438",
+      "aiScore": 100,
+      "picks": 3
     },
     {
       "home": "Gamba Osaka",
@@ -391,7 +391,7 @@
       "matchCode": "4550100",
       "odds": 1.57,
       "patternScore": 67.31,
-      "patternText": "125.012/185.737",
+      "patternText": "125.016/185.743",
       "aiScore": 55,
       "picks": 5
     }
