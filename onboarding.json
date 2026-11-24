@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 14:07",
+  "updatedAt": "24.11.2026 14:18",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 164,
-      "lost": 84,
-      "total": 248,
-      "rate": 66.1
+      "won": 174,
+      "lost": 86,
+      "total": 260,
+      "rate": 66.9
     },
-    "totalAnalyses": 778381,
+    "totalAnalyses": 778441,
     "leagues": 285,
     "pro": {
-      "won": 1524,
-      "lost": 568,
-      "total": 2092,
-      "rate": 72.8
+      "won": 1533,
+      "lost": 567,
+      "total": 2100,
+      "rate": 73.0
     },
     "insights": {
-      "won": 2550,
-      "lost": 1052,
-      "total": 3602,
-      "rate": 70.8
+      "won": 2559,
+      "lost": 1049,
+      "total": 3608,
+      "rate": 70.9
     },
     "coupons": {
       "won": 6,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1335,
-    "analyses30d": 16426
+    "analyses24h": 1351,
+    "analyses30d": 16425
   },
   "recentWins": [
     {
@@ -252,6 +252,18 @@
     },
     {
       "type": "updated",
+      "at": "24.11.2026 14:10",
+      "home": "Crawley Town",
+      "away": "Barnet"
+    },
+    {
+      "type": "updated",
+      "at": "24.11.2026 14:12",
+      "home": "Port Vale",
+      "away": "Northampton Town"
+    },
+    {
+      "type": "updated",
       "at": "24.11.2026 08:52",
       "home": "Kyoto Sanga FC",
       "away": "Pohang Steelers"
@@ -279,18 +291,6 @@
       "at": "24.11.2026 12:22",
       "home": "Al Ahli Dubai",
       "away": "Al Qadsiah"
-    },
-    {
-      "type": "updated",
-      "at": "24.11.2026 13:23",
-      "home": "Galatasaray",
-      "away": "Aston Villa"
-    },
-    {
-      "type": "updated",
-      "at": "24.11.2026 13:02",
-      "home": "Al Nassr",
-      "away": "Al Sadd"
     }
   ],
   "today": {
@@ -301,7 +301,7 @@
     "matchCode": "4540472",
     "odds": 1.85,
     "patternScore": 66.53,
-    "patternText": "145.363/218.499",
+    "patternText": "145.365/218.501",
     "aiScore": 52,
     "picks": 4
   },
@@ -314,9 +314,21 @@
       "matchCode": "4540472",
       "odds": 1.85,
       "patternScore": 66.53,
-      "patternText": "145.363/218.499",
+      "patternText": "145.365/218.501",
       "aiScore": 52,
       "picks": 4
+    },
+    {
+      "home": "Cardiff City",
+      "away": "Preston North End",
+      "league": "İNCL",
+      "date": "24.11.2026 19:45",
+      "matchCode": "4488874",
+      "odds": 1.82,
+      "patternScore": 67.11,
+      "patternText": "218.720/325.933",
+      "aiScore": 53,
+      "picks": 3
     },
     {
       "home": "Ipswich Town U21",
@@ -326,7 +338,7 @@
       "matchCode": "4540496",
       "odds": 1.75,
       "patternScore": 67.12,
-      "patternText": "217.924/324.700",
+      "patternText": "217.930/324.706",
       "aiScore": 52,
       "picks": 5
     },
@@ -336,38 +348,40 @@
       "league": "İBSL",
       "date": "24.11.2026 19:45",
       "matchCode": "4515052",
-      "odds": 1.6,
-      "patternScore": 68.48,
-      "patternText": "233.246/340.586",
+      "odds": 1.54,
+      "patternScore": 67.88,
+      "patternText": "230.478/339.562",
       "aiScore": 54,
       "picks": 5
     },
     {
-      "home": "Malvern Town",
-      "away": "Hanworth Villa",
+      "home": "Leatherhead",
+      "away": "Ramsgate",
       "league": "İNGNLP",
       "date": "24.11.2026 19:45",
-      "matchCode": "4518667",
-      "odds": 1.34,
-      "patternScore": 67.64,
-      "patternText": "219.152/324.016",
-      "aiScore": 58,
-      "picks": 1
-    },
-    {
-      "home": "Livingston",
-      "away": "Peterhead",
-      "league": "İKCK",
-      "date": "24.11.2026 19:45",
-      "matchCode": "4581715",
-      "odds": 1.33,
-      "patternScore": 66.56,
-      "patternText": "155.814/234.101",
-      "aiScore": 59,
+      "matchCode": "4518261",
+      "odds": 1.37,
+      "patternScore": 68.05,
+      "patternText": "202.513/297.601",
+      "aiScore": 55,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Charlton Athletic",
+      "away": "Lincoln City",
+      "league": "İNCL",
+      "at": "24.11.2026 14:16",
+      "count": 4
+    },
+    {
+      "home": "Bristol City",
+      "away": "Wrexham AFC",
+      "league": "İNCL",
+      "at": "24.11.2026 14:13",
+      "count": 2
+    },
     {
       "home": "Portsmouth",
       "away": "West Ham United",
@@ -423,20 +437,6 @@
       "league": "İTB",
       "at": "24.11.2026 13:06",
       "count": 7
-    },
-    {
-      "home": "Cesena FC",
-      "away": "Ascoli Calcio",
-      "league": "İTB",
-      "at": "24.11.2026 13:04",
-      "count": 5
-    },
-    {
-      "home": "Palermo FC",
-      "away": "FC Sudtirol",
-      "league": "İTB",
-      "at": "24.11.2026 13:02",
-      "count": 14
     }
   ],
   "paywall": {
