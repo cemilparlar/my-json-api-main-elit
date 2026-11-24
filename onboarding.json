@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 09:32",
+  "updatedAt": "24.11.2026 09:40",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 271,
       "rate": 65.3
     },
-    "totalAnalyses": 777899,
+    "totalAnalyses": 777902,
     "leagues": 288,
     "pro": {
       "won": 1537,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1276,
-    "analyses30d": 17104
+    "analyses24h": 1273,
+    "analyses30d": 17101
   },
   "recentWins": [
     {
@@ -288,9 +288,9 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 09:24",
-      "home": "Daejeon Citizen",
-      "away": "Beijing Guoan"
+      "at": "24.11.2026 09:29",
+      "home": "Zed",
+      "away": "Abu Qair"
     }
   ],
   "today": {
@@ -343,18 +343,6 @@
       "picks": 2
     },
     {
-      "home": "Cand",
-      "away": "Vissel Kobe",
-      "league": "AŞMP",
-      "date": "24.11.2026 12:15",
-      "matchCode": "4550098",
-      "odds": 1.28,
-      "patternScore": 68.42,
-      "patternText": "205.724/300.687",
-      "aiScore": 65,
-      "picks": 3
-    },
-    {
       "home": "Smouha SC",
       "away": "National Bank of Egypt",
       "league": "MSR",
@@ -363,8 +351,20 @@
       "odds": 1.24,
       "patternScore": 68.7,
       "patternText": "203.227/295.800",
-      "aiScore": 66,
+      "aiScore": 67,
       "picks": 1
+    },
+    {
+      "home": "Al Orubah Club",
+      "away": "Al Najma",
+      "league": "SUUD1",
+      "date": "24.11.2026 12:20",
+      "matchCode": "4538737",
+      "odds": 1.24,
+      "patternScore": 68.46,
+      "patternText": "216.389/316.088",
+      "aiScore": 71,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
