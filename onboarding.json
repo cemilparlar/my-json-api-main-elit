@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 01:05",
+  "updatedAt": "24.11.2026 01:13",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 185,
-      "lost": 88,
-      "total": 273,
-      "rate": 67.8
+      "won": 178,
+      "lost": 86,
+      "total": 264,
+      "rate": 67.4
     },
     "totalAnalyses": 777597,
     "leagues": 287,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1186,
-    "analyses30d": 17155
+    "analyses24h": 1177,
+    "analyses30d": 17152
   },
   "recentWins": [
     {
@@ -275,36 +275,6 @@
     },
     {
       "type": "updated",
-      "at": "23.11.2026 19:08",
-      "home": "FC Nantes",
-      "away": "Grenoble Foot"
-    },
-    {
-      "type": "updated",
-      "at": "23.11.2026 19:08",
-      "home": "AC Monza",
-      "away": "ACF Fiorentina"
-    },
-    {
-      "type": "updated",
-      "at": "23.11.2026 19:07",
-      "home": "FC Sochaux",
-      "away": "USL Dunkerque"
-    },
-    {
-      "type": "updated",
-      "at": "23.11.2026 19:08",
-      "home": "Brentford",
-      "away": "Everton"
-    },
-    {
-      "type": "updated",
-      "at": "23.11.2026 19:08",
-      "home": "Levante UD",
-      "away": "Elche CF"
-    },
-    {
-      "type": "updated",
       "at": "23.11.2026 20:48",
       "home": "Botafogo de Futebol e Regatas",
       "away": "Sao Paulo FC"
@@ -320,6 +290,10 @@
       "at": "23.11.2026 21:10",
       "home": "Sport Club Internacional",
       "away": "Vitoria Bahia"
+    },
+    {
+      "type": "analysis",
+      "count": 1177
     }
   ],
   "today": {
