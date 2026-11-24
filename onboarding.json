@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 19:26",
+  "updatedAt": "24.11.2026 19:36",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 140,
-      "lost": 71,
-      "total": 211,
-      "rate": 66.4
+      "won": 132,
+      "lost": 70,
+      "total": 202,
+      "rate": 65.3
     },
-    "totalAnalyses": 778907,
+    "totalAnalyses": 778909,
     "leagues": 283,
     "pro": {
       "won": 1550,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1220,
-    "analyses30d": 15929
+    "analyses24h": 1212,
+    "analyses30d": 15896
   },
   "recentWins": [
     {
@@ -261,30 +261,6 @@
       "picks": 7
     },
     {
-      "home": "Feyenoord",
-      "away": "FC Porto",
-      "league": "ŞMP",
-      "date": "24.11.2026 20:00",
-      "matchCode": "4549480",
-      "odds": 1.28,
-      "patternScore": 68.16,
-      "patternText": "215.117/315.598",
-      "aiScore": 59,
-      "picks": 4
-    },
-    {
-      "home": "Arsenal",
-      "away": "Borussia Dortmund",
-      "league": "ŞMP",
-      "date": "24.11.2026 20:00",
-      "matchCode": "4549479",
-      "odds": 1.07,
-      "patternScore": 70.1,
-      "patternText": "198.552/283.253",
-      "aiScore": 94,
-      "picks": 1
-    },
-    {
       "home": "San Jose Earthquakes",
       "away": "Houston Dynamo",
       "league": "ABD",
@@ -307,6 +283,30 @@
       "patternText": "180.423/258.384",
       "aiScore": 89,
       "picks": 2
+    },
+    {
+      "home": "Giravanz Kitakyushu",
+      "away": "Zweigen Kanazaw",
+      "league": "JAP3",
+      "date": "25.11.2026 05:00",
+      "matchCode": "4488075",
+      "odds": 1.19,
+      "patternScore": 69.86,
+      "patternText": "188.599/269.953",
+      "aiScore": 74,
+      "picks": 2
+    },
+    {
+      "home": "Gamba Osaka",
+      "away": "Port FC",
+      "league": "AŞMP",
+      "date": "25.11.2026 10:00",
+      "matchCode": "4550100",
+      "odds": 1.57,
+      "patternScore": 67.3,
+      "patternText": "124.834/185.489",
+      "aiScore": 55,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
