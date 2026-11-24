@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 11:59",
+  "updatedAt": "24.11.2026 12:07",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 180,
-      "lost": 98,
-      "total": 278,
-      "rate": 64.7
+      "won": 179,
+      "lost": 97,
+      "total": 276,
+      "rate": 64.9
     },
-    "totalAnalyses": 778068,
+    "totalAnalyses": 778073,
     "leagues": 288,
     "pro": {
-      "won": 1539,
-      "lost": 580,
-      "total": 2119,
+      "won": 1532,
+      "lost": 579,
+      "total": 2111,
       "rate": 72.6
     },
     "insights": {
-      "won": 2583,
-      "lost": 1071,
-      "total": 3654,
-      "rate": 70.7
+      "won": 2572,
+      "lost": 1069,
+      "total": 3641,
+      "rate": 70.6
     },
     "coupons": {
       "won": 6,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1286,
-    "analyses30d": 16915
+    "analyses24h": 1282,
+    "analyses30d": 16815
   },
   "recentWins": [
     {
@@ -282,15 +282,15 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 06:35",
-      "home": "Fard Alborz",
-      "away": "Pars Jam Busheh"
+      "at": "24.11.2026 12:00",
+      "home": "Galatasaray",
+      "away": "Aston Villa"
     },
     {
       "type": "updated",
-      "at": "24.11.2026 08:13",
-      "home": "FC Akron Togliatti",
-      "away": "CSKA Moscow"
+      "at": "24.11.2026 06:35",
+      "home": "Fard Alborz",
+      "away": "Pars Jam Busheh"
     }
   ],
   "today": {
@@ -301,7 +301,7 @@
     "matchCode": "4560722",
     "odds": 1.63,
     "patternScore": 68.1,
-    "patternText": "213.764/313.889",
+    "patternText": "213.792/313.959",
     "aiScore": 54,
     "picks": 5
   },
@@ -314,7 +314,7 @@
       "matchCode": "4560722",
       "odds": 1.63,
       "patternScore": 68.1,
-      "patternText": "213.764/313.889",
+      "patternText": "213.792/313.959",
       "aiScore": 54,
       "picks": 5
     },
@@ -325,8 +325,8 @@
       "date": "24.11.2026 17:00",
       "matchCode": "4552626",
       "odds": 1.32,
-      "patternScore": 67.88,
-      "patternText": "194.306/286.268",
+      "patternScore": 67.87,
+      "patternText": "194.326/286.304",
       "aiScore": 57,
       "picks": 2
     },
@@ -337,21 +337,21 @@
       "date": "24.11.2026 13:45",
       "matchCode": "4550010",
       "odds": 1.31,
-      "patternScore": 67.93,
-      "patternText": "200.003/294.434",
+      "patternScore": 67.92,
+      "patternText": "200.023/294.478",
       "aiScore": 58,
       "picks": 3
     },
     {
-      "home": "Fratria",
-      "away": "Yantra 1919",
-      "league": "BULB",
-      "date": "24.11.2026 16:00",
-      "matchCode": "4505915",
-      "odds": 1.31,
-      "patternScore": 68.8,
-      "patternText": "200.932/292.036",
-      "aiScore": 68,
+      "home": "Al Masry",
+      "away": "Asyut Petroleum",
+      "league": "MSR",
+      "date": "24.11.2026 18:00",
+      "matchCode": "4537890",
+      "odds": 1.3,
+      "patternScore": 66.89,
+      "patternText": "156.277/233.640",
+      "aiScore": 61,
       "picks": 2
     },
     {
@@ -362,12 +362,19 @@
       "matchCode": "4550164",
       "odds": 1.28,
       "patternScore": 68.56,
-      "patternText": "207.450/302.562",
-      "aiScore": 67,
+      "patternText": "207.498/302.654",
+      "aiScore": 66,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Galatasaray",
+      "away": "Aston Villa",
+      "league": "ŞMP",
+      "at": "24.11.2026 12:00",
+      "count": 6
+    },
     {
       "home": "Manchester City",
       "away": "SSC Napoli",
@@ -428,13 +435,6 @@
       "home": "AC Monza",
       "away": "ACF Fiorentina",
       "league": "İTA",
-      "at": "23.11.2026 19:08",
-      "count": 7
-    },
-    {
-      "home": "Brentford",
-      "away": "Everton",
-      "league": "İNP",
       "at": "23.11.2026 19:08",
       "count": 7
     }
