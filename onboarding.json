@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 18:31",
+  "updatedAt": "24.11.2026 18:39",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 156,
-      "lost": 80,
-      "total": 236,
-      "rate": 66.1
+      "won": 157,
+      "lost": 82,
+      "total": 239,
+      "rate": 65.7
     },
-    "totalAnalyses": 778798,
+    "totalAnalyses": 778809,
     "leagues": 283,
     "pro": {
-      "won": 1552,
+      "won": 1553,
       "lost": 576,
-      "total": 2128,
+      "total": 2129,
       "rate": 72.9
     },
     "insights": {
-      "won": 2574,
+      "won": 2575,
       "lost": 1053,
-      "total": 3627,
+      "total": 3628,
       "rate": 71.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1260,
-    "analyses30d": 15994
+    "analyses24h": 1257,
+    "analyses30d": 15991
   },
   "recentWins": [
     {
@@ -340,6 +340,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Middlesbrough",
+      "away": "Swansea",
+      "league": "İNCL",
+      "at": "24.11.2026 18:38",
+      "count": 4
+    },
+    {
       "home": "Arsenal",
       "away": "Borussia Dortmund",
       "league": "ŞMP",
@@ -401,13 +408,6 @@
       "league": "İNCL",
       "at": "24.11.2026 16:27",
       "count": 7
-    },
-    {
-      "home": "Galatasaray",
-      "away": "Aston Villa",
-      "league": "ŞMP",
-      "at": "24.11.2026 16:24",
-      "count": 14
     }
   ],
   "paywall": {
