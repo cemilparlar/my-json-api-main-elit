@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 18:39",
+  "updatedAt": "24.11.2026 18:47",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 239,
       "rate": 65.7
     },
-    "totalAnalyses": 778809,
+    "totalAnalyses": 778841,
     "leagues": 283,
     "pro": {
       "won": 1553,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1257,
-    "analyses30d": 15991
+    "analyses24h": 1265,
+    "analyses30d": 15971
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 3.04,
       "probability": 100.0,
       "patternScore": 55.88,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "1 - 0",
       "pro": false
@@ -217,7 +217,7 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 18:20",
+      "at": "24.11.2026 18:39",
       "home": "Bradford City",
       "away": "Barnsley"
     },
@@ -272,7 +272,7 @@
     "matchCode": "4581715",
     "odds": 1.64,
     "patternScore": 68.01,
-    "patternText": "218.339/321.034",
+    "patternText": "218.345/321.060",
     "aiScore": 53,
     "picks": 3
   },
@@ -285,7 +285,7 @@
       "matchCode": "4581715",
       "odds": 1.64,
       "patternScore": 68.01,
-      "patternText": "218.339/321.034",
+      "patternText": "218.345/321.060",
       "aiScore": 53,
       "picks": 3
     },
@@ -297,7 +297,7 @@
       "matchCode": "4480542",
       "odds": 1.56,
       "patternScore": 67.32,
-      "patternText": "137.552/204.312",
+      "patternText": "137.554/204.326",
       "aiScore": 56,
       "picks": 4
     },
@@ -308,9 +308,9 @@
       "date": "24.11.2026 19:45",
       "matchCode": "4515052",
       "odds": 1.54,
-      "patternScore": 67.88,
-      "patternText": "230.792/340.016",
-      "aiScore": 53,
+      "patternScore": 67.87,
+      "patternText": "230.798/340.034",
+      "aiScore": 54,
       "picks": 5
     },
     {
@@ -321,24 +321,31 @@
       "matchCode": "4423398",
       "odds": 1.41,
       "patternScore": 68.16,
-      "patternText": "116.903/171.504",
+      "patternText": "116.903/171.506",
       "aiScore": 56,
       "picks": 7
     },
     {
-      "home": "Norwich City",
-      "away": "Queens Park Rangers",
-      "league": "İNCL",
+      "home": "Bromley",
+      "away": "Wycombe Wanderers",
+      "league": "İN1",
       "date": "24.11.2026 19:45",
-      "matchCode": "4488877",
-      "odds": 1.37,
-      "patternScore": 67.82,
-      "patternText": "214.319/316.025",
-      "aiScore": 58,
-      "picks": 2
+      "matchCode": "4489332",
+      "odds": 1.38,
+      "patternScore": 69.63,
+      "patternText": "152.660/219.249",
+      "aiScore": 59,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Manchester City",
+      "away": "SSC Napoli",
+      "league": "ŞMP",
+      "at": "24.11.2026 18:40",
+      "count": 14
+    },
     {
       "home": "Middlesbrough",
       "away": "Swansea",
@@ -400,13 +407,6 @@
       "away": "Carrarese Calcio",
       "league": "İTB",
       "at": "24.11.2026 16:43",
-      "count": 7
-    },
-    {
-      "home": "Sheffield United",
-      "away": "Southam",
-      "league": "İNCL",
-      "at": "24.11.2026 16:27",
       "count": 7
     }
   ],
