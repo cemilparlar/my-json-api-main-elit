@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 18:22",
+  "updatedAt": "24.11.2026 18:31",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 158,
-      "lost": 82,
-      "total": 240,
-      "rate": 65.8
+      "won": 156,
+      "lost": 80,
+      "total": 236,
+      "rate": 66.1
     },
     "totalAnalyses": 778798,
     "leagues": 283,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1271,
-    "analyses30d": 16004
+    "analyses24h": 1260,
+    "analyses30d": 15994
   },
   "recentWins": [
     {
@@ -265,42 +265,18 @@
     }
   ],
   "today": {
-    "home": "Sheffield United",
-    "away": "Millwall U21",
-    "league": "İNPLK",
-    "date": "24.11.2026 19:00",
-    "matchCode": "4540472",
-    "odds": 2.19,
-    "patternScore": 66.81,
-    "patternText": "219.177/328.079",
-    "aiScore": 51,
-    "picks": 4
+    "home": "Livingston",
+    "away": "Peterhead",
+    "league": "İKCK",
+    "date": "24.11.2026 19:45",
+    "matchCode": "4581715",
+    "odds": 1.64,
+    "patternScore": 68.01,
+    "patternText": "218.339/321.034",
+    "aiScore": 53,
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Sheffield United",
-      "away": "Millwall U21",
-      "league": "İNPLK",
-      "date": "24.11.2026 19:00",
-      "matchCode": "4540472",
-      "odds": 2.19,
-      "patternScore": 66.81,
-      "patternText": "219.177/328.079",
-      "aiScore": 51,
-      "picks": 4
-    },
-    {
-      "home": "Virtus Entella",
-      "away": "Verona",
-      "league": "İTB",
-      "date": "24.11.2026 19:00",
-      "matchCode": "4534806",
-      "odds": 1.88,
-      "patternScore": 66.76,
-      "patternText": "220.017/329.585",
-      "aiScore": 51,
-      "picks": 8
-    },
     {
       "home": "Livingston",
       "away": "Peterhead",
@@ -312,6 +288,18 @@
       "patternText": "218.339/321.034",
       "aiScore": 53,
       "picks": 3
+    },
+    {
+      "home": "Hibernian",
+      "away": "Dundee",
+      "league": "İKP",
+      "date": "24.11.2026 19:45",
+      "matchCode": "4480542",
+      "odds": 1.56,
+      "patternScore": 67.32,
+      "patternText": "137.552/204.312",
+      "aiScore": 56,
+      "picks": 4
     },
     {
       "home": "Carlisle United",
@@ -336,6 +324,18 @@
       "patternText": "116.903/171.504",
       "aiScore": 56,
       "picks": 7
+    },
+    {
+      "home": "Norwich City",
+      "away": "Queens Park Rangers",
+      "league": "İNCL",
+      "date": "24.11.2026 19:45",
+      "matchCode": "4488877",
+      "odds": 1.37,
+      "patternScore": 67.82,
+      "patternText": "214.319/316.025",
+      "aiScore": 58,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
