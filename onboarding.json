@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 20:47",
+  "updatedAt": "24.11.2026 21:06",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 124,
-      "lost": 72,
-      "total": 196,
-      "rate": 63.3
+      "won": 146,
+      "lost": 81,
+      "total": 227,
+      "rate": 64.3
     },
     "totalAnalyses": 778924,
     "leagues": 282,
     "pro": {
-      "won": 1528,
-      "lost": 573,
-      "total": 2101,
+      "won": 1533,
+      "lost": 575,
+      "total": 2108,
       "rate": 72.7
     },
     "insights": {
-      "won": 2534,
-      "lost": 1044,
-      "total": 3578,
+      "won": 2549,
+      "lost": 1051,
+      "total": 3600,
       "rate": 70.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1161,
-    "analyses30d": 15895
+    "analyses24h": 1160,
+    "analyses30d": 15890
   },
   "recentWins": [
     {
@@ -80,20 +80,6 @@
       "pro": true
     },
     {
-      "home": "Rosario Central",
-      "away": "Gimnasia y Esgrima Mendoza",
-      "league": "ARJ",
-      "date": "22.11.2026 19:00",
-      "prediction": "Handicap (0:2) X",
-      "odds": 3.71,
-      "probability": 80.0,
-      "patternScore": 66.97,
-      "aiScore": 51,
-      "firstHalf": "3 - 0",
-      "finalScore": "3 - 1",
-      "pro": true
-    },
-    {
       "home": "FC Nantes",
       "away": "Grenoble Foot",
       "league": "FR2",
@@ -119,6 +105,20 @@
       "aiScore": 51,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 0",
+      "pro": false
+    },
+    {
+      "home": "Slovan U19",
+      "away": "Real Betis U19",
+      "league": "UEGL",
+      "date": "24.11.2026 13:00",
+      "prediction": "Handicap (2:0) 1",
+      "odds": 1.7,
+      "probability": 100.0,
+      "patternScore": 56.58,
+      "aiScore": 53,
+      "firstHalf": "1 - 2",
+      "finalScore": "1 - 2",
       "pro": false
     }
   ],
@@ -259,19 +259,19 @@
     },
     {
       "type": "won",
-      "home": "Rosario Central",
-      "away": "Gimnasia y Esgrima Mendoza",
-      "prediction": "Handicap (0:2) X",
-      "odds": 3.71,
-      "at": "22.11.2026 19:00"
-    },
-    {
-      "type": "won",
       "home": "FC Nantes",
       "away": "Grenoble Foot",
       "prediction": "Under 1.5 Goals",
       "odds": 3.04,
       "at": "23.11.2026 19:45"
+    },
+    {
+      "type": "won",
+      "home": "Vancouver Whitecaps",
+      "away": "Salt Lake",
+      "prediction": "Both Teams to Score - No",
+      "odds": 2.17,
+      "at": "23.11.2026 01:30"
     },
     {
       "type": "updated",
@@ -281,21 +281,9 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 14:57",
-      "home": "Crawley Town",
-      "away": "Barnet"
-    },
-    {
-      "type": "updated",
       "at": "24.11.2026 17:23",
       "home": "Port Vale",
       "away": "Northampton Town"
-    },
-    {
-      "type": "updated",
-      "at": "24.11.2026 14:57",
-      "home": "Al Ahli Dubai",
-      "away": "Al Qadsiah"
     },
     {
       "type": "updated",
@@ -320,6 +308,18 @@
       "at": "24.11.2026 19:15",
       "home": "RB Leipzig",
       "away": "RC Lens"
+    },
+    {
+      "type": "updated",
+      "at": "24.11.2026 18:21",
+      "home": "Arsenal",
+      "away": "Borussia Dortmund"
+    },
+    {
+      "type": "updated",
+      "at": "24.11.2026 17:21",
+      "home": "Al Masry",
+      "away": "Asyut Petroleum"
     }
   ],
   "today": {
@@ -330,7 +330,7 @@
     "matchCode": "4580967",
     "odds": 1.22,
     "patternScore": 68.37,
-    "patternText": "192.799/281.993",
+    "patternText": "192.801/281.995",
     "aiScore": 67,
     "picks": 2
   },
@@ -343,20 +343,8 @@
       "matchCode": "4580967",
       "odds": 1.22,
       "patternScore": 68.37,
-      "patternText": "192.799/281.993",
+      "patternText": "192.801/281.995",
       "aiScore": 67,
-      "picks": 2
-    },
-    {
-      "home": "America de Cali",
-      "away": "Deportivo Cali",
-      "league": "KOL",
-      "date": "25.11.2026 01:30",
-      "matchCode": "4580968",
-      "odds": 1.15,
-      "patternScore": 69.96,
-      "patternText": "245.945/351.540",
-      "aiScore": 77,
       "picks": 2
     },
     {
@@ -367,7 +355,7 @@
       "matchCode": "4579792",
       "odds": 1.21,
       "patternScore": 70.09,
-      "patternText": "120.074/171.319",
+      "patternText": "120.080/171.325",
       "aiScore": 70,
       "picks": 2
     },
@@ -379,8 +367,20 @@
       "matchCode": "4488076",
       "odds": 1.19,
       "patternScore": 69.83,
-      "patternText": "180.457/258.434",
-      "aiScore": 90,
+      "patternText": "180.459/258.436",
+      "aiScore": 89,
+      "picks": 2
+    },
+    {
+      "home": "America de Cali",
+      "away": "Deportivo Cali",
+      "league": "KOL",
+      "date": "25.11.2026 01:30",
+      "matchCode": "4580968",
+      "odds": 1.15,
+      "patternScore": 69.96,
+      "patternText": "245.947/351.542",
+      "aiScore": 77,
       "picks": 2
     },
     {
@@ -391,7 +391,7 @@
       "matchCode": "4488075",
       "odds": 1.19,
       "patternScore": 69.86,
-      "patternText": "188.633/270.003",
+      "patternText": "188.635/270.005",
       "aiScore": 74,
       "picks": 2
     }
