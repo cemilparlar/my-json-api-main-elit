@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 02:54",
+  "updatedAt": "24.11.2026 03:02",
   "config": {
     "pages": [
       "engine",
@@ -48,7 +48,7 @@
       "rate": 35.3
     },
     "analyses24h": 1176,
-    "analyses30d": 17164
+    "analyses30d": 17158
   },
   "recentWins": [
     {
@@ -291,18 +291,30 @@
     }
   ],
   "today": {
-    "home": "Shanghai Port FC",
-    "away": "Buriram United",
+    "home": "Newcastle Jets",
+    "away": "Kashiwa Reysol",
     "league": "AŞMP",
-    "date": "24.11.2026 12:15",
-    "matchCode": "4550099",
-    "odds": 1.28,
-    "patternScore": 68.86,
-    "patternText": "205.445/298.367",
-    "aiScore": 62,
-    "picks": 4
+    "date": "24.11.2026 07:45",
+    "matchCode": "4550094",
+    "odds": 1.56,
+    "patternScore": 68.49,
+    "patternText": "138.580/202.346",
+    "aiScore": 58,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Newcastle Jets",
+      "away": "Kashiwa Reysol",
+      "league": "AŞMP",
+      "date": "24.11.2026 07:45",
+      "matchCode": "4550094",
+      "odds": 1.56,
+      "patternScore": 68.49,
+      "patternText": "138.580/202.346",
+      "aiScore": 58,
+      "picks": 3
+    },
     {
       "home": "Shanghai Port FC",
       "away": "Buriram United",
@@ -311,9 +323,21 @@
       "matchCode": "4550099",
       "odds": 1.28,
       "patternScore": 68.86,
-      "patternText": "205.445/298.367",
-      "aiScore": 62,
+      "patternText": "205.465/298.387",
+      "aiScore": 61,
       "picks": 4
+    },
+    {
+      "home": "Smouha SC",
+      "away": "National Bank of Egypt",
+      "league": "MSR",
+      "date": "24.11.2026 15:00",
+      "matchCode": "4537889",
+      "odds": 1.24,
+      "patternScore": 68.71,
+      "patternText": "203.197/295.750",
+      "aiScore": 67,
+      "picks": 1
     },
     {
       "home": "Kyoto Sanga FC",
@@ -323,7 +347,7 @@
       "matchCode": "4550095",
       "odds": 1.23,
       "patternScore": 68.87,
-      "patternText": "179.685/260.897",
+      "patternText": "179.705/260.917",
       "aiScore": 64,
       "picks": 4
     },
@@ -334,34 +358,10 @@
       "date": "24.11.2026 12:15",
       "matchCode": "4550097",
       "odds": 1.23,
-      "patternScore": 68.6,
-      "patternText": "198.419/289.228",
+      "patternScore": 68.61,
+      "patternText": "198.439/289.248",
       "aiScore": 67,
       "picks": 2
-    },
-    {
-      "home": "Niroye Zamini",
-      "away": "Havadar",
-      "league": "IRANAZ",
-      "date": "24.11.2026 11:00",
-      "matchCode": "4580290",
-      "odds": 1.18,
-      "patternScore": 68.9,
-      "patternText": "209.403/303.937",
-      "aiScore": 83,
-      "picks": 1
-    },
-    {
-      "home": "Fard Alborz",
-      "away": "Pars Jam Busheh",
-      "league": "IRANAZ",
-      "date": "24.11.2026 11:30",
-      "matchCode": "4580291",
-      "odds": 1.17,
-      "patternScore": 70.6,
-      "patternText": "319.667/452.809",
-      "aiScore": 71,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
