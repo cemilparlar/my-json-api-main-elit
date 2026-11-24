@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 11:07",
+  "updatedAt": "24.11.2026 11:15",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1293,
-    "analyses30d": 16986
+    "analyses24h": 1291,
+    "analyses30d": 16984
   },
   "recentWins": [
     {
@@ -294,18 +294,30 @@
     }
   ],
   "today": {
-    "home": "Cand",
-    "away": "Vissel Kobe",
-    "league": "AŞMP",
-    "date": "24.11.2026 12:15",
-    "matchCode": "4550098",
-    "odds": 1.35,
-    "patternScore": 68.43,
-    "patternText": "190.794/278.835",
-    "aiScore": 59,
-    "picks": 3
+    "home": "Arsenal Fc U19",
+    "away": "Borussia Dortmund U19",
+    "league": "UEGL",
+    "date": "24.11.2026 13:00",
+    "matchCode": "4560722",
+    "odds": 1.71,
+    "patternScore": 68.45,
+    "patternText": "224.620/328.161",
+    "aiScore": 53,
+    "picks": 6
   },
   "todayList": [
+    {
+      "home": "Arsenal Fc U19",
+      "away": "Borussia Dortmund U19",
+      "league": "UEGL",
+      "date": "24.11.2026 13:00",
+      "matchCode": "4560722",
+      "odds": 1.71,
+      "patternScore": 68.45,
+      "patternText": "224.620/328.161",
+      "aiScore": 53,
+      "picks": 6
+    },
     {
       "home": "Cand",
       "away": "Vissel Kobe",
@@ -352,18 +364,6 @@
       "patternScore": 69.07,
       "patternText": "196.337/284.268",
       "aiScore": 68,
-      "picks": 2
-    },
-    {
-      "home": "Bandari FC",
-      "away": "Mathare United",
-      "league": "KEN",
-      "date": "24.11.2026 12:00",
-      "matchCode": "4581414",
-      "odds": 1.29,
-      "patternScore": 69.14,
-      "patternText": "130.116/188.185",
-      "aiScore": 66,
       "picks": 2
     }
   ],
