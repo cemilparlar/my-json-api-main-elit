@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 06:08",
+  "updatedAt": "24.11.2026 06:16",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 271,
       "rate": 65.3
     },
-    "totalAnalyses": 777694,
+    "totalAnalyses": 777705,
     "leagues": 287,
     "pro": {
       "won": 1537,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1190,
-    "analyses30d": 17059
+    "analyses24h": 1193,
+    "analyses30d": 17062
   },
   "recentWins": [
     {
@@ -293,34 +293,72 @@
     },
     {
       "type": "updated",
+      "at": "24.11.2026 06:16",
+      "home": "Cand",
+      "away": "Vissel Kobe"
+    },
+    {
+      "type": "updated",
+      "at": "24.11.2026 06:16",
+      "home": "Ratchaburi Mitr Phol FC",
+      "away": "Johor Darul Tazim"
+    },
+    {
+      "type": "updated",
       "at": "24.11.2026 05:42",
       "home": "Fard Alborz",
       "away": "Pars Jam Busheh"
+    },
+    {
+      "type": "updated",
+      "at": "24.11.2026 06:16",
+      "home": "Al Raed",
+      "away": "Al Akhdoud"
     },
     {
       "type": "kickoff",
       "home": "Newcastle Jets",
       "away": "Kashiwa Reysol",
       "at": "24.11.2026 07:45"
-    },
-    {
-      "type": "analysis",
-      "count": 1190
     }
   ],
   "today": {
-    "home": "Niroye Zamini",
-    "away": "Havadar",
-    "league": "IRANAZ",
-    "date": "24.11.2026 11:00",
-    "matchCode": "4580290",
-    "odds": 1.18,
-    "patternScore": 68.9,
-    "patternText": "209.453/304.007",
-    "aiScore": 83,
-    "picks": 1
+    "home": "Shanghai Port FC",
+    "away": "Buriram United",
+    "league": "AŞMP",
+    "date": "24.11.2026 12:15",
+    "matchCode": "4550099",
+    "odds": 1.28,
+    "patternScore": 68.86,
+    "patternText": "205.495/298.445",
+    "aiScore": 62,
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Shanghai Port FC",
+      "away": "Buriram United",
+      "league": "AŞMP",
+      "date": "24.11.2026 12:15",
+      "matchCode": "4550099",
+      "odds": 1.28,
+      "patternScore": 68.86,
+      "patternText": "205.495/298.445",
+      "aiScore": 62,
+      "picks": 4
+    },
+    {
+      "home": "Ratchaburi Mitr Phol FC",
+      "away": "Johor Darul Tazim",
+      "league": "AŞMP",
+      "date": "24.11.2026 12:15",
+      "matchCode": "4550097",
+      "odds": 1.23,
+      "patternScore": 68.6,
+      "patternText": "198.469/289.298",
+      "aiScore": 67,
+      "picks": 2
+    },
     {
       "home": "Niroye Zamini",
       "away": "Havadar",
@@ -355,30 +393,6 @@
       "patternScore": 70.59,
       "patternText": "266.100/376.964",
       "aiScore": 93,
-      "picks": 1
-    },
-    {
-      "home": "Kyoto Sanga FC",
-      "away": "Pohang Steelers",
-      "league": "AŞMP",
-      "date": "24.11.2026 10:00",
-      "matchCode": "4550095",
-      "odds": 1.09,
-      "patternScore": 71.11,
-      "patternText": "138.838/195.246",
-      "aiScore": 98,
-      "picks": 2
-    },
-    {
-      "home": "Chanthaburi",
-      "away": "Esan Pattaya",
-      "league": "TAY1",
-      "date": "24.11.2026 11:00",
-      "matchCode": "4539384",
-      "odds": 1.08,
-      "patternScore": 71.04,
-      "patternText": "276.716/389.518",
-      "aiScore": 97,
       "picks": 1
     }
   ],
