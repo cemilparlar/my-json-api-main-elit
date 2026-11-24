@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 08:19",
+  "updatedAt": "24.11.2026 08:27",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1250,
-    "analyses30d": 17100
+    "analyses24h": 1249,
+    "analyses30d": 17099
   },
   "recentWins": [
     {
@@ -294,18 +294,30 @@
     }
   ],
   "today": {
-    "home": "Arsenal Fc U19",
-    "away": "Borussia Dortmund U19",
-    "league": "UEGL",
-    "date": "24.11.2026 13:00",
-    "matchCode": "4560722",
-    "odds": 1.33,
-    "patternScore": 69.01,
-    "patternText": "231.974/336.161",
-    "aiScore": 60,
+    "home": "Kyoto Sanga FC",
+    "away": "Pohang Steelers",
+    "league": "AŞMP",
+    "date": "24.11.2026 10:00",
+    "matchCode": "4550095",
+    "odds": 1.35,
+    "patternScore": 68.4,
+    "patternText": "172.147/251.691",
+    "aiScore": 58,
     "picks": 4
   },
   "todayList": [
+    {
+      "home": "Kyoto Sanga FC",
+      "away": "Pohang Steelers",
+      "league": "AŞMP",
+      "date": "24.11.2026 10:00",
+      "matchCode": "4550095",
+      "odds": 1.35,
+      "patternScore": 68.4,
+      "patternText": "172.147/251.691",
+      "aiScore": 58,
+      "picks": 4
+    },
     {
       "home": "Arsenal Fc U19",
       "away": "Borussia Dortmund U19",
@@ -317,18 +329,6 @@
       "patternText": "231.974/336.161",
       "aiScore": 60,
       "picks": 4
-    },
-    {
-      "home": "Daejeon Citizen",
-      "away": "Beijing Guoan",
-      "league": "AŞMP",
-      "date": "24.11.2026 10:00",
-      "matchCode": "4550096",
-      "odds": 1.31,
-      "patternScore": 68.01,
-      "patternText": "202.573/297.848",
-      "aiScore": 57,
-      "picks": 3
     },
     {
       "home": "Al Jabalain",
