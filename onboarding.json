@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 23:01",
+  "updatedAt": "24.11.2026 23:09",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 318,
-      "lost": 184,
-      "total": 502,
-      "rate": 63.3
+      "won": 324,
+      "lost": 189,
+      "total": 513,
+      "rate": 63.2
     },
-    "totalAnalyses": 778945,
+    "totalAnalyses": 778952,
     "leagues": 282,
     "pro": {
-      "won": 1619,
-      "lost": 618,
-      "total": 2237,
-      "rate": 72.4
+      "won": 1622,
+      "lost": 622,
+      "total": 2244,
+      "rate": 72.3
     },
     "insights": {
-      "won": 2702,
-      "lost": 1121,
-      "total": 3823,
-      "rate": 70.7
+      "won": 2706,
+      "lost": 1126,
+      "total": 3832,
+      "rate": 70.6
     },
     "coupons": {
       "won": 6,
@@ -48,7 +48,7 @@
       "rate": 35.3
     },
     "analyses24h": 1143,
-    "analyses30d": 15789
+    "analyses30d": 15787
   },
   "recentWins": [
     {
@@ -287,12 +287,6 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 17:03",
-      "home": "Al Nassr",
-      "away": "Al Sadd"
-    },
-    {
-      "type": "updated",
       "at": "24.11.2026 19:16",
       "home": "Feyenoord",
       "away": "FC Porto"
@@ -320,6 +314,12 @@
       "at": "24.11.2026 17:21",
       "home": "Al Mokawloon A",
       "away": "Al Qanah"
+    },
+    {
+      "type": "updated",
+      "at": "24.11.2026 18:16",
+      "home": "Palermo FC",
+      "away": "FC Sudtirol"
     }
   ],
   "today": {
@@ -330,7 +330,7 @@
     "matchCode": "4488075",
     "odds": 1.19,
     "patternScore": 69.87,
-    "patternText": "188.935/270.405",
+    "patternText": "188.951/270.437",
     "aiScore": 74,
     "picks": 2
   },
@@ -343,7 +343,7 @@
       "matchCode": "4488075",
       "odds": 1.19,
       "patternScore": 69.87,
-      "patternText": "188.935/270.405",
+      "patternText": "188.951/270.437",
       "aiScore": 74,
       "picks": 2
     },
@@ -354,9 +354,9 @@
       "date": "25.11.2026 01:30",
       "matchCode": "4580968",
       "odds": 1.15,
-      "patternScore": 69.97,
-      "patternText": "246.337/352.066",
-      "aiScore": 77,
+      "patternScore": 69.96,
+      "patternText": "246.373/352.162",
+      "aiScore": 76,
       "picks": 2
     },
     {
@@ -366,8 +366,8 @@
       "date": "25.11.2026 03:00",
       "matchCode": "4488076",
       "odds": 1.13,
-      "patternScore": 72.05,
-      "patternText": "140.373/194.828",
+      "patternScore": 72.04,
+      "patternText": "140.385/194.868",
       "aiScore": 98,
       "picks": 1
     },
@@ -378,8 +378,8 @@
       "date": "25.11.2026 03:00",
       "matchCode": "4579792",
       "odds": 1.09,
-      "patternScore": 71.3,
-      "patternText": "88.019/123.446",
+      "patternScore": 71.29,
+      "patternText": "88.045/123.498",
       "aiScore": 100,
       "picks": 3
     },
@@ -390,8 +390,8 @@
       "date": "25.11.2026 10:00",
       "matchCode": "4550100",
       "odds": 1.57,
-      "patternScore": 67.31,
-      "patternText": "125.016/185.745",
+      "patternScore": 67.3,
+      "patternText": "125.028/185.787",
       "aiScore": 55,
       "picks": 5
     }
