@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 00:26",
+  "updatedAt": "24.11.2026 00:34",
   "config": {
     "pages": [
       "engine",
@@ -323,30 +323,18 @@
     }
   ],
   "today": {
-    "home": "St. Louis City SC",
-    "away": "Los Angeles FC",
-    "league": "ABD",
-    "date": "24.11.2026 01:00",
-    "matchCode": "4579791",
-    "odds": 1.4,
-    "patternScore": 68.07,
-    "patternText": "191.290/281.011",
-    "aiScore": 56,
-    "picks": 7
+    "home": "LD Alajuelense",
+    "away": "CS Cartaginés",
+    "league": "KOSTA",
+    "date": "24.11.2026 02:00",
+    "matchCode": "4487118",
+    "odds": 1.14,
+    "patternScore": 70.53,
+    "patternText": "236.583/335.450",
+    "aiScore": 84,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "St. Louis City SC",
-      "away": "Los Angeles FC",
-      "league": "ABD",
-      "date": "24.11.2026 01:00",
-      "matchCode": "4579791",
-      "odds": 1.4,
-      "patternScore": 68.07,
-      "patternText": "191.290/281.011",
-      "aiScore": 56,
-      "picks": 7
-    },
     {
       "home": "LD Alajuelense",
       "away": "CS Cartaginés",
@@ -355,20 +343,8 @@
       "matchCode": "4487118",
       "odds": 1.14,
       "patternScore": 70.53,
-      "patternText": "236.581/335.440",
-      "aiScore": 85,
-      "picks": 1
-    },
-    {
-      "home": "Portmore Unite",
-      "away": "Racing United",
-      "league": "JAM",
-      "date": "24.11.2026 01:00",
-      "matchCode": "4562943",
-      "odds": 1.07,
-      "patternScore": 72.57,
-      "patternText": "149.022/205.346",
-      "aiScore": 98,
+      "patternText": "236.583/335.450",
+      "aiScore": 84,
       "picks": 1
     },
     {
@@ -379,7 +355,7 @@
       "matchCode": "4550099",
       "odds": 1.28,
       "patternScore": 68.87,
-      "patternText": "205.429/298.295",
+      "patternText": "205.431/298.303",
       "aiScore": 61,
       "picks": 4
     },
@@ -391,9 +367,33 @@
       "matchCode": "4550095",
       "odds": 1.23,
       "patternScore": 68.88,
-      "patternText": "179.663/260.821",
+      "patternText": "179.667/260.829",
       "aiScore": 64,
       "picks": 4
+    },
+    {
+      "home": "Ratchaburi Mitr Phol FC",
+      "away": "Johor Darul Tazim",
+      "league": "AŞMP",
+      "date": "24.11.2026 12:15",
+      "matchCode": "4550097",
+      "odds": 1.23,
+      "patternScore": 68.61,
+      "patternText": "198.401/289.160",
+      "aiScore": 67,
+      "picks": 2
+    },
+    {
+      "home": "Newcastle Jets",
+      "away": "Kashiwa Reysol",
+      "league": "AŞMP",
+      "date": "24.11.2026 07:45",
+      "matchCode": "4550094",
+      "odds": 1.21,
+      "patternScore": 68.68,
+      "patternText": "196.493/286.117",
+      "aiScore": 79,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
