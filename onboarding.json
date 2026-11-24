@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 01:44",
+  "updatedAt": "24.11.2026 01:52",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 254,
       "rate": 66.5
     },
-    "totalAnalyses": 777597,
+    "totalAnalyses": 777618,
     "leagues": 287,
     "pro": {
       "won": 1531,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1163,
-    "analyses30d": 17152
+    "analyses24h": 1182,
+    "analyses30d": 17171
   },
   "recentWins": [
     {
@@ -292,23 +292,41 @@
       "away": "Vitoria Bahia"
     },
     {
+      "type": "updated",
+      "at": "24.11.2026 01:51",
+      "home": "Newcastle Jets",
+      "away": "Kashiwa Reysol"
+    },
+    {
       "type": "analysis",
-      "count": 1163
+      "count": 1182
     }
   ],
   "today": {
-    "home": "Shanghai Port FC",
-    "away": "Buriram United",
+    "home": "Newcastle Jets",
+    "away": "Kashiwa Reysol",
     "league": "AŞMP",
-    "date": "24.11.2026 12:15",
-    "matchCode": "4550099",
-    "odds": 1.28,
-    "patternScore": 68.86,
-    "patternText": "205.439/298.345",
-    "aiScore": 61,
-    "picks": 4
+    "date": "24.11.2026 07:45",
+    "matchCode": "4550094",
+    "odds": 1.21,
+    "patternScore": 68.67,
+    "patternText": "196.509/286.183",
+    "aiScore": 79,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "Newcastle Jets",
+      "away": "Kashiwa Reysol",
+      "league": "AŞMP",
+      "date": "24.11.2026 07:45",
+      "matchCode": "4550094",
+      "odds": 1.21,
+      "patternScore": 68.67,
+      "patternText": "196.509/286.183",
+      "aiScore": 79,
+      "picks": 3
+    },
     {
       "home": "Shanghai Port FC",
       "away": "Buriram United",
@@ -346,18 +364,6 @@
       "picks": 2
     },
     {
-      "home": "Newcastle Jets",
-      "away": "Kashiwa Reysol",
-      "league": "AŞMP",
-      "date": "24.11.2026 07:45",
-      "matchCode": "4550094",
-      "odds": 1.21,
-      "patternScore": 68.67,
-      "patternText": "196.509/286.183",
-      "aiScore": 79,
-      "picks": 3
-    },
-    {
       "home": "Niroye Zamini",
       "away": "Havadar",
       "league": "IRANAZ",
@@ -371,6 +377,13 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Inter Escaldes",
+      "away": "FC Copenhagen",
+      "league": "AVKL",
+      "at": "24.11.2026 01:51",
+      "count": 13
+    },
     {
       "home": "FK Bodo/Glimt",
       "away": "LASK Linz",
@@ -433,13 +446,6 @@
       "league": "FR2",
       "at": "23.11.2026 19:07",
       "count": 6
-    },
-    {
-      "home": "FC Santos",
-      "away": "Gremio FBPA",
-      "league": "BR1",
-      "at": "23.11.2026 18:08",
-      "count": 11
     }
   ],
   "paywall": {
