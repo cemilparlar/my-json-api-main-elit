@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 04:42",
+  "updatedAt": "24.11.2026 04:50",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 274,
       "rate": 65.0
     },
-    "totalAnalyses": 777644,
+    "totalAnalyses": 777649,
     "leagues": 287,
     "pro": {
       "won": 1537,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1174,
-    "analyses30d": 17134
+    "analyses24h": 1183,
+    "analyses30d": 17143
   },
   "recentWins": [
     {
@@ -281,7 +281,7 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 04:06",
+      "at": "24.11.2026 04:43",
       "home": "Newcastle Jets",
       "away": "Kashiwa Reysol"
     },
@@ -293,13 +293,19 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 04:07",
+      "at": "24.11.2026 04:43",
       "home": "Daejeon Citizen",
       "away": "Beijing Guoan"
     },
     {
+      "type": "kickoff",
+      "home": "Newcastle Jets",
+      "away": "Kashiwa Reysol",
+      "at": "24.11.2026 07:45"
+    },
+    {
       "type": "analysis",
-      "count": 1174
+      "count": 1183
     }
   ],
   "today": {
