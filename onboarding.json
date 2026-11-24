@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 19:44",
+  "updatedAt": "24.11.2026 19:52",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 145,
-      "lost": 80,
-      "total": 225,
-      "rate": 64.4
+      "won": 122,
+      "lost": 74,
+      "total": 196,
+      "rate": 62.2
     },
     "totalAnalyses": 778919,
     "leagues": 283,
     "pro": {
-      "won": 1553,
-      "lost": 577,
-      "total": 2130,
-      "rate": 72.9
+      "won": 1522,
+      "lost": 571,
+      "total": 2093,
+      "rate": 72.7
     },
     "insights": {
-      "won": 2572,
-      "lost": 1053,
-      "total": 3625,
-      "rate": 71.0
+      "won": 2520,
+      "lost": 1041,
+      "total": 3561,
+      "rate": 70.8
     },
     "coupons": {
       "won": 6,
@@ -47,10 +47,24 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1212,
+    "analyses24h": 1178,
     "analyses30d": 15896
   },
   "recentWins": [
+    {
+      "home": "Galatasaray",
+      "away": "Aston Villa",
+      "league": "ŞMP",
+      "date": "24.11.2026 17:45",
+      "prediction": "Total Goals 0-1",
+      "odds": 4.73,
+      "probability": 75.0,
+      "patternScore": 63.59,
+      "aiScore": 50,
+      "firstHalf": "0 - 0",
+      "finalScore": "1 - 0",
+      "pro": false
+    },
     {
       "home": "Rosario Central",
       "away": "Gimnasia y Esgrima Mendoza",
@@ -60,7 +74,7 @@
       "odds": 3.71,
       "probability": 80.0,
       "patternScore": 66.97,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "3 - 0",
       "finalScore": "3 - 1",
       "pro": true
@@ -106,20 +120,6 @@
       "firstHalf": "1 - 2",
       "finalScore": "1 - 2",
       "pro": false
-    },
-    {
-      "home": "Diosgyor",
-      "away": "",
-      "league": "MAC2",
-      "date": "23.11.2026 18:30",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.68,
-      "probability": 100.0,
-      "patternScore": 56.43,
-      "aiScore": 52,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 1",
-      "pro": true
     }
   ],
   "recentCoupons": [
@@ -156,6 +156,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Galatasaray",
+      "away": "Aston Villa",
+      "prediction": "Total Goals 0-1",
+      "odds": 4.73,
+      "at": "24.11.2026 17:45"
+    },
+    {
+      "type": "won",
       "home": "Rosario Central",
       "away": "Gimnasia y Esgrima Mendoza",
       "prediction": "Handicap (0:2) X",
@@ -177,14 +185,6 @@
       "prediction": "Both Teams to Score - No",
       "odds": 2.17,
       "at": "23.11.2026 01:30"
-    },
-    {
-      "type": "won",
-      "home": "Slovan U19",
-      "away": "Real Betis U19",
-      "prediction": "Handicap (2:0) 1",
-      "odds": 1.7,
-      "at": "24.11.2026 13:00"
     },
     {
       "type": "updated",
@@ -243,7 +243,7 @@
     "matchCode": "4423398",
     "odds": 1.41,
     "patternScore": 68.16,
-    "patternText": "116.903/171.506",
+    "patternText": "116.915/171.524",
     "aiScore": 56,
     "picks": 7
   },
@@ -256,7 +256,7 @@
       "matchCode": "4423398",
       "odds": 1.41,
       "patternScore": 68.16,
-      "patternText": "116.903/171.506",
+      "patternText": "116.915/171.524",
       "aiScore": 56,
       "picks": 7
     },
@@ -268,7 +268,7 @@
       "matchCode": "4580967",
       "odds": 1.22,
       "patternScore": 68.37,
-      "patternText": "192.749/281.929",
+      "patternText": "192.779/281.965",
       "aiScore": 66,
       "picks": 2
     },
@@ -280,7 +280,7 @@
       "matchCode": "4580968",
       "odds": 1.15,
       "patternScore": 69.96,
-      "patternText": "245.877/351.458",
+      "patternText": "245.911/351.498",
       "aiScore": 77,
       "picks": 2
     },
@@ -291,8 +291,8 @@
       "date": "25.11.2026 03:00",
       "matchCode": "4579792",
       "odds": 1.21,
-      "patternScore": 70.09,
-      "patternText": "120.044/171.283",
+      "patternScore": 70.08,
+      "patternText": "120.046/171.287",
       "aiScore": 70,
       "picks": 2
     },
@@ -304,7 +304,7 @@
       "matchCode": "4488076",
       "odds": 1.19,
       "patternScore": 69.83,
-      "patternText": "180.423/258.384",
+      "patternText": "180.443/258.408",
       "aiScore": 89,
       "picks": 2
     }
