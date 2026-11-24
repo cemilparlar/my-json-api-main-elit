@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 16:22",
+  "updatedAt": "24.11.2026 16:33",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 180,
+      "won": 178,
       "lost": 98,
-      "total": 278,
-      "rate": 64.7
+      "total": 276,
+      "rate": 64.5
     },
-    "totalAnalyses": 778669,
+    "totalAnalyses": 778697,
     "leagues": 285,
     "pro": {
       "won": 1542,
@@ -36,9 +36,9 @@
       "rate": 72.9
     },
     "insights": {
-      "won": 2564,
+      "won": 2562,
       "lost": 1051,
-      "total": 3615,
+      "total": 3613,
       "rate": 70.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1334,
-    "analyses30d": 16175
+    "analyses24h": 1345,
+    "analyses30d": 16115
   },
   "recentWins": [
     {
@@ -217,7 +217,7 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 13:58",
+      "at": "24.11.2026 16:32",
       "home": "Bradford City",
       "away": "Barnsley"
     },
@@ -247,13 +247,13 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 16:02",
+      "at": "24.11.2026 16:24",
       "home": "Galatasaray",
       "away": "Aston Villa"
     },
     {
       "type": "updated",
-      "at": "24.11.2026 16:02",
+      "at": "24.11.2026 16:25",
       "home": "Al Nassr",
       "away": "Al Sadd"
     },
@@ -272,7 +272,7 @@
     "matchCode": "4534806",
     "odds": 1.88,
     "patternScore": 66.75,
-    "patternText": "219.883/329.403",
+    "patternText": "219.889/329.409",
     "aiScore": 51,
     "picks": 8
   },
@@ -285,7 +285,7 @@
       "matchCode": "4534806",
       "odds": 1.88,
       "patternScore": 66.75,
-      "patternText": "219.883/329.403",
+      "patternText": "219.889/329.409",
       "aiScore": 51,
       "picks": 8
     },
@@ -297,7 +297,7 @@
       "matchCode": "4540472",
       "odds": 1.85,
       "patternScore": 66.53,
-      "patternText": "145.493/218.701",
+      "patternText": "145.495/218.703",
       "aiScore": 51,
       "picks": 4
     },
@@ -309,7 +309,7 @@
       "matchCode": "4581715",
       "odds": 1.64,
       "patternScore": 68.01,
-      "patternText": "218.209/320.860",
+      "patternText": "218.215/320.866",
       "aiScore": 53,
       "picks": 3
     },
@@ -321,7 +321,7 @@
       "matchCode": "4510611",
       "odds": 1.59,
       "patternScore": 68.42,
-      "patternText": "130.018/190.040",
+      "patternText": "130.020/190.042",
       "aiScore": 54,
       "picks": 1
     },
@@ -332,33 +332,47 @@
       "date": "24.11.2026 19:45",
       "matchCode": "4515052",
       "odds": 1.54,
-      "patternScore": 67.87,
-      "patternText": "230.654/339.822",
+      "patternScore": 67.88,
+      "patternText": "230.660/339.828",
       "aiScore": 53,
       "picks": 5
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Middlesbrough",
-      "away": "Swansea",
+      "home": "Norwich City",
+      "away": "Queens Park Rangers",
       "league": "İNCL",
-      "at": "24.11.2026 16:04",
-      "count": 8
+      "at": "24.11.2026 16:30",
+      "count": 7
+    },
+    {
+      "home": "Sheffield United",
+      "away": "Southam",
+      "league": "İNCL",
+      "at": "24.11.2026 16:27",
+      "count": 7
     },
     {
       "home": "LR Vicenza",
       "away": "Carrarese Calcio",
       "league": "İTB",
-      "at": "24.11.2026 16:03",
-      "count": 5
+      "at": "24.11.2026 16:26",
+      "count": 6
     },
     {
       "home": "Galatasaray",
       "away": "Aston Villa",
       "league": "ŞMP",
-      "at": "24.11.2026 16:02",
-      "count": 7
+      "at": "24.11.2026 16:24",
+      "count": 14
+    },
+    {
+      "home": "Middlesbrough",
+      "away": "Swansea",
+      "league": "İNCL",
+      "at": "24.11.2026 16:04",
+      "count": 8
     },
     {
       "home": "Charlton Athletic",
@@ -394,20 +408,6 @@
       "league": "ŞMP",
       "at": "24.11.2026 14:52",
       "count": 6
-    },
-    {
-      "home": "Arsenal",
-      "away": "Borussia Dortmund",
-      "league": "ŞMP",
-      "at": "24.11.2026 14:52",
-      "count": 4
-    },
-    {
-      "home": "Virtus Entella",
-      "away": "Verona",
-      "league": "İTB",
-      "at": "24.11.2026 14:48",
-      "count": 9
     }
   ],
   "paywall": {
