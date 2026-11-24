@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 19:36",
+  "updatedAt": "24.11.2026 19:44",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 132,
-      "lost": 70,
-      "total": 202,
-      "rate": 65.3
+      "won": 145,
+      "lost": 80,
+      "total": 225,
+      "rate": 64.4
     },
-    "totalAnalyses": 778909,
+    "totalAnalyses": 778919,
     "leagues": 283,
     "pro": {
-      "won": 1550,
-      "lost": 576,
-      "total": 2126,
+      "won": 1553,
+      "lost": 577,
+      "total": 2130,
       "rate": 72.9
     },
     "insights": {
-      "won": 2563,
-      "lost": 1050,
-      "total": 3613,
-      "rate": 70.9
+      "won": 2572,
+      "lost": 1053,
+      "total": 3625,
+      "rate": 71.0
     },
     "coupons": {
       "won": 6,
@@ -261,6 +261,30 @@
       "picks": 7
     },
     {
+      "home": "Los Millionarios",
+      "away": "Atletico Bucaramanga",
+      "league": "KOL",
+      "date": "24.11.2026 23:20",
+      "matchCode": "4580967",
+      "odds": 1.22,
+      "patternScore": 68.37,
+      "patternText": "192.749/281.929",
+      "aiScore": 66,
+      "picks": 2
+    },
+    {
+      "home": "America de Cali",
+      "away": "Deportivo Cali",
+      "league": "KOL",
+      "date": "25.11.2026 01:30",
+      "matchCode": "4580968",
+      "odds": 1.15,
+      "patternScore": 69.96,
+      "patternText": "245.877/351.458",
+      "aiScore": 77,
+      "picks": 2
+    },
+    {
       "home": "San Jose Earthquakes",
       "away": "Houston Dynamo",
       "league": "ABD",
@@ -283,30 +307,6 @@
       "patternText": "180.423/258.384",
       "aiScore": 89,
       "picks": 2
-    },
-    {
-      "home": "Giravanz Kitakyushu",
-      "away": "Zweigen Kanazaw",
-      "league": "JAP3",
-      "date": "25.11.2026 05:00",
-      "matchCode": "4488075",
-      "odds": 1.19,
-      "patternScore": 69.86,
-      "patternText": "188.599/269.953",
-      "aiScore": 74,
-      "picks": 2
-    },
-    {
-      "home": "Gamba Osaka",
-      "away": "Port FC",
-      "league": "AŞMP",
-      "date": "25.11.2026 10:00",
-      "matchCode": "4550100",
-      "odds": 1.57,
-      "patternScore": 67.3,
-      "patternText": "124.834/185.489",
-      "aiScore": 55,
-      "picks": 5
     }
   ],
   "recentAnalyzed": [
