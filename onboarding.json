@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 12:24",
+  "updatedAt": "24.11.2026 12:32",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 179,
+      "won": 178,
       "lost": 97,
-      "total": 276,
-      "rate": 64.9
+      "total": 275,
+      "rate": 64.7
     },
-    "totalAnalyses": 778098,
+    "totalAnalyses": 778099,
     "leagues": 288,
     "pro": {
       "won": 1532,
@@ -36,9 +36,9 @@
       "rate": 72.6
     },
     "insights": {
-      "won": 2572,
-      "lost": 1069,
-      "total": 3641,
+      "won": 2568,
+      "lost": 1068,
+      "total": 3636,
       "rate": 70.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1286,
-    "analyses30d": 16819
+    "analyses24h": 1282,
+    "analyses30d": 16775
   },
   "recentWins": [
     {
@@ -294,30 +294,18 @@
     }
   ],
   "today": {
-    "home": "Arsenal Fc U19",
-    "away": "Borussia Dortmund U19",
-    "league": "UEGL",
-    "date": "24.11.2026 13:00",
-    "matchCode": "4560722",
-    "odds": 1.63,
-    "patternScore": 68.1,
-    "patternText": "213.792/313.959",
-    "aiScore": 54,
-    "picks": 5
+    "home": "Tafic Fc",
+    "away": "Morupule Wander",
+    "league": "BOTS",
+    "date": "24.11.2026 17:00",
+    "matchCode": "4552626",
+    "odds": 1.32,
+    "patternScore": 67.87,
+    "patternText": "194.326/286.304",
+    "aiScore": 56,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Arsenal Fc U19",
-      "away": "Borussia Dortmund U19",
-      "league": "UEGL",
-      "date": "24.11.2026 13:00",
-      "matchCode": "4560722",
-      "odds": 1.63,
-      "patternScore": 68.1,
-      "patternText": "213.792/313.959",
-      "aiScore": 54,
-      "picks": 5
-    },
     {
       "home": "Tafic Fc",
       "away": "Morupule Wander",
@@ -327,7 +315,7 @@
       "odds": 1.32,
       "patternScore": 67.87,
       "patternText": "194.326/286.304",
-      "aiScore": 57,
+      "aiScore": 56,
       "picks": 2
     },
     {
@@ -355,16 +343,28 @@
       "picks": 2
     },
     {
-      "home": "Al Ahli Dubai",
-      "away": "Al Qadsiah",
-      "league": "AŞMP",
-      "date": "24.11.2026 16:00",
-      "matchCode": "4550164",
-      "odds": 1.28,
-      "patternScore": 68.56,
-      "patternText": "207.498/302.654",
-      "aiScore": 66,
-      "picks": 3
+      "home": "Orlando Pirates",
+      "away": "Golden Arrows",
+      "league": "GAFPSL",
+      "date": "24.11.2026 17:30",
+      "matchCode": "4510611",
+      "odds": 1.21,
+      "patternScore": 68.06,
+      "patternText": "219.830/322.982",
+      "aiScore": 67,
+      "picks": 1
+    },
+    {
+      "home": "FC Gagra",
+      "away": "FC Dinamo Tbilisi",
+      "league": "GUR",
+      "date": "24.11.2026 15:00",
+      "matchCode": "4435481",
+      "odds": 1.21,
+      "patternScore": 67.26,
+      "patternText": "155.008/230.463",
+      "aiScore": 74,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
