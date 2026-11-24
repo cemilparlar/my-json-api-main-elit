@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 05:53",
+  "updatedAt": "24.11.2026 06:01",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 178,
+      "won": 177,
       "lost": 94,
-      "total": 272,
-      "rate": 65.4
+      "total": 271,
+      "rate": 65.3
     },
-    "totalAnalyses": 777680,
+    "totalAnalyses": 777690,
     "leagues": 287,
     "pro": {
       "won": 1537,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1188,
-    "analyses30d": 17083
+    "analyses24h": 1190,
+    "analyses30d": 17059
   },
   "recentWins": [
     {
@@ -305,7 +305,7 @@
     },
     {
       "type": "analysis",
-      "count": 1188
+      "count": 1190
     }
   ],
   "today": {
@@ -346,6 +346,18 @@
       "picks": 1
     },
     {
+      "home": "Nakhon Pathom",
+      "away": "Chainat Hornbil",
+      "league": "TAY1",
+      "date": "24.11.2026 12:00",
+      "matchCode": "4539385",
+      "odds": 1.13,
+      "patternScore": 70.59,
+      "patternText": "266.100/376.964",
+      "aiScore": 93,
+      "picks": 1
+    },
+    {
       "home": "Kyoto Sanga FC",
       "away": "Pohang Steelers",
       "league": "AŞMP",
@@ -368,18 +380,6 @@
       "patternText": "276.716/389.518",
       "aiScore": 97,
       "picks": 1
-    },
-    {
-      "home": "Shanghai Port FC",
-      "away": "Buriram United",
-      "league": "AŞMP",
-      "date": "24.11.2026 12:15",
-      "matchCode": "4550099",
-      "odds": 1.28,
-      "patternScore": 68.86,
-      "patternText": "205.495/298.445",
-      "aiScore": 62,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
