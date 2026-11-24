@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 05:45",
+  "updatedAt": "24.11.2026 05:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 272,
       "rate": 65.4
     },
-    "totalAnalyses": 777671,
+    "totalAnalyses": 777680,
     "leagues": 287,
     "pro": {
       "won": 1537,
@@ -298,12 +298,6 @@
       "away": "Pars Jam Busheh"
     },
     {
-      "type": "updated",
-      "at": "24.11.2026 05:41",
-      "home": "Daejeon Citizen",
-      "away": "Beijing Guoan"
-    },
-    {
       "type": "kickoff",
       "home": "Newcastle Jets",
       "away": "Kashiwa Reysol",
@@ -315,42 +309,18 @@
     }
   ],
   "today": {
-    "home": "Daejeon Citizen",
-    "away": "Beijing Guoan",
-    "league": "AŞMP",
-    "date": "24.11.2026 10:00",
-    "matchCode": "4550096",
-    "odds": 1.49,
-    "patternScore": 67.78,
-    "patternText": "174.667/257.686",
-    "aiScore": 54,
-    "picks": 3
+    "home": "Niroye Zamini",
+    "away": "Havadar",
+    "league": "IRANAZ",
+    "date": "24.11.2026 11:00",
+    "matchCode": "4580290",
+    "odds": 1.18,
+    "patternScore": 68.9,
+    "patternText": "209.453/304.007",
+    "aiScore": 82,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Daejeon Citizen",
-      "away": "Beijing Guoan",
-      "league": "AŞMP",
-      "date": "24.11.2026 10:00",
-      "matchCode": "4550096",
-      "odds": 1.49,
-      "patternScore": 67.78,
-      "patternText": "174.667/257.686",
-      "aiScore": 54,
-      "picks": 3
-    },
-    {
-      "home": "Kyoto Sanga FC",
-      "away": "Pohang Steelers",
-      "league": "AŞMP",
-      "date": "24.11.2026 10:00",
-      "matchCode": "4550095",
-      "odds": 1.19,
-      "patternScore": 68.85,
-      "patternText": "109.399/158.905",
-      "aiScore": 67,
-      "picks": 2
-    },
     {
       "home": "Niroye Zamini",
       "away": "Havadar",
@@ -360,7 +330,7 @@
       "odds": 1.18,
       "patternScore": 68.9,
       "patternText": "209.453/304.007",
-      "aiScore": 83,
+      "aiScore": 82,
       "picks": 1
     },
     {
@@ -369,11 +339,23 @@
       "league": "IRANAZ",
       "date": "24.11.2026 11:30",
       "matchCode": "4580291",
-      "odds": 1.17,
-      "patternScore": 70.6,
-      "patternText": "319.769/452.935",
-      "aiScore": 71,
+      "odds": 1.16,
+      "patternScore": 69.52,
+      "patternText": "113.971/163.939",
+      "aiScore": 82,
       "picks": 1
+    },
+    {
+      "home": "Kyoto Sanga FC",
+      "away": "Pohang Steelers",
+      "league": "AŞMP",
+      "date": "24.11.2026 10:00",
+      "matchCode": "4550095",
+      "odds": 1.09,
+      "patternScore": 71.11,
+      "patternText": "138.838/195.246",
+      "aiScore": 98,
+      "picks": 2
     },
     {
       "home": "Chanthaburi",
@@ -386,6 +368,18 @@
       "patternText": "276.716/389.518",
       "aiScore": 97,
       "picks": 1
+    },
+    {
+      "home": "Shanghai Port FC",
+      "away": "Buriram United",
+      "league": "AŞMP",
+      "date": "24.11.2026 12:15",
+      "matchCode": "4550099",
+      "odds": 1.28,
+      "patternScore": 68.86,
+      "patternText": "205.495/298.445",
+      "aiScore": 62,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
