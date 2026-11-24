@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 19:06",
+  "updatedAt": "24.11.2026 19:17",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 211,
       "rate": 66.4
     },
-    "totalAnalyses": 778867,
+    "totalAnalyses": 778896,
     "leagues": 283,
     "pro": {
       "won": 1550,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1222,
-    "analyses30d": 15931
+    "analyses24h": 1226,
+    "analyses30d": 15935
   },
   "recentWins": [
     {
@@ -224,78 +224,30 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 14:52",
+      "at": "24.11.2026 19:16",
       "home": "Feyenoord",
       "away": "FC Porto"
     },
     {
       "type": "updated",
-      "at": "24.11.2026 18:21",
-      "home": "Arsenal",
-      "away": "Borussia Dortmund"
+      "at": "24.11.2026 19:15",
+      "home": "RB Leipzig",
+      "away": "RC Lens"
     }
   ],
   "today": {
-    "home": "Livingston",
-    "away": "Peterhead",
-    "league": "İKCK",
-    "date": "24.11.2026 19:45",
-    "matchCode": "4581715",
-    "odds": 1.64,
-    "patternScore": 68.01,
-    "patternText": "218.345/321.060",
-    "aiScore": 53,
-    "picks": 3
+    "home": "Chapecoense AF",
+    "away": "SE Palmeiras",
+    "league": "BR1",
+    "date": "24.11.2026 21:00",
+    "matchCode": "4423398",
+    "odds": 1.41,
+    "patternScore": 68.16,
+    "patternText": "116.903/171.506",
+    "aiScore": 56,
+    "picks": 7
   },
   "todayList": [
-    {
-      "home": "Livingston",
-      "away": "Peterhead",
-      "league": "İKCK",
-      "date": "24.11.2026 19:45",
-      "matchCode": "4581715",
-      "odds": 1.64,
-      "patternScore": 68.01,
-      "patternText": "218.345/321.060",
-      "aiScore": 53,
-      "picks": 3
-    },
-    {
-      "home": "Hibernian",
-      "away": "Dundee",
-      "league": "İKP",
-      "date": "24.11.2026 19:45",
-      "matchCode": "4480542",
-      "odds": 1.56,
-      "patternScore": 67.32,
-      "patternText": "137.554/204.326",
-      "aiScore": 56,
-      "picks": 4
-    },
-    {
-      "home": "Carlisle United",
-      "away": "Tamworth",
-      "league": "İBSL",
-      "date": "24.11.2026 19:45",
-      "matchCode": "4515052",
-      "odds": 1.54,
-      "patternScore": 67.87,
-      "patternText": "230.798/340.034",
-      "aiScore": 53,
-      "picks": 5
-    },
-    {
-      "home": "Bromley",
-      "away": "Wycombe Wanderers",
-      "league": "İN1",
-      "date": "24.11.2026 19:45",
-      "matchCode": "4489332",
-      "odds": 1.46,
-      "patternScore": 68.27,
-      "patternText": "120.147/175.993",
-      "aiScore": 54,
-      "picks": 4
-    },
     {
       "home": "Chapecoense AF",
       "away": "SE Palmeiras",
@@ -307,9 +259,78 @@
       "patternText": "116.903/171.506",
       "aiScore": 56,
       "picks": 7
+    },
+    {
+      "home": "Feyenoord",
+      "away": "FC Porto",
+      "league": "ŞMP",
+      "date": "24.11.2026 20:00",
+      "matchCode": "4549480",
+      "odds": 1.16,
+      "patternScore": 68.8,
+      "patternText": "134.248/195.127",
+      "aiScore": 77,
+      "picks": 3
+    },
+    {
+      "home": "Arsenal",
+      "away": "Borussia Dortmund",
+      "league": "ŞMP",
+      "date": "24.11.2026 20:00",
+      "matchCode": "4549479",
+      "odds": 1.07,
+      "patternScore": 70.1,
+      "patternText": "198.552/283.253",
+      "aiScore": 94,
+      "picks": 1
+    },
+    {
+      "home": "San Jose Earthquakes",
+      "away": "Houston Dynamo",
+      "league": "ABD",
+      "date": "25.11.2026 03:00",
+      "matchCode": "4579792",
+      "odds": 1.21,
+      "patternScore": 70.09,
+      "patternText": "120.044/171.283",
+      "aiScore": 70,
+      "picks": 2
+    },
+    {
+      "home": "FC Ryukyu",
+      "away": "Roasso Kumamoto",
+      "league": "JAP3",
+      "date": "25.11.2026 03:00",
+      "matchCode": "4488076",
+      "odds": 1.19,
+      "patternScore": 69.83,
+      "patternText": "180.423/258.384",
+      "aiScore": 89,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Feyenoord",
+      "away": "FC Porto",
+      "league": "ŞMP",
+      "at": "24.11.2026 19:16",
+      "count": 8
+    },
+    {
+      "home": "RB Leipzig",
+      "away": "RC Lens",
+      "league": "ŞMP",
+      "at": "24.11.2026 19:15",
+      "count": 17
+    },
+    {
+      "home": "Norwich City",
+      "away": "Queens Park Rangers",
+      "league": "İNCL",
+      "at": "24.11.2026 19:08",
+      "count": 6
+    },
     {
       "home": "Charlton Athletic",
       "away": "Lincoln City",
@@ -358,27 +379,6 @@
       "league": "İTB",
       "at": "24.11.2026 18:17",
       "count": 10
-    },
-    {
-      "home": "Palermo FC",
-      "away": "FC Sudtirol",
-      "league": "İTB",
-      "at": "24.11.2026 18:16",
-      "count": 9
-    },
-    {
-      "home": "Cardiff City",
-      "away": "Preston North End",
-      "league": "İNCL",
-      "at": "24.11.2026 17:22",
-      "count": 2
-    },
-    {
-      "home": "Benevento",
-      "away": "Empoli",
-      "league": "İTB",
-      "at": "24.11.2026 17:21",
-      "count": 3
     }
   ],
   "paywall": {
