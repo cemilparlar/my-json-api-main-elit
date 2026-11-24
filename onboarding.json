@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 06:16",
+  "updatedAt": "24.11.2026 06:24",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1193,
-    "analyses30d": 17062
+    "analyses24h": 1191,
+    "analyses30d": 17060
   },
   "recentWins": [
     {
@@ -305,6 +305,12 @@
     },
     {
       "type": "updated",
+      "at": "24.11.2026 06:17",
+      "home": "Shanghai Port FC",
+      "away": "Buriram United"
+    },
+    {
+      "type": "updated",
       "at": "24.11.2026 05:42",
       "home": "Fard Alborz",
       "away": "Pars Jam Busheh"
@@ -314,51 +320,21 @@
       "at": "24.11.2026 06:16",
       "home": "Al Raed",
       "away": "Al Akhdoud"
-    },
-    {
-      "type": "kickoff",
-      "home": "Newcastle Jets",
-      "away": "Kashiwa Reysol",
-      "at": "24.11.2026 07:45"
     }
   ],
   "today": {
-    "home": "Shanghai Port FC",
-    "away": "Buriram United",
-    "league": "AŞMP",
-    "date": "24.11.2026 12:15",
-    "matchCode": "4550099",
-    "odds": 1.28,
-    "patternScore": 68.86,
-    "patternText": "205.495/298.445",
-    "aiScore": 62,
-    "picks": 4
+    "home": "Niroye Zamini",
+    "away": "Havadar",
+    "league": "IRANAZ",
+    "date": "24.11.2026 11:00",
+    "matchCode": "4580290",
+    "odds": 1.18,
+    "patternScore": 68.9,
+    "patternText": "209.453/304.007",
+    "aiScore": 82,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Shanghai Port FC",
-      "away": "Buriram United",
-      "league": "AŞMP",
-      "date": "24.11.2026 12:15",
-      "matchCode": "4550099",
-      "odds": 1.28,
-      "patternScore": 68.86,
-      "patternText": "205.495/298.445",
-      "aiScore": 62,
-      "picks": 4
-    },
-    {
-      "home": "Ratchaburi Mitr Phol FC",
-      "away": "Johor Darul Tazim",
-      "league": "AŞMP",
-      "date": "24.11.2026 12:15",
-      "matchCode": "4550097",
-      "odds": 1.23,
-      "patternScore": 68.6,
-      "patternText": "198.469/289.298",
-      "aiScore": 67,
-      "picks": 2
-    },
     {
       "home": "Niroye Zamini",
       "away": "Havadar",
@@ -368,7 +344,7 @@
       "odds": 1.18,
       "patternScore": 68.9,
       "patternText": "209.453/304.007",
-      "aiScore": 83,
+      "aiScore": 82,
       "picks": 1
     },
     {
@@ -393,6 +369,30 @@
       "patternScore": 70.59,
       "patternText": "266.100/376.964",
       "aiScore": 93,
+      "picks": 1
+    },
+    {
+      "home": "Shanghai Port FC",
+      "away": "Buriram United",
+      "league": "AŞMP",
+      "date": "24.11.2026 12:15",
+      "matchCode": "4550099",
+      "odds": 1.13,
+      "patternScore": 69.15,
+      "patternText": "196.731/284.487",
+      "aiScore": 76,
+      "picks": 1
+    },
+    {
+      "home": "Al Raed",
+      "away": "Al Akhdoud",
+      "league": "SUUD1",
+      "date": "24.11.2026 12:15",
+      "matchCode": "4538733",
+      "odds": 1.1,
+      "patternScore": 72.06,
+      "patternText": "169.228/234.834",
+      "aiScore": 97,
       "picks": 1
     }
   ],
