@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 22:52",
+  "updatedAt": "24.11.2026 23:01",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 778945,
     "leagues": 282,
     "pro": {
-      "won": 1617,
-      "lost": 616,
-      "total": 2233,
+      "won": 1619,
+      "lost": 618,
+      "total": 2237,
       "rate": 72.4
     },
     "insights": {
-      "won": 2701,
-      "lost": 1119,
-      "total": 3820,
+      "won": 2702,
+      "lost": 1121,
+      "total": 3823,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1147,
-    "analyses30d": 15813
+    "analyses24h": 1143,
+    "analyses30d": 15789
   },
   "recentWins": [
     {
@@ -102,7 +102,7 @@
       "odds": 3.04,
       "probability": 100.0,
       "patternScore": 55.88,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "0 - 0",
       "finalScore": "1 - 0",
       "pro": false
@@ -323,18 +323,30 @@
     }
   ],
   "today": {
-    "home": "America de Cali",
-    "away": "Deportivo Cali",
-    "league": "KOL",
-    "date": "25.11.2026 01:30",
-    "matchCode": "4580968",
-    "odds": 1.15,
-    "patternScore": 69.97,
-    "patternText": "246.325/352.042",
-    "aiScore": 77,
+    "home": "Giravanz Kitakyushu",
+    "away": "Zweigen Kanazaw",
+    "league": "JAP3",
+    "date": "25.11.2026 05:00",
+    "matchCode": "4488075",
+    "odds": 1.19,
+    "patternScore": 69.87,
+    "patternText": "188.935/270.405",
+    "aiScore": 74,
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "Giravanz Kitakyushu",
+      "away": "Zweigen Kanazaw",
+      "league": "JAP3",
+      "date": "25.11.2026 05:00",
+      "matchCode": "4488075",
+      "odds": 1.19,
+      "patternScore": 69.87,
+      "patternText": "188.935/270.405",
+      "aiScore": 74,
+      "picks": 2
+    },
     {
       "home": "America de Cali",
       "away": "Deportivo Cali",
@@ -343,7 +355,7 @@
       "matchCode": "4580968",
       "odds": 1.15,
       "patternScore": 69.97,
-      "patternText": "246.325/352.042",
+      "patternText": "246.337/352.066",
       "aiScore": 77,
       "picks": 2
     },
@@ -355,7 +367,7 @@
       "matchCode": "4488076",
       "odds": 1.13,
       "patternScore": 72.05,
-      "patternText": "140.371/194.822",
+      "patternText": "140.373/194.828",
       "aiScore": 98,
       "picks": 1
     },
@@ -367,7 +379,7 @@
       "matchCode": "4579792",
       "odds": 1.09,
       "patternScore": 71.3,
-      "patternText": "88.015/123.442",
+      "patternText": "88.019/123.446",
       "aiScore": 100,
       "picks": 3
     },
@@ -382,18 +394,6 @@
       "patternText": "125.016/185.745",
       "aiScore": 55,
       "picks": 5
-    },
-    {
-      "home": "FC Tokyo",
-      "away": "Sanfrecce Hiroshima",
-      "league": "JAP",
-      "date": "25.11.2026 10:00",
-      "matchCode": "4487280",
-      "odds": 1.36,
-      "patternScore": 67.9,
-      "patternText": "123.437/181.802",
-      "aiScore": 58,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
