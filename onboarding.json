@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 07:14",
+  "updatedAt": "24.11.2026 07:22",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 271,
       "rate": 65.3
     },
-    "totalAnalyses": 777721,
+    "totalAnalyses": 777722,
     "leagues": 287,
     "pro": {
       "won": 1537,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1197,
-    "analyses30d": 17061
+    "analyses24h": 1198,
+    "analyses30d": 17062
   },
   "recentWins": [
     {
@@ -209,35 +209,6 @@
           "finalScore": "2 - 3"
         }
       ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.52,
-      "winChance": 50.97,
-      "completedAt": "22.11.2026 07:17",
-      "legs": [
-        {
-          "home": "Roasso Kumamoto",
-          "away": "Giravanz Kitakyushu",
-          "prediction": "Double Chance 12",
-          "odds": 1.09,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Tokushima Vortis",
-          "away": "Shonan Bellmare",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.15,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "Gimcheon Sangmu",
-          "away": "Jeju United",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.21,
-          "finalScore": "0 - 1"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -281,7 +252,7 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 06:54",
+      "at": "24.11.2026 07:14",
       "home": "Kyoto Sanga FC",
       "away": "Pohang Steelers"
     },
@@ -372,6 +343,18 @@
       "picks": 2
     },
     {
+      "home": "Kyoto Sanga FC",
+      "away": "Pohang Steelers",
+      "league": "AŞMP",
+      "date": "24.11.2026 10:00",
+      "matchCode": "4550095",
+      "odds": 1.19,
+      "patternScore": 68.92,
+      "patternText": "180.052/261.251",
+      "aiScore": 66,
+      "picks": 3
+    },
+    {
       "home": "Niroye Zamini",
       "away": "Havadar",
       "league": "IRANAZ",
@@ -381,18 +364,6 @@
       "patternScore": 68.9,
       "patternText": "209.453/304.007",
       "aiScore": 83,
-      "picks": 1
-    },
-    {
-      "home": "Fard Alborz",
-      "away": "Pars Jam Busheh",
-      "league": "IRANAZ",
-      "date": "24.11.2026 11:30",
-      "matchCode": "4580291",
-      "odds": 1.18,
-      "patternScore": 70.52,
-      "patternText": "318.351/451.447",
-      "aiScore": 70,
       "picks": 1
     }
   ],
