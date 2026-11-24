@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 18:13",
+  "updatedAt": "24.11.2026 18:22",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 166,
-      "lost": 83,
-      "total": 249,
-      "rate": 66.7
+      "won": 158,
+      "lost": 82,
+      "total": 240,
+      "rate": 65.8
     },
-    "totalAnalyses": 778780,
+    "totalAnalyses": 778798,
     "leagues": 283,
     "pro": {
       "won": 1552,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1276,
-    "analyses30d": 16008
+    "analyses24h": 1271,
+    "analyses30d": 16004
   },
   "recentWins": [
     {
@@ -94,20 +94,6 @@
       "pro": false
     },
     {
-      "home": "FC Lorient",
-      "away": "Stade Rennais",
-      "league": "FR1",
-      "date": "22.11.2026 16:15",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.71,
-      "probability": 75.0,
-      "patternScore": 67.27,
-      "aiScore": 52,
-      "firstHalf": "1 - 1",
-      "finalScore": "1 - 1",
-      "pro": false
-    },
-    {
       "home": "Slovan U19",
       "away": "Real Betis U19",
       "league": "UEGL",
@@ -120,6 +106,20 @@
       "firstHalf": "1 - 2",
       "finalScore": "1 - 2",
       "pro": false
+    },
+    {
+      "home": "Diosgyor",
+      "away": "",
+      "league": "MAC2",
+      "date": "23.11.2026 18:30",
+      "prediction": "Both Teams to Score - Yes",
+      "odds": 1.68,
+      "probability": 100.0,
+      "patternScore": 56.43,
+      "aiScore": 52,
+      "firstHalf": "1 - 0",
+      "finalScore": "2 - 1",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -209,15 +209,15 @@
     },
     {
       "type": "won",
-      "home": "FC Lorient",
-      "away": "Stade Rennais",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.71,
-      "at": "22.11.2026 16:15"
+      "home": "Slovan U19",
+      "away": "Real Betis U19",
+      "prediction": "Handicap (2:0) 1",
+      "odds": 1.7,
+      "at": "24.11.2026 13:00"
     },
     {
       "type": "updated",
-      "at": "24.11.2026 16:32",
+      "at": "24.11.2026 18:20",
       "home": "Bradford City",
       "away": "Barnsley"
     },
@@ -259,7 +259,7 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 14:52",
+      "at": "24.11.2026 18:21",
       "home": "Arsenal",
       "away": "Borussia Dortmund"
     }
@@ -340,6 +340,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Arsenal",
+      "away": "Borussia Dortmund",
+      "league": "ŞMP",
+      "at": "24.11.2026 18:21",
+      "count": 5
+    },
+    {
+      "home": "Virtus Entella",
+      "away": "Verona",
+      "league": "İTB",
+      "at": "24.11.2026 18:17",
+      "count": 10
+    },
+    {
+      "home": "Palermo FC",
+      "away": "FC Sudtirol",
+      "league": "İTB",
+      "at": "24.11.2026 18:16",
+      "count": 9
+    },
+    {
       "home": "Portsmouth",
       "away": "West Ham United",
       "league": "İNCL",
@@ -387,27 +408,6 @@
       "league": "ŞMP",
       "at": "24.11.2026 16:24",
       "count": 14
-    },
-    {
-      "home": "Middlesbrough",
-      "away": "Swansea",
-      "league": "İNCL",
-      "at": "24.11.2026 16:04",
-      "count": 8
-    },
-    {
-      "home": "Charlton Athletic",
-      "away": "Lincoln City",
-      "league": "İNCL",
-      "at": "24.11.2026 15:24",
-      "count": 4
-    },
-    {
-      "home": "Chapecoense AF",
-      "away": "SE Palmeiras",
-      "league": "BR1",
-      "at": "24.11.2026 15:24",
-      "count": 7
     }
   ],
   "paywall": {
