@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 21:06",
+  "updatedAt": "24.11.2026 21:14",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 227,
       "rate": 64.3
     },
-    "totalAnalyses": 778924,
+    "totalAnalyses": 778929,
     "leagues": 282,
     "pro": {
       "won": 1533,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1160,
-    "analyses30d": 15890
+    "analyses24h": 1164,
+    "analyses30d": 15894
   },
   "recentWins": [
     {
@@ -80,6 +80,20 @@
       "pro": true
     },
     {
+      "home": "Palermo FC",
+      "away": "FC Sudtirol",
+      "league": "İTB",
+      "date": "24.11.2026 19:00",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 3.39,
+      "probability": 75.0,
+      "patternScore": 63.77,
+      "aiScore": 51,
+      "firstHalf": "3 - 0",
+      "finalScore": "4 - 1",
+      "pro": false
+    },
+    {
       "home": "FC Nantes",
       "away": "Grenoble Foot",
       "league": "FR2",
@@ -105,20 +119,6 @@
       "aiScore": 51,
       "firstHalf": "1 - 0",
       "finalScore": "2 - 0",
-      "pro": false
-    },
-    {
-      "home": "Slovan U19",
-      "away": "Real Betis U19",
-      "league": "UEGL",
-      "date": "24.11.2026 13:00",
-      "prediction": "Handicap (2:0) 1",
-      "odds": 1.7,
-      "probability": 100.0,
-      "patternScore": 56.58,
-      "aiScore": 53,
-      "firstHalf": "1 - 2",
-      "finalScore": "1 - 2",
       "pro": false
     }
   ],
@@ -259,19 +259,19 @@
     },
     {
       "type": "won",
+      "home": "Palermo FC",
+      "away": "FC Sudtirol",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 3.39,
+      "at": "24.11.2026 19:00"
+    },
+    {
+      "type": "won",
       "home": "FC Nantes",
       "away": "Grenoble Foot",
       "prediction": "Under 1.5 Goals",
       "odds": 3.04,
       "at": "23.11.2026 19:45"
-    },
-    {
-      "type": "won",
-      "home": "Vancouver Whitecaps",
-      "away": "Salt Lake",
-      "prediction": "Both Teams to Score - No",
-      "odds": 2.17,
-      "at": "23.11.2026 01:30"
     },
     {
       "type": "updated",
@@ -330,7 +330,7 @@
     "matchCode": "4580967",
     "odds": 1.22,
     "patternScore": 68.37,
-    "patternText": "192.801/281.995",
+    "patternText": "192.821/282.021",
     "aiScore": 67,
     "picks": 2
   },
@@ -343,7 +343,7 @@
       "matchCode": "4580967",
       "odds": 1.22,
       "patternScore": 68.37,
-      "patternText": "192.801/281.995",
+      "patternText": "192.821/282.021",
       "aiScore": 67,
       "picks": 2
     },
@@ -355,8 +355,8 @@
       "matchCode": "4579792",
       "odds": 1.21,
       "patternScore": 70.09,
-      "patternText": "120.080/171.325",
-      "aiScore": 70,
+      "patternText": "120.092/171.341",
+      "aiScore": 71,
       "picks": 2
     },
     {
@@ -367,7 +367,7 @@
       "matchCode": "4488076",
       "odds": 1.19,
       "patternScore": 69.83,
-      "patternText": "180.459/258.436",
+      "patternText": "180.483/258.468",
       "aiScore": 89,
       "picks": 2
     },
@@ -378,8 +378,8 @@
       "date": "25.11.2026 01:30",
       "matchCode": "4580968",
       "odds": 1.15,
-      "patternScore": 69.96,
-      "patternText": "245.947/351.542",
+      "patternScore": 69.97,
+      "patternText": "245.993/351.592",
       "aiScore": 77,
       "picks": 2
     },
@@ -391,12 +391,19 @@
       "matchCode": "4488075",
       "odds": 1.19,
       "patternScore": 69.86,
-      "patternText": "188.635/270.005",
+      "patternText": "188.659/270.037",
       "aiScore": 74,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "San Jose Earthquakes",
+      "away": "Houston Dynamo",
+      "league": "ABD",
+      "at": "24.11.2026 21:07",
+      "count": 12
+    },
     {
       "home": "Feyenoord",
       "away": "FC Porto",
@@ -459,13 +466,6 @@
       "league": "ŞMP",
       "at": "24.11.2026 18:21",
       "count": 5
-    },
-    {
-      "home": "Virtus Entella",
-      "away": "Verona",
-      "league": "İTB",
-      "at": "24.11.2026 18:17",
-      "count": 10
     }
   ],
   "paywall": {
