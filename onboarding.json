@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 14:18",
+  "updatedAt": "24.11.2026 14:28",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 260,
       "rate": 66.9
     },
-    "totalAnalyses": 778441,
+    "totalAnalyses": 778463,
     "leagues": 285,
     "pro": {
       "won": 1533,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1351,
-    "analyses30d": 16425
+    "analyses24h": 1350,
+    "analyses30d": 16424
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     "matchCode": "4540472",
     "odds": 1.85,
     "patternScore": 66.53,
-    "patternText": "145.365/218.501",
+    "patternText": "145.405/218.561",
     "aiScore": 52,
     "picks": 4
   },
@@ -314,7 +314,7 @@
       "matchCode": "4540472",
       "odds": 1.85,
       "patternScore": 66.53,
-      "patternText": "145.365/218.501",
+      "patternText": "145.405/218.561",
       "aiScore": 52,
       "picks": 4
     },
@@ -326,7 +326,7 @@
       "matchCode": "4488874",
       "odds": 1.82,
       "patternScore": 67.11,
-      "patternText": "218.720/325.933",
+      "patternText": "218.788/326.029",
       "aiScore": 53,
       "picks": 3
     },
@@ -338,9 +338,21 @@
       "matchCode": "4540496",
       "odds": 1.75,
       "patternScore": 67.12,
-      "patternText": "217.930/324.706",
+      "patternText": "217.998/324.802",
       "aiScore": 52,
       "picks": 5
+    },
+    {
+      "home": "Livingston",
+      "away": "Peterhead",
+      "league": "İKCK",
+      "date": "24.11.2026 19:45",
+      "matchCode": "4581715",
+      "odds": 1.64,
+      "patternScore": 68.01,
+      "patternText": "218.085/320.676",
+      "aiScore": 54,
+      "picks": 3
     },
     {
       "home": "Carlisle United",
@@ -350,24 +362,19 @@
       "matchCode": "4515052",
       "odds": 1.54,
       "patternScore": 67.88,
-      "patternText": "230.478/339.562",
+      "patternText": "230.526/339.622",
       "aiScore": 54,
       "picks": 5
-    },
-    {
-      "home": "Leatherhead",
-      "away": "Ramsgate",
-      "league": "İNGNLP",
-      "date": "24.11.2026 19:45",
-      "matchCode": "4518261",
-      "odds": 1.37,
-      "patternScore": 68.05,
-      "patternText": "202.513/297.601",
-      "aiScore": 55,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Norwich City",
+      "away": "Queens Park Rangers",
+      "league": "İNCL",
+      "at": "24.11.2026 14:22",
+      "count": 9
+    },
     {
       "home": "Charlton Athletic",
       "away": "Lincoln City",
@@ -430,13 +437,6 @@
       "league": "İTB",
       "at": "24.11.2026 13:06",
       "count": 3
-    },
-    {
-      "home": "Benevento",
-      "away": "Empoli",
-      "league": "İTB",
-      "at": "24.11.2026 13:06",
-      "count": 7
     }
   ],
   "paywall": {
