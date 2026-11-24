@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 13:58",
+  "updatedAt": "24.11.2026 14:07",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 168,
-      "lost": 86,
-      "total": 254,
+      "won": 164,
+      "lost": 84,
+      "total": 248,
       "rate": 66.1
     },
-    "totalAnalyses": 778310,
-    "leagues": 286,
+    "totalAnalyses": 778381,
+    "leagues": 285,
     "pro": {
       "won": 1524,
-      "lost": 570,
-      "total": 2094,
+      "lost": 568,
+      "total": 2092,
       "rate": 72.8
     },
     "insights": {
       "won": 2550,
-      "lost": 1055,
-      "total": 3605,
-      "rate": 70.7
+      "lost": 1052,
+      "total": 3602,
+      "rate": 70.8
     },
     "coupons": {
       "won": 6,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1319,
-    "analyses30d": 16629
+    "analyses24h": 1335,
+    "analyses30d": 16426
   },
   "recentWins": [
     {
@@ -246,6 +246,12 @@
     },
     {
       "type": "updated",
+      "at": "24.11.2026 13:58",
+      "home": "Bradford City",
+      "away": "Barnsley"
+    },
+    {
+      "type": "updated",
       "at": "24.11.2026 08:52",
       "home": "Kyoto Sanga FC",
       "away": "Pohang Steelers"
@@ -285,12 +291,6 @@
       "at": "24.11.2026 13:02",
       "home": "Al Nassr",
       "away": "Al Sadd"
-    },
-    {
-      "type": "updated",
-      "at": "24.11.2026 13:23",
-      "home": "Smouha SC",
-      "away": "National Bank of Egypt"
     }
   ],
   "today": {
@@ -343,18 +343,6 @@
       "picks": 5
     },
     {
-      "home": "Salford City",
-      "away": "Sunderland U21",
-      "league": "İNTK",
-      "date": "24.11.2026 19:00",
-      "matchCode": "4527808",
-      "odds": 1.49,
-      "patternScore": 67.59,
-      "patternText": "156.055/230.874",
-      "aiScore": 56,
-      "picks": 2
-    },
-    {
       "home": "Malvern Town",
       "away": "Hanworth Villa",
       "league": "İNGNLP",
@@ -365,9 +353,42 @@
       "patternText": "219.152/324.016",
       "aiScore": 58,
       "picks": 1
+    },
+    {
+      "home": "Livingston",
+      "away": "Peterhead",
+      "league": "İKCK",
+      "date": "24.11.2026 19:45",
+      "matchCode": "4581715",
+      "odds": 1.33,
+      "patternScore": 66.56,
+      "patternText": "155.814/234.101",
+      "aiScore": 59,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Portsmouth",
+      "away": "West Ham United",
+      "league": "İNCL",
+      "at": "24.11.2026 14:05",
+      "count": 5
+    },
+    {
+      "home": "Sheffield United",
+      "away": "Southam",
+      "league": "İNCL",
+      "at": "24.11.2026 14:04",
+      "count": 5
+    },
+    {
+      "home": "Cardiff City",
+      "away": "Preston North End",
+      "league": "İNCL",
+      "at": "24.11.2026 14:03",
+      "count": 9
+    },
     {
       "home": "LR Vicenza",
       "away": "Carrarese Calcio",
@@ -416,27 +437,6 @@
       "league": "İTB",
       "at": "24.11.2026 13:02",
       "count": 14
-    },
-    {
-      "home": "Manchester City",
-      "away": "SSC Napoli",
-      "league": "ŞMP",
-      "at": "24.11.2026 11:42",
-      "count": 3
-    },
-    {
-      "home": "Sao Paulo FC",
-      "away": "Remo",
-      "league": "BR1",
-      "at": "24.11.2026 08:56",
-      "count": 7
-    },
-    {
-      "home": "Inter Escaldes",
-      "away": "FC Copenhagen",
-      "league": "AVKL",
-      "at": "24.11.2026 01:51",
-      "count": 13
     }
   ],
   "paywall": {
