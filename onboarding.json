@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "24.11.2026 15:24",
+  "updatedAt": "24.11.2026 15:33",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 279,
       "rate": 64.9
     },
-    "totalAnalyses": 778604,
+    "totalAnalyses": 778619,
     "leagues": 285,
     "pro": {
       "won": 1542,
-      "lost": 573,
-      "total": 2115,
+      "lost": 572,
+      "total": 2114,
       "rate": 72.9
     },
     "insights": {
-      "won": 2567,
-      "lost": 1057,
-      "total": 3624,
-      "rate": 70.8
+      "won": 2566,
+      "lost": 1055,
+      "total": 3621,
+      "rate": 70.9
     },
     "coupons": {
       "won": 6,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1348,
-    "analyses30d": 16311
+    "analyses24h": 1338,
+    "analyses30d": 16277
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 3.04,
       "probability": 100.0,
       "patternScore": 55.88,
-      "aiScore": 51,
+      "aiScore": 50,
       "firstHalf": "0 - 0",
       "finalScore": "1 - 0",
       "pro": false
@@ -258,12 +258,6 @@
     },
     {
       "type": "updated",
-      "at": "24.11.2026 15:23",
-      "home": "Port Vale",
-      "away": "Northampton Town"
-    },
-    {
-      "type": "updated",
       "at": "24.11.2026 10:59",
       "home": "Cand",
       "away": "Vissel Kobe"
@@ -291,6 +285,12 @@
       "at": "24.11.2026 13:23",
       "home": "Galatasaray",
       "away": "Aston Villa"
+    },
+    {
+      "type": "updated",
+      "at": "24.11.2026 15:19",
+      "home": "Al Nassr",
+      "away": "Al Sadd"
     }
   ],
   "today": {
@@ -327,20 +327,20 @@
       "odds": 1.85,
       "patternScore": 66.53,
       "patternText": "145.475/218.673",
-      "aiScore": 52,
+      "aiScore": 51,
       "picks": 4
     },
     {
-      "home": "Cardiff City",
-      "away": "Preston North End",
-      "league": "İNCL",
-      "date": "24.11.2026 19:45",
-      "matchCode": "4488874",
-      "odds": 1.82,
-      "patternScore": 67.11,
-      "patternText": "218.866/326.153",
+      "home": "Al Nassr",
+      "away": "Al Sadd",
+      "league": "AŞMP",
+      "date": "24.11.2026 18:15",
+      "matchCode": "4550165",
+      "odds": 1.68,
+      "patternScore": 66.95,
+      "patternText": "248.103/370.592",
       "aiScore": 53,
-      "picks": 3
+      "picks": 2
     },
     {
       "home": "Livingston",
@@ -351,20 +351,20 @@
       "odds": 1.64,
       "patternScore": 68.01,
       "patternText": "218.171/320.808",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 3
     },
     {
-      "home": "Ipswich Town U21",
-      "away": "Bromley U21",
-      "league": "İNPLK",
-      "date": "24.11.2026 19:00",
-      "matchCode": "4540496",
-      "odds": 1.57,
-      "patternScore": 66.86,
-      "patternText": "219.162/327.814",
+      "home": "Carlisle United",
+      "away": "Tamworth",
+      "league": "İBSL",
+      "date": "24.11.2026 19:45",
+      "matchCode": "4515052",
+      "odds": 1.54,
+      "patternScore": 67.87,
+      "patternText": "230.608/339.762",
       "aiScore": 53,
-      "picks": 4
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
@@ -374,6 +374,13 @@
       "league": "İNCL",
       "at": "24.11.2026 15:24",
       "count": 4
+    },
+    {
+      "home": "Chapecoense AF",
+      "away": "SE Palmeiras",
+      "league": "BR1",
+      "at": "24.11.2026 15:24",
+      "count": 7
     },
     {
       "home": "Cardiff City",
@@ -430,13 +437,6 @@
       "league": "İNCL",
       "at": "24.11.2026 14:13",
       "count": 2
-    },
-    {
-      "home": "Portsmouth",
-      "away": "West Ham United",
-      "league": "İNCL",
-      "at": "24.11.2026 14:05",
-      "count": 5
     }
   ],
   "paywall": {
