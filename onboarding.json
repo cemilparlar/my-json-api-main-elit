@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 12:52",
+  "updatedAt": "25.11.2026 13:01",
   "config": {
     "pages": [
       "engine",
@@ -22,17 +22,17 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 409,
-      "lost": 211,
-      "total": 620,
-      "rate": 66.0
+      "won": 396,
+      "lost": 201,
+      "total": 597,
+      "rate": 66.3
     },
-    "totalAnalyses": 921225,
+    "totalAnalyses": 921269,
     "leagues": 282,
     "pro": {
-      "won": 1670,
-      "lost": 632,
-      "total": 2302,
+      "won": 1672,
+      "lost": 633,
+      "total": 2305,
       "rate": 72.5
     },
     "insights": {
@@ -42,13 +42,13 @@
       "rate": 70.8
     },
     "coupons": {
-      "won": 6,
+      "won": 7,
       "lost": 11,
-      "total": 17,
-      "rate": 35.3
+      "total": 18,
+      "rate": 38.9
     },
-    "analyses24h": 1235,
-    "analyses30d": 15487
+    "analyses24h": 1212,
+    "analyses30d": 15395
   },
   "recentWins": [
     {
@@ -125,117 +125,30 @@
   "recentCoupons": [
     {
       "size": 3,
-      "totalOdds": 1.5,
-      "winChance": 53.9,
-      "completedAt": "22.11.2026 20:15",
-      "legs": [
-        {
-          "home": "Isloch",
-          "away": "Torpedo Zhodino",
-          "prediction": "Double Chance 12",
-          "odds": 1.07,
-          "finalScore": "4 - 3"
-        },
-        {
-          "home": "US Sassuolo",
-          "away": "Genoa CFC",
-          "prediction": "Double Chance 12",
-          "odds": 1.2,
-          "finalScore": "0 - 2"
-        },
-        {
-          "home": "Sporting Gijon",
-          "away": "UD Las Palmas",
-          "prediction": "Double Chance 12",
-          "odds": 1.17,
-          "finalScore": "0 - 2"
-        }
-      ]
-    },
-    {
-      "size": 3,
       "totalOdds": 1.52,
-      "winChance": 51.94,
-      "completedAt": "22.11.2026 19:05",
+      "winChance": 52.79,
+      "completedAt": "25.11.2026 13:01",
       "legs": [
         {
-          "home": "Cultural Guarn",
-          "away": "Tropezon",
+          "home": "Nara Club",
+          "away": "Matsumoto Yamag",
           "prediction": "Double Chance 12",
           "odds": 1.13,
-          "finalScore": "0 - 1"
-        },
-        {
-          "home": "Las Rozas",
-          "away": "Siello Nuevo Bo",
-          "prediction": "Match Result 1",
-          "odds": 1.15,
           "finalScore": "2 - 1"
         },
         {
-          "home": "Illescas",
-          "away": "Toledo",
-          "prediction": "Double Chance 12",
-          "odds": 1.17,
-          "finalScore": null
-        }
-      ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.5,
-      "winChance": 55.05,
-      "completedAt": "22.11.2026 15:56",
-      "legs": [
-        {
-          "home": "FC Norderstedt",
-          "away": "Schoningen",
-          "prediction": "Double Chance 12",
-          "odds": 1.1,
+          "home": "Avispa Fukuoka",
+          "away": "Yokohama F. Marinos",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.19,
           "finalScore": "1 - 2"
         },
         {
-          "home": "Cordoba CF",
-          "away": "Real Oviedo",
+          "home": "Polonia Sroda",
+          "away": "Sokol Kleczew",
           "prediction": "1st Half Double Chance 1X",
-          "odds": 1.1,
-          "finalScore": "3 - 0"
-        },
-        {
-          "home": "Green Eagles",
-          "away": "Red Arrows",
-          "prediction": "Double Chance 12",
-          "odds": 1.24,
-          "finalScore": "2 - 3"
-        }
-      ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.52,
-      "winChance": 50.97,
-      "completedAt": "22.11.2026 07:17",
-      "legs": [
-        {
-          "home": "Roasso Kumamoto",
-          "away": "Giravanz Kitakyushu",
-          "prediction": "Double Chance 12",
-          "odds": 1.09,
-          "finalScore": "1 - 0"
-        },
-        {
-          "home": "Tokushima Vortis",
-          "away": "Shonan Bellmare",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.15,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "Gimcheon Sangmu",
-          "away": "Jeju United",
-          "prediction": "Under 3.5 Goals",
-          "odds": 1.21,
-          "finalScore": "0 - 1"
+          "odds": 1.13,
+          "finalScore": "2 - 1"
         }
       ]
     }
@@ -323,18 +236,42 @@
     }
   ],
   "today": {
-    "home": "Al Jazira Club",
-    "away": "Gol Gohar Sirja",
-    "league": "AFCŞL2",
-    "date": "25.11.2026 16:00",
-    "matchCode": "4549986",
-    "odds": 1.31,
-    "patternScore": 67.99,
-    "patternText": "219.435/322.742",
-    "aiScore": 58,
-    "picks": 3
+    "home": "Calcio Padova",
+    "away": "UC Sampdoria",
+    "league": "İTB",
+    "date": "25.11.2026 19:00",
+    "matchCode": "4534803",
+    "odds": 1.75,
+    "patternScore": 66.58,
+    "patternText": "141.754/212.916",
+    "aiScore": 53,
+    "picks": 6
   },
   "todayList": [
+    {
+      "home": "Calcio Padova",
+      "away": "UC Sampdoria",
+      "league": "İTB",
+      "date": "25.11.2026 19:00",
+      "matchCode": "4534803",
+      "odds": 1.75,
+      "patternScore": 66.58,
+      "patternText": "141.754/212.916",
+      "aiScore": 53,
+      "picks": 6
+    },
+    {
+      "home": "AC Pisa",
+      "away": "Modena FC",
+      "league": "İTB",
+      "date": "25.11.2026 19:00",
+      "matchCode": "4534805",
+      "odds": 1.31,
+      "patternScore": 67.81,
+      "patternText": "224.078/330.467",
+      "aiScore": 56,
+      "picks": 2
+    },
     {
       "home": "Al Jazira Club",
       "away": "Gol Gohar Sirja",
@@ -370,30 +307,6 @@
       "patternText": "131.670/193.436",
       "aiScore": 59,
       "picks": 2
-    },
-    {
-      "home": "Paris Sg U19",
-      "away": "As Roma U19",
-      "league": "UEGL",
-      "date": "25.11.2026 15:00",
-      "matchCode": "4560728",
-      "odds": 1.28,
-      "patternScore": 69.03,
-      "patternText": "210.196/304.491",
-      "aiScore": 63,
-      "picks": 1
-    },
-    {
-      "home": "US Cremonese",
-      "away": "US Avellino",
-      "league": "İTB",
-      "date": "25.11.2026 18:00",
-      "matchCode": "4534799",
-      "odds": 1.24,
-      "patternScore": 67.08,
-      "patternText": "248.243/370.086",
-      "aiScore": 61,
-      "picks": 6
     }
   ],
   "recentAnalyzed": [
