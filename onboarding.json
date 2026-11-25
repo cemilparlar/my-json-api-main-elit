@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 13:58",
+  "updatedAt": "25.11.2026 14:06",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 410,
-      "lost": 205,
-      "total": 615,
+      "won": 406,
+      "lost": 203,
+      "total": 609,
       "rate": 66.7
     },
-    "totalAnalyses": 921410,
-    "leagues": 282,
+    "totalAnalyses": 921412,
+    "leagues": 281,
     "pro": {
-      "won": 1678,
+      "won": 1677,
       "lost": 637,
-      "total": 2315,
+      "total": 2314,
       "rate": 72.5
     },
     "insights": {
-      "won": 2793,
+      "won": 2792,
       "lost": 1154,
-      "total": 3947,
+      "total": 3946,
       "rate": 70.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 1223,
-    "analyses30d": 15341
+    "analyses24h": 1216,
+    "analyses30d": 15244
   },
   "recentWins": [
     {
@@ -212,12 +212,6 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 08:03",
-      "home": "Gamba Osaka",
-      "away": "Port FC"
-    },
-    {
-      "type": "updated",
       "at": "25.11.2026 12:44",
       "home": "SK Slavia Prague",
       "away": "Villarreal CF"
@@ -233,6 +227,12 @@
       "at": "25.11.2026 08:29",
       "home": "FC Imabari",
       "away": "Tegevajaro Miyazaki"
+    },
+    {
+      "type": "updated",
+      "at": "25.11.2026 08:30",
+      "home": "Fagiano Okayama",
+      "away": "Shimizu S-Pulse"
     }
   ],
   "today": {
@@ -243,7 +243,7 @@
     "matchCode": "4534802",
     "odds": 2.17,
     "patternScore": 66.33,
-    "patternText": "141.500/213.343",
+    "patternText": "141.550/213.409",
     "aiScore": 51,
     "picks": 7
   },
@@ -256,7 +256,7 @@
       "matchCode": "4534802",
       "odds": 2.17,
       "patternScore": 66.33,
-      "patternText": "141.500/213.343",
+      "patternText": "141.550/213.409",
       "aiScore": 51,
       "picks": 7
     },
@@ -267,21 +267,9 @@
       "date": "25.11.2026 18:15",
       "matchCode": "4549999",
       "odds": 1.39,
-      "patternScore": 68.48,
-      "patternText": "338.218/493.868",
+      "patternScore": 68.49,
+      "patternText": "338.316/493.990",
       "aiScore": 56,
-      "picks": 2
-    },
-    {
-      "home": "Burnley",
-      "away": "Birmingham City",
-      "league": "İNCL",
-      "date": "25.11.2026 19:45",
-      "matchCode": "4488882",
-      "odds": 1.32,
-      "patternScore": 68.13,
-      "patternText": "221.806/325.580",
-      "aiScore": 58,
       "picks": 2
     },
     {
@@ -292,7 +280,7 @@
       "matchCode": "4549986",
       "odds": 1.31,
       "patternScore": 67.99,
-      "patternText": "219.465/322.790",
+      "patternText": "219.571/322.924",
       "aiScore": 58,
       "picks": 3
     },
@@ -304,9 +292,21 @@
       "matchCode": "4486070",
       "odds": 1.29,
       "patternScore": 68.49,
-      "patternText": "191.951/280.256",
+      "patternText": "192.017/280.338",
       "aiScore": 61,
       "picks": 4
+    },
+    {
+      "home": "Apr Kigali",
+      "away": "Musanze",
+      "league": "RUA",
+      "date": "25.11.2026 16:30",
+      "matchCode": "4556747",
+      "odds": 1.29,
+      "patternScore": 68.07,
+      "patternText": "131.722/193.502",
+      "aiScore": 59,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
