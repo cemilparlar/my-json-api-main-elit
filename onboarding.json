@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 22:34",
+  "updatedAt": "25.11.2026 22:42",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 403,
       "rate": 74.7
     },
-    "totalAnalyses": 922755,
+    "totalAnalyses": 922815,
     "leagues": 275,
     "pro": {
       "won": 1760,
@@ -290,6 +290,18 @@
       "picks": 3
     },
     {
+      "home": "Deportivo Toluca",
+      "away": "Atlas FC",
+      "league": "MEK",
+      "date": "26.11.2026 01:00",
+      "matchCode": "4582341",
+      "odds": 1.34,
+      "patternScore": 66.9,
+      "patternText": "187.036/279.578",
+      "aiScore": 60,
+      "picks": 3
+    },
+    {
       "home": "Atletico Nacional",
       "away": "Independiente Medellin",
       "league": "KOL",
@@ -324,18 +336,6 @@
       "patternText": "192.228/275.983",
       "aiScore": 79,
       "picks": 1
-    },
-    {
-      "home": "Managua FC",
-      "away": "Walter Ferretti",
-      "league": "NİK",
-      "date": "26.11.2026 01:00",
-      "matchCode": "4582791",
-      "odds": 1.08,
-      "patternScore": 70.93,
-      "patternText": "238.337/336.034",
-      "aiScore": 92,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
