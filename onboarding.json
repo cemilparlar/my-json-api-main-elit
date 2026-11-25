@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 06:55",
+  "updatedAt": "25.11.2026 07:03",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 340,
-      "lost": 200,
-      "total": 540,
-      "rate": 63.0
+      "won": 341,
+      "lost": 201,
+      "total": 542,
+      "rate": 62.9
     },
     "totalAnalyses": 779099,
     "leagues": 282,
     "pro": {
-      "won": 1627,
-      "lost": 624,
-      "total": 2251,
+      "won": 1628,
+      "lost": 625,
+      "total": 2253,
       "rate": 72.3
     },
     "insights": {
-      "won": 2717,
-      "lost": 1136,
-      "total": 3853,
+      "won": 2718,
+      "lost": 1137,
+      "total": 3855,
       "rate": 70.5
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1162,
-    "analyses30d": 15598
+    "analyses24h": 1155,
+    "analyses30d": 15580
   },
   "recentWins": [
     {
@@ -305,12 +305,6 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 06:49",
-      "home": "FC Tokyo",
-      "away": "Sanfrecce Hiroshima"
-    },
-    {
-      "type": "updated",
       "at": "25.11.2026 06:27",
       "home": "Yokohama FC",
       "away": "Vegalta Sendai"
@@ -320,6 +314,12 @@
       "at": "25.11.2026 06:50",
       "home": "Fagiano Okayama",
       "away": "Shimizu S-Pulse"
+    },
+    {
+      "type": "updated",
+      "at": "25.11.2026 06:06",
+      "home": "Tochigi City FC",
+      "away": "Blaublitz Akita"
     }
   ],
   "today": {
@@ -328,11 +328,11 @@
     "league": "JAP",
     "date": "25.11.2026 10:30",
     "matchCode": "4487278",
-    "odds": 1.63,
-    "patternScore": 67.31,
-    "patternText": "199.790/296.816",
+    "odds": 1.56,
+    "patternScore": 67.27,
+    "patternText": "200.428/297.936",
     "aiScore": 54,
-    "picks": 5
+    "picks": 7
   },
   "todayList": [
     {
@@ -341,11 +341,11 @@
       "league": "JAP",
       "date": "25.11.2026 10:30",
       "matchCode": "4487278",
-      "odds": 1.63,
-      "patternScore": 67.31,
-      "patternText": "199.790/296.816",
+      "odds": 1.56,
+      "patternScore": 67.27,
+      "patternText": "200.428/297.936",
       "aiScore": 54,
-      "picks": 5
+      "picks": 7
     },
     {
       "home": "Gamba Osaka",
@@ -356,7 +356,7 @@
       "odds": 1.52,
       "patternScore": 66.8,
       "patternText": "119.430/178.791",
-      "aiScore": 53,
+      "aiScore": 52,
       "picks": 3
     },
     {
@@ -380,20 +380,20 @@
       "odds": 1.47,
       "patternScore": 68.02,
       "patternText": "197.466/290.305",
-      "aiScore": 54,
+      "aiScore": 53,
       "picks": 3
     },
     {
-      "home": "Avispa Fukuoka",
-      "away": "Yokohama F. Marinos",
-      "league": "JAP",
-      "date": "25.11.2026 10:00",
-      "matchCode": "4487282",
-      "odds": 1.43,
-      "patternScore": 67.99,
-      "patternText": "194.279/285.738",
-      "aiScore": 55,
-      "picks": 4
+      "home": "Ulinzi Stars",
+      "away": "Leopards Sc",
+      "league": "KEN",
+      "date": "25.11.2026 12:30",
+      "matchCode": "4581419",
+      "odds": 1.37,
+      "patternScore": 68.78,
+      "patternText": "223.947/325.596",
+      "aiScore": 56,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
