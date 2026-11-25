@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 10:20",
+  "updatedAt": "25.11.2026 10:30",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 539,
       "rate": 63.6
     },
-    "totalAnalyses": 920756,
+    "totalAnalyses": 920810,
     "leagues": 282,
     "pro": {
       "won": 1629,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1218,
-    "analyses30d": 15604
+    "analyses24h": 1233,
+    "analyses30d": 15607
   },
   "recentWins": [
     {
@@ -323,40 +323,28 @@
     }
   ],
   "today": {
-    "home": "Kryvbas Kryvyi Rih",
-    "away": "Fc Kharkiv",
-    "league": "UKR",
-    "date": "25.11.2026 11:00",
-    "matchCode": "4508151",
-    "odds": 1.55,
-    "patternScore": 69.01,
-    "patternText": "220.735/319.878",
-    "aiScore": 55,
-    "picks": 1
+    "home": "Satun",
+    "away": "Tero Sasana",
+    "league": "TAY1",
+    "date": "25.11.2026 11:30",
+    "matchCode": "4539388",
+    "odds": 1.65,
+    "patternScore": 68.09,
+    "patternText": "187.890/275.962",
+    "aiScore": 53,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "Kryvbas Kryvyi Rih",
-      "away": "Fc Kharkiv",
-      "league": "UKR",
-      "date": "25.11.2026 11:00",
-      "matchCode": "4508151",
-      "odds": 1.55,
-      "patternScore": 69.01,
-      "patternText": "220.735/319.878",
-      "aiScore": 55,
-      "picks": 1
-    },
     {
       "home": "Satun",
       "away": "Tero Sasana",
       "league": "TAY1",
       "date": "25.11.2026 11:30",
       "matchCode": "4539388",
-      "odds": 1.5,
-      "patternScore": 67.96,
-      "patternText": "180.710/265.908",
-      "aiScore": 55,
+      "odds": 1.65,
+      "patternScore": 68.09,
+      "patternText": "187.890/275.962",
+      "aiScore": 53,
       "picks": 2
     },
     {
@@ -380,7 +368,7 @@
       "odds": 1.41,
       "patternScore": 68.15,
       "patternText": "228.653/335.510",
-      "aiScore": 55,
+      "aiScore": 56,
       "picks": 3
     },
     {
@@ -390,9 +378,21 @@
       "date": "25.11.2026 12:30",
       "matchCode": "4581419",
       "odds": 1.37,
-      "patternScore": 68.78,
-      "patternText": "223.981/325.636",
-      "aiScore": 56,
+      "patternScore": 70.15,
+      "patternText": "126.467/180.289",
+      "aiScore": 60,
+      "picks": 3
+    },
+    {
+      "home": "3k",
+      "away": "Nairobi United",
+      "league": "KEN",
+      "date": "25.11.2026 12:00",
+      "matchCode": "4581418",
+      "odds": 1.34,
+      "patternScore": 68.68,
+      "patternText": "187.740/273.374",
+      "aiScore": 57,
       "picks": 2
     }
   ],
