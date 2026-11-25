@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 19:12",
+  "updatedAt": "25.11.2026 19:21",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 394,
-      "lost": 204,
-      "total": 598,
-      "rate": 65.9
+      "won": 397,
+      "lost": 206,
+      "total": 603,
+      "rate": 65.8
     },
-    "totalAnalyses": 922082,
+    "totalAnalyses": 922085,
     "leagues": 278,
     "pro": {
       "won": 1714,
@@ -36,9 +36,9 @@
       "rate": 72.5
     },
     "insights": {
-      "won": 2839,
-      "lost": 1172,
-      "total": 4011,
+      "won": 2840,
+      "lost": 1173,
+      "total": 4013,
       "rate": 70.8
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 1072,
-    "analyses30d": 14805
+    "analyses24h": 1068,
+    "analyses30d": 14801
   },
   "recentWins": [
     {
@@ -200,12 +200,6 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 13:17",
-      "home": "CF Intercity",
-      "away": "Real Murcia Ii"
-    },
-    {
-      "type": "updated",
       "at": "25.11.2026 17:08",
       "home": "SK Slavia Prague",
       "away": "Villarreal CF"
@@ -233,6 +227,12 @@
       "at": "25.11.2026 18:50",
       "home": "LOSC Lille",
       "away": "Bayern Munich"
+    },
+    {
+      "type": "updated",
+      "at": "25.11.2026 16:50",
+      "home": "Shakhtar Donetsk",
+      "away": "Fenerbahce"
     }
   ],
   "today": {
@@ -266,35 +266,11 @@
       "league": "NİK",
       "date": "26.11.2026 01:00",
       "matchCode": "4582791",
-      "odds": 1.38,
-      "patternScore": 68.78,
-      "patternText": "179.003/260.264",
-      "aiScore": 56,
-      "picks": 3
-    },
-    {
-      "home": "Watford",
-      "away": "Blackburn",
-      "league": "İNCL",
-      "date": "25.11.2026 19:45",
-      "matchCode": "4488884",
-      "odds": 1.34,
-      "patternScore": 68.6,
-      "patternText": "138.142/201.377",
-      "aiScore": 64,
+      "odds": 1.43,
+      "patternScore": 68.44,
+      "patternText": "159.497/233.052",
+      "aiScore": 54,
       "picks": 2
-    },
-    {
-      "home": "Harrogate Town",
-      "away": "Kidderminster",
-      "league": "İBSL",
-      "date": "25.11.2026 19:45",
-      "matchCode": "4515059",
-      "odds": 1.29,
-      "patternScore": 68.16,
-      "patternText": "193.823/284.358",
-      "aiScore": 56,
-      "picks": 4
     },
     {
       "home": "Atletico Mineiro",
@@ -307,6 +283,30 @@
       "patternText": "217.873/320.257",
       "aiScore": 64,
       "picks": 3
+    },
+    {
+      "home": "Independiente Santa Fe",
+      "away": "Once Caldas",
+      "league": "KOL",
+      "date": "25.11.2026 23:20",
+      "matchCode": "4580963",
+      "odds": 1.22,
+      "patternScore": 67.95,
+      "patternText": "173.878/255.873",
+      "aiScore": 63,
+      "picks": 2
+    },
+    {
+      "home": "Shakhtar Donetsk",
+      "away": "Fenerbahce",
+      "league": "ŞMP",
+      "date": "25.11.2026 20:00",
+      "matchCode": "4549405",
+      "odds": 1.21,
+      "patternScore": 68.39,
+      "patternText": "208.861/305.385",
+      "aiScore": 71,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
