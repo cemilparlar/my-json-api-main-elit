@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 18:54",
+  "updatedAt": "25.11.2026 19:02",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 421,
-      "lost": 216,
-      "total": 637,
-      "rate": 66.1
+      "won": 394,
+      "lost": 204,
+      "total": 598,
+      "rate": 65.9
     },
-    "totalAnalyses": 921940,
+    "totalAnalyses": 922002,
     "leagues": 278,
     "pro": {
-      "won": 1710,
-      "lost": 648,
-      "total": 2358,
+      "won": 1714,
+      "lost": 649,
+      "total": 2363,
       "rate": 72.5
     },
     "insights": {
-      "won": 2837,
-      "lost": 1173,
-      "total": 4010,
-      "rate": 70.7
+      "won": 2839,
+      "lost": 1172,
+      "total": 4011,
+      "rate": 70.8
     },
     "coupons": {
       "won": 7,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 1132,
-    "analyses30d": 14829
+    "analyses24h": 1080,
+    "analyses30d": 14813
   },
   "recentWins": [
     {
@@ -236,28 +236,64 @@
     }
   ],
   "today": {
-    "home": "Sporting CP",
-    "away": "Manchester United",
+    "home": "LOSC Lille",
+    "away": "Bayern Munich",
     "league": "ŞMP",
     "date": "25.11.2026 20:00",
-    "matchCode": "4549488",
-    "odds": 1.3,
-    "patternScore": 67.27,
-    "patternText": "195.538/290.676",
-    "aiScore": 62,
-    "picks": 4
+    "matchCode": "4549483",
+    "odds": 1.52,
+    "patternScore": 66.74,
+    "patternText": "196.196/293.962",
+    "aiScore": 54,
+    "picks": 5
   },
   "todayList": [
     {
-      "home": "Sporting CP",
-      "away": "Manchester United",
+      "home": "LOSC Lille",
+      "away": "Bayern Munich",
       "league": "ŞMP",
       "date": "25.11.2026 20:00",
-      "matchCode": "4549488",
-      "odds": 1.3,
-      "patternScore": 67.27,
-      "patternText": "195.538/290.676",
-      "aiScore": 62,
+      "matchCode": "4549483",
+      "odds": 1.52,
+      "patternScore": 66.74,
+      "patternText": "196.196/293.962",
+      "aiScore": 54,
+      "picks": 5
+    },
+    {
+      "home": "Managua FC",
+      "away": "Walter Ferretti",
+      "league": "NİK",
+      "date": "26.11.2026 01:00",
+      "matchCode": "4582791",
+      "odds": 1.38,
+      "patternScore": 68.78,
+      "patternText": "178.983/260.242",
+      "aiScore": 56,
+      "picks": 3
+    },
+    {
+      "home": "Watford",
+      "away": "Blackburn",
+      "league": "İNCL",
+      "date": "25.11.2026 19:45",
+      "matchCode": "4488884",
+      "odds": 1.34,
+      "patternScore": 68.6,
+      "patternText": "138.118/201.351",
+      "aiScore": 64,
+      "picks": 2
+    },
+    {
+      "home": "Harrogate Town",
+      "away": "Kidderminster",
+      "league": "İBSL",
+      "date": "25.11.2026 19:45",
+      "matchCode": "4515059",
+      "odds": 1.29,
+      "patternScore": 68.16,
+      "patternText": "193.783/284.312",
+      "aiScore": 56,
       "picks": 4
     },
     {
@@ -268,45 +304,9 @@
       "matchCode": "4423384",
       "odds": 1.28,
       "patternScore": 68.03,
-      "patternText": "217.861/320.241",
-      "aiScore": 65,
-      "picks": 3
-    },
-    {
-      "home": "Watford",
-      "away": "Blackburn",
-      "league": "İNCL",
-      "date": "25.11.2026 19:45",
-      "matchCode": "4488884",
-      "odds": 1.26,
-      "patternScore": 68.41,
-      "patternText": "245.903/359.446",
-      "aiScore": 62,
-      "picks": 3
-    },
-    {
-      "home": "Burnley",
-      "away": "Birmingham City",
-      "league": "İNCL",
-      "date": "25.11.2026 19:45",
-      "matchCode": "4488882",
-      "odds": 1.25,
-      "patternScore": 68.22,
-      "patternText": "225.264/330.182",
-      "aiScore": 63,
-      "picks": 4
-    },
-    {
-      "home": "Independiente Santa Fe",
-      "away": "Once Caldas",
-      "league": "KOL",
-      "date": "25.11.2026 23:20",
-      "matchCode": "4580963",
-      "odds": 1.22,
-      "patternScore": 67.95,
-      "patternText": "173.854/255.845",
+      "patternText": "217.861/320.243",
       "aiScore": 64,
-      "picks": 2
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
