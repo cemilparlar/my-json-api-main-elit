@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 07:47",
+  "updatedAt": "25.11.2026 07:56",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 544,
       "rate": 63.2
     },
-    "totalAnalyses": 779177,
+    "totalAnalyses": 779207,
     "leagues": 282,
     "pro": {
       "won": 1630,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1202,
-    "analyses30d": 15615
+    "analyses24h": 1215,
+    "analyses30d": 15628
   },
   "recentWins": [
     {
@@ -323,30 +323,18 @@
     }
   ],
   "today": {
-    "home": "Slavia Prague U1",
-    "away": "Villarreal U19",
-    "league": "UEGL",
-    "date": "25.11.2026 12:00",
-    "matchCode": "4560725",
-    "odds": 1.62,
-    "patternScore": 67.82,
-    "patternText": "218.488/322.164",
-    "aiScore": 53,
-    "picks": 3
+    "home": "Urawa Red Diamonds",
+    "away": "Cerezo Osaka",
+    "league": "JAP",
+    "date": "25.11.2026 10:30",
+    "matchCode": "4487278",
+    "odds": 1.56,
+    "patternScore": 67.27,
+    "patternText": "200.452/297.966",
+    "aiScore": 54,
+    "picks": 7
   },
   "todayList": [
-    {
-      "home": "Slavia Prague U1",
-      "away": "Villarreal U19",
-      "league": "UEGL",
-      "date": "25.11.2026 12:00",
-      "matchCode": "4560725",
-      "odds": 1.62,
-      "patternScore": 67.82,
-      "patternText": "218.488/322.164",
-      "aiScore": 53,
-      "picks": 3
-    },
     {
       "home": "Urawa Red Diamonds",
       "away": "Cerezo Osaka",
@@ -355,7 +343,7 @@
       "matchCode": "4487278",
       "odds": 1.56,
       "patternScore": 67.27,
-      "patternText": "200.434/297.948",
+      "patternText": "200.452/297.966",
       "aiScore": 54,
       "picks": 7
     },
@@ -367,7 +355,7 @@
       "matchCode": "4539388",
       "odds": 1.5,
       "patternScore": 67.96,
-      "patternText": "180.686/265.884",
+      "patternText": "180.704/265.902",
       "aiScore": 55,
       "picks": 2
     },
@@ -379,8 +367,8 @@
       "matchCode": "4538739",
       "odds": 1.47,
       "patternScore": 68.02,
-      "patternText": "197.472/290.317",
-      "aiScore": 54,
+      "patternText": "197.518/290.363",
+      "aiScore": 53,
       "picks": 3
     },
     {
@@ -391,9 +379,21 @@
       "matchCode": "4581415",
       "odds": 1.41,
       "patternScore": 68.15,
-      "patternText": "228.613/335.470",
+      "patternText": "228.635/335.492",
       "aiScore": 55,
       "picks": 3
+    },
+    {
+      "home": "Ulinzi Stars",
+      "away": "Leopards Sc",
+      "league": "KEN",
+      "date": "25.11.2026 12:30",
+      "matchCode": "4581419",
+      "odds": 1.37,
+      "patternScore": 68.78,
+      "patternText": "223.975/325.630",
+      "aiScore": 56,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
