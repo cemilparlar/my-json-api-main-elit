@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 15:24",
+  "updatedAt": "25.11.2026 15:32",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 406,
+      "won": 410,
       "lost": 210,
-      "total": 616,
-      "rate": 65.9
+      "total": 620,
+      "rate": 66.1
     },
-    "totalAnalyses": 921621,
-    "leagues": 280,
+    "totalAnalyses": 921636,
+    "leagues": 279,
     "pro": {
-      "won": 1685,
+      "won": 1687,
       "lost": 644,
-      "total": 2329,
-      "rate": 72.3
+      "total": 2331,
+      "rate": 72.4
     },
     "insights": {
-      "won": 2803,
+      "won": 2807,
       "lost": 1166,
-      "total": 3969,
-      "rate": 70.6
+      "total": 3973,
+      "rate": 70.7
     },
     "coupons": {
       "won": 7,
@@ -48,7 +48,7 @@
       "rate": 38.9
     },
     "analyses24h": 1205,
-    "analyses30d": 15183
+    "analyses30d": 15111
   },
   "recentWins": [
     {
@@ -224,15 +224,15 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 15:19",
-      "home": "LOSC Lille",
-      "away": "Bayern Munich"
+      "at": "25.11.2026 15:30",
+      "home": "Inter",
+      "away": "VfB Stuttgart"
     },
     {
       "type": "updated",
-      "at": "25.11.2026 14:15",
-      "home": "Shakhtar Donetsk",
-      "away": "Fenerbahce"
+      "at": "25.11.2026 15:19",
+      "home": "LOSC Lille",
+      "away": "Bayern Munich"
     }
   ],
   "today": {
@@ -261,40 +261,16 @@
       "picks": 7
     },
     {
-      "home": "Al Jazira Club",
-      "away": "Gol Gohar Sirja",
-      "league": "AFCŞL2",
-      "date": "25.11.2026 16:00",
-      "matchCode": "4549986",
-      "odds": 1.61,
-      "patternScore": 66.72,
-      "patternText": "135.884/203.669",
-      "aiScore": 54,
-      "picks": 2
-    },
-    {
-      "home": "Al Faisaly Amman",
-      "away": "Al Rayyan",
-      "league": "AFCŞL2",
-      "date": "25.11.2026 16:00",
-      "matchCode": "4549998",
-      "odds": 1.47,
-      "patternScore": 68.27,
-      "patternText": "194.746/285.269",
-      "aiScore": 54,
-      "picks": 4
-    },
-    {
-      "home": "LOSC Lille",
-      "away": "Bayern Munich",
+      "home": "SK Slavia Prague",
+      "away": "Villarreal CF",
       "league": "ŞMP",
-      "date": "25.11.2026 20:00",
-      "matchCode": "4549483",
-      "odds": 1.35,
-      "patternScore": 66.31,
-      "patternText": "138.580/208.974",
-      "aiScore": 58,
-      "picks": 2
+      "date": "25.11.2026 17:45",
+      "matchCode": "4549482",
+      "odds": 1.41,
+      "patternScore": 67.58,
+      "patternText": "206.448/305.508",
+      "aiScore": 57,
+      "picks": 5
     },
     {
       "home": "Shakhtar Donetsk",
@@ -305,11 +281,42 @@
       "odds": 1.31,
       "patternScore": 66.87,
       "patternText": "135.958/203.311",
+      "aiScore": 63,
+      "picks": 2
+    },
+    {
+      "home": "Sporting CP",
+      "away": "Manchester United",
+      "league": "ŞMP",
+      "date": "25.11.2026 20:00",
+      "matchCode": "4549488",
+      "odds": 1.3,
+      "patternScore": 67.26,
+      "patternText": "195.206/290.240",
       "aiScore": 62,
+      "picks": 4
+    },
+    {
+      "home": "Apr Kigali",
+      "away": "Musanze",
+      "league": "RUA",
+      "date": "25.11.2026 16:30",
+      "matchCode": "4556747",
+      "odds": 1.29,
+      "patternScore": 68.07,
+      "patternText": "131.806/193.630",
+      "aiScore": 60,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Inter",
+      "away": "VfB Stuttgart",
+      "league": "ŞMP",
+      "at": "25.11.2026 15:30",
+      "count": 17
+    },
     {
       "home": "LOSC Lille",
       "away": "Bayern Munich",
@@ -369,13 +376,6 @@
     {
       "home": "Mantova 1911",
       "away": "SS Arezzo",
-      "league": "İTB",
-      "at": "25.11.2026 13:18",
-      "count": 7
-    },
-    {
-      "home": "AC Pisa",
-      "away": "Modena FC",
       "league": "İTB",
       "at": "25.11.2026 13:18",
       "count": 7
