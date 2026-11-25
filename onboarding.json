@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 07:28",
+  "updatedAt": "25.11.2026 07:38",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 542,
       "rate": 62.9
     },
-    "totalAnalyses": 779129,
+    "totalAnalyses": 779163,
     "leagues": 282,
     "pro": {
       "won": 1628,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1168,
-    "analyses30d": 15593
+    "analyses24h": 1199,
+    "analyses30d": 15609
   },
   "recentWins": [
     {
@@ -311,7 +311,7 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 06:50",
+      "at": "25.11.2026 07:29",
       "home": "Fagiano Okayama",
       "away": "Shimizu S-Pulse"
     },
@@ -348,18 +348,6 @@
       "picks": 7
     },
     {
-      "home": "Gamba Osaka",
-      "away": "Port FC",
-      "league": "AŞMP",
-      "date": "25.11.2026 10:00",
-      "matchCode": "4550100",
-      "odds": 1.52,
-      "patternScore": 66.8,
-      "patternText": "119.432/178.795",
-      "aiScore": 52,
-      "picks": 3
-    },
-    {
       "home": "Satun",
       "away": "Tero Sasana",
       "league": "TAY1",
@@ -380,7 +368,7 @@
       "odds": 1.47,
       "patternScore": 68.02,
       "patternText": "197.472/290.317",
-      "aiScore": 53,
+      "aiScore": 54,
       "picks": 3
     },
     {
@@ -394,6 +382,18 @@
       "patternText": "223.953/325.608",
       "aiScore": 56,
       "picks": 2
+    },
+    {
+      "home": "Kashima Antlers",
+      "away": "Jeonbuk Hm",
+      "league": "AŞMP",
+      "date": "25.11.2026 10:00",
+      "matchCode": "4550101",
+      "odds": 1.33,
+      "patternScore": 68.65,
+      "patternText": "179.053/260.803",
+      "aiScore": 58,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
