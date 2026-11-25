@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 13:42",
+  "updatedAt": "25.11.2026 13:50",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 396,
-      "lost": 202,
-      "total": 598,
+      "won": 393,
+      "lost": 201,
+      "total": 594,
       "rate": 66.2
     },
-    "totalAnalyses": 921361,
+    "totalAnalyses": 921385,
     "leagues": 282,
     "pro": {
       "won": 1673,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 1227,
-    "analyses30d": 15345
+    "analyses24h": 1221,
+    "analyses30d": 15339
   },
   "recentWins": [
     {
@@ -261,18 +261,6 @@
       "picks": 7
     },
     {
-      "home": "Flora U19",
-      "away": "St Patricks U19",
-      "league": "UEGL",
-      "date": "25.11.2026 16:30",
-      "matchCode": "4581735",
-      "odds": 1.59,
-      "patternScore": 66.63,
-      "patternText": "153.406/230.238",
-      "aiScore": 54,
-      "picks": 1
-    },
-    {
       "home": "Al Taawon",
       "away": "Al Nahda",
       "league": "AFCŞL2",
@@ -282,6 +270,18 @@
       "patternScore": 68.48,
       "patternText": "338.218/493.868",
       "aiScore": 56,
+      "picks": 2
+    },
+    {
+      "home": "Burnley",
+      "away": "Birmingham City",
+      "league": "İNCL",
+      "date": "25.11.2026 19:45",
+      "matchCode": "4488882",
+      "odds": 1.32,
+      "patternScore": 68.13,
+      "patternText": "221.806/325.580",
+      "aiScore": 58,
       "picks": 2
     },
     {
