@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 11:55",
+  "updatedAt": "25.11.2026 12:03",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 352,
-      "lost": 196,
-      "total": 548,
-      "rate": 64.2
+      "won": 402,
+      "lost": 211,
+      "total": 613,
+      "rate": 65.6
     },
-    "totalAnalyses": 921009,
+    "totalAnalyses": 921072,
     "leagues": 282,
     "pro": {
-      "won": 1635,
-      "lost": 624,
-      "total": 2259,
-      "rate": 72.4
+      "won": 1663,
+      "lost": 631,
+      "total": 2294,
+      "rate": 72.5
     },
     "insights": {
-      "won": 2727,
-      "lost": 1136,
-      "total": 3863,
-      "rate": 70.6
+      "won": 2769,
+      "lost": 1147,
+      "total": 3916,
+      "rate": 70.7
     },
     "coupons": {
       "won": 6,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1242,
-    "analyses30d": 15537
+    "analyses24h": 1236,
+    "analyses30d": 15512
   },
   "recentWins": [
     {
@@ -293,6 +293,12 @@
     },
     {
       "type": "updated",
+      "at": "25.11.2026 11:58",
+      "home": "SK Slavia Prague",
+      "away": "Villarreal CF"
+    },
+    {
+      "type": "updated",
       "at": "25.11.2026 08:03",
       "home": "Vanraure Hachinohe",
       "away": "Albirex Niigata"
@@ -314,12 +320,6 @@
       "at": "25.11.2026 06:27",
       "home": "Yokohama FC",
       "away": "Vegalta Sendai"
-    },
-    {
-      "type": "updated",
-      "at": "25.11.2026 08:30",
-      "home": "Fagiano Okayama",
-      "away": "Shimizu S-Pulse"
     }
   ],
   "today": {
@@ -346,18 +346,6 @@
       "patternText": "138.258/208.912",
       "aiScore": 54,
       "picks": 1
-    },
-    {
-      "home": "Ulinzi Stars",
-      "away": "Leopards Sc",
-      "league": "KEN",
-      "date": "25.11.2026 12:30",
-      "matchCode": "4581419",
-      "odds": 1.37,
-      "patternScore": 70.15,
-      "patternText": "126.501/180.323",
-      "aiScore": 60,
-      "picks": 3
     },
     {
       "home": "SK Slavia Prague",
@@ -394,9 +382,28 @@
       "patternText": "191.631/279.834",
       "aiScore": 61,
       "picks": 4
+    },
+    {
+      "home": "Apr Kigali",
+      "away": "Musanze",
+      "league": "RUA",
+      "date": "25.11.2026 16:30",
+      "matchCode": "4556747",
+      "odds": 1.29,
+      "patternScore": 68.06,
+      "patternText": "131.440/193.122",
+      "aiScore": 59,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SK Slavia Prague",
+      "away": "Villarreal CF",
+      "league": "ŞMP",
+      "at": "25.11.2026 11:58",
+      "count": 8
+    },
     {
       "home": "San Jose Earthquakes",
       "away": "Houston Dynamo",
@@ -459,13 +466,6 @@
       "league": "ŞMP",
       "at": "24.11.2026 18:40",
       "count": 14
-    },
-    {
-      "home": "Arsenal",
-      "away": "Borussia Dortmund",
-      "league": "ŞMP",
-      "at": "24.11.2026 18:21",
-      "count": 5
     }
   ],
   "paywall": {

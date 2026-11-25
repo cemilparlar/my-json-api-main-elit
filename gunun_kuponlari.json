@@ -13,11 +13,11 @@
   "stats30": {
     "safe": {
       "won": 2,
-      "lost": 2
+      "lost": 1
     },
     "safe_a": {
       "won": 1,
-      "lost": 1
+      "lost": 0
     },
     "surprise": {
       "won": 2,
@@ -68,8 +68,8 @@
       "lost": 17
     }
   },
-  "updatedAt": "25.11.2026 11:55",
-  "updatedAtUtc": "2026-11-25T11:55:00Z",
+  "updatedAt": "25.11.2026 12:03",
+  "updatedAtUtc": "2026-11-25T12:03:00Z",
   "upcoming": [
     {
       "id": "20261125-11-1",
@@ -107,9 +107,9 @@
           "patternScore": 71.67,
           "patternText": "152.270/212.459",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "2 - 1",
+          "status": "won",
           "aiScore": 96
         },
         {
@@ -130,9 +130,9 @@
           "patternScore": 68.25,
           "patternText": "147.153/215.617",
           "mbs": 1,
-          "firstHalf": null,
-          "finalScore": null,
-          "status": "live",
+          "firstHalf": "1 - 0",
+          "finalScore": "1 - 2",
+          "status": "won",
           "aiScore": 88
         },
         {
