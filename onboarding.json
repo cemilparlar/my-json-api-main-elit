@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 14:55",
+  "updatedAt": "25.11.2026 15:03",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 416,
+      "won": 405,
       "lost": 210,
-      "total": 626,
-      "rate": 66.5
+      "total": 615,
+      "rate": 65.9
     },
-    "totalAnalyses": 921522,
-    "leagues": 281,
+    "totalAnalyses": 921576,
+    "leagues": 280,
     "pro": {
-      "won": 1682,
-      "lost": 642,
-      "total": 2324,
-      "rate": 72.4
+      "won": 1685,
+      "lost": 644,
+      "total": 2329,
+      "rate": 72.3
     },
     "insights": {
-      "won": 2799,
-      "lost": 1160,
-      "total": 3959,
-      "rate": 70.7
+      "won": 2802,
+      "lost": 1166,
+      "total": 3968,
+      "rate": 70.6
     },
     "coupons": {
       "won": 7,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 1223,
-    "analyses30d": 15230
+    "analyses24h": 1197,
+    "analyses30d": 15193
   },
   "recentWins": [
     {
@@ -261,40 +261,16 @@
       "picks": 7
     },
     {
-      "home": "Hoffenheim U19",
-      "away": "Paok U19",
-      "league": "UEGL",
-      "date": "25.11.2026 17:00",
-      "matchCode": "4581741",
-      "odds": 1.73,
-      "patternScore": 67.65,
-      "patternText": "231.301/341.903",
-      "aiScore": 53,
-      "picks": 1
-    },
-    {
       "home": "Al Jazira Club",
       "away": "Gol Gohar Sirja",
       "league": "AFCŞL2",
       "date": "25.11.2026 16:00",
       "matchCode": "4549986",
-      "odds": 1.58,
-      "patternScore": 68.47,
-      "patternText": "199.566/291.453",
-      "aiScore": 56,
-      "picks": 3
-    },
-    {
-      "home": "SK Slavia Prague",
-      "away": "Villarreal CF",
-      "league": "ŞMP",
-      "date": "25.11.2026 17:45",
-      "matchCode": "4549482",
-      "odds": 1.43,
-      "patternScore": 67.54,
-      "patternText": "205.886/304.828",
-      "aiScore": 56,
-      "picks": 4
+      "odds": 1.61,
+      "patternScore": 66.72,
+      "patternText": "135.838/203.583",
+      "aiScore": 54,
+      "picks": 2
     },
     {
       "home": "LOSC Lille",
@@ -306,6 +282,30 @@
       "patternScore": 66.32,
       "patternText": "138.534/208.888",
       "aiScore": 58,
+      "picks": 2
+    },
+    {
+      "home": "Al Faisaly Amman",
+      "away": "Al Rayyan",
+      "league": "AFCŞL2",
+      "date": "25.11.2026 16:00",
+      "matchCode": "4549998",
+      "odds": 1.35,
+      "patternScore": 68.08,
+      "patternText": "195.150/286.655",
+      "aiScore": 55,
+      "picks": 3
+    },
+    {
+      "home": "Shakhtar Donetsk",
+      "away": "Fenerbahce",
+      "league": "ŞMP",
+      "date": "25.11.2026 20:00",
+      "matchCode": "4549405",
+      "odds": 1.31,
+      "patternScore": 66.88,
+      "patternText": "135.912/203.225",
+      "aiScore": 62,
       "picks": 2
     }
   ],
