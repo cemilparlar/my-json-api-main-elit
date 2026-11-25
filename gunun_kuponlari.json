@@ -11,20 +11,20 @@
     }
   },
   "stats30": {
-    "surprise": {
-      "won": 2,
-      "lost": 3
-    },
-    "surprise_1": {
-      "won": 2,
-      "lost": 2
-    },
     "safe": {
       "won": 2,
       "lost": 2
     },
     "safe_a": {
       "won": 1,
+      "lost": 1
+    },
+    "surprise": {
+      "won": 2,
+      "lost": 2
+    },
+    "surprise_1": {
+      "won": 2,
       "lost": 1
     },
     "safe_b": {
@@ -68,8 +68,8 @@
       "lost": 17
     }
   },
-  "updatedAt": "25.11.2026 10:56",
-  "updatedAtUtc": "2026-11-25T10:56:00Z",
+  "updatedAt": "25.11.2026 11:08",
+  "updatedAtUtc": "2026-11-25T11:08:00Z",
   "upcoming": [
     {
       "id": "20261125-11-1",
@@ -155,7 +155,7 @@
           "mbs": 1,
           "firstHalf": null,
           "finalScore": null,
-          "status": "pending",
+          "status": "live",
           "aiScore": 81
         }
       ]
