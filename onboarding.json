@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 14:06",
+  "updatedAt": "25.11.2026 14:15",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 406,
-      "lost": 203,
-      "total": 609,
-      "rate": 66.7
+      "won": 409,
+      "lost": 207,
+      "total": 616,
+      "rate": 66.4
     },
-    "totalAnalyses": 921412,
+    "totalAnalyses": 921451,
     "leagues": 281,
     "pro": {
-      "won": 1677,
-      "lost": 637,
-      "total": 2314,
-      "rate": 72.5
+      "won": 1680,
+      "lost": 641,
+      "total": 2321,
+      "rate": 72.4
     },
     "insights": {
-      "won": 2792,
-      "lost": 1154,
-      "total": 3946,
-      "rate": 70.8
+      "won": 2795,
+      "lost": 1158,
+      "total": 3953,
+      "rate": 70.7
     },
     "coupons": {
       "won": 7,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 1216,
-    "analyses30d": 15244
+    "analyses24h": 1220,
+    "analyses30d": 15248
   },
   "recentWins": [
     {
@@ -200,7 +200,7 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 12:15",
+      "at": "25.11.2026 14:11",
       "home": "Ludogorets Ii",
       "away": "Etar"
     },
@@ -212,27 +212,27 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 12:44",
+      "at": "25.11.2026 14:12",
       "home": "SK Slavia Prague",
       "away": "Villarreal CF"
+    },
+    {
+      "type": "updated",
+      "at": "25.11.2026 14:15",
+      "home": "Paris Saint-Germain",
+      "away": "AS Roma"
+    },
+    {
+      "type": "updated",
+      "at": "25.11.2026 14:15",
+      "home": "Shakhtar Donetsk",
+      "away": "Fenerbahce"
     },
     {
       "type": "updated",
       "at": "25.11.2026 13:19",
       "home": "Fleetwood Town",
       "away": "Leeds United U21"
-    },
-    {
-      "type": "updated",
-      "at": "25.11.2026 08:29",
-      "home": "FC Imabari",
-      "away": "Tegevajaro Miyazaki"
-    },
-    {
-      "type": "updated",
-      "at": "25.11.2026 08:30",
-      "home": "Fagiano Okayama",
-      "away": "Shimizu S-Pulse"
     }
   ],
   "today": {
@@ -311,6 +311,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Paris Saint-Germain",
+      "away": "AS Roma",
+      "league": "ŞMP",
+      "at": "25.11.2026 14:15",
+      "count": 4
+    },
+    {
+      "home": "Shakhtar Donetsk",
+      "away": "Fenerbahce",
+      "league": "ŞMP",
+      "at": "25.11.2026 14:15",
+      "count": 4
+    },
+    {
+      "home": "Sporting CP",
+      "away": "Manchester United",
+      "league": "ŞMP",
+      "at": "25.11.2026 14:14",
+      "count": 5
+    },
+    {
+      "home": "Stoke City",
+      "away": "Millwall",
+      "league": "İNCL",
+      "at": "25.11.2026 14:14",
+      "count": 5
+    },
+    {
+      "home": "LOSC Lille",
+      "away": "Bayern Munich",
+      "league": "ŞMP",
+      "at": "25.11.2026 14:13",
+      "count": 7
+    },
+    {
       "home": "Bolton Wanderers",
       "away": "West Bromwich Albion",
       "league": "İNCL",
@@ -344,41 +379,6 @@
       "league": "İTB",
       "at": "25.11.2026 13:18",
       "count": 7
-    },
-    {
-      "home": "Calcio Padova",
-      "away": "UC Sampdoria",
-      "league": "İTB",
-      "at": "25.11.2026 13:17",
-      "count": 9
-    },
-    {
-      "home": "SK Slavia Prague",
-      "away": "Villarreal CF",
-      "league": "ŞMP",
-      "at": "25.11.2026 12:44",
-      "count": 7
-    },
-    {
-      "home": "US Cremonese",
-      "away": "US Avellino",
-      "league": "İTB",
-      "at": "25.11.2026 12:16",
-      "count": 9
-    },
-    {
-      "home": "San Jose Earthquakes",
-      "away": "Houston Dynamo",
-      "league": "ABD",
-      "at": "25.11.2026 00:25",
-      "count": 6
-    },
-    {
-      "home": "Feyenoord",
-      "away": "FC Porto",
-      "league": "ŞMP",
-      "at": "24.11.2026 19:16",
-      "count": 8
     }
   ],
   "paywall": {
