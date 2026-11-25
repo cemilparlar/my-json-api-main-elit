@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 12:11",
+  "updatedAt": "25.11.2026 12:20",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 406,
-      "lost": 211,
-      "total": 617,
-      "rate": 65.8
+      "won": 402,
+      "lost": 210,
+      "total": 612,
+      "rate": 65.7
     },
-    "totalAnalyses": 921072,
+    "totalAnalyses": 921119,
     "leagues": 282,
     "pro": {
-      "won": 1664,
+      "won": 1667,
       "lost": 631,
-      "total": 2295,
+      "total": 2298,
       "rate": 72.5
     },
     "insights": {
-      "won": 2771,
-      "lost": 1147,
-      "total": 3918,
-      "rate": 70.7
+      "won": 2777,
+      "lost": 1148,
+      "total": 3925,
+      "rate": 70.8
     },
     "coupons": {
       "won": 6,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1233,
-    "analyses30d": 15509
+    "analyses24h": 1234,
+    "analyses30d": 15526
   },
   "recentWins": [
     {
@@ -281,6 +281,12 @@
     },
     {
       "type": "updated",
+      "at": "25.11.2026 12:15",
+      "home": "Ludogorets Ii",
+      "away": "Etar"
+    },
+    {
+      "type": "updated",
       "at": "25.11.2026 08:03",
       "home": "Gamba Osaka",
       "away": "Port FC"
@@ -311,15 +317,9 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 08:30",
-      "home": "Fagiano Okayama",
-      "away": "Shimizu S-Pulse"
-    },
-    {
-      "type": "updated",
-      "at": "25.11.2026 08:04",
-      "home": "Tochigi City FC",
-      "away": "Blaublitz Akita"
+      "at": "25.11.2026 06:27",
+      "home": "Yokohama FC",
+      "away": "Vegalta Sendai"
     }
   ],
   "today": {
@@ -330,7 +330,7 @@
     "matchCode": "4547687",
     "odds": 1.6,
     "patternScore": 66.19,
-    "patternText": "138.496/209.236",
+    "patternText": "138.504/209.244",
     "aiScore": 54,
     "picks": 1
   },
@@ -343,7 +343,7 @@
       "matchCode": "4547687",
       "odds": 1.6,
       "patternScore": 66.19,
-      "patternText": "138.496/209.236",
+      "patternText": "138.504/209.244",
       "aiScore": 54,
       "picks": 1
     },
@@ -355,9 +355,21 @@
       "matchCode": "4549482",
       "odds": 1.34,
       "patternScore": 68.62,
-      "patternText": "143.682/209.381",
+      "patternText": "143.694/209.393",
       "aiScore": 60,
       "picks": 5
+    },
+    {
+      "home": "Al Taawon",
+      "away": "Al Nahda",
+      "league": "AFCŞL2",
+      "date": "25.11.2026 18:15",
+      "matchCode": "4549999",
+      "odds": 1.32,
+      "patternScore": 68.27,
+      "patternText": "132.116/193.523",
+      "aiScore": 58,
+      "picks": 2
     },
     {
       "home": "Al Jazira Club",
@@ -367,7 +379,7 @@
       "matchCode": "4549986",
       "odds": 1.31,
       "patternScore": 67.99,
-      "patternText": "219.359/322.644",
+      "patternText": "219.383/322.668",
       "aiScore": 58,
       "picks": 3
     },
@@ -379,24 +391,19 @@
       "matchCode": "4486070",
       "odds": 1.29,
       "patternScore": 68.49,
-      "patternText": "191.845/280.110",
+      "patternText": "191.869/280.134",
       "aiScore": 61,
       "picks": 4
-    },
-    {
-      "home": "Apr Kigali",
-      "away": "Musanze",
-      "league": "RUA",
-      "date": "25.11.2026 16:30",
-      "matchCode": "4556747",
-      "odds": 1.29,
-      "patternScore": 68.07,
-      "patternText": "131.602/193.338",
-      "aiScore": 59,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "US Cremonese",
+      "away": "US Avellino",
+      "league": "İTB",
+      "at": "25.11.2026 12:16",
+      "count": 9
+    },
     {
       "home": "SK Slavia Prague",
       "away": "Villarreal CF",
@@ -459,13 +466,6 @@
       "league": "İNCL",
       "at": "24.11.2026 18:57",
       "count": 3
-    },
-    {
-      "home": "Manchester City",
-      "away": "SSC Napoli",
-      "league": "ŞMP",
-      "at": "24.11.2026 18:40",
-      "count": 14
     }
   ],
   "paywall": {
