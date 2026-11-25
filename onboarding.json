@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 22:26",
+  "updatedAt": "25.11.2026 22:34",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 403,
       "rate": 74.7
     },
-    "totalAnalyses": 922684,
+    "totalAnalyses": 922755,
     "leagues": 275,
     "pro": {
-      "won": 1761,
-      "lost": 662,
-      "total": 2423,
-      "rate": 72.7
+      "won": 1760,
+      "lost": 659,
+      "total": 2419,
+      "rate": 72.8
     },
     "insights": {
-      "won": 2913,
-      "lost": 1185,
-      "total": 4098,
+      "won": 2911,
+      "lost": 1182,
+      "total": 4093,
       "rate": 71.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 757,
-    "analyses30d": 14743
+    "analyses24h": 760,
+    "analyses30d": 14746
   },
   "recentWins": [
     {
@@ -290,18 +290,6 @@
       "picks": 3
     },
     {
-      "home": "Atletico Mineiro",
-      "away": "SC Corinthians",
-      "league": "BR1",
-      "date": "25.11.2026 23:00",
-      "matchCode": "4423384",
-      "odds": 1.28,
-      "patternScore": 68.03,
-      "patternText": "218.059/320.521",
-      "aiScore": 65,
-      "picks": 3
-    },
-    {
       "home": "Atletico Nacional",
       "away": "Independiente Medellin",
       "league": "KOL",
@@ -336,9 +324,28 @@
       "patternText": "192.228/275.983",
       "aiScore": 79,
       "picks": 1
+    },
+    {
+      "home": "Managua FC",
+      "away": "Walter Ferretti",
+      "league": "NİK",
+      "date": "26.11.2026 01:00",
+      "matchCode": "4582791",
+      "odds": 1.08,
+      "patternScore": 70.93,
+      "patternText": "238.337/336.034",
+      "aiScore": 92,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Atletico Mineiro",
+      "away": "SC Corinthians",
+      "league": "BR1",
+      "at": "25.11.2026 22:29",
+      "count": 3
+    },
     {
       "home": "Sporting CP",
       "away": "Manchester United",
@@ -401,13 +408,6 @@
       "league": "İTB",
       "at": "25.11.2026 17:25",
       "count": 5
-    },
-    {
-      "home": "Atletico Mineiro",
-      "away": "SC Corinthians",
-      "league": "BR1",
-      "at": "25.11.2026 17:09",
-      "count": 6
     }
   ],
   "paywall": {
