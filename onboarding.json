@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 22:17",
+  "updatedAt": "25.11.2026 22:26",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 403,
       "rate": 74.7
     },
-    "totalAnalyses": 922643,
+    "totalAnalyses": 922684,
     "leagues": 275,
     "pro": {
       "won": 1761,
@@ -302,18 +302,6 @@
       "picks": 3
     },
     {
-      "home": "Independiente Santa Fe",
-      "away": "Once Caldas",
-      "league": "KOL",
-      "date": "25.11.2026 23:20",
-      "matchCode": "4580963",
-      "odds": 1.22,
-      "patternScore": 67.96,
-      "patternText": "174.024/256.061",
-      "aiScore": 64,
-      "picks": 2
-    },
-    {
       "home": "Atletico Nacional",
       "away": "Independiente Medellin",
       "league": "KOL",
@@ -324,6 +312,18 @@
       "patternText": "181.994/265.888",
       "aiScore": 67,
       "picks": 2
+    },
+    {
+      "home": "Independiente Santa Fe",
+      "away": "Once Caldas",
+      "league": "KOL",
+      "date": "25.11.2026 23:20",
+      "matchCode": "4580963",
+      "odds": 1.22,
+      "patternScore": 67.98,
+      "patternText": "174.656/256.913",
+      "aiScore": 64,
+      "picks": 1
     },
     {
       "home": "CF Monterrey",
