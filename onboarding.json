@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 13:09",
+  "updatedAt": "25.11.2026 13:18",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 396,
+      "won": 395,
       "lost": 201,
-      "total": 597,
+      "total": 596,
       "rate": 66.3
     },
-    "totalAnalyses": 921296,
+    "totalAnalyses": 921321,
     "leagues": 282,
     "pro": {
       "won": 1672,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 1209,
-    "analyses30d": 15387
+    "analyses24h": 1218,
+    "analyses30d": 15391
   },
   "recentWins": [
     {
@@ -206,6 +206,12 @@
     },
     {
       "type": "updated",
+      "at": "25.11.2026 13:17",
+      "home": "CF Intercity",
+      "away": "Real Murcia Ii"
+    },
+    {
+      "type": "updated",
       "at": "25.11.2026 08:03",
       "home": "Gamba Osaka",
       "away": "Port FC"
@@ -227,12 +233,6 @@
       "at": "25.11.2026 08:04",
       "home": "Avispa Fukuoka",
       "away": "Yokohama F. Marinos"
-    },
-    {
-      "type": "updated",
-      "at": "25.11.2026 08:30",
-      "home": "Fagiano Okayama",
-      "away": "Shimizu S-Pulse"
     }
   ],
   "today": {
@@ -311,6 +311,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Mantova 1911",
+      "away": "SS Arezzo",
+      "league": "İTB",
+      "at": "25.11.2026 13:18",
+      "count": 7
+    },
+    {
+      "home": "AC Pisa",
+      "away": "Modena FC",
+      "league": "İTB",
+      "at": "25.11.2026 13:18",
+      "count": 7
+    },
+    {
+      "home": "Calcio Padova",
+      "away": "UC Sampdoria",
+      "league": "İTB",
+      "at": "25.11.2026 13:17",
+      "count": 9
+    },
+    {
       "home": "SK Slavia Prague",
       "away": "Villarreal CF",
       "league": "ŞMP",
@@ -358,27 +379,6 @@
       "league": "İNCL",
       "at": "24.11.2026 19:06",
       "count": 8
-    },
-    {
-      "home": "Middlesbrough",
-      "away": "Swansea",
-      "league": "İNCL",
-      "at": "24.11.2026 19:06",
-      "count": 4
-    },
-    {
-      "home": "Portsmouth",
-      "away": "West Ham United",
-      "league": "İNCL",
-      "at": "24.11.2026 18:57",
-      "count": 5
-    },
-    {
-      "home": "Sheffield United",
-      "away": "Southam",
-      "league": "İNCL",
-      "at": "24.11.2026 18:57",
-      "count": 3
     }
   ],
   "paywall": {
