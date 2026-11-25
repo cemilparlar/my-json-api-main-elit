@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 20:02",
+  "updatedAt": "25.11.2026 20:10",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 217,
-      "lost": 82,
-      "total": 299,
-      "rate": 72.6
+      "won": 223,
+      "lost": 88,
+      "total": 311,
+      "rate": 71.7
     },
-    "totalAnalyses": 922192,
+    "totalAnalyses": 922279,
     "leagues": 276,
     "pro": {
-      "won": 1718,
-      "lost": 649,
-      "total": 2367,
-      "rate": 72.6
+      "won": 1723,
+      "lost": 652,
+      "total": 2375,
+      "rate": 72.5
     },
     "insights": {
-      "won": 2840,
-      "lost": 1168,
-      "total": 4008,
-      "rate": 70.9
+      "won": 2846,
+      "lost": 1173,
+      "total": 4019,
+      "rate": 70.8
     },
     "coupons": {
       "won": 7,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 759,
-    "analyses30d": 14767
+    "analyses24h": 753,
+    "analyses30d": 14761
   },
   "recentWins": [
     {
@@ -193,12 +193,6 @@
       "at": "25.11.2026 17:02"
     },
     {
-      "type": "coupon",
-      "size": 3,
-      "odds": 1.52,
-      "at": "25.11.2026 08:04"
-    },
-    {
       "type": "updated",
       "at": "25.11.2026 17:08",
       "home": "SK Slavia Prague",
@@ -233,6 +227,12 @@
       "at": "25.11.2026 16:50",
       "home": "Shakhtar Donetsk",
       "away": "Fenerbahce"
+    },
+    {
+      "type": "updated",
+      "at": "25.11.2026 18:07",
+      "home": "Fleetwood Town",
+      "away": "Leeds United U21"
     }
   ],
   "today": {
