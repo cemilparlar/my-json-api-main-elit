@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 00:29",
+  "updatedAt": "25.11.2026 00:37",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 343,
+      "won": 341,
       "lost": 202,
-      "total": 545,
-      "rate": 62.9
+      "total": 543,
+      "rate": 62.8
     },
     "totalAnalyses": 778961,
     "leagues": 282,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1133,
-    "analyses30d": 15727
+    "analyses24h": 1130,
+    "analyses30d": 15670
   },
   "recentWins": [
     {
@@ -365,10 +365,10 @@
       "league": "JAP3",
       "date": "25.11.2026 05:00",
       "matchCode": "4488075",
-      "odds": 1.13,
-      "patternScore": 69.69,
-      "patternText": "188.433/270.373",
-      "aiScore": 79,
+      "odds": 1.12,
+      "patternScore": 69.87,
+      "patternText": "193.209/276.519",
+      "aiScore": 89,
       "picks": 2
     },
     {
@@ -377,11 +377,11 @@
       "league": "ABD",
       "date": "25.11.2026 03:00",
       "matchCode": "4579792",
-      "odds": 1.09,
-      "patternScore": 71.28,
-      "patternText": "88.049/123.524",
-      "aiScore": 100,
-      "picks": 3
+      "odds": 1.1,
+      "patternScore": 70.06,
+      "patternText": "213.144/304.234",
+      "aiScore": 99,
+      "picks": 2
     },
     {
       "home": "Gamba Osaka",
@@ -391,7 +391,7 @@
       "matchCode": "4550100",
       "odds": 1.57,
       "patternScore": 67.29,
-      "patternText": "125.042/185.817",
+      "patternText": "125.044/185.819",
       "aiScore": 55,
       "picks": 5
     }
