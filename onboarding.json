@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 06:38",
+  "updatedAt": "25.11.2026 06:46",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1159,
-    "analyses30d": 15596
+    "analyses24h": 1158,
+    "analyses30d": 15594
   },
   "recentWins": [
     {
@@ -372,6 +372,18 @@
       "picks": 2
     },
     {
+      "home": "Al Bukayriyah",
+      "away": "Al Wahda",
+      "league": "SUUD1",
+      "date": "25.11.2026 12:10",
+      "matchCode": "4538739",
+      "odds": 1.47,
+      "patternScore": 68.02,
+      "patternText": "197.466/290.305",
+      "aiScore": 54,
+      "picks": 3
+    },
+    {
       "home": "Avispa Fukuoka",
       "away": "Yokohama F. Marinos",
       "league": "JAP",
@@ -380,20 +392,8 @@
       "odds": 1.43,
       "patternScore": 67.99,
       "patternText": "194.279/285.738",
-      "aiScore": 54,
+      "aiScore": 55,
       "picks": 4
-    },
-    {
-      "home": "Ulinzi Stars",
-      "away": "Leopards Sc",
-      "league": "KEN",
-      "date": "25.11.2026 12:30",
-      "matchCode": "4581419",
-      "odds": 1.33,
-      "patternScore": 69.31,
-      "patternText": "204.603/295.208",
-      "aiScore": 57,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
