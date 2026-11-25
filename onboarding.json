@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 23:16",
+  "updatedAt": "25.11.2026 23:36",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 301,
+      "won": 299,
       "lost": 102,
-      "total": 403,
-      "rate": 74.7
+      "total": 401,
+      "rate": 74.6
     },
-    "totalAnalyses": 922827,
+    "totalAnalyses": 922842,
     "leagues": 275,
     "pro": {
-      "won": 1757,
-      "lost": 659,
-      "total": 2416,
+      "won": 1752,
+      "lost": 657,
+      "total": 2409,
       "rate": 72.7
     },
     "insights": {
-      "won": 2907,
-      "lost": 1182,
-      "total": 4089,
+      "won": 2897,
+      "lost": 1179,
+      "total": 4076,
       "rate": 71.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 760,
-    "analyses30d": 14736
+    "analyses24h": 762,
+    "analyses30d": 14733
   },
   "recentWins": [
     {
@@ -247,12 +247,6 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 17:25",
-      "home": "US Cremonese",
-      "away": "US Avellino"
-    },
-    {
-      "type": "updated",
       "at": "25.11.2026 18:07",
       "home": "Calcio Padova",
       "away": "UC Sampdoria"
@@ -262,6 +256,12 @@
       "at": "25.11.2026 18:29",
       "home": "AC Pisa",
       "away": "Modena FC"
+    },
+    {
+      "type": "updated",
+      "at": "25.11.2026 18:49",
+      "home": "Harrogate Town",
+      "away": "Kidderminster"
     }
   ],
   "today": {
@@ -298,7 +298,7 @@
       "odds": 1.34,
       "patternScore": 66.9,
       "patternText": "187.036/279.578",
-      "aiScore": 59,
+      "aiScore": 60,
       "picks": 3
     },
     {
