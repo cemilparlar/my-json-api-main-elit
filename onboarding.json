@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 12:44",
+  "updatedAt": "25.11.2026 12:52",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 620,
       "rate": 66.0
     },
-    "totalAnalyses": 921200,
+    "totalAnalyses": 921225,
     "leagues": 282,
     "pro": {
       "won": 1670,
@@ -281,6 +281,12 @@
     },
     {
       "type": "updated",
+      "at": "25.11.2026 12:44",
+      "home": "Talavera CF",
+      "away": "CD Conquense"
+    },
+    {
+      "type": "updated",
       "at": "25.11.2026 12:15",
       "home": "Ludogorets Ii",
       "away": "Etar"
@@ -293,7 +299,7 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 11:58",
+      "at": "25.11.2026 12:44",
       "home": "SK Slavia Prague",
       "away": "Villarreal CF"
     },
@@ -311,54 +317,24 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 06:49",
-      "home": "FC Tokyo",
-      "away": "Sanfrecce Hiroshima"
-    },
-    {
-      "type": "updated",
       "at": "25.11.2026 08:30",
       "home": "Fagiano Okayama",
       "away": "Shimizu S-Pulse"
     }
   ],
   "today": {
-    "home": "SK Slavia Prague",
-    "away": "Villarreal CF",
-    "league": "ŞMP",
-    "date": "25.11.2026 17:45",
-    "matchCode": "4549482",
-    "odds": 1.34,
-    "patternScore": 68.62,
-    "patternText": "143.758/209.487",
-    "aiScore": 60,
-    "picks": 5
+    "home": "Al Jazira Club",
+    "away": "Gol Gohar Sirja",
+    "league": "AFCŞL2",
+    "date": "25.11.2026 16:00",
+    "matchCode": "4549986",
+    "odds": 1.31,
+    "patternScore": 67.99,
+    "patternText": "219.435/322.742",
+    "aiScore": 58,
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "SK Slavia Prague",
-      "away": "Villarreal CF",
-      "league": "ŞMP",
-      "date": "25.11.2026 17:45",
-      "matchCode": "4549482",
-      "odds": 1.34,
-      "patternScore": 68.62,
-      "patternText": "143.758/209.487",
-      "aiScore": 60,
-      "picks": 5
-    },
-    {
-      "home": "Al Taawon",
-      "away": "Al Nahda",
-      "league": "AFCŞL2",
-      "date": "25.11.2026 18:15",
-      "matchCode": "4549999",
-      "odds": 1.32,
-      "patternScore": 68.27,
-      "patternText": "132.172/193.601",
-      "aiScore": 58,
-      "picks": 2
-    },
     {
       "home": "Al Jazira Club",
       "away": "Gol Gohar Sirja",
@@ -394,22 +370,46 @@
       "patternText": "131.670/193.436",
       "aiScore": 59,
       "picks": 2
+    },
+    {
+      "home": "Paris Sg U19",
+      "away": "As Roma U19",
+      "league": "UEGL",
+      "date": "25.11.2026 15:00",
+      "matchCode": "4560728",
+      "odds": 1.28,
+      "patternScore": 69.03,
+      "patternText": "210.196/304.491",
+      "aiScore": 63,
+      "picks": 1
+    },
+    {
+      "home": "US Cremonese",
+      "away": "US Avellino",
+      "league": "İTB",
+      "date": "25.11.2026 18:00",
+      "matchCode": "4534799",
+      "odds": 1.24,
+      "patternScore": 67.08,
+      "patternText": "248.243/370.086",
+      "aiScore": 61,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "SK Slavia Prague",
+      "away": "Villarreal CF",
+      "league": "ŞMP",
+      "at": "25.11.2026 12:44",
+      "count": 7
+    },
     {
       "home": "US Cremonese",
       "away": "US Avellino",
       "league": "İTB",
       "at": "25.11.2026 12:16",
       "count": 9
-    },
-    {
-      "home": "SK Slavia Prague",
-      "away": "Villarreal CF",
-      "league": "ŞMP",
-      "at": "25.11.2026 11:58",
-      "count": 8
     },
     {
       "home": "San Jose Earthquakes",
