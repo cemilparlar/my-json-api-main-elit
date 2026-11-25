@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 21:52",
+  "updatedAt": "25.11.2026 22:01",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 266,
+      "won": 278,
       "lost": 95,
-      "total": 361,
-      "rate": 73.7
+      "total": 373,
+      "rate": 74.5
     },
-    "totalAnalyses": 922604,
+    "totalAnalyses": 922624,
     "leagues": 275,
     "pro": {
-      "won": 1744,
+      "won": 1753,
       "lost": 659,
-      "total": 2403,
-      "rate": 72.6
+      "total": 2412,
+      "rate": 72.7
     },
     "insights": {
-      "won": 2889,
-      "lost": 1182,
-      "total": 4071,
-      "rate": 71.0
+      "won": 2899,
+      "lost": 1181,
+      "total": 4080,
+      "rate": 71.1
     },
     "coupons": {
       "won": 7,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 759,
-    "analyses30d": 14747
+    "analyses24h": 758,
+    "analyses30d": 14744
   },
   "recentWins": [
     {
@@ -236,18 +236,30 @@
     }
   ],
   "today": {
-    "home": "Atletico Mineiro",
-    "away": "SC Corinthians",
-    "league": "BR1",
-    "date": "25.11.2026 23:00",
-    "matchCode": "4423384",
-    "odds": 1.28,
-    "patternScore": 68.03,
-    "patternText": "217.991/320.429",
-    "aiScore": 64,
+    "home": "CSD Municipal",
+    "away": "CSD Aurora",
+    "league": "GUAT",
+    "date": "26.11.2026 02:00",
+    "matchCode": "4490452",
+    "odds": 1.54,
+    "patternScore": 66.39,
+    "patternText": "108.974/164.142",
+    "aiScore": 53,
     "picks": 3
   },
   "todayList": [
+    {
+      "home": "CSD Municipal",
+      "away": "CSD Aurora",
+      "league": "GUAT",
+      "date": "26.11.2026 02:00",
+      "matchCode": "4490452",
+      "odds": 1.54,
+      "patternScore": 66.39,
+      "patternText": "108.974/164.142",
+      "aiScore": 53,
+      "picks": 3
+    },
     {
       "home": "Atletico Mineiro",
       "away": "SC Corinthians",
@@ -257,7 +269,7 @@
       "odds": 1.28,
       "patternScore": 68.03,
       "patternText": "217.991/320.429",
-      "aiScore": 64,
+      "aiScore": 65,
       "picks": 3
     },
     {
@@ -281,7 +293,7 @@
       "odds": 1.22,
       "patternScore": 68.45,
       "patternText": "181.976/265.860",
-      "aiScore": 66,
+      "aiScore": 67,
       "picks": 2
     },
     {
@@ -295,18 +307,6 @@
       "patternText": "192.204/275.949",
       "aiScore": 79,
       "picks": 1
-    },
-    {
-      "home": "Managua FC",
-      "away": "Walter Ferretti",
-      "league": "NİK",
-      "date": "26.11.2026 01:00",
-      "matchCode": "4582791",
-      "odds": 1.08,
-      "patternScore": 70.93,
-      "patternText": "238.305/335.994",
-      "aiScore": 92,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
