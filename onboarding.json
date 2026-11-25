@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 21:36",
+  "updatedAt": "25.11.2026 21:44",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 240,
-      "lost": 94,
-      "total": 334,
-      "rate": 71.9
+      "won": 266,
+      "lost": 95,
+      "total": 361,
+      "rate": 73.7
     },
-    "totalAnalyses": 922599,
+    "totalAnalyses": 922602,
     "leagues": 275,
     "pro": {
-      "won": 1733,
+      "won": 1744,
       "lost": 659,
-      "total": 2392,
-      "rate": 72.4
+      "total": 2403,
+      "rate": 72.6
     },
     "insights": {
-      "won": 2863,
-      "lost": 1181,
-      "total": 4044,
-      "rate": 70.8
+      "won": 2889,
+      "lost": 1182,
+      "total": 4071,
+      "rate": 71.0
     },
     "coupons": {
       "won": 7,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 758,
-    "analyses30d": 14746
+    "analyses24h": 757,
+    "analyses30d": 14745
   },
   "recentWins": [
     {
@@ -269,7 +269,7 @@
       "odds": 1.22,
       "patternScore": 67.96,
       "patternText": "173.966/255.993",
-      "aiScore": 63,
+      "aiScore": 64,
       "picks": 2
     },
     {
@@ -285,28 +285,28 @@
       "picks": 2
     },
     {
-      "home": "Boca Juniors",
-      "away": "Rivadavia",
-      "league": "ARJ",
-      "date": "26.11.2026 00:00",
-      "matchCode": "4580874",
-      "odds": 1.21,
-      "patternScore": 68.02,
-      "patternText": "216.118/317.733",
-      "aiScore": 64,
-      "picks": 3
+      "home": "CF Monterrey",
+      "away": "Club America",
+      "league": "MEK",
+      "date": "26.11.2026 03:10",
+      "matchCode": "4582340",
+      "odds": 1.14,
+      "patternScore": 69.65,
+      "patternText": "192.166/275.911",
+      "aiScore": 79,
+      "picks": 1
     },
     {
-      "home": "Barcelona SC Guayaquil",
-      "away": "Indep. Jose Ter",
-      "league": "EKV1",
-      "date": "26.11.2026 00:00",
-      "matchCode": "4563393",
-      "odds": 1.15,
-      "patternScore": 69.81,
-      "patternText": "194.960/279.272",
-      "aiScore": 76,
-      "picks": 1
+      "home": "Managua FC",
+      "away": "Walter Ferretti",
+      "league": "NİK",
+      "date": "26.11.2026 01:00",
+      "matchCode": "4582791",
+      "odds": 1.08,
+      "patternScore": 70.92,
+      "patternText": "238.259/335.948",
+      "aiScore": 92,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
