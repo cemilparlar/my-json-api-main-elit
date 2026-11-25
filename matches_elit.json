@@ -1227,7 +1227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "26.11.2026 20:00",
@@ -5097,7 +5097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "24.11.2026 15:00",
@@ -5217,7 +5217,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "24.11.2026 19:00",
@@ -5667,7 +5667,7 @@
             "e": 85,
             "b": 90.48
         },
-        "aiScore": 87
+        "aiScore": 88
     },
     {
         "date": "24.11.2026 19:45",
@@ -7677,7 +7677,7 @@
             "e": 85,
             "b": 91.67
         },
-        "aiScore": 58
+        "aiScore": 57
     },
     {
         "date": "24.11.2026 19:00",
@@ -13350,66 +13350,6 @@
         "aiScore": 87
     },
     {
-        "date": "25.11.2026 22:00",
-        "league": "NİK",
-        "matchCode": "4582790",
-        "home": "UNAN Managua",
-        "away": "Export Sebaco",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "71.13",
-        "odds": "1.14",
-        "matchCount": "142",
-        "matchLink": "4582790",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "17/115",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 16:16",
-        "patternScore": 70.37,
-        "patternText": "235.738/335.016",
-        "patternInfo": {
-            "m": 51,
-            "s": 2,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 68
-    },
-    {
-        "date": "25.11.2026 22:00",
-        "league": "NİK",
-        "matchCode": "4582790",
-        "home": "UNAN Managua",
-        "away": "Export Sebaco",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Double Chance 1X",
-        "ihtimal": "73.94",
-        "odds": "1.15",
-        "matchCount": "142",
-        "matchLink": "4582790",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "17/115",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 16:16",
-        "patternScore": 69.88,
-        "patternText": "198.130/283.522",
-        "patternInfo": {
-            "m": 48,
-            "s": 10,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 88
-    },
-    {
         "date": "27.11.2026 00:00",
         "league": "NİK",
         "matchCode": "4582794",
@@ -16663,11 +16603,11 @@
         "matchCount": "105",
         "matchLink": "4549999",
         "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "16/105",
+        "predictedScore": "1-2",
+        "predictedScoreText": "10/70",
         "mbs": 3,
         "tahminUpdated": true,
-        "tahminUpdatedAt": "25.11.2026 16:08",
+        "tahminUpdatedAt": "25.11.2026 16:27",
         "patternScore": 70.58,
         "patternText": "285.599/404.633",
         "patternInfo": {
@@ -16678,5 +16618,65 @@
             "b": 100.0
         },
         "aiScore": 91
+    },
+    {
+        "date": "25.11.2026 22:00",
+        "league": "NİK",
+        "matchCode": "4582790",
+        "home": "UNAN Managua",
+        "away": "Export Sebaco",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "80.87",
+        "odds": "1.09",
+        "matchCount": "115",
+        "matchLink": "4582790",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "17/115",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "25.11.2026 16:16",
+        "patternScore": 71.51,
+        "patternText": "117.307/164.035",
+        "patternInfo": {
+            "m": 45,
+            "s": 9,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 97
+    },
+    {
+        "date": "26.11.2026 22:00",
+        "league": "NİK",
+        "matchCode": "4582793",
+        "home": "Club Deportivo Jalapa",
+        "away": "San Marcos",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "77.45",
+        "odds": "1.08",
+        "matchCount": "102",
+        "matchLink": "4582793",
+        "status": "Pending",
+        "predictedScore": "1-1",
+        "predictedScoreText": "13/102",
+        "mbs": 3,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": 67.85,
+        "patternText": "340.944/502.481",
+        "patternInfo": {
+            "m": 60,
+            "s": 5,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 80
     }
 ]
