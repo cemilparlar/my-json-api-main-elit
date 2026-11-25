@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 03:29",
+  "updatedAt": "25.11.2026 03:37",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 536,
       "rate": 63.1
     },
-    "totalAnalyses": 778966,
+    "totalAnalyses": 778968,
     "leagues": 281,
     "pro": {
       "won": 1630,
@@ -108,17 +108,17 @@
       "pro": false
     },
     {
-      "home": "Vancouver Whitecaps",
-      "away": "Salt Lake",
-      "league": "ABD",
-      "date": "23.11.2026 01:30",
-      "prediction": "Both Teams to Score - No",
-      "odds": 2.17,
-      "probability": 75.0,
-      "patternScore": 63.16,
+      "home": "Virtus Entella",
+      "away": "Verona",
+      "league": "İTB",
+      "date": "24.11.2026 19:00",
+      "prediction": "1st Half Result X",
+      "odds": 1.95,
+      "probability": 100.0,
+      "patternScore": 56.06,
       "aiScore": 51,
-      "firstHalf": "1 - 0",
-      "finalScore": "2 - 0",
+      "firstHalf": "1 - 1",
+      "finalScore": "2 - 1",
       "pro": false
     }
   ],
@@ -287,6 +287,12 @@
     },
     {
       "type": "updated",
+      "at": "25.11.2026 03:33",
+      "home": "FC Imabari",
+      "away": "Tegevajaro Miyazaki"
+    },
+    {
+      "type": "updated",
       "at": "25.11.2026 01:56",
       "home": "FC Ryukyu",
       "away": "Roasso Kumamoto"
@@ -299,7 +305,13 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 03:14",
+      "at": "25.11.2026 03:34",
+      "home": "SC Sagamihara",
+      "away": "Ehime FC"
+    },
+    {
+      "type": "updated",
+      "at": "25.11.2026 03:33",
       "home": "Mio Biwako Shi",
       "away": "Kochi United"
     },
@@ -308,10 +320,6 @@
       "home": "Giravanz Kitakyushu",
       "away": "Zweigen Kanazaw",
       "at": "25.11.2026 05:00"
-    },
-    {
-      "type": "analysis",
-      "count": 1124
     }
   ],
   "today": {
@@ -340,6 +348,18 @@
       "picks": 2
     },
     {
+      "home": "Vanraure Hachinohe",
+      "away": "Albirex Niigata",
+      "league": "JAP2",
+      "date": "25.11.2026 09:30",
+      "matchCode": "4487688",
+      "odds": 1.18,
+      "patternScore": 69.3,
+      "patternText": "179.165/258.528",
+      "aiScore": 71,
+      "picks": 4
+    },
+    {
       "home": "Mio Biwako Shi",
       "away": "Kochi United",
       "league": "JAP3",
@@ -364,27 +384,15 @@
       "picks": 2
     },
     {
-      "home": "Gamba Osaka",
-      "away": "Port FC",
-      "league": "AŞMP",
-      "date": "25.11.2026 10:00",
-      "matchCode": "4550100",
-      "odds": 1.57,
-      "patternScore": 67.29,
-      "patternText": "125.048/185.823",
-      "aiScore": 55,
-      "picks": 5
-    },
-    {
-      "home": "FC Tokyo",
-      "away": "Sanfrecce Hiroshima",
-      "league": "JAP",
-      "date": "25.11.2026 10:00",
-      "matchCode": "4487280",
-      "odds": 1.36,
-      "patternScore": 67.87,
-      "patternText": "123.477/181.940",
-      "aiScore": 57,
+      "home": "FC Imabari",
+      "away": "Tegevajaro Miyazaki",
+      "league": "JAP2",
+      "date": "25.11.2026 09:30",
+      "matchCode": "4487695",
+      "odds": 1.1,
+      "patternScore": 70.07,
+      "patternText": "204.631/292.046",
+      "aiScore": 86,
       "picks": 2
     }
   ],
