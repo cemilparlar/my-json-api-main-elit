@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 05:07",
+  "updatedAt": "25.11.2026 05:15",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 540,
       "rate": 63.0
     },
-    "totalAnalyses": 779023,
+    "totalAnalyses": 779025,
     "leagues": 281,
     "pro": {
       "won": 1627,
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1130,
-    "analyses30d": 15580
+    "analyses24h": 1134,
+    "analyses30d": 15584
   },
   "recentWins": [
     {
@@ -330,7 +330,7 @@
     "matchCode": "4487278",
     "odds": 1.63,
     "patternScore": 67.31,
-    "patternText": "199.784/296.804",
+    "patternText": "199.790/296.816",
     "aiScore": 54,
     "picks": 5
   },
@@ -343,7 +343,7 @@
       "matchCode": "4487278",
       "odds": 1.63,
       "patternScore": 67.31,
-      "patternText": "199.784/296.804",
+      "patternText": "199.790/296.816",
       "aiScore": 54,
       "picks": 5
     },
@@ -355,8 +355,20 @@
       "matchCode": "4550100",
       "odds": 1.52,
       "patternScore": 66.8,
-      "patternText": "119.428/178.787",
+      "patternText": "119.430/178.791",
       "aiScore": 52,
+      "picks": 3
+    },
+    {
+      "home": "Melbourne Victory",
+      "away": "Viettel FC",
+      "league": "AFCŞL2",
+      "date": "25.11.2026 07:45",
+      "matchCode": "4550022",
+      "odds": 1.47,
+      "patternScore": 67.05,
+      "patternText": "187.698/279.929",
+      "aiScore": 54,
       "picks": 3
     },
     {
@@ -367,7 +379,7 @@
       "matchCode": "4487281",
       "odds": 1.3,
       "patternScore": 67.53,
-      "patternText": "216.139/320.051",
+      "patternText": "216.145/320.063",
       "aiScore": 57,
       "picks": 4
     },
@@ -379,21 +391,9 @@
       "matchCode": "4488073",
       "odds": 1.27,
       "patternScore": 68.34,
-      "patternText": "171.489/250.938",
+      "patternText": "171.503/250.966",
       "aiScore": 58,
       "picks": 2
-    },
-    {
-      "home": "Montedio Yamagata",
-      "away": "Jubilo Iwata",
-      "league": "JAP2",
-      "date": "25.11.2026 10:00",
-      "matchCode": "4487689",
-      "odds": 1.27,
-      "patternScore": 68.3,
-      "patternText": "193.516/283.334",
-      "aiScore": 60,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
