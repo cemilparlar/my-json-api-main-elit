@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 15:14",
+  "updatedAt": "25.11.2026 15:24",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 616,
       "rate": 65.9
     },
-    "totalAnalyses": 921605,
+    "totalAnalyses": 921621,
     "leagues": 280,
     "pro": {
       "won": 1685,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 1199,
-    "analyses30d": 15195
+    "analyses24h": 1205,
+    "analyses30d": 15183
   },
   "recentWins": [
     {
@@ -212,7 +212,7 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 14:54",
+      "at": "25.11.2026 15:18",
       "home": "SK Slavia Prague",
       "away": "Villarreal CF"
     },
@@ -224,15 +224,15 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 14:15",
-      "home": "Shakhtar Donetsk",
-      "away": "Fenerbahce"
+      "at": "25.11.2026 15:19",
+      "home": "LOSC Lille",
+      "away": "Bayern Munich"
     },
     {
       "type": "updated",
-      "at": "25.11.2026 13:19",
-      "home": "Fleetwood Town",
-      "away": "Leeds United U21"
+      "at": "25.11.2026 14:15",
+      "home": "Shakhtar Donetsk",
+      "away": "Fenerbahce"
     }
   ],
   "today": {
@@ -243,7 +243,7 @@
     "matchCode": "4534802",
     "odds": 2.17,
     "patternScore": 66.32,
-    "patternText": "141.628/213.545",
+    "patternText": "141.630/213.547",
     "aiScore": 51,
     "picks": 7
   },
@@ -256,7 +256,7 @@
       "matchCode": "4534802",
       "odds": 2.17,
       "patternScore": 66.32,
-      "patternText": "141.628/213.545",
+      "patternText": "141.630/213.547",
       "aiScore": 51,
       "picks": 7
     },
@@ -268,9 +268,21 @@
       "matchCode": "4549986",
       "odds": 1.61,
       "patternScore": 66.72,
-      "patternText": "135.882/203.667",
+      "patternText": "135.884/203.669",
       "aiScore": 54,
       "picks": 2
+    },
+    {
+      "home": "Al Faisaly Amman",
+      "away": "Al Rayyan",
+      "league": "AFCŞL2",
+      "date": "25.11.2026 16:00",
+      "matchCode": "4549998",
+      "odds": 1.47,
+      "patternScore": 68.27,
+      "patternText": "194.746/285.269",
+      "aiScore": 54,
+      "picks": 4
     },
     {
       "home": "LOSC Lille",
@@ -280,21 +292,9 @@
       "matchCode": "4549483",
       "odds": 1.35,
       "patternScore": 66.31,
-      "patternText": "138.578/208.972",
+      "patternText": "138.580/208.974",
       "aiScore": 58,
       "picks": 2
-    },
-    {
-      "home": "Al Faisaly Amman",
-      "away": "Al Rayyan",
-      "league": "AFCŞL2",
-      "date": "25.11.2026 16:00",
-      "matchCode": "4549998",
-      "odds": 1.35,
-      "patternScore": 68.07,
-      "patternText": "195.170/286.699",
-      "aiScore": 55,
-      "picks": 3
     },
     {
       "home": "Shakhtar Donetsk",
@@ -304,12 +304,26 @@
       "matchCode": "4549405",
       "odds": 1.31,
       "patternScore": 66.87,
-      "patternText": "135.956/203.309",
+      "patternText": "135.958/203.311",
       "aiScore": 62,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "LOSC Lille",
+      "away": "Bayern Munich",
+      "league": "ŞMP",
+      "at": "25.11.2026 15:19",
+      "count": 7
+    },
+    {
+      "home": "Bolton Wanderers",
+      "away": "West Bromwich Albion",
+      "league": "İNCL",
+      "at": "25.11.2026 15:18",
+      "count": 9
+    },
     {
       "home": "Watford",
       "away": "Blackburn",
@@ -344,20 +358,6 @@
       "league": "İNCL",
       "at": "25.11.2026 14:14",
       "count": 5
-    },
-    {
-      "home": "LOSC Lille",
-      "away": "Bayern Munich",
-      "league": "ŞMP",
-      "at": "25.11.2026 14:13",
-      "count": 7
-    },
-    {
-      "home": "Bolton Wanderers",
-      "away": "West Bromwich Albion",
-      "league": "İNCL",
-      "at": "25.11.2026 13:56",
-      "count": 6
     },
     {
       "home": "Burnley",
