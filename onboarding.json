@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 22:01",
+  "updatedAt": "25.11.2026 22:09",
   "config": {
     "pages": [
       "engine",
@@ -22,30 +22,30 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 278,
-      "lost": 95,
-      "total": 373,
-      "rate": 74.5
+      "won": 301,
+      "lost": 102,
+      "total": 403,
+      "rate": 74.7
     },
-    "totalAnalyses": 922624,
+    "totalAnalyses": 922641,
     "leagues": 275,
     "pro": {
-      "won": 1753,
-      "lost": 659,
-      "total": 2412,
+      "won": 1761,
+      "lost": 662,
+      "total": 2423,
       "rate": 72.7
     },
     "insights": {
-      "won": 2899,
-      "lost": 1181,
-      "total": 4080,
+      "won": 2913,
+      "lost": 1185,
+      "total": 4098,
       "rate": 71.1
     },
     "coupons": {
-      "won": 7,
+      "won": 8,
       "lost": 11,
-      "total": 18,
-      "rate": 38.9
+      "total": 19,
+      "rate": 42.1
     },
     "analyses24h": 758,
     "analyses30d": 14744
@@ -123,6 +123,35 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 3,
+      "totalOdds": 1.52,
+      "winChance": 54.56,
+      "completedAt": "25.11.2026 22:09",
+      "legs": [
+        {
+          "home": "SK Slavia Prague",
+          "away": "Villarreal CF",
+          "prediction": "Double Chance 12",
+          "odds": 1.15,
+          "finalScore": "0 - 1"
+        },
+        {
+          "home": "Stoke City",
+          "away": "Millwall",
+          "prediction": "Double Chance 1X",
+          "odds": 1.15,
+          "finalScore": "2 - 1"
+        },
+        {
+          "home": "Inter",
+          "away": "VfB Stuttgart",
+          "prediction": "1st Half Under 2.5",
+          "odds": 1.15,
+          "finalScore": "2 - 0"
+        }
+      ]
+    },
     {
       "size": 3,
       "totalOdds": 1.52,
@@ -242,8 +271,8 @@
     "date": "26.11.2026 02:00",
     "matchCode": "4490452",
     "odds": 1.54,
-    "patternScore": 66.39,
-    "patternText": "108.974/164.142",
+    "patternScore": 66.4,
+    "patternText": "109.006/164.176",
     "aiScore": 53,
     "picks": 3
   },
@@ -255,8 +284,8 @@
       "date": "26.11.2026 02:00",
       "matchCode": "4490452",
       "odds": 1.54,
-      "patternScore": 66.39,
-      "patternText": "108.974/164.142",
+      "patternScore": 66.4,
+      "patternText": "109.006/164.176",
       "aiScore": 53,
       "picks": 3
     },
@@ -268,7 +297,7 @@
       "matchCode": "4423384",
       "odds": 1.28,
       "patternScore": 68.03,
-      "patternText": "217.991/320.429",
+      "patternText": "218.025/320.469",
       "aiScore": 65,
       "picks": 3
     },
@@ -280,7 +309,7 @@
       "matchCode": "4580963",
       "odds": 1.22,
       "patternScore": 67.96,
-      "patternText": "174.006/256.033",
+      "patternText": "174.016/256.045",
       "aiScore": 64,
       "picks": 2
     },
@@ -292,7 +321,7 @@
       "matchCode": "4580964",
       "odds": 1.22,
       "patternScore": 68.45,
-      "patternText": "181.976/265.860",
+      "patternText": "181.986/265.872",
       "aiScore": 67,
       "picks": 2
     },
@@ -304,7 +333,7 @@
       "matchCode": "4582340",
       "odds": 1.14,
       "patternScore": 69.65,
-      "patternText": "192.204/275.949",
+      "patternText": "192.224/275.971",
       "aiScore": 79,
       "picks": 1
     }
