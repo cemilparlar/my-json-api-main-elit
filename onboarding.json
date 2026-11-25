@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 17:10",
+  "updatedAt": "25.11.2026 17:18",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 422,
-      "lost": 216,
-      "total": 638,
-      "rate": 66.1
+      "won": 435,
+      "lost": 217,
+      "total": 652,
+      "rate": 66.7
     },
     "totalAnalyses": 921741,
     "leagues": 279,
     "pro": {
-      "won": 1697,
+      "won": 1699,
       "lost": 648,
-      "total": 2345,
+      "total": 2347,
       "rate": 72.4
     },
     "insights": {
-      "won": 2815,
+      "won": 2828,
       "lost": 1170,
-      "total": 3985,
-      "rate": 70.6
+      "total": 3998,
+      "rate": 70.7
     },
     "coupons": {
       "won": 7,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 1198,
-    "analyses30d": 14934
+    "analyses24h": 1194,
+    "analyses30d": 14930
   },
   "recentWins": [
     {
@@ -261,18 +261,6 @@
       "picks": 7
     },
     {
-      "home": "SK Slavia Prague",
-      "away": "Villarreal CF",
-      "league": "ŞMP",
-      "date": "25.11.2026 17:45",
-      "matchCode": "4549482",
-      "odds": 1.41,
-      "patternScore": 67.58,
-      "patternText": "206.610/305.732",
-      "aiScore": 57,
-      "picks": 5
-    },
-    {
       "home": "Sporting CP",
       "away": "Manchester United",
       "league": "ŞMP",
@@ -283,6 +271,18 @@
       "patternText": "195.372/290.460",
       "aiScore": 62,
       "picks": 4
+    },
+    {
+      "home": "Atletico Mineiro",
+      "away": "SC Corinthians",
+      "league": "BR1",
+      "date": "25.11.2026 23:00",
+      "matchCode": "4423384",
+      "odds": 1.28,
+      "patternScore": 68.02,
+      "patternText": "217.763/320.133",
+      "aiScore": 65,
+      "picks": 3
     },
     {
       "home": "Watford",
