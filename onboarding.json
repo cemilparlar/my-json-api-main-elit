@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 01:26",
+  "updatedAt": "25.11.2026 01:33",
   "config": {
     "pages": [
       "engine",
@@ -31,14 +31,14 @@
     "leagues": 282,
     "pro": {
       "won": 1630,
-      "lost": 625,
-      "total": 2255,
+      "lost": 623,
+      "total": 2253,
       "rate": 72.3
     },
     "insights": {
       "won": 2718,
-      "lost": 1138,
-      "total": 3856,
+      "lost": 1136,
+      "total": 3854,
       "rate": 70.5
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 17,
       "rate": 35.3
     },
-    "analyses24h": 1124,
-    "analyses30d": 15666
+    "analyses24h": 1123,
+    "analyses30d": 15665
   },
   "recentWins": [
     {
@@ -305,9 +305,9 @@
     },
     {
       "type": "kickoff",
-      "home": "America de Cali",
-      "away": "Deportivo Cali",
-      "at": "25.11.2026 01:30"
+      "home": "San Jose Earthquakes",
+      "away": "Houston Dynamo",
+      "at": "25.11.2026 03:00"
     },
     {
       "type": "kickoff",
@@ -316,10 +316,8 @@
       "at": "25.11.2026 03:00"
     },
     {
-      "type": "kickoff",
-      "home": "San Jose Earthquakes",
-      "away": "Houston Dynamo",
-      "at": "25.11.2026 03:00"
+      "type": "analysis",
+      "count": 1123
     }
   ],
   "today": {
@@ -328,11 +326,11 @@
     "league": "JAP3",
     "date": "25.11.2026 03:00",
     "matchCode": "4488076",
-    "odds": 1.13,
-    "patternScore": 72.03,
-    "patternText": "140.407/194.916",
-    "aiScore": 99,
-    "picks": 1
+    "odds": 1.2,
+    "patternScore": 69.83,
+    "patternText": "182.639/261.562",
+    "aiScore": 87,
+    "picks": 2
   },
   "todayList": [
     {
@@ -341,11 +339,11 @@
       "league": "JAP3",
       "date": "25.11.2026 03:00",
       "matchCode": "4488076",
-      "odds": 1.13,
-      "patternScore": 72.03,
-      "patternText": "140.407/194.916",
-      "aiScore": 99,
-      "picks": 1
+      "odds": 1.2,
+      "patternScore": 69.83,
+      "patternText": "182.639/261.562",
+      "aiScore": 87,
+      "picks": 2
     },
     {
       "home": "Giravanz Kitakyushu",
