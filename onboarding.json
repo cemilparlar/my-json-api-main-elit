@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 16:54",
+  "updatedAt": "25.11.2026 17:02",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 414,
-      "lost": 209,
-      "total": 623,
-      "rate": 66.5
+      "won": 422,
+      "lost": 216,
+      "total": 638,
+      "rate": 66.1
     },
-    "totalAnalyses": 921717,
+    "totalAnalyses": 921730,
     "leagues": 279,
     "pro": {
-      "won": 1693,
-      "lost": 644,
-      "total": 2337,
+      "won": 1697,
+      "lost": 648,
+      "total": 2345,
       "rate": 72.4
     },
     "insights": {
-      "won": 2811,
-      "lost": 1164,
-      "total": 3975,
-      "rate": 70.7
+      "won": 2815,
+      "lost": 1170,
+      "total": 3985,
+      "rate": 70.6
     },
     "coupons": {
       "won": 7,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 1195,
-    "analyses30d": 14947
+    "analyses24h": 1191,
+    "analyses30d": 14927
   },
   "recentWins": [
     {
@@ -190,6 +190,12 @@
       "type": "coupon",
       "size": 3,
       "odds": 1.52,
+      "at": "25.11.2026 17:02"
+    },
+    {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.52,
       "at": "25.11.2026 08:04"
     },
     {
@@ -227,12 +233,6 @@
       "at": "25.11.2026 15:30",
       "home": "Inter",
       "away": "VfB Stuttgart"
-    },
-    {
-      "type": "updated",
-      "at": "25.11.2026 15:19",
-      "home": "LOSC Lille",
-      "away": "Bayern Munich"
     }
   ],
   "today": {
@@ -273,18 +273,6 @@
       "picks": 5
     },
     {
-      "home": "Shakhtar Donetsk",
-      "away": "Fenerbahce",
-      "league": "ŞMP",
-      "date": "25.11.2026 20:00",
-      "matchCode": "4549405",
-      "odds": 1.31,
-      "patternScore": 66.88,
-      "patternText": "135.994/203.353",
-      "aiScore": 63,
-      "picks": 2
-    },
-    {
       "home": "Sporting CP",
       "away": "Manchester United",
       "league": "ŞMP",
@@ -307,6 +295,18 @@
       "patternText": "245.647/359.092",
       "aiScore": 62,
       "picks": 3
+    },
+    {
+      "home": "Burnley",
+      "away": "Birmingham City",
+      "league": "İNCL",
+      "date": "25.11.2026 19:45",
+      "matchCode": "4488882",
+      "odds": 1.25,
+      "patternScore": 68.22,
+      "patternText": "225.036/329.872",
+      "aiScore": 63,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
