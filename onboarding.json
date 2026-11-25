@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 19:54",
+  "updatedAt": "25.11.2026 20:02",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 248,
-      "lost": 143,
-      "total": 391,
-      "rate": 63.4
+      "won": 217,
+      "lost": 82,
+      "total": 299,
+      "rate": 72.6
     },
-    "totalAnalyses": 922128,
-    "leagues": 277,
+    "totalAnalyses": 922192,
+    "leagues": 276,
     "pro": {
       "won": 1718,
-      "lost": 651,
-      "total": 2369,
-      "rate": 72.5
+      "lost": 649,
+      "total": 2367,
+      "rate": 72.6
     },
     "insights": {
-      "won": 2844,
-      "lost": 1172,
-      "total": 4016,
-      "rate": 70.8
+      "won": 2840,
+      "lost": 1168,
+      "total": 4008,
+      "rate": 70.9
     },
     "coupons": {
       "won": 7,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 852,
-    "analyses30d": 14800
+    "analyses24h": 759,
+    "analyses30d": 14767
   },
   "recentWins": [
     {
@@ -236,30 +236,18 @@
     }
   ],
   "today": {
-    "home": "Managua FC",
-    "away": "Walter Ferretti",
-    "league": "NİK",
-    "date": "26.11.2026 01:00",
-    "matchCode": "4582791",
-    "odds": 1.43,
-    "patternScore": 68.51,
-    "patternText": "161.551/235.822",
-    "aiScore": 54,
-    "picks": 2
+    "home": "Atletico Mineiro",
+    "away": "SC Corinthians",
+    "league": "BR1",
+    "date": "25.11.2026 23:00",
+    "matchCode": "4423384",
+    "odds": 1.28,
+    "patternScore": 68.03,
+    "patternText": "217.901/320.301",
+    "aiScore": 64,
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Managua FC",
-      "away": "Walter Ferretti",
-      "league": "NİK",
-      "date": "26.11.2026 01:00",
-      "matchCode": "4582791",
-      "odds": 1.43,
-      "patternScore": 68.51,
-      "patternText": "161.551/235.822",
-      "aiScore": 54,
-      "picks": 2
-    },
     {
       "home": "Atletico Mineiro",
       "away": "SC Corinthians",
@@ -282,6 +270,18 @@
       "patternScore": 67.96,
       "patternText": "173.898/255.901",
       "aiScore": 64,
+      "picks": 2
+    },
+    {
+      "home": "Atletico Nacional",
+      "away": "Independiente Medellin",
+      "league": "KOL",
+      "date": "26.11.2026 01:30",
+      "matchCode": "4580964",
+      "odds": 1.22,
+      "patternScore": 68.44,
+      "patternText": "181.860/265.716",
+      "aiScore": 67,
       "picks": 2
     },
     {
