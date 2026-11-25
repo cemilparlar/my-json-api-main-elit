@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 21:44",
+  "updatedAt": "25.11.2026 21:52",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 361,
       "rate": 73.7
     },
-    "totalAnalyses": 922602,
+    "totalAnalyses": 922604,
     "leagues": 275,
     "pro": {
       "won": 1744,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 757,
-    "analyses30d": 14745
+    "analyses24h": 759,
+    "analyses30d": 14747
   },
   "recentWins": [
     {
@@ -94,20 +94,6 @@
       "pro": false
     },
     {
-      "home": "FC Nantes",
-      "away": "Grenoble Foot",
-      "league": "FR2",
-      "date": "23.11.2026 19:45",
-      "prediction": "Under 1.5 Goals",
-      "odds": 3.04,
-      "probability": 100.0,
-      "patternScore": 55.88,
-      "aiScore": 50,
-      "firstHalf": "0 - 0",
-      "finalScore": "1 - 0",
-      "pro": false
-    },
-    {
       "home": "Melbourne Victory",
       "away": "Viettel FC",
       "league": "AFCŞL2",
@@ -119,6 +105,20 @@
       "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
+      "pro": false
+    },
+    {
+      "home": "Gamba Osaka",
+      "away": "Port FC",
+      "league": "AŞMP",
+      "date": "25.11.2026 10:00",
+      "prediction": "Total Goals 2-3",
+      "odds": 2.19,
+      "probability": 75.0,
+      "patternScore": 63.48,
+      "aiScore": 51,
+      "firstHalf": "0 - 0",
+      "finalScore": "2 - 0",
       "pro": false
     }
   ],
@@ -180,11 +180,11 @@
     },
     {
       "type": "won",
-      "home": "FC Nantes",
-      "away": "Grenoble Foot",
-      "prediction": "Under 1.5 Goals",
-      "odds": 3.04,
-      "at": "23.11.2026 19:45"
+      "home": "Melbourne Victory",
+      "away": "Viettel FC",
+      "prediction": "1st Half Result X",
+      "odds": 2.25,
+      "at": "25.11.2026 07:45"
     },
     {
       "type": "coupon",
@@ -243,7 +243,7 @@
     "matchCode": "4423384",
     "odds": 1.28,
     "patternScore": 68.03,
-    "patternText": "217.961/320.399",
+    "patternText": "217.991/320.429",
     "aiScore": 64,
     "picks": 3
   },
@@ -256,7 +256,7 @@
       "matchCode": "4423384",
       "odds": 1.28,
       "patternScore": 68.03,
-      "patternText": "217.961/320.399",
+      "patternText": "217.991/320.429",
       "aiScore": 64,
       "picks": 3
     },
@@ -268,7 +268,7 @@
       "matchCode": "4580963",
       "odds": 1.22,
       "patternScore": 67.96,
-      "patternText": "173.966/255.993",
+      "patternText": "174.006/256.033",
       "aiScore": 64,
       "picks": 2
     },
@@ -279,8 +279,8 @@
       "date": "26.11.2026 01:30",
       "matchCode": "4580964",
       "odds": 1.22,
-      "patternScore": 68.44,
-      "patternText": "181.932/265.816",
+      "patternScore": 68.45,
+      "patternText": "181.976/265.860",
       "aiScore": 66,
       "picks": 2
     },
@@ -292,7 +292,7 @@
       "matchCode": "4582340",
       "odds": 1.14,
       "patternScore": 69.65,
-      "patternText": "192.166/275.911",
+      "patternText": "192.204/275.949",
       "aiScore": 79,
       "picks": 1
     },
@@ -303,8 +303,8 @@
       "date": "26.11.2026 01:00",
       "matchCode": "4582791",
       "odds": 1.08,
-      "patternScore": 70.92,
-      "patternText": "238.259/335.948",
+      "patternScore": 70.93,
+      "patternText": "238.305/335.994",
       "aiScore": 92,
       "picks": 2
     }
