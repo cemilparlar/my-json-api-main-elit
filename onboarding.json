@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 16:09",
+  "updatedAt": "26.11.2026 16:18",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 187,
+      "won": 188,
       "lost": 79,
-      "total": 266,
-      "rate": 70.3
+      "total": 267,
+      "rate": 70.4
     },
-    "totalAnalyses": 928857,
+    "totalAnalyses": 928880,
     "leagues": 279,
     "pro": {
       "won": 1765,
@@ -259,7 +259,7 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 14:52",
+      "at": "26.11.2026 16:17",
       "home": "Union St.G",
       "away": "Lech Poznan"
     }
@@ -272,7 +272,7 @@
     "matchCode": "4549717",
     "odds": 1.5,
     "patternScore": 67.36,
-    "patternText": "177.730/263.843",
+    "patternText": "177.736/263.849",
     "aiScore": 53,
     "picks": 5
   },
@@ -285,7 +285,7 @@
       "matchCode": "4549717",
       "odds": 1.5,
       "patternScore": 67.36,
-      "patternText": "177.730/263.843",
+      "patternText": "177.736/263.849",
       "aiScore": 53,
       "picks": 5
     },
@@ -297,7 +297,7 @@
       "matchCode": "4549718",
       "odds": 1.4,
       "patternScore": 66.9,
-      "patternText": "190.082/284.137",
+      "patternText": "190.088/284.143",
       "aiScore": 55,
       "picks": 2
     },
@@ -309,7 +309,7 @@
       "matchCode": "4549715",
       "odds": 1.34,
       "patternScore": 67.85,
-      "patternText": "209.047/308.111",
+      "patternText": "209.053/308.117",
       "aiScore": 61,
       "picks": 5
     },
@@ -321,7 +321,7 @@
       "matchCode": "4489427",
       "odds": 1.34,
       "patternScore": 67.81,
-      "patternText": "185.310/273.265",
+      "patternText": "185.324/273.279",
       "aiScore": 59,
       "picks": 5
     },
@@ -333,12 +333,26 @@
       "matchCode": "4549708",
       "odds": 1.28,
       "patternScore": 68.77,
-      "patternText": "150.195/218.398",
+      "patternText": "150.197/218.400",
       "aiScore": 63,
       "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Union St.G",
+      "away": "Lech Poznan",
+      "league": "AVL",
+      "at": "26.11.2026 16:17",
+      "count": 6
+    },
+    {
+      "home": "Kauno Zalgiris",
+      "away": "Riga Fc",
+      "league": "AVKL",
+      "at": "26.11.2026 16:17",
+      "count": 7
+    },
     {
       "home": "Marseille",
       "away": "PFC Levski Sofia",
@@ -375,25 +389,11 @@
       "count": 17
     },
     {
-      "home": "Kauno Zalgiris",
-      "away": "Riga Fc",
-      "league": "AVKL",
-      "at": "26.11.2026 15:20",
-      "count": 6
-    },
-    {
       "home": "SK Brann",
       "away": "AGF Aarhus",
       "league": "AVKL",
       "at": "26.11.2026 14:54",
       "count": 5
-    },
-    {
-      "home": "Union St.G",
-      "away": "Lech Poznan",
-      "league": "AVL",
-      "at": "26.11.2026 14:52",
-      "count": 7
     },
     {
       "home": "Celta de Vigo",
