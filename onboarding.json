@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 16:57",
+  "updatedAt": "26.11.2026 17:06",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 190,
-      "lost": 74,
-      "total": 264,
-      "rate": 72.0
+      "won": 180,
+      "lost": 73,
+      "total": 253,
+      "rate": 71.1
     },
-    "totalAnalyses": 929167,
+    "totalAnalyses": 929204,
     "leagues": 279,
     "pro": {
-      "won": 1772,
+      "won": 1771,
       "lost": 661,
-      "total": 2433,
+      "total": 2432,
       "rate": 72.8
     },
     "insights": {
-      "won": 2928,
+      "won": 2926,
       "lost": 1177,
-      "total": 4105,
+      "total": 4103,
       "rate": 71.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1721,
-    "analyses30d": 15823
+    "analyses24h": 1697,
+    "analyses30d": 15789
   },
   "recentWins": [
     {
@@ -223,12 +223,6 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 10:57",
-      "home": "Al Salmiyah",
-      "away": "Al Tadhamon"
-    },
-    {
-      "type": "updated",
       "at": "26.11.2026 12:12",
       "home": "Al Arabi",
       "away": "Khaitan SC"
@@ -241,7 +235,7 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 16:18",
+      "at": "26.11.2026 17:02",
       "home": "Olympiakos",
       "away": "AC Milan"
     },
@@ -262,21 +256,39 @@
       "at": "26.11.2026 16:17",
       "home": "Union St.G",
       "away": "Lech Poznan"
+    },
+    {
+      "type": "updated",
+      "at": "26.11.2026 16:17",
+      "home": "Kauno Zalgiris",
+      "away": "Riga Fc"
     }
   ],
   "today": {
-    "home": "KAA Gent",
-    "away": "FK Crvena zvezda",
-    "league": "AVKL",
-    "date": "26.11.2026 20:00",
-    "matchCode": "4549717",
-    "odds": 1.5,
-    "patternScore": 67.37,
-    "patternText": "177.786/263.905",
-    "aiScore": 52,
-    "picks": 5
+    "home": "Sao Paulo FC",
+    "away": "Remo",
+    "league": "BR1",
+    "date": "26.11.2026 23:00",
+    "matchCode": "4423391",
+    "odds": 2.47,
+    "patternScore": 66.99,
+    "patternText": "138.855/207.264",
+    "aiScore": 50,
+    "picks": 7
   },
   "todayList": [
+    {
+      "home": "Sao Paulo FC",
+      "away": "Remo",
+      "league": "BR1",
+      "date": "26.11.2026 23:00",
+      "matchCode": "4423391",
+      "odds": 2.47,
+      "patternScore": 66.99,
+      "patternText": "138.855/207.264",
+      "aiScore": 50,
+      "picks": 7
+    },
     {
       "home": "KAA Gent",
       "away": "FK Crvena zvezda",
@@ -324,34 +336,50 @@
       "patternText": "190.138/284.199",
       "aiScore": 54,
       "picks": 2
-    },
-    {
-      "home": "Heart of Midlothian",
-      "away": "AS Monaco",
-      "league": "AVKL",
-      "date": "26.11.2026 17:45",
-      "matchCode": "4549705",
-      "odds": 1.36,
-      "patternScore": 67.13,
-      "patternText": "240.543/358.334",
-      "aiScore": 57,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FK Jablonec",
+      "away": "FC Lugano",
+      "league": "AVKL",
+      "at": "26.11.2026 17:04",
+      "count": 5
+    },
+    {
+      "home": "FC Viktoria Plzen",
+      "away": "SL Benfica",
+      "league": "AVL",
+      "at": "26.11.2026 17:03",
+      "count": 9
+    },
+    {
+      "home": "Olympiakos",
+      "away": "AC Milan",
+      "league": "AVL",
+      "at": "26.11.2026 17:02",
+      "count": 3
+    },
+    {
+      "home": "Fc Iberia",
+      "away": "Getafe CF",
+      "league": "AVKL",
+      "at": "26.11.2026 17:02",
+      "count": 14
+    },
+    {
+      "home": "SK Brann",
+      "away": "AGF Aarhus",
+      "league": "AVKL",
+      "at": "26.11.2026 17:02",
+      "count": 4
+    },
     {
       "home": "West Ham United",
       "away": "Stoke City",
       "league": "İNCL",
       "at": "26.11.2026 16:44",
       "count": 8
-    },
-    {
-      "home": "FC Viktoria Plzen",
-      "away": "SL Benfica",
-      "league": "AVL",
-      "at": "26.11.2026 16:26",
-      "count": 14
     },
     {
       "home": "Hajduk Split",
@@ -380,34 +408,6 @@
       "league": "AVL",
       "at": "26.11.2026 16:22",
       "count": 8
-    },
-    {
-      "home": "CSKA Sofia",
-      "away": "Trabzonspor",
-      "league": "AVKL",
-      "at": "26.11.2026 16:22",
-      "count": 6
-    },
-    {
-      "home": "Marseille",
-      "away": "PFC Levski Sofia",
-      "league": "AVL",
-      "at": "26.11.2026 16:20",
-      "count": 3
-    },
-    {
-      "home": "Egnatia",
-      "away": "Lincoln Red Imp",
-      "league": "AVKL",
-      "at": "26.11.2026 16:20",
-      "count": 7
-    },
-    {
-      "home": "Heart of Midlothian",
-      "away": "AS Monaco",
-      "league": "AVKL",
-      "at": "26.11.2026 16:20",
-      "count": 6
     }
   ],
   "paywall": {
