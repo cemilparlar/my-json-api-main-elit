@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 09:25",
+  "updatedAt": "26.11.2026 09:37",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 323,
+      "won": 315,
       "lost": 109,
-      "total": 432,
-      "rate": 74.8
+      "total": 424,
+      "rate": 74.3
     },
-    "totalAnalyses": 925124,
+    "totalAnalyses": 925428,
     "leagues": 277,
     "pro": {
       "won": 1765,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1548,
-    "analyses30d": 15491
+    "analyses24h": 1550,
+    "analyses30d": 15501
   },
   "recentWins": [
     {
@@ -265,30 +265,18 @@
     }
   ],
   "today": {
-    "home": "Tampines Rovers",
-    "away": "Shanghai Shenhua",
-    "league": "AFCŞL2",
-    "date": "26.11.2026 10:00",
-    "matchCode": "4550046",
-    "odds": 1.8,
-    "patternScore": 66.11,
-    "patternText": "120.258/181.917",
-    "aiScore": 52,
-    "picks": 5
+    "home": "Al Sareeh",
+    "away": "Aqaba",
+    "league": "ÜRD1",
+    "date": "26.11.2026 12:30",
+    "matchCode": "4561295",
+    "odds": 1.59,
+    "patternScore": 66.21,
+    "patternText": "131.924/199.252",
+    "aiScore": 53,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "Tampines Rovers",
-      "away": "Shanghai Shenhua",
-      "league": "AFCŞL2",
-      "date": "26.11.2026 10:00",
-      "matchCode": "4550046",
-      "odds": 1.8,
-      "patternScore": 66.11,
-      "patternText": "120.258/181.917",
-      "aiScore": 52,
-      "picks": 5
-    },
     {
       "home": "Al Sareeh",
       "away": "Aqaba",
@@ -314,18 +302,6 @@
       "picks": 2
     },
     {
-      "home": "Kuching FA",
-      "away": "Phnom Penh Crow",
-      "league": "AFCŞL2",
-      "date": "26.11.2026 10:00",
-      "matchCode": "4550059",
-      "odds": 1.31,
-      "patternScore": 69.05,
-      "patternText": "102.254/148.084",
-      "aiScore": 65,
-      "picks": 3
-    },
-    {
       "home": "El Saka El Had",
       "away": "Proxy",
       "league": "MSR2",
@@ -336,6 +312,30 @@
       "patternText": "200.703/290.211",
       "aiScore": 62,
       "picks": 1
+    },
+    {
+      "home": "Acs Gloria Bis",
+      "away": "FC Slatina",
+      "league": "ROM2",
+      "date": "26.11.2026 14:45",
+      "matchCode": "4513350",
+      "odds": 1.22,
+      "patternScore": 68.19,
+      "patternText": "209.635/307.442",
+      "aiScore": 62,
+      "picks": 2
+    },
+    {
+      "home": "FC Kairat Almaty",
+      "away": "Mjallby AIF",
+      "league": "AVKL",
+      "date": "26.11.2026 15:30",
+      "matchCode": "4549703",
+      "odds": 1.19,
+      "patternScore": 69.17,
+      "patternText": "147.271/212.898",
+      "aiScore": 81,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
