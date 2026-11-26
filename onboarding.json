@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 12:07",
+  "updatedAt": "26.11.2026 12:20",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 225,
-      "lost": 82,
-      "total": 307,
-      "rate": 73.3
+      "won": 219,
+      "lost": 80,
+      "total": 299,
+      "rate": 73.2
     },
-    "totalAnalyses": 926688,
+    "totalAnalyses": 926709,
     "leagues": 277,
     "pro": {
       "won": 1770,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1551,
-    "analyses30d": 15620
+    "analyses24h": 1536,
+    "analyses30d": 15613
   },
   "recentWins": [
     {
@@ -229,39 +229,39 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 06:52",
-      "home": "Borneo FC",
-      "away": "Persita Tangerang"
+      "at": "26.11.2026 12:16",
+      "home": "Dinamo Zagreb",
+      "away": "Bayer Leverkusen"
     },
     {
       "type": "updated",
-      "at": "26.11.2026 08:25",
-      "home": "FC Orenburg",
-      "away": "Spartak Moscow"
+      "at": "26.11.2026 12:14",
+      "home": "Union St.G",
+      "away": "Lech Poznan"
     },
     {
       "type": "updated",
-      "at": "26.11.2026 08:57",
-      "home": "Acs Gloria Bis",
-      "away": "FC Slatina"
+      "at": "26.11.2026 12:13",
+      "home": "Kauno Zalgiris",
+      "away": "Riga Fc"
     },
     {
       "type": "updated",
-      "at": "26.11.2026 09:38",
-      "home": "Abha",
-      "away": "Al Shabab"
+      "at": "26.11.2026 12:16",
+      "home": "FK Jablonec",
+      "away": "FC Lugano"
     },
     {
       "type": "updated",
-      "at": "26.11.2026 06:38",
-      "home": "El Saka El Had",
-      "away": "Proxy"
+      "at": "26.11.2026 12:12",
+      "home": "Celta de Vigo",
+      "away": "AFC Bournemouth"
     },
     {
       "type": "updated",
-      "at": "26.11.2026 06:37",
-      "home": "Deportivo Riestra",
-      "away": "Al Daklyeh"
+      "at": "26.11.2026 12:20",
+      "home": "SK Brann",
+      "away": "AGF Aarhus"
     }
   ],
   "today": {
@@ -340,6 +340,48 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "SK Brann",
+      "away": "AGF Aarhus",
+      "league": "AVKL",
+      "at": "26.11.2026 12:20",
+      "count": 5
+    },
+    {
+      "home": "Dinamo Zagreb",
+      "away": "Bayer Leverkusen",
+      "league": "AVL",
+      "at": "26.11.2026 12:16",
+      "count": 7
+    },
+    {
+      "home": "FK Jablonec",
+      "away": "FC Lugano",
+      "league": "AVKL",
+      "at": "26.11.2026 12:16",
+      "count": 4
+    },
+    {
+      "home": "Union St.G",
+      "away": "Lech Poznan",
+      "league": "AVL",
+      "at": "26.11.2026 12:14",
+      "count": 8
+    },
+    {
+      "home": "Kauno Zalgiris",
+      "away": "Riga Fc",
+      "league": "AVKL",
+      "at": "26.11.2026 12:13",
+      "count": 8
+    },
+    {
+      "home": "Celta de Vigo",
+      "away": "AFC Bournemouth",
+      "league": "AVL",
+      "at": "26.11.2026 12:12",
+      "count": 3
+    },
+    {
       "home": "Leeds United",
       "away": "Coventry City",
       "league": "İNP",
@@ -366,48 +408,6 @@
       "league": "BEL",
       "at": "26.11.2026 09:45",
       "count": 6
-    },
-    {
-      "home": "FC Koln",
-      "away": "SV Elversberg",
-      "league": "AL1",
-      "at": "26.11.2026 09:43",
-      "count": 7
-    },
-    {
-      "home": "SC Paderborn",
-      "away": "FC Schalke 04",
-      "league": "AL1",
-      "at": "26.11.2026 09:43",
-      "count": 4
-    },
-    {
-      "home": "FC Kairat Almaty",
-      "away": "Mjallby AIF",
-      "league": "AVKL",
-      "at": "26.11.2026 09:38",
-      "count": 6
-    },
-    {
-      "home": "FSV Mainz 05",
-      "away": "Union Berlin",
-      "league": "AL1",
-      "at": "26.11.2026 09:14",
-      "count": 7
-    },
-    {
-      "home": "Carrarese Calcio",
-      "away": "SS Juve Stabia",
-      "league": "İTB",
-      "at": "26.11.2026 09:10",
-      "count": 4
-    },
-    {
-      "home": "Ascoli Calcio",
-      "away": "Virtus Entella",
-      "league": "İTB",
-      "at": "26.11.2026 09:09",
-      "count": 8
     }
   ],
   "paywall": {
