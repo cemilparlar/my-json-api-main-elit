@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 12:51",
+  "updatedAt": "26.11.2026 13:01",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 217,
-      "lost": 79,
-      "total": 296,
-      "rate": 73.3
+      "won": 211,
+      "lost": 73,
+      "total": 284,
+      "rate": 74.3
     },
-    "totalAnalyses": 926984,
-    "leagues": 278,
+    "totalAnalyses": 927235,
+    "leagues": 279,
     "pro": {
-      "won": 1767,
-      "lost": 661,
-      "total": 2428,
+      "won": 1762,
+      "lost": 657,
+      "total": 2419,
       "rate": 72.8
     },
     "insights": {
-      "won": 2917,
-      "lost": 1182,
-      "total": 4099,
+      "won": 2908,
+      "lost": 1174,
+      "total": 4082,
       "rate": 71.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1567,
-    "analyses30d": 15647
+    "analyses24h": 1570,
+    "analyses30d": 15660
   },
   "recentWins": [
     {
@@ -302,6 +302,18 @@
       "picks": 4
     },
     {
+      "home": "Burnley U21",
+      "away": "Wolverhampton Wanderers U21",
+      "league": "İNPLK",
+      "date": "26.11.2026 19:00",
+      "matchCode": "4540460",
+      "odds": 1.25,
+      "patternScore": 67.65,
+      "patternText": "129.866/191.959",
+      "aiScore": 71,
+      "picks": 2
+    },
+    {
       "home": "Kauno Zalgiris",
       "away": "Riga Fc",
       "league": "AVKL",
@@ -324,18 +336,6 @@
       "patternText": "147.489/216.248",
       "aiScore": 68,
       "picks": 4
-    },
-    {
-      "home": "Acs Gloria Bis",
-      "away": "FC Slatina",
-      "league": "ROM2",
-      "date": "26.11.2026 14:45",
-      "matchCode": "4513350",
-      "odds": 1.22,
-      "patternScore": 68.18,
-      "patternText": "209.661/307.496",
-      "aiScore": 62,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
