@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 01:10",
+  "updatedAt": "26.11.2026 01:19",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 306,
+      "won": 309,
       "lost": 103,
-      "total": 409,
-      "rate": 74.8
+      "total": 412,
+      "rate": 75.0
     },
     "totalAnalyses": 922974,
     "leagues": 275,
     "pro": {
-      "won": 1751,
+      "won": 1754,
       "lost": 657,
-      "total": 2408,
+      "total": 2411,
       "rate": 72.7
     },
     "insights": {
-      "won": 2898,
+      "won": 2901,
       "lost": 1176,
-      "total": 4074,
-      "rate": 71.1
+      "total": 4077,
+      "rate": 71.2
     },
     "coupons": {
       "won": 8,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 759,
-    "analyses30d": 14692
+    "analyses24h": 758,
+    "analyses30d": 14689
   },
   "recentWins": [
     {
@@ -229,18 +229,6 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 19:10",
-      "home": "Hartlepool United",
-      "away": "Solihull Moors"
-    },
-    {
-      "type": "updated",
-      "at": "25.11.2026 19:11",
-      "home": "Stoke City",
-      "away": "Millwall"
-    },
-    {
-      "type": "updated",
       "at": "25.11.2026 22:29",
       "home": "Atletico Mineiro",
       "away": "SC Corinthians"
@@ -262,6 +250,18 @@
       "at": "25.11.2026 19:53",
       "home": "Atletico Nacional",
       "away": "Independiente Medellin"
+    },
+    {
+      "type": "updated",
+      "at": "26.11.2026 00:45",
+      "home": "CSD Municipal",
+      "away": "CSD Aurora"
+    },
+    {
+      "type": "updated",
+      "at": "25.11.2026 22:29",
+      "home": "Real Potosi",
+      "away": "Always Ready"
     }
   ],
   "today": {
@@ -320,8 +320,8 @@
       "date": "26.11.2026 07:00",
       "matchCode": "4564430",
       "odds": 1.07,
-      "patternScore": 69.93,
-      "patternText": "187.108/267.547",
+      "patternScore": 70.25,
+      "patternText": "243.218/346.215",
       "aiScore": 97,
       "picks": 1
     },
