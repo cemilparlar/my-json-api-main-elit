@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 01:27",
+  "updatedAt": "26.11.2026 01:35",
   "config": {
     "pages": [
       "engine",
@@ -22,10 +22,10 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 309,
-      "lost": 103,
-      "total": 412,
-      "rate": 75.0
+      "won": 308,
+      "lost": 102,
+      "total": 410,
+      "rate": 75.1
     },
     "totalAnalyses": 922993,
     "leagues": 275,
@@ -47,7 +47,7 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 757,
+    "analyses24h": 755,
     "analyses30d": 14688
   },
   "recentWins": [
@@ -223,12 +223,6 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 19:30",
-      "home": "Sporting CP",
-      "away": "Manchester United"
-    },
-    {
-      "type": "updated",
       "at": "25.11.2026 22:29",
       "home": "Atletico Mineiro",
       "away": "SC Corinthians"
@@ -262,33 +256,27 @@
       "at": "25.11.2026 22:29",
       "home": "Real Potosi",
       "away": "Always Ready"
+    },
+    {
+      "type": "updated",
+      "at": "26.11.2026 01:07",
+      "home": "AC Taipei",
+      "away": "Air Source"
     }
   ],
   "today": {
-    "home": "CSD Municipal",
-    "away": "CSD Aurora",
-    "league": "GUAT",
-    "date": "26.11.2026 02:00",
-    "matchCode": "4490452",
-    "odds": 3.2,
-    "patternScore": 66.78,
-    "patternText": "106.170/158.994",
-    "aiScore": 50,
-    "picks": 5
+    "home": "CF Monterrey",
+    "away": "Club America",
+    "league": "MEK",
+    "date": "26.11.2026 03:10",
+    "matchCode": "4582340",
+    "odds": 1.14,
+    "patternScore": 69.66,
+    "patternText": "192.276/276.037",
+    "aiScore": 79,
+    "picks": 1
   },
   "todayList": [
-    {
-      "home": "CSD Municipal",
-      "away": "CSD Aurora",
-      "league": "GUAT",
-      "date": "26.11.2026 02:00",
-      "matchCode": "4490452",
-      "odds": 3.2,
-      "patternScore": 66.78,
-      "patternText": "106.170/158.994",
-      "aiScore": 50,
-      "picks": 5
-    },
     {
       "home": "CF Monterrey",
       "away": "Club America",
@@ -299,18 +287,6 @@
       "patternScore": 69.66,
       "patternText": "192.276/276.037",
       "aiScore": 79,
-      "picks": 1
-    },
-    {
-      "home": "Inter Fa",
-      "away": "Club Deportivo Aguila",
-      "league": "ELSAL",
-      "date": "26.11.2026 02:00",
-      "matchCode": "4582724",
-      "odds": 1.13,
-      "patternScore": 70.95,
-      "patternText": "105.953/149.332",
-      "aiScore": 91,
       "picks": 1
     },
     {
@@ -336,6 +312,30 @@
       "patternText": "221.116/324.386",
       "aiScore": 55,
       "picks": 1
+    },
+    {
+      "home": "Tampines Rovers",
+      "away": "Shanghai Shenhua",
+      "league": "AFCŞL2",
+      "date": "26.11.2026 10:00",
+      "matchCode": "4550046",
+      "odds": 1.41,
+      "patternScore": 67.29,
+      "patternText": "189.982/282.326",
+      "aiScore": 54,
+      "picks": 2
+    },
+    {
+      "home": "Gangwon FC",
+      "away": "Kitchee SC",
+      "league": "AFCŞL2",
+      "date": "26.11.2026 10:00",
+      "matchCode": "4550058",
+      "odds": 1.17,
+      "patternScore": 69.03,
+      "patternText": "113.183/163.971",
+      "aiScore": 81,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
