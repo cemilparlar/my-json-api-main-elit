@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 19:39",
+  "updatedAt": "26.11.2026 19:47",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 160,
-      "lost": 61,
-      "total": 221,
-      "rate": 72.4
+      "won": 134,
+      "lost": 60,
+      "total": 194,
+      "rate": 69.1
     },
     "totalAnalyses": 930149,
     "leagues": 281,
     "pro": {
-      "won": 1772,
+      "won": 1769,
       "lost": 665,
-      "total": 2437,
+      "total": 2434,
       "rate": 72.7
     },
     "insights": {
-      "won": 2927,
+      "won": 2924,
       "lost": 1181,
-      "total": 4108,
-      "rate": 71.3
+      "total": 4105,
+      "rate": 71.2
     },
     "coupons": {
       "won": 8,
@@ -47,24 +47,10 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 2138,
-    "analyses30d": 16218
+    "analyses24h": 2106,
+    "analyses30d": 16204
   },
   "recentWins": [
-    {
-      "home": "Galatasaray",
-      "away": "Aston Villa",
-      "league": "ŞMP",
-      "date": "24.11.2026 17:45",
-      "prediction": "Total Goals 0-1",
-      "odds": 4.73,
-      "probability": 75.0,
-      "patternScore": 63.59,
-      "aiScore": 50,
-      "firstHalf": "0 - 0",
-      "finalScore": "1 - 0",
-      "pro": false
-    },
     {
       "home": "Al Nassr",
       "away": "Al Sadd",
@@ -119,6 +105,20 @@
       "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
+      "pro": false
+    },
+    {
+      "home": "Gamba Osaka",
+      "away": "Port FC",
+      "league": "AŞMP",
+      "date": "25.11.2026 10:00",
+      "prediction": "Total Goals 2-3",
+      "odds": 2.19,
+      "probability": 75.0,
+      "patternScore": 63.48,
+      "aiScore": 51,
+      "firstHalf": "0 - 0",
+      "finalScore": "2 - 0",
       "pro": false
     }
   ],
@@ -185,14 +185,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Galatasaray",
-      "away": "Aston Villa",
-      "prediction": "Total Goals 0-1",
-      "odds": 4.73,
-      "at": "24.11.2026 17:45"
-    },
-    {
-      "type": "won",
       "home": "Al Nassr",
       "away": "Al Sadd",
       "prediction": "Handicap (0:1) X",
@@ -214,6 +206,14 @@
       "prediction": "Handicap (2:0) 2",
       "odds": 2.39,
       "at": "26.11.2026 12:15"
+    },
+    {
+      "type": "won",
+      "home": "Melbourne Victory",
+      "away": "Viettel FC",
+      "prediction": "1st Half Result X",
+      "odds": 2.25,
+      "at": "25.11.2026 07:45"
     },
     {
       "type": "coupon",
@@ -272,7 +272,7 @@
     "matchCode": "4582794",
     "odds": 2.56,
     "patternScore": 66.64,
-    "patternText": "136.600/204.971",
+    "patternText": "136.602/204.973",
     "aiScore": 51,
     "picks": 2
   },
@@ -285,7 +285,7 @@
       "matchCode": "4582794",
       "odds": 2.56,
       "patternScore": 66.64,
-      "patternText": "136.600/204.971",
+      "patternText": "136.602/204.973",
       "aiScore": 51,
       "picks": 2
     },
@@ -309,8 +309,8 @@
       "matchCode": "4582730",
       "odds": 1.23,
       "patternScore": 68.26,
-      "patternText": "205.921/301.677",
-      "aiScore": 61,
+      "patternText": "205.929/301.689",
+      "aiScore": 62,
       "picks": 3
     },
     {
@@ -321,7 +321,7 @@
       "matchCode": "4580384",
       "odds": 1.13,
       "patternScore": 70.41,
-      "patternText": "272.781/387.402",
+      "patternText": "272.797/387.422",
       "aiScore": 78,
       "picks": 1
     },
@@ -333,7 +333,7 @@
       "matchCode": "4582793",
       "odds": 1.09,
       "patternScore": 72.26,
-      "patternText": "188.097/260.301",
+      "patternText": "188.111/260.315",
       "aiScore": 99,
       "picks": 2
     }
