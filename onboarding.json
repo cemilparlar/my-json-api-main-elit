@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 23:14",
+  "updatedAt": "26.11.2026 23:22",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 234,
-      "lost": 135,
-      "total": 369,
-      "rate": 63.4
+      "won": 233,
+      "lost": 137,
+      "total": 370,
+      "rate": 63.0
     },
-    "totalAnalyses": 930958,
+    "totalAnalyses": 930976,
     "leagues": 281,
     "pro": {
-      "won": 1812,
-      "lost": 682,
-      "total": 2494,
-      "rate": 72.7
+      "won": 1813,
+      "lost": 683,
+      "total": 2496,
+      "rate": 72.6
     },
     "insights": {
-      "won": 3006,
-      "lost": 1209,
-      "total": 4215,
+      "won": 3007,
+      "lost": 1210,
+      "total": 4217,
       "rate": 71.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2667,
-    "analyses30d": 16771
+    "analyses24h": 2672,
+    "analyses30d": 16778
   },
   "recentWins": [
     {
@@ -369,6 +369,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Zwolle",
+      "away": "AZ Alkmaar",
+      "league": "HOL",
+      "at": "26.11.2026 23:22",
+      "count": 10
+    },
+    {
       "home": "RCD Mallorca",
       "away": "Castellon",
       "league": "İS2",
@@ -430,13 +437,6 @@
       "league": "İTA",
       "at": "26.11.2026 22:59",
       "count": 5
-    },
-    {
-      "home": "AJ Auxerre",
-      "away": "Marseille",
-      "league": "FR1",
-      "at": "26.11.2026 22:57",
-      "count": 11
     }
   ],
   "paywall": {
