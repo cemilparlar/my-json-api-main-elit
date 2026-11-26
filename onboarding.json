@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 21:23",
+  "updatedAt": "26.11.2026 21:32",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 252,
       "rate": 65.5
     },
-    "totalAnalyses": 930473,
+    "totalAnalyses": 930488,
     "leagues": 281,
     "pro": {
       "won": 1782,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2273,
-    "analyses30d": 16390
+    "analyses24h": 2286,
+    "analyses30d": 16403
   },
   "recentWins": [
     {
@@ -355,19 +355,26 @@
       "picks": 1
     },
     {
-      "home": "Club Deportivo Jalapa",
-      "away": "San Marcos",
-      "league": "NİK",
-      "date": "26.11.2026 22:00",
-      "matchCode": "4582793",
-      "odds": 1.09,
-      "patternScore": 71.13,
-      "patternText": "294.234/413.639",
-      "aiScore": 95,
-      "picks": 2
+      "home": "Broadmeadow Ma",
+      "away": "Queensland Lions",
+      "league": "AVC",
+      "date": "27.11.2026 08:30",
+      "matchCode": "4582335",
+      "odds": 1.18,
+      "patternScore": 69.45,
+      "patternText": "113.118/162.878",
+      "aiScore": 72,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sao Paulo FC",
+      "away": "Remo",
+      "league": "BR1",
+      "at": "26.11.2026 21:29",
+      "count": 14
+    },
     {
       "home": "Udinese",
       "away": "ACF Fiorentina",
@@ -381,13 +388,6 @@
       "league": "HOL",
       "at": "26.11.2026 21:09",
       "count": 5
-    },
-    {
-      "home": "Sao Paulo FC",
-      "away": "Remo",
-      "league": "BR1",
-      "at": "26.11.2026 20:53",
-      "count": 17
     },
     {
       "home": "Corum FK",
