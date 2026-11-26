@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 21:58",
+  "updatedAt": "26.11.2026 22:06",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 165,
-      "lost": 87,
-      "total": 252,
-      "rate": 65.5
+      "won": 240,
+      "lost": 136,
+      "total": 376,
+      "rate": 63.8
     },
     "totalAnalyses": 930529,
     "leagues": 281,
     "pro": {
-      "won": 1782,
-      "lost": 673,
-      "total": 2455,
-      "rate": 72.6
+      "won": 1817,
+      "lost": 683,
+      "total": 2500,
+      "rate": 72.7
     },
     "insights": {
-      "won": 2960,
-      "lost": 1195,
-      "total": 4155,
-      "rate": 71.2
+      "won": 3017,
+      "lost": 1213,
+      "total": 4230,
+      "rate": 71.3
     },
     "coupons": {
       "won": 9,
@@ -47,7 +47,7 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2299,
+    "analyses24h": 2296,
     "analyses30d": 16413
   },
   "recentWins": [
@@ -343,18 +343,6 @@
       "picks": 4
     },
     {
-      "home": "Club Cerro Porteno",
-      "away": "Club Libertad",
-      "league": "PARK",
-      "date": "26.11.2026 22:30",
-      "matchCode": "4582730",
-      "odds": 1.23,
-      "patternScore": 68.58,
-      "patternText": "118.154/172.294",
-      "aiScore": 65,
-      "picks": 2
-    },
-    {
       "home": "Club Atletico Torque",
       "away": "Club Nacional de Football",
       "league": "URUK",
@@ -365,6 +353,18 @@
       "patternText": "271.597/385.696",
       "aiScore": 78,
       "picks": 1
+    },
+    {
+      "home": "Broadmeadow Ma",
+      "away": "Queensland Lions",
+      "league": "AVC",
+      "date": "27.11.2026 08:30",
+      "matchCode": "4582335",
+      "odds": 1.18,
+      "patternScore": 69.45,
+      "patternText": "113.118/162.878",
+      "aiScore": 72,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
