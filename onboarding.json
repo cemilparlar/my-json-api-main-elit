@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 15:24",
+  "updatedAt": "26.11.2026 15:33",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 286,
       "rate": 69.6
     },
-    "totalAnalyses": 928442,
+    "totalAnalyses": 928470,
     "leagues": 279,
     "pro": {
-      "won": 1767,
-      "lost": 662,
-      "total": 2429,
-      "rate": 72.7
+      "won": 1765,
+      "lost": 661,
+      "total": 2426,
+      "rate": 72.8
     },
     "insights": {
-      "won": 2927,
-      "lost": 1184,
-      "total": 4111,
-      "rate": 71.2
+      "won": 2923,
+      "lost": 1178,
+      "total": 4101,
+      "rate": 71.3
     },
     "coupons": {
       "won": 8,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1658,
-    "analyses30d": 15791
+    "analyses24h": 1656,
+    "analyses30d": 15789
   },
   "recentWins": [
     {
@@ -271,8 +271,8 @@
     "date": "26.11.2026 20:00",
     "matchCode": "4549717",
     "odds": 1.5,
-    "patternScore": 67.37,
-    "patternText": "177.720/263.815",
+    "patternScore": 67.36,
+    "patternText": "177.730/263.843",
     "aiScore": 53,
     "picks": 5
   },
@@ -284,10 +284,22 @@
       "date": "26.11.2026 20:00",
       "matchCode": "4549717",
       "odds": 1.5,
-      "patternScore": 67.37,
-      "patternText": "177.720/263.815",
+      "patternScore": 67.36,
+      "patternText": "177.730/263.843",
       "aiScore": 53,
       "picks": 5
+    },
+    {
+      "home": "Dinamo Moscow",
+      "away": "FK Fakel Voronezh",
+      "league": "RUK",
+      "date": "26.11.2026 16:30",
+      "matchCode": "4486071",
+      "odds": 1.46,
+      "patternScore": 68.67,
+      "patternText": "201.507/293.426",
+      "aiScore": 57,
+      "picks": 2
     },
     {
       "home": "FC Nordsjaelland",
@@ -297,7 +309,7 @@
       "matchCode": "4549718",
       "odds": 1.4,
       "patternScore": 66.9,
-      "patternText": "190.072/284.109",
+      "patternText": "190.082/284.137",
       "aiScore": 55,
       "picks": 2
     },
@@ -309,7 +321,7 @@
       "matchCode": "4549715",
       "odds": 1.34,
       "patternScore": 67.85,
-      "patternText": "209.037/308.083",
+      "patternText": "209.047/308.111",
       "aiScore": 61,
       "picks": 5
     },
@@ -320,22 +332,10 @@
       "date": "26.11.2026 20:00",
       "matchCode": "4489427",
       "odds": 1.34,
-      "patternScore": 67.82,
-      "patternText": "185.300/273.237",
+      "patternScore": 67.81,
+      "patternText": "185.310/273.265",
       "aiScore": 59,
       "picks": 5
-    },
-    {
-      "home": "FK Jablonec",
-      "away": "FC Lugano",
-      "league": "AVKL",
-      "date": "26.11.2026 17:45",
-      "matchCode": "4549708",
-      "odds": 1.3,
-      "patternScore": 68.15,
-      "patternText": "230.943/338.881",
-      "aiScore": 65,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
