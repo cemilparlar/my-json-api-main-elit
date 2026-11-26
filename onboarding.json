@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 22:27",
+  "updatedAt": "26.11.2026 22:36",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 241,
+      "won": 239,
       "lost": 136,
-      "total": 377,
-      "rate": 63.9
+      "total": 375,
+      "rate": 63.7
     },
-    "totalAnalyses": 930617,
+    "totalAnalyses": 930635,
     "leagues": 281,
     "pro": {
-      "won": 1818,
-      "lost": 683,
-      "total": 2501,
+      "won": 1812,
+      "lost": 682,
+      "total": 2494,
       "rate": 72.7
     },
     "insights": {
-      "won": 3018,
-      "lost": 1213,
-      "total": 4231,
+      "won": 3006,
+      "lost": 1209,
+      "total": 4215,
       "rate": 71.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2383,
-    "analyses30d": 16500
+    "analyses24h": 2390,
+    "analyses30d": 16502
   },
   "recentWins": [
     {
@@ -326,7 +326,7 @@
       "matchCode": "4582339",
       "odds": 1.54,
       "patternScore": 68.06,
-      "patternText": "202.170/297.052",
+      "patternText": "202.172/297.054",
       "aiScore": 53,
       "picks": 6
     },
@@ -338,7 +338,7 @@
       "matchCode": "4582338",
       "odds": 1.26,
       "patternScore": 68.92,
-      "patternText": "219.999/319.201",
+      "patternText": "220.001/319.203",
       "aiScore": 63,
       "picks": 4
     },
@@ -350,7 +350,7 @@
       "matchCode": "4580384",
       "odds": 1.13,
       "patternScore": 70.42,
-      "patternText": "271.657/385.778",
+      "patternText": "271.663/385.784",
       "aiScore": 78,
       "picks": 1
     },
@@ -362,12 +362,19 @@
       "matchCode": "4582335",
       "odds": 1.18,
       "patternScore": 69.45,
-      "patternText": "113.154/162.922",
+      "patternText": "113.156/162.924",
       "aiScore": 72,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Fortuna Sittar",
+      "away": "SC Heerenveen",
+      "league": "HOL",
+      "at": "26.11.2026 22:36",
+      "count": 6
+    },
     {
       "home": "Valencia CF",
       "away": "CA Osasuna",
@@ -430,13 +437,6 @@
       "league": "İTA",
       "at": "26.11.2026 21:10",
       "count": 6
-    },
-    {
-      "home": "ADO Den Haag",
-      "away": "FC Utrecht",
-      "league": "HOL",
-      "at": "26.11.2026 21:09",
-      "count": 5
     }
   ],
   "paywall": {
