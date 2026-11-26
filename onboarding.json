@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 19:47",
+  "updatedAt": "26.11.2026 19:56",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 134,
-      "lost": 60,
-      "total": 194,
-      "rate": 69.1
+      "won": 192,
+      "lost": 94,
+      "total": 286,
+      "rate": 67.1
     },
-    "totalAnalyses": 930149,
+    "totalAnalyses": 930204,
     "leagues": 281,
     "pro": {
-      "won": 1769,
-      "lost": 665,
-      "total": 2434,
-      "rate": 72.7
+      "won": 1785,
+      "lost": 674,
+      "total": 2459,
+      "rate": 72.6
     },
     "insights": {
-      "won": 2924,
-      "lost": 1181,
-      "total": 4105,
+      "won": 2961,
+      "lost": 1195,
+      "total": 4156,
       "rate": 71.2
     },
     "coupons": {
-      "won": 8,
+      "won": 9,
       "lost": 11,
-      "total": 19,
-      "rate": 42.1
+      "total": 20,
+      "rate": 45.0
     },
-    "analyses24h": 2106,
-    "analyses30d": 16204
+    "analyses24h": 2148,
+    "analyses30d": 16246
   },
   "recentWins": [
     {
@@ -123,6 +123,35 @@
     }
   ],
   "recentCoupons": [
+    {
+      "size": 3,
+      "totalOdds": 1.51,
+      "winChance": 51.92,
+      "completedAt": "26.11.2026 19:56",
+      "legs": [
+        {
+          "home": "Olympiakos",
+          "away": "AC Milan",
+          "prediction": "Over 1.5 Goals",
+          "odds": 1.13,
+          "finalScore": "2 - 4"
+        },
+        {
+          "home": "Kauno Zalgiris",
+          "away": "Riga Fc",
+          "prediction": "Double Chance 12",
+          "odds": 1.17,
+          "finalScore": "2 - 0"
+        },
+        {
+          "home": "SK Brann",
+          "away": "AGF Aarhus",
+          "prediction": "Double Chance 12",
+          "odds": 1.14,
+          "finalScore": "1 - 4"
+        }
+      ]
+    },
     {
       "size": 3,
       "totalOdds": 1.52,
@@ -340,6 +369,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Portland Timbers",
+      "away": "FC Dallas",
+      "league": "ABD",
+      "at": "26.11.2026 19:52",
+      "count": 12
+    },
+    {
+      "home": "Los Angeles FC",
+      "away": "St. Louis City SC",
+      "league": "ABD",
+      "at": "26.11.2026 19:51",
+      "count": 6
+    },
+    {
       "home": "Botafogo de Futebol e Regatas",
       "away": "EC Bahia",
       "league": "BR1",
@@ -393,20 +436,6 @@
       "away": "Zulte Waregem",
       "league": "BEL",
       "at": "26.11.2026 19:19",
-      "count": 5
-    },
-    {
-      "home": "Inter",
-      "away": "Genoa CFC",
-      "league": "İTA",
-      "at": "26.11.2026 19:18",
-      "count": 6
-    },
-    {
-      "home": "Le Havre AC",
-      "away": "RC Strasbourg",
-      "league": "FR1",
-      "at": "26.11.2026 19:18",
       "count": 5
     }
   ],
