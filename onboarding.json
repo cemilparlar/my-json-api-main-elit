@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 22:06",
+  "updatedAt": "26.11.2026 22:15",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 376,
       "rate": 63.8
     },
-    "totalAnalyses": 930529,
+    "totalAnalyses": 930547,
     "leagues": 281,
     "pro": {
       "won": 1817,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2296,
-    "analyses30d": 16413
+    "analyses24h": 2313,
+    "analyses30d": 16430
   },
   "recentWins": [
     {
@@ -300,8 +300,8 @@
     "date": "27.11.2026 00:00",
     "matchCode": "4582794",
     "odds": 2.56,
-    "patternScore": 66.64,
-    "patternText": "136.676/205.081",
+    "patternScore": 66.65,
+    "patternText": "136.724/205.151",
     "aiScore": 51,
     "picks": 2
   },
@@ -313,8 +313,8 @@
       "date": "27.11.2026 00:00",
       "matchCode": "4582794",
       "odds": 2.56,
-      "patternScore": 66.64,
-      "patternText": "136.676/205.081",
+      "patternScore": 66.65,
+      "patternText": "136.724/205.151",
       "aiScore": 51,
       "picks": 2
     },
@@ -326,7 +326,7 @@
       "matchCode": "4582339",
       "odds": 1.54,
       "patternScore": 68.06,
-      "patternText": "202.106/296.960",
+      "patternText": "202.170/297.052",
       "aiScore": 53,
       "picks": 6
     },
@@ -338,7 +338,7 @@
       "matchCode": "4582338",
       "odds": 1.26,
       "patternScore": 68.92,
-      "patternText": "219.923/319.095",
+      "patternText": "219.999/319.201",
       "aiScore": 63,
       "picks": 4
     },
@@ -350,7 +350,7 @@
       "matchCode": "4580384",
       "odds": 1.13,
       "patternScore": 70.42,
-      "patternText": "271.597/385.696",
+      "patternText": "271.657/385.778",
       "aiScore": 78,
       "picks": 1
     },
@@ -362,12 +362,26 @@
       "matchCode": "4582335",
       "odds": 1.18,
       "patternScore": 69.45,
-      "patternText": "113.118/162.878",
+      "patternText": "113.154/162.922",
       "aiScore": 72,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Magdeburg",
+      "away": "Energie Cottbus",
+      "league": "AL2",
+      "at": "26.11.2026 22:12",
+      "count": 10
+    },
+    {
+      "home": "SpVgg Greuther Furth",
+      "away": "Arminia Bielefe",
+      "league": "AL2",
+      "at": "26.11.2026 22:10",
+      "count": 5
+    },
     {
       "home": "Everton",
       "away": "Liverpool",
@@ -423,20 +437,6 @@
       "league": "ABD",
       "at": "26.11.2026 19:52",
       "count": 12
-    },
-    {
-      "home": "Los Angeles FC",
-      "away": "St. Louis City SC",
-      "league": "ABD",
-      "at": "26.11.2026 19:51",
-      "count": 6
-    },
-    {
-      "home": "Botafogo de Futebol e Regatas",
-      "away": "EC Bahia",
-      "league": "BR1",
-      "at": "26.11.2026 19:35",
-      "count": 5
     }
   ],
   "paywall": {
