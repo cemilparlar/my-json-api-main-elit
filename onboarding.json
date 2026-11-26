@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 18:46",
+  "updatedAt": "26.11.2026 18:55",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 240,
       "rate": 72.1
     },
-    "totalAnalyses": 929823,
+    "totalAnalyses": 929886,
     "leagues": 280,
     "pro": {
       "won": 1770,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 2025,
-    "analyses30d": 16101
+    "analyses24h": 2052,
+    "analyses30d": 16128
   },
   "recentWins": [
     {
@@ -297,7 +297,7 @@
       "matchCode": "4549715",
       "odds": 1.47,
       "patternScore": 66.93,
-      "patternText": "189.628/283.330",
+      "patternText": "189.652/283.354",
       "aiScore": 55,
       "picks": 4
     },
@@ -309,7 +309,7 @@
       "matchCode": "4549718",
       "odds": 1.4,
       "patternScore": 66.9,
-      "patternText": "190.200/284.311",
+      "patternText": "190.224/284.335",
       "aiScore": 55,
       "picks": 3
     },
@@ -321,7 +321,7 @@
       "matchCode": "4549719",
       "odds": 1.28,
       "patternScore": 67.92,
-      "patternText": "210.609/310.081",
+      "patternText": "210.641/310.113",
       "aiScore": 59,
       "picks": 3
     },
@@ -333,12 +333,33 @@
       "matchCode": "4549552",
       "odds": 1.27,
       "patternScore": 66.91,
-      "patternText": "193.305/288.898",
+      "patternText": "193.329/288.922",
       "aiScore": 62,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Le Mans FC",
+      "away": "LOSC Lille",
+      "league": "FR1",
+      "at": "26.11.2026 18:51",
+      "count": 3
+    },
+    {
+      "home": "Osnabruck",
+      "away": "Hannover 96",
+      "league": "AL2",
+      "at": "26.11.2026 18:50",
+      "count": 6
+    },
+    {
+      "home": "Houston Dynamo",
+      "away": "San Jose Earthquakes",
+      "league": "ABD",
+      "at": "26.11.2026 18:50",
+      "count": 6
+    },
     {
       "home": "Palermo FC",
       "away": "Benevento",
@@ -386,27 +407,6 @@
       "away": "Jagiellonia Bialystok",
       "league": "AVL",
       "at": "26.11.2026 18:24",
-      "count": 8
-    },
-    {
-      "home": "Torino FC",
-      "away": "SS Lazio",
-      "league": "İTA",
-      "at": "26.11.2026 18:11",
-      "count": 5
-    },
-    {
-      "home": "Angers SCO",
-      "away": "RC Lens",
-      "league": "FR1",
-      "at": "26.11.2026 18:03",
-      "count": 2
-    },
-    {
-      "home": "LR Vicenza",
-      "away": "Cesena FC",
-      "league": "İTB",
-      "at": "26.11.2026 18:03",
       "count": 8
     }
   ],
