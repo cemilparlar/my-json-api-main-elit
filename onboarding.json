@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 22:15",
+  "updatedAt": "26.11.2026 22:27",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 240,
+      "won": 241,
       "lost": 136,
-      "total": 376,
-      "rate": 63.8
+      "total": 377,
+      "rate": 63.9
     },
-    "totalAnalyses": 930547,
+    "totalAnalyses": 930617,
     "leagues": 281,
     "pro": {
-      "won": 1817,
+      "won": 1818,
       "lost": 683,
-      "total": 2500,
+      "total": 2501,
       "rate": 72.7
     },
     "insights": {
-      "won": 3017,
+      "won": 3018,
       "lost": 1213,
-      "total": 4230,
+      "total": 4231,
       "rate": 71.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2313,
-    "analyses30d": 16430
+    "analyses24h": 2383,
+    "analyses30d": 16500
   },
   "recentWins": [
     {
@@ -258,12 +258,6 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 16:18",
-      "home": "Pafos Fc",
-      "away": "FC Midtjylland"
-    },
-    {
-      "type": "updated",
       "at": "26.11.2026 17:11",
       "home": "Union St.G",
       "away": "Lech Poznan"
@@ -276,21 +270,27 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 16:17",
-      "home": "Kauno Zalgiris",
-      "away": "Riga Fc"
-    },
-    {
-      "type": "updated",
       "at": "26.11.2026 17:09",
       "home": "Marseille",
       "away": "PFC Levski Sofia"
     },
     {
       "type": "updated",
-      "at": "26.11.2026 16:20",
-      "home": "Egnatia",
-      "away": "Lincoln Red Imp"
+      "at": "26.11.2026 17:04",
+      "home": "FK Jablonec",
+      "away": "FC Lugano"
+    },
+    {
+      "type": "updated",
+      "at": "26.11.2026 17:02",
+      "home": "Fc Iberia",
+      "away": "Getafe CF"
+    },
+    {
+      "type": "updated",
+      "at": "26.11.2026 17:02",
+      "home": "SK Brann",
+      "away": "AGF Aarhus"
     }
   ],
   "today": {
@@ -369,6 +369,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Valencia CF",
+      "away": "CA Osasuna",
+      "league": "İS1",
+      "at": "26.11.2026 22:26",
+      "count": 5
+    },
+    {
+      "home": "Granada CF",
+      "away": "AD Ceuta",
+      "league": "İS2",
+      "at": "26.11.2026 22:25",
+      "count": 6
+    },
+    {
+      "home": "Boluspor",
+      "away": "Esenler Erokspor",
+      "league": "T1L",
+      "at": "26.11.2026 22:23",
+      "count": 4
+    },
+    {
       "home": "FC Magdeburg",
       "away": "Energie Cottbus",
       "league": "AL2",
@@ -416,27 +437,6 @@
       "league": "HOL",
       "at": "26.11.2026 21:09",
       "count": 5
-    },
-    {
-      "home": "Corum FK",
-      "away": "Kocaelispor",
-      "league": "TSL",
-      "at": "26.11.2026 20:28",
-      "count": 8
-    },
-    {
-      "home": "FC Orenburg",
-      "away": "Fk Rodina Moskv",
-      "league": "RUS",
-      "at": "26.11.2026 20:23",
-      "count": 5
-    },
-    {
-      "home": "Portland Timbers",
-      "away": "FC Dallas",
-      "league": "ABD",
-      "at": "26.11.2026 19:52",
-      "count": 12
     }
   ],
   "paywall": {
