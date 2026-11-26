@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 22:45",
+  "updatedAt": "26.11.2026 22:53",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 375,
       "rate": 63.7
     },
-    "totalAnalyses": 930709,
+    "totalAnalyses": 930738,
     "leagues": 281,
     "pro": {
       "won": 1812,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2451,
-    "analyses30d": 16563
+    "analyses24h": 2473,
+    "analyses30d": 16585
   },
   "recentWins": [
     {
@@ -369,6 +369,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Feyenoord",
+      "away": "Ajax",
+      "league": "HOL",
+      "at": "26.11.2026 22:52",
+      "count": 18
+    },
+    {
       "home": "Fortuna Sittar",
       "away": "SC Heerenveen",
       "league": "HOL",
@@ -430,13 +437,6 @@
       "league": "BR1",
       "at": "26.11.2026 21:29",
       "count": 14
-    },
-    {
-      "home": "Udinese",
-      "away": "ACF Fiorentina",
-      "league": "İTA",
-      "at": "26.11.2026 21:10",
-      "count": 6
     }
   ],
   "paywall": {
