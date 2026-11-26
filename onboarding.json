@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 01:53",
+  "updatedAt": "26.11.2026 02:04",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 412,
       "rate": 75.2
     },
-    "totalAnalyses": 923058,
+    "totalAnalyses": 923145,
     "leagues": 275,
     "pro": {
       "won": 1755,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 815,
-    "analyses30d": 14748
+    "analyses24h": 896,
+    "analyses30d": 14829
   },
   "recentWins": [
     {
@@ -241,12 +241,6 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 19:53",
-      "home": "Atletico Nacional",
-      "away": "Independiente Medellin"
-    },
-    {
-      "type": "updated",
       "at": "26.11.2026 01:23",
       "home": "CSD Municipal",
       "away": "CSD Aurora"
@@ -262,6 +256,12 @@
       "at": "26.11.2026 01:07",
       "home": "AC Taipei",
       "away": "Air Source"
+    },
+    {
+      "type": "updated",
+      "at": "25.11.2026 21:11",
+      "home": "UNAN Managua",
+      "away": "Export Sebaco"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4582340",
     "odds": 1.14,
     "patternScore": 69.66,
-    "patternText": "192.276/276.037",
+    "patternText": "192.288/276.049",
     "aiScore": 79,
     "picks": 1
   },
@@ -285,7 +285,7 @@
       "matchCode": "4582340",
       "odds": 1.14,
       "patternScore": 69.66,
-      "patternText": "192.276/276.037",
+      "patternText": "192.288/276.049",
       "aiScore": 79,
       "picks": 1
     },
@@ -297,8 +297,8 @@
       "matchCode": "4564430",
       "odds": 1.07,
       "patternScore": 70.25,
-      "patternText": "243.236/346.233",
-      "aiScore": 97,
+      "patternText": "243.248/346.245",
+      "aiScore": 96,
       "picks": 1
     },
     {
@@ -308,8 +308,8 @@
       "date": "26.11.2026 12:30",
       "matchCode": "4561295",
       "odds": 1.42,
-      "patternScore": 68.16,
-      "patternText": "221.116/324.386",
+      "patternScore": 68.17,
+      "patternText": "221.128/324.398",
       "aiScore": 55,
       "picks": 1
     },
@@ -321,7 +321,7 @@
       "matchCode": "4550046",
       "odds": 1.41,
       "patternScore": 67.29,
-      "patternText": "189.982/282.326",
+      "patternText": "189.994/282.338",
       "aiScore": 54,
       "picks": 2
     },
@@ -333,12 +333,54 @@
       "matchCode": "4550058",
       "odds": 1.17,
       "patternScore": 69.03,
-      "patternText": "113.183/163.971",
+      "patternText": "113.187/163.975",
       "aiScore": 82,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Bochum",
+      "away": "SV Darmstadt 98",
+      "league": "AL2",
+      "at": "26.11.2026 02:00",
+      "count": 8
+    },
+    {
+      "home": "FC Heidenheim",
+      "away": "Nuremberg",
+      "league": "AL2",
+      "at": "26.11.2026 01:59",
+      "count": 10
+    },
+    {
+      "home": "Sariyer",
+      "away": "Istanbulspor",
+      "league": "T1L",
+      "at": "26.11.2026 01:56",
+      "count": 1
+    },
+    {
+      "home": "Rizespor",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "at": "26.11.2026 01:55",
+      "count": 5
+    },
+    {
+      "home": "Umraniyespor",
+      "away": "Manisa FK",
+      "league": "T1L",
+      "at": "26.11.2026 01:55",
+      "count": 4
+    },
+    {
+      "home": "Alanyaspor",
+      "away": "Konyaspor",
+      "league": "TSL",
+      "at": "26.11.2026 01:54",
+      "count": 6
+    },
     {
       "home": "Atletico Mineiro",
       "away": "SC Corinthians",
@@ -366,48 +408,6 @@
       "league": "İNCL",
       "at": "25.11.2026 19:09",
       "count": 8
-    },
-    {
-      "home": "LOSC Lille",
-      "away": "Bayern Munich",
-      "league": "ŞMP",
-      "at": "25.11.2026 18:50",
-      "count": 9
-    },
-    {
-      "home": "Watford",
-      "away": "Blackburn",
-      "league": "İNCL",
-      "at": "25.11.2026 18:49",
-      "count": 4
-    },
-    {
-      "home": "AC Pisa",
-      "away": "Modena FC",
-      "league": "İTB",
-      "at": "25.11.2026 18:29",
-      "count": 7
-    },
-    {
-      "home": "Inter",
-      "away": "VfB Stuttgart",
-      "league": "ŞMP",
-      "at": "25.11.2026 18:08",
-      "count": 6
-    },
-    {
-      "home": "Calcio Padova",
-      "away": "UC Sampdoria",
-      "league": "İTB",
-      "at": "25.11.2026 18:07",
-      "count": 8
-    },
-    {
-      "home": "US Cremonese",
-      "away": "US Avellino",
-      "league": "İTB",
-      "at": "25.11.2026 17:25",
-      "count": 5
     }
   ],
   "paywall": {
