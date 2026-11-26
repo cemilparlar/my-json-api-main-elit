@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 08:25",
+  "updatedAt": "26.11.2026 08:34",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 322,
+      "won": 326,
       "lost": 109,
-      "total": 431,
-      "rate": 74.7
+      "total": 435,
+      "rate": 74.9
     },
-    "totalAnalyses": 924325,
-    "leagues": 275,
+    "totalAnalyses": 924422,
+    "leagues": 276,
     "pro": {
-      "won": 1764,
+      "won": 1765,
       "lost": 660,
-      "total": 2424,
+      "total": 2425,
       "rate": 72.8
     },
     "insights": {
-      "won": 2917,
+      "won": 2921,
       "lost": 1180,
-      "total": 4097,
+      "total": 4101,
       "rate": 71.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1435,
-    "analyses30d": 15375
+    "analyses24h": 1450,
+    "analyses30d": 15390
   },
   "recentWins": [
     {
@@ -102,7 +102,7 @@
       "odds": 2.25,
       "probability": 80.0,
       "patternScore": 66.59,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
       "pro": false
@@ -217,6 +217,12 @@
     },
     {
       "type": "updated",
+      "at": "26.11.2026 08:26",
+      "home": "Al Salmiyah",
+      "away": "Al Tadhamon"
+    },
+    {
+      "type": "updated",
       "at": "26.11.2026 06:52",
       "home": "Borneo FC",
       "away": "Persita Tangerang"
@@ -232,12 +238,6 @@
       "at": "26.11.2026 03:59",
       "home": "South Melbourn",
       "away": "Oakleigh Cannons"
-    },
-    {
-      "type": "updated",
-      "at": "26.11.2026 08:23",
-      "home": "Transmara Suga",
-      "away": "Police"
     },
     {
       "type": "updated",
@@ -302,6 +302,18 @@
       "picks": 2
     },
     {
+      "home": "Gangwon FC",
+      "away": "Kitchee SC",
+      "league": "AFCŞL2",
+      "date": "26.11.2026 10:00",
+      "matchCode": "4550058",
+      "odds": 1.33,
+      "patternScore": 68.12,
+      "patternText": "190.318/279.386",
+      "aiScore": 56,
+      "picks": 2
+    },
+    {
       "home": "Deportivo Riestra",
       "away": "Al Daklyeh",
       "league": "MSR2",
@@ -324,18 +336,6 @@
       "patternText": "200.693/290.201",
       "aiScore": 62,
       "picks": 1
-    },
-    {
-      "home": "Gangwon FC",
-      "away": "Kitchee SC",
-      "league": "AFCŞL2",
-      "date": "26.11.2026 10:00",
-      "matchCode": "4550058",
-      "odds": 1.26,
-      "patternScore": 68.3,
-      "patternText": "171.739/251.445",
-      "aiScore": 58,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
