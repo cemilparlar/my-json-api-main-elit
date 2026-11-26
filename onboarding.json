@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 13:01",
+  "updatedAt": "26.11.2026 13:10",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 284,
       "rate": 74.3
     },
-    "totalAnalyses": 927235,
+    "totalAnalyses": 927245,
     "leagues": 279,
     "pro": {
       "won": 1762,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1570,
-    "analyses30d": 15660
+    "analyses24h": 1580,
+    "analyses30d": 15670
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4486071",
     "odds": 1.5,
     "patternScore": 68.6,
-    "patternText": "201.415/293.616",
+    "patternText": "201.421/293.622",
     "aiScore": 56,
     "picks": 1
   },
@@ -285,7 +285,7 @@
       "matchCode": "4486071",
       "odds": 1.5,
       "patternScore": 68.6,
-      "patternText": "201.415/293.616",
+      "patternText": "201.421/293.622",
       "aiScore": 56,
       "picks": 1
     },
@@ -297,7 +297,7 @@
       "matchCode": "4549627",
       "odds": 1.28,
       "patternScore": 68.28,
-      "patternText": "214.652/314.371",
+      "patternText": "214.658/314.377",
       "aiScore": 61,
       "picks": 4
     },
@@ -309,7 +309,7 @@
       "matchCode": "4540460",
       "odds": 1.25,
       "patternScore": 67.65,
-      "patternText": "129.866/191.959",
+      "patternText": "129.868/191.961",
       "aiScore": 71,
       "picks": 2
     },
@@ -321,7 +321,7 @@
       "matchCode": "4549712",
       "odds": 1.24,
       "patternScore": 67.73,
-      "patternText": "233.988/345.458",
+      "patternText": "233.994/345.464",
       "aiScore": 64,
       "picks": 3
     },
@@ -333,12 +333,19 @@
       "matchCode": "4549625",
       "odds": 1.23,
       "patternScore": 68.2,
-      "patternText": "147.489/216.248",
+      "patternText": "147.491/216.250",
       "aiScore": 68,
       "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "West Bromwich Albion",
+      "away": "Bristol City",
+      "league": "İNCL",
+      "at": "26.11.2026 13:02",
+      "count": 2
+    },
     {
       "home": "Marseille",
       "away": "PFC Levski Sofia",
@@ -401,13 +408,6 @@
       "league": "AVL",
       "at": "26.11.2026 12:40",
       "count": 7
-    },
-    {
-      "home": "Kauno Zalgiris",
-      "away": "Riga Fc",
-      "league": "AVKL",
-      "at": "26.11.2026 12:39",
-      "count": 6
     }
   ],
   "paywall": {
