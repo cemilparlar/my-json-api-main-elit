@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 19:17",
+  "updatedAt": "26.11.2026 19:29",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 215,
       "rate": 72.6
     },
-    "totalAnalyses": 929978,
-    "leagues": 280,
+    "totalAnalyses": 930060,
+    "leagues": 281,
     "pro": {
       "won": 1768,
       "lost": 663,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 2028,
-    "analyses30d": 16131
+    "analyses24h": 2085,
+    "analyses30d": 16188
   },
   "recentWins": [
     {
@@ -290,28 +290,16 @@
       "picks": 2
     },
     {
-      "home": "SC Freiburg",
-      "away": "FC Twente",
-      "league": "AVKL",
-      "date": "26.11.2026 20:00",
-      "matchCode": "4549715",
-      "odds": 1.47,
-      "patternScore": 66.93,
-      "patternText": "189.658/283.360",
-      "aiScore": 55,
-      "picks": 4
-    },
-    {
       "home": "FC Nordsjaelland",
       "away": "Panathinaikos",
       "league": "AVKL",
       "date": "26.11.2026 20:00",
       "matchCode": "4549718",
-      "odds": 1.4,
-      "patternScore": 66.9,
-      "patternText": "190.230/284.341",
-      "aiScore": 55,
-      "picks": 3
+      "odds": 1.48,
+      "patternScore": 67.65,
+      "patternText": "176.395/260.734",
+      "aiScore": 53,
+      "picks": 5
     },
     {
       "home": "Hajduk Split",
@@ -322,8 +310,8 @@
       "odds": 1.28,
       "patternScore": 67.92,
       "patternText": "210.647/310.119",
-      "aiScore": 59,
-      "picks": 3
+      "aiScore": 61,
+      "picks": 4
     },
     {
       "home": "CSKA Sofia",
@@ -336,9 +324,70 @@
       "patternText": "193.335/288.928",
       "aiScore": 62,
       "picks": 2
+    },
+    {
+      "home": "CF Pachuca",
+      "away": "Club Deportivo Guadalajara",
+      "league": "MEK",
+      "date": "27.11.2026 01:00",
+      "matchCode": "4582338",
+      "odds": 1.24,
+      "patternScore": 67.72,
+      "patternText": "77.505/114.441",
+      "aiScore": 70,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Vitoria Guimaraes",
+      "away": "CF Estrela da Amadora",
+      "league": "POR",
+      "at": "26.11.2026 19:22",
+      "count": 8
+    },
+    {
+      "home": "Real Valladolid",
+      "away": "Real Sociedad B",
+      "league": "İS2",
+      "at": "26.11.2026 19:20",
+      "count": 6
+    },
+    {
+      "home": "SE Palmeiras",
+      "away": "Estudiantes de La Plata",
+      "league": "LKU",
+      "at": "26.11.2026 19:20",
+      "count": 14
+    },
+    {
+      "home": "Sporting Charleroi",
+      "away": "Waasland-Beveren",
+      "league": "BEL",
+      "at": "26.11.2026 19:19",
+      "count": 4
+    },
+    {
+      "home": "Lommel United",
+      "away": "Zulte Waregem",
+      "league": "BEL",
+      "at": "26.11.2026 19:19",
+      "count": 5
+    },
+    {
+      "home": "Inter",
+      "away": "Genoa CFC",
+      "league": "İTA",
+      "at": "26.11.2026 19:18",
+      "count": 6
+    },
+    {
+      "home": "Le Havre AC",
+      "away": "RC Strasbourg",
+      "league": "FR1",
+      "at": "26.11.2026 19:18",
+      "count": 5
+    },
     {
       "home": "Juventus",
       "away": "Omonia",
@@ -359,55 +408,6 @@
       "league": "AVL",
       "at": "26.11.2026 19:14",
       "count": 11
-    },
-    {
-      "home": "SC Freiburg",
-      "away": "FC Twente",
-      "league": "AVKL",
-      "at": "26.11.2026 19:14",
-      "count": 6
-    },
-    {
-      "home": "TSG Hoffenheim",
-      "away": "SK Sturm Graz",
-      "league": "AVL",
-      "at": "26.11.2026 19:12",
-      "count": 3
-    },
-    {
-      "home": "AC Sparta Prague",
-      "away": "AZ Alkmaar",
-      "league": "AVL",
-      "at": "26.11.2026 19:12",
-      "count": 8
-    },
-    {
-      "home": "FC Nordsjaelland",
-      "away": "Panathinaikos",
-      "league": "AVKL",
-      "at": "26.11.2026 19:11",
-      "count": 5
-    },
-    {
-      "home": "Sunderland",
-      "away": "Jagiellonia Bialystok",
-      "league": "AVL",
-      "at": "26.11.2026 19:11",
-      "count": 10
-    },
-    {
-      "home": "Hajduk Split",
-      "away": "Sint-Truidense VV",
-      "league": "AVKL",
-      "at": "26.11.2026 19:09",
-      "count": 8
-    },
-    {
-      "home": "Ferencvaros",
-      "away": "NK Celje",
-      "league": "AVL",
-      "at": "26.11.2026 19:09",
-      "count": 8
     }
   ],
   "paywall": {
