@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 17:50",
+  "updatedAt": "26.11.2026 17:59",
   "config": {
     "pages": [
       "engine",
@@ -22,13 +22,13 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 174,
-      "lost": 74,
-      "total": 248,
+      "won": 177,
+      "lost": 75,
+      "total": 252,
       "rate": 70.2
     },
-    "totalAnalyses": 929383,
-    "leagues": 279,
+    "totalAnalyses": 929477,
+    "leagues": 280,
     "pro": {
       "won": 1770,
       "lost": 663,
@@ -36,9 +36,9 @@
       "rate": 72.7
     },
     "insights": {
-      "won": 2924,
+      "won": 2926,
       "lost": 1181,
-      "total": 4105,
+      "total": 4107,
       "rate": 71.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1735,
-    "analyses30d": 15837
+    "analyses24h": 1797,
+    "analyses30d": 15899
   },
   "recentWins": [
     {
@@ -340,6 +340,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Baltika Kalini",
+      "away": "Akhmat Grozny",
+      "league": "RUS",
+      "at": "26.11.2026 17:59",
+      "count": 4
+    },
+    {
+      "home": "Muglaspor",
+      "away": "Mardin 1969",
+      "league": "T1L",
+      "at": "26.11.2026 17:59",
+      "count": 5
+    },
+    {
+      "home": "Excelsior Rotterdam",
+      "away": "SC Telstar",
+      "league": "HOL",
+      "at": "26.11.2026 17:53",
+      "count": 6
+    },
+    {
+      "home": "Crystal Palace",
+      "away": "Real Sociedad",
+      "league": "AVL",
+      "at": "26.11.2026 17:52",
+      "count": 10
+    },
+    {
+      "home": "Torreense",
+      "away": "Celtic",
+      "league": "AVL",
+      "at": "26.11.2026 17:52",
+      "count": 5
+    },
+    {
       "home": "Moreirense FC",
       "away": "CD Santa Clara",
       "league": "POR",
@@ -373,41 +408,6 @@
       "league": "İS2",
       "at": "26.11.2026 17:22",
       "count": 8
-    },
-    {
-      "home": "Queens Park Rangers",
-      "away": "Sheffield United",
-      "league": "İNCL",
-      "at": "26.11.2026 17:21",
-      "count": 6
-    },
-    {
-      "home": "Sao Paulo FC",
-      "away": "Remo",
-      "league": "BR1",
-      "at": "26.11.2026 17:14",
-      "count": 14
-    },
-    {
-      "home": "KAA Gent",
-      "away": "FK Crvena zvezda",
-      "league": "AVKL",
-      "at": "26.11.2026 17:13",
-      "count": 6
-    },
-    {
-      "home": "Union St.G",
-      "away": "Lech Poznan",
-      "league": "AVL",
-      "at": "26.11.2026 17:11",
-      "count": 8
-    },
-    {
-      "home": "Besiktas",
-      "away": "Hapoel Beer She",
-      "league": "AVL",
-      "at": "26.11.2026 17:11",
-      "count": 3
     }
   ],
   "paywall": {
