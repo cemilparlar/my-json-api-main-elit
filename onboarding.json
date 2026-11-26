@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 22:53",
+  "updatedAt": "26.11.2026 23:03",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 239,
-      "lost": 136,
-      "total": 375,
-      "rate": 63.7
+      "won": 234,
+      "lost": 135,
+      "total": 369,
+      "rate": 63.4
     },
-    "totalAnalyses": 930738,
+    "totalAnalyses": 930865,
     "leagues": 281,
     "pro": {
       "won": 1812,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2473,
-    "analyses30d": 16585
+    "analyses24h": 2588,
+    "analyses30d": 16692
   },
   "recentWins": [
     {
@@ -252,12 +252,6 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 17:02",
-      "home": "Olympiakos",
-      "away": "AC Milan"
-    },
-    {
-      "type": "updated",
       "at": "26.11.2026 17:11",
       "home": "Union St.G",
       "away": "Lech Poznan"
@@ -282,15 +276,21 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 17:02",
-      "home": "Fc Iberia",
-      "away": "Getafe CF"
+      "at": "26.11.2026 19:12",
+      "home": "TSG Hoffenheim",
+      "away": "SK Sturm Graz"
     },
     {
       "type": "updated",
-      "at": "26.11.2026 17:02",
-      "home": "SK Brann",
-      "away": "AGF Aarhus"
+      "at": "26.11.2026 19:12",
+      "home": "AC Sparta Prague",
+      "away": "AZ Alkmaar"
+    },
+    {
+      "type": "updated",
+      "at": "26.11.2026 19:14",
+      "home": "NEC Nijmegen",
+      "away": "Stade Rennais"
     }
   ],
   "today": {
@@ -336,11 +336,11 @@
       "league": "MEK",
       "date": "27.11.2026 01:00",
       "matchCode": "4582338",
-      "odds": 1.26,
-      "patternScore": 68.92,
-      "patternText": "220.001/319.203",
-      "aiScore": 63,
-      "picks": 4
+      "odds": 1.17,
+      "patternScore": 69.89,
+      "patternText": "137.914/197.324",
+      "aiScore": 85,
+      "picks": 2
     },
     {
       "home": "Club Atletico Torque",
@@ -368,6 +368,34 @@
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "FC Sudtirol",
+      "away": "Mantova 1911",
+      "league": "İTB",
+      "at": "26.11.2026 23:00",
+      "count": 7
+    },
+    {
+      "home": "US Sassuolo",
+      "away": "SSC Napoli",
+      "league": "İTA",
+      "at": "26.11.2026 22:59",
+      "count": 5
+    },
+    {
+      "home": "AJ Auxerre",
+      "away": "Marseille",
+      "league": "FR1",
+      "at": "26.11.2026 22:57",
+      "count": 11
+    },
+    {
+      "home": "Modena FC",
+      "away": "Calcio Padova",
+      "league": "İTB",
+      "at": "26.11.2026 22:55",
+      "count": 5
+    },
     {
       "home": "Feyenoord",
       "away": "Ajax",
@@ -409,34 +437,6 @@
       "league": "AL2",
       "at": "26.11.2026 22:12",
       "count": 10
-    },
-    {
-      "home": "SpVgg Greuther Furth",
-      "away": "Arminia Bielefe",
-      "league": "AL2",
-      "at": "26.11.2026 22:10",
-      "count": 5
-    },
-    {
-      "home": "Everton",
-      "away": "Liverpool",
-      "league": "İNP",
-      "at": "26.11.2026 21:48",
-      "count": 3
-    },
-    {
-      "home": "Swansea",
-      "away": "Cardiff City",
-      "league": "İNCL",
-      "at": "26.11.2026 21:41",
-      "count": 7
-    },
-    {
-      "home": "Sao Paulo FC",
-      "away": "Remo",
-      "league": "BR1",
-      "at": "26.11.2026 21:29",
-      "count": 14
     }
   ],
   "paywall": {
