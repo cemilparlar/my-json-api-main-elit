@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 20:53",
+  "updatedAt": "26.11.2026 21:01",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 252,
       "rate": 65.5
     },
-    "totalAnalyses": 930387,
+    "totalAnalyses": 930405,
     "leagues": 281,
     "pro": {
       "won": 1782,
@@ -47,24 +47,10 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2215,
-    "analyses30d": 16332
+    "analyses24h": 2218,
+    "analyses30d": 16335
   },
   "recentWins": [
-    {
-      "home": "Palermo FC",
-      "away": "FC Sudtirol",
-      "league": "İTB",
-      "date": "24.11.2026 19:00",
-      "prediction": "Handicap (0:2) 1",
-      "odds": 3.39,
-      "probability": 75.0,
-      "patternScore": 63.77,
-      "aiScore": 50,
-      "firstHalf": "3 - 0",
-      "finalScore": "4 - 1",
-      "pro": false
-    },
     {
       "home": "Wofoo Tai Po",
       "away": "Adelaide United",
@@ -74,7 +60,7 @@
       "odds": 2.39,
       "probability": 75.0,
       "patternScore": 63.8,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "0 - 3",
       "finalScore": "1 - 7",
       "pro": false
@@ -120,6 +106,20 @@
       "firstHalf": "1 - 1",
       "finalScore": "2 - 2",
       "pro": false
+    },
+    {
+      "home": "Tainan City FC",
+      "away": "Taichung Rock FC",
+      "league": "TAYV",
+      "date": "25.11.2026 10:30",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 2.12,
+      "probability": 100.0,
+      "patternScore": 55.63,
+      "aiScore": 51,
+      "firstHalf": "2 - 0",
+      "finalScore": "4 - 0",
+      "pro": true
     }
   ],
   "recentCoupons": [
@@ -214,14 +214,6 @@
   "ticker": [
     {
       "type": "won",
-      "home": "Palermo FC",
-      "away": "FC Sudtirol",
-      "prediction": "Handicap (0:2) 1",
-      "odds": 3.39,
-      "at": "24.11.2026 19:00"
-    },
-    {
-      "type": "won",
       "home": "Wofoo Tai Po",
       "away": "Adelaide United",
       "prediction": "Handicap (2:0) 2",
@@ -243,6 +235,14 @@
       "prediction": "Total Goals 2-3",
       "odds": 2.19,
       "at": "25.11.2026 10:00"
+    },
+    {
+      "type": "won",
+      "home": "Paris Saint-Germain",
+      "away": "AS Roma",
+      "prediction": "Handicap (0:1) 2",
+      "odds": 2.18,
+      "at": "25.11.2026 20:00"
     },
     {
       "type": "coupon",
@@ -301,7 +301,7 @@
     "matchCode": "4582794",
     "odds": 2.56,
     "patternScore": 66.64,
-    "patternText": "136.674/205.079",
+    "patternText": "136.676/205.081",
     "aiScore": 51,
     "picks": 2
   },
@@ -314,7 +314,7 @@
       "matchCode": "4582794",
       "odds": 2.56,
       "patternScore": 66.64,
-      "patternText": "136.674/205.079",
+      "patternText": "136.676/205.081",
       "aiScore": 51,
       "picks": 2
     },
@@ -326,9 +326,9 @@
       "matchCode": "4582338",
       "odds": 1.26,
       "patternScore": 68.68,
-      "patternText": "222.459/323.907",
+      "patternText": "222.469/323.919",
       "aiScore": 63,
-      "picks": 5
+      "picks": 4
     },
     {
       "home": "Club Cerro Porteno",
@@ -338,7 +338,7 @@
       "matchCode": "4582730",
       "odds": 1.23,
       "patternScore": 68.26,
-      "patternText": "205.969/301.753",
+      "patternText": "205.975/301.761",
       "aiScore": 62,
       "picks": 3
     },
@@ -350,8 +350,8 @@
       "matchCode": "4580384",
       "odds": 1.13,
       "patternScore": 70.41,
-      "patternText": "272.849/387.492",
-      "aiScore": 80,
+      "patternText": "272.857/387.502",
+      "aiScore": 78,
       "picks": 1
     },
     {
@@ -362,12 +362,19 @@
       "matchCode": "4582793",
       "odds": 1.09,
       "patternScore": 71.13,
-      "patternText": "294.226/413.629",
+      "patternText": "294.234/413.639",
       "aiScore": 95,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Sao Paulo FC",
+      "away": "Remo",
+      "league": "BR1",
+      "at": "26.11.2026 20:53",
+      "count": 17
+    },
     {
       "home": "Corum FK",
       "away": "Kocaelispor",
@@ -381,13 +388,6 @@
       "league": "RUS",
       "at": "26.11.2026 20:23",
       "count": 5
-    },
-    {
-      "home": "Sao Paulo FC",
-      "away": "Remo",
-      "league": "BR1",
-      "at": "26.11.2026 20:20",
-      "count": 14
     },
     {
       "home": "Portland Timbers",
