@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 08:52",
+  "updatedAt": "26.11.2026 09:02",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 326,
+      "won": 323,
       "lost": 109,
-      "total": 435,
-      "rate": 74.9
+      "total": 432,
+      "rate": 74.8
     },
-    "totalAnalyses": 925010,
+    "totalAnalyses": 925048,
     "leagues": 277,
     "pro": {
       "won": 1765,
-      "lost": 660,
-      "total": 2425,
+      "lost": 659,
+      "total": 2424,
       "rate": 72.8
     },
     "insights": {
       "won": 2921,
-      "lost": 1180,
-      "total": 4101,
+      "lost": 1179,
+      "total": 4100,
       "rate": 71.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1464,
-    "analyses30d": 15404
+    "analyses24h": 1484,
+    "analyses30d": 15427
   },
   "recentWins": [
     {
@@ -217,7 +217,7 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 08:26",
+      "at": "26.11.2026 08:56",
       "home": "Al Salmiyah",
       "away": "Al Tadhamon"
     },
@@ -232,6 +232,12 @@
       "at": "26.11.2026 08:25",
       "home": "FC Orenburg",
       "away": "Spartak Moscow"
+    },
+    {
+      "type": "updated",
+      "at": "26.11.2026 08:57",
+      "home": "Acs Gloria Bis",
+      "away": "FC Slatina"
     },
     {
       "type": "updated",
@@ -253,15 +259,9 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 08:22",
+      "at": "26.11.2026 08:54",
       "home": "Tampines Rovers",
       "away": "Shanghai Shenhua"
-    },
-    {
-      "type": "updated",
-      "at": "26.11.2026 07:38",
-      "home": "BG Pathum United",
-      "away": "Lion City Sailors"
     }
   ],
   "today": {
@@ -340,6 +340,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Van Spor FK",
+      "away": "Bursaspor",
+      "league": "T1L",
+      "at": "26.11.2026 09:01",
+      "count": 3
+    },
+    {
       "home": "Frosinone Calcio",
       "away": "Parma Calcio",
       "league": "İTA",
@@ -401,13 +408,6 @@
       "league": "AVL",
       "at": "26.11.2026 04:23",
       "count": 14
-    },
-    {
-      "home": "Hertha BSC",
-      "away": "Karlsruher SC",
-      "league": "AL2",
-      "at": "26.11.2026 03:07",
-      "count": 5
     }
   ],
   "paywall": {
