@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 18:36",
+  "updatedAt": "26.11.2026 18:46",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 169,
+      "won": 173,
       "lost": 67,
-      "total": 236,
-      "rate": 71.6
+      "total": 240,
+      "rate": 72.1
     },
-    "totalAnalyses": 929750,
+    "totalAnalyses": 929823,
     "leagues": 280,
     "pro": {
-      "won": 1768,
+      "won": 1770,
       "lost": 663,
-      "total": 2431,
+      "total": 2433,
       "rate": 72.7
     },
     "insights": {
-      "won": 2921,
+      "won": 2924,
       "lost": 1180,
-      "total": 4101,
+      "total": 4104,
       "rate": 71.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1958,
-    "analyses30d": 16047
+    "analyses24h": 2025,
+    "analyses30d": 16101
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4582794",
     "odds": 2.56,
     "patternScore": 66.64,
-    "patternText": "136.576/204.947",
+    "patternText": "136.600/204.971",
     "aiScore": 51,
     "picks": 2
   },
@@ -285,7 +285,7 @@
       "matchCode": "4582794",
       "odds": 2.56,
       "patternScore": 66.64,
-      "patternText": "136.576/204.947",
+      "patternText": "136.600/204.971",
       "aiScore": 51,
       "picks": 2
     },
@@ -297,7 +297,7 @@
       "matchCode": "4549715",
       "odds": 1.47,
       "patternScore": 66.93,
-      "patternText": "189.620/283.322",
+      "patternText": "189.628/283.330",
       "aiScore": 55,
       "picks": 4
     },
@@ -309,7 +309,7 @@
       "matchCode": "4549718",
       "odds": 1.4,
       "patternScore": 66.9,
-      "patternText": "190.192/284.303",
+      "patternText": "190.200/284.311",
       "aiScore": 55,
       "picks": 3
     },
@@ -321,7 +321,7 @@
       "matchCode": "4549719",
       "odds": 1.28,
       "patternScore": 67.92,
-      "patternText": "210.601/310.073",
+      "patternText": "210.609/310.081",
       "aiScore": 59,
       "picks": 3
     },
@@ -333,12 +333,26 @@
       "matchCode": "4549552",
       "odds": 1.27,
       "patternScore": 66.91,
-      "patternText": "193.281/288.874",
+      "patternText": "193.305/288.898",
       "aiScore": 62,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Palermo FC",
+      "away": "Benevento",
+      "league": "İTB",
+      "at": "26.11.2026 18:46",
+      "count": 8
+    },
+    {
+      "home": "Academico FC Viseu",
+      "away": "FC Alverca",
+      "league": "POR",
+      "at": "26.11.2026 18:45",
+      "count": 6
+    },
     {
       "home": "Eibar",
       "away": "Burgos CF",
@@ -394,20 +408,6 @@
       "league": "İTB",
       "at": "26.11.2026 18:03",
       "count": 8
-    },
-    {
-      "home": "Gaziantep FK",
-      "away": "Amed SK",
-      "league": "TSL",
-      "at": "26.11.2026 18:00",
-      "count": 5
-    },
-    {
-      "home": "Baltika Kalini",
-      "away": "Akhmat Grozny",
-      "league": "RUS",
-      "at": "26.11.2026 17:59",
-      "count": 4
     }
   ],
   "paywall": {
