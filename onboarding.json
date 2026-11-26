@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 07:59",
+  "updatedAt": "26.11.2026 08:09",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 431,
       "rate": 74.7
     },
-    "totalAnalyses": 923869,
+    "totalAnalyses": 923985,
     "leagues": 275,
     "pro": {
       "won": 1764,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1360,
-    "analyses30d": 15300
+    "analyses24h": 1444,
+    "analyses30d": 15384
   },
   "recentWins": [
     {
@@ -102,7 +102,7 @@
       "odds": 2.25,
       "probability": 80.0,
       "patternScore": 66.59,
-      "aiScore": 50,
+      "aiScore": 51,
       "firstHalf": "0 - 0",
       "finalScore": "0 - 0",
       "pro": false
@@ -340,6 +340,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Frosinone Calcio",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "26.11.2026 08:06",
+      "count": 9
+    },
+    {
+      "home": "Empoli",
+      "away": "Verona",
+      "league": "İTB",
+      "at": "26.11.2026 08:05",
+      "count": 7
+    },
+    {
+      "home": "CSKA Moscow",
+      "away": "Zenit St. Petersburg",
+      "league": "RUS",
+      "at": "26.11.2026 08:01",
+      "count": 3
+    },
+    {
+      "home": "UD Las Palmas",
+      "away": "FC Andorra",
+      "league": "İS2",
+      "at": "26.11.2026 08:00",
+      "count": 8
+    },
+    {
+      "home": "Real Betis",
+      "away": "Rayo Vallecano",
+      "league": "İS1",
+      "at": "26.11.2026 08:00",
+      "count": 10
+    },
+    {
       "home": "Samsunspor",
       "away": "Genclerbirligi",
       "league": "TSL",
@@ -372,41 +407,6 @@
       "away": "Karlsruher SC",
       "league": "AL2",
       "at": "26.11.2026 03:07",
-      "count": 5
-    },
-    {
-      "home": "Holstein Kiel",
-      "away": "Kaiserslautern",
-      "league": "AL2",
-      "at": "26.11.2026 03:07",
-      "count": 6
-    },
-    {
-      "home": "Dynamo Dresden",
-      "away": "St Pauli",
-      "league": "AL2",
-      "at": "26.11.2026 03:07",
-      "count": 5
-    },
-    {
-      "home": "Rubin Kazan",
-      "away": "FC Akron Togliatti",
-      "league": "RUS",
-      "at": "26.11.2026 02:32",
-      "count": 3
-    },
-    {
-      "home": "Bandirmaspor",
-      "away": "Batman Petrolspor",
-      "league": "T1L",
-      "at": "26.11.2026 02:31",
-      "count": 4
-    },
-    {
-      "home": "Sivasspor",
-      "away": "Bodrum FK",
-      "league": "T1L",
-      "at": "26.11.2026 02:31",
       "count": 5
     }
   ],
