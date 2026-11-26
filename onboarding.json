@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 06:41",
+  "updatedAt": "26.11.2026 06:49",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1193,
-    "analyses30d": 15130
+    "analyses24h": 1191,
+    "analyses30d": 15128
   },
   "recentWins": [
     {
@@ -229,6 +229,18 @@
     },
     {
       "type": "updated",
+      "at": "26.11.2026 06:38",
+      "home": "El Saka El Had",
+      "away": "Proxy"
+    },
+    {
+      "type": "updated",
+      "at": "26.11.2026 06:37",
+      "home": "Deportivo Riestra",
+      "away": "Al Daklyeh"
+    },
+    {
+      "type": "updated",
       "at": "26.11.2026 05:22",
       "home": "Tampines Rovers",
       "away": "Shanghai Shenhua"
@@ -250,18 +262,6 @@
       "at": "26.11.2026 05:39",
       "home": "Uttaradit",
       "away": "Songkhla"
-    },
-    {
-      "type": "updated",
-      "at": "26.11.2026 04:22",
-      "home": "Kuching FA",
-      "away": "Phnom Penh Crow"
-    },
-    {
-      "type": "updated",
-      "at": "26.11.2026 05:57",
-      "home": "Gangwon FC",
-      "away": "Kitchee SC"
     }
   ],
   "today": {
@@ -270,10 +270,10 @@
     "league": "ÜRD1",
     "date": "26.11.2026 12:30",
     "matchCode": "4561295",
-    "odds": 1.42,
-    "patternScore": 68.17,
-    "patternText": "221.200/324.504",
-    "aiScore": 55,
+    "odds": 1.59,
+    "patternScore": 66.21,
+    "patternText": "131.906/199.234",
+    "aiScore": 53,
     "picks": 1
   },
   "todayList": [
@@ -283,10 +283,10 @@
       "league": "ÜRD1",
       "date": "26.11.2026 12:30",
       "matchCode": "4561295",
-      "odds": 1.42,
-      "patternScore": 68.17,
-      "patternText": "221.200/324.504",
-      "aiScore": 55,
+      "odds": 1.59,
+      "patternScore": 66.21,
+      "patternText": "131.906/199.234",
+      "aiScore": 53,
       "picks": 1
     },
     {
@@ -302,6 +302,30 @@
       "picks": 2
     },
     {
+      "home": "Deportivo Riestra",
+      "away": "Al Daklyeh",
+      "league": "MSR2",
+      "date": "26.11.2026 12:30",
+      "matchCode": "4538130",
+      "odds": 1.31,
+      "patternScore": 66.63,
+      "patternText": "206.524/309.971",
+      "aiScore": 57,
+      "picks": 2
+    },
+    {
+      "home": "El Saka El Had",
+      "away": "Proxy",
+      "league": "MSR2",
+      "date": "26.11.2026 12:30",
+      "matchCode": "4538128",
+      "odds": 1.3,
+      "patternScore": 69.16,
+      "patternText": "200.693/290.201",
+      "aiScore": 62,
+      "picks": 1
+    },
+    {
       "home": "Gangwon FC",
       "away": "Kitchee SC",
       "league": "AFCŞL2",
@@ -312,30 +336,6 @@
       "patternText": "171.739/251.445",
       "aiScore": 58,
       "picks": 2
-    },
-    {
-      "home": "Tampines Rovers",
-      "away": "Shanghai Shenhua",
-      "league": "AFCŞL2",
-      "date": "26.11.2026 10:00",
-      "matchCode": "4550046",
-      "odds": 1.25,
-      "patternScore": 66.61,
-      "patternText": "127.010/190.681",
-      "aiScore": 60,
-      "picks": 5
-    },
-    {
-      "home": "Al Yarmouk",
-      "away": "Jerash",
-      "league": "ÜRD1",
-      "date": "26.11.2026 12:30",
-      "matchCode": "4561292",
-      "odds": 1.16,
-      "patternScore": 70.15,
-      "patternText": "251.671/358.759",
-      "aiScore": 82,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
