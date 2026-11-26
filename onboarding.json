@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 23:39",
+  "updatedAt": "26.11.2026 23:48",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 370,
       "rate": 63.0
     },
-    "totalAnalyses": 930976,
+    "totalAnalyses": 931069,
     "leagues": 281,
     "pro": {
       "won": 1813,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2671,
-    "analyses30d": 16772
+    "analyses24h": 2761,
+    "analyses30d": 16862
   },
   "recentWins": [
     {
@@ -324,10 +324,10 @@
       "league": "URUK",
       "date": "27.11.2026 00:30",
       "matchCode": "4580384",
-      "odds": 1.13,
-      "patternScore": 70.42,
-      "patternText": "271.669/385.792",
-      "aiScore": 78,
+      "odds": 1.14,
+      "patternScore": 70.34,
+      "patternText": "269.905/383.726",
+      "aiScore": 79,
       "picks": 1
     },
     {
@@ -369,6 +369,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Arsenal",
+      "away": "Manchester City",
+      "league": "İNP",
+      "at": "26.11.2026 23:47",
+      "count": 5
+    },
+    {
+      "home": "UC Sampdoria",
+      "away": "US Cremonese",
+      "league": "İTB",
+      "at": "26.11.2026 23:44",
+      "count": 7
+    },
+    {
+      "home": "Toulouse FC",
+      "away": "Stade Rennais",
+      "league": "FR1",
+      "at": "26.11.2026 23:44",
+      "count": 5
+    },
+    {
+      "home": "A. Keciorengucu",
+      "away": "Kayserispor",
+      "league": "T1L",
+      "at": "26.11.2026 23:43",
+      "count": 3
+    },
+    {
+      "home": "Fenerbahce",
+      "away": "Erzurumspor FK",
+      "league": "TSL",
+      "at": "26.11.2026 23:43",
+      "count": 2
+    },
+    {
       "home": "Zwolle",
       "away": "AZ Alkmaar",
       "league": "HOL",
@@ -402,41 +437,6 @@
       "league": "İNP",
       "at": "26.11.2026 23:06",
       "count": 7
-    },
-    {
-      "home": "Crystal Palace",
-      "away": "Hull City",
-      "league": "İNP",
-      "at": "26.11.2026 23:05",
-      "count": 7
-    },
-    {
-      "home": "Sunderland",
-      "away": "Tottenham Hotspur",
-      "league": "İNP",
-      "at": "26.11.2026 23:05",
-      "count": 5
-    },
-    {
-      "home": "Fulham",
-      "away": "AFC Bournemouth",
-      "league": "İNP",
-      "at": "26.11.2026 23:04",
-      "count": 8
-    },
-    {
-      "home": "FC Sudtirol",
-      "away": "Mantova 1911",
-      "league": "İTB",
-      "at": "26.11.2026 23:00",
-      "count": 7
-    },
-    {
-      "home": "US Sassuolo",
-      "away": "SSC Napoli",
-      "league": "İTA",
-      "at": "26.11.2026 22:59",
-      "count": 5
     }
   ],
   "paywall": {
