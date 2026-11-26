@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 12:20",
+  "updatedAt": "26.11.2026 12:31",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 219,
-      "lost": 80,
-      "total": 299,
-      "rate": 73.2
+      "won": 217,
+      "lost": 79,
+      "total": 296,
+      "rate": 73.3
     },
-    "totalAnalyses": 926709,
+    "totalAnalyses": 926762,
     "leagues": 277,
     "pro": {
-      "won": 1770,
-      "lost": 663,
-      "total": 2433,
-      "rate": 72.7
+      "won": 1767,
+      "lost": 661,
+      "total": 2428,
+      "rate": 72.8
     },
     "insights": {
-      "won": 2926,
-      "lost": 1184,
-      "total": 4110,
+      "won": 2917,
+      "lost": 1182,
+      "total": 4099,
       "rate": 71.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1536,
-    "analyses30d": 15613
+    "analyses24h": 1530,
+    "analyses30d": 15610
   },
   "recentWins": [
     {
@@ -223,6 +223,12 @@
     },
     {
       "type": "updated",
+      "at": "26.11.2026 12:12",
+      "home": "Al Arabi",
+      "away": "Khaitan SC"
+    },
+    {
+      "type": "updated",
       "at": "26.11.2026 09:38",
       "home": "FC Kairat Almaty",
       "away": "Mjallby AIF"
@@ -256,39 +262,21 @@
       "at": "26.11.2026 12:12",
       "home": "Celta de Vigo",
       "away": "AFC Bournemouth"
-    },
-    {
-      "type": "updated",
-      "at": "26.11.2026 12:20",
-      "home": "SK Brann",
-      "away": "AGF Aarhus"
     }
   ],
   "today": {
-    "home": "SK Brann",
-    "away": "AGF Aarhus",
+    "home": "Pafos Fc",
+    "away": "FC Midtjylland",
     "league": "AVKL",
     "date": "26.11.2026 17:45",
-    "matchCode": "4549711",
-    "odds": 1.41,
-    "patternScore": 67.91,
-    "patternText": "145.208/213.832",
-    "aiScore": 57,
+    "matchCode": "4549706",
+    "odds": 1.4,
+    "patternScore": 66.76,
+    "patternText": "161.064/241.261",
+    "aiScore": 56,
     "picks": 2
   },
   "todayList": [
-    {
-      "home": "SK Brann",
-      "away": "AGF Aarhus",
-      "league": "AVKL",
-      "date": "26.11.2026 17:45",
-      "matchCode": "4549711",
-      "odds": 1.41,
-      "patternScore": 67.91,
-      "patternText": "145.208/213.832",
-      "aiScore": 57,
-      "picks": 2
-    },
     {
       "home": "Pafos Fc",
       "away": "FC Midtjylland",
@@ -302,6 +290,18 @@
       "picks": 2
     },
     {
+      "home": "FK Jablonec",
+      "away": "FC Lugano",
+      "league": "AVKL",
+      "date": "26.11.2026 17:45",
+      "matchCode": "4549708",
+      "odds": 1.29,
+      "patternScore": 68.13,
+      "patternText": "230.309/338.051",
+      "aiScore": 61,
+      "picks": 1
+    },
+    {
       "home": "Olympiakos",
       "away": "AC Milan",
       "league": "AVL",
@@ -310,7 +310,7 @@
       "odds": 1.28,
       "patternScore": 68.07,
       "patternText": "122.200/179.533",
-      "aiScore": 63,
+      "aiScore": 64,
       "picks": 5
     },
     {
