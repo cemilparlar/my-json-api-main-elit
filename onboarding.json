@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 12:31",
+  "updatedAt": "26.11.2026 12:42",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 296,
       "rate": 73.3
     },
-    "totalAnalyses": 926762,
+    "totalAnalyses": 926929,
     "leagues": 277,
     "pro": {
       "won": 1767,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1530,
-    "analyses30d": 15610
+    "analyses24h": 1544,
+    "analyses30d": 15624
   },
   "recentWins": [
     {
@@ -229,9 +229,21 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 09:38",
+      "at": "26.11.2026 12:37",
       "home": "FC Kairat Almaty",
       "away": "Mjallby AIF"
+    },
+    {
+      "type": "updated",
+      "at": "26.11.2026 12:41",
+      "home": "Olympiakos",
+      "away": "AC Milan"
+    },
+    {
+      "type": "updated",
+      "at": "26.11.2026 12:41",
+      "home": "Pafos Fc",
+      "away": "FC Midtjylland"
     },
     {
       "type": "updated",
@@ -241,27 +253,15 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 12:14",
+      "at": "26.11.2026 12:40",
       "home": "Union St.G",
       "away": "Lech Poznan"
     },
     {
       "type": "updated",
-      "at": "26.11.2026 12:13",
+      "at": "26.11.2026 12:39",
       "home": "Kauno Zalgiris",
       "away": "Riga Fc"
-    },
-    {
-      "type": "updated",
-      "at": "26.11.2026 12:16",
-      "home": "FK Jablonec",
-      "away": "FC Lugano"
-    },
-    {
-      "type": "updated",
-      "at": "26.11.2026 12:12",
-      "home": "Celta de Vigo",
-      "away": "AFC Bournemouth"
     }
   ],
   "today": {
@@ -340,10 +340,52 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Fc Iberia",
+      "away": "Getafe CF",
+      "league": "AVKL",
+      "at": "26.11.2026 12:42",
+      "count": 14
+    },
+    {
+      "home": "Olympiakos",
+      "away": "AC Milan",
+      "league": "AVL",
+      "at": "26.11.2026 12:41",
+      "count": 6
+    },
+    {
+      "home": "Pafos Fc",
+      "away": "FC Midtjylland",
+      "league": "AVKL",
+      "at": "26.11.2026 12:41",
+      "count": 10
+    },
+    {
       "home": "SK Brann",
       "away": "AGF Aarhus",
       "league": "AVKL",
-      "at": "26.11.2026 12:20",
+      "at": "26.11.2026 12:41",
+      "count": 6
+    },
+    {
+      "home": "Union St.G",
+      "away": "Lech Poznan",
+      "league": "AVL",
+      "at": "26.11.2026 12:40",
+      "count": 7
+    },
+    {
+      "home": "Kauno Zalgiris",
+      "away": "Riga Fc",
+      "league": "AVKL",
+      "at": "26.11.2026 12:39",
+      "count": 6
+    },
+    {
+      "home": "FC Kairat Almaty",
+      "away": "Mjallby AIF",
+      "league": "AVKL",
+      "at": "26.11.2026 12:37",
       "count": 5
     },
     {
@@ -361,53 +403,11 @@
       "count": 4
     },
     {
-      "home": "Union St.G",
-      "away": "Lech Poznan",
-      "league": "AVL",
-      "at": "26.11.2026 12:14",
-      "count": 8
-    },
-    {
-      "home": "Kauno Zalgiris",
-      "away": "Riga Fc",
-      "league": "AVKL",
-      "at": "26.11.2026 12:13",
-      "count": 8
-    },
-    {
       "home": "Celta de Vigo",
       "away": "AFC Bournemouth",
       "league": "AVL",
       "at": "26.11.2026 12:12",
       "count": 3
-    },
-    {
-      "home": "Leeds United",
-      "away": "Coventry City",
-      "league": "İNP",
-      "at": "26.11.2026 11:07",
-      "count": 4
-    },
-    {
-      "home": "Birmingham City",
-      "away": "Bolton Wanderers",
-      "league": "İNCL",
-      "at": "26.11.2026 11:07",
-      "count": 10
-    },
-    {
-      "home": "Wrexham AFC",
-      "away": "Portsmouth",
-      "league": "İNCL",
-      "at": "26.11.2026 09:46",
-      "count": 8
-    },
-    {
-      "home": "KVC Westerlo",
-      "away": "La Louviere",
-      "league": "BEL",
-      "at": "26.11.2026 09:45",
-      "count": 6
     }
   ],
   "paywall": {
