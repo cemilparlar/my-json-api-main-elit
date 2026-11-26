@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 03:01",
+  "updatedAt": "26.11.2026 03:09",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 315,
-      "lost": 105,
-      "total": 420,
-      "rate": 75.0
+      "won": 316,
+      "lost": 106,
+      "total": 422,
+      "rate": 74.9
     },
-    "totalAnalyses": 923496,
+    "totalAnalyses": 923521,
     "leagues": 275,
     "pro": {
       "won": 1760,
@@ -36,9 +36,9 @@
       "rate": 72.8
     },
     "insights": {
-      "won": 2909,
-      "lost": 1176,
-      "total": 4085,
+      "won": 2910,
+      "lost": 1177,
+      "total": 4087,
       "rate": 71.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1154,
-    "analyses30d": 15094
+    "analyses24h": 1177,
+    "analyses30d": 15114
   },
   "recentWins": [
     {
@@ -241,6 +241,18 @@
     },
     {
       "type": "updated",
+      "at": "26.11.2026 03:06",
+      "home": "Borneo FC",
+      "away": "Persita Tangerang"
+    },
+    {
+      "type": "updated",
+      "at": "26.11.2026 03:06",
+      "home": "South Melbourn",
+      "away": "Oakleigh Cannons"
+    },
+    {
+      "type": "updated",
       "at": "26.11.2026 01:23",
       "home": "CSD Municipal",
       "away": "CSD Aurora"
@@ -250,18 +262,6 @@
       "at": "25.11.2026 22:29",
       "home": "Real Potosi",
       "away": "Always Ready"
-    },
-    {
-      "type": "updated",
-      "at": "26.11.2026 01:07",
-      "home": "AC Taipei",
-      "away": "Air Source"
-    },
-    {
-      "type": "updated",
-      "at": "25.11.2026 21:11",
-      "home": "UNAN Managua",
-      "away": "Export Sebaco"
     }
   ],
   "today": {
@@ -340,6 +340,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Hertha BSC",
+      "away": "Karlsruher SC",
+      "league": "AL2",
+      "at": "26.11.2026 03:07",
+      "count": 5
+    },
+    {
+      "home": "Holstein Kiel",
+      "away": "Kaiserslautern",
+      "league": "AL2",
+      "at": "26.11.2026 03:07",
+      "count": 6
+    },
+    {
+      "home": "Dynamo Dresden",
+      "away": "St Pauli",
+      "league": "AL2",
+      "at": "26.11.2026 03:07",
+      "count": 5
+    },
+    {
       "home": "Rubin Kazan",
       "away": "FC Akron Togliatti",
       "league": "RUS",
@@ -387,27 +408,6 @@
       "league": "İNP",
       "at": "26.11.2026 02:18",
       "count": 8
-    },
-    {
-      "home": "Levante UD",
-      "away": "Racing Santander",
-      "league": "İS1",
-      "at": "26.11.2026 02:17",
-      "count": 11
-    },
-    {
-      "home": "Southam",
-      "away": "Middlesbrough",
-      "league": "İNCL",
-      "at": "26.11.2026 02:17",
-      "count": 9
-    },
-    {
-      "home": "Stade Brest",
-      "away": "Paris FC",
-      "league": "FR1",
-      "at": "26.11.2026 02:14",
-      "count": 3
     }
   ],
   "paywall": {
