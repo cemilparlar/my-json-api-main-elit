@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 14:02",
+  "updatedAt": "26.11.2026 14:12",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 195,
-      "lost": 70,
-      "total": 265,
-      "rate": 73.6
+      "won": 208,
+      "lost": 78,
+      "total": 286,
+      "rate": 72.7
     },
-    "totalAnalyses": 927941,
+    "totalAnalyses": 927994,
     "leagues": 279,
     "pro": {
-      "won": 1761,
-      "lost": 656,
-      "total": 2417,
-      "rate": 72.9
+      "won": 1762,
+      "lost": 657,
+      "total": 2419,
+      "rate": 72.8
     },
     "insights": {
-      "won": 2907,
-      "lost": 1173,
-      "total": 4080,
-      "rate": 71.2
+      "won": 2918,
+      "lost": 1176,
+      "total": 4094,
+      "rate": 71.3
     },
     "coupons": {
       "won": 8,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1605,
-    "analyses30d": 15710
+    "analyses24h": 1628,
+    "analyses30d": 15733
   },
   "recentWins": [
     {
@@ -340,74 +340,74 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Celta de Vigo",
-      "away": "AFC Bournemouth",
+      "home": "TSG Hoffenheim",
+      "away": "SK Sturm Graz",
       "league": "AVL",
-      "at": "26.11.2026 13:19",
+      "at": "26.11.2026 14:12",
+      "count": 4
+    },
+    {
+      "home": "Borac Banja Lu",
+      "away": "Atalanta",
+      "league": "AVKL",
+      "at": "26.11.2026 14:12",
+      "count": 14
+    },
+    {
+      "home": "SC Freiburg",
+      "away": "FC Twente",
+      "league": "AVKL",
+      "at": "26.11.2026 14:11",
+      "count": 6
+    },
+    {
+      "home": "FC Nordsjaelland",
+      "away": "Panathinaikos",
+      "league": "AVKL",
+      "at": "26.11.2026 14:11",
+      "count": 10
+    },
+    {
+      "home": "NEC Nijmegen",
+      "away": "Stade Rennais",
+      "league": "AVL",
+      "at": "26.11.2026 14:10",
+      "count": 9
+    },
+    {
+      "home": "CSKA Sofia",
+      "away": "Trabzonspor",
+      "league": "AVKL",
+      "at": "26.11.2026 14:10",
       "count": 5
     },
     {
-      "home": "West Bromwich Albion",
-      "away": "Bristol City",
-      "league": "İNCL",
-      "at": "26.11.2026 13:02",
-      "count": 2
-    },
-    {
-      "home": "Marseille",
-      "away": "PFC Levski Sofia",
+      "home": "Torreense",
+      "away": "Celtic",
       "league": "AVL",
-      "at": "26.11.2026 12:43",
-      "count": 14
+      "at": "26.11.2026 14:10",
+      "count": 17
     },
     {
-      "home": "Heart of Midlothian",
-      "away": "AS Monaco",
-      "league": "AVKL",
-      "at": "26.11.2026 12:43",
-      "count": 10
-    },
-    {
-      "home": "FK Jablonec",
-      "away": "FC Lugano",
-      "league": "AVKL",
-      "at": "26.11.2026 12:42",
-      "count": 6
-    },
-    {
-      "home": "Fc Iberia",
-      "away": "Getafe CF",
-      "league": "AVKL",
-      "at": "26.11.2026 12:42",
-      "count": 14
-    },
-    {
-      "home": "Olympiakos",
-      "away": "AC Milan",
+      "home": "Crystal Palace",
+      "away": "Real Sociedad",
       "league": "AVL",
-      "at": "26.11.2026 12:41",
-      "count": 6
-    },
-    {
-      "home": "Pafos Fc",
-      "away": "FC Midtjylland",
-      "league": "AVKL",
-      "at": "26.11.2026 12:41",
-      "count": 10
-    },
-    {
-      "home": "SK Brann",
-      "away": "AGF Aarhus",
-      "league": "AVKL",
-      "at": "26.11.2026 12:41",
-      "count": 6
-    },
-    {
-      "home": "Union St.G",
-      "away": "Lech Poznan",
-      "league": "AVL",
-      "at": "26.11.2026 12:40",
+      "at": "26.11.2026 14:09",
       "count": 7
+    },
+    {
+      "home": "Ferencvaros",
+      "away": "NK Celje",
+      "league": "AVL",
+      "at": "26.11.2026 14:08",
+      "count": 6
+    },
+    {
+      "home": "KAA Gent",
+      "away": "FK Crvena zvezda",
+      "league": "AVKL",
+      "at": "26.11.2026 14:08",
+      "count": 6
     }
   ],
   "paywall": {
