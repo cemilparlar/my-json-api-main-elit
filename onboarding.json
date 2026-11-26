@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 06:23",
+  "updatedAt": "26.11.2026 06:32",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 434,
       "rate": 74.9
     },
-    "totalAnalyses": 923636,
+    "totalAnalyses": 923637,
     "leagues": 275,
     "pro": {
       "won": 1764,
@@ -235,6 +235,12 @@
     },
     {
       "type": "updated",
+      "at": "26.11.2026 06:30",
+      "home": "BG Pathum United",
+      "away": "Lion City Sailors"
+    },
+    {
+      "type": "updated",
       "at": "26.11.2026 05:39",
       "home": "Uttaradit",
       "away": "Songkhla"
@@ -256,27 +262,33 @@
       "home": "South Melbourn",
       "away": "Oakleigh Cannons",
       "at": "26.11.2026 08:30"
-    },
-    {
-      "type": "kickoff",
-      "home": "Borneo FC",
-      "away": "Persita Tangerang",
-      "at": "26.11.2026 08:30"
     }
   ],
   "today": {
-    "home": "Kuching FA",
-    "away": "Phnom Penh Crow",
-    "league": "AFCŞL2",
-    "date": "26.11.2026 10:00",
-    "matchCode": "4550059",
-    "odds": 1.33,
-    "patternScore": 68.37,
-    "patternText": "174.437/255.120",
-    "aiScore": 60,
-    "picks": 2
+    "home": "Al Sareeh",
+    "away": "Aqaba",
+    "league": "ÜRD1",
+    "date": "26.11.2026 12:30",
+    "matchCode": "4561295",
+    "odds": 1.42,
+    "patternScore": 68.17,
+    "patternText": "221.200/324.504",
+    "aiScore": 55,
+    "picks": 1
   },
   "todayList": [
+    {
+      "home": "Al Sareeh",
+      "away": "Aqaba",
+      "league": "ÜRD1",
+      "date": "26.11.2026 12:30",
+      "matchCode": "4561295",
+      "odds": 1.42,
+      "patternScore": 68.17,
+      "patternText": "221.200/324.504",
+      "aiScore": 55,
+      "picks": 1
+    },
     {
       "home": "Kuching FA",
       "away": "Phnom Penh Crow",
@@ -314,28 +326,16 @@
       "picks": 5
     },
     {
-      "home": "BG Pathum United",
-      "away": "Lion City Sailors",
-      "league": "AFCŞL2",
-      "date": "26.11.2026 12:15",
-      "matchCode": "4550034",
-      "odds": 1.14,
-      "patternScore": 70.38,
-      "patternText": "256.961/365.107",
-      "aiScore": 91,
+      "home": "Al Yarmouk",
+      "away": "Jerash",
+      "league": "ÜRD1",
+      "date": "26.11.2026 12:30",
+      "matchCode": "4561292",
+      "odds": 1.16,
+      "patternScore": 70.15,
+      "patternText": "251.671/358.759",
+      "aiScore": 82,
       "picks": 1
-    },
-    {
-      "home": "Borneo FC",
-      "away": "Persita Tangerang",
-      "league": "ENDL1",
-      "date": "26.11.2026 08:30",
-      "matchCode": "4550408",
-      "odds": 1.13,
-      "patternScore": 70.54,
-      "patternText": "232.366/329.429",
-      "aiScore": 81,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
