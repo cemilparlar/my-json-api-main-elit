@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 03:57",
+  "updatedAt": "26.11.2026 04:05",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1177,
-    "analyses30d": 15112
+    "analyses24h": 1174,
+    "analyses30d": 15109
   },
   "recentWins": [
     {
@@ -241,7 +241,7 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 03:21",
+      "at": "26.11.2026 03:59",
       "home": "South Melbourn",
       "away": "Oakleigh Cannons"
     },
@@ -265,18 +265,42 @@
     }
   ],
   "today": {
-    "home": "South Melbourn",
-    "away": "Oakleigh Cannons",
-    "league": "AVC",
-    "date": "26.11.2026 08:30",
-    "matchCode": "4582334",
-    "odds": 1.14,
-    "patternScore": 68.95,
-    "patternText": "178.465/258.819",
-    "aiScore": 75,
-    "picks": 3
+    "home": "Tampines Rovers",
+    "away": "Shanghai Shenhua",
+    "league": "AFCŞL2",
+    "date": "26.11.2026 10:00",
+    "matchCode": "4550046",
+    "odds": 1.41,
+    "patternScore": 67.29,
+    "patternText": "190.050/282.414",
+    "aiScore": 54,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Tampines Rovers",
+      "away": "Shanghai Shenhua",
+      "league": "AFCŞL2",
+      "date": "26.11.2026 10:00",
+      "matchCode": "4550046",
+      "odds": 1.41,
+      "patternScore": 67.29,
+      "patternText": "190.050/282.414",
+      "aiScore": 54,
+      "picks": 2
+    },
+    {
+      "home": "Gangwon FC",
+      "away": "Kitchee SC",
+      "league": "AFCŞL2",
+      "date": "26.11.2026 10:00",
+      "matchCode": "4550058",
+      "odds": 1.17,
+      "patternScore": 69.03,
+      "patternText": "113.223/164.023",
+      "aiScore": 82,
+      "picks": 2
+    },
     {
       "home": "South Melbourn",
       "away": "Oakleigh Cannons",
@@ -302,39 +326,15 @@
       "picks": 1
     },
     {
-      "home": "AC Taipei",
-      "away": "Air Source",
-      "league": "TAYV",
-      "date": "26.11.2026 07:00",
-      "matchCode": "4564430",
-      "odds": 1.07,
-      "patternScore": 70.26,
-      "patternText": "243.312/346.325",
-      "aiScore": 98,
-      "picks": 1
-    },
-    {
-      "home": "Al Sareeh",
-      "away": "Aqaba",
-      "league": "ÜRD1",
-      "date": "26.11.2026 12:30",
-      "matchCode": "4561295",
-      "odds": 1.42,
-      "patternScore": 68.17,
-      "patternText": "221.184/324.470",
-      "aiScore": 55,
-      "picks": 1
-    },
-    {
-      "home": "Tampines Rovers",
-      "away": "Shanghai Shenhua",
+      "home": "Kuching FA",
+      "away": "Phnom Penh Crow",
       "league": "AFCŞL2",
       "date": "26.11.2026 10:00",
-      "matchCode": "4550046",
-      "odds": 1.41,
-      "patternScore": 67.29,
-      "patternText": "190.050/282.414",
-      "aiScore": 54,
+      "matchCode": "4550059",
+      "odds": 1.1,
+      "patternScore": 67.57,
+      "patternText": "308.563/456.625",
+      "aiScore": 87,
       "picks": 2
     }
   ],
