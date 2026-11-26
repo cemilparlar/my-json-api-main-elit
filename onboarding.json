@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "25.11.2026 23:52",
+  "updatedAt": "26.11.2026 00:00",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 299,
+      "won": 302,
       "lost": 102,
-      "total": 401,
-      "rate": 74.6
+      "total": 404,
+      "rate": 74.8
     },
     "totalAnalyses": 922925,
     "leagues": 275,
     "pro": {
-      "won": 1752,
+      "won": 1754,
       "lost": 657,
-      "total": 2409,
+      "total": 2411,
       "rate": 72.7
     },
     "insights": {
-      "won": 2897,
+      "won": 2900,
       "lost": 1179,
-      "total": 4076,
+      "total": 4079,
       "rate": 71.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 757,
-    "analyses30d": 14728
+    "analyses24h": 756,
+    "analyses30d": 14725
   },
   "recentWins": [
     {
@@ -265,42 +265,18 @@
     }
   ],
   "today": {
-    "home": "CSD Municipal",
-    "away": "CSD Aurora",
-    "league": "GUAT",
-    "date": "26.11.2026 02:00",
-    "matchCode": "4490452",
-    "odds": 1.54,
-    "patternScore": 66.4,
-    "patternText": "109.050/164.238",
-    "aiScore": 53,
-    "picks": 3
+    "home": "Atletico Nacional",
+    "away": "Independiente Medellin",
+    "league": "KOL",
+    "date": "26.11.2026 01:30",
+    "matchCode": "4580964",
+    "odds": 1.22,
+    "patternScore": 68.45,
+    "patternText": "181.994/265.888",
+    "aiScore": 67,
+    "picks": 2
   },
   "todayList": [
-    {
-      "home": "CSD Municipal",
-      "away": "CSD Aurora",
-      "league": "GUAT",
-      "date": "26.11.2026 02:00",
-      "matchCode": "4490452",
-      "odds": 1.54,
-      "patternScore": 66.4,
-      "patternText": "109.050/164.238",
-      "aiScore": 53,
-      "picks": 3
-    },
-    {
-      "home": "Deportivo Toluca",
-      "away": "Atlas FC",
-      "league": "MEK",
-      "date": "26.11.2026 01:00",
-      "matchCode": "4582341",
-      "odds": 1.34,
-      "patternScore": 66.9,
-      "patternText": "187.036/279.578",
-      "aiScore": 59,
-      "picks": 3
-    },
     {
       "home": "Atletico Nacional",
       "away": "Independiente Medellin",
@@ -336,6 +312,30 @@
       "patternText": "105.905/149.282",
       "aiScore": 91,
       "picks": 1
+    },
+    {
+      "home": "Managua FC",
+      "away": "Walter Ferretti",
+      "league": "NİK",
+      "date": "26.11.2026 01:00",
+      "matchCode": "4582791",
+      "odds": 1.1,
+      "patternScore": 67.61,
+      "patternText": "295.763/437.448",
+      "aiScore": 80,
+      "picks": 2
+    },
+    {
+      "home": "Tampines Rovers",
+      "away": "Shanghai Shenhua",
+      "league": "AFCŞL2",
+      "date": "26.11.2026 10:00",
+      "matchCode": "4550046",
+      "odds": 1.41,
+      "patternScore": 67.29,
+      "patternText": "189.934/282.272",
+      "aiScore": 54,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
