@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 13:18",
+  "updatedAt": "26.11.2026 13:27",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 284,
       "rate": 74.3
     },
-    "totalAnalyses": 927272,
+    "totalAnalyses": 927284,
     "leagues": 279,
     "pro": {
       "won": 1762,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1578,
-    "analyses30d": 15668
+    "analyses24h": 1588,
+    "analyses30d": 15678
   },
   "recentWins": [
     {
@@ -302,18 +302,6 @@
       "picks": 4
     },
     {
-      "home": "Burnley U21",
-      "away": "Wolverhampton Wanderers U21",
-      "league": "İNPLK",
-      "date": "26.11.2026 19:00",
-      "matchCode": "4540460",
-      "odds": 1.25,
-      "patternScore": 67.65,
-      "patternText": "129.868/191.961",
-      "aiScore": 71,
-      "picks": 2
-    },
-    {
       "home": "Kauno Zalgiris",
       "away": "Riga Fc",
       "league": "AVKL",
@@ -326,19 +314,38 @@
       "picks": 3
     },
     {
-      "home": "Celta de Vigo",
-      "away": "AFC Bournemouth",
-      "league": "AVL",
+      "home": "SK Brann",
+      "away": "AGF Aarhus",
+      "league": "AVKL",
       "date": "26.11.2026 17:45",
-      "matchCode": "4549625",
-      "odds": 1.23,
-      "patternScore": 68.2,
-      "patternText": "147.491/216.250",
+      "matchCode": "4549711",
+      "odds": 1.2,
+      "patternScore": 68.6,
+      "patternText": "154.606/225.381",
       "aiScore": 68,
-      "picks": 4
+      "picks": 2
+    },
+    {
+      "home": "FK Jablonec",
+      "away": "FC Lugano",
+      "league": "AVKL",
+      "date": "26.11.2026 17:45",
+      "matchCode": "4549708",
+      "odds": 1.17,
+      "patternScore": 67.9,
+      "patternText": "237.029/349.064",
+      "aiScore": 71,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Celta de Vigo",
+      "away": "AFC Bournemouth",
+      "league": "AVL",
+      "at": "26.11.2026 13:19",
+      "count": 5
+    },
     {
       "home": "West Bromwich Albion",
       "away": "Bristol City",
@@ -359,13 +366,6 @@
       "league": "AVKL",
       "at": "26.11.2026 12:43",
       "count": 10
-    },
-    {
-      "home": "Celta de Vigo",
-      "away": "AFC Bournemouth",
-      "league": "AVL",
-      "at": "26.11.2026 12:43",
-      "count": 8
     },
     {
       "home": "FK Jablonec",
