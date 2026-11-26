@@ -477,7 +477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "26.11.2026 17:45",
@@ -2007,7 +2007,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "26.11.2026 14:25",
@@ -2972,36 +2972,6 @@
     {
         "date": "26.11.2026 12:15",
         "league": "AFCŞL2",
-        "matchCode": "4550034",
-        "home": "BG Pathum United",
-        "away": "Lion City Sailors",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "79.55",
-        "odds": "1.14",
-        "matchCount": "176",
-        "matchLink": "4550034",
-        "status": "Pending",
-        "predictedScore": "1-2",
-        "predictedScoreText": "21/185",
-        "mbs": 3,
-        "tahminUpdated": true,
-        "tahminUpdatedAt": "26.11.2026 06:30",
-        "patternScore": 70.38,
-        "patternText": "256.961/365.107",
-        "patternInfo": {
-            "m": 59,
-            "s": 9,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 87
-    },
-    {
-        "date": "26.11.2026 12:15",
-        "league": "AFCŞL2",
         "matchCode": "4550035",
         "home": "Wofoo Tai Po",
         "away": "Adelaide United",
@@ -3417,7 +3387,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 81
+        "aiScore": 80
     },
     {
         "date": "25.11.2026 10:00",
@@ -4033,11 +4003,11 @@
         "matchCount": "11",
         "matchLink": "4561295",
         "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
+        "predictedScore": "2-0",
+        "predictedScoreText": "3/5",
         "mbs": 3,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "26.11.2026 06:36",
         "patternScore": 68.17,
         "patternText": "221.200/324.504",
         "patternInfo": {
@@ -4604,7 +4574,7 @@
         "matchLink": "4561292",
         "status": "Pending",
         "predictedScore": "1-1",
-        "predictedScoreText": "21/181",
+        "predictedScoreText": "23/159",
         "mbs": 3,
         "tahminUpdated": false,
         "tahminUpdatedAt": null,
@@ -5217,7 +5187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 71
     },
     {
         "date": "25.11.2026 09:00",
@@ -7827,7 +7797,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "25.11.2026 15:10",
@@ -9087,7 +9057,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 87
     },
     {
         "date": "25.11.2026 19:00",
@@ -10647,7 +10617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "26.11.2026 00:00",
@@ -12837,7 +12807,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "27.11.2026 17:30",
@@ -13557,7 +13527,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "27.11.2026 19:00",
@@ -16287,7 +16257,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "28.11.2026 03:00",
@@ -16947,7 +16917,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "28.11.2026 06:00",
@@ -17487,7 +17457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "28.11.2026 08:30",
@@ -18718,5 +18688,35 @@
             "b": 100.0
         },
         "aiScore": 58
+    },
+    {
+        "date": "26.11.2026 12:15",
+        "league": "AFCŞL2",
+        "matchCode": "4550034",
+        "home": "BG Pathum United",
+        "away": "Lion City Sailors",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "76.76",
+        "odds": "1.13",
+        "matchCount": "185",
+        "matchLink": "4550034",
+        "status": "Pending",
+        "predictedScore": "1-2",
+        "predictedScoreText": "21/185",
+        "mbs": 3,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "26.11.2026 06:30",
+        "patternScore": 70.46,
+        "patternText": "260.919/370.323",
+        "patternInfo": {
+            "m": 60,
+            "s": 9,
+            "f": 2,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 84
     }
 ]
