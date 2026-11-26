@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 11:07",
+  "updatedAt": "26.11.2026 11:15",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 328,
       "rate": 73.5
     },
-    "totalAnalyses": 926251,
+    "totalAnalyses": 926361,
     "leagues": 277,
     "pro": {
       "won": 1766,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1572,
-    "analyses30d": 15623
+    "analyses24h": 1577,
+    "analyses30d": 15628
   },
   "recentWins": [
     {
@@ -340,6 +340,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Leeds United",
+      "away": "Coventry City",
+      "league": "İNP",
+      "at": "26.11.2026 11:07",
+      "count": 4
+    },
+    {
       "home": "Birmingham City",
       "away": "Bolton Wanderers",
       "league": "İNCL",
@@ -401,13 +408,6 @@
       "league": "İTB",
       "at": "26.11.2026 09:09",
       "count": 8
-    },
-    {
-      "home": "Van Spor FK",
-      "away": "Bursaspor",
-      "league": "T1L",
-      "at": "26.11.2026 09:01",
-      "count": 3
     }
   ],
   "paywall": {
