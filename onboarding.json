@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 03:26",
+  "updatedAt": "26.11.2026 03:33",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 425,
       "rate": 75.1
     },
-    "totalAnalyses": 923522,
+    "totalAnalyses": 923523,
     "leagues": 275,
     "pro": {
       "won": 1762,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1178,
-    "analyses30d": 15113
+    "analyses24h": 1177,
+    "analyses30d": 15112
   },
   "recentWins": [
     {
@@ -265,18 +265,30 @@
     }
   ],
   "today": {
-    "home": "Borneo FC",
-    "away": "Persita Tangerang",
-    "league": "ENDL1",
+    "home": "South Melbourn",
+    "away": "Oakleigh Cannons",
+    "league": "AVC",
     "date": "26.11.2026 08:30",
-    "matchCode": "4550408",
-    "odds": 1.13,
-    "patternScore": 70.54,
-    "patternText": "232.574/329.713",
-    "aiScore": 82,
-    "picks": 1
+    "matchCode": "4582334",
+    "odds": 1.14,
+    "patternScore": 68.95,
+    "patternText": "178.459/258.807",
+    "aiScore": 75,
+    "picks": 3
   },
   "todayList": [
+    {
+      "home": "South Melbourn",
+      "away": "Oakleigh Cannons",
+      "league": "AVC",
+      "date": "26.11.2026 08:30",
+      "matchCode": "4582334",
+      "odds": 1.14,
+      "patternScore": 68.95,
+      "patternText": "178.459/258.807",
+      "aiScore": 75,
+      "picks": 3
+    },
     {
       "home": "Borneo FC",
       "away": "Persita Tangerang",
@@ -288,18 +300,6 @@
       "patternText": "232.574/329.713",
       "aiScore": 82,
       "picks": 1
-    },
-    {
-      "home": "South Melbourn",
-      "away": "Oakleigh Cannons",
-      "league": "AVC",
-      "date": "26.11.2026 08:30",
-      "matchCode": "4582334",
-      "odds": 1.11,
-      "patternScore": 70.7,
-      "patternText": "234.053/331.029",
-      "aiScore": 87,
-      "picks": 3
     },
     {
       "home": "AC Taipei",
