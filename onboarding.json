@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 21:40",
+  "updatedAt": "26.11.2026 21:49",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 252,
       "rate": 65.5
     },
-    "totalAnalyses": 930495,
+    "totalAnalyses": 930529,
     "leagues": 281,
     "pro": {
       "won": 1782,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2288,
-    "analyses30d": 16405
+    "analyses24h": 2299,
+    "analyses30d": 16413
   },
   "recentWins": [
     {
@@ -369,6 +369,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Everton",
+      "away": "Liverpool",
+      "league": "İNP",
+      "at": "26.11.2026 21:48",
+      "count": 3
+    },
+    {
+      "home": "Swansea",
+      "away": "Cardiff City",
+      "league": "İNCL",
+      "at": "26.11.2026 21:41",
+      "count": 7
+    },
+    {
       "home": "Sao Paulo FC",
       "away": "Remo",
       "league": "BR1",
@@ -423,20 +437,6 @@
       "league": "BR1",
       "at": "26.11.2026 19:35",
       "count": 5
-    },
-    {
-      "home": "FC Cincinnati",
-      "away": "Nashville SC",
-      "league": "ABD",
-      "at": "26.11.2026 19:32",
-      "count": 9
-    },
-    {
-      "home": "Philadelphia Union",
-      "away": "New England Revolution",
-      "league": "ABD",
-      "at": "26.11.2026 19:29",
-      "count": 2
     }
   ],
   "paywall": {
