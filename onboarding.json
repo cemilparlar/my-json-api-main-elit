@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 15:53",
+  "updatedAt": "26.11.2026 16:01",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 199,
-      "lost": 87,
-      "total": 286,
-      "rate": 69.6
+      "won": 187,
+      "lost": 79,
+      "total": 266,
+      "rate": 70.3
     },
-    "totalAnalyses": 928708,
+    "totalAnalyses": 928778,
     "leagues": 279,
     "pro": {
       "won": 1765,
@@ -36,9 +36,9 @@
       "rate": 72.8
     },
     "insights": {
-      "won": 2923,
-      "lost": 1178,
-      "total": 4101,
+      "won": 2921,
+      "lost": 1177,
+      "total": 4098,
       "rate": 71.3
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1675,
-    "analyses30d": 15808
+    "analyses24h": 1655,
+    "analyses30d": 15749
   },
   "recentWins": [
     {
@@ -290,18 +290,6 @@
       "picks": 5
     },
     {
-      "home": "Dinamo Moscow",
-      "away": "FK Fakel Voronezh",
-      "league": "RUK",
-      "date": "26.11.2026 16:30",
-      "matchCode": "4486071",
-      "odds": 1.46,
-      "patternScore": 68.67,
-      "patternText": "201.507/293.426",
-      "aiScore": 57,
-      "picks": 2
-    },
-    {
       "home": "FC Nordsjaelland",
       "away": "Panathinaikos",
       "league": "AVKL",
@@ -335,6 +323,18 @@
       "patternScore": 67.81,
       "patternText": "185.310/273.265",
       "aiScore": 59,
+      "picks": 5
+    },
+    {
+      "home": "FK Jablonec",
+      "away": "FC Lugano",
+      "league": "AVKL",
+      "date": "26.11.2026 17:45",
+      "matchCode": "4549708",
+      "odds": 1.28,
+      "patternScore": 68.77,
+      "patternText": "150.195/218.398",
+      "aiScore": 63,
       "picks": 5
     }
   ],
