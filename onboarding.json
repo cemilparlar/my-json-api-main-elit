@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 14:58",
+  "updatedAt": "26.11.2026 15:07",
   "config": {
     "pages": [
       "engine",
@@ -22,22 +22,22 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 217,
-      "lost": 85,
-      "total": 302,
-      "rate": 71.9
+      "won": 197,
+      "lost": 82,
+      "total": 279,
+      "rate": 70.6
     },
-    "totalAnalyses": 928310,
+    "totalAnalyses": 928341,
     "leagues": 279,
     "pro": {
-      "won": 1768,
+      "won": 1767,
       "lost": 662,
-      "total": 2430,
-      "rate": 72.8
+      "total": 2429,
+      "rate": 72.7
     },
     "insights": {
-      "won": 2927,
-      "lost": 1182,
+      "won": 2926,
+      "lost": 1183,
       "total": 4109,
       "rate": 71.2
     },
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1674,
-    "analyses30d": 15780
+    "analyses24h": 1642,
+    "analyses30d": 15774
   },
   "recentWins": [
     {
@@ -216,6 +216,12 @@
       "at": "26.11.2026 12:15"
     },
     {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.51,
+      "at": "26.11.2026 15:07"
+    },
+    {
       "type": "updated",
       "at": "26.11.2026 10:57",
       "home": "Al Salmiyah",
@@ -256,12 +262,6 @@
       "at": "26.11.2026 14:52",
       "home": "Union St.G",
       "away": "Lech Poznan"
-    },
-    {
-      "type": "updated",
-      "at": "26.11.2026 14:52",
-      "home": "Kauno Zalgiris",
-      "away": "Riga Fc"
     }
   ],
   "today": {
@@ -271,8 +271,8 @@
     "date": "26.11.2026 20:00",
     "matchCode": "4549717",
     "odds": 1.5,
-    "patternScore": 67.38,
-    "patternText": "177.690/263.729",
+    "patternScore": 67.37,
+    "patternText": "177.712/263.771",
     "aiScore": 53,
     "picks": 5
   },
@@ -284,22 +284,10 @@
       "date": "26.11.2026 20:00",
       "matchCode": "4549717",
       "odds": 1.5,
-      "patternScore": 67.38,
-      "patternText": "177.690/263.729",
+      "patternScore": 67.37,
+      "patternText": "177.712/263.771",
       "aiScore": 53,
       "picks": 5
-    },
-    {
-      "home": "Dinamo Moscow",
-      "away": "FK Fakel Voronezh",
-      "league": "RUK",
-      "date": "26.11.2026 16:30",
-      "matchCode": "4486071",
-      "odds": 1.46,
-      "patternScore": 68.69,
-      "patternText": "201.475/293.320",
-      "aiScore": 57,
-      "picks": 2
     },
     {
       "home": "FC Nordsjaelland",
@@ -309,7 +297,7 @@
       "matchCode": "4549718",
       "odds": 1.4,
       "patternScore": 66.91,
-      "patternText": "190.050/284.039",
+      "patternText": "190.064/284.065",
       "aiScore": 55,
       "picks": 2
     },
@@ -321,7 +309,7 @@
       "matchCode": "4549715",
       "odds": 1.34,
       "patternScore": 67.86,
-      "patternText": "209.015/308.013",
+      "patternText": "209.029/308.039",
       "aiScore": 61,
       "picks": 5
     },
@@ -332,10 +320,22 @@
       "date": "26.11.2026 20:00",
       "matchCode": "4489427",
       "odds": 1.34,
-      "patternScore": 67.83,
-      "patternText": "185.278/273.167",
+      "patternScore": 67.82,
+      "patternText": "185.292/273.193",
       "aiScore": 59,
       "picks": 5
+    },
+    {
+      "home": "FK Jablonec",
+      "away": "FC Lugano",
+      "league": "AVKL",
+      "date": "26.11.2026 17:45",
+      "matchCode": "4549708",
+      "odds": 1.3,
+      "patternScore": 68.16,
+      "patternText": "230.935/338.837",
+      "aiScore": 65,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
