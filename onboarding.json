@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 19:29",
+  "updatedAt": "26.11.2026 19:39",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 156,
-      "lost": 59,
-      "total": 215,
-      "rate": 72.6
+      "won": 160,
+      "lost": 61,
+      "total": 221,
+      "rate": 72.4
     },
-    "totalAnalyses": 930060,
+    "totalAnalyses": 930149,
     "leagues": 281,
     "pro": {
-      "won": 1768,
-      "lost": 663,
-      "total": 2431,
+      "won": 1772,
+      "lost": 665,
+      "total": 2437,
       "rate": 72.7
     },
     "insights": {
-      "won": 2923,
-      "lost": 1180,
-      "total": 4103,
-      "rate": 71.2
+      "won": 2927,
+      "lost": 1181,
+      "total": 4108,
+      "rate": 71.3
     },
     "coupons": {
       "won": 8,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 2085,
-    "analyses30d": 16188
+    "analyses24h": 2138,
+    "analyses30d": 16218
   },
   "recentWins": [
     {
@@ -290,42 +290,6 @@
       "picks": 2
     },
     {
-      "home": "FC Nordsjaelland",
-      "away": "Panathinaikos",
-      "league": "AVKL",
-      "date": "26.11.2026 20:00",
-      "matchCode": "4549718",
-      "odds": 1.48,
-      "patternScore": 67.65,
-      "patternText": "176.395/260.734",
-      "aiScore": 53,
-      "picks": 5
-    },
-    {
-      "home": "Hajduk Split",
-      "away": "Sint-Truidense VV",
-      "league": "AVKL",
-      "date": "26.11.2026 20:00",
-      "matchCode": "4549719",
-      "odds": 1.28,
-      "patternScore": 67.92,
-      "patternText": "210.647/310.119",
-      "aiScore": 61,
-      "picks": 4
-    },
-    {
-      "home": "CSKA Sofia",
-      "away": "Trabzonspor",
-      "league": "AVKL",
-      "date": "26.11.2026 20:00",
-      "matchCode": "4549552",
-      "odds": 1.27,
-      "patternScore": 66.91,
-      "patternText": "193.335/288.928",
-      "aiScore": 62,
-      "picks": 2
-    },
-    {
       "home": "CF Pachuca",
       "away": "Club Deportivo Guadalajara",
       "league": "MEK",
@@ -336,9 +300,66 @@
       "patternText": "77.505/114.441",
       "aiScore": 70,
       "picks": 5
+    },
+    {
+      "home": "Club Cerro Porteno",
+      "away": "Club Libertad",
+      "league": "PARK",
+      "date": "26.11.2026 22:30",
+      "matchCode": "4582730",
+      "odds": 1.23,
+      "patternScore": 68.26,
+      "patternText": "205.921/301.677",
+      "aiScore": 61,
+      "picks": 3
+    },
+    {
+      "home": "Club Atletico Torque",
+      "away": "Club Nacional de Football",
+      "league": "URUK",
+      "date": "27.11.2026 00:30",
+      "matchCode": "4580384",
+      "odds": 1.13,
+      "patternScore": 70.41,
+      "patternText": "272.781/387.402",
+      "aiScore": 78,
+      "picks": 1
+    },
+    {
+      "home": "Club Deportivo Jalapa",
+      "away": "San Marcos",
+      "league": "NİK",
+      "date": "26.11.2026 22:00",
+      "matchCode": "4582793",
+      "odds": 1.09,
+      "patternScore": 72.26,
+      "patternText": "188.097/260.301",
+      "aiScore": 99,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Botafogo de Futebol e Regatas",
+      "away": "EC Bahia",
+      "league": "BR1",
+      "at": "26.11.2026 19:35",
+      "count": 5
+    },
+    {
+      "home": "FC Cincinnati",
+      "away": "Nashville SC",
+      "league": "ABD",
+      "at": "26.11.2026 19:32",
+      "count": 9
+    },
+    {
+      "home": "Philadelphia Union",
+      "away": "New England Revolution",
+      "league": "ABD",
+      "at": "26.11.2026 19:29",
+      "count": 2
+    },
     {
       "home": "Vitoria Guimaraes",
       "away": "CF Estrela da Amadora",
@@ -387,27 +408,6 @@
       "league": "FR1",
       "at": "26.11.2026 19:18",
       "count": 5
-    },
-    {
-      "home": "Juventus",
-      "away": "Omonia",
-      "league": "AVL",
-      "at": "26.11.2026 19:16",
-      "count": 7
-    },
-    {
-      "home": "Sao Paulo FC",
-      "away": "Remo",
-      "league": "BR1",
-      "at": "26.11.2026 19:15",
-      "count": 14
-    },
-    {
-      "home": "NEC Nijmegen",
-      "away": "Stade Rennais",
-      "league": "AVL",
-      "at": "26.11.2026 19:14",
-      "count": 11
     }
   ],
   "paywall": {
