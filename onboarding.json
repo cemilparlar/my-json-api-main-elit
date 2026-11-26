@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 12:42",
+  "updatedAt": "26.11.2026 12:51",
   "config": {
     "pages": [
       "engine",
@@ -27,8 +27,8 @@
       "total": 296,
       "rate": 73.3
     },
-    "totalAnalyses": 926929,
-    "leagues": 277,
+    "totalAnalyses": 926984,
+    "leagues": 278,
     "pro": {
       "won": 1767,
       "lost": 661,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1544,
-    "analyses30d": 15624
+    "analyses24h": 1567,
+    "analyses30d": 15647
   },
   "recentWins": [
     {
@@ -265,40 +265,28 @@
     }
   ],
   "today": {
-    "home": "Pafos Fc",
-    "away": "FC Midtjylland",
-    "league": "AVKL",
-    "date": "26.11.2026 17:45",
-    "matchCode": "4549706",
-    "odds": 1.4,
-    "patternScore": 66.76,
-    "patternText": "161.064/241.261",
+    "home": "Dinamo Moscow",
+    "away": "FK Fakel Voronezh",
+    "league": "RUK",
+    "date": "26.11.2026 16:30",
+    "matchCode": "4486071",
+    "odds": 1.5,
+    "patternScore": 68.6,
+    "patternText": "201.415/293.616",
     "aiScore": 56,
-    "picks": 2
+    "picks": 1
   },
   "todayList": [
     {
-      "home": "Pafos Fc",
-      "away": "FC Midtjylland",
-      "league": "AVKL",
-      "date": "26.11.2026 17:45",
-      "matchCode": "4549706",
-      "odds": 1.4,
-      "patternScore": 66.76,
-      "patternText": "161.064/241.261",
+      "home": "Dinamo Moscow",
+      "away": "FK Fakel Voronezh",
+      "league": "RUK",
+      "date": "26.11.2026 16:30",
+      "matchCode": "4486071",
+      "odds": 1.5,
+      "patternScore": 68.6,
+      "patternText": "201.415/293.616",
       "aiScore": 56,
-      "picks": 2
-    },
-    {
-      "home": "FK Jablonec",
-      "away": "FC Lugano",
-      "league": "AVKL",
-      "date": "26.11.2026 17:45",
-      "matchCode": "4549708",
-      "odds": 1.29,
-      "patternScore": 68.13,
-      "patternText": "230.309/338.051",
-      "aiScore": 61,
       "picks": 1
     },
     {
@@ -308,10 +296,34 @@
       "date": "26.11.2026 17:45",
       "matchCode": "4549627",
       "odds": 1.28,
-      "patternScore": 68.07,
-      "patternText": "122.200/179.533",
+      "patternScore": 68.28,
+      "patternText": "214.652/314.371",
+      "aiScore": 61,
+      "picks": 4
+    },
+    {
+      "home": "Kauno Zalgiris",
+      "away": "Riga Fc",
+      "league": "AVKL",
+      "date": "26.11.2026 17:45",
+      "matchCode": "4549712",
+      "odds": 1.24,
+      "patternScore": 67.73,
+      "patternText": "233.988/345.458",
       "aiScore": 64,
-      "picks": 5
+      "picks": 3
+    },
+    {
+      "home": "Celta de Vigo",
+      "away": "AFC Bournemouth",
+      "league": "AVL",
+      "date": "26.11.2026 17:45",
+      "matchCode": "4549625",
+      "odds": 1.23,
+      "patternScore": 68.2,
+      "patternText": "147.489/216.248",
+      "aiScore": 68,
+      "picks": 4
     },
     {
       "home": "Acs Gloria Bis",
@@ -324,21 +336,37 @@
       "patternText": "209.661/307.496",
       "aiScore": 62,
       "picks": 2
-    },
-    {
-      "home": "Al Baqaa",
-      "away": "Al Jazeera Club",
-      "league": "ÜRD",
-      "date": "26.11.2026 15:00",
-      "matchCode": "4571292",
-      "odds": 1.22,
-      "patternScore": 68.14,
-      "patternText": "208.176/305.502",
-      "aiScore": 68,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Marseille",
+      "away": "PFC Levski Sofia",
+      "league": "AVL",
+      "at": "26.11.2026 12:43",
+      "count": 14
+    },
+    {
+      "home": "Heart of Midlothian",
+      "away": "AS Monaco",
+      "league": "AVKL",
+      "at": "26.11.2026 12:43",
+      "count": 10
+    },
+    {
+      "home": "Celta de Vigo",
+      "away": "AFC Bournemouth",
+      "league": "AVL",
+      "at": "26.11.2026 12:43",
+      "count": 8
+    },
+    {
+      "home": "FK Jablonec",
+      "away": "FC Lugano",
+      "league": "AVKL",
+      "at": "26.11.2026 12:42",
+      "count": 6
+    },
     {
       "home": "Fc Iberia",
       "away": "Getafe CF",
@@ -380,34 +408,6 @@
       "league": "AVKL",
       "at": "26.11.2026 12:39",
       "count": 6
-    },
-    {
-      "home": "FC Kairat Almaty",
-      "away": "Mjallby AIF",
-      "league": "AVKL",
-      "at": "26.11.2026 12:37",
-      "count": 5
-    },
-    {
-      "home": "Dinamo Zagreb",
-      "away": "Bayer Leverkusen",
-      "league": "AVL",
-      "at": "26.11.2026 12:16",
-      "count": 7
-    },
-    {
-      "home": "FK Jablonec",
-      "away": "FC Lugano",
-      "league": "AVKL",
-      "at": "26.11.2026 12:16",
-      "count": 4
-    },
-    {
-      "home": "Celta de Vigo",
-      "away": "AFC Bournemouth",
-      "league": "AVL",
-      "at": "26.11.2026 12:12",
-      "count": 3
     }
   ],
   "paywall": {
