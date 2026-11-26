@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 04:22",
+  "updatedAt": "26.11.2026 04:30",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 431,
       "rate": 74.7
     },
-    "totalAnalyses": 923538,
+    "totalAnalyses": 923555,
     "leagues": 275,
     "pro": {
       "won": 1763,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 1174,
-    "analyses30d": 15109
+    "analyses24h": 1189,
+    "analyses30d": 15124
   },
   "recentWins": [
     {
@@ -223,12 +223,6 @@
     },
     {
       "type": "updated",
-      "at": "25.11.2026 22:29",
-      "home": "Atletico Mineiro",
-      "away": "SC Corinthians"
-    },
-    {
-      "type": "updated",
       "at": "25.11.2026 23:29",
       "home": "Boca Juniors",
       "away": "Rivadavia"
@@ -247,21 +241,27 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 01:23",
-      "home": "CSD Municipal",
-      "away": "CSD Aurora"
-    },
-    {
-      "type": "updated",
-      "at": "25.11.2026 22:29",
-      "home": "Real Potosi",
-      "away": "Always Ready"
-    },
-    {
-      "type": "updated",
       "at": "26.11.2026 01:07",
       "home": "AC Taipei",
       "away": "Air Source"
+    },
+    {
+      "type": "updated",
+      "at": "26.11.2026 04:22",
+      "home": "Kuching FA",
+      "away": "Phnom Penh Crow"
+    },
+    {
+      "type": "updated",
+      "at": "26.11.2026 04:23",
+      "home": "Gangwon FC",
+      "away": "Kitchee SC"
+    },
+    {
+      "type": "updated",
+      "at": "25.11.2026 23:30",
+      "home": "Managua FC",
+      "away": "Walter Ferretti"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4550046",
     "odds": 1.41,
     "patternScore": 67.29,
-    "patternText": "190.050/282.414",
+    "patternText": "190.058/282.434",
     "aiScore": 54,
     "picks": 2
   },
@@ -285,8 +285,20 @@
       "matchCode": "4550046",
       "odds": 1.41,
       "patternScore": 67.29,
-      "patternText": "190.050/282.414",
+      "patternText": "190.058/282.434",
       "aiScore": 54,
+      "picks": 2
+    },
+    {
+      "home": "Kuching FA",
+      "away": "Phnom Penh Crow",
+      "league": "AFCŞL2",
+      "date": "26.11.2026 10:00",
+      "matchCode": "4550059",
+      "odds": 1.33,
+      "patternScore": 68.37,
+      "patternText": "174.425/255.102",
+      "aiScore": 60,
       "picks": 2
     },
     {
@@ -295,11 +307,11 @@
       "league": "AFCŞL2",
       "date": "26.11.2026 10:00",
       "matchCode": "4550058",
-      "odds": 1.17,
-      "patternScore": 69.03,
-      "patternText": "113.223/164.023",
-      "aiScore": 82,
-      "picks": 2
+      "odds": 1.28,
+      "patternScore": 68.28,
+      "patternText": "164.451/240.831",
+      "aiScore": 57,
+      "picks": 3
     },
     {
       "home": "Borneo FC",
@@ -309,7 +321,7 @@
       "matchCode": "4550408",
       "odds": 1.13,
       "patternScore": 70.54,
-      "patternText": "232.588/329.733",
+      "patternText": "232.592/329.749",
       "aiScore": 82,
       "picks": 1
     },
@@ -321,24 +333,19 @@
       "matchCode": "4582334",
       "odds": 1.12,
       "patternScore": 70.68,
-      "patternText": "234.655/331.973",
+      "patternText": "234.659/331.989",
       "aiScore": 82,
       "picks": 1
-    },
-    {
-      "home": "Kuching FA",
-      "away": "Phnom Penh Crow",
-      "league": "AFCŞL2",
-      "date": "26.11.2026 10:00",
-      "matchCode": "4550059",
-      "odds": 1.1,
-      "patternScore": 67.57,
-      "patternText": "308.563/456.625",
-      "aiScore": 87,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Olympique Lyonnais",
+      "away": "Lillestrom SK",
+      "league": "AVL",
+      "at": "26.11.2026 04:23",
+      "count": 14
+    },
     {
       "home": "Hertha BSC",
       "away": "Karlsruher SC",
@@ -401,13 +408,6 @@
       "league": "POR",
       "at": "26.11.2026 02:18",
       "count": 6
-    },
-    {
-      "home": "Nottingham Forest",
-      "away": "Chelsea",
-      "league": "İNP",
-      "at": "26.11.2026 02:18",
-      "count": 8
     }
   ],
   "paywall": {
