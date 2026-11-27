@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 10:14",
+  "updatedAt": "27.11.2026 10:22",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3202,
-    "analyses30d": 17338
+    "analyses24h": 3199,
+    "analyses30d": 17335
   },
   "recentWins": [
     {
@@ -258,6 +258,12 @@
     },
     {
       "type": "updated",
+      "at": "27.11.2026 10:06",
+      "home": "NK Radnik Sesvete",
+      "away": "NK Vukovar"
+    },
+    {
+      "type": "updated",
       "at": "27.11.2026 07:20",
       "home": "Pamba Jiji",
       "away": "Namungo FC"
@@ -285,51 +291,21 @@
       "at": "27.11.2026 10:11",
       "home": "Lusail SC",
       "away": "Al Arabi"
-    },
-    {
-      "type": "updated",
-      "at": "27.11.2026 09:33",
-      "home": "Tirana",
-      "away": "Skenderbeu"
     }
   ],
   "today": {
-    "home": "Malisheva",
-    "away": "Llapi",
-    "league": "KOS",
-    "date": "27.11.2026 12:00",
-    "matchCode": "4581573",
-    "odds": 1.68,
-    "patternScore": 66.96,
-    "patternText": "153.623/229.422",
+    "home": "Uljanik",
+    "away": "Nk Koprivnica",
+    "league": "HIR2NL",
+    "date": "27.11.2026 12:30",
+    "matchCode": "4527332",
+    "odds": 1.59,
+    "patternScore": 68.74,
+    "patternText": "212.252/308.792",
     "aiScore": 54,
-    "picks": 2
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Malisheva",
-      "away": "Llapi",
-      "league": "KOS",
-      "date": "27.11.2026 12:00",
-      "matchCode": "4581573",
-      "odds": 1.68,
-      "patternScore": 66.96,
-      "patternText": "153.623/229.422",
-      "aiScore": 54,
-      "picks": 2
-    },
-    {
-      "home": "Universitatea Craiova",
-      "away": "Sepsi OSK",
-      "league": "ROM",
-      "date": "27.11.2026 15:30",
-      "matchCode": "4501666",
-      "odds": 1.6,
-      "patternScore": 68.03,
-      "patternText": "226.771/333.353",
-      "aiScore": 53,
-      "picks": 2
-    },
     {
       "home": "Uljanik",
       "away": "Nk Koprivnica",
@@ -365,6 +341,30 @@
       "patternText": "220.209/320.043",
       "aiScore": 55,
       "picks": 3
+    },
+    {
+      "home": "FC Vysocina Jihlava",
+      "away": "Trinec",
+      "league": "ÇEK2",
+      "date": "27.11.2026 15:00",
+      "matchCode": "4504146",
+      "odds": 1.32,
+      "patternScore": 68.64,
+      "patternText": "377.258/549.598",
+      "aiScore": 58,
+      "picks": 2
+    },
+    {
+      "home": "FK SLNA Nitra",
+      "away": "Phu Dong FC",
+      "league": "VİET",
+      "date": "27.11.2026 11:00",
+      "matchCode": "4551362",
+      "odds": 1.26,
+      "patternScore": 68.12,
+      "patternText": "227.273/333.639",
+      "aiScore": 69,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
