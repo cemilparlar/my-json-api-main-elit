@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 18:14",
+  "updatedAt": "27.11.2026 18:25",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 283,
       "rate": 60.8
     },
-    "totalAnalyses": 934056,
+    "totalAnalyses": 934138,
     "leagues": 280,
     "pro": {
       "won": 1742,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3242,
-    "analyses30d": 17545
+    "analyses24h": 3289,
+    "analyses30d": 17592
   },
   "recentWins": [
     {
@@ -340,6 +340,41 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Paris Saint-Germain",
+      "away": "FC Lorient",
+      "league": "FR1",
+      "at": "27.11.2026 18:25",
+      "count": 14
+    },
+    {
+      "home": "Stade Brest",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "27.11.2026 18:24",
+      "count": 5
+    },
+    {
+      "home": "Unione V.",
+      "away": "Bologna FC",
+      "league": "İTA",
+      "at": "27.11.2026 18:23",
+      "count": 5
+    },
+    {
+      "home": "FC Groningen",
+      "away": "Willem",
+      "league": "HOL",
+      "at": "27.11.2026 18:20",
+      "count": 17
+    },
+    {
+      "home": "TSG Hoffenheim",
+      "away": "FC Augsburg",
+      "league": "AL1",
+      "at": "27.11.2026 18:16",
+      "count": 17
+    },
+    {
       "home": "Fluminense FC",
       "away": "Cruzeiro EC",
       "league": "BR1",
@@ -373,41 +408,6 @@
       "league": "İNCL",
       "at": "27.11.2026 17:34",
       "count": 8
-    },
-    {
-      "home": "Levante UD",
-      "away": "Racing Santander",
-      "league": "İS1",
-      "at": "27.11.2026 17:33",
-      "count": 13
-    },
-    {
-      "home": "OH Leuven",
-      "away": "KV Kortrijk",
-      "league": "BEL",
-      "at": "27.11.2026 17:28",
-      "count": 5
-    },
-    {
-      "home": "Unione V.",
-      "away": "Bologna FC",
-      "league": "İTA",
-      "at": "27.11.2026 17:28",
-      "count": 7
-    },
-    {
-      "home": "FC Groningen",
-      "away": "Willem",
-      "league": "HOL",
-      "at": "27.11.2026 17:14",
-      "count": 15
-    },
-    {
-      "home": "Stade Brest",
-      "away": "Paris FC",
-      "league": "FR1",
-      "at": "27.11.2026 16:16",
-      "count": 10
     }
   ],
   "paywall": {
