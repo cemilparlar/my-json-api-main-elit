@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 12:48",
+  "updatedAt": "27.11.2026 12:57",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 335,
       "rate": 62.4
     },
-    "totalAnalyses": 932685,
+    "totalAnalyses": 932718,
     "leagues": 281,
     "pro": {
       "won": 1780,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3232,
-    "analyses30d": 17399
+    "analyses24h": 3244,
+    "analyses30d": 17411
   },
   "recentWins": [
     {
@@ -343,6 +343,18 @@
       "picks": 6
     },
     {
+      "home": "Gks Tychy",
+      "away": "Chojniczanka Chojnice",
+      "league": "POL2",
+      "date": "27.11.2026 17:00",
+      "matchCode": "4486591",
+      "odds": 1.41,
+      "patternScore": 68.42,
+      "patternText": "374.548/547.439",
+      "aiScore": 55,
+      "picks": 2
+    },
+    {
       "home": "Stellenbosch FC",
       "away": "TS Galaxy",
       "league": "GAFPSL",
@@ -353,18 +365,6 @@
       "patternText": "242.965/356.261",
       "aiScore": 59,
       "picks": 1
-    },
-    {
-      "home": "FC Vysocina Jihlava",
-      "away": "Trinec",
-      "league": "ÇEK2",
-      "date": "27.11.2026 15:00",
-      "matchCode": "4504146",
-      "odds": 1.32,
-      "patternScore": 68.64,
-      "patternText": "377.290/549.660",
-      "aiScore": 58,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
