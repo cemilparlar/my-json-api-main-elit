@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 14:20",
+  "updatedAt": "27.11.2026 14:34",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 219,
-      "lost": 122,
-      "total": 341,
-      "rate": 64.2
+      "won": 221,
+      "lost": 124,
+      "total": 345,
+      "rate": 64.1
     },
-    "totalAnalyses": 933237,
+    "totalAnalyses": 933346,
     "leagues": 281,
     "pro": {
-      "won": 1766,
-      "lost": 670,
-      "total": 2436,
+      "won": 1768,
+      "lost": 672,
+      "total": 2440,
       "rate": 72.5
     },
     "insights": {
-      "won": 2937,
-      "lost": 1198,
-      "total": 4135,
+      "won": 2941,
+      "lost": 1200,
+      "total": 4141,
       "rate": 71.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3305,
-    "analyses30d": 17489
+    "analyses24h": 3309,
+    "analyses30d": 17496
   },
   "recentWins": [
     {
@@ -253,15 +253,15 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 14:16",
-      "home": "IMT Novi Beograd",
-      "away": "FK Macva Sabac"
-    },
-    {
-      "type": "updated",
       "at": "27.11.2026 13:04",
       "home": "Lokomotiv Sofia",
       "away": "FC Slavia Sofia"
+    },
+    {
+      "type": "updated",
+      "at": "27.11.2026 12:31",
+      "home": "Alanyaspor",
+      "away": "Konyaspor"
     }
   ],
   "today": {
@@ -326,19 +326,33 @@
       "picks": 2
     },
     {
-      "home": "Werder Bremen",
-      "away": "Borussia Monchengladbach",
-      "league": "AL1",
-      "date": "27.11.2026 19:30",
-      "matchCode": "4495528",
-      "odds": 1.46,
-      "patternScore": 66.82,
-      "patternText": "188.804/282.568",
-      "aiScore": 55,
-      "picks": 5
+      "home": "Rizespor",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "date": "27.11.2026 17:00",
+      "matchCode": "4542764",
+      "odds": 1.44,
+      "patternScore": 67.2,
+      "patternText": "251.805/374.735",
+      "aiScore": 54,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Stade Brest",
+      "away": "Paris FC",
+      "league": "FR1",
+      "at": "27.11.2026 14:25",
+      "count": 6
+    },
+    {
+      "home": "OH Leuven",
+      "away": "KV Kortrijk",
+      "league": "BEL",
+      "at": "27.11.2026 14:24",
+      "count": 5
+    },
     {
       "home": "Werder Bremen",
       "away": "Borussia Monchengladbach",
@@ -394,20 +408,6 @@
       "league": "TSL",
       "at": "27.11.2026 11:15",
       "count": 8
-    },
-    {
-      "home": "Sariyer",
-      "away": "Istanbulspor",
-      "league": "T1L",
-      "at": "27.11.2026 11:14",
-      "count": 3
-    },
-    {
-      "home": "Umraniyespor",
-      "away": "Manisa FK",
-      "league": "T1L",
-      "at": "27.11.2026 11:12",
-      "count": 3
     }
   ],
   "paywall": {
