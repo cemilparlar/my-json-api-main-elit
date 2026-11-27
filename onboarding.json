@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 11:17",
+  "updatedAt": "27.11.2026 11:26",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 370,
       "rate": 62.2
     },
-    "totalAnalyses": 932406,
+    "totalAnalyses": 932440,
     "leagues": 281,
     "pro": {
       "won": 1805,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3230,
-    "analyses30d": 17367
+    "analyses24h": 3224,
+    "analyses30d": 17361
   },
   "recentWins": [
     {
@@ -343,6 +343,18 @@
       "picks": 2
     },
     {
+      "home": "Rizespor",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "date": "27.11.2026 17:00",
+      "matchCode": "4542764",
+      "odds": 1.44,
+      "patternScore": 67.19,
+      "patternText": "251.703/374.589",
+      "aiScore": 54,
+      "picks": 6
+    },
+    {
       "home": "FC Vysocina Jihlava",
       "away": "Trinec",
       "league": "ÇEK2",
@@ -353,18 +365,6 @@
       "patternText": "377.280/549.640",
       "aiScore": 58,
       "picks": 2
-    },
-    {
-      "home": "Celik",
-      "away": "Bsk Banja Luka",
-      "league": "BOSN",
-      "date": "27.11.2026 17:00",
-      "matchCode": "4550897",
-      "odds": 1.26,
-      "patternScore": 67.84,
-      "patternText": "235.313/346.865",
-      "aiScore": 59,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
