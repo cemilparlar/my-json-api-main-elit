@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 10:31",
+  "updatedAt": "27.11.2026 10:42",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 224,
+      "won": 227,
       "lost": 138,
-      "total": 362,
-      "rate": 61.9
+      "total": 365,
+      "rate": 62.2
     },
-    "totalAnalyses": 932287,
+    "totalAnalyses": 932306,
     "leagues": 281,
     "pro": {
-      "won": 1800,
+      "won": 1802,
       "lost": 677,
-      "total": 2477,
+      "total": 2479,
       "rate": 72.7
     },
     "insights": {
-      "won": 2992,
+      "won": 2995,
       "lost": 1208,
-      "total": 4200,
-      "rate": 71.2
+      "total": 4203,
+      "rate": 71.3
     },
     "coupons": {
       "won": 9,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3203,
-    "analyses30d": 17339
+    "analyses24h": 3202,
+    "analyses30d": 17338
   },
   "recentWins": [
     {
@@ -252,6 +252,12 @@
     },
     {
       "type": "updated",
+      "at": "27.11.2026 10:29",
+      "home": "Livyi Bereh",
+      "away": "Kolos Kovalivka"
+    },
+    {
+      "type": "updated",
       "at": "27.11.2026 09:32",
       "home": "Al Kholood",
       "away": "Al Khaleej"
@@ -285,27 +291,33 @@
       "at": "27.11.2026 09:36",
       "home": "FK Neftchi Baku",
       "away": "FK Zira"
-    },
-    {
-      "type": "updated",
-      "at": "27.11.2026 10:11",
-      "home": "Lusail SC",
-      "away": "Al Arabi"
     }
   ],
   "today": {
-    "home": "Uljanik",
-    "away": "Nk Koprivnica",
-    "league": "HIR2NL",
-    "date": "27.11.2026 12:30",
-    "matchCode": "4527332",
-    "odds": 1.59,
-    "patternScore": 68.74,
-    "patternText": "212.252/308.792",
-    "aiScore": 54,
+    "home": "Buxoro",
+    "away": "Mashal Muborak",
+    "league": "ÖZB",
+    "date": "27.11.2026 12:00",
+    "matchCode": "4447670",
+    "odds": 1.99,
+    "patternScore": 66.58,
+    "patternText": "162.480/244.051",
+    "aiScore": 52,
     "picks": 3
   },
   "todayList": [
+    {
+      "home": "Buxoro",
+      "away": "Mashal Muborak",
+      "league": "ÖZB",
+      "date": "27.11.2026 12:00",
+      "matchCode": "4447670",
+      "odds": 1.99,
+      "patternScore": 66.58,
+      "patternText": "162.480/244.051",
+      "aiScore": 52,
+      "picks": 3
+    },
     {
       "home": "Uljanik",
       "away": "Nk Koprivnica",
@@ -353,18 +365,6 @@
       "patternText": "377.258/549.598",
       "aiScore": 58,
       "picks": 2
-    },
-    {
-      "home": "Peykan",
-      "away": "Foolad Khuzesta",
-      "league": "IRAN",
-      "date": "27.11.2026 11:30",
-      "matchCode": "4580242",
-      "odds": 1.23,
-      "patternScore": 68.72,
-      "patternText": "220.065/320.254",
-      "aiScore": 66,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
