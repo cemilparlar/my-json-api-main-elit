@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 13:36",
+  "updatedAt": "27.11.2026 13:46",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 210,
-      "lost": 117,
-      "total": 327,
-      "rate": 64.2
+      "won": 214,
+      "lost": 119,
+      "total": 333,
+      "rate": 64.3
     },
-    "totalAnalyses": 932916,
+    "totalAnalyses": 933072,
     "leagues": 281,
     "pro": {
-      "won": 1762,
-      "lost": 668,
-      "total": 2430,
+      "won": 1766,
+      "lost": 670,
+      "total": 2436,
       "rate": 72.5
     },
     "insights": {
-      "won": 2937,
-      "lost": 1195,
-      "total": 4132,
+      "won": 2941,
+      "lost": 1197,
+      "total": 4138,
       "rate": 71.1
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3273,
-    "analyses30d": 17452
+    "analyses24h": 3267,
+    "analyses30d": 17446
   },
   "recentWins": [
     {
@@ -259,7 +259,7 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 10:12",
+      "at": "27.11.2026 13:37",
       "home": "IMT Novi Beograd",
       "away": "FK Macva Sabac"
     }
@@ -340,6 +340,27 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Werder Bremen",
+      "away": "Borussia Monchengladbach",
+      "league": "AL1",
+      "at": "27.11.2026 13:45",
+      "count": 6
+    },
+    {
+      "home": "CD Leganes",
+      "away": "CE Sabadell",
+      "league": "İS2",
+      "at": "27.11.2026 13:45",
+      "count": 4
+    },
+    {
+      "home": "FC Heidenheim",
+      "away": "Nuremberg",
+      "league": "AL2",
+      "at": "27.11.2026 13:38",
+      "count": 9
+    },
+    {
       "home": "Bochum",
       "away": "SV Darmstadt 98",
       "league": "AL2",
@@ -387,27 +408,6 @@
       "league": "T1L",
       "at": "27.11.2026 11:12",
       "count": 3
-    },
-    {
-      "home": "Eintracht Braunschweig",
-      "away": "VfL Wolfsburg",
-      "league": "AL2",
-      "at": "27.11.2026 08:07",
-      "count": 8
-    },
-    {
-      "home": "Columbus Crew",
-      "away": "Inter Miami CF",
-      "league": "ABD",
-      "at": "27.11.2026 06:14",
-      "count": 5
-    },
-    {
-      "home": "RCD Espanyol",
-      "away": "Getafe CF",
-      "league": "İS1",
-      "at": "27.11.2026 00:38",
-      "count": 12
     }
   ],
   "paywall": {
