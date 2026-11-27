@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 00:18",
+  "updatedAt": "27.11.2026 00:28",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 354,
       "rate": 62.4
     },
-    "totalAnalyses": 931278,
+    "totalAnalyses": 931336,
     "leagues": 281,
     "pro": {
       "won": 1813,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2928,
-    "analyses30d": 17045
+    "analyses24h": 2984,
+    "analyses30d": 17101
   },
   "recentWins": [
     {
@@ -369,6 +369,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "VfB Stuttgart",
+      "away": "Eintracht Frankfurt",
+      "league": "AL1",
+      "at": "27.11.2026 00:23",
+      "count": 18
+    },
+    {
       "home": "Sport Club Internacional",
       "away": "Red Bull Bragantino",
       "league": "BR1",
@@ -430,13 +437,6 @@
       "league": "HOL",
       "at": "27.11.2026 00:00",
       "count": 10
-    },
-    {
-      "home": "Coritiba FBC",
-      "away": "CR Flamengo",
-      "league": "BR1",
-      "at": "26.11.2026 23:59",
-      "count": 5
     }
   ],
   "paywall": {
