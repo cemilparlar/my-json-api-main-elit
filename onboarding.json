@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 20:49",
+  "updatedAt": "27.11.2026 21:02",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 191,
-      "lost": 96,
-      "total": 287,
-      "rate": 66.6
+      "won": 203,
+      "lost": 105,
+      "total": 308,
+      "rate": 65.9
     },
-    "totalAnalyses": 934350,
+    "totalAnalyses": 934368,
     "leagues": 280,
     "pro": {
-      "won": 1704,
-      "lost": 656,
-      "total": 2360,
-      "rate": 72.2
+      "won": 1711,
+      "lost": 661,
+      "total": 2372,
+      "rate": 72.1
     },
     "insights": {
-      "won": 2828,
-      "lost": 1170,
-      "total": 3998,
+      "won": 2838,
+      "lost": 1178,
+      "total": 4016,
       "rate": 70.7
     },
     "coupons": {
-      "won": 9,
-      "lost": 12,
-      "total": 21,
-      "rate": 42.9
+      "won": 8,
+      "lost": 11,
+      "total": 19,
+      "rate": 42.1
     },
-    "analyses24h": 3148,
-    "analyses30d": 17541
+    "analyses24h": 3165,
+    "analyses30d": 17558
   },
   "recentWins": [
     {
@@ -265,18 +265,30 @@
     }
   ],
   "today": {
-    "home": "Fluminense FC",
-    "away": "Cruzeiro EC",
-    "league": "BR1",
-    "date": "27.11.2026 23:00",
-    "matchCode": "4423389",
-    "odds": 1.27,
-    "patternScore": 68.23,
-    "patternText": "194.868/285.623",
-    "aiScore": 62,
-    "picks": 7
+    "home": "Salt Lake",
+    "away": "Vancouver Whitecaps",
+    "league": "ABD",
+    "date": "28.11.2026 03:00",
+    "matchCode": "4581755",
+    "odds": 1.51,
+    "patternScore": 68.25,
+    "patternText": "298.004/436.618",
+    "aiScore": 54,
+    "picks": 8
   },
   "todayList": [
+    {
+      "home": "Salt Lake",
+      "away": "Vancouver Whitecaps",
+      "league": "ABD",
+      "date": "28.11.2026 03:00",
+      "matchCode": "4581755",
+      "odds": 1.51,
+      "patternScore": 68.25,
+      "patternText": "298.004/436.618",
+      "aiScore": 54,
+      "picks": 8
+    },
     {
       "home": "Fluminense FC",
       "away": "Cruzeiro EC",
@@ -324,18 +336,6 @@
       "patternText": "278.317/402.985",
       "aiScore": 75,
       "picks": 3
-    },
-    {
-      "home": "Moron",
-      "away": "Colon Santa Fe",
-      "league": "ARJPBN",
-      "date": "28.11.2026 00:00",
-      "matchCode": "4581050",
-      "odds": 1.17,
-      "patternScore": 69.43,
-      "patternText": "193.222/278.279",
-      "aiScore": 80,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
