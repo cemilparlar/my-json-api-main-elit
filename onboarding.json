@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 05:21",
+  "updatedAt": "27.11.2026 05:30",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 375,
       "rate": 61.6
     },
-    "totalAnalyses": 931670,
+    "totalAnalyses": 931674,
     "leagues": 281,
     "pro": {
       "won": 1819,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3091,
-    "analyses30d": 17221
+    "analyses24h": 3089,
+    "analyses30d": 17219
   },
   "recentWins": [
     {
@@ -269,8 +269,14 @@
       "away": "Cand"
     },
     {
+      "type": "kickoff",
+      "home": "Broadmeadow Ma",
+      "away": "Queensland Lions",
+      "at": "27.11.2026 08:30"
+    },
+    {
       "type": "analysis",
-      "count": 3091
+      "count": 3089
     }
   ],
   "today": {
@@ -316,11 +322,23 @@
       "league": "VİET",
       "date": "27.11.2026 11:00",
       "matchCode": "4551363",
-      "odds": 1.13,
-      "patternScore": 70.36,
-      "patternText": "295.627/420.144",
-      "aiScore": 85,
+      "odds": 1.16,
+      "patternScore": 69.67,
+      "patternText": "240.341/344.952",
+      "aiScore": 75,
       "picks": 2
+    },
+    {
+      "home": "FK SLNA Nitra",
+      "away": "Phu Dong FC",
+      "league": "VİET",
+      "date": "27.11.2026 11:00",
+      "matchCode": "4551362",
+      "odds": 1.07,
+      "patternScore": 69.72,
+      "patternText": "237.913/341.239",
+      "aiScore": 97,
+      "picks": 1
     },
     {
       "home": "Universitatea Craiova",
@@ -333,18 +351,6 @@
       "patternText": "226.771/333.353",
       "aiScore": 53,
       "picks": 2
-    },
-    {
-      "home": "Al-Sailiya",
-      "away": "Al Gharafa",
-      "league": "KAT",
-      "date": "27.11.2026 13:00",
-      "matchCode": "4536761",
-      "odds": 1.52,
-      "patternScore": 67.66,
-      "patternText": "255.140/377.091",
-      "aiScore": 54,
-      "picks": 4
     }
   ],
   "recentAnalyzed": [
