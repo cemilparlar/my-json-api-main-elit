@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 12:12",
+  "updatedAt": "27.11.2026 12:22",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 227,
-      "lost": 136,
-      "total": 363,
-      "rate": 62.5
+      "won": 216,
+      "lost": 131,
+      "total": 347,
+      "rate": 62.2
     },
-    "totalAnalyses": 932621,
+    "totalAnalyses": 932657,
     "leagues": 281,
     "pro": {
-      "won": 1791,
+      "won": 1789,
       "lost": 675,
-      "total": 2466,
+      "total": 2464,
       "rate": 72.6
     },
     "insights": {
-      "won": 2979,
-      "lost": 1204,
-      "total": 4183,
+      "won": 2975,
+      "lost": 1203,
+      "total": 4178,
       "rate": 71.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3234,
-    "analyses30d": 17378
+    "analyses24h": 3249,
+    "analyses30d": 17406
   },
   "recentWins": [
     {
@@ -369,6 +369,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Hamburger SV",
+      "away": "Bayern Munich",
+      "league": "AL1",
+      "at": "27.11.2026 12:13",
+      "count": 13
+    },
+    {
       "home": "Bochum",
       "away": "SV Darmstadt 98",
       "league": "AL2",
@@ -430,13 +437,6 @@
       "league": "İTA",
       "at": "27.11.2026 00:36",
       "count": 8
-    },
-    {
-      "home": "Real Oviedo",
-      "away": "Celta Vigo B",
-      "league": "İS2",
-      "at": "27.11.2026 00:36",
-      "count": 6
     }
   ],
   "paywall": {
