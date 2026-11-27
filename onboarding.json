@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 19:32",
+  "updatedAt": "27.11.2026 19:41",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 233,
+      "won": 235,
       "lost": 129,
-      "total": 362,
-      "rate": 64.4
+      "total": 364,
+      "rate": 64.6
     },
-    "totalAnalyses": 934248,
+    "totalAnalyses": 934260,
     "leagues": 280,
     "pro": {
-      "won": 1713,
+      "won": 1715,
       "lost": 661,
-      "total": 2374,
+      "total": 2376,
       "rate": 72.2
     },
     "insights": {
-      "won": 2847,
+      "won": 2849,
       "lost": 1184,
-      "total": 4031,
+      "total": 4033,
       "rate": 70.6
     },
     "coupons": {
@@ -94,6 +94,20 @@
       "pro": false
     },
     {
+      "home": "FC Heidenheim",
+      "away": "Nuremberg",
+      "league": "AL2",
+      "date": "27.11.2026 17:30",
+      "prediction": "Match Result 1",
+      "odds": 1.99,
+      "probability": 85.71,
+      "patternScore": 67.06,
+      "aiScore": 52,
+      "firstHalf": "1 - 1",
+      "finalScore": "3 - 1",
+      "pro": false
+    },
+    {
       "home": "Buxoro",
       "away": "Mashal Muborak",
       "league": "ÖZB",
@@ -106,20 +120,6 @@
       "firstHalf": "1 - 1",
       "finalScore": "2 - 2",
       "pro": false
-    },
-    {
-      "home": "Egnatia",
-      "away": "Lincoln Red Imp",
-      "league": "AVKL",
-      "date": "26.11.2026 17:45",
-      "prediction": "Total Goals 2-3",
-      "odds": 1.86,
-      "probability": 71.42857142857143,
-      "patternScore": 66.52,
-      "aiScore": 52,
-      "firstHalf": "0 - 0",
-      "finalScore": "2 - 1",
-      "pro": true
     }
   ],
   "recentCoupons": [
@@ -209,11 +209,11 @@
     },
     {
       "type": "won",
-      "home": "Buxoro",
-      "away": "Mashal Muborak",
-      "prediction": "Both Teams to Score - Yes",
+      "home": "FC Heidenheim",
+      "away": "Nuremberg",
+      "prediction": "Match Result 1",
       "odds": 1.99,
-      "at": "27.11.2026 12:00"
+      "at": "27.11.2026 17:30"
     },
     {
       "type": "coupon",
@@ -272,7 +272,7 @@
     "matchCode": "4533182",
     "odds": 2.31,
     "patternScore": 68.08,
-    "patternText": "277.006/406.902",
+    "patternText": "277.034/406.940",
     "aiScore": 52,
     "picks": 2
   },
@@ -285,7 +285,7 @@
       "matchCode": "4533182",
       "odds": 2.31,
       "patternScore": 68.08,
-      "patternText": "277.006/406.902",
+      "patternText": "277.034/406.940",
       "aiScore": 52,
       "picks": 2
     },
@@ -297,7 +297,7 @@
       "matchCode": "4581052",
       "odds": 1.31,
       "patternScore": 68.01,
-      "patternText": "260.330/382.773",
+      "patternText": "260.342/382.791",
       "aiScore": 56,
       "picks": 3
     },
@@ -308,8 +308,8 @@
       "date": "27.11.2026 23:00",
       "matchCode": "4423389",
       "odds": 1.27,
-      "patternScore": 68.22,
-      "patternText": "194.832/285.583",
+      "patternScore": 68.23,
+      "patternText": "194.858/285.609",
       "aiScore": 62,
       "picks": 7
     },
@@ -321,7 +321,7 @@
       "matchCode": "4581386",
       "odds": 1.18,
       "patternScore": 69.06,
-      "patternText": "278.243/402.875",
+      "patternText": "278.259/402.901",
       "aiScore": 75,
       "picks": 3
     },
@@ -332,8 +332,8 @@
       "date": "27.11.2026 20:15",
       "matchCode": "4517058",
       "odds": 1.18,
-      "patternScore": 68.39,
-      "patternText": "146.250/213.833",
+      "patternScore": 68.41,
+      "patternText": "146.338/213.927",
       "aiScore": 84,
       "picks": 4
     }
