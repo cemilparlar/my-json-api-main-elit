@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 09:38",
+  "updatedAt": "27.11.2026 09:47",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 371,
       "rate": 61.7
     },
-    "totalAnalyses": 932194,
+    "totalAnalyses": 932252,
     "leagues": 281,
     "pro": {
       "won": 1809,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3214,
-    "analyses30d": 17350
+    "analyses24h": 3206,
+    "analyses30d": 17342
   },
   "recentWins": [
     {
@@ -63,20 +63,6 @@
       "aiScore": 51,
       "firstHalf": "0 - 3",
       "finalScore": "1 - 7",
-      "pro": false
-    },
-    {
-      "home": "Melbourne Victory",
-      "away": "Viettel FC",
-      "league": "AFCŞL2",
-      "date": "25.11.2026 07:45",
-      "prediction": "1st Half Result X",
-      "odds": 2.25,
-      "probability": 80.0,
-      "patternScore": 66.59,
-      "aiScore": 51,
-      "firstHalf": "0 - 0",
-      "finalScore": "0 - 0",
       "pro": false
     },
     {
@@ -120,6 +106,20 @@
       "firstHalf": "2 - 0",
       "finalScore": "4 - 0",
       "pro": true
+    },
+    {
+      "home": "FC Viktoria Plzen",
+      "away": "SL Benfica",
+      "league": "AVL",
+      "date": "26.11.2026 17:45",
+      "prediction": "Over 3.5 Goals",
+      "odds": 2.01,
+      "probability": 100.0,
+      "patternScore": 55.7,
+      "aiScore": 51,
+      "firstHalf": "3 - 0",
+      "finalScore": "4 - 0",
+      "pro": false
     }
   ],
   "recentCoupons": [
@@ -222,14 +222,6 @@
     },
     {
       "type": "won",
-      "home": "Melbourne Victory",
-      "away": "Viettel FC",
-      "prediction": "1st Half Result X",
-      "odds": 2.25,
-      "at": "25.11.2026 07:45"
-    },
-    {
-      "type": "won",
       "home": "Gamba Osaka",
       "away": "Port FC",
       "prediction": "Total Goals 2-3",
@@ -245,16 +237,18 @@
       "at": "25.11.2026 20:00"
     },
     {
+      "type": "won",
+      "home": "Tainan City FC",
+      "away": "Taichung Rock FC",
+      "prediction": "Handicap (0:2) 1",
+      "odds": 2.12,
+      "at": "25.11.2026 10:30"
+    },
+    {
       "type": "updated",
       "at": "27.11.2026 07:54",
       "home": "Macarthur FC",
       "away": "Melbourne City FC"
-    },
-    {
-      "type": "updated",
-      "at": "27.11.2026 09:31",
-      "home": "Uthai Thani FC",
-      "away": "Sisaket United"
     },
     {
       "type": "updated",
@@ -291,21 +285,39 @@
       "at": "27.11.2026 09:33",
       "home": "Tirana",
       "away": "Skenderbeu"
+    },
+    {
+      "type": "updated",
+      "at": "27.11.2026 08:54",
+      "home": "Uljanik",
+      "away": "Nk Koprivnica"
     }
   ],
   "today": {
-    "home": "Universitatea Craiova",
-    "away": "Sepsi OSK",
-    "league": "ROM",
-    "date": "27.11.2026 15:30",
-    "matchCode": "4501666",
-    "odds": 1.6,
-    "patternScore": 68.03,
-    "patternText": "226.771/333.353",
-    "aiScore": 53,
+    "home": "Malisheva",
+    "away": "Llapi",
+    "league": "KOS",
+    "date": "27.11.2026 12:00",
+    "matchCode": "4581573",
+    "odds": 1.68,
+    "patternScore": 66.96,
+    "patternText": "153.623/229.422",
+    "aiScore": 54,
     "picks": 2
   },
   "todayList": [
+    {
+      "home": "Malisheva",
+      "away": "Llapi",
+      "league": "KOS",
+      "date": "27.11.2026 12:00",
+      "matchCode": "4581573",
+      "odds": 1.68,
+      "patternScore": 66.96,
+      "patternText": "153.623/229.422",
+      "aiScore": 54,
+      "picks": 2
+    },
     {
       "home": "Universitatea Craiova",
       "away": "Sepsi OSK",
@@ -340,18 +352,6 @@
       "patternScore": 68.81,
       "patternText": "220.209/320.043",
       "aiScore": 55,
-      "picks": 3
-    },
-    {
-      "home": "East Riffa",
-      "away": "Al Ittifaq Maqa",
-      "league": "BAH",
-      "date": "27.11.2026 15:00",
-      "matchCode": "4581082",
-      "odds": 1.48,
-      "patternScore": 68.62,
-      "patternText": "229.900/335.046",
-      "aiScore": 56,
       "picks": 3
     },
     {
