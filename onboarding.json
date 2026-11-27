@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 16:16",
+  "updatedAt": "27.11.2026 16:27",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 226,
-      "lost": 129,
-      "total": 355,
-      "rate": 63.7
+      "won": 229,
+      "lost": 142,
+      "total": 371,
+      "rate": 61.7
     },
-    "totalAnalyses": 933696,
+    "totalAnalyses": 933747,
     "leagues": 280,
     "pro": {
-      "won": 1762,
-      "lost": 671,
-      "total": 2433,
+      "won": 1763,
+      "lost": 672,
+      "total": 2435,
       "rate": 72.4
     },
     "insights": {
-      "won": 2930,
-      "lost": 1199,
-      "total": 4129,
-      "rate": 71.0
+      "won": 2933,
+      "lost": 1212,
+      "total": 4145,
+      "rate": 70.8
     },
     "coupons": {
       "won": 9,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3329,
-    "analyses30d": 17529
+    "analyses24h": 3327,
+    "analyses30d": 17527
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4533182",
     "odds": 2.31,
     "patternScore": 68.07,
-    "patternText": "276.824/406.666",
+    "patternText": "276.826/406.672",
     "aiScore": 52,
     "picks": 2
   },
@@ -285,9 +285,21 @@
       "matchCode": "4533182",
       "odds": 2.31,
       "patternScore": 68.07,
-      "patternText": "276.824/406.666",
+      "patternText": "276.826/406.672",
       "aiScore": 52,
       "picks": 2
+    },
+    {
+      "home": "NAC Breda",
+      "away": "FC Den Bosch",
+      "league": "HOL2",
+      "date": "27.11.2026 19:00",
+      "matchCode": "4481954",
+      "odds": 1.75,
+      "patternScore": 67.7,
+      "patternText": "280.616/414.527",
+      "aiScore": 54,
+      "picks": 4
     },
     {
       "home": "Bochum",
@@ -297,54 +309,63 @@
       "matchCode": "4495848",
       "odds": 1.49,
       "patternScore": 68.15,
-      "patternText": "261.371/383.514",
+      "patternText": "261.377/383.532",
       "aiScore": 55,
       "picks": 7
     },
     {
-      "home": "Rizespor",
-      "away": "Kasimpasa",
-      "league": "TSL",
-      "date": "27.11.2026 17:00",
-      "matchCode": "4542764",
-      "odds": 1.44,
-      "patternScore": 67.19,
-      "patternText": "251.881/374.873",
-      "aiScore": 54,
-      "picks": 6
-    },
-    {
-      "home": "Gks Tychy",
-      "away": "Chojniczanka Chojnice",
-      "league": "POL2",
-      "date": "27.11.2026 17:00",
-      "matchCode": "4486591",
-      "odds": 1.44,
-      "patternScore": 68.4,
-      "patternText": "375.370/548.775",
-      "aiScore": 55,
-      "picks": 3
-    },
-    {
-      "home": "Coleraine",
-      "away": "Dungannon",
-      "league": "KİRL",
+      "home": "Stade Brest",
+      "away": "Paris FC",
+      "league": "FR1",
       "date": "27.11.2026 19:45",
-      "matchCode": "4486940",
-      "odds": 1.43,
-      "patternScore": 68.34,
-      "patternText": "239.840/350.954",
-      "aiScore": 58,
-      "picks": 3
+      "matchCode": "4476605",
+      "odds": 1.48,
+      "patternScore": 67.85,
+      "patternText": "253.008/372.875",
+      "aiScore": 55,
+      "picks": 4
+    },
+    {
+      "home": "Werder Bremen",
+      "away": "Borussia Monchengladbach",
+      "league": "AL1",
+      "date": "27.11.2026 19:30",
+      "matchCode": "4495528",
+      "odds": 1.46,
+      "patternScore": 66.82,
+      "patternText": "188.890/282.696",
+      "aiScore": 55,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Levante UD",
+      "away": "Racing Santander",
+      "league": "İS1",
+      "at": "27.11.2026 16:17",
+      "count": 11
+    },
+    {
+      "home": "CS Maritimo",
+      "away": "CD Nacional",
+      "league": "POR",
+      "at": "27.11.2026 16:17",
+      "count": 5
+    },
     {
       "home": "Stade Brest",
       "away": "Paris FC",
       "league": "FR1",
       "at": "27.11.2026 16:16",
       "count": 10
+    },
+    {
+      "home": "Nottingham Forest",
+      "away": "Chelsea",
+      "league": "İNP",
+      "at": "27.11.2026 16:16",
+      "count": 6
     },
     {
       "home": "Unione V.",
@@ -380,27 +401,6 @@
       "league": "AL2",
       "at": "27.11.2026 16:05",
       "count": 7
-    },
-    {
-      "home": "CS Maritimo",
-      "away": "CD Nacional",
-      "league": "POR",
-      "at": "27.11.2026 15:16",
-      "count": 6
-    },
-    {
-      "home": "Levante UD",
-      "away": "Racing Santander",
-      "league": "İS1",
-      "at": "27.11.2026 15:15",
-      "count": 12
-    },
-    {
-      "home": "Nottingham Forest",
-      "away": "Chelsea",
-      "league": "İNP",
-      "at": "27.11.2026 15:14",
-      "count": 5
     },
     {
       "home": "OH Leuven",
