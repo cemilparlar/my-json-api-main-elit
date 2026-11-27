@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 08:01",
+  "updatedAt": "27.11.2026 08:12",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 373,
       "rate": 61.9
     },
-    "totalAnalyses": 932016,
+    "totalAnalyses": 932072,
     "leagues": 281,
     "pro": {
       "won": 1819,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3153,
-    "analyses30d": 17285
+    "analyses24h": 3185,
+    "analyses30d": 17317
   },
   "recentWins": [
     {
@@ -288,9 +288,9 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 07:59",
-      "home": "Real Native",
-      "away": "Pretoria Univer"
+      "at": "27.11.2026 08:11",
+      "home": "Shabab Al Ordo",
+      "away": "Al Salt"
     }
   ],
   "today": {
@@ -331,30 +331,6 @@
       "picks": 1
     },
     {
-      "home": "Al-Sailiya",
-      "away": "Al Gharafa",
-      "league": "KAT",
-      "date": "27.11.2026 13:00",
-      "matchCode": "4536761",
-      "odds": 1.34,
-      "patternScore": 67.63,
-      "patternText": "236.340/349.459",
-      "aiScore": 55,
-      "picks": 2
-    },
-    {
-      "home": "Macarthur FC",
-      "away": "Melbourne City FC",
-      "league": "AVUS",
-      "date": "27.11.2026 08:40",
-      "matchCode": "4546763",
-      "odds": 1.25,
-      "patternScore": 67.43,
-      "patternText": "221.679/328.748",
-      "aiScore": 62,
-      "picks": 1
-    },
-    {
       "home": "Peykan",
       "away": "Foolad Khuzesta",
       "league": "IRAN",
@@ -365,9 +341,40 @@
       "patternText": "220.065/320.254",
       "aiScore": 66,
       "picks": 3
+    },
+    {
+      "home": "Tanta FC",
+      "away": "El Mansoura",
+      "league": "MSR2",
+      "date": "27.11.2026 12:30",
+      "matchCode": "4538133",
+      "odds": 1.22,
+      "patternScore": 69.97,
+      "patternText": "303.674/434.013",
+      "aiScore": 69,
+      "picks": 1
+    },
+    {
+      "home": "FK SLNA Nitra",
+      "away": "Phu Dong FC",
+      "league": "VİET",
+      "date": "27.11.2026 11:00",
+      "matchCode": "4551362",
+      "odds": 1.17,
+      "patternScore": 70.23,
+      "patternText": "291.895/415.639",
+      "aiScore": 70,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Eintracht Braunschweig",
+      "away": "VfL Wolfsburg",
+      "league": "AL2",
+      "at": "27.11.2026 08:07",
+      "count": 8
+    },
     {
       "home": "Columbus Crew",
       "away": "Inter Miami CF",
@@ -430,13 +437,6 @@
       "league": "TSL",
       "at": "27.11.2026 00:29",
       "count": 6
-    },
-    {
-      "home": "VfB Stuttgart",
-      "away": "Eintracht Frankfurt",
-      "league": "AL1",
-      "at": "27.11.2026 00:23",
-      "count": 18
     }
   ],
   "paywall": {
