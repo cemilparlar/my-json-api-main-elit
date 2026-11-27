@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 19:11",
+  "updatedAt": "27.11.2026 19:23",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 214,
-      "lost": 122,
-      "total": 336,
-      "rate": 63.7
+      "won": 217,
+      "lost": 126,
+      "total": 343,
+      "rate": 63.3
     },
-    "totalAnalyses": 934194,
+    "totalAnalyses": 934200,
     "leagues": 280,
     "pro": {
-      "won": 1717,
-      "lost": 664,
-      "total": 2381,
+      "won": 1719,
+      "lost": 666,
+      "total": 2385,
       "rate": 72.1
     },
     "insights": {
-      "won": 2854,
-      "lost": 1190,
-      "total": 4044,
-      "rate": 70.6
+      "won": 2857,
+      "lost": 1194,
+      "total": 4051,
+      "rate": 70.5
     },
     "coupons": {
       "won": 9,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3275,
-    "analyses30d": 17569
+    "analyses24h": 3277,
+    "analyses30d": 17571
   },
   "recentWins": [
     {
@@ -271,8 +271,8 @@
     "date": "27.11.2026 21:00",
     "matchCode": "4533182",
     "odds": 2.31,
-    "patternScore": 68.07,
-    "patternText": "276.898/406.770",
+    "patternScore": 68.08,
+    "patternText": "277.000/406.890",
     "aiScore": 52,
     "picks": 2
   },
@@ -284,22 +284,10 @@
       "date": "27.11.2026 21:00",
       "matchCode": "4533182",
       "odds": 2.31,
-      "patternScore": 68.07,
-      "patternText": "276.898/406.770",
+      "patternScore": 68.08,
+      "patternText": "277.000/406.890",
       "aiScore": 52,
       "picks": 2
-    },
-    {
-      "home": "Coleraine",
-      "away": "Dungannon",
-      "league": "KİRL",
-      "date": "27.11.2026 19:45",
-      "matchCode": "4486940",
-      "odds": 1.51,
-      "patternScore": 67.89,
-      "patternText": "236.232/347.968",
-      "aiScore": 54,
-      "picks": 3
     },
     {
       "home": "Southam",
@@ -308,8 +296,8 @@
       "date": "27.11.2026 20:00",
       "matchCode": "4488892",
       "odds": 1.41,
-      "patternScore": 67.26,
-      "patternText": "168.218/250.099",
+      "patternScore": 67.27,
+      "patternText": "168.320/250.217",
       "aiScore": 57,
       "picks": 6
     },
@@ -321,7 +309,7 @@
       "matchCode": "4581052",
       "odds": 1.31,
       "patternScore": 68.01,
-      "patternText": "260.258/382.683",
+      "patternText": "260.324/382.761",
       "aiScore": 56,
       "picks": 3
     },
@@ -332,9 +320,21 @@
       "date": "27.11.2026 20:00",
       "matchCode": "4481129",
       "odds": 1.31,
-      "patternScore": 67.89,
-      "patternText": "229.754/338.409",
+      "patternScore": 67.9,
+      "patternText": "229.956/338.651",
       "aiScore": 59,
+      "picks": 7
+    },
+    {
+      "home": "Fluminense FC",
+      "away": "Cruzeiro EC",
+      "league": "BR1",
+      "date": "27.11.2026 23:00",
+      "matchCode": "4423389",
+      "odds": 1.27,
+      "patternScore": 68.22,
+      "patternText": "194.832/285.581",
+      "aiScore": 62,
       "picks": 7
     }
   ],
