@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 21:10",
+  "updatedAt": "27.11.2026 21:21",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 203,
-      "lost": 105,
-      "total": 308,
-      "rate": 65.9
+      "won": 225,
+      "lost": 116,
+      "total": 341,
+      "rate": 66.0
     },
-    "totalAnalyses": 934380,
+    "totalAnalyses": 934398,
     "leagues": 280,
     "pro": {
-      "won": 1711,
-      "lost": 661,
-      "total": 2372,
+      "won": 1717,
+      "lost": 665,
+      "total": 2382,
       "rate": 72.1
     },
     "insights": {
-      "won": 2838,
-      "lost": 1178,
-      "total": 4016,
+      "won": 2851,
+      "lost": 1183,
+      "total": 4034,
       "rate": 70.7
     },
     "coupons": {
-      "won": 8,
+      "won": 7,
       "lost": 11,
-      "total": 19,
-      "rate": 42.1
+      "total": 18,
+      "rate": 38.9
     },
-    "analyses24h": 3164,
-    "analyses30d": 17557
+    "analyses24h": 3176,
+    "analyses30d": 17569
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4581755",
     "odds": 1.51,
     "patternScore": 68.25,
-    "patternText": "298.020/436.650",
+    "patternText": "298.026/436.658",
     "aiScore": 54,
     "picks": 8
   },
@@ -285,7 +285,7 @@
       "matchCode": "4581755",
       "odds": 1.51,
       "patternScore": 68.25,
-      "patternText": "298.020/436.650",
+      "patternText": "298.026/436.658",
       "aiScore": 54,
       "picks": 8
     },
@@ -297,7 +297,7 @@
       "matchCode": "4423389",
       "odds": 1.27,
       "patternScore": 68.22,
-      "patternText": "194.886/285.653",
+      "patternText": "194.890/285.659",
       "aiScore": 62,
       "picks": 7
     },
@@ -309,7 +309,7 @@
       "matchCode": "4487124",
       "odds": 1.25,
       "patternScore": 68.84,
-      "patternText": "313.600/455.532",
+      "patternText": "313.608/455.544",
       "aiScore": 66,
       "picks": 1
     },
@@ -321,7 +321,7 @@
       "matchCode": "4582086",
       "odds": 1.23,
       "patternScore": 69.09,
-      "patternText": "275.382/398.580",
+      "patternText": "275.390/398.590",
       "aiScore": 65,
       "picks": 2
     },
@@ -333,12 +333,19 @@
       "matchCode": "4581386",
       "odds": 1.2,
       "patternScore": 70.07,
-      "patternText": "342.506/488.782",
+      "patternText": "342.516/488.798",
       "aiScore": 77,
       "picks": 2
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Salt Lake",
+      "away": "Vancouver Whitecaps",
+      "league": "ABD",
+      "at": "27.11.2026 21:12",
+      "count": 11
+    },
     {
       "home": "Columbus Crew",
       "away": "Inter Miami CF",
@@ -400,13 +407,6 @@
       "away": "Willem",
       "league": "HOL",
       "at": "27.11.2026 18:20",
-      "count": 17
-    },
-    {
-      "home": "TSG Hoffenheim",
-      "away": "FC Augsburg",
-      "league": "AL1",
-      "at": "27.11.2026 18:16",
       "count": 17
     }
   ],
