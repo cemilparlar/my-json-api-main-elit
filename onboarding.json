@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 06:54",
+  "updatedAt": "27.11.2026 07:02",
   "config": {
     "pages": [
       "engine",
@@ -23,11 +23,11 @@
     "days": 7,
     "last24h": {
       "won": 231,
-      "lost": 144,
-      "total": 375,
-      "rate": 61.6
+      "lost": 142,
+      "total": 373,
+      "rate": 61.9
     },
-    "totalAnalyses": 931799,
+    "totalAnalyses": 931800,
     "leagues": 281,
     "pro": {
       "won": 1819,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3107,
-    "analyses30d": 17237
+    "analyses24h": 3098,
+    "analyses30d": 17230
   },
   "recentWins": [
     {
@@ -294,18 +294,30 @@
     }
   ],
   "today": {
-    "home": "Shams Azar Qaz",
-    "away": "Kheybar Khorram",
-    "league": "IRAN",
-    "date": "27.11.2026 11:30",
-    "matchCode": "4580243",
-    "odds": 1.49,
-    "patternScore": 68.81,
-    "patternText": "220.209/320.043",
-    "aiScore": 55,
-    "picks": 3
+    "home": "Al-Sailiya",
+    "away": "Al Gharafa",
+    "league": "KAT",
+    "date": "27.11.2026 13:00",
+    "matchCode": "4536761",
+    "odds": 1.52,
+    "patternScore": 67.66,
+    "patternText": "255.140/377.091",
+    "aiScore": 54,
+    "picks": 4
   },
   "todayList": [
+    {
+      "home": "Al-Sailiya",
+      "away": "Al Gharafa",
+      "league": "KAT",
+      "date": "27.11.2026 13:00",
+      "matchCode": "4536761",
+      "odds": 1.52,
+      "patternScore": 67.66,
+      "patternText": "255.140/377.091",
+      "aiScore": 54,
+      "picks": 4
+    },
     {
       "home": "Shams Azar Qaz",
       "away": "Kheybar Khorram",
@@ -319,16 +331,28 @@
       "picks": 3
     },
     {
-      "home": "Gulf United",
-      "away": "Palm City 365",
-      "league": "BAE2",
-      "date": "27.11.2026 12:45",
-      "matchCode": "4574645",
-      "odds": 1.29,
-      "patternScore": 68.0,
-      "patternText": "212.127/311.932",
+      "home": "Uljanik",
+      "away": "Nk Koprivnica",
+      "league": "HIR2NL",
+      "date": "27.11.2026 12:30",
+      "matchCode": "4527332",
+      "odds": 1.36,
+      "patternScore": 68.63,
+      "patternText": "251.400/366.334",
+      "aiScore": 58,
+      "picks": 1
+    },
+    {
+      "home": "Macarthur FC",
+      "away": "Melbourne City FC",
+      "league": "AVUS",
+      "date": "27.11.2026 08:40",
+      "matchCode": "4546763",
+      "odds": 1.25,
+      "patternScore": 67.43,
+      "patternText": "221.679/328.748",
       "aiScore": 62,
-      "picks": 2
+      "picks": 1
     },
     {
       "home": "Peykan",
@@ -341,30 +365,6 @@
       "patternText": "220.065/320.254",
       "aiScore": 66,
       "picks": 3
-    },
-    {
-      "home": "Al Sahel",
-      "away": "Hottain",
-      "league": "SUUD2",
-      "date": "27.11.2026 11:50",
-      "matchCode": "4572693",
-      "odds": 1.23,
-      "patternScore": 68.45,
-      "patternText": "148.980/217.636",
-      "aiScore": 66,
-      "picks": 1
-    },
-    {
-      "home": "Tanta FC",
-      "away": "El Mansoura",
-      "league": "MSR2",
-      "date": "27.11.2026 12:30",
-      "matchCode": "4538133",
-      "odds": 1.21,
-      "patternScore": 68.72,
-      "patternText": "237.147/345.116",
-      "aiScore": 69,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
