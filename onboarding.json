@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 20:24",
+  "updatedAt": "27.11.2026 20:32",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 176,
-      "lost": 91,
-      "total": 267,
-      "rate": 65.9
+      "won": 191,
+      "lost": 96,
+      "total": 287,
+      "rate": 66.6
     },
-    "totalAnalyses": 934308,
+    "totalAnalyses": 934311,
     "leagues": 280,
     "pro": {
-      "won": 1699,
+      "won": 1704,
       "lost": 656,
-      "total": 2355,
-      "rate": 72.1
+      "total": 2360,
+      "rate": 72.2
     },
     "insights": {
-      "won": 2815,
-      "lost": 1166,
-      "total": 3981,
+      "won": 2828,
+      "lost": 1170,
+      "total": 3998,
       "rate": 70.7
     },
     "coupons": {
@@ -265,30 +265,18 @@
     }
   ],
   "today": {
-    "home": "Real Unión De",
-    "away": "Anaza",
-    "league": "İSTL",
-    "date": "27.11.2026 21:00",
-    "matchCode": "4533182",
-    "odds": 2.31,
-    "patternScore": 68.08,
-    "patternText": "277.078/407.000",
-    "aiScore": 52,
-    "picks": 2
+    "home": "Fluminense FC",
+    "away": "Cruzeiro EC",
+    "league": "BR1",
+    "date": "27.11.2026 23:00",
+    "matchCode": "4423389",
+    "odds": 1.27,
+    "patternScore": 68.23,
+    "patternText": "194.862/285.615",
+    "aiScore": 62,
+    "picks": 7
   },
   "todayList": [
-    {
-      "home": "Real Unión De",
-      "away": "Anaza",
-      "league": "İSTL",
-      "date": "27.11.2026 21:00",
-      "matchCode": "4533182",
-      "odds": 2.31,
-      "patternScore": 68.08,
-      "patternText": "277.078/407.000",
-      "aiScore": 52,
-      "picks": 2
-    },
     {
       "home": "Fluminense FC",
       "away": "Cruzeiro EC",
@@ -336,6 +324,18 @@
       "patternText": "278.289/402.941",
       "aiScore": 75,
       "picks": 3
+    },
+    {
+      "home": "Moron",
+      "away": "Colon Santa Fe",
+      "league": "ARJPBN",
+      "date": "28.11.2026 00:00",
+      "matchCode": "4581050",
+      "odds": 1.17,
+      "patternScore": 69.43,
+      "patternText": "193.212/278.267",
+      "aiScore": 80,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
