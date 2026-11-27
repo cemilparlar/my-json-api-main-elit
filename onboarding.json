@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 21:02",
+  "updatedAt": "27.11.2026 21:10",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 308,
       "rate": 65.9
     },
-    "totalAnalyses": 934368,
+    "totalAnalyses": 934380,
     "leagues": 280,
     "pro": {
       "won": 1711,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 42.1
     },
-    "analyses24h": 3165,
-    "analyses30d": 17558
+    "analyses24h": 3164,
+    "analyses30d": 17557
   },
   "recentWins": [
     {
@@ -229,12 +229,6 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 15:07",
-      "home": "Lokomotiv Sofia",
-      "away": "FC Slavia Sofia"
-    },
-    {
-      "type": "updated",
       "at": "27.11.2026 16:03",
       "home": "Rakow Czestochowa",
       "away": "Piast Gliwice"
@@ -262,6 +256,12 @@
       "at": "27.11.2026 16:05",
       "home": "Bochum",
       "away": "SV Darmstadt 98"
+    },
+    {
+      "type": "updated",
+      "at": "27.11.2026 17:08",
+      "home": "Hvidovre IF",
+      "away": "Kolding IF"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4581755",
     "odds": 1.51,
     "patternScore": 68.25,
-    "patternText": "298.004/436.618",
+    "patternText": "298.020/436.650",
     "aiScore": 54,
     "picks": 8
   },
@@ -285,7 +285,7 @@
       "matchCode": "4581755",
       "odds": 1.51,
       "patternScore": 68.25,
-      "patternText": "298.004/436.618",
+      "patternText": "298.020/436.650",
       "aiScore": 54,
       "picks": 8
     },
@@ -296,8 +296,8 @@
       "date": "27.11.2026 23:00",
       "matchCode": "4423389",
       "odds": 1.27,
-      "patternScore": 68.23,
-      "patternText": "194.868/285.623",
+      "patternScore": 68.22,
+      "patternText": "194.886/285.653",
       "aiScore": 62,
       "picks": 7
     },
@@ -309,7 +309,7 @@
       "matchCode": "4487124",
       "odds": 1.25,
       "patternScore": 68.84,
-      "patternText": "313.566/455.476",
+      "patternText": "313.600/455.532",
       "aiScore": 66,
       "picks": 1
     },
@@ -321,7 +321,7 @@
       "matchCode": "4582086",
       "odds": 1.23,
       "patternScore": 69.09,
-      "patternText": "275.372/398.560",
+      "patternText": "275.382/398.580",
       "aiScore": 65,
       "picks": 2
     },
@@ -331,11 +331,11 @@
       "league": "BR2",
       "date": "27.11.2026 23:00",
       "matchCode": "4581386",
-      "odds": 1.18,
-      "patternScore": 69.06,
-      "patternText": "278.317/402.985",
-      "aiScore": 75,
-      "picks": 3
+      "odds": 1.2,
+      "patternScore": 70.07,
+      "patternText": "342.506/488.782",
+      "aiScore": 77,
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
