@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 05:38",
+  "updatedAt": "27.11.2026 05:46",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 375,
       "rate": 61.6
     },
-    "totalAnalyses": 931678,
+    "totalAnalyses": 931680,
     "leagues": 281,
     "pro": {
       "won": 1819,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3089,
-    "analyses30d": 17219
+    "analyses24h": 3088,
+    "analyses30d": 17218
   },
   "recentWins": [
     {
@@ -252,12 +252,6 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 23:38",
-      "home": "Club Atletico Torque",
-      "away": "Club Nacional de Football"
-    },
-    {
-      "type": "updated",
       "at": "27.11.2026 05:35",
       "home": "Macarthur FC",
       "away": "Melbourne City FC"
@@ -275,8 +269,14 @@
       "at": "27.11.2026 08:30"
     },
     {
+      "type": "kickoff",
+      "home": "Macarthur FC",
+      "away": "Melbourne City FC",
+      "at": "27.11.2026 08:40"
+    },
+    {
       "type": "analysis",
-      "count": 3089
+      "count": 3088
     }
   ],
   "today": {
@@ -317,18 +317,6 @@
       "picks": 3
     },
     {
-      "home": "Macarthur FC",
-      "away": "Melbourne City FC",
-      "league": "AVUS",
-      "date": "27.11.2026 08:40",
-      "matchCode": "4546763",
-      "odds": 1.2,
-      "patternScore": 67.48,
-      "patternText": "223.749/331.568",
-      "aiScore": 66,
-      "picks": 4
-    },
-    {
       "home": "Broadmeadow Ma",
       "away": "Queensland Lions",
       "league": "AVC",
@@ -350,6 +338,18 @@
       "patternScore": 69.67,
       "patternText": "240.341/344.952",
       "aiScore": 75,
+      "picks": 2
+    },
+    {
+      "home": "Ilves",
+      "away": "Turku",
+      "league": "HAZ",
+      "date": "27.11.2026 11:30",
+      "matchCode": "4583223",
+      "odds": 1.08,
+      "patternScore": 70.76,
+      "patternText": "300.966/425.363",
+      "aiScore": 95,
       "picks": 2
     }
   ],
