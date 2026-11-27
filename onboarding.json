@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 12:57",
+  "updatedAt": "27.11.2026 13:06",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 209,
-      "lost": 126,
-      "total": 335,
-      "rate": 62.4
+      "won": 206,
+      "lost": 115,
+      "total": 321,
+      "rate": 64.2
     },
-    "totalAnalyses": 932718,
+    "totalAnalyses": 932762,
     "leagues": 281,
     "pro": {
-      "won": 1780,
-      "lost": 673,
-      "total": 2453,
+      "won": 1763,
+      "lost": 667,
+      "total": 2430,
       "rate": 72.6
     },
     "insights": {
-      "won": 2963,
-      "lost": 1201,
-      "total": 4164,
-      "rate": 71.2
+      "won": 2939,
+      "lost": 1194,
+      "total": 4133,
+      "rate": 71.1
     },
     "coupons": {
       "won": 9,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3244,
-    "analyses30d": 17411
+    "analyses24h": 3228,
+    "analyses30d": 17408
   },
   "recentWins": [
     {
@@ -180,35 +180,6 @@
           "finalScore": "2 - 0"
         }
       ]
-    },
-    {
-      "size": 3,
-      "totalOdds": 1.52,
-      "winChance": 52.79,
-      "completedAt": "25.11.2026 13:01",
-      "legs": [
-        {
-          "home": "Nara Club",
-          "away": "Matsumoto Yamag",
-          "prediction": "Double Chance 12",
-          "odds": 1.13,
-          "finalScore": "2 - 1"
-        },
-        {
-          "home": "Avispa Fukuoka",
-          "away": "Yokohama F. Marinos",
-          "prediction": "Over 1.5 Goals",
-          "odds": 1.19,
-          "finalScore": "1 - 2"
-        },
-        {
-          "home": "Polonia Sroda",
-          "away": "Sokol Kleczew",
-          "prediction": "1st Half Double Chance 1X",
-          "odds": 1.13,
-          "finalScore": "2 - 1"
-        }
-      ]
     }
   ],
   "ticker": [
@@ -294,18 +265,30 @@
     }
   ],
   "today": {
-    "home": "Brezice",
-    "away": "Triglav Kranj",
-    "league": "SLVNK",
-    "date": "27.11.2026 16:00",
-    "matchCode": "4580090",
-    "odds": 1.51,
-    "patternScore": 67.63,
-    "patternText": "258.947/382.897",
+    "home": "FC Groningen",
+    "away": "Willem",
+    "league": "HOL",
+    "date": "27.11.2026 19:00",
+    "matchCode": "4481602",
+    "odds": 1.53,
+    "patternScore": 67.14,
+    "patternText": "273.632/407.535",
     "aiScore": 54,
-    "picks": 2
+    "picks": 8
   },
   "todayList": [
+    {
+      "home": "FC Groningen",
+      "away": "Willem",
+      "league": "HOL",
+      "date": "27.11.2026 19:00",
+      "matchCode": "4481602",
+      "odds": 1.53,
+      "patternScore": 67.14,
+      "patternText": "273.632/407.535",
+      "aiScore": 54,
+      "picks": 8
+    },
     {
       "home": "Brezice",
       "away": "Triglav Kranj",
@@ -353,18 +336,6 @@
       "patternText": "374.548/547.439",
       "aiScore": 55,
       "picks": 2
-    },
-    {
-      "home": "Stellenbosch FC",
-      "away": "TS Galaxy",
-      "league": "GAFPSL",
-      "date": "27.11.2026 17:30",
-      "matchCode": "4510608",
-      "odds": 1.34,
-      "patternScore": 68.2,
-      "patternText": "242.965/356.261",
-      "aiScore": 59,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
