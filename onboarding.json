@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 22:53",
+  "updatedAt": "27.11.2026 23:02",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 274,
-      "lost": 134,
-      "total": 408,
-      "rate": 67.2
+      "won": 277,
+      "lost": 130,
+      "total": 407,
+      "rate": 68.1
     },
-    "totalAnalyses": 934512,
+    "totalAnalyses": 934530,
     "leagues": 280,
     "pro": {
-      "won": 1757,
-      "lost": 673,
-      "total": 2430,
+      "won": 1763,
+      "lost": 674,
+      "total": 2437,
       "rate": 72.3
     },
     "insights": {
-      "won": 2898,
-      "lost": 1202,
-      "total": 4100,
+      "won": 2904,
+      "lost": 1203,
+      "total": 4107,
       "rate": 70.7
     },
     "coupons": {
@@ -47,7 +47,7 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3159,
+    "analyses24h": 3145,
     "analyses30d": 17554
   },
   "recentWins": [
@@ -261,6 +261,30 @@
       "picks": 9
     },
     {
+      "home": "FC Anyang",
+      "away": "Jeju United",
+      "league": "GKOR",
+      "date": "28.11.2026 05:00",
+      "matchCode": "4580572",
+      "odds": 1.39,
+      "patternScore": 68.73,
+      "patternText": "171.425/249.413",
+      "aiScore": 60,
+      "picks": 1
+    },
+    {
+      "home": "Kyoto Sanga FC",
+      "away": "Cerezo Osaka",
+      "league": "JAP",
+      "date": "28.11.2026 05:00",
+      "matchCode": "4487292",
+      "odds": 1.27,
+      "patternScore": 68.53,
+      "patternText": "313.589/457.593",
+      "aiScore": 63,
+      "picks": 2
+    },
+    {
       "home": "Club Sport Herediano",
       "away": "Liberia",
       "league": "KOSTA",
@@ -283,30 +307,6 @@
       "patternText": "275.462/398.698",
       "aiScore": 65,
       "picks": 2
-    },
-    {
-      "home": "Deportivo Cali",
-      "away": "Atletico Bucaramanga",
-      "league": "KOL",
-      "date": "27.11.2026 23:35",
-      "matchCode": "4582085",
-      "odds": 1.08,
-      "patternScore": 70.2,
-      "patternText": "198.681/283.027",
-      "aiScore": 98,
-      "picks": 1
-    },
-    {
-      "home": "Moron",
-      "away": "Colon Santa Fe",
-      "league": "ARJPBN",
-      "date": "28.11.2026 00:00",
-      "matchCode": "4581050",
-      "odds": 1.08,
-      "patternScore": 70.16,
-      "patternText": "201.111/286.649",
-      "aiScore": 93,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
