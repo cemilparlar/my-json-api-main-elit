@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 18:25",
+  "updatedAt": "27.11.2026 18:34",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 283,
       "rate": 60.8
     },
-    "totalAnalyses": 934138,
+    "totalAnalyses": 934152,
     "leagues": 280,
     "pro": {
-      "won": 1742,
-      "lost": 670,
-      "total": 2412,
-      "rate": 72.2
+      "won": 1737,
+      "lost": 667,
+      "total": 2404,
+      "rate": 72.3
     },
     "insights": {
-      "won": 2891,
-      "lost": 1206,
-      "total": 4097,
+      "won": 2880,
+      "lost": 1201,
+      "total": 4081,
       "rate": 70.6
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3289,
-    "analyses30d": 17592
+    "analyses24h": 3284,
+    "analyses30d": 17587
   },
   "recentWins": [
     {
@@ -229,12 +229,6 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 12:29",
-      "home": "FK Neftchi Baku",
-      "away": "FK Zira"
-    },
-    {
-      "type": "updated",
       "at": "27.11.2026 14:16",
       "home": "IMT Novi Beograd",
       "away": "FK Macva Sabac"
@@ -247,12 +241,6 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 12:31",
-      "home": "Alanyaspor",
-      "away": "Konyaspor"
-    },
-    {
-      "type": "updated",
       "at": "27.11.2026 16:03",
       "home": "Rakow Czestochowa",
       "away": "Piast Gliwice"
@@ -262,6 +250,18 @@
       "at": "27.11.2026 16:04",
       "home": "Gks Tychy",
       "away": "Chojniczanka Chojnice"
+    },
+    {
+      "type": "updated",
+      "at": "27.11.2026 16:05",
+      "home": "Al Ittihad Jeddah",
+      "away": "NEOM SC"
+    },
+    {
+      "type": "updated",
+      "at": "27.11.2026 16:05",
+      "home": "FC Heidenheim",
+      "away": "Nuremberg"
     }
   ],
   "today": {
@@ -290,42 +290,6 @@
       "picks": 2
     },
     {
-      "home": "Norwich City U21",
-      "away": "Chelsea U21",
-      "league": "INGPL2",
-      "date": "27.11.2026 19:00",
-      "matchCode": "4544174",
-      "odds": 1.76,
-      "patternScore": 67.66,
-      "patternText": "279.041/412.429",
-      "aiScore": 53,
-      "picks": 2
-    },
-    {
-      "home": "Jong Ajax",
-      "away": "Heracles Almelo",
-      "league": "HOL2",
-      "date": "27.11.2026 19:00",
-      "matchCode": "4481950",
-      "odds": 1.61,
-      "patternScore": 68.18,
-      "patternText": "197.895/290.251",
-      "aiScore": 55,
-      "picks": 5
-    },
-    {
-      "home": "Stade Brest",
-      "away": "Paris FC",
-      "league": "FR1",
-      "date": "27.11.2026 19:45",
-      "matchCode": "4476605",
-      "odds": 1.48,
-      "patternScore": 67.85,
-      "patternText": "253.138/373.075",
-      "aiScore": 55,
-      "picks": 4
-    },
-    {
       "home": "Southam",
       "away": "Middlesbrough",
       "league": "İNCL",
@@ -336,6 +300,42 @@
       "patternText": "168.194/250.041",
       "aiScore": 57,
       "picks": 6
+    },
+    {
+      "home": "Atlanta",
+      "away": "Ciudad De Bolív",
+      "league": "ARJPBN",
+      "date": "27.11.2026 22:00",
+      "matchCode": "4581052",
+      "odds": 1.31,
+      "patternScore": 68.01,
+      "patternText": "260.246/382.661",
+      "aiScore": 56,
+      "picks": 3
+    },
+    {
+      "home": "Nottingham Forest",
+      "away": "Chelsea",
+      "league": "İNP",
+      "date": "27.11.2026 20:00",
+      "matchCode": "4481129",
+      "odds": 1.31,
+      "patternScore": 67.89,
+      "patternText": "229.706/338.327",
+      "aiScore": 59,
+      "picks": 7
+    },
+    {
+      "home": "Stade Brest",
+      "away": "Paris FC",
+      "league": "FR1",
+      "date": "27.11.2026 19:45",
+      "matchCode": "4476605",
+      "odds": 1.28,
+      "patternScore": 68.71,
+      "patternText": "279.448/406.711",
+      "aiScore": 62,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
