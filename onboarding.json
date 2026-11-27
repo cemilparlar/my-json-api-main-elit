@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 22:35",
+  "updatedAt": "27.11.2026 22:44",
   "config": {
     "pages": [
       "engine",
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3160,
-    "analyses30d": 17555
+    "analyses24h": 3159,
+    "analyses30d": 17554
   },
   "recentWins": [
     {
@@ -268,7 +268,7 @@
       "matchCode": "4487124",
       "odds": 1.25,
       "patternScore": 68.84,
-      "patternText": "313.710/455.684",
+      "patternText": "313.714/455.688",
       "aiScore": 66,
       "picks": 1
     },
@@ -285,18 +285,6 @@
       "picks": 2
     },
     {
-      "home": "Preston Lions",
-      "away": "Apia",
-      "league": "AVC",
-      "date": "28.11.2026 04:00",
-      "matchCode": "4582336",
-      "odds": 1.12,
-      "patternScore": 70.51,
-      "patternText": "353.690/501.590",
-      "aiScore": 84,
-      "picks": 2
-    },
-    {
       "home": "Deportivo Cali",
       "away": "Atletico Bucaramanga",
       "league": "KOL",
@@ -304,8 +292,20 @@
       "matchCode": "4582085",
       "odds": 1.08,
       "patternScore": 70.2,
-      "patternText": "198.677/283.023",
+      "patternText": "198.681/283.027",
       "aiScore": 98,
+      "picks": 1
+    },
+    {
+      "home": "Moron",
+      "away": "Colon Santa Fe",
+      "league": "ARJPBN",
+      "date": "28.11.2026 00:00",
+      "matchCode": "4581050",
+      "odds": 1.08,
+      "patternScore": 70.16,
+      "patternText": "201.111/286.649",
+      "aiScore": 93,
       "picks": 1
     }
   ],
