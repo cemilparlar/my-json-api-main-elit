@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 17:26",
+  "updatedAt": "27.11.2026 17:38",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 235,
-      "lost": 145,
-      "total": 380,
-      "rate": 61.8
+      "won": 236,
+      "lost": 147,
+      "total": 383,
+      "rate": 61.6
     },
-    "totalAnalyses": 933876,
+    "totalAnalyses": 933912,
     "leagues": 280,
     "pro": {
-      "won": 1763,
-      "lost": 672,
-      "total": 2435,
-      "rate": 72.4
+      "won": 1753,
+      "lost": 670,
+      "total": 2423,
+      "rate": 72.3
     },
     "insights": {
-      "won": 2932,
-      "lost": 1210,
-      "total": 4142,
-      "rate": 70.8
+      "won": 2910,
+      "lost": 1208,
+      "total": 4118,
+      "rate": 70.7
     },
     "coupons": {
       "won": 9,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3315,
-    "analyses30d": 17524
+    "analyses24h": 3321,
+    "analyses30d": 17526
   },
   "recentWins": [
     {
@@ -74,7 +74,7 @@
       "odds": 2.18,
       "probability": 100.0,
       "patternScore": 55.81,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "1 - 1",
       "finalScore": "2 - 2",
       "pro": false
@@ -229,12 +229,6 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 11:29",
-      "home": "Al Kholood",
-      "away": "Al Khaleej"
-    },
-    {
-      "type": "updated",
       "at": "27.11.2026 12:29",
       "home": "FK Neftchi Baku",
       "away": "FK Zira"
@@ -262,6 +256,12 @@
       "at": "27.11.2026 16:03",
       "home": "Rakow Czestochowa",
       "away": "Piast Gliwice"
+    },
+    {
+      "type": "updated",
+      "at": "27.11.2026 16:04",
+      "home": "Gks Tychy",
+      "away": "Chojniczanka Chojnice"
     }
   ],
   "today": {
@@ -290,16 +290,28 @@
       "picks": 2
     },
     {
-      "home": "SonderjyskE",
-      "away": "Brondby IF",
-      "league": "DAN",
-      "date": "27.11.2026 18:00",
-      "matchCode": "4474530",
-      "odds": 2.08,
-      "patternScore": 67.57,
-      "patternText": "250.982/371.456",
-      "aiScore": 51,
-      "picks": 6
+      "home": "Norwich City U21",
+      "away": "Chelsea U21",
+      "league": "INGPL2",
+      "date": "27.11.2026 19:00",
+      "matchCode": "4544174",
+      "odds": 1.76,
+      "patternScore": 67.65,
+      "patternText": "278.975/412.353",
+      "aiScore": 53,
+      "picks": 2
+    },
+    {
+      "home": "Jong Ajax",
+      "away": "Heracles Almelo",
+      "league": "HOL2",
+      "date": "27.11.2026 19:00",
+      "matchCode": "4481950",
+      "odds": 1.61,
+      "patternScore": 68.18,
+      "patternText": "197.861/290.203",
+      "aiScore": 55,
+      "picks": 5
     },
     {
       "home": "Stade Brest",
@@ -310,7 +322,7 @@
       "odds": 1.48,
       "patternScore": 67.85,
       "patternText": "253.104/373.031",
-      "aiScore": 54,
+      "aiScore": 55,
       "picks": 4
     },
     {
@@ -319,46 +331,69 @@
       "league": "AL1",
       "date": "27.11.2026 19:30",
       "matchCode": "4495528",
-      "odds": 1.46,
+      "odds": 1.47,
       "patternScore": 66.82,
       "patternText": "188.946/282.788",
-      "aiScore": 55,
-      "picks": 4
-    },
-    {
-      "home": "Coleraine",
-      "away": "Dungannon",
-      "league": "KİRL",
-      "date": "27.11.2026 19:45",
-      "matchCode": "4486940",
-      "odds": 1.43,
-      "patternScore": 68.33,
-      "patternText": "239.942/351.132",
       "aiScore": 58,
-      "picks": 3
+      "picks": 12
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "CS Maritimo",
+      "away": "CD Nacional",
+      "league": "POR",
+      "at": "27.11.2026 17:35",
+      "count": 6
+    },
+    {
+      "home": "Southam",
+      "away": "Middlesbrough",
+      "league": "İNCL",
+      "at": "27.11.2026 17:34",
+      "count": 8
+    },
+    {
+      "home": "Levante UD",
+      "away": "Racing Santander",
+      "league": "İS1",
+      "at": "27.11.2026 17:33",
+      "count": 13
+    },
+    {
+      "home": "Nottingham Forest",
+      "away": "Chelsea",
+      "league": "İNP",
+      "at": "27.11.2026 17:32",
+      "count": 10
+    },
+    {
+      "home": "OH Leuven",
+      "away": "KV Kortrijk",
+      "league": "BEL",
+      "at": "27.11.2026 17:28",
+      "count": 5
+    },
+    {
+      "home": "Unione V.",
+      "away": "Bologna FC",
+      "league": "İTA",
+      "at": "27.11.2026 17:28",
+      "count": 7
+    },
+    {
+      "home": "Werder Bremen",
+      "away": "Borussia Monchengladbach",
+      "league": "AL1",
+      "at": "27.11.2026 17:27",
+      "count": 12
+    },
     {
       "home": "FC Groningen",
       "away": "Willem",
       "league": "HOL",
       "at": "27.11.2026 17:14",
       "count": 15
-    },
-    {
-      "home": "Levante UD",
-      "away": "Racing Santander",
-      "league": "İS1",
-      "at": "27.11.2026 16:17",
-      "count": 11
-    },
-    {
-      "home": "CS Maritimo",
-      "away": "CD Nacional",
-      "league": "POR",
-      "at": "27.11.2026 16:17",
-      "count": 5
     },
     {
       "home": "Stade Brest",
@@ -368,46 +403,11 @@
       "count": 10
     },
     {
-      "home": "Nottingham Forest",
-      "away": "Chelsea",
-      "league": "İNP",
-      "at": "27.11.2026 16:16",
-      "count": 6
-    },
-    {
-      "home": "Unione V.",
-      "away": "Bologna FC",
-      "league": "İTA",
-      "at": "27.11.2026 16:15",
-      "count": 5
-    },
-    {
-      "home": "Werder Bremen",
-      "away": "Borussia Monchengladbach",
-      "league": "AL1",
-      "at": "27.11.2026 16:10",
-      "count": 5
-    },
-    {
       "home": "FC Heidenheim",
       "away": "Nuremberg",
       "league": "AL2",
       "at": "27.11.2026 16:05",
       "count": 10
-    },
-    {
-      "home": "Bochum",
-      "away": "SV Darmstadt 98",
-      "league": "AL2",
-      "at": "27.11.2026 16:05",
-      "count": 7
-    },
-    {
-      "home": "OH Leuven",
-      "away": "KV Kortrijk",
-      "league": "BEL",
-      "at": "27.11.2026 15:13",
-      "count": 6
     }
   ],
   "paywall": {
