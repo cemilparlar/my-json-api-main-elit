@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 10:59",
+  "updatedAt": "27.11.2026 11:07",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 231,
+      "won": 230,
       "lost": 140,
-      "total": 371,
-      "rate": 62.3
+      "total": 370,
+      "rate": 62.2
     },
-    "totalAnalyses": 932365,
+    "totalAnalyses": 932368,
     "leagues": 281,
     "pro": {
       "won": 1805,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3216,
-    "analyses30d": 17352
+    "analyses24h": 3214,
+    "analyses30d": 17351
   },
   "recentWins": [
     {
@@ -301,7 +301,7 @@
     "matchCode": "4447670",
     "odds": 1.99,
     "patternScore": 66.58,
-    "patternText": "162.506/244.077",
+    "patternText": "162.530/244.105",
     "aiScore": 52,
     "picks": 3
   },
@@ -314,7 +314,7 @@
       "matchCode": "4447670",
       "odds": 1.99,
       "patternScore": 66.58,
-      "patternText": "162.506/244.077",
+      "patternText": "162.530/244.105",
       "aiScore": 52,
       "picks": 3
     },
@@ -326,7 +326,7 @@
       "matchCode": "4527332",
       "odds": 1.59,
       "patternScore": 68.74,
-      "patternText": "212.262/308.802",
+      "patternText": "212.270/308.822",
       "aiScore": 54,
       "picks": 3
     },
@@ -338,21 +338,9 @@
       "matchCode": "4580090",
       "odds": 1.51,
       "patternScore": 67.63,
-      "patternText": "258.933/382.865",
+      "patternText": "258.941/382.885",
       "aiScore": 54,
       "picks": 2
-    },
-    {
-      "home": "Shams Azar Qaz",
-      "away": "Kheybar Khorram",
-      "league": "IRAN",
-      "date": "27.11.2026 11:30",
-      "matchCode": "4580243",
-      "odds": 1.49,
-      "patternScore": 68.81,
-      "patternText": "220.227/320.061",
-      "aiScore": 55,
-      "picks": 3
     },
     {
       "home": "FC Vysocina Jihlava",
@@ -362,9 +350,21 @@
       "matchCode": "4504146",
       "odds": 1.32,
       "patternScore": 68.64,
-      "patternText": "377.272/549.612",
+      "patternText": "377.280/549.640",
       "aiScore": 58,
       "picks": 2
+    },
+    {
+      "home": "Celik",
+      "away": "Bsk Banja Luka",
+      "league": "BOSN",
+      "date": "27.11.2026 17:00",
+      "matchCode": "4550897",
+      "odds": 1.26,
+      "patternScore": 67.84,
+      "patternText": "235.313/346.865",
+      "aiScore": 59,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
