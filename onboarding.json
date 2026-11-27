@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 03:15",
+  "updatedAt": "27.11.2026 03:37",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 358,
       "rate": 61.2
     },
-    "totalAnalyses": 931602,
+    "totalAnalyses": 931613,
     "leagues": 281,
     "pro": {
       "won": 1811,
@@ -258,12 +258,6 @@
     },
     {
       "type": "updated",
-      "at": "26.11.2026 21:29",
-      "home": "Sao Paulo FC",
-      "away": "Remo"
-    },
-    {
-      "type": "updated",
       "at": "26.11.2026 23:38",
       "home": "Club Atletico Torque",
       "away": "Club Nacional de Football"
@@ -311,6 +305,18 @@
       "picks": 3
     },
     {
+      "home": "Universitatea Craiova",
+      "away": "Sepsi OSK",
+      "league": "ROM",
+      "date": "27.11.2026 15:30",
+      "matchCode": "4501666",
+      "odds": 1.6,
+      "patternScore": 68.03,
+      "patternText": "226.723/333.281",
+      "aiScore": 53,
+      "picks": 2
+    },
+    {
       "home": "Al-Sailiya",
       "away": "Al Gharafa",
       "league": "KAT",
@@ -332,18 +338,6 @@
       "patternScore": 68.8,
       "patternText": "220.149/319.963",
       "aiScore": 55,
-      "picks": 3
-    },
-    {
-      "home": "East Riffa",
-      "away": "Al Ittifaq Maqa",
-      "league": "BAH",
-      "date": "27.11.2026 15:00",
-      "matchCode": "4581082",
-      "odds": 1.48,
-      "patternScore": 68.62,
-      "patternText": "229.852/334.978",
-      "aiScore": 56,
       "picks": 3
     }
   ],
