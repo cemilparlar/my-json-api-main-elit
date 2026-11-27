@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "26.11.2026 23:59",
+  "updatedAt": "27.11.2026 00:09",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 233,
-      "lost": 137,
-      "total": 370,
-      "rate": 63.0
+      "won": 221,
+      "lost": 133,
+      "total": 354,
+      "rate": 62.4
     },
-    "totalAnalyses": 931171,
+    "totalAnalyses": 931278,
     "leagues": 281,
     "pro": {
       "won": 1813,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2856,
-    "analyses30d": 16957
+    "analyses24h": 2940,
+    "analyses30d": 17057
   },
   "recentWins": [
     {
@@ -319,18 +319,6 @@
       "picks": 6
     },
     {
-      "home": "Club Atletico Torque",
-      "away": "Club Nacional de Football",
-      "league": "URUK",
-      "date": "27.11.2026 00:30",
-      "matchCode": "4580384",
-      "odds": 1.14,
-      "patternScore": 70.34,
-      "patternText": "269.905/383.726",
-      "aiScore": 79,
-      "picks": 1
-    },
-    {
       "home": "Shams Azar Qaz",
       "away": "Kheybar Khorram",
       "league": "IRAN",
@@ -365,77 +353,89 @@
       "patternText": "148.888/217.468",
       "aiScore": 66,
       "picks": 1
+    },
+    {
+      "home": "Broadmeadow Ma",
+      "away": "Queensland Lions",
+      "league": "AVC",
+      "date": "27.11.2026 08:30",
+      "matchCode": "4582335",
+      "odds": 1.18,
+      "patternScore": 69.45,
+      "patternText": "113.156/162.926",
+      "aiScore": 72,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
     {
-      "home": "Vitoria Bahia",
-      "away": "FC Santos",
+      "home": "Sport Club Internacional",
+      "away": "Red Bull Bragantino",
       "league": "BR1",
-      "at": "26.11.2026 23:59",
-      "count": 5
-    },
-    {
-      "home": "SS Arezzo",
-      "away": "AC Pisa",
-      "league": "İTB",
-      "at": "26.11.2026 23:57",
-      "count": 5
-    },
-    {
-      "home": "Borussia Dortmund",
-      "away": "Bayer Leverkusen",
-      "league": "AL1",
-      "at": "26.11.2026 23:56",
-      "count": 11
-    },
-    {
-      "home": "Union St.G",
-      "away": "KAA Gent",
-      "league": "BEL",
-      "at": "26.11.2026 23:55",
+      "at": "27.11.2026 00:06",
       "count": 7
     },
     {
-      "home": "Gil Vicente FC",
-      "away": "Estoril Praia",
-      "league": "POR",
-      "at": "26.11.2026 23:55",
-      "count": 6
+      "home": "Mirassol FC",
+      "away": "Atletico Paranaense",
+      "league": "BR1",
+      "at": "27.11.2026 00:06",
+      "count": 8
     },
     {
-      "home": "Cadiz CF",
-      "away": "Cordoba CF",
+      "home": "SC Corinthians",
+      "away": "Gremio FBPA",
+      "league": "BR1",
+      "at": "27.11.2026 00:06",
+      "count": 4
+    },
+    {
+      "home": "FC Porto",
+      "away": "Sporting CP",
+      "league": "POR",
+      "at": "27.11.2026 00:04",
+      "count": 7
+    },
+    {
+      "home": "UD Almeria",
+      "away": "Sporting Gijon",
       "league": "İS2",
-      "at": "26.11.2026 23:54",
+      "at": "27.11.2026 00:03",
+      "count": 4
+    },
+    {
+      "home": "Real Sociedad",
+      "away": "Sevilla FC",
+      "league": "İS1",
+      "at": "27.11.2026 00:02",
+      "count": 8
+    },
+    {
+      "home": "Olympique Lyonnais",
+      "away": "AS Monaco",
+      "league": "FR1",
+      "at": "27.11.2026 00:01",
+      "count": 5
+    },
+    {
+      "home": "Como 1907",
+      "away": "Juventus",
+      "league": "İTA",
+      "at": "27.11.2026 00:00",
+      "count": 7
+    },
+    {
+      "home": "NEC Nijmegen",
+      "away": "FC Twente",
+      "league": "HOL",
+      "at": "27.11.2026 00:00",
       "count": 10
     },
     {
-      "home": "Standard Liege",
-      "away": "Club Brugge",
-      "league": "BEL",
-      "at": "26.11.2026 23:53",
-      "count": 12
-    },
-    {
-      "home": "Celta de Vigo",
-      "away": "Villarreal CF",
-      "league": "İS1",
-      "at": "26.11.2026 23:52",
-      "count": 9
-    },
-    {
-      "home": "Lokomotiv Moscow",
-      "away": "FC Makhachkala",
-      "league": "RUS",
-      "at": "26.11.2026 23:49",
-      "count": 7
-    },
-    {
-      "home": "Arsenal",
-      "away": "Manchester City",
-      "league": "İNP",
-      "at": "26.11.2026 23:47",
+      "home": "Coritiba FBC",
+      "away": "CR Flamengo",
+      "league": "BR1",
+      "at": "26.11.2026 23:59",
       "count": 5
     }
   ],
