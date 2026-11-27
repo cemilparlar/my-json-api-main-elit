@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 04:55",
+  "updatedAt": "27.11.2026 05:04",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 366,
       "rate": 61.7
     },
-    "totalAnalyses": 931647,
+    "totalAnalyses": 931665,
     "leagues": 281,
     "pro": {
       "won": 1814,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3077,
-    "analyses30d": 17207
+    "analyses24h": 3087,
+    "analyses30d": 17217
   },
   "recentWins": [
     {
@@ -257,8 +257,14 @@
       "away": "Club Nacional de Football"
     },
     {
+      "type": "updated",
+      "at": "27.11.2026 04:58",
+      "home": "Macarthur FC",
+      "away": "Melbourne City FC"
+    },
+    {
       "type": "analysis",
-      "count": 3077
+      "count": 3087
     }
   ],
   "today": {
@@ -299,6 +305,18 @@
       "picks": 3
     },
     {
+      "home": "Nam Dinh FC",
+      "away": "Cand",
+      "league": "VİET",
+      "date": "27.11.2026 11:00",
+      "matchCode": "4551363",
+      "odds": 1.13,
+      "patternScore": 70.36,
+      "patternText": "295.613/420.118",
+      "aiScore": 85,
+      "picks": 2
+    },
+    {
       "home": "Universitatea Craiova",
       "away": "Sepsi OSK",
       "league": "ROM",
@@ -321,18 +339,6 @@
       "patternText": "255.110/377.021",
       "aiScore": 54,
       "picks": 4
-    },
-    {
-      "home": "Brezice",
-      "away": "Triglav Kranj",
-      "league": "SLVNK",
-      "date": "27.11.2026 16:00",
-      "matchCode": "4580090",
-      "odds": 1.51,
-      "patternScore": 67.63,
-      "patternText": "258.893/382.785",
-      "aiScore": 54,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
