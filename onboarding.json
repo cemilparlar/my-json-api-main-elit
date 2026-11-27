@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 08:12",
+  "updatedAt": "27.11.2026 08:21",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 373,
       "rate": 61.9
     },
-    "totalAnalyses": 932072,
+    "totalAnalyses": 932080,
     "leagues": 281,
     "pro": {
       "won": 1819,
@@ -343,6 +343,18 @@
       "picks": 3
     },
     {
+      "home": "Shkendija Hara",
+      "away": "Bregalnica Stip",
+      "league": "MAKE1",
+      "date": "27.11.2026 11:00",
+      "matchCode": "4477289",
+      "odds": 1.23,
+      "patternScore": 68.28,
+      "patternText": "221.474/324.362",
+      "aiScore": 64,
+      "picks": 3
+    },
+    {
       "home": "Tanta FC",
       "away": "El Mansoura",
       "league": "MSR2",
@@ -353,18 +365,6 @@
       "patternText": "303.674/434.013",
       "aiScore": 69,
       "picks": 1
-    },
-    {
-      "home": "FK SLNA Nitra",
-      "away": "Phu Dong FC",
-      "league": "VİET",
-      "date": "27.11.2026 11:00",
-      "matchCode": "4551362",
-      "odds": 1.17,
-      "patternScore": 70.23,
-      "patternText": "291.895/415.639",
-      "aiScore": 70,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
