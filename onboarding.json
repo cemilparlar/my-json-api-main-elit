@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 06:44",
+  "updatedAt": "27.11.2026 06:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 375,
       "rate": 61.6
     },
-    "totalAnalyses": 931777,
+    "totalAnalyses": 931799,
     "leagues": 281,
     "pro": {
       "won": 1819,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3089,
-    "analyses30d": 17219
+    "analyses24h": 3107,
+    "analyses30d": 17237
   },
   "recentWins": [
     {
@@ -252,7 +252,7 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 06:28",
+      "at": "27.11.2026 06:46",
       "home": "Macarthur FC",
       "away": "Melbourne City FC"
     },
@@ -270,6 +270,18 @@
     },
     {
       "type": "updated",
+      "at": "27.11.2026 06:49",
+      "home": "Tanta FC",
+      "away": "El Mansoura"
+    },
+    {
+      "type": "updated",
+      "at": "27.11.2026 06:51",
+      "home": "Uljanik",
+      "away": "Nk Koprivnica"
+    },
+    {
+      "type": "updated",
       "at": "27.11.2026 06:29",
       "home": "Malisheva",
       "away": "Llapi"
@@ -279,18 +291,6 @@
       "at": "27.11.2026 06:30",
       "home": "Tadamon Sour",
       "away": "Al Ahed"
-    },
-    {
-      "type": "updated",
-      "at": "27.11.2026 06:31",
-      "home": "Al Qotah",
-      "away": "Al-Qwarah"
-    },
-    {
-      "type": "updated",
-      "at": "27.11.2026 06:31",
-      "home": "Al-Qalah",
-      "away": "Al Taraji"
     }
   ],
   "today": {
@@ -317,6 +317,18 @@
       "patternText": "220.209/320.043",
       "aiScore": 55,
       "picks": 3
+    },
+    {
+      "home": "Gulf United",
+      "away": "Palm City 365",
+      "league": "BAE2",
+      "date": "27.11.2026 12:45",
+      "matchCode": "4574645",
+      "odds": 1.29,
+      "patternScore": 68.0,
+      "patternText": "212.127/311.932",
+      "aiScore": 62,
+      "picks": 2
     },
     {
       "home": "Peykan",
@@ -353,18 +365,6 @@
       "patternText": "237.147/345.116",
       "aiScore": 69,
       "picks": 1
-    },
-    {
-      "home": "Ethiopia Bunna",
-      "away": "Halaba Ketema",
-      "league": "ETH",
-      "date": "27.11.2026 12:30",
-      "matchCode": "4571963",
-      "odds": 1.19,
-      "patternScore": 70.22,
-      "patternText": "283.902/404.286",
-      "aiScore": 71,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
