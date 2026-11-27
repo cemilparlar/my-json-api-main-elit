@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 00:40",
+  "updatedAt": "27.11.2026 00:48",
   "config": {
     "pages": [
       "engine",
@@ -30,15 +30,15 @@
     "totalAnalyses": 931451,
     "leagues": 281,
     "pro": {
-      "won": 1809,
+      "won": 1807,
       "lost": 685,
-      "total": 2494,
+      "total": 2492,
       "rate": 72.5
     },
     "insights": {
-      "won": 3001,
+      "won": 2997,
       "lost": 1212,
-      "total": 4213,
+      "total": 4209,
       "rate": 71.2
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3091,
-    "analyses30d": 17208
+    "analyses24h": 3081,
+    "analyses30d": 17198
   },
   "recentWins": [
     {
@@ -102,7 +102,7 @@
       "odds": 2.18,
       "probability": 100.0,
       "patternScore": 55.81,
-      "aiScore": 51,
+      "aiScore": 52,
       "firstHalf": "1 - 1",
       "finalScore": "2 - 2",
       "pro": false
@@ -301,7 +301,7 @@
     "matchCode": "4582339",
     "odds": 1.54,
     "patternScore": 68.06,
-    "patternText": "202.174/297.058",
+    "patternText": "202.174/297.066",
     "aiScore": 53,
     "picks": 6
   },
@@ -314,7 +314,7 @@
       "matchCode": "4582339",
       "odds": 1.54,
       "patternScore": 68.06,
-      "patternText": "202.174/297.058",
+      "patternText": "202.174/297.066",
       "aiScore": 53,
       "picks": 6
     },
@@ -326,9 +326,21 @@
       "matchCode": "4580243",
       "odds": 1.49,
       "patternScore": 68.81,
-      "patternText": "220.125/319.913",
+      "patternText": "220.125/319.921",
       "aiScore": 55,
       "picks": 3
+    },
+    {
+      "home": "Gulf United",
+      "away": "Palm City 365",
+      "league": "BAE2",
+      "date": "27.11.2026 12:45",
+      "matchCode": "4574645",
+      "odds": 1.29,
+      "patternScore": 68.01,
+      "patternText": "212.059/311.822",
+      "aiScore": 62,
+      "picks": 2
     },
     {
       "home": "Peykan",
@@ -338,7 +350,7 @@
       "matchCode": "4580242",
       "odds": 1.23,
       "patternScore": 68.72,
-      "patternText": "219.997/320.136",
+      "patternText": "219.997/320.148",
       "aiScore": 66,
       "picks": 3
     },
@@ -350,20 +362,8 @@
       "matchCode": "4572693",
       "odds": 1.23,
       "patternScore": 68.46,
-      "patternText": "148.888/217.468",
+      "patternText": "148.888/217.484",
       "aiScore": 66,
-      "picks": 1
-    },
-    {
-      "home": "Tanta FC",
-      "away": "El Mansoura",
-      "league": "MSR2",
-      "date": "27.11.2026 12:30",
-      "matchCode": "4538133",
-      "odds": 1.21,
-      "patternScore": 68.72,
-      "patternText": "237.071/344.994",
-      "aiScore": 69,
       "picks": 1
     }
   ],
