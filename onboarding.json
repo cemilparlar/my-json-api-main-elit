@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 00:28",
+  "updatedAt": "27.11.2026 00:40",
   "config": {
     "pages": [
       "engine",
@@ -23,23 +23,23 @@
     "days": 7,
     "last24h": {
       "won": 221,
-      "lost": 133,
-      "total": 354,
-      "rate": 62.4
+      "lost": 135,
+      "total": 356,
+      "rate": 62.1
     },
-    "totalAnalyses": 931336,
+    "totalAnalyses": 931451,
     "leagues": 281,
     "pro": {
-      "won": 1813,
-      "lost": 683,
-      "total": 2496,
-      "rate": 72.6
+      "won": 1809,
+      "lost": 685,
+      "total": 2494,
+      "rate": 72.5
     },
     "insights": {
-      "won": 3007,
-      "lost": 1210,
-      "total": 4217,
-      "rate": 71.3
+      "won": 3001,
+      "lost": 1212,
+      "total": 4213,
+      "rate": 71.2
     },
     "coupons": {
       "won": 9,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 2984,
-    "analyses30d": 17101
+    "analyses24h": 3091,
+    "analyses30d": 17208
   },
   "recentWins": [
     {
@@ -355,19 +355,75 @@
       "picks": 1
     },
     {
-      "home": "Broadmeadow Ma",
-      "away": "Queensland Lions",
-      "league": "AVC",
-      "date": "27.11.2026 08:30",
-      "matchCode": "4582335",
-      "odds": 1.18,
-      "patternScore": 69.45,
-      "patternText": "113.156/162.926",
-      "aiScore": 72,
-      "picks": 3
+      "home": "Tanta FC",
+      "away": "El Mansoura",
+      "league": "MSR2",
+      "date": "27.11.2026 12:30",
+      "matchCode": "4538133",
+      "odds": 1.21,
+      "patternScore": 68.72,
+      "patternText": "237.071/344.994",
+      "aiScore": 69,
+      "picks": 1
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "RCD Espanyol",
+      "away": "Getafe CF",
+      "league": "İS1",
+      "at": "27.11.2026 00:38",
+      "count": 12
+    },
+    {
+      "home": "Cagliari Calcio",
+      "away": "AC Milan",
+      "league": "İTA",
+      "at": "27.11.2026 00:36",
+      "count": 8
+    },
+    {
+      "home": "Real Oviedo",
+      "away": "Celta Vigo B",
+      "league": "İS2",
+      "at": "27.11.2026 00:36",
+      "count": 6
+    },
+    {
+      "home": "US Catanzaro",
+      "away": "US Avellino",
+      "league": "İTB",
+      "at": "27.11.2026 00:35",
+      "count": 6
+    },
+    {
+      "home": "Besiktas",
+      "away": "Galatasaray",
+      "league": "TSL",
+      "at": "27.11.2026 00:32",
+      "count": 17
+    },
+    {
+      "home": "US Lecce",
+      "away": "Atalanta",
+      "league": "İTA",
+      "at": "27.11.2026 00:31",
+      "count": 6
+    },
+    {
+      "home": "FK Fakel Voronezh",
+      "away": "Spartak Moscow",
+      "league": "RUS",
+      "at": "27.11.2026 00:30",
+      "count": 9
+    },
+    {
+      "home": "Goztepe",
+      "away": "Trabzonspor",
+      "league": "TSL",
+      "at": "27.11.2026 00:29",
+      "count": 6
+    },
     {
       "home": "VfB Stuttgart",
       "away": "Eintracht Frankfurt",
@@ -381,62 +437,6 @@
       "league": "BR1",
       "at": "27.11.2026 00:06",
       "count": 7
-    },
-    {
-      "home": "Mirassol FC",
-      "away": "Atletico Paranaense",
-      "league": "BR1",
-      "at": "27.11.2026 00:06",
-      "count": 8
-    },
-    {
-      "home": "SC Corinthians",
-      "away": "Gremio FBPA",
-      "league": "BR1",
-      "at": "27.11.2026 00:06",
-      "count": 4
-    },
-    {
-      "home": "FC Porto",
-      "away": "Sporting CP",
-      "league": "POR",
-      "at": "27.11.2026 00:04",
-      "count": 7
-    },
-    {
-      "home": "UD Almeria",
-      "away": "Sporting Gijon",
-      "league": "İS2",
-      "at": "27.11.2026 00:03",
-      "count": 4
-    },
-    {
-      "home": "Real Sociedad",
-      "away": "Sevilla FC",
-      "league": "İS1",
-      "at": "27.11.2026 00:02",
-      "count": 8
-    },
-    {
-      "home": "Olympique Lyonnais",
-      "away": "AS Monaco",
-      "league": "FR1",
-      "at": "27.11.2026 00:01",
-      "count": 5
-    },
-    {
-      "home": "Como 1907",
-      "away": "Juventus",
-      "league": "İTA",
-      "at": "27.11.2026 00:00",
-      "count": 7
-    },
-    {
-      "home": "NEC Nijmegen",
-      "away": "FC Twente",
-      "league": "HOL",
-      "at": "27.11.2026 00:00",
-      "count": 10
     }
   ],
   "paywall": {
