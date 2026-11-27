@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 19:23",
+  "updatedAt": "27.11.2026 19:32",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 217,
-      "lost": 126,
-      "total": 343,
-      "rate": 63.3
+      "won": 233,
+      "lost": 129,
+      "total": 362,
+      "rate": 64.4
     },
-    "totalAnalyses": 934200,
+    "totalAnalyses": 934248,
     "leagues": 280,
     "pro": {
-      "won": 1719,
-      "lost": 666,
-      "total": 2385,
-      "rate": 72.1
+      "won": 1713,
+      "lost": 661,
+      "total": 2374,
+      "rate": 72.2
     },
     "insights": {
-      "won": 2857,
-      "lost": 1194,
-      "total": 4051,
-      "rate": 70.5
+      "won": 2847,
+      "lost": 1184,
+      "total": 4031,
+      "rate": 70.6
     },
     "coupons": {
       "won": 9,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3277,
-    "analyses30d": 17571
+    "analyses24h": 3274,
+    "analyses30d": 17566
   },
   "recentWins": [
     {
@@ -272,7 +272,7 @@
     "matchCode": "4533182",
     "odds": 2.31,
     "patternScore": 68.08,
-    "patternText": "277.000/406.890",
+    "patternText": "277.006/406.902",
     "aiScore": 52,
     "picks": 2
   },
@@ -285,21 +285,9 @@
       "matchCode": "4533182",
       "odds": 2.31,
       "patternScore": 68.08,
-      "patternText": "277.000/406.890",
+      "patternText": "277.006/406.902",
       "aiScore": 52,
       "picks": 2
-    },
-    {
-      "home": "Southam",
-      "away": "Middlesbrough",
-      "league": "İNCL",
-      "date": "27.11.2026 20:00",
-      "matchCode": "4488892",
-      "odds": 1.41,
-      "patternScore": 67.27,
-      "patternText": "168.320/250.217",
-      "aiScore": 57,
-      "picks": 6
     },
     {
       "home": "Atlanta",
@@ -309,21 +297,9 @@
       "matchCode": "4581052",
       "odds": 1.31,
       "patternScore": 68.01,
-      "patternText": "260.324/382.761",
+      "patternText": "260.330/382.773",
       "aiScore": 56,
       "picks": 3
-    },
-    {
-      "home": "Nottingham Forest",
-      "away": "Chelsea",
-      "league": "İNP",
-      "date": "27.11.2026 20:00",
-      "matchCode": "4481129",
-      "odds": 1.31,
-      "patternScore": 67.9,
-      "patternText": "229.956/338.651",
-      "aiScore": 59,
-      "picks": 7
     },
     {
       "home": "Fluminense FC",
@@ -333,12 +309,43 @@
       "matchCode": "4423389",
       "odds": 1.27,
       "patternScore": 68.22,
-      "patternText": "194.832/285.581",
+      "patternText": "194.832/285.583",
       "aiScore": 62,
       "picks": 7
+    },
+    {
+      "home": "Vila Nova",
+      "away": "Atletico Goiani",
+      "league": "BR2",
+      "date": "27.11.2026 23:00",
+      "matchCode": "4581386",
+      "odds": 1.18,
+      "patternScore": 69.06,
+      "patternText": "278.243/402.875",
+      "aiScore": 75,
+      "picks": 3
+    },
+    {
+      "home": "CS Maritimo",
+      "away": "CD Nacional",
+      "league": "POR",
+      "date": "27.11.2026 20:15",
+      "matchCode": "4517058",
+      "odds": 1.18,
+      "patternScore": 68.39,
+      "patternText": "146.250/213.833",
+      "aiScore": 84,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Columbus Crew",
+      "away": "Inter Miami CF",
+      "league": "ABD",
+      "at": "27.11.2026 19:31",
+      "count": 4
+    },
     {
       "home": "Levante UD",
       "away": "Racing Santander",
@@ -401,13 +408,6 @@
       "league": "AL1",
       "at": "27.11.2026 18:16",
       "count": 17
-    },
-    {
-      "home": "Fluminense FC",
-      "away": "Cruzeiro EC",
-      "league": "BR1",
-      "at": "27.11.2026 18:06",
-      "count": 8
     }
   ],
   "paywall": {
