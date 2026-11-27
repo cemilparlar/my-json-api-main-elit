@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 00:56",
+  "updatedAt": "27.11.2026 01:06",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 221,
-      "lost": 135,
-      "total": 356,
-      "rate": 62.1
+      "won": 218,
+      "lost": 134,
+      "total": 352,
+      "rate": 61.9
     },
-    "totalAnalyses": 931451,
+    "totalAnalyses": 931455,
     "leagues": 281,
     "pro": {
       "won": 1807,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3081,
-    "analyses30d": 17198
+    "analyses24h": 3077,
+    "analyses30d": 17196
   },
   "recentWins": [
     {
@@ -319,6 +319,18 @@
       "picks": 6
     },
     {
+      "home": "Al-Sailiya",
+      "away": "Al Gharafa",
+      "league": "KAT",
+      "date": "27.11.2026 13:00",
+      "matchCode": "4536761",
+      "odds": 1.52,
+      "patternScore": 67.66,
+      "patternText": "255.040/376.925",
+      "aiScore": 54,
+      "picks": 4
+    },
+    {
       "home": "Shams Azar Qaz",
       "away": "Kheybar Khorram",
       "league": "IRAN",
@@ -353,18 +365,6 @@
       "patternText": "219.997/320.148",
       "aiScore": 66,
       "picks": 3
-    },
-    {
-      "home": "Al Sahel",
-      "away": "Hottain",
-      "league": "SUUD2",
-      "date": "27.11.2026 11:50",
-      "matchCode": "4572693",
-      "odds": 1.23,
-      "patternScore": 68.46,
-      "patternText": "148.888/217.484",
-      "aiScore": 66,
-      "picks": 1
     }
   ],
   "recentAnalyzed": [
