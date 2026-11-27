@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 20:16",
+  "updatedAt": "27.11.2026 20:24",
   "config": {
     "pages": [
       "engine",
@@ -229,12 +229,6 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 14:16",
-      "home": "IMT Novi Beograd",
-      "away": "FK Macva Sabac"
-    },
-    {
-      "type": "updated",
       "at": "27.11.2026 15:07",
       "home": "Lokomotiv Sofia",
       "away": "FC Slavia Sofia"
@@ -262,6 +256,12 @@
       "at": "27.11.2026 16:05",
       "home": "FC Heidenheim",
       "away": "Nuremberg"
+    },
+    {
+      "type": "updated",
+      "at": "27.11.2026 16:05",
+      "home": "Bochum",
+      "away": "SV Darmstadt 98"
     }
   ],
   "today": {
@@ -290,30 +290,6 @@
       "picks": 2
     },
     {
-      "home": "Club Sport Herediano",
-      "away": "Liberia",
-      "league": "KOSTA",
-      "date": "28.11.2026 02:00",
-      "matchCode": "4487124",
-      "odds": 1.74,
-      "patternScore": 65.2,
-      "patternText": "322.794/495.108",
-      "aiScore": 53,
-      "picks": 1
-    },
-    {
-      "home": "Atlanta",
-      "away": "Ciudad De Bolív",
-      "league": "ARJPBN",
-      "date": "27.11.2026 22:00",
-      "matchCode": "4581052",
-      "odds": 1.31,
-      "patternScore": 68.01,
-      "patternText": "260.372/382.827",
-      "aiScore": 56,
-      "picks": 3
-    },
-    {
       "home": "Fluminense FC",
       "away": "Cruzeiro EC",
       "league": "BR1",
@@ -326,6 +302,18 @@
       "picks": 7
     },
     {
+      "home": "Club Sport Herediano",
+      "away": "Liberia",
+      "league": "KOSTA",
+      "date": "28.11.2026 02:00",
+      "matchCode": "4487124",
+      "odds": 1.25,
+      "patternScore": 68.84,
+      "patternText": "313.532/455.432",
+      "aiScore": 66,
+      "picks": 1
+    },
+    {
       "home": "Los Millionarios",
       "away": "America de Cali",
       "league": "KOL",
@@ -336,6 +324,18 @@
       "patternText": "275.342/398.522",
       "aiScore": 65,
       "picks": 2
+    },
+    {
+      "home": "Vila Nova",
+      "away": "Atletico Goiani",
+      "league": "BR2",
+      "date": "27.11.2026 23:00",
+      "matchCode": "4581386",
+      "odds": 1.18,
+      "patternScore": 69.06,
+      "patternText": "278.289/402.941",
+      "aiScore": 75,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
