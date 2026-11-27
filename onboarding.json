@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 05:46",
+  "updatedAt": "27.11.2026 05:54",
   "config": {
     "pages": [
       "engine",
@@ -36,9 +36,9 @@
       "rate": 72.4
     },
     "insights": {
-      "won": 3016,
+      "won": 3015,
       "lost": 1226,
-      "total": 4242,
+      "total": 4241,
       "rate": 71.1
     },
     "coupons": {
@@ -317,6 +317,18 @@
       "picks": 3
     },
     {
+      "home": "Al Sahel",
+      "away": "Hottain",
+      "league": "SUUD2",
+      "date": "27.11.2026 11:50",
+      "matchCode": "4572693",
+      "odds": 1.23,
+      "patternScore": 68.45,
+      "patternText": "148.980/217.636",
+      "aiScore": 66,
+      "picks": 1
+    },
+    {
       "home": "Broadmeadow Ma",
       "away": "Queensland Lions",
       "league": "AVC",
@@ -338,18 +350,6 @@
       "patternScore": 69.67,
       "patternText": "240.341/344.952",
       "aiScore": 75,
-      "picks": 2
-    },
-    {
-      "home": "Ilves",
-      "away": "Turku",
-      "league": "HAZ",
-      "date": "27.11.2026 11:30",
-      "matchCode": "4583223",
-      "odds": 1.08,
-      "patternScore": 70.76,
-      "patternText": "300.966/425.363",
-      "aiScore": 95,
       "picks": 2
     }
   ],
