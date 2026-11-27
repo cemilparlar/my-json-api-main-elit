@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 19:58",
+  "updatedAt": "27.11.2026 20:07",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 238,
-      "lost": 130,
-      "total": 368,
-      "rate": 64.7
+      "won": 176,
+      "lost": 91,
+      "total": 267,
+      "rate": 65.9
     },
     "totalAnalyses": 934306,
     "leagues": 280,
     "pro": {
-      "won": 1698,
-      "lost": 656,
-      "total": 2354,
+      "won": 1701,
+      "lost": 657,
+      "total": 2358,
       "rate": 72.1
     },
     "insights": {
-      "won": 2815,
-      "lost": 1172,
-      "total": 3987,
-      "rate": 70.6
+      "won": 2818,
+      "lost": 1167,
+      "total": 3985,
+      "rate": 70.7
     },
     "coupons": {
       "won": 9,
-      "lost": 11,
-      "total": 20,
-      "rate": 45.0
+      "lost": 12,
+      "total": 21,
+      "rate": 42.9
     },
-    "analyses24h": 3283,
-    "analyses30d": 17545
+    "analyses24h": 3151,
+    "analyses30d": 17544
   },
   "recentWins": [
     {
@@ -290,6 +290,18 @@
       "picks": 2
     },
     {
+      "home": "Club Sport Herediano",
+      "away": "Liberia",
+      "league": "KOSTA",
+      "date": "28.11.2026 02:00",
+      "matchCode": "4487124",
+      "odds": 1.74,
+      "patternScore": 65.2,
+      "patternText": "322.760/495.054",
+      "aiScore": 53,
+      "picks": 1
+    },
+    {
       "home": "Atlanta",
       "away": "Ciudad De Bolív",
       "league": "ARJPBN",
@@ -314,27 +326,15 @@
       "picks": 7
     },
     {
-      "home": "Vila Nova",
-      "away": "Atletico Goiani",
-      "league": "BR2",
-      "date": "27.11.2026 23:00",
-      "matchCode": "4581386",
-      "odds": 1.18,
-      "patternScore": 69.06,
-      "patternText": "278.269/402.917",
-      "aiScore": 75,
-      "picks": 3
-    },
-    {
-      "home": "Moron",
-      "away": "Colon Santa Fe",
-      "league": "ARJPBN",
-      "date": "28.11.2026 00:00",
-      "matchCode": "4581050",
-      "odds": 1.17,
-      "patternScore": 69.43,
-      "patternText": "193.206/278.259",
-      "aiScore": 80,
+      "home": "Los Millionarios",
+      "away": "America de Cali",
+      "league": "KOL",
+      "date": "28.11.2026 01:40",
+      "matchCode": "4582086",
+      "odds": 1.23,
+      "patternScore": 69.09,
+      "patternText": "275.318/398.492",
+      "aiScore": 65,
       "picks": 2
     }
   ],
