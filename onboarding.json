@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 06:11",
+  "updatedAt": "27.11.2026 06:19",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 375,
       "rate": 61.6
     },
-    "totalAnalyses": 931739,
+    "totalAnalyses": 931755,
     "leagues": 281,
     "pro": {
       "won": 1819,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3088,
-    "analyses30d": 17218
+    "analyses24h": 3092,
+    "analyses30d": 17222
   },
   "recentWins": [
     {
@@ -258,9 +258,21 @@
     },
     {
       "type": "updated",
+      "at": "27.11.2026 06:13",
+      "home": "Uthai Thani FC",
+      "away": "Sisaket United"
+    },
+    {
+      "type": "updated",
       "at": "27.11.2026 05:15",
       "home": "Nam Dinh FC",
       "away": "Cand"
+    },
+    {
+      "type": "updated",
+      "at": "27.11.2026 06:13",
+      "home": "Buxoro",
+      "away": "Mashal Muborak"
     },
     {
       "type": "kickoff",
@@ -276,7 +288,7 @@
     },
     {
       "type": "analysis",
-      "count": 3088
+      "count": 3092
     }
   ],
   "today": {
@@ -355,6 +367,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Columbus Crew",
+      "away": "Inter Miami CF",
+      "league": "ABD",
+      "at": "27.11.2026 06:14",
+      "count": 5
+    },
+    {
       "home": "RCD Espanyol",
       "away": "Getafe CF",
       "league": "İS1",
@@ -416,13 +435,6 @@
       "league": "AL1",
       "at": "27.11.2026 00:23",
       "count": 18
-    },
-    {
-      "home": "Sport Club Internacional",
-      "away": "Red Bull Bragantino",
-      "league": "BR1",
-      "at": "27.11.2026 00:06",
-      "count": 7
     }
   ],
   "paywall": {
