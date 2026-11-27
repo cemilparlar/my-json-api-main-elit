@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 09:15",
+  "updatedAt": "27.11.2026 09:38",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 371,
       "rate": 61.7
     },
-    "totalAnalyses": 932180,
+    "totalAnalyses": 932194,
     "leagues": 281,
     "pro": {
       "won": 1809,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3202,
-    "analyses30d": 17338
+    "analyses24h": 3214,
+    "analyses30d": 17350
   },
   "recentWins": [
     {
@@ -252,13 +252,13 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 07:56",
+      "at": "27.11.2026 09:31",
       "home": "Uthai Thani FC",
       "away": "Sisaket United"
     },
     {
       "type": "updated",
-      "at": "27.11.2026 08:33",
+      "at": "27.11.2026 09:32",
       "home": "Al Kholood",
       "away": "Al Khaleej"
     },
@@ -282,30 +282,42 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 07:58",
-      "home": "Tirana",
-      "away": "Skenderbeu"
+      "at": "27.11.2026 09:36",
+      "home": "FK Neftchi Baku",
+      "away": "FK Zira"
     },
     {
       "type": "updated",
-      "at": "27.11.2026 08:54",
-      "home": "Uljanik",
-      "away": "Nk Koprivnica"
+      "at": "27.11.2026 09:33",
+      "home": "Tirana",
+      "away": "Skenderbeu"
     }
   ],
   "today": {
-    "home": "Uljanik",
-    "away": "Nk Koprivnica",
-    "league": "HIR2NL",
-    "date": "27.11.2026 12:30",
-    "matchCode": "4527332",
-    "odds": 1.59,
-    "patternScore": 68.74,
-    "patternText": "212.252/308.792",
-    "aiScore": 54,
-    "picks": 3
+    "home": "Universitatea Craiova",
+    "away": "Sepsi OSK",
+    "league": "ROM",
+    "date": "27.11.2026 15:30",
+    "matchCode": "4501666",
+    "odds": 1.6,
+    "patternScore": 68.03,
+    "patternText": "226.771/333.353",
+    "aiScore": 53,
+    "picks": 2
   },
   "todayList": [
+    {
+      "home": "Universitatea Craiova",
+      "away": "Sepsi OSK",
+      "league": "ROM",
+      "date": "27.11.2026 15:30",
+      "matchCode": "4501666",
+      "odds": 1.6,
+      "patternScore": 68.03,
+      "patternText": "226.771/333.353",
+      "aiScore": 53,
+      "picks": 2
+    },
     {
       "home": "Uljanik",
       "away": "Nk Koprivnica",
@@ -352,18 +364,6 @@
       "patternScore": 68.64,
       "patternText": "377.258/549.598",
       "aiScore": 58,
-      "picks": 2
-    },
-    {
-      "home": "Malkiya Club",
-      "away": "Manama",
-      "league": "BAH",
-      "date": "27.11.2026 15:00",
-      "matchCode": "4581081",
-      "odds": 1.26,
-      "patternScore": 69.05,
-      "patternText": "247.317/358.194",
-      "aiScore": 64,
       "picks": 2
     }
   ],
