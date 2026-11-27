@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 03:00",
+  "updatedAt": "27.11.2026 03:15",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 220,
-      "lost": 140,
-      "total": 360,
-      "rate": 61.1
+      "won": 219,
+      "lost": 139,
+      "total": 358,
+      "rate": 61.2
     },
-    "totalAnalyses": 931581,
+    "totalAnalyses": 931602,
     "leagues": 281,
     "pro": {
       "won": 1811,
@@ -47,7 +47,7 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3079,
+    "analyses24h": 3077,
     "analyses30d": 17207
   },
   "recentWins": [
@@ -245,12 +245,6 @@
       "at": "25.11.2026 20:00"
     },
     {
-      "type": "coupon",
-      "size": 3,
-      "odds": 1.51,
-      "at": "26.11.2026 15:07"
-    },
-    {
       "type": "updated",
       "at": "26.11.2026 22:51",
       "home": "CF Pachuca",
@@ -275,14 +269,8 @@
       "away": "Club Nacional de Football"
     },
     {
-      "type": "kickoff",
-      "home": "Club Leon",
-      "away": "Cruz Azul",
-      "at": "27.11.2026 03:10"
-    },
-    {
       "type": "analysis",
-      "count": 3079
+      "count": 3077
     }
   ],
   "today": {
@@ -347,16 +335,16 @@
       "picks": 3
     },
     {
-      "home": "Gulf United",
-      "away": "Palm City 365",
-      "league": "BAE2",
-      "date": "27.11.2026 12:45",
-      "matchCode": "4574645",
-      "odds": 1.29,
-      "patternScore": 68.0,
-      "patternText": "212.079/311.860",
-      "aiScore": 62,
-      "picks": 2
+      "home": "East Riffa",
+      "away": "Al Ittifaq Maqa",
+      "league": "BAH",
+      "date": "27.11.2026 15:00",
+      "matchCode": "4581082",
+      "odds": 1.48,
+      "patternScore": 68.62,
+      "patternText": "229.852/334.978",
+      "aiScore": 56,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
