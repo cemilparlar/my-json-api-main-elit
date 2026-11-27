@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 18:04",
+  "updatedAt": "27.11.2026 18:14",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 283,
       "rate": 60.8
     },
-    "totalAnalyses": 934008,
+    "totalAnalyses": 934056,
     "leagues": 280,
     "pro": {
       "won": 1742,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3209,
-    "analyses30d": 17512
+    "analyses24h": 3242,
+    "analyses30d": 17545
   },
   "recentWins": [
     {
@@ -235,9 +235,9 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 15:07",
-      "home": "FC Dinamo Batumi",
-      "away": "FC Dila Gori"
+      "at": "27.11.2026 14:16",
+      "home": "IMT Novi Beograd",
+      "away": "FK Macva Sabac"
     },
     {
       "type": "updated",
@@ -272,7 +272,7 @@
     "matchCode": "4533182",
     "odds": 2.31,
     "patternScore": 68.07,
-    "patternText": "276.860/406.714",
+    "patternText": "276.866/406.722",
     "aiScore": 52,
     "picks": 2
   },
@@ -285,7 +285,7 @@
       "matchCode": "4533182",
       "odds": 2.31,
       "patternScore": 68.07,
-      "patternText": "276.860/406.714",
+      "patternText": "276.866/406.722",
       "aiScore": 52,
       "picks": 2
     },
@@ -297,7 +297,7 @@
       "matchCode": "4544174",
       "odds": 1.76,
       "patternScore": 67.66,
-      "patternText": "278.999/412.381",
+      "patternText": "279.041/412.429",
       "aiScore": 53,
       "picks": 2
     },
@@ -309,7 +309,7 @@
       "matchCode": "4481950",
       "odds": 1.61,
       "patternScore": 68.18,
-      "patternText": "197.877/290.231",
+      "patternText": "197.895/290.251",
       "aiScore": 55,
       "picks": 5
     },
@@ -321,7 +321,7 @@
       "matchCode": "4476605",
       "odds": 1.48,
       "patternScore": 67.85,
-      "patternText": "253.120/373.051",
+      "patternText": "253.138/373.075",
       "aiScore": 55,
       "picks": 4
     },
@@ -332,13 +332,27 @@
       "date": "27.11.2026 20:00",
       "matchCode": "4488892",
       "odds": 1.41,
-      "patternScore": 67.26,
-      "patternText": "168.176/250.021",
+      "patternScore": 67.27,
+      "patternText": "168.194/250.041",
       "aiScore": 57,
       "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Fluminense FC",
+      "away": "Cruzeiro EC",
+      "league": "BR1",
+      "at": "27.11.2026 18:06",
+      "count": 8
+    },
+    {
+      "home": "Nottingham Forest",
+      "away": "Chelsea",
+      "league": "İNP",
+      "at": "27.11.2026 18:04",
+      "count": 8
+    },
     {
       "home": "Werder Bremen",
       "away": "Borussia Monchengladbach",
@@ -368,13 +382,6 @@
       "count": 13
     },
     {
-      "home": "Nottingham Forest",
-      "away": "Chelsea",
-      "league": "İNP",
-      "at": "27.11.2026 17:32",
-      "count": 10
-    },
-    {
       "home": "OH Leuven",
       "away": "KV Kortrijk",
       "league": "BEL",
@@ -400,13 +407,6 @@
       "away": "Paris FC",
       "league": "FR1",
       "at": "27.11.2026 16:16",
-      "count": 10
-    },
-    {
-      "home": "FC Heidenheim",
-      "away": "Nuremberg",
-      "league": "AL2",
-      "at": "27.11.2026 16:05",
       "count": 10
     }
   ],
