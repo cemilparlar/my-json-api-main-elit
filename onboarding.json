@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 15:19",
+  "updatedAt": "27.11.2026 15:31",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 229,
-      "lost": 131,
-      "total": 360,
-      "rate": 63.6
+      "won": 228,
+      "lost": 128,
+      "total": 356,
+      "rate": 64.0
     },
-    "totalAnalyses": 933542,
+    "totalAnalyses": 933569,
     "leagues": 281,
     "pro": {
-      "won": 1773,
-      "lost": 674,
-      "total": 2447,
+      "won": 1767,
+      "lost": 671,
+      "total": 2438,
       "rate": 72.5
     },
     "insights": {
-      "won": 2951,
-      "lost": 1205,
-      "total": 4156,
+      "won": 2941,
+      "lost": 1202,
+      "total": 4143,
       "rate": 71.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3326,
-    "analyses30d": 17521
+    "analyses24h": 3323,
+    "analyses30d": 17523
   },
   "recentWins": [
     {
@@ -229,12 +229,6 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 12:28",
-      "home": "Al-Sailiya",
-      "away": "Al Gharafa"
-    },
-    {
-      "type": "updated",
       "at": "27.11.2026 12:29",
       "home": "FK Neftchi Baku",
       "away": "FK Zira"
@@ -262,6 +256,12 @@
       "at": "27.11.2026 12:31",
       "home": "Alanyaspor",
       "away": "Konyaspor"
+    },
+    {
+      "type": "updated",
+      "at": "27.11.2026 13:04",
+      "home": "Rakow Czestochowa",
+      "away": "Piast Gliwice"
     }
   ],
   "today": {
@@ -272,7 +272,7 @@
     "matchCode": "4481950",
     "odds": 2.61,
     "patternScore": 66.68,
-    "patternText": "170.121/255.122",
+    "patternText": "170.133/255.154",
     "aiScore": 51,
     "picks": 5
   },
@@ -285,9 +285,21 @@
       "matchCode": "4481950",
       "odds": 2.61,
       "patternScore": 66.68,
-      "patternText": "170.121/255.122",
+      "patternText": "170.133/255.154",
       "aiScore": 51,
       "picks": 5
+    },
+    {
+      "home": "Real Unión De",
+      "away": "Anaza",
+      "league": "İSTL",
+      "date": "27.11.2026 21:00",
+      "matchCode": "4533182",
+      "odds": 2.31,
+      "patternScore": 68.07,
+      "patternText": "276.822/406.664",
+      "aiScore": 52,
+      "picks": 2
     },
     {
       "home": "Bochum",
@@ -296,21 +308,21 @@
       "date": "27.11.2026 17:30",
       "matchCode": "4495848",
       "odds": 1.82,
-      "patternScore": 67.5,
-      "patternText": "239.297/354.532",
+      "patternScore": 67.49,
+      "patternText": "239.313/354.576",
       "aiScore": 52,
       "picks": 9
     },
     {
-      "home": "Brezice",
-      "away": "Triglav Kranj",
-      "league": "SLVNK",
-      "date": "27.11.2026 16:00",
-      "matchCode": "4580090",
-      "odds": 1.51,
-      "patternScore": 67.63,
-      "patternText": "259.101/383.123",
-      "aiScore": 54,
+      "home": "Norwich City U21",
+      "away": "Chelsea U21",
+      "league": "INGPL2",
+      "date": "27.11.2026 19:00",
+      "matchCode": "4544174",
+      "odds": 1.76,
+      "patternScore": 67.66,
+      "patternText": "278.855/412.165",
+      "aiScore": 53,
       "picks": 2
     },
     {
@@ -321,21 +333,9 @@
       "matchCode": "4542764",
       "odds": 1.44,
       "patternScore": 67.19,
-      "patternText": "251.859/374.823",
+      "patternText": "251.875/374.867",
       "aiScore": 54,
       "picks": 6
-    },
-    {
-      "home": "Coleraine",
-      "away": "Dungannon",
-      "league": "KİRL",
-      "date": "27.11.2026 19:45",
-      "matchCode": "4486940",
-      "odds": 1.43,
-      "patternScore": 68.34,
-      "patternText": "239.818/350.904",
-      "aiScore": 58,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
