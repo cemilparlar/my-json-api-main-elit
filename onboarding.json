@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 11:07",
+  "updatedAt": "27.11.2026 11:17",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 370,
       "rate": 62.2
     },
-    "totalAnalyses": 932368,
+    "totalAnalyses": 932406,
     "leagues": 281,
     "pro": {
       "won": 1805,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3214,
-    "analyses30d": 17351
+    "analyses24h": 3230,
+    "analyses30d": 17367
   },
   "recentWins": [
     {
@@ -369,6 +369,34 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Rizespor",
+      "away": "Kasimpasa",
+      "league": "TSL",
+      "at": "27.11.2026 11:15",
+      "count": 8
+    },
+    {
+      "home": "Sariyer",
+      "away": "Istanbulspor",
+      "league": "T1L",
+      "at": "27.11.2026 11:14",
+      "count": 3
+    },
+    {
+      "home": "Alanyaspor",
+      "away": "Konyaspor",
+      "league": "TSL",
+      "at": "27.11.2026 11:13",
+      "count": 8
+    },
+    {
+      "home": "Umraniyespor",
+      "away": "Manisa FK",
+      "league": "T1L",
+      "at": "27.11.2026 11:12",
+      "count": 3
+    },
+    {
       "home": "Eintracht Braunschweig",
       "away": "VfL Wolfsburg",
       "league": "AL2",
@@ -408,34 +436,6 @@
       "away": "US Avellino",
       "league": "İTB",
       "at": "27.11.2026 00:35",
-      "count": 6
-    },
-    {
-      "home": "Besiktas",
-      "away": "Galatasaray",
-      "league": "TSL",
-      "at": "27.11.2026 00:32",
-      "count": 17
-    },
-    {
-      "home": "US Lecce",
-      "away": "Atalanta",
-      "league": "İTA",
-      "at": "27.11.2026 00:31",
-      "count": 6
-    },
-    {
-      "home": "FK Fakel Voronezh",
-      "away": "Spartak Moscow",
-      "league": "RUS",
-      "at": "27.11.2026 00:30",
-      "count": 9
-    },
-    {
-      "home": "Goztepe",
-      "away": "Trabzonspor",
-      "league": "TSL",
-      "at": "27.11.2026 00:29",
       "count": 6
     }
   ],
