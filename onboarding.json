@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "27.11.2026 08:56",
+  "updatedAt": "27.11.2026 09:06",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 371,
       "rate": 61.7
     },
-    "totalAnalyses": 932164,
+    "totalAnalyses": 932178,
     "leagues": 281,
     "pro": {
       "won": 1809,
@@ -47,8 +47,8 @@
       "total": 20,
       "rate": 45.0
     },
-    "analyses24h": 3203,
-    "analyses30d": 17339
+    "analyses24h": 3202,
+    "analyses30d": 17338
   },
   "recentWins": [
     {
@@ -264,12 +264,6 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 08:54",
-      "home": "Tanta FC",
-      "away": "El Mansoura"
-    },
-    {
-      "type": "updated",
       "at": "27.11.2026 07:20",
       "home": "Pamba Jiji",
       "away": "Namungo FC"
@@ -291,21 +285,39 @@
       "at": "27.11.2026 07:58",
       "home": "Tirana",
       "away": "Skenderbeu"
+    },
+    {
+      "type": "updated",
+      "at": "27.11.2026 08:54",
+      "home": "Uljanik",
+      "away": "Nk Koprivnica"
     }
   ],
   "today": {
-    "home": "Shams Azar Qaz",
-    "away": "Kheybar Khorram",
-    "league": "IRAN",
-    "date": "27.11.2026 11:30",
-    "matchCode": "4580243",
-    "odds": 1.49,
-    "patternScore": 68.81,
-    "patternText": "220.209/320.043",
-    "aiScore": 55,
+    "home": "Uljanik",
+    "away": "Nk Koprivnica",
+    "league": "HIR2NL",
+    "date": "27.11.2026 12:30",
+    "matchCode": "4527332",
+    "odds": 1.59,
+    "patternScore": 68.74,
+    "patternText": "212.252/308.792",
+    "aiScore": 54,
     "picks": 3
   },
   "todayList": [
+    {
+      "home": "Uljanik",
+      "away": "Nk Koprivnica",
+      "league": "HIR2NL",
+      "date": "27.11.2026 12:30",
+      "matchCode": "4527332",
+      "odds": 1.59,
+      "patternScore": 68.74,
+      "patternText": "212.252/308.792",
+      "aiScore": 54,
+      "picks": 3
+    },
     {
       "home": "Shams Azar Qaz",
       "away": "Kheybar Khorram",
@@ -319,52 +331,40 @@
       "picks": 3
     },
     {
-      "home": "Uljanik",
-      "away": "Nk Koprivnica",
-      "league": "HIR2NL",
-      "date": "27.11.2026 12:30",
-      "matchCode": "4527332",
-      "odds": 1.36,
-      "patternScore": 68.63,
-      "patternText": "251.400/366.334",
+      "home": "East Riffa",
+      "away": "Al Ittifaq Maqa",
+      "league": "BAH",
+      "date": "27.11.2026 15:00",
+      "matchCode": "4581082",
+      "odds": 1.48,
+      "patternScore": 68.62,
+      "patternText": "229.900/335.046",
+      "aiScore": 56,
+      "picks": 3
+    },
+    {
+      "home": "FC Vysocina Jihlava",
+      "away": "Trinec",
+      "league": "ÇEK2",
+      "date": "27.11.2026 15:00",
+      "matchCode": "4504146",
+      "odds": 1.32,
+      "patternScore": 68.64,
+      "patternText": "377.258/549.598",
       "aiScore": 58,
-      "picks": 1
+      "picks": 2
     },
     {
-      "home": "Peykan",
-      "away": "Foolad Khuzesta",
-      "league": "IRAN",
-      "date": "27.11.2026 11:30",
-      "matchCode": "4580242",
-      "odds": 1.23,
-      "patternScore": 68.72,
-      "patternText": "220.065/320.254",
-      "aiScore": 66,
-      "picks": 3
-    },
-    {
-      "home": "Shkendija Hara",
-      "away": "Bregalnica Stip",
-      "league": "MAKE1",
-      "date": "27.11.2026 11:00",
-      "matchCode": "4477289",
-      "odds": 1.23,
-      "patternScore": 68.28,
-      "patternText": "221.474/324.362",
+      "home": "Malkiya Club",
+      "away": "Manama",
+      "league": "BAH",
+      "date": "27.11.2026 15:00",
+      "matchCode": "4581081",
+      "odds": 1.26,
+      "patternScore": 69.05,
+      "patternText": "247.317/358.194",
       "aiScore": 64,
-      "picks": 3
-    },
-    {
-      "home": "Tanta FC",
-      "away": "El Mansoura",
-      "league": "MSR2",
-      "date": "27.11.2026 12:30",
-      "matchCode": "4538133",
-      "odds": 1.22,
-      "patternScore": 69.97,
-      "patternText": "303.674/434.013",
-      "aiScore": 70,
-      "picks": 1
+      "picks": 2
     }
   ],
   "recentAnalyzed": [
