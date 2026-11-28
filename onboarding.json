@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 12:53",
+  "updatedAt": "28.11.2026 13:08",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 387,
+      "won": 395,
       "lost": 170,
-      "total": 557,
-      "rate": 69.5
+      "total": 565,
+      "rate": 69.9
     },
-    "totalAnalyses": 936646,
-    "leagues": 280,
+    "totalAnalyses": 936705,
+    "leagues": 279,
     "pro": {
-      "won": 1679,
-      "lost": 660,
-      "total": 2339,
-      "rate": 71.8
+      "won": 1634,
+      "lost": 644,
+      "total": 2278,
+      "rate": 71.7
     },
     "insights": {
-      "won": 2763,
-      "lost": 1126,
-      "total": 3889,
-      "rate": 71.0
+      "won": 2693,
+      "lost": 1093,
+      "total": 3786,
+      "rate": 71.1
     },
     "coupons": {
       "won": 7,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 3185,
-    "analyses30d": 17659
+    "analyses24h": 3190,
+    "analyses30d": 17657
   },
   "recentWins": [
     {
@@ -243,8 +243,8 @@
     "matchCode": "4517059",
     "odds": 3.49,
     "patternScore": 67.24,
-    "patternText": "224.065/333.245",
-    "aiScore": 50,
+    "patternText": "224.067/333.247",
+    "aiScore": 51,
     "picks": 8
   },
   "todayList": [
@@ -256,8 +256,8 @@
       "matchCode": "4517059",
       "odds": 3.49,
       "patternScore": 67.24,
-      "patternText": "224.065/333.245",
-      "aiScore": 50,
+      "patternText": "224.067/333.247",
+      "aiScore": 51,
       "picks": 8
     },
     {
@@ -268,7 +268,7 @@
       "matchCode": "4495235",
       "odds": 2.82,
       "patternScore": 67.26,
-      "patternText": "317.988/472.799",
+      "patternText": "317.994/472.805",
       "aiScore": 51,
       "picks": 2
     },
@@ -280,7 +280,7 @@
       "matchCode": "4496725",
       "odds": 2.48,
       "patternScore": 67.08,
-      "patternText": "310.477/462.865",
+      "patternText": "310.483/462.871",
       "aiScore": 51,
       "picks": 4
     },
@@ -292,24 +292,59 @@
       "matchCode": "4534809",
       "odds": 1.62,
       "patternScore": 68.03,
-      "patternText": "319.053/468.976",
+      "patternText": "319.059/468.982",
       "aiScore": 53,
       "picks": 7
     },
     {
-      "home": "Al Wasl",
-      "away": "Al Dhafra",
-      "league": "BAE",
-      "date": "28.11.2026 14:15",
-      "matchCode": "4576105",
-      "odds": 1.61,
-      "patternScore": 67.58,
-      "patternText": "262.209/388.025",
-      "aiScore": 55,
-      "picks": 3
+      "home": "FK Austria Wien",
+      "away": "Wolfsberger AC",
+      "league": "AVU",
+      "date": "28.11.2026 16:00",
+      "matchCode": "4496538",
+      "odds": 1.51,
+      "patternScore": 67.57,
+      "patternText": "310.608/459.659",
+      "aiScore": 56,
+      "picks": 4
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Birmingham City",
+      "away": "Bolton Wanderers",
+      "league": "İNCL",
+      "at": "28.11.2026 13:07",
+      "count": 7
+    },
+    {
+      "home": "SC Paderborn",
+      "away": "FC Schalke 04",
+      "league": "AL1",
+      "at": "28.11.2026 12:57",
+      "count": 6
+    },
+    {
+      "home": "FC Koln",
+      "away": "SV Elversberg",
+      "league": "AL1",
+      "at": "28.11.2026 12:57",
+      "count": 5
+    },
+    {
+      "home": "FSV Mainz 05",
+      "away": "Union Berlin",
+      "league": "AL1",
+      "at": "28.11.2026 12:56",
+      "count": 6
+    },
+    {
+      "home": "Frosinone Calcio",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "28.11.2026 12:55",
+      "count": 13
+    },
     {
       "home": "Holstein Kiel",
       "away": "Kaiserslautern",
@@ -325,32 +360,11 @@
       "count": 7
     },
     {
-      "home": "FSV Mainz 05",
-      "away": "Union Berlin",
-      "league": "AL1",
-      "at": "28.11.2026 10:53",
-      "count": 2
-    },
-    {
       "home": "Hamburger SV",
       "away": "Bayern Munich",
       "league": "AL1",
       "at": "28.11.2026 10:45",
       "count": 15
-    },
-    {
-      "home": "SC Paderborn",
-      "away": "FC Schalke 04",
-      "league": "AL1",
-      "at": "28.11.2026 10:44",
-      "count": 10
-    },
-    {
-      "home": "FC Koln",
-      "away": "SV Elversberg",
-      "league": "AL1",
-      "at": "28.11.2026 10:44",
-      "count": 9
     },
     {
       "home": "CSKA Moscow",
@@ -365,20 +379,6 @@
       "league": "İS1",
       "at": "28.11.2026 10:41",
       "count": 5
-    },
-    {
-      "home": "Dynamo Dresden",
-      "away": "St Pauli",
-      "league": "AL2",
-      "at": "28.11.2026 10:37",
-      "count": 6
-    },
-    {
-      "home": "Rubin Kazan",
-      "away": "FC Akron Togliatti",
-      "league": "RUS",
-      "at": "28.11.2026 10:29",
-      "count": 6
     }
   ],
   "paywall": {
