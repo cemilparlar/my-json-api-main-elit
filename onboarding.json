@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 06:48",
+  "updatedAt": "28.11.2026 07:01",
   "config": {
     "pages": [
       "engine",
@@ -27,18 +27,18 @@
       "total": 505,
       "rate": 68.3
     },
-    "totalAnalyses": 935083,
+    "totalAnalyses": 935100,
     "leagues": 280,
     "pro": {
-      "won": 1756,
-      "lost": 667,
-      "total": 2423,
+      "won": 1750,
+      "lost": 664,
+      "total": 2414,
       "rate": 72.5
     },
     "insights": {
-      "won": 2880,
-      "lost": 1182,
-      "total": 4062,
+      "won": 2872,
+      "lost": 1177,
+      "total": 4049,
       "rate": 70.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3220,
-    "analyses30d": 17644
+    "analyses24h": 3224,
+    "analyses30d": 17647
   },
   "recentWins": [
     {
@@ -212,12 +212,6 @@
     },
     {
       "type": "updated",
-      "at": "28.11.2026 06:44",
-      "home": "Pohang Steelers",
-      "away": "Gwangju FC"
-    },
-    {
-      "type": "updated",
       "at": "28.11.2026 06:28",
       "home": "PSM Makassar",
       "away": "Dewa United FC"
@@ -233,6 +227,12 @@
       "at": "28.11.2026 02:53",
       "home": "Central Coast Mariners",
       "away": "Auckland"
+    },
+    {
+      "type": "updated",
+      "at": "28.11.2026 05:46",
+      "home": "Metalul Buzau",
+      "away": "Fc Bacau"
     }
   ],
   "today": {
@@ -261,6 +261,18 @@
       "picks": 5
     },
     {
+      "home": "Real Betis",
+      "away": "Rayo Vallecano",
+      "league": "İS1",
+      "date": "28.11.2026 13:00",
+      "matchCode": "4492389",
+      "odds": 2.04,
+      "patternScore": 67.22,
+      "patternText": "322.018/479.026",
+      "aiScore": 52,
+      "picks": 9
+    },
+    {
       "home": "Concordia Chia",
       "away": "Stefanesti",
       "league": "ROM2",
@@ -285,31 +297,26 @@
       "picks": 2
     },
     {
-      "home": "Maharlika",
-      "away": "Kaya",
-      "league": "FLP",
-      "date": "28.11.2026 08:00",
-      "matchCode": "4564536",
+      "home": "Waldhof Mannheim",
+      "away": "VfB Stuttgart Amat.",
+      "league": "AL3",
+      "date": "28.11.2026 13:00",
+      "matchCode": "4517735",
       "odds": 1.41,
-      "patternScore": 68.08,
-      "patternText": "285.712/419.652",
-      "aiScore": 56,
-      "picks": 2
-    },
-    {
-      "home": "Madura United",
-      "away": "Malut United",
-      "league": "ENDL1",
-      "date": "28.11.2026 12:00",
-      "matchCode": "4550415",
-      "odds": 1.39,
-      "patternScore": 68.15,
-      "patternText": "299.138/438.964",
-      "aiScore": 57,
-      "picks": 1
+      "patternScore": 65.25,
+      "patternText": "372.576/570.961",
+      "aiScore": 55,
+      "picks": 6
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Preston North End",
+      "away": "Norwich City",
+      "league": "İNCL",
+      "at": "28.11.2026 06:54",
+      "count": 6
+    },
     {
       "home": "Blackburn",
       "away": "Charlton Athletic",
@@ -372,13 +379,6 @@
       "league": "ABD",
       "at": "27.11.2026 21:12",
       "count": 11
-    },
-    {
-      "home": "Levante UD",
-      "away": "Racing Santander",
-      "league": "İS1",
-      "at": "27.11.2026 19:02",
-      "count": 4
     }
   ],
   "paywall": {
