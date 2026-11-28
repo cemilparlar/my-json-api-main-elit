@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 10:26",
+  "updatedAt": "28.11.2026 10:35",
   "config": {
     "pages": [
       "engine",
@@ -22,24 +22,24 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 381,
-      "lost": 173,
-      "total": 554,
+      "won": 380,
+      "lost": 172,
+      "total": 552,
       "rate": 68.8
     },
-    "totalAnalyses": 936036,
+    "totalAnalyses": 936072,
     "leagues": 280,
     "pro": {
-      "won": 1756,
+      "won": 1743,
       "lost": 674,
-      "total": 2430,
-      "rate": 72.3
+      "total": 2417,
+      "rate": 72.1
     },
     "insights": {
-      "won": 2882,
+      "won": 2866,
       "lost": 1178,
-      "total": 4060,
-      "rate": 71.0
+      "total": 4044,
+      "rate": 70.9
     },
     "coupons": {
       "won": 7,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3253,
-    "analyses30d": 17679
+    "analyses24h": 3250,
+    "analyses30d": 17678
   },
   "recentWins": [
     {
@@ -243,7 +243,7 @@
     "matchCode": "4517059",
     "odds": 3.49,
     "patternScore": 67.24,
-    "patternText": "223.927/333.047",
+    "patternText": "223.929/333.049",
     "aiScore": 51,
     "picks": 8
   },
@@ -256,7 +256,7 @@
       "matchCode": "4517059",
       "odds": 3.49,
       "patternScore": 67.24,
-      "patternText": "223.927/333.047",
+      "patternText": "223.929/333.049",
       "aiScore": 51,
       "picks": 8
     },
@@ -268,9 +268,21 @@
       "matchCode": "4495849",
       "odds": 3.11,
       "patternScore": 66.93,
-      "patternText": "216.751/323.831",
+      "patternText": "216.753/323.835",
       "aiScore": 51,
       "picks": 5
+    },
+    {
+      "home": "Blau-Weiss Lin",
+      "away": "SK Sturm Graz II",
+      "league": "AU2",
+      "date": "28.11.2026 16:30",
+      "matchCode": "4496725",
+      "odds": 2.48,
+      "patternScore": 67.07,
+      "patternText": "310.197/462.497",
+      "aiScore": 51,
+      "picks": 4
     },
     {
       "home": "Wurzburger Kic",
@@ -280,7 +292,7 @@
       "matchCode": "4517730",
       "odds": 1.75,
       "patternScore": 68.17,
-      "patternText": "200.469/294.052",
+      "patternText": "200.471/294.054",
       "aiScore": 54,
       "picks": 5
     },
@@ -292,24 +304,19 @@
       "matchCode": "4534809",
       "odds": 1.62,
       "patternScore": 68.03,
-      "patternText": "318.783/468.624",
+      "patternText": "318.789/468.632",
       "aiScore": 53,
       "picks": 7
-    },
-    {
-      "home": "Al Wasl",
-      "away": "Al Dhafra",
-      "league": "BAE",
-      "date": "28.11.2026 14:15",
-      "matchCode": "4576105",
-      "odds": 1.61,
-      "patternScore": 67.58,
-      "patternText": "262.067/387.811",
-      "aiScore": 55,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Rubin Kazan",
+      "away": "FC Akron Togliatti",
+      "league": "RUS",
+      "at": "28.11.2026 10:29",
+      "count": 6
+    },
     {
       "home": "FC Koln",
       "away": "SV Elversberg",
@@ -351,13 +358,6 @@
       "league": "İNCL",
       "at": "28.11.2026 09:50",
       "count": 14
-    },
-    {
-      "home": "Rubin Kazan",
-      "away": "FC Akron Togliatti",
-      "league": "RUS",
-      "at": "28.11.2026 09:44",
-      "count": 8
     },
     {
       "home": "Bandirmaspor",
