@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 06:38",
+  "updatedAt": "28.11.2026 06:48",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 505,
       "rate": 68.3
     },
-    "totalAnalyses": 935063,
+    "totalAnalyses": 935083,
     "leagues": 280,
     "pro": {
       "won": 1756,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3212,
-    "analyses30d": 17636
+    "analyses24h": 3220,
+    "analyses30d": 17644
   },
   "recentWins": [
     {
@@ -212,6 +212,12 @@
     },
     {
       "type": "updated",
+      "at": "28.11.2026 06:44",
+      "home": "Pohang Steelers",
+      "away": "Gwangju FC"
+    },
+    {
+      "type": "updated",
       "at": "28.11.2026 06:28",
       "home": "PSM Makassar",
       "away": "Dewa United FC"
@@ -227,12 +233,6 @@
       "at": "28.11.2026 02:53",
       "home": "Central Coast Mariners",
       "away": "Auckland"
-    },
-    {
-      "type": "updated",
-      "at": "28.11.2026 05:46",
-      "home": "Metalul Buzau",
-      "away": "Fc Bacau"
     }
   ],
   "today": {
@@ -311,6 +311,13 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Blackburn",
+      "away": "Charlton Athletic",
+      "league": "İNCL",
+      "at": "28.11.2026 06:46",
+      "count": 7
+    },
+    {
       "home": "Sivasspor",
       "away": "Bodrum FK",
       "league": "T1L",
@@ -372,13 +379,6 @@
       "league": "İS1",
       "at": "27.11.2026 19:02",
       "count": 4
-    },
-    {
-      "home": "OH Leuven",
-      "away": "KV Kortrijk",
-      "league": "BEL",
-      "at": "27.11.2026 19:01",
-      "count": 5
     }
   ],
   "paywall": {
