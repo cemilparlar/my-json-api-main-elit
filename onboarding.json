@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 02:27",
+  "updatedAt": "28.11.2026 02:36",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 441,
       "rate": 68.7
     },
-    "totalAnalyses": 934821,
+    "totalAnalyses": 934823,
     "leagues": 280,
     "pro": {
       "won": 1777,
@@ -236,30 +236,18 @@
     }
   ],
   "today": {
-    "home": "Salt Lake",
-    "away": "Vancouver Whitecaps",
-    "league": "ABD",
-    "date": "28.11.2026 03:00",
-    "matchCode": "4581755",
-    "odds": 3.24,
-    "patternScore": 67.36,
-    "patternText": "269.258/399.727",
-    "aiScore": 50,
-    "picks": 9
+    "home": "Pohang Steelers",
+    "away": "Gwangju FC",
+    "league": "GKOR",
+    "date": "28.11.2026 07:30",
+    "matchCode": "4580573",
+    "odds": 1.6,
+    "patternScore": 68.2,
+    "patternText": "271.607/398.237",
+    "aiScore": 54,
+    "picks": 5
   },
   "todayList": [
-    {
-      "home": "Salt Lake",
-      "away": "Vancouver Whitecaps",
-      "league": "ABD",
-      "date": "28.11.2026 03:00",
-      "matchCode": "4581755",
-      "odds": 3.24,
-      "patternScore": 67.36,
-      "patternText": "269.258/399.727",
-      "aiScore": 50,
-      "picks": 9
-    },
     {
       "home": "Pohang Steelers",
       "away": "Gwangju FC",
@@ -307,6 +295,18 @@
       "patternText": "290.655/422.387",
       "aiScore": 58,
       "picks": 2
+    },
+    {
+      "home": "Not FC Seoul - check data",
+      "away": "Daejeon Citizen",
+      "league": "GKOR",
+      "date": "28.11.2026 05:00",
+      "matchCode": "4580557",
+      "odds": 1.31,
+      "patternScore": 68.8,
+      "patternText": "313.724/455.982",
+      "aiScore": 60,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
