@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 04:50",
+  "updatedAt": "28.11.2026 05:01",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 330,
+      "won": 331,
       "lost": 154,
-      "total": 484,
+      "total": 485,
       "rate": 68.2
     },
-    "totalAnalyses": 934881,
+    "totalAnalyses": 934910,
     "leagues": 280,
     "pro": {
-      "won": 1786,
-      "lost": 677,
-      "total": 2463,
-      "rate": 72.5
+      "won": 1761,
+      "lost": 664,
+      "total": 2425,
+      "rate": 72.6
     },
     "insights": {
-      "won": 2933,
-      "lost": 1202,
-      "total": 4135,
+      "won": 2886,
+      "lost": 1182,
+      "total": 4068,
       "rate": 70.9
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3168,
-    "analyses30d": 17592
+    "analyses24h": 3188,
+    "analyses30d": 17612
   },
   "recentWins": [
     {
@@ -230,9 +230,9 @@
     },
     {
       "type": "updated",
-      "at": "28.11.2026 04:50",
-      "home": "Kashima Antlers",
-      "away": "Fagiano Okayama"
+      "at": "28.11.2026 03:17",
+      "home": "Kashiwa Reysol",
+      "away": "Sanfrecce Hiroshima"
     }
   ],
   "today": {
@@ -311,6 +311,20 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Sivasspor",
+      "away": "Bodrum FK",
+      "league": "T1L",
+      "at": "28.11.2026 04:57",
+      "count": 3
+    },
+    {
+      "home": "Bandirmaspor",
+      "away": "Batman Petrolspor",
+      "league": "T1L",
+      "at": "28.11.2026 04:56",
+      "count": 3
+    },
+    {
       "home": "Columbus Crew",
       "away": "Inter Miami CF",
       "league": "ABD",
@@ -365,20 +379,6 @@
       "league": "FR1",
       "at": "27.11.2026 18:25",
       "count": 14
-    },
-    {
-      "home": "Stade Brest",
-      "away": "Paris FC",
-      "league": "FR1",
-      "at": "27.11.2026 18:24",
-      "count": 5
-    },
-    {
-      "home": "Unione V.",
-      "away": "Bologna FC",
-      "league": "İTA",
-      "at": "27.11.2026 18:23",
-      "count": 5
     }
   ],
   "paywall": {
