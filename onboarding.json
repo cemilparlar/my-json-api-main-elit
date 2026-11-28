@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 08:51",
+  "updatedAt": "28.11.2026 09:00",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 365,
-      "lost": 167,
-      "total": 532,
-      "rate": 68.6
+      "won": 368,
+      "lost": 170,
+      "total": 538,
+      "rate": 68.4
     },
-    "totalAnalyses": 935749,
+    "totalAnalyses": 935771,
     "leagues": 280,
     "pro": {
-      "won": 1757,
-      "lost": 671,
-      "total": 2428,
-      "rate": 72.4
+      "won": 1758,
+      "lost": 673,
+      "total": 2431,
+      "rate": 72.3
     },
     "insights": {
-      "won": 2888,
-      "lost": 1177,
-      "total": 4065,
+      "won": 2890,
+      "lost": 1179,
+      "total": 4069,
       "rate": 71.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3243,
-    "analyses30d": 17675
+    "analyses24h": 3245,
+    "analyses30d": 17676
   },
   "recentWins": [
     {
@@ -187,6 +187,12 @@
       "at": "26.11.2026 17:45"
     },
     {
+      "type": "coupon",
+      "size": 3,
+      "odds": 1.53,
+      "at": "28.11.2026 09:00"
+    },
+    {
       "type": "updated",
       "at": "28.11.2026 03:38",
       "home": "Shimizu S-Pulse",
@@ -227,12 +233,6 @@
       "at": "28.11.2026 06:28",
       "home": "PSM Makassar",
       "away": "Dewa United FC"
-    },
-    {
-      "type": "updated",
-      "at": "28.11.2026 03:38",
-      "home": "Bayswater City FC",
-      "away": "Sydney United 58 FC"
     }
   ],
   "today": {
@@ -273,6 +273,18 @@
       "picks": 5
     },
     {
+      "home": "Carrarese Calcio",
+      "away": "SS Juve Stabia",
+      "league": "İTB",
+      "date": "28.11.2026 14:00",
+      "matchCode": "4534809",
+      "odds": 1.62,
+      "patternScore": 68.02,
+      "patternText": "318.685/468.492",
+      "aiScore": 53,
+      "picks": 7
+    },
+    {
       "home": "Al Wasl",
       "away": "Al Dhafra",
       "league": "BAE",
@@ -295,21 +307,16 @@
       "patternText": "298.578/443.258",
       "aiScore": 57,
       "picks": 2
-    },
-    {
-      "home": "Lucko",
-      "away": "Bjelovar",
-      "league": "HIR2NL",
-      "date": "28.11.2026 12:30",
-      "matchCode": "4527333",
-      "odds": 1.46,
-      "patternScore": 68.23,
-      "patternText": "282.168/413.542",
-      "aiScore": 55,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Ascoli Calcio",
+      "away": "Virtus Entella",
+      "league": "İTB",
+      "at": "28.11.2026 08:53",
+      "count": 6
+    },
     {
       "home": "Carrarese Calcio",
       "away": "SS Juve Stabia",
@@ -372,13 +379,6 @@
       "league": "T1L",
       "at": "28.11.2026 07:48",
       "count": 3
-    },
-    {
-      "home": "Preston North End",
-      "away": "Norwich City",
-      "league": "İNCL",
-      "at": "28.11.2026 06:54",
-      "count": 6
     }
   ],
   "paywall": {
