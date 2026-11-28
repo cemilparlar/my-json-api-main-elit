@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 11:21",
+  "updatedAt": "28.11.2026 11:30",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 571,
       "rate": 69.0
     },
-    "totalAnalyses": 936202,
+    "totalAnalyses": 936221,
     "leagues": 280,
     "pro": {
       "won": 1735,
@@ -47,8 +47,8 @@
       "total": 18,
       "rate": 38.9
     },
-    "analyses24h": 3242,
-    "analyses30d": 17678
+    "analyses24h": 3235,
+    "analyses30d": 17679
   },
   "recentWins": [
     {
@@ -311,11 +311,18 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "Holstein Kiel",
+      "away": "Kaiserslautern",
+      "league": "AL2",
+      "at": "28.11.2026 11:29",
+      "count": 7
+    },
+    {
       "home": "Hertha BSC",
       "away": "Karlsruher SC",
       "league": "AL2",
-      "at": "28.11.2026 11:06",
-      "count": 8
+      "at": "28.11.2026 11:29",
+      "count": 7
     },
     {
       "home": "FSV Mainz 05",
@@ -372,13 +379,6 @@
       "league": "RUS",
       "at": "28.11.2026 10:29",
       "count": 6
-    },
-    {
-      "home": "Ascoli Calcio",
-      "away": "Virtus Entella",
-      "league": "İTB",
-      "at": "28.11.2026 09:59",
-      "count": 3
     }
   ],
   "paywall": {
