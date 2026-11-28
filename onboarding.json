@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 05:31",
+  "updatedAt": "28.11.2026 05:39",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 487,
       "rate": 68.2
     },
-    "totalAnalyses": 934968,
+    "totalAnalyses": 934972,
     "leagues": 280,
     "pro": {
       "won": 1762,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3190,
-    "analyses30d": 17614
+    "analyses24h": 3185,
+    "analyses30d": 17609
   },
   "recentWins": [
     {
@@ -194,21 +194,9 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 23:33",
-      "home": "Not FC Seoul - check data",
-      "away": "Daejeon Citizen"
-    },
-    {
-      "type": "updated",
       "at": "28.11.2026 01:09",
       "home": "Omiya Ardija",
       "away": "FC Imabari"
-    },
-    {
-      "type": "updated",
-      "at": "27.11.2026 23:31",
-      "home": "Kyoto Sanga FC",
-      "away": "Cerezo Osaka"
     },
     {
       "type": "updated",
@@ -219,47 +207,47 @@
     {
       "type": "updated",
       "at": "28.11.2026 05:24",
-      "home": "Vissel Kobe",
-      "away": "JEF United Chiba"
-    },
-    {
-      "type": "updated",
-      "at": "28.11.2026 05:24",
       "home": "Kashiwa Reysol",
       "away": "Sanfrecce Hiroshima"
     },
     {
       "type": "updated",
-      "at": "28.11.2026 05:25",
-      "home": "Pohang Steelers",
-      "away": "Gwangju FC"
+      "at": "28.11.2026 02:36",
+      "home": "PSM Makassar",
+      "away": "Dewa United FC"
+    },
+    {
+      "type": "updated",
+      "at": "28.11.2026 03:38",
+      "home": "Bayswater City FC",
+      "away": "Sydney United 58 FC"
+    },
+    {
+      "type": "updated",
+      "at": "28.11.2026 02:53",
+      "home": "Central Coast Mariners",
+      "away": "Auckland"
+    },
+    {
+      "type": "updated",
+      "at": "28.11.2026 04:55",
+      "home": "Minsk",
+      "away": "Dnepr Mogilev"
     }
   ],
   "today": {
-    "home": "Pohang Steelers",
-    "away": "Gwangju FC",
-    "league": "GKOR",
-    "date": "28.11.2026 07:30",
-    "matchCode": "4580573",
-    "odds": 1.6,
-    "patternScore": 68.2,
-    "patternText": "271.673/398.343",
+    "home": "Concordia Chia",
+    "away": "Stefanesti",
+    "league": "ROM2",
+    "date": "28.11.2026 09:00",
+    "matchCode": "4513353",
+    "odds": 1.59,
+    "patternScore": 67.68,
+    "patternText": "309.256/456.928",
     "aiScore": 54,
-    "picks": 5
+    "picks": 3
   },
   "todayList": [
-    {
-      "home": "Pohang Steelers",
-      "away": "Gwangju FC",
-      "league": "GKOR",
-      "date": "28.11.2026 07:30",
-      "matchCode": "4580573",
-      "odds": 1.6,
-      "patternScore": 68.2,
-      "patternText": "271.673/398.343",
-      "aiScore": 54,
-      "picks": 5
-    },
     {
       "home": "Concordia Chia",
       "away": "Stefanesti",
@@ -285,6 +273,30 @@
       "picks": 2
     },
     {
+      "home": "Maharlika",
+      "away": "Kaya",
+      "league": "FLP",
+      "date": "28.11.2026 08:00",
+      "matchCode": "4564536",
+      "odds": 1.41,
+      "patternScore": 68.08,
+      "patternText": "285.634/419.548",
+      "aiScore": 56,
+      "picks": 2
+    },
+    {
+      "home": "Kashiwa Reysol",
+      "away": "Sanfrecce Hiroshima",
+      "league": "JAP",
+      "date": "28.11.2026 07:00",
+      "matchCode": "4487286",
+      "odds": 1.37,
+      "patternScore": 66.89,
+      "patternText": "212.209/317.271",
+      "aiScore": 56,
+      "picks": 3
+    },
+    {
       "home": "Bucheon FC",
       "away": "Gimcheon Sangmu",
       "league": "GKOR",
@@ -295,18 +307,6 @@
       "patternText": "181.664/265.226",
       "aiScore": 65,
       "picks": 5
-    },
-    {
-      "home": "FC Unirea Slobozia",
-      "away": "Gloria Popesti",
-      "league": "ROM2",
-      "date": "28.11.2026 09:00",
-      "matchCode": "4513355",
-      "odds": 1.3,
-      "patternScore": 68.07,
-      "patternText": "267.035/392.286",
-      "aiScore": 61,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
