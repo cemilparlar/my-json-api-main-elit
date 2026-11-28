@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 08:31",
+  "updatedAt": "28.11.2026 08:41",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 368,
+      "won": 365,
       "lost": 167,
-      "total": 535,
-      "rate": 68.8
+      "total": 532,
+      "rate": 68.6
     },
-    "totalAnalyses": 935633,
+    "totalAnalyses": 935711,
     "leagues": 280,
     "pro": {
       "won": 1757,
-      "lost": 672,
-      "total": 2429,
-      "rate": 72.3
+      "lost": 671,
+      "total": 2428,
+      "rate": 72.4
     },
     "insights": {
-      "won": 2889,
-      "lost": 1179,
-      "total": 4068,
+      "won": 2888,
+      "lost": 1177,
+      "total": 4065,
       "rate": 71.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3239,
-    "analyses30d": 17668
+    "analyses24h": 3237,
+    "analyses30d": 17669
   },
   "recentWins": [
     {
@@ -116,7 +116,7 @@
       "odds": 1.99,
       "probability": 85.71,
       "patternScore": 67.06,
-      "aiScore": 52,
+      "aiScore": 53,
       "firstHalf": "1 - 1",
       "finalScore": "3 - 1",
       "pro": false
@@ -311,18 +311,32 @@
   ],
   "recentAnalyzed": [
     {
+      "home": "UD Las Palmas",
+      "away": "FC Andorra",
+      "league": "İS2",
+      "at": "28.11.2026 08:39",
+      "count": 9
+    },
+    {
+      "home": "Real Betis",
+      "away": "Rayo Vallecano",
+      "league": "İS1",
+      "at": "28.11.2026 08:35",
+      "count": 6
+    },
+    {
+      "home": "Blackburn",
+      "away": "Charlton Athletic",
+      "league": "İNCL",
+      "at": "28.11.2026 08:31",
+      "count": 6
+    },
+    {
       "home": "Hertha BSC",
       "away": "Karlsruher SC",
       "league": "AL2",
       "at": "28.11.2026 08:27",
       "count": 16
-    },
-    {
-      "home": "UD Las Palmas",
-      "away": "FC Andorra",
-      "league": "İS2",
-      "at": "28.11.2026 08:07",
-      "count": 9
     },
     {
       "home": "Sivasspor",
@@ -337,13 +351,6 @@
       "league": "İNCL",
       "at": "28.11.2026 06:54",
       "count": 6
-    },
-    {
-      "home": "Blackburn",
-      "away": "Charlton Athletic",
-      "league": "İNCL",
-      "at": "28.11.2026 06:46",
-      "count": 7
     },
     {
       "home": "Holstein Kiel",
@@ -372,13 +379,6 @@
       "league": "T1L",
       "at": "28.11.2026 04:56",
       "count": 3
-    },
-    {
-      "home": "Columbus Crew",
-      "away": "Inter Miami CF",
-      "league": "ABD",
-      "at": "28.11.2026 00:27",
-      "count": 19
     }
   ],
   "paywall": {
