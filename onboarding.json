@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 08:20",
+  "updatedAt": "28.11.2026 08:31",
   "config": {
     "pages": [
       "engine",
@@ -22,12 +22,12 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 372,
-      "lost": 169,
-      "total": 541,
+      "won": 368,
+      "lost": 167,
+      "total": 535,
       "rate": 68.8
     },
-    "totalAnalyses": 935583,
+    "totalAnalyses": 935633,
     "leagues": 280,
     "pro": {
       "won": 1757,
@@ -37,8 +37,8 @@
     },
     "insights": {
       "won": 2889,
-      "lost": 1181,
-      "total": 4070,
+      "lost": 1179,
+      "total": 4068,
       "rate": 71.0
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3231,
-    "analyses30d": 17654
+    "analyses24h": 3239,
+    "analyses30d": 17668
   },
   "recentWins": [
     {
@@ -285,6 +285,18 @@
       "picks": 9
     },
     {
+      "home": "Wurzburger Kic",
+      "away": "Fortuna Dusseldorf",
+      "league": "AL3",
+      "date": "28.11.2026 13:00",
+      "matchCode": "4517730",
+      "odds": 1.75,
+      "patternScore": 68.17,
+      "patternText": "200.423/293.996",
+      "aiScore": 53,
+      "picks": 5
+    },
+    {
       "home": "Al Wasl",
       "away": "Al Dhafra",
       "league": "BAE",
@@ -295,21 +307,16 @@
       "patternText": "262.017/387.747",
       "aiScore": 55,
       "picks": 3
-    },
-    {
-      "home": "Concordia Chia",
-      "away": "Stefanesti",
-      "league": "ROM2",
-      "date": "28.11.2026 09:00",
-      "matchCode": "4513353",
-      "odds": 1.59,
-      "patternScore": 67.68,
-      "patternText": "309.492/457.272",
-      "aiScore": 54,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Hertha BSC",
+      "away": "Karlsruher SC",
+      "league": "AL2",
+      "at": "28.11.2026 08:27",
+      "count": 16
+    },
     {
       "home": "UD Las Palmas",
       "away": "FC Andorra",
@@ -372,13 +379,6 @@
       "league": "ABD",
       "at": "28.11.2026 00:27",
       "count": 19
-    },
-    {
-      "home": "PSV Eindhoven",
-      "away": "Go Ahead Eagles",
-      "league": "HOL",
-      "at": "28.11.2026 00:08",
-      "count": 14
     }
   ],
   "paywall": {
