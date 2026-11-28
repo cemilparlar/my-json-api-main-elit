@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 03:00",
+  "updatedAt": "28.11.2026 03:09",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 303,
-      "lost": 139,
-      "total": 442,
+      "won": 308,
+      "lost": 141,
+      "total": 449,
       "rate": 68.6
     },
     "totalAnalyses": 934833,
     "leagues": 280,
     "pro": {
-      "won": 1777,
-      "lost": 680,
+      "won": 1778,
+      "lost": 679,
       "total": 2457,
-      "rate": 72.3
+      "rate": 72.4
     },
     "insights": {
       "won": 2919,
-      "lost": 1207,
-      "total": 4126,
+      "lost": 1208,
+      "total": 4127,
       "rate": 70.7
     },
     "coupons": {
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3174,
-    "analyses30d": 17589
+    "analyses24h": 3173,
+    "analyses30d": 17588
   },
   "recentWins": [
     {
@@ -261,6 +261,18 @@
       "picks": 5
     },
     {
+      "home": "Concordia Chia",
+      "away": "Stefanesti",
+      "league": "ROM2",
+      "date": "28.11.2026 09:00",
+      "matchCode": "4513353",
+      "odds": 1.59,
+      "patternScore": 67.68,
+      "patternText": "309.166/456.804",
+      "aiScore": 54,
+      "picks": 3
+    },
+    {
       "home": "Kashiwa Reysol",
       "away": "Sanfrecce Hiroshima",
       "league": "JAP",
@@ -295,18 +307,6 @@
       "patternText": "290.655/422.389",
       "aiScore": 58,
       "picks": 2
-    },
-    {
-      "home": "Not FC Seoul - check data",
-      "away": "Daejeon Citizen",
-      "league": "GKOR",
-      "date": "28.11.2026 05:00",
-      "matchCode": "4580557",
-      "odds": 1.31,
-      "patternScore": 68.8,
-      "patternText": "313.724/455.984",
-      "aiScore": 60,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
