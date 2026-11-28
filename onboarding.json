@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 09:27",
+  "updatedAt": "28.11.2026 09:35",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 368,
-      "lost": 170,
-      "total": 538,
-      "rate": 68.4
+      "won": 378,
+      "lost": 171,
+      "total": 549,
+      "rate": 68.9
     },
-    "totalAnalyses": 935825,
+    "totalAnalyses": 935830,
     "leagues": 280,
     "pro": {
-      "won": 1756,
-      "lost": 673,
-      "total": 2429,
+      "won": 1763,
+      "lost": 674,
+      "total": 2437,
       "rate": 72.3
     },
     "insights": {
-      "won": 2882,
-      "lost": 1178,
-      "total": 4060,
+      "won": 2891,
+      "lost": 1179,
+      "total": 4070,
       "rate": 71.0
     },
     "coupons": {
@@ -236,18 +236,30 @@
     }
   ],
   "today": {
-    "home": "Dynamo Dresden",
-    "away": "St Pauli",
-    "league": "AL2",
-    "date": "28.11.2026 12:00",
-    "matchCode": "4495849",
-    "odds": 3.11,
-    "patternScore": 66.93,
-    "patternText": "216.711/323.787",
-    "aiScore": 51,
-    "picks": 5
+    "home": "Moreirense FC",
+    "away": "CD Santa Clara",
+    "league": "POR",
+    "date": "28.11.2026 15:30",
+    "matchCode": "4517059",
+    "odds": 3.49,
+    "patternScore": 67.23,
+    "patternText": "223.887/333.003",
+    "aiScore": 50,
+    "picks": 8
   },
   "todayList": [
+    {
+      "home": "Moreirense FC",
+      "away": "CD Santa Clara",
+      "league": "POR",
+      "date": "28.11.2026 15:30",
+      "matchCode": "4517059",
+      "odds": 3.49,
+      "patternScore": 67.23,
+      "patternText": "223.887/333.003",
+      "aiScore": 50,
+      "picks": 8
+    },
     {
       "home": "Dynamo Dresden",
       "away": "St Pauli",
@@ -295,18 +307,6 @@
       "patternText": "262.023/387.763",
       "aiScore": 55,
       "picks": 3
-    },
-    {
-      "home": "Hamburger Sv U",
-      "away": "Magdeburg U19",
-      "league": "ALU19",
-      "date": "28.11.2026 10:30",
-      "matchCode": "4542292",
-      "odds": 1.49,
-      "patternScore": 67.36,
-      "patternText": "298.588/443.274",
-      "aiScore": 57,
-      "picks": 2
     }
   ],
   "recentAnalyzed": [
