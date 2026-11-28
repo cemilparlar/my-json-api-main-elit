@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 03:46",
+  "updatedAt": "28.11.2026 03:54",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 472,
       "rate": 68.4
     },
-    "totalAnalyses": 934846,
+    "totalAnalyses": 934854,
     "leagues": 280,
     "pro": {
       "won": 1786,
@@ -47,10 +47,24 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3165,
-    "analyses30d": 17589
+    "analyses24h": 3164,
+    "analyses30d": 17588
   },
   "recentWins": [
+    {
+      "home": "Columbus Crew",
+      "away": "Inter Miami CF",
+      "league": "ABD",
+      "date": "28.11.2026 01:00",
+      "prediction": "Under 2.5 Goals",
+      "odds": 2.65,
+      "probability": 100.0,
+      "patternScore": 57.58,
+      "aiScore": 51,
+      "firstHalf": "0 - 0",
+      "finalScore": "1 - 0",
+      "pro": false
+    },
     {
       "home": "Wofoo Tai Po",
       "away": "Adelaide United",
@@ -106,20 +120,6 @@
       "firstHalf": "1 - 1",
       "finalScore": "3 - 1",
       "pro": false
-    },
-    {
-      "home": "Buxoro",
-      "away": "Mashal Muborak",
-      "league": "ÖZB",
-      "date": "27.11.2026 12:00",
-      "prediction": "Both Teams to Score - Yes",
-      "odds": 1.99,
-      "probability": 80.0,
-      "patternScore": 66.58,
-      "aiScore": 52,
-      "firstHalf": "1 - 1",
-      "finalScore": "2 - 2",
-      "pro": false
     }
   ],
   "recentCoupons": [
@@ -156,6 +156,14 @@
   "ticker": [
     {
       "type": "won",
+      "home": "Columbus Crew",
+      "away": "Inter Miami CF",
+      "prediction": "Under 2.5 Goals",
+      "odds": 2.65,
+      "at": "28.11.2026 01:00"
+    },
+    {
+      "type": "won",
       "home": "Wofoo Tai Po",
       "away": "Adelaide United",
       "prediction": "Handicap (2:0) 2",
@@ -177,14 +185,6 @@
       "prediction": "Over 3.5 Goals",
       "odds": 2.01,
       "at": "26.11.2026 17:45"
-    },
-    {
-      "type": "won",
-      "home": "FC Heidenheim",
-      "away": "Nuremberg",
-      "prediction": "Match Result 1",
-      "odds": 1.99,
-      "at": "27.11.2026 17:30"
     },
     {
       "type": "coupon",
@@ -224,15 +224,15 @@
     },
     {
       "type": "updated",
-      "at": "28.11.2026 00:08",
-      "home": "Vissel Kobe",
-      "away": "JEF United Chiba"
+      "at": "28.11.2026 03:54",
+      "home": "FC Anyang",
+      "away": "Jeju United"
     },
     {
       "type": "updated",
       "at": "28.11.2026 00:08",
-      "home": "Kashima Antlers",
-      "away": "Fagiano Okayama"
+      "home": "Vissel Kobe",
+      "away": "JEF United Chiba"
     }
   ],
   "today": {
@@ -243,7 +243,7 @@
     "matchCode": "4580573",
     "odds": 1.6,
     "patternScore": 68.2,
-    "patternText": "271.637/398.285",
+    "patternText": "271.659/398.327",
     "aiScore": 54,
     "picks": 5
   },
@@ -256,7 +256,7 @@
       "matchCode": "4580573",
       "odds": 1.6,
       "patternScore": 68.2,
-      "patternText": "271.637/398.285",
+      "patternText": "271.659/398.327",
       "aiScore": 54,
       "picks": 5
     },
@@ -268,7 +268,7 @@
       "matchCode": "4513353",
       "odds": 1.59,
       "patternScore": 67.68,
-      "patternText": "309.210/456.864",
+      "patternText": "309.240/456.910",
       "aiScore": 54,
       "picks": 3
     },
@@ -280,7 +280,7 @@
       "matchCode": "4487286",
       "odds": 1.48,
       "patternScore": 67.19,
-      "patternText": "287.177/427.384",
+      "patternText": "287.199/427.422",
       "aiScore": 56,
       "picks": 5
     },
@@ -291,8 +291,8 @@
       "date": "28.11.2026 05:00",
       "matchCode": "4580572",
       "odds": 1.39,
-      "patternScore": 68.74,
-      "patternText": "171.533/249.555",
+      "patternScore": 68.73,
+      "patternText": "171.551/249.601",
       "aiScore": 60,
       "picks": 1
     },
@@ -304,7 +304,7 @@
       "matchCode": "4487701",
       "odds": 1.38,
       "patternScore": 68.81,
-      "patternText": "290.683/422.429",
+      "patternText": "290.709/422.471",
       "aiScore": 58,
       "picks": 2
     }
