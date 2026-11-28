@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 03:54",
+  "updatedAt": "28.11.2026 04:02",
   "config": {
     "pages": [
       "engine",
@@ -27,19 +27,19 @@
       "total": 472,
       "rate": 68.4
     },
-    "totalAnalyses": 934854,
+    "totalAnalyses": 934861,
     "leagues": 280,
     "pro": {
-      "won": 1786,
-      "lost": 681,
-      "total": 2467,
-      "rate": 72.4
+      "won": 1782,
+      "lost": 677,
+      "total": 2459,
+      "rate": 72.5
     },
     "insights": {
-      "won": 2933,
-      "lost": 1209,
-      "total": 4142,
-      "rate": 70.8
+      "won": 2926,
+      "lost": 1202,
+      "total": 4128,
+      "rate": 70.9
     },
     "coupons": {
       "won": 7,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3164,
-    "analyses30d": 17588
+    "analyses24h": 3174,
+    "analyses30d": 17598
   },
   "recentWins": [
     {
@@ -285,18 +285,6 @@
       "picks": 5
     },
     {
-      "home": "FC Anyang",
-      "away": "Jeju United",
-      "league": "GKOR",
-      "date": "28.11.2026 05:00",
-      "matchCode": "4580572",
-      "odds": 1.39,
-      "patternScore": 68.73,
-      "patternText": "171.551/249.601",
-      "aiScore": 60,
-      "picks": 1
-    },
-    {
       "home": "Omiya Ardija",
       "away": "FC Imabari",
       "league": "JAP2",
@@ -307,6 +295,18 @@
       "patternText": "290.709/422.471",
       "aiScore": 58,
       "picks": 2
+    },
+    {
+      "home": "FC Anyang",
+      "away": "Jeju United",
+      "league": "GKOR",
+      "date": "28.11.2026 05:00",
+      "matchCode": "4580572",
+      "odds": 1.37,
+      "patternScore": 68.08,
+      "patternText": "287.884/422.842",
+      "aiScore": 59,
+      "picks": 5
     }
   ],
   "recentAnalyzed": [
