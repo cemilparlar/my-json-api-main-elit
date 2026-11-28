@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 09:35",
+  "updatedAt": "28.11.2026 09:44",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 549,
       "rate": 68.9
     },
-    "totalAnalyses": 935830,
+    "totalAnalyses": 935855,
     "leagues": 280,
     "pro": {
       "won": 1763,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3243,
-    "analyses30d": 17674
+    "analyses24h": 3246,
+    "analyses30d": 17677
   },
   "recentWins": [
     {
@@ -194,21 +194,9 @@
     },
     {
       "type": "updated",
-      "at": "28.11.2026 03:38",
-      "home": "Shimizu S-Pulse",
-      "away": "Urawa Red Diamonds"
-    },
-    {
-      "type": "updated",
       "at": "28.11.2026 04:10",
       "home": "FC Anyang",
       "away": "Jeju United"
-    },
-    {
-      "type": "updated",
-      "at": "28.11.2026 03:38",
-      "home": "Kochi United",
-      "away": "Nara Club"
     },
     {
       "type": "updated",
@@ -233,6 +221,18 @@
       "at": "28.11.2026 06:28",
       "home": "PSM Makassar",
       "away": "Dewa United FC"
+    },
+    {
+      "type": "updated",
+      "at": "28.11.2026 07:45",
+      "home": "Central Coast Mariners",
+      "away": "Auckland"
+    },
+    {
+      "type": "updated",
+      "at": "28.11.2026 08:23",
+      "home": "Afumati",
+      "away": "Csm Resita"
     }
   ],
   "today": {
@@ -242,8 +242,8 @@
     "date": "28.11.2026 15:30",
     "matchCode": "4517059",
     "odds": 3.49,
-    "patternScore": 67.23,
-    "patternText": "223.887/333.003",
+    "patternScore": 67.24,
+    "patternText": "223.919/333.037",
     "aiScore": 50,
     "picks": 8
   },
@@ -255,8 +255,8 @@
       "date": "28.11.2026 15:30",
       "matchCode": "4517059",
       "odds": 3.49,
-      "patternScore": 67.23,
-      "patternText": "223.887/333.003",
+      "patternScore": 67.24,
+      "patternText": "223.919/333.037",
       "aiScore": 50,
       "picks": 8
     },
@@ -268,7 +268,7 @@
       "matchCode": "4495849",
       "odds": 3.11,
       "patternScore": 66.93,
-      "patternText": "216.711/323.787",
+      "patternText": "216.743/323.821",
       "aiScore": 51,
       "picks": 5
     },
@@ -280,7 +280,7 @@
       "matchCode": "4517730",
       "odds": 1.75,
       "patternScore": 68.17,
-      "patternText": "200.429/294.008",
+      "patternText": "200.461/294.042",
       "aiScore": 53,
       "picks": 5
     },
@@ -291,8 +291,8 @@
       "date": "28.11.2026 14:00",
       "matchCode": "4534809",
       "odds": 1.62,
-      "patternScore": 68.02,
-      "patternText": "318.695/468.508",
+      "patternScore": 68.03,
+      "patternText": "318.771/468.598",
       "aiScore": 53,
       "picks": 7
     },
@@ -303,13 +303,34 @@
       "date": "28.11.2026 14:15",
       "matchCode": "4576105",
       "odds": 1.61,
-      "patternScore": 67.57,
-      "patternText": "262.023/387.763",
+      "patternScore": 67.58,
+      "patternText": "262.059/387.801",
       "aiScore": 55,
       "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Rubin Kazan",
+      "away": "FC Akron Togliatti",
+      "league": "RUS",
+      "at": "28.11.2026 09:44",
+      "count": 8
+    },
+    {
+      "home": "Bandirmaspor",
+      "away": "Batman Petrolspor",
+      "league": "T1L",
+      "at": "28.11.2026 09:42",
+      "count": 3
+    },
+    {
+      "home": "Sivasspor",
+      "away": "Bodrum FK",
+      "league": "T1L",
+      "at": "28.11.2026 09:41",
+      "count": 5
+    },
     {
       "home": "Ascoli Calcio",
       "away": "Virtus Entella",
@@ -358,27 +379,6 @@
       "league": "İS1",
       "at": "28.11.2026 08:35",
       "count": 6
-    },
-    {
-      "home": "Blackburn",
-      "away": "Charlton Athletic",
-      "league": "İNCL",
-      "at": "28.11.2026 08:31",
-      "count": 6
-    },
-    {
-      "home": "Hertha BSC",
-      "away": "Karlsruher SC",
-      "league": "AL2",
-      "at": "28.11.2026 08:27",
-      "count": 16
-    },
-    {
-      "home": "Sivasspor",
-      "away": "Bodrum FK",
-      "league": "T1L",
-      "at": "28.11.2026 07:48",
-      "count": 3
     }
   ],
   "paywall": {
