@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 06:17",
+  "updatedAt": "28.11.2026 06:26",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 505,
       "rate": 68.3
     },
-    "totalAnalyses": 935030,
+    "totalAnalyses": 935036,
     "leagues": 280,
     "pro": {
       "won": 1758,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3214,
-    "analyses30d": 17638
+    "analyses24h": 3206,
+    "analyses30d": 17630
   },
   "recentWins": [
     {
@@ -236,18 +236,30 @@
     }
   ],
   "today": {
-    "home": "Concordia Chia",
-    "away": "Stefanesti",
-    "league": "ROM2",
-    "date": "28.11.2026 09:00",
-    "matchCode": "4513353",
-    "odds": 1.59,
-    "patternScore": 67.68,
-    "patternText": "309.302/457.036",
-    "aiScore": 54,
-    "picks": 3
+    "home": "Dynamo Dresden",
+    "away": "St Pauli",
+    "league": "AL2",
+    "date": "28.11.2026 12:00",
+    "matchCode": "4495849",
+    "odds": 3.11,
+    "patternScore": 66.93,
+    "patternText": "216.627/323.663",
+    "aiScore": 51,
+    "picks": 5
   },
   "todayList": [
+    {
+      "home": "Dynamo Dresden",
+      "away": "St Pauli",
+      "league": "AL2",
+      "date": "28.11.2026 12:00",
+      "matchCode": "4495849",
+      "odds": 3.11,
+      "patternScore": 66.93,
+      "patternText": "216.627/323.663",
+      "aiScore": 51,
+      "picks": 5
+    },
     {
       "home": "Concordia Chia",
       "away": "Stefanesti",
@@ -256,7 +268,7 @@
       "matchCode": "4513353",
       "odds": 1.59,
       "patternScore": 67.68,
-      "patternText": "309.302/457.036",
+      "patternText": "309.334/457.068",
       "aiScore": 54,
       "picks": 3
     },
@@ -267,8 +279,8 @@
       "date": "28.11.2026 10:30",
       "matchCode": "4542292",
       "odds": 1.49,
-      "patternScore": 67.35,
-      "patternText": "298.396/443.030",
+      "patternScore": 67.36,
+      "patternText": "298.428/443.062",
       "aiScore": 57,
       "picks": 2
     },
@@ -280,7 +292,7 @@
       "matchCode": "4564536",
       "odds": 1.41,
       "patternScore": 68.08,
-      "patternText": "285.672/419.612",
+      "patternText": "285.712/419.652",
       "aiScore": 56,
       "picks": 2
     },
@@ -292,21 +304,9 @@
       "matchCode": "4487286",
       "odds": 1.4,
       "patternScore": 68.11,
-      "patternText": "270.916/397.751",
+      "patternText": "270.948/397.783",
       "aiScore": 55,
       "picks": 6
-    },
-    {
-      "home": "Bate Borisov",
-      "away": "Isloch",
-      "league": "BLR",
-      "date": "28.11.2026 10:00",
-      "matchCode": "4454489",
-      "odds": 1.34,
-      "patternScore": 69.26,
-      "patternText": "296.695/428.349",
-      "aiScore": 59,
-      "picks": 3
     }
   ],
   "recentAnalyzed": [
