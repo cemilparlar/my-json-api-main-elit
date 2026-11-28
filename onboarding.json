@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 00:52",
+  "updatedAt": "28.11.2026 01:01",
   "config": {
     "pages": [
       "engine",
@@ -22,23 +22,23 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 287,
-      "lost": 132,
-      "total": 419,
-      "rate": 68.5
+      "won": 290,
+      "lost": 134,
+      "total": 424,
+      "rate": 68.4
     },
-    "totalAnalyses": 934727,
+    "totalAnalyses": 934729,
     "leagues": 280,
     "pro": {
-      "won": 1764,
-      "lost": 676,
-      "total": 2440,
+      "won": 1769,
+      "lost": 678,
+      "total": 2447,
       "rate": 72.3
     },
     "insights": {
-      "won": 2910,
+      "won": 2909,
       "lost": 1206,
-      "total": 4116,
+      "total": 4115,
       "rate": 70.7
     },
     "coupons": {
@@ -47,7 +47,7 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3183,
+    "analyses24h": 3178,
     "analyses30d": 17593
   },
   "recentWins": [
@@ -200,12 +200,6 @@
     },
     {
       "type": "updated",
-      "at": "27.11.2026 18:55",
-      "home": "CD Leganes",
-      "away": "CE Sabadell"
-    },
-    {
-      "type": "updated",
       "at": "27.11.2026 19:01",
       "home": "OH Leuven",
       "away": "KV Kortrijk"
@@ -233,6 +227,12 @@
       "at": "27.11.2026 20:54",
       "home": "Atlanta",
       "away": "Ciudad De Bolív"
+    },
+    {
+      "type": "updated",
+      "at": "27.11.2026 19:56",
+      "home": "Independiente del Valle",
+      "away": "Real Oruro"
     }
   ],
   "today": {
@@ -243,7 +243,7 @@
     "matchCode": "4581755",
     "odds": 3.24,
     "patternScore": 67.36,
-    "patternText": "269.194/399.643",
+    "patternText": "269.198/399.647",
     "aiScore": 50,
     "picks": 9
   },
@@ -256,7 +256,7 @@
       "matchCode": "4581755",
       "odds": 3.24,
       "patternScore": 67.36,
-      "patternText": "269.194/399.643",
+      "patternText": "269.198/399.647",
       "aiScore": 50,
       "picks": 9
     },
@@ -280,7 +280,7 @@
       "matchCode": "4487701",
       "odds": 1.32,
       "patternScore": 68.27,
-      "patternText": "266.890/390.928",
+      "patternText": "266.894/390.932",
       "aiScore": 57,
       "picks": 2
     },
@@ -292,7 +292,7 @@
       "matchCode": "4580557",
       "odds": 1.31,
       "patternScore": 68.8,
-      "patternText": "313.628/455.854",
+      "patternText": "313.632/455.858",
       "aiScore": 60,
       "picks": 3
     },
@@ -303,8 +303,8 @@
       "date": "28.11.2026 02:00",
       "matchCode": "4487124",
       "odds": 1.25,
-      "patternScore": 68.84,
-      "patternText": "313.766/455.758",
+      "patternScore": 68.85,
+      "patternText": "313.770/455.762",
       "aiScore": 66,
       "picks": 1
     }
