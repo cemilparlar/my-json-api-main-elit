@@ -447,7 +447,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "27.11.2026 17:30",
@@ -762,7 +762,7 @@
         "odds": "1.12",
         "matchCount": "114",
         "matchLink": "4481949",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "0-2",
         "predictedScoreText": "12/114",
         "mbs": 2,
@@ -777,7 +777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "27.11.2026 19:00",
@@ -792,7 +792,7 @@
         "odds": "1.07",
         "matchCount": "114",
         "matchLink": "4481949",
-        "status": "Pending",
+        "status": "HATA",
         "predictedScore": "0-2",
         "predictedScoreText": "12/114",
         "mbs": 2,
@@ -837,7 +837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "27.11.2026 19:00",
@@ -1081,66 +1081,6 @@
     },
     {
         "date": "28.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487701",
-        "home": "Omiya Ardija",
-        "away": "FC Imabari",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "85.71",
-        "odds": "1.06",
-        "matchCount": "42",
-        "matchLink": "4487701",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/42",
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 71.82,
-        "patternText": "254.549/354.450",
-        "patternInfo": {
-            "m": 85,
-            "s": 14,
-            "f": 5,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 99
-    },
-    {
-        "date": "28.11.2026 05:00",
-        "league": "JAP2",
-        "matchCode": "4487701",
-        "home": "Omiya Ardija",
-        "away": "FC Imabari",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Under 4.5 Goals",
-        "ihtimal": "80.95",
-        "odds": "1.07",
-        "matchCount": "42",
-        "matchLink": "4487701",
-        "status": "Pending",
-        "predictedScore": "2-1",
-        "predictedScoreText": "7/42",
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.46,
-        "patternText": "187.765/266.502",
-        "patternInfo": {
-            "m": 67,
-            "s": 13,
-            "f": 8,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 98
-    },
-    {
-        "date": "28.11.2026 05:00",
         "league": "GKOR",
         "matchCode": "4580572",
         "home": "FC Anyang",
@@ -1168,186 +1108,6 @@
             "b": 100.0
         },
         "aiScore": 62
-    },
-    {
-        "date": "28.11.2026 06:00",
-        "league": "JAP",
-        "matchCode": "4487293",
-        "home": "Vissel Kobe",
-        "away": "JEF United Chiba",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "78.57142857142857",
-        "odds": "1.26",
-        "matchCount": "14",
-        "matchLink": "4487293",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.22,
-        "patternText": "278.686/408.512",
-        "patternInfo": {
-            "m": 59,
-            "s": 6,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 65
-    },
-    {
-        "date": "28.11.2026 06:00",
-        "league": "JAP",
-        "matchCode": "4487293",
-        "home": "Vissel Kobe",
-        "away": "JEF United Chiba",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Over 1.5 Goals",
-        "ihtimal": "71.43",
-        "odds": "1.12",
-        "matchCount": "14",
-        "matchLink": "4487293",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.13,
-        "patternText": "322.277/466.197",
-        "patternInfo": {
-            "m": 75,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 74
-    },
-    {
-        "date": "28.11.2026 06:00",
-        "league": "JAP",
-        "matchCode": "4487293",
-        "home": "Vissel Kobe",
-        "away": "JEF United Chiba",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "1st Half Over 0.5",
-        "ihtimal": "71.43",
-        "odds": "1.21",
-        "matchCount": "14",
-        "matchLink": "4487293",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.33,
-        "patternText": "309.840/453.464",
-        "patternInfo": {
-            "m": 77,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 67
-    },
-    {
-        "date": "28.11.2026 06:00",
-        "league": "JAP",
-        "matchCode": "4487284",
-        "home": "Kashima Antlers",
-        "away": "Fagiano Okayama",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Double Chance 12",
-        "ihtimal": "76.47",
-        "odds": "1.14",
-        "matchCount": "17",
-        "matchLink": "4487284",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 70.02,
-        "patternText": "374.450/534.742",
-        "patternInfo": {
-            "m": 91,
-            "s": 3,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 75
-    },
-    {
-        "date": "28.11.2026 06:00",
-        "league": "JAP",
-        "matchCode": "4487284",
-        "home": "Kashima Antlers",
-        "away": "Fagiano Okayama",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (0:2) 2",
-        "ihtimal": "70.58823529411765",
-        "odds": "1.16",
-        "matchCount": "17",
-        "matchLink": "4487284",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 68.65,
-        "patternText": "282.927/412.124",
-        "patternInfo": {
-            "m": 71,
-            "s": 5,
-            "f": 2,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 69
-    },
-    {
-        "date": "28.11.2026 06:00",
-        "league": "JAP",
-        "matchCode": "4487284",
-        "home": "Kashima Antlers",
-        "away": "Fagiano Okayama",
-        "firstHalf": "-",
-        "finalScore": "-",
-        "prediction": "Handicap (1:0) 1",
-        "ihtimal": "76.47058823529412",
-        "odds": "1.06",
-        "matchCount": "17",
-        "matchLink": "4487284",
-        "status": "Pending",
-        "predictedScore": null,
-        "predictedScoreText": null,
-        "mbs": 2,
-        "tahminUpdated": false,
-        "tahminUpdatedAt": null,
-        "patternScore": 69.13,
-        "patternText": "296.482/428.893",
-        "patternInfo": {
-            "m": 74,
-            "s": 4,
-            "f": 1,
-            "e": 85,
-            "b": 100.0
-        },
-        "aiScore": 81
     },
     {
         "date": "28.11.2026 07:00",
@@ -1527,7 +1287,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "28.11.2026 07:30",
@@ -1977,7 +1737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "28.11.2026 09:00",
@@ -2877,7 +2637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "28.11.2026 09:00",
@@ -3507,7 +3267,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "28.11.2026 12:30",
@@ -4137,7 +3897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "28.11.2026 13:00",
@@ -5637,7 +5397,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "28.11.2026 13:30",
@@ -5697,7 +5457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "28.11.2026 13:45",
@@ -5817,7 +5577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "28.11.2026 14:00",
@@ -6297,7 +6057,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 71
+        "aiScore": 72
     },
     {
         "date": "28.11.2026 12:00",
@@ -6867,7 +6627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "28.11.2026 14:00",
@@ -7017,7 +6777,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "28.11.2026 14:15",
@@ -7107,7 +6867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "28.11.2026 14:20",
@@ -7587,7 +7347,7 @@
             "e": 85,
             "b": 86.36
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "28.11.2026 11:00",
@@ -7617,7 +7377,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "28.11.2026 11:00",
@@ -10257,7 +10017,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "28.11.2026 15:00",
@@ -10317,7 +10077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "28.11.2026 15:00",
@@ -10347,7 +10107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 76
+        "aiScore": 77
     },
     {
         "date": "28.11.2026 15:00",
@@ -10617,7 +10377,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "28.11.2026 15:00",
@@ -11187,7 +10947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "28.11.2026 15:00",
@@ -12447,7 +12207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "26.11.2026 20:00",
@@ -13707,7 +13467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "28.11.2026 15:30",
@@ -13977,7 +13737,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 51
+        "aiScore": 52
     },
     {
         "date": "28.11.2026 16:00",
@@ -14397,7 +14157,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "28.11.2026 16:00",
@@ -14697,7 +14457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "28.11.2026 16:00",
@@ -16197,7 +15957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 73
+        "aiScore": 74
     },
     {
         "date": "28.11.2026 17:00",
@@ -16227,7 +15987,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "28.11.2026 17:00",
@@ -17187,7 +16947,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "28.11.2026 17:45",
@@ -17337,7 +17097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 97
+        "aiScore": 96
     },
     {
         "date": "28.11.2026 17:45",
@@ -18477,7 +18237,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 82
+        "aiScore": 81
     },
     {
         "date": "26.11.2026 20:00",
@@ -18657,7 +18417,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "26.11.2026 20:00",
@@ -18867,7 +18627,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "26.11.2026 20:00",
@@ -19287,7 +19047,7 @@
             "e": 85,
             "b": 87.5
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "26.11.2026 20:00",
@@ -21237,7 +20997,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "29.11.2026 01:30",
@@ -22167,7 +21927,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "29.11.2026 05:00",
@@ -22317,7 +22077,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "29.11.2026 05:00",
@@ -22887,7 +22647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 59
+        "aiScore": 60
     },
     {
         "date": "29.11.2026 05:00",
@@ -23817,7 +23577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 98
+        "aiScore": 97
     },
     {
         "date": "29.11.2026 11:00",
@@ -24567,7 +24327,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "29.11.2026 11:30",
@@ -25077,7 +24837,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "29.11.2026 11:30",
@@ -25107,7 +24867,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 98
     },
     {
         "date": "29.11.2026 12:00",
@@ -25887,7 +25647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "29.11.2026 13:00",
@@ -26007,7 +25767,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "29.11.2026 13:00",
@@ -26157,7 +25917,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "29.11.2026 13:00",
@@ -26337,7 +26097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "29.11.2026 13:00",
@@ -27687,7 +27447,7 @@
             "e": 85,
             "b": 85.71
         },
-        "aiScore": 60
+        "aiScore": 61
     },
     {
         "date": "29.11.2026 13:30",
@@ -27927,7 +27687,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "29.11.2026 13:30",
@@ -28857,7 +28617,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "29.11.2026 14:00",
@@ -29367,7 +29127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "29.11.2026 14:05",
@@ -30777,7 +30537,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 72
+        "aiScore": 73
     },
     {
         "date": "29.11.2026 16:00",
@@ -31347,7 +31107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 93
+        "aiScore": 92
     },
     {
         "date": "29.11.2026 16:30",
@@ -31467,7 +31227,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "29.11.2026 16:30",
@@ -31587,7 +31347,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 92
+        "aiScore": 91
     },
     {
         "date": "29.11.2026 16:30",
@@ -31827,7 +31587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 95
+        "aiScore": 94
     },
     {
         "date": "29.11.2026 17:00",
@@ -31887,7 +31647,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 80
+        "aiScore": 81
     },
     {
         "date": "29.11.2026 17:00",
@@ -32397,7 +32157,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "29.11.2026 18:00",
@@ -32697,7 +32457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 53
+        "aiScore": 54
     },
     {
         "date": "29.11.2026 18:30",
@@ -32787,7 +32547,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 58
+        "aiScore": 59
     },
     {
         "date": "29.11.2026 18:30",
@@ -33027,7 +32787,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 84
+        "aiScore": 83
     },
     {
         "date": "29.11.2026 19:00",
@@ -33057,7 +32817,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "29.11.2026 19:00",
@@ -34137,7 +33897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "29.11.2026 20:00",
@@ -34707,7 +34467,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 86
+        "aiScore": 85
     },
     {
         "date": "29.11.2026 21:30",
@@ -35397,7 +35157,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 91
+        "aiScore": 90
     },
     {
         "date": "30.11.2026 14:00",
@@ -35817,7 +35577,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "30.11.2026 16:30",
@@ -35877,7 +35637,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "30.11.2026 16:30",
@@ -36357,7 +36117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 50
+        "aiScore": 51
     },
     {
         "date": "30.11.2026 18:00",
@@ -36387,7 +36147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 66
+        "aiScore": 67
     },
     {
         "date": "30.11.2026 18:00",
@@ -37677,7 +37437,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "27.11.2026 08:40",
@@ -37947,7 +37707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "29.11.2026 11:00",
@@ -38337,7 +38097,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "28.11.2026 12:30",
@@ -38427,7 +38187,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 89
+        "aiScore": 88
     },
     {
         "date": "27.11.2026 12:30",
@@ -38487,7 +38247,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 57
+        "aiScore": 58
     },
     {
         "date": "28.11.2026 15:00",
@@ -38727,7 +38487,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 68
+        "aiScore": 69
     },
     {
         "date": "27.11.2026 11:00",
@@ -39357,7 +39117,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 75
+        "aiScore": 76
     },
     {
         "date": "27.11.2026 17:00",
@@ -40137,7 +39897,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 63
+        "aiScore": 64
     },
     {
         "date": "28.11.2026 15:00",
@@ -40437,7 +40197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "27.11.2026 17:00",
@@ -40587,7 +40347,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "27.11.2026 18:30",
@@ -40677,7 +40437,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 61
+        "aiScore": 62
     },
     {
         "date": "28.11.2026 11:30",
@@ -40827,7 +40587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 98
     },
     {
         "date": "28.11.2026 13:00",
@@ -42207,7 +41967,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "27.11.2026 21:00",
@@ -42387,7 +42147,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 56
+        "aiScore": 57
     },
     {
         "date": "30.11.2026 01:07",
@@ -42447,7 +42207,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "30.11.2026 01:07",
@@ -42597,7 +42357,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 54
+        "aiScore": 55
     },
     {
         "date": "30.11.2026 01:07",
@@ -42957,7 +42717,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 87
+        "aiScore": 86
     },
     {
         "date": "27.11.2026 17:30",
@@ -42987,7 +42747,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 96
+        "aiScore": 95
     },
     {
         "date": "27.11.2026 17:30",
@@ -43197,7 +42957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 88
+        "aiScore": 87
     },
     {
         "date": "27.11.2026 18:00",
@@ -43377,7 +43137,7 @@
             "e": 85,
             "b": 92.31
         },
-        "aiScore": 78
+        "aiScore": 79
     },
     {
         "date": "27.11.2026 19:45",
@@ -43437,7 +43197,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 94
+        "aiScore": 93
     },
     {
         "date": "27.11.2026 20:00",
@@ -43617,7 +43377,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 85
+        "aiScore": 84
     },
     {
         "date": "27.11.2026 20:15",
@@ -43947,7 +43707,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 65
+        "aiScore": 66
     },
     {
         "date": "27.11.2026 20:00",
@@ -44367,7 +44127,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 62
+        "aiScore": 63
     },
     {
         "date": "28.11.2026 18:30",
@@ -44697,7 +44457,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 99
+        "aiScore": 98
     },
     {
         "date": "27.11.2026 19:00",
@@ -45717,7 +45477,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 55
+        "aiScore": 56
     },
     {
         "date": "28.11.2026 19:45",
@@ -46197,7 +45957,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 67
+        "aiScore": 68
     },
     {
         "date": "27.11.2026 19:45",
@@ -46347,7 +46107,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 90
+        "aiScore": 89
     },
     {
         "date": "27.11.2026 20:00",
@@ -46663,8 +46423,8 @@
         "matchCount": "83",
         "matchLink": "4487124",
         "status": "Pending",
-        "predictedScore": "1-1",
-        "predictedScoreText": "9/33",
+        "predictedScore": "2-2",
+        "predictedScoreText": "5/28",
         "mbs": 3,
         "tahminUpdated": true,
         "tahminUpdatedAt": "27.11.2026 20:14",
@@ -46677,7 +46437,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 64
+        "aiScore": 65
     },
     {
         "date": "27.11.2026 22:00",
@@ -46685,14 +46445,14 @@
         "matchCode": "4581052",
         "home": "Atlanta",
         "away": "Ciudad De Bolív",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
         "prediction": "Double Chance 1X",
         "ihtimal": "80.39",
         "odds": "1.08",
         "matchCount": "51",
         "matchLink": "4581052",
-        "status": "Pending",
+        "status": "Lost",
         "predictedScore": "1-1",
         "predictedScoreText": "9/51",
         "mbs": 3,
@@ -46715,14 +46475,14 @@
         "matchCode": "4581052",
         "home": "Atlanta",
         "away": "Ciudad De Bolív",
-        "firstHalf": "-",
-        "finalScore": "-",
+        "firstHalf": "0 - 1",
+        "finalScore": "0 - 1",
         "prediction": "1st Half Double Chance X2",
         "ihtimal": "82.35",
         "odds": "1.17",
         "matchCount": "51",
         "matchLink": "4581052",
-        "status": "Pending",
+        "status": "Won",
         "predictedScore": "1-1",
         "predictedScoreText": "9/51",
         "mbs": 3,
@@ -46827,7 +46587,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 100
+        "aiScore": 99
     },
     {
         "date": "28.11.2026 12:30",
@@ -47517,7 +47277,7 @@
             "e": 85,
             "b": 100.0
         },
-        "aiScore": 69
+        "aiScore": 70
     },
     {
         "date": "28.11.2026 04:00",
@@ -47968,5 +47728,392 @@
             "b": 100.0
         },
         "aiScore": 82
+    },
+    {
+        "date": "28.11.2026 05:00",
+        "league": "JAP2",
+        "matchCode": "4487701",
+        "home": "Omiya Ardija",
+        "away": "FC Imabari",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 2.5 Goals",
+        "ihtimal": "79.55",
+        "odds": "1.32",
+        "matchCount": "44",
+        "matchLink": "4487701",
+        "status": "Pending",
+        "predictedScore": "2-2",
+        "predictedScoreText": "7/44",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 00:07",
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 72
+    },
+    {
+        "date": "28.11.2026 05:00",
+        "league": "JAP2",
+        "matchCode": "4487701",
+        "home": "Omiya Ardija",
+        "away": "FC Imabari",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Under 4.5 Goals",
+        "ihtimal": "79.55",
+        "odds": "1.08",
+        "matchCount": "44",
+        "matchLink": "4487701",
+        "status": "Pending",
+        "predictedScore": "2-2",
+        "predictedScoreText": "7/44",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 00:07",
+        "patternScore": 70.46,
+        "patternText": "187.765/266.502",
+        "patternInfo": {
+            "m": 67,
+            "s": 13,
+            "f": 8,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 96
+    },
+    {
+        "date": "28.11.2026 06:00",
+        "league": "JAP",
+        "matchCode": "4487293",
+        "home": "Vissel Kobe",
+        "away": "JEF United Chiba",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.10",
+        "matchCount": "7",
+        "matchLink": "4487293",
+        "status": "Pending",
+        "predictedScore": "1-3",
+        "predictedScoreText": "2/7",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 00:08",
+        "patternScore": 70.22,
+        "patternText": "386.297/550.143",
+        "patternInfo": {
+            "m": 84,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 94.44
+        },
+        "aiScore": 97
+    },
+    {
+        "date": "28.11.2026 06:00",
+        "league": "JAP",
+        "matchCode": "4487293",
+        "home": "Vissel Kobe",
+        "away": "JEF United Chiba",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "71.42857142857143",
+        "odds": "1.25",
+        "matchCount": "7",
+        "matchLink": "4487293",
+        "status": "Pending",
+        "predictedScore": "1-3",
+        "predictedScoreText": "2/7",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 00:08",
+        "patternScore": 68.22,
+        "patternText": "278.686/408.512",
+        "patternInfo": {
+            "m": 59,
+            "s": 6,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 64
+    },
+    {
+        "date": "28.11.2026 06:00",
+        "league": "JAP",
+        "matchCode": "4487293",
+        "home": "Vissel Kobe",
+        "away": "JEF United Chiba",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.11",
+        "matchCount": "7",
+        "matchLink": "4487293",
+        "status": "Pending",
+        "predictedScore": "1-3",
+        "predictedScoreText": "2/7",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 00:08",
+        "patternScore": 69.13,
+        "patternText": "322.277/466.197",
+        "patternInfo": {
+            "m": 75,
+            "s": 3,
+            "f": 1,
+            "e": 85,
+            "b": 100.0
+        },
+        "aiScore": 95
+    },
+    {
+        "date": "28.11.2026 06:00",
+        "league": "JAP",
+        "matchCode": "4487293",
+        "home": "Vissel Kobe",
+        "away": "JEF United Chiba",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 2.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.60",
+        "matchCount": "7",
+        "matchLink": "4487293",
+        "status": "Pending",
+        "predictedScore": "1-3",
+        "predictedScoreText": "2/7",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 00:08",
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 57
+    },
+    {
+        "date": "28.11.2026 06:00",
+        "league": "JAP",
+        "matchCode": "4487284",
+        "home": "Kashima Antlers",
+        "away": "Fagiano Okayama",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Double Chance 1X",
+        "ihtimal": "90.91",
+        "odds": "1.08",
+        "matchCount": "11",
+        "matchLink": "4487284",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "2/11",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 00:08",
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 99
+    },
+    {
+        "date": "28.11.2026 06:00",
+        "league": "JAP",
+        "matchCode": "4487284",
+        "home": "Kashima Antlers",
+        "away": "Fagiano Okayama",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 1.5 Goals",
+        "ihtimal": "72.73",
+        "odds": "1.13",
+        "matchCount": "11",
+        "matchLink": "4487284",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "2/11",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 00:08",
+        "patternScore": 69.69,
+        "patternText": "209.604/300.755",
+        "patternInfo": {
+            "m": 83,
+            "s": 2,
+            "f": 0,
+            "e": 85,
+            "b": 87.5
+        },
+        "aiScore": 74
+    },
+    {
+        "date": "28.11.2026 06:00",
+        "league": "JAP",
+        "matchCode": "4487284",
+        "home": "Kashima Antlers",
+        "away": "Fagiano Okayama",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Over 0.5",
+        "ihtimal": "81.82",
+        "odds": "1.21",
+        "matchCount": "11",
+        "matchLink": "4487284",
+        "status": "Pending",
+        "predictedScore": "1-0",
+        "predictedScoreText": "2/11",
+        "mbs": 2,
+        "tahminUpdated": true,
+        "tahminUpdatedAt": "28.11.2026 00:08",
+        "patternScore": 68.83,
+        "patternText": "193.385/280.955",
+        "patternInfo": {
+            "m": 77,
+            "s": 1,
+            "f": 0,
+            "e": 85,
+            "b": 85.0
+        },
+        "aiScore": 66
+    },
+    {
+        "date": "28.11.2026 17:45",
+        "league": "HOL",
+        "matchCode": "4481607",
+        "home": "PSV Eindhoven",
+        "away": "Go Ahead Eagles",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Match Result 1",
+        "ihtimal": "100.0",
+        "odds": "1.08",
+        "matchCount": "1",
+        "matchLink": "4481607",
+        "status": "Pending",
+        "predictedScore": "3-2",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 99
+    },
+    {
+        "date": "28.11.2026 17:45",
+        "league": "HOL",
+        "matchCode": "4481607",
+        "home": "PSV Eindhoven",
+        "away": "Go Ahead Eagles",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Handicap (0:2) 2",
+        "ihtimal": "100.0",
+        "odds": "2.09",
+        "matchCount": "1",
+        "matchLink": "4481607",
+        "status": "Pending",
+        "predictedScore": "3-2",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 51
+    },
+    {
+        "date": "28.11.2026 17:45",
+        "league": "HOL",
+        "matchCode": "4481607",
+        "home": "PSV Eindhoven",
+        "away": "Go Ahead Eagles",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Over 3.5 Goals",
+        "ihtimal": "100.0",
+        "odds": "1.36",
+        "matchCount": "1",
+        "matchLink": "4481607",
+        "status": "Pending",
+        "predictedScore": "3-2",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 64
+    },
+    {
+        "date": "28.11.2026 17:45",
+        "league": "HOL",
+        "matchCode": "4481607",
+        "home": "PSV Eindhoven",
+        "away": "Go Ahead Eagles",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "Both Teams to Score - Yes",
+        "ihtimal": "100.0",
+        "odds": "1.35",
+        "matchCount": "1",
+        "matchLink": "4481607",
+        "status": "Pending",
+        "predictedScore": "3-2",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 65
+    },
+    {
+        "date": "28.11.2026 17:45",
+        "league": "HOL",
+        "matchCode": "4481607",
+        "home": "PSV Eindhoven",
+        "away": "Go Ahead Eagles",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance 12",
+        "ihtimal": "100.0",
+        "odds": "1.14",
+        "matchCount": "1",
+        "matchLink": "4481607",
+        "status": "Pending",
+        "predictedScore": "3-2",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 99
+    },
+    {
+        "date": "28.11.2026 17:45",
+        "league": "HOL",
+        "matchCode": "4481607",
+        "home": "PSV Eindhoven",
+        "away": "Go Ahead Eagles",
+        "firstHalf": "-",
+        "finalScore": "-",
+        "prediction": "1st Half Double Chance X2",
+        "ihtimal": "100.0",
+        "odds": "2.16",
+        "matchCount": "1",
+        "matchLink": "4481607",
+        "status": "Pending",
+        "predictedScore": "3-2",
+        "predictedScoreText": "1/1",
+        "mbs": 1,
+        "tahminUpdated": false,
+        "tahminUpdatedAt": null,
+        "patternScore": null,
+        "patternText": null,
+        "aiScore": 50
     }
 ]
