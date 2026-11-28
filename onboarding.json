@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 08:41",
+  "updatedAt": "28.11.2026 08:51",
   "config": {
     "pages": [
       "engine",
@@ -27,7 +27,7 @@
       "total": 532,
       "rate": 68.6
     },
-    "totalAnalyses": 935711,
+    "totalAnalyses": 935749,
     "leagues": 280,
     "pro": {
       "won": 1757,
@@ -47,8 +47,8 @@
       "total": 19,
       "rate": 36.8
     },
-    "analyses24h": 3237,
-    "analyses30d": 17669
+    "analyses24h": 3243,
+    "analyses30d": 17675
   },
   "recentWins": [
     {
@@ -261,30 +261,6 @@
       "picks": 5
     },
     {
-      "home": "UD Las Palmas",
-      "away": "FC Andorra",
-      "league": "İS2",
-      "date": "28.11.2026 13:00",
-      "matchCode": "4492847",
-      "odds": 2.43,
-      "patternScore": 67.78,
-      "patternText": "306.528/452.255",
-      "aiScore": 51,
-      "picks": 8
-    },
-    {
-      "home": "Real Betis",
-      "away": "Rayo Vallecano",
-      "league": "İS1",
-      "date": "28.11.2026 13:00",
-      "matchCode": "4492389",
-      "odds": 2.04,
-      "patternScore": 67.23,
-      "patternText": "322.168/479.226",
-      "aiScore": 52,
-      "picks": 9
-    },
-    {
       "home": "Wurzburger Kic",
       "away": "Fortuna Dusseldorf",
       "league": "AL3",
@@ -307,9 +283,61 @@
       "patternText": "262.017/387.747",
       "aiScore": 55,
       "picks": 3
+    },
+    {
+      "home": "Hamburger Sv U",
+      "away": "Magdeburg U19",
+      "league": "ALU19",
+      "date": "28.11.2026 10:30",
+      "matchCode": "4542292",
+      "odds": 1.49,
+      "patternScore": 67.36,
+      "patternText": "298.578/443.258",
+      "aiScore": 57,
+      "picks": 2
+    },
+    {
+      "home": "Lucko",
+      "away": "Bjelovar",
+      "league": "HIR2NL",
+      "date": "28.11.2026 12:30",
+      "matchCode": "4527333",
+      "odds": 1.46,
+      "patternScore": 68.23,
+      "patternText": "282.168/413.542",
+      "aiScore": 55,
+      "picks": 3
     }
   ],
   "recentAnalyzed": [
+    {
+      "home": "Carrarese Calcio",
+      "away": "SS Juve Stabia",
+      "league": "İTB",
+      "at": "28.11.2026 08:52",
+      "count": 8
+    },
+    {
+      "home": "Frosinone Calcio",
+      "away": "Parma Calcio",
+      "league": "İTA",
+      "at": "28.11.2026 08:50",
+      "count": 6
+    },
+    {
+      "home": "Empoli",
+      "away": "Verona",
+      "league": "İTB",
+      "at": "28.11.2026 08:49",
+      "count": 7
+    },
+    {
+      "home": "CSKA Moscow",
+      "away": "Zenit St. Petersburg",
+      "league": "RUS",
+      "at": "28.11.2026 08:42",
+      "count": 4
+    },
     {
       "home": "UD Las Palmas",
       "away": "FC Andorra",
@@ -351,34 +379,6 @@
       "league": "İNCL",
       "at": "28.11.2026 06:54",
       "count": 6
-    },
-    {
-      "home": "Holstein Kiel",
-      "away": "Kaiserslautern",
-      "league": "AL2",
-      "at": "28.11.2026 06:11",
-      "count": 5
-    },
-    {
-      "home": "Dynamo Dresden",
-      "away": "St Pauli",
-      "league": "AL2",
-      "at": "28.11.2026 06:08",
-      "count": 9
-    },
-    {
-      "home": "Rubin Kazan",
-      "away": "FC Akron Togliatti",
-      "league": "RUS",
-      "at": "28.11.2026 05:09",
-      "count": 7
-    },
-    {
-      "home": "Bandirmaspor",
-      "away": "Batman Petrolspor",
-      "league": "T1L",
-      "at": "28.11.2026 04:56",
-      "count": 3
     }
   ],
   "paywall": {
