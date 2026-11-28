@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "28.11.2026 10:35",
+  "updatedAt": "28.11.2026 10:48",
   "config": {
     "pages": [
       "engine",
@@ -22,33 +22,33 @@
   "stats": {
     "days": 7,
     "last24h": {
-      "won": 380,
-      "lost": 172,
-      "total": 552,
-      "rate": 68.8
+      "won": 387,
+      "lost": 175,
+      "total": 562,
+      "rate": 68.9
     },
-    "totalAnalyses": 936072,
+    "totalAnalyses": 936164,
     "leagues": 280,
     "pro": {
-      "won": 1743,
-      "lost": 674,
-      "total": 2417,
+      "won": 1747,
+      "lost": 676,
+      "total": 2423,
       "rate": 72.1
     },
     "insights": {
-      "won": 2866,
-      "lost": 1178,
-      "total": 4044,
+      "won": 2872,
+      "lost": 1181,
+      "total": 4053,
       "rate": 70.9
     },
     "coupons": {
       "won": 7,
-      "lost": 12,
-      "total": 19,
-      "rate": 36.8
+      "lost": 11,
+      "total": 18,
+      "rate": 38.9
     },
-    "analyses24h": 3250,
-    "analyses30d": 17678
+    "analyses24h": 3274,
+    "analyses30d": 17702
   },
   "recentWins": [
     {
@@ -311,18 +311,53 @@
   ],
   "recentAnalyzed": [
     {
-      "home": "Rubin Kazan",
-      "away": "FC Akron Togliatti",
-      "league": "RUS",
-      "at": "28.11.2026 10:29",
-      "count": 6
+      "home": "Hamburger SV",
+      "away": "Bayern Munich",
+      "league": "AL1",
+      "at": "28.11.2026 10:45",
+      "count": 15
+    },
+    {
+      "home": "SC Paderborn",
+      "away": "FC Schalke 04",
+      "league": "AL1",
+      "at": "28.11.2026 10:44",
+      "count": 10
     },
     {
       "home": "FC Koln",
       "away": "SV Elversberg",
       "league": "AL1",
-      "at": "28.11.2026 10:00",
-      "count": 4
+      "at": "28.11.2026 10:44",
+      "count": 9
+    },
+    {
+      "home": "CSKA Moscow",
+      "away": "Zenit St. Petersburg",
+      "league": "RUS",
+      "at": "28.11.2026 10:43",
+      "count": 6
+    },
+    {
+      "home": "Real Betis",
+      "away": "Rayo Vallecano",
+      "league": "İS1",
+      "at": "28.11.2026 10:41",
+      "count": 5
+    },
+    {
+      "home": "Dynamo Dresden",
+      "away": "St Pauli",
+      "league": "AL2",
+      "at": "28.11.2026 10:37",
+      "count": 6
+    },
+    {
+      "home": "Rubin Kazan",
+      "away": "FC Akron Togliatti",
+      "league": "RUS",
+      "at": "28.11.2026 10:29",
+      "count": 6
     },
     {
       "home": "Ascoli Calcio",
@@ -344,41 +379,6 @@
       "league": "İS2",
       "at": "28.11.2026 09:55",
       "count": 7
-    },
-    {
-      "home": "Real Betis",
-      "away": "Rayo Vallecano",
-      "league": "İS1",
-      "at": "28.11.2026 09:54",
-      "count": 3
-    },
-    {
-      "home": "Lincoln City",
-      "away": "Wolverhampton Wanderers",
-      "league": "İNCL",
-      "at": "28.11.2026 09:50",
-      "count": 14
-    },
-    {
-      "home": "Bandirmaspor",
-      "away": "Batman Petrolspor",
-      "league": "T1L",
-      "at": "28.11.2026 09:42",
-      "count": 3
-    },
-    {
-      "home": "Sivasspor",
-      "away": "Bodrum FK",
-      "league": "T1L",
-      "at": "28.11.2026 09:41",
-      "count": 5
-    },
-    {
-      "home": "Carrarese Calcio",
-      "away": "SS Juve Stabia",
-      "league": "İTB",
-      "at": "28.11.2026 08:52",
-      "count": 8
     }
   ],
   "paywall": {
